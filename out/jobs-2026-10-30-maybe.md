@@ -79,12 +79,13 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 73 | Boston Medical Center | Research Assistant | 45 | 18 in data/analytics/finance occupations | Oct 30 (board gives the date only) |
 | 74 | DXC Technology | Snowflake Data Engineer | 44 | 12 in data/analytics/finance occupations | Oct 29 (board gives the date only) |
 | 75 | Goodwin | Data Engineer | 44 | 1 in data/analytics/finance occupations | Oct 30 (board gives the date only) |
-| 76 | Amcor | Applied AI Engineer | 43 | 2 in data/analytics/finance occupations | Oct 29 (board gives the date only) |
-| 77 | Dentsu | Data Engineer | 43 | 12 in data/analytics/finance occupations | Oct 30 (board gives the date only) |
-| 78 | eBay | AI Analytics Engineer - Traffic | 43 | 99 in data/analytics/finance occupations | Oct 29 (board gives the date only) |
-| 79 | C.H. Robinson | Intermodal Pricing Analyst | 40 | 2 in data/analytics/finance occupations | Oct 29 (board gives the date only) |
-| 80 | Stanley Black & Decker | Customer Pricing Analyst | 40 | 9 in data/analytics/finance occupations | Oct 29 (board gives the date only) |
-| 81 | William & Mary | AidData Research Data Associate | 40 | none found (check myvisajobs) | Oct 29 (board gives the date only) |
+| 76 | Tiger Analytics Inc. | Azure Data Engineer | 44 | 269 in data/analytics/finance occupations | Oct 30 (board gives the date only) |
+| 77 | Amcor | Applied AI Engineer | 43 | 2 in data/analytics/finance occupations | Oct 29 (board gives the date only) |
+| 78 | Dentsu | Data Engineer | 43 | 12 in data/analytics/finance occupations | Oct 30 (board gives the date only) |
+| 79 | eBay | AI Analytics Engineer - Traffic | 43 | 99 in data/analytics/finance occupations | Oct 29 (board gives the date only) |
+| 80 | C.H. Robinson | Intermodal Pricing Analyst | 40 | 2 in data/analytics/finance occupations | Oct 29 (board gives the date only) |
+| 81 | Stanley Black & Decker | Customer Pricing Analyst | 40 | 9 in data/analytics/finance occupations | Oct 29 (board gives the date only) |
+| 82 | William & Mary | AidData Research Data Associate | 40 | none found (check myvisajobs) | Oct 29 (board gives the date only) |
 
 ---
 
@@ -1063,7 +1064,20 @@ Join Goodwin’s Global Operations Team, and make a real impact on a global scal
 
 ---
 
-## 76. [MAYBE] Amcor | Applied AI Engineer
+## 76. [MAYBE] Tiger Analytics Inc. | Azure Data Engineer
+- Link: https://apply.workable.com/j/F24E45A1C5
+- Location: Chicago Illinois United States remote
+- Posted: Oct 30 (board gives the date only)
+- Scanner fit: ~44 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 269 in data/analytics/finance occupations
+- Title scope: core | Has: excel, machine learning, python, spark, sql, pipeline, research | Lacks: azure, databricks, snowflake
+
+### Job description
+
+Tiger Analytics is a fast-growing advanced analytics consulting firm. Our consultants bring deep expertise in Data Science, Machine Learning and AI. We are the trusted analytics partner for multiple Fortune 500 companies, enabling them to generate business value from data. Our business value and leadership has been recognized by various market research firms, including Forrester and Gartner. We are looking for top-notch talent as we continue to build the best global analytics consulting team in the world. The Azure Data Engineer will be responsible for designing, and implementing advanced analytics capabilities. Requirements Bachelor’s degree in Computer Science or similar field Strong in Python scripting Experience extracting/querying/joining large data sets at scale Experience building data platforms using Azure stack and Spark SQL Experience building data ingestion pipelines using Azure Data Factory to ingest structured and unstructured data Strong knowledge on Azure Storage schematics such as Gen1 and Gen2 Experience in harmonizing raw data into a consumer-friendly format using Azure Databricks Knowledge of Azure networking, security, key vaults, etc. Experience utilizing Snowflake to build data marts with the data residing in Azure storage is a plus Good to have exposure to Big data applications Strong communication and organizational skills Benefits This position offers an excellent opportunity for significant career development in a fast-growing and challenging entrepreneurial environment with a high degree of individual responsibility. Tiger Analytics provides equal employment opportunities to applicants and employees without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, pregnancy, national origin, ancestry, marital status, protected veteran status, disability status, or any other basis as protected by federal, state, or local law.
+
+---
+
+## 77. [MAYBE] Amcor | Applied AI Engineer
 - Link: https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Neenah-Innovation-Center-WI/Applied-AI-Engineer_REQ_97542
 - Location: AF Neenah Innovation Center WI
 - Posted: Oct 29 (board gives the date only)
@@ -1076,7 +1090,7 @@ Accelerate the possible by joining a winning Amcor team that’s transforming th
 
 ---
 
-## 77. [MAYBE] Dentsu | Data Engineer
+## 78. [MAYBE] Dentsu | Data Engineer
 - Link: https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Cudinamarca/DevOps-Lead_R1125618-1
 - Location: Cudinamarca
 - Posted: Oct 30 (board gives the date only)
@@ -1089,7 +1103,7 @@ Job Description: ¡En dentsu estamos en búsqueda de un Data Engineer! Data Engi
 
 ---
 
-## 78. [MAYBE] eBay | AI Analytics Engineer - Traffic
+## 79. [MAYBE] eBay | AI Analytics Engineer - Traffic
 - Link: https://ebay.wd5.myworkdayjobs.com/apply/job/Austin/AI-Analytics-Engineer---Traffic_R0076601
 - Location: Austin
 - Posted: Oct 29 (board gives the date only)
@@ -1102,7 +1116,7 @@ At eBay, we're more than a global ecommerce leader — we’re changing the way 
 
 ---
 
-## 79. [MAYBE] C.H. Robinson | Intermodal Pricing Analyst
+## 80. [MAYBE] C.H. Robinson | Intermodal Pricing Analyst
 - Link: https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Oakbrook-Terrace-IL-United-States-of-America/Intermodal-Pricing-Analyst_R49954
 - Location: Oakbrook Terrace, IL United States of America
 - Posted: Oct 29 (board gives the date only)
@@ -1115,7 +1129,7 @@ C.H. Robinson is seeking an Intermodal Pricing Analyst to join our team. In this
 
 ---
 
-## 80. [MAYBE] Stanley Black & Decker | Customer Pricing Analyst
+## 81. [MAYBE] Stanley Black & Decker | Customer Pricing Analyst
 - Link: https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Customer-Pricing-Analyst_REQ-1000052976-1
 - Location: 3 Locations
 - Posted: Oct 29 (board gives the date only)
@@ -1128,7 +1142,7 @@ Customer Pricing Analyst – Hybrid New Britain, CT Towson, MD OR Valley City, O
 
 ---
 
-## 81. [MAYBE] William & Mary | AidData Research Data Associate
+## 82. [MAYBE] William & Mary | AidData Research Data Associate
 - Link: https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/AidData-Research-Data-Associate_JR102177
 - Location: Posting Location - William & Mary
 - Posted: Oct 29 (board gives the date only)
