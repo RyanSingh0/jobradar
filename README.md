@@ -3,7 +3,7 @@
 ## How it covers the market (four layers)
 | Layer | What it reads | Speed | Cost |
 |---|---|---|---|
-| 1. Company boards | ~4,800 boards read directly from their hiring systems (Workday, Oracle, Greenhouse, Ashby, Lever, iCIMS, SmartRecruiters, Workable, Rippling, BambooHR), plus Amazon, Google, Netflix, TikTok and Bloomberg | ≤30 min after posting | free |
+| 1. Company boards | ~4,800 boards read directly from their hiring systems (Workday, Oracle, Greenhouse, Ashby, Lever, iCIMS, SmartRecruiters, Workable, Rippling, BambooHR), plus Amazon, Google, Netflix, TikTok and Bloomberg | ≤1 h after posting (8am-6pm ET), ≤2 h overnight | free |
 | 2. Your alert emails | LinkedIn, Indeed, Glassdoor, HiringCafe and Jobright alerts forwarded to a jobs-only inbox. This catches everything else: Microsoft, Meta, Apple, Taleo/SuccessFactors/Phenom companies, LinkedIn-only and recruiter posts | as fast as each site's alerts | free |
 | 3. Coverage audit | Every relevant alert posting is checked against what layer 1 already had: % caught and how many minutes earlier. Companies it missed go to `out/missing_companies.csv`, so you can add their boards | daily number in `out/latest.md` | free |
 | 4. Paid gap-filler (optional) | fantastic.jobs feed via Apify: 275k+ career sites on 58 hiring systems, including Taleo, SuccessFactors, Phenom, Eightfold, Apple, Meta, Google and Amazon, filtered to US, 0–2 years and your titles | jobs land within ~3 h, run every 6 h | ~$0.004–0.012 per job; capped |
