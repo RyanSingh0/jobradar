@@ -1,7 +1,7 @@
 """JobRadar v2: polls ~5,000 company job boards directly (no Claude, no browser) and catches new entry-level
-postings in Aryan's target roles within one sweep (30 min) of publication.
+postings in Aryan's target roles within one sweep of publication (Mon-Fri: hourly 8am-6pm ET, every 2 h overnight).
 
-Run:   python jobradar.py               one sweep, 24-hour window (schedule every 30 min)
+Run:   python jobradar.py               one sweep, 24-hour window (scheduled Mon-Fri: hourly 8am-6pm ET, every 2 h 8pm-8am ET)
        python jobradar.py --dry-run     no push, no state update
        python jobradar.py --only greenhouse,ashby   limit to some ATS types (testing)
 Env:   NTFY_TOPIC=<secret topic>        phone push via the free ntfy app (optional)

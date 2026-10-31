@@ -1,11 +1,17 @@
 name: jobradar
 on:
   schedule:
-    - cron: "*/30 10-23 * * 1-5"   # fast lane: every 30 min, about 6am-8pm ET on weekdays (GitHub cron is UTC)
-    - cron: "0 0-3 * * 2-6"        # fast lane: hourly, about 8pm-11pm ET on weekday evenings
-    - cron: "0 */3 * * 0,6"        # fast lane: every 3 h at weekends
-    - cron: "45 */6 * * *"         # slow lane: Workable boards (rate-limited), every 6 h
-    - cron: "20 */6 * * *"         # paid lane: fantastic.jobs feed, every 6 h (does nothing until APIFY_TOKEN is set)
+    # All lanes run Monday to Friday only, New York time (GitHub handles daylight saving through the timezone key).
+    # Nothing runs on Saturday or Sunday: the last sweep is Friday 10pm ET, the first is Monday 12am ET.
+    # Minute 7 instead of :00 because GitHub delays or drops scheduled runs at the top of the hour under load.
+    - cron: "7 8-18 * * 1-5"       # fast lane: hourly, 8am-6pm ET (11 sweeps)
+      timezone: "America/New_York"
+    - cron: "7 20,22,0,2,4,6 * * 1-5"  # fast lane: every 2 h, 8pm-8am ET (6 sweeps; 8am is the first daytime run)
+      timezone: "America/New_York"
+    - cron: "45 */6 * * 1-5"       # slow lane: Workable boards (rate-limited), every 6 h
+      timezone: "America/New_York"
+    - cron: "20 */6 * * 1-5"       # paid lane: fantastic.jobs feed, every 6 h (does nothing until APIFY_TOKEN is set)
+      timezone: "America/New_York"
   workflow_dispatch: {}            # "Run workflow" button = manual sweep
 permissions:
   contents: write
@@ -29,8 +35,8 @@ jobs:
           FANTASTIC_LIMIT: ${{ vars.FANTASTIC_LIMIT || '60' }}
         run: |
           case "${{ github.event.schedule }}" in
-            "45 */6 * * *") python jobradar.py --only workable --delay 4 ;;
-            "20 */6 * * *") if [ -n "$APIFY_TOKEN" ]; then python jobradar.py --only fantastic --hours 10; else echo "paid lane off"; fi ;;
+            "45 */6 * * 1-5") python jobradar.py --only workable --delay 4 ;;
+            "20 */6 * * 1-5") if [ -n "$APIFY_TOKEN" ]; then python jobradar.py --only fantastic --hours 10; else echo "paid lane off"; fi ;;
             *)              python jobradar.py --skip workable ;;
           esac
       - name: save state and today's files
