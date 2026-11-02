@@ -16,7 +16,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36 JobRadar/2",
       "Accept": "application/json, text/html;q=0.9"}
-ET = timezone(timedelta(hours=-4))
+from zoneinfo import ZoneInfo
+ET = ZoneInfo("America/New_York")  # was a fixed UTC-4, which reads an hour late after daylight saving ends
 WINDOW_H = 24
 
 # ---------------- targeting ----------------
