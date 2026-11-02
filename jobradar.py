@@ -47,7 +47,7 @@ TITLE_BAD = re.compile(
     r"semiconductor|silicon|asic|fpga|\brf\b|antenna|verification engineer|loan (officer|processor|closer|servicing)|fulfillment|"
     r"real estate|payroll|accounts payable|tax\b|audit(or)?\b|underwrit|claims|loan officer|collector|customer service|"
     r"molecular|biolog|clinical research|wet lab|assay|\bcell\b|chemistry|genomic|histolog|field research|"
-    r"temporary|temp\b|part[- ]time|seasonal|volunteer|visiting|trade finance|transportation|logistics|supply chain|"
+    r"trade finance|transportation|logistics|supply chain|"   # 2 Nov 2026: part-time, temporary, seasonal, visiting and volunteer roles are back in scope (tagged in classify)
     r"procurement|hr analyst|human resources|benefits analyst|compensation analyst|\bit analyst|application analyst|"
     r"\berp\b|oracle (technical|functional)|salesforce|servicenow|sap\b|business systems analyst|product owner|scrum", re.I)
 US_HINT = re.compile(r"united states|\bus\b|\busa\b|u\.s\.|remote|new york|boston|"
@@ -111,6 +111,29 @@ def fit_estimate(text):
         return 0, dom, lack
     got = 2 * len(tech) + len(dom)
     return min(95, round(100 * got / (got + 3 * len(lack) + 6))), tech + dom, lack
+
+
+PART_RE = re.compile(r"part[- ]time|\bper[- ]diem\b|\bprn\b", re.I)
+TEMP_RE = re.compile(r"\btemporary\b|\btemp\b|\bseasonal\b|\bcontract(or)?\b|fixed[- ]term|\bvisiting\b|limited[- ]term", re.I)
+VOL_RE = re.compile(r"\bvolunteer\b|\bunpaid\b", re.I)
+HOURS_RE = re.compile(r"(\d{1,2})\s*(?:(?:-|to|–)\s*(\d{1,2})\s*)?(?:hours|hrs)\s*(?:per|a|/|each)\s*week", re.I)
+
+
+def job_type(title, desc):
+    """2 Nov 2026 (Aryan): part-time and temporary roles are in scope. Returns (label, min weekly hours or None, note).
+    STEM OPT counts a job only if it is paid, 20+ hours a week, degree-related and at an E-Verify employer (I-983)."""
+    head = title + " " + desc[:1500]
+    hrs = [int(m.group(1)) for m in HOURS_RE.finditer(desc) if 1 <= int(m.group(1)) <= 60]
+    h = min(hrs) if hrs else None
+    if VOL_RE.search(title) or re.search(r"\bunpaid\b", desc[:3000], re.I):
+        return "volunteer/unpaid", h, "unpaid: does not count as STEM OPT employment"
+    if PART_RE.search(head):
+        if h is not None and h < 20:
+            return "part-time", h, f"part-time, about {h} h/week: under the 20 h/week STEM OPT minimum"
+        return "part-time", h, "part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)"
+    if TEMP_RE.search(title):
+        return "temporary/contract", h, "temporary or contract: confirm it is W-2 with an E-Verify employer"
+    return "full-time", h, ""
 
 
 def min_yoe(text):
@@ -537,10 +560,14 @@ def classify(j, spons):
     core = bool(CORE.search(j["title"]))
     tech = any(k in " " + j["desc"].lower() for k in ("python", "sql", " r ", "statistic", "machine learning", "tableau", "power bi"))
     j["scope"] = "core" if core else "broad"
-    if core and tech and fit >= 55 and sponsor_ok:
-        return "HOT", ""
+    jt, hrs, jt_note = job_type(j["title"], j["desc"])
+    j.update(jobtype=jt, hours=hrs)
+    opt_ok = not (jt == "volunteer/unpaid" or (hrs is not None and hrs < 20 and jt == "part-time"))
+    if core and tech and fit >= 55 and sponsor_ok and opt_ok:
+        return "HOT", jt_note
     if (core and fit >= 40) or (not core and tech and fit >= 62 and sponsor_ok):
-        return "MAYBE", ("" if sponsor_ok else "no H-1B filings found for this employer") + ("" if core else " broad title")
+        return "MAYBE", " ".join(x for x in [("" if sponsor_ok else "no H-1B filings found for this employer"),
+                                             ("" if core else "broad title"), jt_note] if x)
     return "LOW", ""
 
 
@@ -578,6 +605,7 @@ def entry(j, n):
     return (f"---\n\n## {n}. [{j['tier']}] {j['company']} | {j['title']}\n"
             f"- Link: {j['url']}\n- Location: {' '.join(j['location'].split()) or 'see posting'}\n- Posted: {posted_text(j)}\n"
             f"- Scanner fit: ~{j.get('fit')} | Min YOE: {j.get('yoe')} | H-1B (certified LCAs, Oct 2024-Dec 2025): {lca_text(j.get('lca'))}\n"
+            f"- Type: {j.get('jobtype','full-time')}{' (' + str(j['hours']) + ' h/week stated)' if j.get('hours') else ''}\n"
             f"- Title scope: {j.get('scope','-')} | Has: {', '.join(j.get('have', [])[:14]) or '-'} | Lacks: {', '.join(j.get('lack', [])) or '-'}"
             f"{'  | Note: ' + j['why'].strip() if j.get('why', '').strip() else ''}\n\n### Job description\n\n{trim(j['desc']).strip() or '(not readable; open the link)'}\n")
 
