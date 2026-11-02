@@ -27,26 +27,32 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 21 | Equifax | Data Analytics Rotational Development Associate | 54 | 34 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
 | 22 | Miami University | Research Associate | 54 | cap-exempt employer | Nov 02 (board gives the date only) |
 | 23 | O'Reilly Auto Parts | Pricing Data Analyst | 54 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 24 | TikTok | Applied Scientist, Search, E-Commerce Alliance | 52 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 25 | Micron Technology | AI Engineer | 52 | 46 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 26 | Plaid | Machine Learning Engineer - Lendscore | 50 | 5 in data/analytics/finance occupations | Nov 02 00:27 ET |
-| 27 | Cooper University Health Care | Job Title Reporting and Analytics Developer | 50 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 28 | Brown Brothers Harriman | Financial Reporting Analyst- Alternatives | 50 | 3 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 29 | Mizuho Securities USA | Research Associate | 50 | 19 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 30 | Manulife Financial | Business Intelligence Analyst | 50 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 31 | Regions Bank | Capital Markets Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 32 | Barclays | 2027 Quantitative Analytics Associate Graduate Programme Glasgow | 45 | 142 in data/analytics/finance occupations | Nov 01 (board gives the date only) |
-| 33 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 34 | UTHealth Houston | Research Associate (Urology) | 45 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 35 | Navy Federal | Technical Product Analyst | 44 | 111 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 36 | Fidelity National Information Services | Business Intelligence & Data Analysis, AWS, BI | 44 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 37 | JM Family | Investment Analyst - Private Markets | 44 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 38 | Flutter | Data Engineer | 40 | none found (check myvisajobs) | Nov 01 (board gives the date only) |
-| 39 | Clera | Applied AI Engineer | 40 | none found (check myvisajobs) | Nov 02 12:03 ET |
-| 40 | Hearst | Research Associate | 40 | 3 in data/analytics/finance occupations | Nov 02 10:12 ET |
-| 41 | Dartmouth Health | Title Statistical Research Analyst | 40 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 42 | Roche | Pharma Services Research Associate | 40 | 7 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 43 | University System of New Hampshire | Adjunct Research Assistant - NATO LAB | 40 | cap-exempt employer | Nov 02 (board gives the date only) |
+| 24 | Perry Ellis International | Data Analyst | 54 | none found (check myvisajobs) | Nov 02 16:24 ET |
+| 25 | TikTok | Applied Scientist, Search, E-Commerce Alliance | 52 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 26 | Micron Technology | AI Engineer | 52 | 46 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 27 | Plaid | Machine Learning Engineer - Lendscore | 50 | 5 in data/analytics/finance occupations | Nov 02 00:27 ET |
+| 28 | Cooper University Health Care | Job Title Reporting and Analytics Developer | 50 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 29 | Brown Brothers Harriman | Financial Reporting Analyst- Alternatives | 50 | 3 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 30 | Mizuho Securities USA | Research Associate | 50 | 19 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 31 | Manulife Financial | Business Intelligence Analyst | 50 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 32 | Regions Bank | Capital Markets Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 33 | Barclays | Equity Research Analyst – Derivatives | 50 | 142 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 34 | Barclays | 2027 Quantitative Analytics Associate Graduate Programme Glasgow | 45 | 142 in data/analytics/finance occupations | Nov 01 (board gives the date only) |
+| 35 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 36 | UTHealth Houston | Research Associate (Urology) | 45 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 37 | Clairo | Imaging Research Associate I | 45 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 38 | Navy Federal | Technical Product Analyst | 44 | 111 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 39 | Fidelity National Information Services | Business Intelligence & Data Analysis, AWS, BI | 44 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 40 | JM Family | Investment Analyst - Private Markets | 44 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 41 | Southern Company | Data Engineer | 42 | 7 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 42 | Flutter | Data Engineer | 40 | none found (check myvisajobs) | Nov 01 (board gives the date only) |
+| 43 | Clera | Applied AI Engineer | 40 | none found (check myvisajobs) | Nov 02 12:03 ET |
+| 44 | Hearst | Research Associate | 40 | 3 in data/analytics/finance occupations | Nov 02 10:12 ET |
+| 45 | Dartmouth Health | Title Statistical Research Analyst | 40 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 46 | Roche | Pharma Services Research Associate | 40 | 7 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 47 | University System of New Hampshire | Adjunct Research Assistant - NATO LAB | 40 | cap-exempt employer | Nov 02 (board gives the date only) |
+| 48 | Princeton University | Job Title Research Assistant - Temporary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 49 | PennState University | Part-Time Research Assistant in Forest Ecology | 40 | cap-exempt employer | Nov 02 (board gives the date only) |
 
 ---
 
@@ -55,6 +61,7 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 - Location: Operations-Wake Forest Road
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~74 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: dashboard, excel, forecast, machine learning, power bi, python, r, sql, statistic, tableau, classification, credit, portfolio, reporting | Lacks: sas  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -68,6 +75,7 @@ If you are motivated and believe in the credit union philosophy of "People Helpi
 - Location: San Francisco, CA, United States US Sunnyvale, CA, United States
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~72 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: a/b test, dashboard, excel, llm, pandas, python, regression, sql, statistic, tableau, classification, quantitative, reporting | Lacks: looker  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -81,6 +89,7 @@ About the Role We are building new capabilities to strengthen our existing produ
 - Location: Colombia - Remote
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~71 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 9 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: broad | Has: dashboard, excel, forecast, power bi, tableau, git, portfolio, reporting, risk, validation | Lacks: -  | Note: broad title
 
 ### Job description
@@ -94,6 +103,7 @@ Business Analyst, Strategy & Insights - Remote Location: Colombia Come build som
 - Location: Remote - India
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~70 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 18 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: broad | Has: data visualization, excel, forecast, power bi, statistic, publication, quantitative, research, segmentation | Lacks: -  | Note: broad title
 
 ### Job description
@@ -107,6 +117,7 @@ Job Title: Specialist Analyst, Emerging Market Dynamics Location: Remote- India 
 - Location: Saint Paul, MN Campus
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~69 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: aws, dashboard, data visualization, llm, machine learning, power bi, python, sql, statistic, tableau, data quality, lambda, portfolio, reporting | Lacks: scala, snowflake  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -120,6 +131,7 @@ Securian Financial Group’s internal position title is Data Science Consultant.
 - Location: United States United States remote
 - Posted: Nov 02 11:01 ET
 - Scanner fit: ~68 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: a/b test, excel, forecast, hypothesis test, machine learning, nlp, pandas, probability, python, regression, scikit, sql, statistic, docker | Lacks: airflow, dbt, snowflake  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -211,6 +223,7 @@ Fraudulent Recruitment Advisory: Solace Health will NEVER request bank details o
 - Location: Watertown, MA Watertown, MA US
 - Posted: Nov 01 20:56 ET
 - Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: dashboard, forecast, llm, python, sql, pipeline, research | Lacks: -  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -260,6 +273,7 @@ Tutor Intelligence
 - Location: CHN - DALIAN
 - Posted: Nov 01 (board gives the date only)
 - Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 12 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: broad | Has: aws, etl, excel, power bi, sql, fraud, git | Lacks: -  | Note: broad title
 
 ### Job description
@@ -273,6 +287,7 @@ Job Description: 工作职责： 1、报表与仪表盘开发 — 基于Power BI
 - Location: Houston, Texas
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~67 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: broad | Has: dashboard, data visualization, excel, forecast, power bi, python, sql, tableau, fraud, reporting | Lacks: sap  | Note: broad title
 
 ### Job description
@@ -286,6 +301,7 @@ Oxy produces , markets and transports oil and natural gas to maximize value and 
 - Location: 14 Locations
 - Posted: Nov 01 (board gives the date only)
 - Scanner fit: ~65 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: aws, excel, machine learning, python, r, sql, classification, pipeline, quantitative, research, trading | Lacks: scala  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -299,6 +315,7 @@ The Quantitative Analyst in Regulatory Operations Analytics is responsible for t
 - Location: Remote - USA
 - Posted: Nov 02 13:08 ET
 - Scanner fit: ~65 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: aws, dashboard, etl, excel, power bi, python, sql, tableau, data quality, git, healthcare, kpi, reporting, validation | Lacks: databricks, dbt  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -312,6 +329,7 @@ At Real Chemistry, making the world a healthier place isn’t just an aspiration
 - Location: 2 Locations
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~65 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: etl, excel, sql, statistic, data quality, pipeline, reporting | Lacks: -  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -325,6 +343,7 @@ As an employee-owned company, DMA prioritizes employees. Low turnover rates and 
 - Location: Jersey City, NJ
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~64 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: aws, gcp, llm, pytorch, tensorflow, futures, pipeline, reporting, research, risk, validation | Lacks: azure  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -338,6 +357,7 @@ Do you want your voice heard and your actions to count? Discover your opportunit
 - Location: Jersey City, NJ, United States US
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~62 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: broad | Has: python, data quality, futures, pipeline, portfolio, quantitative, reporting, risk, trading | Lacks: -  | Note: broad title
 
 ### Job description
@@ -351,6 +371,7 @@ As an Analyst in the CIO Market Risk team, you will support the second line of d
 - Location: New York New York United States
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~61 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: probability, python, sql, statistic, credit, git, model risk, quantitative, risk, trading | Lacks: c++  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -364,6 +385,7 @@ As an Asset-Backed Securities Quantitative Analyst, you will build the analytics
 - Location: New York, NY
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~60 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 82 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: core | Has: aws, excel, forecast, healthcare, research, trading | Lacks: -
 
 ### Job description
@@ -377,6 +399,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 - Location: Watertown, MA Watertown, MA US
 - Posted: Nov 01 20:56 ET
 - Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: llm, python, sql, pipeline, research | Lacks: -  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -426,6 +449,7 @@ Tutor Intelligence
 - Location: Shaw Plant 72, 900 VD Parrot Parkway, Dalton, GA 30721 USA
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: dashboard, etl, excel, machine learning, power bi, python, r, sql, data quality, git, pipeline, portfolio | Lacks: azure, databricks, scala  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -439,6 +463,7 @@ Job Title Data Analytics Engineer Position Overview Shaw Industries Group, Inc. 
 - Location: Dallas, TX
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: aws, excel, forecast, portfolio, reporting, risk | Lacks: -  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -452,6 +477,7 @@ The Insurance & Risk Analyst supports CyrusOne's global insurance and enterprise
 - Location: Remote - California
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~54 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: excel, forecast, llm, risk | Lacks: -  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -465,6 +491,7 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 - Location: USA - Georgia - Alpharetta - 30005
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 34 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: core | Has: data visualization, python, r, statistic, tableau, data quality, healthcare, risk, validation | Lacks: hadoop, sas
 
 ### Job description
@@ -478,6 +505,7 @@ Equifax is where you can power your possible. If you want to achieve your true p
 - Location: 2 Locations
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
 - Title scope: core | Has: data visualization, excel, statistic, research | Lacks: -
 
 ### Job description
@@ -491,6 +519,7 @@ Job Title Research Associate Department Scripps Foundation Research Operations W
 - Location: Headquarters
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: excel, sql, statistic, reporting | Lacks: -  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -499,11 +528,26 @@ The Pricing Data Analyst will work with the Pricing Data Manager on all areas co
 
 ---
 
-## 24. [MAYBE] TikTok | Applied Scientist, Search, E-Commerce Alliance
+## 24. [MAYBE] Perry Ellis International | Data Analyst
+- Link: https://job-boards.greenhouse.io/perryellisinternational/jobs/4724029006
+- Location: Miami, Florida, United States
+- Posted: Nov 02 16:24 ET
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, power bi, python, sql, tableau, portfolio, reporting | Lacks: looker, snowflake  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Company Overview Perry Ellis International, Inc. represents a diverse portfolio of lifestyle apparel brands. The Company, through its wholly owned subsidiaries owns and licenses nationally and with a brand portfolio of over 40 Brands domestically and internationally recognized brands including: Perry Ellis®, Original Penguin® by Munsingwear®, Laundry by Shelli Segal®, Rafaella®, Cubavera®, Ben Hogan®, Savane®, Grand Slam®, John Henry®, Manhattan®, Axist® and Farah®. The Company enhances its roster of brands by licensing trademarks from third parties, including: Nike®&nbsp; for swimwear, and Callaway®, PGA TOUR®, and Jack Nicklaus® for golf apparel. Summary We are seeking a dynamic Data Analyst with a strong background in planning to join our team for five days onsite in Miami. In this role, you will focus on leveraging Walmart data through the Scintilla platform, serving as a strategic partner to our planning, buying, allocation, inventory, and merchandising teams. We are looking for someone who loves discovering ways to answer new kinds of questions using new kinds of data and teaching others how to do the same. Daily responsibilities include designing dashboards, generating reports, querying our Snowflake data warehouse with SQL to maintain strict data integrity standards, and delivering actionable data-driven recommendations across critical functions such as Gross Margin Return on Investment (GMROI), Product Lifecycle &amp; Markdown Cadence, Assortment Planning &amp; Hierarchy, Seasonality and Core vs. Fashion, Open-to-Buy (OTB) Logic, Exception-Based Reporting, WSSI Mechanics, and Historical Normalization. As part of our forward-thinking environment, you will also leverage modern AI workflow and vibe coding tools (such as AI code assistants) to accelerate analytics and streamline business intelligence operations. Responsibilities Analyze and interpret Walmart data using the Scintilla platform to support demand planning, merchandise planning, and inventory allocation strategies. Proactively discover innovative ways to answer complex business questions using novel datasets, while mentoring and teaching team members to adopt new analytical approaches. Develop analytical models and reports to track and evaluate Gross Margin Return on Investment (GMROI) across categories and channels. Build tools to analyze Product Lifecycle &amp; Markdown Cadence, Assortment Planning &amp; Hierarchy, Seasonality and Core vs. Fashion, Open-to-Buy (OTB) Logic, Exception-Based Reporting, WSSI Mechanics, and Historical Normalization. Write and execute SQL queries in modern cloud data platforms (such as Snowflake) to audit metrics, validate data from the data warehouse, and resolve anomalies (Note: role does not involve data migration tasks). Design, develop, and maintain interactive dashboards and reports (preferably in Looker) to communicate Walmart Scintilla insights to key internal stakeholders. Rigorously validate data integrity standards across raw data and audit AI-generated query outputs to ensure absolute metric precision. Collaborate directly with business analysts, executive leadership, and departmental stakeholders to translate data into actionable business strategy. Schedule, monitor, and deliver executive-level reporting and ad-hoc analytics as required. Skills, Knowledge, and Abilities (Minimum Requirements) Bachelor's degree in Business Administration, Supply Chain Management, Logistics, Finance, Management Information Systems (MIS), or a related business discipline. Strong background in merchandise, demand, or inventory planning within retail, wholesale, or consumer goods environments. Hands-on experience or deep familiarity with Walmart data ecosystems and the Walmart Scintilla analytics platform. Solid proficiency in SQL for querying and validating data stored within cloud data warehouses. Hands-on experience working with modern data platforms such as Snowflake. Demonstrated experience with modern reporting tools (strong preference for Looker; Tableau, Power BI, or similar tools are acceptable). Familiarity with AI tools and modern AI workflows (e.g., code assist, vibe coding for BI) to increase productivity. Proven ability to translate complex datasets into strategic commercial insights for planning, allocation, inventory, and executive leadership teams. Solid understanding of relational databases, dimensional data models, semantic layers, and metric governance. Strong troubleshooting, analytical, and problem solving skills to audit underlying query logic and resolve data anomalies. Excellent communication and interpersonal skills to present data stories effectively to non-technical business partners. Curious and collaborative mindset with a passion for uncovering insights from novel data sources and teaching colleagues how to leverage new analytical tools and methodologies. Preferred Qualifications (Plusses) Industry experience in Fashion, Apparel, Retail, E-commerce, Wholesale, or Supply Chain functions. Deep understanding of retail and supply chain domain metrics (e.g., sell-through rates, inventory turn, lead times, procurement, wholesale vs. DTC performance). Exposure to ERP systems (e.g., Shopify, NetSuite, Jesta, Oracle Retail). Knowledge of Python or other scripting languages for data analysis (nice to have / good to know). Physical Demand This position requires the normal demands of a standard office role, including sitting, standing, reaching with arms and hands, walking, talking, and hearing. Work Environment This is a full-time, 5-day onsite position located at our corporate office in Miami, FL . The noise level in the work environment is usually moderate. What’s In It For You? Comprehensive Health: Premium Medical, Dental, and Vision plans designed to keep you and your family healthy and thriving. Financial Security: Secure your future with our 401(k) retirement plan (including a discretionary company match) plus company-provided Basic Life and AD&amp;D Insurance . Work-Life Balance: Take the time you need to recharge with generous Paid Time Off (PTO) and a full schedule of paid Holidays . Growth &amp; Support: We invest in your potential through our Tuition Reimbursement program for continuous learning and provide 24/7 personal support via our Member Assistance Program (MAP) . Team Culture: Join a community that celebrates your hard work with regular Associate Engagement Events , ranging from seasonal celebrations to on-site wellness activities. Exclusive Style Perks: Look your best for less with generous Associate Clothing Discounts across all our company stores and e-commerce sites. &nbsp; Legal Disclaimer: Perry Ellis International
+
+---
+
+## 25. [MAYBE] TikTok | Applied Scientist, Search, E-Commerce Alliance
 - Link: https://lifeattiktok.com/search/7257707071751620924
 - Location: Seattle, Washington, United States of America
 - Posted: new since the previous sweep (board shows no date)
 - Scanner fit: ~52 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: core | Has: excel, machine learning, nlp, python, statistic, deep learning, publication, quantitative | Lacks: c++, java
 
 ### Job description
@@ -538,11 +582,12 @@ Preferred Qualifications
 
 ---
 
-## 25. [MAYBE] Micron Technology | AI Engineer
+## 26. [MAYBE] Micron Technology | AI Engineer
 - Link: https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-Engineer_JR111826-1
 - Location: Boise, ID - Main Site
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~52 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 46 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: core | Has: aws, gcp, llm, python, sql, docker, fraud, git, healthcare, kubernetes, pipeline | Lacks: azure, java, scala
 
 ### Job description
@@ -551,11 +596,12 @@ Our vision is to transform how the world uses information to enrich life for all
 
 ---
 
-## 26. [MAYBE] Plaid | Machine Learning Engineer - Lendscore
+## 27. [MAYBE] Plaid | Machine Learning Engineer - Lendscore
 - Link: https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4
 - Location: New York City Office United States remote
 - Posted: Nov 02 00:27 ET
 - Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 5 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: core | Has: aws, machine learning, python, spark, credit | Lacks: scala
 
 ### Job description
@@ -629,11 +675,12 @@ Plaid is proud to be an
 
 ---
 
-## 27. [MAYBE] Cooper University Health Care | Job Title Reporting and Analytics Developer
+## 28. [MAYBE] Cooper University Health Care | Job Title Reporting and Analytics Developer
 - Link: https://careers-cooperhealth.icims.com/jobs/86865/reporting-and-analytics-developer/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
 - Scanner fit: ~50 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
 - Title scope: core | Has: data visualization, python, sql, statistic, tableau, credit, reporting | Lacks: qlik, sas
 
 ### Job description
@@ -642,11 +689,12 @@ Reporting and Analytics Developer in Camden, New Jersey | Careers at 1 Cooper Pl
 
 ---
 
-## 28. [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst- Alternatives
+## 29. [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst- Alternatives
 - Link: https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Financial-Reporting-Analyst--Alternatives_73380
 - Location: Boston
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~50 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: core | Has: aws, excel, healthcare, reporting | Lacks: -
 
 ### Job description
@@ -655,11 +703,12 @@ At BBH, Partnership is more than a form of ownership—it’s our approach to bu
 
 ---
 
-## 29. [MAYBE] Mizuho Securities USA | Research Associate
+## 30. [MAYBE] Mizuho Securities USA | Research Associate
 - Link: https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/Research-Associate_R7399
 - Location: New York, NY (1271 AOA/6th Ave)
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 19 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: core | Has: aws, derivatives, fx, research, trading | Lacks: -
 
 ### Job description
@@ -668,11 +717,12 @@ Join Mizuho’s Equity Research Team. The expected base salary ranges from $100,
 
 ---
 
-## 30. [MAYBE] Manulife Financial | Business Intelligence Analyst
+## 31. [MAYBE] Manulife Financial | Business Intelligence Analyst
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Boston-Massachusetts/Business-Intelligence-Analyst_JR26101324-2
 - Location: 3 Locations
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: aws, etl, sql, data quality, reporting, validation | Lacks: actuar  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -681,11 +731,12 @@ This role will support US Business primarily on valuation systems data. They wil
 
 ---
 
-## 31. [MAYBE] Regions Bank | Capital Markets Operational Risk Analyst
+## 32. [MAYBE] Regions Bank | Capital Markets Operational Risk Analyst
 - Link: https://regions.wd5.myworkdayjobs.com/regions_careers/job/Atlanta-GA---Regions-Plaza-Office/Capital-Markets-Operational-Risk-Analyst_R105177
 - Location: 3 Locations
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 22 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: core | Has: excel, statistic, reporting, risk | Lacks: -
 
 ### Job description
@@ -694,11 +745,26 @@ Thank you for your interest in a career at Regions. At Regions, we believe assoc
 
 ---
 
-## 32. [MAYBE] Barclays | 2027 Quantitative Analytics Associate Graduate Programme Glasgow
+## 33. [MAYBE] Barclays | Equity Research Analyst – Derivatives
+- Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Equity-Research-Analyst---Derivatives_JR-0000134320
+- Location: New York, 745 7th Avenue
+- Posted: Nov 02 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 142 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, python, statistic, derivatives, git, quantitative, research, risk, trading | Lacks: matlab, sas
+
+### Job description
+
+Job Description Purpose of the role To produce and deliver Research with differentiated market insights and actionable ideas to Barclays Clients. Accountabilities Analysis of market, sector, corporate and/or economic data to help develop investment theses for your coverage universe to produce best in class Research. Research may range from individual company or sector notes, through to long dated thematic reports. Presentation of Research views to Barclays Clients; this can be through direct, face to face and virtual interactions, Research hosted events and written communications. Engagement with Markets, Client Strategy and other stakeholders, to raise awareness of your Research both to Clients and internally. Prioritise interaction with the most relevant and valuable Clients for your Research. Provision of insights and Research views to internal Clients to help them navigate financial markets and risks. Collaboration with the Supervisory Analyst, Compliance and other stakeholders to ensure Research is produced and delivered to Clients and internal stakeholders in a compliant manner. Analyst Expectations To perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement. Requires in-depth technical knowledge and experience in their assigned area of expertise Thorough understanding of the underlying principles and concepts within the area of expertise They lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources. If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others. OR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate. Will have an impact on the work of related teams within the area. Partner with other functions and business areas. Takes responsibility for end results of a team’s operational processing and activities. Escalate breaches of policies / procedure appropriately. Take responsibility for embedding new policies/ procedures adopted due to risk mitigation. Advise and influence decision making within own area of expertise. Take ownership for managing risk and strengthening controls in relation to the work you own or contribute to. Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct. Maintain and continually build an understanding of how own sub-function integrates with function, alongside knowledge of the organisations products, services and processes within the function. Demonstrate understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub-function. Make evaluative judgements based on the analysis of factual information, paying attention to detail. Resolve problems by identifying and selecting solutions through the application of acquired technical experience and will be guided by precedents. Guide and persuade team members and communicate complex / sensitive information. Act as contact point for stakeholders outside of the immediate function, while building a network of contacts outside team and external to the organisation. All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave. Join Barclays as an Equity Research Analyst – Derivatives, where you will develop and market thematic and tactical trading ideas across equity derivatives, conduct quantitative research on systematic alpha, hedging and volatility strategies, develop quantitative investment strategies and bespoke risk solutions for institutional clients, and collaborate with Equity Structuring, fundamental research, data science, economics and other strategy teams. You will also communicate market views, research findings and recommendations to trading teams and institutional investors. To be successful as an Equity Research Analyst – Derivatives, you should have experience with: Equity Derivatives research Conducting detailed evaluation and valuation of companies Financial modelling and interpreting highly detailed financial statements Macro and cross-asset markets and ability to generate tactical trading ideas Some other highly valued skills may include: Demonstrated accountability in implementing quantitative research projects from start to finish Programming experience and knowledge of statistical programming languages (R, Python, SAS or MatLab) Series 7, 63, 86 & 87 licenses, or willingness to obtain them after joining You may be assessed on the key critical skills relevant for success in role, such as risk and controls, change and transformation, business acumen, strategic thinking, digital and technology, as well as job-specific technical skills. This role is located in New York, NY. This role is regulated by FINRA. Minimum Salary: 110,000 USD Maximum Salary: 125,000 USD The minimum and maximum salary/rate information above include only base salary or base hourly rate. It does not include any other type of compensation or benefits that may be available.
+
+---
+
+## 34. [MAYBE] Barclays | 2027 Quantitative Analytics Associate Graduate Programme Glasgow
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-Glasgow_JR-0000129392
 - Location: Glasgow Campus
 - Posted: Nov 01 (board gives the date only)
 - Scanner fit: ~45 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 142 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: core | Has: excel, python, statistic, quantitative, research, risk, trading | Lacks: c++, scala
 
 ### Job description
@@ -707,11 +773,12 @@ Job Description Purpose of the role Bringing quantitative and analytical experti
 
 ---
 
-## 33. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 35. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805653
 - Location: Plano, TX, United States US
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: core | Has: excel, fraud, research, risk | Lacks: -
 
 ### Job description
@@ -720,11 +787,12 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 34. [MAYBE] UTHealth Houston | Research Associate (Urology)
+## 36. [MAYBE] UTHealth Houston | Research Associate (Urology)
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8145
 - Location: San Antonio, TX, United States US
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: excel, healthcare, publication, research | Lacks: -  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -733,11 +801,26 @@ Under general supervision, responsible for performing technical or narrative res
 
 ---
 
-## 35. [MAYBE] Navy Federal | Technical Product Analyst
+## 37. [MAYBE] Clairo | Imaging Research Associate I
+- Link: https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Costa-Rica-Remote/Imaging-Research-Associate-I_R17313
+- Location: Costa Rica Remote
+- Posted: Nov 02 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, git, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Clario, part of Thermo Fisher Scientific, is seeking an Imaging Research Associate I to support the coordination of site and operational activities across the full lifecycle of clinical imaging studies. In this role, you will work closely with project teams, sites, and sponsors to ensure the timely delivery of high‑quality study data and service deliverables. This position plays an important role in supporting compliant, efficient clinical research operations that help bring life‑changing therapies to patients faster. What We Offer Competitive compensation Private health insurance Engaging employee programs Flexible work schedules Attractive PTO plan Flex workspace What You’ll Be Doing Coordinate site and operational activities throughout the study lifecycle Assist in preparation and reproduction of study materials during start-up phase Follow up on outstanding documentation to complete site qualification Schedule logistical and technical trainings with site personnel Create test run requests for sites submitting digital data Review, process, track, and monitor all study-related data received from sites Assist in monitoring and resolving data discrepancies from clinical data management Manage site communications, generate reports and queries, and verify accuracy before distribution Investigate and complete logistical edit checks Report issues found with study systems (e.g., study database, reading analysis system) Perform day-to-day IQC activities including coordinating, requesting, tracking, and processing IQC data Ensure IQC data is collected and maintained according to SOPs and study protocol requirements Communicate with clinical study teams and sponsors regarding deliverables Maintain study database and prepare BMD Scan Review Forms Support Project Managers with project administration, tracking, and reporting Participate in project meetings, conference calls, and training sessions What We Look For High school diploma or Associate/Bachelor’s degree in bioscience, computer science, information technology, or related field preferred Familiarity with PC-based computers and standard software packages (Word, Excel, email, databases) Knowledge of clinical trials process and good clinical practices preferred Ability to navigate networks and manage files effectively Strong attention to detail and organizational skills Excellent verbal and written communication skills Ability to work independently and in a team environment with changing priorities Professional, positive attitude and strong interpersonal skills Leadership qualities and ability to meet aggressive deadlines At Clario, our purpose is to transform lives by unlocking better evidence. It’s a cause that unites and inspires us. It’s why we come to work—and how we empower our people to make a positive impact every day. Whether you're advancing clinical science, building innovative technology, or supporting our global teams, your work helps bring life-changing therapies to patients faster.
+
+---
+
+## 38. [MAYBE] Navy Federal | Technical Product Analyst
 - Link: https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32243
 - Location: Vienna, VA, United States US
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~44 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 111 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: core | Has: dashboard, excel, credit, reporting, validation | Lacks: kafka
 
 ### Job description
@@ -746,11 +829,12 @@ The tech product analyst , Core Banking will provide support for the design, and
 
 ---
 
-## 36. [MAYBE] Fidelity National Information Services | Business Intelligence & Data Analysis, AWS, BI
+## 39. [MAYBE] Fidelity National Information Services | Business Intelligence & Data Analysis, AWS, BI
 - Link: https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-ATL-201-STE-900/Business-Intelligence---Data-Analysis--AWS--BI_JR0307826
 - Location: US GA ATL 201 STE 900
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~44 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: aws, dashboard, sql, tableau, data quality, git, pipeline, reporting | Lacks: airflow, dbt, scala  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -759,11 +843,12 @@ Job Description About FIS Are you curious, motivated, and forward-thinking? At F
 
 ---
 
-## 37. [MAYBE] JM Family | Investment Analyst - Private Markets
+## 40. [MAYBE] JM Family | Investment Analyst - Private Markets
 - Link: https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Investment-Analyst_JR103735
 - Location: Florida - Deerfield Beach
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~44 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: forecast, credit, portfolio, quantitative, research, risk | Lacks: cfa  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -772,11 +857,26 @@ The Investment Analyst will join the Investment Team in managing JM Family’s i
 
 ---
 
-## 38. [MAYBE] Flutter | Data Engineer
+## 41. [MAYBE] Southern Company | Data Engineer
+- Link: https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22546
+- Location: Birmingham, AL, United States US Atlanta, GA, United States
+- Posted: Nov 02 (board gives the date only)
+- Scanner fit: ~42 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 7 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, machine learning, power bi, python, spark, sql, data quality, docker, pipeline | Lacks: azure, databricks, hadoop, informatica, scala
+
+### Job description
+
+DATA ENGINEER Locations: Atlanta, GA (30 Ivan Allen) OR Birmingham, AL (The Energy Center) Onsite 4 says/week and one day remote JOB SUMMARY: The Electric Operations Technology Solutions (EOTS) Data Engineer is responsible for building, operationalizing, and maintaining data pipelines to support data, analytics, and AI use cases across hybrid and multi-cloud environments. The role involves translating data into consumable formats, supporting various data integration styles (e.g., virtualization, replication, streaming), and ensuring data reliability and scalability. The data engineer will lead standardization of data curation, data taxonomy and solution delivery across the Electric Operations Technology Solutions Organization for the Databricks and Azure environments. The position is on the Electric Operations Technology Solutions Leadership Team engaging in strategic delivery of business solutions supporting multiple business areas within Southern Company. Onsite 4 days per week/ 1 day per week remote JOB REQUIREMENTS: (Education, Experience, Knowledge, Skills ) Experience and Knowledge: Bachelor’s degree in Computer Science, Engineering, Machine Learning, or related field 9+ years of experience in data engineering or related roles Experience with batch and real-time data processing frameworks Experience with big data technologies (e.g., Hadoop, HIVE, Spark) Experience with AI/ML solutions in Python 4+ years with on-prem tools (e.g., MSBI, Informatica, Oracle Golden Gate, SQL Server) 2+ years with Microsoft Azure tools (e.g., Data Lake, Data Factory, Databricks, Synapse, Power BI) Experience with containerization (e.g., Docker, OpenShift) Skills: Proficiency in data modeling, access, storage, and quality tools Familiarity with Agile, DevOps, CI/CD methodologies Strong communication and collaboration skills Ability to lead and mentor others Familiarity with performance optimization and data governance Proactive in sharing knowledge and best practices Hands-on expertise with Databricks, SQL, Python, and Apache Spark. Proficiency in data modeling for analytics and machine learning. MAJOR JOB RESPONSIBILITIES: Specify major duties performed by the job and % of time spent on duties. Design and develop methods to process structured, semi-structured, and unstructured data using batch and real-time techniques Develop release pipelines to automate build, version control, and deployment tasks Build and maintain reusable templates, code libraries, and semantic models Establish gatekeeping and guard rail processes for production data promotion Collaborate with cross-functional teams including data, business, and technical stakeholders Promote data reusability and modular data product delivery Define and enforce data quality and integrity controls Provide technical guidance to less experienced data engineers Optimize performance using parallel processing and minimal data movement Stay current with data technologies and share insights across the organization Standardize, design, and develop Databricks applications, data integrations and automated business processes. Integrate data from multiple systems, databases, APIs, and business applications. Provide technical guidance, knowledge sharing, and support for business users and fellow data engineers.   About Southern Company Southern Company (NYSE: SO ) is a leading energy provider serving 9 million customers across the Southeast and beyond through its family of companies. Providing clean, safe, reliable and affordable energy with excellent service is our mission. The company has electric operating companies in three states, natural gas distribution companies in four states, a competitive generation company, a leading distributed energy solutions provider with national capabilities, a fiber optics network and telecommunications services. Through an industry-leading commitment to innovation, resilience and sustainability, we are taking action to meet customers' and communities' needs while advancing our goal of net-zero greenhouse gas emissions by 2050. Our uncompromising values ensure we put the needs of those we serve at the center of everything we do and are the key to our sustained success. We are transforming energy into economic, environmental and social progress for tomorrow. Our corporate culture has been recognized by a variety of organizations, earning the company awards and recognitions that reflect Our Values and dedication to service. To learn more, visit www.southerncompany.com . Southern Company invests in the well-being of its employees and their families through a comprehensive total rewards strategy that includes competitive base salary, annual incentive awards for eligible employees and health, welfare and retirement benefits designed to support physical, financial, and emotional/social well-being. This position may also be eligible for additional compensation, such as an incentive program, with the amount of any bonus/awards subject to the terms and conditions of the applicable incentive plan(s). A summary of the benefits offered for this position can be found here https://seo.nlx.org/southernco/pdf/SOCO-Benefits.pdf . Additional and specific details about total compensation and beneﬁts will also be provided during the hiring process. Southern Company
+
+---
+
+## 42. [MAYBE] Flutter | Data Engineer
 - Link: https://flutterbe.wd3.myworkdayjobs.com/FlutterInt_External/job/Tbilisi-Georgia/Data-Engineer_JR142098
 - Location: Tbilisi, Georgia
 - Posted: Nov 01 (board gives the date only)
 - Scanner fit: ~40 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: aws, postgres, python, spark, sql, classification, data quality, lambda, pipeline | Lacks: airflow, databricks, dbt, kafka, scala  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -785,11 +885,12 @@ Data Engineer Overview of the Role The Data Engineer builds and operates the dat
 
 ---
 
-## 39. [MAYBE] Clera | Applied AI Engineer
+## 43. [MAYBE] Clera | Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/clera/7fc644ed-ef12-4e91-b755-710e55bfffc1
 - Location: San Francisco United States
 - Posted: Nov 02 12:03 ET
 - Scanner fit: ~40 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: llm, python | Lacks: -  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -844,11 +945,12 @@ On-site in San Francisco, United States.
 
 ---
 
-## 40. [MAYBE] Hearst | Research Associate
+## 44. [MAYBE] Hearst | Research Associate
 - Link: https://job-boards.greenhouse.io/hearst/jobs/4466212009
 - Location: Carmel, IN, United States
 - Posted: Nov 02 10:12 ET
 - Scanner fit: ~40 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: core | Has: excel, healthcare, research | Lacks: -
 
 ### Job description
@@ -857,11 +959,12 @@ In Some Jobs You Take Orders. In This One, You Write History. Join the healthcar
 
 ---
 
-## 41. [MAYBE] Dartmouth Health | Title Statistical Research Analyst
+## 45. [MAYBE] Dartmouth Health | Title Statistical Research Analyst
 - Link: https://careers-dartmouth-hitchcock.icims.com/jobs/42520/statistical-research-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
 - Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
 - Title scope: core | Has: statistic, git, publication, quantitative, research | Lacks: sas  | Note: no H-1B filings found for this employer
 
 ### Job description
@@ -870,11 +973,12 @@ Statistical Research Analyst in Lebanon, New Hampshire | Careers at Lebanon, NH 
 
 ---
 
-## 42. [MAYBE] Roche | Pharma Services Research Associate
+## 46. [MAYBE] Roche | Pharma Services Research Associate
 - Link: https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/Pharma-Services-Research-Associate_202610-127883-2
 - Location: Tucson
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 7 in data/analytics/finance occupations
+- Type: full-time
 - Title scope: core | Has: aws, healthcare, research | Lacks: -
 
 ### Job description
@@ -883,14 +987,43 @@ At Roche you can show up as yourself, embraced for the unique qualities you brin
 
 ---
 
-## 43. [MAYBE] University System of New Hampshire | Adjunct Research Assistant - NATO LAB
+## 47. [MAYBE] University System of New Hampshire | Adjunct Research Assistant - NATO LAB
 - Link: https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Adjunct-Research-Assistant---NATO-LAB_JR10502
 - Location: University of New Hampshire – Main Campus
 - Posted: Nov 02 (board gives the date only)
 - Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
 - Title scope: core | Has: llm, classification, research | Lacks: -
 
 ### Job description
 
 USNH Employees should apply within Workday through the Jobs Hub app ADJUNCT NATO LAB Research Assistant: This is an adjunct hourly staff research position to work on a variety of research projects under the direction of Professor Nate Oldenhuis. Duties/Responsibilities Perform research as directed. Assist the group with maintaining an organized and hygiene lab space. Write reports as required. Maintain a lab notebook of research as required. Generally participate in group research communications. Requirements Minimum Acceptable Education & Experience: Completion of a yearlong general chemistry course, organic chemistry preferred. Applicant Instructions: Applicants should be prepared to upload the following documents when applying online within the My Experience: Resume/CV section of the application: (Maximum of 5 Documents - additional documents can be added to the Application Questions section of the application) Resume/CV Compensation Pay Range: $20/hour Please be advised that this position is supported by external sponsor funding. As such, continued employment in this role is contingent upon the availability of those external funds. If, for any reason, the sponsor funding is reduced or discontinued, employment may be subject to modification or termination in accordance with applicable policies and procedures. The University of New Hampshire is an R1 Carnegie classification research institution providing comprehensive, high-quality undergraduate and graduate programs of distinction. UNH is located in Durham on a 188-acre campus, 60 miles north of Boston and 8 miles from the Atlantic coast and is convenient to New Hampshire’s lakes and mountains. There is a student enrollment of 13,000 students, with a full-time faculty of over 600, offering 90 undergraduate and more than 70 graduate programs. The University actively promotes a dynamic learning environment in which qualified individuals of differing perspectives, life experiences, and cultural backgrounds pursue academic goals with mutual respect and shared inquiry.
+
+---
+
+## 48. [MAYBE] Princeton University | Job Title Research Assistant - Temporary
+- Link: https://main-princeton.icims.com/jobs/22301/research-assistant---temporary/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: part-time
+- Title scope: core | Has: dashboard, publication, research | Lacks: -  | Note: part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+
+### Job description
+
+Research Assistant - Temporary in Princeton, New Jersey | Careers at Princeton University Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Already registered? Log back in! Research Assistant - Temporary Requisition # 2026-22301 Date Posted 1 month ago (10/2/2026 3:02 PM) Department Art Museum Category Arts and Museum Administration Job Type Temporary Overview The Princeton University Art Museum (PUAM) is seeking a part-time Research Assistant from October 2026 to June 2027 to support provenance research, with a particular focus on objects in the Asian Art, American Art, and Prints & Drawings collections, as well as research into Nazi-era gaps in provenance across the collection. This position is temporary. About the Museum: With a collecting history that extends back to 1755, the Princeton University Art Museum is one of the leading university art museums in the country, featuring collections that have grown to include more than 117,000 works of art ranging from ancient to contemporary art and spanning the globe. Committed to advancing Princeton’s teaching and research missions, the Art Museum also serves as a gateway to the University for visitors from around the world. The bold and welcoming new Princeton University Art Museum is open daily at the heart of Princeton’s campus. Admission is free to all. The Museum also operates Art@Bainbridge, a gallery project at 158 Nassau Street; two Museum Stores; and Mosaic restaurant. Responsibilities Conduct curatorial and archival research to trace the ownership and acquisition history of artworks and artifacts; Assist in maintaining detailed documentation by updating the museum’s collections management database with newly discovered provenance data; Assist with composing provenance statements for publication on the Museum’s website. Qualifications Essential Requirements: M.A. in Art History, Museum Studies, or a related field. Prior employment or internship experience with provenance research in a museum or art market context, or related experience. Interest in art law, cultural patrimony, and heritage issues. Preferred Requirements: PhD in Art History or related field. Some familiarity with the practice and methods of provenance research. Reading knowledge of at least one foreign language, with French and German being particularly desirable. Be advised that you will be contacted only if there is further interest in your application. Your candidate dashboard may not display status updates for this requisition. Princeton University
+
+---
+
+## 49. [MAYBE] PennState University | Part-Time Research Assistant in Forest Ecology
+- Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-in-Forest-Ecology_REQ_0000083844-1
+- Location: Penn State University Park
+- Posted: Nov 02 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: part-time
+- Title scope: core | Has: statistic, reporting, research | Lacks: -  | Note: part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+
+### Job description
+
+APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process . Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday. If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants . Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants . JOB DESCRIPTION AND POSITION REQUIREMENTS The Department of Ecosystem Science and Management is seeking two research assistants who will help with data collection, including field measurements, sample preparation and analysis, data entry, plus equipment, lab, and field site maintenance. BACKGROUND CHECKS/CLEARANCES Employment with the University will require successful completion of background check(s) in accordance with University policies. This position requires that you operate a motor vehicle as a part of your job duties. A valid driver’s license and successful completion of a motor vehicle records check will be required in addition to standard background checks. CAMPUS SECURITY CRIME STATISTICS Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here .
 
