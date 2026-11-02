@@ -20,39 +20,41 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 14 | JP Morgan Chase | Corporate Banking Specialist - Corporate Risk - Analyst | 62 | 1098 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
 | 15 | Citi | Asset Backed Securities Quant | 61 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
 | 16 | U.S. Bank | BTIG: Research, Equity Research Associate, Analyst (Chemicals) | 60 | 82 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 17 | Tutor Intelligence | Applied AI Engineer, Go-to-Market | 57 | none found (check myvisajobs) | Nov 01 20:56 ET |
-| 18 | Shaw Industries Group | Data Analytics Engineer | 57 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 19 | CyrusOne | Insurance & Risk Analyst | 55 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 20 | Brown & Brown Insurance | Risk Analyst | 54 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 21 | Equifax | Data Analytics Rotational Development Associate | 54 | 34 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 22 | Miami University | Research Associate | 54 | cap-exempt employer | Nov 02 (board gives the date only) |
-| 23 | O'Reilly Auto Parts | Pricing Data Analyst | 54 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 24 | Perry Ellis International | Data Analyst | 54 | none found (check myvisajobs) | Nov 02 16:24 ET |
-| 25 | TikTok | Applied Scientist, Search, E-Commerce Alliance | 52 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 26 | Micron Technology | AI Engineer | 52 | 46 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 27 | Plaid | Machine Learning Engineer - Lendscore | 50 | 5 in data/analytics/finance occupations | Nov 02 00:27 ET |
-| 28 | Cooper University Health Care | Job Title Reporting and Analytics Developer | 50 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 29 | Brown Brothers Harriman | Financial Reporting Analyst- Alternatives | 50 | 3 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 30 | Mizuho Securities USA | Research Associate | 50 | 19 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 31 | Manulife Financial | Business Intelligence Analyst | 50 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 32 | Regions Bank | Capital Markets Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 33 | Barclays | Equity Research Analyst – Derivatives | 50 | 142 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 34 | Barclays | 2027 Quantitative Analytics Associate Graduate Programme Glasgow | 45 | 142 in data/analytics/finance occupations | Nov 01 (board gives the date only) |
-| 35 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 36 | UTHealth Houston | Research Associate (Urology) | 45 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 37 | Clairo | Imaging Research Associate I | 45 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 38 | Navy Federal | Technical Product Analyst | 44 | 111 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 39 | Fidelity National Information Services | Business Intelligence & Data Analysis, AWS, BI | 44 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 40 | JM Family | Investment Analyst - Private Markets | 44 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 41 | Southern Company | Data Engineer | 42 | 7 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 42 | Flutter | Data Engineer | 40 | none found (check myvisajobs) | Nov 01 (board gives the date only) |
-| 43 | Clera | Applied AI Engineer | 40 | none found (check myvisajobs) | Nov 02 12:03 ET |
-| 44 | Hearst | Research Associate | 40 | 3 in data/analytics/finance occupations | Nov 02 10:12 ET |
-| 45 | Dartmouth Health | Title Statistical Research Analyst | 40 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 46 | Roche | Pharma Services Research Associate | 40 | 7 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 47 | University System of New Hampshire | Adjunct Research Assistant - NATO LAB | 40 | cap-exempt employer | Nov 02 (board gives the date only) |
-| 48 | Princeton University | Job Title Research Assistant - Temporary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 49 | PennState University | Part-Time Research Assistant in Forest Ecology | 40 | cap-exempt employer | Nov 02 (board gives the date only) |
+| 17 | 2020 Companies | Data Analyst, Repair Quality / Samsung Electronics America - Plano, TX 75023 | 60 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 18 | Tutor Intelligence | Applied AI Engineer, Go-to-Market | 57 | none found (check myvisajobs) | Nov 01 20:56 ET |
+| 19 | Shaw Industries Group | Data Analytics Engineer | 57 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 20 | CyrusOne | Insurance & Risk Analyst | 55 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 21 | Brown & Brown Insurance | Risk Analyst | 54 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 22 | Equifax | Data Analytics Rotational Development Associate | 54 | 34 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 23 | Miami University | Research Associate | 54 | cap-exempt employer | Nov 02 (board gives the date only) |
+| 24 | O'Reilly Auto Parts | Pricing Data Analyst | 54 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 25 | Perry Ellis International | Data Analyst | 54 | none found (check myvisajobs) | Nov 02 16:24 ET |
+| 26 | TikTok | Applied Scientist, Search, E-Commerce Alliance | 52 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 27 | Micron Technology | AI Engineer | 52 | 46 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 28 | Plaid | Machine Learning Engineer - Lendscore | 50 | 5 in data/analytics/finance occupations | Nov 02 00:27 ET |
+| 29 | Cooper University Health Care | Job Title Reporting and Analytics Developer | 50 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 30 | Brown Brothers Harriman | Financial Reporting Analyst- Alternatives | 50 | 3 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 31 | Mizuho Securities USA | Research Associate | 50 | 19 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 32 | Manulife Financial | Business Intelligence Analyst | 50 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 33 | Regions Bank | Capital Markets Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 34 | Barclays | Equity Research Analyst – Derivatives | 50 | 142 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 35 | Amazon | Applied Scientist, Mobile Manipulation Robotics (I/O) | 48 | 3890 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 36 | Barclays | 2027 Quantitative Analytics Associate Graduate Programme Glasgow | 45 | 142 in data/analytics/finance occupations | Nov 01 (board gives the date only) |
+| 37 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 38 | UTHealth Houston | Research Associate (Urology) | 45 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 39 | Clairo | Imaging Research Associate I | 45 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 40 | Navy Federal | Technical Product Analyst | 44 | 111 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 41 | Fidelity National Information Services | Business Intelligence & Data Analysis, AWS, BI | 44 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 42 | JM Family | Investment Analyst - Private Markets | 44 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 43 | Southern Company | Data Engineer | 42 | 7 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 44 | Flutter | Data Engineer | 40 | none found (check myvisajobs) | Nov 01 (board gives the date only) |
+| 45 | Clera | Applied AI Engineer | 40 | none found (check myvisajobs) | Nov 02 12:03 ET |
+| 46 | Hearst | Research Associate | 40 | 3 in data/analytics/finance occupations | Nov 02 10:12 ET |
+| 47 | Dartmouth Health | Title Statistical Research Analyst | 40 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 48 | Roche | Pharma Services Research Associate | 40 | 7 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 49 | University System of New Hampshire | Adjunct Research Assistant - NATO LAB | 40 | cap-exempt employer | Nov 02 (board gives the date only) |
+| 50 | Princeton University | Job Title Research Assistant - Temporary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 51 | PennState University | Part-Time Research Assistant in Forest Ecology | 40 | cap-exempt employer | Nov 02 (board gives the date only) |
 
 ---
 
@@ -394,7 +396,21 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 17. [MAYBE] Tutor Intelligence | Applied AI Engineer, Go-to-Market
+## 17. [MAYBE] 2020 Companies | Data Analyst, Repair Quality / Samsung Electronics America - Plano, TX 75023
+- Link: https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Plano-TX/Data-Analyst--Repair-Quality---Samsung-Electronics-America---Plano--TX-75023_REQ_113953
+- Location: Plano, TX
+- Posted: Nov 02 (board gives the date only)
+- Scanner fit: ~60 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, statistic, credit, kpi, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Job Type: Regular Work Location: Samsung Electronics America - Plano, TX 75023 Overview: 2020 Companies has a full-time Data Analyst opportunity representing our client, Samsung Electronics America. The Data Analyst will support the entire Service/Repair Quality management team for Samsung, focusing on in-depth nationwide data, trends, and analysis for recommendations and improvements. The position will ensure all data is captured appropriately, reported against, and maintained clearly and accurately for the leadership team to review and act. The role of a data analyst is to ensure reliable data by setting standards, identifying root causes, and helping to resolve issues. What's in it for you? Competitive hourly rate, paid weekly Next day pay on-demand with DailyPay Health/Dental/Vision benefits 401K Program with matching Paid Time Off Paid Holidays Scholarship opportunities for employees and direct family members Employee Assistance Program Leadership Development Program Job Description: Collect the data from different sources either it may be raw data, structured data, or ASC’s data, and convert that data to meaningful and useful data for the organization Collects, cleans, and interprets data sets to answer a question or solve problem Manages and analyzes the customer provided data for warranties and bounce return Responsible for monitoring, collecting, and collating repair data using field metrics Creating dashboards and reports for all levels of Samsung Quality Management and Care Teams Qualifications: Preferred Bachelor’s Degree, from an accredited college or university, or equivalent work experience in the telecommunications industry Preferred 1+ years’ experience in a quality or wireless telecommunications position and long-term customer contact and relationship building Experience setting up Quality/Sustaining engineering processes and procedures Previous experience with OEM handset products, a combination of CDMA and GSM, and project/product management skills Experience researching and resolving customer technical complaints and issues Experience with using statistical process control and failure mode effect analysis FMEA (Failure Mode and Effects Analysis) applications The ability to understand significant knowledge of circuit design of wireless handsets The ability to develop and maintain excellent working relationships with multiple levels within the company and with external contacts including customers & authorized service agents etc. The ability to gather and analyze data from multiple sources, prepare spreadsheets, charts, graphs, and tables of information, and to plan and prioritize multiple work assignments The ability to read, write, provide critical technical reviews, prepare reports, and understand technical manuals, test procedures, and technical product information Read and interpret detailed and complex customer requirements Fully understanding of department KPIs and expectations Physical/Mental Demands and Working Conditions: Operate PC more than 75% of work time in an alternating sedentary and highly mobile position High level of visual acuity, numeric/character distinction, and moderate color distinction for accurate test equipment operation, information analysis, and error recognition Understanding complex Math and reading Ability for analysis/comprehension and judgement/decision making Demonstrated competency in both oral and written communication modes for both internal and external personnel at various levels Work independently and in a team environment, in order to achieve personal and team goals and complete assignments within established time frame s What You Can Expect From 2020 Companies We welcome every voice, and we are committed to building a truly inclusive environment where your differences are not just welcomed, they are celebrated. We are always identifying opportunities to encourage our team to be their authentic selves, while working to provide a best-in-class experience for our employees. Whether that’s paid holidays, long-term career pathing options, personal development opportunities or professional stretch assignments, you can expect 2020 Companies to support you. 2020’s Commitment We are committed to creating a diverse and inclusive organization and are proud to be an
+
+---
+
+## 18. [MAYBE] Tutor Intelligence | Applied AI Engineer, Go-to-Market
 - Link: https://jobs.lever.co/tutorintelligence/d095e01f-802b-43f0-9939-d97161084f23
 - Location: Watertown, MA Watertown, MA US
 - Posted: Nov 01 20:56 ET
@@ -444,7 +460,7 @@ Tutor Intelligence
 
 ---
 
-## 18. [MAYBE] Shaw Industries Group | Data Analytics Engineer
+## 19. [MAYBE] Shaw Industries Group | Data Analytics Engineer
 - Link: https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-72-900-VD-Parrot-Parkway-Dalton-GA-30721-USA/Data-Analytics-Engineer_R-158460-1
 - Location: Shaw Plant 72, 900 VD Parrot Parkway, Dalton, GA 30721 USA
 - Posted: Nov 02 (board gives the date only)
@@ -458,7 +474,7 @@ Job Title Data Analytics Engineer Position Overview Shaw Industries Group, Inc. 
 
 ---
 
-## 19. [MAYBE] CyrusOne | Insurance & Risk Analyst
+## 20. [MAYBE] CyrusOne | Insurance & Risk Analyst
 - Link: https://cyrusone.wd1.myworkdayjobs.com/CyrusOneCareerPortal/job/Dallas-TX/Insurance---Risk-Analyst_R0008189
 - Location: Dallas, TX
 - Posted: Nov 02 (board gives the date only)
@@ -472,7 +488,7 @@ The Insurance & Risk Analyst supports CyrusOne's global insurance and enterprise
 
 ---
 
-## 20. [MAYBE] Brown & Brown Insurance | Risk Analyst
+## 21. [MAYBE] Brown & Brown Insurance | Risk Analyst
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---California/Risk-Analyst_R26_0000003808
 - Location: Remote - California
 - Posted: Nov 02 (board gives the date only)
@@ -486,7 +502,7 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 21. [MAYBE] Equifax | Data Analytics Rotational Development Associate
+## 22. [MAYBE] Equifax | Data Analytics Rotational Development Associate
 - Link: https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data-Analytics-Rotational-Development-Associate_J00178985-2
 - Location: USA - Georgia - Alpharetta - 30005
 - Posted: Nov 02 (board gives the date only)
@@ -500,7 +516,7 @@ Equifax is where you can power your possible. If you want to achieve your true p
 
 ---
 
-## 22. [MAYBE] Miami University | Research Associate
+## 23. [MAYBE] Miami University | Research Associate
 - Link: https://miamioh.wd5.myworkdayjobs.com/miamioh-staff/job/Upham-Hall/Research-Associate_JR105056-1
 - Location: 2 Locations
 - Posted: Nov 02 (board gives the date only)
@@ -514,7 +530,7 @@ Job Title Research Associate Department Scripps Foundation Research Operations W
 
 ---
 
-## 23. [MAYBE] O'Reilly Auto Parts | Pricing Data Analyst
+## 24. [MAYBE] O'Reilly Auto Parts | Pricing Data Analyst
 - Link: https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/Pricing-Data-Analyst_R207179
 - Location: Headquarters
 - Posted: Nov 02 (board gives the date only)
@@ -528,7 +544,7 @@ The Pricing Data Analyst will work with the Pricing Data Manager on all areas co
 
 ---
 
-## 24. [MAYBE] Perry Ellis International | Data Analyst
+## 25. [MAYBE] Perry Ellis International | Data Analyst
 - Link: https://job-boards.greenhouse.io/perryellisinternational/jobs/4724029006
 - Location: Miami, Florida, United States
 - Posted: Nov 02 16:24 ET
@@ -542,7 +558,7 @@ Company Overview Perry Ellis International, Inc. represents a diverse portfolio 
 
 ---
 
-## 25. [MAYBE] TikTok | Applied Scientist, Search, E-Commerce Alliance
+## 26. [MAYBE] TikTok | Applied Scientist, Search, E-Commerce Alliance
 - Link: https://lifeattiktok.com/search/7257707071751620924
 - Location: Seattle, Washington, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -582,7 +598,7 @@ Preferred Qualifications
 
 ---
 
-## 26. [MAYBE] Micron Technology | AI Engineer
+## 27. [MAYBE] Micron Technology | AI Engineer
 - Link: https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-Engineer_JR111826-1
 - Location: Boise, ID - Main Site
 - Posted: Nov 02 (board gives the date only)
@@ -596,7 +612,7 @@ Our vision is to transform how the world uses information to enrich life for all
 
 ---
 
-## 27. [MAYBE] Plaid | Machine Learning Engineer - Lendscore
+## 28. [MAYBE] Plaid | Machine Learning Engineer - Lendscore
 - Link: https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4
 - Location: New York City Office United States remote
 - Posted: Nov 02 00:27 ET
@@ -675,7 +691,7 @@ Plaid is proud to be an
 
 ---
 
-## 28. [MAYBE] Cooper University Health Care | Job Title Reporting and Analytics Developer
+## 29. [MAYBE] Cooper University Health Care | Job Title Reporting and Analytics Developer
 - Link: https://careers-cooperhealth.icims.com/jobs/86865/reporting-and-analytics-developer/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -689,7 +705,7 @@ Reporting and Analytics Developer in Camden, New Jersey | Careers at 1 Cooper Pl
 
 ---
 
-## 29. [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst- Alternatives
+## 30. [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst- Alternatives
 - Link: https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Financial-Reporting-Analyst--Alternatives_73380
 - Location: Boston
 - Posted: Nov 02 (board gives the date only)
@@ -703,7 +719,7 @@ At BBH, Partnership is more than a form of ownership—it’s our approach to bu
 
 ---
 
-## 30. [MAYBE] Mizuho Securities USA | Research Associate
+## 31. [MAYBE] Mizuho Securities USA | Research Associate
 - Link: https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/Research-Associate_R7399
 - Location: New York, NY (1271 AOA/6th Ave)
 - Posted: Nov 02 (board gives the date only)
@@ -717,7 +733,7 @@ Join Mizuho’s Equity Research Team. The expected base salary ranges from $100,
 
 ---
 
-## 31. [MAYBE] Manulife Financial | Business Intelligence Analyst
+## 32. [MAYBE] Manulife Financial | Business Intelligence Analyst
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Boston-Massachusetts/Business-Intelligence-Analyst_JR26101324-2
 - Location: 3 Locations
 - Posted: Nov 02 (board gives the date only)
@@ -731,7 +747,7 @@ This role will support US Business primarily on valuation systems data. They wil
 
 ---
 
-## 32. [MAYBE] Regions Bank | Capital Markets Operational Risk Analyst
+## 33. [MAYBE] Regions Bank | Capital Markets Operational Risk Analyst
 - Link: https://regions.wd5.myworkdayjobs.com/regions_careers/job/Atlanta-GA---Regions-Plaza-Office/Capital-Markets-Operational-Risk-Analyst_R105177
 - Location: 3 Locations
 - Posted: Nov 02 (board gives the date only)
@@ -745,7 +761,7 @@ Thank you for your interest in a career at Regions. At Regions, we believe assoc
 
 ---
 
-## 33. [MAYBE] Barclays | Equity Research Analyst – Derivatives
+## 34. [MAYBE] Barclays | Equity Research Analyst – Derivatives
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Equity-Research-Analyst---Derivatives_JR-0000134320
 - Location: New York, 745 7th Avenue
 - Posted: Nov 02 (board gives the date only)
@@ -759,7 +775,21 @@ Job Description Purpose of the role To produce and deliver Research with differe
 
 ---
 
-## 34. [MAYBE] Barclays | 2027 Quantitative Analytics Associate Graduate Programme Glasgow
+## 35. [MAYBE] Amazon | Applied Scientist, Mobile Manipulation Robotics (I/O)
+- Link: https://www.amazon.jobs/en/jobs/10594933/applied-scientist-mobile-manipulation-robotics-i-o
+- Location: North Reading, Massachusetts, USA
+- Posted: Nov 02 (board gives the date only)
+- Scanner fit: ~48 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 3890 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: llm, machine learning, python, data quality, pipeline, publication, research, validation | Lacks: c++, java
+
+### Job description
+
+Amazon Robotics is transforming warehouse automation through edge AI and machine learning applied to real-world robotics challenges. We're seeking a Applied Scientist to advance our mobile manipulation capabilities by developing learning-based approaches that enable robots to navigate and manipulate objects in dynamic fulfillment environments. This role offers the opportunity to apply state-of-the-art research to production systems operating at Amazon's unprecedented scale. Key job responsibilities - Model Development and Training: Designing and implementing the model architectures, training and fine tuning the models using various datasets, and optimize the model performance through iterative experiments - Data Management: Process and prepare training data, including data governance, provenance tracking, data quality checks and creating reusable data pipelines. - Experimentation and Validation: Design and execute experiments to test model capabilities on the simulator and on the embodiment, validate performance across different scenarios, create a baseline and iteratively improve model performance. - Code Development: Write clean, maintainable, well commented and documented code, contribute to training infrastructure, create tools for model evaluation and testing, and implement necessary APIs - Research: Stay current with latest developments in foundation models and robotics, assist in literature reviews and research documentation, prepare technical reports and presentations, and contribute to research discussions and brainstorming sessions. - Collaboration: Work closely with senior scientists, engineers, and leaders across multiple teams, participate in knowledge sharing, support integration efforts with robotics hardware teams, and help document best practices and methodologies. A day in the life Amazon offers a full range of benefits that support you and eligible family members, including domestic partners and their children. Benefits can vary by location, the number of regularly scheduled hours you work, length of employment, and job status such as seasonal or temporary employment. The benefits that generally apply to regular, full-time employees include: 1. Medical, Dental, and Vision Coverage 2. Maternity and Parental Leave Options 3. Paid Time Off (PTO) 4. 401(k) Plan If you are not sure that every qualification on the list above describes you exactly, we'd still love to hear from you! At Amazon, we value people with unique backgrounds, experiences, and skillsets. If you’re passionate about this role and want to make an impact on a global scale, please apply! About the team Are you inspired by invention? Is problem solving through teamwork in your DNA? Do you like the idea of seeing how your work impacts the bigger picture? Answer yes to any of these and you’ll fit right in here at Amazon Robotics. We are a smart, collaborative team of enthusiastic doers that work passionately to apply innovative advances in robotics and software to solve real-world challenges that will transform our customers’ experiences in ways we can’t even image yet. We invent new improvements every day. We are Amazon Robotics and we will give you the tools and support you need to invent with us in ways that are rewarding, fulfilling and fun! - 3+ years of building models for business application experience - PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience - Experience in patents or publications at top-tier peer-reviewed conferences or journals - Experience programming in Java, C++, Python or related language - Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing - Experience using Unix/Linux - Experience in professional software development Amazon
+
+---
+
+## 36. [MAYBE] Barclays | 2027 Quantitative Analytics Associate Graduate Programme Glasgow
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-Glasgow_JR-0000129392
 - Location: Glasgow Campus
 - Posted: Nov 01 (board gives the date only)
@@ -773,7 +803,7 @@ Job Description Purpose of the role Bringing quantitative and analytical experti
 
 ---
 
-## 35. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 37. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805653
 - Location: Plano, TX, United States US
 - Posted: Nov 02 (board gives the date only)
@@ -787,7 +817,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 36. [MAYBE] UTHealth Houston | Research Associate (Urology)
+## 38. [MAYBE] UTHealth Houston | Research Associate (Urology)
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8145
 - Location: San Antonio, TX, United States US
 - Posted: Nov 02 (board gives the date only)
@@ -801,7 +831,7 @@ Under general supervision, responsible for performing technical or narrative res
 
 ---
 
-## 37. [MAYBE] Clairo | Imaging Research Associate I
+## 39. [MAYBE] Clairo | Imaging Research Associate I
 - Link: https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Costa-Rica-Remote/Imaging-Research-Associate-I_R17313
 - Location: Costa Rica Remote
 - Posted: Nov 02 (board gives the date only)
@@ -815,7 +845,7 @@ Clario, part of Thermo Fisher Scientific, is seeking an Imaging Research Associa
 
 ---
 
-## 38. [MAYBE] Navy Federal | Technical Product Analyst
+## 40. [MAYBE] Navy Federal | Technical Product Analyst
 - Link: https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32243
 - Location: Vienna, VA, United States US
 - Posted: Nov 02 (board gives the date only)
@@ -829,7 +859,7 @@ The tech product analyst , Core Banking will provide support for the design, and
 
 ---
 
-## 39. [MAYBE] Fidelity National Information Services | Business Intelligence & Data Analysis, AWS, BI
+## 41. [MAYBE] Fidelity National Information Services | Business Intelligence & Data Analysis, AWS, BI
 - Link: https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-ATL-201-STE-900/Business-Intelligence---Data-Analysis--AWS--BI_JR0307826
 - Location: US GA ATL 201 STE 900
 - Posted: Nov 02 (board gives the date only)
@@ -843,7 +873,7 @@ Job Description About FIS Are you curious, motivated, and forward-thinking? At F
 
 ---
 
-## 40. [MAYBE] JM Family | Investment Analyst - Private Markets
+## 42. [MAYBE] JM Family | Investment Analyst - Private Markets
 - Link: https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Investment-Analyst_JR103735
 - Location: Florida - Deerfield Beach
 - Posted: Nov 02 (board gives the date only)
@@ -857,7 +887,7 @@ The Investment Analyst will join the Investment Team in managing JM Family’s i
 
 ---
 
-## 41. [MAYBE] Southern Company | Data Engineer
+## 43. [MAYBE] Southern Company | Data Engineer
 - Link: https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22546
 - Location: Birmingham, AL, United States US Atlanta, GA, United States
 - Posted: Nov 02 (board gives the date only)
@@ -871,7 +901,7 @@ DATA ENGINEER Locations: Atlanta, GA (30 Ivan Allen) OR Birmingham, AL (The Ener
 
 ---
 
-## 42. [MAYBE] Flutter | Data Engineer
+## 44. [MAYBE] Flutter | Data Engineer
 - Link: https://flutterbe.wd3.myworkdayjobs.com/FlutterInt_External/job/Tbilisi-Georgia/Data-Engineer_JR142098
 - Location: Tbilisi, Georgia
 - Posted: Nov 01 (board gives the date only)
@@ -885,7 +915,7 @@ Data Engineer Overview of the Role The Data Engineer builds and operates the dat
 
 ---
 
-## 43. [MAYBE] Clera | Applied AI Engineer
+## 45. [MAYBE] Clera | Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/clera/7fc644ed-ef12-4e91-b755-710e55bfffc1
 - Location: San Francisco United States
 - Posted: Nov 02 12:03 ET
@@ -945,7 +975,7 @@ On-site in San Francisco, United States.
 
 ---
 
-## 44. [MAYBE] Hearst | Research Associate
+## 46. [MAYBE] Hearst | Research Associate
 - Link: https://job-boards.greenhouse.io/hearst/jobs/4466212009
 - Location: Carmel, IN, United States
 - Posted: Nov 02 10:12 ET
@@ -959,7 +989,7 @@ In Some Jobs You Take Orders. In This One, You Write History. Join the healthcar
 
 ---
 
-## 45. [MAYBE] Dartmouth Health | Title Statistical Research Analyst
+## 47. [MAYBE] Dartmouth Health | Title Statistical Research Analyst
 - Link: https://careers-dartmouth-hitchcock.icims.com/jobs/42520/statistical-research-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -973,7 +1003,7 @@ Statistical Research Analyst in Lebanon, New Hampshire | Careers at Lebanon, NH 
 
 ---
 
-## 46. [MAYBE] Roche | Pharma Services Research Associate
+## 48. [MAYBE] Roche | Pharma Services Research Associate
 - Link: https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/Pharma-Services-Research-Associate_202610-127883-2
 - Location: Tucson
 - Posted: Nov 02 (board gives the date only)
@@ -987,7 +1017,7 @@ At Roche you can show up as yourself, embraced for the unique qualities you brin
 
 ---
 
-## 47. [MAYBE] University System of New Hampshire | Adjunct Research Assistant - NATO LAB
+## 49. [MAYBE] University System of New Hampshire | Adjunct Research Assistant - NATO LAB
 - Link: https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Adjunct-Research-Assistant---NATO-LAB_JR10502
 - Location: University of New Hampshire – Main Campus
 - Posted: Nov 02 (board gives the date only)
@@ -1001,7 +1031,7 @@ USNH Employees should apply within Workday through the Jobs Hub app ADJUNCT NATO
 
 ---
 
-## 48. [MAYBE] Princeton University | Job Title Research Assistant - Temporary
+## 50. [MAYBE] Princeton University | Job Title Research Assistant - Temporary
 - Link: https://main-princeton.icims.com/jobs/22301/research-assistant---temporary/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1015,7 +1045,7 @@ Research Assistant - Temporary in Princeton, New Jersey | Careers at Princeton U
 
 ---
 
-## 49. [MAYBE] PennState University | Part-Time Research Assistant in Forest Ecology
+## 51. [MAYBE] PennState University | Part-Time Research Assistant in Forest Ecology
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-in-Forest-Ecology_REQ_0000083844-1
 - Location: Penn State University Park
 - Posted: Nov 02 (board gives the date only)
