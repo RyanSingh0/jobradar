@@ -10,6 +10,8 @@
 
 **Turn on layer 4 only if layer 3 shows coverage below 95% after a week.** The number tells you whether the money is needed.
 
+**Job types in scope (2 Nov 2026):** full-time, part-time, temporary, contract, seasonal, visiting and volunteer roles all pass the title filter. Every posting in the HOT and MAYBE files carries a `Type:` line. On STEM OPT a job only counts if it is paid, 20+ hours a week, related to the degree and at an E-Verify employer with a Form I-983, so a part-time posting that states under 20 hours a week, or an unpaid one, is listed as MAYBE with that note instead of HOT. Other part-time and contract postings can still be HOT, with a reminder to confirm hours, W-2 status and E-Verify before applying.
+
 ---
 
 ## Deploy (about 40 minutes)
