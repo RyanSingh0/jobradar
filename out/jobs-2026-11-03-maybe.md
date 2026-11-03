@@ -21,38 +21,39 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 15 | CVS Health | Data Scientist - PBM Pricing Optimization and Advanced Analytics | 64 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
 | 16 | Pfizer | Associate, Insights, Intelligence & Strategy Oncology | 62 | 30 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
 | 17 | U.S. Bank | Impact Finance - Syndications Investor Strategy Analyst | 60 | 82 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 18 | Chubb | 2027 Chubb Associate, Project and Marketing Analyst | 57 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 19 | U.S. Bank | Trust Reporting Analyst 1 | 57 | 82 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 20 | Axis Capital | Insights & Analytics Associate – Global Markets | 55 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 21 | T. Rowe Price | Investment Analyst: Biotechnology Sector | 55 | 12 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 22 | Visa | Analyst, Visa Consulting & Analytics (VCA) — Caribbean | 55 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 23 | HUB International | AI Engineer | 55 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 24 | University of Miami | Research Assistant 1 (A) | 54 | cap-exempt employer | Nov 02 (board gives the date only) |
-| 25 | Vestwell | Data Analyst | 54 | 1 in data/analytics/finance occupations | Nov 03 10:50 ET |
-| 26 | Brown & Brown Insurance | Risk Analyst | 54 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 27 | TikTok | Machine Learning Engineer, Search - Local Services Team | 54 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 28 | Hunt Oil Company | Marketing Analyst I | 54 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 29 | Grant Thornton | AI Data Engineer Associate | 54 | 10 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 30 | Eulerity | Finance [Big] Data Analyst | 54 | none found (check myvisajobs) | Nov 03 15:04 ET |
-| 31 | Molina Healthcare | Analyst, Data & Analytics - CMS/SQL/Power Bi/Excel/Reporting for AHCA- Remote in Florida | 53 | 11 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 32 | Manulife Financial | Portfolio Analyst | 53 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 33 | TikTok | Machine Learning Engineer, Monetization Technology | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 34 | Global Web Index | Data Engineer | 52 | none found (check myvisajobs) | Nov 03 10:15 ET |
-| 35 | Vistra | Data Scientist | 52 | 8 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 36 | Amazon | Applied Scientist, Amazon Books Ads | 52 | 3890 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 37 | Cardinal Health | Analyst, Data Engineering | 50 | 28 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 38 | TikTok | Machine Learning Engineer, Recommendation, E-Commerce Alliance | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 39 | PIMCO | Product Analyst / Associate | 50 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 40 | STV | AI Engineer | 48 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 41 | Nationwide Children's Hospital | Research Assistant- RI Perinatal Besner | 45 | 3 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 42 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 43 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 02 (board gives the date only) |
-| 44 | Amazon | Applied Scientist, Sponsored Products and Brands | 44 | 3890 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 45 | Amazon | Applied Scientist, AGI | 43 | 3890 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 46 | Vestwell | Data Scientist | 42 | 1 in data/analytics/finance occupations | Nov 03 10:50 ET |
-| 47 | OpenAI | Applied AI Engineer, Digital Natives | 40 | 30 in data/analytics/finance occupations | Nov 03 04:51 ET |
-| 48 | Open Avenues Foundation | Data Analyst Confirmé F/H | 40 | 69 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 49 | Boys Town | Research Assistant I-Translational Motor Imaging Laboratory | 40 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 18 | Valsoft Corporation | Data Analyst - CLS | 60 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 19 | Chubb | 2027 Chubb Associate, Project and Marketing Analyst | 57 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 20 | U.S. Bank | Trust Reporting Analyst 1 | 57 | 82 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 21 | Axis Capital | Insights & Analytics Associate – Global Markets | 55 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 22 | T. Rowe Price | Investment Analyst: Biotechnology Sector | 55 | 12 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 23 | Visa | Analyst, Visa Consulting & Analytics (VCA) — Caribbean | 55 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 24 | HUB International | AI Engineer | 55 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 25 | University of Miami | Research Assistant 1 (A) | 54 | cap-exempt employer | Nov 02 (board gives the date only) |
+| 26 | Vestwell | Data Analyst | 54 | 1 in data/analytics/finance occupations | Nov 03 10:50 ET |
+| 27 | Brown & Brown Insurance | Risk Analyst | 54 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 28 | TikTok | Machine Learning Engineer, Search - Local Services Team | 54 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 29 | Hunt Oil Company | Marketing Analyst I | 54 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 30 | Grant Thornton | AI Data Engineer Associate | 54 | 10 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 31 | Eulerity | Finance [Big] Data Analyst | 54 | none found (check myvisajobs) | Nov 03 15:04 ET |
+| 32 | Molina Healthcare | Analyst, Data & Analytics - CMS/SQL/Power Bi/Excel/Reporting for AHCA- Remote in Florida | 53 | 11 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 33 | Manulife Financial | Portfolio Analyst | 53 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 34 | TikTok | Machine Learning Engineer, Monetization Technology | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 35 | Global Web Index | Data Engineer | 52 | none found (check myvisajobs) | Nov 03 10:15 ET |
+| 36 | Vistra | Data Scientist | 52 | 8 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 37 | Amazon | Applied Scientist, Amazon Books Ads | 52 | 3890 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 38 | Cardinal Health | Analyst, Data Engineering | 50 | 28 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 39 | TikTok | Machine Learning Engineer, Recommendation, E-Commerce Alliance | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 40 | PIMCO | Product Analyst / Associate | 50 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 41 | STV | AI Engineer | 48 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 42 | Nationwide Children's Hospital | Research Assistant- RI Perinatal Besner | 45 | 3 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 43 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 44 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 02 (board gives the date only) |
+| 45 | Amazon | Applied Scientist, Sponsored Products and Brands | 44 | 3890 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 46 | Amazon | Applied Scientist, AGI | 43 | 3890 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 47 | Vestwell | Data Scientist | 42 | 1 in data/analytics/finance occupations | Nov 03 10:50 ET |
+| 48 | OpenAI | Applied AI Engineer, Digital Natives | 40 | 30 in data/analytics/finance occupations | Nov 03 04:51 ET |
+| 49 | Open Avenues Foundation | Data Analyst Confirmé F/H | 40 | 69 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 50 | Boys Town | Research Assistant I-Translational Motor Imaging Laboratory | 40 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
 
 ---
 
@@ -401,7 +402,21 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 18. [MAYBE] Chubb | 2027 Chubb Associate, Project and Marketing Analyst
+## 18. [MAYBE] Valsoft Corporation | Data Analyst - CLS
+- Link: https://apply.workable.com/j/042F482A4F
+- Location: Beirut Lebanon
+- Posted: Nov 03 (board gives the date only)
+- Scanner fit: ~60 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, forecast, python, sql, cohort, data quality, kpi, pipeline, portfolio, reporting, research, segmentation | Lacks: java, scala  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Aspire Software is looking for a Data Analyst to join our team in Lebanon. Here is a little window into our company: Aspire Software operates and manages wholly owned software companies, providing mission-critical solutions across multiple verticals. By implementing industry best practices, Aspire delivers a time sensitive integration process, and the operation of a decentralized model has allowed it to become a hub for creating rapid growth by reinvesting in its portfolio. About the job: This is not a role where you spend your week pulling reports people may or may not look at. We want someone who can get inside the business, understand how Sales, Customer Success, Marketing, Payments, and Finance operate, and turn messy data and manual processes into scalable systems. You will become one of the key owners of our revenue data and HubSpot environment, helping us understand what is happening across the customer lifecycle, improving how our teams operate, and building AI agents and automations that remove repetitive work. You will have significant freedom to identify problems and build solutions. What Success Looks Like In your first year, you will help us: Establish reliable reporting and KPI infrastructure across Sales, Customer Success, Marketing, and Payments Improve the accuracy, structure, and usability of HubSpot across the organization Create a clear view of the entire revenue funnel, from lead through acquisition, onboarding, retention, expansion, and payments adoption Reduce manual reporting and administrative work through automation Build AI agents and workflows that make our teams faster and more effective; with a focus on go to market and reporting Improve forecasting, pipeline visibility, customer segmentation, and revenue analysis Create trusted datasets and dashboards that leadership can use to make decisions quickly Identify revenue opportunities and operational issues before someone has to ask What You’ll Do Revenue Operations & Analytics Build and maintain dashboards, reporting, and analytical models across the customer lifecycle Partner with Sales, Customer Success, Marketing, Payments, and Finance to define and track meaningful KPIs Analyze pipeline, conversion, retention, expansion, payments adoption, and customer behavior Help improve forecasting accuracy and pipeline management Identify trends, bottlenecks, anomalies, and opportunities hidden within our data Develop customer segmentation and cohort analysis to support GTM decisions Translate business questions into clear analysis and actionable recommendations Create scalable reporting rather than relying on manual spreadsheets and one-off analysis HubSpot Ownership & RevOps Help own and continuously improve our HubSpot environment Build and maintain workflows, properties, lifecycle stages, pipelines, reporting, and automation Improve CRM data quality, governance, and consistency Design processes that make HubSpot easier for Sales and Customer Success teams to use correctly Connect HubSpot data with other business systems and datasets Automate lead routing, customer workflows, lifecycle management, alerts, and internal processes Help establish scalable RevOps processes as the company grows AI Agents & Automation Identify repetitive or manual workflows that can be automated Build AI agents that can analyze information, perform tasks, and support business processes Create workflows that combine AI models, internal data, APIs, and business applications Experiment rapidly with new AI capabilities and turn useful prototypes into repeatable internal tools Build agents for use cases such as research, account intelligence, reporting, data enrichment, customer insights, and internal operations Measure whether automation actually saves time, improves accuracy, or drives better business outcomes Help teams understand where AI is useful and where traditional automation or analytics is the better solution Data Quality & Infrastructure Combine data from HubSpot and other business systems into consistent reporting Help define our source-of-truth metrics and business definitions Identify and resolve data quality issues Work with Product and Engineering when deeper integrations or data infrastructure are required Document key metrics, processes, workflows, and data definitions so systems can scale with the company Requirements 2–5 years of experience in data analytics, Revenue Operations, Business Operations, or a similar analytical role Strong hands-on experience with HubSpot Experience working with Sales, Customer Success, Marketing, or broader GTM organizations Strong SQL and data analysis skills Experience building dashboards and reporting using BI or visualization tools Advanced Excel or Google Sheets capabilities Comfortable working with imperfect datasets and figuring out how to make them useful Experience designing workflows and automating business processes Ability to translate analysis into clear business recommendations Strong curiosity and willingness to dig into how the business actually works Comfortable operating in a fast-moving environment where not everything has already been built AI & Automation Experience We are specifically looking for someone who is excited about using AI as a practical business tool. You should have experience experimenting with or building solutions using some combination of: AI agents and agentic workflows Large language models APIs and webhooks Workflow automation platforms Python or JavaScript Structured prompts and tool calling Data enrichment and research automation Connecting AI models to business applications and internal data You do not need to be an AI engineer. You do need to be someone who sees a repetitive process and immediately starts wondering whether there is a better way to do it. You’ll Thrive Here If… You like building things from scratch You are naturally curious about how businesses make money You would rather solve the underlying problem than keep producing the same report every Monday You are comfortable moving between data analysis, systems, automation, and business conversations You ask good questions and challenge assumptions You care about clean data but understand that real-world data rarely starts clean You can explain complicated analysis without making it complicated You enjoy experimenting with new technology and figuring out where it creates real value You want ownership rather than a narrowly defined list of tasks What You’ll Get A high-impact role with direct exposure to senior leadership Significant ownership over analytics, RevOps, and automation projects The opportunity to build systems and processes from the ground up Exposure across Sales, Customer Success, Marketing, Payments, Product, Engineering, and Finance The ability to experiment with and implement emerging AI technologies A growing international software business with significant investment behind its next stage of growth The opportunity to materially influence how Clubspeed [...]
+
+---
+
+## 19. [MAYBE] Chubb | 2027 Chubb Associate, Project and Marketing Analyst
 - Link: https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38049
 - Location: Boston, MA, United States US
 - Posted: Nov 03 (board gives the date only)
@@ -415,7 +430,7 @@ Our Chubb Associate Program is a great starting point for individuals seeking an
 
 ---
 
-## 19. [MAYBE] U.S. Bank | Trust Reporting Analyst 1
+## 20. [MAYBE] U.S. Bank | Trust Reporting Analyst 1
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Trust-Reporting-Analyst-1_2026-0027294-1
 - Location: 3 Locations
 - Posted: Nov 03 (board gives the date only)
@@ -429,7 +444,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 20. [MAYBE] Axis Capital | Insights & Analytics Associate – Global Markets
+## 21. [MAYBE] Axis Capital | Insights & Analytics Associate – Global Markets
 - Link: https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/Halifax-NS/Insights---Analytics-Associate---Global-Markets_REQ06820-1
 - Location: Halifax, NS
 - Posted: Nov 02 (board gives the date only)
@@ -443,7 +458,7 @@ This is your opportunity to join AXIS Capital – a trusted global provider of s
 
 ---
 
-## 21. [MAYBE] T. Rowe Price | Investment Analyst: Biotechnology Sector
+## 22. [MAYBE] T. Rowe Price | Investment Analyst: Biotechnology Sector
 - Link: https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Investment-Analyst--Biotechnology-Sector_84291
 - Location: Baltimore, MD
 - Posted: Nov 02 (board gives the date only)
@@ -457,7 +472,7 @@ At T. Rowe Price, we identify and actively invest in opportunities to help peopl
 
 ---
 
-## 22. [MAYBE] Visa | Analyst, Visa Consulting & Analytics (VCA) — Caribbean
+## 23. [MAYBE] Visa | Analyst, Visa Consulting & Analytics (VCA) — Caribbean
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/DO---Santo-Domingo-Dominican-Republic/Analyst--Visa-Consulting---Analytics--VCA----Caribbean_REF089722W
 - Location: DO - Santo Domingo, Dominican Republic
 - Posted: Nov 03 (board gives the date only)
@@ -471,7 +486,7 @@ About Us Visa is a world leader in payments technology, facilitating transaction
 
 ---
 
-## 23. [MAYBE] HUB International | AI Engineer
+## 24. [MAYBE] HUB International | AI Engineer
 - Link: https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Chicago-IL/AI-Engineer_R0039339
 - Location: Chicago, IL
 - Posted: Nov 03 (board gives the date only)
@@ -485,7 +500,7 @@ A path for every ambition. At HUB, we believe the best work happens when people 
 
 ---
 
-## 24. [MAYBE] University of Miami | Research Assistant 1 (A)
+## 25. [MAYBE] University of Miami | Research Assistant 1 (A)
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Assistant-1--A-_R100102516
 - Location: Miami, FL
 - Posted: Nov 02 (board gives the date only)
@@ -499,7 +514,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 25. [MAYBE] Vestwell | Data Analyst
+## 26. [MAYBE] Vestwell | Data Analyst
 - Link: https://job-boards.greenhouse.io/vestwell/jobs/8108684003
 - Location: New York, NY | Austin, TX | King of Prussia, PA | Scottsdale, AZ
 - Posted: Nov 03 10:50 ET
@@ -513,7 +528,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 26. [MAYBE] Brown & Brown Insurance | Risk Analyst
+## 27. [MAYBE] Brown & Brown Insurance | Risk Analyst
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Sandy-Springs-Atlanta-GA-USA/Risk-Analyst_R26_0000003859
 - Location: Sandy Springs ("Atlanta"), GA, USA
 - Posted: Nov 02 (board gives the date only)
@@ -527,7 +542,7 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 27. [MAYBE] TikTok | Machine Learning Engineer, Search - Local Services Team
+## 28. [MAYBE] TikTok | Machine Learning Engineer, Search - Local Services Team
 - Link: https://lifeattiktok.com/search/7525740914134272264
 - Location: Seattle, Washington, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -556,7 +571,7 @@ Preferred Qualifications
 
 ---
 
-## 28. [MAYBE] Hunt Oil Company | Marketing Analyst I
+## 29. [MAYBE] Hunt Oil Company | Marketing Analyst I
 - Link: https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1097
 - Location: Tuscaloosa, AL, United States US
 - Posted: Nov 03 (board gives the date only)
@@ -570,7 +585,7 @@ ESSENTIAL DUTIES AND RESPONSIBILITIES include the following. Other duties may be
 
 ---
 
-## 29. [MAYBE] Grant Thornton | AI Data Engineer Associate
+## 30. [MAYBE] Grant Thornton | AI Data Engineer Associate
 - Link: https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116135
 - Location: Edison, NJ, United States US Los Angeles, CA, United States San Francisco, CA, United States Atlanta, GA, United States Chicago, IL, United States Baltimore, MD, United States Minneapolis, MN, United States New York, NY, United States Charlotte, NC, United States Austin, TX, United States Dallas, TX, United States Houston, TX, United States Milwaukee, WI, United States Boston, MA, United States Philadelphia, PA, United States Arlington, VA, United States Bellevue, WA, United States
 - Posted: Nov 03 (board gives the date only)
@@ -584,7 +599,7 @@ Grant Thornton is seeking AI & Data Engineering Experienced Associates to suppor
 
 ---
 
-## 30. [MAYBE] Eulerity | Finance [Big] Data Analyst
+## 31. [MAYBE] Eulerity | Finance [Big] Data Analyst
 - Link: https://job-boards.greenhouse.io/eulerity/jobs/4726901006
 - Location: New York, NY
 - Posted: Nov 03 15:04 ET
@@ -598,7 +613,7 @@ Location: Midtown Manhattan, New York, NY (In-Person) Compensation: 17.00–20.0
 
 ---
 
-## 31. [MAYBE] Molina Healthcare | Analyst, Data & Analytics - CMS/SQL/Power Bi/Excel/Reporting for AHCA- Remote in Florida
+## 32. [MAYBE] Molina Healthcare | Analyst, Data & Analytics - CMS/SQL/Power Bi/Excel/Reporting for AHCA- Remote in Florida
 - Link: https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040119
 - Location: Tampa, FL, United States US Orlando, FL, United States
 - Posted: Nov 03 (board gives the date only)
@@ -612,7 +627,7 @@ JOB DESCRIPTION Job Summary Provides analyst support for data analysis and repor
 
 ---
 
-## 32. [MAYBE] Manulife Financial | Portfolio Analyst
+## 33. [MAYBE] Manulife Financial | Portfolio Analyst
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Charlotte-North-Carolina/Portfolio-Analyst_JR26100953-2
 - Location: 2 Locations
 - Posted: Nov 02 (board gives the date only)
@@ -626,7 +641,7 @@ The Portfolio Analyst will report to the Manager of Portfolio Analytics and will
 
 ---
 
-## 33. [MAYBE] TikTok | Machine Learning Engineer, Monetization Technology
+## 34. [MAYBE] TikTok | Machine Learning Engineer, Monetization Technology
 - Link: https://lifeattiktok.com/search/7475441025546471698
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -654,7 +669,7 @@ Preferred Qualification:
 
 ---
 
-## 34. [MAYBE] Global Web Index | Data Engineer
+## 35. [MAYBE] Global Web Index | Data Engineer
 - Link: https://job-boards.greenhouse.io/globalwebindex/jobs/8925398002
 - Location: Athens, GR
 - Posted: Nov 03 10:15 ET
@@ -668,7 +683,7 @@ Weekly office requirement: Hybrid, 1 day/week Employment type: Permanent, full-t
 
 ---
 
-## 35. [MAYBE] Vistra | Data Scientist
+## 36. [MAYBE] Vistra | Data Scientist
 - Link: https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Data-Scientist_40016531-1
 - Location: Irving, Texas
 - Posted: Nov 03 (board gives the date only)
@@ -682,7 +697,7 @@ If you have what it takes to become part of the Vistra family and would like to 
 
 ---
 
-## 36. [MAYBE] Amazon | Applied Scientist, Amazon Books Ads
+## 37. [MAYBE] Amazon | Applied Scientist, Amazon Books Ads
 - Link: https://www.amazon.jobs/en/jobs/10594793/applied-scientist-amazon-books-ads
 - Location: New York, New York, USA
 - Posted: Nov 03 (board gives the date only)
@@ -696,7 +711,7 @@ Amazon Advertising is one of Amazon's fastest growing and most profitable busine
 
 ---
 
-## 37. [MAYBE] Cardinal Health | Analyst, Data Engineering
+## 38. [MAYBE] Cardinal Health | Analyst, Data Engineering
 - Link: https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Analyst--Data-Engineering_20189397
 - Location: IND07
 - Posted: Nov 02 (board gives the date only)
@@ -710,7 +725,7 @@ Analyst, Data Engineering - Platform Engineering What Data Engineering Contribut
 
 ---
 
-## 38. [MAYBE] TikTok | Machine Learning Engineer, Recommendation, E-Commerce Alliance
+## 39. [MAYBE] TikTok | Machine Learning Engineer, Recommendation, E-Commerce Alliance
 - Link: https://lifeattiktok.com/search/7153294049829849351
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -737,7 +752,7 @@ Preferred Qualifications
 
 ---
 
-## 39. [MAYBE] PIMCO | Product Analyst / Associate
+## 40. [MAYBE] PIMCO | Product Analyst / Associate
 - Link: https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Product-Analyst_R106837-1
 - Location: 2 Locations
 - Posted: Nov 03 (board gives the date only)
@@ -751,7 +766,7 @@ PIMCO is a global leader in active fixed income with deep expertise across publi
 
 ---
 
-## 40. [MAYBE] STV | AI Engineer
+## 41. [MAYBE] STV | AI Engineer
 - Link: https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/AI-Engineer_JR5923
 - Location: 2 Locations
 - Posted: Nov 03 (board gives the date only)
@@ -765,7 +780,7 @@ STV is seeking an AI Engineer to join our Digital Advisory team at our New York 
 
 ---
 
-## 41. [MAYBE] Nationwide Children's Hospital | Research Assistant- RI Perinatal Besner
+## 42. [MAYBE] Nationwide Children's Hospital | Research Assistant- RI Perinatal Besner
 - Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Assistant--RI-Perinatal-Besner_R-28708-1
 - Location: Main Campus, Columbus, OH
 - Posted: Nov 02 (board gives the date only)
@@ -779,7 +794,7 @@ Overview: Job Description Summary: Performs research experiments in accordance w
 
 ---
 
-## 42. [MAYBE] Texas A&M AgriLife Research | Research Associate
+## 43. [MAYBE] Texas A&M AgriLife Research | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Research-Associate_R-098467-1
 - Location: College Station, TX
 - Posted: Nov 02 (board gives the date only)
@@ -793,7 +808,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Insti
 
 ---
 
-## 43. [MAYBE] Texas A&M University System | Research Associate
+## 44. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-098467
 - Location: College Station, TX
 - Posted: Nov 02 (board gives the date only)
@@ -807,7 +822,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Insti
 
 ---
 
-## 44. [MAYBE] Amazon | Applied Scientist, Sponsored Products and Brands
+## 45. [MAYBE] Amazon | Applied Scientist, Sponsored Products and Brands
 - Link: https://www.amazon.jobs/en/jobs/10595560/applied-scientist-sponsored-products-and-brands
 - Location: Arlington, Virginia, USA
 - Posted: Nov 03 (board gives the date only)
@@ -821,7 +836,7 @@ About Sponsored Products and Brands The Sponsored Products and Brands (SPB) team
 
 ---
 
-## 45. [MAYBE] Amazon | Applied Scientist, AGI
+## 46. [MAYBE] Amazon | Applied Scientist, AGI
 - Link: https://www.amazon.jobs/en/jobs/10595504/applied-scientist-agi
 - Location: Sunnyvale, California, USA
 - Posted: Nov 03 (board gives the date only)
@@ -835,7 +850,7 @@ Amazon is looking for an Applied Scientist with a strong deep learning backgroun
 
 ---
 
-## 46. [MAYBE] Vestwell | Data Scientist
+## 47. [MAYBE] Vestwell | Data Scientist
 - Link: https://job-boards.greenhouse.io/vestwell/jobs/8108241003
 - Location: New York, NY | Austin, TX | King of Prussia, PA | Scottsdale, AZ
 - Posted: Nov 03 10:50 ET
@@ -849,7 +864,7 @@ Amazon is looking for an Applied Scientist with a strong deep learning backgroun
 
 ---
 
-## 47. [MAYBE] OpenAI | Applied AI Engineer, Digital Natives
+## 48. [MAYBE] OpenAI | Applied AI Engineer, Digital Natives
 - Link: https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294
 - Location: London, UK United Kingdom remote
 - Posted: Nov 03 04:51 ET
@@ -921,7 +936,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 48. [MAYBE] Open Avenues Foundation | Data Analyst Confirmé F/H
+## 49. [MAYBE] Open Avenues Foundation | Data Analyst Confirmé F/H
 - Link: https://open.wd103.myworkdayjobs.com/OPEN/job/Lille/Data-Analyst-Confirm-H-F_R13778
 - Location: Lille
 - Posted: Nov 02 (board gives the date only)
@@ -935,7 +950,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 49. [MAYBE] Boys Town | Research Assistant I-Translational Motor Imaging Laboratory
+## 50. [MAYBE] Boys Town | Research Assistant I-Translational Motor Imaging Laboratory
 - Link: https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Research-Assistant-I-Translational-Motor-Imaging-Laboratory_REQ-2026-8475-1
 - Location: Omaha, NE
 - Posted: Nov 03 (board gives the date only)
