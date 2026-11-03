@@ -6,25 +6,34 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 |---|---|---|---|---|---|
 | 1 | Terranova | AI Engineer | 73 | none found (check myvisajobs) | Nov 03 01:53 ET |
 | 2 | Regions Bank | Enterprise Operations Analyst- Third Party Collections Strategy | 73 | 22 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 3 | Verizon Communications | Business Intelligence Consultant | 70 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 4 | State Street | Technical Business Analyst, Officer | 65 | 87 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 5 | M&G | Group Financial Crime MI and Reporting Consultant | 64 | 4 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 6 | Pfizer | Associate, Insights, Intelligence & Strategy Oncology | 62 | 30 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 7 | Axis Capital | Insights & Analytics Associate – Global Markets | 55 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 8 | T. Rowe Price | Investment Analyst: Biotechnology Sector | 55 | 12 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 9 | University of Miami | Research Assistant 1 (A) | 54 | cap-exempt employer | Nov 02 (board gives the date only) |
-| 10 | Vestwell | Data Analyst | 54 | 1 in data/analytics/finance occupations | Nov 03 10:50 ET |
-| 11 | Brown & Brown Insurance | Risk Analyst | 54 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 12 | Molina Healthcare | Analyst, Data & Analytics - CMS/SQL/Power Bi/Excel/Reporting for AHCA- Remote in Florida | 53 | 11 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 13 | Manulife Financial | Portfolio Analyst | 53 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 14 | Global Web Index | Data Engineer | 52 | none found (check myvisajobs) | Nov 03 10:15 ET |
-| 15 | Cardinal Health | Analyst, Data Engineering | 50 | 28 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 16 | Nationwide Children's Hospital | Research Assistant- RI Perinatal Besner | 45 | 3 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 17 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 18 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 02 (board gives the date only) |
-| 19 | Vestwell | Data Scientist | 42 | 1 in data/analytics/finance occupations | Nov 03 10:50 ET |
-| 20 | OpenAI | Applied AI Engineer, Digital Natives | 40 | 30 in data/analytics/finance occupations | Nov 03 04:51 ET |
-| 21 | Open Avenues Foundation | Data Analyst Confirmé F/H | 40 | 69 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 3 | HCSC | Analytics Consultant | 73 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 4 | Verizon Communications | Business Intelligence Consultant | 70 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 5 | Wells Fargo | Finance Data Management Analyst | 70 | 163 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 6 | Magna International | AI Engineer | 68 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 7 | State Street | Technical Business Analyst, Officer | 65 | 87 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 8 | M&G | Group Financial Crime MI and Reporting Consultant | 64 | 4 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 9 | Bank of Montreal | Business & Operations Development Specialist (New Grad) | 64 | 4 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 10 | Pfizer | Associate, Insights, Intelligence & Strategy Oncology | 62 | 30 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 11 | U.S. Bank | Impact Finance - Syndications Investor Strategy Analyst | 60 | 82 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 12 | Axis Capital | Insights & Analytics Associate – Global Markets | 55 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 13 | T. Rowe Price | Investment Analyst: Biotechnology Sector | 55 | 12 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 14 | Visa | Analyst, Visa Consulting & Analytics (VCA) — Caribbean | 55 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 15 | University of Miami | Research Assistant 1 (A) | 54 | cap-exempt employer | Nov 02 (board gives the date only) |
+| 16 | Vestwell | Data Analyst | 54 | 1 in data/analytics/finance occupations | Nov 03 10:50 ET |
+| 17 | Brown & Brown Insurance | Risk Analyst | 54 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 18 | TikTok | Machine Learning Engineer, Search - Local Services Team | 54 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 19 | Molina Healthcare | Analyst, Data & Analytics - CMS/SQL/Power Bi/Excel/Reporting for AHCA- Remote in Florida | 53 | 11 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 20 | Manulife Financial | Portfolio Analyst | 53 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 21 | TikTok | Machine Learning Engineer, Monetization Technology | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 22 | Global Web Index | Data Engineer | 52 | none found (check myvisajobs) | Nov 03 10:15 ET |
+| 23 | Cardinal Health | Analyst, Data Engineering | 50 | 28 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 24 | TikTok | Machine Learning Engineer, Recommendation, E-Commerce Alliance | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 25 | Nationwide Children's Hospital | Research Assistant- RI Perinatal Besner | 45 | 3 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 26 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 27 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 02 (board gives the date only) |
+| 28 | Vestwell | Data Scientist | 42 | 1 in data/analytics/finance occupations | Nov 03 10:50 ET |
+| 29 | OpenAI | Applied AI Engineer, Digital Natives | 40 | 30 in data/analytics/finance occupations | Nov 03 04:51 ET |
+| 30 | Open Avenues Foundation | Data Analyst Confirmé F/H | 40 | 69 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
 
 ---
 
@@ -163,7 +172,21 @@ Thank you for your interest in a career at Regions. At Regions, we believe assoc
 
 ---
 
-## 3. [MAYBE] Verizon Communications | Business Intelligence Consultant
+## 3. [MAYBE] HCSC | Analytics Consultant
+- Link: https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/National-Remote/Analytics-Consultant_R0055696-1
+- Location: 3 Locations
+- Posted: Nov 02 (board gives the date only)
+- Scanner fit: ~73 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, excel, forecast, power bi, python, r, sql, statistic, tableau, git, healthcare, reporting, research | Lacks: alteryx  | Note: no H-1B filings found for this employer
+
+### Job description
+
+At CareAllies , our employees are the cornerstone of our business and the foundation to our success. We empower employees with curated development plans that foster growth and promote rewarding, fulfilling careers. Job Summary This Position Is Responsible For Constructing Forecasts, Recommendations And Strategic/Tactical Plans Based On Business Data And Market Knowledge. Creates Specifications For Reports And Analysis Based On Business Needs And Required Or Available Data Elements. May Provide Consultation To Users And Lead Cross-Functional Teams To Address Business Issues. Produces Datasets And Reports For Analysis Using System Reporting Tools. May Perform Research And Assists In Analyzing Financial And Health Data, Including Medical Algorithms To Determine Health Care Expenditures, Medical And Economic Outcomes, And Cost Containment Strategies. Analyzes Complex Business Problems And Issues Using Data From Internal And External Sources To Provide Insight To Decision-Makers. Identifies And Interprets Trends And Patterns In Datasets To Locate Influences. HET: The Consultant’s primary responsibility is to leverage strong technical skills (SQL, R, Python, and Tableau) and healthcare industry knowledge (payor, provider, pharmacy, public health, epidemiology, etc.) to support and enhance client-facing engagements with HCSC’s largest Commercial customers. They will be accountable for the analytic support and consultancy for HCSCs largest Commercial Clients and advisory for internal senior-leader stakeholders related to population health and insurance. BI Solutions: The Consultant’s primary responsibility is to leverage strong technical skills (SQL, R, Python, and Tableau) and healthcare industry knowledge (payor, provider, pharmacy, public health, epidemiology, etc.) to support clinical and business stakeholders. They will be accountable for they analytical support and consultancy of internal clients and advisory service for internal senior leaders. Requir ed Job Qualifications: Bachelor's degree and 2 years of experience in health care services, statistical analysis, or insurance industry economics or related field OR M aster’s degree in related field OR 6 years of experience in health care services, statistical analysis, or insurance industry economics or related field Understanding, and being highly proficient at querying a wide variety of internal and external data sources to get meaningful insights. Performance excellence in computer languages , such as SQL, R, Python. Ability to create a dynamic and visually engaging dashboard leveraging data visualization tools such as Tableau or Power BI . High degree of business intelligence and understanding how to take a business case from inception to c ustomer or partner execution. Excellent communication and presentation skills. Ability to work independently and as part of a team. Performance excellence in championing initiatives and collaborating with multiple stakeholders to bring the initiative to life. Preferred Job Qualifications: Experience with project management methodologies. Experience of Healthcare industry - payor, provider, pharmacy, public health, epidemiology, etc . Experience with version control/collaborative tools , such as GitHub Experience with automation tools , such as Alteryx. This position may be performed remotely from anywhere within the continental United States, excluding California, New York, Alaska, and Hawaii .
+
+---
+
+## 4. [MAYBE] Verizon Communications | Business Intelligence Consultant
 - Link: https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Lake-Mary-Florida/Business-Intelligence-Consultant_R-1103315
 - Location: 3 Locations
 - Posted: Nov 02 (board gives the date only)
@@ -177,7 +200,35 @@ When you join Verizon You want more out of a career. A place to share your ideas
 
 ---
 
-## 4. [MAYBE] State Street | Technical Business Analyst, Officer
+## 5. [MAYBE] Wells Fargo | Finance Data Management Analyst
+- Link: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Finance-Data-Management-Analyst_R-583118-1
+- Location: 2 Locations
+- Posted: Nov 03 (board gives the date only)
+- Scanner fit: ~70 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 163 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, power bi, python, sql, credit, data quality, reporting, research, risk, validation | Lacks: -  | Note: broad title
+
+### Job description
+
+About this role: Wells Fargo is seeking a Data Management Analyst to support defect management within Finance Data Operations. The position will analyze data-quality concerns, support the resolution of defects, and help ensure that data used by Finance is complete, accurate, timely, and fit for its intended purpose. The analyst will work with Finance, Operations, Technology, data providers, product teams, and data consumers to research issues, document impacts, identify ownership, and track remediation. In this role, you will: Participate in low-to-moderate complexity data-quality and defect-management initiatives. Analyze data-quality control failures, reconciliation exceptions, production issues, and reported data concerns using SQL and other analytical tools. Research issues across the data lifecycle to identify affected data, potential root causes, business impacts, and accountable parties. Manage assigned defects from intake and triage through remediation tracking, validation, evidence collection, and closure. Support the execution, analysis, and enhancement of data-quality rules, controls, tactical adjustments, and remediation solutions. Maintain complete and accurate defect records, status information, supporting documentation, and management reporting. Prepare defect metrics and trend analysis to identify recurring issues, aging items, remediation barriers, and matters requiring escalation. Communicate findings clearly to business and technical stakeholders and collaborate with partners to support timely resolution. Use approved AI tools, including Microsoft Copilot, to improve research, analysis, documentation, and productivity while validating outputs before business use. Identify opportunities to improve or simplify defect-management processes through standardization, reporting, and automation. Required qualifications: 2+ years of data quality, data analysis, or data management experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, or education. Desired qualifications: 1+ years of SQL experience, including querying, joining, aggregating, reconciling, and analyzing structured data. Knowledge of banking or financial products and Finance, accounting, general ledger, regulatory, risk, or operational data. Demonstrated ability to investigate data discrepancies, identify patterns, document findings, and reach supportable conclusions. Ability to communicate technical or data-related findings clearly in written and verbal form. Ability to use current AI and productivity tools, including Microsoft Copilot, and validate AI-assisted outputs before using them in analysis, documentation, or reporting. Ability to manage assigned work, maintain accurate records, meet deadlines, and escalate risks or impediments appropriately. Experience with data defects, data-quality controls, reconciliations, production support, issue management, or root-cause analysis. Experience profiling or validating large datasets. Understanding data-quality concepts, including completeness, accuracy, timeliness, validity, consistency, and reconciliation. Familiarity with JIRA, ServiceNow, data-quality platforms, workflow tools, or similar issue-management applications. Experience preparing defect metrics, dashboards, trend reporting, or management information. Familiarity with Python, Power BI, automation tools, or AI-assisted data analysis. Understanding of data lineage, metadata, source-to-target mapping, or data transformation. Experience working with India- and US-based stakeholders in a global operating model. Job Expectations: This position offers a hybrid work schedule from our 11625 N. Community House Road, Charlotte, NC 28202 or 550 S. 4th Street, Minneapolis MN 107935 locations. Relocation assistance is not available for this position This position is not eligible for Visa sponsorship Specific compliance policies may apply regarding outside activities and/or personal investing; affected employees will be expected to provide information to the Wells Fargo Personal Account Dealing Team and abide by applicable policy requirements if hired. Information will be shared about expectations during the recruitment process. Pay Range Reflected is the base pay range offered for this position. Pay may vary depending on factors including but not limited to demonstrated examples of prior performance, skills, experience, or work location. Employees may also be eligible for incentive opportunities.&#xa;$68,000.00 - $114,000.00 Benefits Wells Fargo provides eligible employees with a comprehensive set of benefits, many of which are listed below. Visit Benefits - Wells Fargo Jobs for an overview of the following benefit plans and programs offered to employees. Health benefits 401(k) Plan Paid time off Disability benefits Life insurance, critical illness insurance, and accident insurance Parental leave Critical caregiving leave Discounts and savings Commuter benefits Tuition reimbursement Scholarships for dependent children Adoption reimbursement Posting End Date: 8 Nov 2026 * Job posting may come down early due to volume of applicants. We Value Equal Opportunity Wells Fargo
+
+---
+
+## 6. [MAYBE] Magna International | AI Engineer
+- Link: https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/AI-Engineer_R00268543
+- Location: Troy, Michigan, US
+- Posted: Nov 02 (board gives the date only)
+- Scanner fit: ~68 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, machine learning, python, scikit, sql, tableau, tensorflow, docker, fx, git, reporting, research | Lacks: azure  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Job descriptions may display in multiple languages based on your language selection. What we offer: At Magna, you can expect an engaging and dynamic environment where you can help to develop industry-leading automotive technologies. We invest in our employees, providing them with the support and resources they need to succeed. As a member of our global team, you can expect exciting, varied responsibilities as well as a wide range of development prospects. Because we believe that your career path should be as unique as you are. Group Summary: Magna is more than one of the world’s largest suppliers in the automotive space. We are a mobility technology company built to innovate, with a global, entrepreneurial-minded team. With 65+ years of expertise, our ecosystem of interconnected products combined with our complete vehicle expertise uniquely positions us to advance mobility in an expanded transportation landscape. Job Responsibilities: Job Introduction: Magna Corporate R&D in Troy, MI is seeking a talented, visionary, and self-motivated AI Engineer to be a part of the Factory of the Future Vision & Data Analytics Group, which will create new applications leveraging data analytics, AI and ML to improve overall efficiencies at Magna divisions. The ideal candidate will have broad and deep experience with theoretical approaches and practical implementations of data analytics, AI and ML methods, machine vision and deployment frameworks. They will understand the process of concept, design, build, and launch of these applications and the reporting process to various stakeholders. The ideal candidate will enjoy working in a culture that fosters creativity and problem solving. This position will play a key role in the Data Analytics Group and be a part of a tightly knit development team that creates, validates, and implements Factory of the Future solutions. Major Responsibilities: Support the development and implementation of short- and long-term R&D objectives and technology roadmaps. Conduct research programs applying theory and principles of data analytics, AI and ML and machine vision. Guide programs and establish scientific and technical directions. Contribute to the development of novel algorithms and technology platforms, as well as the integration of systems & subsystems with different technologies and apply them internally at Magna divisions. Interface with SW engineering, product management, and/or program management to drive new product development programs from concept to production. Utilize software development and process tools for requirements management, architecture and design, modeling, simulation, testing, and configuration management and release management. Maintain project schedules by monitoring project progress, coordinating activities and sub-contracted work, estimating timing needs and hurdles, sequencing project elements, and resolving problems, thus assuring timely completion. Prepare and present project progress reports. Pursue education and/or training in data analytics and simulation technologies as fields evolve. Keep the organization abreast of program developments, new technical methods, and recommended changes warranted by such developments. Apply updated information to the Data Analytics Technology roadmap. Analyze research, third-party offerings, and competitor’s technologies to determine feasibility for Magna use. Comply with the designated ISO / TS 16949 responsibilities, Health & Safety (H&S) rules and practices, and Magna policies, procedures, and practices. Perform any other duties, special projects, and tasks as assigned Knowledge and Education: BS/MS/PhD in electrical, mechanical, computer engineering, computer science or equivalent progressive experience in discipline with appropriate focus Advanced knowledge of Python, SQL and other common programming languages Understanding of ROS/ROS2 & robotics frameworks Experience with AWS, Azure environment and tools for data ingestion, cleaning, processing, deployment and monitoring Familiar with ML frameworks and popular packages such as Caret (R), Scikitlearn, TensorFlow, Flask (Python), Docker, Git, Experience with model deployment as API (REST/SOAP) and configuration of the API Familiar with MLops tools such as MLflow, Kubeflow, TFX, etc Experience with tools and data ingestion protocols – MQTT, OPC, etc; Experience with machine vision tools, libraries and methods Experience with PowerBI, Tableau, Grafana for visualization and BI Knowledge of Manufacturing Process, Assembly methods and materials used in automotive products Work Experience: Minimum 2-3 years in a related area, or equivalent combination of education/experience in the field of applied machine learning, AI, computer engineering or similar Functional knowledge of data analytics in a manufacturing environment Functional experience working with static and dynamic, structured and unstructured data in manufacturing environment Experience with industrial control systems, specifically automotive line control applications Understanding of Magna manufacturing and assembly processes Skills and Competencies: Strong spoken and written English language skills. Additional languages skills desired (German, Spanish, etc.) Ability to apply advanced principles, theories, and concepts, and contribute to the development of solutions to complex problems that require innovation and ingenuity Ability to recognize new science and technologies relevant within existing trends and business strategy and extend them into new applications Technical ability and creativity to initiate, and manage specific projects with diverse stakeholders Ability to contribute to a performing team Work Environment: While performing the duties of this job, the employee is regularly required to talk and hear and use hands to finger, handle, and feel. The employee is required to reach with hands and arms and have adequate mobility to stand, walk, sit, stoop, kneel, crouch, or crawl. The employee must occasionally lift and/or move up to fifty (50) pounds. Specific vision abilities required by this job include close vision and ability to adjust focus. Ability to travel domestic and international up to 25% Responsible for working in compliance with the provisions of the Health and Safety Act as well as any rules or standards otherwise specified by OSHA, MIOSHA, or any other government regulations. Expected to exercise caution in all work activities and report any unsafe conditions, injuries, or near misses to the appropriate supervisor. Awareness, Unity, Empowerment: At Magna, we believe that a diverse workforce is critical to our success. That’s why we are proud to be an
+
+---
+
+## 7. [MAYBE] State Street | Technical Business Analyst, Officer
 - Link: https://statestreet.wd1.myworkdayjobs.com/Global/job/BOSTON/Technical-Business-Analyst--Officer_R-794000
 - Location: 3 Locations
 - Posted: Nov 02 (board gives the date only)
@@ -191,7 +242,7 @@ Who we are looking for We are seeking a junior Technical Business Analyst to col
 
 ---
 
-## 5. [MAYBE] M&G | Group Financial Crime MI and Reporting Consultant
+## 8. [MAYBE] M&G | Group Financial Crime MI and Reporting Consultant
 - Link: https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/Edinburgh/Group-Financial-Crime-MI-and-Reporting-Consultant_R20489
 - Location: 3 Locations
 - Posted: Nov 02 (board gives the date only)
@@ -205,7 +256,21 @@ At M&G, our purpose is to give everyone real confidence to put their money to wo
 
 ---
 
-## 6. [MAYBE] Pfizer | Associate, Insights, Intelligence & Strategy Oncology
+## 9. [MAYBE] Bank of Montreal | Business & Operations Development Specialist (New Grad)
+- Link: https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Business---Operations-Development-Specialist--New-Grad-_R260027681-3
+- Location: 2 Locations
+- Posted: Nov 02 (board gives the date only)
+- Scanner fit: ~64 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 4 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, dashboard, forecast, power bi, python, sql, credit, reporting, research, risk | Lacks: salesforce  | Note: broad title
+
+### Job description
+
+Application Deadline: 11/05/2026 Address: 320 S Canal Street Job Family Group: Customer Solutions BMO’s 16-month Business & Operations Development Program is geared towards recruiting, hiring, and developing future leaders of our business by providing hands-on experience, a focused competency training curriculum, and exposure to executive leadership. We are looking for college graduates, early in career talent. As a Business & Operations Development Program Specialist, you will take part in three 5-month rotations designed to expose each participant to a variety of roles and functions. During each rotation, you will receive access to new skills, training, resources, and senior leadership. This is your opportunity to learn from the best in the industry and launch your career with a competitive edge. Through each one of your rotations, you will gain foundational knowledge across our line of business allowing you to understand where your skills and future interests best fit your career aspirations. You will also gain exposure and valuable hands-on experience needed to become a future business leader. Supports the research, development, implementation, and execution of business initiatives that drive organizational objectives and enhance the customer and employee experience. Collaborates with cross-functional teams to analyze business challenges, identify opportunities, develop recommendations, and contribute to strategic projects across U.S. Banking and the COO organization. Carries out market research, forecasting, pricing, and competitive analysis, monitors product and system performance, and assesses problems to develop and implement solutions. Analyzes product risks in compliance with legal, regulatory, and risk compliance, and reporting. Collaborates with internal partners across the enterprise to take products to market. Develops solutions and makes recommendations based on an understanding of the business strategy and stakeholder needs. Supports the execution of strategic initiatives in collaboration with internal and external stakeholders. Conducts independent analysis and assessment to resolve strategic issues. Builds effective relationships with internal/external stakeholders. Ensures alignment between stakeholders. Designs and produces regular and ad-hoc reports, and dashboards. Breaks down strategic problems, and analyzes data and information to provide insights and recommendations. Monitors and tracks performance, and addresses any issues. Supports change management of varying scope and type; tasks typically focused on execution and sustainment activities. Provides input into the planning and implementation of operational programs. Executes work to deliver timely, accurate, and efficient service. Supports development of key metrics and identification of trends. Gathers customer and sales feedback and analyzes issues. Participates in and evaluates market research and competitive analysis associated with assigned products. Participates in and evaluates customer / consumer insights and channels information. Competes internal and regulatory reporting. Acts as the day to day contact for vendors; supports the implementation, maintenance, and sustainment of vendor solutions. Resolves internal, first level customer escalations. Leads/participates in the design, implementation, and management of core business / group processes. Gathers basic market research and competitive intelligence, including pricing, from publicly available information. Runs analyses and reports that support risk management and policy development. Defines and implements business cases and strategic roadmaps for banking products and services, including project and budget approvals. Designs, implements, manages, and enhances a single product or suite of products throughout the product lifecycle. Develops, implements, and monitors key metrics and action plans to optimize financial performance Continuously improves processes to identify issues and deliver optimal customer experience. Works with partners to develop salesforce training and materials and manages change. May support the sales team in development of client deals and related presentations. Develops and maintains relationships with external partners and vendors. Creates the marketing strategy, including offers and campaigns, and works with Marketing and other partners to execute. Develops, implements, and manages product documentation, templates, and requirements to ensure they accurately reflect product and systems functionality. Influences and/or determines credit product risk parameters and metrics. Focus is primarily on business/group within BMO; may have broader, enterprise-wide focus. Exercises judgment to identify, diagnose, and solve problems within given rules. Works independently on a range of complex tasks, which may include unique situations. Broader work or accountabilities may be assigned as needed. Take measured risks while protecting the bank by applying our Risk Management Framework in the execution of your role, in line with our Risk Culture and within our approved Risk Appetite, making sound and risk informed decisions that align to business strategy, protect assets, and adhere to applicable policy documents (Frameworks, Policies, Standards, Procedures and Supporting documents), laws and regulations . Qualifications: Typically between 1 - 2 years of relevant experience and a post-secondary degree in related field of study or an equivalent combination of education and experience. Working knowledge of retail and business banking environmental awareness / understanding. Methodology and process – good Analytics and reporting – good Desirable: Software and systems architecture knowledge – coding languages SQL, Python, Power BI Technical proficiency gained through education and/or business experience. Verbal & written communication skills - In-depth. Collaboration & team skills - In-depth. Analytical and problem solving skills - In-depth. Influence skills - In-depth. Data driven decision making - In-depth. Salary : $55,000.00 - $120,000.00 Pay Type: Salaried The above represents BMO Financial Group’s pay range and type. Salaries will vary based on factors such as location, skills, experience, education, and qualifications for the role, and may include a commission structure. Salaries for part-time roles will be pro-rated based on number of hours regularly worked. For commission roles, the salary listed above represents BMO Financial Group’s expected target for the first year in this position. BMO Financial Group’s total compensation package will vary based on the pay type of the position and may include performance-based incentives, discretionary bonuses, as well as other perks and rewards. BMO also offers health insurance, tuition reimbursement, accident and life insurance, and retirement savings plans. To view more details of our benefits, please visit: https://jobs.bmo.com/global/en/Total-Rewards About Us At BMO we are driv [...]
+
+---
+
+## 10. [MAYBE] Pfizer | Associate, Insights, Intelligence & Strategy Oncology
 - Link: https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Associate--Insights--Intelligence---Strategy-Oncology_4966589-1
 - Location: United States - New York - New York City
 - Posted: Nov 02 (board gives the date only)
@@ -219,7 +284,21 @@ ROLE SUMMARY Global Commercial Analytics (GCA) harnesses the power of data and i
 
 ---
 
-## 7. [MAYBE] Axis Capital | Insights & Analytics Associate – Global Markets
+## 11. [MAYBE] U.S. Bank | Impact Finance - Syndications Investor Strategy Analyst
+- Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Denver-CO/Impact-Finance---Syndications-Investor-Strategy-Analyst_2026-0033863-1
+- Location: 2 Locations
+- Posted: Nov 03 (board gives the date only)
+- Scanner fit: ~60 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 82 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, credit, healthcare, portfolio, reporting, risk | Lacks: -
+
+### Job description
+
+At U.S. Bank, we’re on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and discover what you excel at—all from Day One. Job Description The Impact Finance Syndications Investor Strategy Analyst plays a key role in strengthening investor relationships by delivering accurate, timely financial reporting and enhancing the overall investor experience through continuous process and service improvements. The Analyst is responsible for preparing quarterly and annual investor reporting focused on investor benefits and fund performance. Working closely with Asset Managers, Fund Managers, and cross-functional partners, the Analyst will support investors across a diverse portfolio of tax credit investments, including New Markets Tax Credits (NMTC), Low-Income Housing Tax Credits (LIHTC), and Renewable Energy Tax Credits (RETC). The Analyst will also develop fund projections and perform ad hoc financial analyses related to credit delivery, investor capital contributions, and fund performance. This role requires a strong focus on evaluating and communicating the impact of investment performance on investor benefits while providing insights that support strategic decision-making. Basic Qualifications - Typically Bachelor's degree, or equivalent work experience - Typically five or more years of related experience Preferred Skills/Experience - Prior experience with tax credits, LIHTC, NMTC, HTC, RETC - Financial modelling, calculating IRR, and Excel experience - Strong skills in financial analysis, understanding of financial models, and familiarity with internal rate of return concepts - Understanding of partnership tax returns, financial statements, tax concepts and/or partnership law and legal documents - Basic knowledge of risk assessment and evaluating targeted returns from investments - Ability to prioritize work, initiate projects/tasks, and meet deadlines with minimal supervision - Proficient computer navigation skills using a variety of software packages including Microsoft Office applications and financial models If there’s anything we can do to accommodate a disability during any portion of the application or hiring process, please refer to our disability accommodations for applicants . Benefits: Our approach to benefits and total rewards considers our team members’ whole selves and what may be needed to thrive in and outside work. That's why our benefits are designed to help you and your family boost your health, protect your financial security and give you peace of mind. Our benefits include the following: Healthcare (medical, dental, vision) Basic term and optional term life insurance Short-term and long-term disability Pregnancy disability and parental leave 401(k) and employer-funded retirement plan Paid vacation (from two to five weeks depending on salary grade and tenure) Up to 11 paid holiday opportunities Adoption assistance Sick and Safe Leave accruals of one hour for every 30 worked, up to 80 hours per calendar year unless otherwise provided by law Review our full benefits available by employment status here . U.S. Bank
+
+---
+
+## 12. [MAYBE] Axis Capital | Insights & Analytics Associate – Global Markets
 - Link: https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/Halifax-NS/Insights---Analytics-Associate---Global-Markets_REQ06820-1
 - Location: Halifax, NS
 - Posted: Nov 02 (board gives the date only)
@@ -233,7 +312,7 @@ This is your opportunity to join AXIS Capital – a trusted global provider of s
 
 ---
 
-## 8. [MAYBE] T. Rowe Price | Investment Analyst: Biotechnology Sector
+## 13. [MAYBE] T. Rowe Price | Investment Analyst: Biotechnology Sector
 - Link: https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Investment-Analyst--Biotechnology-Sector_84291
 - Location: Baltimore, MD
 - Posted: Nov 02 (board gives the date only)
@@ -247,7 +326,21 @@ At T. Rowe Price, we identify and actively invest in opportunities to help peopl
 
 ---
 
-## 9. [MAYBE] University of Miami | Research Assistant 1 (A)
+## 14. [MAYBE] Visa | Analyst, Visa Consulting & Analytics (VCA) — Caribbean
+- Link: https://visa.wd5.myworkdayjobs.com/Visa/job/DO---Santo-Domingo-Dominican-Republic/Analyst--Visa-Consulting---Analytics--VCA----Caribbean_REF089722W
+- Location: DO - Santo Domingo, Dominican Republic
+- Posted: Nov 03 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, statistic, data quality, portfolio, quantitative | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+About Us Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid. At Visa, you'll have the opportunity to create impact at scale — tackling meaningful challenges, growing your skills and seeing your contributions impact lives around the world. Join Visa and do work that matters – to you, to your community, and to the world. Progress starts with you. Job Description About the Team: Visa Consulting & Analytics (VCA) is Visa's global team of payments consultants, data scientists, and practice experts that partners with issuers, acquirers, and fintechs across the region to solve strategic business challenges, optimize portfolio performance, and drive measurable financial outcomes. Role Overview: As a Analyst supporting the CARCAM/Caribbean region, you will play a dual role — driving rigorous quantitative analysis to uncover client insights, while also contributing directly to client-facing strategy discussions and deliverables. You'll work closely with consulting leads to shape data-driven recommendations tailored to the unique dynamics of Caribbean payments markets. Key Responsibilities: Analytical: Conduct in-depth analysis of issuer/acquirer portfolio performance, authorization trends, and spend behavior using Visa and client data. Benchmark client performance against regional and global peer sets to identify gaps and growth opportunities. Build and maintain data models, dashboards, and exhibits that translate complex data into clear business insights. Validate data quality and ensure analytical rigor across all deliverables. Client-Facing / Advisory: Support and occasionally lead client workshops, working sessions, and presentations across Caribbean markets. Translate analytical findings into actionable strategic recommendations for client executives. Partner with consulting leads to shape project storylines, business cases, and go-to-market strategies. Build and maintain strong client relationships, serving as a trusted analytical partner to regional stakeholders. Contribute to proposal development and scoping for new client engagements in the region. Visa requires at least 3 days in office, expectations of these days will be confirmed by your Hiring Manager. Qualifications Bachelor's degree in Business, Economics, Finance, Statistics, or related field; MBA a plus. 3–5 years of experience in consulting, analytics, or financial services, ideally with exposure to Caribbean or LAC markets. Strong proficiency in Excel, PowerPoint; experience with payments or banking data preferred. Demonstrated ability to balance hands-on analysis with client relationship management. Excellent communication skills in English; Spanish. Willingness to travel across Caribbean markets as needed. Visa is an
+
+---
+
+## 15. [MAYBE] University of Miami | Research Assistant 1 (A)
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Assistant-1--A-_R100102516
 - Location: Miami, FL
 - Posted: Nov 02 (board gives the date only)
@@ -261,7 +354,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 10. [MAYBE] Vestwell | Data Analyst
+## 16. [MAYBE] Vestwell | Data Analyst
 - Link: https://job-boards.greenhouse.io/vestwell/jobs/8108684003
 - Location: New York, NY | Austin, TX | King of Prussia, PA | Scottsdale, AZ
 - Posted: Nov 03 10:50 ET
@@ -275,7 +368,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 11. [MAYBE] Brown & Brown Insurance | Risk Analyst
+## 17. [MAYBE] Brown & Brown Insurance | Risk Analyst
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Sandy-Springs-Atlanta-GA-USA/Risk-Analyst_R26_0000003859
 - Location: Sandy Springs ("Atlanta"), GA, USA
 - Posted: Nov 02 (board gives the date only)
@@ -289,7 +382,36 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 12. [MAYBE] Molina Healthcare | Analyst, Data & Analytics - CMS/SQL/Power Bi/Excel/Reporting for AHCA- Remote in Florida
+## 18. [MAYBE] TikTok | Machine Learning Engineer, Search - Local Services Team
+- Link: https://lifeattiktok.com/search/7525740914134272264
+- Location: Seattle, Washington, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, machine learning, nlp, deep learning | Lacks: -
+
+### Job description
+
+About the Team:
+The Data-Search-TikTok-Local Services team enhances local services by improving user discovery of hospitality, dining, and leisure experiences while driving ecosystem growth. They leverage large-scale machine learning to refine search and recommendation systems, focusing on personalized relevance, CTR/CVR prediction, and optimized conversion efficiency for billions of users.
+
+Responsibilities:
+1. Support the local video service business to enhance user discovery of life services such as hospitality, dining, and leisure.
+2. Improve the search experience in local services and promote ecosystem growth.
+3. Utilize large-scale machine learning techniques in search and recommendation scenarios with billions of users to: Improve user shopping experiences & Enhance conversion efficiency.
+4. Design and implement local services search algorithms across the full stack, including: Query analysis, relevance, recall, coarse ranking, fine ranking, and blended ranking. Personalized behavior modeling for relevance computation. CTR (Click-Through Rate) prediction, CVR (Conversion Rate) prediction. Vector recall and value blending. Minimum Qualifications
+1. Excellent analytical and problem-solving skills.
+2. Strong foundation in machine learning and deep learning, with experience in: NLP (Natural Language Processing).
+3. Exceptional coding skills with solid knowledge of data structures and algorithms.
+4. Proficiency in Linux development environments.
+
+Preferred Qualifications
+1. Prior experience in search, recommendation, or advertisement algorithms.
+2. Familiarity with local life services and e-commerce businesses.
+
+---
+
+## 19. [MAYBE] Molina Healthcare | Analyst, Data & Analytics - CMS/SQL/Power Bi/Excel/Reporting for AHCA- Remote in Florida
 - Link: https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040119
 - Location: Tampa, FL, United States US Orlando, FL, United States
 - Posted: Nov 03 (board gives the date only)
@@ -303,7 +425,7 @@ JOB DESCRIPTION Job Summary Provides analyst support for data analysis and repor
 
 ---
 
-## 13. [MAYBE] Manulife Financial | Portfolio Analyst
+## 20. [MAYBE] Manulife Financial | Portfolio Analyst
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Charlotte-North-Carolina/Portfolio-Analyst_JR26100953-2
 - Location: 2 Locations
 - Posted: Nov 02 (board gives the date only)
@@ -317,7 +439,35 @@ The Portfolio Analyst will report to the Manager of Portfolio Analytics and will
 
 ---
 
-## 14. [MAYBE] Global Web Index | Data Engineer
+## 21. [MAYBE] TikTok | Machine Learning Engineer, Monetization Technology
+- Link: https://lifeattiktok.com/search/7475441025546471698
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~53 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, machine learning, python, pytorch, tensorflow | Lacks: c++
+
+### Job description
+
+Monetization Technology teams are building the next-generation monetization platforms to help millions of customers grow their businesses, utilizing our products like TikTok. Our team develops a wide variety of advertisements for numerous uses including feeds, live streaming, branding, measurement, targeting, search, vertical solutions, creative solutions, and business integrity.
+
+What You'll Do:
+- Participate in the development of a large-scale Ads system.
+- Responsible for the development of state-of-the-art applied machine learning projects.
+- Own key targeting components or strategies in the TikTok ads monetization ecosystem.
+- Work with product and business teams on product vision. Minimum Qualifications: 
+- BS/MS degree in Computer Science, Computer Engineering, or other relevant majors.
+- Experience in and good theoretical grounding in machine learning concepts and techniques. 
+- Excellent programming, debugging, and optimization skills in one or more general purpose programming languages, including but not limited to: Go, C/C++, Python.
+- Experience in one or more of the following frameworks: Tensorflow/PyTorch/MXNet, etc
+- Ability to think critically and to formulate solutions to problems in a clear and concise way.
+
+Preferred Qualification: 
+- Has experience in ads system, recommendation, searching, ranking, etc.
+
+---
+
+## 22. [MAYBE] Global Web Index | Data Engineer
 - Link: https://job-boards.greenhouse.io/globalwebindex/jobs/8925398002
 - Location: Athens, GR
 - Posted: Nov 03 10:15 ET
@@ -331,7 +481,7 @@ Weekly office requirement: Hybrid, 1 day/week Employment type: Permanent, full-t
 
 ---
 
-## 15. [MAYBE] Cardinal Health | Analyst, Data Engineering
+## 23. [MAYBE] Cardinal Health | Analyst, Data Engineering
 - Link: https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Analyst--Data-Engineering_20189397
 - Location: IND07
 - Posted: Nov 02 (board gives the date only)
@@ -345,7 +495,34 @@ Analyst, Data Engineering - Platform Engineering What Data Engineering Contribut
 
 ---
 
-## 16. [MAYBE] Nationwide Children's Hospital | Research Assistant- RI Perinatal Besner
+## 24. [MAYBE] TikTok | Machine Learning Engineer, Recommendation, E-Commerce Alliance
+- Link: https://lifeattiktok.com/search/7153294049829849351
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, machine learning, python, tensorflow, xgboost | Lacks: c++
+
+### Job description
+
+The e-commerce alliance team aims to serve merchants and creators in the e-commerce platform to meet merchants' business indicators and improve creators' creative efficiency. By cooperating with merchants and creators, we aim to provide high-quality content and a personalized shopping experience for TikTok users, create efficient shopping tools at seller centers, and promote cooperation between merchants and creators.
+
+Job responsibilities:
+1. Build and design large-scale machine learning algorithms to model the real-time interests of creators to improve conversion efficiency
+2. Optimize TikTok's massive commodity relationship mining and ranking and recall of creators' product recommendations, and improve the overall GMV of the platform
+3. Use the large scale of data to deeply analyze the behavior of creators and merchants and build targeted algorithm strategies to empower creators and merchants, improve merchants' monetization efficiency, and boost industrial upgrading
+4. Support the rapid development of TikTok's e-commerce business, serve millions of merchants, explore more efficient business models, satisfy users with the best shopping experience, and promote healthy ecological development Minimum Qualifications
+1. 2+ years of industry experience with a solid theoretical foundation in machine learning;
+2. Familiar with common algorithms such as matrix factorization, GBDT, LTR, Word2vec, DIN, Deep&Wide;
+3. Proficient in Python and C++ languages
+
+Preferred Qualifications
+1. Proficiency in using any of the following open source tools: XGboost, TensorFlow, Caffe;
+2. Have excellent learning ability and good communication and cooperation spirit.
+
+---
+
+## 25. [MAYBE] Nationwide Children's Hospital | Research Assistant- RI Perinatal Besner
 - Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Assistant--RI-Perinatal-Besner_R-28708-1
 - Location: Main Campus, Columbus, OH
 - Posted: Nov 02 (board gives the date only)
@@ -359,7 +536,7 @@ Overview: Job Description Summary: Performs research experiments in accordance w
 
 ---
 
-## 17. [MAYBE] Texas A&M AgriLife Research | Research Associate
+## 26. [MAYBE] Texas A&M AgriLife Research | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Research-Associate_R-098467-1
 - Location: College Station, TX
 - Posted: Nov 02 (board gives the date only)
@@ -373,7 +550,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Insti
 
 ---
 
-## 18. [MAYBE] Texas A&M University System | Research Associate
+## 27. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-098467
 - Location: College Station, TX
 - Posted: Nov 02 (board gives the date only)
@@ -387,7 +564,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Insti
 
 ---
 
-## 19. [MAYBE] Vestwell | Data Scientist
+## 28. [MAYBE] Vestwell | Data Scientist
 - Link: https://job-boards.greenhouse.io/vestwell/jobs/8108241003
 - Location: New York, NY | Austin, TX | King of Prussia, PA | Scottsdale, AZ
 - Posted: Nov 03 10:50 ET
@@ -401,7 +578,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Insti
 
 ---
 
-## 20. [MAYBE] OpenAI | Applied AI Engineer, Digital Natives
+## 29. [MAYBE] OpenAI | Applied AI Engineer, Digital Natives
 - Link: https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294
 - Location: London, UK United Kingdom remote
 - Posted: Nov 03 04:51 ET
@@ -473,7 +650,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 21. [MAYBE] Open Avenues Foundation | Data Analyst Confirmé F/H
+## 30. [MAYBE] Open Avenues Foundation | Data Analyst Confirmé F/H
 - Link: https://open.wd103.myworkdayjobs.com/OPEN/job/Lille/Data-Analyst-Confirm-H-F_R13778
 - Location: Lille
 - Posted: Nov 02 (board gives the date only)
