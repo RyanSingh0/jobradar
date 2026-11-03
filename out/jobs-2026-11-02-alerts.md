@@ -6,3 +6,4 @@ Found in your LinkedIn/HiringCafe/Glassdoor/Indeed/Jobright alert emails but not
 |---|---|---|---|---|
 | linkedin | Why Hiring | Jr. Data Scientist | United States | https://www.linkedin.com/jobs/view/4484316977/ |
 | linkedin | Ladders | Risk Data Scientist | United States | https://www.linkedin.com/jobs/view/4484352498/ |
+| linkedin | adaption | Research Scientist | United States | https://www.linkedin.com/jobs/view/4483985394/ |
