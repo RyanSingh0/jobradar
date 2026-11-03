@@ -16,28 +16,31 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 10 | Pfizer | Associate, Insights, Intelligence & Strategy Oncology | 62 | 30 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
 | 11 | U.S. Bank | Impact Finance - Syndications Investor Strategy Analyst | 60 | 82 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
 | 12 | Chubb | 2027 Chubb Associate, Project and Marketing Analyst | 57 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 13 | Axis Capital | Insights & Analytics Associate – Global Markets | 55 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 14 | T. Rowe Price | Investment Analyst: Biotechnology Sector | 55 | 12 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 15 | Visa | Analyst, Visa Consulting & Analytics (VCA) — Caribbean | 55 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 16 | University of Miami | Research Assistant 1 (A) | 54 | cap-exempt employer | Nov 02 (board gives the date only) |
-| 17 | Vestwell | Data Analyst | 54 | 1 in data/analytics/finance occupations | Nov 03 10:50 ET |
-| 18 | Brown & Brown Insurance | Risk Analyst | 54 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 19 | TikTok | Machine Learning Engineer, Search - Local Services Team | 54 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 20 | Hunt Oil Company | Marketing Analyst I | 54 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 21 | Molina Healthcare | Analyst, Data & Analytics - CMS/SQL/Power Bi/Excel/Reporting for AHCA- Remote in Florida | 53 | 11 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 22 | Manulife Financial | Portfolio Analyst | 53 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 23 | TikTok | Machine Learning Engineer, Monetization Technology | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 24 | Global Web Index | Data Engineer | 52 | none found (check myvisajobs) | Nov 03 10:15 ET |
-| 25 | Cardinal Health | Analyst, Data Engineering | 50 | 28 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 26 | TikTok | Machine Learning Engineer, Recommendation, E-Commerce Alliance | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 27 | Nationwide Children's Hospital | Research Assistant- RI Perinatal Besner | 45 | 3 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 28 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 29 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 02 (board gives the date only) |
-| 30 | Amazon | Applied Scientist, Sponsored Products and Brands | 44 | 3890 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 31 | Amazon | Applied Scientist, AGI | 43 | 3890 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 32 | Vestwell | Data Scientist | 42 | 1 in data/analytics/finance occupations | Nov 03 10:50 ET |
-| 33 | OpenAI | Applied AI Engineer, Digital Natives | 40 | 30 in data/analytics/finance occupations | Nov 03 04:51 ET |
-| 34 | Open Avenues Foundation | Data Analyst Confirmé F/H | 40 | 69 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 13 | U.S. Bank | Trust Reporting Analyst 1 | 57 | 82 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 14 | Axis Capital | Insights & Analytics Associate – Global Markets | 55 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 15 | T. Rowe Price | Investment Analyst: Biotechnology Sector | 55 | 12 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 16 | Visa | Analyst, Visa Consulting & Analytics (VCA) — Caribbean | 55 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 17 | University of Miami | Research Assistant 1 (A) | 54 | cap-exempt employer | Nov 02 (board gives the date only) |
+| 18 | Vestwell | Data Analyst | 54 | 1 in data/analytics/finance occupations | Nov 03 10:50 ET |
+| 19 | Brown & Brown Insurance | Risk Analyst | 54 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 20 | TikTok | Machine Learning Engineer, Search - Local Services Team | 54 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 21 | Hunt Oil Company | Marketing Analyst I | 54 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 22 | Grant Thornton | AI Data Engineer Associate | 54 | 10 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 23 | Molina Healthcare | Analyst, Data & Analytics - CMS/SQL/Power Bi/Excel/Reporting for AHCA- Remote in Florida | 53 | 11 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 24 | Manulife Financial | Portfolio Analyst | 53 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 25 | TikTok | Machine Learning Engineer, Monetization Technology | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 26 | Global Web Index | Data Engineer | 52 | none found (check myvisajobs) | Nov 03 10:15 ET |
+| 27 | Cardinal Health | Analyst, Data Engineering | 50 | 28 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 28 | TikTok | Machine Learning Engineer, Recommendation, E-Commerce Alliance | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 29 | STV | AI Engineer | 48 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 30 | Nationwide Children's Hospital | Research Assistant- RI Perinatal Besner | 45 | 3 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 31 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 32 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 02 (board gives the date only) |
+| 33 | Amazon | Applied Scientist, Sponsored Products and Brands | 44 | 3890 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 34 | Amazon | Applied Scientist, AGI | 43 | 3890 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 35 | Vestwell | Data Scientist | 42 | 1 in data/analytics/finance occupations | Nov 03 10:50 ET |
+| 36 | OpenAI | Applied AI Engineer, Digital Natives | 40 | 30 in data/analytics/finance occupations | Nov 03 04:51 ET |
+| 37 | Open Avenues Foundation | Data Analyst Confirmé F/H | 40 | 69 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
 
 ---
 
@@ -316,7 +319,21 @@ Our Chubb Associate Program is a great starting point for individuals seeking an
 
 ---
 
-## 13. [MAYBE] Axis Capital | Insights & Analytics Associate – Global Markets
+## 13. [MAYBE] U.S. Bank | Trust Reporting Analyst 1
+- Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Trust-Reporting-Analyst-1_2026-0027294-1
+- Location: 3 Locations
+- Posted: Nov 03 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 82 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, healthcare, portfolio, reporting, trading | Lacks: -
+
+### Job description
+
+At U.S. Bank, we’re on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and discover what you excel at—all from Day One. Job Description U.S. Bank Global Corporate Trust Services is one of the largest providers of corporate trust services in the world. Our clients look to us for trustee, agency, escrow, document custody and money market issuing services via our 48 domestic offices and three international offices. The Collateralized Debt Obligation (CDO) and Global Structured Finance (GSF) groups are divisions within U.S. Bank Global Corporate Trust Services and provide services on structured finance vehicles that issue both debt and equity liabilities, the proceeds of which are used to buy a portfolio of collateral such as syndicated bank loans, corporate bonds, ABS, MBS, CMBS and Mezzanine debt. These services include Trust Reporting, which requires review of the deal documents, set up of cashflow priorities, collection of periodic asset activity data, reporting to bondholders, and when required, trust tax reporting. Essential functions include: Read and interpret trust indentures with regard to reporting requirements. Create technical report specifications from indenture language. Set up payment calculations in a variety of in-house systems. Receive, map and reconcile periodic collateral data. As required, make tax elections, file for EIN’s, and track residual holder transfers. As required, perform portfolio compliance tests on a selection of structured fixed income deals (trade testing). Compile monthly, quarterly and annual payment and/or tax reports. Coordinates with operations teams to ensure correct payments are received and made. Perform quality control review of reports, meeting timeliness and accuracy standards. Frequent interaction with asset managers, investors, auditors and rating agencies. Basic Qualifications - Bachelor’s degree in business, finance, economics, accounting or related field, or equivalent work experience - Less than two years of relevant work experience Preferred Skills/Experience - Basic understanding of syndicated bank loans, fixed income securities, securitization, trading or mutual funds - Ability to identify and resolve exceptions and to interpret data - Effective interpersonal, verbal and written communication skills - Ability to perform multiple tasks and meet established deadlines in a dynamic working environment with minimal supervision - Proficient computer navigation skills using a variety of software packages including Microsoft Office applications If there’s anything we can do to accommodate a disability during any portion of the application or hiring process, please refer to our disability accommodations for applicants . Benefits: Our approach to benefits and total rewards considers our team members’ whole selves and what may be needed to thrive in and outside work. That's why our benefits are designed to help you and your family boost your health, protect your financial security and give you peace of mind. Our benefits include the following: Healthcare (medical, dental, vision) Basic term and optional term life insurance Short-term and long-term disability Pregnancy disability and parental leave 401(k) and employer-funded retirement plan Paid vacation (from two to five weeks depending on salary grade and tenure) Up to 11 paid holiday opportunities Adoption assistance Sick and Safe Leave accruals of one hour for every 30 worked, up to 80 hours per calendar year unless otherwise provided by law Review our full benefits available by employment status here . U.S. Bank
+
+---
+
+## 14. [MAYBE] Axis Capital | Insights & Analytics Associate – Global Markets
 - Link: https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/Halifax-NS/Insights---Analytics-Associate---Global-Markets_REQ06820-1
 - Location: Halifax, NS
 - Posted: Nov 02 (board gives the date only)
@@ -330,7 +347,7 @@ This is your opportunity to join AXIS Capital – a trusted global provider of s
 
 ---
 
-## 14. [MAYBE] T. Rowe Price | Investment Analyst: Biotechnology Sector
+## 15. [MAYBE] T. Rowe Price | Investment Analyst: Biotechnology Sector
 - Link: https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Investment-Analyst--Biotechnology-Sector_84291
 - Location: Baltimore, MD
 - Posted: Nov 02 (board gives the date only)
@@ -344,7 +361,7 @@ At T. Rowe Price, we identify and actively invest in opportunities to help peopl
 
 ---
 
-## 15. [MAYBE] Visa | Analyst, Visa Consulting & Analytics (VCA) — Caribbean
+## 16. [MAYBE] Visa | Analyst, Visa Consulting & Analytics (VCA) — Caribbean
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/DO---Santo-Domingo-Dominican-Republic/Analyst--Visa-Consulting---Analytics--VCA----Caribbean_REF089722W
 - Location: DO - Santo Domingo, Dominican Republic
 - Posted: Nov 03 (board gives the date only)
@@ -358,7 +375,7 @@ About Us Visa is a world leader in payments technology, facilitating transaction
 
 ---
 
-## 16. [MAYBE] University of Miami | Research Assistant 1 (A)
+## 17. [MAYBE] University of Miami | Research Assistant 1 (A)
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Assistant-1--A-_R100102516
 - Location: Miami, FL
 - Posted: Nov 02 (board gives the date only)
@@ -372,7 +389,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 17. [MAYBE] Vestwell | Data Analyst
+## 18. [MAYBE] Vestwell | Data Analyst
 - Link: https://job-boards.greenhouse.io/vestwell/jobs/8108684003
 - Location: New York, NY | Austin, TX | King of Prussia, PA | Scottsdale, AZ
 - Posted: Nov 03 10:50 ET
@@ -386,7 +403,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 18. [MAYBE] Brown & Brown Insurance | Risk Analyst
+## 19. [MAYBE] Brown & Brown Insurance | Risk Analyst
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Sandy-Springs-Atlanta-GA-USA/Risk-Analyst_R26_0000003859
 - Location: Sandy Springs ("Atlanta"), GA, USA
 - Posted: Nov 02 (board gives the date only)
@@ -400,7 +417,7 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 19. [MAYBE] TikTok | Machine Learning Engineer, Search - Local Services Team
+## 20. [MAYBE] TikTok | Machine Learning Engineer, Search - Local Services Team
 - Link: https://lifeattiktok.com/search/7525740914134272264
 - Location: Seattle, Washington, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -429,7 +446,7 @@ Preferred Qualifications
 
 ---
 
-## 20. [MAYBE] Hunt Oil Company | Marketing Analyst I
+## 21. [MAYBE] Hunt Oil Company | Marketing Analyst I
 - Link: https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1097
 - Location: Tuscaloosa, AL, United States US
 - Posted: Nov 03 (board gives the date only)
@@ -443,7 +460,21 @@ ESSENTIAL DUTIES AND RESPONSIBILITIES include the following. Other duties may be
 
 ---
 
-## 21. [MAYBE] Molina Healthcare | Analyst, Data & Analytics - CMS/SQL/Power Bi/Excel/Reporting for AHCA- Remote in Florida
+## 22. [MAYBE] Grant Thornton | AI Data Engineer Associate
+- Link: https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116135
+- Location: Edison, NJ, United States US Los Angeles, CA, United States San Francisco, CA, United States Atlanta, GA, United States Chicago, IL, United States Baltimore, MD, United States Minneapolis, MN, United States New York, NY, United States Charlotte, NC, United States Austin, TX, United States Dallas, TX, United States Houston, TX, United States Milwaukee, WI, United States Boston, MA, United States Philadelphia, PA, United States Arlington, VA, United States Bellevue, WA, United States
+- Posted: Nov 03 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 10 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: etl, excel, llm, python, sql, data quality, git, pipeline, reporting | Lacks: databricks, snowflake
+
+### Job description
+
+Grant Thornton is seeking AI & Data Engineering Experienced Associates to support client engagements. These full-time positions require travel for client and team needs. The role blends hands-on SQL and Python development, data engineering, and AI-enabled application development. Working under experienced technical leads, associates will help build reliable data solutions and custom AI agents. Academic projects, capstone work, internships, and personal projects can demonstrate relevant skills; prior financial services experience is a plus. Your day-to-day may include : SQL & Python Development Develop Python scripts and reusable components for data processing, automation, exception analysis, and integration. Write SQL queries to extract, join, transform, and validate data for reporting and financial-system workflows. Debug code, handle errors, and document solutions with guidance from senior team members. Support data pipelines and source-to-target mappings across approved applications and data platforms. Perform reconciliation checks, investigate data quality issues, and document exceptions for review. Assist with data transformations and platform development where Snowflake or Databricks is used. Data Engineering & Integration AI & Agent Development Help prototype custom AI agents and LLM-enabled workflows for document retrieval, grounded question answering, and task automation. Contribute to Microsoft Copilot Studio solutions and integrations where approved and relevant to assigned work. Test AI outputs against approved source material, document limitations, and escalate inaccurate or unsupported responses. Testing, Documentation & Delivery Write unit tests, troubleshoot defects, and participate in code reviews and version-control workflows. Maintain technical documentation, data mappings, test evidence, and operating procedures. Work with technical and functional colleagues to turn requirements into small, testable deliverables. Security, Governance & Quality Follow applicable access controls, security procedures, and data-handling requirements. Use approved tools and data sources; protect sensitive information and escalate issues promptly. Support traceability, data quality checks, and human review of AI-assisted work. Other duties as assigned You have the following technical skills and qualifications: 1-2 years of relevant experience; coursework, academic projects, capstone work, internships, and personal projects are welcome. Bachelor’s degree in computer science or a closely related technical discipline. Hands-on SQL skills, including joins, aggregations, and working with relational data. Hands-on Python skills, including functions, data processing, error handling, and debugging. Foundational understanding of databases, data structures, and software development. Ability to explain a project you built, the problem it solved, and how you tested it. Can travel as needed. Preferred Exposure to Snowflake or Databricks through coursework, projects, internships, or professional experience. Experience with Microsoft Copilot Studio, Power Automate, custom AI agents, LLM APIs, prompt design, retrieval-augmented generation, or AI evaluation. Familiarity with Git, REST APIs, cloud platforms, ETL/ELT pipelines, or automated testing; interest in financial systems and responsible AI. Have excellent verbal and written communication skills. The base salary range for this position is between $120,000 and $140,760. Placement within the pay range is at Grant Thornton’s discretion, and it is based on multiple factors, including but not limited to, job -related knowledge/skills, experience, business needs, progression within the role, geographic location, and internal equity. At Grant Thornton, compensation decisions are dependent upon the facts and circumstances of each position and candidate. #LI-LG1 #Hybrid   At Grant Thornton, we believe in making business more personal and building trust into every result – for our clients and you. Here, we go beyond your expectations of a career in professional services by offering a career path with more: more opportunity, more flexibility, and more support. It’s what makes us different, and we think being different makes us better. In the U.S., Grant Thornton delivers professional services through two specialized entities: Grant Thornton LLP, a licensed, certified public accounting (CPA) firm that provides audit and assurance services ― and Grant Thornton Advisors LLC (not a licensed CPA firm), which exclusively provides non-attest offerings, including tax and advisory services. In 2025, Grant Thornton formed a multinational, multidisciplinary platform with Grant Thornton Ireland. The platform offers a premier Trans-Atlantic advisory and tax practice, as well as independent American and Irish audit practices. With $2.7 billion in revenues and more than 50 offices spanning the U.S., Ireland and other territories, the platform delivers a singular client experience that includes enhanced solutions and capabilities, backed by powerful technologies and a roster of 12,000 quality-driven professionals enjoying exceptional career-growth opportunities and a distinctive cross-border culture. Grant Thornton is part of the Grant Thornton International Limited network, which provides access to its member firms in more than 150 global markets.
+
+---
+
+## 23. [MAYBE] Molina Healthcare | Analyst, Data & Analytics - CMS/SQL/Power Bi/Excel/Reporting for AHCA- Remote in Florida
 - Link: https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040119
 - Location: Tampa, FL, United States US Orlando, FL, United States
 - Posted: Nov 03 (board gives the date only)
@@ -457,7 +488,7 @@ JOB DESCRIPTION Job Summary Provides analyst support for data analysis and repor
 
 ---
 
-## 22. [MAYBE] Manulife Financial | Portfolio Analyst
+## 24. [MAYBE] Manulife Financial | Portfolio Analyst
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Charlotte-North-Carolina/Portfolio-Analyst_JR26100953-2
 - Location: 2 Locations
 - Posted: Nov 02 (board gives the date only)
@@ -471,7 +502,7 @@ The Portfolio Analyst will report to the Manager of Portfolio Analytics and will
 
 ---
 
-## 23. [MAYBE] TikTok | Machine Learning Engineer, Monetization Technology
+## 25. [MAYBE] TikTok | Machine Learning Engineer, Monetization Technology
 - Link: https://lifeattiktok.com/search/7475441025546471698
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -499,7 +530,7 @@ Preferred Qualification:
 
 ---
 
-## 24. [MAYBE] Global Web Index | Data Engineer
+## 26. [MAYBE] Global Web Index | Data Engineer
 - Link: https://job-boards.greenhouse.io/globalwebindex/jobs/8925398002
 - Location: Athens, GR
 - Posted: Nov 03 10:15 ET
@@ -513,7 +544,7 @@ Weekly office requirement: Hybrid, 1 day/week Employment type: Permanent, full-t
 
 ---
 
-## 25. [MAYBE] Cardinal Health | Analyst, Data Engineering
+## 27. [MAYBE] Cardinal Health | Analyst, Data Engineering
 - Link: https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Analyst--Data-Engineering_20189397
 - Location: IND07
 - Posted: Nov 02 (board gives the date only)
@@ -527,7 +558,7 @@ Analyst, Data Engineering - Platform Engineering What Data Engineering Contribut
 
 ---
 
-## 26. [MAYBE] TikTok | Machine Learning Engineer, Recommendation, E-Commerce Alliance
+## 28. [MAYBE] TikTok | Machine Learning Engineer, Recommendation, E-Commerce Alliance
 - Link: https://lifeattiktok.com/search/7153294049829849351
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -554,7 +585,21 @@ Preferred Qualifications
 
 ---
 
-## 27. [MAYBE] Nationwide Children's Hospital | Research Assistant- RI Perinatal Besner
+## 29. [MAYBE] STV | AI Engineer
+- Link: https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/AI-Engineer_JR5923
+- Location: 2 Locations
+- Posted: Nov 03 (board gives the date only)
+- Scanner fit: ~48 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, llm, machine learning, python, sql, git, healthcare, pipeline, research | Lacks: azure, java, scala  | Note: no H-1B filings found for this employer
+
+### Job description
+
+STV is seeking an AI Engineer to join our Digital Advisory team at our New York City, NY or Boston, MA offices. This is a hands-on, client-facing role focused on building and deploying AI agents, automations, and intelligent workflows using the Microsoft technology stack. You'll work directly alongside experienced engineers, solution architects, and client stakeholders to transform business challenges into practical AI solutions that deliver immediate value. This role is ideal for an early-career engineer who is passionate about emerging AI technologies, enjoys solving complex problems, and wants to gain real-world experience delivering production systems for enterprise clients. You will be embedded within project teams, frequently collaborating onsite with clients, and will have the opportunity to rapidly develop both your technical and consulting skills. Position Summary As an AI Engineer I, you will contribute to the design, configuration, development, testing, and deployment of AI-powered solutions built on Microsoft's AI and data ecosystem. Working under the guidance of senior engineers and solution architects, you will help deliver AI agents, copilots, workflow automations, and data-driven applications that support clients across the Architecture, Engineering, and Construction (AEC) industry. You will work directly with clients to understand business requirements, demonstrate solutions, troubleshoot issues, and translate technical concepts into clear, actionable outcomes. Success in this role requires technical curiosity, strong communication skills, professionalism in client settings, and a desire to continuously learn emerging AI technologies. Key Responsibilities AI Solution Development Build, configure, test, and support AI agents, copilots, and intelligent workflows using Microsoft Copilot Studio, Azure AI Foundry, Power Platform, and Power Automate. Assist in the development and deployment of AI-driven solutions that solve operational, business, and project delivery challenges. Participate in solution design sessions and contribute ideas for improving performance, usability, and scalability. Support the integration of AI capabilities into existing client platforms and business processes. Develop and maintain prompts, knowledge sources, workflows, and agent configurations following established standards and best practices. Client Delivery & Stakeholder Engagement Participate in client-facing workshops, discovery sessions, and solution demonstrations. Gather business and technical requirements directly from stakeholders and document findings. Explain AI concepts, technical solutions, and implementation approaches in language accessible to non-technical audiences. Troubleshoot issues during demonstrations, testing, and production deployments while maintaining professionalism and composure. Support onsite client engagements as required throughout the project lifecycle. Data & Platform Engineering Develop and maintain data flows across Microsoft platforms including Dataverse, Microsoft Fabric, OneLake, SharePoint, and Microsoft 365. Assist with data preparation, transformation, integration, and governance activities supporting AI solutions. Support secure and scalable data architectures that enable effective AI and automation capabilities. Collaborate with software engineers, data engineers, and architects to ensure successful solution delivery. Engineering Excellence Write clean, maintainable, and well-documented code and configurations. Participate in code reviews, testing activities, and quality assurance processes. Follow established development standards, naming conventions, security practices, and documentation requirements. Contribute to technical documentation, deployment guides, runbooks, user guides, and knowledge-sharing materials. Help execute user acceptance testing (UAT), collect feedback, and contribute to continuous improvement initiatives. Professional Growth & Project Ownership Take ownership of small features, enhancements, or workstreams from design through deployment. Learn to estimate effort, manage tasks, and deliver work reliably against project timelines. Stay current with emerging AI technologies, Microsoft platform capabilities, and industry best practices. Continuously expand technical and consulting skills through mentorship, training, and real-world project experience. Required Qualifications Bachelor's degree in Computer Science, Software Engineering, Information Systems, Data Science, Artificial Intelligence, or a related technical field. 0–2 years of professional experience in software engineering, data engineering, AI, machine learning, or related disciplines. Internship, co-op, academic project, or personal project experience demonstrating software development or AI solution delivery. Working proficiency in at least one modern programming language such as Python and/orTypeScript/JavaScript. Ability to read, understand, debug, and modify existing codebases. Foundational understanding of large language models (LLMs), AI agents, prompt engineering, retrieval concepts, or agent orchestration principles. Strong written and verbal communication skills. Comfortable interacting directly with clients and stakeholders in professional settings. Demonstrated ability to learn new technologies quickly and adapt in fast-paced environments. Strong organizational skills, attention to detail, and self-motivation. Willingness and ability to travel and work onsite at client locations as required. Preferred Qualifications Exposure to Microsoft Copilot Studio, Azure AI Foundry, Azure OpenAI, Power Platform, or Power Automate. Experience with Microsoft 365, SharePoint, Dataverse, Microsoft Fabric, or cloud-based data platforms. Familiarity with REST APIs, integrations, and modern software development practices. Experience working with SQL, data modeling, or data integration concepts. Understanding of prompt engineering, retrieval-augmented generation (RAG), tool/function calling, or agent workflows. Exposure to Git, source control practices, CI/CD pipelines, or DevOps concepts. Experience working in consulting, project-based environments, or client-facing roles. Interest in infrastructure, transportation, architecture, engineering, construction, or digital transformation initiatives. This position is not eligible for sponsorship. Compensation Range: $95,975.90 - $109,686.74 STV offers the following benefits • Health insurance, including an option with a Health Savings Account • Dental insurance • Vision insurance • Flexible Spending Accounts (Healthcare, Dependent Care and Transit and Parking where applicable) • Disability insurance • Life Insurance and Accidental Death & Dismemberment • 401(k) Plan • Retirement Counseling • Employee Assistance Program • Paid Time Off • Paid Holidays • Back-Up Dependent Care • Parental Leave • Continuing Education Program • Professional Licensure and Society Memberships STV is committed to paying all of its employee [...]
+
+---
+
+## 30. [MAYBE] Nationwide Children's Hospital | Research Assistant- RI Perinatal Besner
 - Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Assistant--RI-Perinatal-Besner_R-28708-1
 - Location: Main Campus, Columbus, OH
 - Posted: Nov 02 (board gives the date only)
@@ -568,7 +613,7 @@ Overview: Job Description Summary: Performs research experiments in accordance w
 
 ---
 
-## 28. [MAYBE] Texas A&M AgriLife Research | Research Associate
+## 31. [MAYBE] Texas A&M AgriLife Research | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Research-Associate_R-098467-1
 - Location: College Station, TX
 - Posted: Nov 02 (board gives the date only)
@@ -582,7 +627,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Insti
 
 ---
 
-## 29. [MAYBE] Texas A&M University System | Research Associate
+## 32. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-098467
 - Location: College Station, TX
 - Posted: Nov 02 (board gives the date only)
@@ -596,7 +641,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Insti
 
 ---
 
-## 30. [MAYBE] Amazon | Applied Scientist, Sponsored Products and Brands
+## 33. [MAYBE] Amazon | Applied Scientist, Sponsored Products and Brands
 - Link: https://www.amazon.jobs/en/jobs/10595560/applied-scientist-sponsored-products-and-brands
 - Location: Arlington, Virginia, USA
 - Posted: Nov 03 (board gives the date only)
@@ -610,7 +655,7 @@ About Sponsored Products and Brands The Sponsored Products and Brands (SPB) team
 
 ---
 
-## 31. [MAYBE] Amazon | Applied Scientist, AGI
+## 34. [MAYBE] Amazon | Applied Scientist, AGI
 - Link: https://www.amazon.jobs/en/jobs/10595504/applied-scientist-agi
 - Location: Sunnyvale, California, USA
 - Posted: Nov 03 (board gives the date only)
@@ -624,7 +669,7 @@ Amazon is looking for an Applied Scientist with a strong deep learning backgroun
 
 ---
 
-## 32. [MAYBE] Vestwell | Data Scientist
+## 35. [MAYBE] Vestwell | Data Scientist
 - Link: https://job-boards.greenhouse.io/vestwell/jobs/8108241003
 - Location: New York, NY | Austin, TX | King of Prussia, PA | Scottsdale, AZ
 - Posted: Nov 03 10:50 ET
@@ -638,7 +683,7 @@ Amazon is looking for an Applied Scientist with a strong deep learning backgroun
 
 ---
 
-## 33. [MAYBE] OpenAI | Applied AI Engineer, Digital Natives
+## 36. [MAYBE] OpenAI | Applied AI Engineer, Digital Natives
 - Link: https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294
 - Location: London, UK United Kingdom remote
 - Posted: Nov 03 04:51 ET
@@ -710,7 +755,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 34. [MAYBE] Open Avenues Foundation | Data Analyst Confirmé F/H
+## 37. [MAYBE] Open Avenues Foundation | Data Analyst Confirmé F/H
 - Link: https://open.wd103.myworkdayjobs.com/OPEN/job/Lille/Data-Analyst-Confirm-H-F_R13778
 - Location: Lille
 - Posted: Nov 02 (board gives the date only)
