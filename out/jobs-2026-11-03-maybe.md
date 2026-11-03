@@ -15,25 +15,29 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 9 | Bank of Montreal | Business & Operations Development Specialist (New Grad) | 64 | 4 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
 | 10 | Pfizer | Associate, Insights, Intelligence & Strategy Oncology | 62 | 30 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
 | 11 | U.S. Bank | Impact Finance - Syndications Investor Strategy Analyst | 60 | 82 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 12 | Axis Capital | Insights & Analytics Associate – Global Markets | 55 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 13 | T. Rowe Price | Investment Analyst: Biotechnology Sector | 55 | 12 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 14 | Visa | Analyst, Visa Consulting & Analytics (VCA) — Caribbean | 55 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 15 | University of Miami | Research Assistant 1 (A) | 54 | cap-exempt employer | Nov 02 (board gives the date only) |
-| 16 | Vestwell | Data Analyst | 54 | 1 in data/analytics/finance occupations | Nov 03 10:50 ET |
-| 17 | Brown & Brown Insurance | Risk Analyst | 54 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 18 | TikTok | Machine Learning Engineer, Search - Local Services Team | 54 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 19 | Molina Healthcare | Analyst, Data & Analytics - CMS/SQL/Power Bi/Excel/Reporting for AHCA- Remote in Florida | 53 | 11 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 20 | Manulife Financial | Portfolio Analyst | 53 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
-| 21 | TikTok | Machine Learning Engineer, Monetization Technology | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 22 | Global Web Index | Data Engineer | 52 | none found (check myvisajobs) | Nov 03 10:15 ET |
-| 23 | Cardinal Health | Analyst, Data Engineering | 50 | 28 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 24 | TikTok | Machine Learning Engineer, Recommendation, E-Commerce Alliance | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 25 | Nationwide Children's Hospital | Research Assistant- RI Perinatal Besner | 45 | 3 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 26 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
-| 27 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 02 (board gives the date only) |
-| 28 | Vestwell | Data Scientist | 42 | 1 in data/analytics/finance occupations | Nov 03 10:50 ET |
-| 29 | OpenAI | Applied AI Engineer, Digital Natives | 40 | 30 in data/analytics/finance occupations | Nov 03 04:51 ET |
-| 30 | Open Avenues Foundation | Data Analyst Confirmé F/H | 40 | 69 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 12 | Chubb | 2027 Chubb Associate, Project and Marketing Analyst | 57 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 13 | Axis Capital | Insights & Analytics Associate – Global Markets | 55 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 14 | T. Rowe Price | Investment Analyst: Biotechnology Sector | 55 | 12 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 15 | Visa | Analyst, Visa Consulting & Analytics (VCA) — Caribbean | 55 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 16 | University of Miami | Research Assistant 1 (A) | 54 | cap-exempt employer | Nov 02 (board gives the date only) |
+| 17 | Vestwell | Data Analyst | 54 | 1 in data/analytics/finance occupations | Nov 03 10:50 ET |
+| 18 | Brown & Brown Insurance | Risk Analyst | 54 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 19 | TikTok | Machine Learning Engineer, Search - Local Services Team | 54 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 20 | Hunt Oil Company | Marketing Analyst I | 54 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 21 | Molina Healthcare | Analyst, Data & Analytics - CMS/SQL/Power Bi/Excel/Reporting for AHCA- Remote in Florida | 53 | 11 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 22 | Manulife Financial | Portfolio Analyst | 53 | none found (check myvisajobs) | Nov 02 (board gives the date only) |
+| 23 | TikTok | Machine Learning Engineer, Monetization Technology | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 24 | Global Web Index | Data Engineer | 52 | none found (check myvisajobs) | Nov 03 10:15 ET |
+| 25 | Cardinal Health | Analyst, Data Engineering | 50 | 28 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 26 | TikTok | Machine Learning Engineer, Recommendation, E-Commerce Alliance | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 27 | Nationwide Children's Hospital | Research Assistant- RI Perinatal Besner | 45 | 3 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 28 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
+| 29 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 02 (board gives the date only) |
+| 30 | Amazon | Applied Scientist, Sponsored Products and Brands | 44 | 3890 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 31 | Amazon | Applied Scientist, AGI | 43 | 3890 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 32 | Vestwell | Data Scientist | 42 | 1 in data/analytics/finance occupations | Nov 03 10:50 ET |
+| 33 | OpenAI | Applied AI Engineer, Digital Natives | 40 | 30 in data/analytics/finance occupations | Nov 03 04:51 ET |
+| 34 | Open Avenues Foundation | Data Analyst Confirmé F/H | 40 | 69 in data/analytics/finance occupations | Nov 02 (board gives the date only) |
 
 ---
 
@@ -298,7 +302,21 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 12. [MAYBE] Axis Capital | Insights & Analytics Associate – Global Markets
+## 12. [MAYBE] Chubb | 2027 Chubb Associate, Project and Marketing Analyst
+- Link: https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38049
+- Location: Boston, MA, United States US
+- Posted: Nov 03 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, cohort, git, research, risk | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Our Chubb Associate Program is a great starting point for individuals seeking an entry-level role in the insurance industry as a Project and Marketing Analyst Associate. This position is part of a development-focused role that combines project support, marketing coordination, and problem-solving. Our Chubb Associate roles offer growth opportunities and serve as a foundation for a career in insurance, while being supported by our experienced team members. By joining the Chubb Associate Program, you will be part of a cohort of top early career talent who will participate in a robust, comprehensive technical and experiential learning journey. Our two-year program is designed to accelerate your development, enhance your network, support you in reaching your career goals and enable you to contribute to the future success of Chubb. As a Chubb Associate, you will experience: Challenging assignments and the opportunity to contribute to the results of a team. Collaborative learning and group assignments with your cohort to help gain broader organizational understanding. Technical training to develop an understanding of our industry and deepen your skill level within your chosen discipline. Personalized development opportunities to help your immersion into a professional work environment and support your career goals. Executive engagement allowing you the opportunity to network and learn from Chubb’s thought leaders. Mentoring support from your manager and former Chubb Associates to help you navigate through professional situations. The role begins with an introduction to the organization, its business priorities, and the services we provide, while also building a strong understanding of project delivery, marketing execution, and cross-functional collaboration. As part of your development, you will gain experience in planning, communication, market research and data analysis while supporting successful project delivery. You will learn how to manage timelines, coordinate resources, track deliverables, and help ensure that projects are completed efficiently and effectively. In this role, you will support projects from initiation through completion. This may include scoping internal or external projects, facilitating meetings, developing and maintaining project execution plans, monitoring progress, identifying risks and issues, and communicating updates to stakeholders. You will work closely with internal teams, clients, and business partners to build alignment, support decision-making, and contribute to successful outcomes. This position offers valuable exposure to client and stakeholder interaction, requiring strong communication, organization, and relationship-building skills. The ability to manage multiple priorities, adapt to changing needs, navigate ambiguity and communicate clearly and professionally will be important to success.  Bachelors degree required, with a focus in marketing, business, engineering or sciences is preferred Strong GPA preferred Prior work experience (including summer, part time or internships) would be considered an asset Excellent verbal and written communication skills Strong interpersonal skills with ability to interact and build relationships with all levels of internal and external stakeholders Leadership experience through work or involvement in community service, athletics, clubs, or other activities preferred Technically adept/digitally savvy; an aptitude for evaluating, analyzing, and interpreting data and trends Effective time management and organizational skills, with ability to prioritize and manage inspection schedules; Chubb is a world leader in insurance. With operations in 54 countries, Chubb provides commercial and personal property and casualty insurance, personal accident and supplemental health insurance, reinsurance, and life insurance to a diverse group of clients. The company is distinguished by its extensive product and service offerings, broad distribution capabilities, exceptional financial strength, underwriting excellence, superior claims handling expertise and local operations globally. At Chubb, we are committed to equal employment opportunity and compliance with all laws and regulations pertaining to it. Our policy is to provide employment, training, compensation, promotion, and other conditions or opportunities of employment, without regard to race, color, religious creed, sex, gender, gender identity, gender expression, sexual orientation, marital status, national origin, ancestry, mental and physical disability, medical condition, genetic information, military and veteran status, age, and pregnancy or any other characteristic protected by law. Performance and qualifications are the only basis upon which we hire, assign, promote, compensate, develop and retain employees. Chubb prohibits all unlawful discrimination, harassment and retaliation against any individual who reports discrimination or harassment.
+
+---
+
+## 13. [MAYBE] Axis Capital | Insights & Analytics Associate – Global Markets
 - Link: https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/Halifax-NS/Insights---Analytics-Associate---Global-Markets_REQ06820-1
 - Location: Halifax, NS
 - Posted: Nov 02 (board gives the date only)
@@ -312,7 +330,7 @@ This is your opportunity to join AXIS Capital – a trusted global provider of s
 
 ---
 
-## 13. [MAYBE] T. Rowe Price | Investment Analyst: Biotechnology Sector
+## 14. [MAYBE] T. Rowe Price | Investment Analyst: Biotechnology Sector
 - Link: https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Investment-Analyst--Biotechnology-Sector_84291
 - Location: Baltimore, MD
 - Posted: Nov 02 (board gives the date only)
@@ -326,7 +344,7 @@ At T. Rowe Price, we identify and actively invest in opportunities to help peopl
 
 ---
 
-## 14. [MAYBE] Visa | Analyst, Visa Consulting & Analytics (VCA) — Caribbean
+## 15. [MAYBE] Visa | Analyst, Visa Consulting & Analytics (VCA) — Caribbean
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/DO---Santo-Domingo-Dominican-Republic/Analyst--Visa-Consulting---Analytics--VCA----Caribbean_REF089722W
 - Location: DO - Santo Domingo, Dominican Republic
 - Posted: Nov 03 (board gives the date only)
@@ -340,7 +358,7 @@ About Us Visa is a world leader in payments technology, facilitating transaction
 
 ---
 
-## 15. [MAYBE] University of Miami | Research Assistant 1 (A)
+## 16. [MAYBE] University of Miami | Research Assistant 1 (A)
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Assistant-1--A-_R100102516
 - Location: Miami, FL
 - Posted: Nov 02 (board gives the date only)
@@ -354,7 +372,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 16. [MAYBE] Vestwell | Data Analyst
+## 17. [MAYBE] Vestwell | Data Analyst
 - Link: https://job-boards.greenhouse.io/vestwell/jobs/8108684003
 - Location: New York, NY | Austin, TX | King of Prussia, PA | Scottsdale, AZ
 - Posted: Nov 03 10:50 ET
@@ -368,7 +386,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 17. [MAYBE] Brown & Brown Insurance | Risk Analyst
+## 18. [MAYBE] Brown & Brown Insurance | Risk Analyst
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Sandy-Springs-Atlanta-GA-USA/Risk-Analyst_R26_0000003859
 - Location: Sandy Springs ("Atlanta"), GA, USA
 - Posted: Nov 02 (board gives the date only)
@@ -382,7 +400,7 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 18. [MAYBE] TikTok | Machine Learning Engineer, Search - Local Services Team
+## 19. [MAYBE] TikTok | Machine Learning Engineer, Search - Local Services Team
 - Link: https://lifeattiktok.com/search/7525740914134272264
 - Location: Seattle, Washington, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -411,7 +429,21 @@ Preferred Qualifications
 
 ---
 
-## 19. [MAYBE] Molina Healthcare | Analyst, Data & Analytics - CMS/SQL/Power Bi/Excel/Reporting for AHCA- Remote in Florida
+## 20. [MAYBE] Hunt Oil Company | Marketing Analyst I
+- Link: https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1097
+- Location: Tuscaloosa, AL, United States US
+- Posted: Nov 03 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, forecast, statistic, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES include the following. Other duties may be assigned. Data Management: Daily tracking of market pricing and upkeep of database Weekly update and distribution of pricing forecast and/or reports of products Coordinate and implement I.T. Projects within the Light Oils marketing department Analytic Support: Analysis of sales volume trends Analysis of alternative pricing strategies Development, reconciliation, and presentation of special projects such as new market development and analytical requests Develop reports bridging sales forecasts, actual sales and prices. Study business alternatives/opportunities and provide recommendations. Gather, analyze, interpret and summarize data in preparation of statistical and analytical reports. Provide regular price forecasts from Bloomberg and other pricing services. Keep informed of Refining Industry trends, research and forecasts that lead to new opportunities. Analyze historical data and business problems and apply integrative thinking to identify trends and make business recommendations based on the findings. Develop, reconcile and present special projects such as new market development and analytical requests. Works closely with the Light Oils Marketing Representative and Asphalt Sales & Marketing Analyst I to provide coverage/ backup as needed. Responsible for updating management on light oils portion of the financial quarterly review. Maintain key excel and web-based applications within the department Engineering / Inventory Management / Linear Modeling Support Development: Provide back-up/relief support for Inventory Management critical tasks Develop basic understanding and provide support between Light Oils Marketing and Linear Modeling needs EDUCATION AND EXPERIENCE Bachelor’s degree in Engineering, Finance, Economics, Accounting or a related field, MBA preferred but not required. Three to five years’ experience in Refining is preferred. Basic level of financial competence and ability to operate independently. Experience analyzing sales/marketing data. Advanced MS Excel and PowerPoint skills. CERTIFICATES, LICENSES, REGISTRATIONS Must have a valid driver license. #LI-HuntRefining   The Hunt family of companies are a privately owned group of entities that include oil and gas exploration and production, refining, LNG, power, renewables, real estate, ranching and infrastructure. The mission of Hunt is to be a growth-oriented industry leader respected throughout the world for the quality and competency of its people, the efficiency and scope of its operations, and its rich heritage of honesty and integrity.
+
+---
+
+## 21. [MAYBE] Molina Healthcare | Analyst, Data & Analytics - CMS/SQL/Power Bi/Excel/Reporting for AHCA- Remote in Florida
 - Link: https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040119
 - Location: Tampa, FL, United States US Orlando, FL, United States
 - Posted: Nov 03 (board gives the date only)
@@ -425,7 +457,7 @@ JOB DESCRIPTION Job Summary Provides analyst support for data analysis and repor
 
 ---
 
-## 20. [MAYBE] Manulife Financial | Portfolio Analyst
+## 22. [MAYBE] Manulife Financial | Portfolio Analyst
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Charlotte-North-Carolina/Portfolio-Analyst_JR26100953-2
 - Location: 2 Locations
 - Posted: Nov 02 (board gives the date only)
@@ -439,7 +471,7 @@ The Portfolio Analyst will report to the Manager of Portfolio Analytics and will
 
 ---
 
-## 21. [MAYBE] TikTok | Machine Learning Engineer, Monetization Technology
+## 23. [MAYBE] TikTok | Machine Learning Engineer, Monetization Technology
 - Link: https://lifeattiktok.com/search/7475441025546471698
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -467,7 +499,7 @@ Preferred Qualification:
 
 ---
 
-## 22. [MAYBE] Global Web Index | Data Engineer
+## 24. [MAYBE] Global Web Index | Data Engineer
 - Link: https://job-boards.greenhouse.io/globalwebindex/jobs/8925398002
 - Location: Athens, GR
 - Posted: Nov 03 10:15 ET
@@ -481,7 +513,7 @@ Weekly office requirement: Hybrid, 1 day/week Employment type: Permanent, full-t
 
 ---
 
-## 23. [MAYBE] Cardinal Health | Analyst, Data Engineering
+## 25. [MAYBE] Cardinal Health | Analyst, Data Engineering
 - Link: https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Analyst--Data-Engineering_20189397
 - Location: IND07
 - Posted: Nov 02 (board gives the date only)
@@ -495,7 +527,7 @@ Analyst, Data Engineering - Platform Engineering What Data Engineering Contribut
 
 ---
 
-## 24. [MAYBE] TikTok | Machine Learning Engineer, Recommendation, E-Commerce Alliance
+## 26. [MAYBE] TikTok | Machine Learning Engineer, Recommendation, E-Commerce Alliance
 - Link: https://lifeattiktok.com/search/7153294049829849351
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -522,7 +554,7 @@ Preferred Qualifications
 
 ---
 
-## 25. [MAYBE] Nationwide Children's Hospital | Research Assistant- RI Perinatal Besner
+## 27. [MAYBE] Nationwide Children's Hospital | Research Assistant- RI Perinatal Besner
 - Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Assistant--RI-Perinatal-Besner_R-28708-1
 - Location: Main Campus, Columbus, OH
 - Posted: Nov 02 (board gives the date only)
@@ -536,7 +568,7 @@ Overview: Job Description Summary: Performs research experiments in accordance w
 
 ---
 
-## 26. [MAYBE] Texas A&M AgriLife Research | Research Associate
+## 28. [MAYBE] Texas A&M AgriLife Research | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Research-Associate_R-098467-1
 - Location: College Station, TX
 - Posted: Nov 02 (board gives the date only)
@@ -550,7 +582,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Insti
 
 ---
 
-## 27. [MAYBE] Texas A&M University System | Research Associate
+## 29. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-098467
 - Location: College Station, TX
 - Posted: Nov 02 (board gives the date only)
@@ -564,7 +596,35 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Insti
 
 ---
 
-## 28. [MAYBE] Vestwell | Data Scientist
+## 30. [MAYBE] Amazon | Applied Scientist, Sponsored Products and Brands
+- Link: https://www.amazon.jobs/en/jobs/10595560/applied-scientist-sponsored-products-and-brands
+- Location: Arlington, Virginia, USA
+- Posted: Nov 03 (board gives the date only)
+- Scanner fit: ~44 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 3890 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, llm, machine learning, python, deep learning, research | Lacks: c++, java, scala
+
+### Job description
+
+About Sponsored Products and Brands The Sponsored Products and Brands (SPB) team at Amazon Ads is re-imagining the advertising landscape through generative AI technologies, revolutionizing how millions of customers discover products and engage with brands across Amazon.com and beyond. We are at the forefront of re-inventing advertising experiences, bridging human creativity with artificial intelligence to transform every aspect of the advertising lifecycle from ad creation and optimization to performance analysis and customer insights. We are a passionate group of innovators dedicated to developing responsible and intelligent AI technologies that balance the needs of advertisers, enhance the shopping experience, and strengthen the marketplace. If you're energized by solving complex challenges and pushing the boundaries of what's possible with AI, join us in shaping the future of advertising. About our team SPB Ad Response Prediction team is your choice, if you want to join a highly motivated, collaborative, and fun-loving team with a strong entrepreneurial spirit and bias for action. We are seeking an experienced and motivated Applied Scientist with machine learning engineering background who loves to innovate at the intersection of customer experience, deep learning, and high-scale machine learning systems. We are looking for a talented Applied Scientist with a strong background in machine learning engineering to join our team and help us grow the business. In this role, you will partner with a team of engineers and scientists to build advanced machine learning models and infrastructure, from training to inference, including emerging LLM-based systems, that deliver highly relevant ads to shoppers across all Amazon platforms and surfaces worldwide. Key job responsibilities As an Applied Scientist, you will: * Develop scalable and effective machine learning models and optimization strategies to solve business problems. * Conduct research on new machine learning modeling to optimize all aspects of Sponsored Products business. * Enhance the scalability, automation, and efficiency of large-scale training and real-time inference systems. * Pioneer the development of LLM inference infrastructure to support next-generation GenAI workloads at Amazon Ads scale. - 3+ years of building models for business application experience - PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience - Experience programming in Java, C++, Python or related language - Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing - Experience using Unix/Linux - Experience in professional software development Amazon
+
+---
+
+## 31. [MAYBE] Amazon | Applied Scientist, AGI
+- Link: https://www.amazon.jobs/en/jobs/10595504/applied-scientist-agi
+- Location: Sunnyvale, California, USA
+- Posted: Nov 03 (board gives the date only)
+- Scanner fit: ~43 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 3890 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, llm, python, deep learning | Lacks: c++, java
+
+### Job description
+
+Amazon is looking for an Applied Scientist with a strong deep learning background to help build the training environments that teach large language models to reason, use tools, and complete complex, multi-step tasks. Key job responsibilities You will design, build, and evaluate reinforcement learning environments (RL gyms) for LLM training: realistic, verifiable task environments where models learn through interaction and feedback. This includes defining tasks and reward signals, building the infrastructure to run environments at scale, measuring how well environments transfer into model capability, and developing rigorous methods to verify environment quality and correctness. You will work closely with model training teams to understand where environments are most valuable and iterate based on what the models learn. Your work will directly shape products and services that use generative AI. About the team The Foundational AI (FAI) team has a mission to push the envelope in GenAI with LLMs, in order to provide the best-possible experience for our customers. - 3+ years of building models for business application experience - PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience - Experience programming in Java, C++, Python or related language - Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing - Experience using Unix/Linux - Experience in professional software development Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . USA, CA, Sunnyvale - 171,600.00 - 222,200.00 USD annually
+
+---
+
+## 32. [MAYBE] Vestwell | Data Scientist
 - Link: https://job-boards.greenhouse.io/vestwell/jobs/8108241003
 - Location: New York, NY | Austin, TX | King of Prussia, PA | Scottsdale, AZ
 - Posted: Nov 03 10:50 ET
@@ -578,7 +638,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Insti
 
 ---
 
-## 29. [MAYBE] OpenAI | Applied AI Engineer, Digital Natives
+## 33. [MAYBE] OpenAI | Applied AI Engineer, Digital Natives
 - Link: https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294
 - Location: London, UK United Kingdom remote
 - Posted: Nov 03 04:51 ET
@@ -650,7 +710,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 30. [MAYBE] Open Avenues Foundation | Data Analyst Confirmé F/H
+## 34. [MAYBE] Open Avenues Foundation | Data Analyst Confirmé F/H
 - Link: https://open.wd103.myworkdayjobs.com/OPEN/job/Lille/Data-Analyst-Confirm-H-F_R13778
 - Location: Lille
 - Posted: Nov 02 (board gives the date only)

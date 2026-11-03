@@ -5,3 +5,4 @@ Found in your LinkedIn/HiringCafe/Glassdoor/Indeed/Jobright alert emails but not
 | Source | Company | Title | Location | Link |
 |---|---|---|---|---|
 | linkedin | Stanford University School of Medicine | Research Data Analyst | Stanford, CA | https://www.linkedin.com/jobs/view/4486457438/ |
+| linkedin | NASCAR | Junior Data Scientist | Daytona Beach, FL | https://www.linkedin.com/jobs/view/4486444903/ |
