@@ -6,3 +6,4 @@ Found in your LinkedIn/HiringCafe/Glassdoor/Indeed/Jobright alert emails but not
 |---|---|---|---|---|
 | linkedin | Stanford University School of Medicine | Research Data Analyst | Stanford, CA | https://www.linkedin.com/jobs/view/4486457438/ |
 | linkedin | NASCAR | Junior Data Scientist | Daytona Beach, FL | https://www.linkedin.com/jobs/view/4486444903/ |
+| linkedin | Anthropic | Research Engineer / Research Scientist, Tokens | New York, NY | https://www.linkedin.com/jobs/view/4485780758/ |
