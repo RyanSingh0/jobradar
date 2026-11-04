@@ -9,7 +9,8 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 3 | Citi | Data Analytics Engineer | 49 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
 | 4 | HUB International | Benefits Marketing Analyst | 45 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
 | 5 | Avis Budget Group | Data Engineer / AI Engineer | 44 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 6 | Jade Global | AI Engineer | 43 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 6 | Valsoft Corporation | AI Engineer - SAD con | 44 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 7 | Jade Global | AI Engineer | 43 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
 
 ---
 
@@ -83,7 +84,21 @@ Job Title: Data Engineer / AI Engineer Location: Bracknell, minimum of 3 days in
 
 ---
 
-## 6. [MAYBE] Jade Global | AI Engineer
+## 6. [MAYBE] Valsoft Corporation | AI Engineer - SAD con
+- Link: https://apply.workable.com/j/1DFDC9657B
+- Location: Beirut Beirut Governorate Lebanon
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~44 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, gcp, python, sql, docker, git, kubernetes, portfolio | Lacks: azure, java, scala  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Aspire Software is looking for a Senior Software Engineer to join our team in Lebanon. Here is a little window into our company: Aspire Software operates and manages wholly owned software companies, providing mission-critical solutions across multiple verticals. By implementing industry best practices, Aspire delivers a time sensitive integration process, and the operation of a decentralized model has allowed it to become a hub for creating rapid growth by reinvesting in its portfolio. About the Job: We’re hiring a Senior Backend Software Engineer to design, build, and maintain the server-side systems that power our products—and to lead a small team of developers. You’ll own APIs, services, and data layers while mentoring intermediate engineers, guiding technical decisions, and pushing the product forward in a fast-paced environment. This role is about delivering: shipping product features on tight schedules without sacrificing quality. We embrace modern AI-assisted development tools, and you’ll be encouraged to use them to move quickly. Responsibilities Design, build, and maintain backend services, APIs, and databases Deliver product features on tight schedules and drive the product roadmap forward Lead and mentor a small team of intermediate developers, providing guidance and code reviews Set technical direction and uphold code quality, architecture, and best practices Write clean, testable, well-documented code Optimize applications for performance, scalability, and reliability Collaborate with frontend engineers, product, and design to deliver features Requirements Strong programming skills in one or more backend languages (e.g. Python, Go, Java, Node.js) Experience designing and building RESTful or GraphQL APIs Solid understanding of databases (SQL and/or NoSQL) and data modeling Proven ability to deliver quality work under tight deadlines in a fast-paced setting Prior experience mentoring or leading developers Familiarity with version control, testing, and CI/CD practices Comfortable using AI-assisted development tools (e.g. GitHub Copilot, Claude) to boost productivity Nice to Have Experience with cloud platforms (AWS, GCP, or Azure) Knowledge of containerization and orchestration (Docker, Kubernetes)
+
+---
+
+## 7. [MAYBE] Jade Global | AI Engineer
 - Link: https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/AI-Engineer_R-106525-2
 - Location: 2 Locations
 - Posted: Nov 03 (board gives the date only)
