@@ -5,26 +5,31 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | University of Wisconsin System | Data Reporting & Academic Systems Analyst | 74 | cap-exempt employer | Nov 03 (board gives the date only) |
-| 2 | Atomic Machines | Applied AI Engineer, People | 68 | none found (check myvisajobs) | Nov 03 19:54 ET |
-| 3 | State of North Carolina | Data Quality Specialist | 68 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 4 | Manulife Financial | Data Scientist | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 5 | Desjardins Group | Data scientist | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 6 | Hancock Whitney | Risk Analyst | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 7 | Barclays | Finance Transformation - AI Specialist | 62 | 142 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 8 | Simmons Bank | Card Fraud Analyst I | 60 | 2 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 9 | Penn Interactive | Business Intelligence Engineer | 55 | none found (check myvisajobs) | Nov 04 08:27 ET |
-| 10 | Howmet Aerospace | Data Engineer | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 11 | Advocate Health Care | Research Associate - Neurosciences - FT | 54 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 12 | Stevens Institute of Technology | Research Scientist | 54 | cap-exempt employer | Nov 03 (board gives the date only) |
-| 13 | Medical College of Wisconsin | Biostatistician I - CIBMTR | 50 | cap-exempt employer | Nov 03 (board gives the date only) |
-| 14 | Citi | Data Analytics Engineer | 49 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 15 | HUB International | Benefits Marketing Analyst | 45 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 16 | Gilead Sciences | Research Associate, In Vivo Discovery | 45 | 73 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 17 | Kite Pharma | Research Associate, In Vivo Discovery | 45 | 9 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 18 | Avis Budget Group | Data Engineer / AI Engineer | 44 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 19 | Valsoft Corporation | AI Engineer - SAD con | 44 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 20 | Jade Global | AI Engineer | 43 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 21 | The Hartford | Consultant Performance Analytics – General Liability | 40 | 17 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 2 | Qube Research & Technologies | Production Support Engineer - LLM Platform | 74 | none found (check myvisajobs) | Nov 04 12:00 ET |
+| 3 | Atomic Machines | Applied AI Engineer, People | 68 | none found (check myvisajobs) | Nov 03 19:54 ET |
+| 4 | State of North Carolina | Data Quality Specialist | 68 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 5 | Manulife Financial | Data Scientist | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 6 | Desjardins Group | Data scientist | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 7 | Hancock Whitney | Risk Analyst | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 8 | Barclays | Finance Transformation - AI Specialist | 62 | 142 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 9 | Digital Realty | Portfolio Analyst | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 10 | Assurant | Product Analyst | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 11 | Simmons Bank | Card Fraud Analyst I | 60 | 2 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 12 | Penn Interactive | Business Intelligence Engineer | 55 | none found (check myvisajobs) | Nov 04 08:27 ET |
+| 13 | Howmet Aerospace | Data Engineer | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 14 | Advocate Health Care | Research Associate - Neurosciences - FT | 54 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 15 | Stevens Institute of Technology | Research Scientist | 54 | cap-exempt employer | Nov 03 (board gives the date only) |
+| 16 | Barclays | High Yield Credit Research Analyst | 54 | 142 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 17 | Medical College of Wisconsin | Biostatistician I - CIBMTR | 50 | cap-exempt employer | Nov 03 (board gives the date only) |
+| 18 | Brown & Brown Insurance | Employee Benefits Marketing Analyst | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 19 | Citi | Data Analytics Engineer | 49 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 20 | HUB International | Benefits Marketing Analyst | 45 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 21 | Gilead Sciences | Research Associate, In Vivo Discovery | 45 | 73 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 22 | Kite Pharma | Research Associate, In Vivo Discovery | 45 | 9 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 23 | Avis Budget Group | Data Engineer / AI Engineer | 44 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 24 | Valsoft Corporation | AI Engineer - SAD con | 44 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 25 | Jade Global | AI Engineer | 43 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 26 | The Hartford | Consultant Performance Analytics – General Liability | 40 | 17 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
 
 ---
 
@@ -42,7 +47,21 @@ Current Employees: If you are currently employed at any of the Universities of W
 
 ---
 
-## 2. [MAYBE] Atomic Machines | Applied AI Engineer, People
+## 2. [MAYBE] Qube Research & Technologies | Production Support Engineer - LLM Platform
+- Link: https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8902671002
+- Location: New York, Chicago
+- Posted: Nov 04 12:00 ET
+- Scanner fit: ~74 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, llm, postgres, python, sql, kubernetes, quantitative, research, trading, validation | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Qube Research &amp; Technologies (QRT) is a global quantitative and systematic investment manager, operating in all liquid asset classes across the world. We are a technology and data driven group implementing a scientific approach to investing. Combining data, research, technology and trading expertise has shaped QRT’s collaborative mindset which enables us to solve the most complex challenges. QRT’s culture of innovation continuously drives our ambition to deliver high quality returns for our investors. You will provide day-to-day production support for QRT’s platform for accessing internally hosted and external LLMs. Based in the US, you will support users during US business hours and coordinate with colleagues in other regions to ensure effective incident handovers. This is a hands-on support role, focused on incident resolution, user assistance and established operational procedures-not platform architecture, model development or infrastructure engineering. Your future role within QRT: Provide first- and second-line support for QRT’s platform for accessing internally hosted and external LLMs, investigating issues raised by engineering and business users, maintaining support tickets and following issues through to resolution or engineering escalation. Monitor platform health using existing dashboards, logs and alerts; identify availability, latency and error-rate problems and perform approved recovery actions using established runbooks. Troubleshoot gateway and model-provider issues, including authentication failures, rate limits, timeouts, connection resets, streaming failures and regional performance differences. Determine whether incidents originate in a user’s client or configuration, the platform gateway, an internally hosted model or an external LLM provider; collect diagnostic evidence and coordinate escalation to the appropriate team or vendor. Support coding assistants, API clients and developer workspaces connected to QRT’s LLM platform, including Claude Code, Codex CLI, OpenCode, PI and Coder; investigate compatibility issues following client or vendor updates. Help users configure supported integrations, select the appropriate regional endpoint and migrate API access from Open WebUI to the direct gateway. Investigate access and model-availability queries, check user permissions and escalate provisioning or entitlement issues through established support and governance processes. Carry out operational checks for releases and configuration changes, including non-production validation, post-release smoke testing and approved rollback procedures, in coordination with platform engineering. Use existing observability tools to investigate time to first token, time per output token, percentile latency and failure rates; flag recurring issues and monitoring gaps to the platform team. Maintain runbooks, troubleshooting guides and known-issue records; provide clear incident updates and reliable handovers between regional support teams. Maintain small support scripts and diagnostic utilities to reduce repetitive checks and improve evidence collection. Your present skillset: Relevant experience in production support, application support or platform operations, with the ability to investigate routine incidents independently and recognise when specialist escalation is required. Practical Linux troubleshooting skills and familiarity with Windows-based developer environments. Working proficiency in Python, Bash and/or PowerShell for operational checks, log analysis and straightforward support automation. Experience using SQL to investigate application issues and query operational records, ideally in PostgreSQL. Practical experience interpreting metrics, logs, traces and dashboards to distinguish a platform-wide incident from a user-, client-, model- or region-specific issue. Confidence troubleshooting API-driven services, including HTTP errors, authentication, networking, timeouts, retries, rate limiting and streaming connections. Hands-on experience supporting LLM-based platforms or services, with a working understanding of LLM APIs, including prompts, context limits, token usage, model identifiers and streaming responses. Familiarity with public-cloud services, ideally AWS, and the ability to inspect containerised workloads using established tools and procedures. Clear communication with technical and non-technical users, including concise incident updates, realistic expectations and well-documented escalations. Awareness of access controls, sensitive-data handling and safe diagnostic practices, including avoiding exposure of prompts, credentials or confidential content in support records. A methodical approach to troubleshooting, prioritisation and cross-region handovers Nice to have: Experience supporting AWS Bedrock or other managed model APIs. Experience supporting AI coding assistants, API clients or developer workspaces such as Claude Code, Codex CLI, OpenCode, PI or Coder. Familiarity with Grafana, Coralogix or equivalent monitoring and log-analysis tools. Exposure to LLM gateways or proxies such as LiteLLM, or internally hosted inference services such as vLLM. Experience troubleshooting containerised services on ECS or Kubernetes. Familiarity with identity and access provisioning, particularly Okta, SCIM and application-level permissions. Experience supporting multi-region services and working with globally distributed support and engineering teams. Experience coordinating support cases with cloud providers or software vendors during service degradation. &nbsp; Base salary range for this position is $15 0 ,000 to $ 220 ,000 per year. &nbsp; QRT Total Compensation includes discretionary performance-based bonuses and a competitive benefits package. &nbsp; &nbsp;
+
+---
+
+## 3. [MAYBE] Atomic Machines | Applied AI Engineer, People
 - Link: https://job-boards.greenhouse.io/atomicmachines/jobs/4478776009
 - Location: Emeryville, or Santa Clara, California
 - Posted: Nov 03 19:54 ET
@@ -56,7 +75,7 @@ Atomic Machines is building the Matter Compiler™, the first in a new class of 
 
 ---
 
-## 3. [MAYBE] State of North Carolina | Data Quality Specialist
+## 4. [MAYBE] State of North Carolina | Data Quality Specialist
 - Link: https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Quality-Specialist_JR-112923
 - Location: Wake County, NC
 - Posted: Nov 03 (board gives the date only)
@@ -70,7 +89,7 @@ Agency Dept of Health and Human Services Division Mental Health Job Classificati
 
 ---
 
-## 4. [MAYBE] Manulife Financial | Data Scientist
+## 5. [MAYBE] Manulife Financial | Data Scientist
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Data-Scientist_JR26100486
 - Location: Quezon City
 - Posted: Nov 03 (board gives the date only)
@@ -84,7 +103,7 @@ We’re looking for a Data Scientist to join our Global Risk and Compliance team
 
 ---
 
-## 5. [MAYBE] Desjardins Group | Data scientist
+## 6. [MAYBE] Desjardins Group | Data scientist
 - Link: https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Scientifique-de-donnes_R2613410-1
 - Location: 2 Locations
 - Posted: Nov 03 (board gives the date only)
@@ -98,7 +117,7 @@ As a Data scientist assigned to the Finance function, you play a key role in the
 
 ---
 
-## 6. [MAYBE] Hancock Whitney | Risk Analyst
+## 7. [MAYBE] Hancock Whitney | Risk Analyst
 - Link: https://hancockwhitney.wd5.myworkdayjobs.com/Careers/job/UNO-Center---New-Orleans-LA/Risk-Analyst_R017667
 - Location: 2 Locations
 - Posted: Nov 03 (board gives the date only)
@@ -112,7 +131,7 @@ Thank you for your interest in our company! To apply, click on the button above.
 
 ---
 
-## 7. [MAYBE] Barclays | Finance Transformation - AI Specialist
+## 8. [MAYBE] Barclays | Finance Transformation - AI Specialist
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Finance-Transformation---AI-Specialist_JR-0000084336-1
 - Location: Canary Wharf, 1 Churchill Place
 - Posted: Nov 03 (board gives the date only)
@@ -126,7 +145,35 @@ Job Description Purpose of the role To develop business capabilities for Finance
 
 ---
 
-## 8. [MAYBE] Simmons Bank | Card Fraud Analyst I
+## 9. [MAYBE] Digital Realty | Portfolio Analyst
+- Link: https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8977
+- Location: Boston, MA, United States US
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, forecast, statistic, git, portfolio, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Portfolio Analyst - Associate Location: Boston, MA (Hybrid) Your Role As a Portfolio Analyst, you will play a high‑visibility role supporting the financial performance and strategic decision‑making of a diverse portfolio of data center assets. You will partner closely with Portfolio Management leadership, including Vice Presidents, Directors, and Asset Managers, to deliver financial analysis, forecasts, reporting, and recommendations that inform executive‑level decisions. Your work will have direct exposure to senior stakeholders and a visible impact on business outcomes. What you’ll do Develop, maintain, and analyze cash flow models for data center assets, including lease and investment analyses. Prepare investment analyses and underwriting materials for properties across multiple markets. Support deal, capital, and construction project presentations for the Investment Committee. Manage and consolidate annual budgets, quarterly forecasts, long‑term projections, and variance analyses. Validate monthly financial reports and support portfolio‑level reporting, including occupancy and capital planning. Track and analyze leasing activity, leasing statistics, and portfolio performance trends. Monitor construction and redevelopment activity, budgets, and development progress. Research market conditions, including supply, demand, competition, and broader market trends. Create and maintain financial reports, databases, and ad hoc analyses driven by market or lease activity. Support ad hoc reporting and general Asset Management administrative needs. What you’ll need Bachelor’s degree in Finance, Accounting, Business, Real Estate, or a related field. 0-2 years of experience in real estate analysis, such as asset management, development, lending, or commercial leasing. Strong understanding of real estate finance, including discounted cash flow modeling and financial reporting. Advanced proficiency in Microsoft Excel and PowerPoint. Working knowledge of Yardi preferred; familiarity with Argus is a plus. Ability to analyze large data sets, think strategically, and deliver detailed, well‑reasoned recommendations. Excellent written, verbal, and presentation skills with strong attention to detail. Strong organizational skills with the ability to manage multiple priorities in a fast‑paced environment. Collaborative, resourceful, and eager to learn, with the ability to adapt quickly to new tools and systems. Willingness to adopt AI‑enabled tools, accept feedback, go above and beyond expectations, and travel occasionally as needed. A bit about us Digital Realty brings companies and data together by delivering the full spectrum of data center, colocation and interconnection solutions. PlatformDIGITAL®, the company’s global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx®) solution methodology for powering innovation and efficiently managing Data Gravity challenges. Digital Realty gives its customers access to the connected data communities that matter to them with a global data center footprint of 300+ facilities in 50+ metros across 25+ countries on six continents. To learn more about Digital Realty, please visit digitalrealty.com or follow us on LinkedIn and Twitter . A bit about our Portfolio Management team Our Portfolio Management team works in one of the world’s fastest growing and most exciting business sectors. We use our financial expertise and commercial awareness to support and develop an international, publicly listed organization. From managing budgets to financial and inventory planning, we deliver a full range of finance and strategic problem solving to help our business stay on track, support our customers, and meet our goals. What we can offer you Our rapidly evolving business sector offers the opportunity to be part of a courageous and passionate team who work together to understand and meet the changing needs of our global customers. Join us and you’ll be part of a supportive and inclusive environment where you can bring your whole self to work. As part of our team, you’ll get to work with people from different business areas, challenge the way we do things and put your ideas into action. We’ll also give you plenty of development opportunities so you can build a rewarding and successful career with us. Apply today, take charge of your career and grow your talents with us. Health and Safety Safety isn't just a priority here at Digital; it's critical to everything we do. Safeguarding lives, protecting assets, and securing data aren't just ideals - they're essential pillars of our commitment to excellence for our people, our partners and our customers. We have a culture of care where every member of Team Digital embraces a relentless pursuit of working safely across Digital Realty. Together we are Safely Powering Progress. Our Compensation Philosophy Digital Realty offers its employees a highly competitive compensation package, excellent benefits, and an environment that recognizes and rewards your contributions. Central to our compensation philosophy is rewarding our employees for achieving the values and objectives aligned to the company's overall goals and values. Our published pay ranges reflect the minimum and maximum target for new hire pay for the full-time position determined by role, level, and geographical location. Individual pay is based on additional factors including but not limited to job-related skills, experience, and relevant education and/or training. Moreover, an employee’s total compensation package varies by role and may include salary, cash bonus or commissions, and equity awards not quantified below. Compensation range: $100,000 to $120,000. This compensation range represents the Company’s good faith belief as to what it will pay as a base salary for this position at the time of this posting. Benefits: For this role, Benefits include medical, dental, vision, life and AD&D insurance, 401k match, disability benefits, wellness and education benefits, employee stock purchase plan, paid time off, holidays, and more.
+
+---
+
+## 10. [MAYBE] Assurant | Product Analyst
+- Link: https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/United-States-Virtual/Product-Analyst_R-114884-1
+- Location: United States Virtual
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: data visualization, excel, power bi, sql, credit, healthcare, pipeline, portfolio, reporting, research, risk | Lacks: actuar  | Note: no H-1B filings found for this employer
+
+### Job description
+
+As a Product Analyst, you will help shape and improve voluntary homeowners and condominium insurance products. You will work at the intersection of data, product strategy, and execution—analyzing product performance, identifying trends and opportunities, and turning findings into clear insights, requirements, documentation, and coordinated product changes. This is a great opportunity for a curious, motivated analyst who enjoys working with data and asking thoughtful questions. The team can teach the products and industry; the strongest candidates will bring analytical ability, initiative, attention to detail, and a genuine interest in understanding how products are performing and how they can improve. What You Will Do Analyze product performance, profitability, customer needs, and market trends to identify risks and opportunities. Turn complex data into clear reports, visualizations, and actionable insights for leaders and business partners. Conduct competitive research and support decisions involving product positioning, pricing, rates, forms, and underwriting guidelines. Translate business needs into requirements, user stories, workflows, and product documentation. Support product changes from planning through QA, regulatory filing, release, implementation, and post-launch analysis. Partner with Product Management, Actuarial, Underwriting, Sales, Technology, and other teams to deliver improvements. Proactively identify product, reporting, and process gaps and recommend practical solutions. What are the requirements needed for this position? 2+ years of experience analyzing or supporting the performance of insurance, lending, banking, credit, healthcare-benefit, or other regulated financial products. Strong critical thinking, organization, and communication skills. Strong analytical skills (including advanced Excel formulas and functions and data visualization) with ability to translate data into findings and recommendations. What other skills/experience would be helpful to have? Bachelor’s degree in Insurance, Finance, Actuarial, Business Administration, Marketing, Mathematics, or closely related field is preferred. SQL, Power BI, or similar data-analysis tools are a plus Experience analyzing product or portfolio performance, such as profitability, risk, pricing, consumer behavior, or market trends, with exposure to multiple stages of the product lifecycle preferred. Why Join This Team Make a visible impact on growing products with significant opportunity for improvement and innovation. Gain broad exposure to the product lifecycle and collaborate with teams across the business. Join a supportive, flexible team with an approachable leader who invests in individual development. Build varied experience and grow toward future opportunities such as Senior Product Analyst or Product Manager. Enjoy the ownership of a startup-style environment backed by Assurant’s stability and resources. Pay Range: $64,900.00 - $108,200.00 Any posted pay range considers a wide range of compensation factors, including candidate background, experience and work location, while also allowing for salary growth within the position. If there is no posting end date listed then this is a pipeline requisition, and we will continue to collect applications on an ongoing basis. Helping People Thrive in a Connected World Connect with us. Bring us your best work and your brightest ideas. And we’ll bring you a place where you can thrive. Learn more at jobs.assurant.com . For U.S. benefit information, visit myassurantbenefits.com . For benefit information outside the U.S., please speak with your recruiter. What’s the culture like at Assurant? Our unique culture is a big reason why talented people choose Assurant. Named a Best/Great Place to Work in 14 countries and awarded the Fortune America’s Most Innovative Companies recognition, we bring together top talent around the world. Although we have a wide variety of skills and experiences, we share common characteristics that are uniquely Assurant. A passion for service. An ability to innovate in practical ways. And a willingness to take chances. We call our culture The Assurant Way . Company Overview Assurant is a leading global business services company that supports, protects, and connects major consumer purchases. A Fortune 500 company with a presence in 21 countries, Assurant supports the advancement of the connected world by partnering with the world’s leading brands to develop innovative solutions and deliver an enhanced customer experience through mobile device solutions, extended service contracts, vehicle protection services, renters insurance, lender-placed insurance products, and other specialty products. AI and Biometric Usage Assurant supports the responsible use of Artificial Intelligence (AI), but we want to know the real you. Visit our AI Usage Guidelines page to understand what we expect from applicants regarding their use of AI during the application process. Since we would like to know the real you, we require that all of our virtual interviews be conducted on video. Employment is contingent upon completion of a required identity verification process, which may include biometric technology, where permitted by applicable law and subject to applicable notice and consent requirements. See our Privacy Notice to learn about Assurant’s privacy practices, including our use of AI-enabled technology, automated decision making, and biometric information. Equal Opportunity Statement Assurant
+
+---
+
+## 11. [MAYBE] Simmons Bank | Card Fraud Analyst I
 - Link: https://simmonsbank.wd5.myworkdayjobs.com/SimmonsCareers/job/Little-Rock-AR/Card-Fraud-Analyst-I_R115726
 - Location: Little Rock, AR
 - Posted: Nov 03 (board gives the date only)
@@ -140,7 +187,7 @@ It's fun to work in a company where people truly BELIEVE in what they're doing! 
 
 ---
 
-## 9. [MAYBE] Penn Interactive | Business Intelligence Engineer
+## 12. [MAYBE] Penn Interactive | Business Intelligence Engineer
 - Link: https://job-boards.greenhouse.io/penninteractive/jobs/6247180004
 - Location: Remote, United States
 - Posted: Nov 04 08:27 ET
@@ -154,7 +201,7 @@ PENN Entertainment, Inc. is North America’s leading provider of integrated ent
 
 ---
 
-## 10. [MAYBE] Howmet Aerospace | Data Engineer
+## 13. [MAYBE] Howmet Aerospace | Data Engineer
 - Link: https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120224
 - Location: Whitehall, MI, United States US Wichita Falls, TX, United States
 - Posted: Nov 04 (board gives the date only)
@@ -168,7 +215,7 @@ Howmet Aerospace seeks an experienced, driven, self-starter to fill the role of 
 
 ---
 
-## 11. [MAYBE] Advocate Health Care | Research Associate - Neurosciences - FT
+## 14. [MAYBE] Advocate Health Care | Research Associate - Neurosciences - FT
 - Link: https://aah.wd5.myworkdayjobs.com/External/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/Research-Associate---Neurosciences---FT_R271759
 - Location: Carolinas Medical Center - 1000 Blythe Blvd, Charlotte, NC
 - Posted: Nov 03 (board gives the date only)
@@ -182,7 +229,7 @@ Department: 85209 Greater Charlotte Research and Other Sponsored Programs - Acad
 
 ---
 
-## 12. [MAYBE] Stevens Institute of Technology | Research Scientist
+## 15. [MAYBE] Stevens Institute of Technology | Research Scientist
 - Link: https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Research-Scientist_RQ29183
 - Location: Hoboken, NJ - Main Campus
 - Posted: Nov 03 (board gives the date only)
@@ -196,7 +243,21 @@ Job Description Summary of Position The Acquisition Innovation and Research Cent
 
 ---
 
-## 13. [MAYBE] Medical College of Wisconsin | Biostatistician I - CIBMTR
+## 16. [MAYBE] Barclays | High Yield Credit Research Analyst
+- Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/High-Yield-Credit-Research-Analyst_JR-0000133716
+- Location: New York, 745 7th Avenue
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 142 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, credit, git, research, risk, trading | Lacks: -
+
+### Job description
+
+Job Description Purpose of the role To produce and deliver Research with differentiated market insights and actionable ideas to Barclays Clients. Accountabilities Analysis of market, sector, corporate and/or economic data to help develop investment theses for your coverage universe to produce best in class Research. Research may range from individual company or sector notes, through to long dated thematic reports. Presentation of Research views to Barclays Clients; this can be through direct, face to face and virtual interactions, Research hosted events and written communications. Engagement with Markets, Client Strategy and other stakeholders, to raise awareness of your Research both to Clients and internally. Prioritise interaction with the most relevant and valuable Clients for your Research. Provision of insights and Research views to internal Clients to help them navigate financial markets and risks. Collaboration with the Supervisory Analyst, Compliance and other stakeholders to ensure Research is produced and delivered to Clients and internal stakeholders in a compliant manner. Analyst Expectations To perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement. Requires in-depth technical knowledge and experience in their assigned area of expertise Thorough understanding of the underlying principles and concepts within the area of expertise They lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources. If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others. OR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate. Will have an impact on the work of related teams within the area. Partner with other functions and business areas. Takes responsibility for end results of a team’s operational processing and activities. Escalate breaches of policies / procedure appropriately. Take responsibility for embedding new policies/ procedures adopted due to risk mitigation. Advise and influence decision making within own area of expertise. Take ownership for managing risk and strengthening controls in relation to the work you own or contribute to. Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct. Maintain and continually build an understanding of how own sub-function integrates with function, alongside knowledge of the organisations products, services and processes within the function. Demonstrate understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub-function. Make evaluative judgements based on the analysis of factual information, paying attention to detail. Resolve problems by identifying and selecting solutions through the application of acquired technical experience and will be guided by precedents. Guide and persuade team members and communicate complex / sensitive information. Act as contact point for stakeholders outside of the immediate function, while building a network of contacts outside team and external to the organisation. All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave. Join Barclays as a High Yield Credit Research Analyst, where you will be responsible for providing fundamental credit analysis and investment recommendations on sub-investment-grade issuers within various sectors. Your role supports trading, sales, and institutional clients by delivering timely, actionable research on captial structures, credit quality, and relative value across high yield bonds, leveraged loans, and related credit instruments. To be successful as a High Yield Credit Research Analyst , you should have: An understanding of high yield credit markets, leveraged finance, and fixed income valuation. Sector knowledge of financials and media, including regulatory, technological, and structural trends. High attention to detail, intellectual curiosity, and ability to perform under tight deadlines. Some other highly valued skills may include: Ample written and verbal communication skills, with the ability to translate analysis into actionable insights. Advanced financial modeling and accounting skills. The ability to analyze multi-layered capital structures and distressed or event-driven credit situations. You may be assessed on the key critical skills relevant for success in role, such as risk and controls, change and transformation, business acumen, strategic thinking, digital and technology, as well as job-specific technical skills. This role is located in New York, NY. This role is regulated by FINRA. Minimum Salary: $110,000 Maximum Salary: $125,000 The minimum and maximum salary/rate information above include only base salary or base hourly rate. It does not include any other type of compensation or benefits that may be available..
+
+---
+
+## 17. [MAYBE] Medical College of Wisconsin | Biostatistician I - CIBMTR
 - Link: https://mcw.wd503.myworkdayjobs.com/ExternalCareers/job/Milwaukee-WI/Biostatistician-I---CIBMTR_JR104177
 - Location: Milwaukee, WI
 - Posted: Nov 03 (board gives the date only)
@@ -210,7 +271,21 @@ Summary The Center for International Blood and Marrow Transplant Research (CIBMT
 
 ---
 
-## 14. [MAYBE] Citi | Data Analytics Engineer
+## 18. [MAYBE] Brown & Brown Insurance | Employee Benefits Marketing Analyst
+- Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/St-Petersburg-FL-USA/Employee-Benefits-Marketing-Analyst_R26_0000003824
+- Location: St. Petersburg, FL, USA
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, llm, reporting, validation | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Built on meritocracy, our unique company culture rewards self-starters and those who are committed to doing what is best for our customers. Summary: The Data & Systems Analyst supports the integrity and functionality of client benefit administration by managing data processes, eligibility reporting, policy validation, and system updates. This role ensures internal systems and client-facing platforms are accurate, aligned, and strategically maintained. The ideal candidate has strong attention to detail, systems knowledge, and the ability to collaborate across teams to deliver timely and accurate client support. Essential Duties and Functions: · Update and renew plans in BAM based on the Renewal Plan Decision communications. · Maintain and manage individual policy details within BAM, including personal lines of coverage. · Update AMS with fee agreements and coordinate client invoicing where applicable. · Generate and distribute monthly analytics reports to clients, ensuring accuracy and clarity of the data. · Conduct benchmarking analysis via mPloyer to support client strategy and renewal discussions. · Administer client surveys as part of ongoing service evaluation and performance tracking. · Maintain accurate Zywave portal access and contact information for each client. · Ensure clients have up-to-date access to relevant tools, resources, and documentation. · Maintain the Eligibility Master Sheet in Microsoft Teams to reflect accurate and timely enrollment data. · Process manual lines of coverage and respond to eligibility or data discrepancies. · Conduct thorough post–open enrollment audits across carrier, payroll, and BenAdmin systems. · Submit updates and corrections as needed to maintain system integrity. · Prepare and confirm the accuracy of payroll deduction reports. · Deliver reports in coordination with client payroll schedules to ensure proper deductions. · Coordinate with EBTech to gather build materials and support system renewals or new implementations. · Participate in peer reviews and demos to ensure functionality, accuracy, and alignment with client expectations. · Provide technical support and troubleshooting assistance as needed during onboarding or renewal. · Review and verify final policy documents to ensure alignment with sold and implemented plans. · Address and resolve any inconsistencies between sold coverage and policy issuance. Competencies: · Analytical- the individual collects data and can create and delivering an analytical presentation. · Technical Skills- the individual pursues training and development opportunities, strives to continuously build knowledge and skills, and shares expertise with others. · Planning/organizing—the individual prioritizes and plans work activities and uses time efficiently, follows policies and procedures, supports organization’s goals and values. · Interpersonal skills—the individual maintains confidentiality, remains open to others' ideas, is a team player, and exhibits willingness to try new things. · Oral communication—the individual speaks clearly and persuasively in positive or negative situations and demonstrates group presentation skills. · Written communication—the individual edits work for spelling and grammar, presents numerical data effectively and can read and interpret written information. · Problem solving—the individual identifies and resolves problems in a timely manner, develops alternative solutions, gathers, and analyzes information skillfully and maintains confidentiality. · Quality control—the individual demonstrates accuracy and thoroughness and monitors own work to ensure quality. · Quantity- the individual meets productivity standards, completes work in a timely manner. · Adaptability—the individual adapts to changes in the work environment, manages competing demands, and can deal with frequent change, delays, or unexpected events, and is a good multitasker. · Dependability- the individual is dependable and punctual with teammates, clients, and prospects. · Initiative- the individual shows personal initiative in accessing resources both internally and externally to bring growing value to the team and grow professionally over time. Qualifications: Required · Minimum of high school diploma or general education degree (GED) · Florida Life & Health Insurance license (2-15) · Valid driver’s license · Proficient with MS Office Suite and Excel · Organizational, verbal, and written communication skills. · Ability to maintain a high level of confidentiality. · Travel Preferred · Associate’s or Bachelor’s in a business or financial related discipline · Professional designation · Minimum typing speed of 40 to 50 words per minute · Agency Management System knowledge Teammate Benefits & Total Well-Being We go beyond standard benefits, focusing on the total well-being of our teammates, including: Health Benefits : Medical/Rx, Dental, Vision, Life Insurance, Disability Insurance Financial Benefits : ESPP; 401k; Student Loan Assistance; Tuition Reimbursement Mental Health & Wellness : Free Mental Health & Enhanced Advocacy Services Beyond Benefits : Paid Time Off, Holidays, Preferred Partner Discounts and more. Not reflective of all benefits. Enrollment waiting periods or eligibility criteria may apply to certain benefits. Benefit details and offerings may vary for subsidiary entities or in specific geographic locations. Recruiting Vendor Disclosure Statement Brown & Brown does not accept unsolicited resumes from external recruiters, recruitment vendors or employment agencies ("Recruiting Vendors"). Recruiting Vendors must have a valid written agreement and received prior written authorization from an authorized Brown & Brown representative before submitting candidates for any publicly posted role. Any unsolicited resumes submitted to Brown & Brown or its employees become the property of Brown & Brown, and no fees will be paid for such submissions. Additional information regarding this policy can be found on our careers page. The Power To Be Yourself As an
+
+---
+
+## 19. [MAYBE] Citi | Data Analytics Engineer
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Data-Analytics-Engineer_261001004
 - Location: Irving Texas United States
 - Posted: Nov 03 (board gives the date only)
@@ -224,7 +299,7 @@ Overview of the Role: Citi, the leading global bank, has approximately 200 milli
 
 ---
 
-## 15. [MAYBE] HUB International | Benefits Marketing Analyst
+## 20. [MAYBE] HUB International | Benefits Marketing Analyst
 - Link: https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Metairie-LA/Benefits-Marketing-Analyst_R0039341
 - Location: Metairie, LA
 - Posted: Nov 03 (board gives the date only)
@@ -238,7 +313,7 @@ A path for every ambition. At HUB, we believe the best work happens when people 
 
 ---
 
-## 16. [MAYBE] Gilead Sciences | Research Associate, In Vivo Discovery
+## 21. [MAYBE] Gilead Sciences | Research Associate, In Vivo Discovery
 - Link: https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---Pennsylvania---Philadelphia/Research-Associate--In-Vivo-Discovery_R0056352-1
 - Location: United States - Pennsylvania - Philadelphia
 - Posted: Nov 03 (board gives the date only)
@@ -252,7 +327,7 @@ We’re here for one reason and one reason only – to cure cancer. Every moment
 
 ---
 
-## 17. [MAYBE] Kite Pharma | Research Associate, In Vivo Discovery
+## 22. [MAYBE] Kite Pharma | Research Associate, In Vivo Discovery
 - Link: https://gilead.wd1.myworkdayjobs.com/kitepharmacareers/job/United-States---Pennsylvania---Philadelphia/Research-Associate--In-Vivo-Discovery_R0056352
 - Location: United States - Pennsylvania - Philadelphia
 - Posted: Nov 03 (board gives the date only)
@@ -266,7 +341,7 @@ We’re here for one reason and one reason only – to cure cancer. Every moment
 
 ---
 
-## 18. [MAYBE] Avis Budget Group | Data Engineer / AI Engineer
+## 23. [MAYBE] Avis Budget Group | Data Engineer / AI Engineer
 - Link: https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Avis-Budget-House-HQ/Data-Engineer---AI-Engineer_R0191644
 - Location: Avis Budget House, HQ
 - Posted: Nov 03 (board gives the date only)
@@ -280,7 +355,7 @@ Job Title: Data Engineer / AI Engineer Location: Bracknell, minimum of 3 days in
 
 ---
 
-## 19. [MAYBE] Valsoft Corporation | AI Engineer - SAD con
+## 24. [MAYBE] Valsoft Corporation | AI Engineer - SAD con
 - Link: https://apply.workable.com/j/1DFDC9657B
 - Location: Beirut Beirut Governorate Lebanon
 - Posted: Nov 04 (board gives the date only)
@@ -294,7 +369,7 @@ Aspire Software is looking for a Senior Software Engineer to join our team in Le
 
 ---
 
-## 20. [MAYBE] Jade Global | AI Engineer
+## 25. [MAYBE] Jade Global | AI Engineer
 - Link: https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/AI-Engineer_R-106525-2
 - Location: 2 Locations
 - Posted: Nov 03 (board gives the date only)
@@ -308,7 +383,7 @@ AI Engineer1 We're building a self-service LoRA / full fine-tuning platform for 
 
 ---
 
-## 21. [MAYBE] The Hartford | Consultant Performance Analytics – General Liability
+## 26. [MAYBE] The Hartford | Consultant Performance Analytics – General Liability
 - Link: https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/United-States---Remote/Consultant-Performance-Analytics---General-Liability_R2627627
 - Location: United States - Remote
 - Posted: Nov 03 (board gives the date only)
