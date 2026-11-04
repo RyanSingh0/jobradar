@@ -4,65 +4,85 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | University of Wisconsin System | Data Reporting & Academic Systems Analyst | 74 | cap-exempt employer | Nov 03 (board gives the date only) |
-| 2 | Qube Research & Technologies | Production Support Engineer - LLM Platform | 74 | none found (check myvisajobs) | Nov 04 12:00 ET |
-| 3 | Steampunk | Job Title AI Evaluation Scientist | 72 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 4 | CVS Health | AI Engineer - GenAI | 71 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 5 | Avis Budget Group | Revenue Management Analyst | 70 | 3 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 6 | Avis Budget Group | Revenue Management Analyst | 70 | 3 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 7 | JP Morgan Chase | Business Analysis Associate I- RO Data and Reporting | 69 | 1098 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 8 | Atomic Machines | Applied AI Engineer, People | 68 | none found (check myvisajobs) | Nov 03 19:54 ET |
-| 9 | State of North Carolina | Data Quality Specialist | 68 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 10 | Manulife Financial | Data Scientist | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 11 | Desjardins Group | Data scientist | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 12 | Hancock Whitney | Risk Analyst | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 13 | Everest | Actuarial Analyst, Global Reserving | 65 | 6 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 14 | Barclays | Finance Transformation - AI Specialist | 62 | 142 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 15 | Digital Realty | Portfolio Analyst | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 16 | Assurant | Product Analyst | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 17 | Texas A&M Transportation Institute | TTI Assistant Research Scientist | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 18 | Capital Health | IT Data Engineer I - IT DATA ANALYTICS - Full-time - Day - Lawrenceville, NJ | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 19 | Simmons Bank | Card Fraud Analyst I | 60 | 2 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 20 | Clera | Founding Engineer, AI/ML | 60 | none found (check myvisajobs) | Nov 04 12:06 ET |
-| 21 | Sony | Associate Data Analyst | 57 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 22 | Penn Interactive | Business Intelligence Engineer | 55 | none found (check myvisajobs) | Nov 04 08:27 ET |
-| 23 | Howmet Aerospace | Data Engineer | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 24 | HUB International | AI Engineer | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 25 | Envista | Global Digital Marketing Specialist - Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 26 | Advocate Health Care | Research Associate - Neurosciences - FT | 54 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 27 | Stevens Institute of Technology | Research Scientist | 54 | cap-exempt employer | Nov 03 (board gives the date only) |
-| 28 | Barclays | High Yield Credit Research Analyst | 54 | 142 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 29 | Generalist | Applied Scientist | 54 | none found (check myvisajobs) | Nov 04 14:44 ET |
-| 30 | Osaic | Risk Analyst I | 54 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 31 | Uline | AI Engineer | 54 | 16 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 32 | Medical College of Wisconsin | Biostatistician I - CIBMTR | 50 | cap-exempt employer | Nov 03 (board gives the date only) |
-| 33 | Brown & Brown Insurance | Employee Benefits Marketing Analyst | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 34 | Hancock Whitney | Fraud Risk Analyst | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 35 | Unum | Investment Analyst - Credit | 50 | 8 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 36 | PIMCO | Analyst/Associate, Client Solutions & Analytics | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 37 | Citi | Data Analytics Engineer | 49 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 38 | Regeneron Pharmaceuticals | Process Development Engineer I, Biobank Analytics Automation | 47 | 42 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 39 | HUB International | Benefits Marketing Analyst | 45 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 40 | Gilead Sciences | Research Associate, In Vivo Discovery | 45 | 73 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 41 | Kite Pharma | Research Associate, In Vivo Discovery | 45 | 9 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 42 | State of North Carolina | Data Engineer Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 43 | Avis Budget Group | Data Engineer / AI Engineer | 44 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 44 | Valsoft Corporation | AI Engineer - SAD con | 44 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 45 | Jade Global | AI Engineer | 43 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 46 | Hitachi | Research Scientist – Power Systems Optimization | 43 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 47 | University of Texas - Austin | Research Scientist, Laser-Plasma Accelerators and X-ray Sources | 43 | cap-exempt employer | Nov 04 (board gives the date only) |
-| 48 | Steampunk | Job Title Data Engineer - Databricks | 43 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 49 | M&G | Data Scientist | 42 | 4 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 50 | The Hartford | Consultant Performance Analytics – General Liability | 40 | 17 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 51 | Stride | Academics Data Science Associate | 40 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 52 | TMX Group | Product Analyst | 40 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 53 | Confido | Finance Data Analyst | 40 | 1 in data/analytics/finance occupations | Nov 04 16:42 ET |
-| 54 | Mars | Customer Marketing Analyst, Pringles | 40 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 55 | Mars | Customer Marketing Analyst, Cheez-It | 40 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 1 | HeartFlow | Customer Success Analyst | 76 | 2 in data/analytics/finance occupations | Nov 04 17:15 ET |
+| 2 | University of Wisconsin System | Data Reporting & Academic Systems Analyst | 74 | cap-exempt employer | Nov 03 (board gives the date only) |
+| 3 | Qube Research & Technologies | Production Support Engineer - LLM Platform | 74 | none found (check myvisajobs) | Nov 04 12:00 ET |
+| 4 | Northwestern Medicine | HB Coding Strategic Data Analyst (Remote - Must reside in IL, IN, IA, MO, or WI) | 74 | none found (check myvisajobs) | Nov 04 17:54 ET |
+| 5 | Steampunk | Job Title AI Evaluation Scientist | 72 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 6 | CVS Health | AI Engineer - GenAI | 71 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 7 | Avis Budget Group | Revenue Management Analyst | 70 | 3 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 8 | Avis Budget Group | Revenue Management Analyst | 70 | 3 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 9 | JP Morgan Chase | Business Analysis Associate I- RO Data and Reporting | 69 | 1098 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 10 | Atomic Machines | Applied AI Engineer, People | 68 | none found (check myvisajobs) | Nov 03 19:54 ET |
+| 11 | State of North Carolina | Data Quality Specialist | 68 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 12 | Manulife Financial | Data Scientist | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 13 | Desjardins Group | Data scientist | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 14 | Hancock Whitney | Risk Analyst | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 15 | Everest | Actuarial Analyst, Global Reserving | 65 | 6 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 16 | Sanofi | Data Scientist Target Identification | 65 | 25 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 17 | DriveTime | Analyst, Risk Forecasting | 64 | 4 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 18 | Barclays | Finance Transformation - AI Specialist | 62 | 142 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 19 | Digital Realty | Portfolio Analyst | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 20 | Assurant | Product Analyst | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 21 | Texas A&M Transportation Institute | TTI Assistant Research Scientist | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 22 | Capital Health | IT Data Engineer I - IT DATA ANALYTICS - Full-time - Day - Lawrenceville, NJ | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 23 | Snap | Ad Product Quality Analyst I | 62 | 52 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 24 | Simmons Bank | Card Fraud Analyst I | 60 | 2 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 25 | Clera | Founding Engineer, AI/ML | 60 | none found (check myvisajobs) | Nov 04 12:06 ET |
+| 26 | Sony | Associate Data Analyst | 57 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 27 | Penn Interactive | Business Intelligence Engineer | 55 | none found (check myvisajobs) | Nov 04 08:27 ET |
+| 28 | Howmet Aerospace | Data Engineer | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 29 | HUB International | AI Engineer | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 30 | Envista | Global Digital Marketing Specialist - Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 31 | Advocate Health Care | Research Associate - Neurosciences - FT | 54 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 32 | Stevens Institute of Technology | Research Scientist | 54 | cap-exempt employer | Nov 03 (board gives the date only) |
+| 33 | Barclays | High Yield Credit Research Analyst | 54 | 142 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 34 | Generalist | Applied Scientist | 54 | none found (check myvisajobs) | Nov 04 14:44 ET |
+| 35 | Osaic | Risk Analyst I | 54 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 36 | Uline | AI Engineer | 54 | 16 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 37 | Medical College of Wisconsin | Biostatistician I - CIBMTR | 50 | cap-exempt employer | Nov 03 (board gives the date only) |
+| 38 | Brown & Brown Insurance | Employee Benefits Marketing Analyst | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 39 | Hancock Whitney | Fraud Risk Analyst | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 40 | Unum | Investment Analyst - Credit | 50 | 8 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 41 | PIMCO | Analyst/Associate, Client Solutions & Analytics | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 42 | Citi | Data Analytics Engineer | 49 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 43 | Regeneron Pharmaceuticals | Process Development Engineer I, Biobank Analytics Automation | 47 | 42 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 44 | HUB International | Benefits Marketing Analyst | 45 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 45 | Gilead Sciences | Research Associate, In Vivo Discovery | 45 | 73 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 46 | Kite Pharma | Research Associate, In Vivo Discovery | 45 | 9 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 47 | State of North Carolina | Data Engineer Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 48 | Avis Budget Group | Data Engineer / AI Engineer | 44 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 49 | Valsoft Corporation | AI Engineer - SAD con | 44 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 50 | Jade Global | AI Engineer | 43 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 51 | Hitachi | Research Scientist – Power Systems Optimization | 43 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 52 | University of Texas - Austin | Research Scientist, Laser-Plasma Accelerators and X-ray Sources | 43 | cap-exempt employer | Nov 04 (board gives the date only) |
+| 53 | Steampunk | Job Title Data Engineer - Databricks | 43 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 54 | Amazon |  Applied Scientist, Fauna Robotics | 43 | 3890 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 55 | M&G | Data Scientist | 42 | 4 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 56 | The Hartford | Consultant Performance Analytics – General Liability | 40 | 17 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 57 | Stride | Academics Data Science Associate | 40 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 58 | TMX Group | Product Analyst | 40 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 59 | Confido | Finance Data Analyst | 40 | 1 in data/analytics/finance occupations | Nov 04 16:42 ET |
+| 60 | Mars | Customer Marketing Analyst, Pringles | 40 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 61 | Mars | Customer Marketing Analyst, Cheez-It | 40 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] University of Wisconsin System | Data Reporting & Academic Systems Analyst
+## 1. [MAYBE] HeartFlow | Customer Success Analyst
+- Link: https://job-boards.greenhouse.io/heartflowinc/jobs/6239312004
+- Location: Rohnert Park, California; San Francisco, California
+- Posted: Nov 04 17:15 ET
+- Scanner fit: ~76 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, excel, forecast, llm, nlp, pandas, python, sql, statistic, tableau, classification, data quality, fraud, git | Lacks: salesforce  | Note: broad title
+
+### Job description
+
+Heartflow is a medical technology company advancing the diagnosis and management of coronary artery disease, the #1 cause of death worldwide, using cutting-edge technology. The flagship product—an AI-driven, non-invasive cardiac test supported by the ACC/AHA Chest Pain Guidelines called the Heartflow FFR CT&nbsp; Analysis—provides a color-coded, 3D model of a patient’s coronary arteries indicating the impact blockages have on blood flow to the heart. Heartflow is the first AI-driven non-invasive integrated heart care solution across the CCTA pathway that helps clinicians identify stenoses in the coronary arteries (RoadMap™Analysis), assess coronary blood flow (FFR CT&nbsp; Analysis), and characterize and quantify coronary atherosclerosis (Plaque Analysis).&nbsp;Our pipeline of products is growing and so is our team; join us in helping to revolutionize precision heartcare. Heartflow is a publicly traded company (HTFL) that has received international recognition for exceptional strides in healthcare innovation, is supported by medical societies around the world, cleared for use in the US, UK, Europe, Japan and Canada, and has been used for more than 750,000 patients worldwide.&nbsp;&nbsp; Heartflow is transforming how coronary artery disease is diagnosed and managed. The Heartflow platform, including the Heartflow FFRCT Analysis and Plaque Analysis, is used by hospitals, imaging centers, and physician practices across the country, and keeping those customers successful at scale is central to our growth. We are looking for a Customer Success Analyst to join the Strategic Analytics team and serve as the analytical engine behind our Customer Success and Support organizations. In this role, you will own the data, models, and insights that help Customer Success leaders decide how to staff, where to focus, and what to fix. You will build headcount and capacity models, turn support ticket data into clear themes and root causes, track customer health and adoption across our site base, and deliver dashboards and analyses that leadership relies on. You will work closely with Customer Success, Support, Sales Operations, Finance, and Product, translating operational questions into rigorous analysis and practical recommendations. We are an AI-forward analytics team. The ideal candidate is someone who already uses AI tools as a core part of how they work, from accelerating SQL and Python development to classifying and summarizing unstructured ticket data, and who is excited to help build the automated, AI-assisted workflows that will define how Customer Success operates at Heartflow. Job Responsibilities : Capacity &amp; Headcount Planning: Build and maintain capacity models for Customer Success and Support teams, linking case volume, site growth, ticket demand, and handle time to staffing needs; support annual planning and in-year headcount decisions. Support Ticket Insights: Analyze Salesforce case data to identify volume drivers, recurring issues, root causes, and trends by site, product, and issue type; translate findings into actionable recommendations for Support, Product, and Operations. Support Operations Metrics: Define and track core operational KPIs such as ticket volume, first response time, time to resolution, backlog, SLA attainment, escalation rates, and workload distribution. Customer Health &amp; Retention: Develop and refine customer health scoring, adoption and utilization tracking, and early-warning indicators of churn or declining engagement; partner with CS leaders to prioritize proactive outreach. Onboarding &amp; Time-to-Value: Measure onboarding performance and ramp of newly launched sites, identifying where customers stall and what drives faster adoption. Dashboards &amp; Executive Reporting: Build and maintain Tableau dashboards and recurring reports for CS and executive audiences, with clear narratives on what changed, why, and what to do about it. Salesforce Data &amp; Process: Partner with Sales Operations and Salesforce administrators to improve case and account data structures, ticket categorization taxonomy, and data quality so the data supports reliable analysis. AI-Enabled Analytics &amp; Automation: Apply LLMs and AI tools to classify, cluster, and summarize ticket text and customer feedback; automate recurring reporting and data pipelines; and evaluate AI outputs for accuracy and consistency. Ad Hoc Analysis: Lead deep-dive analyses on cross-functional questions, framing the problem, choosing the right method, and presenting findings to stakeholders at all levels. Data Stewardship: Follow Heartflow data handling policies, including appropriate safeguards for any customer or patient-related information encountered in support data. Skills Needed : CS Operations Expertise: Hands-on experience in Customer Success or Support Operations, including capacity and workforce planning and deriving insights from support ticket data. SQL: Advanced SQL skills and comfort working in a cloud data warehouse (Amazon Redshift or similar), including complex joins, window functions, and deduplication logic. BI &amp; Visualization: Strong experience building dashboards in Tableau or a comparable BI tool, with an eye for clear, decision-oriented design. Salesforce Fluency: Deep working knowledge of Salesforce (Service Cloud and Sales Cloud), including the case and account data model, reports and dashboards, and extracting data for analysis; SOQL experience is a plus. AI Fluency: Demonstrated, regular use of AI tools (e.g., Claude, ChatGPT, Copilot) to accelerate analysis, write code, and process unstructured text; familiarity with prompt design, semantic models, LLM-based classification, and validating AI-generated outputs. Python: Working proficiency in Python (pandas or similar) for data wrangling, automation, and analysis; experience with text analytics or NLP techniques is a plus. Modeling &amp; Forecasting: Strong Excel and modeling skills, including scenario-based capacity and demand forecasting. Communication: Ability to turn complex analysis into concise, compelling stories for both operational teams and senior leadership. Ownership &amp; Judgment: Self-directed, detail-oriented, and comfortable with ambiguity; able to define metrics carefully and push back when data does not support a conclusion. Educational Requirements &amp; Work Experience: &nbsp; Bachelor’s degree in a quantitative or analytical field such as Business Analytics, Economics, Statistics, Engineering, Computer Science, or equivalent practical experience. 3-5+ years of experience in analytics, with at least 2 years supporting Customer Success, Support, or Customer Operations teams. Proven track record building capacity or headcount models and support ticket analytics used to inform staffing and operational decisions. Preferred: experience in medical device, healthcare technology, or B2B SaaS environments serving hospital or health system customers. Preferred: experience with customer success plat [...]
+
+---
+
+## 2. [MAYBE] University of Wisconsin System | Data Reporting & Academic Systems Analyst
 - Link: https://wisconsin.wd1.myworkdayjobs.com/UW_Comprehensives/job/Oshkosh-WI/Data-Reporting---Academic-Systems-Analyst_JR10015748
 - Location: University of Wisconsin Oshkosh
 - Posted: Nov 03 (board gives the date only)
@@ -76,7 +96,7 @@ Current Employees: If you are currently employed at any of the Universities of W
 
 ---
 
-## 2. [MAYBE] Qube Research & Technologies | Production Support Engineer - LLM Platform
+## 3. [MAYBE] Qube Research & Technologies | Production Support Engineer - LLM Platform
 - Link: https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8902671002
 - Location: New York, Chicago
 - Posted: Nov 04 12:00 ET
@@ -90,7 +110,21 @@ Qube Research &amp; Technologies (QRT) is a global quantitative and systematic i
 
 ---
 
-## 3. [MAYBE] Steampunk | Job Title AI Evaluation Scientist
+## 4. [MAYBE] Northwestern Medicine | HB Coding Strategic Data Analyst (Remote - Must reside in IL, IN, IA, MO, or WI)
+- Link: https://jobs.smartrecruiters.com/NorthwesternMedicine/744000159738809
+- Location: Chicago IL us remote
+- Posted: Nov 04 17:54 ET
+- Scanner fit: ~74 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, data visualization, excel, power bi, classification, git, healthcare, kpi, reporting, risk, validation | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+The HB Coding Strategic Data Analyst role exists to transform complex coding into actionable insights that drive performance, compliance, and strategic decision-making across Northwestern Medicine's Hospital Billing Coding operations. The position serves as a critical link between data, technology, and operational leadership by providing meaningful analysis and reporting that supports efficient workflows, revenue cycle performance, coding quality, productivity, and organizational goals. Through the development and management of reports, dashboards, performance metrics, and analytics, this role enables coding leadership to identify outpatient trends, measure outcomes, evaluate operational effectiveness, and make informed decisions that improve financial performance, and coding accuracy. The HB Coding Strategic Data Analyst supports Coding leadership, ensuring leaders have the data and insights needed to manage resources, prioritize initiatives, and plan for future organizational needs. Additionally, the position fosters collaboration among key stakeholders to support reporting, workflow optimization, technology enhancements, and process improvement initiatives. By leveraging data analytics, Epic, and other reporting tools, the HB Coding Strategic Data Analyst helps advance operational excellence, support organizational growth, and contribute to Northwestern Medicine's commitment to high-quality patient care and financial stewardship. This position is 100% remote Responsibilities: Serves as the primary analytics resource for Coding Leadership transforming coding, revenue cycle, operational, and financial data into actionable insights that support strategic and operational decision-making. Develop, maintain, and enhance dashboards, scorecards, key performance indicators (KPIs), routine reports, and ad hoc analyses related to productivity, quality, accounts receivable, budgets, vendor performance, and workflow outcomes on a daily, weekly, monthly, and fiscal-year cadence. Analyze coding and revenue cycle data to identify trends, risks, variances, and improvement opportunities, and provide actionable recommendations to leadership and operational teams. Translate complex analytical findings into clear reports, presentations, and visualizations that communicate performance results, risks, opportunities, and recommendations to stakeholders. Collaborate with internal and external stakeholders to resolve issues, support reporting needs, and achieve organizational objectives. Utilize Epic, computer-assisted coding (CAC) technology, Power BI, Microsoft applications, and reporting tools to evaluate system functionality, validate business requirements, coordinates user acceptance testing, post-implementation validation, and optimize operational performance. Coordinate coding technology activities by documenting workflows, supporting upgrades and troubleshooting efforts, managing IS ticket documentation and status reporting, and serving as a subject matter expert for Epic and CAC workflows. Lead and support reporting, technology, and continuous improvement initiatives by applying project management principles, strengthening data integrity, documenting requirements and decisions, and streamlining departmental workflows. Additional Functions Other duties as assigned Minimum Requirements: Education: Associate’s degree in health information management, Health Informatics, or a related field; or equivalent education and relevant experience. Experience: 3 years of data analytics Working knowledge of Key Performance Indicators management Microsoft Office, including advanced Excel functions Epic and computer-assisted coding technology Licensure: None required. Certification: HIM Membership: AHIMA or AAPC Epic certification: Applicable Epic reporting certification required at hire or within six months Behavioral Attributes: Demonstrates attention to detail and consistently monitors work for accuracy. Use critical thinking to draw conclusions and make recommendations. Communicates clearly in writing and verbally, collaborates effectively across teams, manages competing priorities, and maintains accountability for assigned work. Preferred: Acute care revenue cycle experience Project management experience Healthcare coding analytics EPIC Cogito, Reporting Workbench, Slicer Dicer, or applicable Epic reporting Dashboard development and data visualization Budget, productivity, and quality analysis Education: Bachelor’s degree in health information management, Health Informatics, or a related field; or equivalent education and relevant experience. Coding credential: RHIA Addendum 2 – Inpatient HB Coding Strategic Data Analyst Demonstrate expertise in inpatient coding principles and regulatory requirements, including ICD-10-CM, Procedure Coding System (PCS) coding, and official coding guidelines. Demonstrate expertise in denials including DRG downgrades and writing appeal letters. Coding/HIM credential: RHIT or CCS Experience 3 years of inpatient coding experience Reviewing and writing appeal letters for payer denials and DRG downgrades Northwestern Medicine
+
+---
+
+## 5. [MAYBE] Steampunk | Job Title AI Evaluation Scientist
 - Link: https://careers-steampunk.icims.com/jobs/8003/ai-evaluation-scientist/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -104,7 +138,7 @@ AI Evaluation Scientist in McLean, Virginia Please Enable Cookies to Continue Pl
 
 ---
 
-## 4. [MAYBE] CVS Health | AI Engineer - GenAI
+## 6. [MAYBE] CVS Health | AI Engineer - GenAI
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Dallas/AI-Engineer---GenAI_R1074805
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -118,7 +152,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 5. [MAYBE] Avis Budget Group | Revenue Management Analyst
+## 7. [MAYBE] Avis Budget Group | Revenue Management Analyst
 - Link: https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Analyst-Revenue-Management---Non-Core_R0190304
 - Location: 379 Interpace Pkwy, Parsippany, 07054
 - Posted: Nov 04 (board gives the date only)
@@ -132,7 +166,7 @@ Driven to be the Best People. Performance. Purpose. At Avis Budget Group, we’r
 
 ---
 
-## 6. [MAYBE] Avis Budget Group | Revenue Management Analyst
+## 8. [MAYBE] Avis Budget Group | Revenue Management Analyst
 - Link: https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Revenue-Management-Analyst_R0190442
 - Location: 379 Interpace Pkwy, Parsippany, 07054
 - Posted: Nov 04 (board gives the date only)
@@ -146,7 +180,7 @@ Driven to be the Best People. Performance. Purpose. At Avis Budget Group, we’r
 
 ---
 
-## 7. [MAYBE] JP Morgan Chase | Business Analysis Associate I- RO Data and Reporting
+## 9. [MAYBE] JP Morgan Chase | Business Analysis Associate I- RO Data and Reporting
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803121
 - Location: Columbus, OH, United States US San Antonio, TX, United States
 - Posted: Nov 04 (board gives the date only)
@@ -160,7 +194,7 @@ Embark on a rewarding and challenging career as a Business Analysis Associate I 
 
 ---
 
-## 8. [MAYBE] Atomic Machines | Applied AI Engineer, People
+## 10. [MAYBE] Atomic Machines | Applied AI Engineer, People
 - Link: https://job-boards.greenhouse.io/atomicmachines/jobs/4478776009
 - Location: Emeryville, or Santa Clara, California
 - Posted: Nov 03 19:54 ET
@@ -174,7 +208,7 @@ Atomic Machines is building the Matter Compiler™, the first in a new class of 
 
 ---
 
-## 9. [MAYBE] State of North Carolina | Data Quality Specialist
+## 11. [MAYBE] State of North Carolina | Data Quality Specialist
 - Link: https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Quality-Specialist_JR-112923
 - Location: Wake County, NC
 - Posted: Nov 03 (board gives the date only)
@@ -188,7 +222,7 @@ Agency Dept of Health and Human Services Division Mental Health Job Classificati
 
 ---
 
-## 10. [MAYBE] Manulife Financial | Data Scientist
+## 12. [MAYBE] Manulife Financial | Data Scientist
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Data-Scientist_JR26100486
 - Location: Quezon City
 - Posted: Nov 03 (board gives the date only)
@@ -202,7 +236,7 @@ We’re looking for a Data Scientist to join our Global Risk and Compliance team
 
 ---
 
-## 11. [MAYBE] Desjardins Group | Data scientist
+## 13. [MAYBE] Desjardins Group | Data scientist
 - Link: https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Scientifique-de-donnes_R2613410-1
 - Location: 2 Locations
 - Posted: Nov 03 (board gives the date only)
@@ -216,7 +250,7 @@ As a Data scientist assigned to the Finance function, you play a key role in the
 
 ---
 
-## 12. [MAYBE] Hancock Whitney | Risk Analyst
+## 14. [MAYBE] Hancock Whitney | Risk Analyst
 - Link: https://hancockwhitney.wd5.myworkdayjobs.com/Careers/job/UNO-Center---New-Orleans-LA/Risk-Analyst_R017667
 - Location: 2 Locations
 - Posted: Nov 03 (board gives the date only)
@@ -230,7 +264,7 @@ Thank you for your interest in our company! To apply, click on the button above.
 
 ---
 
-## 13. [MAYBE] Everest | Actuarial Analyst, Global Reserving
+## 15. [MAYBE] Everest | Actuarial Analyst, Global Reserving
 - Link: https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/Actuarial-Analyst--Global-Reserving_R7479
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -244,7 +278,35 @@ Title: Actuarial Analyst, Global Reserving Company: Job Category: Analytics Job 
 
 ---
 
-## 14. [MAYBE] Barclays | Finance Transformation - AI Specialist
+## 16. [MAYBE] Sanofi | Data Scientist Target Identification
+- Link: https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/Data-Scientist-Target-Identification---Canopy_R2873421-1
+- Location: Waltham, MA
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~65 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 25 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, spark, git, healthcare, pipeline, publication, research | Lacks: -
+
+### Job description
+
+Job title: Data Scientist Target Identification Location: Waltham, MA. About the job As Data Scientist – Bioinformatics within our team, Computational Target Identification, you’ll turn complex biological questions into the computational tools that shape the future of vaccine discovery. Ready to get started? In Vaccines, you'll help advance prevention on a global scale - and shape the future of immunization. Join the engine of Sanofi's mission — where deep immunoscience meets bold, AI-powered research. Our team, Computational Target Identification, is part of the broader global Data and Computational Science (DCS) organization. Our team's primary objective is to leverage cutting-edge computational approaches to uncover and prioritize vaccine targets, directly contributing to the advancement of Sanofi's drug discovery pipeline. In this role, you'll act as the critical link between experimental biologists and computational teams, applying your expertise in bioinformatics and data science applied to microbiology to guide critical scientific decisions. You'll independently build the analyses, databases, and dashboards that keep vaccine projects moving forward with confidence. Join the engine of Sanofi's mission — where deep immunoscience meets bold, AI-powered research. In R&D, you'll drive breakthroughs that could turn the impossible into possible for millions. About Sanofi We’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. Main responsibilities Investigate bioinformatics and data science approaches to assess and prioritize vaccine targets and antigen selection that meet the evolving analytical needs of vaccine projects. Design and apply bioinformatics and data science methods — including bacterial comparative genomics, phylogeny, functional prediction, omics data analysis — to establish robust evidence of association and causality between infections and diseases. Develop and maintain bioinformatics tools, pipelines, and databases that support antigen target identification and selection. Interpret and communicate scientific findings clearly to both computational and experimental colleagues, contributing to publications, reports, and internal presentations. Coordinate cross-functional project activities with Vaccines R&D data and digital teams as well as broader Sanofi stakeholders, defining action plans and ensuring steady project progression. About you Basic Qualifications Education & Experience Bachelor's degree in Bioinformatics, Computational Biology or a related field with 3+ years of bioinformatics research experience in academic and/or industry settings. OR Master's degree in Bioinformatics, Computational Biology or a related field with 2+ years of bioinformatics research experience in academic and/or industry setting. Preferred Qualifications Hands-on experience in omics and large-scale biological data analysis. Comparative genomics (pangenome), phylogeny, functional prediction, NGS data analysis (genomics, transcriptomics), data visualization, data engineering. Strong Collaboration, communication and problem-solving abilities. Languages: Fluent in English. Why Choose US? Bring the miracles of science to life alongside a supportive, future-focused team. Discover endless opportunities to grow your talent and drive your career, whether it's through a promotion or lateral move, at home or internationally. Enjoy a thoughtful, well-crafted rewards package that recognizes your contribution and amplifies your impact. Take good care of yourself and your family, with a wide range of health and wellbeing benefits including high-quality healthcare, prevention and wellness programs and at least 14 weeks' gender-neutral parental leave. Work at the forefront of drug discovery, harnessing cutting-edge AI, data, and digital platforms to push the boundaries of science. Help improve the lives of millions of people globally by making drug development quicker and more effective. Enjoy opportunities to collaborate beyond your area of expertise, working with diverse teams across science, clinical, and digital fields to spark new ideas and drive breakthroughs. Sanofi US Services and its U.S. affiliates are
+
+---
+
+## 17. [MAYBE] DriveTime | Analyst, Risk Forecasting
+- Link: https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst--Risk-Forecasting_R16111
+- Location: 1720 W Rio Salado Pkwy Tempe, AZ 85281
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~64 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 4 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, excel, forecast, python, sql, statistic, healthcare, kpi, reporting, risk | Lacks: snowflake  | Note: broad title
+
+### Job description
+
+What’s Under the Hood DriveTime Family of Brands includes SilverRock, which provides quality warranty and ancillary products, and a customer-friendly claims process. SilverRock offers a variety of ancillary products and administrative services encompassing everything from GAP coverage to vehicle theft and GPS tracking to dealership fleet management. Our ancillary product expertise is proven with over 1 million service contracts, products, and warranties, and over $300 million in claims. That’s Nice, But What’s the Job? This is not a position for which sponsorship will be provided. Individuals with temporary visas or who need sponsorship now or in the future are not eligible for hire at this time. In short, as an Analyst, you will turn data into clear, usable insights for the teams that run our ancillary products business. You will review data trends, dig into what is driving changes, and work with partner teams to identify opportunities to improve customer experience and profitability. You will build your analytical and strategic skills as you support the business cases behind key initiatives. In long, you will: Build, maintain, and automate reporting and KPI dashboards that help partner teams optimize their business segment. Support in-depth analyses by processing, manipulating, and studying large datasets using Excel, SQL, and Python. Use data analysis and emerging technologies to help identify new opportunities to improve our ancillary products and processes. Communicate concise insights and recommendations through visualizations and clear writing, using software such as Sigma. Collaborate with colleagues and senior leaders across DriveTime’s family of companies, with growing exposure to presenting recommendations. Contribute to designing, testing, and implementing new products and solutions. Take initiative, ask questions, and continually look for ways to improve existing processes. What do you need? Bachelor’s or Master’s degree in Data Science, Engineering, Statistics, Mathematics, Economics, or related field. 0-1 years of experience. We will consider candidates graduating in December 2026 or later. Experience with SQL and Excel; familiarity with Sigma, Snowflake, or other BI tools is a plus Excellent verbal and written communication skills, with the ability to talk and write with confidence and competence for a wide variety of audiences, including management Intellectual curiosity. Why? What? How? Do you find yourself always wanting to learn more and broaden your knowledge base? If so, this could be the role for you. Self-motivation and the initiative to help the business succeed So What About the Perks? Perks matter We take a hybrid work approach, finding balance between the benefits of in-person and work-from-home environments. This position has an on-site expectation of a minimum of three days a week. Medical, dental, and vision, oh my! DriveTime Family of Brands covers a sizable amount of insurance premiums to ensure our employees receive top-tier healthcare coverage. But Wait, There’s More. 401(K), Company paid life insurance policy, short and long-term disability coverage to name a few. Growth Opportunities. You grow, I grow, we all grow! But seriously, DriveTime Family of Brands is committed to providing its employees with every opportunity to grow professionally with roughly over 1,000 employees promoted year over year. Tuition Reimbursement. We’re as passionate about your professional development as you are. With that, we’ll put our money where our mouth is. Wellness Program. Health is wealth! This program includes self-guided coaching and journeys, cash incentives and discounts on your medical premiums through engaging in fun activities! Gratitude is Green. We offer competitive pay across the organization, because, well… money matters! In-House Gym. We want our employees to be the best versions of themselves. So come early, take a break in your day or finish strong with a workout! Give Us a Reason (or not), and We’ll Celebrate. Regardless of whether there is a holiday or not, we are finding ways to kick back and enjoy each other’s company outside of day-to-day work. Smart-Casual Dress. Come dressed in jeans (you’ll fit right in with the rest of us). Paid Time Off. Not just lip service: we work hard, to play hard ! Paid time off includes (for all full-time roles) wellness days, holidays, and good ole' fashioned YOU time! For our Part-timers, don't fear you get some time too...vacation time is available - the more you work, the more you earn! Anything Else? Absolutely. DriveTime Family of Brands is Great Place to Work Certified! And get this: 90% of our rockstar employees say they feel right at home here. We could spend a lot of time having you read about ALL our awards, but we’ll save time (and practice some humility) just naming a few others; Comparably Awards: Best Company for Diversity, Best Company Culture and Best Company Leadership, oh and don’t forget Phoenix Business Journal Healthiest Employers (okay, we’ll stop there)! Hiring is contingent upon successful completion of our background and drug screening process. DriveTime is a drug-free, tobacco-free workplace and an
+
+---
+
+## 18. [MAYBE] Barclays | Finance Transformation - AI Specialist
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Finance-Transformation---AI-Specialist_JR-0000084336-1
 - Location: Canary Wharf, 1 Churchill Place
 - Posted: Nov 03 (board gives the date only)
@@ -258,7 +320,7 @@ Job Description Purpose of the role To develop business capabilities for Finance
 
 ---
 
-## 15. [MAYBE] Digital Realty | Portfolio Analyst
+## 19. [MAYBE] Digital Realty | Portfolio Analyst
 - Link: https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8977
 - Location: Boston, MA, United States US
 - Posted: Nov 04 (board gives the date only)
@@ -272,7 +334,7 @@ Portfolio Analyst - Associate Location: Boston, MA (Hybrid) Your Role As a Portf
 
 ---
 
-## 16. [MAYBE] Assurant | Product Analyst
+## 20. [MAYBE] Assurant | Product Analyst
 - Link: https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/United-States-Virtual/Product-Analyst_R-114884-1
 - Location: United States Virtual
 - Posted: Nov 04 (board gives the date only)
@@ -286,7 +348,7 @@ As a Product Analyst, you will help shape and improve voluntary homeowners and c
 
 ---
 
-## 17. [MAYBE] Texas A&M Transportation Institute | TTI Assistant Research Scientist
+## 21. [MAYBE] Texas A&M Transportation Institute | TTI Assistant Research Scientist
 - Link: https://tamus.wd1.myworkdayjobs.com/TTI_External/job/San-Antonio-TX/TTI-Assistant-Research-Scientist_R-097059-1
 - Location: San Antonio, TX
 - Posted: Nov 04 (board gives the date only)
@@ -300,7 +362,7 @@ Job Title TTI Assistant Research Scientist Agency Texas A&M Transportation Insti
 
 ---
 
-## 18. [MAYBE] Capital Health | IT Data Engineer I - IT DATA ANALYTICS - Full-time - Day - Lawrenceville, NJ
+## 22. [MAYBE] Capital Health | IT Data Engineer I - IT DATA ANALYTICS - Full-time - Day - Lawrenceville, NJ
 - Link: https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/3131-Princeton-Pike/IT-Data-Engineer-I---IT-DATA-ANALYTICS---Full-time---Day---Lawrenceville--NJ_JR111855
 - Location: 3131 Princeton Pike
 - Posted: Nov 04 (board gives the date only)
@@ -314,7 +376,21 @@ Capital Health is the region's leader in providing progressive, quality patient 
 
 ---
 
-## 19. [MAYBE] Simmons Bank | Card Fraud Analyst I
+## 23. [MAYBE] Snap | Ad Product Quality Analyst I
+- Link: https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Ad-Product-Quality-Analyst-I_R0047453-1
+- Location: Los Angeles, California
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 52 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, data visualization, excel, python, sql, tableau, classification, git, quantitative | Lacks: looker  | Note: broad title
+
+### Job description
+
+Snap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. The Company operates Snapchat , a visual messaging app that enhances your relationships with friends, family, and the world, and Specs Inc. , a wholly-owned subsidiary dedicated to making computing more human, in addition to Bitmoji , Saturn, and other digital services. We are looking for a talented and experienced business and data analyst to join the Ad Product Quality team at Snap. As an Ad Product Quality Analyst, you will be responsible for growing Snapchat’s advertising business by solving tough customer challenges and identifying opportunities to improve the quality of our monetization product offerings. What you'll do: Troubleshoot Snap’s web-based advertising platform and mobile app to reproduce and root-cause client-impacting issues and expedite bug fixes Leverage technical skills and product expertise to triage, investigate, and resolve technical issues preventing Snap’s customers from succeeding on our ads platform as quickly and efficiently as possible Organize training sessions that enable our frontline support teams to assist customers encountering challenges on the platform Maintain a backlog of software bugs and product improvements, and serve as a customer advocate as you prioritize the most impactful open issues with Product and Engineering teams Partner with our Product Marketing, Sales, and Support teams to collect customer feedback and identify opportunities to improve our products Derive quantitative and qualitative insights into ads products usage, systems stability, and the customer experience. Produce trend analyses of common customer pain points coupled with actionable recommendations for addressing them Perform pre-release QA and UAT to ensure product releases and updates work as intended and do not disrupt the customer experience Knowledge, Skills & Abilities: Ad-platform troubleshooting and quality Customer-impact analysis and prioritization Cross-functional execution and communication Minimum qualifications Bachelor’s Degree in STEM or related areas of study or equivalent industry experience 1+ years work experience in digital advertising, operations, or a related field Preferred qualifications: Experience troubleshooting front- and back-end web applications Experience sizing the impact of client-facing issues and setting priority Experience working with large data sets using SQL, Python, and other tools, and producing practical business insights via data visualization software (Looker, Tableau, etc.) Excellent verbal and written communication skills with high attention to detail Project management skills, identifying problems areas, designing solutions, and driving them to completion Experience with agile product development lifecycle using Jira or similar software Proficient in use of G Suite software (Gmail, Google Docs, Google Sheets, etc.) "Default Together" Policy at Snap: At Snap Inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. To reflect this, we practice a “default together” approach and expect our team members to work in an office 4+ days per week. At Snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. Snap is proud to be an
+
+---
+
+## 24. [MAYBE] Simmons Bank | Card Fraud Analyst I
 - Link: https://simmonsbank.wd5.myworkdayjobs.com/SimmonsCareers/job/Little-Rock-AR/Card-Fraud-Analyst-I_R115726
 - Location: Little Rock, AR
 - Posted: Nov 03 (board gives the date only)
@@ -328,7 +404,7 @@ It's fun to work in a company where people truly BELIEVE in what they're doing! 
 
 ---
 
-## 20. [MAYBE] Clera | Founding Engineer, AI/ML
+## 25. [MAYBE] Clera | Founding Engineer, AI/ML
 - Link: https://jobs.ashbyhq.com/clera/81df78d2-58a0-488a-8fff-63dc49b11a1d
 - Location: San Francisco United States
 - Posted: Nov 04 12:06 ET
@@ -384,7 +460,7 @@ On-site in San Francisco, California. The role requires working in person six da
 
 ---
 
-## 21. [MAYBE] Sony | Associate Data Analyst
+## 26. [MAYBE] Sony | Associate Data Analyst
 - Link: https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Associate-Data-Analyst_JR-119868
 - Location: San Diego
 - Posted: Nov 04 (board gives the date only)
@@ -398,7 +474,7 @@ Sony Electronics Inc. is looking for the risk-takers, the collaborators, the ins
 
 ---
 
-## 22. [MAYBE] Penn Interactive | Business Intelligence Engineer
+## 27. [MAYBE] Penn Interactive | Business Intelligence Engineer
 - Link: https://job-boards.greenhouse.io/penninteractive/jobs/6247180004
 - Location: Remote, United States
 - Posted: Nov 04 08:27 ET
@@ -412,7 +488,7 @@ PENN Entertainment, Inc. is North America’s leading provider of integrated ent
 
 ---
 
-## 23. [MAYBE] Howmet Aerospace | Data Engineer
+## 28. [MAYBE] Howmet Aerospace | Data Engineer
 - Link: https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120224
 - Location: Whitehall, MI, United States US Wichita Falls, TX, United States
 - Posted: Nov 04 (board gives the date only)
@@ -426,7 +502,7 @@ Howmet Aerospace seeks an experienced, driven, self-starter to fill the role of 
 
 ---
 
-## 24. [MAYBE] HUB International | AI Engineer
+## 29. [MAYBE] HUB International | AI Engineer
 - Link: https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Chicago-IL/AI-Engineer_R0038315
 - Location: Chicago, IL
 - Posted: Nov 04 (board gives the date only)
@@ -440,7 +516,7 @@ A path for every ambition. At HUB, we believe the best work happens when people 
 
 ---
 
-## 25. [MAYBE] Envista | Global Digital Marketing Specialist - Data Analyst
+## 30. [MAYBE] Envista | Global Digital Marketing Specialist - Data Analyst
 - Link: https://envista.wd1.myworkdayjobs.com/envistacareers/job/CRI---San-Jose---Multiple-OpCo/Global-Digital-Marketing-Specialist---Data-Analyst_R5027803-1
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -454,7 +530,7 @@ Job Description: The Global Digital Marketing Data Analyst turns marketing, cust
 
 ---
 
-## 26. [MAYBE] Advocate Health Care | Research Associate - Neurosciences - FT
+## 31. [MAYBE] Advocate Health Care | Research Associate - Neurosciences - FT
 - Link: https://aah.wd5.myworkdayjobs.com/External/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/Research-Associate---Neurosciences---FT_R271759
 - Location: Carolinas Medical Center - 1000 Blythe Blvd, Charlotte, NC
 - Posted: Nov 03 (board gives the date only)
@@ -468,7 +544,7 @@ Department: 85209 Greater Charlotte Research and Other Sponsored Programs - Acad
 
 ---
 
-## 27. [MAYBE] Stevens Institute of Technology | Research Scientist
+## 32. [MAYBE] Stevens Institute of Technology | Research Scientist
 - Link: https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Research-Scientist_RQ29183
 - Location: Hoboken, NJ - Main Campus
 - Posted: Nov 03 (board gives the date only)
@@ -482,7 +558,7 @@ Job Description Summary of Position The Acquisition Innovation and Research Cent
 
 ---
 
-## 28. [MAYBE] Barclays | High Yield Credit Research Analyst
+## 33. [MAYBE] Barclays | High Yield Credit Research Analyst
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/High-Yield-Credit-Research-Analyst_JR-0000133716
 - Location: New York, 745 7th Avenue
 - Posted: Nov 04 (board gives the date only)
@@ -496,7 +572,7 @@ Job Description Purpose of the role To produce and deliver Research with differe
 
 ---
 
-## 29. [MAYBE] Generalist | Applied Scientist
+## 34. [MAYBE] Generalist | Applied Scientist
 - Link: https://jobs.ashbyhq.com/generalist/e3460ad7-8044-4522-aedd-009926900b14
 - Location: Boston (Somerville) United States
 - Posted: Nov 04 14:44 ET
@@ -554,7 +630,7 @@ YOU MIGHT THRIVE IN THIS ROLE IF YOU:
 
 ---
 
-## 30. [MAYBE] Osaic | Risk Analyst I
+## 35. [MAYBE] Osaic | Risk Analyst I
 - Link: https://advisorgroup.wd1.myworkdayjobs.com/advisor_career_site/job/Scottsdale-AZ/Risk-Analyst-I_R0005360
 - Location: 5 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -568,7 +644,7 @@ Current Employees and Contractors Apply Here Osaic Careers Risk Management Oppor
 
 ---
 
-## 31. [MAYBE] Uline | AI Engineer
+## 36. [MAYBE] Uline | AI Engineer
 - Link: https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/AI-Engineer_R268834
 - Location: 5 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -582,7 +658,7 @@ AI Engineer Corporate Headquarters 12575 Uline Drive, Pleasant Prairie, WI 53158
 
 ---
 
-## 32. [MAYBE] Medical College of Wisconsin | Biostatistician I - CIBMTR
+## 37. [MAYBE] Medical College of Wisconsin | Biostatistician I - CIBMTR
 - Link: https://mcw.wd503.myworkdayjobs.com/ExternalCareers/job/Milwaukee-WI/Biostatistician-I---CIBMTR_JR104177
 - Location: Milwaukee, WI
 - Posted: Nov 03 (board gives the date only)
@@ -596,7 +672,7 @@ Summary The Center for International Blood and Marrow Transplant Research (CIBMT
 
 ---
 
-## 33. [MAYBE] Brown & Brown Insurance | Employee Benefits Marketing Analyst
+## 38. [MAYBE] Brown & Brown Insurance | Employee Benefits Marketing Analyst
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/St-Petersburg-FL-USA/Employee-Benefits-Marketing-Analyst_R26_0000003824
 - Location: St. Petersburg, FL, USA
 - Posted: Nov 04 (board gives the date only)
@@ -610,7 +686,7 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 34. [MAYBE] Hancock Whitney | Fraud Risk Analyst
+## 39. [MAYBE] Hancock Whitney | Fraud Risk Analyst
 - Link: https://hancockwhitney.wd5.myworkdayjobs.com/Careers/job/Hancock-Whitney-Plaza---Gulfport-MS/Fraud-Risk-Analyst_R017902
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -624,7 +700,7 @@ Thank you for your interest in our company! To apply, click on the button above.
 
 ---
 
-## 35. [MAYBE] Unum | Investment Analyst - Credit
+## 40. [MAYBE] Unum | Investment Analyst - Credit
 - Link: https://unum.wd1.myworkdayjobs.com/external/job/Chattanooga-Tennessee-USA/Investment-Analyst---Credit_836537
 - Location: Chattanooga, Tennessee, USA
 - Posted: Nov 04 (board gives the date only)
@@ -638,7 +714,7 @@ Job Posting End Date: November 17 When you join the team at Unum, you become par
 
 ---
 
-## 36. [MAYBE] PIMCO | Analyst/Associate, Client Solutions & Analytics
+## 41. [MAYBE] PIMCO | Analyst/Associate, Client Solutions & Analytics
 - Link: https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/Analyst-Associate--Client-Solutions---Analytics_R107095
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -652,7 +728,7 @@ PIMCO is a global leader in active fixed income with deep expertise across publi
 
 ---
 
-## 37. [MAYBE] Citi | Data Analytics Engineer
+## 42. [MAYBE] Citi | Data Analytics Engineer
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Data-Analytics-Engineer_261001004
 - Location: Irving Texas United States
 - Posted: Nov 03 (board gives the date only)
@@ -666,7 +742,7 @@ Overview of the Role: Citi, the leading global bank, has approximately 200 milli
 
 ---
 
-## 38. [MAYBE] Regeneron Pharmaceuticals | Process Development Engineer I, Biobank Analytics Automation
+## 43. [MAYBE] Regeneron Pharmaceuticals | Process Development Engineer I, Biobank Analytics Automation
 - Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Process-Development-Engineer-I--Biobank-Analytics-Automation_R52593
 - Location: TARRYTOWN
 - Posted: Nov 04 (board gives the date only)
@@ -680,7 +756,7 @@ Build our future together: At Regeneron, we use science and innovation to develo
 
 ---
 
-## 39. [MAYBE] HUB International | Benefits Marketing Analyst
+## 44. [MAYBE] HUB International | Benefits Marketing Analyst
 - Link: https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Metairie-LA/Benefits-Marketing-Analyst_R0039341
 - Location: Metairie, LA
 - Posted: Nov 03 (board gives the date only)
@@ -694,7 +770,7 @@ A path for every ambition. At HUB, we believe the best work happens when people 
 
 ---
 
-## 40. [MAYBE] Gilead Sciences | Research Associate, In Vivo Discovery
+## 45. [MAYBE] Gilead Sciences | Research Associate, In Vivo Discovery
 - Link: https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---Pennsylvania---Philadelphia/Research-Associate--In-Vivo-Discovery_R0056352-1
 - Location: United States - Pennsylvania - Philadelphia
 - Posted: Nov 03 (board gives the date only)
@@ -708,7 +784,7 @@ We’re here for one reason and one reason only – to cure cancer. Every moment
 
 ---
 
-## 41. [MAYBE] Kite Pharma | Research Associate, In Vivo Discovery
+## 46. [MAYBE] Kite Pharma | Research Associate, In Vivo Discovery
 - Link: https://gilead.wd1.myworkdayjobs.com/kitepharmacareers/job/United-States---Pennsylvania---Philadelphia/Research-Associate--In-Vivo-Discovery_R0056352
 - Location: United States - Pennsylvania - Philadelphia
 - Posted: Nov 03 (board gives the date only)
@@ -722,7 +798,7 @@ We’re here for one reason and one reason only – to cure cancer. Every moment
 
 ---
 
-## 42. [MAYBE] State of North Carolina | Data Engineer Analyst
+## 47. [MAYBE] State of North Carolina | Data Engineer Analyst
 - Link: https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineer-Analyst_JR-127789
 - Location: Wake County, NC
 - Posted: Nov 04 (board gives the date only)
@@ -736,7 +812,7 @@ Agency Dept of Revenue Division TRANSFORMATION MANAGEMENT OFFICE Job Classificat
 
 ---
 
-## 43. [MAYBE] Avis Budget Group | Data Engineer / AI Engineer
+## 48. [MAYBE] Avis Budget Group | Data Engineer / AI Engineer
 - Link: https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Avis-Budget-House-HQ/Data-Engineer---AI-Engineer_R0191644
 - Location: Avis Budget House, HQ
 - Posted: Nov 03 (board gives the date only)
@@ -750,7 +826,7 @@ Job Title: Data Engineer / AI Engineer Location: Bracknell, minimum of 3 days in
 
 ---
 
-## 44. [MAYBE] Valsoft Corporation | AI Engineer - SAD con
+## 49. [MAYBE] Valsoft Corporation | AI Engineer - SAD con
 - Link: https://apply.workable.com/j/1DFDC9657B
 - Location: Beirut Beirut Governorate Lebanon
 - Posted: Nov 04 (board gives the date only)
@@ -764,7 +840,7 @@ Aspire Software is looking for a Senior Software Engineer to join our team in Le
 
 ---
 
-## 45. [MAYBE] Jade Global | AI Engineer
+## 50. [MAYBE] Jade Global | AI Engineer
 - Link: https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/AI-Engineer_R-106525-2
 - Location: 2 Locations
 - Posted: Nov 03 (board gives the date only)
@@ -778,7 +854,7 @@ AI Engineer1 We're building a self-service LoRA / full fine-tuning platform for 
 
 ---
 
-## 46. [MAYBE] Hitachi | Research Scientist – Power Systems Optimization
+## 51. [MAYBE] Hitachi | Research Scientist – Power Systems Optimization
 - Link: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Research-Scientist---Power-Systems-Optimization_R0150404
 - Location: Raleigh, North Carolina, United States
 - Posted: Nov 04 (board gives the date only)
@@ -792,7 +868,7 @@ Location: Raleigh, North Carolina, United States Job ID: R0150404 Date Posted: 2
 
 ---
 
-## 47. [MAYBE] University of Texas - Austin | Research Scientist, Laser-Plasma Accelerators and X-ray Sources
+## 52. [MAYBE] University of Texas - Austin | Research Scientist, Laser-Plasma Accelerators and X-ray Sources
 - Link: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Research-Scientist--Laser-Plasma-Accelerators-and-X-ray-Sources_R_00049837
 - Location: UT MAIN CAMPUS
 - Posted: Nov 04 (board gives the date only)
@@ -806,7 +882,7 @@ Job Posting Title: Research Scientist, Laser-Plasma Accelerators and X-ray Sourc
 
 ---
 
-## 48. [MAYBE] Steampunk | Job Title Data Engineer - Databricks
+## 53. [MAYBE] Steampunk | Job Title Data Engineer - Databricks
 - Link: https://careers-steampunk.icims.com/jobs/8371/data-engineer---databricks/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -820,7 +896,21 @@ Data Engineer - Databricks in McLean, Virginia Please Enable Cookies to Continue
 
 ---
 
-## 49. [MAYBE] M&G | Data Scientist
+## 54. [MAYBE] Amazon |  Applied Scientist, Fauna Robotics
+- Link: https://www.amazon.jobs/en/jobs/10597214/applied-scientist-fauna-robotics
+- Location: Sunnyvale, California, USA
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~43 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 3890 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, python, deep learning, publication, research | Lacks: c++, java
+
+### Job description
+
+Robots are about to step out of the movies and into our homes. If you're excited about this robotics revolution, come join Amazon's Fauna Robotics. As an Applied Scientist in this org, you'll push the state-of-the-art techniques in Robotics. You'll drive technical excellence in areas such as perception, manipulation, sim2real transfer, reinforcement learning and multi-task learning, designing novel algorithms that bridge the gap between research and real-world deployment. In this role, you will integrate hands-on technical expertise with scientific leadership, ensuring your team delivers robust solutions for dynamic real-world environments. While staying updated with the latest advancements in robotics research, you will leverage your experience and expertise to guide the team towards the most promising direction. Collaborating with a talented group of software engineers and scientists, you will bring your ideas to fruition. Deploying robots in home environments requires you to anticipate challenges not encountered in structured settings like warehouses. Additionally, consumer-grade sensors and actuators necessitate working around their limitations, requiring out-of-the-box innovative ideas. As such, you are someone who truly enjoys thinking about problems using first principles at a holistic and systems level to address the aforementioned challenges. Key job responsibilities - Lead technical initiatives in areas such as robotics foundation models, reinforcement learning and manipulation - - Design experiments to identify the limitations of current state-of-the-art models and developing new models or techniques that can surpass these models - Design and implement novel deep learning architectures that push the boundaries of what robots can understand and accomplish - Mentor fellow scientists while maintaining strong individual technical contributions - Collaborate with engineering teams to optimize and scale models for real-world applications - Influence technical decisions and implementation strategies within your area of focus - Experienced in communicating complex technical work to a non-technical audience - The ability to work with minimal guidance, be proactive and to handle ambiguity and the challenge of quickly evolving goals About the team Fauna Robotics, an Amazon company, is building capable, safe, and genuinely delightful robots for everyday life. Our goal is simple: make robots people actually want to live and interact with in everyday human spaces. We believe that future won’t arrive until building for robotics becomes far more accessible. Today, too much effort is spent reinventing the fundamentals. We’re changing that by developing tightly integrated hardware and software systems that make it faster, safer, and more intuitive to create real-world robotic products. Our work spans the full stack: mechanical design, control systems, dynamic modeling, and intelligent software. The focus is not just functionality, but experience. We’re building robots that feel responsive, expressive, and genuinely useful. At Fauna, you’ll work at the frontier of this space, helping define how robots move, manipulate, and interact with people in natural environments. It’s an opportunity to solve hard problems across hardware and software with a team focused on making robotics accessible and joyful to build. If you care about making robotics real for everyone and building systems that are as delightful as they are capable, we’re interested in hearing from you. - 3+ years of building models for business application experience - Experience in patents or publications at top-tier peer-reviewed conferences or journals - Experience programming in Java, C++, Python or related language - PhD, or Master's degree and 3+ years of applied research experience - Hand-on experience of deploying Deep Learning models on robots - Experience in developing Vision Language Action (VLA) models and/or Reinforcement learning for robot manipulation Amazon
+
+---
+
+## 55. [MAYBE] M&G | Data Scientist
 - Link: https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/Stirling/Data-Engineer--Databricks-_R19908
 - Location: 3 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -834,7 +924,7 @@ At M&G, our purpose is to give everyone real confidence to put their money to wo
 
 ---
 
-## 50. [MAYBE] The Hartford | Consultant Performance Analytics – General Liability
+## 56. [MAYBE] The Hartford | Consultant Performance Analytics – General Liability
 - Link: https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/United-States---Remote/Consultant-Performance-Analytics---General-Liability_R2627627
 - Location: United States - Remote
 - Posted: Nov 03 (board gives the date only)
@@ -848,7 +938,7 @@ Consultant Perf Analytics - GB08BE We’re determined to make a difference and a
 
 ---
 
-## 51. [MAYBE] Stride | Academics Data Science Associate
+## 57. [MAYBE] Stride | Academics Data Science Associate
 - Link: https://strideinc.wd1.myworkdayjobs.com/SK/job/US---VA---Remote/Academics-Data-Science-Associate_JR116261
 - Location: US - VA - Remote
 - Posted: Nov 04 (board gives the date only)
@@ -862,7 +952,7 @@ Job Description Certificates and Licenses: Teaching Certification Residency Requ
 
 ---
 
-## 52. [MAYBE] TMX Group | Product Analyst
+## 58. [MAYBE] TMX Group | Product Analyst
 - Link: https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/California/Product-Analyst_R-6665
 - Location: California
 - Posted: Nov 04 (board gives the date only)
@@ -876,7 +966,7 @@ Venture outside the ordinary - TMX Careers The TMX group of companies includes l
 
 ---
 
-## 53. [MAYBE] Confido | Finance Data Analyst
+## 59. [MAYBE] Confido | Finance Data Analyst
 - Link: https://jobs.ashbyhq.com/confido/50c22a78-47d1-4c7d-a05c-deaa4912e824
 - Location: NYC Office United States
 - Posted: Nov 04 16:42 ET
@@ -980,7 +1070,7 @@ Confido provides equal employment opportunities to all employees and applicants 
 
 ---
 
-## 54. [MAYBE] Mars | Customer Marketing Analyst, Pringles
+## 60. [MAYBE] Mars | Customer Marketing Analyst, Pringles
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Customer-Marketing-Analyst--Pringles_R170520-2
 - Location: USA-Illinois-Chicago
 - Posted: Nov 04 (board gives the date only)
@@ -994,7 +1084,7 @@ Job Description: This role is responsible for the execution of customer investme
 
 ---
 
-## 55. [MAYBE] Mars | Customer Marketing Analyst, Cheez-It
+## 61. [MAYBE] Mars | Customer Marketing Analyst, Cheez-It
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Customer-Marketing-Analyst--Cheez-It_R170519-1
 - Location: USA-Illinois-Chicago
 - Posted: Nov 04 (board gives the date only)
