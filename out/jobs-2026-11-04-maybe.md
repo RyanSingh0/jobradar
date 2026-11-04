@@ -9,42 +9,48 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 3 | CVS Health | AI Engineer - GenAI | 71 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
 | 4 | Avis Budget Group | Revenue Management Analyst | 70 | 3 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
 | 5 | Avis Budget Group | Revenue Management Analyst | 70 | 3 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 6 | Atomic Machines | Applied AI Engineer, People | 68 | none found (check myvisajobs) | Nov 03 19:54 ET |
-| 7 | State of North Carolina | Data Quality Specialist | 68 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 8 | Manulife Financial | Data Scientist | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 9 | Desjardins Group | Data scientist | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 10 | Hancock Whitney | Risk Analyst | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 11 | Barclays | Finance Transformation - AI Specialist | 62 | 142 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 12 | Digital Realty | Portfolio Analyst | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 13 | Assurant | Product Analyst | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 14 | Texas A&M Transportation Institute | TTI Assistant Research Scientist | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 15 | Simmons Bank | Card Fraud Analyst I | 60 | 2 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 16 | Clera | Founding Engineer, AI/ML | 60 | none found (check myvisajobs) | Nov 04 12:06 ET |
-| 17 | Sony | Associate Data Analyst | 57 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 18 | Penn Interactive | Business Intelligence Engineer | 55 | none found (check myvisajobs) | Nov 04 08:27 ET |
-| 19 | Howmet Aerospace | Data Engineer | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 20 | HUB International | AI Engineer | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 21 | Envista | Global Digital Marketing Specialist - Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 22 | Advocate Health Care | Research Associate - Neurosciences - FT | 54 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 23 | Stevens Institute of Technology | Research Scientist | 54 | cap-exempt employer | Nov 03 (board gives the date only) |
-| 24 | Barclays | High Yield Credit Research Analyst | 54 | 142 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 25 | Generalist | Applied Scientist | 54 | none found (check myvisajobs) | Nov 04 14:44 ET |
-| 26 | Medical College of Wisconsin | Biostatistician I - CIBMTR | 50 | cap-exempt employer | Nov 03 (board gives the date only) |
-| 27 | Brown & Brown Insurance | Employee Benefits Marketing Analyst | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 28 | Hancock Whitney | Fraud Risk Analyst | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 29 | Citi | Data Analytics Engineer | 49 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 30 | Regeneron Pharmaceuticals | Process Development Engineer I, Biobank Analytics Automation | 47 | 42 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 31 | HUB International | Benefits Marketing Analyst | 45 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 32 | Gilead Sciences | Research Associate, In Vivo Discovery | 45 | 73 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 33 | Kite Pharma | Research Associate, In Vivo Discovery | 45 | 9 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 34 | Avis Budget Group | Data Engineer / AI Engineer | 44 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 35 | Valsoft Corporation | AI Engineer - SAD con | 44 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 36 | Jade Global | AI Engineer | 43 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 37 | Hitachi | Research Scientist – Power Systems Optimization | 43 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 38 | University of Texas - Austin | Research Scientist, Laser-Plasma Accelerators and X-ray Sources | 43 | cap-exempt employer | Nov 04 (board gives the date only) |
-| 39 | M&G | Data Scientist | 42 | 4 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 40 | The Hartford | Consultant Performance Analytics – General Liability | 40 | 17 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 41 | Stride | Academics Data Science Associate | 40 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 6 | JP Morgan Chase | Business Analysis Associate I- RO Data and Reporting | 69 | 1098 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 7 | Atomic Machines | Applied AI Engineer, People | 68 | none found (check myvisajobs) | Nov 03 19:54 ET |
+| 8 | State of North Carolina | Data Quality Specialist | 68 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 9 | Manulife Financial | Data Scientist | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 10 | Desjardins Group | Data scientist | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 11 | Hancock Whitney | Risk Analyst | 65 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 12 | Everest | Actuarial Analyst, Global Reserving | 65 | 6 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 13 | Barclays | Finance Transformation - AI Specialist | 62 | 142 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 14 | Digital Realty | Portfolio Analyst | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 15 | Assurant | Product Analyst | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 16 | Texas A&M Transportation Institute | TTI Assistant Research Scientist | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 17 | Capital Health | IT Data Engineer I - IT DATA ANALYTICS - Full-time - Day - Lawrenceville, NJ | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 18 | Simmons Bank | Card Fraud Analyst I | 60 | 2 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 19 | Clera | Founding Engineer, AI/ML | 60 | none found (check myvisajobs) | Nov 04 12:06 ET |
+| 20 | Sony | Associate Data Analyst | 57 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 21 | Penn Interactive | Business Intelligence Engineer | 55 | none found (check myvisajobs) | Nov 04 08:27 ET |
+| 22 | Howmet Aerospace | Data Engineer | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 23 | HUB International | AI Engineer | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 24 | Envista | Global Digital Marketing Specialist - Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 25 | Advocate Health Care | Research Associate - Neurosciences - FT | 54 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 26 | Stevens Institute of Technology | Research Scientist | 54 | cap-exempt employer | Nov 03 (board gives the date only) |
+| 27 | Barclays | High Yield Credit Research Analyst | 54 | 142 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 28 | Generalist | Applied Scientist | 54 | none found (check myvisajobs) | Nov 04 14:44 ET |
+| 29 | Osaic | Risk Analyst I | 54 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 30 | Medical College of Wisconsin | Biostatistician I - CIBMTR | 50 | cap-exempt employer | Nov 03 (board gives the date only) |
+| 31 | Brown & Brown Insurance | Employee Benefits Marketing Analyst | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 32 | Hancock Whitney | Fraud Risk Analyst | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 33 | Unum | Investment Analyst - Credit | 50 | 8 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 34 | Citi | Data Analytics Engineer | 49 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 35 | Regeneron Pharmaceuticals | Process Development Engineer I, Biobank Analytics Automation | 47 | 42 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 36 | HUB International | Benefits Marketing Analyst | 45 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 37 | Gilead Sciences | Research Associate, In Vivo Discovery | 45 | 73 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 38 | Kite Pharma | Research Associate, In Vivo Discovery | 45 | 9 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 39 | Avis Budget Group | Data Engineer / AI Engineer | 44 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 40 | Valsoft Corporation | AI Engineer - SAD con | 44 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 41 | Jade Global | AI Engineer | 43 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 42 | Hitachi | Research Scientist – Power Systems Optimization | 43 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 43 | University of Texas - Austin | Research Scientist, Laser-Plasma Accelerators and X-ray Sources | 43 | cap-exempt employer | Nov 04 (board gives the date only) |
+| 44 | M&G | Data Scientist | 42 | 4 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 45 | The Hartford | Consultant Performance Analytics – General Liability | 40 | 17 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 46 | Stride | Academics Data Science Associate | 40 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 47 | TMX Group | Product Analyst | 40 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
 
 ---
 
@@ -118,7 +124,21 @@ Driven to be the Best People. Performance. Purpose. At Avis Budget Group, we’r
 
 ---
 
-## 6. [MAYBE] Atomic Machines | Applied AI Engineer, People
+## 6. [MAYBE] JP Morgan Chase | Business Analysis Associate I- RO Data and Reporting
+- Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803121
+- Location: Columbus, OH, United States US San Antonio, TX, United States
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~69 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, etl, pandas, python, sql, statistic, tableau, data cleaning, data quality, git, kpi, reporting, validation | Lacks: alteryx  | Note: broad title
+
+### Job description
+
+Embark on a rewarding and challenging career as a Business Analysis Associate I with our dynamic team. You'll have the opportunity to make a significant impact by supporting process improvements, key initiatives and expanding your creative skills in a supportive and collaborative environment. Join us and contribute to our mission while advancing your career. As a Business Analysis Associate I within JPMorganChase, you will play a pivotal role in driving operational efficiency and strategic initiatives. You will leverage your advanced understanding of data analytics and automation technologies to uncover patterns, analyze complex data sets, and propose innovative solutions. Your expertise in cross-functional collaboration will enable you to work effectively with diverse teams, ensuring alignment with business strategies. You will also utilize your advanced computer literacy and digital proficiency to enhance processes and customer interactions. Your role will involve coaching and delegating tasks to others, fostering a culture of learning and growth within the team. Your decisions and work results will have a significant impact on the team and departmental goals, contributing to the overall success of the firm. Job responsibilities Analyze and interpret complex data sets using advanced data analytics skills to support operational initiatives and strategic decision-making. Utilize automation technologies to optimize processes, enhance efficiency, and support the implementation of business strategies. Provide insights and recommendations to team members, ensuring tasks and responsibilities are aligned with project objectives for efficient and effective outcomes. Collaborate effectively with diverse teams across the organization to align efforts, share knowledge, and drive the successful execution of projects. Leverage digital platforms and technological tools to improve processes, enhance customer interactions, and effectively communicate with stakeholders. Use Alteryx for data cleaning and transformation, including joins, unions, parsing, deduplication, formatting, and workflow automation. Extract, clean, and analyze data with Python or SQL to support reporting and analytics. Build and maintain dashboards and visual reports in Tableau, covering KPIs, trends, drill-downs, filters, and parameters. Perform exploratory data analysis to find patterns, anomalies, and actionable insights. Implement and maintain data quality checks, investigate discrepancies, and validate schema and logic. Document metric definitions, data sources, assumptions, and transformation logic for transparency and repeatability. Required qualifications, capabilities, and skills Demonstrated ability to conduct data analysis and interpret complex data sets, with proven expertise equivalent to 2+ years of experience. Advanced proficiency in using automation technologies to optimize processes and implement business strategies. Demonstrated ability to coach and guide team members, fostering a culture of continuous learning and growth. Proven experience in cross-functional collaboration, coordinating efforts and sharing knowledge to drive project success. Advanced computer literacy and digital proficiency, with a track record of leveraging technology to enhance processes and customer interactions. Provide quality service to customers through continuous communication. Understanding of software delivery lifecycle and have skills in industry standard methodologies and related tasks. Experience using Alteryx (or similar tool) for data preparation, cleaning, and transformation. Working knowledge of SQL (joins, aggregations) and/or Python for data analysis (e.g., Pandas, NumPy). Experience with Tableau or comparable visualization tool (dashboards, calculated fields). High-level understanding of data warehousing fundamentals (facts/dimensions, star schema concepts) and ETL concepts (extract, transform, load; validation) Preferred qualifications, capabilities, and skills Proficient ability to leverage artificial intelligence and AI tools to enhance data analysis, analyze business trends, and provide actionable business insights for strategic decision-making. Ability to implement automation solutions to streamline business processes and improve operational efficiency. Proficiency in applying customer service skills to understand client needs and deliver tailored business solutions, while utilizing conflict management skills to resolve stakeholder issues and facilitate effective collaboration. Ability to craft clear and effective prompt writing to guide data analysis and ensure consistent outcomes. Expertise in contributing to a collaborative work environment by sharing knowledge and supporting team initiatives. Experience in technology/process release management, with proficiency in using software applications, digital platforms, and other technological tools to solve problems and improve processes. Bachelor’s degree in a relevant field (e.g., Data Analytics, Statistics, Computer Science, Economics, Business Analytics) or equivalent practical experience.   Chase is a leading financial services firm, helping nearly half of America’s households and small businesses achieve their financial goals through a broad range of financial products. Our mission is to create engaged, lifelong relationships and put our customers at the heart of everything we do. We also help small businesses, nonprofits and cities grow, delivering solutions to solve all their financial needs. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
+
+---
+
+## 7. [MAYBE] Atomic Machines | Applied AI Engineer, People
 - Link: https://job-boards.greenhouse.io/atomicmachines/jobs/4478776009
 - Location: Emeryville, or Santa Clara, California
 - Posted: Nov 03 19:54 ET
@@ -132,7 +152,7 @@ Atomic Machines is building the Matter Compiler™, the first in a new class of 
 
 ---
 
-## 7. [MAYBE] State of North Carolina | Data Quality Specialist
+## 8. [MAYBE] State of North Carolina | Data Quality Specialist
 - Link: https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Quality-Specialist_JR-112923
 - Location: Wake County, NC
 - Posted: Nov 03 (board gives the date only)
@@ -146,7 +166,7 @@ Agency Dept of Health and Human Services Division Mental Health Job Classificati
 
 ---
 
-## 8. [MAYBE] Manulife Financial | Data Scientist
+## 9. [MAYBE] Manulife Financial | Data Scientist
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Data-Scientist_JR26100486
 - Location: Quezon City
 - Posted: Nov 03 (board gives the date only)
@@ -160,7 +180,7 @@ We’re looking for a Data Scientist to join our Global Risk and Compliance team
 
 ---
 
-## 9. [MAYBE] Desjardins Group | Data scientist
+## 10. [MAYBE] Desjardins Group | Data scientist
 - Link: https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Scientifique-de-donnes_R2613410-1
 - Location: 2 Locations
 - Posted: Nov 03 (board gives the date only)
@@ -174,7 +194,7 @@ As a Data scientist assigned to the Finance function, you play a key role in the
 
 ---
 
-## 10. [MAYBE] Hancock Whitney | Risk Analyst
+## 11. [MAYBE] Hancock Whitney | Risk Analyst
 - Link: https://hancockwhitney.wd5.myworkdayjobs.com/Careers/job/UNO-Center---New-Orleans-LA/Risk-Analyst_R017667
 - Location: 2 Locations
 - Posted: Nov 03 (board gives the date only)
@@ -188,7 +208,21 @@ Thank you for your interest in our company! To apply, click on the button above.
 
 ---
 
-## 11. [MAYBE] Barclays | Finance Transformation - AI Specialist
+## 12. [MAYBE] Everest | Actuarial Analyst, Global Reserving
+- Link: https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/Actuarial-Analyst--Global-Reserving_R7479
+- Location: 2 Locations
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~65 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 6 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: data visualization, excel, python, r, sql, statistic, data quality, portfolio, quantitative, reporting, risk | Lacks: actuar  | Note: broad title
+
+### Job description
+
+Title: Actuarial Analyst, Global Reserving Company: Job Category: Analytics Job Description: Everest Overview Everest is a global leader in risk management, rooted in a rich, 50+ year heritage of enabling businesses to survive and thrive, and economies to function and flourish. We are underwriters of risk, growth, progress and opportunity. We are a global team focused on disciplined capital allocation and long-term value creation for all stakeholders, who care deeply about our impact on communities and the wider world. Position Summary The Senior Actuarial Analyst will support the Global Reserving team in evaluating reserve adequacy across Everest's Insurance and Reinsurance portfolios. This role will contribute to quarterly reserve studies, financial reporting, reserve monitoring, and automation initiatives while partnering closely with Claims, Underwriting, Finance, and Pricing teams. The position provides a strong foundation for actuaries seeking to deepen their reserving expertise within a collaborative global actuarial organization. The role supports the Global Reserving leadership team and contributes to the organization's objective of delivering trusted actuarial insights that drive disciplined business decisions. Key Responsibilities Support quarterly and year-end reserve studies for assigned lines of business. Analyze accident year development, reserve movements, and actual versus expected results. Prepare reserving exhibits and presentations for management review. Assist with quarter-close activities and actuarial reporting requirements. Collaborate with Claims and Underwriting teams to understand emerging loss trends and portfolio changes. Maintain and enhance reserving models, databases, and reporting tools. Support actuarial documentation, controls, and governance standards. Assist with responses to internal audit, external audit, and regulatory requests. Participate in process improvement, data quality, and automation initiatives. Successfully progress through actuarial examinations. Demonstrate curiosity and a willingness to learn and responsibly use approved AI, automation, and emerging technologies to enhance productivity, effectiveness, and business outcomes. Qualifications Bachelor's degree in Actuarial Science, Mathematics, Statistics, Economics, or related field. 2-4 years of P&C actuarial experience. Progress toward ACAS/FCAS designation. Strong analytical and quantitative skills. Experience with Excel and actuarial software. Exposure to SQL, Python, R, or data visualization tools preferred. Strong written and verbal communication skills. The base salary range for this position is $90,000 - $120,000 annually. The offered rate of compensation will be based on individual education, experience, qualifications and work location. All offers include access to a variety of benefits to employees, including health insurance coverage, an employee wellness program, life and disability insurance, 401k match, retirement savings plan, paid holidays and paid time off (PTO). What if I don’t meet every requirement? At Everest we are dedicated to building an inclusive and authentic workplace. So, if you are excited about this role but your past experience doesn’t align perfectly with every element in the job description, we still encourage you to apply. You may be just the right candidate for this or other roles. Please let us know if you need any accommodations throughout the application or interview process. Our Culture At Everest, our purpose is to provide the world with protection. We help clients and businesses thrive, fuel global economies, and create sustainable value for our colleagues, shareholders and the communities that we serve. We also pride ourselves on having a unique and inclusive culture which is driven by a unified set of values and behaviors. Click here to learn more about our culture. Our Values are the guiding principles that inform our decisions, actions and behaviors. They are an expression of our culture and an integral part of how we work: Talent. Thoughtful assumption of risk. Execution. Efficiency. Humility. Leadership. Collaboration. Inclusion and Belonging. Our Colleague Behaviors define how we operate and interact with each other no matter our location, level or function: Respect everyone. Pursue better. Lead by example. Own our outcomes. Win together. All colleagues are held accountable to upholding and supporting our values and behaviors across the company. This includes day to day interactions with fellow colleagues, and the global communities we serve. Type: Regular Time Type: Primary Location: Warren, NJ Additional Locations: Zurich, Switzerland Everest
+
+---
+
+## 13. [MAYBE] Barclays | Finance Transformation - AI Specialist
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Finance-Transformation---AI-Specialist_JR-0000084336-1
 - Location: Canary Wharf, 1 Churchill Place
 - Posted: Nov 03 (board gives the date only)
@@ -202,7 +236,7 @@ Job Description Purpose of the role To develop business capabilities for Finance
 
 ---
 
-## 12. [MAYBE] Digital Realty | Portfolio Analyst
+## 14. [MAYBE] Digital Realty | Portfolio Analyst
 - Link: https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8977
 - Location: Boston, MA, United States US
 - Posted: Nov 04 (board gives the date only)
@@ -216,7 +250,7 @@ Portfolio Analyst - Associate Location: Boston, MA (Hybrid) Your Role As a Portf
 
 ---
 
-## 13. [MAYBE] Assurant | Product Analyst
+## 15. [MAYBE] Assurant | Product Analyst
 - Link: https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/United-States-Virtual/Product-Analyst_R-114884-1
 - Location: United States Virtual
 - Posted: Nov 04 (board gives the date only)
@@ -230,7 +264,7 @@ As a Product Analyst, you will help shape and improve voluntary homeowners and c
 
 ---
 
-## 14. [MAYBE] Texas A&M Transportation Institute | TTI Assistant Research Scientist
+## 16. [MAYBE] Texas A&M Transportation Institute | TTI Assistant Research Scientist
 - Link: https://tamus.wd1.myworkdayjobs.com/TTI_External/job/San-Antonio-TX/TTI-Assistant-Research-Scientist_R-097059-1
 - Location: San Antonio, TX
 - Posted: Nov 04 (board gives the date only)
@@ -244,7 +278,21 @@ Job Title TTI Assistant Research Scientist Agency Texas A&M Transportation Insti
 
 ---
 
-## 15. [MAYBE] Simmons Bank | Card Fraud Analyst I
+## 17. [MAYBE] Capital Health | IT Data Engineer I - IT DATA ANALYTICS - Full-time - Day - Lawrenceville, NJ
+- Link: https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/3131-Princeton-Pike/IT-Data-Engineer-I---IT-DATA-ANALYTICS---Full-time---Day---Lawrenceville--NJ_JR111855
+- Location: 3131 Princeton Pike
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: part-time
+- Title scope: core | Has: aws, data visualization, etl, gcp, power bi, python, r, sql, tableau, credit, data quality, healthcare, pipeline, reporting | Lacks: azure, databricks, java  | Note: no H-1B filings found for this employer part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+
+### Job description
+
+Capital Health is the region's leader in providing progressive, quality patient care with significant investments in our exceptional physicians, nurses and staff, as well as advanced technology. Capital Health is a dynamic health care resource accredited by the DNV that includes two hospitals, an outpatient center, satellite ED, and an expansive network of primary and specialty care. Capital Health Medical Group is made up of more than 600 physicians and other providers who offer primary and specialty care, as well as hospital-based services, to patients throughout the region. Capital Health recognizes that attracting the best talent is key to our strategy and success as an organization. As a result, we aim for flexibility in structuring competitive compensation offers to ensure we can attract the best candidates. The listed pay range or pay rate reflects compensation for a full-time equivalent (1.0 FTE) position. Actual compensation may differ depending on assigned hours and position status (e.g., part-time). Pay Range: $86,964.80 - $113,672.00 Scheduled Weekly Hours: 40 Position Overview SUMMARY (Basic Purpose of the Job) Supports the design, development, and maintenance of data pipelines and architectures for our healthcare data systems. This entry-level position will work under the guidance of senior engineers to ensure data integrity, quality, and availability to support clinical and operational decision-making. Additionally, the Data Engineer I will help maintain off-the-shelf vendor applications for data analytics and work closely with data analysts in the quality and finance departments to reduce manual processes by building automated pipelines and connections. MINIMUM REQUIREMENTS Education: Bachelor's degree in computer science, Information Technology, Data Science, or a related field. Experience: 0-2 years of experience in data engineering, data management, or related fields. Other Credentials: Knowledge and Skills: Basic understanding of data modeling, ETL (Extract, Transform, Load) processes, and database management systems. Proficiency in SQL and at least one programming language (e.g., Python, R, Java). Familiarity with data visualization tools (e.g., Power BI, Tableau, Crystal Reports). Basic knowledge of cloud platforms (e.g., Azure, AWS, GCP). Understanding of data modeling, ETL/ELT (Extract, Transform, Load) processes, and database management systems. Basic understanding of data modeling, database design, and data warehousing concepts. Understanding of data quality concepts, including validation, reconciliation, completeness, and accuracy. Familiarity with APIs, structured data formats, and application integration concepts. Proficiency in SQL and at least one programming language (e.g., Python, R, Java). Familiarity with data visualization tools (e.g., Power BI, Tableau, Crystal Reports; experience with Databricks a plus). Basic knowledge of cloud platforms (e.g., Azure, AWS, GCP). Strong analytical and problem-solving skills. Good communication skills, both written and verbal. Ability to work collaboratively in a team environment. Attention to detail and a commitment to data quality. Preferred Technical Skills: Microsoft SQL Server Azure SQL Database SQL Python Databricks Microsoft Azure ETL/ELT tools REST APIs Familiarity with healthcare information systems, EMRs, or other healthcare data sources Mental, Behavioral and Emotional Abilities: Strong analytical and problem-solving skills. Good communication skills, both written and verbal. Ability to work collaboratively in a team environment. Attention to detail and a commitment to data quality. Usual Work Day: 8 Hours ESSENTIAL FUNCTIONS Assist in the development, implementation, and maintenance of data pipelines. Support data extraction, transformation, and loading processes. Monitor and ensure the reliability, integrity, and efficiency of data systems. Collaborate with senior engineers and other stakeholders to understand data requirements and objectives. Perform basic data analysis and reporting as needed. Document data processes and workflows. Maintain off-the-shelf vendor applications for data analytics. Work closely with data analysts in the quality and finance departments and IT analysts to reduce manual processes by building automated pipelines and connections. PHYSICAL DEMANDS AND WORK ENVIRONMENT Frequent physical demands include: Sitting, Keyboard use/repetitive motion Occasional physical demands include: Standing, Walking, carry objects, Push/Pull, Twisting, Bending, Reaching forward, Wrist position deviation, Pinching/fine motor activities Continuous physical demands include: Lifting Floor to Waist 0 lbs. Lifting Waist Level and Above 0 lbs. Sensory Requirements include: Accurate Near Vision, Accurate Far Vision, Color Discrimination, Accurate Depth Perception, Accurate Hearing Anticipated Occupational Exposure Risks Include the following: N/A This position is eligible for the following benefits: Medical Plan Prescription drug coverage & In-House Employee Pharmacy Dental Plan Vision Plan Flexible Spending Account (FSA) - Healthcare FSA - Dependent Care FSA Retirement Savings and Investment Plan Basic Group Term Life and Accidental Death & Dismemberment (AD&D) Insurance Supplemental Group Term Life & Accidental Death & Dismemberment Insurance Disability Benefits – Long Term Disability (LTD) Disability Benefits – Short Term Disability (STD) Employee Assistance Program Commuter Transit Commuter Parking Supplemental Life Insurance - Voluntary Life Spouse - Voluntary Life Employee - Voluntary Life Child Voluntary Legal Services Voluntary Accident, Critical Illness and Hospital Indemnity Insurance Voluntary Identity Theft Insurance Voluntary Pet Insurance Paid Time-Off Program The pay range listed is a good faith determination of potential base compensation that may be offered to a successful applicant for this position at the time of this job advertisement and may be modified in the future. When determining base salary and/or rate, several factors may be considered including, but not limited to location, years of relevant experience, education, credentials, negotiated contracts, budget, market data, and internal equity. Bonus and/or incentive eligibility are determined by role and level. The salary applies specifically to the position being advertised and does not include potential bonuses, incentive compensation, differential pay or other forms of compensation, compensation allowance, or benefits health or welfare. Actual total compensation may vary based on factors such as experience, skills, qualifications, and other relevant criteria.
+
+---
+
+## 18. [MAYBE] Simmons Bank | Card Fraud Analyst I
 - Link: https://simmonsbank.wd5.myworkdayjobs.com/SimmonsCareers/job/Little-Rock-AR/Card-Fraud-Analyst-I_R115726
 - Location: Little Rock, AR
 - Posted: Nov 03 (board gives the date only)
@@ -258,7 +306,7 @@ It's fun to work in a company where people truly BELIEVE in what they're doing! 
 
 ---
 
-## 16. [MAYBE] Clera | Founding Engineer, AI/ML
+## 19. [MAYBE] Clera | Founding Engineer, AI/ML
 - Link: https://jobs.ashbyhq.com/clera/81df78d2-58a0-488a-8fff-63dc49b11a1d
 - Location: San Francisco United States
 - Posted: Nov 04 12:06 ET
@@ -314,7 +362,7 @@ On-site in San Francisco, California. The role requires working in person six da
 
 ---
 
-## 17. [MAYBE] Sony | Associate Data Analyst
+## 20. [MAYBE] Sony | Associate Data Analyst
 - Link: https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Associate-Data-Analyst_JR-119868
 - Location: San Diego
 - Posted: Nov 04 (board gives the date only)
@@ -328,7 +376,7 @@ Sony Electronics Inc. is looking for the risk-takers, the collaborators, the ins
 
 ---
 
-## 18. [MAYBE] Penn Interactive | Business Intelligence Engineer
+## 21. [MAYBE] Penn Interactive | Business Intelligence Engineer
 - Link: https://job-boards.greenhouse.io/penninteractive/jobs/6247180004
 - Location: Remote, United States
 - Posted: Nov 04 08:27 ET
@@ -342,7 +390,7 @@ PENN Entertainment, Inc. is North America’s leading provider of integrated ent
 
 ---
 
-## 19. [MAYBE] Howmet Aerospace | Data Engineer
+## 22. [MAYBE] Howmet Aerospace | Data Engineer
 - Link: https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120224
 - Location: Whitehall, MI, United States US Wichita Falls, TX, United States
 - Posted: Nov 04 (board gives the date only)
@@ -356,7 +404,7 @@ Howmet Aerospace seeks an experienced, driven, self-starter to fill the role of 
 
 ---
 
-## 20. [MAYBE] HUB International | AI Engineer
+## 23. [MAYBE] HUB International | AI Engineer
 - Link: https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Chicago-IL/AI-Engineer_R0038315
 - Location: Chicago, IL
 - Posted: Nov 04 (board gives the date only)
@@ -370,7 +418,7 @@ A path for every ambition. At HUB, we believe the best work happens when people 
 
 ---
 
-## 21. [MAYBE] Envista | Global Digital Marketing Specialist - Data Analyst
+## 24. [MAYBE] Envista | Global Digital Marketing Specialist - Data Analyst
 - Link: https://envista.wd1.myworkdayjobs.com/envistacareers/job/CRI---San-Jose---Multiple-OpCo/Global-Digital-Marketing-Specialist---Data-Analyst_R5027803-1
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -384,7 +432,7 @@ Job Description: The Global Digital Marketing Data Analyst turns marketing, cust
 
 ---
 
-## 22. [MAYBE] Advocate Health Care | Research Associate - Neurosciences - FT
+## 25. [MAYBE] Advocate Health Care | Research Associate - Neurosciences - FT
 - Link: https://aah.wd5.myworkdayjobs.com/External/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/Research-Associate---Neurosciences---FT_R271759
 - Location: Carolinas Medical Center - 1000 Blythe Blvd, Charlotte, NC
 - Posted: Nov 03 (board gives the date only)
@@ -398,7 +446,7 @@ Department: 85209 Greater Charlotte Research and Other Sponsored Programs - Acad
 
 ---
 
-## 23. [MAYBE] Stevens Institute of Technology | Research Scientist
+## 26. [MAYBE] Stevens Institute of Technology | Research Scientist
 - Link: https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Research-Scientist_RQ29183
 - Location: Hoboken, NJ - Main Campus
 - Posted: Nov 03 (board gives the date only)
@@ -412,7 +460,7 @@ Job Description Summary of Position The Acquisition Innovation and Research Cent
 
 ---
 
-## 24. [MAYBE] Barclays | High Yield Credit Research Analyst
+## 27. [MAYBE] Barclays | High Yield Credit Research Analyst
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/High-Yield-Credit-Research-Analyst_JR-0000133716
 - Location: New York, 745 7th Avenue
 - Posted: Nov 04 (board gives the date only)
@@ -426,7 +474,7 @@ Job Description Purpose of the role To produce and deliver Research with differe
 
 ---
 
-## 25. [MAYBE] Generalist | Applied Scientist
+## 28. [MAYBE] Generalist | Applied Scientist
 - Link: https://jobs.ashbyhq.com/generalist/e3460ad7-8044-4522-aedd-009926900b14
 - Location: Boston (Somerville) United States
 - Posted: Nov 04 14:44 ET
@@ -484,7 +532,21 @@ YOU MIGHT THRIVE IN THIS ROLE IF YOU:
 
 ---
 
-## 26. [MAYBE] Medical College of Wisconsin | Biostatistician I - CIBMTR
+## 29. [MAYBE] Osaic | Risk Analyst I
+- Link: https://advisorgroup.wd1.myworkdayjobs.com/advisor_career_site/job/Scottsdale-AZ/Risk-Analyst-I_R0005360
+- Location: 5 Locations
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: power bi, sql, credit, reporting, risk | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Current Employees and Contractors Apply Here Osaic Careers Risk Management Opportunity in Financial Services Risk Analyst I Location(s): Atlanta: 2300 Windy Ridge Pkwy SE, Suite750, Atlanta, GA 30339 La Vista:12325 Port Grace Blvd, La Vista, NE 68128 Oakdale: 7755 3rd St. N, Oakdale, MN 55128 Scottsdale: 18700 N Hayden Rd, Suite 255, Scottsdale, AZ 85255 St. Petersburg: 877 Executive Center Dr. W, Suite 300, St. Petersburg, FL 33702 Osaic has returned to the office on a hybrid schedule requiring a minimum of 4 days weekly in the office. Applicants should be located at one of our hubs listed above and must be willing to work this schedule. Role Type: Full-Time Salary: $50,000 - $59,000 per year + annual bonus Actual compensation offered will be determined individually, based on a number of job-related factors, including location, skills, licensure, experience, and education. Our competitive compensation is just one component of Osaic’s total compensation package. Additional benefits include health, vision, dental insurance, 401k, paid time away, volunteer days and much more. To view more details of what you can look forward to, visit our careers page: https://careers.osaic.com/Creative/Benefits . Summary: The Risk Analyst I (“Analyst”) will be assisting in the build out and execution of Osaic's risk management program. The Analyst will complete assigned projects, with direction and guidance from the direct supervisor, that enhance documentation of key risks and accompanying controls, risk frameworks and protocols, and deriving risk information and insights from data. Analyst will engage with subject matter experts to create workflow maps, identify risks and accompanying controls, and provide guidance in identifying or developing risk metrics and reporting to senior leadership. The ability to meet with business leaders, learn new processes, document those processes accurately, and identify key risks, controls, data patterns, and gaps in controls is critical to the role. The Analyst will report directly to the VP of Enterprise Risk. Education Requirements: Bachelor’s Degree from accredited university in Business Administration, Finance, Accounting, Risk Management, or related field required. High School Diploma or equivalent (GED) is required. Certifications: SQL, Power BI, or other similar certifications in the area of analytics is preferred. Responsibilities: Responsible for learning business processes of business units under review and be able to provide guidance on identified risks and design of controls. Provide guidance regarding "Three Lines of Defense" risk control framework. Ability to produce process flow maps (in Vizio) showing key decision points, ownership of specific steps within the process, and relevant risks and controls. Ability to meet the business managers, ask questions, listen, and analyze discussions to produce meaningful insights and accurate documentation. Consult on assessment and enhancement of risk management framework throughout the company, including identification of risks and accompanying controls and provide accurate assessment of control effectiveness. Assessment of data to determine control effectiveness, trends, and "red flag" events. Ability to create monthly metric reporting for specific risk programs and be able to "tell the story" to managers and senior leaders. Review of applicable regulations and written regulatory guidance applicable to business unit (or risk program). Ability to assess if written supervisory procedures and firm policies adequately address regulatory requirements and business risks. All other duties as assigned. Basic Requirements: Entry level (0 to 1 year) of previous work experience Attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and maintaining focus and striving for comprehension at all times. Logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Communication to others to convey information effectively as well as communicating effectively in writing as appropriate for the needs of the audience. Knowledge of financial services industry trends, directions, major issues, regulatory considerations and trendsetters; ability to provide specific financial knowledge and experience to help organizational development. Ability to come up with unusual or clever ideas about a given topic or situation, or to develop creative ways to solve a problem. Ability developing constructive and cooperative working relationships with others and maintaining them over time. Job requires being pleasant with others on the job and displaying a good-natured, cooperative attitude. Administration of own time and the time of others and the ability to shift back and forth between two or more activities or sources of information. Knowledge of functions, features and applications of Microsoft Office; ability to use the cross-functional features of its applications to enhance overall organizational efficiency. Knowledge of data and data science techniques to identify trends and create predictions Preferred Requirements: Master’s in Business Administration, Finance, Accounting, Risk Management, or related field. Compliance and/or Risk Certifications in Wealth Management Current Employees and Contractors Apply Here
+
+---
+
+## 30. [MAYBE] Medical College of Wisconsin | Biostatistician I - CIBMTR
 - Link: https://mcw.wd503.myworkdayjobs.com/ExternalCareers/job/Milwaukee-WI/Biostatistician-I---CIBMTR_JR104177
 - Location: Milwaukee, WI
 - Posted: Nov 03 (board gives the date only)
@@ -498,7 +560,7 @@ Summary The Center for International Blood and Marrow Transplant Research (CIBMT
 
 ---
 
-## 27. [MAYBE] Brown & Brown Insurance | Employee Benefits Marketing Analyst
+## 31. [MAYBE] Brown & Brown Insurance | Employee Benefits Marketing Analyst
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/St-Petersburg-FL-USA/Employee-Benefits-Marketing-Analyst_R26_0000003824
 - Location: St. Petersburg, FL, USA
 - Posted: Nov 04 (board gives the date only)
@@ -512,7 +574,7 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 28. [MAYBE] Hancock Whitney | Fraud Risk Analyst
+## 32. [MAYBE] Hancock Whitney | Fraud Risk Analyst
 - Link: https://hancockwhitney.wd5.myworkdayjobs.com/Careers/job/Hancock-Whitney-Plaza---Gulfport-MS/Fraud-Risk-Analyst_R017902
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -526,7 +588,21 @@ Thank you for your interest in our company! To apply, click on the button above.
 
 ---
 
-## 29. [MAYBE] Citi | Data Analytics Engineer
+## 33. [MAYBE] Unum | Investment Analyst - Credit
+- Link: https://unum.wd1.myworkdayjobs.com/external/job/Chattanooga-Tennessee-USA/Investment-Analyst---Credit_836537
+- Location: Chattanooga, Tennessee, USA
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 8 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, credit, healthcare, portfolio, quantitative, research, risk, trading | Lacks: cfa
+
+### Job description
+
+Job Posting End Date: November 17 When you join the team at Unum, you become part of an organization committed to helping you thrive. Here, we work to provide the employee benefits and service solutions that enable employees at our client companies to thrive throughout life’s moments. And this starts with ensuring that every one of our team members enjoys opportunities to succeed both professionally and personally. To enable this, we provide: Award-winning culture Inclusion and diversity as a priority Performance Based Incentive Plans Competitive benefits package that includes: Health, Vision, Dental, Short & Long-Term Disability Generous PTO (including paid time to volunteer!) Up to 9.5% 401(k) employer contribution Mental health support Career advancement opportunities Student loan repayment options Tuition reimbursement Flexible work environments *All the benefits listed above are subject to the terms of their individual Plans . And that’s just the beginning… With 10,000 employees helping more than 39 million people worldwide, every role at Unum is meaningful and impacts the lives of our customers. Whether you’re directly supporting a growing family, or developing online tools to help navigate a difficult loss, customers are counting on the combined talents of our entire team. Help us help others, and join Team Unum today! General Summary: This position is responsible for researching a wide range of fixed income investments for a $30+ billion bond/credit portfolio. The individual will provide credit opinions and recommendations on Investment Grade and High Yield securities to Portfolio Managers, the Head of Research, and the Chief Investment Officer. These opinions and recommendations are utilized to evaluate risk and are the basis for buy/sell/hold decisions. Principal Duties and Responsibilities Credit Review and Analysis Assess credit quality of various corporate bond offerings and industries using a variety of research tools including but not limited to Bloomberg, rating agencies, third-party research, and SEC filings Assign/maintain formal ratings (e.g., outlook, trading, ESG, etc.) on Investment Grade and High Yield credits and their respective industries Monitor and make recommendations regarding exposures to respective issuers and industries For assigned issuers/industries, provide written research reports and timely updates when appropriate Credit Management and Trading Recommendations Maintain and develop research contacts and resources with a variety of street, and rating agency analysts Effectively communicate with and critically analyze comments of CEOs, CFOs and Investor Relations Officers at large domestic and international corporations Make investment recommendations on the purchase or sale of corporate bonds to the Head of Research and Portfolio Managers Partner with our underwriters and other functional areas of the corporation by providing company specific opinions and industry assessments to assist in new business and renewal processes Assume responsibilities for special projects or other duties when required Job Specifications Minimum Bachelor's degree required; MBA and/or CFA credentials preferred 2+ years relevant work experience in investments; solid knowledge of fixed income markets, economics and credit research required Strong written and verbal communications skills, with the demonstrated ability to quickly and effectively communicate ideas and recommendations Proficiency with Bloomberg and Microsoft Office tools, especially Excel; ability to learn new software and utilize external quantitative tools that value corporate credit risk required Strong financial research skills, producing and maintaining quantitative financial models Excellent problem-solving skills, documentation skills and ability to work independently Very strong work ethic, attention to detail, team orientation, and commitment to excellence #LI-AF1 ~IN1 Unum and Colonial Life are part of Unum Group, a Fortune 500 company and leading provider of employee benefits to companies worldwide. Headquartered in Chattanooga, TN, with international offices in Ireland, Poland and the UK, Unum also has significant operations in Portland, ME - plus over 35 US field offices. Colonial Life is headquartered in Columbia, SC, with over 40 field offices nationwide. Unum
+
+---
+
+## 34. [MAYBE] Citi | Data Analytics Engineer
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Data-Analytics-Engineer_261001004
 - Location: Irving Texas United States
 - Posted: Nov 03 (board gives the date only)
@@ -540,7 +616,7 @@ Overview of the Role: Citi, the leading global bank, has approximately 200 milli
 
 ---
 
-## 30. [MAYBE] Regeneron Pharmaceuticals | Process Development Engineer I, Biobank Analytics Automation
+## 35. [MAYBE] Regeneron Pharmaceuticals | Process Development Engineer I, Biobank Analytics Automation
 - Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Process-Development-Engineer-I--Biobank-Analytics-Automation_R52593
 - Location: TARRYTOWN
 - Posted: Nov 04 (board gives the date only)
@@ -554,7 +630,7 @@ Build our future together: At Regeneron, we use science and innovation to develo
 
 ---
 
-## 31. [MAYBE] HUB International | Benefits Marketing Analyst
+## 36. [MAYBE] HUB International | Benefits Marketing Analyst
 - Link: https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Metairie-LA/Benefits-Marketing-Analyst_R0039341
 - Location: Metairie, LA
 - Posted: Nov 03 (board gives the date only)
@@ -568,7 +644,7 @@ A path for every ambition. At HUB, we believe the best work happens when people 
 
 ---
 
-## 32. [MAYBE] Gilead Sciences | Research Associate, In Vivo Discovery
+## 37. [MAYBE] Gilead Sciences | Research Associate, In Vivo Discovery
 - Link: https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---Pennsylvania---Philadelphia/Research-Associate--In-Vivo-Discovery_R0056352-1
 - Location: United States - Pennsylvania - Philadelphia
 - Posted: Nov 03 (board gives the date only)
@@ -582,7 +658,7 @@ We’re here for one reason and one reason only – to cure cancer. Every moment
 
 ---
 
-## 33. [MAYBE] Kite Pharma | Research Associate, In Vivo Discovery
+## 38. [MAYBE] Kite Pharma | Research Associate, In Vivo Discovery
 - Link: https://gilead.wd1.myworkdayjobs.com/kitepharmacareers/job/United-States---Pennsylvania---Philadelphia/Research-Associate--In-Vivo-Discovery_R0056352
 - Location: United States - Pennsylvania - Philadelphia
 - Posted: Nov 03 (board gives the date only)
@@ -596,7 +672,7 @@ We’re here for one reason and one reason only – to cure cancer. Every moment
 
 ---
 
-## 34. [MAYBE] Avis Budget Group | Data Engineer / AI Engineer
+## 39. [MAYBE] Avis Budget Group | Data Engineer / AI Engineer
 - Link: https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Avis-Budget-House-HQ/Data-Engineer---AI-Engineer_R0191644
 - Location: Avis Budget House, HQ
 - Posted: Nov 03 (board gives the date only)
@@ -610,7 +686,7 @@ Job Title: Data Engineer / AI Engineer Location: Bracknell, minimum of 3 days in
 
 ---
 
-## 35. [MAYBE] Valsoft Corporation | AI Engineer - SAD con
+## 40. [MAYBE] Valsoft Corporation | AI Engineer - SAD con
 - Link: https://apply.workable.com/j/1DFDC9657B
 - Location: Beirut Beirut Governorate Lebanon
 - Posted: Nov 04 (board gives the date only)
@@ -624,7 +700,7 @@ Aspire Software is looking for a Senior Software Engineer to join our team in Le
 
 ---
 
-## 36. [MAYBE] Jade Global | AI Engineer
+## 41. [MAYBE] Jade Global | AI Engineer
 - Link: https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/AI-Engineer_R-106525-2
 - Location: 2 Locations
 - Posted: Nov 03 (board gives the date only)
@@ -638,7 +714,7 @@ AI Engineer1 We're building a self-service LoRA / full fine-tuning platform for 
 
 ---
 
-## 37. [MAYBE] Hitachi | Research Scientist – Power Systems Optimization
+## 42. [MAYBE] Hitachi | Research Scientist – Power Systems Optimization
 - Link: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Research-Scientist---Power-Systems-Optimization_R0150404
 - Location: Raleigh, North Carolina, United States
 - Posted: Nov 04 (board gives the date only)
@@ -652,7 +728,7 @@ Location: Raleigh, North Carolina, United States Job ID: R0150404 Date Posted: 2
 
 ---
 
-## 38. [MAYBE] University of Texas - Austin | Research Scientist, Laser-Plasma Accelerators and X-ray Sources
+## 43. [MAYBE] University of Texas - Austin | Research Scientist, Laser-Plasma Accelerators and X-ray Sources
 - Link: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Research-Scientist--Laser-Plasma-Accelerators-and-X-ray-Sources_R_00049837
 - Location: UT MAIN CAMPUS
 - Posted: Nov 04 (board gives the date only)
@@ -666,7 +742,7 @@ Job Posting Title: Research Scientist, Laser-Plasma Accelerators and X-ray Sourc
 
 ---
 
-## 39. [MAYBE] M&G | Data Scientist
+## 44. [MAYBE] M&G | Data Scientist
 - Link: https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/Stirling/Data-Engineer--Databricks-_R19908
 - Location: 3 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -680,7 +756,7 @@ At M&G, our purpose is to give everyone real confidence to put their money to wo
 
 ---
 
-## 40. [MAYBE] The Hartford | Consultant Performance Analytics – General Liability
+## 45. [MAYBE] The Hartford | Consultant Performance Analytics – General Liability
 - Link: https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/United-States---Remote/Consultant-Performance-Analytics---General-Liability_R2627627
 - Location: United States - Remote
 - Posted: Nov 03 (board gives the date only)
@@ -694,7 +770,7 @@ Consultant Perf Analytics - GB08BE We’re determined to make a difference and a
 
 ---
 
-## 41. [MAYBE] Stride | Academics Data Science Associate
+## 46. [MAYBE] Stride | Academics Data Science Associate
 - Link: https://strideinc.wd1.myworkdayjobs.com/SK/job/US---VA---Remote/Academics-Data-Science-Associate_JR116261
 - Location: US - VA - Remote
 - Posted: Nov 04 (board gives the date only)
@@ -705,4 +781,18 @@ Consultant Perf Analytics - GB08BE We’re determined to make a difference and a
 ### Job description
 
 Job Description Certificates and Licenses: Teaching Certification Residency Requirements : This position is remote and strongly prefers candidates that reside in Virginia May consider candidates that reside in surrounding states: Washington, DC and Maryland Must be able to attend in person PDs, testing, and other school events K12, a Stride Company, believes in Education for ANY ONE. We provide families an online option for a high-quality, personalized education experience. Students can thrive, find their passion, and learn in an environment that encourages discovery at their own pace. Passionate Educators are needed at the Stride K12 partner school, VAVA. We want you to be a part of our talented team! The mission of VAVA is to provide an exemplary individualized and engaging educational experience for students by incorporating school and community/family partnerships coupled with a rigorous curriculum along with a data-driven and student-centered instructional model. Student success will be measured by valid and reliable assessment data, parent and student satisfaction, and continued institutional growth within the academic community. Join us! Summary : The School Data Coordinator/ Instructional Coach is responsible for analyzing and interpreting assessment data as it relates to individual student achievement and to the overall academic performance of all schools grades K-12. The position is responsible for maintaining accurate and confidential data files of student achievement and will work to support data analysis training for teachers and administrators in the use of data to improve instruction and student learning outcomes, specifically for academically at-risk students. This position will also apply appropriate statistical measurements to data; review school and state data to develop comparison trends; and design and develop reports as requested for internal and external stakeholder reporting. Essential Functions: Reasonable accommodations may be made to enable individuals with disabilities to perform the essential duties. Assist with analyzing local, state, and national assessment data as it relates to individual student performance and school improvement, focused on at-risk students. Develop and maintain historical student and school data files to monitor and track performance. Interpret and review assessment data with administrators and teachers. Compile data from multiple assessments to develop student, subject, grade-level, or school achievement profiles. Work with faculty and staff in schools to conduct training in the use of data to improve instruction to target academic achievement where learning and achievement gaps are present. Ensure the validity of all data presented to staff and stakeholders. Attend, as necessary and appropriate, training sessions/conferences related to assigned responsibilities to effectively use data to inform school improvement initiatives. Supervisory Responsibilities: This position has no formal supervisory responsibilities. OTHER Duties & Responsibilities: Experience in using academic data to impact instruction and school strategic planning is required and knowledge of data processing software is invaluable. Skilled in explaining testing and statistics to administrators, teachers, and parents. Ability to communicate, both in writing and orally, technical information in a way that is understandable to all stakeholders. Demonstrated ability to work effectively with staff from various areas of responsibility. Knowledge of quality management, systems, and strategic planning are required. Ability to learn new software and processes as they become available. Self-motivated and able to work in a quick paced environment. Ability to design and format data files and tables and to modify and update such structures as required. Ability to plan and manage multiple tasks in a timely manner. Minimum Required Qualifications: Attach an image of your VA teaching license to your K12 profile docs. Merely providing the number will not suffice. Must live in VA or directly on the border. Able to attend several meetings and events in person in VA. Bachelor’s Degree in Education or field related AND Two (2) years of data analyst experience OR Equivalent combination of education and experience OTHER REQUIRED QUALIFICATIONS: Experience working with data from various types of student assessments. Experience working with large data sets including data analysis, interpretation, and display; Possess strong communication, organizational, analytical, and written skills; Demonstrated initiative and the ability to handle multiple tasks simultaneously; Ability to interact positively with teachers, administrators, and support staff; and Possess knowledge of the school improvement process. Proficient in Microsoft Office Ability to travel at least 15% of the time. Ability to pass required background check Compensation & Benefits: Stride, Inc. considers a person’s education, experience, and qualifications, as well as the position’s work location, expected quality and quantity of work, required travel (if any), external market and internal value when determining a new employee’s salary level. Salaries will differ based on these factors, the position’s level and expected contribution, and the employee’s benefits elections. Offers will typically be in the bottom half of the range. Exempt (salary): We anticipate the salary range to be $ 26,103.60 to $55,122.00. Eligible employees may receive a bonus. This salary is not guaranteed, as an individual’s compensation can vary based on several factors. These factors include, but are not limited to, geographic location, experience, training, education, and local market conditions. Stride offers a robust benefits package for eligible employees that can include health benefits, retirement contributions, and paid time off. Work Environment: The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job.
+
+---
+
+## 47. [MAYBE] TMX Group | Product Analyst
+- Link: https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/California/Product-Analyst_R-6665
+- Location: California
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, statistic, git, research | Lacks: cfa  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Venture outside the ordinary - TMX Careers The TMX group of companies includes leading global exchanges such as the Toronto Stock Exchange, Montreal Exchange, and numerous innovative organizations enhancing capital markets. United as a global team, we’re connecting cross-functionally, traversing industries and geographies, moving opportunity into action, advancing global economic growth, and propelling progress. Through a rich exchange of ideas, meaningful collaboration, and a nimble operating model, we're powering some of the nation's most critical systems, fueling capital formation and innovation, bringing increased opportunity to business visionaries, product ingenuity to consumers, and career exploration to our team. Ready to be part of the action? The Product Management group at TMX VettaFI is responsible for the oversight of the firm's investment strategies which includes product development, business development, messaging, and analytical support. The product analyst position provides analytics support to Product Management and the firm's client facing team and includes fulfilling day-to-day analytics and attribution requests from clients, creation/maintenance of standard reports on TMX Vettafi's investment strategies, and creation of presentation material. In this role, you will work closely with both the client facing, research, marketing, and compliance teams. ROLES AND RESPONSIBILITIES Create charts and graphs for use in client service and prospect presentations . Update presentation material and standard performance and characteristic reports for Research Affiliates' investment strategies . Conduct analysis on RAFI performance and peer comparisons . Generate performance attributions and other ad hoc analytics using FactSet. Create written commentary on investment strategy performance. Provide analytics support to product managers. SKILLS/QUALIFICATIONS Proficiency with Microsoft Excel and PowerPoint required. Degree in Business/Economics, or Mathematics/Statistics/Engineering preferred. Attention to detail and strong interpersonal skills necessary. Knowledge of capital markets and investment concepts required. 1-3 years of investment industry experience. Interest in pursuing the CFA designation a plus. Experience with Factset, Morningstar and Bloomberg a plus. Coding experience a plus. This role is hybrid (3 days in the office/week) - based in Newport Beach, California Salary Range: $75,000/year - $85,000K/year USD Please note that the Salary Range included is a guideline only. The salary offered may vary based on factors, including, but not limited to, the successful candidate’s relevant knowledge, skills, and experience. In the market for… Excitement - Explore emerging technology and innovation, as well as ventures and digital finance that shape the future of global markets! Experience the movement of the market while grounded in the stability of close to 200 years of success. Connection - With site hubs in some of the world’s most multicultural cities, we leverage our size and structure to create rich connections and belonging while experiencing powerful global impact through our work. Impact - More than a platform, we use our talents to power mission-critical systems that drive global economic advancement, innovation, and growth. As well, our employee-led Team Impact spreads social good via our giving strategy. Wellness - From empathetic leadership to a culture of flexibility and balance, we believe wellness at work creates the maximum yield and a stronger “we”. Plus, with a cloud-first and hybrid workstyle, as well as generous time-off and leaves, we support a life well lived! Growth - From a growth mindset in our work, to expansion in our business, TMX is home to action-takers energized by the achievement of ambitious growth. Ready to enrich your career with impactful work, leaders who truly care, and the flexibility and programs to help you thrive as part of #TeamTMX ? Apply now. Please note that our company is not currently sponsoring work permit applications and the applicant must be authorized to work in the country where this position is located. TMX is committed to creating and sustaining a collegial work environment in which all individuals are treated with dignity and respect and one which reflects the diversity of the community in which we operate. We provide accommodations for applicants and employees who require it .
 
