@@ -15,21 +15,24 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 9 | Digital Realty | Portfolio Analyst | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
 | 10 | Assurant | Product Analyst | 62 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
 | 11 | Simmons Bank | Card Fraud Analyst I | 60 | 2 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 12 | Penn Interactive | Business Intelligence Engineer | 55 | none found (check myvisajobs) | Nov 04 08:27 ET |
-| 13 | Howmet Aerospace | Data Engineer | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 14 | Advocate Health Care | Research Associate - Neurosciences - FT | 54 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 15 | Stevens Institute of Technology | Research Scientist | 54 | cap-exempt employer | Nov 03 (board gives the date only) |
-| 16 | Barclays | High Yield Credit Research Analyst | 54 | 142 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 17 | Medical College of Wisconsin | Biostatistician I - CIBMTR | 50 | cap-exempt employer | Nov 03 (board gives the date only) |
-| 18 | Brown & Brown Insurance | Employee Benefits Marketing Analyst | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 19 | Citi | Data Analytics Engineer | 49 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 20 | HUB International | Benefits Marketing Analyst | 45 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 21 | Gilead Sciences | Research Associate, In Vivo Discovery | 45 | 73 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 22 | Kite Pharma | Research Associate, In Vivo Discovery | 45 | 9 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 23 | Avis Budget Group | Data Engineer / AI Engineer | 44 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 24 | Valsoft Corporation | AI Engineer - SAD con | 44 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 25 | Jade Global | AI Engineer | 43 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 26 | The Hartford | Consultant Performance Analytics – General Liability | 40 | 17 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 12 | Clera | Founding Engineer, AI/ML | 60 | none found (check myvisajobs) | Nov 04 12:06 ET |
+| 13 | Penn Interactive | Business Intelligence Engineer | 55 | none found (check myvisajobs) | Nov 04 08:27 ET |
+| 14 | Howmet Aerospace | Data Engineer | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 15 | HUB International | AI Engineer | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 16 | Advocate Health Care | Research Associate - Neurosciences - FT | 54 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 17 | Stevens Institute of Technology | Research Scientist | 54 | cap-exempt employer | Nov 03 (board gives the date only) |
+| 18 | Barclays | High Yield Credit Research Analyst | 54 | 142 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 19 | Medical College of Wisconsin | Biostatistician I - CIBMTR | 50 | cap-exempt employer | Nov 03 (board gives the date only) |
+| 20 | Brown & Brown Insurance | Employee Benefits Marketing Analyst | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 21 | Citi | Data Analytics Engineer | 49 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 22 | HUB International | Benefits Marketing Analyst | 45 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 23 | Gilead Sciences | Research Associate, In Vivo Discovery | 45 | 73 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 24 | Kite Pharma | Research Associate, In Vivo Discovery | 45 | 9 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 25 | Avis Budget Group | Data Engineer / AI Engineer | 44 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 26 | Valsoft Corporation | AI Engineer - SAD con | 44 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 27 | Jade Global | AI Engineer | 43 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 28 | M&G | Data Scientist | 42 | 4 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 29 | The Hartford | Consultant Performance Analytics – General Liability | 40 | 17 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
 
 ---
 
@@ -187,7 +190,63 @@ It's fun to work in a company where people truly BELIEVE in what they're doing! 
 
 ---
 
-## 12. [MAYBE] Penn Interactive | Business Intelligence Engineer
+## 12. [MAYBE] Clera | Founding Engineer, AI/ML
+- Link: https://jobs.ashbyhq.com/clera/81df78d2-58a0-488a-8fff-63dc49b11a1d
+- Location: San Francisco United States
+- Posted: Nov 04 12:06 ET
+- Scanner fit: ~60 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: llm, python, pytorch, tensorflow, pipeline | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+ABOUT THE ROLE
+
+Build the intelligence layer for an AI-powered recruiting marketplace, including the systems that match candidates with relevant roles. As a founding engineer, you will take ownership of recommendation, ranking, retrieval, and LLM-powered matching from early design through production.
+
+
+WHAT YOU'LL DO
+
+ - Own the AI/ML systems for recommendations, ranking, and retrieval.
+
+ - Build and improve LLM-powered candidate-to-role matching.
+
+ - Turn product goals into working features and ship them at a rapid cadence.
+
+ - Architect and maintain the production data pipelines and services that support models.
+
+ - Work directly with company leadership to deliver product systems end to end.
+
+
+WHAT WE'RE LOOKING FOR
+
+ - Two to five years of software engineering experience building and shipping production product features.
+
+ - Applied ML engineering experience at a product company or startup, including production recommendation, ranking, or matching systems.
+
+ - Experience shipping LLM-powered features using LLM APIs, as well as hands-on work with PyTorch, TensorFlow, or equivalent ML frameworks.
+
+ - Strong production engineering skills in TypeScript or Python, with experience maintaining data pipelines and services.
+
+ - Strong computer science fundamentals and comfort with fast-paced, iterative startup work.
+
+ - React experience is useful, as are Supabase, Prisma, Typesense or similar search infrastructure, embeddings, vector search, and workflow automation tools.
+
+ - Evidence of strong technical achievement through education, open-source work, or personal projects.
+
+
+COMPENSATION & BENEFITS
+
+Base salary is $130,000 to $170,000 annually, plus founding-hire equity. Visa sponsorship is available.
+
+
+LOCATION
+
+On-site in San Francisco, California. The role requires working in person six days per week. Relocation assistance is available.
+
+---
+
+## 13. [MAYBE] Penn Interactive | Business Intelligence Engineer
 - Link: https://job-boards.greenhouse.io/penninteractive/jobs/6247180004
 - Location: Remote, United States
 - Posted: Nov 04 08:27 ET
@@ -201,7 +260,7 @@ PENN Entertainment, Inc. is North America’s leading provider of integrated ent
 
 ---
 
-## 13. [MAYBE] Howmet Aerospace | Data Engineer
+## 14. [MAYBE] Howmet Aerospace | Data Engineer
 - Link: https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120224
 - Location: Whitehall, MI, United States US Wichita Falls, TX, United States
 - Posted: Nov 04 (board gives the date only)
@@ -215,7 +274,21 @@ Howmet Aerospace seeks an experienced, driven, self-starter to fill the role of 
 
 ---
 
-## 14. [MAYBE] Advocate Health Care | Research Associate - Neurosciences - FT
+## 15. [MAYBE] HUB International | AI Engineer
+- Link: https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Chicago-IL/AI-Engineer_R0038315
+- Location: Chicago, IL
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, gcp, llm, python, git, pipeline, risk | Lacks: azure  | Note: no H-1B filings found for this employer
+
+### Job description
+
+A path for every ambition. At HUB, we believe the best work happens when people are given real space to grow and then given the autonomy to exercise it. We power progress and protect ambition: for the clients who count on us, and equally for the people who make that possible every day. We’re creative thinkers and determined doers, guided by values that show up in how we work together: with empathy, adaptability, accountability and a genuine commitment to one another’s success. We foster bold ideas, celebrate curiosity and share what we know. Because when people grow, the work they do grows with them. Our purpose is deeply human: to help people navigate the world on their terms, at their speed, toward their future. We hold that same commitment to the people building careers here. Whether you’re starting out or leveling up, you’ll find the resources to evolve, the support to take on more and a team ready to back you at every stage. Your ambition has a home here. ABOUT US At HUB International, we are a team of entrepreneurs. We believe in protecting and supporting the aspirations of individuals, families, and businesses. We help our clients evaluate their risks and develop solutions tailored to their needs. We believe in empowering our employees to learn, grow, and make a difference. Our structure enables our teams to maintain their own unique, regional culture while leveraging support and resources from our corporate centers of excellence. HUB is a global insurance and employee benefits broker, providing a boundaryless array of business insurance, employee benefits, risk services, personal insurance, retirement, and private wealth management products and services. With over $5 billion in revenue and almost 20,000 employees in 600 offices throughout North America, HUB has grown substantially, in part due to our industry leading success in mergers and acquisitions. Position Overview HUB is seeking an AI Engineer to join the RPA & Automation team within our centralized technology organization, part of HUB’s AI & Automation organization. This is a hands-on build role responsible for designing, building, and shipping production-grade AI applications that deliver measurable value across HUB’s business lines. The role builds on the Claude AI platform: creating reusable skills and plug-ins, composing them into governed AI applications, standing up retrieval over governed enterprise data, and owning the AI asset platform through which these capabilities reach the business. HUB runs Claude as its primary model today, and the stack is expected to evolve toward agentic systems. The ideal candidate is an experienced software engineer with direct, hands-on experience building and shipping AI applications, skills, and plug-ins in a governed, regulated environment, who is productive from the first weeks and ready to grow into agent development. The AI Engineer professionalizes experimental AI prototypes into governed, tested, enterprise-ready applications, and owns the enterprise standards and governance for HUB’s skills, plug-ins, and MCP wherever they are used across HUB. The role scales these capabilities to the business through HUB’s native AI ecosystem. The team builds the simple to moderate skills, plug-ins, and MCP connections directly. Where a build requires deep engineering, such as net-new backend, new infrastructure, or complex integration, Enterprise Engineering executes it to the team standard and returns it to the catalog to be governed and published. Key Responsibilities Build AI Applications •Build reusable skills and package them as plug-ins, then compose them into governed AI applications that HUB business lines use •Configure and tune foundational models (Claude, Gemini) for HUB use cases, with system and prompt design •Build retrieval-augmented generation (RAG), embeddings, and multi-step workflows over governed enterprise data •Take business-built AI prototypes and productionize them into reliable, governed applications Own the AI Asset Platform •Own and govern the skill and plug-in marketplace and the MCP catalog: intake, publish, version, and maintain •Set and enforce the enterprise standards and governance for skills, plug-ins, and MCP wherever they are used across HUB, on any surface including Claude Code, and including builds executed by other engineering teams •Does not build or operate the Claude Code developer-guardrail layer day to day; that is Enterprise Engineering’s, built against the standard this role sets •Apply access control, least-privilege, and audit to AI assets, partnering with Security and Cloud on identity and credentials •Build simple to moderate skills, plug-ins, and MCP connections directly; route complex builds that need new infrastructure or deep integration to Enterprise Engineering, then govern and publish the result Quality, Evaluation, and Governance •Stand up evaluation harnesses, golden-set testing, guardrails, monitoring, and logging so AI output is consistent and reliable at enterprise scale •Provide production support for the skills, plug-ins, and applications the team releases Collaboration and Delivery •Partner with business stakeholders to turn rough, prototyped ideas into production-ready, governed capabilities •Partner with Enterprise Engineering and data teams to ship reliably and to route deep builds appropriately •Work within Agile ceremonies and document skills, applications, and technical decisions for handoff, audit, and maintenance Required Qualifications •5+ years of software or automation engineering, including 2+ years building and shipping LLM-backed applications to production •Direct, recent, hands-on experience building and publishing Claude skills or plug-ins; broad LLM or framework experience without shipped skills and plug-ins is not sufficient •Strong Python, REST APIs, and enterprise integration, with sound fundamentals in testing, version control, and monitoring •Hands-on experience with foundational models: system and prompt design, skill and tool building, function and tool calling •Retrieval-augmented generation, embeddings, and vector stores, with chunking and reranking •Evaluation and monitoring for LLM systems, with a working feel for cost, latency, and reliability tradeoffs •Experience operating inside a regulated enterprise, with security, governance, and access control as part of normal delivery •Cloud experience (Azure or GCP / Vertex AI) •Bachelor’s degree in Computer Science, Information Systems, Engineering, or a related technical field, or equivalent practical experience Preferred Qualifications •Agent development and orchestration (LangGraph, CrewAI, Claude Agent SDK), the growth path for this role •Model Context Protocol (MCP) design and agent-to-agent patterns •Identity and access concepts: RBAC, non-human or agent identity, and least privilege •UiPath or Power Platform exposure •Insurance or financial services industry experience •Familiarity with Git, CI/CD pipelines, and modern softwar [...]
+
+---
+
+## 16. [MAYBE] Advocate Health Care | Research Associate - Neurosciences - FT
 - Link: https://aah.wd5.myworkdayjobs.com/External/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/Research-Associate---Neurosciences---FT_R271759
 - Location: Carolinas Medical Center - 1000 Blythe Blvd, Charlotte, NC
 - Posted: Nov 03 (board gives the date only)
@@ -229,7 +302,7 @@ Department: 85209 Greater Charlotte Research and Other Sponsored Programs - Acad
 
 ---
 
-## 15. [MAYBE] Stevens Institute of Technology | Research Scientist
+## 17. [MAYBE] Stevens Institute of Technology | Research Scientist
 - Link: https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Research-Scientist_RQ29183
 - Location: Hoboken, NJ - Main Campus
 - Posted: Nov 03 (board gives the date only)
@@ -243,7 +316,7 @@ Job Description Summary of Position The Acquisition Innovation and Research Cent
 
 ---
 
-## 16. [MAYBE] Barclays | High Yield Credit Research Analyst
+## 18. [MAYBE] Barclays | High Yield Credit Research Analyst
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/High-Yield-Credit-Research-Analyst_JR-0000133716
 - Location: New York, 745 7th Avenue
 - Posted: Nov 04 (board gives the date only)
@@ -257,7 +330,7 @@ Job Description Purpose of the role To produce and deliver Research with differe
 
 ---
 
-## 17. [MAYBE] Medical College of Wisconsin | Biostatistician I - CIBMTR
+## 19. [MAYBE] Medical College of Wisconsin | Biostatistician I - CIBMTR
 - Link: https://mcw.wd503.myworkdayjobs.com/ExternalCareers/job/Milwaukee-WI/Biostatistician-I---CIBMTR_JR104177
 - Location: Milwaukee, WI
 - Posted: Nov 03 (board gives the date only)
@@ -271,7 +344,7 @@ Summary The Center for International Blood and Marrow Transplant Research (CIBMT
 
 ---
 
-## 18. [MAYBE] Brown & Brown Insurance | Employee Benefits Marketing Analyst
+## 20. [MAYBE] Brown & Brown Insurance | Employee Benefits Marketing Analyst
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/St-Petersburg-FL-USA/Employee-Benefits-Marketing-Analyst_R26_0000003824
 - Location: St. Petersburg, FL, USA
 - Posted: Nov 04 (board gives the date only)
@@ -285,7 +358,7 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 19. [MAYBE] Citi | Data Analytics Engineer
+## 21. [MAYBE] Citi | Data Analytics Engineer
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Data-Analytics-Engineer_261001004
 - Location: Irving Texas United States
 - Posted: Nov 03 (board gives the date only)
@@ -299,7 +372,7 @@ Overview of the Role: Citi, the leading global bank, has approximately 200 milli
 
 ---
 
-## 20. [MAYBE] HUB International | Benefits Marketing Analyst
+## 22. [MAYBE] HUB International | Benefits Marketing Analyst
 - Link: https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Metairie-LA/Benefits-Marketing-Analyst_R0039341
 - Location: Metairie, LA
 - Posted: Nov 03 (board gives the date only)
@@ -313,7 +386,7 @@ A path for every ambition. At HUB, we believe the best work happens when people 
 
 ---
 
-## 21. [MAYBE] Gilead Sciences | Research Associate, In Vivo Discovery
+## 23. [MAYBE] Gilead Sciences | Research Associate, In Vivo Discovery
 - Link: https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---Pennsylvania---Philadelphia/Research-Associate--In-Vivo-Discovery_R0056352-1
 - Location: United States - Pennsylvania - Philadelphia
 - Posted: Nov 03 (board gives the date only)
@@ -327,7 +400,7 @@ We’re here for one reason and one reason only – to cure cancer. Every moment
 
 ---
 
-## 22. [MAYBE] Kite Pharma | Research Associate, In Vivo Discovery
+## 24. [MAYBE] Kite Pharma | Research Associate, In Vivo Discovery
 - Link: https://gilead.wd1.myworkdayjobs.com/kitepharmacareers/job/United-States---Pennsylvania---Philadelphia/Research-Associate--In-Vivo-Discovery_R0056352
 - Location: United States - Pennsylvania - Philadelphia
 - Posted: Nov 03 (board gives the date only)
@@ -341,7 +414,7 @@ We’re here for one reason and one reason only – to cure cancer. Every moment
 
 ---
 
-## 23. [MAYBE] Avis Budget Group | Data Engineer / AI Engineer
+## 25. [MAYBE] Avis Budget Group | Data Engineer / AI Engineer
 - Link: https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Avis-Budget-House-HQ/Data-Engineer---AI-Engineer_R0191644
 - Location: Avis Budget House, HQ
 - Posted: Nov 03 (board gives the date only)
@@ -355,7 +428,7 @@ Job Title: Data Engineer / AI Engineer Location: Bracknell, minimum of 3 days in
 
 ---
 
-## 24. [MAYBE] Valsoft Corporation | AI Engineer - SAD con
+## 26. [MAYBE] Valsoft Corporation | AI Engineer - SAD con
 - Link: https://apply.workable.com/j/1DFDC9657B
 - Location: Beirut Beirut Governorate Lebanon
 - Posted: Nov 04 (board gives the date only)
@@ -369,7 +442,7 @@ Aspire Software is looking for a Senior Software Engineer to join our team in Le
 
 ---
 
-## 25. [MAYBE] Jade Global | AI Engineer
+## 27. [MAYBE] Jade Global | AI Engineer
 - Link: https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/AI-Engineer_R-106525-2
 - Location: 2 Locations
 - Posted: Nov 03 (board gives the date only)
@@ -383,7 +456,21 @@ AI Engineer1 We're building a self-service LoRA / full fine-tuning platform for 
 
 ---
 
-## 26. [MAYBE] The Hartford | Consultant Performance Analytics – General Liability
+## 28. [MAYBE] M&G | Data Scientist
+- Link: https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/Stirling/Data-Engineer--Databricks-_R19908
+- Location: 3 Locations
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~42 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 4 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: machine learning, python, spark, sql, data quality, healthcare, pipeline, risk, validation | Lacks: actuar, azure, databricks, scala
+
+### Job description
+
+At M&G, our purpose is to give everyone real confidence to put their money to work. With a heritage dating back more than 175 years, we have a long history of innovation in savings and investments, combining asset management and insurance expertise to offer a wide range of solutions. Our two distinct operating segments, Asset Management and Life, work together to provide access to balanced, long-term investment and savings solutions. Through telling it like it is, owning it now and moving it forward together with care and integrity; we are creating an exceptional place to work for exceptional talent. We will consider flexible working arrangements for any of our roles and offer workplace adjustments to ensure you have the support you need to succeed in your role. The Role: This role is responsible for designing, building, and optimising data solutions that enable reliable and efficient access to data for use in actuarial modelling and assumption setting. Operating at an Experienced Colleague level, the role provides specialist expertise in data science, ensuring scalable, high-quality data pipelines and processes are in place to support the use of policyholder data for actuarial modelling and assumption setting. They will use their technical depth, financial domain awareness and delivery experience to lead the design and build of data workflows, drive process reengineering and transformation as well as embed the surrounding controls required for audit and risk assurance. They will apply machine learning and advanced analytics where they add measurable value. They will work to high standards for documentation and development in the team enabling proactive identification of inefficiencies in existing processes. The role contributes to shaping standards and best practices, ensuring data is accessible, governed, and aligned with business priorities. They will, alongside their own delivery, guide and develop junior team members — reviewing their analysis and code, providing technical advice, coaching them on controls and documentation. The role contributes to the continuous improvement of data processes, ensuring accuracy, consistency, and clarity in outputs while working within defined guidelines. Communication of findings is clear, structured Key Responsibilities: Design, build, and maintain scalable data pipelines to validate and transform data to meet actuarial modelling needs. Ensure data quality, integrity, and consistency through robust validation, monitoring, and governance practices. Collaborate with stakeholders to understand data requirements and translate them into efficient and effective technical solutions. Optimise data systems and processes to improve performance, reliability, and scalability. Provide technical expertise and guidance on data science approaches, tools, and best practices. Support integration of multiple data sources to create cohesive, accessible, and trusted datasets. Contribute to the continuous improvement of data platforms, frameworks, and engineering standards. Key Knowledge, Skills and Experience: Strong expertise in data science techniques, including machine learning and their application in financial services. Proficiency in data tools, programming languages, and database technologies, in particular in Azure Databricks, Spark, Spark SQL and Python/pyspark. Understanding of data governance, security, and data quality management principles. Experience working with large, complex datasets and performing feature engineering and data preparation. Proven ability to translate business problems into data science solutions and deliver measurable outcomes. Strong problem-solving capability with a focus on accuracy and performance. Ability to communicate technical concepts clearly to both technical and non-technical audiences. Collaborative approach with the ability to influence decisions and guide others. Experience working in Financial Services or a similar heavily audited environment with an understanding of operating controls and producing audit evidence Essential Skills: Data pipeline development and optimisation Data modelling and architecture (in Azure Databricks) Programming and scripting for data processing (Spark, Spark SQL, Python, pyspark) Data science and machine learning Data governance and quality assurance Problem-solving and analytical thinking Stakeholder engagement and technical communication, including at design forums where relevant Continuous improvement and innovation Performance tuning and optimisation People management Recruiter: Hollie Doran Role Level: Experienced Colleague Location: Kildean, Edinburgh, Reading What we offer: We’re dedicated to supporting your wellbeing and helping you thrive, both at work and beyond. Our benefits are designed to help you balance your professional and personal life , and financially plan for the future. Our UK benefits include : A valuable pension scheme of up to 18% (13% made up of employer contributions and 5% employee contributions). Access to our Share Save and Share Incentive Plan, alongside financial wellbeing and support services to help give you real confidence to put your money to work. Enjoy 38 days annual leave (including bank holidays), with the opportunity to purchase up to five extra days. Our Time Off When You Need It policy gives you the flexibility - to balance work and personal commitments. Our market-leading Inspiring Families policy includes comprehensive support and paid parental leave covering maternity, adoption, surrogacy, and paternity leave - because supporting families is an important part of our inclusive culture. Health & Protection cover includes Private Healthcare, Critical Illness cover and Life Assurance for you, with additional family options - for peace of mind. To explore more about life at M&G and our full benefits offering, visit Life at M&G At M&G we strive to have a diverse workforce and an inclusive culture, underpinned by our policies and employee-led networks that offer networking, support and development opportunities for the diverse communities our colleagues represent. We welcome applications from people of all backgrounds – across gender, ethnicity, age, disability, sexual orientation and more – including neurodivergent individuals, career returners and those with military service experience. M&G is proud to be Level 3: Disability Confident Leader under the UK Government Disability Confident employer scheme, and we welcome applications from candidates with disabilities and long-term health conditions. If you would like to participate in the initiative, you will have the opportunity to indicate this on your application. We are committed to providing an inclusive recruitment process. All candidates have the opportunity to request reasonable adjustments when applying. If you need any additional support at any stage, please contact us at: careers@mandg.com
+
+---
+
+## 29. [MAYBE] The Hartford | Consultant Performance Analytics – General Liability
 - Link: https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/United-States---Remote/Consultant-Performance-Analytics---General-Liability_R2627627
 - Location: United States - Remote
 - Posted: Nov 03 (board gives the date only)
