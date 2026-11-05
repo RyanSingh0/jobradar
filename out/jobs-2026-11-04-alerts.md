@@ -5,3 +5,4 @@ Found in your LinkedIn/HiringCafe/Glassdoor/Indeed/Jobright alert emails but not
 | Source | Company | Title | Location | Link |
 |---|---|---|---|---|
 | linkedin | Flexcar | Risk Data Scientist | Boston, MA | https://www.linkedin.com/jobs/view/4486058494/ |
+| linkedin | Why Hiring | Jr. Data Scientist | United States | https://www.linkedin.com/jobs/view/4485073096/ |
