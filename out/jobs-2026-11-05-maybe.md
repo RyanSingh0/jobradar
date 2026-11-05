@@ -6,59 +6,73 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 |---|---|---|---|---|---|
 | 1 | American University | Career Outcomes Data Analyst | 75 | cap-exempt employer | Nov 04 (board gives the date only) |
 | 2 | Reddit | Business Analyst | 73 | 25 in data/analytics/finance occupations | Nov 05 11:15 ET |
-| 3 | Hitachi | Training & Development Analyst | 70 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 4 | Sia Partners | Generative AI Consultant  | 70 | 3 in data/analytics/finance occupations | Nov 05 14:08 ET |
-| 5 | HCSC | Analytics Consultant | 69 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 6 | ONEOK | Energy Management Systems Analyst | 68 | 2 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 7 | DXC Technology | Analista de Reporting (Power BI / Excel) | 67 | 12 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 8 | ALFA LAVAL | Business Improvement Analyst | 67 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 9 | Axle | Data Scientist, Medical Imaging | 67 | none found (check myvisajobs) | Nov 05 12:41 ET |
-| 10 | Adventist Health | Ambulatory Reimbursement Analyst | 67 | 18 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 11 | Dimensional Fund Advisors | Analyst, Portfolio Management (Equities) | 65 | 23 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 12 | Novanta | Demand Analyst [C] | 65 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 13 | TransUnion | Consulting Analyst - Argus Advisory | 65 | 66 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 14 | UTHealth Houston | Clinical Reporting Analyst - Intermediate | 64 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 15 | University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law | 62 | cap-exempt employer | Nov 04 (board gives the date only) |
-| 16 | Desjardins Group | Credit Risk Strategy Data Scientist | 59 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 17 | U.S. Bank | Trust Reporting Analyst -  Collateralized Loan Obligation (multiple levels) | 57 | 82 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 18 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 19 | Canadian Tire | Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 20 | 7-Eleven | Enterprise Technology Portfolio Analyst | 55 | 14 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 21 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 22 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 23 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 24 | BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG) | 54 | 12 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 25 | The Federal Reserve System | Product Analyst, Banking Operations | 54 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 26 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 27 | ARQ | Finance Analytics Engineer | FP&A | 52 | none found (check myvisajobs) | Nov 05 11:15 ET |
-| 28 | Toyota Research Institute | Research Scientist, Robotics Research | 52 | 2 in data/analytics/finance occupations | Nov 05 14:05 ET |
-| 29 | Arkansas Blue Cross | Data Analyst | 52 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 30 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 31 | CVS Health | Coordinator, Financial Reporting Analysis | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 32 | Oshkosh | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 33 | City of Philadelphia | Data Engineer-Integration Specialist | 50 | 6 in data/analytics/finance occupations | Nov 05 12:52 ET |
-| 34 | Texas A&M AgriLife Research | Research Assistant | 50 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 35 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 36 | DiDi Global | Machine Learning Engineer - Agentic AI | 50 | none found (check myvisajobs) | Nov 05 14:18 ET |
-| 37 | Texas A&M University - College Station | Research Scientist | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 38 | Texas A&M University System | Research Scientist | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 39 | Clera | Founding AI Engineer (Agents) | 50 | none found (check myvisajobs) | Nov 05 16:03 ET |
-| 40 | Citizens Financial Group | Third Party Risk Analyst | 50 | 54 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 41 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 42 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 43 | Nationwide Children's Hospital | Research Assistant NE | 45 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 44 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 45 | CNO Financial Group | CLO Portfolio Analyst - ONSITE Carmel, IN | 44 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 46 | Amazon | Data Engineer I, Secure Third Party Tools (S3T) | 44 | 3890 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 47 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 48 | Reddit | Machine Learning Engineer | 43 | 25 in data/analytics/finance occupations | Nov 05 11:13 ET |
-| 49 | Amazon | Applied Scientist , Fauna | 43 | 3890 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 50 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 51 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
-| 52 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
-| 53 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
-| 54 | PennState University | Part Time Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 55 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 3 | Auto Club Group | Accountant / Financial Analyst | 73 | 12 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 4 | Hitachi | Training & Development Analyst | 70 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 5 | Sia Partners | Generative AI Consultant  | 70 | 3 in data/analytics/finance occupations | Nov 05 14:08 ET |
+| 6 | Sezzle | Fraud Operations Analyst | 70 | 2 in data/analytics/finance occupations | Nov 05 17:07 ET |
+| 7 | HCSC | Analytics Consultant | 69 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 8 | ONEOK | Energy Management Systems Analyst | 68 | 2 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 9 | DXC Technology | Analista de Reporting (Power BI / Excel) | 67 | 12 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 10 | ALFA LAVAL | Business Improvement Analyst | 67 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 11 | Axle | Data Scientist, Medical Imaging | 67 | none found (check myvisajobs) | Nov 05 12:41 ET |
+| 12 | Adventist Health | Ambulatory Reimbursement Analyst | 67 | 18 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 13 | Dimensional Fund Advisors | Analyst, Portfolio Management (Equities) | 65 | 23 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 14 | Novanta | Demand Analyst [C] | 65 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 15 | TransUnion | Consulting Analyst - Argus Advisory | 65 | 66 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 16 | UTHealth Houston | Clinical Reporting Analyst - Intermediate | 64 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 17 | University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law | 62 | cap-exempt employer | Nov 04 (board gives the date only) |
+| 18 | Santander | Pre & Post Trade Middle Office Operations Analyst | 62 | 17 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 19 | Wood Mackenzie | Renewable Cost Analyst | 62 | 6 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 20 | Desjardins Group | Credit Risk Strategy Data Scientist | 59 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 21 | U.S. Bank | Trust Reporting Analyst -  Collateralized Loan Obligation (multiple levels) | 57 | 82 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 22 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 23 | Canadian Tire | Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 24 | 7-Eleven | Enterprise Technology Portfolio Analyst | 55 | 14 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 25 | Apex Fintech Solutions | Pricing & Revenue Strategy Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 26 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 27 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 28 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 29 | BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG) | 54 | 12 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 30 | The Federal Reserve System | Product Analyst, Banking Operations | 54 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 31 | Allina Health | Clinical Engineering Data Analyst | 54 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 32 | Bose | Audio AI Research Scientist — Audio Source Separation | 53 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 33 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 34 | ARQ | Finance Analytics Engineer | FP&A | 52 | none found (check myvisajobs) | Nov 05 11:15 ET |
+| 35 | Toyota Research Institute | Research Scientist, Robotics Research | 52 | 2 in data/analytics/finance occupations | Nov 05 14:05 ET |
+| 36 | Arkansas Blue Cross | Data Analyst | 52 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 37 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 38 | CVS Health | Coordinator, Financial Reporting Analysis | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 39 | Oshkosh | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 40 | City of Philadelphia | Data Engineer-Integration Specialist | 50 | 6 in data/analytics/finance occupations | Nov 05 12:52 ET |
+| 41 | Texas A&M AgriLife Research | Research Assistant | 50 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 42 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 43 | DiDi Global | Machine Learning Engineer - Agentic AI | 50 | none found (check myvisajobs) | Nov 05 14:18 ET |
+| 44 | Texas A&M University - College Station | Research Scientist | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 45 | Texas A&M University System | Research Scientist | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 46 | Clera | Founding AI Engineer (Agents) | 50 | none found (check myvisajobs) | Nov 05 16:03 ET |
+| 47 | Citizens Financial Group | Third Party Risk Analyst | 50 | 54 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 48 | Blue Cross and Blue Shield of Louisiana | Data Engineer (Louisiana) | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 49 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 50 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 51 | Nationwide Children's Hospital | Research Assistant NE | 45 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 52 | Regeneron Pharmaceuticals | Data Analyst, Quality Assurance | 45 | 42 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 53 | Sanford Health | Associate Business Intelligence (BI) Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 54 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 55 | CNO Financial Group | CLO Portfolio Analyst - ONSITE Carmel, IN | 44 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 56 | Amazon | Data Engineer I, Secure Third Party Tools (S3T) | 44 | 3890 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 57 | CareSource | Voice of the Customer Insights Analyst | 44 | 17 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 58 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 59 | Reddit | Machine Learning Engineer | 43 | 25 in data/analytics/finance occupations | Nov 05 11:13 ET |
+| 60 | Amazon | Applied Scientist , Fauna | 43 | 3890 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 61 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 62 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
+| 63 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
+| 64 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
+| 65 | PennState University | Part Time Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 66 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 67 | Woongjin | Logistic Pricing Analyst -Bilingual (Korean/ English) | 40 | none found (check myvisajobs) | Nov 05 17:34 ET |
+| 68 | Denver Health | Research Assistant - Hybrid | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 69 | Van Andel Institute | Research Scientist | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
 
 ---
 
@@ -90,7 +104,21 @@ Reddit is a community of communities. It’s built on shared interests, passion,
 
 ---
 
-## 3. [MAYBE] Hitachi | Training & Development Analyst
+## 3. [MAYBE] Auto Club Group | Accountant / Financial Analyst
+- Link: https://acg.wd1.myworkdayjobs.com/Careers/job/MI-Admin-Office-Building-AOB/Accountant---Financial-Analyst_JR18329-1
+- Location: MI-Admin Office Building (AOB)
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~73 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 12 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, excel, python, r, sql, statistic, tableau, reporting, research | Lacks: -  | Note: broad title
+
+### Job description
+
+Job Type: Full time Exempt/Non Exempt: Salary Job Description: Location Details: Remote Position Schedule / Shift: Monday – Friday, 8am – 5pm Position Summary: Prepares financial related analyses and research to support and facilitate timely management decisions and/or financial reports or statements. Performs tasks necessary to ensure data integrity within the financial systems. Analyzes and evaluates financial impact of various decisions or transactions on financial results. Interacts with other departments and management to provide timely follow-up to inquiries and requests for financial data. Interprets results and proves recommendations for appropriate action plans. Develops and maintains complex financial models. Prepares and presents written and oral reports/documents. Provides support for internal and external auditors by preparing schedules, responding to inquiries and implementing recommended changes. Coordinates, tests and documents system changes or upgrades. Represents finance on corporate teams and initiatives. Develops and maintains job documentation and procedures. Qualifications: Required Education: Bachelor’s degree in Business, Finance, Accounting or related field Experience: Experience to include: · Preparing financial reports · Using automated accounting and/or management reporting systems · Preparing, analyzing and interpreting financial data and/or statistical data · Use and development of workpapers, schedules models using various spreadsheet software such as excel Ability to: · Communicate effectively with others both orally and in writing · Research and analyze complex financial data · Analyze and problem solve · Organize and plan · Work independently · Participate on project teams · Work irregular or extended hours as required · Derive actionable conclusions from analyzing data and information Preferred Knowledge of: The Auto Club Group/AAA product and services Google Cloud Platform Data Studio, SQL, R, Python, DataRobot, Tableau Work Environment: This position works from a home office location. Depending on the role, some employees may be required to come into the office, at a minimum, for important departmental meetings or team building events. Compensation & Benefits Overview: ACG complies with all applicable state and local laws regarding required benefits (including PTO, paid sick leave, etc.). Compensation Accountant/Financial Analyst will earn a competitive salary of $59,134 - $80,000 annually with annual bonus potential based on performance. Benefits At ACG, we offer a comprehensive and flexible benefits package designed to support your health, financial well-being, and professional growth. Health & Wellness Medical plans with multiple coverage options, including HSA eligibility Prescription drug coverage Dental and vision benefits Employee Assistance Program (confidential support services) Financial Protection & Insurance Company-paid basic life insurance Optional supplemental life insurance and dependent coverage Short-term and long-term disability coverage Critical illness, accident, and pet insurance options Retirement & Savings 401(k) plan to support long-term financial goals. 3% automatic deferral upon eligibility; may contribute 1% to 50% of eligible earnings, either pre or post tax. Company match of 50% paid on employee contributions up to 6% of pay, payable to employees following the end of the year; immediate vesting. Additional company contribution of 4% of pay each pay day into your account; 100% vested after three (3) years of service Health Savings Account (HSA) and Flexible Spending Accounts (FSA) options Time Off & Leave Paid Time Off (PTO): Accrual-based, increases with tenure, eligible at 90 days of employment. Full-time new employees will receive up to 12 PTO days annually; accrual based on start date and may include additional PTO based on role and/or state & local requirements. Part-time employee PTO hours are calculated based upon the standard weekly hours the employee is scheduled to work and will accrue at a minimum of 3 hours per month Paid Holidays: Full-time employees are eligible for 10 company-paid holidays annually, in addition to 1 mental health day, 2 floating holidays and 1 volunteer day. Holidays vary by business unit schedules. Part-time employees are eligible for 8 company-paid holidays annually, in addition to 1 mental health day and 2 floating holidays. Holidays vary by business unit schedules Paid leave programs, including parental, bereavement, jury duty, and military leave Career Growth & Education Tuition assistance (up to $5,250 annually; 80% covered by ACG) Professional certification support with 100% reimbursement for eligible programs Opportunities for career development and advancement Additional Perks Complimentary AAA membership with roadside assistance and travel discounts Adoption assistance program Job Posting Period: This position is expected to remain posted through November 25, 2026; however, it may close at any time once a qualified candidate pool is identified. Who We Are Become a part of something bigger. The Auto Club Group (ACG) provides membership, travel, insurance, and financial service offerings to approximately 14+ million members and customers across 14 states and 2 U.S. territories through AAA, Meemic, and Fremont brands. ACG belongs to the national AAA federation and is the second largest AAA club in North America. By continuing to invest in more advanced technology, pursuing innovative products, and hiring a highly skilled workforce, AAA continues to build upon its heritage of providing quality service and helping our members enjoy life’s journey through insurance, travel, financial services, and roadside assistance. And when you join our team, one of the first things you’ll notice is that same, whole-hearted, enthusiastic advocacy for each other. We have positions available for every walk of life! AAA prides itself on creating an inclusive and welcoming environment of diverse backgrounds, experiences, and viewpoints, realizing our differences make us stronger. To learn more about AAA The Auto Club Group visit www.aaa.com Important Note: ACG’s Compensation philosophy is to provide a market-competitive structure of fair, equitable and performance-based pay to attract and retain excellent talent that will enable ACG to meet its short and long-term goals. ACG utilizes a geographic pay differential as part of the base salary compensation program. Pay ranges outlined in this posting are based on the various ranges within the geographic areas which ACG operates. Salary at time of offer is determined based on these and other factors as associated with the job and job level. The above statements describe the principal and essential functions, but not all functions that may be inherent in the job. This job requires the ability to perform duties contained in the job description for this position, including, but not limited to, the above requirements.
+
+---
+
+## 4. [MAYBE] Hitachi | Training & Development Analyst
 - Link: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jefferson-City-Missouri-United-States-of-America/Training---Development-Analyst_R0150712
 - Location: Jefferson City, Missouri, United States of America
 - Posted: Nov 04 (board gives the date only)
@@ -104,7 +132,7 @@ Location: Jefferson City, Missouri, United States of America Job ID: R0150712 Da
 
 ---
 
-## 4. [MAYBE] Sia Partners | Generative AI Consultant 
+## 5. [MAYBE] Sia Partners | Generative AI Consultant 
 - Link: https://jobs.smartrecruiters.com/Sia/744000159953609
 - Location: Charlotte NC us
 - Posted: Nov 05 14:08 ET
@@ -118,7 +146,21 @@ Join us as an experienced Generative AI Specialist designing and implementing cu
 
 ---
 
-## 5. [MAYBE] HCSC | Analytics Consultant
+## 6. [MAYBE] Sezzle | Fraud Operations Analyst
+- Link: https://job-boards.greenhouse.io/sezzle/jobs/8196898003
+- Location: Latin America
+- Posted: Nov 05 17:07 ET
+- Scanner fit: ~70 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, excel, llm, machine learning, python, r, sql, statistic, credit, fraud, quantitative, research, risk | Lacks: sas  | Note: broad title
+
+### Job description
+
+About the Role: Sezzle is seeking a Fraud Operations Analyst to support fraud monitoring. As part of optimizing the online shopping experience, Sezzle constantly monitors users and transactions for abusive or fraudulent behavior. Our Fraud Operations team reviews suspicious activity flagged by Sezzle’s fraud detection system or escalated from Customer Support agents. Fraud Operations Analysts will block users deemed fraudulent or risky, and clear false positive flags from our automated systems and support agents. We monitor for new trends in fraudulent behavior and continuously evolve our policies and procedures to stay one step ahead. We are looking for a teammate who can work one of the shifts listed below full-time: Monday - Friday between 3:00 PM - 11:30 PM Central Time. This will be a non-exempt/hourly position. Compensation: $2,000 USD per month. Our Company Sezzle is a cutting-edge fintech company whose long-standing mission is to financially empower the next generation. Only one in three millennials own a credit card, and the vast majority of millennials possess a subprime credit score or no score at all. To address these problems, Sezzle has built a payment platform that increases purchasing power for consumers by offering interest-free installment plans at online stores. This increase in purchasing power for consumers leads to increased sales and basket sizes for the numerous eCommerce merchants that currently work with Sezzle. As the first and only B-Corp in the payments space, Sezzle’s goal is to help everyone pursue financial freedom, and to invest in social good and ethical initiatives that shape a better world. At Sezzle, we’re committed to putting purpose alongside profitability. We work hard to maintain rigorous standards of social and environmental performance, accountability, and transparency to build a better world. The employees at Sezzle lean into significant societal and cultural shifts, ensuring internal and external focus on positive impacts that benefit our community. Responsibilities: Monitor real-time transactions and other customer behaviors flagged for fraud and abuse for manual review. Investigate individual transactions using internal policies and review methodologies to determine if the transactions are fraudulent or not. Understand our systems and tools; investigate account patterns through data analysis. Research fraud and user behavior to contribute to machine learning models, rules and other detection systems. Collaborate with analysts, operations specialists, data scientists and engineering to improve our fraud prevention mechanisms, processes and tools. Learn and maintain strong domain knowledge of the world of fraud including prevention techniques and technologies. Maintain or exceed established service level agreements (SLAs) for timely resolution of queued cases to minimize potential losses. Handle escalations from internal and external stakeholders in a professional and efficient manner. Ideal Skills &amp; Experience: Bachelor's degree from an accredited institution Minimum 1 year of experience in investigating and resolving fraud incidents Experienced in analyzing data and comfortable making impactful decisions in a fast-paced and sometimes ambiguous environment Attention to detail and ability to multitask Excellent problem-solving and analytical skills Strong business judgment and communication skills Ability to self-start and work with minimal supervision after training Able to work through holidays Minimum GPA of 3.5 out of 4.0 Demonstrated experience working with Claude or equivalent large language model tools is required; candidates must be comfortable leveraging AI to enhance productivity, research, and communication. Preferred Qualifications Work experience in fintech, payments, lending, banking, or financial institutions is a plus Degree in statistics, math, finance, economics, or related quantitative discipline; graduate degree a plus Experience in using database query language (e.g. SQL, etc), and data processing and analytics tools such as Python / R / SAS is a plus Ideal candidate will be available to start within two weeks following an offer About You: A+ character. We are team-first here at Sezzle. A hard-working mentality. It’s early and there is still a lot to build. An excellent communicator. A fun attitude. Life’s too short. We can have fun while we work hard on cool things. Smarts. We need people that are smart enough to make decisions on their own and also smart enough to know when they need input from others. What Makes Working at Sezzle Awesome? At Sezzle, we are more than just brilliant engineers, passionate data enthusiasts, out-of-the-box thinkers, and determined innovators; we are skilled musicians, yogis, cyclists, chefs, golfers, dog-lovers, and rock-climbers. We believe in surrounding ourselves with not only the best and the brightest individuals, but those that are unique and purpose-driven in all that they do. Sezzle recognizes and values the importance of diversity and inclusion in enriching the employment experience of its employees and in supporting our mission. Our culture is not defined by a certain set of perks designed to give the illusion of the traditional startup culture, but rather, it is the visible example living in every employee that we hire. Sezzle provides equal employment opportunities (
+
+---
+
+## 7. [MAYBE] HCSC | Analytics Consultant
 - Link: https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TN---Nashville/Analytics-Consultant_R0055195-1
 - Location: 6 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -132,7 +174,7 @@ At HCSC, our employees are the cornerstone of our business and the foundation to
 
 ---
 
-## 6. [MAYBE] ONEOK | Energy Management Systems Analyst
+## 8. [MAYBE] ONEOK | Energy Management Systems Analyst
 - Link: https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Tulsa-OK/Energy-Management-Systems-Analyst_R9120
 - Location: Tulsa, OK
 - Posted: Nov 05 (board gives the date only)
@@ -146,7 +188,7 @@ At HCSC, our employees are the cornerstone of our business and the foundation to
 
 ---
 
-## 7. [MAYBE] DXC Technology | Analista de Reporting (Power BI / Excel)
+## 9. [MAYBE] DXC Technology | Analista de Reporting (Power BI / Excel)
 - Link: https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESP---MD---LAS-ROZAS/Analista-de-Reporting--Power-BI---Excel-_51586705
 - Location: ESP - MD - LAS ROZAS
 - Posted: Nov 04 (board gives the date only)
@@ -160,7 +202,7 @@ Job Description: DXC ayuda a empresas globales a ejecutar sus sistemas y operaci
 
 ---
 
-## 8. [MAYBE] ALFA LAVAL | Business Improvement Analyst
+## 10. [MAYBE] ALFA LAVAL | Business Improvement Analyst
 - Link: https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Scarborough-ON/Business-Improvement-Analyst_JR0049438-1
 - Location: 2 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -174,7 +216,7 @@ At Alfa Laval, we always go that extra mile to overcome the toughest challenges.
 
 ---
 
-## 9. [MAYBE] Axle | Data Scientist, Medical Imaging
+## 11. [MAYBE] Axle | Data Scientist, Medical Imaging
 - Link: https://job-boards.greenhouse.io/axle/jobs/5286265007
 - Location: Remote
 - Posted: Nov 05 12:41 ET
@@ -188,7 +230,7 @@ At Alfa Laval, we always go that extra mile to overcome the toughest challenges.
 
 ---
 
-## 10. [MAYBE] Adventist Health | Ambulatory Reimbursement Analyst
+## 12. [MAYBE] Adventist Health | Ambulatory Reimbursement Analyst
 - Link: https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73267
 - Location: Roseville, CA, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -202,7 +244,7 @@ Located in the metropolitan area of Sacramento, the Adventist Health corporate h
 
 ---
 
-## 11. [MAYBE] Dimensional Fund Advisors | Analyst, Portfolio Management (Equities)
+## 13. [MAYBE] Dimensional Fund Advisors | Analyst, Portfolio Management (Equities)
 - Link: https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Analyst--Portfolio-Management--Equities-_2026-9050
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -216,7 +258,7 @@ Job Description: Portfolio Management is responsible for the daily oversight and
 
 ---
 
-## 12. [MAYBE] Novanta | Demand Analyst [C]
+## 14. [MAYBE] Novanta | Demand Analyst [C]
 - Link: https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/North-Syracuse-NY/Demand-Analyst--C-_R009898
 - Location: North Syracuse, NY
 - Posted: Nov 05 (board gives the date only)
@@ -230,7 +272,7 @@ Build a career powered by innovations that matter! At Novanta, our innovations p
 
 ---
 
-## 13. [MAYBE] TransUnion | Consulting Analyst - Argus Advisory
+## 15. [MAYBE] TransUnion | Consulting Analyst - Argus Advisory
 - Link: https://transunion.wd5.myworkdayjobs.com/TransUnion/job/White-Plains-New-York/Consulting-Analyst---Argus-Advisory_19042954
 - Location: White Plains, New York
 - Posted: Nov 05 (board gives the date only)
@@ -244,7 +286,7 @@ TransUnion's Job Applicant Privacy Notice Personal Information We Collect Your P
 
 ---
 
-## 14. [MAYBE] UTHealth Houston | Clinical Reporting Analyst - Intermediate
+## 16. [MAYBE] UTHealth Houston | Clinical Reporting Analyst - Intermediate
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8405
 - Location: San Antonio, TX, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -258,7 +300,7 @@ Under supervision, the Clinical Reporting Analyst-Associate will collaborate wit
 
 ---
 
-## 15. [MAYBE] University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law
+## 17. [MAYBE] University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law
 - Link: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Professional-Development-Program-Coordinator--Center-for-Women-in-Law_R_00049852
 - Location: UT MAIN CAMPUS
 - Posted: Nov 04 (board gives the date only)
@@ -272,7 +314,35 @@ Job Posting Title: Professional Development Program Coordinator, Center for Wome
 
 ---
 
-## 16. [MAYBE] Desjardins Group | Credit Risk Strategy Data Scientist
+## 18. [MAYBE] Santander | Pre & Post Trade Middle Office Operations Analyst
+- Link: https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami-Worldcenter/Pre---Post-Trade-Middle-Office-Operations-Analyst_Req1632385
+- Location: Miami Worldcenter
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 17 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: excel, llm, python, derivatives, git, research, risk | Lacks: -  | Note: broad title
+
+### Job description
+
+Pre & Post Trade Middle Office Operations Analyst Country: United States of America It Starts With You: Santander is a global leader and innovator in the financial services industry and is evolving from a high-impact brand into a technology-driven organization. Our people are at the heart of this journey and together, we are driving a customer-centric transformation that values bold thinking, innovation, and the courage to challenge what’s possible. This is more than a strategic shift. It’s a chance for driven professionals to grow, learn, and make a real difference. If you are interested in exploring the possibilities We Want to Talk to You! The Corporate Investment Banking Analyst, Middle Office Operations Analyst supports a broad range of markets activities across assigned products and business areas, ensuring the accurate and efficient delivery of services to the Bank’s clients. In addition to core operational responsibilities, this role actively contributes to the transformation of operations through data-driven insights and the adoption of automation and AI-based solutions. The Analyst plays a key role in maintaining strong relationships with internal stakeholders and, where applicable, external clients, contributing to a high standard of service delivery. Performs a variety of complex, operational tasks to support team objectives Investigates and resolves issues, determining appropriate corrective actions Conducts detailed research to resolve discrepancies Operate in a fast-paced multicultural environment Contributes to continuous improvement by identifying opportunities to enhance workflows, policies, and operational processes Leverages data analysis, automation tools, and AI technologies to improve efficiency and reduce manual effort Participates in implementing process improvements and operational changes What You Bring: To perform this role successfully, the candidate must demonstrate the ability to execute core responsibilities effectively while bringing a mindset focused on innovation and continuous improvement. The qualifications below represent the required knowledge, skills, and experience. Bachelor’s degree in business, Finance, Economics, Engineering, Data Science, or a related field, or equivalent work experience – Required 0+ years of experience in financial services, or a data/analytics-focused role within banking – Required Experience with Capital Markets Middle Office and Operations processes Working knowledge of financial markets and commercial banking products Experience with Murex, MarkitWire, and other marketplace applications Experience with equity derivatives product support would be a plus Strong analytical mindset with the ability to translate data into actionable insights Proficiency in Python for data analysis, automation, and workflow optimization would be a plus Hands-on experience with OpenAI tools or similar AI/LLM technologies, with the ability to apply them to real business use cases Interest and experience in process automation, digitization, and operational efficiency initiatives Ability to review and interpret financial documentation Excellent communication skills, with the ability to explain complex concepts to non-technical stakeholders Strong organizational skills and attention to detail Proficiency in Microsoft Office Suite (Excel, PowerPoint, Word) Ability to manage multiple priorities and meet deadlines in a fast-paced environment Demonstrated ability to adapt quickly and collaborate effectively within a team Certifications: No Certifications listed for this job. It Would Be Nice For You To Have: Established work history or equivalent demonstrated through a combination of work experience, training, military service, or education. Work Authorization & Sponsorship: Applicants must be legally authorized to work in the United States on a full-time basis without requiring employer sponsorship to commence employment. This is a hybrid (3 days/week in office) position in our Miami office What Else You Need To Know: The base pay range for this position is posted below and represents the annualized salary range. For hourly positions (non-exempt), the annual range is based on a 40-hour work week. The exact compensation may vary based on skills, experience, training, licensure and certifications and location. Base Pay Range: Minimum: $80,000.00 USD Maximum: $105,000.00 USD We Value Your Impact: Your contribution matters and it’s recognized. You can expect a fair and competitive rewards package that reflects the impact you create and the value you deliver. We know rewards go beyond numbers. Offering more than just a paycheck our benefits are designed to support you, your family and your well-being, now and into the future. Santander Benefits - 2026 Santander OnGoing/NH eGuide (foleon.com) Risk Culture: We embrace a strong risk culture and all of our professionals at all levels are expected to take a proactive and responsible approach toward risk management.
+
+---
+
+## 19. [MAYBE] Wood Mackenzie | Renewable Cost Analyst
+- Link: https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Renewable-Cost-Analyst_JR3417
+- Location: Boston, US
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 6 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: etl, excel, python, r, sql, statistic, pipeline, research, risk | Lacks: scala  | Note: broad title
+
+### Job description
+
+Wood Mackenzie is the global leader in analytics, insights and proprietary data across the entire energy and natural resources landscape. For over 50 years our work has guided the decisions of the world’s most influential energy producers, utilities companies, financial institutions and governments. Now, with the world’s energy system more complex and interconnected than ever before, sector-specific views are no longer enough. That’s why we’ve redefined what’s possible with Intelligence Connected. By fusing our unparalleled proprietary data with the sharpest analytical minds, all supercharged by Synoptic AI, we deliver a clear, interconnected view of the entire value chain. Our trusted team of 2,700 experts across 30 countries breaks siloes and connects industries, markets and regions across the globe. This empowers our customers to identify risk sooner, spot opportunities faster and recalibrate strategy with confidence – whether planning days, weeks, months or decades ahead. Wood Mackenzie Intelligence Connected WoodMac.com Wood Mackenzie Brand Video Wood Mackenzie Values Inclusive – we succeed together Trusting – we choose to trust each other Customer committed – we put customers at the heart of our decisions Future Focused – we accelerate change Curious – we turn knowledge into action Role Purpose Join our Supply Chain team where your analysis directly impacts decisions in the global energy sector. Our team is responsible for developing and managing cutting-edge market intelligence solutions, delivered through our comprehensive suite of software-as-a-service products, and our clients primarily leverage these insights for strategic planning, investment decision making, cost reduction, and risk management in the energy industry. For this role, we are seeking a talented and versatile renewable cost analyst to support the development, expansion, and enhancement of Wood Mackenzie’s Renewable Asset Cost Modelling (RACM) Solution Suite. You’ll work with a global team and own our renewable system pricing analysis. This role requires subject matter expertise, analytical thinking, and advanced data analysis skills to drive innovation and deliver value to our clients in the renewable sector. Working with product development, research, consulting, sales, and customer success teams, you'll build a powerful network while transforming complex market data into actionable insights that shape strategy for the renewable industry. Main Responsibilities Serve as a subject matter expert on renewable costs to clients. Respond to client inquiries, providing customized solutions, and demonstrating RACM’s value throughout pre- and post-sales interactions. Analyze and understand ongoing market events influencing capital and O&M costs for renewable assets. For example, how are new tariffs going to impact costs in the US? Work with Wood Mackenzie researchers across the globe to ensure costs published through research flow into RACM. Collect, clean, and analyze proprietary datasets to build, refine, and expand renewable data within the RACM product line. Develop and implement efficient data pipelines and workflows to optimize data ingestion, transformation, and integration processes. Perform rigorous quality assurance testing to ensure the accuracy and reliability of new features prior to release. Deploy AI to automate complex data workflows. Collaborate with engineering, product, and research teams to advance the functionality, scalability, and innovation of the RACM product line, driving the delivery of new features and capabilities. Contribute to market reports on renewable system costs and technology trends. About You Bachelor’s degree in Data Science, Statistics, Economics, Engineering or a related field. Experience in the renewables industry, focused on costs and supply chains. Experience in the O&M space is a plus. A strong understanding of renewable systems and major cost components. Genuine interest in and knowledge of the renewable industry and energy transition. Strong expertise in data collection, cleansing, and analysis, with a proven ability to build and enhance data-driven products. Advanced in Microsoft Excel, Python, R, SQL, and AI assistants. Demonstrated success in collaborating with cross-functional teams to deliver innovative, high-impact solutions. Exceptional communication and interpersonal skills, with the ability to clearly translate complex technical concepts for diverse audiences. Proactive problem solver with excellent organizational and critical-thinking abilities. Experience in designing and implementing data pipelines and ETL workflows is a plus. Equal Opportunities
+
+---
+
+## 20. [MAYBE] Desjardins Group | Credit Risk Strategy Data Scientist
 - Link: https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Scientifique-de-donnes--Stratgies-risque-de-crdit_R2613542-1
 - Location: Montréal
 - Posted: Nov 05 (board gives the date only)
@@ -286,7 +356,7 @@ The Credit Risk Strategy Department develops and implements credit risk decision
 
 ---
 
-## 17. [MAYBE] U.S. Bank | Trust Reporting Analyst -  Collateralized Loan Obligation (multiple levels)
+## 21. [MAYBE] U.S. Bank | Trust Reporting Analyst -  Collateralized Loan Obligation (multiple levels)
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/CLO-Trust-Reporting-Analyst_2026-0021708
 - Location: Chicago, IL
 - Posted: Nov 05 (board gives the date only)
@@ -300,7 +370,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 18. [MAYBE] Manulife Financial | Data Analyst / Business Analyst
+## 22. [MAYBE] Manulife Financial | Data Analyst / Business Analyst
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Data-Analyst---Business-Analyst_JR26101524
 - Location: Quezon City
 - Posted: Nov 04 (board gives the date only)
@@ -314,7 +384,7 @@ Overview: We are seeking a business-facing technical Data Analyst to translate G
 
 ---
 
-## 19. [MAYBE] Canadian Tire | Data Analyst
+## 23. [MAYBE] Canadian Tire | Data Analyst
 - Link: https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Laval-QC/Data-Analyst_JR166738
 - Location: Laval, QC
 - Posted: Nov 04 (board gives the date only)
@@ -328,7 +398,7 @@ Joining the Canadian Tire team in the FGL Sports division, you will be working a
 
 ---
 
-## 20. [MAYBE] 7-Eleven | Enterprise Technology Portfolio Analyst
+## 24. [MAYBE] 7-Eleven | Enterprise Technology Portfolio Analyst
 - Link: https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Enterprise-Technology-Portfolio-Analyst_R26_6353
 - Location: see posting
 - Posted: Nov 05 (board gives the date only)
@@ -342,7 +412,21 @@ Joining the Canadian Tire team in the FGL Sports division, you will be working a
 
 ---
 
-## 21. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
+## 25. [MAYBE] Apex Fintech Solutions | Pricing & Revenue Strategy Analyst
+- Link: https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Pricing---Revenue-Strategy-Analyst_JR105403
+- Location: Austin, TX
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, forecast, statistic, git, healthcare, pipeline, quantitative, reporting | Lacks: salesforce  | Note: no H-1B filings found for this employer
+
+### Job description
+
+WHO WE ARE Apex Fintech Solutions (Apex) powers innovation and the future of digital wealth management by building tech-forward solutions that help simplify, automate, and facilitate access to financial markets for all. Our robust suite of fintech software enables us to support clients such as Stash, Betterment, SoFi, Webull, and eToro, amongst many others; collectively, Apex powers access to the stock market for over 22+ million end customers. At Apex, we are changing how the securities industry operates by reinventing the status quo, which was manual, slow, and accessible only by the ultra-wealthy. We're digitizing and democratizing systems so that everyone has an opportunity to invest. When you're at Apex, you drive this change. You're part of a global team with a clear vision: to be the trusted technology that powers the digital economy. Our offices in Austin, Dallas, Chicago, New York, Portland, Belfast, and Manila are home to over 1,000 employees. Together, we’re shaping the future of financial innovation. Embrace change. Solve big. Win together. And be G.R.E.A.T. — grit, results, empathy, accountability, and teamwork — with Apex. We’re proud to be recognized for the innovative work we do, the purpose-driven nature of our work, and the collaborative culture we’ve created. Here are just a few of the many awards we’ve recently received: Best Places to Work 2026, 2025, 2024, 2023 - Presented by BuiltIn WealthTech of the Year 2025 - Presented by US FinTech Awards The World’s Top 250 Fintech Companies 2024 - Presented by CNBC ABOUT THIS ROLE Job Summary: As a Pricing & Revenue Strategy Analyst (Deal Desk) , you will play a key role in shaping pricing strategy, structuring client deals, and analyzing client contracts and financial forecasts to guide strategic pricing decisions and to enhance pricing and quoting operations across the company. You will engage with multiple areas of the business, providing reporting, analysis, and insights that support data-driven decision-making and business growth. Your ability to be creative, collaborate, and drive projects forward will be crucial to your success. Key Responsibilities: Pricing Strategy: Help develop and recommend pricing structures (fee schedules, tiers, discounts) for new and renewal deals, weighing competitiveness against revenue and profitability. Financial Modeling: Support the development of creative pricing arrangements, financial models, and budgets to align with firm revenue and profitability initiatives and strategic goals. Proposal Creation: Assist in responding to various requests for proposals specific to pricing strategies; understand profitability drivers and leverage to then prepare pricing quotes and contractual proposals. Insight Presentation: Monitor and evaluate pricing performance metrics and provide actionable recommendations for improvement, presenting findings to Sales and leadership. DealHub Management: Help manage and administer DealHub, our CPQ (configure, price, quote) tool; support long-term product enhancements for addition of new products, pricing schemas, and business lines. Data Analysis: Pull and analyze data (e.g., AUM, balances, revenue, and comps) to size opportunities and support deal analysis. Data Integrity: Ensure accuracy and consistency across all data and reports, specifically pipeline revenue reporting and expected opportunity sizing; implementing best practices in data management and usage. Continuous Improvement: Proactively seek opportunities to optimize pricing strategies for both Apex and our clients. Cross-functional Collaboration: Develop effective relationships with key stakeholders across the firm (e.g., Sales, Relationship Management, Legal, Operations, and Finance). Knowledge, Skills, and Abilities: Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy. Strong understanding of pricing strategy and unit economics, with the ability to structure pricing options and explain the trade-offs to stakeholders. Proven ability to manage multiple projects simultaneously and meet tight deadlines. Advanced proficiency in spreadsheet applications (e.g., Excel) is required; CPQ (e.g., DealHub) experience is a plus. Excellent verbal and written communication skills. Strong interpersonal skills with the ability to work collaboratively in a team-oriented environment Education and Experience: Bachelor’s degree in Business, Finance, Economics, Mathematics, Statistics, or a related quantitative field (or equivalent work experience) required. 2+ years of experience in pricing strategy, revenue modeling, or a similar role in fintech, SaaS, or other fast-paced industries. Proven experience in business analysis or a similar role, with a track record of manipulating, analyzing, curating, and reporting data. Preferred Qualifications: Experience leveraging AI tools (e.g., Claude) for innovation, automation, and enhanced financial analysis Experience with Salesforce and/or a CPQ tool (e.g., DealHub) Familiarity with brokerage, clearing, or custody economicsJob Summary: ​ Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties, or responsibilities required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice. Our Rewards We offer a robust package of employee perks and benefits, including healthcare benefits (medical, dental and vision, EAP), competitive PTO, 401k match, parental leave, and HSA contribution match. We also provide our employees with a paid subscription to the Calm app and offer generous external learning and tuition reimbursement benefits. At AFS, we offer a hybrid work schedule for most roles that allows employees to have the flexibility of working from home and one of our primary offices.
+
+---
+
+## 26. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644686
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -356,7 +440,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 22. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
+## 27. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644676
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -370,7 +454,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 23. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
+## 28. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
 - Link: https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Investment-Treasury-Portfolio-Analyst_R95096-1
 - Location: Boston, MA, United States
 - Posted: Nov 04 (board gives the date only)
@@ -384,7 +468,7 @@ About Us Wellington Management offers comprehensive investment management capabi
 
 ---
 
-## 24. [MAYBE] BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG)
+## 29. [MAYBE] BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG)
 - Link: https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Analytics-Specialist--Associate--Portfolio-Analytics-Group--PAG-_R266280
 - Location: New York, NY
 - Posted: Nov 05 (board gives the date only)
@@ -398,7 +482,7 @@ About this role About the Portfolio Analytics Group (PAG): Join the Portfolio An
 
 ---
 
-## 25. [MAYBE] The Federal Reserve System | Product Analyst, Banking Operations
+## 30. [MAYBE] The Federal Reserve System | Product Analyst, Banking Operations
 - Link: https://rb.wd5.myworkdayjobs.com/FRS/job/New-York-NY/Product-Analyst--Banking-Operations_R-0000033993
 - Location: 2 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -412,7 +496,35 @@ Company Federal Reserve Bank of New York When you work at the New York Fed, you 
 
 ---
 
-## 26. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
+## 31. [MAYBE] Allina Health | Clinical Engineering Data Analyst
+- Link: https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Clinical-Engineering-Data-Analyst_R-0076032-1
+- Location: Allina Commons
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: statistic, healthcare, publication, quantitative, research, risk | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Location Address: 2925 Chicago Ave&#xa;Loading Dock&#xa;Minneapolis, MN 55407-1321&#xa; Date Posted: November 04, 2026 Department: 74000670 Clinical Engineering Services Management Shift: Day (United States of America) Shift Length: 8 hour shift Hours Per Week: 40 Union Contract: Non-Union-NCT Weekend Rotation: None Job Summary: Allina Health is a not-for-profit health system that cares for individuals, families and communities throughout Minnesota and western Wisconsin. If you value putting patients first, consider a career at Allina Health. Our mission is to provide exceptional care as we prevent illness, restore health and provide comfort to all who entrust us with their care. This includes you and your loved ones. We are committed to providing whole person care, investing in your well-being, and enriching your career. Key Position Details: Experience with procurement and supply chain processes preferred. Knowledge of inventory management practices and inventory control systems preferred. Strong analytical and problem-solving abilities. Ability to assist, train, and support users in the accurate entry and maintenance of data within databases and business systems. Candidates must be located within commuting distance of the Allina Commons (Minneapolis, MN) Hybrid Position 8 Hour Day Shift No Weekends Job Description: Supports a variety of data analysis, project management, and quality analysis activities to improve the clinical quality, measurement strategy, and operational efficiency. Consults with administrative leaders, physician leaders, and staff to provide direction regarding quality, safety, performance improvement, and regulatory activities. Principle Responsibilities Project Management Serves as the subject matter expert for data analytics and quality measurement, guiding teams on best practices and ensuring alignment with organizational standards. Convenes and coordinates regular research and measurement stakeholder meetings. Catalogs research and measurement outputs. Provides support for the maintenance of the internal and external research websites and multi-media strategy for dissemination of research and quality analysis results. Coordinates ad hoc scientific or data-related projects. Participates in recurring quality, clinical, and operations meetings. Provides technical and educational support to users of data analytics tools, documentation and processes. Quality Analysis Collaborates in developing appropriate analytic strategies for quality analysis and assists in identifying data issues relevant to interpretation this may include patient chart reviews to validate measure inclusion/exclusion criteria and ensure data accuracy. Serves as a consultant for interpretation of quality analysis and provides recommendations on approaches to measurement. Participates in program evaluation for the business unit. Data Analysis Serves as a knowledgeable resource in key organizational initiatives and applications, ensuring teams maximize the value of these tools (e.g. Vizient, USWNR, Riskonnect, PSO, Epic). Utilizes statistical software to extract and prep data and conduct analysis. Directs and contributes to data abstraction and collection and summarizes and interprets. Conducts literature reviews to identify gaps in available evidence and prepares interpretive summaries. Contributes to development of study design, methods, and data collection approaches as well as grant applications. Other duties as assigned. Required Qualifications Bachelor's degree in information technology, health informatics, public health, epidemiology, program evaluation, or related healthcare or scientific discipline 2 to 5 years professional or clinical experience Experience with quantitative data analysis, familiarity with data collection and electronic health record tools Preferred Qualifications Master's degree in information technology, health informatics, public health, epidemiology, program evaluation, or related healthcare or scientific discipline Well-developed medical writing skills, experience serving as lead author of peer-reviewed publications Physical Demands Sedentary: Lifting weight up to 10 lbs. occasionally, negligible weight frequently Pay Range Pay Range: $32.92 to $45.12 per hour The pay described reflects the base hiring pay range. Your starting rate would depend on a variety of factors including, but not limited to, your experience, education, and the union agreement (if applicable). Shift, weekend and/or other differentials may be available to increase your pay rate for certain shifts or work. Allina Health is committed to adhering with all applicable local, state and federal minimum wage requirements. Benefit Summary Allina Health believes the best way to provide safe and compassionate care for our patients is by nurturing the passion of those who care for them. That’s why we devote extraordinary resources to help you grow and thrive — not only as a professional but also as a whole person. When you join our team, you have access to a wealth of valuable employee benefits that support the total well-being — mind, body, spirit and community — of you and your family members. Allina Health is all in on your well-being. Because well-being means something different to everyone, our award-winning program provides you with the resources you need to help you navigate your personal journey. This includes well-being dollars, dedicated well-being navigators, and many programs, activities, articles, videos, personal coaching and tools to support you on your journey. We are focused on creating an inclusive workplace so everyone can see themselves as part of our care team. Our care teams are as diverse as the communities we serve and proud to be contributing to the mission of a leading health care organization. Our pioneering approach to well-being helps every member of our care team feel a deep sense of connection and joy in their work. Benefits include: Medical/Dental PTO/Time Away Retirement Savings Plans Life Insurance Short-term/Long-term Disability Voluntary Benefits (vision, legal, critical illness) Tuition Reimbursement or Continuing Medical Education as applicable Student Loan Support Benefits to navigate the Federal Public Service Loan Forgiveness Program Allina Health is a 501(c)(3) eligible employer *Benefit eligibility/offerings are determined by FTE and if you are represented by a union.
+
+---
+
+## 32. [MAYBE] Bose | Audio AI Research Scientist — Audio Source Separation
+- Link: https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-AI-Research-Scientist---Audio-Source-Separation_R29335
+- Location: 13 Locations
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~53 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, machine learning, python, pytorch, publication, research | Lacks: c++
+
+### Job description
+
+At Bose Corporation, we believe sound is the most powerful force on earth — and for over 60 years, we have been a company built on innovation, excellence, and independence. Privately owned, fiercely customer-focused, and driven by our values, we continue to lead industries and transform lives through sound. Today, Bose Corporation is entering an exciting new era. Across multiple global Business Units and Global Functions, we are shaping the future of audio technology, automotive, luxury, and premium experiences. We invite you to join us in this transformation. Job Description Research Scientist — Audio Source Separation Description The goal of our team is to develop novel AI-powered audio processing algorithms. The twist is that our algorithms must run in real time, on physical devices, for applications such as dynamic awareness, hearing augmentation, agentic perception, voice pickup, content enhancement, and ones we haven’t even thought of yet. You will work with experts in ML, DSP, software engineering, and psychoacoustics to prototype and implement new algorithms. You will develop next-generation algorithms that isolate, extract, or suppress individual sound sources from microphone recordings, sometimes augmented by other sensor signals. Applications include voice pickup, hearing augmentation, and new audio experiences that must ultimately run in real time on physical devices. Bose has a strong history of combining creative thinking with cutting-edge audio technology. We are looking for people passionate about machine learning and audio to help shape what comes next. Responsibilities · Research, prototype, train, and evaluate novel source separation and extraction algorithms for speech and other real-world sounds. · Develop approaches for single- and multi-microphone recordings, including spatial cues and optional auxiliary sensors. · Investigate robust separation in challenging conditions such as overlapping talkers, noise, reverberation, and motion. · Evaluate perceptual quality, separation performance, generalization, latency, memory, and computational requirements. · Collaborate with DSP and embedded software teams to deploy models in real-time demonstrations and product platforms; contribute to patents and conference papers. Education Graduate degree (MS or PhD) in machine learning, electrical engineering, computer science, or a related field, or equivalent research experience. Skills · Deep hands-on experience in audio source separation, target sound extraction, speech enhancement, or related neural audio processing. · Comfortable tackling complex, open-ended problems where you have to experiment with and discard many ideas before finding the right solution. · Strong knowledge of audio DSP, time-frequency methods, and microphone array or spatial signal processing. · Experience training and evaluating audio models in PyTorch; proficiency in Python and familiarity with C/C++ is a plus. · Understanding of objective and perceptual evaluation methods and the tradeoffs involved in real-time low-power inference. · Experience with multimodal or sensor-conditioned separation, ONNX/TFLite, or embedded deployment is a plus. · Strong communication skills; publications at conferences such as ICASSP, Interspeech, NeurIPS, or similar are welcome but not required. At Bose, you're inspired to be and do your best and are rewarded for your unique talents! Our compensation is thoughtfully tailored to your skills, experience, education, and location, and goes beyond base salary. The hiring range for this position in the primary work location of Framingham, Massachusetts is: $165,400-$227,500.The hiring range for other Bose work locations may vary.&#xa;&#xa;In addition to competitive base pay we offer rewards including bonus programs, comprehensive health and welfare benefits, a 401(k) plan, plus exclusive perks designed to support your wellbeing, and a generous employee discount where you can immerse yourself in our products and experiences. We are a proudly independent company—driven by purpose, guided by our values, and united by a belief in the power of sound. As the world leader in audio experiences, we’re creating what’s next—pushing boundaries and delivering transformative sound experiences for people everywhere. Join us and make your next career move a mic-drop. Let’s Make Waves. ‎
+
+---
+
+## 33. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
 - Link: https://centrica.wd3.myworkdayjobs.com/Centrica/job/Leicester/Business-Intelligence---Reporting-Analyst-_R0090515-1
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -426,7 +538,7 @@ Join us, be part of more. We’re so much more than an energy company. We’re a
 
 ---
 
-## 27. [MAYBE] ARQ | Finance Analytics Engineer | FP&A
+## 34. [MAYBE] ARQ | Finance Analytics Engineer | FP&A
 - Link: https://jobs.ashbyhq.com/arq/a913e0d4-919b-4008-b7c4-9f964c496547
 - Location: London United Kingdom remote
 - Posted: Nov 05 11:15 ET
@@ -524,7 +636,7 @@ BENEFITS
 
 ---
 
-## 28. [MAYBE] Toyota Research Institute | Research Scientist, Robotics Research
+## 35. [MAYBE] Toyota Research Institute | Research Scientist, Robotics Research
 - Link: https://jobs.lever.co/tri/6afc7585-a464-4c41-93a2-96d15962f325
 - Location: Cambridge, MA Cambridge, MA US
 - Posted: Nov 05 14:05 ET
@@ -558,7 +670,7 @@ It is unlawful in Massachusetts to require or administer a lie detector test as 
 
 ---
 
-## 29. [MAYBE] Arkansas Blue Cross | Data Analyst
+## 36. [MAYBE] Arkansas Blue Cross | Data Analyst
 - Link: https://arkbluecross.wd1.myworkdayjobs.com/abcbs_external_careers/job/Little-Rock-AR/Data-Analyst_R0013656
 - Location: Little Rock, AR
 - Posted: Nov 05 (board gives the date only)
@@ -572,7 +684,7 @@ To learn more about Arkansas Blue Cross and Blue Shield Hiring Policies, please 
 
 ---
 
-## 30. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
+## 37. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
 - Link: https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Financial-Reporting-Analyst---Capital-Access-Platforms_R0027263
 - Location: USA - New York City - New York
 - Posted: Nov 04 (board gives the date only)
@@ -586,7 +698,7 @@ Nasdaq is seeking a highly motivated Financial Reporting Analyst to join the Div
 
 ---
 
-## 31. [MAYBE] CVS Health | Coordinator, Financial Reporting Analysis
+## 38. [MAYBE] CVS Health | Coordinator, Financial Reporting Analysis
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Work-from-hom/Coordinator--Financial-Reporting-Analysis_R1080792
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -600,7 +712,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 32. [MAYBE] Oshkosh | Data Engineer
+## 39. [MAYBE] Oshkosh | Data Engineer
 - Link: https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Data-Engineer_R51538-1
 - Location: 2 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -614,7 +726,7 @@ About JLG, an Oshkosh company JLG began in 1969, when our founder, John L. Grove
 
 ---
 
-## 33. [MAYBE] City of Philadelphia | Data Engineer-Integration Specialist
+## 40. [MAYBE] City of Philadelphia | Data Engineer-Integration Specialist
 - Link: https://jobs.smartrecruiters.com/CityofPhiladelphia/744000159941284
 - Location: Philadelphia PA us
 - Posted: Nov 05 12:52 ET
@@ -628,7 +740,7 @@ Data Engineering at the City is a unique opportunity for meaningful, exciting wo
 
 ---
 
-## 34. [MAYBE] Texas A&M AgriLife Research | Research Assistant
+## 41. [MAYBE] Texas A&M AgriLife Research | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Research-Assistant_R-094686-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -642,7 +754,7 @@ Job Title Research Assistant Agency Texas A&M Agrilife Research Department Range
 
 ---
 
-## 35. [MAYBE] Texas A&M University System | Research Assistant
+## 42. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-094686
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -656,7 +768,7 @@ Job Title Research Assistant Agency Texas A&M Agrilife Research Department Range
 
 ---
 
-## 36. [MAYBE] DiDi Global | Machine Learning Engineer - Agentic AI
+## 43. [MAYBE] DiDi Global | Machine Learning Engineer - Agentic AI
 - Link: https://job-boards.greenhouse.io/didi/jobs/8356571
 - Location: San Jose, CA
 - Posted: Nov 05 14:18 ET
@@ -670,7 +782,7 @@ About The Company DiDi's autonomous driving unit was established in 2016 with th
 
 ---
 
-## 37. [MAYBE] Texas A&M University - College Station | Research Scientist
+## 44. [MAYBE] Texas A&M University - College Station | Research Scientist
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/Bryan-TX/Research-Scientist_R-098547-1
 - Location: Bryan, TX
 - Posted: Nov 05 (board gives the date only)
@@ -684,7 +796,7 @@ Job Title Research Scientist Agency Texas A&M University Health Science Center D
 
 ---
 
-## 38. [MAYBE] Texas A&M University System | Research Scientist
+## 45. [MAYBE] Texas A&M University System | Research Scientist
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Bryan-TX/Research-Scientist_R-098547
 - Location: Bryan, TX
 - Posted: Nov 05 (board gives the date only)
@@ -698,7 +810,7 @@ Job Title Research Scientist Agency Texas A&M University Health Science Center D
 
 ---
 
-## 39. [MAYBE] Clera | Founding AI Engineer (Agents)
+## 46. [MAYBE] Clera | Founding AI Engineer (Agents)
 - Link: https://jobs.ashbyhq.com/clera/dea4ca52-6c65-4ade-88a6-f4ed2d984b96
 - Location: remote
 - Posted: Nov 05 16:03 ET
@@ -751,7 +863,7 @@ Co-founder-level equity is offered. Salary and visa sponsorship details were not
 
 ---
 
-## 40. [MAYBE] Citizens Financial Group | Third Party Risk Analyst
+## 47. [MAYBE] Citizens Financial Group | Third Party Risk Analyst
 - Link: https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49990
 - Location: Johnston, RI, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -765,7 +877,21 @@ As the Third Party Risk Analyst , you will manage vendor issues and execute Thir
 
 ---
 
-## 41. [MAYBE] Repligen | Strategy Analyst/Associate
+## 48. [MAYBE] Blue Cross and Blue Shield of Louisiana | Data Engineer (Louisiana)
+- Link: https://bcbsla.wd1.myworkdayjobs.com/external/job/Corporate---Baton-Rouge-LA/Data-Engineer--Louisiana-_R12256-1
+- Location: Corporate - Baton Rouge, LA
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, etl, machine learning, nlp, python, spark, sql, tableau, credit, data quality, healthcare, pipeline, reporting | Lacks: azure, hadoop, informatica, java, ssis  | Note: no H-1B filings found for this employer
+
+### Job description
+
+We take great strides to ensure our employees have the resources to live well, be healthy, continue learning, develop skills, grow professionally and serve our local communities. We invite you to apply for a career with us. Residency in or relocation to Louisiana is preferred for all positions. Applicants must be authorized to work for Louisiana Blue in the United States without employer-sponsored immigration support. Louisiana Blue will not provide current or future employment-based immigration sponsorship or other immigration support for this opportunity, including H-1B, L-1, O-1, H-1B1, E-3, TN, or J-1 sponsorship or F-1 OPT/STEM OPT/CPT support. Applicants who would require such sponsorship or employer support during their employment should not pursue this opportunity. POSITION PURPOSE : This position develops data integration solutions using data integration tools or other means based upon the direction determined by the agile team’s technical lead and in association with the Lead Data Engineers, Principal Data Engineers, and functional manager. This position complies with all laws and regulations associated with duties and responsibilities. NATURE AND SCOPE : This position reports to the Manager of Enterprise Information Management ACTIVITIES OF DIRECT REPORTS: This position has no direct reports. NECESSARY CONTACTS: To do this job effectively the incumbent has to be in contact with: All levels of BCBSLA personnel and outside vendors QUALIFICATIONS : EDUCATION: Bachelor’s Degree in Computer Science or related field required. Four years of related experience can be used in lieu of a degree. Advanced degree or certification preferred. Requires knowledge in areas such as data mart, data warehouse, or data lake development, ETL/ELT data integration patterns, web and cloud-oriented systems integration and communication-based systems, languages such as C#, Python or Java. Additional training for integration tools used will be supplied. Must have a minimum of two years of professional information technology experience to include experience with deployment and support of data integration or API solutions. Experience in one of the following areas is required: Support of a data warehousing, data mart, data lake, and/or business intelligence environment ETL/ELT development background with Informatica PowerCenter, DataStage, SSIS, or Azure Data Factory Development experience with Teradata, Oracle, SQL Server, Data Lake, or Sybase repositories Other programming language such as C#, Python, PL/SQL, SparkSQL, NoSQL Shared API for web or cloud applications development background Big Data technologies such as Hadoop, Spark, Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP) Experience in the following areas is preferred: BI tools or reporting experience with SSAS, SSRS, BOE, and/or Tableau Project Management Experience Healthcare Payer experience Experience working in an agile development methodology DevOps experience (automation of code or workflow through release pipeline) Data warehousing development lifecycle The following skills are required: Ability to independently design, develop and debug basic ETL/ELT or API solutions based on business requirements with feedback from the team’s technical lead Ability to independently evaluate the test results of others Ability to become self-sufficient with integration tools Ability to independently create basic integrations to build dimensional databases, data marts, data lake, and cubes with feedback from the team’s technical lead Strong analytical, problem-solving and decision-making skills along with the ability to react quickly to changing requirements due to product limitation or driven by enterprise need Ability to independently develop Unit Test Plans and Test Data with feedback from the team’s technical lead Ability to resolve the issues found in workflows, mappings, stored procedures, and data pipelines Develop basic system and integration test plans Ability to execute test plans and document results and discrepancies with feedback from the team’s technical lead Ability to write SQL queries using subqueries Strong knowledge of SQL data types and functions Very good communication and writing skills with an attention to detail ACCOUNTABILITES & ESSENTIAL FUNCTIONS : Analyzes data integration requirements and create integration solutions that support the application development efforts. Modifies and implements database integration solutions to support business requirements. Ensures capture of data integration metadata, lineage, and catalog through configuration and parameterization Develops, executes and evaluates data quality test plans such that the results and quality of the data assure compliance with corporate expectations. Provides basic guidance on the data integration processes and procedures to Associate Data Engineers and other team members. Follows the software development life-cycle as required to ensure that the company meets regulatory requirements. Participates in the development of strategies for data acquisition, archive recovery, and database/data lake implementation. Supports the management of data migrations/conversions and troubleshooting data processing issues. The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of the job.
+
+---
+
+## 49. [MAYBE] Repligen | Strategy Analyst/Associate
 - Link: https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Waltham-MA/Strategy-Analyst-Associate_R-610
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -779,7 +905,7 @@ Repligen is a global pure-play bioprocessing company with highly differentiated 
 
 ---
 
-## 42. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
+## 50. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
 - Link: https://transamerica.wd5.myworkdayjobs.com/AEGONAM/job/NLD-Schiphol/Responsible-Investment-Analyst_R20063237-1
 - Location: NLD Schiphol
 - Posted: Nov 04 (board gives the date only)
@@ -793,7 +919,7 @@ Job Description Summary Job Description Responsible Investment team and role ove
 
 ---
 
-## 43. [MAYBE] Nationwide Children's Hospital | Research Assistant NE
+## 51. [MAYBE] Nationwide Children's Hospital | Research Assistant NE
 - Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Assistant-NE_R-28435-1
 - Location: Main Campus, Columbus, OH
 - Posted: Nov 05 (board gives the date only)
@@ -807,7 +933,35 @@ Overview: Job Description Summary: Performs research experiments in accordance w
 
 ---
 
-## 44. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
+## 52. [MAYBE] Regeneron Pharmaceuticals | Data Analyst, Quality Assurance
+- Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSS---GLOBAL-VIEW/Data-Analyst--Quality-Assurance_R52701
+- Location: RENSS - GLOBAL VIEW
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 42 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, data quality | Lacks: -
+
+### Job description
+
+Build our future together: At Regeneron, we use science and innovation to develop life-changing medicines for people with serious diseases. We are seeking to fill a Data Analyst position to join our Quality Assurance team. This role accomplishes objectives by planning, analyzing, and evaluating quality data. The intent is to understand and present trends so that improvements may be made to the program. Development and maintenance of data analytics tools and predictive modeling algorithms to analyze aspects of the Quality Systems. When & where: Location: Troy, New York, United States Work schedule: Monday-Friday, 8am-4:30pm Discover your role: Achieves quality and operational objectives by contributing information and recommendations to strategic plans and reviews to management. Preparing and completing data analysis which may result in implementing quality initiatives internally and potentially externally to partners or contract manufacturing operations. Assisting in resolving problems, identifying trends, and determining system improvements Designs and builds a metrics framework to grow the quality systems and create data-driven decisions. Implementing change when necessary within the guidelines of GMP. Maintain timelines associated with quality assurance initiatives to support the evolving business. Industry student to understand other company approaches to quality analytics trending and/or applications. Works closely with the IT Data Analytics team to maintain data quality from development to production. Continuously improves and maintains dashboards to create visualizations to help drive the business. Collaborate with internal and external personnel related to database requirements and/or trend data. This role requires: BS/BA in Life Sciences, Engineering, Quality, or related field, or equivalent combination of education and experience, and the following amount of related experience for each level: Associate Analyst – 0-2 years Analyst – 2+ years Sr Analyst – 5+ years Level will be determined based on experience Data analysis experience in a cGMP environment preferred. Does this sound like you? Apply now to take your first step towards living the Regeneron Way! We are committed to building a workplace with an inclusive culture. Regeneron
+
+---
+
+## 53. [MAYBE] Sanford Health | Associate Business Intelligence (BI) Analyst
+- Link: https://sanford.wd5.myworkdayjobs.com/sanfordhealth/job/ND-Fargo/Associate-Business-Intelligence--BI--Analyst_R-0280255
+- Location: 2 Locations
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, statistic, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland. &#xa;&#xa; Work Shift: 8 Hours - Day Shifts (United States of America)&#xa;&#xa; Scheduled Weekly Hours: 40&#xa;&#xa; Compensation: Salary Range: $24.00 - $38.50&#xa;&#xa;Pay starts at $24 and increases according to years of applicable experience.&#xa;&#xa; Union Position: No&#xa;&#xa; Department Details Join a high-impact HR Enterprise Data & Analytics team where data, technology, and workforce strategy come together. You’ll have the opportunity to solve meaningful business problems, build innovative analytics and data solutions, and partner directly with HR and organizational leaders to turn workforce data into actionable insights that influence decisions across the organization. Workday and HR experience a plus. Summary Responsible for analyzing and reporting a variety of statistical and clinical data. A crucial requirement will be to analyze trends and outcomes within the data and provide answers and possible solutions for the consumer. Data reported accurately and timely. Complete special projects as assigned ensuring that all information meets the highest data integrity. Job Description May include other responsibilities such as data integration to and maintenance of supporting databases. Demonstrate accuracy and attention to detail. Organize and prioritize tasks effectively. Excellent verbal and written communication skills to effectively prepare, present, and discuss reports and studies with management as well as other groups and individuals. Good working knowledge of computer based applications. General knowledge of and ability to learn and understand database structure and relationships as well as various statistical concepts and tools. Willing to make independent and timely decisions when circumstances warrant. Conceptualize the abstract. Collect and organize detailed information. Demonstrate patience, tact, a cheerful disposition and enthusiasm, as well as the willingness and ability to handle difficult situations. Willing to seek out new information and knowledge and be willing to embrace new responsibilities and change. Conducts themselves in a professional manner at all times. Continuously searches for opportunities of automating manual processes and developing on-demand tools for descriptive data. Qualifications Bachelor's degree in business, finance, data science, computer science, statistics, or STEM (Science, Technology, Engineering, Math) related majors. Past experience to commensurate with area of responsibility preferred. Strong background in practical statistics is preferred. Sanford is an
+
+---
+
+## 54. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644656
 - Location: Long Island City NY us
 - Posted: Nov 05 06:35 ET
@@ -821,7 +975,7 @@ The Center for Population Health Data Science (CPHDS)- launched in October of 20
 
 ---
 
-## 45. [MAYBE] CNO Financial Group | CLO Portfolio Analyst - ONSITE Carmel, IN
+## 55. [MAYBE] CNO Financial Group | CLO Portfolio Analyst - ONSITE Carmel, IN
 - Link: https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/CLO-Portfolio-Analyst---ONSITE-Carmel--IN_JR170522
 - Location: Carmel, IN
 - Posted: Nov 05 (board gives the date only)
@@ -835,7 +989,7 @@ Job Details CNO Financial Group, Inc. (NYSE: CNO) is a leading insurance and fin
 
 ---
 
-## 46. [MAYBE] Amazon | Data Engineer I, Secure Third Party Tools (S3T)
+## 56. [MAYBE] Amazon | Data Engineer I, Secure Third Party Tools (S3T)
 - Link: https://www.amazon.jobs/en/jobs/10598162/data-engineer-i-secure-third-party-tools-s3t
 - Location: Austin, Texas, USA
 - Posted: Nov 05 (board gives the date only)
@@ -849,7 +1003,21 @@ Security Foundations builds solutions that keep Amazon systems and data secure o
 
 ---
 
-## 47. [MAYBE] Accenture | Analista de Analytics - Híbrido
+## 57. [MAYBE] CareSource | Voice of the Customer Insights Analyst
+- Link: https://caresource.wd1.myworkdayjobs.com/caresource/job/Ohio-WFH/Voice-of-the-Customer-Insights-Analyst_R14351
+- Location: Ohio WFH
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~44 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 17 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, healthcare, reporting, research | Lacks: scala
+
+### Job description
+
+Job Summary: The Voice of the Customer (VOC) Insights Analyst collaborates with leadership to identify and outline deliverables that will improve the experience for our customers (Member and Provider), driving innovation and efficiencies within the call center. Essential Functions: Leverage Microsoft Copilot, Power Platform, and AI-enabled productivity tools to automate processes, enhance customer insights, improve reporting efficiency, and drive strategic business decisions. Apply responsible AI practices, prompt engineering, and conversational design principles to develop scalable, user-centered solutions that enhance the Member, Provider, and Specialist experience. Design, build, and maintain conversational AI solutions using Microsoft Copilot Studio, including custom copilots, topics, generative responses, and workflow integrations. Turn complex data into compelling visual stories, taking into consideration market-specific nuances, using PowerPoint charts, dashboards and presentations with clear and actionable insights that influence executive decision-making. Develop dashboards, scorecards, executive summaries, and recurring performance reports that translate data into clear business narratives. Support the Service Excellence Team in conducting research on industry best practices and benchmarks. Leverage speech and interaction analytics tools to identify call drivers, behavioral trends, Member/Provider sentiment, and opportunities to reduce contacts. Identify key drivers of Member and Provider experiences and integrate customer feedback into operational, process, and strategic improvements. Collaborate with cross-functional teams to ensure that insights are translated into actionable improvement initiatives. Monitor the effectiveness of implemented solutions and provide feedback for further optimizations. Continuously ask “why” and explore new ways to approach and solve problems, driving a culture of innovation. Build and sustain closed-loop feedback processes that drive measurable improvements in satisfaction, retention, and loyalty. Perform any other job related duties as requested. Education and Experience: Bachelor's degree in Program Management, Business Analysis, or a related field required Equivalent years of relevant work experience may be accepted in lieu of required education Two (2) years customer service experience related to healthcare payer dealing with both members and providers required Competencies, Knowledge and Skills: Proficiency in Microsoft Excel and PowerPoint is required Critical thinking, creative problem-solving, knowledge and experience with journey mapping and storytelling (personas, journey mapping), strongly preferred Familiarity with creating agentic experiences that proactively anticipate user needs, adapt in real time, and deliver personalized healthcare solutions, strongly preferred Ability to analyze processes and produce recommendations for improvements is required Ability to develop, prioritize and accomplish goals Ability to keep current on technologies through self-directed learning Excellent written and verbal communication skills Strong interpersonal and active listening skills Licensure and Certification: None Working Conditions: General office environment; may be required to sit or stand for extended periods of time Up to 15% (occasional) travel based on the needs of the department may be required Compensation Range: $54,500.00 - $87,300.00 CareSource takes into consideration a combination of a candidate’s education, training, and experience as well as the position’s scope and complexity, the discretion and latitude required for the role, and other external and internal data when establishing a salary level. In addition to base compensation, you may qualify for a bonus tied to company and individual performance. We are highly invested in every employee’s total well-being and offer a substantial and comprehensive total rewards package. Compensation Type (hourly/salary): Salary Organization Level Competencies Fostering a Collaborative Workplace Culture Cultivate Partnerships Develop Self and Others Drive Execution Influence Others Pursue Personal Excellence Understand the Business This job description is not all inclusive. CareSource reserves the right to amend this job description at any time. CareSource
+
+---
+
+## 58. [MAYBE] Accenture | Analista de Analytics - Híbrido
 - Link: https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Analista-Pleno-de-Engenharia-de-Dados_R00351665
 - Location: see posting
 - Posted: Nov 04 (board gives the date only)
@@ -863,7 +1031,7 @@ Sobre a Accenture A Accenture ajuda as principais empresas do mundo a se reinven
 
 ---
 
-## 48. [MAYBE] Reddit | Machine Learning Engineer
+## 59. [MAYBE] Reddit | Machine Learning Engineer
 - Link: https://job-boards.greenhouse.io/reddit/jobs/8349916
 - Location: San Francisco, CA
 - Posted: Nov 05 11:13 ET
@@ -877,7 +1045,7 @@ Reddit is a community of communities. It’s built on shared interests, passion,
 
 ---
 
-## 49. [MAYBE] Amazon | Applied Scientist , Fauna
+## 60. [MAYBE] Amazon | Applied Scientist , Fauna
 - Link: https://www.amazon.jobs/en/jobs/10598028/applied-scientist-fauna
 - Location: New York, New York, USA
 - Posted: Nov 05 (board gives the date only)
@@ -891,7 +1059,7 @@ We are seeking an Applied Scientist to develop and optimize Visual Inertial Odom
 
 ---
 
-## 50. [MAYBE] EXL | Snowflake Data Engineer
+## 61. [MAYBE] EXL | Snowflake Data Engineer
 - Link: https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21585
 - Location: New York, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -905,7 +1073,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 51. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
+## 62. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644496
 - Location: New York City NY us
 - Posted: Nov 05 06:29 ET
@@ -919,7 +1087,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 52. [MAYBE] Cerebras | AI Engineer
+## 63. [MAYBE] Cerebras | AI Engineer
 - Link: https://jobs.ashbyhq.com/cerebras/c6f607ce-306c-4deb-8825-4175201a7cd4
 - Location: Sunnyvale, CA United States remote
 - Posted: Nov 04 17:08 ET
@@ -998,7 +1166,7 @@ Cerebras Systems
 
 ---
 
-## 53. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
+## 64. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
 - Link: https://jobs.lever.co/erg/ffa7e5a8-5d49-4608-a3b0-9a5ff07a3f0a
 - Location: Morrisville, NC Morrisville, NC US
 - Posted: Nov 05 11:07 ET
@@ -1015,7 +1183,7 @@ ERG
 
 ---
 
-## 54. [MAYBE] PennState University | Part Time Research Assistant
+## 65. [MAYBE] PennState University | Part Time Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000069624-1
 - Location: Penn State University Park
 - Posted: Nov 05 (board gives the date only)
@@ -1029,7 +1197,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 55. [MAYBE] UTHealth Houston | Research Assistant
+## 66. [MAYBE] UTHealth Houston | Research Assistant
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8164
 - Location: San Antonio, TX, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -1040,4 +1208,46 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 ### Job description
 
 Under general supervision, provides routine technical assistance in performing assigned and delegated tasks in support of research projects. Responsibilities include assisting or conducting a variety of scientific experiments and research projects of limited complexity, collecting, evaluating and interpreting data for clinical and diagnostic research. The lab is currently engaged in exciting state-of-the-art multi-disciplinary projects (infection, aging, asthma, exercise) and duties are aligned to these projects. Provides routine technical assistance in performing assigned and delegated tasks in support of research projects. Performs assigned clerical and technical duties in a research or clinical lab setting. Assists investigator or higher level technician with research studies, experiments and assays including collection of data, preparation of solutions and set-up and maintenance of equipment. Performs routine tests with direction from supervisor, manager or higher level technician. Assists in conducting a variety of scientific experiments and research projects of limited complexity, collecting, evaluating, and interpreting data. Carries out general laboratory maintenance. Performs all other duties as assigned. Attention to detail by achieving thoroughness and accuracy when accomplishing a task through concern for all the areas involved. Ability to organize and coordinate work within schedule constraints and handle emergent requirements in a timely manner. Ability to monitor important and complex projects concurrently within a research environment or laboratory schedule. Ability to effectively communicate orally and in writing, to include writing and preparing memorandums, letters, and other official correspondence. Knowledge of Microsoft Word, Excel, PowerPoint, and Lotus Notes/other e-mail software. Education: Bachelor's Degree in a basic science is required. Experience: None required. Some experience in a research/clinical setting is highly preferred. The University of Texas at San Antonio (UT San Antonio) is a nationally recognized, top-tier public research university that unites the power of higher education, biomedical discovery and healthcare within one visionary institution. As the third-largest research university in Texas and a Carnegie R1-designated institution, UT San Antonio is a model of access and excellence — advancing knowledge, social mobility and public health across South Texas and beyond. UT San Antonio serves approximately 42,000 students in 320 academic programs spanning science, engineering, medicine, health, liberal arts, AI, cybersecurity, business, education and more. With 17,000 faculty and staff, UT San Antonio has been recognized by Forbes as one of America’s Best Employers for Company Culture . Benefits Overview UT Health San Antonio offers an excellent benefits package for its employees. Employees who work at least 20 hours a week, with an appointment of at least 4.5 months, are eligible for benefits. Medical - UT SELECT Medical insurance is offered free for employees and administered by Blue Cross and Blue Shield of Texas. Family members can be added to the plan through payroll deduction. Employees and their dependents can also receive discounted copays and coinsurance when using UT Health Physicians, a network of 800 premier physicians including more than 100 specialists. Employees receive $50,000 of group term life insurance and $50,000 of basic accidental death and dismemberment insurance for free, with options to purchase additional employee and dependent coverage for both at group rates. Dental - Three dental insurance plan options are available for employees and their families through Delta Dental Insurance Company, two PPOs and one dental HMO plan. Both PPO plans allow employees to choose any licensed dentist. Vision - Fully insured Vision Care benefits are offered by Superior Vision Services. Two vision plan options that offer either standard or enhanced vision benefits. Disability - Employees can enroll in the Disability Insurance which provides income if a non-work related illness or injury prevents you from working. FSAs - Employees can enroll in flexible spending accounts (FSAs) to set aside money from earnings before taxes for qualifying dependent day care expenses or out-of-pocket health care expenses. Retirement - Employees are eligible for either the Teacher Retirement System (TRS) or the Optional Retirement Plan (ORP). TRS is a defined benefit retirement plan which UT Health matches employee contributions. ORP is for eligible faculty staff employees. Voluntary retirement programs are also available to invest before- or after-tax dollars with the choice of five quality retirement plan providers. Time Off - A generous leave program offers multiple paid leave options: Front-loaded Paid Time Off: 128 to 208 hours (16 to 26 days) of Paid Time Off based on years of service, given at the start of each fiscal year. PTO may be prorated in year one based on date of hire. Extended Illness Bank: 8 hours (1 day) accrued per month which can be used for illness or injury after one day of Paid Time Off is taken. Paid Family Leave: Up to 240 hours (6 weeks) to care for a spouse, child, or parent after 6 months of consecutive employment. Holidays: 12 set paid holidays each year. Discounts - Employees enjoy a range of discounts on services, tickets, and gym membership.
+
+---
+
+## 67. [MAYBE] Woongjin | Logistic Pricing Analyst -Bilingual (Korean/ English)
+- Link: https://jobs.smartrecruiters.com/WJCompany/744000159985369
+- Location: Plano TX us
+- Posted: Nov 05 17:34 ET
+- Scanner fit: ~40 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, reporting, validation | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Pricing, Cost Analysis & Executive Reporting · Build dynamic cost models (storage, labor, equipment, VAS) to evaluate 3PL proposals and benchmark against direct-operation costs. · Generate executive-level reports, pricing summaries, and scenario comparisons to support strategic decision-making and site selection. · Analyze rate structures and identify cost-saving and operational improvement opportunities across distribution centers. Sourcing & Contract Management (3PL & Direct Operations) · Lead RFI/RFP/RFQ processes for 3PL warehousing operations and direct-operation support vendors (staffing agencies, MHE providers, rack installers, automation systems). · Partner with Legal, Procurement, and Operations to draft, review, and maintain service agreements (MSAs, SOWs, SLAs), rate cards. · Oversee contract extensions, pricing amendments, and scope-change controls with internal/external partners. · Conduct vendor benchmarking, commercial evaluations, and bid comparisons to ensure competitive pricing, service capability, and compliance with internal procurement requirements. Logistics Platform (Cello) & Cross-Functional Collaboration · Execute end-to-end procurement workflows within company platform, including RFQ floating, vendor quote consolidation, and commercial bid evaluations. · Oversee contract and billing administration in Cello, ensuring timely registration of master rate cards, monitoring billing settlements, and resolving cost variances. · Collaborate with Operations, Engineering, IT, Legal, and Finance to ensure pricing accuracy, operational feasibility, and system alignment. Ad Hoc Projects & Strategic Initiatives · Lead and support ad hoc logistics, sourcing, pricing, and operational projects driven by evolving business requirements, customer needs, and management priorities. · Develop rapid business cases, cost analyses, market benchmarks, and sourcing strategies for new warehouse operations, network changes, customer opportunities, and special projects. · Support new site launches, expansions, relocations, operational transitions, and other time-sensitive initiatives from initial feasibility assessment through vendor sourcing and implementation. · Evaluate emerging logistics technologies and solutions, including warehouse automation, MHE, robotics, and other productivity-enhancement initiatives, from both operational and financial perspectives. Education & Experience Bachelor’s Degree required (Logistics, Supply Chain, Business, or Finance preferred). 2+ years of experience in freight forwarding, 3PL, or logistics sourcing/operations, with a strict focus on Air Freight . Technical & Professional Skills Advanced Proficiency in Microsoft Excel: Must be comfortable handling large-scale quotation and cost analysis using complex formulas, Pivot Tables, Conditional Formatting, Data Validation, VLOOKUP, COUNTIF, SUMIF, and Power Query Strong problem-solving mindset and sharp negotiation tactics. Excellent collaboration, communication, and interpersonal skills to work effectively with cross-functional global teams. Work Adaptability & Travel Ability to thrive and maintain accuracy in a fast-paced environment. Flexibility: Willingness to work additional hours, weekends, or holidays outside of regularly scheduled business hours when required to meet critical business needs. Travel: Willingness to travel up to 20% for business-related needs. All your information will be kept confidential according to
+
+---
+
+## 68. [MAYBE] Denver Health | Research Assistant - Hybrid
+- Link: https://denverhealth.wd1.myworkdayjobs.com/DHHA-Main/job/Rocky-Mountain-Poison--Drug-Safety---1391-Speer-Blvd-Denver-CO-80204/Research-Assistant---Hybrid_R19469
+- Location: Rocky Mountain Poison & Drug Safety - 1391 Speer Blvd, Denver, CO 80204
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, healthcare, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+We are recruiting for a mission-driven Research Assistant - Hybrid to join our team! We're with you for life’s journey. At Denver Health, purpose isn’t just something we believe in—it’s something we live every day, for life’s journey. Our Values Respect | Belonging | Accountability | Transparency Department RADARS Contract Hybrid Model - In-Office once per week, Wednesday or Thursday, remainder remote. 9:00am-3:30pm. Job Summary The Research Assistant (RA) will be an essential team member in active clinical research and/or quality improvement work being conducted at Denver Health (DHHA). Under general supervision, the RA assists with various research-related activities on projects that focus on a variety of health- and healthcare services topics. The RA may be required to simultaneously support multiple projects at different locations, such as the DHHA main campus, community clinics, and urgent outpatient settings. General responsibilities include subject-related activities, study records' maintenance, confidentiality, regulatory adherence, data collection, and administrative support. Essential Functions : Assists with subject-related activities, such as screening and consenting for recruitment, conducting chart review, collecting samples, patient navigation, and tracking outcomes. (25%) Maintains clear, concise, and organized records. (20%) Exercises confidentiality regarding patient and other sensitive information. (10%) Ensures eligibility while treating participants with courtesy, dignity, empathy, and respect. (10%) Assists with data collection and entry, , and intervention fidelity. (10%) Performs literature reviews, which may include literature searches, organizing results and summarizing findings. (10%) Builds and maintains strong relationships with research subjects, teams, collaborators, and colleagues. (5%) Completes training requirements for COMIRB and CITI. (5%) Assists with improving team processes and brings them to leadership’s attention, aligning with DHHA’s Lean management principles. (5%) Education : High School Diploma or GED High School degree or GED preferred. Bachelor’s degree a plus. Work Experience : 1 year Experience with data collection and entry preferred. Licenses : Knowledge, Skills and Abilities : Excellent interpersonal skills to interact with investigators, staff, and study subjects. Must be comfortable working with diverse populations. Sound organizational skills with the ability to manage multiple priorities effectively. Ability to maintain confidentiality. Responsible and punctual individual. Knowledge of protocol adherence and general research practices. Knowledge of research methods and rules of patient confidentiality. Experience with study subject interviews and qualitative research methods. Operating knowledge of Microsoft Office products (Word, Excel, Outlook, etc.). Strong desire for team improvement and growth Conforms to hospital standards of performance and conduct, and values best possible customer service and patient care Shift Days (United States of America) Work Type Regular Salary $21.00 - $28.20 / hr Benefits At Denver Health, we take care of the people who take care of our community. Our benefits are built to support your life, your family, and your future — with generous paid time off, fully paid parental leave, exceptional retirement contributions, comprehensive health coverage, and nationally recognized well-being programs. We invest in your growth through tuition assistance, career advancement pathways, and professional development — while also offering meaningful financial advantages through loan forgiveness eligibility and employer contributions. When you join Denver Health, you’re joining a mission-driven organization that invests in you. Here is a small list of our benefit programs: Paid time off starting at 28 days per year, inclusive of vacation, personal/sick, and 7 Holidays 100% paid parental leave up to 6 weeks Immediate eligibility for retirement plans with employer contribution up to 9.5% Generous medical, dental, vision plans in addition to employer paid disability and life insurance. Comprehensive well-being programs including on-site employee fitness center located on Denver Health main campus and nationally recognized RESTORE Center Free RTD EcoPass (public transportation) Childcare discount programs & exclusive perks on large brands, travel, and more Tuition reimbursement & assistance Education, coaching, and professional development opportunities through the Workforce Development Center (WFDC) that support internal career growth and advancement pathways Professional clinical advancement program & shared governance Public Service Loan Forgiveness (PSLF) eligible employer+ free student loan coaching and assistance navigating the PSLF program National Health Service Corps (NHCS) and Colorado Health Service Corps (CHSC) eligible employer About Denver Health Denver Health is an integrated, high-quality academic healthcare system considered a model for the nation that includes a Level I Trauma Center, a 555-bed acute care medical center, Denver’s 911 emergency medical response system, 10 family health centers, 19 school-based health centers, Rocky Mountain Poison & Drug Safety, the Public Health Institute at Denver Health, Denver Health Medical Plan and Denver Health Foundation. As Colorado’s primary, and essential, safety-net healthcare system, Denver Health is a mission-driven organization that has provided millions in uncompensated care for the uninsured each year. Located near downtown Denver, Denver Health is just minutes away from many of the cultural and recreational activities Denver has to offer. Denver Health
+
+---
+
+## 69. [MAYBE] Van Andel Institute | Research Scientist
+- Link: https://vai.wd1.myworkdayjobs.com/VAICareers/job/Van-Andel-Research-Institute/Research-Scientist_R1687
+- Location: Van Andel Research Institute
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, publication, research | Lacks: -
+
+### Job description
+
+Van Andel Institute (VAI), a world-class biomedical research institute, located in Grand Rapids, Michigan, is dedicated to improving human health. We are pioneers in the fight against cancer, Parkinson's, and other diseases. We are committed to inspiring the next generation of scientists and educators. The Laboratory of Jonathan D. Licht, M.D ., in the VAI Department of Epigenetics , is seeking to hire a highly motivated full-time Research Scientist. The Licht Lab focuses on epigenetic and gene expression regulators as drivers of cancer. Current projects include the study of histone fold mutations in solid tumors and the role of epigenetic and splicing regulators in the pathogenesis of multiple myeloma. Role and Responsibilities Research Scientists are scientific leaders in the lab. You will design and execute research projects, analyze and interpret data, and drive manuscripts and presentations. You will also contribute to a collaborative team environment. VAI provides access to outstanding core facilities and professional development resources. Why the Licht Lab? Develop expertise in cancer epigenetics and the molecular biology of blood malignancies Gain broadly applicable skills that support careers in academia, biotechnology, the pharmaceutical industry, or structural biology facility management. Work in a collaborative and supportive team environment. Receive an individualized training and professional development plan tailored to your career goals. Dr. Licht received the 2021 American Society of Hematology mentor award in recognition to his dedication to training. Pursue collaborative research and present your work at scientific conferences. Benefit from an outstanding institutional research environment, robust core resources, including an extensive bioinformatics unit. Qualifications Ph.D. or M.D./Ph.D. in biology, biochemistry, molecular biology, or a related field Strong record of rigorous and productive research (e.g., publications, preprints) Completion of a successful Postdoctoral Fellowship Excellent communication and organizational skills Preferred Expertise Experience in high-throughput genomic and epigenomic experimentation and bioinformatic analysis Experience with animal models of cancer Compensation and Benefits All full-time employees of Van Andel Institute are eligible for benefits , effective Day One! The salary you can expect in this role is based on your experience and skills How to Apply If you possess these attributes and enjoy working with motivated and driven people, we would welcome the opportunity to speak with you and encourage you to apply today! An up-to-date Resume/Curriculum Vitae A list of 2-3 individuals who have agreed to act as references, along with their contact details. ABOUT VAN ANDEL INSTITUTE Van Andel Institute (VAI) is committed to improving the health and enhancing the lives of current and future generations through cutting-edge biomedical research and innovative educational offerings. Established in Grand Rapids, Michigan, in 1996 by the Van Andel family, VAI is now home to more than 650 scientists, educators and support staff, who work with a growing number of national and international collaborators to foster discovery. The Institute’s scientists study the origins of cancer, Parkinson’s and other diseases and translate their findings into breakthrough prevention and treatment strategies. Our educators develop inquiry-based approaches for K–12 education to help students and teachers prepare the next generation of problem-solvers, while our Graduate School offers a rigorous, research-intensive Ph.D. program in molecular and cellular biology. Learn more at vai.org . Van Andel Institute
 
