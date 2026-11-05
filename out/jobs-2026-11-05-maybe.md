@@ -7,14 +7,15 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 1 | American University | Career Outcomes Data Analyst | 75 | cap-exempt employer | Nov 04 (board gives the date only) |
 | 2 | HCSC | Analytics Consultant | 69 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
 | 3 | DXC Technology | Analista de Reporting (Power BI / Excel) | 67 | 12 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 4 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 5 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 6 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 7 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 8 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 9 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 10 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 11 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
+| 4 | Dimensional Fund Advisors | Analyst, Portfolio Management (Equities) | 65 | 23 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 5 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 6 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 7 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 8 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 9 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 10 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 11 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 12 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
 
 ---
 
@@ -60,7 +61,21 @@ Job Description: DXC ayuda a empresas globales a ejecutar sus sistemas y operaci
 
 ---
 
-## 4. [MAYBE] Manulife Financial | Data Analyst / Business Analyst
+## 4. [MAYBE] Dimensional Fund Advisors | Analyst, Portfolio Management (Equities)
+- Link: https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Analyst--Portfolio-Management--Equities-_2026-9050
+- Location: 2 Locations
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~65 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 23 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: excel, forecast, sql, credit, portfolio, quantitative, research, trading | Lacks: -  | Note: broad title
+
+### Job description
+
+Job Description: Portfolio Management is responsible for the daily oversight and management of Dimensional’s portfolios and implements our investment philosophy across all our investment solutions. Portfolio Management interacts and collaborates closely with several departments including Trading, Research, Technology, Legal, Compliance, Operations, and the Global Client Group to ensure a superior investment experience for our clients. The Portfolio Management team ensures that Dimensional’s portfolios deliver consistent and efficient exposure to the dimensions of higher expected returns, as identified by the greatest minds in modern financial economics. Our portfolio managers achieve this exposure by implementing a daily and systematic portfolio management process. In addition to overseeing and enhancing this process, portfolio managers also interact with current and prospective clients. The Equities team monitors portfolios, securities, and markets to consistently and efficiently deliver the equity exposures to achieve higher expected returns for our clients. As an Analyst, you will support the day-to-day needs of the Portfolio Management team. Analysts are responsible for performing a series of daily tasks to ensure that our management and trading processes run smoothly. In addition to standard responsibilities, Analysts collaborate with senior team members on ad-hoc requests and projects that provide outstanding learning opportunities and the chance to gain familiarity with processes related to fund management. Once settled into the role, Analysts join the “Analyst Development Program” as well as get a chance to become junior leads of a number of investment processes. The increasing exposure to various tasks and great emphasis on development set out the first stepping-stones en-route to becoming a Portfolio Manager. Responsibilities: Support cash management of portfolios with credit lines, currency hedges and cash forecasting Analyze voluntary corporate events and recommend elections to Portfolio Managers Prepare data for Portfolio Manager presentations to clients and internal executives Complete ad hoc requests from Portfolio Managers Propose and execute projects that increase process efficiency and improve portfolio outcomes Collaborate across business functions and teams, both internal and external to the firm Desired Experience and Traits: Bachelor’s degree required Demonstrated understanding of and alignment with Dimensional’s investment strategy Time-management skills High attention to detail and commitment to excellent work quality Comfort with large data sets Verbal communication and presentation skills Excellent quantitative problem-solving and analytic skills Intellectual curiosity Background or interest in finance and financial theory Aptitude for learning basic computer programming languages and software Knowledge of SQL, VBA, and/or Excel is helpful This job is not eligible for immigration sponsorship. #LI-Hybrid Dimensional offers a variety of programs to help take care of you, your family, and your career, including comprehensive benefits, educational initiatives, and special celebrations of our history, culture, and growth. It is the policy of the Company to provide equal opportunity for all employees and applicants. The Company recruits, hires, trains, promotes, compensates, and administers all personnel actions without regard to actual or perceived race, color, religion, religious practice, creed, sex, sex stereotyping, pregnancy (which includes pregnancy, childbirth, and medical conditions related to pregnancy, childbirth, or breastfeeding), caregiver status, gender, gender identity, gender expression, transgender identity, national origin, age, mental or physical disability, ancestry, medical condition, marital status, familial status, domestic partnership status, military or veteran status or service, unemployment status, citizenship status or alienage, sexual orientation, status as a victim of domestic violence, status as a victim of stalking, status as a victim of sex offenses, genetic information, political activities or recreational activities, arrest or conviction record, salary history, natural hairstyle or any other status protected by applicable law except as otherwise required or permitted by law or regulation applicable to the Company or its affiliates.
+
+---
+
+## 5. [MAYBE] Manulife Financial | Data Analyst / Business Analyst
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Data-Analyst---Business-Analyst_JR26101524
 - Location: Quezon City
 - Posted: Nov 04 (board gives the date only)
@@ -74,7 +89,7 @@ Overview: We are seeking a business-facing technical Data Analyst to translate G
 
 ---
 
-## 5. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
+## 6. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644686
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -88,7 +103,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 6. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
+## 7. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644676
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -102,7 +117,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 7. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
+## 8. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
 - Link: https://centrica.wd3.myworkdayjobs.com/Centrica/job/Leicester/Business-Intelligence---Reporting-Analyst-_R0090515-1
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -116,7 +131,7 @@ Join us, be part of more. We’re so much more than an energy company. We’re a
 
 ---
 
-## 8. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
+## 9. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644656
 - Location: Long Island City NY us
 - Posted: Nov 05 06:35 ET
@@ -130,7 +145,7 @@ The Center for Population Health Data Science (CPHDS)- launched in October of 20
 
 ---
 
-## 9. [MAYBE] Accenture | Analista de Analytics - Híbrido
+## 10. [MAYBE] Accenture | Analista de Analytics - Híbrido
 - Link: https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Analista-Pleno-de-Engenharia-de-Dados_R00351665
 - Location: see posting
 - Posted: Nov 04 (board gives the date only)
@@ -144,7 +159,7 @@ Sobre a Accenture A Accenture ajuda as principais empresas do mundo a se reinven
 
 ---
 
-## 10. [MAYBE] EXL | Snowflake Data Engineer
+## 11. [MAYBE] EXL | Snowflake Data Engineer
 - Link: https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21585
 - Location: New York, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -158,7 +173,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 11. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
+## 12. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644496
 - Location: New York City NY us
 - Posted: Nov 05 06:29 ET
