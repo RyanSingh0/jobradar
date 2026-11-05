@@ -7,41 +7,46 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 1 | American University | Career Outcomes Data Analyst | 75 | cap-exempt employer | Nov 04 (board gives the date only) |
 | 2 | Reddit | Business Analyst | 73 | 25 in data/analytics/finance occupations | Nov 05 11:15 ET |
 | 3 | Hitachi | Training & Development Analyst | 70 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 4 | HCSC | Analytics Consultant | 69 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 5 | DXC Technology | Analista de Reporting (Power BI / Excel) | 67 | 12 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 6 | ALFA LAVAL | Business Improvement Analyst | 67 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 7 | Axle | Data Scientist, Medical Imaging | 67 | none found (check myvisajobs) | Nov 05 12:41 ET |
-| 8 | Adventist Health | Ambulatory Reimbursement Analyst | 67 | 18 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 9 | Dimensional Fund Advisors | Analyst, Portfolio Management (Equities) | 65 | 23 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 10 | Novanta | Demand Analyst [C] | 65 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 11 | University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law | 62 | cap-exempt employer | Nov 04 (board gives the date only) |
-| 12 | Desjardins Group | Credit Risk Strategy Data Scientist | 59 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 13 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 14 | Canadian Tire | Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 15 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 16 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 17 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 18 | BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG) | 54 | 12 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 19 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 20 | ARQ | Finance Analytics Engineer | FP&A | 52 | none found (check myvisajobs) | Nov 05 11:15 ET |
-| 21 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 22 | CVS Health | Coordinator, Financial Reporting Analysis | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 23 | Oshkosh | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 24 | City of Philadelphia | Data Engineer-Integration Specialist | 50 | 6 in data/analytics/finance occupations | Nov 05 12:52 ET |
-| 25 | Texas A&M AgriLife Research | Research Assistant | 50 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 26 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 27 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 28 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 29 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 30 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 31 | Reddit | Machine Learning Engineer | 43 | 25 in data/analytics/finance occupations | Nov 05 11:13 ET |
-| 32 | Amazon | Applied Scientist , Fauna | 43 | 3890 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 33 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 34 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
-| 35 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
-| 36 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
-| 37 | PennState University | Part Time Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 38 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 4 | Sia Partners | Generative AI Consultant  | 70 | 3 in data/analytics/finance occupations | Nov 05 14:08 ET |
+| 5 | HCSC | Analytics Consultant | 69 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 6 | DXC Technology | Analista de Reporting (Power BI / Excel) | 67 | 12 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 7 | ALFA LAVAL | Business Improvement Analyst | 67 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 8 | Axle | Data Scientist, Medical Imaging | 67 | none found (check myvisajobs) | Nov 05 12:41 ET |
+| 9 | Adventist Health | Ambulatory Reimbursement Analyst | 67 | 18 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 10 | Dimensional Fund Advisors | Analyst, Portfolio Management (Equities) | 65 | 23 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 11 | Novanta | Demand Analyst [C] | 65 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 12 | UTHealth Houston | Clinical Reporting Analyst - Intermediate | 64 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 13 | University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law | 62 | cap-exempt employer | Nov 04 (board gives the date only) |
+| 14 | Desjardins Group | Credit Risk Strategy Data Scientist | 59 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 15 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 16 | Canadian Tire | Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 17 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 18 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 19 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 20 | BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG) | 54 | 12 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 21 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 22 | ARQ | Finance Analytics Engineer | FP&A | 52 | none found (check myvisajobs) | Nov 05 11:15 ET |
+| 23 | Toyota Research Institute | Research Scientist, Robotics Research | 52 | 2 in data/analytics/finance occupations | Nov 05 14:05 ET |
+| 24 | Arkansas Blue Cross | Data Analyst | 52 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 25 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 26 | CVS Health | Coordinator, Financial Reporting Analysis | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 27 | Oshkosh | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 28 | City of Philadelphia | Data Engineer-Integration Specialist | 50 | 6 in data/analytics/finance occupations | Nov 05 12:52 ET |
+| 29 | Texas A&M AgriLife Research | Research Assistant | 50 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 30 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 31 | DiDi Global | Machine Learning Engineer - Agentic AI | 50 | none found (check myvisajobs) | Nov 05 14:18 ET |
+| 32 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 33 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 34 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 35 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 36 | Reddit | Machine Learning Engineer | 43 | 25 in data/analytics/finance occupations | Nov 05 11:13 ET |
+| 37 | Amazon | Applied Scientist , Fauna | 43 | 3890 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 38 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 39 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
+| 40 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
+| 41 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
+| 42 | PennState University | Part Time Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 43 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
 
 ---
 
@@ -87,7 +92,21 @@ Location: Jefferson City, Missouri, United States of America Job ID: R0150712 Da
 
 ---
 
-## 4. [MAYBE] HCSC | Analytics Consultant
+## 4. [MAYBE] Sia Partners | Generative AI Consultant 
+- Link: https://jobs.smartrecruiters.com/Sia/744000159953609
+- Location: Charlotte NC us
+- Posted: Nov 05 14:08 ET
+- Scanner fit: ~70 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, etl, excel, gcp, llm, machine learning, nlp, python, pytorch, tensorflow, deep learning, docker, git, healthcare | Lacks: azure, scala  | Note: broad title
+
+### Job description
+
+Join us as an experienced Generative AI Specialist designing and implementing cutting-edge GenAI/LLM solutions across diverse industries. You'll act as a vital bridge between technical teams (Data Science, ML, Platform) to deliver business-centric AI value. You'll guide clients on the optimal path—using techniques like RAG, agents, or fine-tuning—for cost-effective impact. Your responsibilities extend beyond prompting to architecting robust AI products via benchmarking, prototyping, and validation. You'll orchestrate the full AI workflow, ensuring seamless model integration optimized for performance, security, and scale, while tackling infrastructure challenges. We provide extensive training to support your success. If you're driven to push AI boundaries and help clients rapidly adopt GenAI with confidence, apply to make a real difference. Responsibilities: LLM/GenAI System Development: Design, build, train, fine-tune, and deploy sophisticated AI models leveraging LLMs (e.g., GPT-x, Claude, Gemini, Llama, Mistral) and other generative techniques. Assist in Solution Architecture: Support the GenAI Solution Architect in designing robust, scalable, and secure applications. Application Development: Develop applications powered by GenAI models (both self-managed and API-accessible) that meet business needs and comply with applicable regulations (GDPR, EU AI Act, model licenses, etc.). Advanced Prompt Engineering: Design and optimize effective prompts (e.g., few-shot, Chain/Tree/Graph of Thought, ReAct, Self-reflection, guardrails), balancing simplicity and complexity to enhance analytical capabilities, refine outputs, improve user experience, and control interactions. RAG Implementation: Design and implement Retrieval-Augmented Generation (RAG) architectures to improve accuracy and relevance by retrieving information from pre-determined knowledge sources, providing traceability (source attribution). Model Selection & Fine-Tuning: Select and fine-tune appropriate models (including multimodal - VLM, SLM - Visual Language Models, Small Language Models) to create higher-quality content (text, image, audio, code, etc.) and maximize business value creation opportunities. Integration & Deployment (MLOps): Implement MLOps best practices for the GenAI lifecycle, including automated pipelines (CI/CD), versioning, monitoring, and maintenance in production environments (Cloud platforms like AWS, Azure, GCP). Ensure seamless integration into existing systems and with external tools/APIs, potentially utilizing standardized protocols (MCP). Evaluation & Responsible AI: Develop and execute rigorous evaluation frameworks to measure model performance, reliability, fairness, and safety. Ensure adherence to Responsible AI principles and help teams and clients navigate end-to-end security and compliance processes. Research & Innovation: Stay abreast of the latest advancements in GenAI techniques, technologies, and frameworks. Experiment with new approaches and contribute to internal knowledge sharing. Collaboration: Work effectively within cross-functional teams, communicating complex technical concepts clearly to diverse stakeholders (both technical and non-technical). Documentation: Document processes, methodologies, and best practices for knowledge sharing and future reference. Use Case Differentiation: Distinguish between use cases suited for Generative AI versus traditional NLP applications (e.g., NER, sentiment analysis). Education : Master's degree or Engineering degree (or equivalent) in Computer Science, Engineering, Data Science, or a related quantitative field. Experience: 1-3+ years of hands-on experience in machine learning, software engineering, or data science, with demonstrated experience on complex AI projects specifically involving LLMs and Generative AI. Required Technical Skills: Strong programming skills, particularly in Python. Proficiency in at least one major GenAI application framework (LangChain, LlamaIndex, etc.). Proven experience in NLP/NLU, vector embeddings, and semantic search. Hands-on experience with fine-tuning LLMs. Mastery of advanced prompting techniques (Chain/Tree/Graph of Thought, ReAct, etc.). Knowledge of both proprietary and open-source model ecosystems (OpenAI, Anthropic, Mistral AI, Hugging Face, models hosted on AWS/Azure/GCP, etc.). Experience with Cloud platforms (AWS, Azure, or GCP) and their associated MLOps/AI services. Familiarity with MLOps principles, CI/CD tools, Docker, and Git. Soft Skills: Excellent communication skills (written and verbal), ability to explain complex technical concepts simply. Strong analytical and complex problem-solving abilities. Team player with the ability to collaborate effectively with diverse profiles. Curiosity, pioneering spirit, and a demonstrated commitment to continuous learning. Preferred Qualifications: Experience building agentic AI systems (e.g., LangGraph, AutoGen). Experience with vector databases (e.g., pgvector, Pinecone, Chroma, OpenSearch). Experience developing conversational AI systems / chatbots. Familiarity with deep learning frameworks (PyTorch, TensorFlow). Understanding of or experience with protocols and standards for connecting LLMs to external tools and databases, such as Model Context Protocol (MCP). Experience deploying models at scale in production environments. Compensation & Benefits Salary range is between $81,000.00-$102,000.00 annually + Annual Discretionary Bonus Healthcare coverage that includes 3 medical plan options: Anthem – EPO HSA, EPO HSA MERP, and PPO; dental and vision through MetLife; and life insurance policies through Mutual of Omaha Flexible Spending Account (FSA) Paid Time Off Parental leave paid at 100% of base pay for all new parents 9 Company Holidays + 1 Floating Holiday 401(k) Plan - 4% matching and vested on day 1 College save-up plan & college loan repayment plan Monthly cell phone stipend Pre-tax account for Parking and Mass Transit Sia provides several wellness and incentive programs free of charge through the firm medical plan – Anthem - such as: Gym Reimbursement LiveHealth Online Well-being Coach Building Healthy Families Program And much more Diversity, Equity, Inclusion & Belonging At Sia, we believe in fostering a diverse, equitable and inclusive culture where our employees and partners are valued and thrive in a sense of belonging . We are committed to recruiting and developing a diverse network of employees and investing in their growth by providing unique opportunities for professional and cultural immersion. Our commitment toward inclusion motivates dynamic collaboration with our clients, building trust by creating an inclusive environment of curiosity and learning which affects lasting impact. Please visit our website for more information. Sia
+
+---
+
+## 5. [MAYBE] HCSC | Analytics Consultant
 - Link: https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TN---Nashville/Analytics-Consultant_R0055195-1
 - Location: 6 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -101,7 +120,7 @@ At HCSC, our employees are the cornerstone of our business and the foundation to
 
 ---
 
-## 5. [MAYBE] DXC Technology | Analista de Reporting (Power BI / Excel)
+## 6. [MAYBE] DXC Technology | Analista de Reporting (Power BI / Excel)
 - Link: https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESP---MD---LAS-ROZAS/Analista-de-Reporting--Power-BI---Excel-_51586705
 - Location: ESP - MD - LAS ROZAS
 - Posted: Nov 04 (board gives the date only)
@@ -115,7 +134,7 @@ Job Description: DXC ayuda a empresas globales a ejecutar sus sistemas y operaci
 
 ---
 
-## 6. [MAYBE] ALFA LAVAL | Business Improvement Analyst
+## 7. [MAYBE] ALFA LAVAL | Business Improvement Analyst
 - Link: https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Scarborough-ON/Business-Improvement-Analyst_JR0049438-1
 - Location: 2 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -129,7 +148,7 @@ At Alfa Laval, we always go that extra mile to overcome the toughest challenges.
 
 ---
 
-## 7. [MAYBE] Axle | Data Scientist, Medical Imaging
+## 8. [MAYBE] Axle | Data Scientist, Medical Imaging
 - Link: https://job-boards.greenhouse.io/axle/jobs/5286265007
 - Location: Remote
 - Posted: Nov 05 12:41 ET
@@ -143,7 +162,7 @@ At Alfa Laval, we always go that extra mile to overcome the toughest challenges.
 
 ---
 
-## 8. [MAYBE] Adventist Health | Ambulatory Reimbursement Analyst
+## 9. [MAYBE] Adventist Health | Ambulatory Reimbursement Analyst
 - Link: https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73267
 - Location: Roseville, CA, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -157,7 +176,7 @@ Located in the metropolitan area of Sacramento, the Adventist Health corporate h
 
 ---
 
-## 9. [MAYBE] Dimensional Fund Advisors | Analyst, Portfolio Management (Equities)
+## 10. [MAYBE] Dimensional Fund Advisors | Analyst, Portfolio Management (Equities)
 - Link: https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Analyst--Portfolio-Management--Equities-_2026-9050
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -171,7 +190,7 @@ Job Description: Portfolio Management is responsible for the daily oversight and
 
 ---
 
-## 10. [MAYBE] Novanta | Demand Analyst [C]
+## 11. [MAYBE] Novanta | Demand Analyst [C]
 - Link: https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/North-Syracuse-NY/Demand-Analyst--C-_R009898
 - Location: North Syracuse, NY
 - Posted: Nov 05 (board gives the date only)
@@ -185,7 +204,21 @@ Build a career powered by innovations that matter! At Novanta, our innovations p
 
 ---
 
-## 11. [MAYBE] University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law
+## 12. [MAYBE] UTHealth Houston | Clinical Reporting Analyst - Intermediate
+- Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8405
+- Location: San Antonio, TX, United States US
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~64 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time (20 h/week stated)
+- Title scope: core | Has: dashboard, excel, power bi, sql, tableau, git, healthcare, portfolio, reporting, research, validation | Lacks: qlik  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Under supervision, the Clinical Reporting Analyst-Associate will collaborate with internal and external stakeholders, clinical systems analysts and work with leaders within health information systems and clinic operations to analyze, create specifications, build, test, and implement reports that are needed to support the various clinical applications including but not limited to Epic. The Clinical Reporting Analyst will provide second-tier support to their counterparts from other application disciplines and end-users to successfully meet the development and implementation objectives for assigned applications. Work autonomously and collaboratively with other team members, as well as cross functionally to determine data and reporting requirements, and design specifications for the creation and delivery of reports. Must demonstrate proficiency with at least one or a combination of report writing and distribution tools that include (but are not limited to) Epic Cogito (Reporting Workbench, Radar Dashboards, SlicerDicer), Business Objects, Crystal Reports Tableau and Power BI. Extract data from various internal and/ or external data sources that include (but are not limited to) Epic Clarity (SQL), Epic Caboodle (SQL), Chronicles, Mosaiq (SQL), and Ascend (SQL), in order to provide decision support to Clinical Operations, Quality and Case Management teams. Gather and summarize data to support research projects. Demonstrate specialized knowledge of, and proficiency in relational databases and expertise in at least one Epic data model. Participate in various population management and patient care projects by developing complex and actionable patient panel and care gap reports and dashboards. Assist Health IT leadership with report creation for various regulatory submissions and re-imbursement programs. Present findings using verbal, written, and graphic communication techniques. Offer recommendations to support organizational performance or workflow improvement. Create, test, validate and maintain a portfolio of routine and ad-hoc reports, scorecards, and dashboards. Develop and maintain appropriate documentation and tracking for all new and existing build. Participate in system upgrades; Test and verify software releases by reviewing release notes. Perform necessary build tasks and any changes prior to the promotion of code to the production environment. Develop testing scripts, processes, and documentation. Demonstrate a detailed understanding of clinical/business operations workflows and system configuration gained by participating in validation sessions with project team members and assisting in system design. Develop test and validation plans and executing test scenarios related to the build. Provide technical support for clinical reporting solutions. Activities include problem analysis, break/fix, design/modeling, implementation/coding, and testing. Design and implement solutions that facilitate efficient, reliable, and compliant data collection, analysis, and reporting. Other duties as assigned. Proven ability to successfully execute multiple assignments simultaneously in a complex environment. Demonstrated critical and analytical thinking proficiencies. Strong written and verbal communication skills. Demonstrated troubleshooting competencies. Excellent organizational management skills. Education: A minimum of three (3) years of relevant experience with demonstrated experience and proficiency working with business intelligence tools. Examples include, but are not limited to: Reporting Workbench, Radar Dashboards, Registries, Healthy Planet, Slicer/Dicer, Clarity/Caboodle Data Model, Crystal Reports, WEBi, Power BI, Tableau, or Qlik Experience: Bachelor’s degree OR four (4) years of comparable experience may be substituted for a degree. Licenses & Certifications: Certified in Epic Reporting Workbench or Epic Radar is preferred. Certified in Tableau is preferred. As specified by the department director, Epic certification for assigned Reporting Workbench or Radar is required within eighteen (18) months of hire. Epic certification must be maintained per Epic Corporation standards. As specified by the department director, additional certifications for assigned software analytical tools (such as Tableau) are required within thirty-six (36) months of hire. Certification must be maintained per Health-IT standards. The University of Texas at San Antonio (UT San Antonio) is a nationally recognized, top-tier public research university that unites the power of higher education, biomedical discovery and healthcare within one visionary institution. As the third-largest research university in Texas and a Carnegie R1-designated institution, UT San Antonio is a model of access and excellence — advancing knowledge, social mobility and public health across South Texas and beyond. UT San Antonio serves approximately 42,000 students in 320 academic programs spanning science, engineering, medicine, health, liberal arts, AI, cybersecurity, business, education and more. With 17,000 faculty and staff, UT San Antonio has been recognized by Forbes as one of America’s Best Employers for Company Culture . Benefits Overview UT Health San Antonio offers an excellent benefits package for its employees. Employees who work at least 20 hours a week, with an appointment of at least 4.5 months, are eligible for benefits. Medical - UT SELECT Medical insurance is offered free for employees and administered by Blue Cross and Blue Shield of Texas. Family members can be added to the plan through payroll deduction. Employees and their dependents can also receive discounted copays and coinsurance when using UT Health Physicians, a network of 800 premier physicians including more than 100 specialists. Employees receive $50,000 of group term life insurance and $50,000 of basic accidental death and dismemberment insurance for free, with options to purchase additional employee and dependent coverage for both at group rates. Dental - Three dental insurance plan options are available for employees and their families through Delta Dental Insurance Company, two PPOs and one dental HMO plan. Both PPO plans allow employees to choose any licensed dentist. Vision - Fully insured Vision Care benefits are offered by Superior Vision Services. Two vision plan options that offer either standard or enhanced vision benefits. Disability - Employees can enroll in the Disability Insurance which provides income if a non-work related illness or injury prevents you from working. FSAs - Employees can enroll in flexible spending accounts (FSAs) to set aside money from earnings before taxes for qualifying dependent day care expenses or out-of-pocket health care expenses. Retirement - Employees are eligible for either the Teacher Retirement System (TRS) or the Optional Retirement Plan (ORP). TRS is a defined benefit retirement plan which UT Health matches employee contributions. ORP is for eligible faculty staff employees. Voluntary retire [...]
+
+---
+
+## 13. [MAYBE] University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law
 - Link: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Professional-Development-Program-Coordinator--Center-for-Women-in-Law_R_00049852
 - Location: UT MAIN CAMPUS
 - Posted: Nov 04 (board gives the date only)
@@ -199,7 +232,7 @@ Job Posting Title: Professional Development Program Coordinator, Center for Wome
 
 ---
 
-## 12. [MAYBE] Desjardins Group | Credit Risk Strategy Data Scientist
+## 14. [MAYBE] Desjardins Group | Credit Risk Strategy Data Scientist
 - Link: https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Scientifique-de-donnes--Stratgies-risque-de-crdit_R2613542-1
 - Location: Montréal
 - Posted: Nov 05 (board gives the date only)
@@ -213,7 +246,7 @@ The Credit Risk Strategy Department develops and implements credit risk decision
 
 ---
 
-## 13. [MAYBE] Manulife Financial | Data Analyst / Business Analyst
+## 15. [MAYBE] Manulife Financial | Data Analyst / Business Analyst
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Data-Analyst---Business-Analyst_JR26101524
 - Location: Quezon City
 - Posted: Nov 04 (board gives the date only)
@@ -227,7 +260,7 @@ Overview: We are seeking a business-facing technical Data Analyst to translate G
 
 ---
 
-## 14. [MAYBE] Canadian Tire | Data Analyst
+## 16. [MAYBE] Canadian Tire | Data Analyst
 - Link: https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Laval-QC/Data-Analyst_JR166738
 - Location: Laval, QC
 - Posted: Nov 04 (board gives the date only)
@@ -241,7 +274,7 @@ Joining the Canadian Tire team in the FGL Sports division, you will be working a
 
 ---
 
-## 15. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
+## 17. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644686
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -255,7 +288,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 16. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
+## 18. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644676
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -269,7 +302,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 17. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
+## 19. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
 - Link: https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Investment-Treasury-Portfolio-Analyst_R95096-1
 - Location: Boston, MA, United States
 - Posted: Nov 04 (board gives the date only)
@@ -283,7 +316,7 @@ About Us Wellington Management offers comprehensive investment management capabi
 
 ---
 
-## 18. [MAYBE] BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG)
+## 20. [MAYBE] BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG)
 - Link: https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Analytics-Specialist--Associate--Portfolio-Analytics-Group--PAG-_R266280
 - Location: New York, NY
 - Posted: Nov 05 (board gives the date only)
@@ -297,7 +330,7 @@ About this role About the Portfolio Analytics Group (PAG): Join the Portfolio An
 
 ---
 
-## 19. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
+## 21. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
 - Link: https://centrica.wd3.myworkdayjobs.com/Centrica/job/Leicester/Business-Intelligence---Reporting-Analyst-_R0090515-1
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -311,7 +344,7 @@ Join us, be part of more. We’re so much more than an energy company. We’re a
 
 ---
 
-## 20. [MAYBE] ARQ | Finance Analytics Engineer | FP&A
+## 22. [MAYBE] ARQ | Finance Analytics Engineer | FP&A
 - Link: https://jobs.ashbyhq.com/arq/a913e0d4-919b-4008-b7c4-9f964c496547
 - Location: London United Kingdom remote
 - Posted: Nov 05 11:15 ET
@@ -409,7 +442,55 @@ BENEFITS
 
 ---
 
-## 21. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
+## 23. [MAYBE] Toyota Research Institute | Research Scientist, Robotics Research
+- Link: https://jobs.lever.co/tri/6afc7585-a464-4c41-93a2-96d15962f325
+- Location: Cambridge, MA Cambridge, MA US
+- Posted: Nov 05 14:05 ET
+- Scanner fit: ~52 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, machine learning, python, pytorch, tensorflow, pipeline, publication, research | Lacks: c++, scala
+
+### Job description
+
+At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material sciences.
+
+
+The Vision
+We envision a future with robots that help people in our real environments with interactions that allow robots to understand, adapt, and grow with us. We believe that robots should and will work well alongside people: helping where wanted, and ultimately enabling people to spend more time on the activities they enjoy most. To achieve this, robots need to be able to operate reliably in messy, unstructured environments. We must also create robots that people can understand, collaborate with, and rely on.
+ 
+The Team
+Our team has deep cross-functional expertise across hardware, simulation, perception, controls, and machine learning. We measure our success in terms of fundamental capabilities development, as well as research impact via open-source software and publications. Come join us and let’s make general-purpose robots a reality.
+ 
+Some of our ongoing work is highlighted here.
+ 
+The Opportunity
+We’re looking for a driven researcher with a “make it happen” mentality. The ideal candidate is able to operate independently when needed, but works well as part of a larger integrated group at the cutting edge of state-of-the-art robotics and machine learning. If our mission of revolutionizing robotics through machine learning resonates with you, get in touch and let’s talk about how we can create the next generation of AI-powered capable robots together!
+ Work as part of a dynamic, closely-knit research team building useful robots and general-purpose robot foundation models. Implement, extend, and create state-of-the-art methods for robot behavior learning from a mixture of interactive embodied data and online data sources. Design and implement high-performance machine-learning pipelines and optimize data and learning stacks for scalability, efficiency, and performance. Be a key member of the team and play a critical role in rapid progress measured by both the development of internal capabilities and high-impact external publication. Collaborate with internal research scientists and our partner labs at top academic research universities including MIT, Stanford, Berkeley, CMU, Columbia, and Princeton to drive pioneering research at scale. PhD in computer science, machine learning, robotics, or a closely related field. Experience training large models and deploying them on embodied systems, particularly toward robotic manipulation. Strong software development skills in Python, familiarity with mixed C++/Python codebases, and a focus on clean, maintainable code. Extensive practical experience with Machine Learning using a major framework such as PyTorch or TensorFlow. Familiarity with data pipelines, model serving and optimization, cloud training, and dataset management. Strong understanding of the state-of-the-art in robot learning, including generative models (e.g., diffusion policy, flow matching), reinforcement learning, and/or world models. Practical experience with robots and the system integration challenges inherent in conducting research and deploying onto physical hardware platforms. An ability to move fast and switch between modes of rapid prototyping and robust implementation as required. A strong track record of impact, either via first author research publications at top-tier machine learning or robotics conferences (RSS, NeurIPS, ICML, CoRL, ICRA, IROS, …), or via meaningful contributions to successful industry initiatives. Experience in robotics and machine learning research or related projects in an industry setting. Experience with robotic middleware such as ROS 2 and common communication methods and protocols. Experience with modern ML infrastructure pipelines, approaches, and tools. Experience with VR-based teleoperation for real-time robot control. Background or familiarity with some of the following: motion control and actuation, whole-body control, reinforcement learning, robot teleoperation methods, common communication protocols, research robotic arms/systems, visual perception and depth sensors, machine learning, robotic simulation, force and tactile sensing systems, haptic interfaces. The pay range for this position at commencement of employment is expected to be between $158,400  and $227,700 /year for Massachusetts-based roles. Base pay offered will depend on multiple individualized factors, including, but not limited to, a candidate's experience, skills, job-related knowledge, and market location. TRI offers a generous benefits package including medical, dental, and vision insurance, 401(k) eligibility, paid time off benefits (including vacation, sick time, and parental leave), and an annual cash bonus structure. Additional details regarding these benefit plans will be provided if an employee receives an offer of employment. 
+
+
+Please reference this Candidate Privacy Notice to inform you of the categories of personal information that we collect from individuals who inquire about and/or apply to work for Toyota Research Institute, Inc. or its subsidiaries, including Toyota A.I. Ventures GP, L.P., and the purposes for which we use such personal information.
+ 
+TRI is fueled by a diverse and inclusive community of people with unique backgrounds, education and life experiences. We are dedicated to fostering an innovative and collaborative environment by living the values that are an essential part of our culture. We believe diversity makes us stronger and are proud to provide Equal Employment Opportunity for all, without regard to an applicant’s race, color, creed, gender, gender identity or expression, sexual orientation, national origin, age, physical or mental disability, medical condition, religion, marital status, genetic information, veteran status, or any other status protected under federal, state or local laws.
+ 
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records for employment.
+
+---
+
+## 24. [MAYBE] Arkansas Blue Cross | Data Analyst
+- Link: https://arkbluecross.wd1.myworkdayjobs.com/abcbs_external_careers/job/Little-Rock-AR/Data-Analyst_R0013656
+- Location: Little Rock, AR
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~52 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: data visualization, r, sql, statistic, classification, healthcare, reporting, research, validation | Lacks: actuar, sas  | Note: no H-1B filings found for this employer
+
+### Job description
+
+To learn more about Arkansas Blue Cross and Blue Shield Hiring Policies, please click here . Job Summary This position provides critical support for the quality, validity and integrity of confidential data to use in decision making and organizational efficiency improvement initiatives. The Data Analyst retrieves, analyzes and summarizes business, medical, operations, financial, sales, customer and/or economic data in order to develop competitive and business intelligence, to optimize effectiveness and/or predict business outcomes. Incumbent identifies, analyzes, and interprets trends or patterns and prepares ongoing reports and data visualizations in order to support business decisions. Requirements EDUCATION Bachelor’s degree in Science, Technology, Math, Business, Data Science/Informatics, Actuarial Science, Healthcare Management, or other related field. In lieu of degree, five (5) years' health-related, non-clerical experience with an insurance, managed care, or healthcare technology-related organization will be considered. EXPERIENCE Minimum three (3) years' data analytics experience, which includes data extraction, data manipulation, repository building and data interpretation. OR applicable Masters in related field with minimum one (1) years' data analytics experience. Experience with rational database i.e. SAS, SQL, AQT and MS Windows based query software. Experience with the application of data management and analysis tools including but not limited to MS Access, SAS, R, S+, SQL, or Cognos preferred. ESSENTIAL SKILLS & ABILITIES Process Information Deductive Reasoning Category Flexibility Case-Based Reasoning Problem Solving Report Creation Report Processing Report Presentations Objectives Oriented Strategic Approach Critical Thinking Organizing Prioritization Planning Activities MySQL IBM Cognos Impromptu Mathematical Reasoning Problem Sensitivity Interpersonal Communication Applied Research External Communication Sound Judgment Decision Making Written Expression Written Comprehension Information Collection Analyze Information Skills • Analytical Decision Making&#xa;• Analytical Problem Solving&#xa;• Collaborative Communications&#xa;• Critical Reasoning&#xa;• Critical Thinking&#xa;• Cross-Functional Communications&#xa;• Cross-Functional Planning&#xa;• Data Analysis&#xa;• Database Queries&#xa;• Data Management&#xa;• Deductive Reasoning&#xa;• IBM Cognos Impromptu&#xa;• Information Interpretation&#xa;• Management Techniques&#xa;• Mathematical Reasoning&#xa;• MySQL Database Administration&#xa;• Object Classification&#xa;• Problem Sensitivity&#xa;• Researching&#xa;• Security Awareness&#xa;• Sound Judgment&#xa;• Strategic Planning&#xa;• Written Communication Responsibilities • Consults with users or decision makers to identify data sources, required data elements, and/or data validation standards.&#xa;• Integrates data from multiple data sources or functional areas, ensures data accuracy and integrity, and updates data as needed to develop statistics and design methodologies to be used for decision making and new business initiatives.&#xa;• Interprets data to identify business trends, conduct root cause analysis of business problems, and suggest areas for process improvement.&#xa;• Manages and uses ad-hoc report requests and findings to develop reporting processes.&#xa;• Serves on special projects. Certifications Hiring Range $63,800.00 - $82,800.00 Security Requirements This position is identified as level three (3). This position must ensure the security and confidentiality of records and information to prevent substantial harm, embarrassment, inconvenience, or unfairness to any individual on whom information is maintained. The integrity of information must be maintained as outlined in the company Administrative Manual. Segregation of Duties Segregation of duties will be used to ensure that errors or irregularities are prevented or detected on a timely basis by employees in the normal course of business. This position must adhere to the segregation of duties guidelines in the Administrative Manual. Employment Type Regular ADA Requirements 2.1 General Office Worker, Semi-Active, Campus Travel - Someone who normally works in an office setting or remotely, periodically has lifting and carrying requirements up to 40 lbs and routinely travels for work within walking distance of location of primary work assignment as essential functions of the job.
+
+---
+
+## 25. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
 - Link: https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Financial-Reporting-Analyst---Capital-Access-Platforms_R0027263
 - Location: USA - New York City - New York
 - Posted: Nov 04 (board gives the date only)
@@ -423,7 +504,7 @@ Nasdaq is seeking a highly motivated Financial Reporting Analyst to join the Div
 
 ---
 
-## 22. [MAYBE] CVS Health | Coordinator, Financial Reporting Analysis
+## 26. [MAYBE] CVS Health | Coordinator, Financial Reporting Analysis
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Work-from-hom/Coordinator--Financial-Reporting-Analysis_R1080792
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -437,7 +518,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 23. [MAYBE] Oshkosh | Data Engineer
+## 27. [MAYBE] Oshkosh | Data Engineer
 - Link: https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Data-Engineer_R51538-1
 - Location: 2 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -451,7 +532,7 @@ About JLG, an Oshkosh company JLG began in 1969, when our founder, John L. Grove
 
 ---
 
-## 24. [MAYBE] City of Philadelphia | Data Engineer-Integration Specialist
+## 28. [MAYBE] City of Philadelphia | Data Engineer-Integration Specialist
 - Link: https://jobs.smartrecruiters.com/CityofPhiladelphia/744000159941284
 - Location: Philadelphia PA us
 - Posted: Nov 05 12:52 ET
@@ -465,7 +546,7 @@ Data Engineering at the City is a unique opportunity for meaningful, exciting wo
 
 ---
 
-## 25. [MAYBE] Texas A&M AgriLife Research | Research Assistant
+## 29. [MAYBE] Texas A&M AgriLife Research | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Research-Assistant_R-094686-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -479,7 +560,7 @@ Job Title Research Assistant Agency Texas A&M Agrilife Research Department Range
 
 ---
 
-## 26. [MAYBE] Texas A&M University System | Research Assistant
+## 30. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-094686
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -493,7 +574,21 @@ Job Title Research Assistant Agency Texas A&M Agrilife Research Department Range
 
 ---
 
-## 27. [MAYBE] Repligen | Strategy Analyst/Associate
+## 31. [MAYBE] DiDi Global | Machine Learning Engineer - Agentic AI
+- Link: https://job-boards.greenhouse.io/didi/jobs/8356571
+- Location: San Jose, CA
+- Posted: Nov 05 14:18 ET
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: llm, machine learning, python, deep learning, publication, research | Lacks: c++  | Note: no H-1B filings found for this employer
+
+### Job description
+
+About The Company DiDi's autonomous driving unit was established in 2016 with the mission of developing Level 4 autonomous driving (AD) technology to make transportation safer and more efficient. In August 2019, the unit became an independent company, DiDi Autonomous Driving, dedicated to advanced AD R&amp;D, product application, and business expansion. We believe integrating AD technology into a shared-mobility fleet will generate immense social value. By leveraging DiDi's specialized technology, operational expertise, and integrated ecosystem, we are positioned to build and operate a highly efficient, user-oriented autonomous fleet. &nbsp; About The Role Autonomous driving software today improves mostly by hand: engineers collect data, train models, and tune modules. This role explores a different approach, in which AI agents take part in that work. Agents propose changes to policy code, data, training recipes, or model code. They then evaluate the results, diagnose failures, and turn verified fixes into reusable skills and data for the next round. With DiDi Voyager's real-world driving data and large-scale evaluation infrastructure, the goal is a loop that produces improvements that generalize across scenarios, pass safety gates, and reach the vehicle. The role combines machine learning, agentic systems, and autonomous driving, and will help shape both the onboard architecture and how driving software is developed. &nbsp; Responsibilities Build agentic harnesses for autonomous driving. Agents get permissioned access to the driving stack, data, training infrastructure, and evaluation environments, along with automatic scenario setup and pass/fail checks, so they can run experiments without a person in every step.&nbsp; Develop recursive self-improvement (RSI) loops. These include failure mining, candidate generation, evolutionary search, and targeted data generation aimed at the policy's current weaknesses. Each round should also improve the process that produces the next one. Curate a reusable skill library. Verified fixes become knowledge that later tasks can build on, with checks that a skill actually helps before it is promoted. Train LLMs on our own agent data.&nbsp;Turn development trajectories into training data, and fine-tune LLMs to work fluently with our software stack, tools, and codebase. Advance agent-as-policy approaches.&nbsp;Agents improve driving behavior directly: they write policy logic, curate data, adjust training recipes and objectives, and trace driving failures back to their causes. Shape the onboard architecture.&nbsp;Decide what runs on the vehicle and what stays offline, within onboard limits on latency, compute, determinism, and safety. Work closely with the prediction, planning, simulation, and onboard teams to turn prototypes into production workflows. &nbsp; Qualifications Strong background in machine learning, such as deep learning, reinforcement learning, or decision-making systems Hands-on experience building LLM agent systems, such as tool use, multi-agent orchestration, or automated evaluation loops Experience training or fine-tuning LLMs for agentic workflows, including trajectory data curation, supervised fine-tuning, or RL from execution feedback Strong Python skills and working C++ Rigorous experimental habits: controlled comparisons, held-out evaluation, and a clear line between what was measured and what was assumed Ability to own a system from research prototype to production &nbsp; Preferred Qualifications&nbsp; Built an agentic harness or self-improving loop for a specific product or domain Experience in autonomous driving or robotics, especially planning, prediction, simulation, or sim-to-real transfer Familiarity with code-as-policy, program synthesis, LLM-driven optimization, or evolutionary search Publications at top ML or robotics venues (NeurIPS, ICML, ICLR, CVPR, RSS, CoRL, etc.) BS, MS, or PhD in Computer Science, Machine Learning, Robotics, or a related field &nbsp; The annual base salary range for the Senior ML Engineer position is $169,783–$282,264. In addition to base salary, compensation includes bonus, equity, and benefits. The salary ranges are determined by role, level, and location. Individual compensation within the range depends on several factors, including work location, job-related skills, relevant experience, and education or training. I acknowledge that prior to submitting this application, I have read and accepted the Privacy Notice for California Residents which is available on https://v.didi.cn/AQnxlBa
+
+---
+
+## 32. [MAYBE] Repligen | Strategy Analyst/Associate
 - Link: https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Waltham-MA/Strategy-Analyst-Associate_R-610
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -507,7 +602,7 @@ Repligen is a global pure-play bioprocessing company with highly differentiated 
 
 ---
 
-## 28. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
+## 33. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
 - Link: https://transamerica.wd5.myworkdayjobs.com/AEGONAM/job/NLD-Schiphol/Responsible-Investment-Analyst_R20063237-1
 - Location: NLD Schiphol
 - Posted: Nov 04 (board gives the date only)
@@ -521,7 +616,7 @@ Job Description Summary Job Description Responsible Investment team and role ove
 
 ---
 
-## 29. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
+## 34. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644656
 - Location: Long Island City NY us
 - Posted: Nov 05 06:35 ET
@@ -535,7 +630,7 @@ The Center for Population Health Data Science (CPHDS)- launched in October of 20
 
 ---
 
-## 30. [MAYBE] Accenture | Analista de Analytics - Híbrido
+## 35. [MAYBE] Accenture | Analista de Analytics - Híbrido
 - Link: https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Analista-Pleno-de-Engenharia-de-Dados_R00351665
 - Location: see posting
 - Posted: Nov 04 (board gives the date only)
@@ -549,7 +644,7 @@ Sobre a Accenture A Accenture ajuda as principais empresas do mundo a se reinven
 
 ---
 
-## 31. [MAYBE] Reddit | Machine Learning Engineer
+## 36. [MAYBE] Reddit | Machine Learning Engineer
 - Link: https://job-boards.greenhouse.io/reddit/jobs/8349916
 - Location: San Francisco, CA
 - Posted: Nov 05 11:13 ET
@@ -563,7 +658,7 @@ Reddit is a community of communities. It’s built on shared interests, passion,
 
 ---
 
-## 32. [MAYBE] Amazon | Applied Scientist , Fauna
+## 37. [MAYBE] Amazon | Applied Scientist , Fauna
 - Link: https://www.amazon.jobs/en/jobs/10598028/applied-scientist-fauna
 - Location: New York, New York, USA
 - Posted: Nov 05 (board gives the date only)
@@ -577,7 +672,7 @@ We are seeking an Applied Scientist to develop and optimize Visual Inertial Odom
 
 ---
 
-## 33. [MAYBE] EXL | Snowflake Data Engineer
+## 38. [MAYBE] EXL | Snowflake Data Engineer
 - Link: https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21585
 - Location: New York, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -591,7 +686,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 34. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
+## 39. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644496
 - Location: New York City NY us
 - Posted: Nov 05 06:29 ET
@@ -605,7 +700,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 35. [MAYBE] Cerebras | AI Engineer
+## 40. [MAYBE] Cerebras | AI Engineer
 - Link: https://jobs.ashbyhq.com/cerebras/c6f607ce-306c-4deb-8825-4175201a7cd4
 - Location: Sunnyvale, CA United States remote
 - Posted: Nov 04 17:08 ET
@@ -684,7 +779,7 @@ Cerebras Systems
 
 ---
 
-## 36. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
+## 41. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
 - Link: https://jobs.lever.co/erg/ffa7e5a8-5d49-4608-a3b0-9a5ff07a3f0a
 - Location: Morrisville, NC Morrisville, NC US
 - Posted: Nov 05 11:07 ET
@@ -701,7 +796,7 @@ ERG
 
 ---
 
-## 37. [MAYBE] PennState University | Part Time Research Assistant
+## 42. [MAYBE] PennState University | Part Time Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000069624-1
 - Location: Penn State University Park
 - Posted: Nov 05 (board gives the date only)
@@ -715,7 +810,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 38. [MAYBE] UTHealth Houston | Research Assistant
+## 43. [MAYBE] UTHealth Houston | Research Assistant
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8164
 - Location: San Antonio, TX, United States US
 - Posted: Nov 05 (board gives the date only)
