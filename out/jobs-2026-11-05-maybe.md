@@ -11,11 +11,15 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 5 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
 | 6 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
 | 7 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 8 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 9 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 10 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 11 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 12 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
+| 8 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 9 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 10 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 11 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 12 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 13 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 14 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 15 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
+| 16 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
 
 ---
 
@@ -117,7 +121,21 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 8. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
+## 8. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
+- Link: https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Investment-Treasury-Portfolio-Analyst_R95096-1
+- Location: Boston, MA, United States
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 32 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, python, r, sql, derivatives, portfolio, quantitative, research, risk, trading | Lacks: cfa, scala
+
+### Job description
+
+About Us Wellington Management offers comprehensive investment management capabilities that span nearly all segments of the global capital markets. Our investment solutions, tailored to the unique return and risk objectives of institutional clients in more than 60 countries, draw on a robust body of proprietary research and a collaborative culture that encourages independent thought and healthy debate. As a private partnership, we believe our ownership structure fosters a long-term view that aligns our perspectives with those of our clients. About the Role Overview The Investment Treasury Portfolio Analyst, based in Boston, will work closely with Portfolio Management and Trading and help manage the firm’s liquidity, funding, currency exposures, collateral, and related financing across Wellington portfolios. The role is part of the Investment Platform within the Investment Implementation and Trading department and acts as a bridge across investment teams, trading, operations, and client-facing partners. This is an opportunity for a motivated, analytically strong candidate to help strengthen regional resilience, support time-zone liquidity management, and contribute to a more scalable global Investment Treasury platform. The successful candidate will combine sound judgment, market interest, stakeholder communication, and a strong entrepreneurial spirit to build a center of excellence in the region. Responsibilities Primary responsibilities include: Managing and rebalancing portfolio currency exposures in response to cash flows, active trades, benchmark changes, market movements, and changes in client guidelines Supporting liquidity management, including daily cash positioning, funding decisions, and timely escalation of liquidity or overdraft matters Managing regional repo activity and related financing workflows, including coordination with risk takers, trading, and global stakeholders to support portfolio funding, collateral usage, and liquidity objectives Monitoring portfolio positions, exposures, and key market sensitivities to ensure activity remains consistent with client guidelines, investment objectives, and risk expectations Partnering with Portfolio Management, Trading, Operations, and client-facing teams to resolve portfolio issues, coordinate across regions, and communicate clearly in time-sensitive situations Developing tools, analytics, and scalable workflows that improve transparency, reduce operational risk, and support the growth of the Investment Treasury platform Qualifications The strongest candidate for this position is likely to have: Approximately 3-5 years of relevant professional experience, ideally in investment management, trading, portfolio analysis, trade coordination, client transition, cash management, or a related capital markets role; Strong quantitative and analytical skills, intellectual curiosity, attention to detail, and comfort working with data to identify issues, explain outcomes, and improve decisions; Demonstrated interest in capital markets, with exposure to fixed income, foreign exchange, derivatives, liquidity management, or related investment workflows viewed favorably; Sound judgment, risk awareness, and the ability to operate effectively under time pressure, including knowing when to solve independently and when to escalate; Excellent written and verbal communication skills, with the ability to distill complex portfolio, liquidity, or risk topics into clear messages for investment, operational, and client-facing stakeholders; A self-starter mindset, comfort with ambiguity, and a desire to improve processes, build scalable solutions, and contribute to a collaborative global team; Experience with Python, SQL, or other coding tools would be valuable, particularly for candidates interested in automation, analytics, and building scalable workflows. Not sure you meet 100% of our qualifications? That’s ok. If you believe that you could excel in this role, we encourage you to apply and welcome a chance to review your background. We are dedicated to building and maintaining a diversified workforce and considering a broad array of candidates with a variety of skill, workplace experiences, and backgrounds. As an
+
+---
+
+## 9. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
 - Link: https://centrica.wd3.myworkdayjobs.com/Centrica/job/Leicester/Business-Intelligence---Reporting-Analyst-_R0090515-1
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -131,7 +149,35 @@ Join us, be part of more. We’re so much more than an energy company. We’re a
 
 ---
 
-## 9. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
+## 10. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
+- Link: https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Financial-Reporting-Analyst---Capital-Access-Platforms_R0027263
+- Location: USA - New York City - New York
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 18 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, forecast, reporting, risk | Lacks: -
+
+### Job description
+
+Nasdaq is seeking a highly motivated Financial Reporting Analyst to join the Divisional Reporting & Analytics team within FP&A. This role will work closely with the Senior Director of Divisional Reporting & Analytics, and support the Divisional CFO and Business Unit CFOs by delivering insightful financial analysis, supporting forecasting and budget processes, and enabling data‑driven decision‑making for the Capital Assess Platforms Division at Nasdaq. The ideal candidate will serve as a trusted finance partner, working closely with business unit finance leads to inform capital allocation, track performance, and provide clear, actionable insights. This position offers strong exposure to senior leadership, cross‑functional collaboration, and the opportunity to meaningfully influence financial strategy in a fast‑paced, growth‑oriented environment. Partner with Divisional and Business Unit CFOs and Finance Leads to support budget setting, forecasting, and long‑range planning, ensuring alignment with divisional and corporate financial goals Deliver insightful financial analysis and variance commentary versus actuals, budget, and forecast, identifying key drivers, trends, and risks/opportunities to inform decision‑making Support month‑end close and forecast processes, including recording accurate transactions and ensuring data integrity across reporting and planning outputs Develop and maintain financial models and reporting to support strategic initiatives, capital allocation decisions, and performance management for the Capital Access Platforms Division Prepare and present financial reporting and executive‑level insights to senior management, while continuously improving financial processes, models, and systems to enhance efficiency and analytical rigor Education Required: Bachelor's Degree in Accounting, Finance or Business Administration Experience Required: 0-2 Years High proficiency in utilizing Workday, MS Excel, PowerPoint, and OneStream (Preferred) Come as You Are Nasdaq
+
+---
+
+## 11. [MAYBE] Repligen | Strategy Analyst/Associate
+- Link: https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Waltham-MA/Strategy-Analyst-Associate_R-610
+- Location: 2 Locations
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, quantitative, research, risk | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Repligen is a global pure-play bioprocessing company with highly differentiated solutions for biologics manufacturing. The Strategy & Business Development group at Repligen leads the development and execution of global corporate strategy. We have an ambitious strategic plan to double the size of our organization in the medium term, which involves rapid organic growth while remaining active in M&A, licensing, equity investing, and other partnerships. We are seeking a Strategy Analyst/Associate to support the annual Strategic Planning process. This role will also contribute to critical strategic initiatives across our business units across all functions and geographies. In addition, the role will support inorganic initiatives and diligence, including M&A, equity investments, and other partnerships. Responsibilities Strategic Analysis : Conduct in-depth market research, competitive analysis, and trend identification to evaluate new growth opportunities and potential risks. Primary Research : Execute primary market research to inform strategy, assess market opportunities, and support new product planning. Secondary Research : Collect insights from a variety of sources for competitive and market intelligence. Data & Insights : Collect, analyze, and synthesize complex quantitative and qualitative data to generate actionable insights and support strategic recommendations. Communication : Prepare compelling presentations and reports for senior management and cross-functional teams, clearly articulating key findings, opportunities, and strategic options. Business Case Development : Build financial models and business cases to assess the feasibility and potential impact of strategic projects, including mergers, acquisitions, and new product launches. Project Support : Assist in the planning and execution of strategic projects across various functions, such as R&D, commercial, and operations. Partner with stakeholders across the organization to gather input, ensure alignment, and drive the execution of strategic plans. Inorganic : Support diligence projects, including primary and secondary research, and synthesize/present findings and their potential impacts on the deal for key stakeholders. Qualifications Bachelor's degree in STEM; advanced degree preferred. 2-3 years of experience in strategy consulting or corporate strategy, preferably within the pharmaceutical, medical device, life science tools, or similar industry. Experience in bioprocessing ideal but not required. Exceptional analytical and problem-solving skills, with a strong ability to structure complex business problems and develop data-driven solutions. Track record of executing primary market research and synthesizing findings independently. Strong experience with secondary market research including competitive intelligence and market intelligence. Highly advanced capabilities in Microsoft PowerPoint and Excel are required. Proficiency and demonstrated practical implementation of AI highly desirable. Strong written and verbal communication skills, with the ability to convey complex ideas in a clear, concise, and professional manner. Demonstrated ability to manage multiple projects simultaneously and prioritize appropriately. Intellectual curiosity with respect to both technology and business Proactive mindset, attention to detail, and comfort with ambiguity Remote work will be considered Our mission is to inspire advances in bioprocessing as a trusted partner in the production of biologic drugs that improve human health worldwide. Focused on cost and process efficiencies, we deliver innovative technologies and solutions that help set new standards in bioprocessing. The estimated base salary range for this role, based in the United States of America is $128,000 - $185,000. Compensation decisions are dependent on several factors including, but not limited to an individual's qualifications, location, internal equity, and alignment with market data. Additionally, employees are eligible to participate in one of our variable cash programs (bonus or commission) and eligible roles may receive equity as part of the compensation package. We offer a wide range of benefits such as paid time off, health/dental/vision, retirement benefits and flexible spending accounts. All compensation and benefits information will be confirmed in writing at the time of offer.
+
+---
+
+## 12. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644656
 - Location: Long Island City NY us
 - Posted: Nov 05 06:35 ET
@@ -145,7 +191,7 @@ The Center for Population Health Data Science (CPHDS)- launched in October of 20
 
 ---
 
-## 10. [MAYBE] Accenture | Analista de Analytics - Híbrido
+## 13. [MAYBE] Accenture | Analista de Analytics - Híbrido
 - Link: https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Analista-Pleno-de-Engenharia-de-Dados_R00351665
 - Location: see posting
 - Posted: Nov 04 (board gives the date only)
@@ -159,7 +205,7 @@ Sobre a Accenture A Accenture ajuda as principais empresas do mundo a se reinven
 
 ---
 
-## 11. [MAYBE] EXL | Snowflake Data Engineer
+## 14. [MAYBE] EXL | Snowflake Data Engineer
 - Link: https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21585
 - Location: New York, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -173,7 +219,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 12. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
+## 15. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644496
 - Location: New York City NY us
 - Posted: Nov 05 06:29 ET
@@ -184,4 +230,83 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 ### Job description
 
 ** A FILING PERIOD HAS BEEN TENTATIVELY SCHEDULED FOR THIS CIVIL SERVICE TITLE. ELIGIBLE CANDIDATES MAY APPLY, BUT ARE ALSO ENCOURAGED TO FILE FOR THE EXAM ONCE THE FILING PERIOD OPENS. ** The mission of the New York City Police Department is to enhance the quality of life in New York City by working in partnership with the community to enforce the law, preserve peace, protect the people, reduce fear, and maintain order. The New York City Police Department strives to foster a safe and fair city through the strategic deployment of resources, focusing on both crime prevention and addressing quality-of-life concerns while building lasting community relationships. The Information Technology Services Division(ITSD) oversees critical projects and technological initiatives within the NYPO. They maintain and enhance the department's IT infrastructure, including networks, servers, and workstations. Notably, ITSD has rolled out various advancements, such as equipping officers with cellular phones applications and digitizing department forms to improve efficiency. ITSD is seeking a qualified candidate in the position of part-time Research Assistant, duties will include, but are not limited to: - Research, collect, and analyze historical and current data regarding server decommissioning and provisioning metrics, translating technical findings into structured operational reports - Examine system logs, technical records, and manufacturer documentation (including modem backup solutions and Microsoft platforms) to evaluate software/hardware feasibility - Research and author comprehensive technical documentation and formal reports for the SAS team's operational procedures and infrastructure updates - Maintain accurate records of infrastructure statistics, including VMware vCenter tagging configurations. system inventory health, and monitoring metrics - Perform quantitative analysis on server performance and system capacity to prepare data-driven reports supporting strategic infrastructure decisions TO APPLY: Click the Apply’ button below, or visit: http://cityjobs.nyc.gov and search for JOB ID #806810 ADDITIONAL INFORMATION: In compliance with federal Law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. The City of New York offers a comprehensive benefits package including health insurance for the employee and his or her spouse or domestic partner and unemancipated children under age 26, union benefits such as dental and vision coverage, paid annual leave and sick leave, paid holidays, a pension, and optional savings and pre-tax programs such as Deferred Compensation, IRA, and a flexible spending account. HOURS/SHIFT: Varies RESEARCH ASSISTANT - 60910 1. A baccalaureate degree from an accredited college and six months of satisfactory full-time experience in research which involves gathering, organizing and analyzing data, and report writing; or 2. An associate degree from an accredited college, or completion of 60 semester credits at an accredited college, and two years and six months of satisfactory full-time experience in research which involves gathering, organizing and analyzing data, and report writing; or 3. A four-year high school diploma or its educational equivalent and four years and six months of satisfactory full-time experience in research which involves gathering, organizing and analyzing data, and report writing; or 4. Education and experience equivalent to "1", "2", or "3" above. Undergraduate college credit can be substituted for experience on the basis of 30 semester credits from an accredited college for one year of full-time experience. Completion of nine credits, at the college or graduate school level, in statistics, quantitative methods, mathematics, or research can be substituted for six months of the required experience. However, all candidates must possess a four-year high school diploma or its educational equivalent and at least six months of required experience or the nine specialized credits. The City of New York is an inclusive
+
+---
+
+## 16. [MAYBE] Cerebras | AI Engineer
+- Link: https://jobs.ashbyhq.com/cerebras/c6f607ce-306c-4deb-8825-4175201a7cd4
+- Location: Sunnyvale, CA United States remote
+- Posted: Nov 04 17:08 ET
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, portfolio, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services. 
+
+This order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.
+
+Cerebras works with the leading model labs, global enterprises, and cutting-edge AI-native startups. OpenAI recently announced a multi-year partnership https://openai.com/index/cerebras-partnership/ with Cerebras, to deploy 750 megawatts of scale, transforming key workloads with ultra high-speed inference.
+
+
+ABOUT THE ROLE
+
+We’re looking for an AI Engineer who loves building with new models, experimenting with developer tools, and writing about what they learn. You’ll create prototypes that demonstrate what fast inference makes possible, optimize the harnesses around models, and turn your findings into technical content that helps other developers build.
+
+This is a hands-on role on our DevRel team. Technical writing is a core part of the job. You’ll take projects from an interesting question through implementation, testing, and a clear explanation others can follow. You should be as comfortable debugging an agent workflow or comparing model behavior as you are writing a tutorial or presenting a demo.
+
+
+
+
+WHAT YOU’LL OWN
+
+ - Technical writing: Write blogs, tutorials, walkthroughs, and practical guides grounded in your own experiments. Explain how things work, why implementation choices matter, and how developers can reproduce your results.
+
+ - Prototypes and demos: Find original ways to showcase Cerebras fast inference. Build sample applications, notebooks, and interactive experiences that make the benefit tangible.
+
+ - Harness optimization: Build and improve the code and workflows around models, including prompts, tool use, context management, orchestration, and evaluation. Identify bottlenecks and test ways to improve speed, reliability, and output quality.
+
+ - Model experimentation: Try new models and investigate their capabilities, limitations, and fit for different tasks. Compare behavior on realistic workloads and turn useful findings into examples and recommendations for developers.
+
+ - Evaluation and reproducibility: Design practical tests, measure results, and validate technical claims. Make your code easy to run and explain the assumptions, tradeoffs, and limitations behind your conclusions.
+
+ - Launches and developer education: Partner with Product, Engineering, and New Media to create technically accurate launch examples, workshops, and stories. Present your work and help developers understand how to apply it.
+
+ - Developer feedback: Engage with developers, troubleshoot integrations, and turn recurring questions and friction into improvements to examples, documentation, and the product experience.
+
+
+SKILLS AND QUALIFICATIONS
+
+ - A strong portfolio of AI applications, prototypes, technical writing, tutorials, or other substantive developer-facing work.
+
+ - Hands-on experience building with model APIs and debugging AI application workflows.
+
+ - Excellent technical writing skills. You can turn a complex implementation or experimental result into a clear, useful explanation.
+
+ - Experience working with agent harnesses or related workflows involving prompting, tool calling, context management, and evaluation.
+
+ - An informed view of the AI developer ecosystem and curiosity about new models, frameworks, and emerging application patterns.
+
+ - Strong technical judgment. You can design fair comparisons, verify results, and distinguish observations from assumptions.
+
+ - Original ideas for demos and developer experiences, with a clear sense of what makes an example useful and engaging.
+
+ - The ability to scope projects, ship independently, incorporate feedback, and collaborate with technical and creative partners.
+
+
+PREFERRED EXPERIENCE
+
+ - Experience optimizing latency, responsiveness, or reliability in AI applications.
+
+ - Contributions to open-source projects, developer tools, or publicly available technical examples.
+
+ - Experience teaching developers through workshops, talks, or live demonstrations.
+
+
+PORTFOLIO
+
+Please include links to code, prototypes, and technical writing you’ve created. Identify what you personally built or wrote, explain the problem you explored, and share the results or lessons learned.
+
+Cerebras Systems
 
