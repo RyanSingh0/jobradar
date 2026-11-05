@@ -11,33 +11,37 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 5 | DXC Technology | Analista de Reporting (Power BI / Excel) | 67 | 12 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
 | 6 | ALFA LAVAL | Business Improvement Analyst | 67 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
 | 7 | Axle | Data Scientist, Medical Imaging | 67 | none found (check myvisajobs) | Nov 05 12:41 ET |
-| 8 | Dimensional Fund Advisors | Analyst, Portfolio Management (Equities) | 65 | 23 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 9 | Novanta | Demand Analyst [C] | 65 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 10 | University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law | 62 | cap-exempt employer | Nov 04 (board gives the date only) |
-| 11 | Desjardins Group | Credit Risk Strategy Data Scientist | 59 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 12 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 13 | Canadian Tire | Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 14 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 15 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 16 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 17 | BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG) | 54 | 12 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 18 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 19 | ARQ | Finance Analytics Engineer | FP&A | 52 | none found (check myvisajobs) | Nov 05 11:15 ET |
-| 20 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 21 | CVS Health | Coordinator, Financial Reporting Analysis | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 22 | Oshkosh | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 23 | City of Philadelphia | Data Engineer-Integration Specialist | 50 | 6 in data/analytics/finance occupations | Nov 05 12:52 ET |
-| 24 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 25 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 26 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 27 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 28 | Reddit | Machine Learning Engineer | 43 | 25 in data/analytics/finance occupations | Nov 05 11:13 ET |
-| 29 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 30 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
-| 31 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
-| 32 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
-| 33 | PennState University | Part Time Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 34 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 8 | Adventist Health | Ambulatory Reimbursement Analyst | 67 | 18 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 9 | Dimensional Fund Advisors | Analyst, Portfolio Management (Equities) | 65 | 23 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 10 | Novanta | Demand Analyst [C] | 65 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 11 | University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law | 62 | cap-exempt employer | Nov 04 (board gives the date only) |
+| 12 | Desjardins Group | Credit Risk Strategy Data Scientist | 59 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 13 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 14 | Canadian Tire | Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 15 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 16 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 17 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 18 | BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG) | 54 | 12 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 19 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 20 | ARQ | Finance Analytics Engineer | FP&A | 52 | none found (check myvisajobs) | Nov 05 11:15 ET |
+| 21 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 22 | CVS Health | Coordinator, Financial Reporting Analysis | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 23 | Oshkosh | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 24 | City of Philadelphia | Data Engineer-Integration Specialist | 50 | 6 in data/analytics/finance occupations | Nov 05 12:52 ET |
+| 25 | Texas A&M AgriLife Research | Research Assistant | 50 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 26 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 27 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 28 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 29 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 30 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 31 | Reddit | Machine Learning Engineer | 43 | 25 in data/analytics/finance occupations | Nov 05 11:13 ET |
+| 32 | Amazon | Applied Scientist , Fauna | 43 | 3890 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 33 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 34 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
+| 35 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
+| 36 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
+| 37 | PennState University | Part Time Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 38 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
 
 ---
 
@@ -139,7 +143,21 @@ At Alfa Laval, we always go that extra mile to overcome the toughest challenges.
 
 ---
 
-## 8. [MAYBE] Dimensional Fund Advisors | Analyst, Portfolio Management (Equities)
+## 8. [MAYBE] Adventist Health | Ambulatory Reimbursement Analyst
+- Link: https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73267
+- Location: Roseville, CA, United States US
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 18 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, excel, forecast, power bi, sql, credit, healthcare | Lacks: -  | Note: broad title
+
+### Job description
+
+Located in the metropolitan area of Sacramento, the Adventist Health corporate headquarters have been based in Roseville, California, for more than 40 years. In 2019, we unveiled our WELL-certified campus - a rejuvenating place for associates systemwide to collaborate, innovate and connect. Whether virtual or on campus, Adventist Health Roseville and shared service teams have access to enjoy a welcoming space designed to promote well-being and inspire your best work. Job Summary: Prepares and analyzes contractual adjustment journal entries every month for Adventist Health’s large group of physician clinics. Assists in preparing the net revenue budget annually and provides variance explanations on monthly variance to budget as well as budget to trends. Job Requirements: Education and Work Experience: Bachelors degree in accounting, finance, economics, business administration or related field: Required Master’s Degree in business administration: Preferred Three years' experience in healthcare reimbursement or revenue cycle: Preferred Advanced Excel knowledge (i.e. Pivot tables, LOOKUP, INDEX, MATCH, GETPIVOT): Required Basic accounting knowledge (creation of journal entries from data, understanding of debits and credits): Required Essential Functions: Presents the results of mathematical modeling and data analysis to management or other end users. Analyzes and explains net revenue variances in the clinic setting down the clinic and carrier type monthly and annually during budget analysis for presentation to market finance officers and other finance staff, and physician enterprise executives. Understands and uses several data sources, including pivot tables from SQL server databases, as well as Power BI dashboards to analyze and understand different practice specialties’ reimbursements and charging patterns. Understands and applies knowledge of different reimbursement methodologies of different clinic types to understand and explain net revenue variances. Understands and applies knowledge of requirements and payment methodologies of different insurance types. Monitors billing system issues and works with coding, registration staff, or others to fix issues impacting general ledger assignment. Applies collection rates for clinics and payer categories where we do not have historical information available. Provides accurate chargemaster pricing for foundation clinics based on Medicare and commercial fee schedules by CPT code. Models net revenue forecasts for clinic model changes (i.e. independent clinic to hospital based or rural health clinic). Works in a team setting to identify problems and participates in instituting an improvement process. Performs other job-related duties as assigned. Organizational Requirements: Adventist Health is committed to the safety and wellbeing of our associates and patients. Therefore, we require that all associates receive all required vaccinations as a condition of employment and annually thereafter, where applicable. Medical and religious exemptions may apply. Adventist Health participates in
+
+---
+
+## 9. [MAYBE] Dimensional Fund Advisors | Analyst, Portfolio Management (Equities)
 - Link: https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Analyst--Portfolio-Management--Equities-_2026-9050
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -153,7 +171,7 @@ Job Description: Portfolio Management is responsible for the daily oversight and
 
 ---
 
-## 9. [MAYBE] Novanta | Demand Analyst [C]
+## 10. [MAYBE] Novanta | Demand Analyst [C]
 - Link: https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/North-Syracuse-NY/Demand-Analyst--C-_R009898
 - Location: North Syracuse, NY
 - Posted: Nov 05 (board gives the date only)
@@ -167,7 +185,7 @@ Build a career powered by innovations that matter! At Novanta, our innovations p
 
 ---
 
-## 10. [MAYBE] University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law
+## 11. [MAYBE] University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law
 - Link: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Professional-Development-Program-Coordinator--Center-for-Women-in-Law_R_00049852
 - Location: UT MAIN CAMPUS
 - Posted: Nov 04 (board gives the date only)
@@ -181,7 +199,7 @@ Job Posting Title: Professional Development Program Coordinator, Center for Wome
 
 ---
 
-## 11. [MAYBE] Desjardins Group | Credit Risk Strategy Data Scientist
+## 12. [MAYBE] Desjardins Group | Credit Risk Strategy Data Scientist
 - Link: https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Scientifique-de-donnes--Stratgies-risque-de-crdit_R2613542-1
 - Location: Montréal
 - Posted: Nov 05 (board gives the date only)
@@ -195,7 +213,7 @@ The Credit Risk Strategy Department develops and implements credit risk decision
 
 ---
 
-## 12. [MAYBE] Manulife Financial | Data Analyst / Business Analyst
+## 13. [MAYBE] Manulife Financial | Data Analyst / Business Analyst
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Data-Analyst---Business-Analyst_JR26101524
 - Location: Quezon City
 - Posted: Nov 04 (board gives the date only)
@@ -209,7 +227,7 @@ Overview: We are seeking a business-facing technical Data Analyst to translate G
 
 ---
 
-## 13. [MAYBE] Canadian Tire | Data Analyst
+## 14. [MAYBE] Canadian Tire | Data Analyst
 - Link: https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Laval-QC/Data-Analyst_JR166738
 - Location: Laval, QC
 - Posted: Nov 04 (board gives the date only)
@@ -223,7 +241,7 @@ Joining the Canadian Tire team in the FGL Sports division, you will be working a
 
 ---
 
-## 14. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
+## 15. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644686
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -237,7 +255,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 15. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
+## 16. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644676
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -251,7 +269,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 16. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
+## 17. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
 - Link: https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Investment-Treasury-Portfolio-Analyst_R95096-1
 - Location: Boston, MA, United States
 - Posted: Nov 04 (board gives the date only)
@@ -265,7 +283,7 @@ About Us Wellington Management offers comprehensive investment management capabi
 
 ---
 
-## 17. [MAYBE] BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG)
+## 18. [MAYBE] BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG)
 - Link: https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Analytics-Specialist--Associate--Portfolio-Analytics-Group--PAG-_R266280
 - Location: New York, NY
 - Posted: Nov 05 (board gives the date only)
@@ -279,7 +297,7 @@ About this role About the Portfolio Analytics Group (PAG): Join the Portfolio An
 
 ---
 
-## 18. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
+## 19. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
 - Link: https://centrica.wd3.myworkdayjobs.com/Centrica/job/Leicester/Business-Intelligence---Reporting-Analyst-_R0090515-1
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -293,7 +311,7 @@ Join us, be part of more. We’re so much more than an energy company. We’re a
 
 ---
 
-## 19. [MAYBE] ARQ | Finance Analytics Engineer | FP&A
+## 20. [MAYBE] ARQ | Finance Analytics Engineer | FP&A
 - Link: https://jobs.ashbyhq.com/arq/a913e0d4-919b-4008-b7c4-9f964c496547
 - Location: London United Kingdom remote
 - Posted: Nov 05 11:15 ET
@@ -391,7 +409,7 @@ BENEFITS
 
 ---
 
-## 20. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
+## 21. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
 - Link: https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Financial-Reporting-Analyst---Capital-Access-Platforms_R0027263
 - Location: USA - New York City - New York
 - Posted: Nov 04 (board gives the date only)
@@ -405,7 +423,7 @@ Nasdaq is seeking a highly motivated Financial Reporting Analyst to join the Div
 
 ---
 
-## 21. [MAYBE] CVS Health | Coordinator, Financial Reporting Analysis
+## 22. [MAYBE] CVS Health | Coordinator, Financial Reporting Analysis
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Work-from-hom/Coordinator--Financial-Reporting-Analysis_R1080792
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -419,7 +437,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 22. [MAYBE] Oshkosh | Data Engineer
+## 23. [MAYBE] Oshkosh | Data Engineer
 - Link: https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Data-Engineer_R51538-1
 - Location: 2 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -433,7 +451,7 @@ About JLG, an Oshkosh company JLG began in 1969, when our founder, John L. Grove
 
 ---
 
-## 23. [MAYBE] City of Philadelphia | Data Engineer-Integration Specialist
+## 24. [MAYBE] City of Philadelphia | Data Engineer-Integration Specialist
 - Link: https://jobs.smartrecruiters.com/CityofPhiladelphia/744000159941284
 - Location: Philadelphia PA us
 - Posted: Nov 05 12:52 ET
@@ -447,7 +465,35 @@ Data Engineering at the City is a unique opportunity for meaningful, exciting wo
 
 ---
 
-## 24. [MAYBE] Repligen | Strategy Analyst/Associate
+## 25. [MAYBE] Texas A&M AgriLife Research | Research Assistant
+- Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Research-Assistant_R-094686-1
+- Location: College Station, TX
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 4 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, llm, classification, research | Lacks: -
+
+### Job description
+
+Job Title Research Assistant Agency Texas A&M Agrilife Research Department Rangeland, Wildlife & Fisheries Management Proposed Minimum Salary $15.85 hourly Job Location College Station, Texas Job Type Staff Job Description About Texas A&M AgriLife Texas A&M AgriLife is comprised of the following Texas A&M University System members: Texas A&M AgriLife Extension Service Texas A&M AgriLife Research College of Agriculture and Life Sciences at Texas A&M University Texas A&M Forest Service Texas A&M Veterinary Medical Diagnostic Laboratory As the nation’s largest most comprehensive agriculture program, Texas A&M AgriLife brings together a college and four state agencies focused on agriculture and life sciences within The Texas A&M University System. With over 5,000 employees and a presence in every county across the state, Texas A&M AgriLife is uniquely positioned to improve lives, environments and the Texas economy through education, research, extension and service. Click here to learn more about how you can be a part of AgriLife and make a difference in the world! Position Information : Conduct monitoring for birds, bats, and mammals using autonomous recording units (acoustic and ultrasonic monitors) and trail cameras in west Texas. The successful candidate will deploy and maintain monitors at our west Texas field site, process data using automated classifiers, and manually verify species identifications from classifier results. The Research Associate will also perform data entry and upload files to the project database. The Research Associate will work closely with staff and collaborators to conduct activities and support the overall needs of the project. Responsibilities: Frequent travel to field sites in west Texas to deploy autonomous recording units (acoustic and ultrasonic monitors) and trail cameras, including device setup, maintenance, and data retrieval. Organize and process acoustic recordings and photographs using both automated classification software (e.g., BirdNET, SonoBat, MegaDetector) and manual file review. Conduct data entry and quality control checks; upload files to project database. Ensure all field gear and sensors are in good working order. Maintain meticulous field notes and frequent communication with project supervisors. Required Qualifications : Bachelor's in wildlife biology or closely related natural resource field. Preferred Qualifications: Experience identifying mammals, birds (particularly by sound), and/or bats (by sonogram) that occur in west Texas. Experience deploying autonomous recording units and/or trail cameras for wildlife research. Experience driving 4WD vehicles. Experience in field navigation and spatial data collection using GPS. Proficiency with Microsoft Excel, ArcGIS Pro/Field Maps, and/or automated classification software for wildlife detection (e.g., BirdNET, SonoBat, MegaDetector. Additional Requirements: Collect data with strong attention to detail while working independently or as part of a small team. Communicate effectively. Work early mornings and walk/hike for extended periods while carrying a field pack; positive attitude in adverse environmental conditions such as fire ants, chiggers, rattlesnakes, feral pigs, normal daily temperatures of over 90°F, intense sun, thick and thorny brush, and steep and rocky terrain. Ability to obtain a valid driver’s license. Proficient typing and transcription skills; able to complete repetitive tasks. What You Need to Know Position Funding: This position is grant funded and availability is contingent on grant funding. Why Work at Texas A&M AgriLife? When you choose to work for Texas A&M AgriLife, you become part of an organization that is an established leader in agriculture and life sciences with a wide range of capabilities to meet the needs of our statewide, national, and international constituents. In addition, Texas A&M AgriLife offers a comprehensive benefit pack age including the following: Health, dental, vision, life and long-term disability insurance with Texas A&M AgriLife contributing to employee health and basic life premiums 12-15 days of annual paid holidays Up to eight hours of paid sick leave and at least eight hours of paid vacation each month Automatic enrollment in the Teacher Retirement System of Texas Employee Wellness Initiative for Texas A&M AgriLife Applicant Instructions Applications received by Texas A&M AgriLife must either have all job application data entered or a resume attached. Failure to provide all job application data or a complete resume could result in an invalid submission and a rejected application. We encourage all applicants to upload a resume or use a LinkedIn profile to prepopulate the online application. Any questions, please contact Dr. Ty Werdel at ty.werdel@ag.tamu.edu Required Documents CV/Resume Cover letter List of references Certifications/additional documentation All positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check. Equal Opportunity/Veterans/Disability Employer.
+
+---
+
+## 26. [MAYBE] Texas A&M University System | Research Assistant
+- Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-094686
+- Location: College Station, TX
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, llm, classification, research | Lacks: -
+
+### Job description
+
+Job Title Research Assistant Agency Texas A&M Agrilife Research Department Rangeland, Wildlife & Fisheries Management Proposed Minimum Salary $15.85 hourly Job Location College Station, Texas Job Type Staff Job Description About Texas A&M AgriLife Texas A&M AgriLife is comprised of the following Texas A&M University System members: Texas A&M AgriLife Extension Service Texas A&M AgriLife Research College of Agriculture and Life Sciences at Texas A&M University Texas A&M Forest Service Texas A&M Veterinary Medical Diagnostic Laboratory As the nation’s largest most comprehensive agriculture program, Texas A&M AgriLife brings together a college and four state agencies focused on agriculture and life sciences within The Texas A&M University System. With over 5,000 employees and a presence in every county across the state, Texas A&M AgriLife is uniquely positioned to improve lives, environments and the Texas economy through education, research, extension and service. Click here to learn more about how you can be a part of AgriLife and make a difference in the world! Position Information : Conduct monitoring for birds, bats, and mammals using autonomous recording units (acoustic and ultrasonic monitors) and trail cameras in west Texas. The successful candidate will deploy and maintain monitors at our west Texas field site, process data using automated classifiers, and manually verify species identifications from classifier results. The Research Associate will also perform data entry and upload files to the project database. The Research Associate will work closely with staff and collaborators to conduct activities and support the overall needs of the project. Responsibilities: Frequent travel to field sites in west Texas to deploy autonomous recording units (acoustic and ultrasonic monitors) and trail cameras, including device setup, maintenance, and data retrieval. Organize and process acoustic recordings and photographs using both automated classification software (e.g., BirdNET, SonoBat, MegaDetector) and manual file review. Conduct data entry and quality control checks; upload files to project database. Ensure all field gear and sensors are in good working order. Maintain meticulous field notes and frequent communication with project supervisors. Required Qualifications : Bachelor's in wildlife biology or closely related natural resource field. Preferred Qualifications: Experience identifying mammals, birds (particularly by sound), and/or bats (by sonogram) that occur in west Texas. Experience deploying autonomous recording units and/or trail cameras for wildlife research. Experience driving 4WD vehicles. Experience in field navigation and spatial data collection using GPS. Proficiency with Microsoft Excel, ArcGIS Pro/Field Maps, and/or automated classification software for wildlife detection (e.g., BirdNET, SonoBat, MegaDetector. Additional Requirements: Collect data with strong attention to detail while working independently or as part of a small team. Communicate effectively. Work early mornings and walk/hike for extended periods while carrying a field pack; positive attitude in adverse environmental conditions such as fire ants, chiggers, rattlesnakes, feral pigs, normal daily temperatures of over 90°F, intense sun, thick and thorny brush, and steep and rocky terrain. Ability to obtain a valid driver’s license. Proficient typing and transcription skills; able to complete repetitive tasks. What You Need to Know Position Funding: This position is grant funded and availability is contingent on grant funding. Why Work at Texas A&M AgriLife? When you choose to work for Texas A&M AgriLife, you become part of an organization that is an established leader in agriculture and life sciences with a wide range of capabilities to meet the needs of our statewide, national, and international constituents. In addition, Texas A&M AgriLife offers a comprehensive benefit pack age including the following: Health, dental, vision, life and long-term disability insurance with Texas A&M AgriLife contributing to employee health and basic life premiums 12-15 days of annual paid holidays Up to eight hours of paid sick leave and at least eight hours of paid vacation each month Automatic enrollment in the Teacher Retirement System of Texas Employee Wellness Initiative for Texas A&M AgriLife Applicant Instructions Applications received by Texas A&M AgriLife must either have all job application data entered or a resume attached. Failure to provide all job application data or a complete resume could result in an invalid submission and a rejected application. We encourage all applicants to upload a resume or use a LinkedIn profile to prepopulate the online application. Any questions, please contact Dr. Ty Werdel at ty.werdel@ag.tamu.edu Required Documents CV/Resume Cover letter List of references Certifications/additional documentation All positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check. Equal Opportunity/Veterans/Disability Employer.
+
+---
+
+## 27. [MAYBE] Repligen | Strategy Analyst/Associate
 - Link: https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Waltham-MA/Strategy-Analyst-Associate_R-610
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -461,7 +507,7 @@ Repligen is a global pure-play bioprocessing company with highly differentiated 
 
 ---
 
-## 25. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
+## 28. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
 - Link: https://transamerica.wd5.myworkdayjobs.com/AEGONAM/job/NLD-Schiphol/Responsible-Investment-Analyst_R20063237-1
 - Location: NLD Schiphol
 - Posted: Nov 04 (board gives the date only)
@@ -475,7 +521,7 @@ Job Description Summary Job Description Responsible Investment team and role ove
 
 ---
 
-## 26. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
+## 29. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644656
 - Location: Long Island City NY us
 - Posted: Nov 05 06:35 ET
@@ -489,7 +535,7 @@ The Center for Population Health Data Science (CPHDS)- launched in October of 20
 
 ---
 
-## 27. [MAYBE] Accenture | Analista de Analytics - Híbrido
+## 30. [MAYBE] Accenture | Analista de Analytics - Híbrido
 - Link: https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Analista-Pleno-de-Engenharia-de-Dados_R00351665
 - Location: see posting
 - Posted: Nov 04 (board gives the date only)
@@ -503,7 +549,7 @@ Sobre a Accenture A Accenture ajuda as principais empresas do mundo a se reinven
 
 ---
 
-## 28. [MAYBE] Reddit | Machine Learning Engineer
+## 31. [MAYBE] Reddit | Machine Learning Engineer
 - Link: https://job-boards.greenhouse.io/reddit/jobs/8349916
 - Location: San Francisco, CA
 - Posted: Nov 05 11:13 ET
@@ -517,7 +563,21 @@ Reddit is a community of communities. It’s built on shared interests, passion,
 
 ---
 
-## 29. [MAYBE] EXL | Snowflake Data Engineer
+## 32. [MAYBE] Amazon | Applied Scientist , Fauna
+- Link: https://www.amazon.jobs/en/jobs/10598028/applied-scientist-fauna
+- Location: New York, New York, USA
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~43 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 3890 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: machine learning, python, calibration, deep learning, pipeline, publication, research | Lacks: c++, java
+
+### Job description
+
+We are seeking an Applied Scientist to develop and optimize Visual Inertial Odometry (VIO) and sensor fusion systems for our intelligent robots. In this role, you will design, implement, and deploy state estimation and tracking algorithms that enable robots to understand their position and motion in real time, even in challenging and dynamic environments. You will own the full pipeline from algorithm development through embedded deployment, ensuring that perception systems run efficiently on resource-constrained robotic hardware. You will also leverage modern machine learning approaches to push the boundaries of classical perception methods, combining learned representations with geometric techniques to achieve robust, real-time performance. This is a deeply hands-on role. You will work directly with sensors, hardware, and real-world data, while prototyping, testing, and iterating in physical environments. The ideal candidate has strong foundations in VIO and sensor fusion, practical experience optimizing algorithms for embedded platforms, and familiarity with how modern deep learning is transforming perception. Key job responsibilities - Design and implement Visual Inertial Odometry algorithms for robust real-time state estimation on robotic platforms like Sprout - Develop multi-sensor fusion pipelines integrating cameras, IMUs, and other sensing modalities for accurate pose tracking - Optimize perception and tracking algorithms for deployment on embedded hardware (e.g., ARM, GPU-accelerated edge devices) under strict latency and power constraints - Apply modern ML-based perception techniques (learned features, depth estimation, neural odometry) to complement and improve classical geometric approaches - Build and maintain calibration, evaluation, and benchmarking infrastructure for perception systems - Collaborate with hardware, controls, and navigation teams to integrate perception outputs into the robot’s autonomy stack - Lead technical projects from research prototyping through production deployment - 3+ years of building models for business application experience - Experience in patents or publications at top-tier peer-reviewed conferences or journals - Experience programming in Java, C++, Python or related language - Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing - Hands-on experience developing and deploying Visual Inertial Odometry or visual-inertial SLAM systems - Strong understanding of multi-sensor fusion (cameras, IMUs, odometry) and state estimation (EKF, factor graphs) - Experience optimizing perception algorithms for embedded or resource-constrained hardware - Demonstrated hands-on experience with real sensor data, calibration, and physical robot platforms - Familiarity with modern ML approaches to perception (learned feature extraction, depth prediction, end-to-end odometry) - Experience using Unix/Linux - Experience in professional software development - Publication record at major robotics or computer vision conferences (e.g., ICRA, IROS, RSS, CVPR, ECCV) - Experience with real-time systems programming and performance profiling on ARM/GPU platforms - Experience with state estimation on legged robots - Experience with stereo vision systems, camera-IMU calibration, time synchronization, and sensor characterization - Track record of shipping VIO or SLAM systems to production on physical robots at scale - Experience with NVIDIA Jetson, Qualcomm RB5, or similar embedded AI platforms - Familiarity with ROS/ROS2 - Experience integrating learned perception modules (e.g., neural depth, feature matching networks) into geometric estimation pipelines - History of technical leadership and cross-functional collaboration Amazon
+
+---
+
+## 33. [MAYBE] EXL | Snowflake Data Engineer
 - Link: https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21585
 - Location: New York, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -531,7 +591,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 30. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
+## 34. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644496
 - Location: New York City NY us
 - Posted: Nov 05 06:29 ET
@@ -545,7 +605,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 31. [MAYBE] Cerebras | AI Engineer
+## 35. [MAYBE] Cerebras | AI Engineer
 - Link: https://jobs.ashbyhq.com/cerebras/c6f607ce-306c-4deb-8825-4175201a7cd4
 - Location: Sunnyvale, CA United States remote
 - Posted: Nov 04 17:08 ET
@@ -624,7 +684,7 @@ Cerebras Systems
 
 ---
 
-## 32. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
+## 36. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
 - Link: https://jobs.lever.co/erg/ffa7e5a8-5d49-4608-a3b0-9a5ff07a3f0a
 - Location: Morrisville, NC Morrisville, NC US
 - Posted: Nov 05 11:07 ET
@@ -641,7 +701,7 @@ ERG
 
 ---
 
-## 33. [MAYBE] PennState University | Part Time Research Assistant
+## 37. [MAYBE] PennState University | Part Time Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000069624-1
 - Location: Penn State University Park
 - Posted: Nov 05 (board gives the date only)
@@ -655,7 +715,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 34. [MAYBE] UTHealth Houston | Research Assistant
+## 38. [MAYBE] UTHealth Houston | Research Assistant
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8164
 - Location: San Antonio, TX, United States US
 - Posted: Nov 05 (board gives the date only)
