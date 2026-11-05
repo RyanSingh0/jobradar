@@ -5,27 +5,36 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | American University | Career Outcomes Data Analyst | 75 | cap-exempt employer | Nov 04 (board gives the date only) |
-| 2 | Hitachi | Training & Development Analyst | 70 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 3 | HCSC | Analytics Consultant | 69 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 4 | DXC Technology | Analista de Reporting (Power BI / Excel) | 67 | 12 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 5 | Dimensional Fund Advisors | Analyst, Portfolio Management (Equities) | 65 | 23 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 6 | University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law | 62 | cap-exempt employer | Nov 04 (board gives the date only) |
-| 7 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 8 | Canadian Tire | Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 9 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 10 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 11 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 12 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 13 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 14 | CVS Health | Coordinator, Financial Reporting Analysis | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 15 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 16 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 17 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 18 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 19 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 20 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
-| 21 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
-| 22 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
+| 2 | Reddit | Business Analyst | 73 | 25 in data/analytics/finance occupations | Nov 05 11:15 ET |
+| 3 | Hitachi | Training & Development Analyst | 70 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 4 | HCSC | Analytics Consultant | 69 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 5 | DXC Technology | Analista de Reporting (Power BI / Excel) | 67 | 12 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 6 | ALFA LAVAL | Business Improvement Analyst | 67 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 7 | Dimensional Fund Advisors | Analyst, Portfolio Management (Equities) | 65 | 23 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 8 | Novanta | Demand Analyst [C] | 65 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 9 | University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law | 62 | cap-exempt employer | Nov 04 (board gives the date only) |
+| 10 | Desjardins Group | Credit Risk Strategy Data Scientist | 59 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 11 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 12 | Canadian Tire | Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 13 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 14 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 15 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 16 | BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG) | 54 | 12 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 17 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 18 | ARQ | Finance Analytics Engineer | FP&A | 52 | none found (check myvisajobs) | Nov 05 11:15 ET |
+| 19 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 20 | CVS Health | Coordinator, Financial Reporting Analysis | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 21 | Oshkosh | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 22 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 23 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 24 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 25 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 26 | Reddit | Machine Learning Engineer | 43 | 25 in data/analytics/finance occupations | Nov 05 11:13 ET |
+| 27 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 28 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
+| 29 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
+| 30 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
+| 31 | PennState University | Part Time Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
 
 ---
 
@@ -43,7 +52,21 @@ American University is a student-centered research institution located in Washin
 
 ---
 
-## 2. [MAYBE] Hitachi | Training & Development Analyst
+## 2. [MAYBE] Reddit | Business Analyst
+- Link: https://job-boards.greenhouse.io/reddit/jobs/8349881
+- Location: New York City, NY
+- Posted: Nov 05 11:15 ET
+- Scanner fit: ~73 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 25 in data/analytics/finance occupations
+- Type: part-time
+- Title scope: broad | Has: bigquery, data visualization, etl, excel, forecast, llm, python, r, sql, tableau, healthcare, kpi, quantitative, reporting | Lacks: looker  | Note: broad title part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+
+### Job description
+
+Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . Job Duties: Break down complex business problems and solving them with analytical rigor. Lead analysis on business performance through data driven analysis to derive insights that will drive business decisions and recommendations. Collaborate with business partners in sales, product, engineering, and marketing to improve data-driven decision making and drive go-to-market efforts. Write Advanced SQL queries to extract actionable insights from data to power business decisions. Analyze and define key metrics that maps to business initiatives. Present insights to an external audience. Test and Measure Impact from key growth initiatives across sales, product and marketing. Drive efficient processes (e.g., quota setting, revenue forecasting, KPI reporting) to further streamline business operations. Experience with analyzing data using Excel, SQL, R, Python, Looker, and Tableau. Part-time telecommuting is an option. Hybrid work from Reddit office in New York, NY. Requirements: Master’s degree, or its foreign degree equivalent, in Computer Science, Engineering (any field) or closely related quantitative discipline and three (3) years of experience in the job offered or in any occupation in related field.&nbsp; Special Skill Requirements: (1) Advanced SQL (2) Google BigQuery (3) Python (4) R Programming (5) Tableau (6) Microsoft Excel (7) Data Modeling (8) ETL Development (9) Data Visualization Tools (10) KPI and Metrics Development (11) Large Language Model (LLM) Applications (12) Prompt Engineering (13) Jira (14) Confluence. Any suitable combination of education, training and experience is acceptable. Part-time telecommuting is an option. Hybrid work from Reddit office in New York, NY. Benefits: Comprehensive Healthcare Benefits and Income Replacement Programs 401k with Employer Match Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support Family Planning Support Gender-Affirming Care Mental Health &amp; Coaching Benefits Flexible Vacation &amp; Paid Volunteer Time Off Generous Paid Parental Leave&nbsp; Submit a resume with references using the apply button on this posting or by email at: applicationsreview@reddit.com at Req.# 1016.57.3. Pay Transparency: This job posting may span more than one career level. In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit&nbsp; https://www.redditinc.com/careers/ . To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies.&nbsp; The base pay range for this position is: $159,100.00 - $185,600.00 USD &nbsp; #LI-DNI In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews. During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&nbsp; We will delete any recording of your interview promptly after making a hiring decision.&nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors . Reddit is proud to be an
+
+---
+
+## 3. [MAYBE] Hitachi | Training & Development Analyst
 - Link: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jefferson-City-Missouri-United-States-of-America/Training---Development-Analyst_R0150712
 - Location: Jefferson City, Missouri, United States of America
 - Posted: Nov 04 (board gives the date only)
@@ -57,7 +80,7 @@ Location: Jefferson City, Missouri, United States of America Job ID: R0150712 Da
 
 ---
 
-## 3. [MAYBE] HCSC | Analytics Consultant
+## 4. [MAYBE] HCSC | Analytics Consultant
 - Link: https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TN---Nashville/Analytics-Consultant_R0055195-1
 - Location: 6 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -71,7 +94,7 @@ At HCSC, our employees are the cornerstone of our business and the foundation to
 
 ---
 
-## 4. [MAYBE] DXC Technology | Analista de Reporting (Power BI / Excel)
+## 5. [MAYBE] DXC Technology | Analista de Reporting (Power BI / Excel)
 - Link: https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESP---MD---LAS-ROZAS/Analista-de-Reporting--Power-BI---Excel-_51586705
 - Location: ESP - MD - LAS ROZAS
 - Posted: Nov 04 (board gives the date only)
@@ -85,7 +108,21 @@ Job Description: DXC ayuda a empresas globales a ejecutar sus sistemas y operaci
 
 ---
 
-## 5. [MAYBE] Dimensional Fund Advisors | Analyst, Portfolio Management (Equities)
+## 6. [MAYBE] ALFA LAVAL | Business Improvement Analyst
+- Link: https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Scarborough-ON/Business-Improvement-Analyst_JR0049438-1
+- Location: 2 Locations
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, excel, power bi, spark, git, kpi, research, risk | Lacks: -  | Note: broad title
+
+### Job description
+
+At Alfa Laval, we always go that extra mile to overcome the toughest challenges. Our driving force is to accelerate success for our customers, people and planet. You can only achieve that by having dedicated people with a curious mind. Curiosity is the spark behind great ideas. And great ideas drive progress. As a member of our team, you thrive in a truly diverse and inclusive workplace based on care and empowerment. You are here to make a difference. Constantly building bridges to the future with sustainable solutions that have an impact on our planet’s most urgent problems. Making the world a better place. Every day. The Business Improvement Analyst will analyze, map and improve the business processes for Alfa Laval Canada. The role will support continuous improvement advancements, business process development, and digital transformation. In this role, you will find where work can run better across the organization and build the digital solutions that make it happen, so our processes become more efficient, consistent, and ready to scale. This is a hands-on role supporting discovery through adoption and will include interviewing teams, mapping how their process works, analyzing the data behind their processes, and supporting the design of solutions and tools to make improvements. This role is ideal for someone who enjoys turning real world process problems into clear, workable digital solutions, using data to extract insights, and helping colleagues adopt change initiatives. It supports Alfa Laval’s commitment to continuous improvement, collaboration, and innovation, and connects day-to-day improvements to our larger business goals. The role is primarily office based, liaisoning with the order fulfilment, finance, sales, logistics, and operations teams as required. Key responsibilities include: Interview stakeholders and observe work in practice, using user-research techniques to find pain points and rank what to improve first Gather baseline process data such as errors, rework, and handoffs, so problems are measured before they are fixed Produce current-state and future-state process maps, and support value stream mapping across departments Support root-cause analysis, pilots, and user acceptance testing of new processes Design and build digital workflows, forms, sites, and automations on SharePoint and Microsoft 365, including Power Automate Spot automation opportunities and work with IT on RPA or AI projects where they fit Write and maintain SOPs and process documentation, keeping them current as processes change Build reports and dashboards that track KPIs, adoption, and whether improvements worked Support user training and change management of new processes Keep action and decision logs, track risks and dependencies, and flag capacity or timeline concerns early Use generative AI tools to work faster, while protecting confidential data Education (degree or years) and/or Certification/Registration: A degree or diploma in business, IT or equivalent combination of education and experience Experience with Sharepoint and the Microsoft 365 stack Strong Excel and data analysis skills, with some exposure to Power BI or similar tools Experience with process mapping in Visio, Miro, Lucidchart or similar tools Experience gathering information through interviews, workshops and document review Type and Length of Experience: 2-3 years of experience in an analyst, operations or process improvement role Knowledge, Skills, Abilities and Attributes Desired in Candidate: Working knowledge of Lean principles Strong written and verbal communication, including explaining findings to non-technical audiences Comfort working with people across functions without formal authority Attention to detail, reliable follow-through, and the ability to manage several deliverables and deadlines at once Power Automate or Power Apps experience, or a Microsoft certification such as Power Platform Fundamentals Exposure to RPA tools such as UiPath Lean Six Sigma Certification (Yellow Belt and above) Experience with D365 or another CRM Exposure to audit, quality, or compliance requirements such as ISO 9001 Experience writing training material or leading training sessions Compensation & Total Rewards The salary range for this role is $75,000– $90,000 CAD annually , based on experience and role alignment. In addition to base compensation, we offer a comprehensive benefits package and opportunities for growth and development. Bonus Opportunity This position is eligible for a target bonus of up to 10% of annual base salary depending on experience , awarded based on the achievement of company performance metrics. Actual bonus amounts are contingent on annual business results and may vary accordingly. Artificial Intelligence (AI) Disclosure Alfa Laval does not use artificial intelligence (AI) at any stage of the recruitment or selection process for this position. All applications are screened, assessed, and reviewed exclusively by human recruiters and hiring managers . Vacancy Disclosure This posting reflects a new vacancy within our team.
+
+---
+
+## 7. [MAYBE] Dimensional Fund Advisors | Analyst, Portfolio Management (Equities)
 - Link: https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Analyst--Portfolio-Management--Equities-_2026-9050
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -99,7 +136,21 @@ Job Description: Portfolio Management is responsible for the daily oversight and
 
 ---
 
-## 6. [MAYBE] University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law
+## 8. [MAYBE] Novanta | Demand Analyst [C]
+- Link: https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/North-Syracuse-NY/Demand-Analyst--C-_R009898
+- Location: North Syracuse, NY
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~65 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: excel, forecast, power bi, sql, healthcare, kpi, reporting | Lacks: -  | Note: broad title
+
+### Job description
+
+Build a career powered by innovations that matter! At Novanta, our innovations power technology products that are transforming healthcare and advanced manufacturing—improving productivity, enhancing people’s lives and redefining what’s possible. We create for our global customers engineered components and sub-systems that deliver extreme precision and performance for a range of mission-critical applications—from minimally invasive surgery to robotics to 3D metal printing. Novanta is one global team with over 26 offices located in The Americas, Europe and Asia-Pacific. Looking for a great place to work? You have found it with a culture that embraces teamwork, collaboration and empowerment. Come explore Novanta. Department: Operations & Demand Planning (Supply Chain / Planning) Reports to: Director of Operations & Demand Planning Location: Syracuse, NY Employment type: Temporary Position Summary The Demand Analyst supports the planning team by running and maintaining the recurring reports, shortage analyses, and data uploads that keep demand, supply, and customer commitments aligned. The position owns the orders application, tracks key performance metrics, and helps keep customers informed of changes to delivery commitments. The successful candidate will transform raw ERP and planning data into accurate, actionable analysis, and will be able to identify the relevant data, interpret it, and communicate clear conclusions to planners, buyers, and leadership. The ideal candidate is detail-oriented, highly proficient in Excel, and able to manage a steady cadence of daily and weekly deliverables. This position is well suited to a candidate with strong analytical ability who is interested in building a career in planning. Key Responsibilities · Prepare, run, and distribute daily planning and order files, ensuring accuracy and timeliness · Execute weekly shortage analyses and associated files, communicate findings to planners and stakeholders, and escalate critical shortages · Upload and maintain forecast data in the planning system · Log, track, and report on departmental KPIs · Assist in updating recommit dates and communicating them to customers · Serve as the owner and primary administrator of the orders app, including troubleshooting, data integrity, and user support · Perform ad hoc data analysis in support of supply chain and demand planning, including the extraction, reconciliation, and analysis of large data sets · Determine which data is required to address a business question and develop the analysis needed to reach a well-supported recommendation · Perform general administrative tasks in support of the planning team · As business needs require, assist with work order maintenance (e.g., updating dates and quantities, closing or adjusting orders) Required Qualifications · Advanced proficiency in Excel, including pivot tables, lookups (XLOOKUP/INDEX-MATCH), complex formulas, data cleanup, and large data sets; macro/VBA experience is an asset · Strong critical thinking skills, including the ability to identify the narrative within a data set, work backward from the desired outcome, and determine which data must be extracted to achieve it · Strong attention to detail and accuracy in recurring, deadline-driven work · Clear written and verbal communication skills · Demonstrated ability to prioritize and manage multiple recurring tasks Preferred Qualifications · Experience in planning, demand planning, or supply chain · Familiarity with an ERP/MRP system (e.g., [ERP system name]) · Experience with KPI tracking or reporting · Exposure to Power Query, Power BI, SQL, or comparable analytics tools · Understanding of shortages, recommits, and work order processes · Experience in a manufacturing environment · Bachelor's degree or equivalent experience in supply chain, business, or a related field · APICS/ASCM certification, or interest in pursuing certification Novanta is proud to be an equal employment opportunity and affirmative action workplace. We consider all qualified applicants without regard to race, color, religion, sex (including pregnancy), sexual orientation, gender identity or expression, national origin, military and veteran status, disability, genetics, or any other category protected by federal law or Novanta policy. Please call +1 781-266-5700 if you need a disability accommodation for any part of the employment process.
+
+---
+
+## 9. [MAYBE] University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law
 - Link: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Professional-Development-Program-Coordinator--Center-for-Women-in-Law_R_00049852
 - Location: UT MAIN CAMPUS
 - Posted: Nov 04 (board gives the date only)
@@ -113,7 +164,21 @@ Job Posting Title: Professional Development Program Coordinator, Center for Wome
 
 ---
 
-## 7. [MAYBE] Manulife Financial | Data Analyst / Business Analyst
+## 10. [MAYBE] Desjardins Group | Credit Risk Strategy Data Scientist
+- Link: https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Scientifique-de-donnes--Stratgies-risque-de-crdit_R2613542-1
+- Location: Montréal
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~59 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: data visualization, machine learning, power bi, python, sql, credit, quantitative, risk | Lacks: sas  | Note: no H-1B filings found for this employer
+
+### Job description
+
+The Credit Risk Strategy Department develops and implements credit risk decision-making strategies based on risk/return quantification to deliver value for the organization as well as members and clients, while safeguarding Desjardins Group’s sustainability. As a credit risk strategy data scientist, you help develop, implement and optimize credit risk strategies for personal financing products, at granting and throughout their lifecycle. You develop expertise in product-related databases and the systems where the strategies are executed. More specifically, you help recommend ways to optimize strategies by applying your knowledge of machine learning and modelling. You also help develop quarterly performance reports in Power BI, conduct ad hoc analyses and perform post-implementation monitoring. More specifically, you will be required to: Optimize and develop decision-making strategies for credit management and prepare associated documentation Apply your knowledge of machine learning and predictive modelling to maximize financial impact and support credit risk strategies Participate in complex data analyses (SAS, Python), interpret results, build replicators and monitor how our strategies perform once in production Monitor financing products and conduct quarterly performance reviews Contribute to various projects, assignments and data analyses in your area of expertise and make recommendations aligned with strategic priorities Advise organizational units and other collaborators on risk management matters in your area of expertise, communicating complex information clearly. What we offer* Competitive salary and annual bonus 4 weeks of flexible vacation starting in the first year Defined benefit pension plan that provides predictable, stable income throughout retirement Group insurance including telemedicine Reimbursement of health and wellness expenses and telework equipment * Benefits apply based on eligibility criteria. #LI-Hybrid What you bring to the table Bachelor's degree in a quantitative discipline A minimum of two years of relevant experience in data analysis, predictive modelling or risk management Please note that other combinations of qualifications and relevant experience may be considered Knowledge of French is required Knowledge of machine learning algorithms and their application in credit risk management Advanced knowledge of SAS, SQL and/or Python Knowledge of the Power BI data visualization tool is an asset Knowledge of credit risk Action oriented, Complexity, Customer Focus, Differences, Innovation, Interpersonal Savvy, Nimble learning Equity, Diversity, Inclusion and Accessibility At Desjardins, we believe in equity, diversity and inclusion. We're committed to welcoming, respecting and valuing people for who they are as individuals, learning from their differences, embracing their uniqueness, and providing a positive workplace for all. At Desjardins, we have zero tolerance for discrimination of any kind. We believe our teams should reflect the diversity of the members, clients and communities we serve. If there's something we can do to help make the recruitment process or the job you're applying for more accessible, let us know. We can provide accommodations at any stage in the recruitment process. Just ask! Trade Union (If applicable) Job Family Data (FG) Unposting Date 2026-11-30
+
+---
+
+## 11. [MAYBE] Manulife Financial | Data Analyst / Business Analyst
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Data-Analyst---Business-Analyst_JR26101524
 - Location: Quezon City
 - Posted: Nov 04 (board gives the date only)
@@ -127,7 +192,7 @@ Overview: We are seeking a business-facing technical Data Analyst to translate G
 
 ---
 
-## 8. [MAYBE] Canadian Tire | Data Analyst
+## 12. [MAYBE] Canadian Tire | Data Analyst
 - Link: https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Laval-QC/Data-Analyst_JR166738
 - Location: Laval, QC
 - Posted: Nov 04 (board gives the date only)
@@ -141,7 +206,7 @@ Joining the Canadian Tire team in the FGL Sports division, you will be working a
 
 ---
 
-## 9. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
+## 13. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644686
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -155,7 +220,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 10. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
+## 14. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644676
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -169,7 +234,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 11. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
+## 15. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
 - Link: https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Investment-Treasury-Portfolio-Analyst_R95096-1
 - Location: Boston, MA, United States
 - Posted: Nov 04 (board gives the date only)
@@ -183,7 +248,21 @@ About Us Wellington Management offers comprehensive investment management capabi
 
 ---
 
-## 12. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
+## 16. [MAYBE] BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG)
+- Link: https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Analytics-Specialist--Associate--Portfolio-Analytics-Group--PAG-_R266280
+- Location: New York, NY
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 12 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: forecast, llm, python, sql, derivatives, git, healthcare, portfolio, research, risk | Lacks: azure, scala
+
+### Job description
+
+About this role About the Portfolio Analytics Group (PAG): Join the Portfolio Analytics Group (PAG), a highly collaborative and multidisciplinary team of in-house, forward-deployed engineers and data scientists at the forefront of applied analytics at BlackRock. As part of the Aladdin Financial Engineering (AFE) division, PAG develops and deploys advanced analytical solutions that integrate Aladdin’s technology platform, financial models, and data to solve complex, real-world investment challenges. These solutions are used by portfolio managers and risk professionals across BlackRock to support investment decisions, contributing to outcomes such as improved portfolio positioning and winning client mandates. The team works across the full breadth of asset classes—including equities, fixed income, derivatives, and private markets—reflecting the diversity and scale of investment strategies we support. Role Overview: We are seeking high-performing individuals to design, build, and deploy next-generation analytical tools that sit alongside and extend the Aladdin platform to enhance investment workflows. These capabilities support a wide range of use cases, including portfolio construction, investment research, relative value analysis, and increasingly, AI-enabled decision support. This role involves working closely with investment teams to identify high-impact opportunities, rapidly prototype ideas, and iterate based on real-world feedback. The focus is on translating complex analytical capabilities into intuitive, fit-for-purpose solutions that integrate seamlessly into how investment teams operate. Successful candidates will wear multiple hats, acting as hands-on analytics developers, internal technology advocates, and business-oriented project managers. On the technical side, they will demonstrate a strong aptitude for learning our proprietary technology ecosystem, and for working with various programming languages and technology stacks. They should also possess technical fluency in AI, Python, and database languages, along with experience building end-to-end analytical applications. Equally important are the ability to engage effectively with stakeholders and a solid understanding of financial markets and instruments. Opportunities by Investment Team: The PAG team is hiring for 3 Associate roles in New York. While all positions align with the core responsibilities outlined above, each role will partner with a different investment team and support distinct business priorities. Fixed Income : Partner with Portfolio Managers across the Fixed Income Group to develop and deliver data- and technology-driven analytics that help the business generate alpha, differentiate itself, and operate more efficiently and at scale. Multi-Asset Strategies: Partner with Portfolio Managers across the Multi-Asset Solutions and Strategies Group to deliver asset allocation and portfolio construction solutions across the lifecycle (e.g., strategic and tactical asset allocation), support risk budgeting, and leverage AI to enhance existing workflows and improve productivity. Private Markets : Partner with BlackRock’s Private Financing Solutions Business to deliver solutions across the investment lifecycle, including deal due diligence, portfolio monitoring and cash flow forecasting. Key Responsibilities: As an analytics and technology SME: Communicate insights, methodologies, and outputs clearly through presentations, discussions, and written materials Develop a deep understanding of the Aladdin ecosystem, including its analytical capabilities and financial models, to identify opportunities and gaps As a business-oriented project manager: Build and maintain strong partnerships with investment teams, identifying high-impact opportunities and driving execution from ideation through deployment Build a strong understanding of asset-class-specific investment processes and operate as a credible partner to portfolio managers Apply strong project management discipline across initiatives, including prioritization, stakeholder coordination, and timely delivery Partner closely with engineering teams to productionize solutions and ensure scalability, reliability, and long-term maintainability As a hands-on analytics developer: Translate complex analytics into intuitive, fit-for-purpose tools that integrate directly into investment workflows and enhance decision-making Design and deliver analytical tools that support portfolio construction, research, relative value analysis, and AI-enabled decision support Prototype, test, iterate, and deploy analytical and AI-driven applications using firm infrastructure and modern technology stacks Operate with an experimental mindset—rapidly iterating, learning from feedback, and refining approaches to maximize real-world impact Key Qualifications / Experience: 3+ years of experience in a highly analytical role, ideally within financial services Ability to work effectively with both technical and investment stakeholders Strong open-ended problem-solving skills and experience building impactful analytical applications Proficiency in Python and SQL at a minimum, with experience developing scalable, production-grade solutions Experience with cloud and UNIX/Linux environments, Git, and modern development workflows (e.g., Azure DevOps) is a plus Familiarity with AI/ML/LLM techniques, agentic systems and AI-enhanced coding is a plus Prior experience with one or more asset classes (e.g., fixed income, equities, derivatives, or private markets) is a plus &#xa;For New York, NY Only the salary range for this position is USD$137,500.00 - USD$150,000.00 . Additionally, employees are eligible for an annual discretionary bonus, and benefits including healthcare, leave benefits, and retirement benefits. BlackRock operates a pay-for-performance compensation philosophy and your total compensation may vary based on role, location, and firm, department and individual performance.&#xa; Our benefits To help you stay energized, engaged and inspired, we offer a wide range of benefits including a strong retirement plan, tuition reimbursement, comprehensive healthcare, support for working parents and Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about. Our hybrid work model BlackRock’s hybrid work model is designed to enable a culture of collaboration and apprenticeship that enriches the experience of our employees, while supporting flexibility for all. Employees are currently required to work at least 4 days in the office per week, with the flexibility to work from home 1 day a week. Some business groups may require more time in the office due to their roles and responsibilities. We remain focused on increasing the impactful moments that arise when we work together in person – aligned with our commitment to performance and innovation. As a new joiner, you can count on this hybrid model to accelerate your learning and onboarding experience here at BlackRoc [...]
+
+---
+
+## 17. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
 - Link: https://centrica.wd3.myworkdayjobs.com/Centrica/job/Leicester/Business-Intelligence---Reporting-Analyst-_R0090515-1
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -197,7 +276,105 @@ Join us, be part of more. We’re so much more than an energy company. We’re a
 
 ---
 
-## 13. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
+## 18. [MAYBE] ARQ | Finance Analytics Engineer | FP&A
+- Link: https://jobs.ashbyhq.com/arq/a913e0d4-919b-4008-b7c4-9f964c496547
+- Location: London United Kingdom remote
+- Posted: Nov 05 11:15 ET
+- Scanner fit: ~52 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, forecast, power bi, python, sql, data quality, fx, git, pipeline, quantitative, reporting | Lacks: airflow, dbt, looker  | Note: no H-1B filings found for this employer
+
+### Job description
+
+WHAT WE'RE LOOKING FOR
+
+Do you like knowing exactly why a number moved? As an Finance Analytics Engineer at ARQ, you'll own the data foundations behind our revenue, cost and management reporting. You'll sit between Finance and Engineering: building the models that tell us how the business is performing, keeping them accurate every day, and turning them into insight that leadership uses to make decisions.
+
+This is a hands-on role for someone who is as comfortable in a dbt project or a Python codebase as in a P&L. You'll work closely with Finance, Treasury and Engineering, and your work will feed management, investor and regulatory reporting directly.
+
+
+
+
+WHAT YOU'LL BE DOING
+
+ - Own the finance data layer: Maintain and extend our dbt repo. That means building and refactoring models, writing tests, and keeping finance data clean, documented and reliable.
+
+ - Revenue and cost models: Build and maintain the models behind revenue, unit economics and operations costs (payment rails, FX, card, banking partners, vendors) across our markets.
+
+ - Management accounts: Support daily and monthly management accounts on both accrual and cash basis. Reconcile them to source systems and explain movements.
+
+ - Budgeting and forecasting: Feed actuals into the budget and forecast, run variance analysis, and help Finance understand what is driving performance.
+
+ - Python services: Help maintain and improve the internal Python services and pipelines that support finance reporting and reconciliation.
+
+ - Data mapping and requirements: Map data sources across our product and payments stack, and document business logic and assumptions so others can trust and reuse your work.
+
+ - Onboard new business: When we launch a new product, partner or market, make sure it flows correctly into financial reporting, controls and processes.
+
+ - Dashboards and reporting: Build and improve dashboards with Finance and Controllership that track key metrics and surface business drivers.
+
+ - Anomalies and controls: Spot breaks, unusual spikes or data quality issues early, find the root cause, and fix it at the source.
+
+ - Data literacy: Help the wider team understand and self-serve finance data.
+
+
+
+
+WHAT YOU'LL NEED
+
+ - 3+ years in a data, analytics or FP&A role, ideally in fintech, banking or payments
+
+ - Strong SQL and solid Python
+
+ - Hands-on experience with dbt (or a similar transformation tool) and version control (Git)
+
+ - A good grasp of financial statements, management accounts and core finance concepts (accruals, revenue recognition, unit economics)
+
+ - A quantitative background, through education or experience
+
+ - Strong attention to detail and a quality-first mindset, while still able to work to tight deadlines
+
+ - Clear communication: you can explain a variance to a CFO and a data model to an engineer
+
+ - Initiative to automate repetitive work and improve how things are done
+
+
+
+
+NICE TO HAVE
+
+ - Experience with regulatory or external reporting
+
+ - Exposure to reconciliations, treasury or general ledger data
+
+ - Experience with BI tools (Metabase, Looker, Power BI) and orchestration tools (Airflow or similar)
+
+ - Experience maintaining production code: code review, testing, CI/CD
+
+ - Spanish or Portuguese proficiency
+
+
+
+
+BENEFITS
+
+ - Competitive salary and benefits 
+
+ - Stock options, so you own part of what you build
+
+ - Discretionary performance bonus
+
+ - The latest tools and technology
+
+ - A world-class team that will challenge and grow your skills
+
+ - The opportunity to help build the best fintech app in Latin America
+
+ - Office Policy: 3-4 days a week in-office
+
+---
+
+## 19. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
 - Link: https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Financial-Reporting-Analyst---Capital-Access-Platforms_R0027263
 - Location: USA - New York City - New York
 - Posted: Nov 04 (board gives the date only)
@@ -211,7 +388,7 @@ Nasdaq is seeking a highly motivated Financial Reporting Analyst to join the Div
 
 ---
 
-## 14. [MAYBE] CVS Health | Coordinator, Financial Reporting Analysis
+## 20. [MAYBE] CVS Health | Coordinator, Financial Reporting Analysis
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Work-from-hom/Coordinator--Financial-Reporting-Analysis_R1080792
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -225,7 +402,21 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 15. [MAYBE] Repligen | Strategy Analyst/Associate
+## 21. [MAYBE] Oshkosh | Data Engineer
+- Link: https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Data-Engineer_R51538-1
+- Location: 2 Locations
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: etl, excel, machine learning, python, spark, sql, git, research, validation | Lacks: hadoop, kafka, scala  | Note: no H-1B filings found for this employer
+
+### Job description
+
+About JLG, an Oshkosh company JLG began in 1969, when our founder, John L. Grove set out to resolve growing safety concerns in the construction industry. Since then we have been committed to understanding the challenges and delivering innovative solutions to the access market. We partner with customers to provide quality equipment, training opportunities and trusted support within the access industry. We are a global company, and our products—including mobile elevating work platforms, telehandlers, utility vehicles and accessories—can be found all over the world. JOB SUMMARY: As a key member in the Advanced Data Analytics team, the Data Analyst will work with this and a cross-functional team to develop and execute the data analytics strategy and apply to Oshkosh Corporation products. Advanced Data Analytics wok encompasses the acquisition, processing and machine learning of engineering or service data and application to preventive maintenance and intelligent control of on or off-road vehicles. ESSENTIAL DUTIES AND RESPONSIBILITIES: These duties are not meant to be all-inclusive and other duties may be assigned. Design and develop scalable ETL solutions to deliver data from source systems to analytics platforms (structured and unstructured; bath and streaming). Responsible for testing and validation in order to support the accuracy of data transformations and data verification used with enterprise-wide analytics. Assist in ensuring proper data governance (quality security, etc. within the data lake and enterprise data warehouse systems across all business segments. Assist with performance-tuning data processes as well as troubleshooting data processing issues. Collaborate, coordinate, and communicate across disciplines, departments and segments. Develop rapid prototyping and design processes for fast solution delivery to the business. Maintain reference architecture and documentation for the purposes of architectural governance and application roadmap. Assist in education others on best practices surrounding data work (i.e. data modeling, database design, ETL design, job scheduling and monitoring, etc.). Assist or direct feasibility studies and project estimates (manpower, budget development, and timelines, etc.) on proposed research and development projects. MINIMUM QUALIFICATIONS: Bachelor’s degree in computer science, data science or a related field with three (3) or more years of working as a data engineer, ETL developer and/or data warehouse DBA. PREFERRED QUALIFICATIONS: Experience with big data tools and architectures, such as Cloudera Hadoop, HDFS, Hive, and Spark. Working knowledge of telematics interfaces and streaming solutions (MQTT, NiFi, Kafka, etc.). Automotive or heavy duty on or off-road vehicle, digital data bus, including Ethernet or Controller Area Network (CAN) experience. Highly organized and detail-oriented, with strong critical thinking, analytical, and problem-solving skills. Ability to handle multiple tasks in a fast-paced environment, both independently and as part of a team. Display excellent interpersonal skills as well as the ability to effectively present information and respond to question from leadership and peers. Strong proficiency with SQL, Bash, and Python (and experience with the Anaconda distribution). Pay Range: $82,900.00 - $134,300.00 The above pay range reflects the minimum and maximum target pay for the position across all U.S. locations. Within this range, individual pay is determined by various factors, including the scope and responsibilities of the role, the candidate's experience, education and skills, as well as the equity of pay among team members in similar positions. Beyond offering a competitive total rewards package, we prioritize a people-first culture and offer various opportunities to support team member growth and success. Oshkosh is committed to working with and offering
+
+---
+
+## 22. [MAYBE] Repligen | Strategy Analyst/Associate
 - Link: https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Waltham-MA/Strategy-Analyst-Associate_R-610
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -239,7 +430,7 @@ Repligen is a global pure-play bioprocessing company with highly differentiated 
 
 ---
 
-## 16. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
+## 23. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
 - Link: https://transamerica.wd5.myworkdayjobs.com/AEGONAM/job/NLD-Schiphol/Responsible-Investment-Analyst_R20063237-1
 - Location: NLD Schiphol
 - Posted: Nov 04 (board gives the date only)
@@ -253,7 +444,7 @@ Job Description Summary Job Description Responsible Investment team and role ove
 
 ---
 
-## 17. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
+## 24. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644656
 - Location: Long Island City NY us
 - Posted: Nov 05 06:35 ET
@@ -267,7 +458,7 @@ The Center for Population Health Data Science (CPHDS)- launched in October of 20
 
 ---
 
-## 18. [MAYBE] Accenture | Analista de Analytics - Híbrido
+## 25. [MAYBE] Accenture | Analista de Analytics - Híbrido
 - Link: https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Analista-Pleno-de-Engenharia-de-Dados_R00351665
 - Location: see posting
 - Posted: Nov 04 (board gives the date only)
@@ -281,7 +472,21 @@ Sobre a Accenture A Accenture ajuda as principais empresas do mundo a se reinven
 
 ---
 
-## 19. [MAYBE] EXL | Snowflake Data Engineer
+## 26. [MAYBE] Reddit | Machine Learning Engineer
+- Link: https://job-boards.greenhouse.io/reddit/jobs/8349916
+- Location: San Francisco, CA
+- Posted: Nov 05 11:13 ET
+- Scanner fit: ~43 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 25 in data/analytics/finance occupations
+- Type: part-time
+- Title scope: core | Has: llm, machine learning, healthcare, pipeline, quantitative, research, xgboost | Lacks: kafka, scala  | Note: part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+
+### Job description
+
+Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . Job Duties: Design, build, and deploy industrial-level machine learning models to solve critical problems in ad ranking, bidding, and optimization. Take full ownership of the ML lifecycle, from ideation and research to building scalable serving systems and maintaining models in production. Perform systematic feature engineering to transform raw, diverse data into high-quality features that drive model performance. Work closely with product managers, data scientists, and engineers to translate business challenges into effective ML solutions. Improve the reliability and stability of our ML systems by building robust monitoring, alerting, and automated retraining pipelines. Research new algorithms, stay up-todate with state-of-the-art ML techniques, and contribute to the team’s strategy and roadmap. Part-time telecommuting is an option. Hybrid work from Reddit offices in San Francisco, CA. Requirements: Master’s degree, or its foreign degree equivalent, in Computer Science, Robotics, Engineering (any field), or a related quantitative discipline and two (2) years of experience in the job offered or in any occupation in related field. Special Skill Requirements: (1) PII Data handling; (2) Kafka Infrastructure; (3) Data governance; (4) Batch data pipeline; (5) SLOs; (6) Graph service; (7) ML models; (8) XGboost; (9) LLM; (10) Google Cloud Platform. Any suitable combination of education, training and experience is acceptable. Part-time telecommuting is an option. Hybrid work from Reddit offices in San Francisco, CA. Benefits: Comprehensive Healthcare Benefits and Income Replacement Programs 401k with Employer Match Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support Family Planning Support Gender-Affirming Care Mental Health &amp; Coaching Benefits Flexible Vacation &amp; Paid Volunteer Time Off Generous Paid Parental Leave&nbsp; Submit a resume with references using the apply button on this posting or by email at:&nbsp; applicationsreview@reddit.com at Req.# 1016.298.4. Pay Transparency: This job posting may span more than one career level. In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit&nbsp; https://www.redditinc.com/careers/ . To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies.&nbsp; The base pay range for this position is: $216,700.00 - $303,400.00 USD &nbsp; #LI-DNI In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews. During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&nbsp; We will delete any recording of your interview promptly after making a hiring decision.&nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors . Reddit is proud to be an
+
+---
+
+## 27. [MAYBE] EXL | Snowflake Data Engineer
 - Link: https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21585
 - Location: New York, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -295,7 +500,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 20. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
+## 28. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644496
 - Location: New York City NY us
 - Posted: Nov 05 06:29 ET
@@ -309,7 +514,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 21. [MAYBE] Cerebras | AI Engineer
+## 29. [MAYBE] Cerebras | AI Engineer
 - Link: https://jobs.ashbyhq.com/cerebras/c6f607ce-306c-4deb-8825-4175201a7cd4
 - Location: Sunnyvale, CA United States remote
 - Posted: Nov 04 17:08 ET
@@ -388,7 +593,7 @@ Cerebras Systems
 
 ---
 
-## 22. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
+## 30. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
 - Link: https://jobs.lever.co/erg/ffa7e5a8-5d49-4608-a3b0-9a5ff07a3f0a
 - Location: Morrisville, NC Morrisville, NC US
 - Posted: Nov 05 11:07 ET
@@ -402,4 +607,18 @@ ERG is a research and consulting firm that provides a wide range of support to f
  Support aerosol and aerobiology research, including the generation, sampling, characterization, and evaluation of biological and chemical aerosols in controlled experimental environments Contribute to laboratory, field, and applied research projects addressing environmental and public health questions Assist with the design, setup, execution, and documentation of scientific experiments and testing programs Operate, maintain, and troubleshoot scientific instruments, aerosol measurement systems, sampling equipment, and experimental test systems Support the generation, collection, processing, and characterization of biological, chemical, and environmental samples, as required by project needs Perform laboratory activities that may include aerosol generation and measurement, microbiological techniques, environmental sampling, and chemical or physical analyses Assist with the design, development, integration, and testing of experimental hardware, instrumentation, and innovative research systems Collect, manage, analyze, interpret, and visualize experimental and environmental data Troubleshoot, maintain, modify, and repair laboratory and field equipment Maintain accurate and detailed laboratory records, project documentation, and data files Contribute to the preparation of technical reports, presentations, procedures, protocols, and other project deliverables Support the implementation of Quality Assurance Project Plans (QAPPs), Standard Operating Procedures (SOPs), and quality assurance/quality control (QA/QC) activities Follow all applicable laboratory, field, biosafety, health, and safety procedures Collaborate with multidisciplinary teams of scientists and engineers on a variety of research and technical assignments B.S. degree in environmental, mechanical, chemical, biomedical, or related engineering; chemistry; physics; microbiology; environmental science; atmospheric science; or a related scientific or technical discipline 0–4 years of relevant professional experience Hands-on experience in a laboratory, field, engineering, or other technical environment gained through academic research, internships, employment, or comparable experience Strong analytical, quantitative, mechanical, and problem-solving skills Interest in working with scientific instrumentation, experimental systems, laboratory equipment, and/or environmental measurement technologies Ability to work effectively across multiple technical disciplines and learn new scientific methods, procedures, and equipment Strong organizational, documentation, written, and verbal communication skills Ability to pass required background checks, as well as pre-employment and random drug screenings Experience or academic research involving aerosols, aerobiology, microbiology, or related laboratory sciences Hands-on experience with aerosol generation, measurement, collection, characterization, or sample processing Experience with biosafety practices, procedures, and laboratory protocols Experience working in a BSL-2 and/or aerosol laboratory environment Experience conducting environmental or air-quality measurements and sampling Familiarity with scientific instrumentation, sensors, and data acquisition systems Experience with laboratory experimental design, protocol development, or test-system development Experience developing, integrating, modifying, or applying instrumentation and/or commercial off-the-shelf equipment for research applications Experience with field sampling, environmental monitoring, or field-based research Knowledge of microbiology, aseptic technique, culture methods, molecular methods, or related laboratory practices Experience with data processing, analysis, visualization, or programming Familiarity with mechanical or electrical systems, sensors, controls, or instrumentation Experience troubleshooting, maintaining, calibrating, or repairing scientific or laboratory equipment Familiarity with QA/QC procedures, QAPPs, SOPs, or Good Laboratory Practice principles Experience preparing technical reports, procedures, protocols, laboratory records, or other technical documentation ERG offers competitive salaries and excellent benefits, including health and dental insurance, life insurance, long-term disability, educational benefits, FSAs, a generous 401k plan, profit sharing, an EAP, 11-20 paid vacation days per year, 10 paid holidays per year, 56 hours or more of sick leave (based on the state you work in) per year (pro-rated for part-time) and more. The salary range for all positions depends on the years and type of experience. 
   
 ERG
+
+---
+
+## 31. [MAYBE] PennState University | Part Time Research Assistant
+- Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000069624-1
+- Location: Penn State University Park
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: part-time
+- Title scope: core | Has: statistic, reporting, research | Lacks: -  | Note: part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+
+### Job description
+
+APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process . Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday. If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants . Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants . JOB DESCRIPTION AND POSITION REQUIREMENTS The PRO Health Lab in the Prevention Research Center is seeking undergraduate research assistants to conduct research for an NIH-funded study. BACKGROUND CHECKS/CLEARANCES Employment with the University will require successful completion of background check(s) in accordance with University policies. CAMPUS SECURITY CRIME STATISTICS Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here .
 
