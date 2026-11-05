@@ -5,21 +5,27 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | American University | Career Outcomes Data Analyst | 75 | cap-exempt employer | Nov 04 (board gives the date only) |
-| 2 | HCSC | Analytics Consultant | 69 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 3 | DXC Technology | Analista de Reporting (Power BI / Excel) | 67 | 12 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 4 | Dimensional Fund Advisors | Analyst, Portfolio Management (Equities) | 65 | 23 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 5 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 6 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 7 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 8 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 9 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 10 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 11 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 12 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 13 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 14 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 15 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
-| 16 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
+| 2 | Hitachi | Training & Development Analyst | 70 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 3 | HCSC | Analytics Consultant | 69 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 4 | DXC Technology | Analista de Reporting (Power BI / Excel) | 67 | 12 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 5 | Dimensional Fund Advisors | Analyst, Portfolio Management (Equities) | 65 | 23 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 6 | University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law | 62 | cap-exempt employer | Nov 04 (board gives the date only) |
+| 7 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 8 | Canadian Tire | Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 9 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 10 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 11 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 12 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 13 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 14 | CVS Health | Coordinator, Financial Reporting Analysis | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 15 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 16 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 17 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 18 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 19 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 20 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
+| 21 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
+| 22 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
 
 ---
 
@@ -37,7 +43,21 @@ American University is a student-centered research institution located in Washin
 
 ---
 
-## 2. [MAYBE] HCSC | Analytics Consultant
+## 2. [MAYBE] Hitachi | Training & Development Analyst
+- Link: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jefferson-City-Missouri-United-States-of-America/Training---Development-Analyst_R0150712
+- Location: Jefferson City, Missouri, United States of America
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~70 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, dashboard, excel, llm, power bi, tableau, git, reporting | Lacks: -  | Note: broad title
+
+### Job description
+
+Location: Jefferson City, Missouri, United States of America Job ID: R0150712 Date Posted: 2026-11-04 Company Name: HITACHI ENERGY USA INC Profession (Job Category): Human Resources Job Schedule: Full time Remote: No Job Description: Are you passionate about supporting employee growth through organization, technology, and data-driven processes? Join Hitachi Energy as a Training & Development Analyst and play a key role in ensuring our workforce has access to effective, compliant, and well-coordinated learning experiences. In this position, you will be the driving force behind training administration at our Jefferson City, Missouri site, managing learning systems, maintaining accurate training records, and coordinating training activities that help employees succeed. Your expertise in data management, scheduling, and process improvement will directly contribute to workforce readiness, compliance, and operational excellence. Responsible to ensure compliance with applicable external and internal regulations, procedures and guidelines. This is an exciting opportunity for a detail-oriented professional who enjoys working with people, technology, and data. You will collaborate with teams across the organization, support employee development initiatives, and help create a seamless training experience from enrollment through certification tracking. If you thrive in a fast-paced environment and enjoy improving processes while making a meaningful impact, we'd love to hear from you. How You'll Make an Impact Administer and maintain the Learning Management System (LMS), ensuring accurate learner records and training content. Coordinate training schedules, communications, logistics, and resource preparation. Track training completions, certifications, and attendance to support compliance requirements. Generate reports and dashboards on training metrics, completion rates, and learning effectiveness. Provide support to employees regarding LMS access, registrations, and training requirements. Partner with stakeholders to ensure training programs are delivered efficiently and on time. Identify opportunities to improve training administration processes and data accuracy. Monitor mandatory training compliance and proactively address gaps or overdue requirements. Order, troubleshoot, and maintain devices used for training purposes. Clear communication with technical topics, with accurate details. Systematic thinking with the ability to troubleshoot problems before escalating. The ability to multi-task through multiple on-going projects at different times. Your Background High school diploma or equivalent required; an associate degree in Business, Human Resources, Data Management, or a related field is a plus. Minimum 2 years of experience in training coordination, LMS administration, data management, or a similar role. Experience working with Learning Management Systems and maintaining training records. Strong proficiency with Microsoft Office applications, particularly Excel. Excellent organizational, analytical, and communication skills with strong attention to detail. Experience in manufacturing, regulated environments, compliance programs, or bilingual English/Spanish capabilities is advantageous. Basic knowledge of reporting tools like Tableau. Basic knowledge of Power BI More About Us At Hitachi Energy, you'll help advance a sustainable energy future while contributing to innovative projects that make a global impact. We foster a collaborative and inclusive culture where continuous learning, development, and career growth are encouraged. Our employees benefit from opportunities to expand their skills, work with diverse teams, and build rewarding long-term careers. Equal Employment Opportunity (
+
+---
+
+## 3. [MAYBE] HCSC | Analytics Consultant
 - Link: https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TN---Nashville/Analytics-Consultant_R0055195-1
 - Location: 6 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -51,7 +71,7 @@ At HCSC, our employees are the cornerstone of our business and the foundation to
 
 ---
 
-## 3. [MAYBE] DXC Technology | Analista de Reporting (Power BI / Excel)
+## 4. [MAYBE] DXC Technology | Analista de Reporting (Power BI / Excel)
 - Link: https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESP---MD---LAS-ROZAS/Analista-de-Reporting--Power-BI---Excel-_51586705
 - Location: ESP - MD - LAS ROZAS
 - Posted: Nov 04 (board gives the date only)
@@ -65,7 +85,7 @@ Job Description: DXC ayuda a empresas globales a ejecutar sus sistemas y operaci
 
 ---
 
-## 4. [MAYBE] Dimensional Fund Advisors | Analyst, Portfolio Management (Equities)
+## 5. [MAYBE] Dimensional Fund Advisors | Analyst, Portfolio Management (Equities)
 - Link: https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Analyst--Portfolio-Management--Equities-_2026-9050
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -79,7 +99,21 @@ Job Description: Portfolio Management is responsible for the daily oversight and
 
 ---
 
-## 5. [MAYBE] Manulife Financial | Data Analyst / Business Analyst
+## 6. [MAYBE] University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law
+- Link: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Professional-Development-Program-Coordinator--Center-for-Women-in-Law_R_00049852
+- Location: UT MAIN CAMPUS
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time (20 h/week stated)
+- Title scope: broad | Has: aws, excel, llm, statistic, git, reporting | Lacks: -  | Note: broad title
+
+### Job description
+
+Job Posting Title: Professional Development Program Coordinator, Center for Women in Law ---- Hiring Department: School of Law ---- Position Open To: All Applicants ---- Weekly Scheduled Hours: 40 ---- FLSA Status: Exempt from FLSA ---- Earliest Start Date: Immediately ---- Position Duration: Expected to Continue ---- Location: UT MAIN CAMPUS ---- Job Details: General Notes The University of Texas School of Law strives to create and promote an environment that values kindness and mutual respect and a culture that provides a deep sense of belonging for each member of our community. The University of Texas at Austin provides an outstanding benefits package to staff, including: Competitive health benefits (Employee premiums covered at 100%; family premiums at 50%) Vision, dental, life, and disability insurance options Paid vacation, sick leave, and holidays Teachers Retirement System of Texas (a defined benefit retirement plan) Additional voluntary retirement programs: tax sheltered annuity 403(b) and a deferred compensation program 457(b) Flexible spending account options for medical and childcare expenses Training and conference opportunities Tuition assistance Athletic ticket discounts Access to UT Austin's libraries and museums Free rides on all UT Shuttle and Capital Metro buses with staff ID card For more details, please see: https://hr.utexas.edu/prospective/benefits and https://hr.utexas.edu/current/services/my-total-rewards Purpose Under direction of the Center’s leadership, the Professional Development Program Coordinator provides support in the design, implementation and advancement of Center’s programs and initiatives for law students and lawyers at all stages of their career. The Coordinator works closely with the Center’s team, leadership, supporters, volunteers and outside experts to develop and deliver both in-person and virtual programming. This position also leads the development and maintenance of the Center’s online presence and helps facilitate effective team operations and organizational coordination. The Coordinator is highly organized and detail-oriented with the ability to independently manage multiple projects and competing deadlines, is proactive, has excellent verbal and written communication skills, has experience with digital communications and website content management, has a collaborative approach to teamwork and the ability to anticipate organizational needs. Responsibilities Implement professional development programs with guidance from CWIL leadership. Assist in the Center’s program planning and development. Coordinate logistical and operational activities for all aspects of the Center’s programs, including program progress, timelines, budgetary reviews, and event planning execution. Communicate and coordinate with university staff, UT’s CLE team, presenters, collaborators and attendees. Arrange program logistics, including space reservations, parking, printing, catering and other items as needed. Coordinate business and vendor activities as needed, including processing event forms, purchase requests, payment and contracts as required by University policies. Develop, distribute and manage invitations, registrations and participant communications to ensure a seamless experience from registration through program attendance and post-attendance follow-up. Provide on-site administration to facilitate the smooth operation of events. Develop and execute the Center’s online presence and communications strategy. Develop social media strategies; create, manage and routinely update the CWIL website; develop and distribute appropriate CWIL content; and collect and analyze social media and digital engagement data for internal assessment. Collaborate with the development team to coordinate communications and outreach efforts. Manage the technology and logistics associated with virtual and hybrid programming, including online registration, event hosting, participation communications and post-event surveys. Facilitate team operations and internal coordination with CWIL leadership. Support effective teamwork by anticipating operational and logistical needs, coordinating internal activities, and helping ensure that meetings, projects and day-to-day operations run smoothly. Build and maintain strong working relationships with University leadership and staff, Center leadership, and Power Circle members to foster engagement, facilitate communication and support effective governance. Assist with coordination, information sharing, meeting preparation and follow-up, and help ensure effective collaboration among the Center’s leadership and key stakeholders. Assist in assessing program effectiveness and impact and identifying opportunities for continuous improvement. Collect, monitor and analyze program data, including enrollment, participation and registration data and participant satisfaction. Assist with program evaluation data collection, participant surveys and reporting to help inform program development and ensure the use of best practices. Other related responsibilities and functions as assigned. Required Qualifications Bachelor’s degree and at least three years of relevant experience in program development, project management, communications or a related field. Demonstrated ability to plan, coordinate and execute professional programs, and manage competing priorities and meet deadlines. Experience building and maintaining effective working relationships with a variety of stakeholders and client groups. Strong organizational skills, attention to detail and follow-through. Excellent written, verbal and interpersonal communication skills. Ability to be flexible, take initiative and exercise sound judgment. Ability to work both independently and in a highly collaborative team environment. Relevant education and experience may be substituted as appropriate. Preferred Qualifications Experience with website content development and management and digital communications. Proficiency with Zoom and MS Office tools particularly PowerPoint, Word and Excel. Ability and interest in learning new technologies and systems. Previous experience in coordinating events and managing vendor relationships. Salary Range $50,000 + depending on qualifications Working Conditions May work around standard office conditions. Repetitive use of a keyboard at a workstation, use of manual dexterity. Lift and move standard office files and supplies. Wear appropriate office attire; accept supervision. Work hours may include occasional evenings, weekends and some holidays during peak periods to meet deadlines. On-site work is the normal expectation for this position. Required Materials Resume/CV 3 work references with their contact information; at least one reference should be from a supervisor Letter of interest Important for applicants who are NOT current university employees or contingent workers: You will be prompted to submit your resume the first time you apply, then you will be provi [...]
+
+---
+
+## 7. [MAYBE] Manulife Financial | Data Analyst / Business Analyst
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Data-Analyst---Business-Analyst_JR26101524
 - Location: Quezon City
 - Posted: Nov 04 (board gives the date only)
@@ -93,7 +127,21 @@ Overview: We are seeking a business-facing technical Data Analyst to translate G
 
 ---
 
-## 6. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
+## 8. [MAYBE] Canadian Tire | Data Analyst
+- Link: https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Laval-QC/Data-Analyst_JR166738
+- Location: Laval, QC
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: etl, excel, power bi, sql, statistic, quantitative, reporting, validation | Lacks: azure  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Joining the Canadian Tire team in the FGL Sports division, you will be working as part of a team of data management analysts. Your role as a Data Analyst will be to support the Data Architecture in the development of various query requirements across multiple enterprise database sources. You will design, implement and manage the structure of reporting systems. The Data Analyst will be responsible for data extraction initiatives from our various systems, validation with business departments for ad hoc analysis requests and project developments. *This role requires an in-office presence at the Laval office What You’ll Do Support various business requests by being responsible for the optimization and creation of SQL queries. Design, build, deliver and manage models and reports using Excel and Power BI. Present data from multiple enterprise database sources. Participate in the data architecture and data solution design of our various systems. Collaborate with analysts in the development of connections and extractions with our various databases (Dynamics 365, Azure, I Hub ingestion). Support data validations during the integration of systems under different platforms. Analyze impacts in existing systems during change requests; Analyze and collaborate on structural specifications for new software and applications. Develop an in-depth understanding of the various processes Support process documentation and provide automation recommendations. Participate in workshops to gather requirements and provide recommendations for reporting and BI solutions. Convert processes into functional requirements clearly and understandable to developers and project teams. Leverage knowledge of specific data products available as well as visualization capabilities to improve requirements and offer relevant suggestions to stakeholders. Prioritize tasks with the team and ensure the availability of forward-looking roadmaps for features to be delivered on data products under the team's purview. Collaborate with the Business Intelligence analysts and IT department in the realization of various requirements, as well as maintenance and evolution activities. What You Bring Bachelor's degree in quantitative discipline (mathematics, statistics, computer science, economics) 3+ years of experience in data analytics and good understanding of data architecture. Working knowledge of AI and data warehouse concepts and terminology; Excellent Excel skills, especially with the use of advanced formulas and macros. Strong knowledge of SQL, ETL, Power BI (report design & visualization) and Microsoft Azure. Experience in Microsoft Dynamics 365 (asset) Experience in analysis, modeling, verification, and development of business and technical requirements methodologies. Ability to establish, document and communicate data modeling standards, policies, guidelines, and governance structures. Ability to prioritize projects within timelines. Self-motivated and able to work independently Excellent oral and written communication skills with the ability to relate and describe situations with data; Ability to explain complex phenomena clearly and concisely to any type of hearing Thorough person with a passion for quality and innovative technologies. Excellent command of French and English, both oral and written We’re always looking for great talent! In addition to competitive pay, we offer: Comprehensive benefits and retirement programs Continuing Education Programs Other perks to support your well-being Career growth opportunities and product discounts #LI-MM2 This posting represents an existing vacancy within our organization. We may use artificial intelligence tools as part of our recruitment process to assist in the initial screening of resumes. All hiring decisions, including candidate evaluation, selection, and disposition, are made by human recruiters. About Us Part of the Canadian Tire family is Sports Experts. Your Sports Experts! Built on more than 50 years tradition on customer focus, Sports Experts is headquartered in Laval, Quebec. Sports Experts is proud to promote a wide selection of sports equipment, clothing and footwear of renowned and exclusive brands. By joining Sports Experts you will appreciate to work with an experienced team that will welcome you. We are the destination to Stay fit. Live well. Our Commitment to Diversity, Inclusion and Belonging We are committed to fostering an environment where belonging thrives, and diversity, inclusion and equity are infused into everything we do. We believe in building an organizational culture where people are consistently treated with dignity while respecting individual religion, nationality, gender, race, age, perceived ability, spoken language, sexual orientation, and identification. We are united in our purpose of being here to help make life in Canada better. . Accommodations We stand firm in our Core Value that inclusion is a must. We welcome and encourage candidates from equity-seeking groups such as people who identify as racialized, Indigenous, 2SLGBTQIA+, women, people with disabilities, and beyond. Should you require any accommodation in applying for this role, or throughout the interview process, please make them known when contacted and we will work with you to help meet your needs.
+
+---
+
+## 9. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644686
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -107,7 +155,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 7. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
+## 10. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644676
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -121,7 +169,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 8. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
+## 11. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
 - Link: https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Investment-Treasury-Portfolio-Analyst_R95096-1
 - Location: Boston, MA, United States
 - Posted: Nov 04 (board gives the date only)
@@ -135,7 +183,7 @@ About Us Wellington Management offers comprehensive investment management capabi
 
 ---
 
-## 9. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
+## 12. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
 - Link: https://centrica.wd3.myworkdayjobs.com/Centrica/job/Leicester/Business-Intelligence---Reporting-Analyst-_R0090515-1
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -149,7 +197,7 @@ Join us, be part of more. We’re so much more than an energy company. We’re a
 
 ---
 
-## 10. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
+## 13. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
 - Link: https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Financial-Reporting-Analyst---Capital-Access-Platforms_R0027263
 - Location: USA - New York City - New York
 - Posted: Nov 04 (board gives the date only)
@@ -163,7 +211,21 @@ Nasdaq is seeking a highly motivated Financial Reporting Analyst to join the Div
 
 ---
 
-## 11. [MAYBE] Repligen | Strategy Analyst/Associate
+## 14. [MAYBE] CVS Health | Coordinator, Financial Reporting Analysis
+- Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Work-from-hom/Coordinator--Financial-Reporting-Analysis_R1080792
+- Location: 2 Locations
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time. Position Summary The Financial Reporting Analyst Coordinator supports accounts receivable and financial reporting functions through cash application, payment research, invoice processing, and monthly billing activities. This role ensures accurate payment posting, researches payment and rate discrepancies, reviews payment details from clients and collectors, accesses banking information, and partners with internal and external stakeholders to resolve billing and payment issues. Required Qualifications 2+ years of experience in cash posting, payment application, or accounts receivable. 2+ years of experience with invoicing, payment research, and reconciliation processes. Proficiency in Microsoft Office Suite, Outlook, and particularly Excel including experience with VLOOKUPs and Pivot Tables. Candidates must reside in Ohio and be able to travel to the corporate office in Columbus, Ohio, once per month. Preferred Qualifications Candidates located in or near the Columbus, Ohio area is strongly preferred. Knowledge of Great Plains accounting software. Strong analytical, problem-solving, and organizational skills. High attention to detail and commitment to accuracy. Education Associate's Degree in Accounting, Finance, Business, or related fields. Anticipated Weekly Hours 40 Time Type Full time Pay Range The typical pay range for this role is: $17.00 - $28.46 This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. Our people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong. Great benefits for great people We take pride in offering a comprehensive and competitive mix of pay and benefits that reflects our commitment to our colleagues and their families. This full‑time position is eligible for a comprehensive benefits package designed to support the physical, emotional, and financial well‑being of colleagues and their families. The benefits for this position include medical, dental, and vision coverage, paid time off, retirement savings options, wellness programs, and other resources, based on eligibility. Additional details about available benefits are provided during the application process and on Benefits Moments . We anticipate the application window for this opening will close on: 11/09/2026 Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.
+
+---
+
+## 15. [MAYBE] Repligen | Strategy Analyst/Associate
 - Link: https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Waltham-MA/Strategy-Analyst-Associate_R-610
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -177,7 +239,21 @@ Repligen is a global pure-play bioprocessing company with highly differentiated 
 
 ---
 
-## 12. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
+## 16. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
+- Link: https://transamerica.wd5.myworkdayjobs.com/AEGONAM/job/NLD-Schiphol/Responsible-Investment-Analyst_R20063237-1
+- Location: NLD Schiphol
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, reporting, research, risk | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Job Description Summary Job Description Responsible Investment team and role overview The Aegon Asset Management Responsible Investment team brings together ESG, sustainability and impact expertise at the heart of our investment business. The team plays an important role in investment research and product development, engagement, client discussions and helps both the firm and our clients navigate the evolving sustainability landscape. The team works closely with investment, product and client teams across Continental Europe, while collaborating with Responsible Investment specialists across Aegon Asset Management globally. Based in Amsterdam, the 7-person highly international team works in a hybrid model, combining close in-person collaboration with the flexibility of remote working. This is an exciting opportunity for someone at the start of their career who wants to build a strong foundation in responsible investment. We are looking for someone who is curious, proactive and eager to learn and develop. You will gain hands-on experience across sustainability research, engagement, ESG and impact data, and reporting, working on real investment and sustainability questions from day one. You will learn from an experienced international team and, as your knowledge and confidence grow, have the opportunity to take on increasing responsibility and develop your own areas of expertise. Please note that this is a one-year fixed-term position. Depending on business needs and circumstances, there may be an opportunity to extend the role beyond the initial term. As part of the Responsible Investment team, you will get exposure to different aspects of responsible investment. You will support: Sustainability Research : Working closely with the rest of the RI team. Researching material ESG issues facing potential investment opportunities. This includes analyzing, identifying improvements and monitoring company and sector specific ESG issues. Engagement & Voting: Supporting engagement with companies to encourage improvements identified. Working with the wider team to plan, execute and document engagement efforts (letters, calls, meetings); and provide sector and company analysis to support engagement with corporates, policy makers and investor bodies. Contributing towards voting at the company Annual Meetings. ESG and Impact data Reporting: Carrying out a robust monitoring and reporting processes, supporting other team members with ESG and impact research, reporting and data management. Providing data to various teams and external clients. Start your career in responsible investment, learn from an experienced international team, work directly on real investment and sustainability questions, and progressively build your own areas of expertise. Required Qualifications: Bachelor’s degree in finance, economics, management, political science, international development, or related fields Genuine interest in responsible investment; familiarity with ESG issues is an advantage Excellent verbal and written communication skills in English, Dutch is a distinct advantage Able to work independently and establish/maintain working relationships internally Proactive and collaborative attitude, comfortable asking questions and learning from others A strong learning mindset, intellectual curiosity and eagerness to develop professionally Preferred Qualifications: Master’s degree in a relevant field Strong verbal and written communication in Dutch are an advantage Company Overview: Aegon Asset Management (Aegon AM) is a leading global investor. Our 350+ investment professionals manage and advise on assets of US $446 billion for a global client base of pension plans, public funds, insurance companies, banks, wealth managers, family offices and foundations. We organize our firm around four investment platforms: fixed income, real assets, equities and multi-asset & solutions, which includes a fiduciary and multi-manager b usiness. Each investment platform has dedicated teams with deep asset-class expertise, organized globally and committed to maximizing client benefit from their specialist areas. We are an international business: Our 1,130 employees work from 16 locations across Europe, the Americas and Asia. We share a common belief in fundamental, research-driven active management, underpinned by effective risk management and a commitment to responsible investment. Compensation/What will you be getting? Compensation level depend upon an applicant’s qualifications and will be determined by hiring supervisors/managers and HR A collaborative, learning-focused environment A culture that values initiative and continuous improvement. Plenty of scope and budget for your personal and professional development A minimum of 27 holiday days Reimbursement of your travel expenses A good pension scheme Interested? Apply! Are you interested in joining our Team? We look forward to receiving your resume and motivation letter. Then make sure you apply immediately! Diversity & Inclusion At Aegon Asset Management, we are committed to fostering a diverse workforce and an inclusive culture. We are more than a global Asset Management firm – we are a people business, and we recognize that delivering excellent client outcomes comes from harnessing diverse perspectives. We value diversity in the full range of human uniqueness without limitation including race, gender, ability, language, culture, beliefs, age, origin, background, perspectives and experiences. #LI-DK1 #LI-Hybrid
+
+---
+
+## 17. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644656
 - Location: Long Island City NY us
 - Posted: Nov 05 06:35 ET
@@ -191,7 +267,7 @@ The Center for Population Health Data Science (CPHDS)- launched in October of 20
 
 ---
 
-## 13. [MAYBE] Accenture | Analista de Analytics - Híbrido
+## 18. [MAYBE] Accenture | Analista de Analytics - Híbrido
 - Link: https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Analista-Pleno-de-Engenharia-de-Dados_R00351665
 - Location: see posting
 - Posted: Nov 04 (board gives the date only)
@@ -205,7 +281,7 @@ Sobre a Accenture A Accenture ajuda as principais empresas do mundo a se reinven
 
 ---
 
-## 14. [MAYBE] EXL | Snowflake Data Engineer
+## 19. [MAYBE] EXL | Snowflake Data Engineer
 - Link: https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21585
 - Location: New York, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -219,7 +295,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 15. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
+## 20. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644496
 - Location: New York City NY us
 - Posted: Nov 05 06:29 ET
@@ -233,7 +309,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 16. [MAYBE] Cerebras | AI Engineer
+## 21. [MAYBE] Cerebras | AI Engineer
 - Link: https://jobs.ashbyhq.com/cerebras/c6f607ce-306c-4deb-8825-4175201a7cd4
 - Location: Sunnyvale, CA United States remote
 - Posted: Nov 04 17:08 ET
@@ -309,4 +385,21 @@ PORTFOLIO
 Please include links to code, prototypes, and technical writing you’ve created. Identify what you personally built or wrote, explain the problem you explored, and share the results or lessons learned.
 
 Cerebras Systems
+
+---
+
+## 22. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
+- Link: https://jobs.lever.co/erg/ffa7e5a8-5d49-4608-a3b0-9a5ff07a3f0a
+- Location: Morrisville, NC Morrisville, NC US
+- Posted: Nov 05 11:07 ET
+- Scanner fit: ~40 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, quantitative, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+ERG is a research and consulting firm that provides a wide range of support to federal, state, and commercial clients. ERG offers multidisciplinary teams with nationally recognized skills in engineering, science, economics, public health, informational technology, and communications. We hire people with the best minds and then provide them with a vibrant and flexible environment in which to develop their careers. The qualified individual must be highly motivated with the skills to prioritize, perform, and communicate effectively in a fast-paced environment. 
+ Support aerosol and aerobiology research, including the generation, sampling, characterization, and evaluation of biological and chemical aerosols in controlled experimental environments Contribute to laboratory, field, and applied research projects addressing environmental and public health questions Assist with the design, setup, execution, and documentation of scientific experiments and testing programs Operate, maintain, and troubleshoot scientific instruments, aerosol measurement systems, sampling equipment, and experimental test systems Support the generation, collection, processing, and characterization of biological, chemical, and environmental samples, as required by project needs Perform laboratory activities that may include aerosol generation and measurement, microbiological techniques, environmental sampling, and chemical or physical analyses Assist with the design, development, integration, and testing of experimental hardware, instrumentation, and innovative research systems Collect, manage, analyze, interpret, and visualize experimental and environmental data Troubleshoot, maintain, modify, and repair laboratory and field equipment Maintain accurate and detailed laboratory records, project documentation, and data files Contribute to the preparation of technical reports, presentations, procedures, protocols, and other project deliverables Support the implementation of Quality Assurance Project Plans (QAPPs), Standard Operating Procedures (SOPs), and quality assurance/quality control (QA/QC) activities Follow all applicable laboratory, field, biosafety, health, and safety procedures Collaborate with multidisciplinary teams of scientists and engineers on a variety of research and technical assignments B.S. degree in environmental, mechanical, chemical, biomedical, or related engineering; chemistry; physics; microbiology; environmental science; atmospheric science; or a related scientific or technical discipline 0–4 years of relevant professional experience Hands-on experience in a laboratory, field, engineering, or other technical environment gained through academic research, internships, employment, or comparable experience Strong analytical, quantitative, mechanical, and problem-solving skills Interest in working with scientific instrumentation, experimental systems, laboratory equipment, and/or environmental measurement technologies Ability to work effectively across multiple technical disciplines and learn new scientific methods, procedures, and equipment Strong organizational, documentation, written, and verbal communication skills Ability to pass required background checks, as well as pre-employment and random drug screenings Experience or academic research involving aerosols, aerobiology, microbiology, or related laboratory sciences Hands-on experience with aerosol generation, measurement, collection, characterization, or sample processing Experience with biosafety practices, procedures, and laboratory protocols Experience working in a BSL-2 and/or aerosol laboratory environment Experience conducting environmental or air-quality measurements and sampling Familiarity with scientific instrumentation, sensors, and data acquisition systems Experience with laboratory experimental design, protocol development, or test-system development Experience developing, integrating, modifying, or applying instrumentation and/or commercial off-the-shelf equipment for research applications Experience with field sampling, environmental monitoring, or field-based research Knowledge of microbiology, aseptic technique, culture methods, molecular methods, or related laboratory practices Experience with data processing, analysis, visualization, or programming Familiarity with mechanical or electrical systems, sensors, controls, or instrumentation Experience troubleshooting, maintaining, calibrating, or repairing scientific or laboratory equipment Familiarity with QA/QC procedures, QAPPs, SOPs, or Good Laboratory Practice principles Experience preparing technical reports, procedures, protocols, laboratory records, or other technical documentation ERG offers competitive salaries and excellent benefits, including health and dental insurance, life insurance, long-term disability, educational benefits, FSAs, a generous 401k plan, profit sharing, an EAP, 11-20 paid vacation days per year, 10 paid holidays per year, 56 hours or more of sick leave (based on the state you work in) per year (pro-rated for part-time) and more. The salary range for all positions depends on the years and type of experience. 
+  
+ERG
 
