@@ -3955,7 +3955,7 @@ JCDecaux,workday,jcdecaux.wd3,ExternalSiteJCDUK,,simplify-listings
 JD Finish line,workday,jdgroupnam.wd1,JDFL_Corporate_Careers,,simplify-listings
 JD.com,workday,jd.wd103,Campus_Career_Site,,simplify-listings
 Jefferson County Colorado,workday,jefferson.wd5,external,,simplify-listings
-Jefferson Health,workday,jeffersonhealth.wd5,ThomasJeffersonExternal,,simplify-listings
+Jefferson Health,workday,jeffersonhealth.wd5,ThomasJeffersonExternal,cap-exempt,simplify-listings
 Jimmy Choo,workday,capri.wd1,jimmychoocareers,,simplify-listings
 JM Family,workday,jmfamily.wd1,jmfamily_external,,simplify-listings
 John Gore Organization,workday,johngore.wd1,Careers,,simplify-listings
@@ -4076,7 +4076,7 @@ Marvell,workday,marvell.wd1,MarvellCareers,,simplify-listings
 Marvell,workday,marvell.wd1,MarvellCareers2,,simplify-listings
 Mary Free Bed Rehabilitation Hospital,workday,maryfreebed.wd12,mfb,,simplify-listings
 Masco,workday,masco.wd1,Masco,,simplify-listings
-Mass General Brigham,workday,massgeneralbrigham.wd1,MGBExternal,,manual
+Mass General Brigham,workday,massgeneralbrigham.wd1,MGBExternal,cap-exempt,manual
 MassMutual Ascend,workday,massmutual.wd1,MMAscendCareers,,simplify-listings
 MassMutual Ascend,workday,massmutual.wd1,MMCareers,,simplify-listings
 Mastercard,workday,mastercard.wd1,Campus,,simplify-listings
@@ -4135,7 +4135,7 @@ MKS Instruments,workday,mksinst.wd1,MKSCareersUniversity,,simplify-listings
 Moder,workday,archwellessentials.wd1,modercareers,,simplify-listings
 Moderna,workday,modernatx.wd1,M_tx,,simplify-listings
 Modernizing Medicine,workday,modmed.wd501,ModMed12,,simplify-listings
-Moffitt Cancer Center,workday,moffitt.wd108,Moffitt,,simplify-listings
+Moffitt Cancer Center,workday,moffitt.wd108,Moffitt,cap-exempt,simplify-listings
 Momentive,workday,momentive.wd1,MC,,simplify-listings
 Mondelez International,workday,mdlz.wd3,External,,simplify-listings
 Monolithic Power Systems,workday,monolithicpower.wd12,MPS_Careers,,simplify-listings
@@ -4732,7 +4732,7 @@ WGU,workday,wgu.wd5,External,,simplify-listings
 Whataburger,workday,whataburger.wd5,WAB_CAREERS,,simplify-listings
 White Cap Supply Holdings,workday,whitecap.wd1,careers,,simplify-listings
 Wilbur-Ellis,workday,wilburellis.wd12,wilbur-ellis,,simplify-listings
-William & Mary,workday,williammary.wd12,WM,,simplify-listings
+William & Mary,workday,williammary.wd12,WM,cap-exempt,simplify-listings
 William Morris Endeavor Entertainment (WME),workday,wmeimg.wd1,WME,,simplify-listings
 Williams,workday,williams.wd5,External,,simplify-listings
 Wilmington Trust,workday,mtb.wd5,wtexternal,,simplify-listings
@@ -4783,3 +4783,15 @@ Genpact Llc,workday,genpact.wd108,External_Careers,,wd-probe
 Open Avenues Foundation,workday,open.wd103,OPEN,,wd-probe
 Scotia Capital (Usa) Inc.,workday,scu.wd1,SCU,,wd-probe
 Ally Bank,workday,ally.wd1,ALLY,,wd-probe
+Washington University in St. Louis,workday,wustl.wd1,External,cap-exempt,manual-capexempt
+Van Andel Institute,workday,vai.wd1,VAICareers,cap-exempt,manual-capexempt
+Georgetown University,workday,georgetown.wd1,Georgetown_Admin_Careers,cap-exempt,manual-capexempt
+Montefiore Medical Center,workday,montefiore.wd12,MMC,cap-exempt,manual-capexempt
+Seattle Childrens Hospital,workday,seattlechildrens.wd5,External,cap-exempt,manual-capexempt
+Washington State University,workday,wsu.wd5,WSU_Jobs,cap-exempt,manual-capexempt
+Clemson University,workday,clemson.wd12,Clemson_Careers,cap-exempt,manual-capexempt
+Tufts Medicine (Tufts Medical Center),workday,tuftsmedicine.wd1,Jobs,cap-exempt,manual-capexempt
+Cold Spring Harbor Laboratory,workday,cshl.wd12,CSHL,cap-exempt,manual-capexempt
+Cedars-Sinai Medical Center,oracle,hdkk.fa.us6.oraclecloud.com,CX,cap-exempt,manual-capexempt
+Mount Sinai Health System (Icahn School of Medicine),oracle,ejis.fa.us6.oraclecloud.com,CX,cap-exempt,manual-capexempt
+Oregon Health & Science University,icims,externalcareers-ohsu.icims.com,,cap-exempt,manual-capexempt
