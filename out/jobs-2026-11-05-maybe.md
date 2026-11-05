@@ -39,18 +39,21 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 33 | DiDi Global | Machine Learning Engineer - Agentic AI | 50 | none found (check myvisajobs) | Nov 05 14:18 ET |
 | 34 | Texas A&M University - College Station | Research Scientist | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
 | 35 | Texas A&M University System | Research Scientist | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 36 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 37 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 38 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 39 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 40 | Reddit | Machine Learning Engineer | 43 | 25 in data/analytics/finance occupations | Nov 05 11:13 ET |
-| 41 | Amazon | Applied Scientist , Fauna | 43 | 3890 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 42 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 43 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
-| 44 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
-| 45 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
-| 46 | PennState University | Part Time Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 47 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 36 | Clera | Founding AI Engineer (Agents) | 50 | none found (check myvisajobs) | Nov 05 16:03 ET |
+| 37 | Citizens Financial Group | Third Party Risk Analyst | 50 | 54 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 38 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 39 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 40 | Nationwide Children's Hospital | Research Assistant NE | 45 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 41 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 42 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 43 | Reddit | Machine Learning Engineer | 43 | 25 in data/analytics/finance occupations | Nov 05 11:13 ET |
+| 44 | Amazon | Applied Scientist , Fauna | 43 | 3890 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 45 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 46 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
+| 47 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
+| 48 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
+| 49 | PennState University | Part Time Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 50 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
 
 ---
 
@@ -648,7 +651,74 @@ Job Title Research Scientist Agency Texas A&M University Health Science Center D
 
 ---
 
-## 36. [MAYBE] Repligen | Strategy Analyst/Associate
+## 36. [MAYBE] Clera | Founding AI Engineer (Agents)
+- Link: https://jobs.ashbyhq.com/clera/dea4ca52-6c65-4ade-88a6-f4ed2d984b96
+- Location: remote
+- Posted: Nov 05 16:03 ET
+- Scanner fit: ~50 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: llm, python, pipeline, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+ABOUT THE ROLE
+
+Join an early-stage AI product startup as its first engineering hire and technical partner to the founder. You will build reliable agent-based products from the ground up, guide early technical decisions, and help shape the engineering team as the company grows.
+
+
+WHAT YOU'LL DO
+
+ - Design, build, and ship AI agents and supporting systems for planning, tool use, memory, orchestration, and evaluation.
+
+ - Develop the harnesses, evaluations, and observability needed to make agentic products dependable.
+
+ - Own the technical roadmap and architecture in partnership with the founder.
+
+ - Work directly with early customers and use their feedback to inform product development.
+
+ - Support product-led go-to-market through demos, technical sales conversations, and developer-facing content.
+
+ - Hire and lead early engineers as the team grows.
+
+
+WHAT WE'RE LOOKING FOR
+
+ - At least 3 years of professional software engineering experience, with strong skills in Python and/or TypeScript; the role is suited to candidates with roughly 3 to 10 or more years of experience.
+
+ - Hands-on experience building and operating AI agents or agent harnesses in production, beyond prototypes or demos.
+
+ - Strong software engineering foundations, including APIs, distributed systems, and data pipelines.
+
+ - Familiarity with LLM systems and tools such as tool calling, structured outputs, RAG, evaluations, and, where relevant, fine-tuning or reinforcement learning.
+
+ - A degree from a highly regarded university or experience at a leading AI lab or AI-first company, or comparable background.
+
+ - Early-stage startup experience, a founder mindset, comfort with ambiguity, and interest in commercial as well as technical work.
+
+ - Published research or notable open-source contributions in agents or LLM systems are valued.
+
+
+COMPENSATION & BENEFITS
+
+Co-founder-level equity is offered. Salary and visa sponsorship details were not provided.
+
+---
+
+## 37. [MAYBE] Citizens Financial Group | Third Party Risk Analyst
+- Link: https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49990
+- Location: Johnston, RI, United States US
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 54 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, credit, risk | Lacks: -
+
+### Job description
+
+As the Third Party Risk Analyst , you will manage vendor issues and execute Third Party Assessments. This will include managing relationships with both business leaders and vendors, while providing robust and challenging insight on business risk and on the adequacy and effectiveness of the test control processes in place. The role holder delivers assessment review and provides opinion on the quality of the vendor control environment as is needed to meet Citizens policies including identifying issues and subsequently assisting the business to agree to any appropriate action plans to mitigate the risk. The Third-Party Assessment function adds value by providing specific business function assurance on vendors, in relation to customer, financial or reputational risk and bringing momentum to action plans to address risk and leveraging findings and best practice on a bank wide scale. Primary responsibilities include Evaluating third party vendors' control infrastructure effectiveness and obtaining evidence of controls. Applying experience in audit, security and regulatory frameworks including ISO 27001, GLBA, SOX, PCI, HIPPA, States Privacy Regulation and FFIEC. Assisting in Governance Risk and Compliance (GRC) program’s design, process reengineering or enhancements and tool and technology implementations as applicable. Leading current risk assessments, continual risk assessments, and risk metrics and visualizations. Working directly with key business leaders to facilitate risk analysis and risk management processes, identifying acceptable levels of risk and establish roles and responsibilities with regards to risk management. Maintaining and monitoring enterprise risk exception process to identify areas of noncompliance. Supporting and participating in regulatory exam preparation and execution as well as remediation where applicable. Producing Third Party Vendor Assessment reports that clearly articulate risks in order to speak to a varied audience. Translating security risk and communicating effectively to business partners within the organization. The ability to travel within the United States is required. Qualifications, Education, Certifications and/or Other Professional Credentials Required Qualifications Ability to navigate program requirements independently. Demonstrates advanced critical thinking. Identifies opportunities and recommended solutions. Ability to appropriately manage multiple assessments and related activities. Demonstrates strong verbal and written communications amongst various internal and external stakeholders. Strong analytical skills to identify and classify inherent and residual risks. Effectively leads calls with various stakeholders to achieve desired results. Experience in financial services organization, particularly in Risk, Audit, Compliance, Cyber or Third-Party Risk Proficient use of Microsoft Word and Microsoft Excel Experience gathering and analyzing evidence through various methods (e.g., email, virtual sessions, or onsite) and sources (e.g., artifacts, interviews, meetings, demonstrations, independent audits, review of processes/policies, etc.) Preferred Qualifications Bachelor’s Degree (preferred) Holds relevant industry certification(s) (i.e. CISA, CRCM, CRISC, CTPRP, TPCRA, etc.) (preferred) Hours & Work Schedule Hours per Week: 40 Work Schedule: 8-5 (4 days in office, 1 day remote) Work Authorization: This role is not eligible for new employer sponsored or current H-1 B visa holders. Applicants, including current OPT, L and other visa holders, must be authorized to work in the U.S. without the need for new employer sponsorship for themselves or their spouses now and in the future.   Equal Employment Opportunity Citizens, its parent, subsidiaries, and related companies (Citizens) provide equal employment and advancement opportunities to all colleagues and applicants for employment without regard to age, ancestry, color, citizenship, physical or mental disability, perceived disability or history or record of a disability, ethnicity, gender, gender identity or expression, genetic information, genetic characteristic, marital or domestic partner status, victim of domestic violence, family status/parenthood, medical condition, military or veteran status, national origin, pregnancy/childbirth/lactation, colleague’s or a dependent’s reproductive health decision making, race, religion, sex, sexual orientation, or any other category protected by federal, state and/or local laws. At Citizens, we are committed to fostering an inclusive culture that enables all colleagues to bring their best selves to work every day and everyone is expected to be treated with respect and professionalism. Employment decisions are based solely on merit, qualifications, performance and capability. Equal Employment and Opportunity Employer Job Applicant Data Privacy Policy Background Check Any offer of employment is conditioned upon the candidate successfully passing a background check, which may include initial credit, motor vehicle record, public record, prior employment verification, and criminal background checks. Results of the background check are individually reviewed based upon legal requirements imposed by our regulators and with consideration of the nature and gravity of the background history and the job offered. Any offer of employment will include further information.
+
+---
+
+## 38. [MAYBE] Repligen | Strategy Analyst/Associate
 - Link: https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Waltham-MA/Strategy-Analyst-Associate_R-610
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -662,7 +732,7 @@ Repligen is a global pure-play bioprocessing company with highly differentiated 
 
 ---
 
-## 37. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
+## 39. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
 - Link: https://transamerica.wd5.myworkdayjobs.com/AEGONAM/job/NLD-Schiphol/Responsible-Investment-Analyst_R20063237-1
 - Location: NLD Schiphol
 - Posted: Nov 04 (board gives the date only)
@@ -676,7 +746,21 @@ Job Description Summary Job Description Responsible Investment team and role ove
 
 ---
 
-## 38. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
+## 40. [MAYBE] Nationwide Children's Hospital | Research Assistant NE
+- Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Assistant-NE_R-28435-1
+- Location: Main Campus, Columbus, OH
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, classification, publication, research | Lacks: -
+
+### Job description
+
+Overview: Job Description Summary: Performs research experiments in accordance with provisions of the approved protocol, maintains records, prepares reports and publications, and assists in analyzing data. Job Description: Essential Functions: Performs semi-independent research experiments reliably and reproducibly in accordance with protocols approved by the principal investigator. Collects and curates experimental data, maintains accurate daily logs of experiments including methods and results, and draws preliminary conclusions. Assists the principal investigators in the preparation of scientific publications, grant proposals, and presentations. Maintains inventory of equipment and supplies and ensures that research equipment is in good working order. Follows all appropriate lab safety protocols and other regulatory requirements. Education Requirement: Bachelor’s Degree in relevant field, required. Experience: Research experience, preferred. Physical Requirements: OCCASIONALLY: Bend/twist, Biohazard waste, Chemicals/Medications, Climb stairs/ladder, Cold Temperatures, Fume /Gases /Vapors, Hot Temperatures FREQUENTLY: Lifting / Carrying: 0-10 lbs, Lifting / Carrying: 11-20 lbs, Pushing / Pulling: 0-25 lbs, Pushing / Pulling: 26-40 lbs, Standing, Walking CONTINUOUSLY: Audible speech, Color vision, Computer skills, Decision Making, Depth perception, Flexing/extending of neck, Hand use: grasping, gripping, turning, Hearing acuity, Interpreting Data, Peripheral vision, Problem solving, Reaching above shoulder, Repetitive hand/arm use, Seeing – Far/near, Sitting, Squat/kneel "The above list of duties is intended to describe the general nature and level of work performed by individuals assigned to this classification. It is not to be construed as an exhaustive list of duties performed by the individuals so classified, nor is it intended to limit or modify the right of any supervisor to assign, direct, and control the work of employees under their supervision. EOE M/F/Disability/Vet"
+
+---
+
+## 41. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644656
 - Location: Long Island City NY us
 - Posted: Nov 05 06:35 ET
@@ -690,7 +774,7 @@ The Center for Population Health Data Science (CPHDS)- launched in October of 20
 
 ---
 
-## 39. [MAYBE] Accenture | Analista de Analytics - Híbrido
+## 42. [MAYBE] Accenture | Analista de Analytics - Híbrido
 - Link: https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Analista-Pleno-de-Engenharia-de-Dados_R00351665
 - Location: see posting
 - Posted: Nov 04 (board gives the date only)
@@ -704,7 +788,7 @@ Sobre a Accenture A Accenture ajuda as principais empresas do mundo a se reinven
 
 ---
 
-## 40. [MAYBE] Reddit | Machine Learning Engineer
+## 43. [MAYBE] Reddit | Machine Learning Engineer
 - Link: https://job-boards.greenhouse.io/reddit/jobs/8349916
 - Location: San Francisco, CA
 - Posted: Nov 05 11:13 ET
@@ -718,7 +802,7 @@ Reddit is a community of communities. It’s built on shared interests, passion,
 
 ---
 
-## 41. [MAYBE] Amazon | Applied Scientist , Fauna
+## 44. [MAYBE] Amazon | Applied Scientist , Fauna
 - Link: https://www.amazon.jobs/en/jobs/10598028/applied-scientist-fauna
 - Location: New York, New York, USA
 - Posted: Nov 05 (board gives the date only)
@@ -732,7 +816,7 @@ We are seeking an Applied Scientist to develop and optimize Visual Inertial Odom
 
 ---
 
-## 42. [MAYBE] EXL | Snowflake Data Engineer
+## 45. [MAYBE] EXL | Snowflake Data Engineer
 - Link: https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21585
 - Location: New York, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -746,7 +830,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 43. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
+## 46. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644496
 - Location: New York City NY us
 - Posted: Nov 05 06:29 ET
@@ -760,7 +844,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 44. [MAYBE] Cerebras | AI Engineer
+## 47. [MAYBE] Cerebras | AI Engineer
 - Link: https://jobs.ashbyhq.com/cerebras/c6f607ce-306c-4deb-8825-4175201a7cd4
 - Location: Sunnyvale, CA United States remote
 - Posted: Nov 04 17:08 ET
@@ -839,7 +923,7 @@ Cerebras Systems
 
 ---
 
-## 45. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
+## 48. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
 - Link: https://jobs.lever.co/erg/ffa7e5a8-5d49-4608-a3b0-9a5ff07a3f0a
 - Location: Morrisville, NC Morrisville, NC US
 - Posted: Nov 05 11:07 ET
@@ -856,7 +940,7 @@ ERG
 
 ---
 
-## 46. [MAYBE] PennState University | Part Time Research Assistant
+## 49. [MAYBE] PennState University | Part Time Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000069624-1
 - Location: Penn State University Park
 - Posted: Nov 05 (board gives the date only)
@@ -870,7 +954,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 47. [MAYBE] UTHealth Houston | Research Assistant
+## 50. [MAYBE] UTHealth Houston | Research Assistant
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8164
 - Location: San Antonio, TX, United States US
 - Posted: Nov 05 (board gives the date only)
