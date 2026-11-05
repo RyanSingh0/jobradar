@@ -20,33 +20,37 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 14 | Desjardins Group | Credit Risk Strategy Data Scientist | 59 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
 | 15 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
 | 16 | Canadian Tire | Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 17 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 18 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 19 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 20 | BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG) | 54 | 12 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 21 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 22 | ARQ | Finance Analytics Engineer | FP&A | 52 | none found (check myvisajobs) | Nov 05 11:15 ET |
-| 23 | Toyota Research Institute | Research Scientist, Robotics Research | 52 | 2 in data/analytics/finance occupations | Nov 05 14:05 ET |
-| 24 | Arkansas Blue Cross | Data Analyst | 52 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 25 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 26 | CVS Health | Coordinator, Financial Reporting Analysis | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 27 | Oshkosh | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 28 | City of Philadelphia | Data Engineer-Integration Specialist | 50 | 6 in data/analytics/finance occupations | Nov 05 12:52 ET |
-| 29 | Texas A&M AgriLife Research | Research Assistant | 50 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 30 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 31 | DiDi Global | Machine Learning Engineer - Agentic AI | 50 | none found (check myvisajobs) | Nov 05 14:18 ET |
-| 32 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 33 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 34 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 35 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 36 | Reddit | Machine Learning Engineer | 43 | 25 in data/analytics/finance occupations | Nov 05 11:13 ET |
-| 37 | Amazon | Applied Scientist , Fauna | 43 | 3890 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 38 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 39 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
-| 40 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
-| 41 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
-| 42 | PennState University | Part Time Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 43 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 17 | 7-Eleven | Enterprise Technology Portfolio Analyst | 55 | 14 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 18 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 19 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 20 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 21 | BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG) | 54 | 12 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 22 | The Federal Reserve System | Product Analyst, Banking Operations | 54 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 23 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 24 | ARQ | Finance Analytics Engineer | FP&A | 52 | none found (check myvisajobs) | Nov 05 11:15 ET |
+| 25 | Toyota Research Institute | Research Scientist, Robotics Research | 52 | 2 in data/analytics/finance occupations | Nov 05 14:05 ET |
+| 26 | Arkansas Blue Cross | Data Analyst | 52 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 27 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 28 | CVS Health | Coordinator, Financial Reporting Analysis | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 29 | Oshkosh | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 30 | City of Philadelphia | Data Engineer-Integration Specialist | 50 | 6 in data/analytics/finance occupations | Nov 05 12:52 ET |
+| 31 | Texas A&M AgriLife Research | Research Assistant | 50 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 32 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 33 | DiDi Global | Machine Learning Engineer - Agentic AI | 50 | none found (check myvisajobs) | Nov 05 14:18 ET |
+| 34 | Texas A&M University - College Station | Research Scientist | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 35 | Texas A&M University System | Research Scientist | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 36 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 37 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 38 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 39 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 40 | Reddit | Machine Learning Engineer | 43 | 25 in data/analytics/finance occupations | Nov 05 11:13 ET |
+| 41 | Amazon | Applied Scientist , Fauna | 43 | 3890 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 42 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 43 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
+| 44 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
+| 45 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
+| 46 | PennState University | Part Time Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 47 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
 
 ---
 
@@ -274,7 +278,21 @@ Joining the Canadian Tire team in the FGL Sports division, you will be working a
 
 ---
 
-## 17. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
+## 17. [MAYBE] 7-Eleven | Enterprise Technology Portfolio Analyst
+- Link: https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Enterprise-Technology-Portfolio-Analyst_R26_6353
+- Location: see posting
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 14 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, excel, git, pipeline, portfolio, reporting, research, risk | Lacks: -
+
+### Job description
+
+7-Eleven is an iconic family of brands with over 86,000 locations, surpassing every retailer in the world. We revolutionize convenience, restaurants and fuel through cutting edge innovation — working hard to be the customer's first choice. 7-Eleven empowers our employees to "activate awesome" and make a meaningful impact in their stores and communities every day. If you're ready to grow, lead and make a difference, come join our team and help shape the future of convenience. Job Description The Enterprise Technology Portfolio Analyst supports the Enterprise Technology Portfolio Management team within Digital & IT Strategy & Enablement, serving as a key operational partner in managing the New Technology Request (NTR) process, the organization's single front door for technology demand. The role supports technology initiatives from initial idea through assessment, governance, funding, implementation, and production, coordinating across Technology and key enterprise functions including AI, Cybersecurity, Privacy, Legal, Sourcing/Procurement, Finance, Technology Domain SMEs, Data, Risk, and Compliance. The Analyst helps translate business needs into actionable technology pathways, provides visibility into emerging demand and business priorities, identifies opportunities for capability reuse and cost avoidance, and ensures requests move efficiently through the appropriate governance and enablement processes. The position supports a standing pipeline of 40+ active New Technology Requests spanning all business units and technology domains, and its outputs directly inform executive and committee-level technology investment decisions. The NTR process delivered approximately $400K in documented cost avoidance in 2026 by identifying duplicate solutions and redirecting requests to existing enterprise capabilities. KEY DUTIES AND RESPONSIBILITES : Serve as a primary point of coordination for the enterprise New Technology Request (NTR) process, including intake, triage, and demand management, ensuring each request contains the appropriate business case, objectives, requirements, stakeholders, financial and data considerations, and expected outcomes. Maintain visibility into the technology demand pipeline from idea through production, currently averaging 40+ active requests, and identify recurring business needs that can be addressed through common enterprise capabilities. Coordinate technology assessments and governance activities across AI and Emerging Technology, Cybersecurity, Privacy, Legal, Sourcing/Procurement, Finance and Funding, Technology Domain SMEs, Data, and Risk and Compliance. Prepare requests for and support the New Technology Review Committee (NTRC), including agendas, materials, presentations, decisions, and follow-up actions, and track action items, dependencies, risks, issues, and escalations. Analyze business demand against existing technology capabilities, platforms, products, and roadmaps to identify duplicate or overlapping solutions, consolidation and reuse opportunities, technology rationalization, and cost avoidance. Develop dashboards, reports, and executive-level summaries covering demand volumes and trends, business priorities, technology investments, funding requirements, governance status, cycle times, and cost avoidance opportunities. Support the operation and maturity of the Enterprise Technology Portfolio Management Center of Excellence, continuously improving processes, procedures, templates, standards, governance artifacts, intake and workflow tooling, and related training and adoption activities. EDUCATION AND EXPERIENCE: EDUCATION: Bachelor's Degree YEARS OF RELEVANT WORK EXPERIENCE: 3+ years CERTIFICATIONS / LICENSES: None required; CBAP, PMP, or ITIL preferred. SPECIFIC KNOWLEDGE AND SKILLS : Strong analytical and problem-solving skills, with the ability to turn fragmented information into clear insights and actionable recommendations. Working knowledge of IT governance, technology intake and demand management, PMO practices, or technology portfolio management in a large, complex enterprise. Strong proficiency with Microsoft Excel and PowerPoint, and with data visualization and executive reporting tools. Working proficiency with Microsoft Copilot or a comparable enterprise AI assistant to research, summarize, draft documentation, and accelerate analysis; experience with Glean or a similar enterprise knowledge discovery tool preferred. Ability to understand complex technology concepts and translate them into business-oriented language for executive and non-technical audiences. Excellent written, verbal, presentation, and stakeholder communication skills, with the ability to work across organizational boundaries and navigate ambiguity. Strong project and organizational skills, including experience developing business processes, procedures, workflows, or operating models while managing multiple initiatives simultaneously. * Position is onsite and based in Irving TX. #LI-PG1 This job description is intended to describe the general nature and level of the work being performed by the individuals assigned to this job. This is not an exhaustive list of all duties and responsibilities. Management reserves the right to amend and change the duties and responsibilities of this job to meet business and organizational needs, as necessary. If an hourly or salary range is included in this ad it represents the range 7-Eleven in good faith believes is the range of compensation for this role at the time of this posting. The Company may ultimately pay more or less than the posted range. This range is only applicable for jobs to be performed in this state. This range may be modified in the future. No amount is considered to be wages or compensation until such amount is earned, vested, and determinable under the terms and conditions of the applicable policies and plans. The amount and availability of any bonus, commission, long-term incentive compensation, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law. For a general description of all benefits 7-Eleven is offering in the US for the position, please visit this link . For a general description of all benefits 7-Eleven is offering in Canada for the position, please visit this link .
+
+---
+
+## 18. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644686
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -288,7 +306,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 18. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
+## 19. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644676
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -302,7 +320,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 19. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
+## 20. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
 - Link: https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Investment-Treasury-Portfolio-Analyst_R95096-1
 - Location: Boston, MA, United States
 - Posted: Nov 04 (board gives the date only)
@@ -316,7 +334,7 @@ About Us Wellington Management offers comprehensive investment management capabi
 
 ---
 
-## 20. [MAYBE] BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG)
+## 21. [MAYBE] BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG)
 - Link: https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Analytics-Specialist--Associate--Portfolio-Analytics-Group--PAG-_R266280
 - Location: New York, NY
 - Posted: Nov 05 (board gives the date only)
@@ -330,7 +348,21 @@ About this role About the Portfolio Analytics Group (PAG): Join the Portfolio An
 
 ---
 
-## 21. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
+## 22. [MAYBE] The Federal Reserve System | Product Analyst, Banking Operations
+- Link: https://rb.wd5.myworkdayjobs.com/FRS/job/New-York-NY/Product-Analyst--Banking-Operations_R-0000033993
+- Location: 2 Locations
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, sql, tableau, portfolio | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Company Federal Reserve Bank of New York When you work at the New York Fed, you have the opportunity to make an impact in our communities and across the nation. Our mission-driven, curious, and dedicated colleagues apply their diverse perspectives and unique talents to support the strength of the U.S. economy and stability of the global financial system. At the Bank, we work full-time onsite with our teams. We believe being physically together allows us to draw on our collective strengths, while recognizing that the ability to work flexibly from time to time remains important to achieving our mission. Our Unique Work: The Federal Reserve Bank of NY’s (FRBNY) Markets Group mission is to implement market operations, monitor and analyze global financial market developments, execute lender of last resort operations for the Second district and collateral valuation services to the Federal Reserve System (FRS), provide infrastructure and financial services for foreign and international monetary authorities, and to provide capital market-related fiscal agency services to the U.S. Treasury. The Product, Strategy & Support team is responsible for collaborating with Markets leadership to support the development of business strategy, define the strategic vision for the Market Group’s technology Products and for ensuring the portfolio of initiatives aligns with and provides value to the Group’s mission and objectives. The team further ensures the delivery of functionality fully meets the needs of the users, the adoption and ongoing use of products and services maximize benefit, and the requisite support activities are reliable throughout the full product lifecycle. How You’ll Make an Impact as a Product Analyst, Banking Operations: Collaborate with Product Owners (POs) to define and communicate a clear product vision and roadmaps with measurable outcomes Develop subject-matter expertise in Banking Operations products, vendors, data, tools, and associated end-to-end business processes Analyze operations data and develop insights that inform requirements, design, and prioritization Collaborate with business and technical stakeholders on requirements definition, design planning, and backlog management Assist POs and tooling specialists with user story development, documentation, and testing Support POs in managing squad ceremonies (e.g., facilitating daily scrums and analyzing squad metrics) Assist with communications to business and technical stakeholders, including the development of executive communications for senior stakeholders Promote full adoption of product features, provide training and onboarding support for new users, and provide ongoing expertise and guidance on best usage practices The Unique Skill Sets We’re Looking For: Quick learner with genuine curiosity about how systems and processes work, and an aptitude for optimizing efficiencies with emerging technologies Ownership mindset, with the ability to be self-directed in ambiguous problem spaces and complex or fast-moving environments Strong attention to detail and structured, process-oriented thinking Strong analytical skills, with the ability to work with operations data, identify patterns, and translate raw data into actionable insights that inform product decisions; comfort with data tools such as SQL, Excel, Tableau, or similar applications Comfort navigating a complex stakeholder landscape and working cross-functionally among POs and business and technology teams; diplomacy, active listening, and the ability to manage competing priorities Ability to tailor communication style between technical and business audiences Prior experience working in Agile/Scrum delivery settings is a plus Prior experience in Banking Operations (payments, securities processing, SWIFT messaging, or transaction monitoring) is a plus Other Things to Know: Salary Range NY: $125000 - $ 145000 / year Salary Range Richmond, VA: $104000-120000 / year We believe in transparency at the New York Fed. This salary range reflects a variety of skills and experiences candidates may bring to the job. We pay individuals along this range based on their unique backgrounds. Whether you’re stretching into the job or are a more seasoned candidate, we aim to pay competitively for your contributions. How We’ll Support You: Our programs and benefits are designed to support you through all your life stages: Learning & Growing: Educational assistance, career development tools, and stretch opportunities Supporting Your Family: Parental leave, adoption assistance, back-up dependent and elder care, college planning resources, and more Managing Your Health: Comprehensive insurance plans, leave policies, onsite Health & Wellness Center, and onsite Fitness Center Optimizing Your Finances: Pension plan, 401(k) with generous match, financial planning resources, and subsidized public transportation program Our Culture is deeply grounded in our Touchstone Behaviors — By working with us, you’ll have the opportunity to develop and demonstrate your ability to Communicate Authentically, Collaborate Inclusively, Drive Progress, Develop Others, and Take Ownership. These competencies shape our culture here at the Bank. They also provide a shared language for how we work together and achieve success and set clear expectations for leading with impact at every stage of your career. Learn more. Apply now if you’re ready to join us in strengthening the U.S. economy together. Want to consider our other opportunities? Click here to see all our open roles. The New York Fed expects its employees to perform their duties with honesty, integrity, and impartiality, and without improper preferential treatment of any person. Learn more about our code of conduct and conflicts of interest rules. We value accessibility for all candidates and are happy to discuss an accommodation or assistance. Visit our careers page for more information about requesting an accommodation during the recruiting process. This is not necessarily an exhaustive list of all responsibilities, duties, performance standards or requirements, efforts, skills or working conditions associated with the job. While this is intended to be an accurate reflection of the current job, management reserves the right to revise the job or to require that other or different tasks be performed when circumstances change. This position requires access to confidential supervisory information (CSI) and/or Federal Open Market Committee (FOMC) information. Access to CSI and FOMC information is limited to U.S. citizens, lawful permanent residents, individuals who meet the definition of “protected individual” under 8 U.S.C. § 1324b(a)(3), and certain other nonimmigrants. All non-U.S. citizens authorized to access CSI and/or FOMC information must sign a declaration of intent to expeditiously become a lawful permanent resident and thereafter a U.S. citizen when eligible. Full Time / Part Time Full time Regular / Temporary Regular Job Exempt (Yes / No)  [...]
+
+---
+
+## 23. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
 - Link: https://centrica.wd3.myworkdayjobs.com/Centrica/job/Leicester/Business-Intelligence---Reporting-Analyst-_R0090515-1
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -344,7 +376,7 @@ Join us, be part of more. We’re so much more than an energy company. We’re a
 
 ---
 
-## 22. [MAYBE] ARQ | Finance Analytics Engineer | FP&A
+## 24. [MAYBE] ARQ | Finance Analytics Engineer | FP&A
 - Link: https://jobs.ashbyhq.com/arq/a913e0d4-919b-4008-b7c4-9f964c496547
 - Location: London United Kingdom remote
 - Posted: Nov 05 11:15 ET
@@ -442,7 +474,7 @@ BENEFITS
 
 ---
 
-## 23. [MAYBE] Toyota Research Institute | Research Scientist, Robotics Research
+## 25. [MAYBE] Toyota Research Institute | Research Scientist, Robotics Research
 - Link: https://jobs.lever.co/tri/6afc7585-a464-4c41-93a2-96d15962f325
 - Location: Cambridge, MA Cambridge, MA US
 - Posted: Nov 05 14:05 ET
@@ -476,7 +508,7 @@ It is unlawful in Massachusetts to require or administer a lie detector test as 
 
 ---
 
-## 24. [MAYBE] Arkansas Blue Cross | Data Analyst
+## 26. [MAYBE] Arkansas Blue Cross | Data Analyst
 - Link: https://arkbluecross.wd1.myworkdayjobs.com/abcbs_external_careers/job/Little-Rock-AR/Data-Analyst_R0013656
 - Location: Little Rock, AR
 - Posted: Nov 05 (board gives the date only)
@@ -490,7 +522,7 @@ To learn more about Arkansas Blue Cross and Blue Shield Hiring Policies, please 
 
 ---
 
-## 25. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
+## 27. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
 - Link: https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Financial-Reporting-Analyst---Capital-Access-Platforms_R0027263
 - Location: USA - New York City - New York
 - Posted: Nov 04 (board gives the date only)
@@ -504,7 +536,7 @@ Nasdaq is seeking a highly motivated Financial Reporting Analyst to join the Div
 
 ---
 
-## 26. [MAYBE] CVS Health | Coordinator, Financial Reporting Analysis
+## 28. [MAYBE] CVS Health | Coordinator, Financial Reporting Analysis
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Work-from-hom/Coordinator--Financial-Reporting-Analysis_R1080792
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -518,7 +550,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 27. [MAYBE] Oshkosh | Data Engineer
+## 29. [MAYBE] Oshkosh | Data Engineer
 - Link: https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Data-Engineer_R51538-1
 - Location: 2 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -532,7 +564,7 @@ About JLG, an Oshkosh company JLG began in 1969, when our founder, John L. Grove
 
 ---
 
-## 28. [MAYBE] City of Philadelphia | Data Engineer-Integration Specialist
+## 30. [MAYBE] City of Philadelphia | Data Engineer-Integration Specialist
 - Link: https://jobs.smartrecruiters.com/CityofPhiladelphia/744000159941284
 - Location: Philadelphia PA us
 - Posted: Nov 05 12:52 ET
@@ -546,7 +578,7 @@ Data Engineering at the City is a unique opportunity for meaningful, exciting wo
 
 ---
 
-## 29. [MAYBE] Texas A&M AgriLife Research | Research Assistant
+## 31. [MAYBE] Texas A&M AgriLife Research | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Research-Assistant_R-094686-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -560,7 +592,7 @@ Job Title Research Assistant Agency Texas A&M Agrilife Research Department Range
 
 ---
 
-## 30. [MAYBE] Texas A&M University System | Research Assistant
+## 32. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-094686
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -574,7 +606,7 @@ Job Title Research Assistant Agency Texas A&M Agrilife Research Department Range
 
 ---
 
-## 31. [MAYBE] DiDi Global | Machine Learning Engineer - Agentic AI
+## 33. [MAYBE] DiDi Global | Machine Learning Engineer - Agentic AI
 - Link: https://job-boards.greenhouse.io/didi/jobs/8356571
 - Location: San Jose, CA
 - Posted: Nov 05 14:18 ET
@@ -588,7 +620,35 @@ About The Company DiDi's autonomous driving unit was established in 2016 with th
 
 ---
 
-## 32. [MAYBE] Repligen | Strategy Analyst/Associate
+## 34. [MAYBE] Texas A&M University - College Station | Research Scientist
+- Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/Bryan-TX/Research-Scientist_R-098547-1
+- Location: Bryan, TX
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, llm, publication, research | Lacks: -
+
+### Job description
+
+Job Title Research Scientist Agency Texas A&M University Health Science Center Department Psychiatry and Behavioral Science Proposed Minimum Salary Commensurate Job Location Bryan, Texas Job Type Staff Job Description Our Commitment Texas A&M University is committed to enriching the learning and working environment by promoting a culture that respects all perspectives, talents & lived experiences. Embracing varying opinions and perspectives strengthens our core values which are: Respect, Excellence, Leadership, Loyalty, Integrity, and Selfless Service. Who we are As one of the fastest-growing academic health centers in the nation, Texas A&M Health encompasses five colleges and numerous centers and institutes working together to improve health through transformative education, innovative research and team-based health care delivery. What we want The Research Scientist, under direction, is responsible for conducting complex independent research into their field of expertise. The Research Scientist will utilize techniques and strategies taught to them by their education and experiences to work towards solving the question presented by their research project. Writes and may contribute to research papers, articles, and publications. Oversees the preparation and cleaning of worksite. May collaborate with other researchers and/or faculty. Essential Duties and Tasks: What you need to know Please note: This position is grant funded; future employment may be contingent upon future funding. Schedule: May have to work on the weekend and/or after normal hours. Travel: May travel as required. Responsibilities: Research Will be responsible for conducting complex independent research into their field of expertise. Utilizes advanced knowledge and skills granted to them by their education and experience to complete research projects in their field of expertise. Oversees the preparation and cleaning of worksite. Organizes worksite and determines what supplies are necessary to continue research in an effective manner. Analyzes research data and summarizes results. Writes and may contribute to research papers, articles, and publications. Assists with grant acquisition. Mentoring/Supervision May assist student researchers, Postdoctoral Research Associates, Assistant Research Scientists, and/or Associate Research Scientists who are working on research related to the project. May supervise assigned staff and/or students. 10% Presentations: Prepares presentation materials on research topics that may be presented to small and/or large groups. Actively participates in the preparation of required technical progress reports to research sponsors. Qualifications: Required Education and Experience: PhD in biomedical or immunological sciences related field Six years of related experience in biomedical or immunological sciences Preferred Qualifications: Expertise working with rodents Experience in adaptive immunity Knowledge, Skills, and Abilities: Excellent verbal and written skills. Presentation skills. Analytical skills. Attention to detail. Must be able to work independently as part of a multidisciplinary collaborative team. Ability to multitask and work cooperatively with others. Why Texas A&M University? We are a prestigious university with strong traditions, Core Values, and a community of caring and collaboration. Amenities associated with a major university, such as sporting and cultural events, state-of-the-art recreation facilities, the Bush Library and Museum, and much more await you. Experience all that a big city has to offer but with a reasonable cost-of-living and no long commutes. Medical, prescription drug, dental, vision, life and AD&D, flexible spending accounts , and long-term disability insurance with Texas A&M contributing to employee health and basic life premiums 12-15 days of annual paid holidays Up to eight hours of paid sick leave and at least eight hours of paid vacation each month Automatic enrollment in the Teacher Retirement System of Texas Health and Wellness: Free exercise programs and release time Professional Development: All employees have access to free LinkedIn Learning training, webinars, and limited financial support to attend conferences, workshops, and more Educational release time and tuition assistance for completing a degree while a Texas A&M employee Living Well, a program at Texas A&M that has been built by employees, for employees Instructions to Applicants: Applications received by Texas A&M University must either have all job application data entered, or a resume attached. Failure to provide all job application data or a complete resume could result in an invalid submission and a rejected application. We encourage all applicants to upload a resume or use a LinkedIn profile to pre-populate the online application. All positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check. Equal Opportunity/Veterans/Disability Employer.
+
+---
+
+## 35. [MAYBE] Texas A&M University System | Research Scientist
+- Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Bryan-TX/Research-Scientist_R-098547
+- Location: Bryan, TX
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, llm, publication, research | Lacks: -
+
+### Job description
+
+Job Title Research Scientist Agency Texas A&M University Health Science Center Department Psychiatry and Behavioral Science Proposed Minimum Salary Commensurate Job Location Bryan, Texas Job Type Staff Job Description Our Commitment Texas A&M University is committed to enriching the learning and working environment by promoting a culture that respects all perspectives, talents & lived experiences. Embracing varying opinions and perspectives strengthens our core values which are: Respect, Excellence, Leadership, Loyalty, Integrity, and Selfless Service. Who we are As one of the fastest-growing academic health centers in the nation, Texas A&M Health encompasses five colleges and numerous centers and institutes working together to improve health through transformative education, innovative research and team-based health care delivery. What we want The Research Scientist, under direction, is responsible for conducting complex independent research into their field of expertise. The Research Scientist will utilize techniques and strategies taught to them by their education and experiences to work towards solving the question presented by their research project. Writes and may contribute to research papers, articles, and publications. Oversees the preparation and cleaning of worksite. May collaborate with other researchers and/or faculty. Essential Duties and Tasks: What you need to know Please note: This position is grant funded; future employment may be contingent upon future funding. Schedule: May have to work on the weekend and/or after normal hours. Travel: May travel as required. Responsibilities: Research Will be responsible for conducting complex independent research into their field of expertise. Utilizes advanced knowledge and skills granted to them by their education and experience to complete research projects in their field of expertise. Oversees the preparation and cleaning of worksite. Organizes worksite and determines what supplies are necessary to continue research in an effective manner. Analyzes research data and summarizes results. Writes and may contribute to research papers, articles, and publications. Assists with grant acquisition. Mentoring/Supervision May assist student researchers, Postdoctoral Research Associates, Assistant Research Scientists, and/or Associate Research Scientists who are working on research related to the project. May supervise assigned staff and/or students. 10% Presentations: Prepares presentation materials on research topics that may be presented to small and/or large groups. Actively participates in the preparation of required technical progress reports to research sponsors. Qualifications: Required Education and Experience: PhD in biomedical or immunological sciences related field Six years of related experience in biomedical or immunological sciences Preferred Qualifications: Expertise working with rodents Experience in adaptive immunity Knowledge, Skills, and Abilities: Excellent verbal and written skills. Presentation skills. Analytical skills. Attention to detail. Must be able to work independently as part of a multidisciplinary collaborative team. Ability to multitask and work cooperatively with others. Why Texas A&M University? We are a prestigious university with strong traditions, Core Values, and a community of caring and collaboration. Amenities associated with a major university, such as sporting and cultural events, state-of-the-art recreation facilities, the Bush Library and Museum, and much more await you. Experience all that a big city has to offer but with a reasonable cost-of-living and no long commutes. Medical, prescription drug, dental, vision, life and AD&D, flexible spending accounts , and long-term disability insurance with Texas A&M contributing to employee health and basic life premiums 12-15 days of annual paid holidays Up to eight hours of paid sick leave and at least eight hours of paid vacation each month Automatic enrollment in the Teacher Retirement System of Texas Health and Wellness: Free exercise programs and release time Professional Development: All employees have access to free LinkedIn Learning training, webinars, and limited financial support to attend conferences, workshops, and more Educational release time and tuition assistance for completing a degree while a Texas A&M employee Living Well, a program at Texas A&M that has been built by employees, for employees Instructions to Applicants: Applications received by Texas A&M University must either have all job application data entered, or a resume attached. Failure to provide all job application data or a complete resume could result in an invalid submission and a rejected application. We encourage all applicants to upload a resume or use a LinkedIn profile to pre-populate the online application. All positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check. Equal Opportunity/Veterans/Disability Employer.
+
+---
+
+## 36. [MAYBE] Repligen | Strategy Analyst/Associate
 - Link: https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Waltham-MA/Strategy-Analyst-Associate_R-610
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -602,7 +662,7 @@ Repligen is a global pure-play bioprocessing company with highly differentiated 
 
 ---
 
-## 33. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
+## 37. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
 - Link: https://transamerica.wd5.myworkdayjobs.com/AEGONAM/job/NLD-Schiphol/Responsible-Investment-Analyst_R20063237-1
 - Location: NLD Schiphol
 - Posted: Nov 04 (board gives the date only)
@@ -616,7 +676,7 @@ Job Description Summary Job Description Responsible Investment team and role ove
 
 ---
 
-## 34. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
+## 38. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644656
 - Location: Long Island City NY us
 - Posted: Nov 05 06:35 ET
@@ -630,7 +690,7 @@ The Center for Population Health Data Science (CPHDS)- launched in October of 20
 
 ---
 
-## 35. [MAYBE] Accenture | Analista de Analytics - Híbrido
+## 39. [MAYBE] Accenture | Analista de Analytics - Híbrido
 - Link: https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Analista-Pleno-de-Engenharia-de-Dados_R00351665
 - Location: see posting
 - Posted: Nov 04 (board gives the date only)
@@ -644,7 +704,7 @@ Sobre a Accenture A Accenture ajuda as principais empresas do mundo a se reinven
 
 ---
 
-## 36. [MAYBE] Reddit | Machine Learning Engineer
+## 40. [MAYBE] Reddit | Machine Learning Engineer
 - Link: https://job-boards.greenhouse.io/reddit/jobs/8349916
 - Location: San Francisco, CA
 - Posted: Nov 05 11:13 ET
@@ -658,7 +718,7 @@ Reddit is a community of communities. It’s built on shared interests, passion,
 
 ---
 
-## 37. [MAYBE] Amazon | Applied Scientist , Fauna
+## 41. [MAYBE] Amazon | Applied Scientist , Fauna
 - Link: https://www.amazon.jobs/en/jobs/10598028/applied-scientist-fauna
 - Location: New York, New York, USA
 - Posted: Nov 05 (board gives the date only)
@@ -672,7 +732,7 @@ We are seeking an Applied Scientist to develop and optimize Visual Inertial Odom
 
 ---
 
-## 38. [MAYBE] EXL | Snowflake Data Engineer
+## 42. [MAYBE] EXL | Snowflake Data Engineer
 - Link: https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21585
 - Location: New York, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -686,7 +746,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 39. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
+## 43. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644496
 - Location: New York City NY us
 - Posted: Nov 05 06:29 ET
@@ -700,7 +760,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 40. [MAYBE] Cerebras | AI Engineer
+## 44. [MAYBE] Cerebras | AI Engineer
 - Link: https://jobs.ashbyhq.com/cerebras/c6f607ce-306c-4deb-8825-4175201a7cd4
 - Location: Sunnyvale, CA United States remote
 - Posted: Nov 04 17:08 ET
@@ -779,7 +839,7 @@ Cerebras Systems
 
 ---
 
-## 41. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
+## 45. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
 - Link: https://jobs.lever.co/erg/ffa7e5a8-5d49-4608-a3b0-9a5ff07a3f0a
 - Location: Morrisville, NC Morrisville, NC US
 - Posted: Nov 05 11:07 ET
@@ -796,7 +856,7 @@ ERG
 
 ---
 
-## 42. [MAYBE] PennState University | Part Time Research Assistant
+## 46. [MAYBE] PennState University | Part Time Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000069624-1
 - Location: Penn State University Park
 - Posted: Nov 05 (board gives the date only)
@@ -810,7 +870,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 43. [MAYBE] UTHealth Houston | Research Assistant
+## 47. [MAYBE] UTHealth Houston | Research Assistant
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8164
 - Location: San Antonio, TX, United States US
 - Posted: Nov 05 (board gives the date only)
