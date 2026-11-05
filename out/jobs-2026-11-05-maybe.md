@@ -10,31 +10,34 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 4 | HCSC | Analytics Consultant | 69 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
 | 5 | DXC Technology | Analista de Reporting (Power BI / Excel) | 67 | 12 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
 | 6 | ALFA LAVAL | Business Improvement Analyst | 67 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 7 | Dimensional Fund Advisors | Analyst, Portfolio Management (Equities) | 65 | 23 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 8 | Novanta | Demand Analyst [C] | 65 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 9 | University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law | 62 | cap-exempt employer | Nov 04 (board gives the date only) |
-| 10 | Desjardins Group | Credit Risk Strategy Data Scientist | 59 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 11 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 12 | Canadian Tire | Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 13 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 14 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 15 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 16 | BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG) | 54 | 12 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 17 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 18 | ARQ | Finance Analytics Engineer | FP&A | 52 | none found (check myvisajobs) | Nov 05 11:15 ET |
-| 19 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 20 | CVS Health | Coordinator, Financial Reporting Analysis | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 21 | Oshkosh | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 22 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 23 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 24 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 25 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 26 | Reddit | Machine Learning Engineer | 43 | 25 in data/analytics/finance occupations | Nov 05 11:13 ET |
-| 27 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 28 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
-| 29 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
-| 30 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
-| 31 | PennState University | Part Time Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 7 | Axle | Data Scientist, Medical Imaging | 67 | none found (check myvisajobs) | Nov 05 12:41 ET |
+| 8 | Dimensional Fund Advisors | Analyst, Portfolio Management (Equities) | 65 | 23 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 9 | Novanta | Demand Analyst [C] | 65 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 10 | University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law | 62 | cap-exempt employer | Nov 04 (board gives the date only) |
+| 11 | Desjardins Group | Credit Risk Strategy Data Scientist | 59 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 12 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 13 | Canadian Tire | Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 14 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 15 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 16 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 17 | BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG) | 54 | 12 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 18 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 19 | ARQ | Finance Analytics Engineer | FP&A | 52 | none found (check myvisajobs) | Nov 05 11:15 ET |
+| 20 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 21 | CVS Health | Coordinator, Financial Reporting Analysis | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 22 | Oshkosh | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 23 | City of Philadelphia | Data Engineer-Integration Specialist | 50 | 6 in data/analytics/finance occupations | Nov 05 12:52 ET |
+| 24 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 25 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 26 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 27 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 28 | Reddit | Machine Learning Engineer | 43 | 25 in data/analytics/finance occupations | Nov 05 11:13 ET |
+| 29 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 30 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
+| 31 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
+| 32 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
+| 33 | PennState University | Part Time Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 34 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
 
 ---
 
@@ -122,7 +125,21 @@ At Alfa Laval, we always go that extra mile to overcome the toughest challenges.
 
 ---
 
-## 7. [MAYBE] Dimensional Fund Advisors | Analyst, Portfolio Management (Equities)
+## 7. [MAYBE] Axle | Data Scientist, Medical Imaging
+- Link: https://job-boards.greenhouse.io/axle/jobs/5286265007
+- Location: Remote
+- Posted: Nov 05 12:41 ET
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: machine learning, python, sql, classification, cohort, data quality, deep learning, git, healthcare, pipeline, publication, quantitative, research, segmentation | Lacks: scala  | Note: no H-1B filings found for this employer
+
+### Job description
+
+(ID: 2026-3989) Axle is a bioscience and information technology company that offers advancements in translational research, biomedical informatics, and data science applications to research centers and healthcare organizations nationally and abroad. With experts in biomedical science, software engineering, and program management, we focus on developing and applying research tools and techniques to empower decision-making and accelerate research discoveries. We work with some of the top research organizations and facilities in the country including multiple institutes at the National Institutes of Health (NIH). Benefits We Offer: 100% Medical, Dental &amp; Vision Coverage for Employees Paid Time Off and Paid Holidays 401K match up to 5% Educational Benefits for Career Growth Employee Referral Bonus Flexible Spending Accounts: Healthcare (FSA) Parking Reimbursement Account (PRK) Dependent Care Assistant Program (DCAP) Transportation Reimbursement Account (TRN) Position Overview Axle Informatics is seeking a Data Scientist with a strong background in medical imaging and AI to help turn clinical images into research-ready data and models. You will join a team that builds reproducible pipelines for preparing, segmenting, and analyzing medical images, and for linking imaging results to clinical data for machine learning. This is a hands-on role. You will write and maintain production Python, apply both AI and traditional image analysis methods to large imaging collections, and build and evaluate models that combine imaging with other clinical data. You will be expected to check results critically and catch problems before they become findings. &nbsp; The work supports biomedical research programs with federal health partners. You will work in a highly interdisciplinary environment, where progress depends on understanding colleagues from other disciplines and helping them understand you. It values scientific rigor, reproducibility, well-tested code, and open collaboration. If you enjoy the full path from raw images to a validated model, and want that work to be usable by others, we would love to meet you. Key Responsibilities: Medical Image Processing: Build and maintain Python pipelines that prepare large, varied medical imaging collections for analysis, with attention to metadata quality and the inconsistencies found in real clinical data. AI for Medical Imaging: Develop, apply, and evaluate AI models for segmentation, classification, and image embeddings. Judge model quality and decide when a model needs retraining or a different approach. Traditional Image Analysis: Apply established image analysis methods for registration, normalization, and feature extraction, and combine them with machine learning where they fit the problem. Machine Learning and Multimodal Modeling: Build and evaluate models that combine imaging with clinical data and reports, using sound validation practices. Clinical Data Integration: Work with clinical data models and standard vocabularies to connect imaging results with patient records, cohorts, and outcomes. Reproducible, Scalable Workflows: Run pipelines with workflow orchestration, containers, and cluster or cloud computing. Keep code tested and documented so others can rerun the work. Collaboration and Communication: Work closely with clinicians, imaging scientists, and software engineers to define questions and interpret results. Present findings clearly, and contribute to publications, conference presentations, and open-source tools. &nbsp; Required Qualifications Master's degree or PhD in biomedical engineering, computer science, data science, medical physics, electrical engineering, or a related quantitative field, or a Bachelor's degree with equivalent experience. Three or more years of hands-on experience in medical image analysis, in research or industry. Strong Python skills, including scientific computing and deep learning libraries, with a habit of writing tested, maintainable code. Familiarity with DICOM, NIfTI , and other medical image formats. Experience applying AI to medical images across segmentation, classification, and embeddings . Experience with traditional image analysis algorithms for registration, feature extraction, and machine learning. Experience evaluating models rigorously on imaging data, with sound validation design and appropriate performance metrics. Experience working with clinical imaging data and its privacy requirements. Comfort working in Linux environments with version control and containers. Collaboration &amp; Communication: Ability to work effectively in a highly interdisciplinary environment with clinicians, imaging scientists, biologists, and software engineers, and to explain complex technical concepts clearly to people in other disciplines. &nbsp; &nbsp; Preferred Qualifications Experience with Nextflow or similar workflow orchestration tools on clusters or cloud platforms. Experience with EHR data, clinical data models such as OMOP or FHIR, and standa clinical vocabularies . Familiarity with the OMOP medical imaging extension, or with imaging data in research data warehouses. Experience with multimodal models that combine imaging with EHR data or clinical text, including medical foundation models. Experience with microscopy or digital pathology image analysis. Experience with SQL and relational or analytical databases. Track record of publications, conference presentations, or open-source contributions in medical imaging or machine learning. Experience working with NIH or other federal health and biomedical research organizations. &nbsp; Disclaimer: The above description is meant to illustrate the general nature of work and level of effort being performed by individuals assigned to this position or job description. This is not restricted as a complete list of all skills, responsibilities, duties, and/or assignments required. Individuals may be required to perform duties outside of their position, job description or responsibilities as needed. The diversity of Axle’s employees is a tremendous asset. We are firmly committed to providing equal opportunity in all aspects of employment and will not tolerate any illegal discrimination or harassment based on age, race, gender, religion, national origin, disability, marital status, covered veteran status, sexual orientation, status with respect to public assistance, and other characteristics protected under state, federal, or local law and to deter those who aid, abet, or induce discrimination or coerce others to discriminate. Accessibility: If you need an accommodation as part of the employment process please contact: careers@axleinfo.com This role has a market-competitive salary with an anticipated base compensation range listed below. Actual salaries will vary depending on a candidate’s experience, qualifications, skills, and location. Salary Range $120,000 &mdash; $130,000 USD
+
+---
+
+## 8. [MAYBE] Dimensional Fund Advisors | Analyst, Portfolio Management (Equities)
 - Link: https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Analyst--Portfolio-Management--Equities-_2026-9050
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -136,7 +153,7 @@ Job Description: Portfolio Management is responsible for the daily oversight and
 
 ---
 
-## 8. [MAYBE] Novanta | Demand Analyst [C]
+## 9. [MAYBE] Novanta | Demand Analyst [C]
 - Link: https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/North-Syracuse-NY/Demand-Analyst--C-_R009898
 - Location: North Syracuse, NY
 - Posted: Nov 05 (board gives the date only)
@@ -150,7 +167,7 @@ Build a career powered by innovations that matter! At Novanta, our innovations p
 
 ---
 
-## 9. [MAYBE] University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law
+## 10. [MAYBE] University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law
 - Link: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Professional-Development-Program-Coordinator--Center-for-Women-in-Law_R_00049852
 - Location: UT MAIN CAMPUS
 - Posted: Nov 04 (board gives the date only)
@@ -164,7 +181,7 @@ Job Posting Title: Professional Development Program Coordinator, Center for Wome
 
 ---
 
-## 10. [MAYBE] Desjardins Group | Credit Risk Strategy Data Scientist
+## 11. [MAYBE] Desjardins Group | Credit Risk Strategy Data Scientist
 - Link: https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Scientifique-de-donnes--Stratgies-risque-de-crdit_R2613542-1
 - Location: Montréal
 - Posted: Nov 05 (board gives the date only)
@@ -178,7 +195,7 @@ The Credit Risk Strategy Department develops and implements credit risk decision
 
 ---
 
-## 11. [MAYBE] Manulife Financial | Data Analyst / Business Analyst
+## 12. [MAYBE] Manulife Financial | Data Analyst / Business Analyst
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Data-Analyst---Business-Analyst_JR26101524
 - Location: Quezon City
 - Posted: Nov 04 (board gives the date only)
@@ -192,7 +209,7 @@ Overview: We are seeking a business-facing technical Data Analyst to translate G
 
 ---
 
-## 12. [MAYBE] Canadian Tire | Data Analyst
+## 13. [MAYBE] Canadian Tire | Data Analyst
 - Link: https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Laval-QC/Data-Analyst_JR166738
 - Location: Laval, QC
 - Posted: Nov 04 (board gives the date only)
@@ -206,7 +223,7 @@ Joining the Canadian Tire team in the FGL Sports division, you will be working a
 
 ---
 
-## 13. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
+## 14. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644686
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -220,7 +237,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 14. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
+## 15. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644676
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -234,7 +251,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 15. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
+## 16. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
 - Link: https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Investment-Treasury-Portfolio-Analyst_R95096-1
 - Location: Boston, MA, United States
 - Posted: Nov 04 (board gives the date only)
@@ -248,7 +265,7 @@ About Us Wellington Management offers comprehensive investment management capabi
 
 ---
 
-## 16. [MAYBE] BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG)
+## 17. [MAYBE] BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG)
 - Link: https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Analytics-Specialist--Associate--Portfolio-Analytics-Group--PAG-_R266280
 - Location: New York, NY
 - Posted: Nov 05 (board gives the date only)
@@ -262,7 +279,7 @@ About this role About the Portfolio Analytics Group (PAG): Join the Portfolio An
 
 ---
 
-## 17. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
+## 18. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
 - Link: https://centrica.wd3.myworkdayjobs.com/Centrica/job/Leicester/Business-Intelligence---Reporting-Analyst-_R0090515-1
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -276,7 +293,7 @@ Join us, be part of more. We’re so much more than an energy company. We’re a
 
 ---
 
-## 18. [MAYBE] ARQ | Finance Analytics Engineer | FP&A
+## 19. [MAYBE] ARQ | Finance Analytics Engineer | FP&A
 - Link: https://jobs.ashbyhq.com/arq/a913e0d4-919b-4008-b7c4-9f964c496547
 - Location: London United Kingdom remote
 - Posted: Nov 05 11:15 ET
@@ -374,7 +391,7 @@ BENEFITS
 
 ---
 
-## 19. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
+## 20. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
 - Link: https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Financial-Reporting-Analyst---Capital-Access-Platforms_R0027263
 - Location: USA - New York City - New York
 - Posted: Nov 04 (board gives the date only)
@@ -388,7 +405,7 @@ Nasdaq is seeking a highly motivated Financial Reporting Analyst to join the Div
 
 ---
 
-## 20. [MAYBE] CVS Health | Coordinator, Financial Reporting Analysis
+## 21. [MAYBE] CVS Health | Coordinator, Financial Reporting Analysis
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Work-from-hom/Coordinator--Financial-Reporting-Analysis_R1080792
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -402,7 +419,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 21. [MAYBE] Oshkosh | Data Engineer
+## 22. [MAYBE] Oshkosh | Data Engineer
 - Link: https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Data-Engineer_R51538-1
 - Location: 2 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -416,7 +433,21 @@ About JLG, an Oshkosh company JLG began in 1969, when our founder, John L. Grove
 
 ---
 
-## 22. [MAYBE] Repligen | Strategy Analyst/Associate
+## 23. [MAYBE] City of Philadelphia | Data Engineer-Integration Specialist
+- Link: https://jobs.smartrecruiters.com/CityofPhiladelphia/744000159941284
+- Location: Philadelphia PA us
+- Posted: Nov 05 12:52 ET
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 6 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, etl, postgres, python, sql, docker, git, kubernetes, pipeline, validation | Lacks: airflow, dbt, sas
+
+### Job description
+
+Data Engineering at the City is a unique opportunity for meaningful, exciting work and professional development using state-of-the art technologies and software development best practices. This is a position on a diverse team of engineers, analysts, and GIS specialists, contributing to developing, maintaining, and optimizing our data pipelines and integration strategies, assisting departments and agencies in innovating, and enhancing the City’s service to its residents. The data engineer/integration specialist will develop an intimate understanding of the City’s diverse data and contribute to improving the City’s data engineering infrastructure, pipelines, models, and integrations. The team uses a blend of open source, custom developed and off-the-shelf tools, including Python, Bash, SQL, DBT, GIS, Docker, Terraform, Apache Airflow, Jenkins, Postgres, PostGIS, AWS, GitHub, Github actions, MuleSoft as an iPaaS and SAS API providers like ArcGIS Online and CARTO. Some prominent services the team is responsible for include DataBridge, OIT’s enterprise data warehouse, AIS, the City’s custom address information systems which supports public address search and internal geocoding, and Databridge-Airflow, a custom workflow generator and orchestrator for departmental integrations ( https://metadata.phila.gov/ ) and open data publishing (https://opendataphilly.org/ ). Some examples of OIT’s commitment to serving the public through the effective and innovative integration of City open data include: https://Atlas.phila.gov https://property.phila.gov https://Openmaps.phila.gov https://streetsmartphl.phila.gov/ www.phila.gov/solarmap www.phila.gov/stressmap We are looking for a candidate who is not only technically skilled but also passionate about leveraging data to improve City operations and community life. This team is fundamental to the innovation of City services that directly affect residents. If you are eager to contribute to a team that values innovation, efficiency, service-oriented work and data-driven decision-making, we encourage you to apply. Essential Functions Working with business partners of varying technical ability to understand how their data is produced, stored, and updated, designing enhancements to optimize enterprise integrations and public data accessibility. Design and develop new and expand and refine existing data pipelines using Apache Airflow, custom Python-based software, and other tools to connect diverse systems of record, centralized databases, and SaaS environments, improving data platform components, data governance, master data management, data standardization, enrichment and quality assurance. Play a key role in enterprise integration and open data initiatives, developing and supporting critical systems like the City’s DataBridge, Databridge-Airflow and AIS. Write clear, descriptive technical documentation for systems/applications, partner with data stewards of various technical levels and communicate technical details to non-technical stakeholders. Bachelor’s degree in Computer Science, Data Science, Information Systems, Geography/GIS, or a related field. Equivalent work experience may be considered. Demonstrated experience in data engineering or a similar role, with a focus on data management/integration/ETL/ELT. Proven track record with Python, SQL, and database management. Experience with working with modern data engineering tech stack. Familiarity with development of custom ETL/CI/CD tools and the ability to learn and adapt to new technologies. Previous work in a public sector or large organization setting is a plus. Competencies: Clear and concise writing and communication skills. Creative problem-solving and critical thinking. Ability to work with data from diverse domains. Efficient time management and the ability to manage multiple workflows simultaneously. Ability to seek innovative opportunities and continuous improvement. Curiosity and willingness to learn new tools, packages, and best practices. Eagerness to participate in knowledge sharing and contribute to team discussions on coding standards. Knowledge and Skills: Proficient in Python Familiarity with modern Python development practices (e.g., type annotations, data validation, automated testing) a plus Strong SQL skills and experience with databases (Postgres preferred). Familiarity with Docker, bash and minimal Linux server administration. Experience with cloud services (AWS preferred). Understanding of Git/GitHub for version control and CI/CD pipelines. Experience or ability to learn Airflow, DBT, Terraform, Kubernetes, Mulesoft. Experience working with spatial datasets a plus. Experience using command line interfaces. Abilities: To reason about, model and manipulate complex datasets. To maintain clean and secure data environments. To work effectively in a hybrid (on-premises and cloud) environment. To communicate complex technical concepts in understandable terms. To thoughtfully evaluate new data engineering tools and practices within a public service context. Salary cannot exceed $95,605 We’re interested in hiring the best possible candidate for the role. We recognize that experience, education, and qualifications can be attained in a variety of ways and that many skillsets are transferable. If you feel you’re a good fit, please don’t hesitate to apply. Please include: Resume A cover letter Please note: Applications will not be considered without a cover letter. Did you know? ● We are a Public Service Loan Forgiveness Program qualified employer : 25% tuition discount program for City employees (and sometimes spouses and dependents as well) in partnership with area colleges and universities ● We offer Comprehensive health coverage for employees and their eligible dependents ● Our wellness program offers eligibility into the discounted medical plan ● Employees receive paid vacation, sick leave, and holidays ● Generous retirement savings options are available *The successful candidate must be a city of Philadelphia resident within six months of hire Effective May 22, 2023, vaccinations are no longer required for new employees that work in non-medical, non-emergency or patient facing positions with the City of Philadelphia. As a result, only employees in positions providing services that are patient-facing medical care (ex: Nurses, doctors, emergency medical personnel), must be fully vaccinated. The City of Philadelphia
+
+---
+
+## 24. [MAYBE] Repligen | Strategy Analyst/Associate
 - Link: https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Waltham-MA/Strategy-Analyst-Associate_R-610
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -430,7 +461,7 @@ Repligen is a global pure-play bioprocessing company with highly differentiated 
 
 ---
 
-## 23. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
+## 25. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
 - Link: https://transamerica.wd5.myworkdayjobs.com/AEGONAM/job/NLD-Schiphol/Responsible-Investment-Analyst_R20063237-1
 - Location: NLD Schiphol
 - Posted: Nov 04 (board gives the date only)
@@ -444,7 +475,7 @@ Job Description Summary Job Description Responsible Investment team and role ove
 
 ---
 
-## 24. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
+## 26. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644656
 - Location: Long Island City NY us
 - Posted: Nov 05 06:35 ET
@@ -458,7 +489,7 @@ The Center for Population Health Data Science (CPHDS)- launched in October of 20
 
 ---
 
-## 25. [MAYBE] Accenture | Analista de Analytics - Híbrido
+## 27. [MAYBE] Accenture | Analista de Analytics - Híbrido
 - Link: https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Analista-Pleno-de-Engenharia-de-Dados_R00351665
 - Location: see posting
 - Posted: Nov 04 (board gives the date only)
@@ -472,7 +503,7 @@ Sobre a Accenture A Accenture ajuda as principais empresas do mundo a se reinven
 
 ---
 
-## 26. [MAYBE] Reddit | Machine Learning Engineer
+## 28. [MAYBE] Reddit | Machine Learning Engineer
 - Link: https://job-boards.greenhouse.io/reddit/jobs/8349916
 - Location: San Francisco, CA
 - Posted: Nov 05 11:13 ET
@@ -486,7 +517,7 @@ Reddit is a community of communities. It’s built on shared interests, passion,
 
 ---
 
-## 27. [MAYBE] EXL | Snowflake Data Engineer
+## 29. [MAYBE] EXL | Snowflake Data Engineer
 - Link: https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21585
 - Location: New York, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -500,7 +531,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 28. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
+## 30. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644496
 - Location: New York City NY us
 - Posted: Nov 05 06:29 ET
@@ -514,7 +545,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 29. [MAYBE] Cerebras | AI Engineer
+## 31. [MAYBE] Cerebras | AI Engineer
 - Link: https://jobs.ashbyhq.com/cerebras/c6f607ce-306c-4deb-8825-4175201a7cd4
 - Location: Sunnyvale, CA United States remote
 - Posted: Nov 04 17:08 ET
@@ -593,7 +624,7 @@ Cerebras Systems
 
 ---
 
-## 30. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
+## 32. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
 - Link: https://jobs.lever.co/erg/ffa7e5a8-5d49-4608-a3b0-9a5ff07a3f0a
 - Location: Morrisville, NC Morrisville, NC US
 - Posted: Nov 05 11:07 ET
@@ -610,7 +641,7 @@ ERG
 
 ---
 
-## 31. [MAYBE] PennState University | Part Time Research Assistant
+## 33. [MAYBE] PennState University | Part Time Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000069624-1
 - Location: Penn State University Park
 - Posted: Nov 05 (board gives the date only)
@@ -621,4 +652,18 @@ ERG
 ### Job description
 
 APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process . Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday. If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants . Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants . JOB DESCRIPTION AND POSITION REQUIREMENTS The PRO Health Lab in the Prevention Research Center is seeking undergraduate research assistants to conduct research for an NIH-funded study. BACKGROUND CHECKS/CLEARANCES Employment with the University will require successful completion of background check(s) in accordance with University policies. CAMPUS SECURITY CRIME STATISTICS Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here .
+
+---
+
+## 34. [MAYBE] UTHealth Houston | Research Assistant
+- Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8164
+- Location: San Antonio, TX, United States US
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time (20 h/week stated)
+- Title scope: core | Has: excel, healthcare, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Under general supervision, provides routine technical assistance in performing assigned and delegated tasks in support of research projects. Responsibilities include assisting or conducting a variety of scientific experiments and research projects of limited complexity, collecting, evaluating and interpreting data for clinical and diagnostic research. The lab is currently engaged in exciting state-of-the-art multi-disciplinary projects (infection, aging, asthma, exercise) and duties are aligned to these projects. Provides routine technical assistance in performing assigned and delegated tasks in support of research projects. Performs assigned clerical and technical duties in a research or clinical lab setting. Assists investigator or higher level technician with research studies, experiments and assays including collection of data, preparation of solutions and set-up and maintenance of equipment. Performs routine tests with direction from supervisor, manager or higher level technician. Assists in conducting a variety of scientific experiments and research projects of limited complexity, collecting, evaluating, and interpreting data. Carries out general laboratory maintenance. Performs all other duties as assigned. Attention to detail by achieving thoroughness and accuracy when accomplishing a task through concern for all the areas involved. Ability to organize and coordinate work within schedule constraints and handle emergent requirements in a timely manner. Ability to monitor important and complex projects concurrently within a research environment or laboratory schedule. Ability to effectively communicate orally and in writing, to include writing and preparing memorandums, letters, and other official correspondence. Knowledge of Microsoft Word, Excel, PowerPoint, and Lotus Notes/other e-mail software. Education: Bachelor's Degree in a basic science is required. Experience: None required. Some experience in a research/clinical setting is highly preferred. The University of Texas at San Antonio (UT San Antonio) is a nationally recognized, top-tier public research university that unites the power of higher education, biomedical discovery and healthcare within one visionary institution. As the third-largest research university in Texas and a Carnegie R1-designated institution, UT San Antonio is a model of access and excellence — advancing knowledge, social mobility and public health across South Texas and beyond. UT San Antonio serves approximately 42,000 students in 320 academic programs spanning science, engineering, medicine, health, liberal arts, AI, cybersecurity, business, education and more. With 17,000 faculty and staff, UT San Antonio has been recognized by Forbes as one of America’s Best Employers for Company Culture . Benefits Overview UT Health San Antonio offers an excellent benefits package for its employees. Employees who work at least 20 hours a week, with an appointment of at least 4.5 months, are eligible for benefits. Medical - UT SELECT Medical insurance is offered free for employees and administered by Blue Cross and Blue Shield of Texas. Family members can be added to the plan through payroll deduction. Employees and their dependents can also receive discounted copays and coinsurance when using UT Health Physicians, a network of 800 premier physicians including more than 100 specialists. Employees receive $50,000 of group term life insurance and $50,000 of basic accidental death and dismemberment insurance for free, with options to purchase additional employee and dependent coverage for both at group rates. Dental - Three dental insurance plan options are available for employees and their families through Delta Dental Insurance Company, two PPOs and one dental HMO plan. Both PPO plans allow employees to choose any licensed dentist. Vision - Fully insured Vision Care benefits are offered by Superior Vision Services. Two vision plan options that offer either standard or enhanced vision benefits. Disability - Employees can enroll in the Disability Insurance which provides income if a non-work related illness or injury prevents you from working. FSAs - Employees can enroll in flexible spending accounts (FSAs) to set aside money from earnings before taxes for qualifying dependent day care expenses or out-of-pocket health care expenses. Retirement - Employees are eligible for either the Teacher Retirement System (TRS) or the Optional Retirement Plan (ORP). TRS is a defined benefit retirement plan which UT Health matches employee contributions. ORP is for eligible faculty staff employees. Voluntary retirement programs are also available to invest before- or after-tax dollars with the choice of five quality retirement plan providers. Time Off - A generous leave program offers multiple paid leave options: Front-loaded Paid Time Off: 128 to 208 hours (16 to 26 days) of Paid Time Off based on years of service, given at the start of each fiscal year. PTO may be prorated in year one based on date of hire. Extended Illness Bank: 8 hours (1 day) accrued per month which can be used for illness or injury after one day of Paid Time Off is taken. Paid Family Leave: Up to 240 hours (6 weeks) to care for a spouse, child, or parent after 6 months of consecutive employment. Holidays: 12 set paid holidays each year. Discounts - Employees enjoy a range of discounts on services, tickets, and gym membership.
 
