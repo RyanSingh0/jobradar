@@ -34,37 +34,40 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 28 | Howmet Aerospace | Data Engineer | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
 | 29 | HUB International | AI Engineer | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
 | 30 | Envista | Global Digital Marketing Specialist - Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 31 | Advocate Health Care | Research Associate - Neurosciences - FT | 54 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 32 | Stevens Institute of Technology | Research Scientist | 54 | cap-exempt employer | Nov 03 (board gives the date only) |
-| 33 | Barclays | High Yield Credit Research Analyst | 54 | 142 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 34 | Generalist | Applied Scientist | 54 | none found (check myvisajobs) | Nov 04 14:44 ET |
-| 35 | Osaic | Risk Analyst I | 54 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 36 | Uline | AI Engineer | 54 | 16 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 37 | Medical College of Wisconsin | Biostatistician I - CIBMTR | 50 | cap-exempt employer | Nov 03 (board gives the date only) |
-| 38 | Brown & Brown Insurance | Employee Benefits Marketing Analyst | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 39 | Hancock Whitney | Fraud Risk Analyst | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 40 | Unum | Investment Analyst - Credit | 50 | 8 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 41 | PIMCO | Analyst/Associate, Client Solutions & Analytics | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 42 | Citi | Data Analytics Engineer | 49 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 43 | Regeneron Pharmaceuticals | Process Development Engineer I, Biobank Analytics Automation | 47 | 42 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 44 | HUB International | Benefits Marketing Analyst | 45 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
-| 45 | Gilead Sciences | Research Associate, In Vivo Discovery | 45 | 73 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 46 | Kite Pharma | Research Associate, In Vivo Discovery | 45 | 9 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 47 | State of North Carolina | Data Engineer Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 48 | Avis Budget Group | Data Engineer / AI Engineer | 44 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 49 | Valsoft Corporation | AI Engineer - SAD con | 44 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 50 | Jade Global | AI Engineer | 43 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 51 | Hitachi | Research Scientist – Power Systems Optimization | 43 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 52 | University of Texas - Austin | Research Scientist, Laser-Plasma Accelerators and X-ray Sources | 43 | cap-exempt employer | Nov 04 (board gives the date only) |
-| 53 | Steampunk | Job Title Data Engineer - Databricks | 43 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 54 | Amazon |  Applied Scientist, Fauna Robotics | 43 | 3890 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 55 | M&G | Data Scientist | 42 | 4 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 56 | The Hartford | Consultant Performance Analytics – General Liability | 40 | 17 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
-| 57 | Stride | Academics Data Science Associate | 40 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 58 | TMX Group | Product Analyst | 40 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 59 | Confido | Finance Data Analyst | 40 | 1 in data/analytics/finance occupations | Nov 04 16:42 ET |
-| 60 | Mars | Customer Marketing Analyst, Pringles | 40 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 61 | Mars | Customer Marketing Analyst, Cheez-It | 40 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 31 | Steampunk | Job Title Data Scientist | 55 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 32 | Advocate Health Care | Research Associate - Neurosciences - FT | 54 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 33 | Stevens Institute of Technology | Research Scientist | 54 | cap-exempt employer | Nov 03 (board gives the date only) |
+| 34 | Barclays | High Yield Credit Research Analyst | 54 | 142 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 35 | Generalist | Applied Scientist | 54 | none found (check myvisajobs) | Nov 04 14:44 ET |
+| 36 | Osaic | Risk Analyst I | 54 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 37 | Uline | AI Engineer | 54 | 16 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 38 | Medical College of Wisconsin | Biostatistician I - CIBMTR | 50 | cap-exempt employer | Nov 03 (board gives the date only) |
+| 39 | Brown & Brown Insurance | Employee Benefits Marketing Analyst | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 40 | Hancock Whitney | Fraud Risk Analyst | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 41 | Unum | Investment Analyst - Credit | 50 | 8 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 42 | PIMCO | Analyst/Associate, Client Solutions & Analytics | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 43 | Deckers Brands | Customer Experience Data Analyst | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 44 | Citi | Data Analytics Engineer | 49 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 45 | Regeneron Pharmaceuticals | Process Development Engineer I, Biobank Analytics Automation | 47 | 42 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 46 | HUB International | Benefits Marketing Analyst | 45 | none found (check myvisajobs) | Nov 03 (board gives the date only) |
+| 47 | Gilead Sciences | Research Associate, In Vivo Discovery | 45 | 73 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 48 | Kite Pharma | Research Associate, In Vivo Discovery | 45 | 9 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 49 | State of North Carolina | Data Engineer Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 50 | Avis Budget Group | Data Engineer / AI Engineer | 44 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 51 | Valsoft Corporation | AI Engineer - SAD con | 44 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 52 | Jade Global | AI Engineer | 43 | 3 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 53 | Hitachi | Research Scientist – Power Systems Optimization | 43 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 54 | University of Texas - Austin | Research Scientist, Laser-Plasma Accelerators and X-ray Sources | 43 | cap-exempt employer | Nov 04 (board gives the date only) |
+| 55 | Steampunk | Job Title Data Engineer - Databricks | 43 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 56 | Amazon |  Applied Scientist, Fauna Robotics | 43 | 3890 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 57 | M&G | Data Scientist | 42 | 4 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 58 | The Hartford | Consultant Performance Analytics – General Liability | 40 | 17 in data/analytics/finance occupations | Nov 03 (board gives the date only) |
+| 59 | Stride | Academics Data Science Associate | 40 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 60 | TMX Group | Product Analyst | 40 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 61 | Confido | Finance Data Analyst | 40 | 1 in data/analytics/finance occupations | Nov 04 16:42 ET |
+| 62 | Mars | Customer Marketing Analyst, Pringles | 40 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 63 | Mars | Customer Marketing Analyst, Cheez-It | 40 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 64 | Generalist | Research Scientist: Pretraining | 40 | none found (check myvisajobs) | Nov 04 19:13 ET |
 
 ---
 
@@ -530,7 +533,21 @@ Job Description: The Global Digital Marketing Data Analyst turns marketing, cust
 
 ---
 
-## 31. [MAYBE] Advocate Health Care | Research Associate - Neurosciences - FT
+## 31. [MAYBE] Steampunk | Job Title Data Scientist
+- Link: https://careers-steampunk.icims.com/jobs/8380/data-scientist/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, excel, llm, machine learning, python, pytorch, scikit, sql, statistic, tensorflow, data quality, deep learning, fraud | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Data Scientist in McLean, Virginia Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log back in! Data Scientist Job Location US-VA-McLean Posted Date 24 minutes ago (11/4/2026 8:06 PM) Job ID 8380 Clearance Requirement Public Trust Overview We are looking for seasoned Data Scientist to work with our existing team of Data Architects and Developers to develop strategies, create ML/AI solutions, and deliver results. We are looking for a more than just a “Data Scientist”, but a technologist with excellent communication and customer service skills and a passion for data and problem solving. Contributions Conduct exploratory data analysis (EDA) to uncover trends, identify data quality issues, and determine modeling opportunities. Develop machine learning models using frameworks such as scikit-learn, XGBoost , PyTorch , TensorFlow, or similar libraries. Perform feature engineering, dataset preparation, and model optimization to improve predictive accuracy and operational performance. Evaluate models using appropriate statistical methods and performance metrics, documenting findings and informing iterative improvements. Work with Data Engineers to understand and enhance data pipelines, ensuring model-ready datasets are accurate , complete, and consistent. Collaborate with AI Developers and LLMOps / MLOps Engineers to integrate ML models into production environments or decision-support applications. Build visualizations, dashboards, data stories, and executive-friendly summaries to communicate insights clearly to stakeholders. Support human-centered design processes by translating user needs into modeling requirements and refining model outputs based on feedback. Contribute to reproducibility and auditability by maintaining well-organized code, notebooks, documentation, and experiment histories . Stay current with modern data science methodologies, ML techniques, data processing tools, and cloud-enabled analytics workflows. You will contribute to the growth of our AI & Data Exploitation Practice! Qualifications Ability to hold a position of public trust with the US government Bachelor’s or Master’s degree in Data Science, Computer Science, Statistics, Mathematics, Analytics, Engineering, Economics, or a related field 5+ years industry experience developing ML/AI solutions and a passion for solving complex problems 3+ years direct experience in Data Modeling and Data Solution Development Experience modeling on structured and unstructured data sets Experience with exploratory data analysis Experience in feature engineering Experience in data visualization Experience with Python and SQL Experience with Deep Learning methodology and state of the art libraries Knowledge of data collection methods, capabilities, and tasking process Knowledge of Neo4j Knowledge of criminal justice, grants, research arenas Ability to leverage multiple data management tools to organize relevant information and make decisions About steampunk Steampunk relies on several factors to determine salary, including but not limited to geographic location, contractual requirements, education, knowledge, skills, competencies, and experience. The projected compensation range for this position is $140,000 to $160,000. The estimate displayed represents a typical annual salary range for this position. Annual salary is just one aspect of Steampunk’s total compensation package for employees. Learn more about additional Steampunk benefits here. Identity Statement As part of the application process, you are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud. Steampunk is a Change Agent in the Federal contracting industry, bringing new thinking to clients in the Homeland, Federal Civilian, Health and DoD sectors. Through our Human-Centered delivery methodology , we are fundamentally changing the expectations our Federal clients have for true shared accountability in solving their toughest mission challenges. If you want to learn more about our story, visit http://www.steampunk.com .
+
+---
+
+## 32. [MAYBE] Advocate Health Care | Research Associate - Neurosciences - FT
 - Link: https://aah.wd5.myworkdayjobs.com/External/job/Carolinas-Medical-Center---1000-Blythe-Blvd-Charlotte-NC/Research-Associate---Neurosciences---FT_R271759
 - Location: Carolinas Medical Center - 1000 Blythe Blvd, Charlotte, NC
 - Posted: Nov 03 (board gives the date only)
@@ -544,7 +561,7 @@ Department: 85209 Greater Charlotte Research and Other Sponsored Programs - Acad
 
 ---
 
-## 32. [MAYBE] Stevens Institute of Technology | Research Scientist
+## 33. [MAYBE] Stevens Institute of Technology | Research Scientist
 - Link: https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Research-Scientist_RQ29183
 - Location: Hoboken, NJ - Main Campus
 - Posted: Nov 03 (board gives the date only)
@@ -558,7 +575,7 @@ Job Description Summary of Position The Acquisition Innovation and Research Cent
 
 ---
 
-## 33. [MAYBE] Barclays | High Yield Credit Research Analyst
+## 34. [MAYBE] Barclays | High Yield Credit Research Analyst
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/High-Yield-Credit-Research-Analyst_JR-0000133716
 - Location: New York, 745 7th Avenue
 - Posted: Nov 04 (board gives the date only)
@@ -572,7 +589,7 @@ Job Description Purpose of the role To produce and deliver Research with differe
 
 ---
 
-## 34. [MAYBE] Generalist | Applied Scientist
+## 35. [MAYBE] Generalist | Applied Scientist
 - Link: https://jobs.ashbyhq.com/generalist/e3460ad7-8044-4522-aedd-009926900b14
 - Location: Boston (Somerville) United States
 - Posted: Nov 04 14:44 ET
@@ -630,7 +647,7 @@ YOU MIGHT THRIVE IN THIS ROLE IF YOU:
 
 ---
 
-## 35. [MAYBE] Osaic | Risk Analyst I
+## 36. [MAYBE] Osaic | Risk Analyst I
 - Link: https://advisorgroup.wd1.myworkdayjobs.com/advisor_career_site/job/Scottsdale-AZ/Risk-Analyst-I_R0005360
 - Location: 5 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -644,7 +661,7 @@ Current Employees and Contractors Apply Here Osaic Careers Risk Management Oppor
 
 ---
 
-## 36. [MAYBE] Uline | AI Engineer
+## 37. [MAYBE] Uline | AI Engineer
 - Link: https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/AI-Engineer_R268834
 - Location: 5 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -658,7 +675,7 @@ AI Engineer Corporate Headquarters 12575 Uline Drive, Pleasant Prairie, WI 53158
 
 ---
 
-## 37. [MAYBE] Medical College of Wisconsin | Biostatistician I - CIBMTR
+## 38. [MAYBE] Medical College of Wisconsin | Biostatistician I - CIBMTR
 - Link: https://mcw.wd503.myworkdayjobs.com/ExternalCareers/job/Milwaukee-WI/Biostatistician-I---CIBMTR_JR104177
 - Location: Milwaukee, WI
 - Posted: Nov 03 (board gives the date only)
@@ -672,7 +689,7 @@ Summary The Center for International Blood and Marrow Transplant Research (CIBMT
 
 ---
 
-## 38. [MAYBE] Brown & Brown Insurance | Employee Benefits Marketing Analyst
+## 39. [MAYBE] Brown & Brown Insurance | Employee Benefits Marketing Analyst
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/St-Petersburg-FL-USA/Employee-Benefits-Marketing-Analyst_R26_0000003824
 - Location: St. Petersburg, FL, USA
 - Posted: Nov 04 (board gives the date only)
@@ -686,7 +703,7 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 39. [MAYBE] Hancock Whitney | Fraud Risk Analyst
+## 40. [MAYBE] Hancock Whitney | Fraud Risk Analyst
 - Link: https://hancockwhitney.wd5.myworkdayjobs.com/Careers/job/Hancock-Whitney-Plaza---Gulfport-MS/Fraud-Risk-Analyst_R017902
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -700,7 +717,7 @@ Thank you for your interest in our company! To apply, click on the button above.
 
 ---
 
-## 40. [MAYBE] Unum | Investment Analyst - Credit
+## 41. [MAYBE] Unum | Investment Analyst - Credit
 - Link: https://unum.wd1.myworkdayjobs.com/external/job/Chattanooga-Tennessee-USA/Investment-Analyst---Credit_836537
 - Location: Chattanooga, Tennessee, USA
 - Posted: Nov 04 (board gives the date only)
@@ -714,7 +731,7 @@ Job Posting End Date: November 17 When you join the team at Unum, you become par
 
 ---
 
-## 41. [MAYBE] PIMCO | Analyst/Associate, Client Solutions & Analytics
+## 42. [MAYBE] PIMCO | Analyst/Associate, Client Solutions & Analytics
 - Link: https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/Analyst-Associate--Client-Solutions---Analytics_R107095
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -728,7 +745,21 @@ PIMCO is a global leader in active fixed income with deep expertise across publi
 
 ---
 
-## 42. [MAYBE] Citi | Data Analytics Engineer
+## 43. [MAYBE] Deckers Brands | Customer Experience Data Analyst
+- Link: https://deckers.wd5.myworkdayjobs.com/Deckers/job/US---CO-Remote-Denver/Customer-Experience-Data-Analyst_21892
+- Location: 2 Locations
+- Posted: Nov 04 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, tableau, data quality, reporting, validation | Lacks: scala  | Note: no H-1B filings found for this employer
+
+### Job description
+
+At Deckers Brands, Together, Every Step is a promise kept that every employee can bring their authentic self, is valued and supported, as a whole person, at work and beyond. Together, Every Step is how we continue to deliver exceptional business results, experience an amazing place to work, and have a positive impact on the communities and world around us. Job Title: Customer Experience Data Analyst Reports to: Director, Customer Experience Location: Remote CA/CO/AZ/TX The Role As a Customer Experience Data Analyst, you’ll empower Customer Experience leaders and teams to make informed decisions by translating orderbook and operational data into reliable reporting, actionable insights, and clear business recommendations. You’ll develop and maintain Tableau and advanced Excel solutions, monitor data quality, and investigate discrepancies across reporting layers and source systems. You’ll own new projects and reporting initiatives end-to-end, collaborating with CE Leadership, Supply Chain, D&D, and global stakeholders. You’ll also apply approved AI and automation capabilities to improve the speed, quality, consistency, and scalability of reporting while maintaining data stewardship. We celebrate diversity--of your background, your experiences and your unique identity. We are committed to ensuring an inclusive and equitable workplace where all of our employees can Come as They Are. We believe that when we bring our different perspectives to work, we are truly Better Together. Your Impact Build, maintain, and enhance Tableau dashboards and advanced Excel reporting solutions Partner with Customer Experience and cross-functional stakeholders to translate business needs into data-driven insights and recommendations Design and validate reporting logic, calculations, and visualizations to ensure data accuracy and usability Monitor reporting performance and investigate data discrepancies to support timely issue resolution Support reporting migrations, enhancements, and continuous improvement initiatives Manage reporting requests, priorities, and stakeholder communication Maintain reporting documentation, training materials, and governance standards Deliver ad hoc analysis and reporting to support Customer Experience and Supply Chain business priorities Who You Are 2+ years of experience using Microsoft Excel with large datasets 2+ years of reporting, analytics, or business intelligence experience Experience building dashboards and visualizations in Tableau or similar BI tools Advanced Excel skills including lookups, SUMIFS, pivot tables, and large dataset analysis Strong analytical, problem-solving, and root-cause analysis skills Ability to translate business objectives into reporting solutions and actionable insights Experience with data quality validation and reporting governance practices Effective communication and stakeholder management skills Self-motivated with the ability to manage multiple priorities in a remote environment Commitment to Deckers values: Be Bold, Honest, Open, Courageous, and Kind What We'll Give You – Competitive Pay and Bonuses - We’ve created a variety of competitive compensation programs to foster career development, reward success and to show our employees just how much they’re valued. Financial Planning and wellbeing - No matter what financial goals our employees have set, we want to help them get there. Our plans provide powerful ways to protect income, pay for expenses and invest in the future. Time away from work - Sometimes we need time away to be with family, focus on our health or just simply recharge. Our plans support our employees’ needs to get out, get healthy and come back stronger than ever. Extras, discounts and perks - Being a valued member of the Deckers Brands team means more than just a paycheck. From generous discounts to community-based programs, we offer a variety of cool extras Growth and Development - Deckers Brands was built on the idea of pursuing passion. That’s why we offer extensive opportunities and support for personal and professional development. Health and Wellness - There’s nothing basic about our comprehensive health and wellness programs and offerings. While at work and at play, we aim to support a healthy lifestyle. $61,800.00 - $71,000.00 The salary range posted reflects the estimated minimum and maximum target for new hire salaries for this role in: US - CO Remote Denver Individual pay will be determined by location and additional factors, including job related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary for your preferred location during the hiring process. Equal Employment Opportunity Diversity and inclusion are key to our success. We are proud to be an
+
+---
+
+## 44. [MAYBE] Citi | Data Analytics Engineer
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Data-Analytics-Engineer_261001004
 - Location: Irving Texas United States
 - Posted: Nov 03 (board gives the date only)
@@ -742,7 +773,7 @@ Overview of the Role: Citi, the leading global bank, has approximately 200 milli
 
 ---
 
-## 43. [MAYBE] Regeneron Pharmaceuticals | Process Development Engineer I, Biobank Analytics Automation
+## 45. [MAYBE] Regeneron Pharmaceuticals | Process Development Engineer I, Biobank Analytics Automation
 - Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Process-Development-Engineer-I--Biobank-Analytics-Automation_R52593
 - Location: TARRYTOWN
 - Posted: Nov 04 (board gives the date only)
@@ -756,7 +787,7 @@ Build our future together: At Regeneron, we use science and innovation to develo
 
 ---
 
-## 44. [MAYBE] HUB International | Benefits Marketing Analyst
+## 46. [MAYBE] HUB International | Benefits Marketing Analyst
 - Link: https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Metairie-LA/Benefits-Marketing-Analyst_R0039341
 - Location: Metairie, LA
 - Posted: Nov 03 (board gives the date only)
@@ -770,7 +801,7 @@ A path for every ambition. At HUB, we believe the best work happens when people 
 
 ---
 
-## 45. [MAYBE] Gilead Sciences | Research Associate, In Vivo Discovery
+## 47. [MAYBE] Gilead Sciences | Research Associate, In Vivo Discovery
 - Link: https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---Pennsylvania---Philadelphia/Research-Associate--In-Vivo-Discovery_R0056352-1
 - Location: United States - Pennsylvania - Philadelphia
 - Posted: Nov 03 (board gives the date only)
@@ -784,7 +815,7 @@ We’re here for one reason and one reason only – to cure cancer. Every moment
 
 ---
 
-## 46. [MAYBE] Kite Pharma | Research Associate, In Vivo Discovery
+## 48. [MAYBE] Kite Pharma | Research Associate, In Vivo Discovery
 - Link: https://gilead.wd1.myworkdayjobs.com/kitepharmacareers/job/United-States---Pennsylvania---Philadelphia/Research-Associate--In-Vivo-Discovery_R0056352
 - Location: United States - Pennsylvania - Philadelphia
 - Posted: Nov 03 (board gives the date only)
@@ -798,7 +829,7 @@ We’re here for one reason and one reason only – to cure cancer. Every moment
 
 ---
 
-## 47. [MAYBE] State of North Carolina | Data Engineer Analyst
+## 49. [MAYBE] State of North Carolina | Data Engineer Analyst
 - Link: https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineer-Analyst_JR-127789
 - Location: Wake County, NC
 - Posted: Nov 04 (board gives the date only)
@@ -812,7 +843,7 @@ Agency Dept of Revenue Division TRANSFORMATION MANAGEMENT OFFICE Job Classificat
 
 ---
 
-## 48. [MAYBE] Avis Budget Group | Data Engineer / AI Engineer
+## 50. [MAYBE] Avis Budget Group | Data Engineer / AI Engineer
 - Link: https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Avis-Budget-House-HQ/Data-Engineer---AI-Engineer_R0191644
 - Location: Avis Budget House, HQ
 - Posted: Nov 03 (board gives the date only)
@@ -826,7 +857,7 @@ Job Title: Data Engineer / AI Engineer Location: Bracknell, minimum of 3 days in
 
 ---
 
-## 49. [MAYBE] Valsoft Corporation | AI Engineer - SAD con
+## 51. [MAYBE] Valsoft Corporation | AI Engineer - SAD con
 - Link: https://apply.workable.com/j/1DFDC9657B
 - Location: Beirut Beirut Governorate Lebanon
 - Posted: Nov 04 (board gives the date only)
@@ -840,7 +871,7 @@ Aspire Software is looking for a Senior Software Engineer to join our team in Le
 
 ---
 
-## 50. [MAYBE] Jade Global | AI Engineer
+## 52. [MAYBE] Jade Global | AI Engineer
 - Link: https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/San-Jose-CA/AI-Engineer_R-106525-2
 - Location: 2 Locations
 - Posted: Nov 03 (board gives the date only)
@@ -854,7 +885,7 @@ AI Engineer1 We're building a self-service LoRA / full fine-tuning platform for 
 
 ---
 
-## 51. [MAYBE] Hitachi | Research Scientist – Power Systems Optimization
+## 53. [MAYBE] Hitachi | Research Scientist – Power Systems Optimization
 - Link: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Research-Scientist---Power-Systems-Optimization_R0150404
 - Location: Raleigh, North Carolina, United States
 - Posted: Nov 04 (board gives the date only)
@@ -868,7 +899,7 @@ Location: Raleigh, North Carolina, United States Job ID: R0150404 Date Posted: 2
 
 ---
 
-## 52. [MAYBE] University of Texas - Austin | Research Scientist, Laser-Plasma Accelerators and X-ray Sources
+## 54. [MAYBE] University of Texas - Austin | Research Scientist, Laser-Plasma Accelerators and X-ray Sources
 - Link: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Research-Scientist--Laser-Plasma-Accelerators-and-X-ray-Sources_R_00049837
 - Location: UT MAIN CAMPUS
 - Posted: Nov 04 (board gives the date only)
@@ -882,7 +913,7 @@ Job Posting Title: Research Scientist, Laser-Plasma Accelerators and X-ray Sourc
 
 ---
 
-## 53. [MAYBE] Steampunk | Job Title Data Engineer - Databricks
+## 55. [MAYBE] Steampunk | Job Title Data Engineer - Databricks
 - Link: https://careers-steampunk.icims.com/jobs/8371/data-engineer---databricks/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -896,7 +927,7 @@ Data Engineer - Databricks in McLean, Virginia Please Enable Cookies to Continue
 
 ---
 
-## 54. [MAYBE] Amazon |  Applied Scientist, Fauna Robotics
+## 56. [MAYBE] Amazon |  Applied Scientist, Fauna Robotics
 - Link: https://www.amazon.jobs/en/jobs/10597214/applied-scientist-fauna-robotics
 - Location: Sunnyvale, California, USA
 - Posted: Nov 04 (board gives the date only)
@@ -910,7 +941,7 @@ Robots are about to step out of the movies and into our homes. If you're excited
 
 ---
 
-## 55. [MAYBE] M&G | Data Scientist
+## 57. [MAYBE] M&G | Data Scientist
 - Link: https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/Stirling/Data-Engineer--Databricks-_R19908
 - Location: 3 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -924,7 +955,7 @@ At M&G, our purpose is to give everyone real confidence to put their money to wo
 
 ---
 
-## 56. [MAYBE] The Hartford | Consultant Performance Analytics – General Liability
+## 58. [MAYBE] The Hartford | Consultant Performance Analytics – General Liability
 - Link: https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/United-States---Remote/Consultant-Performance-Analytics---General-Liability_R2627627
 - Location: United States - Remote
 - Posted: Nov 03 (board gives the date only)
@@ -938,7 +969,7 @@ Consultant Perf Analytics - GB08BE We’re determined to make a difference and a
 
 ---
 
-## 57. [MAYBE] Stride | Academics Data Science Associate
+## 59. [MAYBE] Stride | Academics Data Science Associate
 - Link: https://strideinc.wd1.myworkdayjobs.com/SK/job/US---VA---Remote/Academics-Data-Science-Associate_JR116261
 - Location: US - VA - Remote
 - Posted: Nov 04 (board gives the date only)
@@ -952,7 +983,7 @@ Job Description Certificates and Licenses: Teaching Certification Residency Requ
 
 ---
 
-## 58. [MAYBE] TMX Group | Product Analyst
+## 60. [MAYBE] TMX Group | Product Analyst
 - Link: https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/California/Product-Analyst_R-6665
 - Location: California
 - Posted: Nov 04 (board gives the date only)
@@ -966,7 +997,7 @@ Venture outside the ordinary - TMX Careers The TMX group of companies includes l
 
 ---
 
-## 59. [MAYBE] Confido | Finance Data Analyst
+## 61. [MAYBE] Confido | Finance Data Analyst
 - Link: https://jobs.ashbyhq.com/confido/50c22a78-47d1-4c7d-a05c-deaa4912e824
 - Location: NYC Office United States
 - Posted: Nov 04 16:42 ET
@@ -1070,7 +1101,7 @@ Confido provides equal employment opportunities to all employees and applicants 
 
 ---
 
-## 60. [MAYBE] Mars | Customer Marketing Analyst, Pringles
+## 62. [MAYBE] Mars | Customer Marketing Analyst, Pringles
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Customer-Marketing-Analyst--Pringles_R170520-2
 - Location: USA-Illinois-Chicago
 - Posted: Nov 04 (board gives the date only)
@@ -1084,7 +1115,7 @@ Job Description: This role is responsible for the execution of customer investme
 
 ---
 
-## 61. [MAYBE] Mars | Customer Marketing Analyst, Cheez-It
+## 63. [MAYBE] Mars | Customer Marketing Analyst, Cheez-It
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Customer-Marketing-Analyst--Cheez-It_R170519-1
 - Location: USA-Illinois-Chicago
 - Posted: Nov 04 (board gives the date only)
@@ -1095,4 +1126,65 @@ Job Description: This role is responsible for the execution of customer investme
 ### Job description
 
 Job Description: This role is responsible for the execution of customer investment strategy through the evaluation of trade promotion tactics and building optimization recommendations. This role will leverage existing shopper/consumer insights on price & promotions assigned per customer/channel to deliver selling stories for optimization activities. The purpose for this position is to support our stakeholders on gaining better understanding on how they invest today and where they need to shift investments tomorrow in order to deliver better revenue for customers, consumers, and the business. What are we looking for? Professional Degree in Business, Economics, Administration or equivalent. 1+Years professional experience working with leading multi- functional teams for Fast Moving Consumer Good Industries Familiarity with customer base and working knowledge of retail merchandising and in store execution tactics is a nice to have. Strong knowledge of syndicated data (e.g. IRI, Nielsen) and its nuances Must be skilled with turning insights into opportunities & translating them into actionable. Technical knowledge skills (e.g., Excel, PowerPoint, Tableau, Power BI, SAP knowledge would be a nice to have). Availability to travel 20% of time is needed. What will be your key responsibilities? Identify and evaluate promotion optimization opportunities Partner with Trade Promotion Managers and Team Lead, to drive profitable sales and share growth across the U.S. for assigned channel Execute complex and comprehensive analyses to support the development of channel-level and customer-level promotional strategies that achieve sales, share, and profitability objectives facilitate strategic conversations with internal Sales Directors and retailers (including customer reviews and top to top meetings) to evaluate tradeoffs and commercialize opportunities What can you expect from Mars? Work with diverse and talented Associates, all guided by the Five Principles. Join a purpose driven company, where we’re striving to build the world we want tomorrow, today. A strong focus on learning and development support from day one, including access to our in-house Mars University. An industry competitive salary and benefits package, including company bonus. The base pay range for this position at commencement of employment is between the range listed below, however, base pay offered may vary depending on multiple individualized factors, including but not limited to job-related knowledge, skills, and experience. The total compensation package for this position will include variable pay, medical and dental benefits, participation in 401k plan, and paid time off benefits. Details of participation in these benefit plans will be provided if an applicant receives an offer of employment. The pay range listed is applicable to IL:USD 0.00 - USD 0.00
+
+---
+
+## 64. [MAYBE] Generalist | Research Scientist: Pretraining
+- Link: https://jobs.ashbyhq.com/generalist/411145e6-0341-4ed4-a4b3-9a8db66abd8e
+- Location: Boston (Somerville) United States
+- Posted: Nov 04 19:13 ET
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, pytorch, data quality, research | Lacks: scala  | Note: no H-1B filings found for this employer
+
+### Job description
+
+ABOUT GENERALIST
+
+At Generalist, we are on a mission to build general intelligence for the physical world and make it useful to everyone. We believe the industries and homes of the future will depend on humans and machines working together in new ways. Robots can help us build more and get more done.
+
+We build embodied foundation models, starting with a focus on dexterity. This requires advancing the frontiers of data, models, and hardware, to enable robots to intelligently interact with the physical world.
+
+The company embraces both large-scale AI and robotics as core to its DNA. Our team of researchers, roboticists, and company builders come from OpenAI, Boston Dynamics, Google DeepMind, and other frontier labs—with a track record of shipping AI breakthroughs. Before Generalist, we pioneered large embodied multimodal models and vision-language-action models (PaLM-E, https://research.google/blog/palm-e-an-embodied-multimodal-language-model/ RT-2 https://deepmind.google/blog/rt-2-new-model-translates-vision-and-language-into-action/, Gemini Robotics https://deepmind.google/models/gemini-robotics/), launched and scaled ChatGPT https://chatgpt.com/ and GPT-4 https://openai.com/index/gpt-4-research/ to hundreds of millions of users, engineered the foundations of autonomous driving, built next-generation robots (Atlas https://bostondynamics.com/atlas/, Spot https://bostondynamics.com/products/spot/, Stretch https://bostondynamics.com/products/stretch/) and pushed the limits of what they can do (from parkour https://www.youtube.com/watch?v=tF4DML7FIWk to manipulation https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/, and testing robustness https://www.youtube.com/watch?v=aFuA50H9uek).
+
+We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
+
+
+ABOUT THE ROLE
+
+You will build the base intelligence layer for robotics. We train large-scale robot foundation models from massive multimodal datasets spanning video, proprioception, action traces, language, and more. You will design and run the core large-scale training efforts that give our models fundamentally new general capabilities across embodiments, tasks, and environments. You will “live and breathe” all forms of robot data.
+
+If you have worked on pretraining large-scale ML systems or generative foundation models e.g. multimodal, language, audio, etc. (not only robotics), then this may be the role for you.
+
+You’ll be responsible for:
+
+ - Designing and executing large-scale pretraining runs for robot foundation models (transformer- and diffusion-based architectures)
+
+ - Defining model architectures, objectives, and training curricula across multimodal robotic data (vision, action, state, language)
+
+ - Developing scalable data mixtures and sampling strategies across petabyte-scale datasets
+
+ - Guiding data collection operations towards new directions, as well as sourcing new datasets
+
+ - Running ablations to understand scaling laws, data quality effects, and architecture tradeoffs
+
+ - Collaborating closely with ML Infra and Systems to push cluster utilization, throughput, and reliability
+
+ - Turning raw robotic interaction data into generalizable model capabilities
+
+You might thrive in this role if you:
+
+ - Have worked on large-scale ML systems with senior/staff (L6+) experience.
+
+ - Have deep experience training large transformer or diffusion models at scale (for generative models e.g. including language models, audio models, or video models)
+
+ - Have led or significantly contributed to multi-node, multi-GPU distributed training efforts
+
+ - Have worked on scaling laws, optimization dynamics, and large-model failure modes
+
+ - Have strong PyTorch fundamentals and comfort debugging at every layer of the stack
+
+ - Care about both empirical rigor and raw iteration speed
+
+ - Are excited about building general-purpose robot intelligence from first principles
 
