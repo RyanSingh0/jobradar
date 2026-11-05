@@ -9,51 +9,56 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 3 | Hitachi | Training & Development Analyst | 70 | 2 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
 | 4 | Sia Partners | Generative AI Consultant  | 70 | 3 in data/analytics/finance occupations | Nov 05 14:08 ET |
 | 5 | HCSC | Analytics Consultant | 69 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 6 | DXC Technology | Analista de Reporting (Power BI / Excel) | 67 | 12 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 7 | ALFA LAVAL | Business Improvement Analyst | 67 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 8 | Axle | Data Scientist, Medical Imaging | 67 | none found (check myvisajobs) | Nov 05 12:41 ET |
-| 9 | Adventist Health | Ambulatory Reimbursement Analyst | 67 | 18 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 10 | Dimensional Fund Advisors | Analyst, Portfolio Management (Equities) | 65 | 23 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 11 | Novanta | Demand Analyst [C] | 65 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 12 | UTHealth Houston | Clinical Reporting Analyst - Intermediate | 64 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 13 | University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law | 62 | cap-exempt employer | Nov 04 (board gives the date only) |
-| 14 | Desjardins Group | Credit Risk Strategy Data Scientist | 59 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 15 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 16 | Canadian Tire | Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 17 | 7-Eleven | Enterprise Technology Portfolio Analyst | 55 | 14 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 18 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 19 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 20 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 21 | BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG) | 54 | 12 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 22 | The Federal Reserve System | Product Analyst, Banking Operations | 54 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 23 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 24 | ARQ | Finance Analytics Engineer | FP&A | 52 | none found (check myvisajobs) | Nov 05 11:15 ET |
-| 25 | Toyota Research Institute | Research Scientist, Robotics Research | 52 | 2 in data/analytics/finance occupations | Nov 05 14:05 ET |
-| 26 | Arkansas Blue Cross | Data Analyst | 52 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 27 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 28 | CVS Health | Coordinator, Financial Reporting Analysis | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 29 | Oshkosh | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 30 | City of Philadelphia | Data Engineer-Integration Specialist | 50 | 6 in data/analytics/finance occupations | Nov 05 12:52 ET |
-| 31 | Texas A&M AgriLife Research | Research Assistant | 50 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 32 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 33 | DiDi Global | Machine Learning Engineer - Agentic AI | 50 | none found (check myvisajobs) | Nov 05 14:18 ET |
-| 34 | Texas A&M University - College Station | Research Scientist | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 35 | Texas A&M University System | Research Scientist | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 36 | Clera | Founding AI Engineer (Agents) | 50 | none found (check myvisajobs) | Nov 05 16:03 ET |
-| 37 | Citizens Financial Group | Third Party Risk Analyst | 50 | 54 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 38 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 39 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
-| 40 | Nationwide Children's Hospital | Research Assistant NE | 45 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 41 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
-| 42 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
-| 43 | Reddit | Machine Learning Engineer | 43 | 25 in data/analytics/finance occupations | Nov 05 11:13 ET |
-| 44 | Amazon | Applied Scientist , Fauna | 43 | 3890 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 45 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 46 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
-| 47 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
-| 48 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
-| 49 | PennState University | Part Time Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 50 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 6 | ONEOK | Energy Management Systems Analyst | 68 | 2 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 7 | DXC Technology | Analista de Reporting (Power BI / Excel) | 67 | 12 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 8 | ALFA LAVAL | Business Improvement Analyst | 67 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 9 | Axle | Data Scientist, Medical Imaging | 67 | none found (check myvisajobs) | Nov 05 12:41 ET |
+| 10 | Adventist Health | Ambulatory Reimbursement Analyst | 67 | 18 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 11 | Dimensional Fund Advisors | Analyst, Portfolio Management (Equities) | 65 | 23 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 12 | Novanta | Demand Analyst [C] | 65 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 13 | TransUnion | Consulting Analyst - Argus Advisory | 65 | 66 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 14 | UTHealth Houston | Clinical Reporting Analyst - Intermediate | 64 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 15 | University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law | 62 | cap-exempt employer | Nov 04 (board gives the date only) |
+| 16 | Desjardins Group | Credit Risk Strategy Data Scientist | 59 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 17 | U.S. Bank | Trust Reporting Analyst -  Collateralized Loan Obligation (multiple levels) | 57 | 82 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 18 | Manulife Financial | Data Analyst / Business Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 19 | Canadian Tire | Data Analyst | 55 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 20 | 7-Eleven | Enterprise Technology Portfolio Analyst | 55 | 14 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 21 | City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 22 | City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention | 54 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 23 | Wellington Management | Investment Treasury Portfolio Analyst | 54 | 32 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 24 | BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG) | 54 | 12 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 25 | The Federal Reserve System | Product Analyst, Banking Operations | 54 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 26 | Centrica | Business Intelligence & Reporting Analyst  | 52 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 27 | ARQ | Finance Analytics Engineer | FP&A | 52 | none found (check myvisajobs) | Nov 05 11:15 ET |
+| 28 | Toyota Research Institute | Research Scientist, Robotics Research | 52 | 2 in data/analytics/finance occupations | Nov 05 14:05 ET |
+| 29 | Arkansas Blue Cross | Data Analyst | 52 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 30 | Nasdaq | Financial Reporting Analyst - Capital Access Platforms | 50 | 18 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 31 | CVS Health | Coordinator, Financial Reporting Analysis | 50 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 32 | Oshkosh | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 33 | City of Philadelphia | Data Engineer-Integration Specialist | 50 | 6 in data/analytics/finance occupations | Nov 05 12:52 ET |
+| 34 | Texas A&M AgriLife Research | Research Assistant | 50 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 35 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 36 | DiDi Global | Machine Learning Engineer - Agentic AI | 50 | none found (check myvisajobs) | Nov 05 14:18 ET |
+| 37 | Texas A&M University - College Station | Research Scientist | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 38 | Texas A&M University System | Research Scientist | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 39 | Clera | Founding AI Engineer (Agents) | 50 | none found (check myvisajobs) | Nov 05 16:03 ET |
+| 40 | Citizens Financial Group | Third Party Risk Analyst | 50 | 54 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 41 | Repligen | Strategy Analyst/Associate | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 42 | Aegon Asset Management | Responsible Investment Analyst | 45 | none found (check myvisajobs) | Nov 04 (board gives the date only) |
+| 43 | Nationwide Children's Hospital | Research Assistant NE | 45 | 3 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 44 | City of New York | Data Engineer, Bureau of Data Technology & Strategy | 44 | none found (check myvisajobs) | Nov 05 06:35 ET |
+| 45 | CNO Financial Group | CLO Portfolio Analyst - ONSITE Carmel, IN | 44 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 46 | Amazon | Data Engineer I, Secure Third Party Tools (S3T) | 44 | 3890 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 47 | Accenture | Analista de Analytics - Híbrido | 43 | 1292 in data/analytics/finance occupations | Nov 04 (board gives the date only) |
+| 48 | Reddit | Machine Learning Engineer | 43 | 25 in data/analytics/finance occupations | Nov 05 11:13 ET |
+| 49 | Amazon | Applied Scientist , Fauna | 43 | 3890 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 50 | EXL | Snowflake Data Engineer | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 51 | City of New York | P/T RESEARCH ASSISTANT | 40 | none found (check myvisajobs) | Nov 05 06:29 ET |
+| 52 | Cerebras | AI Engineer | 40 | none found (check myvisajobs) | Nov 04 17:08 ET |
+| 53 | Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental | 40 | none found (check myvisajobs) | Nov 05 11:07 ET |
+| 54 | PennState University | Part Time Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 55 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
 
 ---
 
@@ -127,7 +132,21 @@ At HCSC, our employees are the cornerstone of our business and the foundation to
 
 ---
 
-## 6. [MAYBE] DXC Technology | Analista de Reporting (Power BI / Excel)
+## 6. [MAYBE] ONEOK | Energy Management Systems Analyst
+- Link: https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Tulsa-OK/Energy-Management-Systems-Analyst_R9120
+- Location: Tulsa, OK
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~68 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, excel, power bi, statistic, data quality, pipeline, portfolio, reporting, research | Lacks: -  | Note: broad title
+
+### Job description
+
+#WeAreONEOK – Fortune 500 company. 100+ years in business. Leading midstream service provider. Safety first. Sustainable operations. Environmentally responsible. Employee focused. JOB SUMMARY Job Profile Summary Supports Energy Management by analyzing business needs and improving systems, data, processes, and reporting while providing analytical and project support. Essential Functions and Responsibilities Serve as a super-user and business owner for Energy Management systems (utility billing platform, project tracking, and reporting tools), including vendor relationships. Integrate systems, automate workflows, and maintain reliable data flows between billing, project, and contract sources. Develop and maintain dashboards and reports, such as Power BI, that track on-time payment, project status, and contract portfolio health. Monitor and improve data quality, including account setup, bill labeling, and data-pipeline issues, and document processes and controls. Compile, analyze, and report utility cost, usage, and project status data to support Energy Management decision-making. Manage small utility projects, working with internal stakeholders and utilities to align energy supply with project scope, schedule, and cost. Education Bachelor's degree in Engineering, Energy Management, Information Systems, Data Analytics, Finance, Business Administration, or other related field with specific job-related experience as follows. Work Experience 1-2 years of experience in one or more of the following areas: Business systems support and administration. Data workflow management and reporting. Contract review and economic analysis. Preparation and presentation of business recommendations. Energy, utility, or pipeline operations (preferred). Knowledge, Skills and Abilities Knowledge of: Microsoft Excel, Power BI, Power Query, Power Automate, Office Scripts, SharePoint, and Teams. Knowledge of: relational database design including table structures, indexes, and primary/foreign key fields Ability to: manage small projects, including scope, schedule, and stakeholder coordination. Knowledge of: data modeling, data transformation, and reporting tools Ability to: research, compose, reconcile, and prepare reports, studies, recommendations and correspondence applicable to position Ability to: manage multiple priorities and work independently. Ability to: apply math, algebra, and statistical and volumetric and financial methods Ability to: read and interpret company correspondence, reports, cost analyses, contracts, technical documents, system documentation, and legal documents. Ability to: communicate effectively, in writing and verbally, with technical and non-technical stakeholders. Ability to: develop and present information to individuals and groups. Licenses and Certifications None required Strength Factor Rating - Physical Demands/Requirements Sedentary Work - Exerting up to 10 pounds of force occasionally (Occasionally: activity or condition exists up to 1/3 of the time) and/or a negligible amount of force frequently (Frequently: activity or condition exists from 1/3 to 2/3 of the time) to lift, carry, push, pull, or otherwise move objects, including the human body. Sedentary work involves sitting most of the time, but may involve walking or standing for brief periods of time. Jobs are sedentary if walking and standing are required only occasionally and all other sedentary criteria are met. Strength Factor Description - Physical Demands/Requirements Standing: Remaining on one's feet in an upright position at a work station without moving about (Occasionally) Walking: Moving about on foot (Frequently) Sitting: Remaining in a seated position (Constantly) Lifting: Raising or lowering an object from one level to another (includes upward pulling) (Occasionally) Carrying: Transporting an object, usually holding it in the hands or arms, or on the shoulder (Occasionally) Pushing: Exerting force upon an object so that the object moves away from the force (Occasionally) Pulling: Exerting force upon an object so that the object moves toward the force (includes jerking) (Occasionally) Climbing: Ladders, Stairs (Occasionally) Balancing: Maintaining body equilibrium to prevent falling (Occasionally) Stooping: Bending the body downward and forward by bending the spine at the waist (Occasionally) Kneeling: Bending the legs at the knees to come to rest on the knee or knees (Occasionally) Crouching: Bending the body downward and forward by bending the legs and spine (Occasionally) Crawling: Moving about on the hands and arms in any direction (Occasionally) Reaching: Extending hands and arms in any direction (Constantly) Handling: Seizing, holding, grasping, turning or otherwise working with the hand or hands (Manual Dexterity) (Constantly) Fingering: Picking, pinching or otherwise working with the fingers primarily (Finger Dexterity) (Constantly) Feeling: Perceiving such attributes of objects/materials as size, shape, temperature, texture, movement or pulsation by receptors in the skin, particularly those of the finger tips (Constantly) Talking: Expressing or exchanging ideas/information by means of the spoken word (Frequently) Hearing: Perceiving the nature of sound by the ear (Frequently) Tasting/Smelling: (Occasionally) Near Vision: Clarity of vision at 20 inches or less (Constantly) Far Vision: Clarity of vision at 20 feet for more (Frequently) Depth Perception: Three-dimensional vision; ability to judge distances and spatial relationships so as to see objects where and as they actually are (Frequently) Vision: Color - The ability to identify and distinguish colors (Constantly) Working Conditions/Environment Employee is subject to inside environmental conditions Working Conditions Well lighted, climate controlled areas (Constantly) Frequent repetitive motion (Constantly) CRT (Computer Monitor(s)) (Constantly) Travel Travel in and around office facilities system wide required Driving Based on assigned tasks, employee may be assigned a company vehicle requiring the applicable driver's license ONEOK
+
+---
+
+## 7. [MAYBE] DXC Technology | Analista de Reporting (Power BI / Excel)
 - Link: https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESP---MD---LAS-ROZAS/Analista-de-Reporting--Power-BI---Excel-_51586705
 - Location: ESP - MD - LAS ROZAS
 - Posted: Nov 04 (board gives the date only)
@@ -141,7 +160,7 @@ Job Description: DXC ayuda a empresas globales a ejecutar sus sistemas y operaci
 
 ---
 
-## 7. [MAYBE] ALFA LAVAL | Business Improvement Analyst
+## 8. [MAYBE] ALFA LAVAL | Business Improvement Analyst
 - Link: https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Scarborough-ON/Business-Improvement-Analyst_JR0049438-1
 - Location: 2 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -155,7 +174,7 @@ At Alfa Laval, we always go that extra mile to overcome the toughest challenges.
 
 ---
 
-## 8. [MAYBE] Axle | Data Scientist, Medical Imaging
+## 9. [MAYBE] Axle | Data Scientist, Medical Imaging
 - Link: https://job-boards.greenhouse.io/axle/jobs/5286265007
 - Location: Remote
 - Posted: Nov 05 12:41 ET
@@ -169,7 +188,7 @@ At Alfa Laval, we always go that extra mile to overcome the toughest challenges.
 
 ---
 
-## 9. [MAYBE] Adventist Health | Ambulatory Reimbursement Analyst
+## 10. [MAYBE] Adventist Health | Ambulatory Reimbursement Analyst
 - Link: https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73267
 - Location: Roseville, CA, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -183,7 +202,7 @@ Located in the metropolitan area of Sacramento, the Adventist Health corporate h
 
 ---
 
-## 10. [MAYBE] Dimensional Fund Advisors | Analyst, Portfolio Management (Equities)
+## 11. [MAYBE] Dimensional Fund Advisors | Analyst, Portfolio Management (Equities)
 - Link: https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Analyst--Portfolio-Management--Equities-_2026-9050
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -197,7 +216,7 @@ Job Description: Portfolio Management is responsible for the daily oversight and
 
 ---
 
-## 11. [MAYBE] Novanta | Demand Analyst [C]
+## 12. [MAYBE] Novanta | Demand Analyst [C]
 - Link: https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/North-Syracuse-NY/Demand-Analyst--C-_R009898
 - Location: North Syracuse, NY
 - Posted: Nov 05 (board gives the date only)
@@ -211,7 +230,21 @@ Build a career powered by innovations that matter! At Novanta, our innovations p
 
 ---
 
-## 12. [MAYBE] UTHealth Houston | Clinical Reporting Analyst - Intermediate
+## 13. [MAYBE] TransUnion | Consulting Analyst - Argus Advisory
+- Link: https://transunion.wd5.myworkdayjobs.com/TransUnion/job/White-Plains-New-York/Consulting-Analyst---Argus-Advisory_19042954
+- Location: White Plains, New York
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~65 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 66 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, excel, sql, statistic, fraud, quantitative, risk | Lacks: -  | Note: broad title
+
+### Job description
+
+TransUnion's Job Applicant Privacy Notice Personal Information We Collect Your Privacy Choices Team Overview Argus Advisory is a TransUnion Company and the leading provider of analytics, information and solutions to financial services providers to help them grow their businesses. We help clients maximize the value of data and analytics to allocate and align resources to strategic objectives, manage and mitigate risk (default, fraud, funding and compliance), and optimize financial objectives. You will act as a key Consulting Analyst of the Argus team and will partner and collaborate with other associates to support relationships with key clients. This role reports into the Senior Manager.&#xa;&#xa;This is a hybrid position and involves regular performance of job responsibilities virtually as well as in-person at an assigned TU office location for a minimum of two days a week. Role Overview and Core Responsibilities Supports creating a project scope and analytic approach in response to requests from stakeholders. Ability to manage day-to-day communications and status update meetings to align on work objectives. Ability to independently manage own workflow for analytic projects. Provides oversight and technical support to other team members. Validates that data is accurate and deliverables are client ready both for work produced by the individual and by other team members. Required Knowledge and Experiences 2 years of experience in retail banking, payments industry, data analytics, financial services, or consulting. Bachelor’s degree in Economics, Behavioral Economics, Finance, Statistics, Mathematics, Social Sciences, Computer Science, or a related field required; equivalent combination of education and relevant work experience will also be considered. The role requires strong analytical and quantitative skills to support advanced data analysis and problem-solving. Proficiency in Microsoft Excel, SQL, and PowerPoint. Ability to perform data analytics to draw insights out of data and develop a storyline for client presentations. Strong verbal and written communication skills to directly interface with internal stakeholders on a daily/weekly basis. Benefits that support every part of your life: At TransUnion, we design benefits to help you feel well, do well, and plan well—from day one. For Your Health : Enjoy day-one eligibility for medical, dental, and vision coverage, plus supplemental plan options. Spousal, domestic partner, and other eligible dependent coverage is available on select plans. Choose tax‑advantaged HSA and FSA accounts to make everyday care more affordable. For Your Protection : We’ve got your back with company‑paid basic life and AD&D, optional voluntary life and AD&D for you and your family, and short‑ and long‑term disability. You can also opt into a legal plan, pet insurance, and travel accident coverage. For Your Family : From adoption assistance and fertility planning coverage to caregiver support, we’re here for every chapter. Access Dependent Care FSA for possibility of an employer match, a complimentary Care@Work membership, and up to 12 weeks of paid parental leave with eligibility for a thoughtful, gradual return. For Your Future : Build toward what’s next with our 401(k) with employer match and Employee Stock Purchase Plan (ESPP). Tap financial wellness resources, career coaching, and optional long‑term care insurance to plan confidently. For You : Grow and recharge with tuition reimbursement, flexible time off for exempt employees or paid time off for nonexempt employees, up to 12 paid holidays per year, commuter benefits, employee discounts, charitable gift matching, and paid volunteer time off, plus corporate volunteer events that make it easy to give back. For Your Wellness : Access 24/7 support including professional therapy, coaching, and emotional well‑being programs alongside guided meditation and resources that support physical, mental, social, and financial wellness. We are committed to being a place where diversity is not only present, it is embraced. As an
+
+---
+
+## 14. [MAYBE] UTHealth Houston | Clinical Reporting Analyst - Intermediate
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8405
 - Location: San Antonio, TX, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -225,7 +258,7 @@ Under supervision, the Clinical Reporting Analyst-Associate will collaborate wit
 
 ---
 
-## 13. [MAYBE] University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law
+## 15. [MAYBE] University of Texas - Austin | Professional Development Program Coordinator, Center for Women in Law
 - Link: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Professional-Development-Program-Coordinator--Center-for-Women-in-Law_R_00049852
 - Location: UT MAIN CAMPUS
 - Posted: Nov 04 (board gives the date only)
@@ -239,7 +272,7 @@ Job Posting Title: Professional Development Program Coordinator, Center for Wome
 
 ---
 
-## 14. [MAYBE] Desjardins Group | Credit Risk Strategy Data Scientist
+## 16. [MAYBE] Desjardins Group | Credit Risk Strategy Data Scientist
 - Link: https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Scientifique-de-donnes--Stratgies-risque-de-crdit_R2613542-1
 - Location: Montréal
 - Posted: Nov 05 (board gives the date only)
@@ -253,7 +286,21 @@ The Credit Risk Strategy Department develops and implements credit risk decision
 
 ---
 
-## 15. [MAYBE] Manulife Financial | Data Analyst / Business Analyst
+## 17. [MAYBE] U.S. Bank | Trust Reporting Analyst -  Collateralized Loan Obligation (multiple levels)
+- Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/CLO-Trust-Reporting-Analyst_2026-0021708
+- Location: Chicago, IL
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 82 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, healthcare, portfolio, reporting, trading | Lacks: -
+
+### Job description
+
+At U.S. Bank, we’re on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and discover what you excel at—all from Day One. Job Description This role has multiple levels , open to candidates with 2+ years of experience. The successful candidate will be hired for the level of the position that aligns with their experience. Please note that the salary range provided corresponds to the lowest level of the position posted. U.S. Bank Global Corporate Trust Services is one of the largest providers of corporate trust services in the world. Our clients look to us for trustee, agency, escrow, document custody and money market issuing services via our 48 domestic offices and three international offices. The Collateralized Loan Obligation (CLO) and Global Structured Finance (GSF) groups are divisions within U.S. Bank Global Corporate Trust Services and provide services on structured finance vehicles that issue both debt and equity liabilities, the proceeds of which are used to buy a portfolio of collateral such as syndicated bank loans, corporate bonds, ABS, MBS, CMBS and Mezzanine debt. These services include Trust Reporting, which requires review of the deal documents, set up of cashflow priorities, collection of periodic asset activity data, reporting to bondholders, and when required, trust tax reporting. Essential functions of the CLO Trust Reporting Analyst (levels 2 and 3) include: Read and interpret trust indentures with regard to reporting requirements. Create technical report specifications from indenture language. Set up payment calculations in a variety of in-house systems. Receive, map and reconcile periodic collateral data. As required, make tax elections, file for EIN’s, and track residual holder transfers. Additionally, the CLO Trust Reporting Analyst (levels 2 and 3) will perform portfolio compliance tests on a selection of structured fixed income deals (trade testing). Compile monthly, quarterly and annual payment and/or tax reports. Coordinates with operations teams to ensure correct payments are received and made. Perform quality control review of reports, meeting timeliness and accuracy standards. Frequent interaction with asset managers, investors, auditors and rating agencies. Basic Qualifications Bachelor’s degree in business, finance, economics, accounting or related field, or equivalent work experience Two to three years of relevant work experience Preferred Skills/Experience Basic understanding of syndicated bank loans, fixed income securities, securitization, trading or mutual funds Ability to identify and resolve exceptions and to interpret data Effective interpersonal, verbal and written communication skills Ability to perform multiple tasks and meet established deadlines in a dynamic working environment with minimal supervision Proficient computer navigation skills using a variety of software packages including Microsoft Office applications This position is not eligible for visa sponsorship. This role requires working from a U.S. Bank location three (3) or more days per week. If there’s anything we can do to accommodate a disability during any portion of the application or hiring process, please refer to our disability accommodations for applicants . Benefits: Our approach to benefits and total rewards considers our team members’ whole selves and what may be needed to thrive in and outside work. That's why our benefits are designed to help you and your family boost your health, protect your financial security and give you peace of mind. Our benefits include the following: Healthcare (medical, dental, vision) Basic term and optional term life insurance Short-term and long-term disability Pregnancy disability and parental leave 401(k) and employer-funded retirement plan Paid vacation (from two to five weeks depending on salary grade and tenure) Up to 11 paid holiday opportunities Adoption assistance Sick and Safe Leave accruals of one hour for every 30 worked, up to 80 hours per calendar year unless otherwise provided by law Review our full benefits available by employment status here . U.S. Bank
+
+---
+
+## 18. [MAYBE] Manulife Financial | Data Analyst / Business Analyst
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Data-Analyst---Business-Analyst_JR26101524
 - Location: Quezon City
 - Posted: Nov 04 (board gives the date only)
@@ -267,7 +314,7 @@ Overview: We are seeking a business-facing technical Data Analyst to translate G
 
 ---
 
-## 16. [MAYBE] Canadian Tire | Data Analyst
+## 19. [MAYBE] Canadian Tire | Data Analyst
 - Link: https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Laval-QC/Data-Analyst_JR166738
 - Location: Laval, QC
 - Posted: Nov 04 (board gives the date only)
@@ -281,7 +328,7 @@ Joining the Canadian Tire team in the FGL Sports division, you will be working a
 
 ---
 
-## 17. [MAYBE] 7-Eleven | Enterprise Technology Portfolio Analyst
+## 20. [MAYBE] 7-Eleven | Enterprise Technology Portfolio Analyst
 - Link: https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Enterprise-Technology-Portfolio-Analyst_R26_6353
 - Location: see posting
 - Posted: Nov 05 (board gives the date only)
@@ -295,7 +342,7 @@ Joining the Canadian Tire team in the FGL Sports division, you will be working a
 
 ---
 
-## 18. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
+## 21. [MAYBE] City of New York | Bureau Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644686
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -309,7 +356,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 19. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
+## 22. [MAYBE] City of New York | FSU Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644676
 - Location: New York City NY us
 - Posted: Nov 05 06:35 ET
@@ -323,7 +370,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 20. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
+## 23. [MAYBE] Wellington Management | Investment Treasury Portfolio Analyst
 - Link: https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Investment-Treasury-Portfolio-Analyst_R95096-1
 - Location: Boston, MA, United States
 - Posted: Nov 04 (board gives the date only)
@@ -337,7 +384,7 @@ About Us Wellington Management offers comprehensive investment management capabi
 
 ---
 
-## 21. [MAYBE] BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG)
+## 24. [MAYBE] BlackRock | Analytics Specialist, Associate, Portfolio Analytics Group (PAG)
 - Link: https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Analytics-Specialist--Associate--Portfolio-Analytics-Group--PAG-_R266280
 - Location: New York, NY
 - Posted: Nov 05 (board gives the date only)
@@ -351,7 +398,7 @@ About this role About the Portfolio Analytics Group (PAG): Join the Portfolio An
 
 ---
 
-## 22. [MAYBE] The Federal Reserve System | Product Analyst, Banking Operations
+## 25. [MAYBE] The Federal Reserve System | Product Analyst, Banking Operations
 - Link: https://rb.wd5.myworkdayjobs.com/FRS/job/New-York-NY/Product-Analyst--Banking-Operations_R-0000033993
 - Location: 2 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -365,7 +412,7 @@ Company Federal Reserve Bank of New York When you work at the New York Fed, you 
 
 ---
 
-## 23. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
+## 26. [MAYBE] Centrica | Business Intelligence & Reporting Analyst 
 - Link: https://centrica.wd3.myworkdayjobs.com/Centrica/job/Leicester/Business-Intelligence---Reporting-Analyst-_R0090515-1
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -379,7 +426,7 @@ Join us, be part of more. We’re so much more than an energy company. We’re a
 
 ---
 
-## 24. [MAYBE] ARQ | Finance Analytics Engineer | FP&A
+## 27. [MAYBE] ARQ | Finance Analytics Engineer | FP&A
 - Link: https://jobs.ashbyhq.com/arq/a913e0d4-919b-4008-b7c4-9f964c496547
 - Location: London United Kingdom remote
 - Posted: Nov 05 11:15 ET
@@ -477,7 +524,7 @@ BENEFITS
 
 ---
 
-## 25. [MAYBE] Toyota Research Institute | Research Scientist, Robotics Research
+## 28. [MAYBE] Toyota Research Institute | Research Scientist, Robotics Research
 - Link: https://jobs.lever.co/tri/6afc7585-a464-4c41-93a2-96d15962f325
 - Location: Cambridge, MA Cambridge, MA US
 - Posted: Nov 05 14:05 ET
@@ -511,7 +558,7 @@ It is unlawful in Massachusetts to require or administer a lie detector test as 
 
 ---
 
-## 26. [MAYBE] Arkansas Blue Cross | Data Analyst
+## 29. [MAYBE] Arkansas Blue Cross | Data Analyst
 - Link: https://arkbluecross.wd1.myworkdayjobs.com/abcbs_external_careers/job/Little-Rock-AR/Data-Analyst_R0013656
 - Location: Little Rock, AR
 - Posted: Nov 05 (board gives the date only)
@@ -525,7 +572,7 @@ To learn more about Arkansas Blue Cross and Blue Shield Hiring Policies, please 
 
 ---
 
-## 27. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
+## 30. [MAYBE] Nasdaq | Financial Reporting Analyst - Capital Access Platforms
 - Link: https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Financial-Reporting-Analyst---Capital-Access-Platforms_R0027263
 - Location: USA - New York City - New York
 - Posted: Nov 04 (board gives the date only)
@@ -539,7 +586,7 @@ Nasdaq is seeking a highly motivated Financial Reporting Analyst to join the Div
 
 ---
 
-## 28. [MAYBE] CVS Health | Coordinator, Financial Reporting Analysis
+## 31. [MAYBE] CVS Health | Coordinator, Financial Reporting Analysis
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Work-from-hom/Coordinator--Financial-Reporting-Analysis_R1080792
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -553,7 +600,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 29. [MAYBE] Oshkosh | Data Engineer
+## 32. [MAYBE] Oshkosh | Data Engineer
 - Link: https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Data-Engineer_R51538-1
 - Location: 2 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -567,7 +614,7 @@ About JLG, an Oshkosh company JLG began in 1969, when our founder, John L. Grove
 
 ---
 
-## 30. [MAYBE] City of Philadelphia | Data Engineer-Integration Specialist
+## 33. [MAYBE] City of Philadelphia | Data Engineer-Integration Specialist
 - Link: https://jobs.smartrecruiters.com/CityofPhiladelphia/744000159941284
 - Location: Philadelphia PA us
 - Posted: Nov 05 12:52 ET
@@ -581,7 +628,7 @@ Data Engineering at the City is a unique opportunity for meaningful, exciting wo
 
 ---
 
-## 31. [MAYBE] Texas A&M AgriLife Research | Research Assistant
+## 34. [MAYBE] Texas A&M AgriLife Research | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Research-Assistant_R-094686-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -595,7 +642,7 @@ Job Title Research Assistant Agency Texas A&M Agrilife Research Department Range
 
 ---
 
-## 32. [MAYBE] Texas A&M University System | Research Assistant
+## 35. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-094686
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -609,7 +656,7 @@ Job Title Research Assistant Agency Texas A&M Agrilife Research Department Range
 
 ---
 
-## 33. [MAYBE] DiDi Global | Machine Learning Engineer - Agentic AI
+## 36. [MAYBE] DiDi Global | Machine Learning Engineer - Agentic AI
 - Link: https://job-boards.greenhouse.io/didi/jobs/8356571
 - Location: San Jose, CA
 - Posted: Nov 05 14:18 ET
@@ -623,7 +670,7 @@ About The Company DiDi's autonomous driving unit was established in 2016 with th
 
 ---
 
-## 34. [MAYBE] Texas A&M University - College Station | Research Scientist
+## 37. [MAYBE] Texas A&M University - College Station | Research Scientist
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/Bryan-TX/Research-Scientist_R-098547-1
 - Location: Bryan, TX
 - Posted: Nov 05 (board gives the date only)
@@ -637,7 +684,7 @@ Job Title Research Scientist Agency Texas A&M University Health Science Center D
 
 ---
 
-## 35. [MAYBE] Texas A&M University System | Research Scientist
+## 38. [MAYBE] Texas A&M University System | Research Scientist
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Bryan-TX/Research-Scientist_R-098547
 - Location: Bryan, TX
 - Posted: Nov 05 (board gives the date only)
@@ -651,7 +698,7 @@ Job Title Research Scientist Agency Texas A&M University Health Science Center D
 
 ---
 
-## 36. [MAYBE] Clera | Founding AI Engineer (Agents)
+## 39. [MAYBE] Clera | Founding AI Engineer (Agents)
 - Link: https://jobs.ashbyhq.com/clera/dea4ca52-6c65-4ade-88a6-f4ed2d984b96
 - Location: remote
 - Posted: Nov 05 16:03 ET
@@ -704,7 +751,7 @@ Co-founder-level equity is offered. Salary and visa sponsorship details were not
 
 ---
 
-## 37. [MAYBE] Citizens Financial Group | Third Party Risk Analyst
+## 40. [MAYBE] Citizens Financial Group | Third Party Risk Analyst
 - Link: https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49990
 - Location: Johnston, RI, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -718,7 +765,7 @@ As the Third Party Risk Analyst , you will manage vendor issues and execute Thir
 
 ---
 
-## 38. [MAYBE] Repligen | Strategy Analyst/Associate
+## 41. [MAYBE] Repligen | Strategy Analyst/Associate
 - Link: https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Waltham-MA/Strategy-Analyst-Associate_R-610
 - Location: 2 Locations
 - Posted: Nov 04 (board gives the date only)
@@ -732,7 +779,7 @@ Repligen is a global pure-play bioprocessing company with highly differentiated 
 
 ---
 
-## 39. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
+## 42. [MAYBE] Aegon Asset Management | Responsible Investment Analyst
 - Link: https://transamerica.wd5.myworkdayjobs.com/AEGONAM/job/NLD-Schiphol/Responsible-Investment-Analyst_R20063237-1
 - Location: NLD Schiphol
 - Posted: Nov 04 (board gives the date only)
@@ -746,7 +793,7 @@ Job Description Summary Job Description Responsible Investment team and role ove
 
 ---
 
-## 40. [MAYBE] Nationwide Children's Hospital | Research Assistant NE
+## 43. [MAYBE] Nationwide Children's Hospital | Research Assistant NE
 - Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Assistant-NE_R-28435-1
 - Location: Main Campus, Columbus, OH
 - Posted: Nov 05 (board gives the date only)
@@ -760,7 +807,7 @@ Overview: Job Description Summary: Performs research experiments in accordance w
 
 ---
 
-## 41. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
+## 44. [MAYBE] City of New York | Data Engineer, Bureau of Data Technology & Strategy
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644656
 - Location: Long Island City NY us
 - Posted: Nov 05 06:35 ET
@@ -774,7 +821,35 @@ The Center for Population Health Data Science (CPHDS)- launched in October of 20
 
 ---
 
-## 42. [MAYBE] Accenture | Analista de Analytics - Híbrido
+## 45. [MAYBE] CNO Financial Group | CLO Portfolio Analyst - ONSITE Carmel, IN
+- Link: https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/CLO-Portfolio-Analyst---ONSITE-Carmel--IN_JR170522
+- Location: Carmel, IN
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~44 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, python, credit, portfolio, risk | Lacks: cfa
+
+### Job description
+
+Job Details CNO Financial Group, Inc. (NYSE: CNO) is a leading insurance and financial services company focused on securing the future of middle‑income America. Through brands such as Bankers Life, Colonial Penn, and Washington National, CNO delivers life and health insurance, annuities, financial services, and workforce benefits to more than 3.3 million policyholders, supported by $38.3 billion in total assets. With a strong financial foundation, national presence, and a culture rooted in integrity, excellence, and people‑first values, CNO offers meaningful opportunities for professional growth and impact across its U.S. locations, including its headquarters in Carmel, Indiana. This position is not eligible for visa sponsorship. CNO Financial Group’s 40|86 Advisors is hiring a CLO Portfolio Analyst. The group currently manages about $1.25B in leveraged loans within collateralized loan obligation (CLO) structures and $350M in CLO debt securities. The individual will be primarily responsible for ensuring that our portfolios adhere to investor requirements as is expected to learn about fundamental credit analysis, portfolio and risk management, and structured credit to contribute to the investment process. Core responsibilities and deliverables: Ensuring monthly and quarterly reports are accurate and distributed to investors. Monitoring compliance with indenture requirements and identifying tests at risk of failure. Developing and maintaining various risk and analytical models that assist in identifying market dislocations and opportunities. Working with the AVP and VP of Leveraged Loans on portfolio optimization strategies. Working with the traders and trustees in determining our daily investable cash. What you need (Minimum requirements): Bachelor’s degree in Finance, Economics, Computer Science, or analytical Liberal Arts major 0-1 years of experience, inclusive of internship experience. Recent grads are welcome to apply! Proficiency in Excel, VBA and Python is required. A strong passion for financial markets and willingness to learn, ask questions, and accept guidance and feedback. Strong written and oral communication skills. What will set you apart (preferred experience): Portfolio of VBA or Python projects for review Interest in pursuing CFA designation in the future CNO Financial Group offers the following benefits for this position, subject to applicable eligibility requirements: Medical, Dental, and Vision insurance Performance-based bonus or sales incentive 401(k) retirement plan with company match Short-term & long-term disability insurance Paid time off and 10 corporate holidays Paid parental leave Company-paid life insurance Mental & Financial Well-Being resources Click on this link for additional information. CNO Financial Group offers the following benefits for this position, subject to applicable eligibility requirements: Medical, Dental, and Vision insurance Performance-based bonus or sales incentive 401(k) retirement plan with company match Short-term & long-term disability insurance Paid time off and 10 corporate holidays Paid parental leave Company-paid life insurance Mental & Financial Well-Being resources Click on this link for additional information. This role is affiliated to the Carmel, IN corporate office, and candidates for this role need to reside within a 60-mile radius of that corporate office and will be required to come into that office. You may be asked to travel to other corporate offices periodically. Please be aware that work cannot be performed from outside of the United States. The stated pay range is based on a national-average location. Actual salary is determined by factors including relevant work experience, skills and location. This position is also eligible for CNO’s performance-based annual bonus program. Compensation Pay Range: $81,000.00 - $121,600.00 Annual
+
+---
+
+## 46. [MAYBE] Amazon | Data Engineer I, Secure Third Party Tools (S3T)
+- Link: https://www.amazon.jobs/en/jobs/10598162/data-engineer-i-secure-third-party-tools-s3t
+- Location: Austin, Texas, USA
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~44 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 3890 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, etl, machine learning, python, spark, sql, healthcare, pipeline | Lacks: hadoop, informatica, scala, ssis
+
+### Job description
+
+Security Foundations builds solutions that keep Amazon systems and data secure on behalf of our customers. We leverage technologies to solve security challenges at Amazon scale, applying automation and machine learning to reduce manual effort and continuously raise the security bar. Our mission is bold: stay ahead of the curve on security while delighting our customers with world-class products. Within Security Foundations, Secure 3P Tools (S3T) is a centralized Amazon Security team dedicated to ensuring consistent data security and service availability across all third-party interactions. Our customers include end consumers, Amazon businesses leveraging third-party, and internal compliance teams who rely on our services. Do you love working with data? Are you excited about handling a lot of data? Do you want to make new tools that make it easy to get information from data? Are you keen on solving problems that no other company has solved? In this role, You will work with SDEs/other DEs and Applied scientists to invent, design and build data solutions that will have significant impact across vendors doing business with Amazon, and all Amazonian building software solutions Your job responsibilities will include - - Design, implement, and support a platform providing secured access to large datasets. - Architect , develop and maintain end to end scalable data infrastructure and data pipelines - Develop the teams' data strategy and technical road map of data storage & pipelines design and implementation - Interface with other technology teams to extract, transform, and load data from a wide variety of data sources using SQL, scripting and AWS big data technologies. - Designing and implementing complex ETL pipelines and other BI solutions. - Work closely with business owners, developers, Business Intelligence Engineers to explore new data sources and deliver the data. - Empower the team for self-servicing by providing the necessary skills to handle complex tasks independently. Ensure that the team can efficiently manage and troubleshoot data-related issues, leading to increased autonomy and productivity. along with fostering a culture of self-reliance. Key job responsibilities - Design, implement, and support a platform providing secured access to large datasets. - Architect , develop and maintain end to end scalable data infrastructure and data pipelines - Develop the teams' data strategy and technical road map of data storage & pipelines design and implementation - Interface with other technology teams to extract, transform, and load data from a wide variety of data sources using SQL, scripting and AWS big data technologies. - Designing and implementing complex ETL pipelines and other BI solutions. - Work closely with business owners, developers, Business Intelligence Engineers to explore new data sources and deliver the data. - Empower the team for self-servicing by providing the necessary skills to handle complex tasks independently. Ensure that the team can efficiently manage and troubleshoot data-related issues, leading to increased autonomy and productivity. along with fostering a culture of self-reliance. About the team Diverse Experiences Amazon Security values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying. Why Amazon Security? At Amazon, security is central to maintaining customer trust and delivering delightful customer experiences. Our organization is responsible for creating and maintaining a high bar for security across all of Amazon’s products and services. We offer talented security professionals the chance to accelerate their careers with opportunities to build experience in a wide variety of areas including cloud, devices, retail, entertainment, healthcare, operations, and physical stores. Inclusive Team Culture In Amazon Security, it’s in our nature to learn and be curious. Ongoing DEI events and learning experiences inspire us to continue learning and to embrace our uniqueness. Addressing the toughest security challenges requires that we seek out and celebrate a diversity of ideas, perspectives, and voices. Training & Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, training, and other career-advancing resources here to help you develop into a better-rounded professional. Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve. - 1+ years of data engineering experience - Experience with data modeling, warehousing and building ETL pipelines - Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala) - Experience with one or more scripting language (e.g., Python, KornShell) - Experience with big data technologies such as: Hadoop, Hive, Spark, EMR - Experience with any ETL tool like, Informatica, ODI, SSIS, BODI, Datastage, etc. Amazon
+
+---
+
+## 47. [MAYBE] Accenture | Analista de Analytics - Híbrido
 - Link: https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Analista-Pleno-de-Engenharia-de-Dados_R00351665
 - Location: see posting
 - Posted: Nov 04 (board gives the date only)
@@ -788,7 +863,7 @@ Sobre a Accenture A Accenture ajuda as principais empresas do mundo a se reinven
 
 ---
 
-## 43. [MAYBE] Reddit | Machine Learning Engineer
+## 48. [MAYBE] Reddit | Machine Learning Engineer
 - Link: https://job-boards.greenhouse.io/reddit/jobs/8349916
 - Location: San Francisco, CA
 - Posted: Nov 05 11:13 ET
@@ -802,7 +877,7 @@ Reddit is a community of communities. It’s built on shared interests, passion,
 
 ---
 
-## 44. [MAYBE] Amazon | Applied Scientist , Fauna
+## 49. [MAYBE] Amazon | Applied Scientist , Fauna
 - Link: https://www.amazon.jobs/en/jobs/10598028/applied-scientist-fauna
 - Location: New York, New York, USA
 - Posted: Nov 05 (board gives the date only)
@@ -816,7 +891,7 @@ We are seeking an Applied Scientist to develop and optimize Visual Inertial Odom
 
 ---
 
-## 45. [MAYBE] EXL | Snowflake Data Engineer
+## 50. [MAYBE] EXL | Snowflake Data Engineer
 - Link: https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21585
 - Location: New York, United States US
 - Posted: Nov 05 (board gives the date only)
@@ -830,7 +905,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 46. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
+## 51. [MAYBE] City of New York | P/T RESEARCH ASSISTANT
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016644496
 - Location: New York City NY us
 - Posted: Nov 05 06:29 ET
@@ -844,7 +919,7 @@ Data Engineer – Modern Data Platform Role Overview We are looking for an exper
 
 ---
 
-## 47. [MAYBE] Cerebras | AI Engineer
+## 52. [MAYBE] Cerebras | AI Engineer
 - Link: https://jobs.ashbyhq.com/cerebras/c6f607ce-306c-4deb-8825-4175201a7cd4
 - Location: Sunnyvale, CA United States remote
 - Posted: Nov 04 17:08 ET
@@ -923,7 +998,7 @@ Cerebras Systems
 
 ---
 
-## 48. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
+## 53. [MAYBE] Eastern Research Group | Early-Career Research Scientist/Engineer- Aerosol & Environmental
 - Link: https://jobs.lever.co/erg/ffa7e5a8-5d49-4608-a3b0-9a5ff07a3f0a
 - Location: Morrisville, NC Morrisville, NC US
 - Posted: Nov 05 11:07 ET
@@ -940,7 +1015,7 @@ ERG
 
 ---
 
-## 49. [MAYBE] PennState University | Part Time Research Assistant
+## 54. [MAYBE] PennState University | Part Time Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000069624-1
 - Location: Penn State University Park
 - Posted: Nov 05 (board gives the date only)
@@ -954,7 +1029,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 50. [MAYBE] UTHealth Houston | Research Assistant
+## 55. [MAYBE] UTHealth Houston | Research Assistant
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8164
 - Location: San Antonio, TX, United States US
 - Posted: Nov 05 (board gives the date only)
