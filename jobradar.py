@@ -230,7 +230,7 @@ def smartrecruiters(c, cut):
 def workday(c, cut):
     tenant, wd = c["slug"].split(".")
     base, site = f"https://{tenant}.{wd}.myworkdayjobs.com", c["site"]
-    for off in range(0, 400, 20):  # empty search is sorted newest first: stop at the first older posting
+    for off in range(0, 400, 20):  # empty search is roughly newest first: read whole pages, stop when a page ends old
         d = get(f"{base}/wday/cxs/{tenant}/{site}/jobs", {"appliedFacets": {}, "limit": 20, "offset": off, "searchText": ""})
         posts = d.get("jobPostings", [])
         for j in posts:
@@ -239,12 +239,13 @@ def workday(c, cut):
                 age = 0
             elif "yesterday" in p:
                 age = 1
-            else:
-                return
+            else:  # some boards (hospitals, universities) pin old evergreen postings on top: skip them, don't stop
+                continue
             yield J(day_only=True, title=j.get("title", ""), location=j.get("locationsText", ""), url=f"{base}/{site}{j['externalPath']}",
                     posted=datetime.now(timezone.utc) - timedelta(hours=12 if age == 0 else 23),
                     detail=lambda p=j["externalPath"]: strip(get(f"{base}/wday/cxs/{tenant}/{site}{p}")["jobPostingInfo"].get("jobDescription")))
-        if len(posts) < 20:
+        last = (posts[-1].get("postedOn") or "").lower() if posts else ""
+        if len(posts) < 20 or not ("today" in last or "yesterday" in last):  # page ended in older postings: done
             return
 
 
