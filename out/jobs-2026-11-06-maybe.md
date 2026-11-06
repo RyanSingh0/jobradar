@@ -12,27 +12,32 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 6 | Lloyds Bank | Financial Crime Data & Automation Analyst | 62 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
 | 7 | S&P Global | OTC Derivatives Analyst | 62 | 5 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
 | 8 | Sherwin-Williams | R&D Analyst | 62 | 8 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 9 | ENOVIS | HR Specialist – HR Analytics & Operations | 57 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 10 | Turner & Townsend | Financial Operations and Data Analytics Specialist | 54 | 3 in data/analytics/finance occupations | Nov 06 11:09 ET |
-| 11 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 12 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
-| 13 | Texas A&M University - College Station | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 14 | Texas A&M University - College Station | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 15 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 16 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 17 | Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 18 | Procter & Gamble (P&G) | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 19 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
-| 20 | Entrust | Data Analyst | 47 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 21 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 22 | Höganäs | AI & Data Analytics Engineer | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 23 | AeroVect | Software Engineer, ML Ops | 44 | none found (check myvisajobs) | Nov 06 09:06 ET |
-| 24 | Scale AI | Applied AI Engineer | 44 | 16 in data/analytics/finance occupations | Nov 06 09:23 ET |
-| 25 | Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | 7 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 26 | RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 27 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 28 | PennState University | LER Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 29 | JM Family | Data Analyst I | 40 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 9 | CVS Health | Analyst, Omnichannel Analytics | 60 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 10 | ENOVIS | HR Specialist – HR Analytics & Operations | 57 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 11 | Turner & Townsend | Financial Operations and Data Analytics Specialist | 54 | 3 in data/analytics/finance occupations | Nov 06 11:09 ET |
+| 12 | Axos Bank | Construction Risk Analyst | 54 | 6 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 13 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 14 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
+| 15 | Texas A&M University - College Station | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 16 | Texas A&M University - College Station | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 17 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 18 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 19 | Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 20 | Procter & Gamble (P&G) | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 21 | CVS Health | Renewal and Reporting Analyst | 50 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 22 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
+| 23 | Entrust | Data Analyst | 47 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 24 | Thales | AI Engineer - Graduate | 47 | 2 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 25 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 26 | Höganäs | AI & Data Analytics Engineer | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 27 | AeroVect | Software Engineer, ML Ops | 44 | none found (check myvisajobs) | Nov 06 09:06 ET |
+| 28 | Scale AI | Applied AI Engineer | 44 | 16 in data/analytics/finance occupations | Nov 06 09:23 ET |
+| 29 | Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | 7 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 30 | RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 31 | Blockhouse | Quant Developer, Trading Systems (Rust and C++) | 44 | none found (check myvisajobs) | Nov 06 12:29 ET |
+| 32 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 33 | PennState University | LER Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 34 | JM Family | Data Analyst I | 40 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
 
 ---
 
@@ -234,7 +239,21 @@ Job duties include contact with other employees and access confidential and prop
 
 ---
 
-## 9. [MAYBE] ENOVIS | HR Specialist – HR Analytics & Operations
+## 9. [MAYBE] CVS Health | Analyst, Omnichannel Analytics
+- Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Analyst--Omnichannel-Analytics_R1036980-1
+- Location: 4 Locations
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~60 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: a/b test, aws, dashboard, data visualization, python, sql, statistic, git, kpi, quantitative, reporting | Lacks: scala, snowflake  | Note: no H-1B filings found for this employer
+
+### Job description
+
+We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time. Position Summary The Omnichannel Analytics team is responsible for providing visibility into digital performance to help shape and accelerate CVS Health's digital growth strategy. As an Analyst on this team, you will partner closely with leaders and cross-functional teams across Retail to deliver actionable insights that drive business decisions. This role combines technical analytics expertise with business storytelling, requiring you to transform complex data into meaningful recommendations. You will be responsible for developing partner-facing reports and dashboards, writing complex SQL queries, analyzing test results, and uncovering insights across various digital and order channels. This position is ideal for someone who enjoys both the technical and strategic sides of analytics and is passionate about using data to solve business challenges. Key Responsibilities Support the development and execution of the Omnichannel Data Strategy. Create and maintain partner-facing reports, dashboards, and visualizations to provide visibility into business performance. Write complex SQL queries and perform data cleansing to support reporting and analysis needs. Conduct ad hoc analyses and respond to data requests from business partners across the organization. Assist with short- and long-term projects, including test design, A/B testing, performance measurement, and results analysis. Support the enhancement and maintenance of the self-service reporting ecosystem. Partner with teams across Data Strategy, Data Engineering, Data Science, and other analytics functions to improve processes and reporting capabilities. Monitor and analyze daily, weekly, monthly, and annual digital performance metrics and key website KPIs. Communicate findings, trends, and recommendations to stakeholders through presentations and reporting. Explore new data sources and analytical approaches that deepen understanding of customer behavior and business performance. Ideal Candidate The ideal candidate is curious, data-driven, and comfortable working across both technical and business environments. They enjoy uncovering insights from data, building scalable reporting solutions, and translating analytical findings into recommendations that support strategic decision-making Required Qualifications 1+ years of hands-on experience in data analysis using tools such as SQL, Python, Snowflake, or similar technologies. 1+ years of experience in an analytics role, driving business insights and delivering measurable outcomes. 1+ years of experience developing data visualizations, dashboards, and reports. 1+ years of experience designing, executing, and analyzing A/B tests. Strong analytical, problem-solving, and critical thinking skills. Ability to communicate complex findings to both technical and non-technical audiences. Preferred Qualifications Experience collaborating across multiple business units and cross-functional teams. Experience with advanced analytics methodologies and statistical analysis techniques. Exposure to statistical modeling and predictive analytics. Experience working with cloud-based data warehouse platforms. Strong presentation and data storytelling skills with the ability to influence business decisions through analytics. Education Bachelor’s degree in quantitative field, or an equivalent combination of formal education and experience. Anticipated Weekly Hours 40 Time Type Full time Pay Range The typical pay range for this role is: $43,888.00 - $93,574.00 This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. Our people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong. Great benefits for great people We take pride in offering a comprehensive and competitive mix of pay and benefits that reflects our commitment to our colleagues and their families. This full‑time position is eligible for a comprehensive benefits package designed to support the physical, emotional, and financial well‑being of colleagues and their families. The benefits for this position include medical, dental, and vision coverage, paid time off, retirement savings options, wellness programs, and other resources, based on eligibility. Additional details about available benefits are provided during the application process and on Benefits Moments . We anticipate the application window for this opening will close on: 11/14/2026 Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.
+
+---
+
+## 10. [MAYBE] ENOVIS | HR Specialist – HR Analytics & Operations
 - Link: https://enovis.wd5.myworkdayjobs.com/enovis/job/Sfax-Sfax-Tunisia/HR-Specialist---HR-Analytics---Operations_R0034408-1
 - Location: Sfax, Sfax, Tunisia
 - Posted: Nov 05 (board gives the date only)
@@ -248,7 +267,7 @@ Job duties include contact with other employees and access confidential and prop
 
 ---
 
-## 10. [MAYBE] Turner & Townsend | Financial Operations and Data Analytics Specialist
+## 11. [MAYBE] Turner & Townsend | Financial Operations and Data Analytics Specialist
 - Link: https://jobs.smartrecruiters.com/TurnerTownsend/744000160245800
 - Location: New York New York us
 - Posted: Nov 06 11:09 ET
@@ -262,7 +281,21 @@ Turner & Townsend is seeking an analytical individual to join our NY Real Estate
 
 ---
 
-## 11. [MAYBE] Open Avenues Foundation | Data Engineer H/F
+## 12. [MAYBE] Axos Bank | Construction Risk Analyst
+- Link: https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Construction-Risk-Analyst_JR5113-1
+- Location: HQ - San Diego, CA
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 6 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, credit, git, portfolio, risk, trading | Lacks: -
+
+### Job description
+
+Axos Bank Target Range: $29.00/Hr. - $34.00/Hr. Actual starting pay will vary based on factors including, but not limited to, geographic location, experience, skills, specialty, and education. Eligible for an Annual Discretionary Cash Bonus Target: 5% Eligible for an Annual Discretionary Restricted Stock Units Bonus Target: 5% These discretionary target bonuses may be awarded semi-annually based upon your achievement of performance goals and targets. About This Job Partner with Credit and Portfolio Management teams to manage construction draw processes across a diverse portfolio of commercial lending relationships. The role evaluates draw requests, analyzes project documentation, and monitors construction progress to ensure compliance with loan agreements and risk guidelines. Leveraging sound credit judgment and a risk-based approach, this position supports prudent portfolio management while delivering a high level of service to internal and external stakeholders. Responsibilities: Conduct comprehensive Construction Draw Analysis, collection of Construction/Project related documents. Routine monitoring of commercial credits by way of covenant tracking, servicing borrower inquires, and facilitating the gathering of essential portfolio data is essential. Assist in the development and execution of monitoring policies and procedures to manage credit risk effectively and efficiently Understand the credit culture and risk tolerance as outlined by senior management and the Board, and proactively identify and mitigate potential threats against the safety and soundness of the loan portfolio. Draft decision recommendations based on project progress, budget adherence, and lien releases. Monitor construction progress reports, identifying potential delays or risks. Coordinate with borrowers, contractors, and internal stakeholders to resolve draw-related issues. Ensure adherence to bank policies, regulatory requirements, and funding conditions. Maintain accurate records and documentation of all draw requests and approvals. Review and understand basic aspects of construction and construction documents to apply towards your review an analysis of a construction draw package. Qualifications: Bachelor's degree in Finance, Accounting, Business Administration, Real Estate, Construction Management, or a related field. 1-2 years of experience in commercial credit, portfolio monitoring, underwriting, or structuring commercial lending transactions. Basic knowledge of commercial lending, credit risk management, and loan portfolio monitoring practices. Ability to analyze construction draw packages, including project budgets, lien releases, inspection reports, and supporting construction documentation. Strong analytical and critical thinking skills with the ability to make sound recommendations based on project and portfolio performance. Knowledge of covenant tracking, loan servicing activities, and commercial loan documentation. Axos Employee Benefits May Include: Medical, Dental, Vision, and Life Insurance Paid Sick Leave, 3 weeks’ Vacation, and Holidays (about 11 a year) HSA or FSA account and other voluntary benefits 401(k) Retirement Saving Plan with Employer Match Program and 529 Savings Plan Employee Mortgage Loan Program and free access to an Axos Bank Account with Self-Directed Trading About Axos Born digital-first, Axos delivers financial tools and services that allow individuals, small businesses, and companies to access and manage their money how, when, and where they want. We’re a diverse team of dynamic, insightful, and independent innovators who are excited to provide technology-driven solutions that offer unbeatable value to our customers. Axos Financial is our holding company and is publicly traded on the New York Stock Exchange under the symbol "AX" (NYSE: AX). Learn more about working at Axos Pre-Employment Background Check and Drug Test: All offers are contingent upon the candidate successfully passing a credit check, criminal background check, and pre-employment drug screening, which includes screening for marijuana. Axos Bank is a federally regulated banking institution. At the federal level, marijuana is an illegal schedule 1 drug; therefore, we will not employ any person who tests positive for marijuana, regardless of state legalization. Equal Employment Opportunity: Axos
+
+---
+
+## 13. [MAYBE] Open Avenues Foundation | Data Engineer H/F
 - Link: https://open.wd103.myworkdayjobs.com/OPEN/job/Nantes-Sud/Data-Engineer-H-F_R16557-1
 - Location: Nantes Sud
 - Posted: Nov 05 (board gives the date only)
@@ -276,7 +309,7 @@ Turner & Townsend is seeking an analytical individual to join our NY Real Estate
 
 ---
 
-## 12. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
+## 14. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686296
 - Location: Long Island City NY us
 - Posted: Nov 06 06:31 ET
@@ -290,7 +323,7 @@ The NYC Health Department’s Bureau of Hepatitis, HIV, and Sexually Transmitted
 
 ---
 
-## 13. [MAYBE] Texas A&M University - College Station | Research Assistant
+## 15. [MAYBE] Texas A&M University - College Station | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098615-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -304,7 +337,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 14. [MAYBE] Texas A&M University - College Station | Research Associate
+## 16. [MAYBE] Texas A&M University - College Station | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Associate_R-098614-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -318,7 +351,7 @@ Job Title Research Associate Agency Texas A&M University Department Psychology P
 
 ---
 
-## 15. [MAYBE] Texas A&M University System | Research Assistant
+## 17. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098615
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -332,7 +365,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 16. [MAYBE] Texas A&M University System | Research Associate
+## 18. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-098614
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -346,7 +379,7 @@ Job Title Research Associate Agency Texas A&M University Department Psychology P
 
 ---
 
-## 17. [MAYBE] Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US
+## 19. [MAYBE] Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US
 - Link: https://mckesson.wd3.myworkdayjobs.com/SCRI_Careers/job/USA-TX-Remote/Product-Analyst--Digital-Transformation---Remote-US_JR0156906
 - Location: USA, TX, Remote
 - Posted: Nov 05 (board gives the date only)
@@ -360,7 +393,7 @@ It’s More Than a Career, It’s a Mission. Our people are the foundation of ou
 
 ---
 
-## 18. [MAYBE] Procter & Gamble (P&G) | Data Engineer
+## 20. [MAYBE] Procter & Gamble (P&G) | Data Engineer
 - Link: https://pg.wd5.myworkdayjobs.com/1000/job/PANAMA-BUSINESS-CENTER/Data-Engineer_R000162494
 - Location: PANAMA BUSINESS CENTER
 - Posted: Nov 05 (board gives the date only)
@@ -374,7 +407,21 @@ Job Location PANAMA BUSINESS CENTER Job Description Job type: Managerial full-ti
 
 ---
 
-## 19. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
+## 21. [MAYBE] CVS Health | Renewal and Reporting Analyst
+- Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Delaware/Renewal-and-Reporting-Analyst_R1071607-1
+- Location: 51 Locations
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, llm, healthcare, reporting, research | Lacks: salesforce  | Note: no H-1B filings found for this employer
+
+### Job description
+
+We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time. Position Summary Provides plan benefit review, interpretation, and systematic setup, essential for online viewing and processing, related to customer service, claims, enrollment, billing, and reporting, in support of internal and external partners. Ability to utilize Meritain’s proprietary system for analytical coding of detailed customized plans, rather than standard offerings. Develops and executes implementation strategy consistent with client expectations; ensures strategy is administered in accordance with all performance guarantee arrangements. Consults and advises internal stakeholders on complex benefit administration. Advises on options to minimize manual processing and disruption for the clients. Uses business knowledge and experience to make plan design and processing recommendations when working with clients. Reviews benefit provisions to ensure compliance with state and federal mandates. Evaluation process may also include assessment of summary plan descriptions and other related documents prepared internally or externally by clients. Collaborates on review, analysis, and development of recommendations for the design of complex account and benefit structures based on customers’ objectives and Meritain’s system. Executes system setup and mapping of client level benefits to align with industry coding (ICD 10, place of service, healthcare reform, etc.), similar to entry-level IT programming. Solicits and assesses internal and external customer feedback to drive continuous quality improvement on the renewal process (i.e. system tools, resources, etc.) Demonstrates Salesforce proficiency and understanding for cross-functional communication and enables executive-level status reporting. Required Qualifications 2+ years of experience working with healthcare, specifically with quality, renewals, client advocacy, and/or account management, including a demonstrated knowledge of medical terminology. Ability to work Monday-Friday from 8am-5pm, with the ability to work beyond those core hours during busy seasons. Preferred Qualifications 5+ years of experience working with healthcare, specifically with quality, renewals, client advocacy, and/or account management, including a demonstrated knowledge of medical terminology. Previous experience with Salesforce. Previous experience with various data systems, including DOS systems. Ability to research and look beyond the first right answer to find the root of a concern. Strong analytical and problem-solving skills. Ability to remain flexible yet focused during stressful situations. Strong communication skills, with the ability to express complex concepts in a clear and concise manner. Excellent organization skills and ability to quickly prioritize multiple assignments with high quality results. High attention to detail and accuracy, while focusing on overall project deliverables. Associate’s or Bachelor’s degree. Education High school diploma or GED. Anticipated Weekly Hours 40 Time Type Full time Pay Range The typical pay range for this role is: $46,988.00 - $122,400.00 This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. Our people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong. Great benefits for great people We take pride in offering a comprehensive and competitive mix of pay and benefits that reflects our commitment to our colleagues and their families. This full‑time position is eligible for a comprehensive benefits package designed to support the physical, emotional, and financial well‑being of colleagues and their families. The benefits for this position include medical, dental, and vision coverage, paid time off, retirement savings options, wellness programs, and other resources, based on eligibility. Additional details about available benefits are provided during the application process and on Benefits Moments . We anticipate the application window for this opening will close on: 11/11/2026 Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.
+
+---
+
+## 22. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686496
 - Location: Long Island City NY us
 - Posted: Nov 06 06:32 ET
@@ -388,7 +435,7 @@ The New York City Department of Health and Mental Hygiene (NYC DOHMH)'s Bureau o
 
 ---
 
-## 20. [MAYBE] Entrust | Data Analyst
+## 23. [MAYBE] Entrust | Data Analyst
 - Link: https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Data-Analyst_R004482
 - Location: United States - Shakopee, MN (GHQ)
 - Posted: Nov 05 (board gives the date only)
@@ -402,7 +449,21 @@ Join us at Entrust At Entrust, we’re shaping the future of identity centric se
 
 ---
 
-## 21. [MAYBE] WSP | AI Engineer (Advisory)
+## 24. [MAYBE] Thales | AI Engineer - Graduate
+- Link: https://thales.wd3.myworkdayjobs.com/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1
+- Location: Orlando
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~47 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, machine learning, python, pipeline, research | Lacks: scala
+
+### Job description
+
+Location: Orlando, United States of America Thales people architect solutions that enable two-thirds of planes to take off and land safely. We create in-flight entertainment systems that engross 50 million fliers every year and we develop the avionics that control the world’s largest commercial aircrafts. Our simulators train the next generation of pilots for fighter jets, transporters and search and rescue helicopters. And, together, each and every member of our aerospace team makes a difference. When you rely on airlines to connect you in flight, you rely on Thales. In an increasingly fast paced world, we make the unpredictable, predictable by connecting and entertain passengers to make your life better. Combining a diversity of talents, we master the decisive moments that matter to passengers and airlines. Whatever it takes. AI Engineer - Graduate Orlando, FL (Hybrid) Position Summary Thales is looking for a AI Engineer Graduate to join our engineering team and support the development of applied AI solutions that enhance the inflight passenger experience for millions of travelers worldwide, as well as support internal business and engineering initiatives. You will bring a foundational understanding of AI technologies, cloud platforms, software development practices, and Agile methodologies, along with a strong desire to expand your expertise in AI engineering and intelligent automation solutions. In this position you will contribute to the design, development, testing, deployment, and support of AI-enabled applications across cloud and edge environments while gaining experience across the software development lifecycle and modern AI technologies. You will research, implement, test, document, deploy, and maintain new and existing solutions. To succeed, you must demonstrate strong problem-solving skills, accountability, collaboration, and adaptability in a fast-paced engineering environment. You will have opportunities to build your technical expertise, contribute to innovative solutions, and take on increasingly complex assignments as your experience grows. Key Areas of Responsibility Contribute to the design, development, testing, deployment, and support of AI-enabled applications and services; develop and maintain AI solutions, including Retrieval-Augmented Generation (RAG) applications, intelligent automation capabilities, agent-based workflows, and orchestration solutions, under the guidance of senior engineering team members. Collaborate with engineering, product, platform, and business teams to understand requirements and assist in delivering AI solutions that address operational and customer needs; participate in code reviews, design discussions, sprint planning, and Agile development activities. Support implementation of AI security, governance, privacy, and responsible AI practices by following established standards, processes, and technical controls. Develop reusable components, tools, and automation capabilities that improve development efficiency, quality, and consistency across AI initiatives; stay current with emerging AI technologies and contribute ideas for continuous improvement and innovation within the engineering team. Assist with monitoring, troubleshooting, and performance optimization to support reliable and scalable AI solutions; perform unit, integration, and automated testing to support secure, high-quality software releases. Create and maintain technical documentation for AI applications, workflows, deployment processes, and operational support procedures. Minimum Qualifications Bachelor’s degree in Computer Science, Software Engineering, Computer Engineering, Data Science, Artificial Intelligence, or a related technical field – awarded within the 2 years preceding your application; 0-2 years’ experience in software engineering, cloud development, machine learning, AI engineering, or a related technical discipline. Working knowledge of applied AI concepts and solution patterns, including Retrieval-Augmented Generation (RAG), agent-based workflows, orchestration frameworks, intelligent automation, and prompt engineering; foundational understanding of modern AI systems, including model evaluation, tool integration, guardrails, observability, and responsible AI principles. Proficiency in Python and experience developing modern applications using APIs and web technologies; experience working with cloud platforms, preferably AWS, including familiarity with serverless architectures and AI/ML services. Foundational knowledge of Infrastructure as Code (IaC), CI/CD pipelines, DevOps practices, and automated deployment concepts. Ability to analyze technical problems, evaluate options, and implement effective solutions; manage assigned work independently while seeking guidance for complex technical challenges. Strong written and verbal communication skills with the ability to work effectively in a collaborative team environment; commitment to software engineering best practices, secure coding principles, and continuous learning. Applicants must be legally authorized to work in the United States for any employer at the time of hire. This position is not eligible for visa sponsorship or for assuming sponsorship of an employment visa now or in the future. If you’re excited about working with Thales, but not meeting the requirements for this position, we encourage you to join our Talent Community! Special Position Requirements Schedule : Core business hours, Monday – Friday, 9/80 shift B. Physical Environment : Primarily an R&D Lab environment. Why Join Us? Say HI and learn more about working at Thales click here . #LI-Hybrid #LI-AR1 This position will require successfully completing a post-offer background check. Qualified candidates with [a] criminal history will be considered and are not automatically disqualified, consistent with federal law, state law, and local ordinances. Thales champions inclusion and we believe diversity strengthens the fabric of our culture. Thales
+
+---
+
+## 25. [MAYBE] WSP | AI Engineer (Advisory)
 - Link: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98887
 - Location: Cambridge, Cambridgeshire, United Kingdom GB London, London, United Kingdom
 - Posted: Nov 06 (board gives the date only)
@@ -416,7 +477,7 @@ What if you could do the kind of work the world needs? At WSP, you can access ou
 
 ---
 
-## 22. [MAYBE] Höganäs | AI & Data Analytics Engineer
+## 26. [MAYBE] Höganäs | AI & Data Analytics Engineer
 - Link: https://hoganas.wd3.myworkdayjobs.com/Careers/job/Hgans/AI---Data-Analytics-Engineer_JR1465
 - Location: Höganäs
 - Posted: Nov 05 (board gives the date only)
@@ -430,7 +491,7 @@ About the Position As an AI & Data Analytics Engineer, you will work with techni
 
 ---
 
-## 23. [MAYBE] AeroVect | Software Engineer, ML Ops
+## 27. [MAYBE] AeroVect | Software Engineer, ML Ops
 - Link: https://jobs.ashbyhq.com/AeroVect/6058be12-918f-4016-87d8-cdbeb0ecdfbf
 - Location: Toronto Canada remote
 - Posted: Nov 06 09:06 ET
@@ -487,7 +548,7 @@ Please note this role will be based onsite in Toronto
 
 ---
 
-## 24. [MAYBE] Scale AI | Applied AI Engineer
+## 28. [MAYBE] Scale AI | Applied AI Engineer
 - Link: https://job-boards.greenhouse.io/scaleai/jobs/4751059005
 - Location: Kuwait City, Kuwait
 - Posted: Nov 06 09:23 ET
@@ -501,7 +562,7 @@ About the role Scale's Global Public Sector team uses AI to address critical cha
 
 ---
 
-## 25. [MAYBE] Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS
+## 29. [MAYBE] Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS
 - Link: https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/St-Louis-MO/Business-Intelligence-Analyst---Snowflake--Databricks--SSRS_R119700-1
 - Location: 6 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -515,7 +576,7 @@ Are you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS ) 
 
 ---
 
-## 26. [MAYBE] RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS
+## 30. [MAYBE] RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS
 - Link: https://relx.wd3.myworkdayjobs.com/relx/job/St-Louis-MO/Business-Intelligence-Analyst---Snowflake--Databricks--SSRS_R119700
 - Location: 6 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -529,7 +590,97 @@ Are you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS ) 
 
 ---
 
-## 27. [MAYBE] Brown University | Research Assistant
+## 31. [MAYBE] Blockhouse | Quant Developer, Trading Systems (Rust and C++)
+- Link: https://jobs.ashbyhq.com/blockhouse/e78e69bc-6506-47ca-8855-67337df6b59c
+- Location: New York City Area United States
+- Posted: Nov 06 12:29 ET
+- Scanner fit: ~44 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: python, futures, fx, portfolio, research, trading | Lacks: c++  | Note: no H-1B filings found for this employer
+
+### Job description
+
+QUANT DEV, TRADING SYSTEMS (RUST AND C++)
+
+Blockhouse, full time, NYC in person or hybrid preferred, remote within US time zones considered
+
+ 
+
+
+ABOUT BLOCKHOUSE
+
+Blockhouse gives institutional asset managers access to the kind of trading infrastructure that usually takes years and millions of dollars to build. Founded in 2022, we run a noncustodial platform where clients keep custody of their assets while they trade, hedge and compound portfolios across crypto and tokenized markets, from FX and equities to treasuries and compute futures. Alongside the platform we run live delta neutral funding rate and market making strategies with client capital across major venues, and we keep expanding into new frontier markets such as compute hedging.
+
+ 
+
+
+THE ROLE
+
+This is a quant engineering role at its core, sitting between research and production and owning the path from a researcher's spec to a live signal trading real capital. You'll work directly with the founders and our quant researchers, and although the role is open to engineers with 2 to 5 years of experience, we expect you to step up quickly, setting objectives, writing specs, breaking work into tickets and guiding the rest of the engineering team with your judgment.
+
+ 
+
+
+WHAT YOU'LL DO
+
+ - Turn research specs into production signals, including basis and FX pairs, nowcast fits, index futures pricing and momentum
+
+ - Build and optimize low latency components in C++ and Rust, from market data publishers and book feeds to the market making engine itself
+
+ - Own exchange connectivity across crypto and traditional venues, covering order books, rate limit pacing, funding and borrow data, and order reconciliation
+
+ - Debug and harden production systems, including memory profiling, reconnect and heartbeat logic, and crash investigation
+
+ - Co lead our cloud infrastructure with an existing senior engineer
+
+ - Lead the engineering team day to day through specs, code review across our repos and onboarding of junior engineers
+
+ 
+
+
+WHAT WE'RE LOOKING FOR
+
+ - Must have previous experience at a trading firm or building some kind of trading system at the professional level, side projects do not alone qualify
+
+ - 2 to 5 years of production experience in C++ and Rust, with real depth in at least one and working fluency in the other
+
+ - A track record of shipping low latency or performance sensitive trading systems
+
+ - Strong grasp of concurrency, async programming, networking and performance trade offs on Linux
+
+ - Comfort with Python and Go across tooling, gateways and research integration
+
+ - The drive to lead, meaning you're ready to own objectives, direct others and make calls without waiting to be told
+
+ 
+
+
+NICE TO HAVE
+
+ - Experience integrating crypto or equities exchange APIs
+
+ - Background in market making, HFT or execution systems
+
+ - Familiarity with margin, funding and portfolio accounting across venues
+
+ - Experience running trading infrastructure in the cloud
+
+ 
+
+
+WHY BLOCKHOUSE
+
+ - Direct ownership of systems that drive firm PnL
+
+ - Close work with the founders and quant team
+
+ - Meaningful equity and performance upside
+
+ - A live trading environment with a high engineering bar
+
+---
+
+## 32. [MAYBE] Brown University | Research Assistant
 - Link: https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/RT---Massachusetts/Research-Assistant_REQ212010
 - Location: RT - Massachusetts
 - Posted: Nov 05 (board gives the date only)
@@ -543,7 +694,7 @@ Job Description: Position Purpose The Research Assistant position is responsible
 
 ---
 
-## 28. [MAYBE] PennState University | LER Research Assistant
+## 33. [MAYBE] PennState University | LER Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/LER-Research-Assistant_REQ_0000084061-1
 - Location: Penn State University Park
 - Posted: Nov 05 (board gives the date only)
@@ -557,7 +708,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 29. [MAYBE] JM Family | Data Analyst I
+## 34. [MAYBE] JM Family | Data Analyst I
 - Link: https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Analyst-I_JR105210
 - Location: Florida - Deerfield Beach
 - Posted: Nov 06 (board gives the date only)
