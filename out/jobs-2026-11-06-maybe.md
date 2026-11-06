@@ -10,19 +10,24 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 4 | Lloyds Bank | Financial Crime Optimisation Business Analyst | 68 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
 | 5 | Funding Circle | Credit Strategy Analyst  | 62 | none found (check myvisajobs) | Nov 06 07:48 ET |
 | 6 | Lloyds Bank | Financial Crime Data & Automation Analyst | 62 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 7 | ENOVIS | HR Specialist – HR Analytics & Operations | 57 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 8 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 9 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
-| 10 | Texas A&M University - College Station | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 11 | Texas A&M University - College Station | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 12 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 13 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 14 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
-| 15 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 16 | Höganäs | AI & Data Analytics Engineer | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 17 | AeroVect | Software Engineer, ML Ops | 44 | none found (check myvisajobs) | Nov 06 09:06 ET |
-| 18 | Scale AI | Applied AI Engineer | 44 | 16 in data/analytics/finance occupations | Nov 06 09:23 ET |
-| 19 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 7 | S&P Global | OTC Derivatives Analyst | 62 | 5 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 8 | ENOVIS | HR Specialist – HR Analytics & Operations | 57 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 9 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 10 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
+| 11 | Texas A&M University - College Station | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 12 | Texas A&M University - College Station | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 13 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 14 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 15 | Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 16 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
+| 17 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 18 | Höganäs | AI & Data Analytics Engineer | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 19 | AeroVect | Software Engineer, ML Ops | 44 | none found (check myvisajobs) | Nov 06 09:06 ET |
+| 20 | Scale AI | Applied AI Engineer | 44 | 16 in data/analytics/finance occupations | Nov 06 09:23 ET |
+| 21 | Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | 7 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 22 | RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 23 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 24 | PennState University | LER Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
 
 ---
 
@@ -196,7 +201,21 @@ End Date Friday 20 November 2026 Salary Range £44,901 - £49,890 We support fle
 
 ---
 
-## 7. [MAYBE] ENOVIS | HR Specialist – HR Analytics & Operations
+## 7. [MAYBE] S&P Global | OTC Derivatives Analyst
+- Link: https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/OTC-Derivatives-Analyst_331927-1
+- Location: New York, NY
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 5 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: python, sql, credit, derivatives, fraud, portfolio, quantitative, trading | Lacks: -  | Note: broad title
+
+### Job description
+
+About the Role: Grade Level (for internal use): 08 The Team: Portfolio Valuations (PV) provides an independent, post-trade valuation service to buy-side institutions globally, covering vanilla and exotic OTC derivatives, cash instruments and structured notes across all asset classes. The service also offers clients the ability to receive an aggregated set of counterparty marks for their trades. OTC Derivative Data (OTC DD) service provides daily high-quality OTC derivative data to both buy-side and sell-side clients. S&P's consensus service is the leader in providing major market makers in OTC derivatives with definitive consensus prices. More than 90 of the leading banks, trading houses and other investment professionals use the consensus service as the key independent check of their trading book valuations. The service encompasses equity, rates, currency, commodity, credit and bond derivatives, providing comprehensive matrices of vanilla prices and a wide selection of exotic products. Responsibilities and Impact: The new hire will be responsible for taking an active role in reviewing market data and derivatives valuations, resolve issues and perform critical quality control functions, work on new product development, build, and manage customer relationships, host meetings and forums. This role will enable successful candidate to develop their business skills and expand derivatives knowledge across different asset classes. The ideal candidate is an independent, organized, self-starter who can communicate effectively across all levels of the organization. Organizing and running daily and monthly valuation processes for clients; this will require hands-on responsibility for some accounts Handling simple and complex price challenges and resolving them to the satisfaction of the client Building and maintaining client relationships, so that clients are aware of S&P Global new and existing valuation capabilities and increase their use of these services Contributing to the design and testing of S&P Global valuation systems Ensuring that data capture and cleaning processes are run, refined and automated Compensation/Benefits Information: (This section is only applicable to US candidates) S&P Global states that the anticipated base salary range for this position is $90,000 to $100,000. Final base salary for this role will be based on the individual’s geographic location, as well as experience level, skill set, training, licenses and certifications. In addition to base compensation, this role is eligible for an annual incentive bonus. What We’re Looking For: Basic Required Qualifications: Good understanding of OTC derivatives in one or more asset classes Appetite for providing services to external clients on a regular basis. Additional Preferred Qualifications: Good degree in a quantitative discipline Other programming experience in any language e.g., SQL, Python Good understanding of market and reference datasets Right to Work Requirements: This role is limited to persons with indefinite right to work in the United States. We require all external candidates who reach the final stage of our interview process to attend at least one in-person interview, which is ordinarily at your nearest S&P Global office. This must be completed before we can proceed to an offer. About S&P Global Market Intelligence At S&P Global Market Intelligence, a division of S&P Global we understand the importance of accurate, deep and insightful information. Our team of experts delivers unrivaled insights and leading data and technology solutions, partnering with customers to expand their perspective, operate with confidence, and make decisions with conviction. For more information, visit www.spglobal.com/marketintelligence . What’s In It For You? Our Mission: Advancing Essential Intelligence. Our People: We're more than 35,000 strong worldwide—so we're able to understand nuances while having a broad perspective. Our team is driven by curiosity and a shared belief that Essential Intelligence can help build a more prosperous future for us all.From finding new ways to measure sustainability to analyzing energy transition across the supply chain to building workflow solutions that make it easy to tap into insight and apply it. We are changing the way people see things and empowering them to make an impact on the world we live in. We’re committed to a more equitable future and to helping our customers find new, sustainable ways of doing business. Join us and help create the critical insights that truly make a difference. Our Values: Integrity, Discovery, Partnership Throughout our history, the world's leading organizations have relied on us for the Essential Intelligence they need to make confident decisions about the road ahead. We start with a foundation of integrity in all we do, bring a spirit of discovery to our work, and collaborate in close partnership with each other and our customers to achieve shared goals. Benefits: We take care of you, so you can take care of business. We care about our people. That’s why we provide everything you—and your career—need to thrive at S&P Global. Our benefits include: Health & Wellness: Health care coverage designed for the mind and body. Flexible Downtime: Generous time off helps keep you energized for your time on. Continuous Learning: Access a wealth of resources to grow your career and learn valuable new skills. Invest in Your Future: Secure your financial future through competitive pay, retirement planning, a continuing education program with a company-matched student loan contribution, and financial wellness programs. Family Friendly Perks: It’s not just about you. S&P Global has perks for your partners and little ones, too, with some best-in class benefits for families. Beyond the Basics: From retail discounts to referral incentive awards—small perks can make a big difference. For more information on benefits by country visit: https://spgbenefits.com/benefit-summaries Global Hiring and Opportunity at S&P Global: At S&P Global, we are committed to fostering a connected and engaged workplace where all individuals have access to opportunities based on their skills, experience, and contributions. Our hiring practices emphasize fairness, transparency, and merit, ensuring that we attract and retain top talent. By valuing different perspectives and promoting a culture of respect and collaboration, we drive innovation and power global markets. Recruitment Fraud Alert: If you receive an email from a spglobalind.com domain or any other regionally based domains, it is a scam and should be reported to reportfraud@spglobal.com . S&P Global never requires any candidate to pay money for job applications, interviews, offer letters, “pre-employment training” or for equipment/delivery of equipment. Stay informed and protect yourself from recruitment fraud by reviewing our guidelines, fraudulent domains, and how to report suspicious activity here . ------------------------------ [...]
+
+---
+
+## 8. [MAYBE] ENOVIS | HR Specialist – HR Analytics & Operations
 - Link: https://enovis.wd5.myworkdayjobs.com/enovis/job/Sfax-Sfax-Tunisia/HR-Specialist---HR-Analytics---Operations_R0034408-1
 - Location: Sfax, Sfax, Tunisia
 - Posted: Nov 05 (board gives the date only)
@@ -210,7 +229,7 @@ End Date Friday 20 November 2026 Salary Range £44,901 - £49,890 We support fle
 
 ---
 
-## 8. [MAYBE] Open Avenues Foundation | Data Engineer H/F
+## 9. [MAYBE] Open Avenues Foundation | Data Engineer H/F
 - Link: https://open.wd103.myworkdayjobs.com/OPEN/job/Nantes-Sud/Data-Engineer-H-F_R16557-1
 - Location: Nantes Sud
 - Posted: Nov 05 (board gives the date only)
@@ -224,7 +243,7 @@ End Date Friday 20 November 2026 Salary Range £44,901 - £49,890 We support fle
 
 ---
 
-## 9. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
+## 10. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686296
 - Location: Long Island City NY us
 - Posted: Nov 06 06:31 ET
@@ -238,7 +257,7 @@ The NYC Health Department’s Bureau of Hepatitis, HIV, and Sexually Transmitted
 
 ---
 
-## 10. [MAYBE] Texas A&M University - College Station | Research Assistant
+## 11. [MAYBE] Texas A&M University - College Station | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098615-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -252,7 +271,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 11. [MAYBE] Texas A&M University - College Station | Research Associate
+## 12. [MAYBE] Texas A&M University - College Station | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Associate_R-098614-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -266,7 +285,7 @@ Job Title Research Associate Agency Texas A&M University Department Psychology P
 
 ---
 
-## 12. [MAYBE] Texas A&M University System | Research Assistant
+## 13. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098615
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -280,7 +299,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 13. [MAYBE] Texas A&M University System | Research Associate
+## 14. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-098614
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -294,7 +313,21 @@ Job Title Research Associate Agency Texas A&M University Department Psychology P
 
 ---
 
-## 14. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
+## 15. [MAYBE] Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US
+- Link: https://mckesson.wd3.myworkdayjobs.com/SCRI_Careers/job/USA-TX-Remote/Product-Analyst--Digital-Transformation---Remote-US_JR0156906
+- Location: USA, TX, Remote
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, credit, fraud, git, healthcare, research | Lacks: azure  | Note: no H-1B filings found for this employer
+
+### Job description
+
+It’s More Than a Career, It’s a Mission. Our people are the foundation of our success. By joining our growing team at Sarah Cannon Research Institute (SCRI), a subsidiary of McKesson, you will have the opportunity to become part of one of the largest community-based cancer programs to advance oncology treatments and improve outcomes for cancer patients across the globe. We look for mission-driven candidates who have a desire to advance the fight against cancer and make a difference in the lives of patients diagnosed with cancer every day. Our Mission People who live with cancer – those who work to prevent it, fight it, and survive it – are at the heart of every decision we make. Bringing the most innovative medical minds together with the most passionate caregivers in their communities, we are transforming care and personalizing treatment. Through clinical excellence and cutting-edge research, SCRI is redefining cancer care around the world. The Product Analyst – Digital Transformation advances SCRI’s digital strategy by translating business needs into practical technology solutions. Serving as a bridge between business and IT teams, this role supports process improvement, data integrity, and AI-enabled transformation within SCRI Development Innovations. The position emphasizes hands-on delivery, rapid experimentation, and measurable business outcomes. This is a remote position based in the US: relocation assistance and visa sponsorship are not available. Duties & Responsibilities Partner with business and IT teams to define requirements and lead initiatives from problem discovery through pilot delivery. Identify AI and automation opportunities and develop, test, and refine prototypes and solutions. Translate business needs into user stories, workflows, and specifications; support backlog refinement, release planning, and UAT. Ensure solutions align with data, integration, 21 CFR Part 11, and responsible AI requirements. Support change management, documentation, user adoption, and reusable digital/AI solutions. Knowledge & Skills Knowledge of Agile, SDLC, data governance, interoperability, and regulatory requirements within clinical research. Familiarity with AI agents, automation tools, APIs, coding concepts, and cloud platforms such as AWS and Azure. Experience with research technologies such as Veeva, Medidata, or Oracle. Proficiency with Microsoft Copilot and tools such as Jira, Confluence, Planview, or Smartsheet. Strong analytical, problem-solving, communication, requirements, and stakeholder management skills. Ability to build and evaluate AI-enabled or low/no-code proofs of concept and assess business value and ROI. Abilities Translate digital and AI strategy into executable solutions and measurable results. Collaborate effectively with leaders, product owners, business stakeholders, and delivery teams. Rapidly prototype, test, and iterate solutions based on user and system feedback. Manage competing priorities and adapt in a fast-paced, innovative environment. Demonstrate a commitment to continuous learning, quality, and SCRI’s mission. Minimum Qualifications 3–5+ years of product or business analysis experience in digital transformation environments. Experience supporting healthcare or life sciences technology/product initiatives. Demonstrated success driving technology adoption and identifying high-value AI or automation opportunities. Hands-on experience developing or piloting low/no-code, AI-enabled, or other proof-of-concept solutions. Strong analytical skills with experience communicating progress, ROI, and outcomes to leadership. About Sarah Cannon Research Institute Sarah Cannon Research Institute (SCRI) is one of the world’s leading oncology research organizations conducting community-based clinical trials. Focused on advancing therapies for patients over the last three decades, SCRI is a leader in drug development. In 2022, SCRI formed a joint venture with former US Oncology Research to expand clinical trial access across the country. It has conducted more than 850 first-in-human clinical trials since its inception and contributed to pivotal research that has led to the majority of new cancer therapies approved by the FDA in the past decade. SCRI’s research network brings together more than 1,300 physicians who are enrolling patients into clinical trials at more than 200 locations in 20+ states across the U.S. Please click here to learn more about our research offerings. We care about the well-being of the patients and communities we serve, and that starts with caring for our people. That’s why we have a Total Rewards package that includes comprehensive benefits to support physical, mental, and financial well-being. Our Total Rewards offerings serve the different needs of our diverse colleague population and ensure they are the healthiest versions of themselves. For more information regarding benefits through our parent company, McKesson, please click here . As part of Total Rewards, we are proud to offer a competitive compensation package. This is determined by several factors, including performance, experience and skills, equity, regular job market evaluations, and geographical markets. In addition to base pay, other compensation, such as an annual bonus or long-term incentive opportunities may be offered. McKesson has become aware of online recruiting-related scams in which individuals who are not affiliated with or authorized by McKesson are using McKesson’s (or affiliated entities, like CoverMyMeds or RxCrossroads) name in fraudulent emails, job postings or social media messages. In light of these scams, please bear the following in mind: McKesson Talent Advisors will never solicit money or credit card information in connection with a McKesson job application. McKesson Talent Advisors do not communicate with candidates via online chatrooms or using email accounts such as Gmail or Hotmail. Note that McKesson does rely on a virtual assistant (Gia) for certain recruiting-related communications with candidates. McKesson job postings are posted on our career site: careers.mckesson.com .
+
+---
+
+## 16. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686496
 - Location: Long Island City NY us
 - Posted: Nov 06 06:32 ET
@@ -308,7 +341,7 @@ The New York City Department of Health and Mental Hygiene (NYC DOHMH)'s Bureau o
 
 ---
 
-## 15. [MAYBE] WSP | AI Engineer (Advisory)
+## 17. [MAYBE] WSP | AI Engineer (Advisory)
 - Link: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98887
 - Location: Cambridge, Cambridgeshire, United Kingdom GB London, London, United Kingdom
 - Posted: Nov 06 (board gives the date only)
@@ -322,7 +355,7 @@ What if you could do the kind of work the world needs? At WSP, you can access ou
 
 ---
 
-## 16. [MAYBE] Höganäs | AI & Data Analytics Engineer
+## 18. [MAYBE] Höganäs | AI & Data Analytics Engineer
 - Link: https://hoganas.wd3.myworkdayjobs.com/Careers/job/Hgans/AI---Data-Analytics-Engineer_JR1465
 - Location: Höganäs
 - Posted: Nov 05 (board gives the date only)
@@ -336,7 +369,7 @@ About the Position As an AI & Data Analytics Engineer, you will work with techni
 
 ---
 
-## 17. [MAYBE] AeroVect | Software Engineer, ML Ops
+## 19. [MAYBE] AeroVect | Software Engineer, ML Ops
 - Link: https://jobs.ashbyhq.com/AeroVect/6058be12-918f-4016-87d8-cdbeb0ecdfbf
 - Location: Toronto Canada remote
 - Posted: Nov 06 09:06 ET
@@ -393,7 +426,7 @@ Please note this role will be based onsite in Toronto
 
 ---
 
-## 18. [MAYBE] Scale AI | Applied AI Engineer
+## 20. [MAYBE] Scale AI | Applied AI Engineer
 - Link: https://job-boards.greenhouse.io/scaleai/jobs/4751059005
 - Location: Kuwait City, Kuwait
 - Posted: Nov 06 09:23 ET
@@ -407,7 +440,35 @@ About the role Scale's Global Public Sector team uses AI to address critical cha
 
 ---
 
-## 19. [MAYBE] Brown University | Research Assistant
+## 21. [MAYBE] Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS
+- Link: https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/St-Louis-MO/Business-Intelligence-Analyst---Snowflake--Databricks--SSRS_R119700-1
+- Location: 6 Locations
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~44 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 7 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, power bi, sql, tableau, git, healthcare, reporting, research | Lacks: databricks, looker, scala, snowflake
+
+### Job description
+
+Are you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS ) looking to build complex reports for our core Healthcare Education Team? About the role: As a BI Analyst you will be entrusted to support Trade and Commercial Reporting within Elsevier Healthcare Education’s (EHE) Business Intelligence Team. This role will partner with commercial, analytics, technology, and senior stakeholders to modernize reporting workflows, improve reporting quality, and deliver scalable BI solutions that support business decision-making. About the team- Elsevier’s Healthcare Education team develops digital learning, assessment, and simulation products—including Sherpath AI, ClinicalKey Student, Shadow Health, HESI, Complete Anatomy, and Osmosis—to support medical and nursing students, educators, and future healthcare professionals worldwide. From an AI Software Engineering perspective, the team’s work spans generative AI, RAG, intelligent search, personalized learning, data analytics, cloud-based applications, and virtual patient simulations to improve educational experiences and learning outcomes. Key Responsibilities Owning the development and enhancement of Trade and Commercial Reporting solutions across Snowflake, Tableau, and related BI environments. Applying AI tools, where appropriate, to improve analysis, documentation, workflow efficiency, and reporting development. Converting legacy manual reporting workflows, including Excel-based processes, into scalable dashboards, automated reporting, and repeatable analytical solutions. Supporting reporting migrations by translating legacy queries, business rules, and reporting logic into new data warehouse environments. Validating reporting outputs across legacy and new environments to ensure accuracy, consistency, and alignment with business definitions. Partnering with commercial stakeholders, including senior and VP-level audiences, to gather requirements, clarify business questions, and deliver actionable reporting outputs. Investigating data discrepancies, perform quality checks, document issues, and coordinating resolution with business and technical partners. Maintaining documentation for reporting processes, data definitions, query logic, migration mappings, and technical workflows. Managing multiple reporting priorities and stakeholder requests with strong attention to detail and limited oversight. Required Qualifications 3+ years of hands-on SQL experience using Snowflake, Databricks, SSRS , or similar data platforms. 3+ years of experience developing dashboards and reports in BI visualization tools such as Tableau, Power BI, Looker, or similar platforms. Demonstrated experience converting manual or legacy reporting workflows into automated BI, dashboard, or reporting solutions. Demonstrated experience translating reporting logic, SQL queries, or business rules across systems, data warehouses, or reporting platforms. Experience gathering requirements from business stakeholders and converting them into technical specifications, reporting logic, or dashboard solutions. Proven ability to validate data, investigate discrepancies, and ensure reporting accuracy. Familiarity with AI tools such as ChatGPT, Claude, Copilot and their applications. Elsevier employs 10,000 people worldwide, including over 2,500 technologists. We have supported the work of our research and health partners for more than 140 years. Growing from our roots in publishing, we offer knowledge and valuable analytics that help our users make breakthroughs and drive societal progress. &#xa;&#xa;U.S. National Base Pay Range: $71,600 - $119,400. Geographic differentials may apply in some locations to better reflect local market rates.&#xa;&#xa;If performed in Illinois, the base pay range is $75,200 - $125,500.If performed in Chicago, IL, the base pay range is $78,700 - $131,400.&#xa;&#xa;This job is eligible for an annual incentive bonus.&#xa;&#xa;&#xa;&#xa;&#xa;&#xa; We know your well-being and happiness are key to a long and successful career. We are delighted to offer country specific benefits. Click here to access benefits specific to your location. We are committed to providing a fair and accessible hiring process. If you have a disability or other need that requires accommodation or adjustment, please let us know by completing our Applicant Request Support Form or please contact 1-855-833-5120. Criminals may pose as recruiters asking for money or personal information. We never request money or banking details from job applicants. Learn more about spotting and avoiding scams here . Please read our Candidate Privacy Policy .
+
+---
+
+## 22. [MAYBE] RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS
+- Link: https://relx.wd3.myworkdayjobs.com/relx/job/St-Louis-MO/Business-Intelligence-Analyst---Snowflake--Databricks--SSRS_R119700
+- Location: 6 Locations
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~44 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, power bi, sql, tableau, git, healthcare, reporting, research | Lacks: databricks, looker, scala, snowflake  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Are you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS ) looking to build complex reports for our core Healthcare Education Team? About the role: As a BI Analyst you will be entrusted to support Trade and Commercial Reporting within Elsevier Healthcare Education’s (EHE) Business Intelligence Team. This role will partner with commercial, analytics, technology, and senior stakeholders to modernize reporting workflows, improve reporting quality, and deliver scalable BI solutions that support business decision-making. About the team- Elsevier’s Healthcare Education team develops digital learning, assessment, and simulation products—including Sherpath AI, ClinicalKey Student, Shadow Health, HESI, Complete Anatomy, and Osmosis—to support medical and nursing students, educators, and future healthcare professionals worldwide. From an AI Software Engineering perspective, the team’s work spans generative AI, RAG, intelligent search, personalized learning, data analytics, cloud-based applications, and virtual patient simulations to improve educational experiences and learning outcomes. Key Responsibilities Owning the development and enhancement of Trade and Commercial Reporting solutions across Snowflake, Tableau, and related BI environments. Applying AI tools, where appropriate, to improve analysis, documentation, workflow efficiency, and reporting development. Converting legacy manual reporting workflows, including Excel-based processes, into scalable dashboards, automated reporting, and repeatable analytical solutions. Supporting reporting migrations by translating legacy queries, business rules, and reporting logic into new data warehouse environments. Validating reporting outputs across legacy and new environments to ensure accuracy, consistency, and alignment with business definitions. Partnering with commercial stakeholders, including senior and VP-level audiences, to gather requirements, clarify business questions, and deliver actionable reporting outputs. Investigating data discrepancies, perform quality checks, document issues, and coordinating resolution with business and technical partners. Maintaining documentation for reporting processes, data definitions, query logic, migration mappings, and technical workflows. Managing multiple reporting priorities and stakeholder requests with strong attention to detail and limited oversight. Required Qualifications 3+ years of hands-on SQL experience using Snowflake, Databricks, SSRS , or similar data platforms. 3+ years of experience developing dashboards and reports in BI visualization tools such as Tableau, Power BI, Looker, or similar platforms. Demonstrated experience converting manual or legacy reporting workflows into automated BI, dashboard, or reporting solutions. Demonstrated experience translating reporting logic, SQL queries, or business rules across systems, data warehouses, or reporting platforms. Experience gathering requirements from business stakeholders and converting them into technical specifications, reporting logic, or dashboard solutions. Proven ability to validate data, investigate discrepancies, and ensure reporting accuracy. Familiarity with AI tools such as ChatGPT, Claude, Copilot and their applications. Elsevier employs 10,000 people worldwide, including over 2,500 technologists. We have supported the work of our research and health partners for more than 140 years. Growing from our roots in publishing, we offer knowledge and valuable analytics that help our users make breakthroughs and drive societal progress. &#xa;&#xa;U.S. National Base Pay Range: $71,600 - $119,400. Geographic differentials may apply in some locations to better reflect local market rates.&#xa;&#xa;If performed in Illinois, the base pay range is $75,200 - $125,500.If performed in Chicago, IL, the base pay range is $78,700 - $131,400.&#xa;&#xa;This job is eligible for an annual incentive bonus.&#xa;&#xa;&#xa;&#xa;&#xa;&#xa; We know your well-being and happiness are key to a long and successful career. We are delighted to offer country specific benefits. Click here to access benefits specific to your location. We are committed to providing a fair and accessible hiring process. If you have a disability or other need that requires accommodation or adjustment, please let us know by completing our Applicant Request Support Form or please contact 1-855-833-5120. Criminals may pose as recruiters asking for money or personal information. We never request money or banking details from job applicants. Learn more about spotting and avoiding scams here . Please read our Candidate Privacy Policy .
+
+---
+
+## 23. [MAYBE] Brown University | Research Assistant
 - Link: https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/RT---Massachusetts/Research-Assistant_REQ212010
 - Location: RT - Massachusetts
 - Posted: Nov 05 (board gives the date only)
@@ -418,4 +479,18 @@ About the role Scale's Global Public Sector team uses AI to address critical cha
 ### Job description
 
 Job Description: Position Purpose The Research Assistant position is responsible for recruiting and working with participants for a research study evaluating the overlaps between HIV, hepatitis C, and drug use across New England. (RISE-NE). RISE-NE involves working with people who use drugs and people at risk for or living with HIV to understand a changing risk and resource landscape over a period of many years. In this position, Research Assistants will conduct surveys with qualified participants at syringe services programs across Central and Western Massachusetts. This position requires the ability to travel between different community partner sites and be flexible in fast-paced settings where participants are often unhoused or at least facing many different kinds of structural vulnerability. This position also requires the ability to conduct research in English and Spanish. The Research Assistant will work closely with the Project Director, a Project Coordinator, other Research Assistants, staff members at community agencies, and Principal Investigators of RISE-NE. Job-related activities include, but are not limited to: study visit preparation, participant screening and recruitment (including direct outreach and field-based recruitment), participant retention activities, and survey conduct. The Research Assistant will also have to manage biological samples (i.e., blood and/or urine), and may be trained in phlebotomy. There may be future opportunities to be trained in qualitative research methods. The Research Assistant will have the opportunity to be part of a dynamic team, work with key state stakeholders (e.g., local harm reduction agencies), and contribute to some of the most pressing public health problems in the region. This position will be working in the location of Central and Western Massachusetts, and will travel to different community sites that range from Springfield to the northwest corner of Massachusetts. The position will entail having four days at community sites, and one day remote. All offers of employment are contingent upon a criminal background check and education verification satisfactory to Brown University. This is a fixed-term position with a current end date of December 31, 2027, which may be extended based upon available funding. Job Qualifications Education and Experience Bachelor’s degree in relevant field and 1 to 2 years of experience (e.g., public health, anthropology, sociology, social work or other related field. Or equivalent combination of education and experience. Lived experience will be considered for peer-based research studies. Coursework in research methods is preferred 1+ years relevant work experience in the field of substance use (including but not limited to overdose prevention and harm reduction), HIV, public health, health services, or other relevant fields preferred Experience with survey and database software, such as Qualtrics or REDCap, preferred Experience in qualitative and/or ethnographic data collection methods and analysis, with evidence of strong facilitation skills preferred Comfort and experience working with people who use drugs, people living with HIV, and/or other vulnerable populations Community-based research experience preferred Phlebotomy trained preferred Job Competencies Experience and comfort working with people who use drugs and/or people living with HIV Strong software proficiency (i.e. Microsoft Office [Word, Excel, PowerPoint]), with willingness to learn and utilize new software applications as needed (e.g. REDCap, Qualtrics, NVivo). Proven ability to work effectively manage a caseload of participants, including setting priorities and meeting deadlines for administrative work. Strong interest in public health, with a focus on harm reduction and substance use Excellent verbal and written communication skills, strong interpersonal skills Strong attention to detail, high level of professionalism and organization required Efficient time management skills Knowledge of human subjects research procedures Able to conduct surveys and interviews in English and Spanish Reliable transportation to research and community sites is required. Ability to travel for continuous periods of 2 to 3 hours, as needed. Benefits of Working at Brown: Please review additional information on the Benefits of Working at Brown . Recruiting Start Date: 2026-10-26 Job Posting Title: Research Assistant Department: Department of Epidemiology Grade: Grade 8 Worker Type: Employee Worker Sub-Type : Fixed Term (Fixed Term) Time Type: Full time Scheduled Weekly Hours: 37.5 Position Work Location: Remote Submission Guidelines: The designated Position Work Location for each position determines the approved modality of work. Positions are classified based on the operational and business needs of the department and may be designated as on-site, hybrid, or remote. Employees with a designated position work location as remote must reside and perform their work in a state where Brown University is registered to do business. Brown University is a registered employer in the following states: Rhode Island, California, Colorado, Connecticut, Florida, Maryland, Massachusetts, New York, New Hampshire, New Jersey, North Carolina, Washington, D.C. Please note that to be considered for a staff position at Brown University, you must submit a separate application for each position you wish to be considered for. Applications are reviewed only for the specific position to which they are submitted and are not automatically considered for future openings. This position is not eligible for visa sponsorship. Still Have Questions? If you have any questions you may contact employment@brown.edu . Brown is an
+
+---
+
+## 24. [MAYBE] PennState University | LER Research Assistant
+- Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/LER-Research-Assistant_REQ_0000084061-1
+- Location: Penn State University Park
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: part-time
+- Title scope: core | Has: statistic, reporting, research | Lacks: -  | Note: part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+
+### Job description
+
+APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process . Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday. If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants . Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants . JOB DESCRIPTION AND POSITION REQUIREMENTS The School of Labor and Employment Relations is seeking applicants for part-time Research Assistant. The duties and responsibilities of the successful candidate will include assisting the following: Conducting Interviews Transcribing Interviews Data Analyses The duties associated with this position require specialized qualitative research skills that go beyond routine administrative or research support functions. The individual must have demonstrated experience conducting and documenting in-depth qualitative interviews, applying culturally sensitive interviewing techniques, managing confidential research data, conducting scholarly literature reviews, and supporting qualitative data analysis. These responsibilities require prior training and experience in qualitative research methodologies and the ability to work independently with minimal supervision. BACKGROUND CHECKS/CLEARANCES Employment with the University will require successful completion of background check(s) in accordance with University policies. CAMPUS SECURITY CRIME STATISTICS Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here .
 
