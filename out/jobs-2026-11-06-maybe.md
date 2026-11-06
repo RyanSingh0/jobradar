@@ -12,22 +12,25 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 6 | Lloyds Bank | Financial Crime Data & Automation Analyst | 62 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
 | 7 | S&P Global | OTC Derivatives Analyst | 62 | 5 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
 | 8 | ENOVIS | HR Specialist – HR Analytics & Operations | 57 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 9 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 10 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
-| 11 | Texas A&M University - College Station | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 12 | Texas A&M University - College Station | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 13 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 14 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 15 | Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 16 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
-| 17 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 18 | Höganäs | AI & Data Analytics Engineer | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 19 | AeroVect | Software Engineer, ML Ops | 44 | none found (check myvisajobs) | Nov 06 09:06 ET |
-| 20 | Scale AI | Applied AI Engineer | 44 | 16 in data/analytics/finance occupations | Nov 06 09:23 ET |
-| 21 | Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | 7 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 22 | RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 23 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 24 | PennState University | LER Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 9 | Turner & Townsend | Financial Operations and Data Analytics Specialist | 54 | 3 in data/analytics/finance occupations | Nov 06 11:09 ET |
+| 10 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 11 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
+| 12 | Texas A&M University - College Station | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 13 | Texas A&M University - College Station | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 14 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 15 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 16 | Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 17 | Procter & Gamble (P&G) | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 18 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
+| 19 | Entrust | Data Analyst | 47 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 20 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 21 | Höganäs | AI & Data Analytics Engineer | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 22 | AeroVect | Software Engineer, ML Ops | 44 | none found (check myvisajobs) | Nov 06 09:06 ET |
+| 23 | Scale AI | Applied AI Engineer | 44 | 16 in data/analytics/finance occupations | Nov 06 09:23 ET |
+| 24 | Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | 7 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 25 | RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 26 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 27 | PennState University | LER Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
 
 ---
 
@@ -229,7 +232,21 @@ About the Role: Grade Level (for internal use): 08 The Team: Portfolio Valuation
 
 ---
 
-## 9. [MAYBE] Open Avenues Foundation | Data Engineer H/F
+## 9. [MAYBE] Turner & Townsend | Financial Operations and Data Analytics Specialist
+- Link: https://jobs.smartrecruiters.com/TurnerTownsend/744000160245800
+- Location: New York New York us
+- Posted: Nov 06 11:09 ET
+- Scanner fit: ~54 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, forecast, credit, quantitative, reporting | Lacks: -
+
+### Job description
+
+Turner & Townsend is seeking an analytical individual to join our NY Real Estate Office. This role will be responsible for the preparation and support of monthly operational financial reports for commercial real estate construction projects and ensuring the accuracy, completeness, and timeliness of reports. Furthermore, this individual will be responsible for collaborating with the wider business in the aggregation of financial information to assist in the documentation, review, and communication. Duties Include: Set up and maintain contract / projects on the Financial Management System – Dynamics (charge rates, project forecasts, forecast spread) Responsible for the monthly, quarterly and annual forecasting reviews with Project Directors / Leadership team Explain invoiced values against forecast values and budget variances Maintaining up to date data (opportunities, forecasts, invoicing, POs) within Dynamics 365 Reviewing and analyzing utilisation data from Dynamics 365 Responsible for reconciliation checks across financial data to omit errors to improve report accuracy Responsible for the monthly invoices and billing reports on key accounts Management and collation of client timesheets to support invoicing on key accounts Responsible for the monthly finance report to the external client on key accounts Dealing first hand with financial queries from operational staff Management of Interco agreements and Interco Purchase orders as well as Subcontractor PO’s Management of internal financial transfers, invoicing and agreements Management of contractor costs Undertake monthly, quarterly and annual forecasting and margin reviews Support for the Credit Control team Provision of data for reports and audits Respond to requests for information on profitability Support leadership teams in providing Finance related messages and confidence to the business Key Attributes Quantitative skills – understanding and manipulating numbers and data Strong Excel Skills (including Sumif, VLOOKUP, Pivot tables, and Graphs) Working knowledge of D365 preferable but not essential High level of accuracy and attention to detail Strong organization and time management Ability to work on own initiative and meet tight deadlines Flexible and responsive attitude Working knowledge of PowerBI preferable but not essential Bachelor’s degree in accounting, finance, business administration, or related field. Minimum of 2 years of experience working within an accountancy/finance-based position Working knowledge of budgeting, forecasting, invoicing and management Understanding of GAAP financial reporting standards. Excellent analytical, organizational, and project management skills. Effective communication skills with the ability to present financial information. Experience in a fast-paced, dynamic environment. *On-site presence and requirements may change depending on our client's needs* *SOX control responsibilities may be part of this role, which are to be adhered to where applicable. Our inspired people share our vision and mission. We provide a great place to work, where each person has the opportunity and voice to affect change. We want our people to succeed both in work and life. To support this we promote a healthy, productive and flexible working environment that respects work-life balance. Turner & Townsend
+
+---
+
+## 10. [MAYBE] Open Avenues Foundation | Data Engineer H/F
 - Link: https://open.wd103.myworkdayjobs.com/OPEN/job/Nantes-Sud/Data-Engineer-H-F_R16557-1
 - Location: Nantes Sud
 - Posted: Nov 05 (board gives the date only)
@@ -243,7 +260,7 @@ About the Role: Grade Level (for internal use): 08 The Team: Portfolio Valuation
 
 ---
 
-## 10. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
+## 11. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686296
 - Location: Long Island City NY us
 - Posted: Nov 06 06:31 ET
@@ -257,7 +274,7 @@ The NYC Health Department’s Bureau of Hepatitis, HIV, and Sexually Transmitted
 
 ---
 
-## 11. [MAYBE] Texas A&M University - College Station | Research Assistant
+## 12. [MAYBE] Texas A&M University - College Station | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098615-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -271,7 +288,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 12. [MAYBE] Texas A&M University - College Station | Research Associate
+## 13. [MAYBE] Texas A&M University - College Station | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Associate_R-098614-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -285,7 +302,7 @@ Job Title Research Associate Agency Texas A&M University Department Psychology P
 
 ---
 
-## 13. [MAYBE] Texas A&M University System | Research Assistant
+## 14. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098615
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -299,7 +316,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 14. [MAYBE] Texas A&M University System | Research Associate
+## 15. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-098614
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -313,7 +330,7 @@ Job Title Research Associate Agency Texas A&M University Department Psychology P
 
 ---
 
-## 15. [MAYBE] Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US
+## 16. [MAYBE] Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US
 - Link: https://mckesson.wd3.myworkdayjobs.com/SCRI_Careers/job/USA-TX-Remote/Product-Analyst--Digital-Transformation---Remote-US_JR0156906
 - Location: USA, TX, Remote
 - Posted: Nov 05 (board gives the date only)
@@ -327,7 +344,21 @@ It’s More Than a Career, It’s a Mission. Our people are the foundation of ou
 
 ---
 
-## 16. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
+## 17. [MAYBE] Procter & Gamble (P&G) | Data Engineer
+- Link: https://pg.wd5.myworkdayjobs.com/1000/job/PANAMA-BUSINESS-CENTER/Data-Engineer_R000162494
+- Location: PANAMA BUSINESS CENTER
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: llm, machine learning, python, spark, sql, data quality, git, pipeline, portfolio, segmentation | Lacks: azure, databricks, scala  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Job Location PANAMA BUSINESS CENTER Job Description Job type: Managerial full-time position Start date: As soon as possible. Location: Panama (relocation support available). Profile: 3+ Years of relevant relevant experience in data engineering or software engineering in production environments. Accommodations: P&G is committed to providing accommodations to any applicant with a disability during the recruitment, assessment, and selection process. If you need an accommodation related to your disability in order to participate in the recruitment process, please click here to submit your request. If you require an accommodation for the assessment process: 1) submit your request, 2) do not complete either assessment until you have been contacted for documentation verification. Do you thrive in fast-paced environments where your problem-solving skills can shine? If so, this is the perfect opportunity for you! We are looking for a passionate Data Engineer with strong eCommerce domain expertise to own and evolve the data infrastructure powering our operations across Latin America. You will design end-to-end pipelines, integrate high-volume platforms and deliver data products that fuel analytics and intelligent commerce experiences. You will join a renowned company improving lives of billions of consumers. You’ll be welcomed within a large team of Data Engineers with diverse backgrounds and seniorities whereby you will take ownership of eCommerce integration projects supporting Latin American markets. With us you will: Build scalable eCommerce data pipelines Design, develop, and operate batch-oriented data pipelines using Azure Databricks, PySpark, Spark SQL, and Delta Lake. Build and publish data products across domains: catalog, pricing, promotions, inventory, orders, payments, fulfillment, and returns. Design incremental processing patterns supporting backfills, late arriving data, and schema evolution. Create reusable pipeline components and ensure products meet performance, quality, and reliability standards. Integrate eCommerce platforms and APIs Build and maintain integrations with Amazon and other eCommerce, payment, logistics, and enterprise systems. Develop ingestion solutions via REST APIs, webhooks, files, and cloud native interfaces. Handle real-world API challenges: authentication, pagination, rate limits, retries, idempotency, and schema evolution. Build monitoring and recovery mechanisms for critical integrations across Latin American markets. Engineer for performance and reliability Optimize Spark workloads through partitioning, join strategies, caching, and query-plan analysis. Implement automated data quality controls and observability through metrics, alerting, and lineage. Design pipelines that are scalable, idempotent, fault tolerant, and recoverable. Drive root cause analysis and deliver permanent solutions for production issues. What we offer you: Relocation support to Panamá. Responsibilities from Day 1, allowing you to take ownership of your projects. A dynamic and supportive work environment that promotes agility and work/life balance. Work in international teams with regional or global responsibilities. A competitive salary and benefits package. Long-term career with development and growth opportunities Continuous mentorship from passionate colleagues and formal training opportunities. Job Qualifications 3-5 years of experience in data engineering or software engineering in production environments. Bachelor degree in Software Engineering, Computer Science or similar. Proven experience in eCommerce, digital marketplaces, retail, or high-volume transactional platforms. Knowledge of eCommerce data domains: catalog, pricing, inventory, orders, payments, fulfillment, and returns. Direct experience integrating with REST APIs. Deep hands-on experience with Python, PySpark and SQL at scale. Experience building production grade pipelines on Databricks or equivalent platform. Solid understanding of batch processing, incremental ingestion, data modeling, and data quality practices. Software engineering discipline: version control, automated testing, CI/CD, code reviews, and production monitoring. Professional proficiency in Spanish and English . Nice-to-have: Advanced Databricks expertise: Delta Lake, Unity Catalog, Workflows, Auto Loader, MLflow, and workload optimization. Amazon Marketing Cloud experience. Experience operationalizing machine learning or AI models in production. Important Note for Candidates: Before submitting your application, we strongly encourage you to review the following material: Hiring Process and Assessment Information . Familiarizing yourself with this content will help you be better prepared for the online assessments and enhance your chances of success. About Us: P&G serves consumers worldwide with a strong portfolio of trusted brands, including Always®, Ariel®, Crest®, Gillette®, Pampers®, and Tide®. Our community operates in approximately 70 countries. For more information about us and our brands, please visit www.pg.com .
+
+---
+
+## 18. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686496
 - Location: Long Island City NY us
 - Posted: Nov 06 06:32 ET
@@ -341,7 +372,21 @@ The New York City Department of Health and Mental Hygiene (NYC DOHMH)'s Bureau o
 
 ---
 
-## 17. [MAYBE] WSP | AI Engineer (Advisory)
+## 19. [MAYBE] Entrust | Data Analyst
+- Link: https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Data-Analyst_R004482
+- Location: United States - Shakopee, MN (GHQ)
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~47 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, excel, power bi, tableau, data quality, pipeline, portfolio, reporting, research, validation | Lacks: looker, salesforce, sap, scala
+
+### Job description
+
+Join us at Entrust At Entrust, we’re shaping the future of identity centric security solutions. From our comprehensive portfolio of solutions to our flexible, global workplace, we empower careers, foster collaboration, and build solutions that help keep the world moving safely. Entrust's values are a cornerstone of who we are, our future business growth and how our people grow through it. We model our values by demonstrating that Customer Trust Is Earned , moving with purpose because Speed Is Intentional , taking accountability because We Own the Outcome , and building a collaborative culture where One Entrust Wins Together . Get to Know Us Headquartered in Minnesota, Entrust is an industry leader in identity-centric security solutions, serving over 150 countries with cutting-edge, scalable technologies. But our secret weapon? Our people. It’s the curiosity, dedication, and innovation that drive our success and help us anticipate the future. The Data Analyst will report to the Manager of Data Analytics and support Entrust’s Revenue Operations, Sales, Compensation, and Customer Success organizations through the development, maintenance, validation, and improvement of business reporting and analytics. The role works with stakeholders across the organization to investigate data questions, maintain accurate customer and account mappings, support compensation-related reporting, troubleshoot reporting discrepancies, and turn business requirements into reliable analytical solutions. This is a hands-on analytics role requiring someone who can move comfortably between business questions, detailed data investigation, Tableau development, Excel-based analysis, source-system research, and stakeholder communication. Responsibilities: · Own and maintain Tableau dashboards and reporting supporting NRR, GRR, ACV, retention, sales performance, pipeline analytics, and customer analytics, including ongoing enhancement. Must stay up to date with emerging trends and technologies in data management, BI, and analytics, making recommendations for their adoption and integration into existing systems Communicate analytical findings clearly to stakeholders, explaining dashboard methodology, underlying data, assumptions, refresh timing, and known limitations. The role includes presenting and explaining reporting to business users. Develop repeatable and scalable processes that reduce manual work and improve the efficiency, integrity, and reliability of recurring reporting. Investigate discrepancies across invoices, contracts, customer mappings, dates, transactions, products, and other source data, and determine how those issues affect downstream reporting. · Prioritize and translate business requirements into new/enhanced data solutions or services in a clear and concise manner. · Monitor and optimize the performance of data systems, implementing proactive measures to address bottlenecks and improve efficiency Maintain and improve customer and sales-account mappings used in retention and compensation reporting, including identifying customers with missing assignments and coordinating corrections with business stakeholders. Work closely with Business Intelligence teams to architect, develop, and continuously improve data sources, ensuring data quality, scalability, and alignment with evolving business and reporting requirements. Research complex contract and billing scenarios by working across source systems and with Revenue Ops, Contracts, BI, and other subject-matter experts Design, build, and maintain Tableau dashboards that provide actionable insights across business functions Engage in additional projects as assigned Basic Qualifications · Bachelor’s degree in Data Analytics, Business, or related field with 5+ years of experience working in data/analytical roles · Advanced Excel skills, including the ability to efficiently analyze and reconcile large datasets where the data may be unclear. · 3+ Years of Tableau experience or with similar data visualization tools (e.g., MS Power BI, Looker, Omni) and solid understanding of data design best practices · Able to effectively and clearly communicate business requirements · Experience creating reporting in Salesforce · Must be able to lawfully work within the US and have unrestricted work authorization for US Preferred Qualifications: · Familairity with AI Experience developing SaaS based metrics & reporting Experience working with Oracle eBusiness Suite, SAP Business Objects, Quicksight and Power BI Experience partnering with BI/data engineering teams on data governance, data-quality, refresh, or integration issues. Where you will be: This hybrid role requires three in‑office days per week in Minneapolis , MN Global HQ as outlined in the job description. Entrust operates with a distributed workforce. #LI-SD At Entrust, we don’t just offer jobs – we offer career journeys. Here is what you c an expect when you join our team: Career Growth: Whether you’re a budding developer or a seasoned expert, we’re invested in your professional journey. With learning-forward initiatives and exciting challenges, your growth is our priority. Flexibility: Life is all about balance. Whether you’re remote, hybrid, or on-site, we offer flexible options that fit your lifestyle. Collaboration: Here, your voice matters. Our teams thrive on sharing ideas, brainstorming solutions, and working together to build a better tomorrow. We believe in securing identities—but it doesn’t stop there. At Entrust, we’re passionate about valuing all identities. Our culture is built on diversity, inclusion, and respect. From unconscious bias training for our leaders to global affinity groups that connect colleagues across the globe, we’re creating a community where everyone is encouraged to be themselves. Ready to Make an Impact? If you’re excited by the prospect of innovating, growing your career, and collaborating in a dynamic environment, Entrust is the place for you. Join us in making a difference. Let’s build a more secure world—together. Apply today! For more information, visit www.entrust.com . Follow us on, LinkedIn , Facebook , Instagram , and YouTube Compensation Range: The anticipated starting base pay for this position is: $87,118-$127,773 per year (in the primary posting location). Actual compensation will be determined based on geographic location, education, skills and experience. This position is also eligible for the company’s discretionary annual incentive plan. In addition to your pay, Entrust offers eligible colleagues and their dependents comprehensive health and well-being programs which include medical, vision, dental, a generous 401(k) matching contribution, life and disability insurance, mental health coaching, virtual fitness programs, paid personal time off plus 12 paid holidays, parental leave and education reimbursement. Please speak with the recruiter for more details. Note: Benefit and Compensation programs are subject to eligibility requirements and other te [...]
+
+---
+
+## 20. [MAYBE] WSP | AI Engineer (Advisory)
 - Link: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98887
 - Location: Cambridge, Cambridgeshire, United Kingdom GB London, London, United Kingdom
 - Posted: Nov 06 (board gives the date only)
@@ -355,7 +400,7 @@ What if you could do the kind of work the world needs? At WSP, you can access ou
 
 ---
 
-## 18. [MAYBE] Höganäs | AI & Data Analytics Engineer
+## 21. [MAYBE] Höganäs | AI & Data Analytics Engineer
 - Link: https://hoganas.wd3.myworkdayjobs.com/Careers/job/Hgans/AI---Data-Analytics-Engineer_JR1465
 - Location: Höganäs
 - Posted: Nov 05 (board gives the date only)
@@ -369,7 +414,7 @@ About the Position As an AI & Data Analytics Engineer, you will work with techni
 
 ---
 
-## 19. [MAYBE] AeroVect | Software Engineer, ML Ops
+## 22. [MAYBE] AeroVect | Software Engineer, ML Ops
 - Link: https://jobs.ashbyhq.com/AeroVect/6058be12-918f-4016-87d8-cdbeb0ecdfbf
 - Location: Toronto Canada remote
 - Posted: Nov 06 09:06 ET
@@ -426,7 +471,7 @@ Please note this role will be based onsite in Toronto
 
 ---
 
-## 20. [MAYBE] Scale AI | Applied AI Engineer
+## 23. [MAYBE] Scale AI | Applied AI Engineer
 - Link: https://job-boards.greenhouse.io/scaleai/jobs/4751059005
 - Location: Kuwait City, Kuwait
 - Posted: Nov 06 09:23 ET
@@ -440,7 +485,7 @@ About the role Scale's Global Public Sector team uses AI to address critical cha
 
 ---
 
-## 21. [MAYBE] Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS
+## 24. [MAYBE] Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS
 - Link: https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/St-Louis-MO/Business-Intelligence-Analyst---Snowflake--Databricks--SSRS_R119700-1
 - Location: 6 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -454,7 +499,7 @@ Are you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS ) 
 
 ---
 
-## 22. [MAYBE] RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS
+## 25. [MAYBE] RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS
 - Link: https://relx.wd3.myworkdayjobs.com/relx/job/St-Louis-MO/Business-Intelligence-Analyst---Snowflake--Databricks--SSRS_R119700
 - Location: 6 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -468,7 +513,7 @@ Are you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS ) 
 
 ---
 
-## 23. [MAYBE] Brown University | Research Assistant
+## 26. [MAYBE] Brown University | Research Assistant
 - Link: https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/RT---Massachusetts/Research-Assistant_REQ212010
 - Location: RT - Massachusetts
 - Posted: Nov 05 (board gives the date only)
@@ -482,7 +527,7 @@ Job Description: Position Purpose The Research Assistant position is responsible
 
 ---
 
-## 24. [MAYBE] PennState University | LER Research Assistant
+## 27. [MAYBE] PennState University | LER Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/LER-Research-Assistant_REQ_0000084061-1
 - Location: Penn State University Park
 - Posted: Nov 05 (board gives the date only)
