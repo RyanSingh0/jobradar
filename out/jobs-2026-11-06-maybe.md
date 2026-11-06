@@ -13,35 +13,42 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 7 | S&P Global | OTC Derivatives Analyst | 62 | 5 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
 | 8 | Sherwin-Williams | R&D Analyst | 62 | 8 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
 | 9 | CVS Health | Analyst, Omnichannel Analytics | 60 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
-| 10 | ENOVIS | HR Specialist – HR Analytics & Operations | 57 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 11 | Turner & Townsend | Financial Operations and Data Analytics Specialist | 54 | 3 in data/analytics/finance occupations | Nov 06 11:09 ET |
-| 12 | Axos Bank | Construction Risk Analyst | 54 | 6 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 13 | Charles Schwab | Job Posting Title Credit Research Analyst | 54 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 14 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 15 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
-| 16 | Texas A&M University - College Station | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 17 | Texas A&M University - College Station | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 18 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 19 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 20 | Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 21 | Procter & Gamble (P&G) | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 22 | CVS Health | Renewal and Reporting Analyst | 50 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
-| 23 | Center for Strategic and International Studies | Research Assistant,  Defense Analysis Program | 50 | none found (check myvisajobs) | Nov 06 13:07 ET |
-| 24 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
-| 25 | Entrust | Data Analyst | 47 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 26 | Thales | AI Engineer - Graduate | 47 | 2 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 27 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 28 | Höganäs | AI & Data Analytics Engineer | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 29 | AeroVect | Software Engineer, ML Ops | 44 | none found (check myvisajobs) | Nov 06 09:06 ET |
-| 30 | Scale AI | Applied AI Engineer | 44 | 16 in data/analytics/finance occupations | Nov 06 09:23 ET |
-| 31 | Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | 7 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 32 | RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 33 | Blockhouse | Quant Developer, Trading Systems (Rust and C++) | 44 | none found (check myvisajobs) | Nov 06 12:29 ET |
-| 34 | Ameriprise Financial | Equities Portfolio Analyst I | 44 | 11 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 35 | JP Morgan Chase | Quantitative Trading & Research - EM Rates - Associate | 42 | 1098 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 36 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 37 | PennState University | LER Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 38 | JM Family | Data Analyst I | 40 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 10 | CVS Health | Analyst, Omnichannel Analytics | 60 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 11 | Rural King | Title Inventory Data Analyst | 59 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 12 | ENOVIS | HR Specialist – HR Analytics & Operations | 57 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 13 | U.S. Bank | Trust Reporting Analyst -  Collateralized Loan Obligation (multiple levels) | 57 | 82 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 14 | Turner & Townsend | Financial Operations and Data Analytics Specialist | 54 | 3 in data/analytics/finance occupations | Nov 06 11:09 ET |
+| 15 | Axos Bank | Construction Risk Analyst | 54 | 6 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 16 | Charles Schwab | Job Posting Title Credit Research Analyst | 54 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 17 | Turner & Townsend | Financial Operations and Data Analytics Specialist | 54 | 3 in data/analytics/finance occupations | Nov 06 14:52 ET |
+| 18 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 19 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
+| 20 | Texas A&M University - College Station | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 21 | Texas A&M University - College Station | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 22 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 23 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 24 | Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 25 | Procter & Gamble (P&G) | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 26 | CVS Health | Renewal and Reporting Analyst | 50 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 27 | Center for Strategic and International Studies | Research Assistant,  Defense Analysis Program | 50 | none found (check myvisajobs) | Nov 06 13:07 ET |
+| 28 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
+| 29 | Entrust | Data Analyst | 47 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 30 | Thales | AI Engineer - Graduate | 47 | 2 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 31 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 06 14:09 ET |
+| 32 | Anthropic | Political Economist, Rule of Law | 45 | 31 in data/analytics/finance occupations | Nov 06 14:22 ET |
+| 33 | University of Virginia | Research Assistant - Higher Education and Language Assessment | 45 | cap-exempt employer | Nov 06 (board gives the date only) |
+| 34 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 35 | Höganäs | AI & Data Analytics Engineer | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 36 | AeroVect | Software Engineer, ML Ops | 44 | none found (check myvisajobs) | Nov 06 09:06 ET |
+| 37 | Scale AI | Applied AI Engineer | 44 | 16 in data/analytics/finance occupations | Nov 06 09:23 ET |
+| 38 | Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | 7 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 39 | RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 40 | Blockhouse | Quant Developer, Trading Systems (Rust and C++) | 44 | none found (check myvisajobs) | Nov 06 12:29 ET |
+| 41 | Ameriprise Financial | Equities Portfolio Analyst I | 44 | 11 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 42 | JP Morgan Chase | Quantitative Trading & Research - EM Rates - Associate | 42 | 1098 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 43 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 44 | PennState University | LER Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 45 | JM Family | Data Analyst I | 40 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
 
 ---
 
@@ -257,7 +264,35 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 10. [MAYBE] ENOVIS | HR Specialist – HR Analytics & Operations
+## 10. [MAYBE] CVS Health | Analyst, Omnichannel Analytics
+- Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Massachusetts/Analyst--Omnichannel-Analytics_R1036980-1
+- Location: 5 Locations
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~60 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: a/b test, aws, dashboard, data visualization, python, sql, statistic, git, kpi, quantitative, reporting | Lacks: scala, snowflake  | Note: no H-1B filings found for this employer
+
+### Job description
+
+We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time. Position Summary The Omnichannel Analytics team is responsible for providing visibility into digital performance to help shape and accelerate CVS Health's digital growth strategy. As an Analyst on this team, you will partner closely with leaders and cross-functional teams across Retail to deliver actionable insights that drive business decisions. This role combines technical analytics expertise with business storytelling, requiring you to transform complex data into meaningful recommendations. You will be responsible for developing partner-facing reports and dashboards, writing complex SQL queries, analyzing test results, and uncovering insights across various digital and order channels. This position is ideal for someone who enjoys both the technical and strategic sides of analytics and is passionate about using data to solve business challenges. This position is not eligible for visa sponsorship. Candidates requiring CPT, OPT, H-1B, or other employment-based sponsorship now or in the future are not eligible for this role. Key Responsibilities Support the development and execution of the Omnichannel Data Strategy. Create and maintain partner-facing reports, dashboards, and visualizations to provide visibility into business performance. Write complex SQL queries and perform data cleansing to support reporting and analysis needs. Conduct ad hoc analyses and respond to data requests from business partners across the organization. Assist with short- and long-term projects, including test design, A/B testing, performance measurement, and results analysis. Support the enhancement and maintenance of the self-service reporting ecosystem. Partner with teams across Data Strategy, Data Engineering, Data Science, and other analytics functions to improve processes and reporting capabilities. Monitor and analyze daily, weekly, monthly, and annual digital performance metrics and key website KPIs. Communicate findings, trends, and recommendations to stakeholders through presentations and reporting. Explore new data sources and analytical approaches that deepen understanding of customer behavior and business performance. Ideal Candidate The ideal candidate is curious, data-driven, and comfortable working across both technical and business environments. They enjoy uncovering insights from data, building scalable reporting solutions, and translating analytical findings into recommendations that support strategic decision-making Required Qualifications 1+ years of hands-on experience in data analysis using tools such as SQL, Python, Snowflake, or similar technologies. 1+ years of experience in an analytics role, driving business insights and delivering measurable outcomes. 1+ years of experience developing data visualizations, dashboards, and reports. 1+ years of experience designing, executing, and analyzing A/B tests. Strong analytical, problem-solving, and critical thinking skills. Ability to communicate complex findings to both technical and non-technical audiences. Preferred Qualifications Experience collaborating across multiple business units and cross-functional teams. Experience with advanced analytics methodologies and statistical analysis techniques. Exposure to statistical modeling and predictive analytics. Experience working with cloud-based data warehouse platforms. Strong presentation and data storytelling skills with the ability to influence business decisions through analytics. Education Bachelor’s degree in quantitative field, or an equivalent combination of formal education and experience. Anticipated Weekly Hours 40 Time Type Full time Pay Range The typical pay range for this role is: $43,888.00 - $93,574.00 This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. Our people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong. Great benefits for great people We take pride in offering a comprehensive and competitive mix of pay and benefits that reflects our commitment to our colleagues and their families. This full‑time position is eligible for a comprehensive benefits package designed to support the physical, emotional, and financial well‑being of colleagues and their families. The benefits for this position include medical, dental, and vision coverage, paid time off, retirement savings options, wellness programs, and other resources, based on eligibility. Additional details about available benefits are provided during the application process and on Benefits Moments . We anticipate the application window for this opening will close on: 11/14/2026 Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.
+
+---
+
+## 11. [MAYBE] Rural King | Title Inventory Data Analyst
+- Link: https://careers-ruralking.icims.com/jobs/42726/inventory-data-analyst/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~59 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, forecast, power bi, python, regression, sql, time series, healthcare | Lacks: looker, sap  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Inventory Data Analyst in Mattoon, Illinois | Careers at Store Support Center Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Job Listings Page Returning Candidate? Log back in! Inventory Data Analyst Location : Location US-IL-Mattoon ID 2026-42726 Category Merchandising Type Regular Full-Time Overview About us Rural King is America’s Farm and Home Store, providing essentials to the communities we serve. With a wide array of necessities ranging from food and feed to farm and home products, Rural King serves over 150 locations across 17 states and is constantly expanding . Our annual sales exceed $2.5 Billion , and our heart beats in Mattoon, IL, home to our corporate office, distribution center, and flagship store. One thing our customers appreciate is our unique shopping experience, complete with complimentary popcorn and coffee . It's just one way we show our appreciation for their support. At Rural King, we value our associates and strive to create a positive, rewarding workplace. We offer growth opportunities, competitive benefits, and a people-first environment where dedicated individuals come together to serve rural communities passionately. Join us, and you'll find not just a job but a chance to grow professionally , contribute meaningfully, and make a difference in the lives of those we serve. How we reward you 401(k) plan that provides a 100% match on the first 3% of your contributions and 50% of the next 2% Healthcare plans to support your needs Virtual doctor visits Access to Centers of Excellence with Barnes Jewish Hospital and Mayo Clinic’s Complex Care Program 15% Associate Discount Dave Ramsey’s SmartDollar Program Associate Assistance Program RK Cares Associate Hardship Program 24/7 Chaplaincy Services Company paid YMCA Family Members Responsibilities What You’ll do As an Inventory Data Analyst, you will play a critical role in supporting our replenishment and inventory planning strategies across 140+ retail locations and distribution centers. You will be responsible for analyzing historical sales data, vendor performance, and SKU-level trends to drive more accurate demand forecasts, reduce stockouts, and optimize inventory turnover. Analyze category-level trends to generate insights that inform replenishment strategies and safety stock levels. Develop and maintain reports and dashboards (Power BI, Excel, Looker) to support daily inventory decision-making. Track vendor performance, including fill rates, lead time analysis, delivery schedules, and compliance metrics. Collaborate with category teams, replenishment analysts, and demand planners to align on forecast needs and ordering strategies. Build and refine data models to support forecast reviews and drive inventory efficiency. Support new store performance tracking and ensure inventory readiness pre- and post-opening. Investigate root causes of overstock, stockouts, and dead stock using data mining and trend analysis. Review and help define ordering policies and replenishment strategies based on safety stock, lead times, and forecast accuracy. Use discretion and independent judgment in daily decisions while maintaining a high level of confidentiality and professionalism. Actively participate in learning initiatives offered such as training programs, workshops, and webinars. Leverage these opportunities to acquire new knowledge, refine existing skills, and stay current on the latest developments. Provide friendly, proactive, and professional internal and external support to others, assisting with inquiries, concerns, and issues promptly and effectively. Demonstrate behaviors that exemplify Rural King’s Values: People First, Integrity, Attitude, Initiative, Teamwork, Accountability, and Continuous Improvement. Perform other duties as assigned. Supervisory Responsibilities None Qualifications Essential Qualities for Success At least 1 year in a data-driven role or analytics experience and a bachelor’s degree in Data Science, Supply Chain, Computer Science, or a related field of study, or equivalent combination of experience and education. Proficiency in SQL, Power BI, Excel, and Python for data querying, transformation, and visualization. Strong understanding of retail replenishment cycles, safety stock modeling, and store-level inventory dynamics. Familiarity with forecasting methodologies (e.g., linear regression, time series modeling). Experience with ERP systems and datasets (Oracle, SAP, or similar). Effective communication skills with the ability to present data-driven insights to cross-functional teams. High attention to detail and ability to manage and analyze large datasets accurately and efficiently. Comfortable navigating computer systems and software to assist customers or manage activities. Excellent verbal and written interpersonal and communication. Physical Requirements Ability to maintain a seated or standing position for extended durations. Capability to lift 15 pounds periodically. Ability to navigate and access all facilities. Skill to effectively communicate verbally with others, both in-person and via electronic devices. Close vision for computer-related activities.
+
+---
+
+## 12. [MAYBE] ENOVIS | HR Specialist – HR Analytics & Operations
 - Link: https://enovis.wd5.myworkdayjobs.com/enovis/job/Sfax-Sfax-Tunisia/HR-Specialist---HR-Analytics---Operations_R0034408-1
 - Location: Sfax, Sfax, Tunisia
 - Posted: Nov 05 (board gives the date only)
@@ -271,7 +306,21 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 11. [MAYBE] Turner & Townsend | Financial Operations and Data Analytics Specialist
+## 13. [MAYBE] U.S. Bank | Trust Reporting Analyst -  Collateralized Loan Obligation (multiple levels)
+- Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Houston-TX/Trust-Reporting-Analyst----Collateralized-Loan-Obligation--multiple-levels-_2026-0035195-1
+- Location: Houston, TX
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 82 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, healthcare, portfolio, reporting, trading | Lacks: -
+
+### Job description
+
+At U.S. Bank, we’re on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and discover what you excel at—all from Day One. Job Description This role has multiple levels , open to candidates with 2+ years of experience. The successful candidate will be hired for the level of the position that aligns with their experience. Please note that the salary range provided corresponds to the lowest level of the position posted. U.S. Bank Global Corporate Trust Services is one of the largest providers of corporate trust services in the world. Our clients look to us for trustee, agency, escrow, document custody and money market issuing services via our 48 domestic offices and three international offices. The Collateralized Loan Obligation (CLO) and Global Structured Finance (GSF) groups are divisions within U.S. Bank Global Corporate Trust Services and provide services on structured finance vehicles that issue both debt and equity liabilities, the proceeds of which are used to buy a portfolio of collateral such as syndicated bank loans, corporate bonds, ABS, MBS, CMBS and Mezzanine debt. These services include Trust Reporting, which requires review of the deal documents, set up of cashflow priorities, collection of periodic asset activity data, reporting to bondholders, and when required, trust tax reporting. Essential functions of the CLO Trust Reporting Analyst (levels 2 and 3) include: Read and interpret trust indentures with regard to reporting requirements. Create technical report specifications from indenture language. Set up payment calculations in a variety of in-house systems. Receive, map and reconcile periodic collateral data. As required, make tax elections, file for EIN’s, and track residual holder transfers. Additionally, the CLO Trust Reporting Analyst (levels 2 and 3) will perform portfolio compliance tests on a selection of structured fixed income deals (trade testing). Compile monthly, quarterly and annual payment and/or tax reports. Coordinates with operations teams to ensure correct payments are received and made. Perform quality control review of reports, meeting timeliness and accuracy standards. Frequent interaction with asset managers, investors, auditors and rating agencies. Basic Qualifications Bachelor’s degree in business, finance, economics, accounting or related field, or equivalent work experience Two to three years of relevant work experience Preferred Skills/Experience Basic understanding of syndicated bank loans, fixed income securities, securitization, trading or mutual funds Ability to identify and resolve exceptions and to interpret data Effective interpersonal, verbal and written communication skills Ability to perform multiple tasks and meet established deadlines in a dynamic working environment with minimal supervision Proficient computer navigation skills using a variety of software packages including Microsoft Office applications This position is not eligible for visa sponsorship. This role requires working from a U.S. Bank location three (3) or more days per week. If there’s anything we can do to accommodate a disability during any portion of the application or hiring process, please refer to our disability accommodations for applicants . Benefits: Our approach to benefits and total rewards considers our team members’ whole selves and what may be needed to thrive in and outside work. That's why our benefits are designed to help you and your family boost your health, protect your financial security and give you peace of mind. Our benefits include the following: Healthcare (medical, dental, vision) Basic term and optional term life insurance Short-term and long-term disability Pregnancy disability and parental leave 401(k) and employer-funded retirement plan Paid vacation (from two to five weeks depending on salary grade and tenure) Up to 11 paid holiday opportunities Adoption assistance Sick and Safe Leave accruals of one hour for every 30 worked, up to 80 hours per calendar year unless otherwise provided by law Review our full benefits available by employment status here . U.S. Bank
+
+---
+
+## 14. [MAYBE] Turner & Townsend | Financial Operations and Data Analytics Specialist
 - Link: https://jobs.smartrecruiters.com/TurnerTownsend/744000160245800
 - Location: New York New York us
 - Posted: Nov 06 11:09 ET
@@ -285,7 +334,7 @@ Turner & Townsend is seeking an analytical individual to join our NY Real Estate
 
 ---
 
-## 12. [MAYBE] Axos Bank | Construction Risk Analyst
+## 15. [MAYBE] Axos Bank | Construction Risk Analyst
 - Link: https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Construction-Risk-Analyst_JR5113-1
 - Location: HQ - San Diego, CA
 - Posted: Nov 06 (board gives the date only)
@@ -299,7 +348,7 @@ Axos Bank Target Range: $29.00/Hr. - $34.00/Hr. Actual starting pay will vary ba
 
 ---
 
-## 13. [MAYBE] Charles Schwab | Job Posting Title Credit Research Analyst
+## 16. [MAYBE] Charles Schwab | Job Posting Title Credit Research Analyst
 - Link: https://career-schwab.icims.com/jobs/129573/credit-research-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -313,7 +362,21 @@ Credit Research Analyst in Lone Tree, Colorado | Careers at DENR2 - DENVER RIDGE
 
 ---
 
-## 14. [MAYBE] Open Avenues Foundation | Data Engineer H/F
+## 17. [MAYBE] Turner & Townsend | Financial Operations and Data Analytics Specialist
+- Link: https://jobs.smartrecruiters.com/TurnerTownsend/744000160289439
+- Location: New York New York us
+- Posted: Nov 06 14:52 ET
+- Scanner fit: ~54 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, forecast, credit, quantitative, reporting | Lacks: -
+
+### Job description
+
+Turner & Townsend is seeking an analytical individual to join our NY Real Estate Office. This role will be responsible for the preparation and support of monthly operational financial reports for commercial real estate construction projects and ensuring the accuracy, completeness, and timeliness of reports. Furthermore, this individual will be responsible for collaborating with the wider business in the aggregation of financial information to assist in the documentation, review, and communication. Duties Include: Set up and maintain contract / projects on the Financial Management System – Dynamics (charge rates, project forecasts, forecast spread) Responsible for the monthly, quarterly and annual forecasting reviews with Project Directors / Leadership team Explain invoiced values against forecast values and budget variances Maintaining up to date data (opportunities, forecasts, invoicing, POs) within Dynamics 365 Reviewing and analyzing utilisation data from Dynamics 365 Responsible for reconciliation checks across financial data to omit errors to improve report accuracy Responsible for the monthly invoices and billing reports on key accounts Management and collation of client timesheets to support invoicing on key accounts Responsible for the monthly finance report to the external client on key accounts Dealing first hand with financial queries from operational staff Management of Interco agreements and Interco Purchase orders as well as Subcontractor PO’s Management of internal financial transfers, invoicing and agreements Management of contractor costs Undertake monthly, quarterly and annual forecasting and margin reviews Support for the Credit Control team Provision of data for reports and audits Respond to requests for information on profitability Support leadership teams in providing Finance related messages and confidence to the business Key Attributes Quantitative skills – understanding and manipulating numbers and data Strong Excel Skills (including Sumif, VLOOKUP, Pivot tables, and Graphs) Working knowledge of D365 preferable but not essential High level of accuracy and attention to detail Strong organization and time management Ability to work on own initiative and meet tight deadlines Flexible and responsive attitude Working knowledge of PowerBI preferable but not essential Bachelor’s degree in accounting, finance, business administration, or related field. Minimum of 2 years of experience working within an accountancy/finance-based position Working knowledge of budgeting, forecasting, invoicing and management Understanding of GAAP financial reporting standards. Excellent analytical, organizational, and project management skills. Effective communication skills with the ability to present financial information. Experience in a fast-paced, dynamic environment. *On-site presence and requirements may change depending on our client's needs* *SOX control responsibilities may be part of this role, which are to be adhered to where applicable. Our inspired people share our vision and mission. We provide a great place to work, where each person has the opportunity and voice to affect change. We want our people to succeed both in work and life. To support this we promote a healthy, productive and flexible working environment that respects work-life balance. Turner & Townsend
+
+---
+
+## 18. [MAYBE] Open Avenues Foundation | Data Engineer H/F
 - Link: https://open.wd103.myworkdayjobs.com/OPEN/job/Nantes-Sud/Data-Engineer-H-F_R16557-1
 - Location: Nantes Sud
 - Posted: Nov 05 (board gives the date only)
@@ -327,7 +390,7 @@ Credit Research Analyst in Lone Tree, Colorado | Careers at DENR2 - DENVER RIDGE
 
 ---
 
-## 15. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
+## 19. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686296
 - Location: Long Island City NY us
 - Posted: Nov 06 06:31 ET
@@ -341,7 +404,7 @@ The NYC Health Department’s Bureau of Hepatitis, HIV, and Sexually Transmitted
 
 ---
 
-## 16. [MAYBE] Texas A&M University - College Station | Research Assistant
+## 20. [MAYBE] Texas A&M University - College Station | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098615-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -355,7 +418,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 17. [MAYBE] Texas A&M University - College Station | Research Associate
+## 21. [MAYBE] Texas A&M University - College Station | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Associate_R-098614-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -369,7 +432,7 @@ Job Title Research Associate Agency Texas A&M University Department Psychology P
 
 ---
 
-## 18. [MAYBE] Texas A&M University System | Research Assistant
+## 22. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098615
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -383,7 +446,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 19. [MAYBE] Texas A&M University System | Research Associate
+## 23. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-098614
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -397,7 +460,7 @@ Job Title Research Associate Agency Texas A&M University Department Psychology P
 
 ---
 
-## 20. [MAYBE] Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US
+## 24. [MAYBE] Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US
 - Link: https://mckesson.wd3.myworkdayjobs.com/SCRI_Careers/job/USA-TX-Remote/Product-Analyst--Digital-Transformation---Remote-US_JR0156906
 - Location: USA, TX, Remote
 - Posted: Nov 05 (board gives the date only)
@@ -411,7 +474,7 @@ It’s More Than a Career, It’s a Mission. Our people are the foundation of ou
 
 ---
 
-## 21. [MAYBE] Procter & Gamble (P&G) | Data Engineer
+## 25. [MAYBE] Procter & Gamble (P&G) | Data Engineer
 - Link: https://pg.wd5.myworkdayjobs.com/1000/job/PANAMA-BUSINESS-CENTER/Data-Engineer_R000162494
 - Location: PANAMA BUSINESS CENTER
 - Posted: Nov 05 (board gives the date only)
@@ -425,7 +488,7 @@ Job Location PANAMA BUSINESS CENTER Job Description Job type: Managerial full-ti
 
 ---
 
-## 22. [MAYBE] CVS Health | Renewal and Reporting Analyst
+## 26. [MAYBE] CVS Health | Renewal and Reporting Analyst
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Delaware/Renewal-and-Reporting-Analyst_R1071607-1
 - Location: 51 Locations
 - Posted: Nov 06 (board gives the date only)
@@ -439,7 +502,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 23. [MAYBE] Center for Strategic and International Studies | Research Assistant,  Defense Analysis Program
+## 27. [MAYBE] Center for Strategic and International Studies | Research Assistant,  Defense Analysis Program
 - Link: https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4469940009
 - Location: Washington, D.C.
 - Posted: Nov 06 13:07 ET
@@ -453,7 +516,7 @@ JOB SUMMARY The Center for Strategic and International Studies (CSIS) is a non-p
 
 ---
 
-## 24. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
+## 28. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686496
 - Location: Long Island City NY us
 - Posted: Nov 06 06:32 ET
@@ -467,7 +530,7 @@ The New York City Department of Health and Mental Hygiene (NYC DOHMH)'s Bureau o
 
 ---
 
-## 25. [MAYBE] Entrust | Data Analyst
+## 29. [MAYBE] Entrust | Data Analyst
 - Link: https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Data-Analyst_R004482
 - Location: United States - Shakopee, MN (GHQ)
 - Posted: Nov 05 (board gives the date only)
@@ -481,7 +544,7 @@ Join us at Entrust At Entrust, we’re shaping the future of identity centric se
 
 ---
 
-## 26. [MAYBE] Thales | AI Engineer - Graduate
+## 30. [MAYBE] Thales | AI Engineer - Graduate
 - Link: https://thales.wd3.myworkdayjobs.com/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1
 - Location: Orlando
 - Posted: Nov 06 (board gives the date only)
@@ -495,7 +558,49 @@ Location: Orlando, United States of America Thales people architect solutions th
 
 ---
 
-## 27. [MAYBE] WSP | AI Engineer (Advisory)
+## 31. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
+- Link: https://jobs.smartrecruiters.com/AbbVie/3743990016702216
+- Location: Florham Park NJ us
+- Posted: Nov 06 14:09 ET
+- Scanner fit: ~47 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 96 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: data visualization, statistic, quantitative, reporting, research, validation | Lacks: sas
+
+### Job description
+
+The Statistical Analyst is an integral role in the research and development of new pharmaceutical products. The primary responsibilities for this role include the analysis and reporting of clinical trial data without supervision for routine activities and with supervision for more complex activities. The Statistical Analyst interfaces with Statistics, Clinical Data Strategy & Operations and Development Operations. Responsibilities: Leads the statistical programming activities for routine studies. Create documentation for regulatory filings including reviewers guides and data definition documents Participate in the development of standard SAS Macros, as well as, presenting information on existing Macros Produce dynamic and static data visualizations to communicate quantitative analyses. Develop SAS programs for the creation of ADaM data sets following CDISC standards. Develop SAS programs for the creation of Tables, Listings and Figures. Validation of ADaM data sets. Validation of Tables, Listings and Figures. Create specifications for the structure of ADaM data sets for individual studies and integrated data Minimum Qualifications: MS in Statistics, Computer Science or a related field with 2+ years of relevant experience. OR BS in Statistics, Computer Science or a related field with 4+ years of relevant experience. Experience in pharmaceutical clinical trials Demonstrated practical understanding of SAS programming related to drug development. Experience creating and reviewing ADaM datasets for analysis Preferred Qualifications: Demonstrated ability to support efficacy analyses across clinical development phases and therapeutic areas. Other Required Skills: Ability to communicate clearly both oral and written. Basic understanding of CDISC Standards. Basic understanding of the drug development process. ​Applicable only to applicants applying to a position in any location with pay disclosure requirements under state or local law: ​ The compensation range described below is the range of possible base pay compensation that the Company believes in good faith it will pay for this role at the time of this posting based on the job grade for this position. Individual compensation paid within this range will depend on many factors including geographic location, and we may ultimately pay more or less than the posted range. This range may be modified in the future. ​ We offer a comprehensive package of benefits including paid time off (vacation, holidays, sick), medical/dental/vision insurance and 401(k) to eligible employees.​ This job is eligible to participate in our short-term incentive programs. ​ Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, incentive, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole and absolute discretion unless and until paid and may be modified at the Company’s sole and absolute discretion, consistent with applicable law. ​ AbbVie
+
+---
+
+## 32. [MAYBE] Anthropic | Political Economist, Rule of Law
+- Link: https://job-boards.greenhouse.io/anthropic/jobs/5474544008
+- Location: San Francisco, CA | New York City, NY; Washington, DC
+- Posted: Nov 06 14:22 ET
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 31 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, git, research, risk | Lacks: -
+
+### Job description
+
+About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role Anthropic has done pioneering work examining the economic impacts of AI. The AI &amp; Rule of Law team takes an analogous approach to a different question: how will AI affect our constitutional democratic institutions? Increasingly powerful AI systems will put pressure on societal functions at every level — the courts, legislatures, electoral systems, oversight bodies, and the legal frameworks that hold democratic governance together. Our team exists to ask hard questions about those vulnerabilities, and to seek out strategies for protecting democratic freedoms — in the short and long term, through both technical and policy levers. This is early, high-stakes research. The team is small, the problems are genuinely unsolved, and the work will matter. We are looking for someone with deep expertise in both AI and at least one of: law, government, political science, or public policy. The ideal candidate understands the technical landscape well enough to reason about AI capabilities and risks, and understands democratic institutions well enough to see where those risks become structural threats. Key responsibilities Projects on this team are illustrative rather than fixed — we expect the research agenda to evolve as both AI capabilities and institutional pressures change. Current and expected focus areas include: AI safety evaluations with a legal alignment lens — developing frameworks to assess whether frontier AI systems behave consistently with constitutional norms, due process, and rule-of-law principles Institutional vulnerability analysis — identifying where AI creates novel pressure points in democratic governance, and proposing both policy and technical mitigations Novel legal issues in frontier AI — mapping the unsettled legal terrain created by capable AI systems, including questions of liability, agency, and institutional authority Applications that bolster democratic processes — developing or identifying ways AI could strengthen civic participation, legislative capacity, or judicial function You will use Claude aggressively and creatively throughout this work — as a research tool, a thought partner, and a subject of inquiry Minimum qualifications A primary degree in law, political science, or a closely related field at the Ph.D. level or equivalent — OR extensive government experience at a leadership level Demonstrated ability to produce rigorous, public-facing work — scholarship, policy analysis, government output, or a published body of writing Preferred qualifications Experience at the intersection of legal or political theory and emerging technology A track record of working across disciplines — a legal scholar who has engaged seriously with AI, or a policy official who has worked on technology governance Comfort operating with significant autonomy in an environment where the problems are new and the playbook is still being written At least five years of relevant experience in academia, industry, or government &nbsp; Some Examples of Our Recent Work Preparing for the 2026 US midterms Measuring political bias in Claude Clio: Privacy-preserving insights into AI use Introducing The Anthropic Institute &nbsp; The annual compensation range for this role is listed below.&nbsp; For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Annual Salary: $295,000 &mdash; $345,000 USD Logistics Minimum education: Bachelor’s degree or an equivalent combination of education, training, and/or experience Required field of study:&nbsp; A field relevant to the role as demonstrated through coursework, training, or professional experience Minimum years of experience: Years of experience required will correlate with the internal job level requirements for the position Location-based hybrid policy: Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices. Visa sponsorship: &nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this. For roles performing work in California: We will consider for employment all qualified applicants, including those with arrest or conviction records or criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the San Francisco Fair Chance Ordinance, the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act. We encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team. Your safety matters to us. To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp; anthropic.com/careers &nbsp;directly for confirmed position openings. How we're different We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highe [...]
+
+---
+
+## 33. [MAYBE] University of Virginia | Research Assistant - Higher Education and Language Assessment
+- Link: https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Research-Assistant---Higher-Education-and-Language-Assessment_R0089000
+- Location: Charlottesville, VA
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time (10 h/week stated)
+- Title scope: core | Has: excel, llm, research | Lacks: -
+
+### Job description
+
+Project: The Use of English Language Proficiency Tests in Selecting International Graduate Students at a U.S. University Project Description: Davy Tran and Janay Crabtree of UVA’s Center for American English Language and Culture (CAELC), together with Chris Chang-Bacon of the School of Education and Human Development, are seeking a graduate research assistant for a qualitative research project. The study investigates how admissions officers across UVA’s schools and programs interpret and use English-language proficiency scores, such as the TOEFL, IELTS, and Duolingo English Test (DET), when evaluating international applicants to graduate programs. Responsibilities: The research assistant will work closely with the research team to: Contact admissions officers and coordinate interview schedules with the researchers. Conduct or assist with interviews with admissions officers. Review and correct interview transcripts generated through Otter.ai. Organize and manage interview data and related research documents. Assist with coding and analyzing qualitative interview data. Search for relevant scholarly articles and contribute to the literature review. Assist with drafting, editing, and preparing a research manuscript. Complete other project-related research and administrative tasks as assigned. Report to Davy Tran, who is the principal investigator. Qualifications Required qualifications: Current enrollment in a master’s or doctoral program at UVA. Previous experience with qualitative research methods or the qualitative research process. Ability to handle research data responsibly and maintain confidentiality. Excellent organizational skills and attention to detail. Preferred qualifications: Academic background in TESOL, applied linguistics, linguistics, language education, or a related field. Familiarity with English-language proficiency assessments, such as the TOEFL, IELTS, or DET. Interest in language assessment, international graduate admissions, or higher-education research. Interest in developing skills in conducting qualitative research. Familiarity with AI tools useful for qualitative research (Otter.ai, Consensus, etc.) Position type: Part-time research assistant. This is an hourly wage position, not a Graduate Research Assistantship. Compensation: $18 per hour ( this position doesn’t provide tuition waiver, health insurance, or stipend ) Hours: Up to 10 hours per week Employment period: Spring 2027 and Fall 2027 Location: Charlottesville, VA – online or hybrid How to Apply Interested applicants should submit: A cover letter. A current résumé or curriculum vitae. Priority application deadline: November 20, 2026 Anticipated start date: January 25, 2027 MINIMUM REQUIREMENTS: Resume and cover letter Education: Current graduate UVA student Experience: None Licensure: None The University of Virginia
+
+---
+
+## 34. [MAYBE] WSP | AI Engineer (Advisory)
 - Link: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98887
 - Location: Cambridge, Cambridgeshire, United Kingdom GB London, London, United Kingdom
 - Posted: Nov 06 (board gives the date only)
@@ -509,7 +614,7 @@ What if you could do the kind of work the world needs? At WSP, you can access ou
 
 ---
 
-## 28. [MAYBE] Höganäs | AI & Data Analytics Engineer
+## 35. [MAYBE] Höganäs | AI & Data Analytics Engineer
 - Link: https://hoganas.wd3.myworkdayjobs.com/Careers/job/Hgans/AI---Data-Analytics-Engineer_JR1465
 - Location: Höganäs
 - Posted: Nov 05 (board gives the date only)
@@ -523,7 +628,7 @@ About the Position As an AI & Data Analytics Engineer, you will work with techni
 
 ---
 
-## 29. [MAYBE] AeroVect | Software Engineer, ML Ops
+## 36. [MAYBE] AeroVect | Software Engineer, ML Ops
 - Link: https://jobs.ashbyhq.com/AeroVect/6058be12-918f-4016-87d8-cdbeb0ecdfbf
 - Location: Toronto Canada remote
 - Posted: Nov 06 09:06 ET
@@ -580,7 +685,7 @@ Please note this role will be based onsite in Toronto
 
 ---
 
-## 30. [MAYBE] Scale AI | Applied AI Engineer
+## 37. [MAYBE] Scale AI | Applied AI Engineer
 - Link: https://job-boards.greenhouse.io/scaleai/jobs/4751059005
 - Location: Kuwait City, Kuwait
 - Posted: Nov 06 09:23 ET
@@ -594,7 +699,7 @@ About the role Scale's Global Public Sector team uses AI to address critical cha
 
 ---
 
-## 31. [MAYBE] Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS
+## 38. [MAYBE] Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS
 - Link: https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/St-Louis-MO/Business-Intelligence-Analyst---Snowflake--Databricks--SSRS_R119700-1
 - Location: 6 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -608,7 +713,7 @@ Are you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS ) 
 
 ---
 
-## 32. [MAYBE] RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS
+## 39. [MAYBE] RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS
 - Link: https://relx.wd3.myworkdayjobs.com/relx/job/St-Louis-MO/Business-Intelligence-Analyst---Snowflake--Databricks--SSRS_R119700
 - Location: 6 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -622,7 +727,7 @@ Are you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS ) 
 
 ---
 
-## 33. [MAYBE] Blockhouse | Quant Developer, Trading Systems (Rust and C++)
+## 40. [MAYBE] Blockhouse | Quant Developer, Trading Systems (Rust and C++)
 - Link: https://jobs.ashbyhq.com/blockhouse/e78e69bc-6506-47ca-8855-67337df6b59c
 - Location: New York City Area United States
 - Posted: Nov 06 12:29 ET
@@ -712,7 +817,7 @@ WHY BLOCKHOUSE
 
 ---
 
-## 34. [MAYBE] Ameriprise Financial | Equities Portfolio Analyst I
+## 41. [MAYBE] Ameriprise Financial | Equities Portfolio Analyst I
 - Link: https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/New-York-New-York/Equities-Portfolio-Analyst-I_R26_4413
 - Location: New York, New York
 - Posted: Nov 06 (board gives the date only)
@@ -726,7 +831,7 @@ About Our Company Working at Columbia Threadneedle Investments you'll find growt
 
 ---
 
-## 35. [MAYBE] JP Morgan Chase | Quantitative Trading & Research - EM Rates - Associate
+## 42. [MAYBE] JP Morgan Chase | Quantitative Trading & Research - EM Rates - Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807588
 - Location: New York, NY, United States US
 - Posted: Nov 06 (board gives the date only)
@@ -740,7 +845,7 @@ Team Overview The EM Rates Quantitative Trading team in New York is a dynamic te
 
 ---
 
-## 36. [MAYBE] Brown University | Research Assistant
+## 43. [MAYBE] Brown University | Research Assistant
 - Link: https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/RT---Massachusetts/Research-Assistant_REQ212010
 - Location: RT - Massachusetts
 - Posted: Nov 05 (board gives the date only)
@@ -754,7 +859,7 @@ Job Description: Position Purpose The Research Assistant position is responsible
 
 ---
 
-## 37. [MAYBE] PennState University | LER Research Assistant
+## 44. [MAYBE] PennState University | LER Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/LER-Research-Assistant_REQ_0000084061-1
 - Location: Penn State University Park
 - Posted: Nov 05 (board gives the date only)
@@ -768,7 +873,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 38. [MAYBE] JM Family | Data Analyst I
+## 45. [MAYBE] JM Family | Data Analyst I
 - Link: https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Analyst-I_JR105210
 - Location: Florida - Deerfield Beach
 - Posted: Nov 06 (board gives the date only)
