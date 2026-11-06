@@ -21,34 +21,39 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 15 | Axos Bank | Construction Risk Analyst | 54 | 6 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
 | 16 | Charles Schwab | Job Posting Title Credit Research Analyst | 54 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
 | 17 | Turner & Townsend | Financial Operations and Data Analytics Specialist | 54 | 3 in data/analytics/finance occupations | Nov 06 14:52 ET |
-| 18 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 19 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
-| 20 | Texas A&M University - College Station | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 21 | Texas A&M University - College Station | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 22 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 23 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 24 | Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 25 | Procter & Gamble (P&G) | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 26 | CVS Health | Renewal and Reporting Analyst | 50 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
-| 27 | Center for Strategic and International Studies | Research Assistant,  Defense Analysis Program | 50 | none found (check myvisajobs) | Nov 06 13:07 ET |
-| 28 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
-| 29 | Entrust | Data Analyst | 47 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 30 | Thales | AI Engineer - Graduate | 47 | 2 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 31 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 06 14:09 ET |
-| 32 | Anthropic | Political Economist, Rule of Law | 45 | 31 in data/analytics/finance occupations | Nov 06 14:22 ET |
-| 33 | University of Virginia | Research Assistant - Higher Education and Language Assessment | 45 | cap-exempt employer | Nov 06 (board gives the date only) |
-| 34 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 35 | Höganäs | AI & Data Analytics Engineer | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 36 | AeroVect | Software Engineer, ML Ops | 44 | none found (check myvisajobs) | Nov 06 09:06 ET |
-| 37 | Scale AI | Applied AI Engineer | 44 | 16 in data/analytics/finance occupations | Nov 06 09:23 ET |
-| 38 | Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | 7 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 39 | RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 40 | Blockhouse | Quant Developer, Trading Systems (Rust and C++) | 44 | none found (check myvisajobs) | Nov 06 12:29 ET |
-| 41 | Ameriprise Financial | Equities Portfolio Analyst I | 44 | 11 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 42 | JP Morgan Chase | Quantitative Trading & Research - EM Rates - Associate | 42 | 1098 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 43 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 44 | PennState University | LER Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 45 | JM Family | Data Analyst I | 40 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 18 | University of Miami | Research Associate 1, SOM (A) | 54 | cap-exempt employer | Nov 06 (board gives the date only) |
+| 19 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 20 | Vertiv | Services Data Analytics Analyst | 52 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 21 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
+| 22 | Texas A&M University - College Station | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 23 | Texas A&M University - College Station | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 24 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 25 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 26 | Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 27 | Procter & Gamble (P&G) | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 28 | CVS Health | Renewal and Reporting Analyst | 50 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 29 | Center for Strategic and International Studies | Research Assistant,  Defense Analysis Program | 50 | none found (check myvisajobs) | Nov 06 13:07 ET |
+| 30 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
+| 31 | Entrust | Data Analyst | 47 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 32 | Thales | AI Engineer - Graduate | 47 | 2 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 33 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 06 14:09 ET |
+| 34 | Anthropic | Political Economist, Rule of Law | 45 | 31 in data/analytics/finance occupations | Nov 06 14:22 ET |
+| 35 | University of Virginia | Research Assistant - Higher Education and Language Assessment | 45 | cap-exempt employer | Nov 06 (board gives the date only) |
+| 36 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 37 | Höganäs | AI & Data Analytics Engineer | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 38 | AeroVect | Software Engineer, ML Ops | 44 | none found (check myvisajobs) | Nov 06 09:06 ET |
+| 39 | Scale AI | Applied AI Engineer | 44 | 16 in data/analytics/finance occupations | Nov 06 09:23 ET |
+| 40 | Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | 7 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 41 | RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 42 | Blockhouse | Quant Developer, Trading Systems (Rust and C++) | 44 | none found (check myvisajobs) | Nov 06 12:29 ET |
+| 43 | Ameriprise Financial | Equities Portfolio Analyst I | 44 | 11 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 44 | JP Morgan Chase | Quantitative Trading & Research - EM Rates - Associate | 42 | 1098 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 45 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 46 | PennState University | LER Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 47 | JM Family | Data Analyst I | 40 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 48 | Cohere | Software Engineer, ML Ops | 40 | 1 in data/analytics/finance occupations | Nov 06 10:53 ET |
+| 49 | Cohere | Software Engineer, ML Workload Platform | 40 | 1 in data/analytics/finance occupations | Nov 06 10:27 ET |
+| 50 | Moffitt Cancer Center | NTRO Research Assistant I | 40 | cap-exempt employer | Nov 06 (board gives the date only) |
 
 ---
 
@@ -376,7 +381,21 @@ Turner & Townsend is seeking an analytical individual to join our NY Real Estate
 
 ---
 
-## 18. [MAYBE] Open Avenues Foundation | Data Engineer H/F
+## 18. [MAYBE] University of Miami | Research Associate 1, SOM (A)
+- Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1--SOM--A-_R100101439
+- Location: Miami, FL
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, statistic, credit, publication, research | Lacks: -
+
+### Job description
+
+Current Employees: If you are a current Staff, Faculty or Temporary employee at the University of Miami, please click here to log in to Workday to use the internal application process. To learn how to apply for a faculty or staff position, please review this tip sheet . The University of Miami/UHealth Department of Dermatology has an exciting opportunity for a full-time Research Associate 1. Core Job Summary: The Research Associate 1, SOM supports research activities for the assigned division by conducting laboratory experiments on assigned research projects. Moreover, the incumbent operates with the goal of advancing his/her expertise through continued education, training, and research. Core Responsibilities 60%: Understands and interprets research protocols and procedures. Participates in the publication of significant results. Maintains an overview of relevant research findings. Ensures all research is undertaken according to good research practice. Keeps abreast of current publications relative to methods, techniques, and developments within the area of research. Collects, prepares, analyzes, dissects, and evaluates specimens or tissue cultures. Operates and maintains laboratory equipment. Performs a variety of routine assays, tests, and studies. Performs calculations to complete research test results, collects data, and performs statistical analysis of laboratory results. Adheres to University and unit-level policies and procedures and safeguards University assets. Department Specific Functions 40%: The Research Associate 1, SOM will work on funded skin research projects under the supervision of the lab head (Principal Investigator/PI) and senior staff. The lab uses multiple lines of transgenic mice with skin phenotype to understand human skin disorders. Upon training, s/he is expected to monitor and handle the mice, maintain the mouse colony, collect samples, and carry out subsequent analyses. S/he is expected to be a responsible professional and pay attention to detail. Upon training, s/he needs to be able to carry out experiments independently by following established protocols and take detailed and informative notes. S/he should have background knowledge in biology/chemistry/cell biology/genetics and have had hands-on lab experience (as a credit requirement or research experience or employment). S/he needs to know how to make solutions and dilutions, and do so safely. S/he will use a variety of model systems (in vitro, in vivo and ex vivo) and techniques to carry out DNA, RNA, protein and histology (staining, imaging) analyses. S/he needs to maintain well-organized, dated, detailed, and up-to-date laboratory notes, both physical and electronic, which serve as a record of the rationale, experimental design, materials and procedures used, any changes to the protocol as performed, results, data analysis and interpretation, and suggestions for future experiments, with guidance and supervision of the lab head. S/he will help prepare manuscripts, presentations, grants, etc., and help to train other personnel. S/he will help with general lab maintenance (e.g., keeping logs of reagents and supplies, maintaining equipment, keep the lab tidy). S/he needs to adhere to University and unit-level policies and procedures and safeguards University assets. This list of duties and responsibilities is not intended to be all-inclusive and may be expanded to include other duties or responsibilities as necessary. Core Qualifications: Bachelor's Degree No prior experience required Knowledge, Skills and Attitudes: Skill in completing assignments accurately and with attention to detail. Ability to analyze, organize and prioritize work under pressure while meeting deadlines. Ability to process and handle confidential information with discretion. Ability to work evenings, nights, and weekends as necessary. Commitment to the University’s core values. Ability to work independently and/or in a collaborative environment. Being a responsible professional who cares about the success of lab projects. The University of Miami offers competitive salaries and a comprehensive benefits package including medical, dental, tuition remission and more. UHealth-University of Miami Health System, South Florida's only university-based health system, provides leading-edge patient care powered by the ground breaking research and medical education at the Miller School of Medicine. As an academic medical center, we are proud to serve South Florida, Latin America and the Caribbean. Our physicians represent more than 100 specialties and sub-specialties, and have more than one million patient encounters each year. Our tradition of excellence has earned worldwide recognition for outstanding teaching, research and patient care. We're the challenge you've been looking for. The University of Miami
+
+---
+
+## 19. [MAYBE] Open Avenues Foundation | Data Engineer H/F
 - Link: https://open.wd103.myworkdayjobs.com/OPEN/job/Nantes-Sud/Data-Engineer-H-F_R16557-1
 - Location: Nantes Sud
 - Posted: Nov 05 (board gives the date only)
@@ -390,7 +409,21 @@ Turner & Townsend is seeking an analytical individual to join our NY Real Estate
 
 ---
 
-## 19. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
+## 20. [MAYBE] Vertiv | Services Data Analytics Analyst
+- Link: https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279135
+- Location: Westerville, OH, United States US
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~52 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, machine learning, power bi, python, sql, statistic, pipeline | Lacks: java, scala  | Note: no H-1B filings found for this employer
+
+### Job description
+
+POSITION SUMMARY We are seeking a skilled Data Scientist / Business Intelligence Developer to join our Business Analytics team. In this role, you will design, develop, test, and support data analytics and BI solutions that drive insights and decision-making across multiple business functions. The ideal candidate is data-driven, analytical, and capable of transforming raw data into strategic business value RESPONSIBILITIES Primary Focus: Collaborate with the Business Analytics team to build and maintain scalable analytics and BI solutions. Work with large datasets to uncover actionable insights that support business strategies. Data & Solution Development: Collect and integrate data from legacy systems, Oracle EBS, cloud platforms, and emerging AI-powered data sources. Design and develop scalable, AI-enabled analytics pipelines that support both structured and unstructured data. Identify valuable data sources and implement automation for efficient data collection, transformation, and enrichment. Create reports, visualizations, and dashboards that leverage AI-driven insights to support departments such as Sales, Finance, Operations, Marketing, Procurement, and Supply Chain. Apply machine learning techniques and statistical models to uncover trends, detect anomalies, and predict future outcomes. Conduct deep data analysis to understand customer behavior and business performance; use AI models to simulate scenarios and optimize business decisions. Technical Development & Support: Build, deploy, and maintain advanced BI and AI/ML-enabled dashboards and analytics tools using Microsoft SQL Server, Power BI, and Microsoft BI stack. Develop AI-enhanced workflow solutions and recommendation engines that support business processes. Ensure performance, scalability, and security of data products incorporating AI components when appropriate. Support the integration of AI services with enterprise applications and data ecosystems. Develop and maintain technical documentation, including documentation of AI models, data pipelines, and governance practices. Monitor and continuously improve existing BI and AI systems for accuracy, relevance, and usability. Explore and evaluate new AI technologies and frameworks, ensuring the organization remains at the forefront of intelligent analytics solutions. General Expectations: Support leadership with data-driven insights for strategic decision-making. Continuously evaluate and enhance BI platforms. Stay current with BI and analytics trends and recommend improvements. Participate in cross-functional team collaboration and technical integrations. QUALIFICATIONS Bachelor’s degree in Information Technology or a related field. 1–3 years of business domain experience working with large datasets and solving complex business problems. Strong command of SQL and relational databases. Experience with Microsoft SQL Server, Power BI, and the Microsoft BI stack. Programming skills in .NET, Python, C#, or JavaScript. Familiarity with SDLC methodologies. Experience with Oracle EBS and SharePoint is a plus. Familiarity with AI/ML frameworks and experience applying machine learning models to real-world business problems. Exceptional analytical and problem-solving skills. Strong communication and presentation abilities. High attention to detail and time management. Ability to work independently and manage multiple priorities. Strong customer focus and interpersonal effectiveness. Comfortable working in a matrixed organization and engaging with all organizational levels. Strategic thinking with a results-oriented approach. Ability to mentor, train, and foster cross-team collaboration. WORKING CONDITIONS Willing to work flexible hours Requires ability to maintain overall productivity in an interrupt-driven environment Travel as required (domestic & international)
+
+---
+
+## 21. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686296
 - Location: Long Island City NY us
 - Posted: Nov 06 06:31 ET
@@ -404,7 +437,7 @@ The NYC Health Department’s Bureau of Hepatitis, HIV, and Sexually Transmitted
 
 ---
 
-## 20. [MAYBE] Texas A&M University - College Station | Research Assistant
+## 22. [MAYBE] Texas A&M University - College Station | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098615-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -418,7 +451,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 21. [MAYBE] Texas A&M University - College Station | Research Associate
+## 23. [MAYBE] Texas A&M University - College Station | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Associate_R-098614-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -432,7 +465,7 @@ Job Title Research Associate Agency Texas A&M University Department Psychology P
 
 ---
 
-## 22. [MAYBE] Texas A&M University System | Research Assistant
+## 24. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098615
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -446,7 +479,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 23. [MAYBE] Texas A&M University System | Research Associate
+## 25. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-098614
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -460,7 +493,7 @@ Job Title Research Associate Agency Texas A&M University Department Psychology P
 
 ---
 
-## 24. [MAYBE] Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US
+## 26. [MAYBE] Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US
 - Link: https://mckesson.wd3.myworkdayjobs.com/SCRI_Careers/job/USA-TX-Remote/Product-Analyst--Digital-Transformation---Remote-US_JR0156906
 - Location: USA, TX, Remote
 - Posted: Nov 05 (board gives the date only)
@@ -474,7 +507,7 @@ It’s More Than a Career, It’s a Mission. Our people are the foundation of ou
 
 ---
 
-## 25. [MAYBE] Procter & Gamble (P&G) | Data Engineer
+## 27. [MAYBE] Procter & Gamble (P&G) | Data Engineer
 - Link: https://pg.wd5.myworkdayjobs.com/1000/job/PANAMA-BUSINESS-CENTER/Data-Engineer_R000162494
 - Location: PANAMA BUSINESS CENTER
 - Posted: Nov 05 (board gives the date only)
@@ -488,7 +521,7 @@ Job Location PANAMA BUSINESS CENTER Job Description Job type: Managerial full-ti
 
 ---
 
-## 26. [MAYBE] CVS Health | Renewal and Reporting Analyst
+## 28. [MAYBE] CVS Health | Renewal and Reporting Analyst
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Delaware/Renewal-and-Reporting-Analyst_R1071607-1
 - Location: 51 Locations
 - Posted: Nov 06 (board gives the date only)
@@ -502,7 +535,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 27. [MAYBE] Center for Strategic and International Studies | Research Assistant,  Defense Analysis Program
+## 29. [MAYBE] Center for Strategic and International Studies | Research Assistant,  Defense Analysis Program
 - Link: https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4469940009
 - Location: Washington, D.C.
 - Posted: Nov 06 13:07 ET
@@ -516,7 +549,7 @@ JOB SUMMARY The Center for Strategic and International Studies (CSIS) is a non-p
 
 ---
 
-## 28. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
+## 30. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686496
 - Location: Long Island City NY us
 - Posted: Nov 06 06:32 ET
@@ -530,7 +563,7 @@ The New York City Department of Health and Mental Hygiene (NYC DOHMH)'s Bureau o
 
 ---
 
-## 29. [MAYBE] Entrust | Data Analyst
+## 31. [MAYBE] Entrust | Data Analyst
 - Link: https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Data-Analyst_R004482
 - Location: United States - Shakopee, MN (GHQ)
 - Posted: Nov 05 (board gives the date only)
@@ -544,7 +577,7 @@ Join us at Entrust At Entrust, we’re shaping the future of identity centric se
 
 ---
 
-## 30. [MAYBE] Thales | AI Engineer - Graduate
+## 32. [MAYBE] Thales | AI Engineer - Graduate
 - Link: https://thales.wd3.myworkdayjobs.com/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1
 - Location: Orlando
 - Posted: Nov 06 (board gives the date only)
@@ -558,7 +591,7 @@ Location: Orlando, United States of America Thales people architect solutions th
 
 ---
 
-## 31. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
+## 33. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990016702216
 - Location: Florham Park NJ us
 - Posted: Nov 06 14:09 ET
@@ -572,7 +605,7 @@ The Statistical Analyst is an integral role in the research and development of n
 
 ---
 
-## 32. [MAYBE] Anthropic | Political Economist, Rule of Law
+## 34. [MAYBE] Anthropic | Political Economist, Rule of Law
 - Link: https://job-boards.greenhouse.io/anthropic/jobs/5474544008
 - Location: San Francisco, CA | New York City, NY; Washington, DC
 - Posted: Nov 06 14:22 ET
@@ -586,7 +619,7 @@ About Anthropic Anthropic’s mission is to create reliable, interpretable, and 
 
 ---
 
-## 33. [MAYBE] University of Virginia | Research Assistant - Higher Education and Language Assessment
+## 35. [MAYBE] University of Virginia | Research Assistant - Higher Education and Language Assessment
 - Link: https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Research-Assistant---Higher-Education-and-Language-Assessment_R0089000
 - Location: Charlottesville, VA
 - Posted: Nov 06 (board gives the date only)
@@ -600,7 +633,7 @@ Project: The Use of English Language Proficiency Tests in Selecting Internationa
 
 ---
 
-## 34. [MAYBE] WSP | AI Engineer (Advisory)
+## 36. [MAYBE] WSP | AI Engineer (Advisory)
 - Link: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98887
 - Location: Cambridge, Cambridgeshire, United Kingdom GB London, London, United Kingdom
 - Posted: Nov 06 (board gives the date only)
@@ -614,7 +647,7 @@ What if you could do the kind of work the world needs? At WSP, you can access ou
 
 ---
 
-## 35. [MAYBE] Höganäs | AI & Data Analytics Engineer
+## 37. [MAYBE] Höganäs | AI & Data Analytics Engineer
 - Link: https://hoganas.wd3.myworkdayjobs.com/Careers/job/Hgans/AI---Data-Analytics-Engineer_JR1465
 - Location: Höganäs
 - Posted: Nov 05 (board gives the date only)
@@ -628,7 +661,7 @@ About the Position As an AI & Data Analytics Engineer, you will work with techni
 
 ---
 
-## 36. [MAYBE] AeroVect | Software Engineer, ML Ops
+## 38. [MAYBE] AeroVect | Software Engineer, ML Ops
 - Link: https://jobs.ashbyhq.com/AeroVect/6058be12-918f-4016-87d8-cdbeb0ecdfbf
 - Location: Toronto Canada remote
 - Posted: Nov 06 09:06 ET
@@ -685,7 +718,7 @@ Please note this role will be based onsite in Toronto
 
 ---
 
-## 37. [MAYBE] Scale AI | Applied AI Engineer
+## 39. [MAYBE] Scale AI | Applied AI Engineer
 - Link: https://job-boards.greenhouse.io/scaleai/jobs/4751059005
 - Location: Kuwait City, Kuwait
 - Posted: Nov 06 09:23 ET
@@ -699,7 +732,7 @@ About the role Scale's Global Public Sector team uses AI to address critical cha
 
 ---
 
-## 38. [MAYBE] Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS
+## 40. [MAYBE] Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS
 - Link: https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/St-Louis-MO/Business-Intelligence-Analyst---Snowflake--Databricks--SSRS_R119700-1
 - Location: 6 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -713,7 +746,7 @@ Are you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS ) 
 
 ---
 
-## 39. [MAYBE] RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS
+## 41. [MAYBE] RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS
 - Link: https://relx.wd3.myworkdayjobs.com/relx/job/St-Louis-MO/Business-Intelligence-Analyst---Snowflake--Databricks--SSRS_R119700
 - Location: 6 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -727,7 +760,7 @@ Are you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS ) 
 
 ---
 
-## 40. [MAYBE] Blockhouse | Quant Developer, Trading Systems (Rust and C++)
+## 42. [MAYBE] Blockhouse | Quant Developer, Trading Systems (Rust and C++)
 - Link: https://jobs.ashbyhq.com/blockhouse/e78e69bc-6506-47ca-8855-67337df6b59c
 - Location: New York City Area United States
 - Posted: Nov 06 12:29 ET
@@ -817,7 +850,7 @@ WHY BLOCKHOUSE
 
 ---
 
-## 41. [MAYBE] Ameriprise Financial | Equities Portfolio Analyst I
+## 43. [MAYBE] Ameriprise Financial | Equities Portfolio Analyst I
 - Link: https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/New-York-New-York/Equities-Portfolio-Analyst-I_R26_4413
 - Location: New York, New York
 - Posted: Nov 06 (board gives the date only)
@@ -831,7 +864,7 @@ About Our Company Working at Columbia Threadneedle Investments you'll find growt
 
 ---
 
-## 42. [MAYBE] JP Morgan Chase | Quantitative Trading & Research - EM Rates - Associate
+## 44. [MAYBE] JP Morgan Chase | Quantitative Trading & Research - EM Rates - Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807588
 - Location: New York, NY, United States US
 - Posted: Nov 06 (board gives the date only)
@@ -845,7 +878,7 @@ Team Overview The EM Rates Quantitative Trading team in New York is a dynamic te
 
 ---
 
-## 43. [MAYBE] Brown University | Research Assistant
+## 45. [MAYBE] Brown University | Research Assistant
 - Link: https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/RT---Massachusetts/Research-Assistant_REQ212010
 - Location: RT - Massachusetts
 - Posted: Nov 05 (board gives the date only)
@@ -859,7 +892,7 @@ Job Description: Position Purpose The Research Assistant position is responsible
 
 ---
 
-## 44. [MAYBE] PennState University | LER Research Assistant
+## 46. [MAYBE] PennState University | LER Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/LER-Research-Assistant_REQ_0000084061-1
 - Location: Penn State University Park
 - Posted: Nov 05 (board gives the date only)
@@ -873,7 +906,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 45. [MAYBE] JM Family | Data Analyst I
+## 47. [MAYBE] JM Family | Data Analyst I
 - Link: https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Analyst-I_JR105210
 - Location: Florida - Deerfield Beach
 - Posted: Nov 06 (board gives the date only)
@@ -884,4 +917,244 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 ### Job description
 
 The Data Analyst I supports foundational data analysis and governance efforts by assisting with data research, basic querying, and documentation. This role helps maintain data accuracy while building knowledge of systems, processes, and data standards. Responsibilities : Assist with data research and basic analysis activities Develop and run simple queries to support reporting and insights Support updates to source-to-target data mappings Participate in data reviews to validate accuracy and consistency Document data elements and processes in governance tools Follow established data governance standards and procedures Collaborate with team members to understand data and system structures Qualifications : Bachelor's degree in data Analytics, Information Systems, Business, or a related field Basic understanding of data analysis concepts and tools Familiarity with querying tools or languages (e.g., SQL) preferred Strong attention to detail and organizational skills Ability to document information clearly and accurately Strong communication and collaboration skills Willingness to learn data systems, processes, and governance practices This job description may not be inclusive of all assigned duties, responsibilities, or aspects of the job described, and may be amended at any time at the sole discretion of JM Family. All work arrangements are subject to associate performance, business need and manager discretion, and may be revised as necessary. JM FAMILY IS PROUD TO BE AN
+
+---
+
+## 48. [MAYBE] Cohere | Software Engineer, ML Ops
+- Link: https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4
+- Location: London United Kingdom Europe Berlin United Kingdom remote
+- Posted: Nov 06 10:53 ET
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: python, credit, git, kubernetes, research | Lacks: scala
+
+### Job description
+
+WHO ARE WE?
+
+Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.
+
+We’re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that.
+
+We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft.
+
+We are a global technology company headquartered in Toronto with key offices in London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul. Join us!
+
+
+WHY THIS TEAM?
+
+Internal Infrastructure builds the infrastructure and tools used to train, evaluate, and serve Cohere's foundation models. You will work with AI researchers and ML engineers on stability, scalability, and observability. The work accelerates the models behind Cohere's platform, North.
+
+You will own the developer platform researchers use to write, build, and debug training code: dev environments, container images, CI, and training instrumentation. The role includes a compensated 24x7 on-call rotation.
+
+
+WHAT YOU WILL DO
+
+ - Run secure developer environments that stay controlled and accelerate developer velocity as the research org scales.
+
+ - Own container image build and CI/CD tooling.
+
+ - Instrument training code and build self-service tooling so researchers can see why a run failed and debug it themselves.
+
+ - Set infrastructure best practices through AI enablement, documentation, and office hours.
+
+ - Troubleshoot production failures and performance problems, and leave the system easier to operate than you found it.
+
+ - Build automation, infrastructure-as-code, and observability so the platform stays maintainable.
+
+We hire at more than one level. We set level based on the scope you've owned and how independently you drive work.
+
+
+YOU MAY BE A GOOD FIT IF YOU HAVE
+
+ - Run a developer platform in production: CI, image builds, dev environments, or internal tooling that many engineers depend on.
+
+ - Made ML engineers or researchers faster without making the platform fragile.
+
+ - Enough Linux and Kubernetes to debug production systems. Experience operating a GPU cluster is a plus.
+
+ - Written software in Python or Go. You would rather extend a solid open-source project than rebuild it.
+
+ - Worked with researchers, ML engineers, or another team whose goals were not identical to yours.
+
+ - Found a bottleneck, proposed a fix, and driven it in a fast-moving environment.
+
+If this does not line up exactly with your experience, we still encourage you to apply.
+
+
+
+
+FULL-TIME EMPLOYEES AT COHERE ENJOY THESE PERKS:
+
+ - A weekly lunch stipend of $75/£75 or equivalent in your local currency for lunch.
+
+ - Full health and dental benefits, including a separate budget for mental health.
+
+ - RRSP matching, 401K, Pension Scheme.
+
+ - 100% Parental Leave top-up for up to 6 months, for either parent.
+
+ - Annual enrichment benefits:
+   
+   Arts & culture, fitness/wellness, quality time, and a workspace improvement credit.
+   
+   Education & learning stipend for conferences, courses, and coaching.
+
+ - 6 weeks of paid vacation (30 working days!)
+
+ - Budget for traveling to other offices if you are remote, plus an annual company offsite.
+
+
+
+
+HOW AND WHERE WE WORK:
+
+ - Cohere is remote-friendly, but we also have offices in Toronto, London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul with more opening soon.
+
+ - For those in the office: a daily lunch program, plenty of snacks, and regular community and social events.
+
+ - For those not near an office: a co-working benefit so you can work alongside others in your city.
+
+ - Everyone receives a $500 home office stipend to set up your workspace properly.
+   
+   
+
+If any of the above doesn’t line up exactly with your experience, we still encourage you to apply. 
+
+
+We strive to create an inclusive work environment for all; we welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form https://docs.google.com/forms/d/12a6IrLdF3kI2nonKSr4tiFuz18rLQbaeYV-JM9L4o9Q/edit, and we will work together to meet your needs.
+
+
+
+We may use AI-enabled tools to screen and assess applicants against the criteria for this position. This helps our recruiters identify potentially qualified candidates, but it doesn't limit the applications our recruiters may review or consider.
+
+
+
+Beware of Scams: Cohere will never ask for payment or third-party services (e.g., CV writing) as part of our hiring process. All legitimate roles are listed on the Cohere careers page and LinkedIn only, with all communications from Cohere employees coming from an @cohere.com or @cw.cohere email alias. If jobs are viewed on other sites then please verify these through our official careers https://cohere.com/careers page.
+
+---
+
+## 49. [MAYBE] Cohere | Software Engineer, ML Workload Platform
+- Link: https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97
+- Location: Canada Canada United States remote
+- Posted: Nov 06 10:27 ET
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: python, credit, git, kubernetes, research | Lacks: scala
+
+### Job description
+
+WHO ARE WE?
+
+Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems.
+
+We’re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that.
+
+We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft.
+
+We are a global technology company headquartered in Toronto with key offices in London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul. Join us!
+
+
+WHY THIS TEAM?
+
+Internal Infrastructure builds the infrastructure and tools used to train, evaluate, and serve Cohere's foundation models. You will work with AI researchers and ML engineers on stability, scalability, and observability. The work accelerates the models behind Cohere's platform, North.
+
+You will build the platform that runs training, evaluation, and reinforcement-learning workloads: job lifecycle, scheduling, workload networking, and the storage those jobs depend on. The role includes a compensated 24x7 on-call rotation.
+
+
+WHAT YOU WILL DO
+
+ - Own the platform that schedules and runs training, evaluation, and reinforcement-learning jobs on Kubernetes: who gets capacity, what happens when a job fails, and how a researcher finds out whether the platform caused it.
+
+ - Build the networking and runtime isolation those workloads need, including agent and sandbox environments.
+
+ - Work with the data infrastructure team on storage for checkpoints and other training artifacts.
+
+ - Troubleshoot production failures and performance problems, and leave the system easier to operate than you found it.
+
+ - Build automation, infrastructure-as-code, and observability so the platform stays maintainable.
+
+We hire at more than one level. We set level based on the scope you've owned and how independently you drive work.
+
+
+YOU MAY BE A GOOD FIT IF YOU HAVE
+
+ - Run a job platform, batch system, or Kubernetes controllers in production. Scheduling, queues, and multi-tenant fairness are central to this work.
+
+ - Shown distributed systems judgment: retries, partial failure, and knowing what not to automate.
+
+ - Worked on ML training workflows, RL sandboxes, container networking (CNI), or checkpoint storage at scale. Direct GPU-cluster experience is a plus.
+
+ - Written software in Python or Go. You would rather extend a solid open-source project than rebuild it.
+
+ - Worked with researchers, ML engineers, or another team whose goals were not identical to yours.
+
+ - Found a bottleneck, proposed a fix, and driven it in a fast-moving environment.
+
+If this does not line up exactly with your experience, we still encourage you to apply.
+
+
+
+
+FULL-TIME EMPLOYEES AT COHERE ENJOY THESE PERKS:
+
+ - A weekly lunch stipend of $75/£75 or equivalent in your local currency for lunch.
+
+ - Full health and dental benefits, including a separate budget for mental health.
+
+ - RRSP matching, 401K, Pension Scheme.
+
+ - 100% Parental Leave top-up for up to 6 months, for either parent.
+
+ - Annual enrichment benefits:
+   
+   Arts & culture, fitness/wellness, quality time, and a workspace improvement credit.
+   
+   Education & learning stipend for conferences, courses, and coaching.
+
+ - 6 weeks of paid vacation (30 working days!)
+
+ - Budget for traveling to other offices if you are remote, plus an annual company offsite.
+
+
+
+
+HOW AND WHERE WE WORK:
+
+ - Cohere is remote-friendly, but we also have offices in Toronto, London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul with more opening soon.
+
+ - For those in the office: a daily lunch program, plenty of snacks, and regular community and social events.
+
+ - For those not near an office: a co-working benefit so you can work alongside others in your city.
+
+ - Everyone receives a $500 home office stipend to set up your workspace properly.
+   
+   
+
+If any of the above doesn’t line up exactly with your experience, we still encourage you to apply. 
+
+
+We strive to create an inclusive work environment for all; we welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form https://docs.google.com/forms/d/12a6IrLdF3kI2nonKSr4tiFuz18rLQbaeYV-JM9L4o9Q/edit, and we will work together to meet your needs.
+
+
+
+We may use AI-enabled tools to screen and assess applicants against the criteria for this position. This helps our recruiters identify potentially qualified candidates, but it doesn't limit the applications our recruiters may review or consider.
+
+
+
+Beware of Scams: Cohere will never ask for payment or third-party services (e.g., CV writing) as part of our hiring process. All legitimate roles are listed on the Cohere careers page and LinkedIn only, with all communications from Cohere employees coming from an @cohere.com or @cw.cohere email alias. If jobs are viewed on other sites then please verify these through our official careers https://cohere.com/careers page.
+
+---
+
+## 50. [MAYBE] Moffitt Cancer Center | NTRO Research Assistant I
+- Link: https://moffitt.wd108.myworkdayjobs.com/Moffitt/job/Moffitt-Research-Center/NTRO-Research-Assistant-I_R-5063
+- Location: Moffitt Research Center
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, portfolio, research | Lacks: -
+
+### Job description
+
+Working at Moffitt is both a career and a mission: to contribute to the prevention and cure of cancer. As the only National Cancer Institute-designated Comprehensive Cancer Center based in Florida, Moffitt employs some of the best and brightest minds from around the world. Join a dedicated team of nearly 11,000 who are shaping the future we envision. Moffitt has been recognized as a Best and Brightest Company to Work For in the Nation and is continually named one of the Tampa Bay Times’ Top Workplaces. Summary NTRO Research Assistant I Are you looking for an opportunity to be part of an innovative team and make an impact on the lives of those affected by cancer? As a member of the Moffitt Non-Therapeutic Research Office (NTRO) you may interact directly with community members and patients to enroll, educate, and guide participants through the experience of taking part in research. You may support non-therapeutic research in other ways including data entry, project and protocol management and quality assurance. Regardless, you will be a member of a collaborative team that ensures non-therapeutic research activities are moving forward safely, smoothly, and according to plan. Our NTRO Research team comes from a variety of backgrounds and experiences, including public health, psychology, biological sciences and more. There are opportunities for those who have worked in other areas of public health as well as those who are looking for a new and exciting opportunity. Team members of NTRO work closely with community members, patients, patient families, study sponsors, and clinical teams including physicians, pharmacists, nurses, and other health care providers. These positions typically offer a Monday through Friday schedule, though some require occasional weekends. Moffitt offers training and orientation. Position Summar y The Research Assistant I assumes the responsibility for assisting research personnel in projects related to the Non-Therapeutic Research Department's research portfolio. The responsibilities include, but are not limited to, research kitchen support, prepping materials for studies, and providing follow-up to participants, as directed. In ambulatory and PEARL clinics, the responsibilities could include, but are not limited to, phlebotomy. This position is an entry level dry lab position that is an assistant type of role that requires supervision and delegation of tasks. This position is not expected to have independent judgment or decision-making responsibilities. Position Highlights Dry lab environment and could include research kitchen and clinical areas. Work will be onsite. Responsibiliti es Primary support of the PEARL Research kitchen, including grocery shopping, dishwashing, shipping, facility upkeep, and pantry rotations. May perform face-to-face interviews, administer measures and questionnaires in person, via mail and via telephone and conduct other research-related procedures with participants. Provides data entry as needed. Prepare research materials, study folders, prints consent forms and questionnaires. Provides follow up to participants in person or over the phone. Stool collection, urine collection, skin swab collection, phlebotomy. Assist with basic biospecimen needs (i.e. creation of kits, freezer maintenance, pulling samples, labeling samples). May harmonize data across different databases. Assists principal Investigators with work related to their research portfolio which includes basic tasks needing guidance and instruction by the PI. Maintains research records, filing, photocopying and other basic research tasks, completes research documentation. May perform literature reviews to assist investigator. Credentials and Qualification s High School Diploma/GED This is an entry level position. Ability to plan, organize and coordinate own work assignments. Excellent verbal and written communication skills are required. Preferred Skills/Specialized Training BLS/CPR, Phlebotomy Moffitt Team Members are eligible for Medical, Dental, Vision, Paid Time Off, Retirement, Parental Leave and more. Tampa is a thriving metropolitan city, which has become a hub for ground-breaking research, welcoming individuals from around the globe. This diverse city is engulfed with rich culture, year-round activities, amazing cuisine and so much more. We strive for work/life balance. If you have the vision, passion, and dedication to contribute to our mission, then we have a place for you. Salary Range $16.40 - $22.38 Salary ranges posted for this position represent the expected base pay range for the role. Actual compensation may vary based on location and a variety of job-related factors, including experience, skills, education, and internal equity among Team Members in similar positions. We are committed to maintaining fair and equitable pay practices and regularly review compensation to ensure alignment across our workforce. Moffitt Career Site If you have the vision, passion, and dedication to contribute to our mission, then we have a place for you! 1. Equal Employment Opportunity Moffitt Cancer Center
 
