@@ -9,59 +9,65 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 3 | Torch Technologies | Junior Level Data Scientist | 71 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
 | 4 | UTHealth Houston | Biostatistician-Intermediate | 70 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
 | 5 | Lloyds Bank | Financial Crime Optimisation Business Analyst | 68 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 6 | Funding Circle | Credit Strategy Analyst  | 62 | none found (check myvisajobs) | Nov 06 07:48 ET |
-| 7 | Lloyds Bank | Financial Crime Data & Automation Analyst | 62 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 8 | S&P Global | OTC Derivatives Analyst | 62 | 5 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 9 | Sherwin-Williams | R&D Analyst | 62 | 8 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 10 | CVS Health | Analyst, Omnichannel Analytics | 60 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 6 | LendingClub | Decision Infrastructure Analyst | 64 | 42 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 7 | Funding Circle | Credit Strategy Analyst  | 62 | none found (check myvisajobs) | Nov 06 07:48 ET |
+| 8 | Lloyds Bank | Financial Crime Data & Automation Analyst | 62 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 9 | S&P Global | OTC Derivatives Analyst | 62 | 5 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 10 | Sherwin-Williams | R&D Analyst | 62 | 8 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
 | 11 | CVS Health | Analyst, Omnichannel Analytics | 60 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
-| 12 | Rural King | Title Inventory Data Analyst | 59 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 13 | ENOVIS | HR Specialist – HR Analytics & Operations | 57 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 14 | U.S. Bank | Trust Reporting Analyst -  Collateralized Loan Obligation (multiple levels) | 57 | 82 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 15 | Turner & Townsend | Financial Operations and Data Analytics Specialist | 54 | 3 in data/analytics/finance occupations | Nov 06 11:09 ET |
-| 16 | Axos Bank | Construction Risk Analyst | 54 | 6 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 17 | Charles Schwab | Job Posting Title Credit Research Analyst | 54 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 18 | Turner & Townsend | Financial Operations and Data Analytics Specialist | 54 | 3 in data/analytics/finance occupations | Nov 06 14:52 ET |
-| 19 | University of Miami | Research Associate 1, SOM (A) | 54 | cap-exempt employer | Nov 06 (board gives the date only) |
-| 20 | Micron Technology | Full Stack AI Engineer | 53 | 46 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 21 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 22 | Vertiv | Services Data Analytics Analyst | 52 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
-| 23 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
-| 24 | Texas A&M University - College Station | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 25 | Texas A&M University - College Station | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 26 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 27 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 28 | Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 29 | Procter & Gamble (P&G) | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 30 | CVS Health | Renewal and Reporting Analyst | 50 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
-| 31 | Center for Strategic and International Studies | Research Assistant,  Defense Analysis Program | 50 | none found (check myvisajobs) | Nov 06 13:07 ET |
-| 32 | Emory University | Job Title Financial Data Analytics Specialist - School of Medicine, Fiscal Affairs | 50 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 33 | Equifax | Gerente de Dados e Analytics | 50 | 34 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 34 | T. Rowe Price | Financial Data Analyst | 50 | 12 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 35 | Chubb | Data Engineer | 49 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
-| 36 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
-| 37 | Entrust | Data Analyst | 47 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 38 | Thales | AI Engineer - Graduate | 47 | 2 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 39 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 06 14:09 ET |
-| 40 | Anthropic | Political Economist, Rule of Law | 45 | 31 in data/analytics/finance occupations | Nov 06 14:22 ET |
-| 41 | University of Virginia | Research Assistant - Higher Education and Language Assessment | 45 | cap-exempt employer | Nov 06 (board gives the date only) |
-| 42 | PennState University | Part-time Research Assistant - Public Health Sciences | 45 | cap-exempt employer | Nov 06 (board gives the date only) |
-| 43 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 44 | Höganäs | AI & Data Analytics Engineer | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 45 | AeroVect | Software Engineer, ML Ops | 44 | none found (check myvisajobs) | Nov 06 09:06 ET |
-| 46 | Scale AI | Applied AI Engineer | 44 | 16 in data/analytics/finance occupations | Nov 06 09:23 ET |
-| 47 | Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | 7 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 48 | RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 49 | Blockhouse | Quant Developer, Trading Systems (Rust and C++) | 44 | none found (check myvisajobs) | Nov 06 12:29 ET |
-| 50 | Ameriprise Financial | Equities Portfolio Analyst I | 44 | 11 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 51 | JP Morgan Chase | Quantitative Trading & Research - EM Rates - Associate | 42 | 1098 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 52 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 53 | PennState University | LER Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 54 | JM Family | Data Analyst I | 40 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
-| 55 | Cohere | Software Engineer, ML Ops | 40 | 1 in data/analytics/finance occupations | Nov 06 10:53 ET |
-| 56 | Cohere | Software Engineer, ML Workload Platform | 40 | 1 in data/analytics/finance occupations | Nov 06 10:27 ET |
-| 57 | Moffitt Cancer Center | NTRO Research Assistant I | 40 | cap-exempt employer | Nov 06 (board gives the date only) |
-| 58 | UTHealth Houston | Patient Services Representative (Entry Level - PreDoc Dental Clinic) | 40 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 12 | CVS Health | Analyst, Omnichannel Analytics | 60 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 13 | Rural King | Title Inventory Data Analyst | 59 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 14 | MILE MARKER | Analyst, Analytics | 59 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 15 | ENOVIS | HR Specialist – HR Analytics & Operations | 57 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 16 | U.S. Bank | Trust Reporting Analyst -  Collateralized Loan Obligation (multiple levels) | 57 | 82 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 17 | Turner & Townsend | Financial Operations and Data Analytics Specialist | 54 | 3 in data/analytics/finance occupations | Nov 06 11:09 ET |
+| 18 | Axos Bank | Construction Risk Analyst | 54 | 6 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 19 | Charles Schwab | Job Posting Title Credit Research Analyst | 54 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 20 | Turner & Townsend | Financial Operations and Data Analytics Specialist | 54 | 3 in data/analytics/finance occupations | Nov 06 14:52 ET |
+| 21 | University of Miami | Research Associate 1, SOM (A) | 54 | cap-exempt employer | Nov 06 (board gives the date only) |
+| 22 | Micron Technology | Full Stack AI Engineer | 53 | 46 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 23 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 24 | Vertiv | Services Data Analytics Analyst | 52 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 25 | Forus | Data & Analytics Engineer | 52 | none found (check myvisajobs) | Nov 06 17:18 ET |
+| 26 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
+| 27 | Texas A&M University - College Station | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 28 | Texas A&M University - College Station | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 29 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 30 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 31 | Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 32 | Procter & Gamble (P&G) | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 33 | CVS Health | Renewal and Reporting Analyst | 50 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 34 | Center for Strategic and International Studies | Research Assistant,  Defense Analysis Program | 50 | none found (check myvisajobs) | Nov 06 13:07 ET |
+| 35 | Emory University | Job Title Financial Data Analytics Specialist - School of Medicine, Fiscal Affairs | 50 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 36 | Equifax | Gerente de Dados e Analytics | 50 | 34 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 37 | T. Rowe Price | Financial Data Analyst | 50 | 12 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 38 | Chubb | Data Engineer | 49 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 39 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
+| 40 | Entrust | Data Analyst | 47 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 41 | Thales | AI Engineer - Graduate | 47 | 2 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 42 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 06 14:09 ET |
+| 43 | Anthropic | Political Economist, Rule of Law | 45 | 31 in data/analytics/finance occupations | Nov 06 14:22 ET |
+| 44 | University of Virginia | Research Assistant - Higher Education and Language Assessment | 45 | cap-exempt employer | Nov 06 (board gives the date only) |
+| 45 | PennState University | Part-time Research Assistant - Public Health Sciences | 45 | cap-exempt employer | Nov 06 (board gives the date only) |
+| 46 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 47 | Höganäs | AI & Data Analytics Engineer | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 48 | AeroVect | Software Engineer, ML Ops | 44 | none found (check myvisajobs) | Nov 06 09:06 ET |
+| 49 | Scale AI | Applied AI Engineer | 44 | 16 in data/analytics/finance occupations | Nov 06 09:23 ET |
+| 50 | Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | 7 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 51 | RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 52 | Blockhouse | Quant Developer, Trading Systems (Rust and C++) | 44 | none found (check myvisajobs) | Nov 06 12:29 ET |
+| 53 | Ameriprise Financial | Equities Portfolio Analyst I | 44 | 11 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 54 | OpenAI | Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS) | 44 | 30 in data/analytics/finance occupations | Nov 06 17:33 ET |
+| 55 | JP Morgan Chase | Quantitative Trading & Research - EM Rates - Associate | 42 | 1098 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 56 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 57 | PennState University | LER Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 58 | JM Family | Data Analyst I | 40 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 59 | Cohere | Software Engineer, ML Ops | 40 | 1 in data/analytics/finance occupations | Nov 06 10:53 ET |
+| 60 | Cohere | Software Engineer, ML Workload Platform | 40 | 1 in data/analytics/finance occupations | Nov 06 10:27 ET |
+| 61 | Moffitt Cancer Center | NTRO Research Assistant I | 40 | cap-exempt employer | Nov 06 (board gives the date only) |
+| 62 | UTHealth Houston | Patient Services Representative (Entry Level - PreDoc Dental Clinic) | 40 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 63 | OpenAI | Applied AI Engineer, Enterprise - EDU | 40 | 30 in data/analytics/finance occupations | Nov 06 17:37 ET |
+| 64 | Cedars-Sinai Medical Center | Research Associate I - Guerin Children's - Traver Lab - Full-Time, On-Site, Days | 40 | cap-exempt employer | Nov 06 (board gives the date only) |
 
 ---
 
@@ -135,7 +141,21 @@ End Date Friday 20 November 2026 Salary Range £44,901 - £49,890 We support fle
 
 ---
 
-## 6. [MAYBE] Funding Circle | Credit Strategy Analyst 
+## 6. [MAYBE] LendingClub | Decision Infrastructure Analyst
+- Link: https://lendingclub.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Risk-Decisioning-System-Analyst_R0007125
+- Location: San Francisco, CA
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~64 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 42 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, excel, machine learning, python, regression, spark, sql, reporting, risk | Lacks: java  | Note: broad title
+
+### Job description
+
+Current Employees of Happen Bank: Please apply via your internal Workday Account Happen Bank (formerly LendingClub) is built around a simple purpose: to clear the way to help people turn intention into action, and action into financial progress. That means offering focused products, a frictionless mobile-first experience, and clear terms with no gotchas. Respect and fairness is part of our DNA, and that ideal shapes how we work, how we treat each other, and how we invest in our employees and our community. Join us in using data, bold thinking, and a commitment to innovation to help clear the way for millions of Americans to achieve more. About the Role ** This position is not eligible for relocation assistance. ** We are looking for a Decision Infrastructure Analyst to join the team. You will work on a dynamic, agile team that’s responsible for design, build, and maintenance of the Decision Systems and Data Interfaces to enable business objectives. You will code and test business strategies, policies, models, and internal/external APIs required for decisioning. You will partner with a variety of business partners to understand their needs, planning, ensuring quick and accurate implementation of their business logic and Change requests. What You'll Do Interface with the business partners to understand their policies/strategies and requirements Design and code the business strategies (rules and models) on the decision platform according to the business requirements Ensure accuracy of implementation by testing the strategies with targeted samples provisioned by the business Document the Project functional/technical designs and deploy business strategies into the Production environment For Transformation projects, collaborate with Engineering to design the build out of the new requirements and test the wider ecosystem and decision infrastructure Build/Test/Maintain APIs to access internal and external data sources required for decisioning Team up with Modeling to design and implement the Regression and Machine learning models on decision platform For large scale projects, support creation of project plans and map out timeline to set business partner expectations on deliverables Troubleshoot and resolve issues reported by Operations, Quality Control, Risk Management and Engineering teams Pull data to build reporting dashboards to perform analytical work and work to identify gaps / opportunities in the process Extract data and document evidence on the decisioning policy for the internal audits and external 3rd party auditors Deliver the assigned projects with utmost quality per defined thresholds to avoid negative impact on the business Work with offshore contract resources About You 2+ years of experience of hands-on programming in Python and SQL Bachelor’s degree or higher in Computer Science, Information Technology, Business Analytics, or related analytical field; or equivalent work experience Excellent written and verbal communication skills Ability to clearly articulate technical and business topics, and effective cross-functional collaboration Nice to have Programming skills using Java and PySpark Decision systems or risk systems experience Work Location San Francisco The above locations are eligible offices for this role. The locations have been determined to foster in-person collaboration with this role’s team or the related business lines. We utilize a hybrid work model, and our teams are in-office Tuesdays, Wednesdays, and Thursdays. In-person attendance is essential for this role’s success, and remote placement will not be considered. This position is not eligible for relocation assistance. Time Zone Requirements Primarily PT While the position will primarily work local hours, LendingClub is headquartered in Pacific Time and our ideal candidate will be flexible working across time zones when necessary. Travel Requirements As needed travel to LendingClub offices and/or other locations, as needed. Compensation The target base salary range for this position is 103,000-120,000. The base salary of the role will be determined by job-related knowledge, experience, education, skills, and location. Base salary is just one part of LendingClub’s Total Rewards package. You may also be eligible for long-term awards (equity) and an annual bonus (which is based on company performance, employee performance and eligible earnings). We’re creating new financial services solutions for our members based on fairness, simplicity, and heart, and we treat our employees the same way. We offer a competitive benefits package that includes medical, dental and vision plans for employees and their families, 401(k) match, health and wellness programs, flexible time off policies for salaried employees, up to 16 weeks paid parental leave and more. #LI-Hybrid #LI-JH1 Happen Bank
+
+---
+
+## 7. [MAYBE] Funding Circle | Credit Strategy Analyst 
 - Link: https://jobs.ashbyhq.com/fundingcircle/13144be9-a638-4b86-a49e-68c05aca532e
 - Location: London United Kingdom remote
 - Posted: Nov 06 07:48 ET
@@ -235,7 +255,7 @@ READY TO JOIN A MISSION THAT MATTERS? WE’D LOVE TO CHAT!
 
 ---
 
-## 7. [MAYBE] Lloyds Bank | Financial Crime Data & Automation Analyst
+## 8. [MAYBE] Lloyds Bank | Financial Crime Data & Automation Analyst
 - Link: https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds/Financial-Crime-Data---Automation-Analyst_166059-1
 - Location: 4 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -249,7 +269,7 @@ End Date Friday 20 November 2026 Salary Range £44,901 - £49,890 We support fle
 
 ---
 
-## 8. [MAYBE] S&P Global | OTC Derivatives Analyst
+## 9. [MAYBE] S&P Global | OTC Derivatives Analyst
 - Link: https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/OTC-Derivatives-Analyst_331927-1
 - Location: New York, NY
 - Posted: Nov 05 (board gives the date only)
@@ -263,7 +283,7 @@ About the Role: Grade Level (for internal use): 08 The Team: Portfolio Valuation
 
 ---
 
-## 9. [MAYBE] Sherwin-Williams | R&D Analyst
+## 10. [MAYBE] Sherwin-Williams | R&D Analyst
 - Link: https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628472
 - Location: Pittsburgh, PA, United States US
 - Posted: Nov 06 (board gives the date only)
@@ -277,7 +297,7 @@ Job duties include contact with other employees and access confidential and prop
 
 ---
 
-## 10. [MAYBE] CVS Health | Analyst, Omnichannel Analytics
+## 11. [MAYBE] CVS Health | Analyst, Omnichannel Analytics
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Analyst--Omnichannel-Analytics_R1036980-1
 - Location: 4 Locations
 - Posted: Nov 06 (board gives the date only)
@@ -291,7 +311,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 11. [MAYBE] CVS Health | Analyst, Omnichannel Analytics
+## 12. [MAYBE] CVS Health | Analyst, Omnichannel Analytics
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Massachusetts/Analyst--Omnichannel-Analytics_R1036980-1
 - Location: 5 Locations
 - Posted: Nov 06 (board gives the date only)
@@ -305,7 +325,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 12. [MAYBE] Rural King | Title Inventory Data Analyst
+## 13. [MAYBE] Rural King | Title Inventory Data Analyst
 - Link: https://careers-ruralking.icims.com/jobs/42726/inventory-data-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -319,7 +339,21 @@ Inventory Data Analyst in Mattoon, Illinois | Careers at Store Support Center Pl
 
 ---
 
-## 13. [MAYBE] ENOVIS | HR Specialist – HR Analytics & Operations
+## 14. [MAYBE] MILE MARKER | Analyst, Analytics
+- Link: https://ats.rippling.com/mile-marker/jobs/36e8d7b9-a453-425e-ace1-53a9b42b07b7
+- Location: Hybrid, New York, NY United States
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~59 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, sql, tableau, cohort, data cleaning, kpi, reporting, segmentation | Lacks: looker  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Analyst, Analytics Analyst, Analytics About Mile Marker We are a modern omnichannel agency uniquely connecting data, creative and media to accelerate results for growth marketers. Mile Marker is an agency where content fuels performance, media drives outcomes, and data underpins an engine that eliminates the gaps that slow down enterprise growth marketers. This unified growth engine feeds a learning system within Relay, our open-powered marketing stack, ensuring every impression, message and experience is built for a business outcome. Mile Marker’s client roster includes FreshPet, DoorDash, Spectrum, Webster Bank, TrueGreen, HelloFresh and Harry’s, among others. We are a team of strategists, media experts, creatives, innovators and analysts. Over 100 Milers (our humans) strong with hybrid-offices in New York City and San Francisco. For more information, go to www.milemarkeragency.com . Overview Mile Marker, an omni-channel media agency built for the ambitions of growth marketers, is seeking an Analyst, Analytics to join our growing Analytics Center of Excellence. This role serves as the foundation of our analytics practice—transforming data into insight, ensuring precision in every report, and laying the groundwork for our measurement excellence. You’ll be hands-on with the data that powers our clients’ marketing success, learning how metrics, media, and strategy intersect to drive performance. The Analyst is ideal for someone early in their career who’s curious, detail-oriented, and passionate about understanding how marketing decisions are made through data. You’ll develop technical fluency, analytical discipline, and the professional confidence to grow within a fast-paced, collaborative team. About The Role We’re looking for an early-career analytics professional who thrives on curiosity, accuracy, and learning by doing. As an Analyst, you’ll work closely with the analytics leadership team to build dashboards, validate campaign data, and ensure every report we deliver is both reliable and meaningful. This isn’t just about pulling numbers—it’s about understanding what they represent. You’ll get hands-on experience with key media platforms and analytics tools, learning to connect marketing performance with business outcomes. Along the way, you’ll contribute to the consistency and integrity of our analytics workflows and develop a foundation that will prepare you for broader analytical and client-facing responsibilities as you grow within the agency. Key Responsibilities Reporting & Data Management Build and maintain recurring dashboards and automated reports using Google Data Studio. Manage and QA data within our codeless data infrastructure platform, Funnel.io. Pull, clean, and integrate data from multiple sources, including GA4, Ads Manager, DV360, and social APIs. Maintain data hygiene through UTM governance, taxonomy checks, and QA documentation. Utilizes AI to enhance the analytics practice through data cleaning, exploratory analysis, and methodology development. Analysis & Measurement Support Assist in pre- and post-campaign analysis, cohort segmentation, and test implementation. Identify performance drivers and optimization opportunities under senior guidance. Ensure precision in all datasets, validating accuracy before client reporting. Collaboration & Enablement Support Managers, Supervisors, and Associate Directors to translate data findings into actionable insights. Aid in preparation of client-facing deliverables with clear, accurate visualizations. Communicate effectively with cross-functional teams to maintain data consistency and alignment. Professional Growth & Development Adopt an apprentice mindset—eager to learn, take feedback, and develop technical mastery. Build professional communication and time management skills through collaboration and ownership. Contribute to a culture of curiosity, accountability, and continuous learning across the analytics team. Qualifications Experience: 0–2 years of analytics or media experience; relevant internships or coursework welcome. Technical Requirements Familiarity with core media platforms (GA4, GTM, ad platforms) and visualization tools (Looker/Tableau). Comfort with spreadsheets (lookup functions, pivot tables) and introductory SQL or data querying concepts. Understanding of foundational performance KPIs (CTR, CPA, ROAS) and attribution basics (last-click, time-decay). Client / Presentation Requirements Minimal client interaction; primarily supports internal deliverables with growing exposure to client-facing analysis. Professional Development Demonstrates curiosity, attention to detail, and eagerness to master tools and methodologies. Practices clear communication and builds organizational discipline. Business Acumen Understands the relationship between marketing metrics and client business goals. Begins to connect analytical outcomes to strategic decisions. Specific Skills GA4/ad-platform basics, spreadsheet proficiency, foundational visualization and QA skills. Commitment to precision, documentation, and continuous improvement. The pay range for this role is: $60,000 - $70,000 USD per year Apply now Centers of Excellence Hybrid, New York, NY Share on: Apply now Terms of service Privacy Cookies Powered by Rippling
+
+---
+
+## 15. [MAYBE] ENOVIS | HR Specialist – HR Analytics & Operations
 - Link: https://enovis.wd5.myworkdayjobs.com/enovis/job/Sfax-Sfax-Tunisia/HR-Specialist---HR-Analytics---Operations_R0034408-1
 - Location: Sfax, Sfax, Tunisia
 - Posted: Nov 05 (board gives the date only)
@@ -333,7 +367,7 @@ Inventory Data Analyst in Mattoon, Illinois | Careers at Store Support Center Pl
 
 ---
 
-## 14. [MAYBE] U.S. Bank | Trust Reporting Analyst -  Collateralized Loan Obligation (multiple levels)
+## 16. [MAYBE] U.S. Bank | Trust Reporting Analyst -  Collateralized Loan Obligation (multiple levels)
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Houston-TX/Trust-Reporting-Analyst----Collateralized-Loan-Obligation--multiple-levels-_2026-0035195-1
 - Location: Houston, TX
 - Posted: Nov 06 (board gives the date only)
@@ -347,7 +381,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 15. [MAYBE] Turner & Townsend | Financial Operations and Data Analytics Specialist
+## 17. [MAYBE] Turner & Townsend | Financial Operations and Data Analytics Specialist
 - Link: https://jobs.smartrecruiters.com/TurnerTownsend/744000160245800
 - Location: New York New York us
 - Posted: Nov 06 11:09 ET
@@ -361,7 +395,7 @@ Turner & Townsend is seeking an analytical individual to join our NY Real Estate
 
 ---
 
-## 16. [MAYBE] Axos Bank | Construction Risk Analyst
+## 18. [MAYBE] Axos Bank | Construction Risk Analyst
 - Link: https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Construction-Risk-Analyst_JR5113-1
 - Location: HQ - San Diego, CA
 - Posted: Nov 06 (board gives the date only)
@@ -375,7 +409,7 @@ Axos Bank Target Range: $29.00/Hr. - $34.00/Hr. Actual starting pay will vary ba
 
 ---
 
-## 17. [MAYBE] Charles Schwab | Job Posting Title Credit Research Analyst
+## 19. [MAYBE] Charles Schwab | Job Posting Title Credit Research Analyst
 - Link: https://career-schwab.icims.com/jobs/129573/credit-research-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -389,7 +423,7 @@ Credit Research Analyst in Lone Tree, Colorado | Careers at DENR2 - DENVER RIDGE
 
 ---
 
-## 18. [MAYBE] Turner & Townsend | Financial Operations and Data Analytics Specialist
+## 20. [MAYBE] Turner & Townsend | Financial Operations and Data Analytics Specialist
 - Link: https://jobs.smartrecruiters.com/TurnerTownsend/744000160289439
 - Location: New York New York us
 - Posted: Nov 06 14:52 ET
@@ -403,7 +437,7 @@ Turner & Townsend is seeking an analytical individual to join our NY Real Estate
 
 ---
 
-## 19. [MAYBE] University of Miami | Research Associate 1, SOM (A)
+## 21. [MAYBE] University of Miami | Research Associate 1, SOM (A)
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1--SOM--A-_R100101439
 - Location: Miami, FL
 - Posted: Nov 06 (board gives the date only)
@@ -417,7 +451,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 20. [MAYBE] Micron Technology | Full Stack AI Engineer
+## 22. [MAYBE] Micron Technology | Full Stack AI Engineer
 - Link: https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR111970
 - Location: Boise, ID - Main Site
 - Posted: Nov 06 (board gives the date only)
@@ -431,7 +465,7 @@ Our vision is to transform how the world uses information to enrich life for all
 
 ---
 
-## 21. [MAYBE] Open Avenues Foundation | Data Engineer H/F
+## 23. [MAYBE] Open Avenues Foundation | Data Engineer H/F
 - Link: https://open.wd103.myworkdayjobs.com/OPEN/job/Nantes-Sud/Data-Engineer-H-F_R16557-1
 - Location: Nantes Sud
 - Posted: Nov 05 (board gives the date only)
@@ -445,7 +479,7 @@ Our vision is to transform how the world uses information to enrich life for all
 
 ---
 
-## 22. [MAYBE] Vertiv | Services Data Analytics Analyst
+## 24. [MAYBE] Vertiv | Services Data Analytics Analyst
 - Link: https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279135
 - Location: Westerville, OH, United States US
 - Posted: Nov 06 (board gives the date only)
@@ -459,7 +493,131 @@ POSITION SUMMARY We are seeking a skilled Data Scientist / Business Intelligence
 
 ---
 
-## 23. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
+## 25. [MAYBE] Forus | Data & Analytics Engineer
+- Link: https://jobs.ashbyhq.com/forus/719eb326-209f-4a02-9ed8-b2465f862384
+- Location: New York office United States
+- Posted: Nov 06 17:18 ET
+- Scanner fit: ~52 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, bigquery, dashboard, gcp, postgres, sql, kpi, pipeline, reporting, research | Lacks: airflow, dbt, snowflake  | Note: no H-1B filings found for this employer
+
+### Job description
+
+ABOUT US
+
+Forus is building an AI-powered network that connects doctors, pharmacies, payers, and biopharma to accelerate new science to patients.
+
+Our platform automates the complexity between a doctor prescribing a medicine and a patient starting treatment, including insurance coverage, financial assistance, and supply chain navigation. We provide this support free to doctors and patients, helping them get life-changing medicine faster, cheaper, and easier. The resulting network enables biopharma companies to design better research, launch new drugs more effectively, and invest in harder-to-treat conditions.
+
+Forus has exceptional product-market fit and is growing rapidly through organic adoption:
+
+ - Accelerating scale: We already support patients across more than 85% of ZIP codes and partner with 9 of top 15 largest biopharma companies in the world.
+
+ - AI-native, durable model: Our business becomes stronger as AI improves, as every new doctor, patient, and partner makes the network more valuable.
+
+ - Backing to build for the long term: We raised $300M+ from leading investors to build an exceptional team and unlock the full scale of the opportunity.
+
+Our number one priority is scaling to market demand. We are looking for individuals who are high horsepower, high throughput, and hyper resourceful to help us increase capacity and grow. We move fast and need to move faster.
+
+If we succeed, science will be the only limit to medicine.
+
+All full-time roles are in person in New York.
+
+
+
+
+ABOUT THE ROLE
+
+As a Data & Analytics Engineer at Forus, you will build the data foundation that powers how we operate, measure, and grow. You will design and maintain our core data models, pipelines, and reporting infrastructure, ensuring the right people have access to clean, trustworthy, decision-grade data. This is a cross-functional, impact-heavy role in which you will work closely with product, ops, growth, and leadership to build the systems that enable better, faster decisions across the company.
+
+You will also help define our data & analytics engineering practices: how we structure metrics, review code, manage pipelines, and build for scale. Your work will directly support everything from product usage visibility to operational performance to life sciences client reporting.
+
+This is a demanding role, with a high level of autonomy and responsibility. You will be expected to "act like an owner" and commit yourself to Forus' success. If you are low-ego, hungry to learn, and excited about intense, impactful work that drives both company growth and accelerated career progression, we want to hear from you.
+
+
+
+
+IF YOU JOIN, YOU WILL:
+
+ - Build and maintain the core data models that serve as the foundation for internal analytics and client-facing insights
+
+ - Design and operate the data pipelines that transform raw sources into clean, analytics-ready tables
+
+ - Create dashboards and reporting tools that drive performance visibility and decision-making across product, ops, and GTM
+
+ - Define and enforce metric consistency across teams — including core business KPIs and product usage definitions
+
+ - Help improve and scale our analytics stack (we use GCP BigQuery and Dataform, Fivetran, Postgres, and dashboarding tools)
+
+ - Collaborate with stakeholders across teams to understand data needs and translate them into reliable systems
+
+ - Contribute to internal data culture through documentation, education, and code quality standards
+
+
+
+
+WE’RE LOOKING FOR YOU IF YOU HAVE:
+
+ - 3–6 years of experience in data engineering, analytics engineering, or a technical data analyst role with production ownership
+
+ - Expert-level SQL and comfort working in a code-first environment (versioning, testing, documentation)
+
+ - Experience designing data models that balance usability, performance, and long-term maintainability
+
+ - Familiarity with the modern data stack — dbt, Fivetran, Airflow, GCP/AWS/Snowflake, Metabase (or equivalents)
+
+ - Strong written and verbal communication that allows you to be an effective participant in both internal debates and external relationships
+
+ - Track record of moving quickly, finding shortcuts, and going to unreasonable lengths to deliver on goals
+
+ - High NPS https://www.surveymonkey.com/mp/nps-calculator/ with your former teammates
+
+
+
+This is a list of ideal qualifications for this position. If you don't meet every single one of them, you should still consider applying! We’re excited to work with people from underrepresented backgrounds, and we encourage people from all backgrounds to apply.
+
+
+
+
+WORKING WITH US
+
+Forus is based in New York, with our full team working out of a beautiful and spacious office in SoHo. 
+
+We run as a high-trust environment with high autonomy, which requires that everyone is fully competent and operates in line with our principles:
+
+ - Do the math.  Be rigorous, assume nothing. Break problems down and reason from the ground up. Stay open to changing your mind.
+
+ - Resourceful optimism.  Assume problems are solvable. Be audacious. Resist false constraints and push beyond the obvious before deciding.
+
+ - Spit it out.  Speak directly, invite critique, avoid equivocation. We want right answers, not comfortable ones. All killer, no filler.
+
+ - Raise the bar.  Hold a high standard for your pace and execution, and elevate the performance of the team around you. Mamba mentality.
+
+ - Fight for users.  Start with users’ realities, not ours. Resist optimizing for internal convenience over user outcomes.
+   
+
+We provide competitive compensation with meaningful equity (for full-time employees). Everyone who joins will be a major contributor to our success, and we reflect this through ownership and pay.
+
+We also provide rich benefits to ensure you can focus on creating impact (for full-time employees):
+
+ - Fully covered medical, vision, and dental insurance.
+
+ - Memberships for One Medical, Talkspace, Teladoc, and Kindbody.
+
+ - Unlimited paid time off (PTO) and 16 weeks of parental leave.
+
+ - 401K plan setup, FSA option, commuter benefits, and DashPass.
+
+ - Lunch at the office every day and Dinner at the office after 6:30 pm.
+
+
+Our salary ranges are based on paying competitively for our company’s size and industry, and are one part of the total compensation package that also includes equity, benefits, and other opportunities at Forus (for full-time employees). Individual pay decisions are ultimately based on a number of factors, including qualifications for the role, experience level, skillset, geography, and balancing internal equity. 
+
+Forus
+
+---
+
+## 26. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686296
 - Location: Long Island City NY us
 - Posted: Nov 06 06:31 ET
@@ -473,7 +631,7 @@ The NYC Health Department’s Bureau of Hepatitis, HIV, and Sexually Transmitted
 
 ---
 
-## 24. [MAYBE] Texas A&M University - College Station | Research Assistant
+## 27. [MAYBE] Texas A&M University - College Station | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098615-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -487,7 +645,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 25. [MAYBE] Texas A&M University - College Station | Research Associate
+## 28. [MAYBE] Texas A&M University - College Station | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Associate_R-098614-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -501,7 +659,7 @@ Job Title Research Associate Agency Texas A&M University Department Psychology P
 
 ---
 
-## 26. [MAYBE] Texas A&M University System | Research Assistant
+## 29. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098615
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -515,7 +673,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 27. [MAYBE] Texas A&M University System | Research Associate
+## 30. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-098614
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -529,7 +687,7 @@ Job Title Research Associate Agency Texas A&M University Department Psychology P
 
 ---
 
-## 28. [MAYBE] Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US
+## 31. [MAYBE] Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US
 - Link: https://mckesson.wd3.myworkdayjobs.com/SCRI_Careers/job/USA-TX-Remote/Product-Analyst--Digital-Transformation---Remote-US_JR0156906
 - Location: USA, TX, Remote
 - Posted: Nov 05 (board gives the date only)
@@ -543,7 +701,7 @@ It’s More Than a Career, It’s a Mission. Our people are the foundation of ou
 
 ---
 
-## 29. [MAYBE] Procter & Gamble (P&G) | Data Engineer
+## 32. [MAYBE] Procter & Gamble (P&G) | Data Engineer
 - Link: https://pg.wd5.myworkdayjobs.com/1000/job/PANAMA-BUSINESS-CENTER/Data-Engineer_R000162494
 - Location: PANAMA BUSINESS CENTER
 - Posted: Nov 05 (board gives the date only)
@@ -557,7 +715,7 @@ Job Location PANAMA BUSINESS CENTER Job Description Job type: Managerial full-ti
 
 ---
 
-## 30. [MAYBE] CVS Health | Renewal and Reporting Analyst
+## 33. [MAYBE] CVS Health | Renewal and Reporting Analyst
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Delaware/Renewal-and-Reporting-Analyst_R1071607-1
 - Location: 51 Locations
 - Posted: Nov 06 (board gives the date only)
@@ -571,7 +729,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 31. [MAYBE] Center for Strategic and International Studies | Research Assistant,  Defense Analysis Program
+## 34. [MAYBE] Center for Strategic and International Studies | Research Assistant,  Defense Analysis Program
 - Link: https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4469940009
 - Location: Washington, D.C.
 - Posted: Nov 06 13:07 ET
@@ -585,7 +743,7 @@ JOB SUMMARY The Center for Strategic and International Studies (CSIS) is a non-p
 
 ---
 
-## 32. [MAYBE] Emory University | Job Title Financial Data Analytics Specialist - School of Medicine, Fiscal Affairs
+## 35. [MAYBE] Emory University | Job Title Financial Data Analytics Specialist - School of Medicine, Fiscal Affairs
 - Link: https://staff-emory.icims.com/jobs/175729/financial-data-analytics-specialist---school-of-medicine%2c-fiscal-affairs/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -599,7 +757,7 @@ Emory Careers | Financial Data Analytics Specialist - School of Medicine, Fiscal
 
 ---
 
-## 33. [MAYBE] Equifax | Gerente de Dados e Analytics
+## 36. [MAYBE] Equifax | Gerente de Dados e Analytics
 - Link: https://equifax.wd5.myworkdayjobs.com/external/job/BRA-Barueri/Gerente-de-Dados-e-Analytics_J00179918
 - Location: BRA-Barueri
 - Posted: Nov 06 (board gives the date only)
@@ -613,7 +771,7 @@ Funções que serão desempenhadas: Desenvolver planos estratégicos e táticos 
 
 ---
 
-## 34. [MAYBE] T. Rowe Price | Financial Data Analyst
+## 37. [MAYBE] T. Rowe Price | Financial Data Analyst
 - Link: https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Financial-Data-Analyst_84200
 - Location: Owings Mills, MD
 - Posted: Nov 06 (board gives the date only)
@@ -627,7 +785,7 @@ At T. Rowe Price, we identify and actively invest in opportunities to help peopl
 
 ---
 
-## 35. [MAYBE] Chubb | Data Engineer
+## 38. [MAYBE] Chubb | Data Engineer
 - Link: https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/33877
 - Location: Jersey City, NJ, United States US Philadelphia, PA, United States New York, NY, United States Whitehouse Station, NJ, United States
 - Posted: Nov 06 (board gives the date only)
@@ -641,7 +799,7 @@ Chubb's PRS Data Science team builds data pipelines and analytical solutions tha
 
 ---
 
-## 36. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
+## 39. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686496
 - Location: Long Island City NY us
 - Posted: Nov 06 06:32 ET
@@ -655,7 +813,7 @@ The New York City Department of Health and Mental Hygiene (NYC DOHMH)'s Bureau o
 
 ---
 
-## 37. [MAYBE] Entrust | Data Analyst
+## 40. [MAYBE] Entrust | Data Analyst
 - Link: https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Data-Analyst_R004482
 - Location: United States - Shakopee, MN (GHQ)
 - Posted: Nov 05 (board gives the date only)
@@ -669,7 +827,7 @@ Join us at Entrust At Entrust, we’re shaping the future of identity centric se
 
 ---
 
-## 38. [MAYBE] Thales | AI Engineer - Graduate
+## 41. [MAYBE] Thales | AI Engineer - Graduate
 - Link: https://thales.wd3.myworkdayjobs.com/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1
 - Location: Orlando
 - Posted: Nov 06 (board gives the date only)
@@ -683,7 +841,7 @@ Location: Orlando, United States of America Thales people architect solutions th
 
 ---
 
-## 39. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
+## 42. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990016702216
 - Location: Florham Park NJ us
 - Posted: Nov 06 14:09 ET
@@ -697,7 +855,7 @@ The Statistical Analyst is an integral role in the research and development of n
 
 ---
 
-## 40. [MAYBE] Anthropic | Political Economist, Rule of Law
+## 43. [MAYBE] Anthropic | Political Economist, Rule of Law
 - Link: https://job-boards.greenhouse.io/anthropic/jobs/5474544008
 - Location: San Francisco, CA | New York City, NY; Washington, DC
 - Posted: Nov 06 14:22 ET
@@ -711,7 +869,7 @@ About Anthropic Anthropic’s mission is to create reliable, interpretable, and 
 
 ---
 
-## 41. [MAYBE] University of Virginia | Research Assistant - Higher Education and Language Assessment
+## 44. [MAYBE] University of Virginia | Research Assistant - Higher Education and Language Assessment
 - Link: https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Research-Assistant---Higher-Education-and-Language-Assessment_R0089000
 - Location: Charlottesville, VA
 - Posted: Nov 06 (board gives the date only)
@@ -725,7 +883,7 @@ Project: The Use of English Language Proficiency Tests in Selecting Internationa
 
 ---
 
-## 42. [MAYBE] PennState University | Part-time Research Assistant - Public Health Sciences
+## 45. [MAYBE] PennState University | Part-time Research Assistant - Public Health Sciences
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Part-time-Research-Assistant---Public-Health-Sciences_REQ_0000083966
 - Location: College of Medicine
 - Posted: Nov 06 (board gives the date only)
@@ -739,7 +897,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 43. [MAYBE] WSP | AI Engineer (Advisory)
+## 46. [MAYBE] WSP | AI Engineer (Advisory)
 - Link: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98887
 - Location: Cambridge, Cambridgeshire, United Kingdom GB London, London, United Kingdom
 - Posted: Nov 06 (board gives the date only)
@@ -753,7 +911,7 @@ What if you could do the kind of work the world needs? At WSP, you can access ou
 
 ---
 
-## 44. [MAYBE] Höganäs | AI & Data Analytics Engineer
+## 47. [MAYBE] Höganäs | AI & Data Analytics Engineer
 - Link: https://hoganas.wd3.myworkdayjobs.com/Careers/job/Hgans/AI---Data-Analytics-Engineer_JR1465
 - Location: Höganäs
 - Posted: Nov 05 (board gives the date only)
@@ -767,7 +925,7 @@ About the Position As an AI & Data Analytics Engineer, you will work with techni
 
 ---
 
-## 45. [MAYBE] AeroVect | Software Engineer, ML Ops
+## 48. [MAYBE] AeroVect | Software Engineer, ML Ops
 - Link: https://jobs.ashbyhq.com/AeroVect/6058be12-918f-4016-87d8-cdbeb0ecdfbf
 - Location: Toronto Canada remote
 - Posted: Nov 06 09:06 ET
@@ -824,7 +982,7 @@ Please note this role will be based onsite in Toronto
 
 ---
 
-## 46. [MAYBE] Scale AI | Applied AI Engineer
+## 49. [MAYBE] Scale AI | Applied AI Engineer
 - Link: https://job-boards.greenhouse.io/scaleai/jobs/4751059005
 - Location: Kuwait City, Kuwait
 - Posted: Nov 06 09:23 ET
@@ -838,7 +996,7 @@ About the role Scale's Global Public Sector team uses AI to address critical cha
 
 ---
 
-## 47. [MAYBE] Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS
+## 50. [MAYBE] Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS
 - Link: https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/St-Louis-MO/Business-Intelligence-Analyst---Snowflake--Databricks--SSRS_R119700-1
 - Location: 6 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -852,7 +1010,7 @@ Are you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS ) 
 
 ---
 
-## 48. [MAYBE] RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS
+## 51. [MAYBE] RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS
 - Link: https://relx.wd3.myworkdayjobs.com/relx/job/St-Louis-MO/Business-Intelligence-Analyst---Snowflake--Databricks--SSRS_R119700
 - Location: 6 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -866,7 +1024,7 @@ Are you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS ) 
 
 ---
 
-## 49. [MAYBE] Blockhouse | Quant Developer, Trading Systems (Rust and C++)
+## 52. [MAYBE] Blockhouse | Quant Developer, Trading Systems (Rust and C++)
 - Link: https://jobs.ashbyhq.com/blockhouse/e78e69bc-6506-47ca-8855-67337df6b59c
 - Location: New York City Area United States
 - Posted: Nov 06 12:29 ET
@@ -956,7 +1114,7 @@ WHY BLOCKHOUSE
 
 ---
 
-## 50. [MAYBE] Ameriprise Financial | Equities Portfolio Analyst I
+## 53. [MAYBE] Ameriprise Financial | Equities Portfolio Analyst I
 - Link: https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/New-York-New-York/Equities-Portfolio-Analyst-I_R26_4413
 - Location: New York, New York
 - Posted: Nov 06 (board gives the date only)
@@ -970,7 +1128,84 @@ About Our Company Working at Columbia Threadneedle Investments you'll find growt
 
 ---
 
-## 51. [MAYBE] JP Morgan Chase | Quantitative Trading & Research - EM Rates - Associate
+## 54. [MAYBE] OpenAI | Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS)
+- Link: https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd
+- Location: San Francisco United States New York City US - Remote remote
+- Posted: Nov 06 17:33 ET
+- Scanner fit: ~44 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 30 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, python, healthcare, pipeline, research | Lacks: java
+
+### Job description
+
+ABOUT THE TEAM
+
+Across industries, OpenAI’s Applied AI Engineering (AIE) team helps organizations turn frontier AI into safe, reliable production systems that deliver meaningful business outcomes. We work directly with customers’ engineering, product, security, and transformation teams to navigate complex architectures, data environments, governance requirements, and organization-wide change. We turn lessons from these deployments into better OpenAI products and reusable patterns that help customers move faster.
+
+
+
+
+ABOUT THE ROLE
+
+As an Enterprise AIE, you will serve as a technical partner to leading organizations within the Healthcare and Life Sciences segment (HLS), helping them turn ambitious AI use cases into durable production systems and adoption at scale. You will combine deep technical judgment with hands-on engineering to provide technical leadership on complex customer deployments. You will write and debug code, build evaluation systems, resolve complex integrations, and guide decisions about model behavior, reliability, latency, cost, safety, security, governance, and operational readiness.  You will work across clinical, operational, administrative and research workflows, translating security, privacy and governance requirements into practical deployment decisions. Success is measured by durable production systems, sustained adoption, and meaningful business impact. Your deployment experience will also directly influence how OpenAI’s products evolve.
+
+This role may be based in one of our offices in New York City or San Francisco, or it may be performed remotely. Office-based employees follow a hybrid work model with three days per week in the office. We offer relocation assistance to new employees.
+
+
+
+
+IN THIS ROLE, YOU WILL
+
+ - Work hands-on in code to design, build, evaluate, and deploy AI systems from prototype to reliable production and scaled adoption that solve important customer problems and deliver measurable business outcomes.
+
+ - Partner with enterprise customers to identify high-value opportunities and translate them into technical architectures, implementation plans, evaluation strategies, and success criteria.
+
+ - Make sound technical decisions across model selection, agent and tool design, retrieval, context design, data pipelines, evaluation, reliability, observability, latency, cost, safety, security, and governance.
+
+ - Diagnose complex implementation challenges, reproduce failures, test hypotheses, and drive blockers to resolution.
+
+ - Partner closely with customers’ engineering teams and OpenAI’s Product, Research, Engineering, Security, and Go-to-Market teams to turn deployment experience into actionable product feedback.
+
+ - Partner with customer security, privacy, clinical and business teams to design responsible AI deployments, including data handling, access controls, evaluation, human oversight and monitoring.
+
+ - Create reusable architectures, tooling, playbooks, and technical guidance that accelerate future enterprise deployments.
+   
+   
+
+
+YOU MIGHT THRIVE IN THIS ROLE IF YOU
+
+ - Have personally designed, built, and shipped AI or machine-learning systems in enterprise environments, taking them from prototype to production and making substantial contributions through coding, architecture, evaluation, debugging, or production engineering. Relevant backgrounds may include applied AI or ML engineering, forward-deployed engineering, software engineering, customer engineering, solutions architecture, or technical consulting.
+
+ - Are highly proficient in Python and comfortable working end to end across model APIs, agent and tool development, retrieval and data pipelines, evaluation, observability, integrations, and production operations. Experience with JavaScript, TypeScript, or another relevant language is valuable.
+
+ - Know how to evaluate AI systems systematically using representative data, automated graders, production signals, and human judgment.
+
+ - Have navigated enterprise production requirements, including integrations, reliability, observability, security, privacy, data governance, performance, and cost.
+
+ - Have experience delivering AI or software in healthcare, life sciences or similarly complex regulated enterprises, with measurable outcomes beyond a proof of concept and familiarity with sensitive data, legacy systems and interoperability.
+
+ - Can connect technical decisions to customer workflows, adoption, and measurable business outcomes.
+
+ - Communicate clearly and credibly with hands-on engineers, technical leaders, security and product teams, and executives.
+
+ - Take end-to-end ownership, exercise strong technical judgment, and move effectively through ambiguity.
+
+ - Healthcare or life sciences experience is strongly preferred; strong candidates from other regulated enterprise environments are also encouraged to apply.
+
+ - Learn quickly, challenge assumptions constructively, and collaborate with humility. Prior OpenAI product experience is not required.
+
+
+
+
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
+
+---
+
+## 55. [MAYBE] JP Morgan Chase | Quantitative Trading & Research - EM Rates - Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807588
 - Location: New York, NY, United States US
 - Posted: Nov 06 (board gives the date only)
@@ -984,7 +1219,7 @@ Team Overview The EM Rates Quantitative Trading team in New York is a dynamic te
 
 ---
 
-## 52. [MAYBE] Brown University | Research Assistant
+## 56. [MAYBE] Brown University | Research Assistant
 - Link: https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/RT---Massachusetts/Research-Assistant_REQ212010
 - Location: RT - Massachusetts
 - Posted: Nov 05 (board gives the date only)
@@ -998,7 +1233,7 @@ Job Description: Position Purpose The Research Assistant position is responsible
 
 ---
 
-## 53. [MAYBE] PennState University | LER Research Assistant
+## 57. [MAYBE] PennState University | LER Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/LER-Research-Assistant_REQ_0000084061-1
 - Location: Penn State University Park
 - Posted: Nov 05 (board gives the date only)
@@ -1012,7 +1247,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 54. [MAYBE] JM Family | Data Analyst I
+## 58. [MAYBE] JM Family | Data Analyst I
 - Link: https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Analyst-I_JR105210
 - Location: Florida - Deerfield Beach
 - Posted: Nov 06 (board gives the date only)
@@ -1026,7 +1261,7 @@ The Data Analyst I supports foundational data analysis and governance efforts by
 
 ---
 
-## 55. [MAYBE] Cohere | Software Engineer, ML Ops
+## 59. [MAYBE] Cohere | Software Engineer, ML Ops
 - Link: https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4
 - Location: London United Kingdom Europe Berlin United Kingdom remote
 - Posted: Nov 06 10:53 ET
@@ -1140,7 +1375,7 @@ Beware of Scams: Cohere will never ask for payment or third-party services (e.g.
 
 ---
 
-## 56. [MAYBE] Cohere | Software Engineer, ML Workload Platform
+## 60. [MAYBE] Cohere | Software Engineer, ML Workload Platform
 - Link: https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97
 - Location: Canada Canada United States remote
 - Posted: Nov 06 10:27 ET
@@ -1252,7 +1487,7 @@ Beware of Scams: Cohere will never ask for payment or third-party services (e.g.
 
 ---
 
-## 57. [MAYBE] Moffitt Cancer Center | NTRO Research Assistant I
+## 61. [MAYBE] Moffitt Cancer Center | NTRO Research Assistant I
 - Link: https://moffitt.wd108.myworkdayjobs.com/Moffitt/job/Moffitt-Research-Center/NTRO-Research-Assistant-I_R-5063
 - Location: Moffitt Research Center
 - Posted: Nov 06 (board gives the date only)
@@ -1266,7 +1501,7 @@ Working at Moffitt is both a career and a mission: to contribute to the preventi
 
 ---
 
-## 58. [MAYBE] UTHealth Houston | Patient Services Representative (Entry Level - PreDoc Dental Clinic)
+## 62. [MAYBE] UTHealth Houston | Patient Services Representative (Entry Level - PreDoc Dental Clinic)
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/7999
 - Location: San Antonio, TX, United States US
 - Posted: Nov 06 (board gives the date only)
@@ -1277,4 +1512,91 @@ Working at Moffitt is both a career and a mission: to contribute to the preventi
 ### Job description
 
 Under direct supervision, responsible for providing customer service to patients by scheduling appointments, performing check-in and check-out procedures, verifying insurance benefits, obtaining authorization, and providing telephone triage. Greets patients, verifies insurance coverage and eligibility, reviews new patient registration, obtains authorizations, assists in the collection of copays and enters new patient information. Maintains medical and insurance referral records and prepares patient charts. Ensures test results are filed. Handles and answers all phone calls and transfers calls to the appropriate departments as needed. Manages patient appointments according to the physician's schedules and/or protocols. Performs all other duties as assigned. Detail oriented with the ability to organize and coordinate work within schedule constraints and handle emergent requirements in a timely manner. Ability to monitor important and complex projects concurrently. Knowledge of Microsoft Word, Excel, PowerPoint, and Lotus Notes/other email software. Ability to effectively communicate verbally and in writing, to include writing and preparing memorandums, letters, and other official correspondence. EDUCATION: High school diploma or GED is required. The University of Texas at San Antonio (UT San Antonio) is a nationally recognized, top-tier public research university that unites the power of higher education, biomedical discovery and healthcare within one visionary institution. As the third-largest research university in Texas and a Carnegie R1-designated institution, UT San Antonio is a model of access and excellence — advancing knowledge, social mobility and public health across South Texas and beyond. UT San Antonio serves approximately 42,000 students in 320 academic programs spanning science, engineering, medicine, health, liberal arts, AI, cybersecurity, business, education and more. With 17,000 faculty and staff, UT San Antonio has been recognized by Forbes as one of America’s Best Employers for Company Culture . Benefits Overview UT Health San Antonio offers an excellent benefits package for its employees. Employees who work at least 20 hours a week, with an appointment of at least 4.5 months, are eligible for benefits. Medical - UT SELECT Medical insurance is offered free for employees and administered by Blue Cross and Blue Shield of Texas. Family members can be added to the plan through payroll deduction. Employees and their dependents can also receive discounted copays and coinsurance when using UT Health Physicians, a network of 800 premier physicians including more than 100 specialists. Employees receive $50,000 of group term life insurance and $50,000 of basic accidental death and dismemberment insurance for free, with options to purchase additional employee and dependent coverage for both at group rates. Dental - Three dental insurance plan options are available for employees and their families through Delta Dental Insurance Company, two PPOs and one dental HMO plan. Both PPO plans allow employees to choose any licensed dentist. Vision - Fully insured Vision Care benefits are offered by Superior Vision Services. Two vision plan options that offer either standard or enhanced vision benefits. Disability - Employees can enroll in the Disability Insurance which provides income if a non-work related illness or injury prevents you from working. FSAs - Employees can enroll in flexible spending accounts (FSAs) to set aside money from earnings before taxes for qualifying dependent day care expenses or out-of-pocket health care expenses. Retirement - Employees are eligible for either the Teacher Retirement System (TRS) or the Optional Retirement Plan (ORP). TRS is a defined benefit retirement plan which UT Health matches employee contributions. ORP is for eligible faculty staff employees. Voluntary retirement programs are also available to invest before- or after-tax dollars with the choice of five quality retirement plan providers. Time Off - A generous leave program offers multiple paid leave options: Front-loaded Paid Time Off: 128 to 208 hours (16 to 26 days) of Paid Time Off based on years of service, given at the start of each fiscal year. PTO may be prorated in year one based on date of hire. Extended Illness Bank: 8 hours (1 day) accrued per month which can be used for illness or injury after one day of Paid Time Off is taken. Paid Family Leave: Up to 240 hours (6 weeks) to care for a spouse, child, or parent after 6 months of consecutive employment. Holidays: 12 set paid holidays each year. Discounts - Employees enjoy a range of discounts on services, tickets, and gym membership.
+
+---
+
+## 63. [MAYBE] OpenAI | Applied AI Engineer, Enterprise - EDU
+- Link: https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5
+- Location: San Francisco United States New York City US - Remote
+- Posted: Nov 06 17:37 ET
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 30 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, python, pipeline, research | Lacks: java
+
+### Job description
+
+ABOUT THE TEAM
+
+Across industries, OpenAI’s Applied AI Engineering (AIE) team helps organizations turn frontier AI into safe, reliable production systems that deliver meaningful business outcomes. We work directly with customers’ engineering, product, security, and transformation teams to navigate complex architectures, data environments, governance requirements, and organization-wide change. We turn lessons from these deployments into better OpenAI products and reusable patterns that help customers move faster.
+
+
+
+
+ABOUT THE ROLE
+
+As an Enterprise AIE, you will serve as a technical partner to leading organizations including universities and other educational institutions, helping them turn ambitious AI use cases into durable production systems and adoption at scale. You will combine deep technical judgment with hands-on engineering to provide technical leadership on complex customer deployments. You will write and debug code, build evaluation systems, resolve complex integrations, and guide decisions about model behavior, reliability, latency, cost, safety, security, governance, and operational readiness. Success is measured by durable production systems, sustained adoption, and meaningful business impact. Your deployment experience will also directly influence how OpenAI’s products evolve.
+
+This role may be based in one of our offices in New York City or San Francisco, or it may be performed remotely. Office-based employees follow a hybrid work model with three days per week in the office. We offer relocation assistance to new employees.
+
+
+
+
+IN THIS ROLE, YOU WILL
+
+ - Work hands-on in code to design, build, evaluate, and deploy AI systems from prototype to reliable production and scaled adoption that solve important customer problems and deliver measurable business outcomes.
+
+ - Partner with enterprise customers to identify high-value opportunities and translate them into technical architectures, implementation plans, evaluation strategies, and success criteria.
+
+ - Make sound technical decisions across model selection, agent and tool design, retrieval, context design, data pipelines, evaluation, reliability, observability, latency, cost, safety, security, and governance.
+
+ - Diagnose complex implementation challenges, reproduce failures, test hypotheses, and drive blockers to resolution.
+
+ - Partner closely with customers’ engineering teams and OpenAI’s Product, Research, Engineering, Security, and Go-to-Market teams to turn deployment experience into actionable product feedback.
+
+ - Create reusable architectures, tooling, playbooks, and technical guidance that accelerate future enterprise deployments.
+   
+   
+
+
+YOU MIGHT THRIVE IN THIS ROLE IF YOU
+
+ - Have personally designed, built, and shipped AI or machine-learning systems in enterprise environments, taking them from prototype to production and making substantial contributions through coding, architecture, evaluation, debugging, or production engineering. Relevant backgrounds may include applied AI or ML engineering, forward-deployed engineering, software engineering, customer engineering, solutions architecture, or technical consulting.
+
+ - Are highly proficient in Python and comfortable working end to end across model APIs, agent and tool development, retrieval and data pipelines, evaluation, observability, integrations, and production operations. Experience with JavaScript, TypeScript, or another relevant language is valuable.
+
+ - Know how to evaluate AI systems systematically using representative data, automated graders, production signals, and human judgment.
+
+ - Have navigated enterprise production requirements, including integrations, reliability, observability, security, privacy, data governance, performance, and cost.
+
+ - Experience navigating education or research environments, including institutional data, privacy, access controls and complex integrations, is valuable.
+
+ - Can connect technical decisions to customer workflows, adoption, and measurable business outcomes.
+
+ - Communicate clearly and credibly with hands-on engineers, technical leaders, security and product teams, and executives.
+
+ - Take end-to-end ownership, exercise strong technical judgment, and move effectively through ambiguity.
+
+ - Learn quickly, challenge assumptions constructively, and collaborate with humility. Experience working with education institutions, particularly universities, is preferred but not required. Prior OpenAI product experience is not required.
+
+
+
+
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
+
+---
+
+## 64. [MAYBE] Cedars-Sinai Medical Center | Research Associate I - Guerin Children's - Traver Lab - Full-Time, On-Site, Days
+- Link: https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21643
+- Location: Los Angeles, CA, United States US
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, healthcare, research | Lacks: -
+
+### Job description
+
+Principal Investigator, David Traver, PhD, is looking for a Research Associate I to join the team! Working under direct supervision, the Research Associate I performs a variety of routine experimental protocols and procedures to support the objectives of one or more laboratory research projects in a specific area of research. Assists in general laboratory activities, including maintenance of reagents and stocking of supplies. Files and monitors documents. Keeps accurate and detailed records of experiments and results. Assists in the operation of specialized equipment and machinery. Observes safety standards and procedures. The Research Assistant I will be able to perform routine cellular, micro- and molecular biology procedures including, but not limited to Western, Northern blot, DNA/RNA, PCR, protein extraction, cell culture, Immunohistochemistry, and staining. This position does not have supervisory responsibilities. What are the Primary Duties and Responsibilities? Performs a variety of routine laboratory tasks and procedures. Keeps accurate and detailed project records of experiments and results. May assist with animal husbandry. Maintains lab equipment and related records. Transports, processes and logs samples. Maintains computer database with relevant clinical information. Performs lab maintenance duties, including glassware cleaning and sterilization. Maintains stocks of general lab materials, and places orders for lab equipment and supplies. Assists new students and fellows at the laboratory. Assists in the operation of specialized equipment and machinery. Observes and complies with safety standards and procedures.  Education, Experience & Skills Requirements: Bachelor's Degree in Biological Sciences required No experience required but hESC experience a strong plus. Working knowledge of database management, personal computers, and presentation and imaging software. Understanding of general research objectives. Familiar with routine laboratory procedures and experimental protocols Must possess computer skills to include, but not limited to, Excel and Word. Cedars-Sinai is a leader in providing high-quality healthcare encompassing primary care, specialized medicine and research. Since 1902, Cedars-Sinai has evolved to meet the needs of one of the most diverse regions in the nation, setting standards in quality and innovative patient care, research, teaching and community service. Today, Cedars- Sinai is known for its national leadership in transforming healthcare for the benefit of patients. Cedars-Sinai impacts the future of healthcare by developing new approaches to treatment and educating tomorrow's health professionals. Additionally, Cedars-Sinai demonstrates a commitment to the community through programs that improve the health of its most vulnerable residents.
 
