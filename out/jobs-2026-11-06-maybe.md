@@ -11,26 +11,28 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 5 | Funding Circle | Credit Strategy Analyst  | 62 | none found (check myvisajobs) | Nov 06 07:48 ET |
 | 6 | Lloyds Bank | Financial Crime Data & Automation Analyst | 62 | 4 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
 | 7 | S&P Global | OTC Derivatives Analyst | 62 | 5 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 8 | ENOVIS | HR Specialist – HR Analytics & Operations | 57 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 9 | Turner & Townsend | Financial Operations and Data Analytics Specialist | 54 | 3 in data/analytics/finance occupations | Nov 06 11:09 ET |
-| 10 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 11 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
-| 12 | Texas A&M University - College Station | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 13 | Texas A&M University - College Station | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 14 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 15 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 16 | Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 17 | Procter & Gamble (P&G) | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 18 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
-| 19 | Entrust | Data Analyst | 47 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 20 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 21 | Höganäs | AI & Data Analytics Engineer | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 22 | AeroVect | Software Engineer, ML Ops | 44 | none found (check myvisajobs) | Nov 06 09:06 ET |
-| 23 | Scale AI | Applied AI Engineer | 44 | 16 in data/analytics/finance occupations | Nov 06 09:23 ET |
-| 24 | Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | 7 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 25 | RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 26 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 27 | PennState University | LER Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 8 | Sherwin-Williams | R&D Analyst | 62 | 8 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 9 | ENOVIS | HR Specialist – HR Analytics & Operations | 57 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 10 | Turner & Townsend | Financial Operations and Data Analytics Specialist | 54 | 3 in data/analytics/finance occupations | Nov 06 11:09 ET |
+| 11 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 12 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
+| 13 | Texas A&M University - College Station | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 14 | Texas A&M University - College Station | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 15 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 16 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 17 | Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 18 | Procter & Gamble (P&G) | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 19 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
+| 20 | Entrust | Data Analyst | 47 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 21 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 22 | Höganäs | AI & Data Analytics Engineer | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 23 | AeroVect | Software Engineer, ML Ops | 44 | none found (check myvisajobs) | Nov 06 09:06 ET |
+| 24 | Scale AI | Applied AI Engineer | 44 | 16 in data/analytics/finance occupations | Nov 06 09:23 ET |
+| 25 | Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | 7 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 26 | RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 27 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 28 | PennState University | LER Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 29 | JM Family | Data Analyst I | 40 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
 
 ---
 
@@ -218,7 +220,21 @@ About the Role: Grade Level (for internal use): 08 The Team: Portfolio Valuation
 
 ---
 
-## 8. [MAYBE] ENOVIS | HR Specialist – HR Analytics & Operations
+## 8. [MAYBE] Sherwin-Williams | R&D Analyst
+- Link: https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628472
+- Location: Pittsburgh, PA, United States US
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 8 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, excel, tableau, data quality, reporting, risk, validation | Lacks: -  | Note: broad title
+
+### Job description
+
+Job duties include contact with other employees and access confidential and proprietary information and/or other items of value, and such access may be supervised or unsupervised. The Company therefore has determined that a review of criminal history is necessary to protect the business and its operations and reputation and is necessary to protect the safety of the Company’s staff, employees, and business relationships. The R&D Systems Analyst supports North America Packaging laboratory, pilot plant, and production operations by creating, maintaining, and validating formula, raw material, intermediate, and finished-goods data across Product Data Hub (PDH), BIOS, Product Vision (PV), and related business systems. The role partners with R&D, Manufacturing, Sales, Procurement, Marketing, Quality, and IT to ensure product data is accurate, complete, and available to support product development, scale-up, and pilot. The analyst also identifies data or system issues, coordinates resolution, and develops reports that improve data quality and operational visibility. Manage set-up of Packaging formulas/raw materials in the Product Data Hub (PDH) system. Lead point of contact for setting up new finished goods and internally produced raw materials across BIOS platforms. Support BIOS setup of purchased raw materials and intermediates. Work with Plants, Sales, and Technical teams to support Finished Good item creation. Support System Formula Feedback completion in Product Vision (PV). Enter quality control data for all NAR Pilot Plant batches. Generate reports using Tableau, Business Objects, Navigator, and Advanced Excel. Support formula entry and maintenance. Maintain accurate and complete product data in accordance with established data-governance, documentation, and change-control requirements. REQUIREMENTS: Bachelor’s degree in STEM One year of experience supporting technical, product, material, formula, manufacturing, or master-data processes. – Sean said that this should be in preferred. PREFERRED QUALIFICATIONS: Bachelor’s degree in Chemistry , Chemical Engineering, Materials Science, Data Science, Information Systems, or a related STEM discipline. TECHNICAL/SKILL REQUIREMENTS: High level of accuracy and attention to detail when creating, reviewing, and maintaining technical and product data. Ability to interpret formulas, raw-material information, product specifications, manufacturing requirements, and related technical documentation. Ability to learn and work effectively within multiple product-development , master-data , reporting, and manufacturing systems. Proficiency in Microsoft Excel, including sorting, filtering, lookups, data validation, reconciliation, and basic data analysis. Strong analytical and problem-solving skills, including the ability to identify discrepancies, determine root causes, and coordinate resolution. Ability to manage multiple requests, prioritize work, maintain documentation, and meet established deadlines. Effective written and verbal communication skills, with the ability to gather information and explain data or system requirements to technical and nontechnical stakeholders. Ability to work independently within established procedures and appropriately escalate exceptions, risks, or unresolved issues. Ability to handle confidential and proprietary product and formula information appropriately. TRAVEL REQUIREMENTS: 10% At Sherwin-Williams, our purpose is to inspire and improve the world by coloring and protecting what matters. Our paints, coatings and innovative solutions make the places and spaces in our world brighter and stronger. Your skills, talent and passion make it possible to live this purpose, and for customers and our business to achieve great results. Sherwin-Williams is a place that takes its stability, growth and momentum and translates it to possibility for our people. Our people are behind the strength of our success, and we invest and support you in: Life … with rewards, benefits and the flexibility to enhance your health and well-being Career … with opportunities to learn, develop new skills and grow your contribution Connection … with an inclusive team and commitment to our own and broader communities It's all here for you... let's Create Your Possible At Sherwin-Williams, part of our mission is to help our employees and their families live healthier, save smarter and feel better. This starts with a wide range of world-class benefits designed for you. From retirement to health care, from total well-being to your daily commute—it matters to us. A general description of benefits offered can be found at http://www.myswbenefits.com/ . Click on “Candidates” to view benefit offerings that you may be eligible for if you are hired as a Sherwin-Williams employee. Compensation decisions are dependent on the facts and circumstances of each case and will impact where actual compensation may fall within the stated wage range. The wage range listed for this role takes into account the wide range of factors considered in making compensation decisions including skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. The wage range, other compensation, and benefits information listed is accurate as of the date of this posting. The Company reserves the right to modify this information at any time, with or without notice, subject to applicable law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable federal, state, and local laws including with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act where applicable. Sherwin-Williams is proud to be an Equal Employment Opportunity employer. All qualified candidates will receive consideration for employment and will not be discriminated against based on race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, pregnancy, genetic information, creed, marital status or any other consideration prohibited by law or by contract. As a VEVRAA Federal Contractor, Sherwin-Williams requests state and local employment services delivery systems to provide priority referral of Protected Veterans. Please be aware, Sherwin-Williams recruiting team members will never request a candidate to provide a payment, ask for financial information, or sensitive personal information like national identification numbers, date of birth, or bank account numbers during the application process.
+
+---
+
+## 9. [MAYBE] ENOVIS | HR Specialist – HR Analytics & Operations
 - Link: https://enovis.wd5.myworkdayjobs.com/enovis/job/Sfax-Sfax-Tunisia/HR-Specialist---HR-Analytics---Operations_R0034408-1
 - Location: Sfax, Sfax, Tunisia
 - Posted: Nov 05 (board gives the date only)
@@ -232,7 +248,7 @@ About the Role: Grade Level (for internal use): 08 The Team: Portfolio Valuation
 
 ---
 
-## 9. [MAYBE] Turner & Townsend | Financial Operations and Data Analytics Specialist
+## 10. [MAYBE] Turner & Townsend | Financial Operations and Data Analytics Specialist
 - Link: https://jobs.smartrecruiters.com/TurnerTownsend/744000160245800
 - Location: New York New York us
 - Posted: Nov 06 11:09 ET
@@ -246,7 +262,7 @@ Turner & Townsend is seeking an analytical individual to join our NY Real Estate
 
 ---
 
-## 10. [MAYBE] Open Avenues Foundation | Data Engineer H/F
+## 11. [MAYBE] Open Avenues Foundation | Data Engineer H/F
 - Link: https://open.wd103.myworkdayjobs.com/OPEN/job/Nantes-Sud/Data-Engineer-H-F_R16557-1
 - Location: Nantes Sud
 - Posted: Nov 05 (board gives the date only)
@@ -260,7 +276,7 @@ Turner & Townsend is seeking an analytical individual to join our NY Real Estate
 
 ---
 
-## 11. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
+## 12. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686296
 - Location: Long Island City NY us
 - Posted: Nov 06 06:31 ET
@@ -274,7 +290,7 @@ The NYC Health Department’s Bureau of Hepatitis, HIV, and Sexually Transmitted
 
 ---
 
-## 12. [MAYBE] Texas A&M University - College Station | Research Assistant
+## 13. [MAYBE] Texas A&M University - College Station | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098615-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -288,7 +304,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 13. [MAYBE] Texas A&M University - College Station | Research Associate
+## 14. [MAYBE] Texas A&M University - College Station | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Associate_R-098614-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -302,7 +318,7 @@ Job Title Research Associate Agency Texas A&M University Department Psychology P
 
 ---
 
-## 14. [MAYBE] Texas A&M University System | Research Assistant
+## 15. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098615
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -316,7 +332,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 15. [MAYBE] Texas A&M University System | Research Associate
+## 16. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-098614
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -330,7 +346,7 @@ Job Title Research Associate Agency Texas A&M University Department Psychology P
 
 ---
 
-## 16. [MAYBE] Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US
+## 17. [MAYBE] Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US
 - Link: https://mckesson.wd3.myworkdayjobs.com/SCRI_Careers/job/USA-TX-Remote/Product-Analyst--Digital-Transformation---Remote-US_JR0156906
 - Location: USA, TX, Remote
 - Posted: Nov 05 (board gives the date only)
@@ -344,7 +360,7 @@ It’s More Than a Career, It’s a Mission. Our people are the foundation of ou
 
 ---
 
-## 17. [MAYBE] Procter & Gamble (P&G) | Data Engineer
+## 18. [MAYBE] Procter & Gamble (P&G) | Data Engineer
 - Link: https://pg.wd5.myworkdayjobs.com/1000/job/PANAMA-BUSINESS-CENTER/Data-Engineer_R000162494
 - Location: PANAMA BUSINESS CENTER
 - Posted: Nov 05 (board gives the date only)
@@ -358,7 +374,7 @@ Job Location PANAMA BUSINESS CENTER Job Description Job type: Managerial full-ti
 
 ---
 
-## 18. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
+## 19. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686496
 - Location: Long Island City NY us
 - Posted: Nov 06 06:32 ET
@@ -372,7 +388,7 @@ The New York City Department of Health and Mental Hygiene (NYC DOHMH)'s Bureau o
 
 ---
 
-## 19. [MAYBE] Entrust | Data Analyst
+## 20. [MAYBE] Entrust | Data Analyst
 - Link: https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Data-Analyst_R004482
 - Location: United States - Shakopee, MN (GHQ)
 - Posted: Nov 05 (board gives the date only)
@@ -386,7 +402,7 @@ Join us at Entrust At Entrust, we’re shaping the future of identity centric se
 
 ---
 
-## 20. [MAYBE] WSP | AI Engineer (Advisory)
+## 21. [MAYBE] WSP | AI Engineer (Advisory)
 - Link: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98887
 - Location: Cambridge, Cambridgeshire, United Kingdom GB London, London, United Kingdom
 - Posted: Nov 06 (board gives the date only)
@@ -400,7 +416,7 @@ What if you could do the kind of work the world needs? At WSP, you can access ou
 
 ---
 
-## 21. [MAYBE] Höganäs | AI & Data Analytics Engineer
+## 22. [MAYBE] Höganäs | AI & Data Analytics Engineer
 - Link: https://hoganas.wd3.myworkdayjobs.com/Careers/job/Hgans/AI---Data-Analytics-Engineer_JR1465
 - Location: Höganäs
 - Posted: Nov 05 (board gives the date only)
@@ -414,7 +430,7 @@ About the Position As an AI & Data Analytics Engineer, you will work with techni
 
 ---
 
-## 22. [MAYBE] AeroVect | Software Engineer, ML Ops
+## 23. [MAYBE] AeroVect | Software Engineer, ML Ops
 - Link: https://jobs.ashbyhq.com/AeroVect/6058be12-918f-4016-87d8-cdbeb0ecdfbf
 - Location: Toronto Canada remote
 - Posted: Nov 06 09:06 ET
@@ -471,7 +487,7 @@ Please note this role will be based onsite in Toronto
 
 ---
 
-## 23. [MAYBE] Scale AI | Applied AI Engineer
+## 24. [MAYBE] Scale AI | Applied AI Engineer
 - Link: https://job-boards.greenhouse.io/scaleai/jobs/4751059005
 - Location: Kuwait City, Kuwait
 - Posted: Nov 06 09:23 ET
@@ -485,7 +501,7 @@ About the role Scale's Global Public Sector team uses AI to address critical cha
 
 ---
 
-## 24. [MAYBE] Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS
+## 25. [MAYBE] Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS
 - Link: https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/St-Louis-MO/Business-Intelligence-Analyst---Snowflake--Databricks--SSRS_R119700-1
 - Location: 6 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -499,7 +515,7 @@ Are you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS ) 
 
 ---
 
-## 25. [MAYBE] RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS
+## 26. [MAYBE] RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS
 - Link: https://relx.wd3.myworkdayjobs.com/relx/job/St-Louis-MO/Business-Intelligence-Analyst---Snowflake--Databricks--SSRS_R119700
 - Location: 6 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -513,7 +529,7 @@ Are you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS ) 
 
 ---
 
-## 26. [MAYBE] Brown University | Research Assistant
+## 27. [MAYBE] Brown University | Research Assistant
 - Link: https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/RT---Massachusetts/Research-Assistant_REQ212010
 - Location: RT - Massachusetts
 - Posted: Nov 05 (board gives the date only)
@@ -527,7 +543,7 @@ Job Description: Position Purpose The Research Assistant position is responsible
 
 ---
 
-## 27. [MAYBE] PennState University | LER Research Assistant
+## 28. [MAYBE] PennState University | LER Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/LER-Research-Assistant_REQ_0000084061-1
 - Location: Penn State University Park
 - Posted: Nov 05 (board gives the date only)
@@ -538,4 +554,18 @@ Job Description: Position Purpose The Research Assistant position is responsible
 ### Job description
 
 APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process . Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday. If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants . Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants . JOB DESCRIPTION AND POSITION REQUIREMENTS The School of Labor and Employment Relations is seeking applicants for part-time Research Assistant. The duties and responsibilities of the successful candidate will include assisting the following: Conducting Interviews Transcribing Interviews Data Analyses The duties associated with this position require specialized qualitative research skills that go beyond routine administrative or research support functions. The individual must have demonstrated experience conducting and documenting in-depth qualitative interviews, applying culturally sensitive interviewing techniques, managing confidential research data, conducting scholarly literature reviews, and supporting qualitative data analysis. These responsibilities require prior training and experience in qualitative research methodologies and the ability to work independently with minimal supervision. BACKGROUND CHECKS/CLEARANCES Employment with the University will require successful completion of background check(s) in accordance with University policies. CAMPUS SECURITY CRIME STATISTICS Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here .
+
+---
+
+## 29. [MAYBE] JM Family | Data Analyst I
+- Link: https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Analyst-I_JR105210
+- Location: Florida - Deerfield Beach
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: sql, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+The Data Analyst I supports foundational data analysis and governance efforts by assisting with data research, basic querying, and documentation. This role helps maintain data accuracy while building knowledge of systems, processes, and data standards. Responsibilities : Assist with data research and basic analysis activities Develop and run simple queries to support reporting and insights Support updates to source-to-target data mappings Participate in data reviews to validate accuracy and consistency Document data elements and processes in governance tools Follow established data governance standards and procedures Collaborate with team members to understand data and system structures Qualifications : Bachelor's degree in data Analytics, Information Systems, Business, or a related field Basic understanding of data analysis concepts and tools Familiarity with querying tools or languages (e.g., SQL) preferred Strong attention to detail and organizational skills Ability to document information clearly and accurately Strong communication and collaboration skills Willingness to learn data systems, processes, and governance practices This job description may not be inclusive of all assigned duties, responsibilities, or aspects of the job described, and may be amended at any time at the sole discretion of JM Family. All work arrangements are subject to associate performance, business need and manager discretion, and may be revised as necessary. JM FAMILY IS PROUD TO BE AN
 
