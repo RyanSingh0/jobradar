@@ -16,28 +16,32 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 10 | ENOVIS | HR Specialist – HR Analytics & Operations | 57 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
 | 11 | Turner & Townsend | Financial Operations and Data Analytics Specialist | 54 | 3 in data/analytics/finance occupations | Nov 06 11:09 ET |
 | 12 | Axos Bank | Construction Risk Analyst | 54 | 6 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 13 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 14 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
-| 15 | Texas A&M University - College Station | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 16 | Texas A&M University - College Station | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 17 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 18 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 19 | Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 20 | Procter & Gamble (P&G) | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 21 | CVS Health | Renewal and Reporting Analyst | 50 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
-| 22 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
-| 23 | Entrust | Data Analyst | 47 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 24 | Thales | AI Engineer - Graduate | 47 | 2 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 25 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
-| 26 | Höganäs | AI & Data Analytics Engineer | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 27 | AeroVect | Software Engineer, ML Ops | 44 | none found (check myvisajobs) | Nov 06 09:06 ET |
-| 28 | Scale AI | Applied AI Engineer | 44 | 16 in data/analytics/finance occupations | Nov 06 09:23 ET |
-| 29 | Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | 7 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
-| 30 | RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
-| 31 | Blockhouse | Quant Developer, Trading Systems (Rust and C++) | 44 | none found (check myvisajobs) | Nov 06 12:29 ET |
-| 32 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 33 | PennState University | LER Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
-| 34 | JM Family | Data Analyst I | 40 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 13 | Charles Schwab | Job Posting Title Credit Research Analyst | 54 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 14 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 15 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
+| 16 | Texas A&M University - College Station | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 17 | Texas A&M University - College Station | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 18 | Texas A&M University System | Research Assistant | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 19 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 20 | Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 21 | Procter & Gamble (P&G) | Data Engineer | 50 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 22 | CVS Health | Renewal and Reporting Analyst | 50 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
+| 23 | Center for Strategic and International Studies | Research Assistant,  Defense Analysis Program | 50 | none found (check myvisajobs) | Nov 06 13:07 ET |
+| 24 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
+| 25 | Entrust | Data Analyst | 47 | 1 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 26 | Thales | AI Engineer - Graduate | 47 | 2 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 27 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 28 | Höganäs | AI & Data Analytics Engineer | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 29 | AeroVect | Software Engineer, ML Ops | 44 | none found (check myvisajobs) | Nov 06 09:06 ET |
+| 30 | Scale AI | Applied AI Engineer | 44 | 16 in data/analytics/finance occupations | Nov 06 09:23 ET |
+| 31 | Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | 7 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 32 | RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS | 44 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 33 | Blockhouse | Quant Developer, Trading Systems (Rust and C++) | 44 | none found (check myvisajobs) | Nov 06 12:29 ET |
+| 34 | Ameriprise Financial | Equities Portfolio Analyst I | 44 | 11 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 35 | JP Morgan Chase | Quantitative Trading & Research - EM Rates - Associate | 42 | 1098 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 36 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 37 | PennState University | LER Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 38 | JM Family | Data Analyst I | 40 | none found (check myvisajobs) | Nov 06 (board gives the date only) |
 
 ---
 
@@ -295,7 +299,21 @@ Axos Bank Target Range: $29.00/Hr. - $34.00/Hr. Actual starting pay will vary ba
 
 ---
 
-## 13. [MAYBE] Open Avenues Foundation | Data Engineer H/F
+## 13. [MAYBE] Charles Schwab | Job Posting Title Credit Research Analyst
+- Link: https://career-schwab.icims.com/jobs/129573/credit-research-analyst/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~54 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 53 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, credit, portfolio, research, risk, trading | Lacks: -
+
+### Job description
+
+Credit Research Analyst in Lone Tree, Colorado | Careers at DENR2 - DENVER RIDGEGATE - BUILDING 2 Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log in Credit Research Analyst Job Locations US-CO-Lone Tree | US-FL-Naples | US-IL-Chicago | US-CA-San Francisco Requisition ID 2026-129573 Posted Date 41 minutes ago (11/6/2026 1:30 PM) Category Investment Research & Management Salary Range USD $130,000.00 - $190,000.00 / Year Application deadline 11/20/2026 Position Type Full time Your Opportunity At Schwab, you’re empowered to make an impact on your career. Here, innovative thought meets creative problem solving, helping us challenge the status quo and transform the finance industry together. We believe in the importance of in-office collaboration and fully intend for the selected candidate for this role to work on site in the specified location(s). As a Senior Analyst within Credit Research, you will provide independent research and recommendations on asset-backed commercial paper programs and asset-backed securities held across fixed income and money market portfolios. Your analysis will help portfolio managers and credit committees make informed investment decisions and identify emerging collateral, structural, liquidity, and counterparty risks. You will evaluate transaction structures, collateral performance, credit enhancement, cash flow waterfalls, and liquidity support; perform modeling, stress testing, and ongoing surveillance; and translate complex findings into clear, actionable recommendations. You will own assigned coverage, prioritize time-sensitive reviews, and collaborate with portfolio management, trading, risk management, issuers, servicers, rating agencies, and other research partners. Success requires structured finance expertise, analytical thinking, sound decision-making, clear communication, and adaptability as market conditions, portfolio needs, and research tools evolve. You will also help strengthen research methodologies, data analytics, automation, and AI-enabled surveillance capabilities. What you have Required Qualifications Bachelor’s degree in finance, economics, accounting, business, or a related field 3 + years of experience in credit research, structured finance, fixed income analysis, banking, a rating agency, or a related investment discipline Working knowledge of asset-backed commercial paper (ABCP) programs , including program structure, program-wide and seller-specific credit enhancement, liquidity facilit ies , asset eligibility and concentration criteria and seller/servicer quality Working knowledge of asset-backed securities (ABS) across collateral types, including cash flow waterfalls, credit enhancement, collateral performance, servicer and originator quality, and review of transaction documents and trustee reports Ability to develop well-supported credit recommendations and communicate complex findings clearly to portfolio managers, credit committees, and cross-functional partners Strong analytical thinking, decision-making, collaboration, and adaptability when evaluating changing market conditions and emerging risks Preferred Qualifications Experience performing cash flow modeling, scenario analysis, or stress testing for structured finance transactions Experience with structured finance analytics platforms or credit surveillance systems Advanced Microsoft Excel and financial modeling capabilities Familiarity with data analytics, automation, or AI-enabled research workflows Strong written, verbal, and presentation communication skills In addition to the salary range, this role is eligible for bonus or incentive opportunities. Options Apply for this job Apply Share Refer a friend Refer Sorry the Share function is not working properly at this moment. Please refresh the page and try again later. Share on your newsfeed What’s in it for you At Schwab, you’re empowered to shape your future. We champion your growth through meaningful work, continuous learning, and a culture of trust and collaboration—so you can build the skills to make a lasting impact. Our Hybrid Work and Flexibility approach balances our ongoing commitment to workplace flexibility, serving our clients, and our strong belief in the value of being together in person on a regular basis. We offer a competitive benefits package that takes care of the whole you – both today and in the future: 401(k) with company match and Employee stock purchase plan Paid time for vacation, volunteering, and 28-day sabbatical after every 5 years of service for eligible positions Paid parental leave and family building benefits Tuition reimbursement Health, dental, and vision insurance Application FAQs Software Powered by ICIMS www.icims.com
+
+---
+
+## 14. [MAYBE] Open Avenues Foundation | Data Engineer H/F
 - Link: https://open.wd103.myworkdayjobs.com/OPEN/job/Nantes-Sud/Data-Engineer-H-F_R16557-1
 - Location: Nantes Sud
 - Posted: Nov 05 (board gives the date only)
@@ -309,7 +327,7 @@ Axos Bank Target Range: $29.00/Hr. - $34.00/Hr. Actual starting pay will vary ba
 
 ---
 
-## 14. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
+## 15. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686296
 - Location: Long Island City NY us
 - Posted: Nov 06 06:31 ET
@@ -323,7 +341,7 @@ The NYC Health Department’s Bureau of Hepatitis, HIV, and Sexually Transmitted
 
 ---
 
-## 15. [MAYBE] Texas A&M University - College Station | Research Assistant
+## 16. [MAYBE] Texas A&M University - College Station | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098615-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -337,7 +355,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 16. [MAYBE] Texas A&M University - College Station | Research Associate
+## 17. [MAYBE] Texas A&M University - College Station | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Associate_R-098614-1
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -351,7 +369,7 @@ Job Title Research Associate Agency Texas A&M University Department Psychology P
 
 ---
 
-## 17. [MAYBE] Texas A&M University System | Research Assistant
+## 18. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098615
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -365,7 +383,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 18. [MAYBE] Texas A&M University System | Research Associate
+## 19. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-098614
 - Location: College Station, TX
 - Posted: Nov 05 (board gives the date only)
@@ -379,7 +397,7 @@ Job Title Research Associate Agency Texas A&M University Department Psychology P
 
 ---
 
-## 19. [MAYBE] Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US
+## 20. [MAYBE] Sarah Cannon Research Institute (SCRI) | Product Analyst, Digital Transformation - Remote US
 - Link: https://mckesson.wd3.myworkdayjobs.com/SCRI_Careers/job/USA-TX-Remote/Product-Analyst--Digital-Transformation---Remote-US_JR0156906
 - Location: USA, TX, Remote
 - Posted: Nov 05 (board gives the date only)
@@ -393,7 +411,7 @@ It’s More Than a Career, It’s a Mission. Our people are the foundation of ou
 
 ---
 
-## 20. [MAYBE] Procter & Gamble (P&G) | Data Engineer
+## 21. [MAYBE] Procter & Gamble (P&G) | Data Engineer
 - Link: https://pg.wd5.myworkdayjobs.com/1000/job/PANAMA-BUSINESS-CENTER/Data-Engineer_R000162494
 - Location: PANAMA BUSINESS CENTER
 - Posted: Nov 05 (board gives the date only)
@@ -407,7 +425,7 @@ Job Location PANAMA BUSINESS CENTER Job Description Job type: Managerial full-ti
 
 ---
 
-## 21. [MAYBE] CVS Health | Renewal and Reporting Analyst
+## 22. [MAYBE] CVS Health | Renewal and Reporting Analyst
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Delaware/Renewal-and-Reporting-Analyst_R1071607-1
 - Location: 51 Locations
 - Posted: Nov 06 (board gives the date only)
@@ -421,7 +439,21 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 22. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
+## 23. [MAYBE] Center for Strategic and International Studies | Research Assistant,  Defense Analysis Program
+- Link: https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4469940009
+- Location: Washington, D.C.
+- Posted: Nov 06 13:07 ET
+- Scanner fit: ~50 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, publication, quantitative, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+JOB SUMMARY The Center for Strategic and International Studies (CSIS) is a non-profit, bipartisan public policy organization established in 1962 to provide strategic insights and practical policy solutions to decision makers concerned with global security and prosperity. Over the years, it has grown to be one of the largest organizations of its kind, with a staff of some 275 employees, including more than 120 analysts working to address the changing dynamics of international security across the globe. The CSIS Defense and Security Department seeks a highly motivated candidate for a full-time Research Assistant position who will support two programs ― the Defense Analysis Program and the Arleigh A. Burke Chair ― in a variety of research and administrative tasks. The Research Assistant will serve as a primary administrative contact for the programs, including: copyediting and publication management; event planning; budget tracking and expense reports; travel planning; and grant reporting. The ideal candidate will be a self-starter, possess excellent communication skills, and have exceptional organizational and time management skills. They will also serve as the primary researcher on publications focusing on contemporary military and strategic issues, including but not limited to the changing character of war, the Russia-Ukraine war, the military balance in the Indo-Pacific, and the impact of advanced technology on the conduct of war. Other research projects relating to diplomatic history may also come up. Key administrative responsibilities will all program components, including: The starting salary for this position is $57,000. ESSENTIAL DUTIES AND RESPONSIBILITIES: Essential functions may include, but are not limited to the following: Research: Supporting the research agenda by conducting rigorous qualitative and quantitative research and analysis on the subjects described above; Co-authoring (as appropriate) original research and analysis; Using cutting-edge research methods to support written analysis, building and managing original databases and datasets; Scholarly research in archives, databases, and other materials. Quick turn-around projects to support occasional articles and reports, including the writing of brief (1-3 page) analytic, research or bibliographic memoranda. Administrative: Assisting in drafting individual project proposals and/or budgets and liaising with appropriate parties to properly submit research proposals; Managing event planning, promotion, and execution for public events and for internal (private) meetings and briefings with members of the U.S. government, private sector, foreign government partners, and others; Assisting with logistics, travel arrangements, expense management, preparatory briefing books, and drafting itineraries for necessary fieldwork and travel; Periodically working outside of regular business hours to assist with critical ISP events, such as the annual week-long Basin Harbor Workshop on the Changing Character of War; Additional tasks as requested by Burke Chair and ISP senior adviser. KNOWLEDGE, EDUCATION, AND EXPERIENCE: Completed B.A. history, political science, international affairs, or related field; 1-2 years of work experience in a professional office environment (may include internships); Excellent verbal, written, and research skills; Experience providing high-quality logistical and administrative support to senior staff; Familiarity with a typical report publication process, including graphic design, layout, copyediting, and printing processes; Detail-oriented, well-organized, with a proven ability to manage multiple projects and priorities simultaneously under tight deadlines; Proven ability to work collaboratively in a team environment and work independently with little to no supervision. Salary Range $57,000 &mdash; $65,000 USD PHYSICAL REQUIREMENTS AND WORK CONDITIONS The physical demands are representative of those that must be met by an employee working in an office environment. &nbsp;
+
+---
+
+## 24. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686496
 - Location: Long Island City NY us
 - Posted: Nov 06 06:32 ET
@@ -435,7 +467,7 @@ The New York City Department of Health and Mental Hygiene (NYC DOHMH)'s Bureau o
 
 ---
 
-## 23. [MAYBE] Entrust | Data Analyst
+## 25. [MAYBE] Entrust | Data Analyst
 - Link: https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Data-Analyst_R004482
 - Location: United States - Shakopee, MN (GHQ)
 - Posted: Nov 05 (board gives the date only)
@@ -449,7 +481,7 @@ Join us at Entrust At Entrust, we’re shaping the future of identity centric se
 
 ---
 
-## 24. [MAYBE] Thales | AI Engineer - Graduate
+## 26. [MAYBE] Thales | AI Engineer - Graduate
 - Link: https://thales.wd3.myworkdayjobs.com/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1
 - Location: Orlando
 - Posted: Nov 06 (board gives the date only)
@@ -463,7 +495,7 @@ Location: Orlando, United States of America Thales people architect solutions th
 
 ---
 
-## 25. [MAYBE] WSP | AI Engineer (Advisory)
+## 27. [MAYBE] WSP | AI Engineer (Advisory)
 - Link: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98887
 - Location: Cambridge, Cambridgeshire, United Kingdom GB London, London, United Kingdom
 - Posted: Nov 06 (board gives the date only)
@@ -477,7 +509,7 @@ What if you could do the kind of work the world needs? At WSP, you can access ou
 
 ---
 
-## 26. [MAYBE] Höganäs | AI & Data Analytics Engineer
+## 28. [MAYBE] Höganäs | AI & Data Analytics Engineer
 - Link: https://hoganas.wd3.myworkdayjobs.com/Careers/job/Hgans/AI---Data-Analytics-Engineer_JR1465
 - Location: Höganäs
 - Posted: Nov 05 (board gives the date only)
@@ -491,7 +523,7 @@ About the Position As an AI & Data Analytics Engineer, you will work with techni
 
 ---
 
-## 27. [MAYBE] AeroVect | Software Engineer, ML Ops
+## 29. [MAYBE] AeroVect | Software Engineer, ML Ops
 - Link: https://jobs.ashbyhq.com/AeroVect/6058be12-918f-4016-87d8-cdbeb0ecdfbf
 - Location: Toronto Canada remote
 - Posted: Nov 06 09:06 ET
@@ -548,7 +580,7 @@ Please note this role will be based onsite in Toronto
 
 ---
 
-## 28. [MAYBE] Scale AI | Applied AI Engineer
+## 30. [MAYBE] Scale AI | Applied AI Engineer
 - Link: https://job-boards.greenhouse.io/scaleai/jobs/4751059005
 - Location: Kuwait City, Kuwait
 - Posted: Nov 06 09:23 ET
@@ -562,7 +594,7 @@ About the role Scale's Global Public Sector team uses AI to address critical cha
 
 ---
 
-## 29. [MAYBE] Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS
+## 31. [MAYBE] Elsevier | Business Intelligence Analyst - Snowflake, Databricks, SSRS
 - Link: https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/St-Louis-MO/Business-Intelligence-Analyst---Snowflake--Databricks--SSRS_R119700-1
 - Location: 6 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -576,7 +608,7 @@ Are you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS ) 
 
 ---
 
-## 30. [MAYBE] RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS
+## 32. [MAYBE] RELX / LexisNexis | Business Intelligence Analyst - Snowflake, Databricks, SSRS
 - Link: https://relx.wd3.myworkdayjobs.com/relx/job/St-Louis-MO/Business-Intelligence-Analyst---Snowflake--Databricks--SSRS_R119700
 - Location: 6 Locations
 - Posted: Nov 05 (board gives the date only)
@@ -590,7 +622,7 @@ Are you a dedicated Business Intelligent Analyst (Snowflake, Databricks, SSRS ) 
 
 ---
 
-## 31. [MAYBE] Blockhouse | Quant Developer, Trading Systems (Rust and C++)
+## 33. [MAYBE] Blockhouse | Quant Developer, Trading Systems (Rust and C++)
 - Link: https://jobs.ashbyhq.com/blockhouse/e78e69bc-6506-47ca-8855-67337df6b59c
 - Location: New York City Area United States
 - Posted: Nov 06 12:29 ET
@@ -680,7 +712,35 @@ WHY BLOCKHOUSE
 
 ---
 
-## 32. [MAYBE] Brown University | Research Assistant
+## 34. [MAYBE] Ameriprise Financial | Equities Portfolio Analyst I
+- Link: https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/New-York-New-York/Equities-Portfolio-Analyst-I_R26_4413
+- Location: New York, New York
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~44 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 11 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, python, portfolio, research, risk | Lacks: cfa
+
+### Job description
+
+About Our Company Working at Columbia Threadneedle Investments you'll find growth and career opportunities across all of our businesses. We're intentionally built to help you succeed. Our reach is expansive with a Columbia Threadneedle Investments global team of 2,300 people working together. Our capability is diverse with more than 550 investment professionals sharing global perspectives across all major asset classes and markets. Our clients have access to a broad array of investment strategies, and we have the capability to create bespoke solutions matched to clients' specific requirements. Our unwavering focus on our clients and strong financial foundation connects each of our enterprise businesses — Ameriprise Financial, Columbia Threadneedle Investments and RiverSource Insurance and Annuities. Job Description The Equities Portfolio Analyst position supports a Direct Indexing team, which manages quant-oriented tax efficient SMA strategies. The role is being created to support AUM growth. Primary responsibilities are to oversee and manage preparing proposals for prospective clients, supporting portfolio managers in rebalancing accounts and pursue operational efficiencies with respect to various business processes. Role will require interacting with key functions such as Sales, Product and Investment Technology. Responsibilities - Oversee and manage proposals sent to clients demonstrating tax and risk impacts of transitioning their portfolio(s) to a Tax Efficient strategy. Trouble shoot issues and pursue supplemental analysis, when needed. Explain results to internal partners, when needed. - Pursue operational efficiencies by designing and coordinating with software engineers to improve or build new tools related to portfolio management, account onboarding and servicing or business development processes. - Support Portfolio Managers in rebalancing accounts and respond to client requests such as cash additions, cash raises and gifting. Collaborate to perform research on new strategies and/or new applications of existing strategies. Requirements - 2-5 years industry experience - Bachelor’s degree with commitment to pursuing CFA designation - Knowledge of Equities markets, modern portfolio theory, and investment concepts - Programming skills: Microsoft VBA, python are preferred. High proficiency using Excel is required. - Familiarity with multi-factor risk models, portfolio optimizers, Factset and/or Bloomberg - Proficient writing and presenting skills - Exposure to AI and generative AI technologies preferred Visa Sponsorship Applicants must have a valid work authorization that does not now, or in the future, require visa sponsorship for employment in the United States (e.g., H-1B, F-1 CPT, F-1 OPT, TN). In-Office Collaboration We are a client-centric, relationship-based business. Working together, in-person, is foundational to how we achieve results. By fostering a culture of face-to-face collaboration, idea sharing, productivity and personal connection, we deliver for our stakeholders — clients, advisors, employees and shareholders. Our employees work in the office at least four (4) days per week, with flexibility to work from home one (1) day per week. Some roles may require additional in-office time or different in-office expectations, and specific requirements will be discussed during the hiring process. Base Pay Salary The estimated base salary for this role is $115,000- $140,000 / year. We have a pay-for-performance compensation philosophy. Your initial total compensation may vary based on job-related knowledge, skills, experience, and geographical work location. In addition, most of our roles are eligible for variable pay in the form of bonus, commissions, and/or long-term incentives depending on the role. We also have a competitive and comprehensive benefits program that supports all aspects of your health and well-being, including but not limited to vacation time, sick time, 401(k), and health, dental and life insurances. Full-Time/Part-Time Full time Exempt/Non-Exempt Exempt Job Family Group Investment Management Line of Business AMINV US Asset Management Columbia Threadneedle is a people business, and we recognise that our success is due to our talented people, who bring diversity of thought, complementary skills and capabilities. We are committed to fostering an inclusive and performance-based culture where everyone can belong, grow, contribute and realise their potential. Columbia Threadneedle
+
+---
+
+## 35. [MAYBE] JP Morgan Chase | Quantitative Trading & Research - EM Rates - Associate
+- Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807588
+- Location: New York, NY, United States US
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~42 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, python, statistic, fx, quantitative, research, risk, trading | Lacks: c++, java, scala
+
+### Job description
+
+Team Overview The EM Rates Quantitative Trading team in New York is a dynamic team responsible for coordinating with the larger team to determine the desk's profitability. This team covers a wide range of responsibilities, including designing, trading, and execution strategies across EM Rates products — Bonds, Interest Rate Swaps (IRS), FX Swaps, and Repo on Government Bonds. Job Summary As an Analyst or Associate within Quantitative Trading & Research (QTR) EM Rates Quantitative Trading team, you will work as part of the QTR front-office team on the trading floor in Sao Paulo or New York. Given the dynamic nature of the environment, this role is tailored for an individual who is responsible, independent, and able to work in smooth coordination with the larger team to determine the desk's profitability. You will get a chance to cover a wide range of responsibilities, including designing trading and execution strategies for EM Rates products (Bonds, IRS, FX Swaps, and Repo Government Bonds); researching micro-patterns and trends; building, maintaining, and upgrading applications and tools; and supporting day-to-day operations. Job Responsibilities Create, modify, and implement algorithmic orders to execute EM Rates products—Bonds, IRS, FX Swaps, and Repo Government Bonds—for clients and internal manual traders. Work closely with Technology to develop scalable, low-latency infrastructure that meets business needs. Leverage internal and non-public sources of liquidity to optimize electronic price discovery and hedging across EM Rates instruments. Review, monitor, and track daily P&L from electronic market-making activity. Contribute to the design and enhancement of electronic market-making trading systems across Bonds, IRS, FX Swaps, and Repo Government Bonds. Perform statistical analysis of algorithmic order execution for internal use and to drive iterative improvements. Understand and consistently follow the firm’s approach and policies for managing risk in the EM Rates business, as well as applicable legal and regulatory requirements. Required Qualifications, Capabilities, and Skills Demonstrate a strong interest in market microstructure and quantitative trading, with particular relevance to EM Rates products (Bonds, IRS, FX Swaps, and Repo Government Bonds). Strong design and programming skills are essential, with a primary focus on object-oriented programming languages ( C++ , Java , C# , etc.) and Python . Apply agile development practices within a front-office trading environment and exhibit excellent verbal and written communication skills, as the position involves frequent interaction with different teams across the firm, including many non-technical users. Think strategically and creatively when faced with problems and opportunities, eagerly seeking new ways of doing things and understanding the benefits of leveraging the firm's scale. Understanding of different types of risk and the ability to discuss in detail ways of managing those risks within EM Rates markets is required. Ability to communicate concepts and ideas, both verbally and via documentation, and defend their validity while tailoring messages to different audiences. Preferred Qualifications, Capabilities, and Skills A degree in Engineering, Mathematics, Physics, Computer Science, or an equivalent discipline Direct experience with agile software methodologies. Experience in macro markets, particularly EM Rates products such as Bonds, IRS, FX Swaps, and Repo on Government Bonds. General trading concepts and terminology, is strongly preferred, as is experience working with electronic venues relevant to these products. Demonstrated proficiency with AI-assisted coding tools (e.g., Copilot-style code generation and completion assistants)   JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
+
+---
+
+## 36. [MAYBE] Brown University | Research Assistant
 - Link: https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/RT---Massachusetts/Research-Assistant_REQ212010
 - Location: RT - Massachusetts
 - Posted: Nov 05 (board gives the date only)
@@ -694,7 +754,7 @@ Job Description: Position Purpose The Research Assistant position is responsible
 
 ---
 
-## 33. [MAYBE] PennState University | LER Research Assistant
+## 37. [MAYBE] PennState University | LER Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/LER-Research-Assistant_REQ_0000084061-1
 - Location: Penn State University Park
 - Posted: Nov 05 (board gives the date only)
@@ -708,7 +768,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 34. [MAYBE] JM Family | Data Analyst I
+## 38. [MAYBE] JM Family | Data Analyst I
 - Link: https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Analyst-I_JR105210
 - Location: Florida - Deerfield Beach
 - Posted: Nov 06 (board gives the date only)
