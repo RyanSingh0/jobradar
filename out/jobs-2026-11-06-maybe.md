@@ -4,11 +4,187 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
+| 1 | Funding Circle | Credit Strategy Analyst  | 62 | none found (check myvisajobs) | Nov 06 07:48 ET |
+| 2 | ENOVIS | HR Specialist – HR Analytics & Operations | 57 | none found (check myvisajobs) | Nov 05 (board gives the date only) |
+| 3 | Open Avenues Foundation | Data Engineer H/F | 52 | 69 in data/analytics/finance occupations | Nov 05 (board gives the date only) |
+| 4 | City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI | 50 | none found (check myvisajobs) | Nov 06 06:31 ET |
+| 5 | City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI | 47 | none found (check myvisajobs) | Nov 06 06:32 ET |
+| 6 | WSP | AI Engineer (Advisory) | 44 | 7 in data/analytics/finance occupations | Nov 06 (board gives the date only) |
+| 7 | Brown University | Research Assistant | 40 | cap-exempt employer | Nov 05 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] Brown University | Research Assistant
+## 1. [MAYBE] Funding Circle | Credit Strategy Analyst 
+- Link: https://jobs.ashbyhq.com/fundingcircle/13144be9-a638-4b86-a49e-68c05aca532e
+- Location: London United Kingdom remote
+- Posted: Nov 06 07:48 ET
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, forecast, python, sql, statistic, credit, git, portfolio, risk, segmentation | Lacks: sas  | Note: no H-1B filings found for this employer
+
+### Job description
+
+WE’RE ON A MISSION TO BACK THE UK’S SMALL BUSINESSES LIKE NO ONE ELSE 🚀
+
+Small businesses are the backbone of the economy, and we’re here to help them win. We’ve built a platform that uses clever data to get them the funding they need in minutes, not weeks.
+
+
+
+At Funding Circle, we have the restless energy of a fintech start-up with the stability of a public company. It’s a unique mix that gives Circlers the autonomy to take ownership and the scale to make an impact that truly counts.
+
+
+
+We’re a high-performing team that chooses to lift each other up. We challenge, we champion, and we have each other’s backs -  because we know that when we stand together, we move faster and build better.
+
+
+
+The impact is real: Last year alone, the businesses on our platform generated £7.2bn for the UK economy 📈 Come and join a mission that matters!
+
+[Read our Impact Report https://www.fundingcircle.com/uk/impact] | [See our Trustpilot https://uk.trustpilot.com/review/fundingcircle.com]
+
+
+
+
+THE ROLE ⚡
+
+📍 London (Hybrid) | 🤝 3 days in the office | 💰 Competitive Salary + Benefits
+
+This role sits in the Credit Risk team who are hugely influential to our overall lending process. They look at measuring our risk, optimising our credit risk funnel and forecasting the performance of our loan portfolios. To do this, they work with the credit risk modelling, engineering, data management, capital markets and business operations teams to truly understand our objectives and shape analytical solutions.
+
+Focusing on our Credit Risk lending capabilities, you’ll be given the opportunity to think outside the box and come up with a wide range of suggestions and ideas to optimise our ability to lend to small businesses, while also delivering strong returns for our investors.
+
+ - Primarily responsible for monitoring our Credit Strategy to identify useful trends and opportunities to optimise our lending strategy
+
+ - Involved with all aspects of credit strategy analytics, from loss rate forecasting to segmentation analysis
+
+ - Guiding business decisions by carrying out ad hoc analysis, providing credit risk insights and recommendations for optimising credit risk strategies and business processes
+
+ - Collaborate with experts from different functions, particularly Engineering and Operations, to ensure daily running of our lending business and to implement any Credit Strategy changes
+
+
+WHAT WE’RE LOOKING FOR 🌱
+
+ - A degree in a highly numerical discipline (e.g., Mathematics, Statistics, Engineering, Computer Science, or Physical Sciences)
+
+ - Open to entry-level candidates and recent graduates. Prior internship or work experience in credit risk, portfolio analytics, or banking is a strong plus, but not required.
+
+ - Ability to guide decisions through data—from defining the underlying business question to analyzing datasets and communicating actionable recommendations.
+
+ - Excellent communication skills, particularly with regards to translating data analyses and numbers into actionable insights tailored to the audience
+
+ - Intermediate-to-advanced Excel skills.
+
+ - Practical coding proficiency in at least one analytical language (SQL, Python, or R). Candidates with SAS experience or demonstrated aptitude to learn new languages quickly are also considered.
+
+ - Curious and eager to learn, and comfortable working independently on solving open-ended problems.
+
+ - Able to take ownership of redesigning departmental workflows, using AI to automate complex tasks and drive operational efficiency
+
+ - Competently able to Identify high-impact AI use cases and implement advanced prompting techniques to solve multi-layered business challenges
+
+ - Prior exposure to credit risk analytics or banking (retail, corporate, or investment) is advantageous but not required.
+
+We’re building a place where everyone truly feels they belong. Even if your past experience doesn't align perfectly with every requirement, we'd still love to hear from you.
+
+
+
+
+WHY JOIN US? 💜
+
+We back you to build an incredible career and by joining us, you'll be part of one of The Sunday Times Best Companies to Work For 2026! As a flexible-first employer, we use a "best of both" approach. We’ll see you in our London office to collaborate – with barista coffee and subsidised Just Eat lunches on us!
+
+Our Circler Proposition focuses on five areas:
+
+ - Flexibility: We provide a benefit allowance you can tailor to your own life and family.
+
+ - Health: This includes private medical and dental, health assessments, and access to a digital GP.
+
+ - Wealth: We offer life assurance, share schemes, and financial coaching.
+
+ - Development: You get a dedicated annual learning allowance to help you level up.
+
+ - Lifestyle: We have electric car and cycle-to-work schemes, plus season ticket loans.
+
+We also have award-winning parental leave policies. We're here to support you through the big life moments, from fertility treatments to new additions to the family.
+
+
+
+
+READY TO JOIN A MISSION THAT MATTERS? WE’D LOVE TO CHAT!
+
+---
+
+## 2. [MAYBE] ENOVIS | HR Specialist – HR Analytics & Operations
+- Link: https://enovis.wd5.myworkdayjobs.com/enovis/job/Sfax-Sfax-Tunisia/HR-Specialist---HR-Analytics---Operations_R0034408-1
+- Location: Sfax, Sfax, Tunisia
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, power bi, kpi, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+À propos de nous ENOVIS™ Enovis Corporation (NYSE : ENOV) est une entreprise de technologie médicale en forte croissance, centrée sur l’innovation et engagée dans le développement de solutions cliniquement différenciées, visant à améliorer concrètement les résultats pour les patients et à transformer les processus de soins. Portée par une culture d’amélioration continue, des talents internationaux et un esprit d’innovation, Enovis propose une large gamme de produits, services et technologies intégrées, favorisant un mode de vie actif dans le domaine de l’orthopédie et au-delà. Pour en savoir plus, visitez : www.enovis.com Who We Are ABOUT ENOVIS™ Enovis Corporation (NYSE: ENOV) is an innovation-driven medical technology growth company dedicated to developing clinically differentiated solutions that generate measurably better patient outcomes and transform workflows. Powered by a culture of continuous improvement, global talent and innovation, the Company’s extensive range of products, services and integrated technologies fuels active lifestyles in orthopedics and beyond. For more information about Enovis, please visit www.enovis.com . Focus sur DJO Tunisia En tant que leader mondial dans le domaine des technologies médicales, Enovis se consacre au développement de solutions innovantes qui restaurent la mobilité et améliorent la vie des patients. Nous sommes fiers d'annoncer une expansion significative de nos activités en Tunisie, marquée par la transformation de notre nouvelle usine ultramoderne à Sfax. Cette croissance témoigne de notre engagement à long terme dans la région et crée une multitude de nouvelles opportunités pour les professionnels talentueux qui souhaitent nous aider à créer ensemble un avenir meilleur. Nous ne nous contentons pas de recruter, nous posons les bases de l'excellence et de l'innovation. ment. Visionnez la vidéo! Focus on DJO Tunisia As a global medtech leader, Enovis is dedicated to developing innovative solutions that restore motion and improve patient lives. We are proud to announce a significant expansion of our operations in Tunisia, marked by the transformation of our new state-of-the-art facility in Sfax. This growth represents our long-term commitment to the region and creates a wealth of new opportunities for talented professionals to help us create better together. We aren't just hiring; we are building a foundation for excellence and innovation. Have a look on the video! Quelles seront tes responsabilités ? | What you'll do ? Support daily HR operations while driving HR data analysis and reporting. Responsible for maintaining employee data accuracy across HR systems, developing dashboards and KPIs, analyzing workforce metrics (headcount, absenteeism, turnover, recruitment, and training), and supporting payroll reporting. The role also assists with onboarding, employee records management, HR compliance, recruitment activities, and HR projects. The ideal candidate combines strong analytical skills with hands-on HR experience and proficiency in Excel, Power BI, and HR systems such as Workday. EGALITE DES CHANCES ET NON-DISCRIMINATION Enovis s’engage à garantir l’égalité des chances en matière d’emploi et de carrière, sur la base exclusive du mérite, de l’expérience et de critères strictement professionnels, sans aucune discrimination fondée notamment sur la race, la couleur, l’origine ethnique ou nationale, la religion, l’âge, la grossesse, le handicap ou tout autre statut protégé par la législation applicable. Conformément aux politiques internes et au cadre légal en vigueur, Enovis met en œuvre des aménagements raisonnables pour tenir compte des convictions et pratiques individuelles des collaborateurs, dès lors qu’elles ne portent pas atteinte aux exigences opérationnelles, organisationnelles ou réglementaires de l’entreprise. Enovis valorise la diversité des parcours, des compétences et des perspectives, et reconnaît la contribution unique de chaque collaborateur à la performance, à l’innovation et au succès durable de l’organisation. EQUAL EMPLOYMENT OPPORTUNITY Enovis provides equal employment opportunities based on merit, experience, and other work-related criteria without regard to race, color, ethnicity, religion, national origin, age, pregnancy, disability, or any other status protected by applicable law. We also strive to provide
+
+---
+
+## 3. [MAYBE] Open Avenues Foundation | Data Engineer H/F
+- Link: https://open.wd103.myworkdayjobs.com/OPEN/job/Nantes-Sud/Data-Engineer-H-F_R16557-1
+- Location: Nantes Sud
+- Posted: Nov 05 (board gives the date only)
+- Scanner fit: ~52 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 69 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, etl, gcp, python, spark, sql, pipeline | Lacks: azure, scala
+
+### Job description
+
+🚀 Envie de rejoindre une équipe Data en pleine croissance et de contribuer à des projets stratégiques autour de la valorisation de la donnée ? On vous attend ! 📍 Poste : Data Engineer (H/F) 📍 Lieu : Nantes 💻 Télétravail : hybride 🎯 Le poste Vous rejoignez une équipe Data intervenant auprès de grands comptes, principalement dans les secteurs bancaire, assurantiel et public. Au cœur des enjeux de transformation numérique de nos clients, vous participez à la conception, au développement et à l'industrialisation des plateformes de données qui alimentent les usages métiers, décisionnels et analytiques. De l'ingestion des données à leur exploitation, vous contribuez à la mise en place de solutions fiables, performantes et évolutives dans des environnements techniques modernes où l'automatisation, la qualité et la scalabilité sont au centre des préoccupations. Ici, les Data Engineers ne se limitent pas à développer des flux : ils participent activement aux choix d'architecture, aux bonnes pratiques Data et à l'évolution des plateformes. 👥 L'équipe Vous intégrerez une équipe composée de Data Engineers, Data Analysts, Architectes Data et experts Cloud. L'équipe privilégie la collaboration, le partage des connaissances et l'amélioration continue. Chaque collaborateur est encouragé à être force de proposition et à contribuer aux réflexions techniques autour des architectures et des usages Data. 🛠 Vos missions • Concevoir, développer et maintenir des pipelines de données robustes et industrialisés. • Mettre en place les processus d'ingestion, de transformation et d'exposition des données. • Participer à la conception et à l'évolution des architectures Data (Data Lake, Data Warehouse, Lakehouse). • Garantir la qualité, la fiabilité et la traçabilité des données. • Optimiser les performances des traitements et la gestion des volumes de données. • Automatiser et industrialiser les flux dans une démarche DataOps. • Collaborer étroitement avec les équipes métiers, Data Analysts, Data Scientists et équipes techniques. • Contribuer à l'amélioration continue des pratiques autour de la gouvernance, de la qualité et de l'exploitation des données. 🧠 Vos atouts • Vous disposez d'au moins 4 ans d'expérience en Data Engineering. • Vous maîtrisez Python et SQL. • Vous avez une expérience sur des architectures de traitement de données et des plateformes décisionnelles. • Vous connaissez idéalement Spark, PySpark, des outils ETL/ELT ainsi que les environnements Data Lake ou Data Warehouse. • Vous êtes à l'aise avec les environnements Cloud (Azure, AWS ou GCP). • Vous possédez une forte culture technique et une réelle sensibilité aux enjeux de qualité et de performance des données. • Vous êtes autonome, rigoureux(se) et appréciez les environnements collaboratifs. • Vous aimez résoudre des problématiques complexes et apporter de la valeur métier grâce à la donnée. ⚙️ Environnement technique • Langages : Python, SQL • Traitement des données : Spark, PySpark, ETL/ELT • Architecture Data : Data Lake, Data Warehouse, Lakehouse • Cloud : Azure, AWS ou GCP • Méthodologies : Agile, DevOps, DataOps 💡 Pourquoi OPEN ? • Une équipe Data en plein développement avec de belles perspectives de croissance. • Des projets stratégiques et innovants chez des clients grands comptes. • Une communauté technique dynamique favorisant le partage d'expertise. • Des formations, certifications et accompagnements personnalisés. • Des perspectives d'évolution vers des rôles de Lead Data Engineer, Architecte Data ou Expert Data. Envie d'en savoir plus sur notre quotidien ? Découvrez les coulisses d'OPEN : Open : photos, vidéos, recrutement ⚙️ Notre promesse : un process simple et humain 📞 1. Échange téléphonique 🤝 2. Entretien RH 💻 3. Entretien technique 🚀 4. Rencontre avec le manager et présentation du projet Vous aimez construire des plateformes Data performantes, exploiter le potentiel de la donnée et relever des défis techniques à fort impact ? Vous avez les compétences, nous avons les projets. Il ne manque plus que vous. Code REC : PRI27227 Qu’attendez-vous pour être Open ?
+
+---
+
+## 4. [MAYBE] City of New York | Data Analyst, Bureau of Hepatitis, HIV, and STI
+- Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686296
+- Location: Long Island City NY us
+- Posted: Nov 06 06:31 ET
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: data visualization, power bi, tableau, credit, publication, research | Lacks: sas  | Note: no H-1B filings found for this employer
+
+### Job description
+
+The NYC Health Department’s Bureau of Hepatitis, HIV, and Sexually Transmitted Infections (BHHS), within the Division of Disease Control, oversees the City's response to viral hepatitis, HIV, and sexually transmitted infections (STIs). Its mission is to improve the lives of New Yorkers by ending transmission, illness, stigma, and inequities related to viral hepatitis, HIV, and STIs. BHHS does this through testing initiatives; prevention, care, and treatment programming; epidemiology and surveillance; training and technical assistance; community engagement; social marketing; policy advocacy; and racial equity and social justice initiatives. BHHS’s over 500 staff members work across eight programs: Administration, HIV Care and Treatment, HIV Epidemiology, HIV Prevention, Policy and External Affairs, Racial Equity and Social Justice Initiatives, STI, and Viral Hepatitis. BHHS seeks an experienced epidemiologist and data analyst for its STI Program. The Data Analyst will analyze surveillance, laboratory, and epidemiologic data; perform complex data analyses; prepare reports; and create data visualizations. DUTIES WILL INCLUDE BUT NOT BE LIMITED TO: - Develop, manage and implement database queries; analyze data; and provide data interpretation for STI quality assurance, evaluation, program development, surveillance, and research - Access and analyze large data sets housed outside the Bureau (e.g., electronic medical records, hospital discharge data) - Produce data analyses, reports, and visualizations to support decision-making for grant-related, surveillance, and outbreak and response activities - Ensure proper and complete documentation of code and interpretation guides for all visualizations or reports produced - Assist with developing study designs, sample size calculations, and methods for epidemiologic studies - Lead and contribute to the preparation of presentations and manuscripts for scientific journals/peer reviewed health publications - Supervise interns PREFERRED SKILLS: - Strong SAS and analytic skills - Experience with data visualization software - e.g., Tableau, Power BI, ArcGIS - Experience working with large databases and/or information systems - Experience in infectious disease surveillance, outbreak investigation or other applied public health work (STI subject matter expertise is preferred) - Knowledge of RedCap Why you should work for us: - Loan Forgiveness: As a prospective employee of the City of New York, you may be eligible for federal/state loan forgiveness and repayment assistance programs that lessen your payments or even fully forgive your full balance. For more information, please visit the U.S. Department of Education’s website (https://studentaid.gov/pslf/) - Benefits: City employees are entitled to unmatched benefits such as: o a premium-free health insurance plan that saves employees over $10K annually, per a 2024 assessment. o additional health, fitness, and financial benefits may be available based on the position’s associated union/benefit fund. o a public sector defined benefit pension plan with steady monthly payments in retirement. o a tax-deferred savings program and o a robust Worksite Wellness Program that offers resources and opportunities to keep you healthy while serving New Yorkers. - Work From Home Policy: Depending on your position, you may be able to work up to two days during the week from home. - Job Security - you could enjoy more job security compared to private sector employment and be able to contribute to making NYC a healthy place to live and work. Established in 1805, the New York City Department of Health and Mental Hygiene (NYC Health Department) is the oldest and largest health department in the U.S., dedicated to protecting and improving the health of NYC. Our mission is to safeguard the health of every resident and cultivate a city where everyone, regardless of age, background, or location, can achieve their optimal health. We provide a wide array of programs and services focused on food and nutrition, anti-tobacco support, chronic disease prevention, HIV/AIDS treatment, family and child health, environmental health, mental health, and social justice initiatives. As the primary population health strategist and policy authority for NYC, with a rich history of public health initiatives and scientific advancements, from addressing the 1822 yellow fever outbreak to the COVID-19 pandemic, we serve as a global leader in public health innovation and expertise. Come join us and help to continue our efforts in making a difference in the lives of all New Yorkers! Commitment to Equity: The City of New York is an inclusive
+
+---
+
+## 5. [MAYBE] City of New York | Research Analyst, Bureau of Hepatitis, HIV, and STI
+- Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016686496
+- Location: Long Island City NY us
+- Posted: Nov 06 06:32 ET
+- Scanner fit: ~47 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: data visualization, excel, credit, data cleaning, research, risk | Lacks: sas  | Note: no H-1B filings found for this employer
+
+### Job description
+
+The New York City Department of Health and Mental Hygiene (NYC DOHMH)'s Bureau of Hepatitis, HIV, and Sexually Transmitted Infections (BHHS) oversees the City's response to viral hepatitis, HIV, and sexually transmitted infections (STIs). Across a range of programs and through extensive collaboration with other parts of NYC DOHMH and external stakeholders, BHHS leads testing initiatives; prevention, care, and treatment programming; epidemiology and surveillance; research and evaluation; training and technical assistance; community engagement; social marketing; policy advocacy; and racial equity and social justice initiative. The HIV Epidemiology Program (HEP) in the HIV Program in BHHS is responsible for monitoring trends in the HIV epidemic in NYC and developing programming to improve outcomes among people living with and at risk for HIV based on the latest information about the distribution and demographics of HIV in NYC.NYC has a large and diverse HIV epidemic, and programming and analyses of data from HEP inform HIV-related public health policy at the local, state, and national levels. The Core Surveillance Special Projects Unit within HEP is responsible for developing and conducting special projects related to HIV Surveillance such as: expanded HIV surveillance (Project EXPAND) and registry connectivity projects. Expanded HIV surveillance includes developing methods to collect additional data among newly diagnosed persons within priority populations and among those whose primary cause of death was HIV to better describe these populations and identify missed opportunities for HIV prevention. Registry connectivity projects entail linking surveillance data to other electronic medical record systems to provide real-time alerts to providers with the overall purpose of engaging those out of care. DUTIES WILL INCLUDE BUT NOT BE LIMITED TO: - Lead and manage all qualitative assurance (QA) activities for Project EXPAND, which include: o QA activities for QDS Warehouse data imports and import logs o Write and maintain SAS code for QA checks of imported interview data o Check completion of tracking sheets and create progress reports for data collectors o Generate routine reports and tables at end of each interview cycle o Conduct satisfaction assessment surveys to interview participants at the end of each interview cycle o Present results of QA activities at biweekly team meetings - Act as main liaison with the HIV Surveillance Operations and Core Analysis units in maintaining ongoing investigation list of cases found through interviews with discrepant data. - Assist in training data collectors in Project EXPAND activities. - Maintain QDS CAPI survey instrument, including ongoing CAPI survey programming and related documentation. - Assist Senior Research Analyst in cleaning and analyzing data related to Project EXPAND. - Assist other special projects in QDS CAPI survey programming, piloting and data cleaning. - Conduct data analysis and data dissemination with Core and Special Projects surveillance data. - Contribute to routine HIV surveillance activities including: fulfill data requests, contribute to quarterly analytic datasets, contribute to surveillance annual report, slide sets, surveillance tables, and other dissemination products. - Assist with and contributes to the development of the registry connectivity projects including quality monitoring, data reports, data management and cleaning, and data visualization. PREFERRED SKILLS: - Proficiency with SAS - Experience with and understanding of surveillance data and quality assurance strategies - Excellent interpersonal, research, written and verbal communication skills - Detailed oriented with outstanding organizational skills, and able to multitask in a fast-paced, high-volume environment - Demonstrate ability to work with a diverse staff of epidemiologists, analysts and public health advisors Why you should work for us: - Loan Forgiveness: As a prospective employee of the City of New York, you may be eligible for federal/state loan forgiveness and repayment assistance programs that lessen your payments or even fully forgive your full balance. For more information, please visit the U.S. Department of Education’s website (https://studentaid.gov/pslf/) - Benefits: City employees are entitled to unmatched benefits such as: o a premium-free health insurance plan that saves employees over $10K annually, per a 2024 assessment. o additional health, fitness, and financial benefits may be available based on the position’s associated union/benefit fund. o a public sector defined benefit pension plan with steady monthly payments in retirement. o a tax-deferred savings program and o a robust Worksite Wellness Program that offers resources and opportunities to keep you healthy while serving New Yorkers. - Work From Home Policy: Depending on your position, you may be able to work up to two days during the week from home. - Job Security - you could enjoy more job security compared to private sector employment and be able to contribute to making NYC a healthy place to live and work. Established in 1805, the New York City Department of Health and Mental Hygiene (NYC Health Department) is the oldest and largest health department in the U.S., dedicated to protecting and improving the health of NYC. Our mission is to safeguard the health of every resident and cultivate a city where everyone, regardless of age, background, or location, can achieve their optimal health. We provide a wide array of programs and services focused on food and nutrition, anti-tobacco support, chronic disease prevention, HIV/AIDS treatment, family and child health, environmental health, mental health, and social justice initiatives. As the primary population health strategist and policy authority for NYC, with a rich history of public health initiatives and scientific advancements, from addressing the 1822 yellow fever outbreak to the COVID-19 pandemic, we serve as a global leader in public health innovation and expertise. Come join us and help to continue our efforts in making a difference in the lives of all New Yorkers! Commitment to Equity: The City of New York is an inclusive
+
+---
+
+## 6. [MAYBE] WSP | AI Engineer (Advisory)
+- Link: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98887
+- Location: Cambridge, Cambridgeshire, United Kingdom GB London, London, United Kingdom
+- Posted: Nov 06 (board gives the date only)
+- Scanner fit: ~44 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 7 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, llm, machine learning, git | Lacks: azure
+
+### Job description
+
+What if you could do the kind of work the world needs? At WSP, you can access our global scale, contribute to landmark projects and connect with the brightest minds in your field to do the best work of your life. You can embrace your curiosity in a culture that celebrates new ideas and diverse perspectives. You can experience a world of opportunity and the chance to shape a career as unique as you. A little more about your role… Join WSP's newly established AI Accelerator team as an AI Engineer and be at the forefront of our global digital strategy. In this role, you will collaborate with experts across WSP UK and Ireland to design and build prototype AI solutions that address real-world challenges. Successful prototypes will be transitioned into full-scale deployments, transforming how WSP operates and enhancing the services we deliver to our clients. You will be a part of the wider Data & Decision Science function within our Transformation and Digital Insights team, working in our Azure cloud environments to deliver impactful bespoke AI solutions to internal stakeholders. You can expect to be working closely with WSP’s consultancy teams to understand their business and identify opportunities to leverage AI for transformation. You will also have the opportunity to work with WSP’s clients across all of the market sectors we serve. You will be very much on the front lines of our digital transformation, rapidly turning ideas into realities and putting them into everyday use. This is an exciting time to join our AI efforts at WSP with significant focus being placed in this field by WSP’s Global and Regional leadership teams. This is a unique opportunity to shape the future of AI at WSP and make a tangible difference through innovation. What we will be looking for you to demonstrate… Proven experience in designing and developing AI solutions, preferably within cloud environments such as Azure. Experience with Azure based AI technologies such as Azure AI Foundry Experience working with LLMs and Agentic AI on real-world problems. Strong understanding of machine learning algorithms and natural language processing techniques. Strong inter-personal skills and ability to collaborate with cross-functional teams and translate business problems into technical solutions. Experience with deploying AI models into production environments. Excellent problem-solving skills and a passion for innovation in AI technologies. Don’t quite meet all the criteria? Apply, and we can see how your experience aligns to this role and other opportunities within the team. Imagine a better future for you and a better future for us all. Join our close-knit community of talented individuals who share your passion for making a positive impact. Our global team includes more than 69,000 employees, working together to make a difference in communities both close to home and around the world. With us, you can. Apply today. At WSP, we're interested in you, your experience, your potential and the way you think. AI can be a useful tool to support your application and preparation, and our guidance explains how you can use it responsibly throughout our recruitment process. UK Policies | WSP #LI-HR1 #AVY1   We are one of the world’s leading engineering and professional services firms. Our passionate people are united by the common purpose of creating positive, long-lasting impacts on the communities we serve through a culture of innovation, integrity, and inclusion. With over 11,000 professionals across the UK and Ireland, we are dedicated to our local communities and propelled by international brainpower. WHAT’S IN IT FOR YOU? Work-life balance At WSP, we understand that work is just one aspect of your life. It’s important to make time for you, your family, friends, interests and your community. Our hybrid working policy offers the flexibility to work from home two days a week, while also providing opportunities to collaborate in our modern offices across the UK. Inclusivity & Belonging We welcome applicants with varied backgrounds and experiences. We enable rewarding careers by encouraging people to bring their whole and authentic selves to work so that our work represents the fullest spectrum of society. We celebrate integrity and treat people with respect, supporting each other and embracing a culture of inclusion and belonging at WSP. We have our employee resource groups bring together employees and allies with different backgrounds to promote a culture of inclusivity. Health & Wellbeing We are committed to supporting our people, giving you the tools to make improvements to your health and wellbeing through our Thrive programme. Our Virtual GP service gives you access to an NHS or Irish Medical Council GP at a time and place that suits you – giving you peace of mind and quick access to medical advice when you need it most. We also provide reasonable workplace adjustments for those in need. Additionally, you can benefit from the Gymflex scheme, which offers up to 40% off annual gym memberships through our WSP flexible benefits program, as well as a comprehensive menopause support package. Flex your time To enhance work-life balance, WSP offers the “WSP My Hour,” allowing you to take one hour each day for personal activities, with the flexibility to make up the time earlier or later that day. We also provide part-time and flexible working arrangements, the option to purchase additional leave, and the ability to use your bank holiday entitlement to suit you. Your development We understand the importance of development and training to you. That’s why we foster a supportive environment that invests in your growth, whether through training, mentoring, or Chartership. #WeAreWSP Here at WSP we positively encourage applications from suitably qualified and eligible candidates regardless of sex, race, disability, age, sexual orientation, gender reassignment, religion or belief, marital status, pregnancy or maternity/paternity. As a Disability Confident leader, we will interview all disabled applicants who meet the essential criteria, please let us know if you require any workplace adjustments in support of your application.
+
+---
+
+## 7. [MAYBE] Brown University | Research Assistant
 - Link: https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/RT---Massachusetts/Research-Assistant_REQ212010
 - Location: RT - Massachusetts
 - Posted: Nov 05 (board gives the date only)
