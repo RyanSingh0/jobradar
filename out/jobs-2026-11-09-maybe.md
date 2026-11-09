@@ -7,35 +7,38 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 1 | GSK | AI/ML Engineer | 80 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
 | 2 | Anglian Water | Consumption Data Analyst | 78 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
 | 3 | Northwestern Medicine | HB Coding Strategic Data Analyst (Remote - Must reside in IL, IN, IA, MO, or WI) | 74 | none found (check myvisajobs) | Nov 09 08:09 ET |
-| 4 | MUFG | Product Analyst, Enterprise Data Catalog | 71 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 5 | The New School | Research Assistant – Quantitative Analysis & Data Research | 71 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 6 | Advantage Solutions | Posting Job Title Category Insights Analyst | 68 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 7 | Faculty AI | Data Scientist | 67 | none found (check myvisajobs) | Nov 08 21:22 ET |
-| 8 | Shirley Ryan AbilityLab | Data and Digital Growth Analyst | 67 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 9 | Faculty AI | Machine Learning Engineer | 66 | none found (check myvisajobs) | Nov 09 01:14 ET |
-| 10 | BerryDunn | Title Healthcare Data Engineer | 65 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 11 | Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term | 62 | 5 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 12 | GTS | Job Title Quantitative Researcher, Algorithmic Trading | 60 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 13 | Anglian Water | Demand Reporting Data Scientist | 60 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 14 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 08 12:11 ET |
-| 15 | Smarkets | Data Engineer | 55 | none found (check myvisajobs) | Nov 09 03:49 ET |
-| 16 | Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
-| 17 | Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
-| 18 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 19 | University of Kansas Medical Center | Research Assistant – Neurology | 50 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 20 | JP Morgan Chase | Portfolio and Performance Analyst - Associate | 50 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 21 | Lunar Outpost | Full Stack AI Engineer | 50 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 22 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
-| 23 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 24 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 25 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 26 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 27 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 28 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 29 | Relay Financial | Credit Risk Analyst | 44 | none found (check myvisajobs) | Nov 09 11:19 ET |
-| 30 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 31 | US Foods | Pricing Analyst, 100% Onsite, Raleigh | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 32 | The New School | Research Assistant – Social Media & Audience Growth | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 4 | CVS Health | Quantitative Enterprise Risk Management Analyst | 74 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 5 | MUFG | Product Analyst, Enterprise Data Catalog | 71 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 6 | The New School | Research Assistant – Quantitative Analysis & Data Research | 71 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 7 | Advantage Solutions | Posting Job Title Category Insights Analyst | 68 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 8 | Faculty AI | Data Scientist | 67 | none found (check myvisajobs) | Nov 08 21:22 ET |
+| 9 | Shirley Ryan AbilityLab | Data and Digital Growth Analyst | 67 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 10 | Faculty AI | Machine Learning Engineer | 66 | none found (check myvisajobs) | Nov 09 01:14 ET |
+| 11 | BerryDunn | Title Healthcare Data Engineer | 65 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 12 | Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term | 62 | 5 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 13 | Synechron | SDET with AI | 62 | 15 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 14 | GTS | Job Title Quantitative Researcher, Algorithmic Trading | 60 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 15 | Anglian Water | Demand Reporting Data Scientist | 60 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 16 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 08 12:11 ET |
+| 17 | Smarkets | Data Engineer | 55 | none found (check myvisajobs) | Nov 09 03:49 ET |
+| 18 | Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 19 | Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 20 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 21 | University of Kansas Medical Center | Research Assistant – Neurology | 50 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 22 | JP Morgan Chase | Portfolio and Performance Analyst - Associate | 50 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 23 | Lunar Outpost | Full Stack AI Engineer | 50 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 24 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
+| 25 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 26 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 27 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 28 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 29 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 30 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 31 | Relay Financial | Credit Risk Analyst | 44 | none found (check myvisajobs) | Nov 09 11:19 ET |
+| 32 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 33 | US Foods | Pricing Analyst, 100% Onsite, Raleigh | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 34 | The New School | Research Assistant – Social Media & Audience Growth | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 35 | University of Mississippi Medical Center | Research Associate | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
 
 ---
 
@@ -81,7 +84,21 @@ The HB Coding Strategic Data Analyst role exists to transform complex coding int
 
 ---
 
-## 4. [MAYBE] MUFG | Product Analyst, Enterprise Data Catalog
+## 4. [MAYBE] CVS Health | Quantitative Enterprise Risk Management Analyst
+- Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Quantitative-Enterprise-Risk-Management-Analyst_R1070006
+- Location: 49 Locations
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~74 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, python, r, sql, statistic, data quality, quantitative, reporting, risk, validation | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time. Position Summary Risk management position that supports CVS Health's Enterprise Risk Management (ERM) program across quantitative risk analysis, regulatory deliverables, and broader ERM activities. Working under the direction of ERM leadership, this role will help maintain and enhance quantitative models, support regulatory and risk-management processes, and collaborate with subject matter experts across the enterprise. We are seeking a highly detail-oriented, analytically minded, and intellectually curious self-starter who is motivated to develop deep technical expertise, understand the business context behind the analysis, and take increasing ownership of complex models and recurring ERM processes. The successful candidate will combine strong data and technical skills with clear communication, sound judgment, and a collaborative approach. Develop a deep understanding of assigned quantitative risk models—including their data flows, calculations, assumptions, dependencies, controls, outputs, and business context—and take increasing ownership of their ongoing maintenance and enhancement. Support the enterprise economic capital model and other risk-quantification tools by investigating issues, evaluating and implementing changes, testing and reconciling results, and explaining the rationale and impact of updates. Partner with subject matter experts and cross-functional teams to collect and interpret data, understand source-system and business definitions, develop or validate assumptions, and translate business information into quantitative analysis. Prepare and analyze complex datasets through profiling, cleansing, standardization, validation, reconciliation, transformation, aggregation, trend analysis, and data-quality control checks. Use SQL, Excel, and, where applicable, VBA, R, or Python to extract and transform data, perform quantitative and statistical analysis, support modeling, automate processes, and produce repeatable reporting. Maintain clear, accurate, and auditable documentation of data sources, business rules, model methodologies, assumptions, limitations, changes, testing, results, and governance activities within designated systems and tracking tools. Support stress-scenario development and execution, enterprise risk quantification, analysis of business Build productive relationships with internal and external stakeholders, communicate technical concepts clearly to technical and non-technical audiences, provide timely status updates, and raise issues promptly. Take ownership of assignments, ask thoughtful questions, incorporate feedback, and proactively identify opportunities to improve data quality, model controls, documentation, and process efficiency while supporting broader ERM initiatives. Required Qualifications Foundational experience with quantitative analysis, financial or statistical modeling, or complex analytical coursework or projects. Proficiency in Microsoft Excel, with working knowledge of SQL and VBA. Demonstrated attention to detail and commitment to accuracy, completeness, data integrity, and clear, well-organized documentation. Ability and willingness to learn complex quantitative models, understand how their components connect, and build the subject-matter expertise needed to maintain and enhance them over time. Self-starter mindset with the ability to ask thoughtful questions, identify issues, recommend practical improvements, incorporate feedback, and take increasing ownership of assignments. Preferred Qualifications Exposure to financial statements, statistical concepts, risk management, or scenario analysis. Experience using PowerQuery Experience working with large or complex datasets, including data-quality review, reconciliation, and documentation. Experience using R or Python for data preparation, statistical analysis, modeling, visualization, or automation. Foundational knowledge of the health care industry, accounting, finance, or regulatory reporting. Experience with GRC, project-management, model-governance, or workflow tools. Intellectual curiosity and adaptability, with an interest in continuously learning about enterprise risks, regulatory requirements, and business processes. Education Bachelor's degree, or equivalent experience, in a quantitative, analytical, finance, business, or related field Anticipated Weekly Hours 40 Time Type Full time Pay Range The typical pay range for this role is: $43,888.00 - $102,081.00 This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. Our people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong. Great benefits for great people We take pride in offering a comprehensive and competitive mix of pay and benefits that reflects our commitment to our colleagues and their families. This full‑time position is eligible for a comprehensive benefits package designed to support the physical, emotional, and financial well‑being of colleagues and their families. The benefits for this position include medical, dental, and vision coverage, paid time off, retirement savings options, wellness programs, and other resources, based on eligibility. Additional details about available benefits are provided during the application process and on Benefits Moments . We anticipate the application window for this opening will close on: 11/27/2026 Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.
+
+---
+
+## 5. [MAYBE] MUFG | Product Analyst, Enterprise Data Catalog
 - Link: https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Product-Analyst--Enterprise-Data-Catalog_10079328-WD-1
 - Location: Jersey City, NJ
 - Posted: Nov 09 (board gives the date only)
@@ -95,7 +112,7 @@ Do you want your voice heard and your actions to count? Discover your opportunit
 
 ---
 
-## 5. [MAYBE] The New School | Research Assistant – Quantitative Analysis & Data Research
+## 6. [MAYBE] The New School | Research Assistant – Quantitative Analysis & Data Research
 - Link: https://newschool.wd1.myworkdayjobs.com/external/job/L---2-West-13th-Street/Research-Assistant---Quantitative-Analysis---Data-Research_JR110111
 - Location: L - 2 West 13th Street
 - Posted: Nov 09 (board gives the date only)
@@ -109,7 +126,7 @@ Faculty Laura Lanteri is looking for a strong student or junior researcher to su
 
 ---
 
-## 6. [MAYBE] Advantage Solutions | Posting Job Title Category Insights Analyst
+## 7. [MAYBE] Advantage Solutions | Posting Job Title Category Insights Analyst
 - Link: https://uscareers2-asm.icims.com/jobs/442816/category-insights-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -123,7 +140,7 @@ Category Insights Analyst in Chicago, Illinois | Careers at 60601 - Chicago Plea
 
 ---
 
-## 7. [MAYBE] Faculty AI | Data Scientist
+## 8. [MAYBE] Faculty AI | Data Scientist
 - Link: https://jobs.ashbyhq.com/faculty/8e468539-a6d1-4de9-a293-018c4c3ebd9b
 - Location: Sydney Australia Melbourne remote
 - Posted: Nov 08 21:22 ET
@@ -222,7 +239,7 @@ A note on AI: we're happy for you to use it for research and interview prep, but
 
 ---
 
-## 8. [MAYBE] Shirley Ryan AbilityLab | Data and Digital Growth Analyst
+## 9. [MAYBE] Shirley Ryan AbilityLab | Data and Digital Growth Analyst
 - Link: https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Data-and-Digital-Growth-Analyst_JR-1065780-1
 - Location: Chicago, IL
 - Posted: Nov 08 (board gives the date only)
@@ -236,7 +253,7 @@ Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilita
 
 ---
 
-## 9. [MAYBE] Faculty AI | Machine Learning Engineer
+## 10. [MAYBE] Faculty AI | Machine Learning Engineer
 - Link: https://jobs.ashbyhq.com/faculty/d1f0541e-a99b-4077-8522-397e88d1b98c
 - Location: Sydney Australia Melbourne remote
 - Posted: Nov 09 01:14 ET
@@ -335,7 +352,7 @@ A note on AI: we're happy for you to use it for research and interview prep, but
 
 ---
 
-## 10. [MAYBE] BerryDunn | Title Healthcare Data Engineer
+## 11. [MAYBE] BerryDunn | Title Healthcare Data Engineer
 - Link: https://careers-berrydunn.icims.com/jobs/4078/healthcare-data-engineer/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -349,7 +366,7 @@ Healthcare Data Engineer in Portland, Maine | Careers at Portland, ME Please Ena
 
 ---
 
-## 11. [MAYBE] Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term
+## 12. [MAYBE] Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term
 - Link: https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Athens/Financial-Planning---Analysis-Analyst--FP-A-Analyst----Fixed-Term_R29455
 - Location: Athens
 - Posted: Nov 08 (board gives the date only)
@@ -363,7 +380,21 @@ Are you ready to shape the future of capital markets? We are looking for a Finan
 
 ---
 
-## 12. [MAYBE] GTS | Job Title Quantitative Researcher, Algorithmic Trading
+## 13. [MAYBE] Synechron | SDET with AI
+- Link: https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Menlo-Park-CA/SDET-with-AI_JR1044923
+- Location: Menlo Park, CA
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 15 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, excel, forecast, machine learning, postgres, python, regression, sql, data quality, docker, git, kubernetes, pipeline, reporting | Lacks: azure, java, scala  | Note: broad title
+
+### Job description
+
+We are At Synechron, we believe in the power of digital to transform businesses for the better. Our global consulting firm combines creativity and innovative technology to deliver industry-leading digital solutions. Synechron’s progressive technologies and optimization strategies span end-to-end Artificial Intelligence, Consulting, Digital, Cloud & DevOps, Data, and Software Engineering, servicing an array of noteworthy financial services and technology firms. Through research and development initiatives in our FinLabs we develop solutions for modernization, from Artificial Intelligence and Blockchain to Data Science models, Digital Underwriting, mobile-first applications and more. Over the last 20+ years, our company has been honored with multiple employer awards, recognizing our commitment to our talented teams. With top clients to boast about, Synechron has a global workforce of 17,000+, and has 58 offices in 22 countries within key global markets. Our challenge We are seeking a Software Development Engineer in Test (SDET) – AI to design, develop, and maintain reliable automated testing solutions for software products and AI-powered applications. This role combines software engineering, quality assurance, test automation, and artificial intelligence to improve product quality, testing efficiency, and release confidence. The SDET will collaborate with developers, product managers, data scientists, DevOps engineers, and other stakeholders. The role requires strong technical ownership, analytical thinking, and the ability to lead QA initiatives while promoting automation, continuous improvement, and quality throughout the software development lifecycle. Additional Information* The base salary for this position will vary based on geography and other factors. In accordance with law, the base salary for this role if filled within Menlo Park, CA is $110k - $115k/year & benefits (see below). The Role Responsibilities: Lead QA Team activities, including test planning, execution, defect management, release validation, and quality reporting. Design, develop, and maintain scalable automation frameworks for UI, API, integration, regression, and end-to-end testing. Define automation standards, reusable components, coding guidelines, test metrics, and quality gates. Perform CI/CD Integration by incorporating automated tests into pipelines using tools such as Jenkins, GitHub Actions, GitLab CI, or Azure DevOps. Develop and execute API Automation for RESTful and SOAP services. Perform Database Testing / SQL validation, backend verification, data integrity checks, and query-based testing. Plan and maintain Test Data Management strategies for functional, integration, regression, and AI testing. Analyse test results, investigate failures, identify quality risks, and report defects with clear technical details. Participate in requirements reviews, design discussions, sprint planning, and release readiness activities. Mentor QA professionals and encourage collaboration, ownership, and continuous improvement. Support functional, performance, security, scalability, usability, and reliability testing. Requirements: Degree in Computer Science, Engineering, Information Technology, or a related discipline. Strong programming skills in Python, Java, JavaScript, TypeScript, C#, or a similar language. Strong understanding of software testing principles, Agile methodologies, version control, and defect life cycle management. Practical knowledge of automation framework design and maintainable test architecture. Proficiency in API testing tools such as Postman, REST Assured, Requests, Karate, or equivalent technologies. Strong SQL knowledge with the ability to validate data across relational or non-relational databases. Ability to create clear test scenarios, test cases, test scripts, and test reports. Strong communication, problem-solving, troubleshooting, and collaboration skills. Candidates should demonstrate AI Solution Utilization by applying AI tools to test planning, test case generation, defect analysis, test data creation, and automation maintenance. They should also be capable of AI Solution Development, including the creation of AI-assisted testing utilities, automation enhancements, or quality engineering solutions. The role requires knowledge of AI Testing & Validation, including prompt and response testing, hallucination detection, accuracy and consistency checks, bias and fairness assessment, robustness testing, data quality validation, model drift monitoring, explainability, security, and performance evaluation. Familiarity with large language models, prompt engineering, retrieval-augmented generation, AI evaluation frameworks, and machine learning workflows is beneficial. Preferred, but not required: Knowledge of Selenium, Playwright, Cypress, Appium, Robot Framework, or similar automation tools. Familiarity with PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, Docker, Kubernetes, AWS, Azure, or Google Cloud. Experience working with OpenAI APIs, Azure OpenAI, Hugging Face, LangChain, MLflow, or comparable AI technologies. Knowledge of Jira, TestRail, Zephyr, Azure Test Plans, or other test management platforms. Familiarity with chatbot, generative AI, recommendation, forecasting, or other intelligent applications. Understanding of responsible AI, privacy, compliance, observability, data lineage, and model monitoring principles. We offer: A highly competitive compensation and benefits package. A multinational organization with 58 offices in 22 countries and the possibility to work abroad. 10 days of paid annual leave (plus sick leave and national holidays). Maternity & paternity leave plans. A comprehensive insurance plan including medical, dental, vision, life insurance, and long-/short-term disability (plans vary by region). Retirement savings plans. A higher education certification policy. Commuter benefits (varies by region). Extensive training opportunities, focused on skills, substantive knowledge, and personal development. On-demand Udemy for Business for all Synechron employees with free access to more than 5000 curated courses. Coaching opportunities with experienced colleagues from our Financial Innovation Labs (FinLabs) and Center of Excellences (CoE) groups. Cutting edge projects at the world’s leading tier-one banks, financial institutions and insurance firms. A flat and approachable organization. A truly diverse, fun-loving, and global work culture. S​ YNECHRON’S DIVERSITY & INCLUSION STATEMENT Diversity & Inclusion are fundamental to our culture, and Synechron is proud to be an equal opportunity workplace and is an affirmative action employer. Our Diversity, Equity, and Inclusion (DEI) initiative ‘Same Difference’ is committed to fostering an inclusive culture – promoting equality, diversity and an environment that is respectful to all. We strongly believe that a diverse workforce helps build stronger, successful businesses as a global company. We encourage applicants  [...]
+
+---
+
+## 14. [MAYBE] GTS | Job Title Quantitative Researcher, Algorithmic Trading
 - Link: https://careers-gtsx.icims.com/jobs/1628/quantitative-researcher%2c-algorithmic-trading/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -377,7 +408,7 @@ Careers | GTS | Quantitative Researcher, Algorithmic Trading in New York, New Yo
 
 ---
 
-## 13. [MAYBE] Anglian Water | Demand Reporting Data Scientist
+## 15. [MAYBE] Anglian Water | Demand Reporting Data Scientist
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Demand-Reporting-Data-Scientist_R40770
 - Location: 2 Locations
 - Posted: Nov 08 (board gives the date only)
@@ -391,7 +422,7 @@ Circa £43,344 (depending on Skills & Experience) Permanent Full Time / 37 Hours
 
 ---
 
-## 14. [MAYBE] Clera | Founding Applied AI Engineer
+## 16. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/ac506f1a-80de-45db-8015-6d70ff90a130
 - Location: San Francisco United States
 - Posted: Nov 08 12:11 ET
@@ -447,7 +478,7 @@ On-site in San Francisco, California. Candidates must be based in or willing to 
 
 ---
 
-## 15. [MAYBE] Smarkets | Data Engineer
+## 17. [MAYBE] Smarkets | Data Engineer
 - Link: https://jobs.ashbyhq.com/smarkets/3038bed9-d75e-45b9-9283-9db6b4ab93f8
 - Location: London United Kingdom remote
 - Posted: Nov 09 03:49 ET
@@ -589,7 +620,7 @@ These include:
 
 ---
 
-## 16. [MAYBE] Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory
+## 18. [MAYBE] Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/Bryan-TX/Assistant-Research-Scientist--Joint-Microscopy-Laboratory_R-098650-1
 - Location: Bryan, TX
 - Posted: Nov 09 (board gives the date only)
@@ -603,7 +634,7 @@ Job Title Assistant Research Scientist, Joint Microscopy Laboratory Agency Texas
 
 ---
 
-## 17. [MAYBE] Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory
+## 19. [MAYBE] Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Bryan-TX/Assistant-Research-Scientist--Joint-Microscopy-Laboratory_R-098650
 - Location: Bryan, TX
 - Posted: Nov 09 (board gives the date only)
@@ -617,7 +648,7 @@ Job Title Assistant Research Scientist, Joint Microscopy Laboratory Agency Texas
 
 ---
 
-## 18. [MAYBE] Regions Bank | Business Unit Operational Risk Analyst
+## 20. [MAYBE] Regions Bank | Business Unit Operational Risk Analyst
 - Link: https://regions.wd5.myworkdayjobs.com/regions_careers/job/Charlotte-NC---Charlotte-Uptown-Branch/Business-Unit-Operational-Risk-Analyst_R107241
 - Location: 2 Locations
 - Posted: Nov 08 (board gives the date only)
@@ -631,7 +662,7 @@ Thank you for your interest in a career at Regions. At Regions, we believe assoc
 
 ---
 
-## 19. [MAYBE] University of Kansas Medical Center | Research Assistant – Neurology
+## 21. [MAYBE] University of Kansas Medical Center | Research Assistant – Neurology
 - Link: https://kumc.wd5.myworkdayjobs.com/kumc-jobs/job/Kansas-City-Metro-Area/Research-Assistant---Neurology_JR010738
 - Location: Kansas City Metro Area
 - Posted: Nov 08 (board gives the date only)
@@ -645,7 +676,7 @@ Department: SOM KC Neurology ----- ICU Position Title: Research Assistant – Ne
 
 ---
 
-## 20. [MAYBE] JP Morgan Chase | Portfolio and Performance Analyst - Associate
+## 22. [MAYBE] JP Morgan Chase | Portfolio and Performance Analyst - Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807255
 - Location: Brooklyn, NY, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -659,7 +690,7 @@ Join J.P. Morgan Asset & Wealth Management’s (JPMWM) Portfolio Analysis Group 
 
 ---
 
-## 21. [MAYBE] Lunar Outpost | Full Stack AI Engineer
+## 23. [MAYBE] Lunar Outpost | Full Stack AI Engineer
 - Link: https://lunaroutpost.bamboohr.com/careers/408
 - Location: Golden Colorado
 - Posted: new since the previous sweep (board shows no date)
@@ -673,7 +704,7 @@ Are you passionate about shaping the future of humanity's presence in spac e ? L
 
 ---
 
-## 22. [MAYBE] Verne Robotics | Founding Research Scientist
+## 24. [MAYBE] Verne Robotics | Founding Research Scientist
 - Link: https://jobs.ashbyhq.com/Verne/cad20f9e-413b-45c4-b803-f949c225be44
 - Location: San Francisco United States
 - Posted: Nov 08 21:34 ET
@@ -749,7 +780,7 @@ Help build models that learn real jobs and robots that perform them reliably. In
 
 ---
 
-## 23. [MAYBE] NewDay | Associate Business Analytics Analyst
+## 25. [MAYBE] NewDay | Associate Business Analytics Analyst
 - Link: https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Associate-Business-Analytics-Analyst_JR0726
 - Location: Leeds
 - Posted: Nov 08 (board gives the date only)
@@ -763,7 +794,7 @@ This role is a great opportunity to use data and insight to help shape how our C
 
 ---
 
-## 24. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
+## 26. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
 - Link: https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Dusseldorf-GER/Forensic-Consultant---IT-Forensics--eDiscovery--Data-Analytics---AI_JR101237
 - Location: Dusseldorf, GER
 - Posted: Nov 08 (board gives the date only)
@@ -777,7 +808,7 @@ We Do Consulting Differently Open to all genders (m/f/d) About the role We are s
 
 ---
 
-## 25. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
+## 27. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
 - Link: https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Milcov/Medium-IT-Business-Intelligence-Analyst_R-38436
 - Location: Milcov
 - Posted: Nov 08 (board gives the date only)
@@ -791,7 +822,7 @@ Job Title CoE SAP BI Business Analyst Responsibilities and Main Duties SAP BW/4H
 
 ---
 
-## 26. [MAYBE] University of Southern California | Research Associate
+## 28. [MAYBE] University of Southern California | Research Associate
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Research-Associate_REQ20182670
 - Location: Los Angeles, CA - Health Sciences Campus
 - Posted: Nov 08 (board gives the date only)
@@ -805,7 +836,7 @@ The USC Department of Orthopaedic Surgery is seeking a Research Associate to ass
 
 ---
 
-## 27. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 29. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804910
 - Location: Plano, TX, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -819,7 +850,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 28. [MAYBE] Valeo | AI Engineer
+## 30. [MAYBE] Valeo | AI Engineer
 - Link: https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/AI-Engineer_REQ2026081784
 - Location: Créteil
 - Posted: Nov 08 (board gives the date only)
@@ -833,7 +864,7 @@ Valeo is a tech global company, designing breakthrough solutions to reinvent the
 
 ---
 
-## 29. [MAYBE] Relay Financial | Credit Risk Analyst
+## 31. [MAYBE] Relay Financial | Credit Risk Analyst
 - Link: https://jobs.ashbyhq.com/relayfi/25ee1242-658a-4ce0-8634-fdb1d20a5349
 - Location: Toronto, ON Canada remote
 - Posted: Nov 09 11:19 ET
@@ -947,7 +978,7 @@ Important Notice: Relay’s recruitment team only contacts candidates and corres
 
 ---
 
-## 30. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
+## 32. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
 - Link: https://staff-emory.icims.com/jobs/178496/research-scientist--school-of-medicine%2c-pulmonary/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -961,7 +992,7 @@ Emory Careers | Research Scientist- School of Medicine, Pulmonary in Atlanta, Ge
 
 ---
 
-## 31. [MAYBE] US Foods | Pricing Analyst, 100% Onsite, Raleigh
+## 33. [MAYBE] US Foods | Pricing Analyst, 100% Onsite, Raleigh
 - Link: https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Raleigh-NC/Pricing-Analyst--100--Onsite--Raleigh_R283734-1
 - Location: Raleigh NC
 - Posted: Nov 09 (board gives the date only)
@@ -975,7 +1006,7 @@ ARE YOU A CURRENT US FOODS EMPLOYEE? PLEASE APPLY DIRECTLY THROUGH OUR INTERNAL 
 
 ---
 
-## 32. [MAYBE] The New School | Research Assistant – Social Media & Audience Growth
+## 34. [MAYBE] The New School | Research Assistant – Social Media & Audience Growth
 - Link: https://newschool.wd1.myworkdayjobs.com/external/job/L---2-West-13th-Street/Research-Assistant---Social-Media---Audience-Growth_JR110113
 - Location: L - 2 West 13th Street
 - Posted: Nov 09 (board gives the date only)
@@ -986,4 +1017,18 @@ ARE YOU A CURRENT US FOODS EMPLOYEE? PLEASE APPLY DIRECTLY THROUGH OUR INTERNAL 
 ### Job description
 
 Faculty Laura Lanteri is looking for a strong student or junior researcher to support the development and audience-building strategy for an independent documentary focused on beauty, culture, identity, and the global beauty industry. The role will focus specifically on understanding how the project can build meaningful social media traction ahead of fundraising, production, and release. Duties and Responsibilities Research current conversations, trends, creators, communities, and cultural moments related to beauty, identity, aesthetics, body image, fashion, and contemporary culture Identify topics and angles with strong potential for organic social engagement Research relevant TikTok, Instagram, YouTube, Reddit, and other online communities Identify creators, journalists, experts, commentators, and potential collaborators who could help expand the documentary’s reach Track emerging conversations and cultural shifts that could provide entry points for the film Analyze successful documentary, media, beauty, and culture accounts to understand what drives engagement and audience growth Research formats, hooks, narratives, and content structures that perform particularly well on social platforms Help identify potential audience segments and the communities where they already gather online Build and maintain lists of creators, accounts, publications, podcasts, communities, and potential amplification partners Develop recommendations for content themes, posting opportunities, collaborations, and audience-building experiments Track performance of social content and help identify what is generating the strongest response Qualifications – Education, Experience, and Skills This is ideal for a student in marketing, communications, media studies, fashion, film, journalism, cultural studies, or a related field who understands how culture moves online and is genuinely interested in social media as a research and audience-building tool. A strong understanding of TikTok, Instagram, YouTube, and emerging social platforms Excellent online research skills A good instinct for what makes people watch, share, comment, and participate Strong awareness of contemporary beauty, fashion, media, and internet culture An ability to identify trends early rather than simply report on trends that are already established Strong organizational skills and attention to detail An ability to translate research into clear, actionable recommendations Curiosity about how communities form and how ideas gain cultural traction online Experience creating social content, managing an account, researching creators, working with analytics, or growing an online community is a plus. WORK MODE Hybrid/Remote - Employees hired for this position primarily work remotely with the occasional on-campus presence required with advanced notice. Employees in this role will also be expected to use their best judgment to be on campus when necessary in order to best fulfill the responsibilities of their job descriptions. #LI-DNI Hourly Rate: $31.37/hour
+
+---
+
+## 35. [MAYBE] University of Mississippi Medical Center | Research Associate
+- Link: https://ummc.wd5.myworkdayjobs.com/UMCCareers/job/Jackson-MS/Research-Associate_R00055131-1
+- Location: Jackson, MS
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: statistic, research, risk | Lacks: -
+
+### Job description
+
+Hello, Thank you for your interest in career opportunities with the University of Mississippi Medical Center. Please review the following instructions prior to submitting your job application: Provide all of your employment history, education, and licenses/certifications/registrations. You will be unable to modify your application after you have submitted it. You must meet all of the job requirements at the time of submitting the application. You can only apply one time to a job requisition. Once you start the application process you cannot save your work. Please ensure you have all required attachment(s) available to complete your application before you begin the process. Applications must be submitted prior to the close of the recruitment. Once recruitment has closed, applications will no longer be accepted. After you apply, we will review your qualifications and contact you if your application is among the most highly qualified. Due to the large volume of applications, we are unable to individually respond to all applicants. You may check the status of your application via your Candidate Profile. Thank you, Human Resources Important Applications Instructions: Please complete this application in entirety by providing all of your work experience, education and certifications/ license. You will be unable to edit/add/change your application once it is submitted. Job Requisition ID: R00055131 Job Category: Research Organization: SOM-Cell and Molecular Biology- Raucher Location/s: Main Campus Jackson Job Title: Research Associate Job Summary: The Research Associate is a key member of a research team, responsible for conducting experiments, analyzing data, and contributing to scientific investigations. This position is ideal for candidates with a strong scientific background who are eager to engage in independent and collaborative research projects. Education & Experience Education and Experience: Master's Degree in a field of science or Bachelor's in a field of science and two (2) years of laboratory experience Certifications, Licenses, or Registration Required: N/A Preferred Qualifications: Research experience in academic or industry setting Knowledge, Skills & Abilities Responsibilities: Design and execute experiments under the direction of the principal investigator (PI). Conduct molecular, cellular, and/or biochemical assays as part of research studies. Collect, analyze, and interpret experimental data using statistical and imaging software. Contribute to manuscript preparation and presentation of research findings. Maintain accurate and detailed laboratory records. Collaborate with research teams to support multiple ongoing studies. Train and mentor junior staff, students, or research assistants providing guidance on laboratory procedures and best practices. Manage laboratory inventory, ensuring proper ordering and organization of supplies and reagents. Maintain and troubleshoot laboratory equipment, coordinating maintenance and repairs as needed. May assist in animal husbandry, collection of physiological data, and euthanasia. The duties listed are general in nature and are examples of the duties and responsibilities performed and are not meant to be construed as exclusive or all-inclusive. Management retains the right to add or change duties at any time. Physical and Environmental Demands: Requires frequent bending at the waist, frequent crouching/stooping, occasional kneeling, frequent reaching, occasional carrying/lifting up to 75 pounds, occasional push/pulling, frequent walking, frequent standing, frequent sitting, occasional driving, occasional frequent exposure to unpleasant or disagreeable physical environments such as high noise level and exposure to heat and cold, occasional handling or working with potentially dangerous equipment/machinery, occasional exposure to bio-hazardous conditions such as risk of radiation exposure, bloodborne pathogens, fumes or airborne particles, and/or toxic or caustic chemicals, which mandate attention to safety considerations, occasional working hours significantly beyond regularly scheduled hours, occasional travelling to offsite locations, occasional activities subject to significant volume changes of a seasonal/clinical nature, and constant work produced subject to precise measures of quantity and quality. Time Type: Full time FLSA Designation/Job Exempt: Yes Pay Class: Salary FTE %: 100 Work Shift: Day Benefits Eligibility: Grant Funded: No Job Posting Date: 11/9/2026 Job Closing Date (open until filled if no date specified):
 
