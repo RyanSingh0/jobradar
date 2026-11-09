@@ -31,26 +31,32 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 25 | WSP | Environmental Data Analytics Specialist | 54 | 7 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
 | 26 | TikTok | Research Scientist Graduate (TikTok - Data - Search - Visual Search) - 2027 Start (PhD) | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
 | 27 | TikTok | Research Scientist Graduate (TikTok - Data - Search - Search Quality) - 2027 Start (PhD) | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 28 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 29 | University of Kansas Medical Center | Research Assistant – Neurology | 50 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 30 | JP Morgan Chase | Portfolio and Performance Analyst - Associate | 50 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 31 | Lunar Outpost | Full Stack AI Engineer | 50 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 32 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
-| 33 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 34 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 35 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 36 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 37 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 38 | Hospital for Special Surgery (HSS) | Research Assistant I - Motion Analysis Lab | 45 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 39 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 40 | Relay Financial | Credit Risk Analyst | 44 | none found (check myvisajobs) | Nov 09 11:19 ET |
-| 41 | JP Morgan Chase | External Regulatory Reporting Analyst | 44 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 42 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 43 | US Foods | Pricing Analyst, 100% Onsite, Raleigh | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 44 | The New School | Research Assistant – Social Media & Audience Growth | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 45 | University of Mississippi Medical Center | Research Associate | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
-| 46 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 09 16:55 ET |
-| 47 | Georgetown University | HRC Oral History Research Associate, Georgetown Institute for Women, Peace and Security (GIWPS), Walsh School of Foreign Service (SFS) | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 28 | Philips | Research Scientist - Computed Tomography (Orange, OH) | 52 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 29 | Philips | Research Scientist-Computed Tomography | 52 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 30 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 31 | University of Kansas Medical Center | Research Assistant – Neurology | 50 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 32 | JP Morgan Chase | Portfolio and Performance Analyst - Associate | 50 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 33 | Lunar Outpost | Full Stack AI Engineer | 50 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 34 | Generalist | Research Assistant | 50 | none found (check myvisajobs) | Nov 09 17:35 ET |
+| 35 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
+| 36 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 37 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 38 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 39 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 40 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 41 | Hospital for Special Surgery (HSS) | Research Assistant I - Motion Analysis Lab | 45 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 42 | ONE Finance | Marketing Analytics - Lifecycle | 45 | none found (check myvisajobs) | Nov 09 17:19 ET |
+| 43 | Amazon | Data Scientist I, NEST | 45 | 3890 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 44 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 45 | Relay Financial | Credit Risk Analyst | 44 | none found (check myvisajobs) | Nov 09 11:19 ET |
+| 46 | JP Morgan Chase | External Regulatory Reporting Analyst | 44 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 47 | Church & Dwight | Data Engineer | 44 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 48 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 49 | US Foods | Pricing Analyst, 100% Onsite, Raleigh | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 50 | The New School | Research Assistant – Social Media & Audience Growth | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 51 | University of Mississippi Medical Center | Research Associate | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 52 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 09 16:55 ET |
+| 53 | Georgetown University | HRC Oral History Research Associate, Georgetown Institute for Women, Peace and Security (GIWPS), Walsh School of Foreign Service (SFS) | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
 
 ---
 
@@ -810,7 +816,35 @@ Preferred Qualification(s)
 
 ---
 
-## 28. [MAYBE] Regions Bank | Business Unit Operational Risk Analyst
+## 28. [MAYBE] Philips | Research Scientist - Computed Tomography (Orange, OH)
+- Link: https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Research-Scientist---Computed-Tomography--Orange--OH-_586925
+- Location: 3 Locations
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~52 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 8 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, python, pytorch, tensorflow, calibration, deep learning, healthcare, publication, research | Lacks: c++, matlab
+
+### Job description
+
+Job Title Research Scientist - Computed Tomography (Orange, OH) Job Description Research Scientist - Computed Tomography (Orange, OH) As an important member of the Computed Tomography (CT) Imaging Physics and Algorithm team, the Research Scientist will develop innovative physics-based solutions/corrections and support medical imaging platform needs by leading image quality improvements in CT by developing cutting edge Photon Counting systems. Your role: Apply system-level engineering approach to develop CT/X-ray imaging features, focusing on signal and image processing, CT reconstruction, and calibration to optimize image quality. Leverages strong systems-level and scanner experience to ensure end-to-end performance across the imaging chain. Investigate and resolve image quality issues during product introduction and from the installed base, communicating findings clearly to stakeholders. Delivers safe, effective, and well-documented solutions based on rigorous data analysis. Develop and enhance R&D tools for physics-based simulation and image formation, including benchmarks, dataflow requirements, and Software Requirement Specifications. Works primarily in MATLAB, with increasing use of Python and optional C++ for performance-critical components. Maintain deep expertise in CT physics and advanced processing algorithms, with strong emphasis on photon-counting CT as a top priority. Brings additional knowledge in spectral, dual-energy, and multi-energy CT, as well as cone beam CT, enabling improved material differentiation and image quality optimization. Drive innovation by owning the CT imaging physics roadmap and aligning with business strategy across clinical, marketing, and systems teams. Stays current on emerging technologies such as AI/deep learning, contributes to IP and publications, and represents the organization in regulatory and industry engagements. You're the right fit if: You have 3+ years of combined professional and graduate-level research experience in Physics/Medical Imaging (CT and/or X-ray preferred) as an individual contributor. You have a minimum of a Ph.D. in Physics, Mathematics, Biomedical, Electrical, or Nuclear Engineering (or related field), with a background in the theory of medical image formation and reconstruction (preferred). You bring strong technical expertise in CT/X-ray imaging, signal and image processing, CT reconstruction, calibration, and systems-level/scanner understanding. Differentiating skills include experience with photon counting and/or spectral CT (dual-/multi-energy imaging), as well as cone beam CT, physics-based simulation, and hands-on prototype or scanner work. You are experienced in MATLAB (primary), Python (increasing use), and C++ (preferred), including GUI and C-MEX functionality, and familiarity with AI/deep learning frameworks (e.g., PyTorch, TensorFlow preferred). You have excellent written and verbal communication skills, with the ability to document and clearly explain complex algorithms, imaging chain trade-offs, and cross-functional impacts to non-specialists. You must be able to successfully perform the following minimum Physical, Cognitive and Environmental job requirements with or without accommodation for this position . Travel up to 10% may be required. How we work together: We believe that we are better together than apart. For our office-based teams, this means working in-person at least 3 days per week. Onsite roles require full-time presence in the company’s facilities. Field roles are most effectively done outside of the company’s main facilities, generally at the customers’ or suppliers’ locations. This is an office-based role. About Philips: We are a health technology company. We built our entire company around the belief that every human matters, and we won't stop until everybody everywhere has access to the quality healthcare that we all deserve. Do the work of your life to help improve the lives of others. Learn more about our business . Discover our rich and exciting history. Learn more about our purpose. Learn more about our culture. Philips Transparency Details: The pay range for this position OH is $115,000 - $183,000. The actual base pay offered may vary within the posted ranges depending on multiple factors including job-related knowledge/skills, experience, business needs, geographical location, and internal equity. In addition, other compensation, such as an annual incentive bonus, sales commission or long-term incentives may be offered. Employees are eligible to participate in our comprehensive Philips Total Rewards benefits program, which includes a generous PTO, 401k (up to 7% match), HSA (with company contribution), stock purchase plan, education reimbursement and much more. Details about our benefits can be found here . At Philips, it is not typical for an individual to be hired at or near the top end of the range for their role and compensation decisions are dependent upon the facts and circumstances of each case. Additional Information: US work authorization is a precondition of employment. The company will not consider candidates who require sponsorship for a work-authorized visa, now or in the future. Company relocation benefits will not be provided for this position. For this position, you must reside in or within commuting distance to Orange, OH. #LI-PH1 #LI-Office #PrecisionDiagnosis This requisition is expected to stay active for 45 days but may close earlier if a successful candidate is selected or business necessity dictates. Interested candidates are encouraged to apply as soon as possible to ensure consideration. Philips is an Equal Employment and Opportunity Employer including Disability/Vets and maintains a drug-free workplace.
+
+---
+
+## 29. [MAYBE] Philips | Research Scientist-Computed Tomography
+- Link: https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Research-Scientist-Computed-Tomography_586922
+- Location: Orange (OH), Ohio, United States
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~52 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 8 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, python, pytorch, tensorflow, calibration, deep learning, healthcare, publication, research | Lacks: c++, matlab
+
+### Job description
+
+Job Title Research Scientist-Computed Tomography Job Description As an important member of the Computed Tomography (CT) Imaging Physics and Algorithm team, the Research Scientist will develop innovative physics-based solutions/corrections and support medical imaging platform needs by leading image quality improvements in CT by developing cutting edge Photon Counting systems. Your role: Apply system-level engineering approach to develop CT/X-ray imaging features, focusing on signal and image processing, CT reconstruction, and calibration to optimize image quality. Leverages strong systems-level and scanner experience to ensure end-to-end performance across the imaging chain. Investigate and resolve image quality issues during product introduction and from the installed base, communicating findings clearly to stakeholders. Delivers safe, effective, and well-documented solutions based on rigorous data analysis. Develop and enhance R&D tools for physics-based simulation and image formation, including benchmarks, dataflow requirements, and Software Requirement Specifications. Works primarily in MATLAB, with increasing use of Python and optional C++ for performance-critical components. Maintain expertise in CT physics and advanced processing algorithms, with strong emphasis on photon-counting CT as a top priority. Brings additional knowledge in spectral, dual-energy, and multi-energy CT, as well as cone beam CT, enabling improved material differentiation and image quality optimization. Drive innovation by owning the CT imaging physics roadmap and aligning with business strategy across clinical, marketing, and systems teams. Stays current on emerging technologies such as AI/deep learning, contributes to IP and publications, and represents the organization in regulatory and industry engagements. You're the right fit if: You have 2+ years of combined professional and graduate-level research experience in Physics/Medical Imaging (CT and/or X-ray preferred) as an individual contributor. You have a minimum of a Master's in Physics, Mathematics, Biomedical, Electrical, or Nuclear Engineering (or related field), with a background in the theory of medical image formation and reconstruction (preferred). You bring expertise in CT/X-ray imaging, signal and image processing, CT reconstruction, calibration, and systems-level/scanner understanding. Differentiating skills include experience with photon counting and/or spectral CT (dual-/multi-energy imaging), as well as cone beam CT, physics-based simulation, and hands-on prototype or scanner work. You are experienced in MATLAB (primary), Python (increasing use), and C++ (preferred), including GUI and C-MEX functionality, and familiarity with AI/deep learning frameworks (e.g., PyTorch, TensorFlow preferred). You have excellent written and verbal communication skills, with the ability to document and clearly explain complex algorithms, imaging chain trade-offs, and cross-functional impacts to non-specialists. You must be able to successfully perform the following minimum Physical, Cognitive and Environmental job requirements with or without accommodation for this position . Travel up to 10% may be required. How we work together: We believe that we are better together than apart. For our office-based teams, this means working in-person at least 3 days per week. Onsite roles require full-time presence in the company’s facilities. Field roles are most effectively done outside of the company’s main facilities, generally at the customers’ or suppliers’ locations. This is an office-based role. About Philips: We are a health technology company. We built our entire company around the belief that every human matters, and we won't stop until everybody everywhere has access to the quality healthcare that we all deserve. Do the work of your life to help improve the lives of others. Learn more about our business . Discover our rich and exciting history. Learn more about our purpose. Learn more about our culture. Philips Transparency Details: The pay range for this position in OH is $93,000 - $148,000.00. The actual base pay offered may vary within the posted ranges depending on multiple factors including job-related knowledge/skills, experience, business needs, geographical location, and internal equity. In addition, other compensation, such as an annual incentive bonus, sales commission or long-term incentives may be offered. Employees are eligible to participate in our comprehensive Philips Total Rewards benefits program, which includes a generous PTO, 401k (up to 7% match), HSA (with company contribution), stock purchase plan, education reimbursement and much more. Details about our benefits can be found here . At Philips, it is not typical for an individual to be hired at or near the top end of the range for their role and compensation decisions are dependent upon the facts and circumstances of each case. Additional Information: US work authorization is a precondition of employment. The company will not consider candidates who require sponsorship for a work-authorized visa, now or in the future. Company relocation benefits will not be provided for this position. For this position, you must reside in or within commuting distance to Orange, OH. #LI-PH1 #LI-Office #PrecisionDiagnosis This requisition is expected to stay active for 45 days but may close earlier if a successful candidate is selected or business necessity dictates. Interested candidates are encouraged to apply as soon as possible to ensure consideration. Philips is an Equal Employment and Opportunity Employer including Disability/Vets and maintains a drug-free workplace.
+
+---
+
+## 30. [MAYBE] Regions Bank | Business Unit Operational Risk Analyst
 - Link: https://regions.wd5.myworkdayjobs.com/regions_careers/job/Charlotte-NC---Charlotte-Uptown-Branch/Business-Unit-Operational-Risk-Analyst_R107241
 - Location: 2 Locations
 - Posted: Nov 08 (board gives the date only)
@@ -824,7 +858,7 @@ Thank you for your interest in a career at Regions. At Regions, we believe assoc
 
 ---
 
-## 29. [MAYBE] University of Kansas Medical Center | Research Assistant – Neurology
+## 31. [MAYBE] University of Kansas Medical Center | Research Assistant – Neurology
 - Link: https://kumc.wd5.myworkdayjobs.com/kumc-jobs/job/Kansas-City-Metro-Area/Research-Assistant---Neurology_JR010738
 - Location: Kansas City Metro Area
 - Posted: Nov 08 (board gives the date only)
@@ -838,7 +872,7 @@ Department: SOM KC Neurology ----- ICU Position Title: Research Assistant – Ne
 
 ---
 
-## 30. [MAYBE] JP Morgan Chase | Portfolio and Performance Analyst - Associate
+## 32. [MAYBE] JP Morgan Chase | Portfolio and Performance Analyst - Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807255
 - Location: Brooklyn, NY, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -852,7 +886,7 @@ Join J.P. Morgan Asset & Wealth Management’s (JPMWM) Portfolio Analysis Group 
 
 ---
 
-## 31. [MAYBE] Lunar Outpost | Full Stack AI Engineer
+## 33. [MAYBE] Lunar Outpost | Full Stack AI Engineer
 - Link: https://lunaroutpost.bamboohr.com/careers/408
 - Location: Golden Colorado
 - Posted: new since the previous sweep (board shows no date)
@@ -866,7 +900,94 @@ Are you passionate about shaping the future of humanity's presence in spac e ? L
 
 ---
 
-## 32. [MAYBE] Verne Robotics | Founding Research Scientist
+## 34. [MAYBE] Generalist | Research Assistant
+- Link: https://jobs.ashbyhq.com/generalist/8641eb18-ca38-415c-81d2-fdfab61e0023
+- Location: San Francisco Bay Area (San Mateo) United States
+- Posted: Nov 09 17:35 ET
+- Scanner fit: ~50 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: machine learning, statistic, data quality, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+ABOUT GENERALIST
+
+At Generalist, we are on a mission to build general intelligence for the physical world and make it useful to everyone. We believe the industries and homes of the future will depend on humans and machines working together in new ways. Robots can help us build more and get more done.
+
+We build embodied foundation models, starting with a focus on dexterity. This requires advancing the frontiers of data, models, and hardware, to enable robots to intelligently interact with the physical world.
+
+The company embraces both large-scale AI and robotics as core to its DNA. Our team of researchers, roboticists, and company builders come from OpenAI, Boston Dynamics, Google DeepMind, and other frontier labs—with a track record of shipping AI breakthroughs. Before Generalist, we pioneered large embodied multimodal models and vision-language-action models (PaLM-E, https://research.google/blog/palm-e-an-embodied-multimodal-language-model/ RT-2 https://deepmind.google/blog/rt-2-new-model-translates-vision-and-language-into-action/, Gemini Robotics https://deepmind.google/models/gemini-robotics/), launched and scaled ChatGPT https://chatgpt.com/ and GPT-4 https://openai.com/index/gpt-4-research/ to hundreds of millions of users, engineered the foundations of autonomous driving, built next-generation robots (Atlas https://bostondynamics.com/atlas/, Spot https://bostondynamics.com/products/spot/, Stretch https://bostondynamics.com/products/stretch/) and pushed the limits of what they can do (from parkour https://www.youtube.com/watch?v=tF4DML7FIWk to manipulation https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/, and testing robustness https://www.youtube.com/watch?v=aFuA50H9uek).
+
+We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
+
+
+ABOUT THE ROLE:
+
+We are looking for a Research Assistant to help design, run, and analyze experiments at the intersection of machine learning and robotics. This is an entry-level research role for individuals with less than 3 years of machine learning research experience, and is designed to be a potential career path towards eventually contributing as a Research Scientist.
+
+At Generalist, we are building foundation models for robots. These models improve through a tight feedback loop: design experiments, collect data, train or fine-tune models, evaluate them in the real world, analyze results, and repeat. This role helps make that loop faster, more rigorous, and more reliable.
+
+You will work closely with ML researchers and robotics engineers to run robot experiments, design evaluation tasks, brainstorm ideas, collect data, interpret results, and document repeatable workflows.
+
+A major part of this role is helping ensure our evaluations are trustworthy. We care deeply about experimental design, controls, hands-on iteration, sample sizes, variance, repeatability, and statistical rigor.
+
+ 
+
+
+YOU’LL BE RESPONSIBLE FOR:
+
+ - Running structured experiments on robot platforms
+
+ - Setting up physical tasks, materials, fixtures, and benchmarks for robot evaluations
+
+ - Collecting high-quality robot data and tracking experimental conditions
+
+ - Measuring real-world success rates across tasks, robots, and model variants
+
+ - Designing evaluations with attention to controls, repeatability, statistical rigor, and sources of bias
+
+ - Analyzing results to help distinguish real model improvements from noise
+
+ - Synthesizing findings and communicating them clearly to ML researchers and engineers
+
+ - Preparing robots, sensors, workspaces, and materials for rollouts and evaluations
+
+ - Helping kick off training jobs, run evaluations, and organize results
+
+ - Beta testing internal and third-party tools for teaching robots new skills
+
+ - Troubleshooting physical setups, hardware issues, and procedural bottlenecks
+
+ - Writing clear documentation and playbooks so others can reproduce workflows
+
+ - Improving experimental reliability, data quality, and operational throughput over time
+
+
+YOU MIGHT THRIVE IN THIS ROLE IF YOU:
+
+ - Have experience running experiments, lab studies, field studies, data collection workflows, or structured evaluations
+
+ - Think carefully about experimental design, confounding factors, controls, sample sizes, variance, and what conclusions the data can actually support
+
+ - Are diligent and detail-oriented, especially when tasks are repetitive but subtle differences matter
+
+ - Enjoy hands-on work with physical systems, equipment, materials, or instruments
+
+ - Are comfortable following protocols while also noticing when something is wrong or could be improved
+
+ - Can coordinate many moving parts: robots, materials, tasks, data, model versions, metrics, and documentation
+
+ - Communicate clearly and can summarize what happened, what changed, and what the evidence suggests
+
+ - Are curious about machine learning and robotics, even if you are not yet an expert in either
+
+ - Have some exposure to programming, data analysis, robotics, hardware, electronics, mechanical assembly, or experimental tooling
+
+ - Prefer fast iteration, careful measurement, and empirical progress over abstract theory alone
+
+---
+
+## 35. [MAYBE] Verne Robotics | Founding Research Scientist
 - Link: https://jobs.ashbyhq.com/Verne/cad20f9e-413b-45c4-b803-f949c225be44
 - Location: San Francisco United States
 - Posted: Nov 08 21:34 ET
@@ -942,7 +1063,7 @@ Help build models that learn real jobs and robots that perform them reliably. In
 
 ---
 
-## 33. [MAYBE] NewDay | Associate Business Analytics Analyst
+## 36. [MAYBE] NewDay | Associate Business Analytics Analyst
 - Link: https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Associate-Business-Analytics-Analyst_JR0726
 - Location: Leeds
 - Posted: Nov 08 (board gives the date only)
@@ -956,7 +1077,7 @@ This role is a great opportunity to use data and insight to help shape how our C
 
 ---
 
-## 34. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
+## 37. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
 - Link: https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Dusseldorf-GER/Forensic-Consultant---IT-Forensics--eDiscovery--Data-Analytics---AI_JR101237
 - Location: Dusseldorf, GER
 - Posted: Nov 08 (board gives the date only)
@@ -970,7 +1091,7 @@ We Do Consulting Differently Open to all genders (m/f/d) About the role We are s
 
 ---
 
-## 35. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
+## 38. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
 - Link: https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Milcov/Medium-IT-Business-Intelligence-Analyst_R-38436
 - Location: Milcov
 - Posted: Nov 08 (board gives the date only)
@@ -984,7 +1105,7 @@ Job Title CoE SAP BI Business Analyst Responsibilities and Main Duties SAP BW/4H
 
 ---
 
-## 36. [MAYBE] University of Southern California | Research Associate
+## 39. [MAYBE] University of Southern California | Research Associate
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Research-Associate_REQ20182670
 - Location: Los Angeles, CA - Health Sciences Campus
 - Posted: Nov 08 (board gives the date only)
@@ -998,7 +1119,7 @@ The USC Department of Orthopaedic Surgery is seeking a Research Associate to ass
 
 ---
 
-## 37. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 40. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804910
 - Location: Plano, TX, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -1012,7 +1133,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 38. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I - Motion Analysis Lab
+## 41. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I - Motion Analysis Lab
 - Link: https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Research-Assistant-I---Motion-Analysis-Lab_JR2026-106160-1
 - Location: New York, NY
 - Posted: Nov 09 (board gives the date only)
@@ -1026,7 +1147,130 @@ How you move is why we’re here. ® Now more than ever. Get back to what you ne
 
 ---
 
-## 39. [MAYBE] Valeo | AI Engineer
+## 42. [MAYBE] ONE Finance | Marketing Analytics - Lifecycle
+- Link: https://jobs.ashbyhq.com/oneapp/081e8d3b-09d0-4127-a032-ef1f39d25d1a
+- Location: United States (Remote) USA remote
+- Posted: Nov 09 17:19 ET
+- Scanner fit: ~45 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: a/b test, sql, credit | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+ABOUT ONEPAY
+
+OnePay is the consumer fintech trusted by millions of Americans to make money better.
+
+Our financial system is broken. High fees, low rates, and too few ways to actually grow your money. We’re fixing it. And we’re moving fast.
+
+We’re an all-in-one financial services platform that brings together banking, high-yield savings, credit cards, point-of-sale lending, investing, and crypto in one place. We also partner with employers, HCM providers, gig platforms, and others to deliver embedded financial services to millions of employees and frontline workers.
+
+We’re backed by Walmart, the world’s largest retailer, and Ribbit Capital, one of fintech’s most respected investors, giving us rare scale, distribution, and the opportunity to build something truly category-defining.
+
+But what really sets OnePay apart is how we move. Our customers don’t have time to wait… and neither do we. This place moves fast, and we’re looking for people who are:
+
+ - Ready to run
+
+ - Hungry and driven by urgency
+
+ - Exceptional at what they do, with low ego
+
+ - Comfortable operating in motion
+
+
+
+
+THE ROLE
+
+As a member of the marketing analytics team, you'll help build the data infrastructure and analytical capabilities needed to drive smarter lifecycle marketing decisions and business impact at OnePay. You'll focus on establishing the measurement and attribution frameworks needed to understand how lifecycle marketing impacts customer behavior, product engagement, and business outcomes. You'll work through an evolving data landscape, connecting customer interactions across marketing and product to uncover insights and identify opportunities to optimize LCM. You'll partner closely with marketing, product, engineering, and data teams to translate data into actionable recommendations and help shape how OnePay measures and optimizes its marketing efforts.
+
+
+
+In this role, you will:
+
+ - Analyze LCM performance, identify opportunities to optimize individual campaigns and the broader customer journey, and translate findings into actionable insights that drive business impact.
+
+ - Develop the data infrastructure, measurement frameworks, and attribution methodologies needed to understand the impact of lifecycle marketing across campaigns, channels, and product interactions.
+
+ - Partner cross-functionally with marketing, product, engineering, and data teams to improve measurement capabilities, connect marketing activity to product outcomes, and inform broader business and marketing strategies.
+
+ - Leverage AI-powered tools and techniques to accelerate analysis, develop and validate predictive insights, and push the boundaries of what’s possible in marketing analytics.
+
+ - Share insights and recommendations to senior leadership and stakeholders to influence the direction of the business
+
+
+
+
+YOU BRING
+
+ - 3-7 years of professional experience in marketing analytics with experience with lifecycle as a plus.
+
+ - Demonstrated track record in marketing analytics, including hands-on experience with attribution models, measurement frameworks, A/B testing, and campaign optimization.
+
+ - Advanced SQL and AI skills, with the ability to independently pull and analyze complex datasets.
+
+ - Strong analytical thinking and problem-solving skills — you can go from ambiguous questions to clear insights.
+
+ - Intellectual curiosity to look beyond the ‘what’ and answer the ‘why’.
+
+ - An act-like-an-owner mentality. We have a bias toward taking action.
+   
+   
+
+
+WHAT WE OFFER
+
+ - Competitive base salary, stock options, and health benefits from Day 1
+
+ - 401(k) plan with company match
+
+ - Remote-friendly (US), flexible time off (FTO), and opportunities for growth
+
+ - A high-growth, mission-driven, inclusive culture where your work has real impact
+
+
+
+
+STANDARD INTERVIEW PROCESS
+
+Our process varies by role. Most candidates go through:
+
+ - AI-assisted initial screen
+
+ - Interview with Talent Partner
+
+ - Technical or Hiring Manager Interview
+
+ - Team Interview
+
+ - Executive Interview
+
+ - Offer!
+
+
+
+
+EQUAL EMPLOYMENT OPPORTUNITY
+
+To build technology and products that are used and loved by people and solve real-world problems, we need to build a team with many different perspectives and experiences.
+
+---
+
+## 43. [MAYBE] Amazon | Data Scientist I, NEST
+- Link: https://www.amazon.jobs/en/jobs/10600616/data-scientist-i-nest
+- Location: Bellevue, Washington, USA
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 3890 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: machine learning, python, r, spark, sql, statistic, pipeline, quantitative, research | Lacks: hadoop, matlab, sas, scala
+
+### Job description
+
+Are you curious about turning complex data into actionable insights that shape how millions of customers experience Amazon? Do you enjoy building analytical models, testing hypotheses, and seeing your work drive real business decisions? We are looking for a Data Scientist to join our team at Amazon. In this role, you will apply statistical techniques, machine learning, and data analysis to solve well-defined business problems and deliver measurable improvements. You will work with large-scale datasets from multiple sources, build and validate models, and create metrics that quantify impact. This is an opportunity for a self-starter who is comfortable with ambiguity in data, thrives on collaboration with science and engineering partners, and is eager to grow their craft in a fast-paced environment. Key job responsibilities - Use statistical methods, machine learning algorithms, and data analysis techniques to translate well-defined business problems into data science solutions that improve processes and systems. - Gather, clean, and integrate large datasets from multiple sources to build and validate models, ensuring data integrity and adherence to best practices throughout the pipeline. - Design and deliver metrics, visualizations, and reports that compare results against benchmarks and original project goals, enabling clear and informed decision-making for stakeholders. - Collaborate with business, science, and engineering teams to understand customer needs, identify opportunities, and develop scalable analytical solutions using tools such as Python, R, or SQL. - Evaluate opportunities to integrate generative artificial intelligence tools into workflows, refining outputs and applying responsible practices to augment productivity and solution quality. About the team Our team is focused on using data science to help Amazon make smarter, faster decisions that benefit customers. We build analytical models and machine learning solutions that operate at scale, and we value rigorous methodology paired with clear communication. You will join a collaborative group of scientists and engineers who are passionate about learning from one another and pushing the boundaries of what data can do. If you are excited about growing your career in an inclusive, supportive environment where your contributions have tangible impact, we would love to hear from you. - 1+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience - 2+ years of data/research scientist, statistician or quantitative analyst in an internet-based company with complex and big data sources experience - 1+ years of creating or contributing to mathematical textbooks, research papers, or educational content experience - Master's degree in Science, Technology, Engineering, or Mathematics (STEM), or experience working in Science, Technology, Engineering, or Mathematics (STEM) - Ph.D. in Science, Technology, Engineering, or Mathematics (STEM) - Knowledge of statistical packages and business intelligence tools such as SPSS, SAS, S-PLUS, or R - Knowledge of machine learning concepts and their application to reasoning and problem-solving - Experience with clustered data processing (e.g., Hadoop, Spark, Map-reduce, and Hive) - Experience working with or evaluating AI systems - Experience applying quantitative analysis to solve business problems and making data-driven business decisions - Experience effectively communicating complex concepts through written and verbal communication Amazon
+
+---
+
+## 44. [MAYBE] Valeo | AI Engineer
 - Link: https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/AI-Engineer_REQ2026081784
 - Location: Créteil
 - Posted: Nov 08 (board gives the date only)
@@ -1040,7 +1284,7 @@ Valeo is a tech global company, designing breakthrough solutions to reinvent the
 
 ---
 
-## 40. [MAYBE] Relay Financial | Credit Risk Analyst
+## 45. [MAYBE] Relay Financial | Credit Risk Analyst
 - Link: https://jobs.ashbyhq.com/relayfi/25ee1242-658a-4ce0-8634-fdb1d20a5349
 - Location: Toronto, ON Canada remote
 - Posted: Nov 09 11:19 ET
@@ -1154,7 +1398,7 @@ Important Notice: Relay’s recruitment team only contacts candidates and corres
 
 ---
 
-## 41. [MAYBE] JP Morgan Chase | External Regulatory Reporting Analyst
+## 46. [MAYBE] JP Morgan Chase | External Regulatory Reporting Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797617
 - Location: Newark, DE, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -1168,7 +1412,21 @@ Join JPMorganChase's Firmwide Regulatory Reporting & Analysis (FRRA) team, where
 
 ---
 
-## 42. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
+## 47. [MAYBE] Church & Dwight | Data Engineer
+- Link: https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/Data-Engineer_R2026-15824
+- Location: USA, Ewing, NJ
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~44 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: etl, power bi, python, spark, sql, classification, data quality, git, pipeline | Lacks: azure, databricks, informatica, kafka  | Note: no H-1B filings found for this employer
+
+### Job description
+
+A collective energy and ambition. A place where you can make a real difference. We’re a company that genuinely cares about our people, our products, our consumers and the environment. Our unique, informal culture champions courage, determination and collaboration. Knowing we have an open and supportive team means each of us has the freedom to take responsibility and ownership. We have a shared passion to work hard, innovate and push boundaries. United by the belief that when we strive for growth, anything is possible. While we might not be the largest company in our industry, we believe we can have the biggest impact because: Together We Have the Power to Win. Role Summary Church & Dwight is seeking a Data Engineer to join our team. As a member of the Analytics Engineering Group, the Data Engineer builds and maintains the ingestion frameworks, ELT pipelines, data models, and curated data products that deliver insight to CHD business functions worldwide.. About the Role The role centers on a Databricks lakehouse built on a Bronze/Silver/Gold medallion architecture, with an emphasis on reusable, metadata-driven engineering, strong governance, and AI-ready data. The Data Engineer will partner closely with analytics engineers, architects, data scientists, data stewards, and business analysts, and work across time zones with a global managed services team. Work Environment Hybrid: This is a hybrid role based in Ewing, NJ, and requires in- person attendance on Tuesdays, Wednesdays, and Thursdays, with remote work options on Mondays and Fridays. Role Accountabilities and Responsibilities Build reusable, metadata-driven ingestion frameworks and batch/streaming ELT pipelines that promote data through Bronze, Silver, and Gold with defined quality gates, incremental/CDC processing, and restartable, idempotent design Design dimensional, normalized, and data vault models, and build curated Gold data products with conformed dimensions that reconcile across regions and source systems Profile sources, implement automated data quality and reconciliation controls, and support master and reference data management Maintain the semantic layer, catalog, lineage, and business glossary with data stewards; extend classification, masking, and access controls to AI use cases Develop on Databricks (PySpark, Spark SQL, Delta Lake, Delta Live Tables, Workflows, Unity Catalog), optimizing performance and cost and contributing to disaster recovery planning Write tested, production-grade Python and SQL using Git, peer review, and CI/CD, with configuration managed as code Prepare AI-ready data, including feature tables, training data sets, and RAG content (chunking, embeddings, vector indexes) Publish governed data to operational systems through APIs, events, and reverse ETL, with versioned interface contracts Support production operations (monitoring, root cause analysis, service levels) and maintain documentation and runbooks for handoff to managed services Skills and Competencies Strong problem-solving skills, with a focus on root cause over quick fixes Clear communication with both technical and non-technical partners A standards-first mindset that favors reusable frameworks and automation Education and Experience Required Qualifications Bachelor’s degree in Computer Science, Mathematics, Physics, Engineering, or equivalent experience required 5 + years of data engineering experience, including production ELT pipelines on a cloud data platform required Hands-on Databricks experience (Spark, Delta Lake, orchestration, Unity Catalog), preferably on Azure Experience building framework-based ingestion within a medallion architecture Advanced Python (including PySpark and automated testing) and SQL Strong data modeling skills across dimensional, normalized, and lakehouse patterns Practical data governance experience: profiling, data quality, MDM, catalog, and lineage Experience with Git and CI/CD for data assets Preferred Qualifications 2+ years of Consumer Packaged Goods analytics experience preferred Broader Azure stack experience (ADLS, Data Factory, Fabric, Power BI); Databricks certification Governance or catalog tools such as Purview, Collibra, Alation, or Informatica Streaming (Kafka, Structured Streaming) and infrastructure as code Experience preparing data for ML or generative AI applications Experience on agile teams distributed across geographies Compensation and Benefits The U.S. base salary range for this full-time position is $92,500– $131,700. This position is also eligible for a bonus. As a Church & Dwight US employee, you (and eligible dependents, as applicable) will have access to medical, dental, vision, basic life insurance, paid vacation and sick time, and Paid Parental Leave. U.S. employees are entitled to paid holidays, floating holidays, and vacation days starting in their first year of employment depending on hire date. You are also able to participate in our 401k retirement plan (with company match and profit-sharing) and Discounted Employee Stock Purchase Plan. The actual base pay offered to the successful candidate will be based on multiple factors, including, but not limited to, job-related knowledge/skills, experience, business needs, geographical location, and internal pay parity. Compensation decisions are dependent upon the facts and circumstances of each position and candidate. #LI-Hybrid Church & Dwight is proud to be an
+
+---
+
+## 48. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
 - Link: https://staff-emory.icims.com/jobs/178496/research-scientist--school-of-medicine%2c-pulmonary/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1182,7 +1440,7 @@ Emory Careers | Research Scientist- School of Medicine, Pulmonary in Atlanta, Ge
 
 ---
 
-## 43. [MAYBE] US Foods | Pricing Analyst, 100% Onsite, Raleigh
+## 49. [MAYBE] US Foods | Pricing Analyst, 100% Onsite, Raleigh
 - Link: https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Raleigh-NC/Pricing-Analyst--100--Onsite--Raleigh_R283734-1
 - Location: Raleigh NC
 - Posted: Nov 09 (board gives the date only)
@@ -1196,7 +1454,7 @@ ARE YOU A CURRENT US FOODS EMPLOYEE? PLEASE APPLY DIRECTLY THROUGH OUR INTERNAL 
 
 ---
 
-## 44. [MAYBE] The New School | Research Assistant – Social Media & Audience Growth
+## 50. [MAYBE] The New School | Research Assistant – Social Media & Audience Growth
 - Link: https://newschool.wd1.myworkdayjobs.com/external/job/L---2-West-13th-Street/Research-Assistant---Social-Media---Audience-Growth_JR110113
 - Location: L - 2 West 13th Street
 - Posted: Nov 09 (board gives the date only)
@@ -1210,7 +1468,7 @@ Faculty Laura Lanteri is looking for a strong student or junior researcher to su
 
 ---
 
-## 45. [MAYBE] University of Mississippi Medical Center | Research Associate
+## 51. [MAYBE] University of Mississippi Medical Center | Research Associate
 - Link: https://ummc.wd5.myworkdayjobs.com/UMCCareers/job/Jackson-MS/Research-Associate_R00055131-1
 - Location: Jackson, MS
 - Posted: Nov 09 (board gives the date only)
@@ -1224,7 +1482,7 @@ Hello, Thank you for your interest in career opportunities with the University o
 
 ---
 
-## 46. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
+## 52. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
 - Link: https://jobs.smartrecruiters.com/PAConsulting/744000160735969
 - Location: Chicago us
 - Posted: Nov 09 16:55 ET
@@ -1238,7 +1496,7 @@ PA's Growth Strategy team helps organizations identify opportunities for sustain
 
 ---
 
-## 47. [MAYBE] Georgetown University | HRC Oral History Research Associate, Georgetown Institute for Women, Peace and Security (GIWPS), Walsh School of Foreign Service (SFS)
+## 53. [MAYBE] Georgetown University | HRC Oral History Research Associate, Georgetown Institute for Women, Peace and Security (GIWPS), Walsh School of Foreign Service (SFS)
 - Link: https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/New-York/HRC-Oral-History-Research-Associate--Georgetown-Institute-for-Women--Peace-and-Security--GIWPS---Walsh-School-of-Foreign-Service--SFS-_JR28084
 - Location: New York
 - Posted: Nov 09 (board gives the date only)
