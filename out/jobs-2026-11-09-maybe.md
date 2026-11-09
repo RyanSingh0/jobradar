@@ -11,52 +11,53 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 5 | MUFG | Business Data Analyst | 73 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
 | 6 | MUFG | Product Analyst, Enterprise Data Catalog | 71 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
 | 7 | The New School | Research Assistant – Quantitative Analysis & Data Research | 71 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 8 | Advantage Solutions | Posting Job Title Category Insights Analyst | 68 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 9 | Faculty AI | Data Scientist | 67 | none found (check myvisajobs) | Nov 08 21:22 ET |
-| 10 | Shirley Ryan AbilityLab | Data and Digital Growth Analyst | 67 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 11 | Faculty AI | Machine Learning Engineer | 66 | none found (check myvisajobs) | Nov 09 01:14 ET |
-| 12 | BerryDunn | Title Healthcare Data Engineer | 65 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 13 | Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term | 62 | 5 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 14 | Synechron | SDET with AI | 62 | 15 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 15 | StoneX Group | Job Posting Title Physical Commodity Integrations Analyst | 62 | 11 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 16 | GTS | Job Title Quantitative Researcher, Algorithmic Trading | 60 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 17 | Anglian Water | Demand Reporting Data Scientist | 60 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 18 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 08 12:11 ET |
-| 19 | Smarkets | Data Engineer | 55 | none found (check myvisajobs) | Nov 09 03:49 ET |
-| 20 | Repligen | AI Engineer I | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 21 | Persona AI | Robotics Machine Learning Engineer | 55 | none found (check myvisajobs) | Nov 09 16:13 ET |
-| 22 | Rackner | Telemetry & Performance Data Analyst-Federal Health IT | 55 | none found (check myvisajobs) | Nov 09 16:44 ET |
-| 23 | Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
-| 24 | Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
-| 25 | WSP | Environmental Data Analytics Specialist | 54 | 7 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 26 | TikTok | Research Scientist Graduate (TikTok - Data - Search - Visual Search) - 2027 Start (PhD) | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 27 | TikTok | Research Scientist Graduate (TikTok - Data - Search - Search Quality) - 2027 Start (PhD) | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 28 | Philips | Research Scientist - Computed Tomography (Orange, OH) | 52 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 29 | Philips | Research Scientist-Computed Tomography | 52 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 30 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 31 | University of Kansas Medical Center | Research Assistant – Neurology | 50 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 32 | JP Morgan Chase | Portfolio and Performance Analyst - Associate | 50 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 33 | Lunar Outpost | Full Stack AI Engineer | 50 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 34 | Generalist | Research Assistant | 50 | none found (check myvisajobs) | Nov 09 17:35 ET |
-| 35 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
-| 36 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 37 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 38 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 39 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 40 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 41 | Hospital for Special Surgery (HSS) | Research Assistant I - Motion Analysis Lab | 45 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 42 | ONE Finance | Marketing Analytics - Lifecycle | 45 | none found (check myvisajobs) | Nov 09 17:19 ET |
-| 43 | Amazon | Data Scientist I, NEST | 45 | 3890 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 44 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 45 | Relay Financial | Credit Risk Analyst | 44 | none found (check myvisajobs) | Nov 09 11:19 ET |
-| 46 | JP Morgan Chase | External Regulatory Reporting Analyst | 44 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 47 | Church & Dwight | Data Engineer | 44 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 48 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 49 | US Foods | Pricing Analyst, 100% Onsite, Raleigh | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 50 | The New School | Research Assistant – Social Media & Audience Growth | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 51 | University of Mississippi Medical Center | Research Associate | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
-| 52 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 09 16:55 ET |
-| 53 | Georgetown University | HRC Oral History Research Associate, Georgetown Institute for Women, Peace and Security (GIWPS), Walsh School of Foreign Service (SFS) | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 8 | Verizon Communications | B2B Data Scientist | 71 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 9 | Advantage Solutions | Posting Job Title Category Insights Analyst | 68 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 10 | Faculty AI | Data Scientist | 67 | none found (check myvisajobs) | Nov 08 21:22 ET |
+| 11 | Shirley Ryan AbilityLab | Data and Digital Growth Analyst | 67 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 12 | Faculty AI | Machine Learning Engineer | 66 | none found (check myvisajobs) | Nov 09 01:14 ET |
+| 13 | BerryDunn | Title Healthcare Data Engineer | 65 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 14 | Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term | 62 | 5 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 15 | Synechron | SDET with AI | 62 | 15 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 16 | StoneX Group | Job Posting Title Physical Commodity Integrations Analyst | 62 | 11 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 17 | GTS | Job Title Quantitative Researcher, Algorithmic Trading | 60 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 18 | Anglian Water | Demand Reporting Data Scientist | 60 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 19 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 08 12:11 ET |
+| 20 | Smarkets | Data Engineer | 55 | none found (check myvisajobs) | Nov 09 03:49 ET |
+| 21 | Repligen | AI Engineer I | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 22 | Persona AI | Robotics Machine Learning Engineer | 55 | none found (check myvisajobs) | Nov 09 16:13 ET |
+| 23 | Rackner | Telemetry & Performance Data Analyst-Federal Health IT | 55 | none found (check myvisajobs) | Nov 09 16:44 ET |
+| 24 | Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 25 | Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 26 | WSP | Environmental Data Analytics Specialist | 54 | 7 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 27 | TikTok | Research Scientist Graduate (TikTok - Data - Search - Visual Search) - 2027 Start (PhD) | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 28 | TikTok | Research Scientist Graduate (TikTok - Data - Search - Search Quality) - 2027 Start (PhD) | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 29 | Philips | Research Scientist - Computed Tomography (Orange, OH) | 52 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 30 | Philips | Research Scientist-Computed Tomography | 52 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 31 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 32 | University of Kansas Medical Center | Research Assistant – Neurology | 50 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 33 | JP Morgan Chase | Portfolio and Performance Analyst - Associate | 50 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 34 | Lunar Outpost | Full Stack AI Engineer | 50 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 35 | Generalist | Research Assistant | 50 | none found (check myvisajobs) | Nov 09 17:35 ET |
+| 36 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
+| 37 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 38 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 39 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 40 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 41 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 42 | Hospital for Special Surgery (HSS) | Research Assistant I - Motion Analysis Lab | 45 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 43 | ONE Finance | Marketing Analytics - Lifecycle | 45 | none found (check myvisajobs) | Nov 09 17:19 ET |
+| 44 | Amazon | Data Scientist I, NEST | 45 | 3890 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 45 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 46 | Relay Financial | Credit Risk Analyst | 44 | none found (check myvisajobs) | Nov 09 11:19 ET |
+| 47 | JP Morgan Chase | External Regulatory Reporting Analyst | 44 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 48 | Church & Dwight | Data Engineer | 44 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 49 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 50 | US Foods | Pricing Analyst, 100% Onsite, Raleigh | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 51 | The New School | Research Assistant – Social Media & Audience Growth | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 52 | University of Mississippi Medical Center | Research Associate | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 53 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 09 16:55 ET |
+| 54 | Georgetown University | HRC Oral History Research Associate, Georgetown Institute for Women, Peace and Security (GIWPS), Walsh School of Foreign Service (SFS) | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
 
 ---
 
@@ -158,7 +159,21 @@ Faculty Laura Lanteri is looking for a strong student or junior researcher to su
 
 ---
 
-## 8. [MAYBE] Advantage Solutions | Posting Job Title Category Insights Analyst
+## 8. [MAYBE] Verizon Communications | B2B Data Scientist
+- Link: https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Senior-Data-Scientist_R-1100559-1
+- Location: 3 Locations
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~71 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: data visualization, excel, llm, machine learning, python, spark, sql, statistic, classification, deep learning, git, quantitative, research, validation | Lacks: scala  | Note: no H-1B filings found for this employer
+
+### Job description
+
+When you join Verizon You want more out of a career. A place to share your ideas freely — even if they’re daring or different. Where the true you can learn, grow, and thrive. At Verizon, we power and empower how people live, work and play by connecting them to what brings them joy. We do what we love — driving innovation, creativity, and impact in the world. Our V Team is a community of people who anticipate, lead, and believe that listening is where learning begins. In crisis and in celebration, we come together — lifting our communities and building trust in how we show up, everywhere & always. Want in? Join the #VTeamLife. What you’ll be doing... As a Senior Data Scientist for the Sales and Marketing Technology team, you will evaluate a variety of B2B 3rd party data for use by our sales and marketing teams. You will validate the data, address any missing values, and analyze it for a variety of sales and marketing use cases. You will take raw B2B data sources that include vendor news feeds, buyer intent signals, and firmographics and build AI/ML models that will take that raw data and turn it into actionable insights useable by our sales and marketing teams to deliver the right services and products to the right customer at the right moment in time. In this role you will be... Driving data-derived insights across the business domain by developing advanced statistical models, machine learning algorithms and computational algorithms based on business initiatives. Directing the gathering of data, assessing data validity and synthesizing data into large analytics datasets to support project goals. Analyzing structured and unstructured data using data mining/statistical/machine learning/deep learning tools, Data visualization, Digital/Web analytics tools and techniques and storytelling. Building and training statistical models and machine learning algorithms. Performing tasks related to Operationalization - eg. wrapper script, REST service, Trigger, Monitoring etc. Preparing all the supporting documents and reports. Mentoring/Guiding one to two members in the team on technical aspects as needed. Where you'll be working... In this hybrid role, your work will include 3 days in the office and 2 days working from home. You must live within a commutable distance to one of the locations listed on this posting What we’re looking for... You have strong analytical skills, and are eager to work in a collaborative environment with global teams to drive ML application in business problems, develop end to end analytical solutions and communicate insights and findings to leadership. You work independently and are always willing to learn new technologies. You thrive in a dynamic environment and are able to interact with various partners and multi-functional teams to implement data science driven business solutions. You'll need to have... Bachelor's degree or four or more years of work experience. Four or more years of relevant experience required, demonstrated through work experience and/or military experience. Four or more years of experience in advanced analytics/ predictive modelling , quantitative modeling, statistics, or data mining. Experience in 3rd party B2B data such as firmographics, contact details, technographics, and buyer intent signals. Experience utilizing GenAI/LLM tools (e.g., Claude Code) to accelerate software delivery and development velocity. Experience with all phases of end-to-end Analytics project, such as (but not limited to): Ingestion, Munging, Model Building, Validation, Operationalization, Monitoring. Experience building models using statistical techniques such as Supervised and Unsupervised Machine Learning models, Deep learning, Text classification etc. Knowledge of Python, Sql, PySpark, Scala and/or other languages and tools. Even better if you have one or more of the following... Master's degree. Experience working with 3rd party B2B data such as firmographics, contact details, technographics, and buyer intent signals from the telecommunications industry Experience working in analytical projects in telecom domain. Accuracy and attention to detail. Experience in data lake. Problem solving, analytical, and research skills. Excellent verbal and written communication. Experience presenting to and influencing functional leaders and partners. Ability to work effectively independently and willingness to learn new technologies. Experience working with cross-functional teams in a dynamic environment. If Verizon and this role sound like a fit for you, we encourage you to apply even if you don’t meet every “even better” qualification listed above. Where you’ll be working In this hybrid role, you'll have a defined work location that includes working from home and a minimum of three days per week in the office, which will be set by your manager. Employees are responsible for maintaining compliance with hybrid work policies. Scheduled Weekly Hours 40 Equal Employment Opportunity Verizon
+
+---
+
+## 9. [MAYBE] Advantage Solutions | Posting Job Title Category Insights Analyst
 - Link: https://uscareers2-asm.icims.com/jobs/442816/category-insights-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -172,7 +187,7 @@ Category Insights Analyst in Chicago, Illinois | Careers at 60601 - Chicago Plea
 
 ---
 
-## 9. [MAYBE] Faculty AI | Data Scientist
+## 10. [MAYBE] Faculty AI | Data Scientist
 - Link: https://jobs.ashbyhq.com/faculty/8e468539-a6d1-4de9-a293-018c4c3ebd9b
 - Location: Sydney Australia Melbourne remote
 - Posted: Nov 08 21:22 ET
@@ -271,7 +286,7 @@ A note on AI: we're happy for you to use it for research and interview prep, but
 
 ---
 
-## 10. [MAYBE] Shirley Ryan AbilityLab | Data and Digital Growth Analyst
+## 11. [MAYBE] Shirley Ryan AbilityLab | Data and Digital Growth Analyst
 - Link: https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Data-and-Digital-Growth-Analyst_JR-1065780-1
 - Location: Chicago, IL
 - Posted: Nov 08 (board gives the date only)
@@ -285,7 +300,7 @@ Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilita
 
 ---
 
-## 11. [MAYBE] Faculty AI | Machine Learning Engineer
+## 12. [MAYBE] Faculty AI | Machine Learning Engineer
 - Link: https://jobs.ashbyhq.com/faculty/d1f0541e-a99b-4077-8522-397e88d1b98c
 - Location: Sydney Australia Melbourne remote
 - Posted: Nov 09 01:14 ET
@@ -384,7 +399,7 @@ A note on AI: we're happy for you to use it for research and interview prep, but
 
 ---
 
-## 12. [MAYBE] BerryDunn | Title Healthcare Data Engineer
+## 13. [MAYBE] BerryDunn | Title Healthcare Data Engineer
 - Link: https://careers-berrydunn.icims.com/jobs/4078/healthcare-data-engineer/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -398,7 +413,7 @@ Healthcare Data Engineer in Portland, Maine | Careers at Portland, ME Please Ena
 
 ---
 
-## 13. [MAYBE] Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term
+## 14. [MAYBE] Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term
 - Link: https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Athens/Financial-Planning---Analysis-Analyst--FP-A-Analyst----Fixed-Term_R29455
 - Location: Athens
 - Posted: Nov 08 (board gives the date only)
@@ -412,7 +427,7 @@ Are you ready to shape the future of capital markets? We are looking for a Finan
 
 ---
 
-## 14. [MAYBE] Synechron | SDET with AI
+## 15. [MAYBE] Synechron | SDET with AI
 - Link: https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Menlo-Park-CA/SDET-with-AI_JR1044923
 - Location: Menlo Park, CA
 - Posted: Nov 09 (board gives the date only)
@@ -426,7 +441,7 @@ We are At Synechron, we believe in the power of digital to transform businesses 
 
 ---
 
-## 15. [MAYBE] StoneX Group | Job Posting Title Physical Commodity Integrations Analyst
+## 16. [MAYBE] StoneX Group | Job Posting Title Physical Commodity Integrations Analyst
 - Link: https://careers-stonex.icims.com/jobs/16964/physical-commodity-integrations-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -440,7 +455,7 @@ Physical Commodity Integrations Analyst in West Des Moines, Iowa | Careers at We
 
 ---
 
-## 16. [MAYBE] GTS | Job Title Quantitative Researcher, Algorithmic Trading
+## 17. [MAYBE] GTS | Job Title Quantitative Researcher, Algorithmic Trading
 - Link: https://careers-gtsx.icims.com/jobs/1628/quantitative-researcher%2c-algorithmic-trading/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -454,7 +469,7 @@ Careers | GTS | Quantitative Researcher, Algorithmic Trading in New York, New Yo
 
 ---
 
-## 17. [MAYBE] Anglian Water | Demand Reporting Data Scientist
+## 18. [MAYBE] Anglian Water | Demand Reporting Data Scientist
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Demand-Reporting-Data-Scientist_R40770
 - Location: 2 Locations
 - Posted: Nov 08 (board gives the date only)
@@ -468,7 +483,7 @@ Circa £43,344 (depending on Skills & Experience) Permanent Full Time / 37 Hours
 
 ---
 
-## 18. [MAYBE] Clera | Founding Applied AI Engineer
+## 19. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/ac506f1a-80de-45db-8015-6d70ff90a130
 - Location: San Francisco United States
 - Posted: Nov 08 12:11 ET
@@ -524,7 +539,7 @@ On-site in San Francisco, California. Candidates must be based in or willing to 
 
 ---
 
-## 19. [MAYBE] Smarkets | Data Engineer
+## 20. [MAYBE] Smarkets | Data Engineer
 - Link: https://jobs.ashbyhq.com/smarkets/3038bed9-d75e-45b9-9283-9db6b4ab93f8
 - Location: London United Kingdom remote
 - Posted: Nov 09 03:49 ET
@@ -666,7 +681,7 @@ These include:
 
 ---
 
-## 20. [MAYBE] Repligen | AI Engineer I
+## 21. [MAYBE] Repligen | AI Engineer I
 - Link: https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Waltham-MA/AI-Engineer-I_R-971
 - Location: Waltham, MA
 - Posted: Nov 09 (board gives the date only)
@@ -680,7 +695,7 @@ Job Summary Make a global impact—join Repligen. We’re united by a mission to
 
 ---
 
-## 21. [MAYBE] Persona AI | Robotics Machine Learning Engineer
+## 22. [MAYBE] Persona AI | Robotics Machine Learning Engineer
 - Link: https://jobs.ashbyhq.com/persona.ai/bf7d9341-e4cd-4bd9-be47-dc420dcd09b2
 - Location: Houston, TX United States
 - Posted: Nov 09 16:13 ET
@@ -694,7 +709,7 @@ Job Summary Make a global impact—join Repligen. We’re united by a mission to
 
 ---
 
-## 22. [MAYBE] Rackner | Telemetry & Performance Data Analyst-Federal Health IT
+## 23. [MAYBE] Rackner | Telemetry & Performance Data Analyst-Federal Health IT
 - Link: https://job-boards.greenhouse.io/rackner/jobs/4752908005
 - Location: Remote
 - Posted: Nov 09 16:44 ET
@@ -708,7 +723,7 @@ Telemetry &amp; Performance Data Analyst-Federal Health IT Location: Remote (US)
 
 ---
 
-## 23. [MAYBE] Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory
+## 24. [MAYBE] Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/Bryan-TX/Assistant-Research-Scientist--Joint-Microscopy-Laboratory_R-098650-1
 - Location: Bryan, TX
 - Posted: Nov 09 (board gives the date only)
@@ -722,7 +737,7 @@ Job Title Assistant Research Scientist, Joint Microscopy Laboratory Agency Texas
 
 ---
 
-## 24. [MAYBE] Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory
+## 25. [MAYBE] Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Bryan-TX/Assistant-Research-Scientist--Joint-Microscopy-Laboratory_R-098650
 - Location: Bryan, TX
 - Posted: Nov 09 (board gives the date only)
@@ -736,7 +751,7 @@ Job Title Assistant Research Scientist, Joint Microscopy Laboratory Agency Texas
 
 ---
 
-## 25. [MAYBE] WSP | Environmental Data Analytics Specialist
+## 26. [MAYBE] WSP | Environmental Data Analytics Specialist
 - Link: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98898
 - Location: Redmond, WA, United States US Seattle, WA, United States Portland, OR, United States
 - Posted: Nov 09 (board gives the date only)
@@ -750,7 +765,7 @@ This Opportunity WSP is currently initiating a search for an Environmental Data 
 
 ---
 
-## 26. [MAYBE] TikTok | Research Scientist Graduate (TikTok - Data - Search - Visual Search) - 2027 Start (PhD)
+## 27. [MAYBE] TikTok | Research Scientist Graduate (TikTok - Data - Search - Visual Search) - 2027 Start (PhD)
 - Link: https://lifeattiktok.com/search/7667346535273007413
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -782,7 +797,7 @@ Preferred Qualification(s)
 
 ---
 
-## 27. [MAYBE] TikTok | Research Scientist Graduate (TikTok - Data - Search - Search Quality) - 2027 Start (PhD)
+## 28. [MAYBE] TikTok | Research Scientist Graduate (TikTok - Data - Search - Search Quality) - 2027 Start (PhD)
 - Link: https://lifeattiktok.com/search/7665793152026740997
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -816,7 +831,7 @@ Preferred Qualification(s)
 
 ---
 
-## 28. [MAYBE] Philips | Research Scientist - Computed Tomography (Orange, OH)
+## 29. [MAYBE] Philips | Research Scientist - Computed Tomography (Orange, OH)
 - Link: https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Research-Scientist---Computed-Tomography--Orange--OH-_586925
 - Location: 3 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -830,7 +845,7 @@ Job Title Research Scientist - Computed Tomography (Orange, OH) Job Description 
 
 ---
 
-## 29. [MAYBE] Philips | Research Scientist-Computed Tomography
+## 30. [MAYBE] Philips | Research Scientist-Computed Tomography
 - Link: https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Research-Scientist-Computed-Tomography_586922
 - Location: Orange (OH), Ohio, United States
 - Posted: Nov 09 (board gives the date only)
@@ -844,7 +859,7 @@ Job Title Research Scientist-Computed Tomography Job Description As an important
 
 ---
 
-## 30. [MAYBE] Regions Bank | Business Unit Operational Risk Analyst
+## 31. [MAYBE] Regions Bank | Business Unit Operational Risk Analyst
 - Link: https://regions.wd5.myworkdayjobs.com/regions_careers/job/Charlotte-NC---Charlotte-Uptown-Branch/Business-Unit-Operational-Risk-Analyst_R107241
 - Location: 2 Locations
 - Posted: Nov 08 (board gives the date only)
@@ -858,7 +873,7 @@ Thank you for your interest in a career at Regions. At Regions, we believe assoc
 
 ---
 
-## 31. [MAYBE] University of Kansas Medical Center | Research Assistant – Neurology
+## 32. [MAYBE] University of Kansas Medical Center | Research Assistant – Neurology
 - Link: https://kumc.wd5.myworkdayjobs.com/kumc-jobs/job/Kansas-City-Metro-Area/Research-Assistant---Neurology_JR010738
 - Location: Kansas City Metro Area
 - Posted: Nov 08 (board gives the date only)
@@ -872,7 +887,7 @@ Department: SOM KC Neurology ----- ICU Position Title: Research Assistant – Ne
 
 ---
 
-## 32. [MAYBE] JP Morgan Chase | Portfolio and Performance Analyst - Associate
+## 33. [MAYBE] JP Morgan Chase | Portfolio and Performance Analyst - Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807255
 - Location: Brooklyn, NY, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -886,7 +901,7 @@ Join J.P. Morgan Asset & Wealth Management’s (JPMWM) Portfolio Analysis Group 
 
 ---
 
-## 33. [MAYBE] Lunar Outpost | Full Stack AI Engineer
+## 34. [MAYBE] Lunar Outpost | Full Stack AI Engineer
 - Link: https://lunaroutpost.bamboohr.com/careers/408
 - Location: Golden Colorado
 - Posted: new since the previous sweep (board shows no date)
@@ -900,7 +915,7 @@ Are you passionate about shaping the future of humanity's presence in spac e ? L
 
 ---
 
-## 34. [MAYBE] Generalist | Research Assistant
+## 35. [MAYBE] Generalist | Research Assistant
 - Link: https://jobs.ashbyhq.com/generalist/8641eb18-ca38-415c-81d2-fdfab61e0023
 - Location: San Francisco Bay Area (San Mateo) United States
 - Posted: Nov 09 17:35 ET
@@ -987,7 +1002,7 @@ YOU MIGHT THRIVE IN THIS ROLE IF YOU:
 
 ---
 
-## 35. [MAYBE] Verne Robotics | Founding Research Scientist
+## 36. [MAYBE] Verne Robotics | Founding Research Scientist
 - Link: https://jobs.ashbyhq.com/Verne/cad20f9e-413b-45c4-b803-f949c225be44
 - Location: San Francisco United States
 - Posted: Nov 08 21:34 ET
@@ -1063,7 +1078,7 @@ Help build models that learn real jobs and robots that perform them reliably. In
 
 ---
 
-## 36. [MAYBE] NewDay | Associate Business Analytics Analyst
+## 37. [MAYBE] NewDay | Associate Business Analytics Analyst
 - Link: https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Associate-Business-Analytics-Analyst_JR0726
 - Location: Leeds
 - Posted: Nov 08 (board gives the date only)
@@ -1077,7 +1092,7 @@ This role is a great opportunity to use data and insight to help shape how our C
 
 ---
 
-## 37. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
+## 38. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
 - Link: https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Dusseldorf-GER/Forensic-Consultant---IT-Forensics--eDiscovery--Data-Analytics---AI_JR101237
 - Location: Dusseldorf, GER
 - Posted: Nov 08 (board gives the date only)
@@ -1091,7 +1106,7 @@ We Do Consulting Differently Open to all genders (m/f/d) About the role We are s
 
 ---
 
-## 38. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
+## 39. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
 - Link: https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Milcov/Medium-IT-Business-Intelligence-Analyst_R-38436
 - Location: Milcov
 - Posted: Nov 08 (board gives the date only)
@@ -1105,7 +1120,7 @@ Job Title CoE SAP BI Business Analyst Responsibilities and Main Duties SAP BW/4H
 
 ---
 
-## 39. [MAYBE] University of Southern California | Research Associate
+## 40. [MAYBE] University of Southern California | Research Associate
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Research-Associate_REQ20182670
 - Location: Los Angeles, CA - Health Sciences Campus
 - Posted: Nov 08 (board gives the date only)
@@ -1119,7 +1134,7 @@ The USC Department of Orthopaedic Surgery is seeking a Research Associate to ass
 
 ---
 
-## 40. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 41. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804910
 - Location: Plano, TX, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -1133,7 +1148,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 41. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I - Motion Analysis Lab
+## 42. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I - Motion Analysis Lab
 - Link: https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Research-Assistant-I---Motion-Analysis-Lab_JR2026-106160-1
 - Location: New York, NY
 - Posted: Nov 09 (board gives the date only)
@@ -1147,7 +1162,7 @@ How you move is why we’re here. ® Now more than ever. Get back to what you ne
 
 ---
 
-## 42. [MAYBE] ONE Finance | Marketing Analytics - Lifecycle
+## 43. [MAYBE] ONE Finance | Marketing Analytics - Lifecycle
 - Link: https://jobs.ashbyhq.com/oneapp/081e8d3b-09d0-4127-a032-ef1f39d25d1a
 - Location: United States (Remote) USA remote
 - Posted: Nov 09 17:19 ET
@@ -1256,7 +1271,7 @@ To build technology and products that are used and loved by people and solve rea
 
 ---
 
-## 43. [MAYBE] Amazon | Data Scientist I, NEST
+## 44. [MAYBE] Amazon | Data Scientist I, NEST
 - Link: https://www.amazon.jobs/en/jobs/10600616/data-scientist-i-nest
 - Location: Bellevue, Washington, USA
 - Posted: Nov 09 (board gives the date only)
@@ -1270,7 +1285,7 @@ Are you curious about turning complex data into actionable insights that shape h
 
 ---
 
-## 44. [MAYBE] Valeo | AI Engineer
+## 45. [MAYBE] Valeo | AI Engineer
 - Link: https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/AI-Engineer_REQ2026081784
 - Location: Créteil
 - Posted: Nov 08 (board gives the date only)
@@ -1284,7 +1299,7 @@ Valeo is a tech global company, designing breakthrough solutions to reinvent the
 
 ---
 
-## 45. [MAYBE] Relay Financial | Credit Risk Analyst
+## 46. [MAYBE] Relay Financial | Credit Risk Analyst
 - Link: https://jobs.ashbyhq.com/relayfi/25ee1242-658a-4ce0-8634-fdb1d20a5349
 - Location: Toronto, ON Canada remote
 - Posted: Nov 09 11:19 ET
@@ -1398,7 +1413,7 @@ Important Notice: Relay’s recruitment team only contacts candidates and corres
 
 ---
 
-## 46. [MAYBE] JP Morgan Chase | External Regulatory Reporting Analyst
+## 47. [MAYBE] JP Morgan Chase | External Regulatory Reporting Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797617
 - Location: Newark, DE, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -1412,7 +1427,7 @@ Join JPMorganChase's Firmwide Regulatory Reporting & Analysis (FRRA) team, where
 
 ---
 
-## 47. [MAYBE] Church & Dwight | Data Engineer
+## 48. [MAYBE] Church & Dwight | Data Engineer
 - Link: https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/Data-Engineer_R2026-15824
 - Location: USA, Ewing, NJ
 - Posted: Nov 09 (board gives the date only)
@@ -1426,7 +1441,7 @@ A collective energy and ambition. A place where you can make a real difference. 
 
 ---
 
-## 48. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
+## 49. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
 - Link: https://staff-emory.icims.com/jobs/178496/research-scientist--school-of-medicine%2c-pulmonary/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1440,7 +1455,7 @@ Emory Careers | Research Scientist- School of Medicine, Pulmonary in Atlanta, Ge
 
 ---
 
-## 49. [MAYBE] US Foods | Pricing Analyst, 100% Onsite, Raleigh
+## 50. [MAYBE] US Foods | Pricing Analyst, 100% Onsite, Raleigh
 - Link: https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Raleigh-NC/Pricing-Analyst--100--Onsite--Raleigh_R283734-1
 - Location: Raleigh NC
 - Posted: Nov 09 (board gives the date only)
@@ -1454,7 +1469,7 @@ ARE YOU A CURRENT US FOODS EMPLOYEE? PLEASE APPLY DIRECTLY THROUGH OUR INTERNAL 
 
 ---
 
-## 50. [MAYBE] The New School | Research Assistant – Social Media & Audience Growth
+## 51. [MAYBE] The New School | Research Assistant – Social Media & Audience Growth
 - Link: https://newschool.wd1.myworkdayjobs.com/external/job/L---2-West-13th-Street/Research-Assistant---Social-Media---Audience-Growth_JR110113
 - Location: L - 2 West 13th Street
 - Posted: Nov 09 (board gives the date only)
@@ -1468,7 +1483,7 @@ Faculty Laura Lanteri is looking for a strong student or junior researcher to su
 
 ---
 
-## 51. [MAYBE] University of Mississippi Medical Center | Research Associate
+## 52. [MAYBE] University of Mississippi Medical Center | Research Associate
 - Link: https://ummc.wd5.myworkdayjobs.com/UMCCareers/job/Jackson-MS/Research-Associate_R00055131-1
 - Location: Jackson, MS
 - Posted: Nov 09 (board gives the date only)
@@ -1482,7 +1497,7 @@ Hello, Thank you for your interest in career opportunities with the University o
 
 ---
 
-## 52. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
+## 53. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
 - Link: https://jobs.smartrecruiters.com/PAConsulting/744000160735969
 - Location: Chicago us
 - Posted: Nov 09 16:55 ET
@@ -1496,7 +1511,7 @@ PA's Growth Strategy team helps organizations identify opportunities for sustain
 
 ---
 
-## 53. [MAYBE] Georgetown University | HRC Oral History Research Associate, Georgetown Institute for Women, Peace and Security (GIWPS), Walsh School of Foreign Service (SFS)
+## 54. [MAYBE] Georgetown University | HRC Oral History Research Associate, Georgetown Institute for Women, Peace and Security (GIWPS), Walsh School of Foreign Service (SFS)
 - Link: https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/New-York/HRC-Oral-History-Research-Associate--Georgetown-Institute-for-Women--Peace-and-Security--GIWPS---Walsh-School-of-Foreign-Service--SFS-_JR28084
 - Location: New York
 - Posted: Nov 09 (board gives the date only)
