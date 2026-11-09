@@ -16,13 +16,15 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 10 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 08 12:11 ET |
 | 11 | Smarkets | Data Engineer | 55 | none found (check myvisajobs) | Nov 09 03:49 ET |
 | 12 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 13 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
-| 14 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 15 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 16 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 17 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 18 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 19 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 13 | University of Kansas Medical Center | Research Assistant – Neurology | 50 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 14 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
+| 15 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 16 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 17 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 18 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 19 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 20 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 21 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
 
 ---
 
@@ -534,7 +536,21 @@ Thank you for your interest in a career at Regions. At Regions, we believe assoc
 
 ---
 
-## 13. [MAYBE] Verne Robotics | Founding Research Scientist
+## 13. [MAYBE] University of Kansas Medical Center | Research Assistant – Neurology
+- Link: https://kumc.wd5.myworkdayjobs.com/kumc-jobs/job/Kansas-City-Metro-Area/Research-Assistant---Neurology_JR010738
+- Location: Kansas City Metro Area
+- Posted: Nov 08 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: llm, python, r, statistic, cohort, pipeline, publication, research | Lacks: matlab, sas
+
+### Job description
+
+Department: SOM KC Neurology ----- ICU Position Title: Research Assistant – Neurology Job Family Group: Professional Staff Job Description Summary: The Research Assistant in the Department of Neurology will participate in data analysis on multidisciplinary collaborations between the group and other investigators, and contribute to the performance and analysis of studies, and dissemination of results. This area of research is focused on Traumatic brain injury research including observational cohort studies, clinical trials, evidence-based guidelines formulation, and health policy. Job Description: Job Duties Develop and implement data analysis of datasets. Assist with research design and implementation. Process and analyze research results for manuscripts and presentations. Contribute to TBI research and clinical studies, and to the dissemination of study results and findings in peer-reviewed journal publications and conference proceedings. Maintain IRB compliance, including protocol amendments, progress reports, and regulatory submissions. Oversee participant recruitment, screening, and informed consent processes. Coordinate study enrollment and follow-up visits while maintaining compliance with IRB-approved protocols. Organize follow-up visits and scheduling research activities for participants. Ensure proper handling of clinical and imaging data, including data entry, maintenance, and quality assurance. Perform bedside cognitive tests, such as the MoCA and CRS-R. Assist with fMRI preprocessing, including field map corrections, motion correction, and signal processing. Organize and maintain neuroimaging datasets (BIDS format) and support multiband BOLD fMRI analysis. Implement and troubleshoot MATLAB, Python, and Bash scripts for neuroimaging pipelines (e.g., FreeSurfer, FSL, AFNI, CBIG). Collect data through Epic for assistance with retrospective and prospective clinical studies in neuro intensive care, ICH, SAH, and acute ischemic stroke. Prepare figures, tables, and reports for publications, grant submissions, and clinical presentations. This job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. It is only a summary of the typical functions of the job, not an exhaustive list of all possible job responsibilities, tasks, duties, and assignments. Furthermore, job duties, responsibilities and activities may change at any time with or without notice. Required Qualifications Work Experience: Two (2) years of related work experience. Relevant education can be substituted for experience on a year for year basis. Experience with clinical research, data analysis, and manuscript writing. Preferred Qualifications Education: Bachelor’s degree in Psychology, Neuroscience, Computer Science or a related discipline. Work Experience: Experience in research and clinical studies in human subjects. Experience with statistics. Experience with statistical analysis software (SPSS, SAS, R, or similar). Experience in RedCap. Experience coordinating data analysis efforts in an active lab. Skills Communication skills Problems solving Interpersonal skills Computer skills Required Documents Resume/CV Cover Letter Comprehensive Benefits Package: Coverage begins on day one for health, dental, and vision insurance and includes health expense accounts with generous employer contributions if the employee participates in a qualifying health plan. Employer-paid life insurance, long-term disability insurance, and various additional voluntary insurance plans are available. Paid time off, including vacation and sick, begins accruing upon hire, plus ten paid holidays. One paid discretionary day is available after six months of employment, and paid time off for bereavement, jury duty, military service, and parental leave is available after 12 months of employment. A retirement program with a generous employer contribution and additional voluntary retirement programs (457 or 403b) are available. https://www.kumc.edu/human-resources/benefits.html Employee Type: Regular Time Type: Full time Rate Type: Hourly Compensation Statement: The pay range listed for this position is determined by our compensation program using market data and salary benchmarking. A combination of factors is considered in making compensation decisions including, but not limited to, education, experience and training, qualifications relative to the requirements of the position, and funding. At the University of Kansas Medical Center, a reasonable estimate for the starting pay range will be the minimum to midpoint of the posted range, taking into account the combination of factors listed above. Pay Range: $22.88 - $33.17 Minimum $22.88 Midpoint $28.03 Maximum $33.17
+
+---
+
+## 14. [MAYBE] Verne Robotics | Founding Research Scientist
 - Link: https://jobs.ashbyhq.com/Verne/cad20f9e-413b-45c4-b803-f949c225be44
 - Location: San Francisco United States
 - Posted: Nov 08 21:34 ET
@@ -610,7 +626,7 @@ Help build models that learn real jobs and robots that perform them reliably. In
 
 ---
 
-## 14. [MAYBE] NewDay | Associate Business Analytics Analyst
+## 15. [MAYBE] NewDay | Associate Business Analytics Analyst
 - Link: https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Associate-Business-Analytics-Analyst_JR0726
 - Location: Leeds
 - Posted: Nov 08 (board gives the date only)
@@ -624,7 +640,7 @@ This role is a great opportunity to use data and insight to help shape how our C
 
 ---
 
-## 15. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
+## 16. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
 - Link: https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Dusseldorf-GER/Forensic-Consultant---IT-Forensics--eDiscovery--Data-Analytics---AI_JR101237
 - Location: Dusseldorf, GER
 - Posted: Nov 08 (board gives the date only)
@@ -638,7 +654,7 @@ We Do Consulting Differently Open to all genders (m/f/d) About the role We are s
 
 ---
 
-## 16. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
+## 17. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
 - Link: https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Milcov/Medium-IT-Business-Intelligence-Analyst_R-38436
 - Location: Milcov
 - Posted: Nov 08 (board gives the date only)
@@ -652,7 +668,7 @@ Job Title CoE SAP BI Business Analyst Responsibilities and Main Duties SAP BW/4H
 
 ---
 
-## 17. [MAYBE] University of Southern California | Research Associate
+## 18. [MAYBE] University of Southern California | Research Associate
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Research-Associate_REQ20182670
 - Location: Los Angeles, CA - Health Sciences Campus
 - Posted: Nov 08 (board gives the date only)
@@ -666,7 +682,21 @@ The USC Department of Orthopaedic Surgery is seeking a Research Associate to ass
 
 ---
 
-## 18. [MAYBE] Valeo | AI Engineer
+## 19. [MAYBE] JP Morgan Chase | Fraud Analyst
+- Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804910
+- Location: Plano, TX, United States US
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, fraud, research, risk | Lacks: -
+
+### Job description
+
+Do you enjoy speaking with clients while using your detective skills to research complex situations? Join our team to ensure our clients receive the best fraud protection and remediation services in the industry. You will help to manage challenging situations by offering fraud detection, prevention, remediation and recovery solutions, and helping manage customer expectations. Demonstrating delivery of best practices, you will leverage your deep understanding of prevention capabilities and fraud acumen to make informed decisions that protect or clients. If you are a critical thinker and able to exercise and able to solve problems in a fast-paced environment, you may be perfect for our team. As a Fraud Analyst within JPMorgan Chase, you will work closely with internal teams and clients to provide a white glove experience during the remediation process. In this role, you will be securing accounts, handling claims, and completing all necessary steps to make the client whole. This role will provide you the ability to strengthen your current skillset and empower growth. Job responsibilities Identify and mitigate potential fraud risks using analytical skills to ensure robust protection for our clients. Collaborate seamlessly with various departments to enhance fraud detection and prevention strategies. Investigate detailed US & International Private Bank fraud activities, using problem-solving abilities to uncover insights. Manage detailed reviews with tight deadlines, prioritizing tasks and managing time effectively. Detect and address fraud indicators with keen attention to detail, ensuring swift remediation. Communicate clearly and concisely with clients and team members to facilitate understanding and action. Required qualifications, capabilities, and skills Proficient in delivering excellent written and oral communications at an executive level. Demonstrated ability to excel in dynamic, fast-paced environments by swiftly adapting to evolving demands and challenges. Skilled in handling highly confidential client details with professionalism, adhering to firm storage and retention requirements. Demonstrates strong organizational skills, attention to detail, and excellent follow-up habits. Preferred qualifications, capabilities, and skills Experienced in client service, with a focus on delivering exceptional support and solutions proven with at least one year of experience. Highly analytical, with expertise in collecting, analyzing, and synthesizing information at an expert level.   JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
+
+---
+
+## 20. [MAYBE] Valeo | AI Engineer
 - Link: https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/AI-Engineer_REQ2026081784
 - Location: Créteil
 - Posted: Nov 08 (board gives the date only)
@@ -680,7 +710,7 @@ Valeo is a tech global company, designing breakthrough solutions to reinvent the
 
 ---
 
-## 19. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
+## 21. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
 - Link: https://staff-emory.icims.com/jobs/178496/research-scientist--school-of-medicine%2c-pulmonary/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)

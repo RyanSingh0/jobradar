@@ -1,6 +1,265 @@
-# Sweep 2026-11-09 09:19 ET: 197 boards, 0 new matches, 0 kept, 1 board errors, 832s
+# Sweep 2026-11-09 10:07 ET: 4598 boards, 43 new matches, 2 kept, 217 board errors, 147s
 
 Alert inbox: no new relevant alert postings
+- [MAYBE] University of Kansas Medical Center | Research Assistant – Neurology | fit~50 | https://kumc.wd5.myworkdayjobs.com/kumc-jobs/job/Kansas-City-Metro-Area/Research-Assistant---Neurology_JR010738
+- [MAYBE] JP Morgan Chase | Fraud Analyst | fit~45 | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804910
+- [LOW] Nightwing Intelligence Solutions | Business Analyst | fit~62 | https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Business-Analyst_JR102236
+- [LOW] TD Synnex | Accounts Receivable Analyst | fit~60 | https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Clearwater-Florida-United-States/Accounts-Receivable-Analyst_R57981
+- [LOW] Centene | Associate Actuary - Medicare Forecasting | fit~59 | https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-IL/Associate-Actuary---Medicare-Forecasting_1674419
+- [LOW] BlueCross BlueShield of South Carolina | Benefit Files Analyst I | fit~57 | https://ourhrconnect.wd501.myworkdayjobs.com/SCBlues/job/Columbia-South-Carolina/Benefit-Files-Analyst-I_R1053063
+- [LOW] Point32Health | Research Fellow | fit~57 | https://point32health.wd5.myworkdayjobs.com/THP/job/Boston-MA/Research-Fellow_R9571
+- [LOW] JP Morgan Chase | U.S. Private Bank - AWM Program Analyst | fit~50 | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806815
+- [LOW] Northwestern Medicine | Neurodiagnostic Advanced Analyst Imaging EMU Full Time Days | fit~50 | https://jobs.smartrecruiters.com/NorthwesternMedicine/744000160626916
+- [LOW] Daimler Truck | Dealer Credit Analyst | fit~50 | https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Charlotte-NC-US/Dealer-Credit-Analyst_DT-20596-1
+- [LOW] Rocket Companies | Contract Servicer Balancing Analyst I - Hybrid - Highlands Ranch, CO | fit~50 | https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Highlands-Ranch---8822-Ridgeline-Blvd/Contract-Servicer-Balancing-Analyst-I---Hybrid---Highlands-Ranch--CO_R-084349
+- [LOW] RFCUNY | Coordinator of Data and Evaluation | fit~47 | https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Coordinator-of-Data-and-Evaluation_JR5212
+- [LOW] Goldman Sachs | Controllers | Analyst | New York / New Jersey | fit~45 | https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/187873
+- [LOW] Goldman Sachs | Controllers, Analyst - Salt Lake City | fit~45 | https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/187877
+- [LOW] CVS Health | Financial Operations Analyst | fit~45 | https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Financial-Operations-Analyst_R1095823
+- [LOW] Navy Federal | Experience Analyst, Contact Center | fit~40 | https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32915
+- [LOW] Mattel | Development Program Management Associate I - Vehicles | fit~40 | https://jobs.smartrecruiters.com/MattelInc/744000160628016
+- [LOW] TD Synnex | Vendor Accounting Analyst I | fit~40 | https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Clearwater-Florida-United-States/Vendor-Accounting-Analyst-I_R57956
+- [LOW] HCSC | BI Engineer | fit~38 | https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/BI-Engineer_R0055538-2
+- [LOW] Hottinger Brüel & Kjaer (HBK) | Software Developer – API & AI/LLM | fit~31 | https://spectris.wd3.myworkdayjobs.com/HBK_Careers/job/Home-Working-PL/Software-Developer---API---AI-LLM_18577
+- [LOW] Mauser Packaging Solutions | Accounts Receivable Analyst | fit~25 | https://hdpn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6383
+- [LOW] Pogo Technologies Inc. | Insights Consultant | fit~0 | https://jobs.ashbyhq.com/joinpogo/7afce469-93ed-47a9-988b-dcc99746fea7
+- [LOW] Vanguard | Identity and Access Management Technology Analyst, Specialist | fit~0 | https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Identity-and-Access-Management-Technology-Analyst--Specialist_183751
+- [LOW] Google | Research Scientist, Neutral Atoms, Quantum AI | fit~0 | https://www.google.com/about/careers/applications/jobs/results/79694460677432006
+- [SKIP] Kimley-Horn | Title Civil Engineering Analyst | fit~- | https://careers-kimley-horn.icims.com/jobs/27663/civil-engineering-analyst/job | eligibility: "...ly authorized to work for Kimley-Horn in the U.S. without employer sponsorship. We do not typically sponsor ..."
+- [SKIP] Kimley-Horn | Title Information Technology Analyst | fit~- | https://careers-kimley-horn.icims.com/jobs/27633/information-technology-analyst/job | eligibility: "...ly authorized to work for Kimley-Horn in the U.S. without employer sponsorship. We do not typically sponsor ..."
+- [SKIP] LMI | Job Title Business Process Analyst (JPAC) - Clearance Required | fit~- | https://careers-lmi.icims.com/jobs/14854/business-process-analyst-%28jpac%29---clearance-required/job | eligibility: "...Job Title Business Process Analyst (JPAC) - Clearance Required LMI Government Consulting | P..."
+- [SKIP] Peraton | External Job Posting Title Policy Analyst with Top Secret Clearance | fit~- | https://careers-peraton.icims.com/jobs/173236/policy-analyst-with-top-secret-clearance/job | eligibility: "...External Job Posting Title Policy Analyst with Top Secret Clearance Policy Analyst with Top Secre..."
+- [SKIP] Harvard University | Data Scientist | fit~- | https://jobs.smartrecruiters.com/HarvardUniversity/3743990016725996 | eligibility: "...sa Sponsorship Information: Harvard University is unable to provide visa sponsorship for this position Pre-Emp..."
+- [SKIP] Syncreon Consulting |  Infrastructure Solutions Engineering (AI & Automation) - Java, Spring Boot, Python, APIs | fit~- | https://jobs.smartrecruiters.com/SyncreonConsulting/744000160638610 | asks 5+ years
+- [SKIP] Airbus | Quality Technical Analyst | fit~- | https://ag.wd3.myworkdayjobs.com/Airbus/job/Kinston-NC/Quality-Technical-Analyst_JR10419357 | eligibility: "...d benefits package. As a matter of policy, Airbus does not sponsor visas for US positions unless..."
+- [SKIP] BCBST | Workforce Analytics Consultant | fit~- | https://bcbst.wd1.myworkdayjobs.com/External/job/USA-TN-Chattanooga-Remote/Workforce-Analytics-Consultant_R-51702 | eligibility: "...ce Intelligence team, we hope you’ll apply! Note: Sponsorship is not available for this role. Final intervie..."
+- [SKIP] Boeing | Experienced Manufacturing Operations Analyst | fit~- | https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Albuquerque-NM/Experienced-Manufacturing-Operations-Analyst_JR2026527649 | eligibility: "...ce is not a negotiable benefit for this position. Export Control Requirement: This position mu..."
+- [SKIP] CACI | Litigation Support Analyst | fit~- | https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/Litigation-Support-Analyst_330499 | eligibility: "...Service Contract Act Time Type: Full time Minimum Clearance Required to Start: DOJ MBI Employee Ty..."
+- [SKIP] Caterpillar Inc. | Demand & Orders Analyst | fit~- | https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Corinth-Mississippi/Demand---Orders-Analyst_R0000401678 | eligibility: "... it will reflect any updates to your status. Visa sponsorship is NOT available for this position. This emplo..."
+- [SKIP] Dexcom | Commercial Planning Analyst  – Barcelona, Spain | fit~- | https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Barcelona-Spain/Senior-Forecasting-Analyst_JR121054 | asks 5+ years
+- [SKIP] Dexcom | Commercial Planning Analyst - UK | fit~- | https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Edinburgh-Scotland/Senior-Forecasting-Analyst---Healthcare---UK_JR120931-1 | asks 5+ years
+- [SKIP] General Dynamics Information Technology | ML/Ops Engineer SME - TS/SCI w/Poly | fit~- | https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/ML-Ops-Engineer-SME---TS-SCI-w-Poly_RQ232011-1 | eligibility: "...None Experience: 15 + years of related experience US Citizenship Required: Yes Job Description: Ensure ..."
+- [SKIP] KeyBank | Compliance Officer - Risk Evaluation and Assurance | fit~- | https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Compliance-Officer---Risk-Evaluation-and-Assurance_R-43053-1 | asks 5+ years
+- [SKIP] M&T Bank | 2027 Management Development Program - Wealth Management, US Markets (Falls Church, VA) | fit~- | https://mtb.wd5.myworkdayjobs.com/Campus/job/Falls-Church-VA/XMLNAME-2027-Management-Development-Program---Wealth-Management--US-Markets--Falls-Church--VA-_R89071 | eligibility: "... abilities. Work/internship experience. Work Visa Sponsorship not offered for this role M&T Bank is com..."
+- [SKIP] Neuberger Berman | Portfolio Analyst & Trader | fit~- | https://nb.wd1.myworkdayjobs.com/NBCareers/job/Chicago-IL/Portfolio-Analyst---Trader_R0012814 | eligibility: "... to work in the country where the role is located without the need for current or future sponsorship. Compensation Details The sal..."
+- [SKIP] Sysco | Analyst, Executive Compensation - Hybrid | fit~- | https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Corporate/Analyst--Executive-Compensation---Hybrid_R274834 | outside US
+- [SKIP] Google | Finance Analyst, Android Commercial Agreements | fit~- | https://www.google.com/about/careers/applications/jobs/results/126277194933510854 | asks 4+ years
 
 ## Board errors
-- Currier Plastics (workable:currier-plastics:): HTTPError HTTP Error 404: Not Found
+- AI Fund (lever:aifund:): HTTPError HTTP Error 404: Not Found
+- AcreTrader (rippling:acretrader-jobs:): HTTPError HTTP Error 404: Not Found
+- Advocate Health Care (workday:aah.wd5:External): HTTPError HTTP Error 410: Gone
+- Age of Learning (lever:aofl:): HTTPError HTTP Error 404: Not Found
+- Aircall (lever:aircall:): HTTPError HTTP Error 404: Not Found
+- Alma (greenhouse:alma:): HTTPError HTTP Error 404: Not Found
+- Amerisure (workday:osv-amerisure.wd5:Amerisure): HTTPError HTTP Error 422: Unprocessable Entity
+- Amigo AI (ashby:amigo:): HTTPError HTTP Error 404: Not Found
+- Amplify (workday:amplify.wd1:Amplify_Careers): HTTPError HTTP Error 403: Forbidden
+- Antech Diagnostics (workday:vca.wd1:antechcareers): HTTPError HTTP Error 422: Unprocessable Entity
+- Applied Intuition (greenhouse:appliedintuition:): HTTPError HTTP Error 404: Not Found
+- Aprio (lever:aprio:): HTTPError HTTP Error 404: Not Found
+- Arch (ashby:arch.co:): HTTPError HTTP Error 404: Not Found
+- Arine (greenhouse:arine:): HTTPError HTTP Error 404: Not Found
+- Atlas Energy Solutions (greenhouse:atlassand:): HTTPError HTTP Error 404: Not Found
+- Atomic Semi (ashby:atomicsemi:): HTTPError HTTP Error 404: Not Found
+- Autoroboto (lever:autoroboto:): HTTPError HTTP Error 404: Not Found
+- AvicenaTech (rippling:general:): HTTPError HTTP Error 404: Not Found
+- Beacon Software (ashby:beaconsoftware:): HTTPError HTTP Error 404: Not Found
+- Best Egg (lever:bestegg:): HTTPError HTTP Error 404: Not Found
+- Blackstone (workday:blackstone.wd1:Blackstone_Campus_Careers): HTTPError HTTP Error 401: Unauthorized
+- Blackstone (workday:blackstone.wd1:bx_external_site): HTTPError HTTP Error 401: Unauthorized
+- Boar’s Head Brand (workday:boarshead.wd1:BHC): HTTPError HTTP Error 403: Forbidden
+- Breeze Airways (greenhouse:breezeairways:): HTTPError HTTP Error 404: Not Found
+- Busuu (workday:osv-chegg.wd5:Busuu): HTTPError HTTP Error 422: Unprocessable Entity
+- Buyers Edge Platform (greenhouse:buyersedgeplatformrecruiting:): HTTPError HTTP Error 404: Not Found
+- C Spire (workday:cspire-telapex.wd12:external-careers): HTTPError HTTP Error 422: Unprocessable Entity
+- CALSTART (lever:calstart:): HTTPError HTTP Error 404: Not Found
+- CFA Institute (workday:osv-cfainstitute.wd5:Careers): HTTPError HTTP Error 422: Unprocessable Entity
+- CTI (greenhouse:cti:): HTTPError HTTP Error 404: Not Found
+- Cambia Health Solutions (workday:cambiahealth.wd1:External): HTTPError HTTP Error 422: Unprocessable Entity
+- Capital Rx (greenhouse:capitalrx:): HTTPError HTTP Error 404: Not Found
+- Carnegie Mellon University (workday:cmu.wd5:cmu): HTTPError HTTP Error 422: Unprocessable Entity
+- Castleton Commodities International (workday:osv-cci.wd1:CCICareers): HTTPError HTTP Error 422: Unprocessable Entity
+- Cerebras (greenhouse:embed:): HTTPError HTTP Error 404: Not Found
+- CesiumAstro (lever:cesiumastro:): HTTPError HTTP Error 404: Not Found
+- Chainlink Labs (ashby:chainlink-labs:): HTTPError HTTP Error 404: Not Found
+- Chegg (workday:osv-chegg.wd5:Chegg): HTTPError HTTP Error 422: Unprocessable Entity
+- Cherry Technologies (ashby:withcherry:): HTTPError HTTP Error 404: Not Found
+- Citylogix Inc. (rippling:citylogix:): HTTPError HTTP Error 404: Not Found
+- CliftonLarsonAllen (workday:cliftonlarsonallen.wd1:CLA): HTTPError HTTP Error 422: Unprocessable Entity
+- ClimateAI (greenhouse:climateai:): HTTPError HTTP Error 404: Not Found
+- Color (lever:color:): HTTPError HTTP Error 404: Not Found
+- Comcast (workday:comcast.wd5:Comcast_Careers): HTTPError HTTP Error 422: Unprocessable Entity
+- Conde Nast (workday:condenast.wd5:CondeCareers): HTTPError HTTP Error 422: Unprocessable Entity
+- Cystic Fibrosis Foundation (workday:cff.wd1:explore-career-opportunities): HTTPError HTTP Error 422: Unprocessable Entity
+- DESIGNME Hair (greenhouse:designmehair:): HTTPError HTTP Error 404: Not Found
+- DebtBook (greenhouse:debtbook:): HTTPError HTTP Error 404: Not Found
+- Dell Technologies (workday:dell.wd1:External): HTTPError HTTP Error 422: Unprocessable Entity
+- Dusty Robotics (greenhouse:dustyrobotics:): HTTPError HTTP Error 404: Not Found
+- EPRI (workday:vhr-epri.wd1:epricareers): HTTPError HTTP Error 422: Unprocessable Entity
+- Egra (ashby:egra:): HTTPError HTTP Error 404: Not Found
+- Elevation Capital (rippling:elevationcapital:): HTTPError HTTP Error 404: Not Found
+- Energy Vault (lever:energyvault:): HTTPError HTTP Error 404: Not Found
+- Enterprise Bank & Trust (workday:osv-enterprise.wd1:EnterpriseBankTrust_Jobs): HTTPError HTTP Error 422: Unprocessable Entity
+- Environmental Defense Fund (workday:osv-edf.wd5:Confidential): HTTPError HTTP Error 422: Unprocessable Entity
+- EvenUp (ashby:evenup:): HTTPError HTTP Error 404: Not Found
+- Exploration Technology Corp. (rippling:etg:): HTTPError HTTP Error 404: Not Found
+- FanThreeSixty (workday:osv-tifec.wd5:fanthreesixty): HTTPError HTTP Error 422: Unprocessable Entity
+- Farcast (lever:farcast:): HTTPError HTTP Error 404: Not Found
+- Firetiger (ashby:firetiger:): HTTPError HTTP Error 404: Not Found
+- Fireworks AI (greenhouse:fireworksai:): HTTPError HTTP Error 404: Not Found
+- Focus Financial Partners (greenhouse:focusfinancialpartners:): HTTPError HTTP Error 404: Not Found
+- Forerunner (greenhouse:forerunner:): HTTPError HTTP Error 404: Not Found
+- Fractional AI (ashby:fractional-ai:): HTTPError HTTP Error 404: Not Found
+- Fragomen (workday:fragomen.wd1:FragomenCareers): HTTPError HTTP Error 422: Unprocessable Entity
+- Fundamental Research Labs (ashby:fundamentalresearchlabs:): HTTPError HTTP Error 404: Not Found
+- Gap Inc. (workday:gapinc.wd1:gapconfidential): HTTPError HTTP Error 404: Not Found
+- Genesis Therapeutics (ashby:genesis-therapeutics:): HTTPError HTTP Error 404: Not Found
+- Gensler (workday:gensler.wd1:genslercareers): HTTPError HTTP Error 401: Unauthorized
+- Gitar Inc. (rippling:gitar-careers:): HTTPError HTTP Error 404: Not Found
+- GlossGenius (greenhouse:glossgenius:): HTTPError HTTP Error 404: Not Found
+- Grid (lever:grid:): HTTPError HTTP Error 404: Not Found
+- Harness (rippling:harness-careers:): HTTPError HTTP Error 404: Not Found
+- Hiive (ashby:hiive:): HTTPError HTTP Error 404: Not Found
+- Hitachi (workday:gtsgbu.wd3:Careers): HTTPError HTTP Error 403: Forbidden
+- IDEXX (workday:idexx.wd1:IDEXX): HTTPError HTTP Error 422: Unprocessable Entity
+- Inductive Automation (lever:inductiveautomation:): HTTPError HTTP Error 404: Not Found
+- Insmed (workday:insmed.wd5:EXTERNAL): HTTPError HTTP Error 422: Unprocessable Entity
+- Inspiration Commerce Group (ashby:inspiration-commerce-group:): HTTPError HTTP Error 404: Not Found
+- Instabase (greenhouse:instabase:): HTTPError HTTP Error 404: Not Found
+- Interactive Brokers Group (greenhouse:ibkr:): HTTPError HTTP Error 404: Not Found
+- Klarity (ashby:klarity-ai:): HTTPError HTTP Error 404: Not Found
+- Kohl's (workday:kohls.wd1:kohlscareers): HTTPError HTTP Error 422: Unprocessable Entity
+- LVT (greenhouse:liveviewtechnologiesinc:): HTTPError HTTP Error 404: Not Found
+- Latitude.io (ashby:latitude:): HTTPError HTTP Error 404: Not Found
+- Legrand (icims:jobs-legrand.icims.com:): HTTPError HTTP Error 404: Not Found
+- Legrand (workday:milestone.wd1:Milestone_External): HTTPError HTTP Error 422: Unprocessable Entity
+- Levels Technologies (ashby:levels:): HTTPError HTTP Error 404: Not Found
+- Lilly USA (workday:lilly.wd5:CMP): HTTPError HTTP Error 422: Unprocessable Entity
+- Lilly USA (workday:lilly.wd5:LLY): HTTPError HTTP Error 422: Unprocessable Entity
+- Lindy (ashby:lindy:): HTTPError HTTP Error 404: Not Found
+- Lithia Motors (workday:lithia.wd5:LithiaCareers): HTTPError HTTP Error 422: Unprocessable Entity
+- LiveRamp (workday:liveramp.wd5:LiveRampCareers): HTTPError HTTP Error 403: Forbidden
+- Loop (greenhouse:loop:): HTTPError HTTP Error 404: Not Found
+- Lynk (ashby:Lynk:): HTTPError HTTP Error 404: Not Found
+- MARA (greenhouse:mara:): HTTPError HTTP Error 404: Not Found
+- Mach Industries (ashby:mach:): HTTPError HTTP Error 404: Not Found
+- Machina Labs (lever:machinalabs:): HTTPError HTTP Error 404: Not Found
+- Magnite (workday:osv-rubicon.wd5:MagniteCareers): HTTPError HTTP Error 422: Unprocessable Entity
+- MaintainX (greenhouse:maintainx:): HTTPError HTTP Error 404: Not Found
+- Marqeta (greenhouse:mqreferrals:): HTTPError HTTP Error 404: Not Found
+- MatX (greenhouse:matx:): HTTPError HTTP Error 404: Not Found
+- Maximor AI (ashby:maximor:): HTTPError HTTP Error 404: Not Found
+- Memphis Meats (greenhouse:memphismeats:): HTTPError HTTP Error 404: Not Found
+- Mentis AI (ashby:mentis:): HTTPError HTTP Error 404: Not Found
+- Mercedes-Benz (lever:mbrdna:): HTTPError HTTP Error 404: Not Found
+- MintMCP (ashby:mintmcp:): HTTPError HTTP Error 404: Not Found
+- Mistral AI (ashby:mtesting.ai:): HTTPError HTTP Error 404: Not Found
+- Montrose Environmental Group (workday:montrose.wd1:meg): HTTPError HTTP Error 422: Unprocessable Entity
+- Morris Health Technologies Inc. (ashby:morrishealthtech:): HTTPError HTTP Error 404: Not Found
+- NXP Semiconductors (workday:nxp.wd3:careers): HTTPError HTTP Error 422: Unprocessable Entity
+- National Renewable Energy Laboratory (workday:nrel.wd5:nrel): HTTPError HTTP Error 404: Not Found
+- Ncino (workday:ncino.wd5:nCinoCareers): HTTPError HTTP Error 403: Forbidden
+- Netflix (workday:netflix.wd1:Netflix): HTTPError HTTP Error 422: Unprocessable Entity
+- New Jersey State Office of Innovation (lever:njstateofficeofinnovation:): HTTPError HTTP Error 404: Not Found
+- Nio (workday:nio.wd3:NIO_Careers): HTTPError HTTP Error 422: Unprocessable Entity
+- Nomagic (lever:nomagic:): HTTPError HTTP Error 404: Not Found
+- Northrop Grumman (workday:ngc.wd1:Northrop_Grumman_External_Site): HTTPError HTTP Error 429: Too Many Requests
+- Northrop Grumman (workday:ngc.wd1:northrop_grumman_restricted_site): HTTPError HTTP Error 403: Forbidden
+- OCLC (workday:oclc.wd1:OCLC_Careers): HTTPError HTTP Error 429: Too Many Requests
+- OakNorth Bank (lever:oaknorth.ai:): HTTPError HTTP Error 404: Not Found
+- Ochsner Health (workday:ochsner.wd1:ochsner): HTTPError HTTP Error 429: Too Many Requests
+- Odin Dynamics Inc (ashby:odin-dynamics:): HTTPError HTTP Error 404: Not Found
+- Omnicom Media Group (greenhouse:omguk:): HTTPError HTTP Error 404: Not Found
+- OneDigital (workday:onedigital.wd5:onedigital): HTTPError HTTP Error 422: Unprocessable Entity
+- OneSource Virtual (workday:vhr-osvhr.wd1:OSV_External_Career_Site): HTTPError HTTP Error 429: Too Many Requests
+- Orion (workday:orionadvisor.wd1:Orion_Careers): HTTPError HTTP Error 429: Too Many Requests
+- Orion Steel Group (workday:evrazna.wd5:EVRAZ): HTTPError HTTP Error 422: Unprocessable Entity
+- Osaic (workday:advisorgroup.wd1:advisor_career_site): HTTPError HTTP Error 429: Too Many Requests
+- Otis Worldwide (workday:otis.wd5:rec_ext_gateway): HTTPError HTTP Error 422: Unprocessable Entity
+- Otsuka Pharmaceutical (workday:vhr-otsuka.wd1:External): HTTPError HTTP Error 422: Unprocessable Entity
+- PBS (workday:vhr-pbs.wd5:PBSCareers): HTTPError HTTP Error 422: Unprocessable Entity
+- PIMCO (workday:pimco.wd1:pimco-careers): HTTPError HTTP Error 429: Too Many Requests
+- POET (workday:poet.wd1:POET): HTTPError HTTP Error 429: Too Many Requests
+- PPLSI (workday:legalshieldcorp.wd1:lsc): HTTPError HTTP Error 429: Too Many Requests
+- PPM America (workday:jackson.wd1:ppma_careers): HTTPError HTTP Error 429: Too Many Requests
+- PRA Group (workday:pra.wd1:PRA_Careers): HTTPError HTTP Error 429: Too Many Requests
+- Pitney Bowes (workday:pitneybowes.wd1:pbcareers): HTTPError HTTP Error 429: Too Many Requests
+- Plastipak (workday:plastipak.wd1:Plastipak): HTTPError HTTP Error 429: Too Many Requests
+- Plexus (workday:plexus.wd5:Plexus_Careers): HTTPError HTTP Error 422: Unprocessable Entity
+- Postman (greenhouse:postman:): HTTPError HTTP Error 404: Not Found
+- Prairie View A&M University (workday:tamus.wd1:pvamu_external): HTTPError HTTP Error 429: Too Many Requests
+- Praos Smart Security (rippling:praos-smart-security:): HTTPError HTTP Error 404: Not Found
+- Premier (workday:premierinc.wd1:external_professional): HTTPError HTTP Error 429: Too Many Requests
+- Priceline (workday:priceline.wd1:Priceline): HTTPError HTTP Error 429: Too Many Requests
+- Printpack (workday:printpack.wd1:printpackcareers): HTTPError HTTP Error 429: Too Many Requests
+- ProPharma Group (workday:propharmagroup.wd1:ppgcareers): HTTPError HTTP Error 429: Too Many Requests
+- Protiviti (workday:roberthalf.wd1:ProtivitiNA): HTTPError HTTP Error 429: Too Many Requests
+- Protiviti (workday:roberthalf.wd1:protivitiexperiencedcareers): HTTPError HTTP Error 429: Too Many Requests
+- Pryzm (ashby:pryzm:): HTTPError HTTP Error 404: Not Found
+- Public Partnerships (PPL) (workday:publicpartnerships.wd1:ppl): HTTPError HTTP Error 429: Too Many Requests
+- Qualified Health (greenhouse:qualifiedhealth:): HTTPError HTTP Error 404: Not Found
+- Quantum Workplace (lever:quantumworkplace:): HTTPError HTTP Error 404: Not Found
+- R1 RCM (workday:r1rcm.wd1:R1RCM): HTTPError HTTP Error 429: Too Many Requests
+- RGA Reinsurance Company (workday:rgare.wd1:Careers): HTTPError HTTP Error 429: Too Many Requests
+- RLI (workday:rlicorp.wd1:RLI_Corp_Careers): HTTPError HTTP Error 429: Too Many Requests
+- RSM (workday:rsm.wd1:RSMCareers): HTTPError HTTP Error 429: Too Many Requests
+- Rakuten International (workday:rakuten.wd1:RakutenAmericas): HTTPError HTTP Error 429: Too Many Requests
+- Raymond James Financial (workday:raymondjames.wd1:RaymondJamesCareers): HTTPError HTTP Error 429: Too Many Requests
+- Raymond James Financial (workday:raymondjames.wd1:RaymondJamesEarlyCareers): HTTPError HTTP Error 429: Too Many Requests
+- ReCor Medical (workday:vhr-otsuka.wd1:RecorExternal): HTTPError HTTP Error 429: Too Many Requests
+- Reach Financial (greenhouse:reach:): HTTPError HTTP Error 404: Not Found
+- Realtor.com (greenhouse:rdccareers:): HTTPError HTTP Error 404: Not Found
+- Red Bull Advanced Technologies (workday:redbulltechnology.wd3:RB_Racing): HTTPError HTTP Error 422: Unprocessable Entity
+- Redfin (workday:redfin.wd1:redfin_careers): HTTPError HTTP Error 429: Too Many Requests
+- Regal (lever:regalvoice:): HTTPError HTTP Error 404: Not Found
+- Regal Rexnord (workday:regalrexnord.wd1:careers): HTTPError HTTP Error 429: Too Many Requests
+- Resolve Tech Solutions (workday:resolvetech.wd1:rts): HTTPError HTTP Error 429: Too Many Requests
+- Revantage Corporate Services (workday:revantage.wd1:Revantage): HTTPError HTTP Error 429: Too Many Requests
+- Revolution (icims:careers-revolutioncompany.icims.com:): HTTPError HTTP Error 404: Not Found
+- Ribbon (workday:vhr-genband.wd1:ribboncareers): HTTPError HTTP Error 429: Too Many Requests
+- Robert Half (workday:roberthalf.wd1:roberthalfcareers): HTTPError HTTP Error 429: Too Many Requests
+- Rogers Behavioral Health (workday:rogersbh.wd1:rbhcareer): HTTPError HTTP Error 429: Too Many Requests
+- Rogue Fitness (workday:roguefitness.wd1:RogueFitness_External_Careers): HTTPError HTTP Error 429: Too Many Requests
+- SSM Health (workday:ssmh.wd5:ssmhealth): HTTPError HTTP Error 422: Unprocessable Entity
+- Sallie Mae (workday:sallie-mae.wd5:Careers): HTTPError HTTP Error 422: Unprocessable Entity
+- Saronic (lever:saronic:): HTTPError HTTP Error 404: Not Found
+- Savage X Fenty (workday:justfab.wd1:savagex): HTTPError HTTP Error 422: Unprocessable Entity
+- Scout AI (greenhouse:scoutai:): HTTPError HTTP Error 404: Not Found
+- Seamless.AI (greenhouse:seamlessai:): HTTPError HTTP Error 404: Not Found
+- Sennos (rippling:sennos:): HTTPError HTTP Error 404: Not Found
+- Sharp Electronics (icims:careers-sharpusa.icims.com:): HTTPError HTTP Error 404: Not Found
+- Shyft Solutions (greenhouse:shyftsolutionsllc:): HTTPError HTTP Error 404: Not Found
+- Sierra Space (workday:sierraspace.wd1:Sierra_Space_External_Career_Site): HTTPError HTTP Error 429: Too Many Requests
+- Simbe Robotics (lever:simberobotics:): HTTPError HTTP Error 404: Not Found
+- Simons Foundation (workday:simonsfoundation.wd1:simonsfoundationcareers): HTTPError HTTP Error 429: Too Many Requests
+- Smithfield Foods (workday:smithfieldfoods.wd1:Careers): HTTPError HTTP Error 429: Too Many Requests
+- Snap (workday:snapchat.wd1:snap): HTTPError HTTP Error 429: Too Many Requests
+- Solenis (workday:solenis.wd1:Solenis): HTTPError HTTP Error 429: Too Many Requests
+- Sporting Kansas City (workday:osv-tifec.wd5:SportingKC): HTTPError HTTP Error 422: Unprocessable Entity
+- Takeda (workday:takeda.wd3:external): HTTPError HTTP Error 422: Unprocessable Entity
+- TalentWerx (lever:talentwerx.io:): HTTPError HTTP Error 404: Not Found
+- Tempo (ashby:Tempo:): HTTPError HTTP Error 404: Not Found
+- The Bergaila Companies (icims:careers-bergaila.icims.com:): HTTPError HTTP Error 403: Forbidden
+- Threatlocker (greenhouse:threatlocker:): HTTPError HTTP Error 404: Not Found
+- Ticketmaster (workday:livenation.wd503:en): HTTPError HTTP Error 404: Not Found
+- Tilde Research (ashby:tilderesearch:): HTTPError HTTP Error 404: Not Found
+- Tracer Cloud (ashby:tracer:): HTTPError HTTP Error 404: Not Found
+- Transcarent (greenhouse:transcarent:): HTTPError HTTP Error 404: Not Found
+- Trend Health Partners (lever:trend-health-partners:): HTTPError HTTP Error 404: Not Found
+- Tuesday Lab (ashby:tuesday-lab:): HTTPError HTTP Error 404: Not Found
+- Two Dots (ashby:two-dots:): HTTPError HTTP Error 404: Not Found
+- USIC (workday:usicinc.wd5:USICCareers): HTTPError HTTP Error 422: Unprocessable Entity
+- Underdog Fantasy (greenhouse:underdogfantasy:): HTTPError HTTP Error 404: Not Found
+- United Therapeutics Corporation (workday:vhr-unither.wd5:External): HTTPError HTTP Error 422: Unprocessable Entity
+- Uplifter (greenhouse:uplifter:): HTTPError HTTP Error 404: Not Found
+- Veeda AI (ashby:veeda-labs:): HTTPError HTTP Error 404: Not Found
+- Visier Solutions (greenhouse:visiersolutionsinc:): HTTPError HTTP Error 404: Not Found
+- Walmart (workday:walmart.wd5:WalmartExternal): HTTPError HTTP Error 422: Unprocessable Entity
+- Welocalize (lever:welocalize:): HTTPError HTTP Error 404: Not Found
+- WhatNot (ashby:whatnot:): HTTPError HTTP Error 404: Not Found
+- Withum (greenhouse:campusopportunities:): HTTPError HTTP Error 404: Not Found
+- Withum (greenhouse:withumsmithbrown:): HTTPError HTTP Error 404: Not Found
+- Xpansiv (lever:xpansiv%20:): HTTPError HTTP Error 404: Not Found
+- eternal.ag (rippling:eternal:): HTTPError HTTP Error 404: Not Found
+- iHerb (greenhouse:iherb:): HTTPError HTTP Error 404: Not Found
