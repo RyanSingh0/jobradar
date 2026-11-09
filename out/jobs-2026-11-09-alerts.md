@@ -5,3 +5,4 @@ Found in your LinkedIn/HiringCafe/Glassdoor/Indeed/Jobright alert emails but not
 | Source | Company | Title | Location | Link |
 |---|---|---|---|---|
 | linkedin | Meta | Research Scientist – Central Applied Science | New York, NY | https://www.linkedin.com/jobs/view/4486673597/ |
+| linkedin | Wayve | Machine Learning Scientist/Engineer | Sunnyvale, CA | https://www.linkedin.com/jobs/view/4488838236/ |

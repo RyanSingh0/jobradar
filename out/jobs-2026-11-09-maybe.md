@@ -4,36 +4,56 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | Anglian Water | Consumption Data Analyst | 78 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 2 | Northwestern Medicine | HB Coding Strategic Data Analyst (Remote - Must reside in IL, IN, IA, MO, or WI) | 74 | none found (check myvisajobs) | Nov 09 08:09 ET |
-| 3 | MUFG | Product Analyst, Enterprise Data Catalog | 71 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 4 | Advantage Solutions | Posting Job Title Category Insights Analyst | 68 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 5 | Faculty AI | Data Scientist | 67 | none found (check myvisajobs) | Nov 08 21:22 ET |
-| 6 | Shirley Ryan AbilityLab | Data and Digital Growth Analyst | 67 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 7 | Faculty AI | Machine Learning Engineer | 66 | none found (check myvisajobs) | Nov 09 01:14 ET |
-| 8 | BerryDunn | Title Healthcare Data Engineer | 65 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 9 | Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term | 62 | 5 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 10 | GTS | Job Title Quantitative Researcher, Algorithmic Trading | 60 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 11 | Anglian Water | Demand Reporting Data Scientist | 60 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 12 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 08 12:11 ET |
-| 13 | Smarkets | Data Engineer | 55 | none found (check myvisajobs) | Nov 09 03:49 ET |
-| 14 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 15 | University of Kansas Medical Center | Research Assistant – Neurology | 50 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 16 | JP Morgan Chase | Portfolio and Performance Analyst - Associate | 50 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 17 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
-| 18 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 19 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 20 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 21 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 22 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 23 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 24 | Relay Financial | Credit Risk Analyst | 44 | none found (check myvisajobs) | Nov 09 11:19 ET |
-| 25 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 26 | US Foods | Pricing Analyst, 100% Onsite, Raleigh | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 1 | GSK | AI/ML Engineer | 80 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 2 | Anglian Water | Consumption Data Analyst | 78 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 3 | Northwestern Medicine | HB Coding Strategic Data Analyst (Remote - Must reside in IL, IN, IA, MO, or WI) | 74 | none found (check myvisajobs) | Nov 09 08:09 ET |
+| 4 | MUFG | Product Analyst, Enterprise Data Catalog | 71 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 5 | The New School | Research Assistant – Quantitative Analysis & Data Research | 71 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 6 | Advantage Solutions | Posting Job Title Category Insights Analyst | 68 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 7 | Faculty AI | Data Scientist | 67 | none found (check myvisajobs) | Nov 08 21:22 ET |
+| 8 | Shirley Ryan AbilityLab | Data and Digital Growth Analyst | 67 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 9 | Faculty AI | Machine Learning Engineer | 66 | none found (check myvisajobs) | Nov 09 01:14 ET |
+| 10 | BerryDunn | Title Healthcare Data Engineer | 65 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 11 | Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term | 62 | 5 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 12 | GTS | Job Title Quantitative Researcher, Algorithmic Trading | 60 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 13 | Anglian Water | Demand Reporting Data Scientist | 60 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 14 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 08 12:11 ET |
+| 15 | Smarkets | Data Engineer | 55 | none found (check myvisajobs) | Nov 09 03:49 ET |
+| 16 | Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 17 | Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 18 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 19 | University of Kansas Medical Center | Research Assistant – Neurology | 50 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 20 | JP Morgan Chase | Portfolio and Performance Analyst - Associate | 50 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 21 | Lunar Outpost | Full Stack AI Engineer | 50 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 22 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
+| 23 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 24 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 25 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 26 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 27 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 28 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 29 | Relay Financial | Credit Risk Analyst | 44 | none found (check myvisajobs) | Nov 09 11:19 ET |
+| 30 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 31 | US Foods | Pricing Analyst, 100% Onsite, Raleigh | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 32 | The New School | Research Assistant – Social Media & Audience Growth | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] Anglian Water | Consumption Data Analyst
+## 1. [MAYBE] GSK | AI/ML Engineer
+- Link: https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---California---San-Francisco/AI-ML-Engineer_450418
+- Location: 2 Locations
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~80 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, llm, machine learning, python, pytorch, sql, tensorflow, classification, deep learning, git, healthcare, model validation, quantitative | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+At GSK we see a world in which advanced applications of Artificial Intelligence will allow us to develop novel therapies to existing diseases and to quickly respond to emerging or changing diseases with personalized drugs, driving better outcomes at reduced cost with fewer side effects. It is an ambitious vision that will require the development of products and solutions at the cutting edge of AI and Machine LEarning. We're looking for an accomplished Machine Learning Engineer to help make this vision a reality. In this role, you will imagine and engineer agentic systems and machine learning models to elucidate the molecular mechanisms of disease and accelerate the development of new therapies. You will work with frontier models, foundational genomics models, and multiomics datasets from patients and lab experiments to model aspects of molecular biology and medicinal chemistry that will inform our understanding of disease, drug design and response, and longevity. Familiarity and experience with genomics and RNA biology is a plus, but not required. This position is open to machine learning engineers with a track record of excellence in other domains who have a desire to learn. Strong candidates will have a track record of shipping high performing AI/ML products, academic excellence, and a passion for solving challenging problems in Artificial Intelligence and Machine Learning. Education in the biological sciences is a plus but is not necessary; passion to help therapies for new and existing diseases, and a pattern of continuous learning and development is mandatory. The AI/ML team is built on the principles of ownership, accountability, continuous development, and collaboration. We hire for the long term, and we're motivated to make this a great place to work. Our leaders will be committed to your career and development from day one. Why you? Basic Qualifications: We are looking for professionals with these required skills to achieve our goals: Degree in a quantitative or engineering discipline (computer science, bioengineering, physics, mathematics, electrical engineering, etc) or equivalent work experience Experience with LLM agents, evals, and agentic workflow design Experience in at least one major deep learning framework (Pytorch, Tensorflow) Programming expertise in Python Experience using Git, SQL, and shell scripting within an artificial intelligence and machine learning engineering stack. Experience applying machine learning best practices. Preferred Qualifications: If you have the following characteristics, it would be a plus: Internship experience as researcher in AIML focused academic lab or AIML engineer or SWE in industry Experience working with biomedical datasets (e.g., genomics, transcriptomics, proteomics, electronic health records, clinical images) Track record of contributing to open-source projects Mentality of commit early and often, metrics before models, and shipping high quality production code #LI-GSK Skills Artificial Intelligence (AI), Artificial Intelligence Ethics, Classification Models, Deep Learning, Intelligent Automation (IA), Machine Learning (ML), Model Evaluation, Model Validation, Predictive Modeling, Probabilistic Modeling, Python (Programming Language), Test Documentation • If you are based in Cambridge, MA; Waltham, MA; Rockville, MD; or San Francisco, CA, the annual base salary for new hires in this position ranges $136,125 to $226,875. The US salary ranges take into account a number of factors including work location within the US market, the candidate’s skills, experience, education level and the market rate for the role. In addition, this position offers an annual bonus and eligibility to participate in our share based long term incentive program which is dependent on the level of the role. Available benefits include health care and other insurance benefits (for employee and family), retirement benefits, paid holidays, vacation, and paid caregiver/parental and medical leave. If salary ranges are not displayed in the job posting for a specific country, the relevant compensation will be discussed during the recruitment process. Please visit GSK US Benefits Summary to learn more about the comprehensive benefits program GSK offers US employees. Why GSK? Uniting science, technology and talent to get ahead of disease together. GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale. People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people. If you require an accommodation or other assistance to apply for a job at GSK, please contact the appropriate Recruitment Staff by emailing us at - usrecruitment.adjustments@gsk.com GSK
+
+---
+
+## 2. [MAYBE] Anglian Water | Consumption Data Analyst
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Consumption-Data-Analyst_R40807-2
 - Location: Huntingdon
 - Posted: Nov 08 (board gives the date only)
@@ -47,7 +67,7 @@ Circa £34,231 (depending on Skills & Experience) Permanent Full Time / 37 Hours
 
 ---
 
-## 2. [MAYBE] Northwestern Medicine | HB Coding Strategic Data Analyst (Remote - Must reside in IL, IN, IA, MO, or WI)
+## 3. [MAYBE] Northwestern Medicine | HB Coding Strategic Data Analyst (Remote - Must reside in IL, IN, IA, MO, or WI)
 - Link: https://jobs.smartrecruiters.com/NorthwesternMedicine/744000160610759
 - Location: Chicago IL us remote
 - Posted: Nov 09 08:09 ET
@@ -61,7 +81,7 @@ The HB Coding Strategic Data Analyst role exists to transform complex coding int
 
 ---
 
-## 3. [MAYBE] MUFG | Product Analyst, Enterprise Data Catalog
+## 4. [MAYBE] MUFG | Product Analyst, Enterprise Data Catalog
 - Link: https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Product-Analyst--Enterprise-Data-Catalog_10079328-WD-1
 - Location: Jersey City, NJ
 - Posted: Nov 09 (board gives the date only)
@@ -75,7 +95,21 @@ Do you want your voice heard and your actions to count? Discover your opportunit
 
 ---
 
-## 4. [MAYBE] Advantage Solutions | Posting Job Title Category Insights Analyst
+## 5. [MAYBE] The New School | Research Assistant – Quantitative Analysis & Data Research
+- Link: https://newschool.wd1.myworkdayjobs.com/external/job/L---2-West-13th-Street/Research-Assistant---Quantitative-Analysis---Data-Research_JR110111
+- Location: L - 2 West 13th Street
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~71 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: data visualization, econometric, excel, python, r, statistic, git, quantitative, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Faculty Laura Lanteri is looking for a strong student or junior researcher to support the development of a nonfiction book currently in progress. The book examines patterns in contemporary behavior, culture, markets, and institutions, with a particular interest in how behaviors become concentrated, standardized, and reinforced at scale. The research assistant will primarily support the quantitative and data-driven dimensions of the project. Duties & Responsibilities: Conduct quantitative research across academic, government, industry, and other credible data sources Identify datasets, statistics, longitudinal studies, surveys, and market research relevant to specific questions or hypotheses Analyze and synthesize data to identify patterns, correlations, shifts, and outliers Build simple quantitative models and comparative analyses where useful Research historical and contemporary trends across consumer behavior, economics, technology, media, culture, and related fields Fact-check numerical claims and trace statistics back to their original sources Create clear tables, charts, and data summaries that can inform the book's arguments Maintain an organized research database with sources, citations, methodology, and supporting documentation Help distinguish between interesting correlations and findings that can actually support a rigorous argument Occasionally conduct targeted literature reviews around specific questions Qualifications – Education, Experience, and Skills This is ideal for a student in economics, statistics, data science, social science, public policy, business, sociology, psychology, or a related field who is interested in applying quantitative research to broader questions about contemporary culture and behavior. Required: Strong quantitative and analytical skills Comfort working with large amounts of data and research Experience with Excel or Google Sheets Familiarity with statistical analysis tools such as R, Python, Stata, SPSS, or similar is a plus Strong research skills and an ability to identify reliable primary sources An understanding of basic research methodology and statistical interpretation Excellent attention to detail, particularly around numbers, citations, and sourcing Intellectual curiosity and an ability to investigate questions that do not always have obvious answers An ability to work independently and communicate findings clearly Experience with data visualization, academic research, econometrics, behavioral research, or large public datasets is particularly useful. WORK MODE Hybrid/Remote - Employees hired for this position primarily work remotely with the occasional on-campus presence required with advanced notice. Employees in this role will also be expected to use their best judgment to be on campus when necessary in order to best fulfill the responsibilities of their job descriptions. #LI-DNI Hourly Rate: $31.37/hour
+
+---
+
+## 6. [MAYBE] Advantage Solutions | Posting Job Title Category Insights Analyst
 - Link: https://uscareers2-asm.icims.com/jobs/442816/category-insights-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -89,7 +123,7 @@ Category Insights Analyst in Chicago, Illinois | Careers at 60601 - Chicago Plea
 
 ---
 
-## 5. [MAYBE] Faculty AI | Data Scientist
+## 7. [MAYBE] Faculty AI | Data Scientist
 - Link: https://jobs.ashbyhq.com/faculty/8e468539-a6d1-4de9-a293-018c4c3ebd9b
 - Location: Sydney Australia Melbourne remote
 - Posted: Nov 08 21:22 ET
@@ -188,7 +222,7 @@ A note on AI: we're happy for you to use it for research and interview prep, but
 
 ---
 
-## 6. [MAYBE] Shirley Ryan AbilityLab | Data and Digital Growth Analyst
+## 8. [MAYBE] Shirley Ryan AbilityLab | Data and Digital Growth Analyst
 - Link: https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Data-and-Digital-Growth-Analyst_JR-1065780-1
 - Location: Chicago, IL
 - Posted: Nov 08 (board gives the date only)
@@ -202,7 +236,7 @@ Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilita
 
 ---
 
-## 7. [MAYBE] Faculty AI | Machine Learning Engineer
+## 9. [MAYBE] Faculty AI | Machine Learning Engineer
 - Link: https://jobs.ashbyhq.com/faculty/d1f0541e-a99b-4077-8522-397e88d1b98c
 - Location: Sydney Australia Melbourne remote
 - Posted: Nov 09 01:14 ET
@@ -301,7 +335,7 @@ A note on AI: we're happy for you to use it for research and interview prep, but
 
 ---
 
-## 8. [MAYBE] BerryDunn | Title Healthcare Data Engineer
+## 10. [MAYBE] BerryDunn | Title Healthcare Data Engineer
 - Link: https://careers-berrydunn.icims.com/jobs/4078/healthcare-data-engineer/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -315,7 +349,7 @@ Healthcare Data Engineer in Portland, Maine | Careers at Portland, ME Please Ena
 
 ---
 
-## 9. [MAYBE] Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term
+## 11. [MAYBE] Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term
 - Link: https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Athens/Financial-Planning---Analysis-Analyst--FP-A-Analyst----Fixed-Term_R29455
 - Location: Athens
 - Posted: Nov 08 (board gives the date only)
@@ -329,7 +363,7 @@ Are you ready to shape the future of capital markets? We are looking for a Finan
 
 ---
 
-## 10. [MAYBE] GTS | Job Title Quantitative Researcher, Algorithmic Trading
+## 12. [MAYBE] GTS | Job Title Quantitative Researcher, Algorithmic Trading
 - Link: https://careers-gtsx.icims.com/jobs/1628/quantitative-researcher%2c-algorithmic-trading/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -343,7 +377,7 @@ Careers | GTS | Quantitative Researcher, Algorithmic Trading in New York, New Yo
 
 ---
 
-## 11. [MAYBE] Anglian Water | Demand Reporting Data Scientist
+## 13. [MAYBE] Anglian Water | Demand Reporting Data Scientist
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Demand-Reporting-Data-Scientist_R40770
 - Location: 2 Locations
 - Posted: Nov 08 (board gives the date only)
@@ -357,7 +391,7 @@ Circa £43,344 (depending on Skills & Experience) Permanent Full Time / 37 Hours
 
 ---
 
-## 12. [MAYBE] Clera | Founding Applied AI Engineer
+## 14. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/ac506f1a-80de-45db-8015-6d70ff90a130
 - Location: San Francisco United States
 - Posted: Nov 08 12:11 ET
@@ -413,7 +447,7 @@ On-site in San Francisco, California. Candidates must be based in or willing to 
 
 ---
 
-## 13. [MAYBE] Smarkets | Data Engineer
+## 15. [MAYBE] Smarkets | Data Engineer
 - Link: https://jobs.ashbyhq.com/smarkets/3038bed9-d75e-45b9-9283-9db6b4ab93f8
 - Location: London United Kingdom remote
 - Posted: Nov 09 03:49 ET
@@ -555,7 +589,35 @@ These include:
 
 ---
 
-## 14. [MAYBE] Regions Bank | Business Unit Operational Risk Analyst
+## 16. [MAYBE] Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory
+- Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/Bryan-TX/Assistant-Research-Scientist--Joint-Microscopy-Laboratory_R-098650-1
+- Location: Bryan, TX
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, llm, publication, quantitative, research | Lacks: -
+
+### Job description
+
+Job Title Assistant Research Scientist, Joint Microscopy Laboratory Agency Texas A&M University Health Science Center Department Cell Biology and Genetics Proposed Minimum Salary Commensurate Job Location Bryan, Texas Job Type Staff Job Description Our Commitment Texas A&M University is committed to enriching the learning and working environment by promoting a culture that respects all perspectives, talents & lived experiences. Embracing varying opinions and perspectives strengthens our core values which are: Respect, Excellence, Leadership, Loyalty, Integrity, and Selfless Service. Who we are As one of the fastest-growing academic health centers in the nation, Texas A&M Health encompasses five colleges and numerous centers and institutes working together to improve health through transformative education, innovative research and team-based health care delivery. What we want The Assistant Research Scientist supports research conducted through the Joint Microscopy Laboratory (JML) by applying expertise in advanced microscopy techniques, data acquisition, and image analysis. Responsibilities include supporting research projects utilizing MINFLUX and Luminosa microscopy systems, assisting with experimental design and sample preparation, and providing scientific guidance to facility users. What you need to know This position will begin early 2027 and the position will close on December 1, 2026. Responsibilities: MINFLUX Research Collects super-resolution imaging and dynamics data using a MINFLUX 3D microscope to address scientific questions of Joint Microscopy Laboratory (JML) facility users Evaluates and assists in the development of experimental strategies and imaging approaches to support research objectives and scientific investigations. Provides expertise in sample preparation and advanced microscopy methodologies to support successful project outcomes. Utilizes facility software and analytical tools to acquire, analyze, evaluate, interpret, and summarize imaging data and research results. Collaborates with faculty, researchers, students, and other facility users on microscopy-based research projects and contributes scientific expertise related to advanced imaging technologies. Mentoring and Training Provides guidance, training, and scientific consultation to faculty, staff, students, and facility users regarding microscopy techniques, experimental design, sample preparation, data acquisition, and data interpretation. Assists users in developing proficiency with advanced microscopy instrumentation and analytical approaches to support their research programs Luminosa Data Acquisition Provides occasional support for data acquisition on a Luminosa confocal microscope within the Joint Microscopy Laboratory (JML). This effort serves as backup support for the Facility Manager, who has primary responsibility for the instrument. Assists facility users with imaging studies conducted on the Luminosa microscope and supports data acquisition and interpretation as needed. Presentations and Scholarly Contributions Contributes to research reports, presentations, manuscripts, publications, and other scholarly products resulting from collaborative research activities. Assists with the preparation of scientific and technical content for research proposals and sponsored research activities involving advanced microscopy applications. Other duties as assigned. Qualifications: Required Education and Experience PhD in relevant field Single molecule and pointillistic super-resolution imaging experience Preferred Qualifications Expertise with MINFLUX Microscopy A strong background and training in quantitative biology Experience and/or interest particle tracking and image analysis PhD emphasis ranging from physics to cell biology. A strong skillset/background in biochemical and biophysical methods and approaches Comfortable working with a range of programming, computational, and analysis tools Knowledge, Skills, and Abilities Ability to multi-task and work cooperatively with others on a range of scientific projects Ability to communicate effectively and efficiently Why Texas A&M University? We are a prestigious university with strong traditions, Core Values, and a community of caring and collaboration. Amenities associated with a major university, such as sporting and cultural events, state-of-the-art recreation facilities, the Bush Library and Museum, and much more await you. Experience all that a big city has to offer but with a reasonable cost-of-living and no long commutes. Medical, prescription drug, dental, vision, life and AD&D, flexible spending accounts , and long-term disability insurance with Texas A&M contributing to employee health and basic life premiums 12-15 days of annual paid holidays Up to eight hours of paid sick leave and at least eight hours of paid vacation each month Automatic enrollment in the Teacher Retirement System of Texas Health and Wellness: Free exercise programs and release time Professional Development: All employees have access to free LinkedIn Learning training, webinars, and limited financial support to attend conferences, workshops, and more Educational release time and tuition assistance for completing a degree while a Texas A&M employee Living Well, a program at Texas A&M that has been built by employees, for employees Instructions to Applicants : Applications received by Texas A&M University must either have all job application data entered, or a resume attached. Failure to provide all job application data or a complete resume could result in an invalid submission and a rejected application. We encourage all applicants to upload a resume or use a LinkedIn profile to pre-populate the online application. All positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check. Equal Opportunity/Veterans/Disability Employer.
+
+---
+
+## 17. [MAYBE] Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory
+- Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Bryan-TX/Assistant-Research-Scientist--Joint-Microscopy-Laboratory_R-098650
+- Location: Bryan, TX
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, llm, publication, quantitative, research | Lacks: -
+
+### Job description
+
+Job Title Assistant Research Scientist, Joint Microscopy Laboratory Agency Texas A&M University Health Science Center Department Cell Biology and Genetics Proposed Minimum Salary Commensurate Job Location Bryan, Texas Job Type Staff Job Description Our Commitment Texas A&M University is committed to enriching the learning and working environment by promoting a culture that respects all perspectives, talents & lived experiences. Embracing varying opinions and perspectives strengthens our core values which are: Respect, Excellence, Leadership, Loyalty, Integrity, and Selfless Service. Who we are As one of the fastest-growing academic health centers in the nation, Texas A&M Health encompasses five colleges and numerous centers and institutes working together to improve health through transformative education, innovative research and team-based health care delivery. What we want The Assistant Research Scientist supports research conducted through the Joint Microscopy Laboratory (JML) by applying expertise in advanced microscopy techniques, data acquisition, and image analysis. Responsibilities include supporting research projects utilizing MINFLUX and Luminosa microscopy systems, assisting with experimental design and sample preparation, and providing scientific guidance to facility users. What you need to know This position will begin early 2027 and the position will close on December 1, 2026. Responsibilities: MINFLUX Research Collects super-resolution imaging and dynamics data using a MINFLUX 3D microscope to address scientific questions of Joint Microscopy Laboratory (JML) facility users Evaluates and assists in the development of experimental strategies and imaging approaches to support research objectives and scientific investigations. Provides expertise in sample preparation and advanced microscopy methodologies to support successful project outcomes. Utilizes facility software and analytical tools to acquire, analyze, evaluate, interpret, and summarize imaging data and research results. Collaborates with faculty, researchers, students, and other facility users on microscopy-based research projects and contributes scientific expertise related to advanced imaging technologies. Mentoring and Training Provides guidance, training, and scientific consultation to faculty, staff, students, and facility users regarding microscopy techniques, experimental design, sample preparation, data acquisition, and data interpretation. Assists users in developing proficiency with advanced microscopy instrumentation and analytical approaches to support their research programs Luminosa Data Acquisition Provides occasional support for data acquisition on a Luminosa confocal microscope within the Joint Microscopy Laboratory (JML). This effort serves as backup support for the Facility Manager, who has primary responsibility for the instrument. Assists facility users with imaging studies conducted on the Luminosa microscope and supports data acquisition and interpretation as needed. Presentations and Scholarly Contributions Contributes to research reports, presentations, manuscripts, publications, and other scholarly products resulting from collaborative research activities. Assists with the preparation of scientific and technical content for research proposals and sponsored research activities involving advanced microscopy applications. Other duties as assigned. Qualifications: Required Education and Experience PhD in relevant field Single molecule and pointillistic super-resolution imaging experience Preferred Qualifications Expertise with MINFLUX Microscopy A strong background and training in quantitative biology Experience and/or interest particle tracking and image analysis PhD emphasis ranging from physics to cell biology. A strong skillset/background in biochemical and biophysical methods and approaches Comfortable working with a range of programming, computational, and analysis tools Knowledge, Skills, and Abilities Ability to multi-task and work cooperatively with others on a range of scientific projects Ability to communicate effectively and efficiently Why Texas A&M University? We are a prestigious university with strong traditions, Core Values, and a community of caring and collaboration. Amenities associated with a major university, such as sporting and cultural events, state-of-the-art recreation facilities, the Bush Library and Museum, and much more await you. Experience all that a big city has to offer but with a reasonable cost-of-living and no long commutes. Medical, prescription drug, dental, vision, life and AD&D, flexible spending accounts , and long-term disability insurance with Texas A&M contributing to employee health and basic life premiums 12-15 days of annual paid holidays Up to eight hours of paid sick leave and at least eight hours of paid vacation each month Automatic enrollment in the Teacher Retirement System of Texas Health and Wellness: Free exercise programs and release time Professional Development: All employees have access to free LinkedIn Learning training, webinars, and limited financial support to attend conferences, workshops, and more Educational release time and tuition assistance for completing a degree while a Texas A&M employee Living Well, a program at Texas A&M that has been built by employees, for employees Instructions to Applicants : Applications received by Texas A&M University must either have all job application data entered, or a resume attached. Failure to provide all job application data or a complete resume could result in an invalid submission and a rejected application. We encourage all applicants to upload a resume or use a LinkedIn profile to pre-populate the online application. All positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check. Equal Opportunity/Veterans/Disability Employer.
+
+---
+
+## 18. [MAYBE] Regions Bank | Business Unit Operational Risk Analyst
 - Link: https://regions.wd5.myworkdayjobs.com/regions_careers/job/Charlotte-NC---Charlotte-Uptown-Branch/Business-Unit-Operational-Risk-Analyst_R107241
 - Location: 2 Locations
 - Posted: Nov 08 (board gives the date only)
@@ -569,7 +631,7 @@ Thank you for your interest in a career at Regions. At Regions, we believe assoc
 
 ---
 
-## 15. [MAYBE] University of Kansas Medical Center | Research Assistant – Neurology
+## 19. [MAYBE] University of Kansas Medical Center | Research Assistant – Neurology
 - Link: https://kumc.wd5.myworkdayjobs.com/kumc-jobs/job/Kansas-City-Metro-Area/Research-Assistant---Neurology_JR010738
 - Location: Kansas City Metro Area
 - Posted: Nov 08 (board gives the date only)
@@ -583,7 +645,7 @@ Department: SOM KC Neurology ----- ICU Position Title: Research Assistant – Ne
 
 ---
 
-## 16. [MAYBE] JP Morgan Chase | Portfolio and Performance Analyst - Associate
+## 20. [MAYBE] JP Morgan Chase | Portfolio and Performance Analyst - Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807255
 - Location: Brooklyn, NY, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -597,7 +659,21 @@ Join J.P. Morgan Asset & Wealth Management’s (JPMWM) Portfolio Analysis Group 
 
 ---
 
-## 17. [MAYBE] Verne Robotics | Founding Research Scientist
+## 21. [MAYBE] Lunar Outpost | Full Stack AI Engineer
+- Link: https://lunaroutpost.bamboohr.com/careers/408
+- Location: Golden Colorado
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~50 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, machine learning, python, docker, kubernetes, pipeline, publication, research, risk | Lacks: azure, java  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Are you passionate about shaping the future of humanity's presence in spac e ? Lunar Outpost, a trailblazer in space robotics, invites you to join our team ! As a Full Stack AI Engineer, you will design, develop, and deploy AI-enabled applications for Lunar Outpost’s rovers, command-and-control platforms, terrestrial robotic systems, and orbital assets. Working at the intersection of AI, software engineering, robotics, and space operations, you wil build intelligent tools that help operators understand complex systems, plan missions, command autonomous assets, analyze telemetry, and make decisions. You will develop across the full application stack, from AI models and agentic systems to APIs, backend services, web interfaces, cloud infrastructure, and integrations with operational systems. Your work may include AI agents, tool use, retrieval-augmented generation, multimodal models, natural-language interfaces, mission planning, anomaly investigation, and intelligent decision-support systems. You will collaborate closely with robotics, autonomy, software, simulation, and Mission Operations teams to transform emerging AI capabilities into reliable operational tools. Take the #NextLeap with Lunar Outpost and work on the Pegasus LTV, which will carry NASA astronauts farther than they've ever been before on the lunar surface! Working Conditions / Schedule: This position is required to be onsite Monday, Tuesday, Thursday, and Friday from 9:00 a.m. to 5:00 p.m. Where applicable, employees may work remotely on Wednesdays from 9:00 a.m. to 5:00 p.m. Additional hours may be required based on business needs. Key Responsibilities: Design, develop, deploy, and maintain full-stack AI applications supporting robotic systems, command and control, and Mission Operations Develop agentic AI systems capable of reasoning, tool use, information retrieval, workflow execution, and interaction with external software and services Build AI tools for natural-language command and control, mission planning, telemetry analysis, anomaly investigation, mission summarization, and operator decision support Develop backend services, APIs, data pipelines, and application interfaces that connect AI systems with operational data and robotic platforms Build intuitive web-based interfaces that enable operators to interact with AI agents, robotic systems, telemetry, and mission data Integrate large language models, vision-language models, multimodal models, and other AI capabilities into production applications Develop tools and interfaces that allow AI agents to safely interact with command-and-control systems, databases, simulation environments, autonomy frameworks, and other operational services Design and implement retrieval, context management, memory, tool registries, structured outputs, and agent orchestration for complex AI workflows Evaluate AI systems for accuracy, reliability, latency, robustness, and operational usefulness, including developing automated and scenario-based evaluation frameworks Participate in design reviews, trade studies, technical risk assessments, test-readiness reviews, and demonstrations Required Qualifications: Bachelor’s degree in Computer Science , Software Engineering, Machine Learning, Artificial Intelligence, Robotics , or related technical field 1 to 3 years of relevant professional, academic, or research experience developing software, AI applications, autonomous systems, or intelligent robotic applications Strong software engineering experience using Python and experience with one or more modern web development languages or frameworks such as TypeScript, JavaScript, HTML/CSS, React, or similar technologies Experience developing applications using large language models, multimodal models, or other modern AI models through APIs, hosted services, or locally deployed models Experience developing agentic AI applications involving capabilities such as tool calling, structured outputs, retrieval, workflow orchestration, planning, or multi-step reasoning Experience building backend services, data pipelines, and integrations with external systems Experience deploying applications using cloud platforms and modern deployment technologies such as containers, CI/CD pipelines, and infrastructure-as-code Experience designing AI tools and interfaces that allow models or agents to interact with software systems, data sources, or external services Ability to communicate complex technical concepts, system behavior, limitations, and risks to multidisciplinary teams Comfortable working in an agile and interdisciplinary environment where requirements and technical approaches may evolve rapidly U.S. Person Preferred Qualifications: Experience developing AI applications for Mission Operations, spacecraft operations, robotics operation s, command-and-control systems, or other operationally complex environments Direct experience supporting Mission Operations, robotic operations, flight operations, or autonomous vehicle operations Experience with agent frameworks, agent orchestration, or tool-use architectures Experience with cloud platforms such as AWS or Azure and technologies such as Docker, Kubernetes, serverless computing, databases, messaging systems, and observability platforms Experience working with telemetry, time-series data, geospatial data, mission data, or other complex operational datasets Experience integrating AI applications with robot perception , planning, simulation, autonomy, or command-and-control systems A record of technical innovation demonstrated through deployed systems, open-source contributions, publications, patents, or significant project achievements Compensation & Benefits: Compensation level and base salary are competitively structured and thoughtfully determined based on factors such as relevant skills, experience, education, and the scope of the role. Comprehensive health coverage: Medical, dental, and vision benefits, with 70% of premiums covered by the employer Paid time off: Three (3) weeks per year of vacation Retirement plan: Up to 4% employer match on 401(k) contributions Paid holidays: 11 company-recognized holidays Parental leave Educational reimbursement opportunities to support company objectives, continued learning, and career development Lunar Outpost Inc.
+
+---
+
+## 22. [MAYBE] Verne Robotics | Founding Research Scientist
 - Link: https://jobs.ashbyhq.com/Verne/cad20f9e-413b-45c4-b803-f949c225be44
 - Location: San Francisco United States
 - Posted: Nov 08 21:34 ET
@@ -673,7 +749,7 @@ Help build models that learn real jobs and robots that perform them reliably. In
 
 ---
 
-## 18. [MAYBE] NewDay | Associate Business Analytics Analyst
+## 23. [MAYBE] NewDay | Associate Business Analytics Analyst
 - Link: https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Associate-Business-Analytics-Analyst_JR0726
 - Location: Leeds
 - Posted: Nov 08 (board gives the date only)
@@ -687,7 +763,7 @@ This role is a great opportunity to use data and insight to help shape how our C
 
 ---
 
-## 19. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
+## 24. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
 - Link: https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Dusseldorf-GER/Forensic-Consultant---IT-Forensics--eDiscovery--Data-Analytics---AI_JR101237
 - Location: Dusseldorf, GER
 - Posted: Nov 08 (board gives the date only)
@@ -701,7 +777,7 @@ We Do Consulting Differently Open to all genders (m/f/d) About the role We are s
 
 ---
 
-## 20. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
+## 25. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
 - Link: https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Milcov/Medium-IT-Business-Intelligence-Analyst_R-38436
 - Location: Milcov
 - Posted: Nov 08 (board gives the date only)
@@ -715,7 +791,7 @@ Job Title CoE SAP BI Business Analyst Responsibilities and Main Duties SAP BW/4H
 
 ---
 
-## 21. [MAYBE] University of Southern California | Research Associate
+## 26. [MAYBE] University of Southern California | Research Associate
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Research-Associate_REQ20182670
 - Location: Los Angeles, CA - Health Sciences Campus
 - Posted: Nov 08 (board gives the date only)
@@ -729,7 +805,7 @@ The USC Department of Orthopaedic Surgery is seeking a Research Associate to ass
 
 ---
 
-## 22. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 27. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804910
 - Location: Plano, TX, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -743,7 +819,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 23. [MAYBE] Valeo | AI Engineer
+## 28. [MAYBE] Valeo | AI Engineer
 - Link: https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/AI-Engineer_REQ2026081784
 - Location: Créteil
 - Posted: Nov 08 (board gives the date only)
@@ -757,7 +833,7 @@ Valeo is a tech global company, designing breakthrough solutions to reinvent the
 
 ---
 
-## 24. [MAYBE] Relay Financial | Credit Risk Analyst
+## 29. [MAYBE] Relay Financial | Credit Risk Analyst
 - Link: https://jobs.ashbyhq.com/relayfi/25ee1242-658a-4ce0-8634-fdb1d20a5349
 - Location: Toronto, ON Canada remote
 - Posted: Nov 09 11:19 ET
@@ -871,7 +947,7 @@ Important Notice: Relay’s recruitment team only contacts candidates and corres
 
 ---
 
-## 25. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
+## 30. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
 - Link: https://staff-emory.icims.com/jobs/178496/research-scientist--school-of-medicine%2c-pulmonary/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -885,7 +961,7 @@ Emory Careers | Research Scientist- School of Medicine, Pulmonary in Atlanta, Ge
 
 ---
 
-## 26. [MAYBE] US Foods | Pricing Analyst, 100% Onsite, Raleigh
+## 31. [MAYBE] US Foods | Pricing Analyst, 100% Onsite, Raleigh
 - Link: https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Raleigh-NC/Pricing-Analyst--100--Onsite--Raleigh_R283734-1
 - Location: Raleigh NC
 - Posted: Nov 09 (board gives the date only)
@@ -896,4 +972,18 @@ Emory Careers | Research Scientist- School of Medicine, Pulmonary in Atlanta, Ge
 ### Job description
 
 ARE YOU A CURRENT US FOODS EMPLOYEE? PLEASE APPLY DIRECTLY THROUGH OUR INTERNAL WORKDAY CAREER SITE Join Our Community of Food People! BASIC PURPOSE Execute pricing strategy at the distribution center (DC) level to support company margin goals and local "Go to Market" strategy. Identify margin improvement opportunities by managing area-wide Daily Sales Below Cost (DSBC) process. ESSENTIAL DUTIES AND RESPONSIBILITIES: Review and manage price deviations and exceptions for Territory Managers (TMs) aligned to designated DC. This includes evaluating requests for commission-based adjustments (CBAs), self-funded deviations, and price approvals. Answer pricing queries escalated from Sales and other USF employees as required for the designated DC. Analyze and develop pricing recommendations to support bids for local customers (e.g., excluding schools) and conduct special pricing reviews for new customer acquisition for the designated DC, in partnership with Strategic Pricing Manager. Manage area DSBC reporting process to improve area margins. Identify costing errors and work with relevant stakeholders to resolve. Execute weekly promotional pricing in designated DC. Monitor and identify opportunities by analyzing and reporting on margin and market pricing. Work closely with District Sales Managers (DSMs) on auditing ongoing local self-funded deviations. Utilize Merlin to identify product and category opportunities for pricing strategies. Complete ad-hoc pricing analysis as required by the Strategic Pricing Manager, Area President or Region Pricing Manager. Manage and upload exceptions for vendor price list from local/regional suppliers. Maintain customer pricing rationale (CPR) back-up for area. SUPERVISION None RELATIONSHIPS Internal: Pricing Manager; Region Pricing Manager; Area President; AVP of Merchandising and Marketing and area sales team (VP Sales, Sales Manager, DSMs, CSC, and TMs) External: Customers, vendors QUALIFICATIONS Education/Training: Bachelor’s Degree, or minimum 3 years of pricing experience required. Related Experience: Pricing experience within foodservice or food manufacturing companies highly desired. Strong quantitative and analytical skills required. Knowledge/Skills/Abilities: • Proven experience working with and supporting sales teams; strong business acumen and interpersonal skills a must. • Proficiency required in Microsoft Office, especially Microsoft Word, Excel, and Microsoft Outlook. • Able to access information within established pricing databases and/or analyze data made available from analysts. Knowledge of the PRIME pricing system highly desired. This role may also receive incentive compensation. Benefits for this role may include health insurance, pre-tax spending accounts, retirement benefits, paid time off, short-term and long-term disability, employee stock purchase plan, and life insurance. To review available benefits, please click here: https://www.usfoods.com/careers/benefits.html #LI-PL1 Compensation depends on relevant experience and/or education, specific skills, function, geographic location, and other factors as applicable by law (for example: state or local minimum wage thresholds). The expected base rate for this role is between $60,000 - $100,000 ***EOE – Race/Color/Religion/Sex/Sexual Orientation/Gender Identity/National Origin/ Age/Genetic Information /Protected Veteran/Disability Status***
+
+---
+
+## 32. [MAYBE] The New School | Research Assistant – Social Media & Audience Growth
+- Link: https://newschool.wd1.myworkdayjobs.com/external/job/L---2-West-13th-Street/Research-Assistant---Social-Media---Audience-Growth_JR110113
+- Location: L - 2 West 13th Street
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, publication, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Faculty Laura Lanteri is looking for a strong student or junior researcher to support the development and audience-building strategy for an independent documentary focused on beauty, culture, identity, and the global beauty industry. The role will focus specifically on understanding how the project can build meaningful social media traction ahead of fundraising, production, and release. Duties and Responsibilities Research current conversations, trends, creators, communities, and cultural moments related to beauty, identity, aesthetics, body image, fashion, and contemporary culture Identify topics and angles with strong potential for organic social engagement Research relevant TikTok, Instagram, YouTube, Reddit, and other online communities Identify creators, journalists, experts, commentators, and potential collaborators who could help expand the documentary’s reach Track emerging conversations and cultural shifts that could provide entry points for the film Analyze successful documentary, media, beauty, and culture accounts to understand what drives engagement and audience growth Research formats, hooks, narratives, and content structures that perform particularly well on social platforms Help identify potential audience segments and the communities where they already gather online Build and maintain lists of creators, accounts, publications, podcasts, communities, and potential amplification partners Develop recommendations for content themes, posting opportunities, collaborations, and audience-building experiments Track performance of social content and help identify what is generating the strongest response Qualifications – Education, Experience, and Skills This is ideal for a student in marketing, communications, media studies, fashion, film, journalism, cultural studies, or a related field who understands how culture moves online and is genuinely interested in social media as a research and audience-building tool. A strong understanding of TikTok, Instagram, YouTube, and emerging social platforms Excellent online research skills A good instinct for what makes people watch, share, comment, and participate Strong awareness of contemporary beauty, fashion, media, and internet culture An ability to identify trends early rather than simply report on trends that are already established Strong organizational skills and attention to detail An ability to translate research into clear, actionable recommendations Curiosity about how communities form and how ideas gain cultural traction online Experience creating social content, managing an account, researching creators, working with analytics, or growing an online community is a plus. WORK MODE Hybrid/Remote - Employees hired for this position primarily work remotely with the occasional on-campus presence required with advanced notice. Employees in this role will also be expected to use their best judgment to be on campus when necessary in order to best fulfill the responsibilities of their job descriptions. #LI-DNI Hourly Rate: $31.37/hour
 
