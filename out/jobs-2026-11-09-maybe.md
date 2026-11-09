@@ -17,14 +17,15 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 11 | Smarkets | Data Engineer | 55 | none found (check myvisajobs) | Nov 09 03:49 ET |
 | 12 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
 | 13 | University of Kansas Medical Center | Research Assistant – Neurology | 50 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 14 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
-| 15 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 16 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 17 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 18 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 19 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 20 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 21 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 14 | JP Morgan Chase | Portfolio and Performance Analyst - Associate | 50 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 15 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
+| 16 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 17 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 18 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 19 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 20 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 21 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 22 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
 
 ---
 
@@ -550,7 +551,21 @@ Department: SOM KC Neurology ----- ICU Position Title: Research Assistant – Ne
 
 ---
 
-## 14. [MAYBE] Verne Robotics | Founding Research Scientist
+## 14. [MAYBE] JP Morgan Chase | Portfolio and Performance Analyst - Associate
+- Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807255
+- Location: Brooklyn, NY, United States US
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: statistic, credit, data quality, portfolio, quantitative, reporting, research, risk | Lacks: cfa
+
+### Job description
+
+Join J.P. Morgan Asset & Wealth Management’s (JPMWM) Portfolio Analysis Group (PAG) and help shape how clients and colleagues understand investment performance. You’ll deliver independent analysis and thought leadership across portfolio measurement, attribution, risk, and competitive insights. Partnering with advisors, business teams, and technology colleagues, you’ll improve reporting, strengthen processes, and help develop innovative solutions for Wealth Management. As a Portfolio and Performance Analyst Associate, you will support portfolio analytics and performance measurement for J.P. Morgan Advisors (JPMA) and Chase Wealth Management (CWM). You’ll own and enhance account and composite workflows, validate performance processes, and deliver accurate, timely analysis—including returns, attribution, risk, and strategy-versus-benchmark insights. You’ll respond to advisor and client inquiries, collaborate with business and technology partners, and contribute to strategic projects that improve reporting, data quality, and the group’s service offering. Job Responsibilities: Own responsibilities for JPMWM Account and Composite Workflow, creating best practices, optimizing processes, examining current constructions with rigor, etc. Liaise with key business partners to ensure appropriate account/strategy performance and technology development; Collaborate with Tech & India PAG team in the production of accurate and timely performance measurement figures for the JPMWM line of business Create opportunities for new high value-added outputs in the portfolio analytics, risk statistics and strategy vs benchmark analytics arenas Respond in a timely fashion to inquiries from front-office financial advisors regarding performance reports, customized calculations and portfolio analytics; Serve as a subject matter expert (Business-As-Usual) Validate and own the end-to-end composite performance process; support ad hoc inquiries for new composite creation Acclimate and participate in PAG’s new group-wide strategic performance technology projects; contribute to outline business requirements, running User-Acceptance-Test and Production Role out of new offerings Assist in writing of business requirements, testing and preparing documentation for the various strategic projects that PAG undertakes Contribute on short-term, medium-term and longer-term strategic projects that focus on improving the PAG’s service offering and data quality. Included, but not limited to, design, development, and testing of the Connect Wealth platform offering Required qualifications, capabilities, and skills: 2+ years of relevant experience in performance measurement including project and performance experience Bachelor’s degree in Finance, Economics, Mathematics or Computer Science (or similar discipline) from an accredited, high-quality institution Solid analytical ability to research and analyze complex data sets Strong quantitative skills, comfortable with formulas, performance measurement methodology and risk measures Interact and communicate effectively – written and verbal – throughout all organizational levels and roles Preferred qualifications, capabilities, and skills: Knowledge of Global Investment Performance Standards (GIPS) and composite practices Certificate in Investment Performance Measurement / Chartered Financial Analyst (CIPM/CFA) or progress toward designation Some working knowledge of securities operations, trade processing, mainframe accounting systems and performance system architecture Understanding of the various businesses/products within the wealth management space Self-starter who is analytical and creative in their thinking; ability to quickly analyze information and creatively reach solutions and execute their implementation with a passion for the investments business and financial markets Ability to communicate complex financial and mathematical concepts effectively to senior management, technology partners, risk & controls, and other stakeholders Confidently interact effectively with front-office personnel while working toward tight deadlines in a high-pressure environment   JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
+
+---
+
+## 15. [MAYBE] Verne Robotics | Founding Research Scientist
 - Link: https://jobs.ashbyhq.com/Verne/cad20f9e-413b-45c4-b803-f949c225be44
 - Location: San Francisco United States
 - Posted: Nov 08 21:34 ET
@@ -626,7 +641,7 @@ Help build models that learn real jobs and robots that perform them reliably. In
 
 ---
 
-## 15. [MAYBE] NewDay | Associate Business Analytics Analyst
+## 16. [MAYBE] NewDay | Associate Business Analytics Analyst
 - Link: https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Associate-Business-Analytics-Analyst_JR0726
 - Location: Leeds
 - Posted: Nov 08 (board gives the date only)
@@ -640,7 +655,7 @@ This role is a great opportunity to use data and insight to help shape how our C
 
 ---
 
-## 16. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
+## 17. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
 - Link: https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Dusseldorf-GER/Forensic-Consultant---IT-Forensics--eDiscovery--Data-Analytics---AI_JR101237
 - Location: Dusseldorf, GER
 - Posted: Nov 08 (board gives the date only)
@@ -654,7 +669,7 @@ We Do Consulting Differently Open to all genders (m/f/d) About the role We are s
 
 ---
 
-## 17. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
+## 18. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
 - Link: https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Milcov/Medium-IT-Business-Intelligence-Analyst_R-38436
 - Location: Milcov
 - Posted: Nov 08 (board gives the date only)
@@ -668,7 +683,7 @@ Job Title CoE SAP BI Business Analyst Responsibilities and Main Duties SAP BW/4H
 
 ---
 
-## 18. [MAYBE] University of Southern California | Research Associate
+## 19. [MAYBE] University of Southern California | Research Associate
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Research-Associate_REQ20182670
 - Location: Los Angeles, CA - Health Sciences Campus
 - Posted: Nov 08 (board gives the date only)
@@ -682,7 +697,7 @@ The USC Department of Orthopaedic Surgery is seeking a Research Associate to ass
 
 ---
 
-## 19. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 20. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804910
 - Location: Plano, TX, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -696,7 +711,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 20. [MAYBE] Valeo | AI Engineer
+## 21. [MAYBE] Valeo | AI Engineer
 - Link: https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/AI-Engineer_REQ2026081784
 - Location: Créteil
 - Posted: Nov 08 (board gives the date only)
@@ -710,7 +725,7 @@ Valeo is a tech global company, designing breakthrough solutions to reinvent the
 
 ---
 
-## 21. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
+## 22. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
 - Link: https://staff-emory.icims.com/jobs/178496/research-scientist--school-of-medicine%2c-pulmonary/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
