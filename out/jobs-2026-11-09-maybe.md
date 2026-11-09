@@ -6,26 +6,30 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 |---|---|---|---|---|---|
 | 1 | Anglian Water | Consumption Data Analyst | 78 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
 | 2 | Northwestern Medicine | HB Coding Strategic Data Analyst (Remote - Must reside in IL, IN, IA, MO, or WI) | 74 | none found (check myvisajobs) | Nov 09 08:09 ET |
-| 3 | Faculty AI | Data Scientist | 67 | none found (check myvisajobs) | Nov 08 21:22 ET |
-| 4 | Shirley Ryan AbilityLab | Data and Digital Growth Analyst | 67 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 5 | Faculty AI | Machine Learning Engineer | 66 | none found (check myvisajobs) | Nov 09 01:14 ET |
-| 6 | BerryDunn | Title Healthcare Data Engineer | 65 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 7 | Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term | 62 | 5 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 8 | GTS | Job Title Quantitative Researcher, Algorithmic Trading | 60 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 9 | Anglian Water | Demand Reporting Data Scientist | 60 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 10 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 08 12:11 ET |
-| 11 | Smarkets | Data Engineer | 55 | none found (check myvisajobs) | Nov 09 03:49 ET |
-| 12 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 13 | University of Kansas Medical Center | Research Assistant – Neurology | 50 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 14 | JP Morgan Chase | Portfolio and Performance Analyst - Associate | 50 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 15 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
-| 16 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 17 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 18 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 19 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 20 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 21 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 22 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 3 | MUFG | Product Analyst, Enterprise Data Catalog | 71 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 4 | Advantage Solutions | Posting Job Title Category Insights Analyst | 68 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 5 | Faculty AI | Data Scientist | 67 | none found (check myvisajobs) | Nov 08 21:22 ET |
+| 6 | Shirley Ryan AbilityLab | Data and Digital Growth Analyst | 67 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 7 | Faculty AI | Machine Learning Engineer | 66 | none found (check myvisajobs) | Nov 09 01:14 ET |
+| 8 | BerryDunn | Title Healthcare Data Engineer | 65 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 9 | Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term | 62 | 5 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 10 | GTS | Job Title Quantitative Researcher, Algorithmic Trading | 60 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 11 | Anglian Water | Demand Reporting Data Scientist | 60 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 12 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 08 12:11 ET |
+| 13 | Smarkets | Data Engineer | 55 | none found (check myvisajobs) | Nov 09 03:49 ET |
+| 14 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 15 | University of Kansas Medical Center | Research Assistant – Neurology | 50 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 16 | JP Morgan Chase | Portfolio and Performance Analyst - Associate | 50 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 17 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
+| 18 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 19 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 20 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 21 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 22 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 23 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 24 | Relay Financial | Credit Risk Analyst | 44 | none found (check myvisajobs) | Nov 09 11:19 ET |
+| 25 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 26 | US Foods | Pricing Analyst, 100% Onsite, Raleigh | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
 
 ---
 
@@ -57,7 +61,35 @@ The HB Coding Strategic Data Analyst role exists to transform complex coding int
 
 ---
 
-## 3. [MAYBE] Faculty AI | Data Scientist
+## 3. [MAYBE] MUFG | Product Analyst, Enterprise Data Catalog
+- Link: https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Product-Analyst--Enterprise-Data-Catalog_10079328-WD-1
+- Location: Jersey City, NJ
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~71 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, excel, power bi, sql, tableau, data quality, futures, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Do you want your voice heard and your actions to count? Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world. With a vision to be the world’s most trusted financial group, it’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. This means investing in talent, technologies, and tools that empower you to own your career. Join MUFG, where being inspired is expected and making a meaningful impact is rewarded. The selected colleague will work at an MUFG office or client sites four days per week and work remotely one day. A member of our recruitment team will provide more details. We are seeking a Product Analyst, Enterprise Data Catalog to support the evolution and adoption of our Enterprise Data Catalog platform. This role will help manage and continuously improve the business-facing experience of the catalog, enabling users to discover, understand, and trust data across the organization. As a member of the Data Governance Tools team, you will serve as the product manager for assigned areas of the catalog, partnering with business stakeholders to enhance user experience, support data governance processes, and improve self-service capabilities. You will help design and maintain workflows, support platform enhancements, analyze usage and adoption trends, and contribute to the overall modernization of the organization's data management capabilities. This is an excellent opportunity for an early-career professional interested in product management, data governance, business analysis, workflow automation, and enterprise data platforms. Key Responsibilities Product Ownership & Platform Management Serve as the primary product analyst for designated domains, capabilities, or processes within the Enterprise Data Catalog. Partner with business stakeholders to understand requirements and identify opportunities to improve catalog functionality and user experience. Help define and prioritize product enhancements, workflow improvements, and platform capabilities. Support release planning, testing, implementation, and adoption activities. Workflow & Process Automation Design, configure, test, and maintain catalog workflows that support business processes and governance requirements. Partner with business and technology teams to streamline manual activities through workflow automation. Document business requirements, process flows, user stories, and acceptance criteria. Monitor workflow performance and identify opportunities for optimization. Data Catalog & Governance Support Maintain business metadata, data ownership information, data definitions, and related catalog content. Assist with onboarding new data assets, business terms, reports, dashboards, and governance artifacts into the catalog. Support implementation of governance processes related to data ownership, governance approvals, lineage, data quality, reporting inventories, and data products. Ensure catalog content remains current, accurate, and aligned with governance standards. Analytics & Continuous Improvement Analyze platform adoption, utilization trends, workflow metrics, and user feedback. Develop reports and dashboards that measure platform effectiveness and business value. Identify opportunities to enhance user engagement and self-service capabilities. Support training, communication, and user enablement activities. Stakeholder Engagement Collaborate with Data Stewards, Data Domain Owners, Business Analysts, Technology teams, and governance stakeholders. Facilitate requirements gathering sessions and support product demonstrations. Act as a trusted partner helping users navigate and leverage catalog capabilities effectively. Qualifications Required Bachelor's degree in a data or business related field of study. Strong analytical and problem-solving skills. Excellent written and verbal communication skills. Ability to work across business and technology teams. Strong organizational skills and attention to detail. Proficiency with Microsoft Excel, PowerPoint, and data analysis tools. Exposure to Collibra or similar data management platforms. Familiarity with SQL, Tableau, Power BI, or similar analytics tools. Banking experience Preferred Experience with data governance, metadata management, business glossaries, or data catalogs. Experience with workflow tools, low-code platforms, or business process automation. Experience working with Agile, Scrum, or product management methodologies. What You'll Gain Hands-on experience managing an enterprise technology product. Exposure to product management, workflow automation, and data strategy. Opportunities to collaborate with senior business and technology leaders. Experience supporting AI, analytics, data governance, and business transformation initiatives. A career path into Product Management, Data Management, Analytics, or Enterprise Data Strategy. Education: Bachelor's degree in Computer Science or a closely-related discipline, or an equivalent combination of formal education and experience “Visa sponsorship/support is based on business needs. We do not anticipate providing visa sponsorship/support for this position.” The typical base pay range for this role is as follows: New York / New Jersey: $ 86-119K Non–New York / New Jersey: $82-105 K depending on job-related knowledge, skills, experience and location. This role may also be eligible for certain discretionary performance-based bonus and/or incentive compensation. Additionally, our Total Rewards program provides colleagues with a competitive benefits package (in accordance with the eligibility requirements and respective terms of each) that includes comprehensive health and wellness benefits, retirement plans, educational assistance and training programs, income replacement for qualified employees with disabilities, paid maternity and parental bonding leave, and paid vacation, sick days, and holidays. For more information on our Total Rewards package, please click the link below. Our hybrid work schedule is four days on-site and work remotely one day per week. MUFG Benefits Summary We will consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local laws (including (i) the San Francisco Fair Chance Ordinance, (ii) the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, (iii) the Los Angeles County Fair Chance Ordinance, and (iv) the California Fair Chance Act) to the extent that (a) an applicant is not subject to a statutory disqualification pursuant to Section 3(a)(39) of the Securities and Exch [...]
+
+---
+
+## 4. [MAYBE] Advantage Solutions | Posting Job Title Category Insights Analyst
+- Link: https://uscareers2-asm.icims.com/jobs/442816/category-insights-analyst/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~68 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: data visualization, excel, forecast, statistic, data quality, kpi, quantitative, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Category Insights Analyst in Chicago, Illinois | Careers at 60601 - Chicago Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log back in! Category Insights Analyst Job Locations US-IL-Chicago | US-MO-Saint Louis | US-TX-Dallas | US-ID-Boise Primary Posting Location : City Chicago Primary Posting Location : State/Province IL Primary Posting Location : Postal Code 60601 Primary Posting Location : Country US Requisition ID 2026-442816 Position Type Full Time Category Category Management, Insights and Planning Minimum USD $58,400.00/Yr. Maximum USD $73,000.00/Yr. Summary Category Insights Analyst Position Summary As a Category Insights Analyst, you will serve as a critical analytical and insights resource for clients with less than $20 million in retail sales within a designated regional sales market. In this role, you will accelerate information delivery, streamline reporting processes, and provide valuable business insights through analysis, forecasting, sales planning, and post-promotional evaluations. You will also develop pricing recommendations and actionable strategies that support client development and drive Advantage growth. A significant portion of this role involves collecting, analyzing, and reporting data from a variety of sources, including syndicated, retailer, shipment, and consumption data (e.g., NIQ, Circana, retailer-specific data, and internal reporting systems). Working closely with regional sales teams, clients, and internal stakeholders, you will identify reporting needs, conduct business analyses, and create both standardized and ad hoc reports that translate data into actionable recommendations. As the subject matter expert for consumption and category data across your assigned accounts, you will play a key role in helping clients grow their business through data-driven insights. You may also contribute to the development and implementation of tools and processes that improve data quality, reporting efficiency, and business intelligence capabilities. About the Company The Company is one of North America's leading sales and marketing agencies specializing in outsourced sales, merchandising, category management, and marketing services for manufacturers, suppliers, and producers of consumer packaged goods (CPG) and food products. We serve a wide variety of retail channels, including: Grocery Mass Merchandise Specialty Retail Convenience Drug Dollar Club Hardware Consumer Electronics Home Centers Our mission is to bridge the gap between manufacturers and retailers while providing consumers access to the best products available in the marketplace. What We Offer Comprehensive Medical, Dental, Vision, and Life Insurance 401(k) with Company Match Training and Professional Development Opportunities Generous Paid Time Off Career Growth and Advancement Opportunities Key Responsibilities Associate Development Provide coaching, training, and direction to team members to support professional growth and achievement of performance objectives. Ensure project deliverables consistently meet organizational and client quality standards. Client and Customer Management Build and maintain strong, value-added relationships with assigned clients, customers, and internal stakeholders. Leverage syndicated, panel, client, geodemographic, and market research data to develop strategic recommendations. Deliver actionable, measurable insights that position Advantage as a trusted business advisor. Identify opportunities for business growth through proactive analysis and data-driven solutions. Thought Leadership Develop, present, and communicate insight-driven recommendations to clients, customers, and internal stakeholders. Integrate category, consumer, and shopper insights into compelling business stories that drive decision-making. Analyze market trends, competitive landscapes, pricing, promotions, assortment strategies, shelf optimization, and shopper behavior to identify growth opportunities. Translate complex analyses into clear, actionable business recommendations. Cross-Functional Collaboration Partner with sales teams and cross-functional stakeholders to develop strategies and tactics that drive business performance. Consult on category management initiatives and business-building opportunities informed by market and customer insights. Strategic Partnership Establish trusted relationships with internal and external partners. Develop a strong understanding of customer objectives, strategies, and capabilities to support the achievement of business goals. Influence strategic decision-making through insights and fact-based recommendations. Qualifications Education Bachelor's degree in Business, Marketing, Analytics, Economics, Statistics, or a related field required. Experience 5-8+ years of experience in category management, shopper insights, business intelligence, strategy, analytics, or a related discipline within the CPG, FMCG, retail, or consulting industries. 3+ years of people leadership experience managing teams of five or more associates. Experience utilizing syndicated data sources such as NIQ, Circana, or comparable industry data platforms. Preferred Certifications Professional Category Management Certification preferred, including: Category Management Association (CMA) Certified Knowledge Management Global (CKMG) The Partnering Group (TPG) Delta Associates Similar industry-recognized certifications Travel Requirements Travel and driving are not essential functions of this position. Supervisory Responsibilities Direct Reports Hire, train, coach, develop, and retain direct reports. Conduct performance management activities utilizing established company processes, tools, and resources. Provide direction, guidance, and support to ensure team success. Indirect Reports May delegate work assignments and provide guidance, mentorship, and support to associates without direct reporting relationships. Required Knowledge, Skills, and Abilities Demonstrated leadership, coaching, mentoring, and team development capabilities. Strong ability to influence business decisions through fact-based insights and data-driven recommendations. In-depth understanding of category management principles, including assortment, pricing, promotion, shelving, and shopper marketing. Exceptional analytical, critical thinking, and problem-solving skills with the ability to transform complex data into actionable business insights. Strong presentation and communication skills with the ability to simplify and communicate complex quantitative analyses to diverse audiences. Proven ability to collaborate effectively with clients, customers, sales teams, and cross-functional business partners. Advanced proficiency in leveraging syndicated, retailer, and internal data sources to identify trends and opportunities. Strong business acumen with the ability to [...]
+
+---
+
+## 5. [MAYBE] Faculty AI | Data Scientist
 - Link: https://jobs.ashbyhq.com/faculty/8e468539-a6d1-4de9-a293-018c4c3ebd9b
 - Location: Sydney Australia Melbourne remote
 - Posted: Nov 08 21:22 ET
@@ -156,7 +188,7 @@ A note on AI: we're happy for you to use it for research and interview prep, but
 
 ---
 
-## 4. [MAYBE] Shirley Ryan AbilityLab | Data and Digital Growth Analyst
+## 6. [MAYBE] Shirley Ryan AbilityLab | Data and Digital Growth Analyst
 - Link: https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Data-and-Digital-Growth-Analyst_JR-1065780-1
 - Location: Chicago, IL
 - Posted: Nov 08 (board gives the date only)
@@ -170,7 +202,7 @@ Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilita
 
 ---
 
-## 5. [MAYBE] Faculty AI | Machine Learning Engineer
+## 7. [MAYBE] Faculty AI | Machine Learning Engineer
 - Link: https://jobs.ashbyhq.com/faculty/d1f0541e-a99b-4077-8522-397e88d1b98c
 - Location: Sydney Australia Melbourne remote
 - Posted: Nov 09 01:14 ET
@@ -269,7 +301,7 @@ A note on AI: we're happy for you to use it for research and interview prep, but
 
 ---
 
-## 6. [MAYBE] BerryDunn | Title Healthcare Data Engineer
+## 8. [MAYBE] BerryDunn | Title Healthcare Data Engineer
 - Link: https://careers-berrydunn.icims.com/jobs/4078/healthcare-data-engineer/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -283,7 +315,7 @@ Healthcare Data Engineer in Portland, Maine | Careers at Portland, ME Please Ena
 
 ---
 
-## 7. [MAYBE] Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term
+## 9. [MAYBE] Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term
 - Link: https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Athens/Financial-Planning---Analysis-Analyst--FP-A-Analyst----Fixed-Term_R29455
 - Location: Athens
 - Posted: Nov 08 (board gives the date only)
@@ -297,7 +329,7 @@ Are you ready to shape the future of capital markets? We are looking for a Finan
 
 ---
 
-## 8. [MAYBE] GTS | Job Title Quantitative Researcher, Algorithmic Trading
+## 10. [MAYBE] GTS | Job Title Quantitative Researcher, Algorithmic Trading
 - Link: https://careers-gtsx.icims.com/jobs/1628/quantitative-researcher%2c-algorithmic-trading/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -311,7 +343,7 @@ Careers | GTS | Quantitative Researcher, Algorithmic Trading in New York, New Yo
 
 ---
 
-## 9. [MAYBE] Anglian Water | Demand Reporting Data Scientist
+## 11. [MAYBE] Anglian Water | Demand Reporting Data Scientist
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Demand-Reporting-Data-Scientist_R40770
 - Location: 2 Locations
 - Posted: Nov 08 (board gives the date only)
@@ -325,7 +357,7 @@ Circa £43,344 (depending on Skills & Experience) Permanent Full Time / 37 Hours
 
 ---
 
-## 10. [MAYBE] Clera | Founding Applied AI Engineer
+## 12. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/ac506f1a-80de-45db-8015-6d70ff90a130
 - Location: San Francisco United States
 - Posted: Nov 08 12:11 ET
@@ -381,7 +413,7 @@ On-site in San Francisco, California. Candidates must be based in or willing to 
 
 ---
 
-## 11. [MAYBE] Smarkets | Data Engineer
+## 13. [MAYBE] Smarkets | Data Engineer
 - Link: https://jobs.ashbyhq.com/smarkets/3038bed9-d75e-45b9-9283-9db6b4ab93f8
 - Location: London United Kingdom remote
 - Posted: Nov 09 03:49 ET
@@ -523,7 +555,7 @@ These include:
 
 ---
 
-## 12. [MAYBE] Regions Bank | Business Unit Operational Risk Analyst
+## 14. [MAYBE] Regions Bank | Business Unit Operational Risk Analyst
 - Link: https://regions.wd5.myworkdayjobs.com/regions_careers/job/Charlotte-NC---Charlotte-Uptown-Branch/Business-Unit-Operational-Risk-Analyst_R107241
 - Location: 2 Locations
 - Posted: Nov 08 (board gives the date only)
@@ -537,7 +569,7 @@ Thank you for your interest in a career at Regions. At Regions, we believe assoc
 
 ---
 
-## 13. [MAYBE] University of Kansas Medical Center | Research Assistant – Neurology
+## 15. [MAYBE] University of Kansas Medical Center | Research Assistant – Neurology
 - Link: https://kumc.wd5.myworkdayjobs.com/kumc-jobs/job/Kansas-City-Metro-Area/Research-Assistant---Neurology_JR010738
 - Location: Kansas City Metro Area
 - Posted: Nov 08 (board gives the date only)
@@ -551,7 +583,7 @@ Department: SOM KC Neurology ----- ICU Position Title: Research Assistant – Ne
 
 ---
 
-## 14. [MAYBE] JP Morgan Chase | Portfolio and Performance Analyst - Associate
+## 16. [MAYBE] JP Morgan Chase | Portfolio and Performance Analyst - Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807255
 - Location: Brooklyn, NY, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -565,7 +597,7 @@ Join J.P. Morgan Asset & Wealth Management’s (JPMWM) Portfolio Analysis Group 
 
 ---
 
-## 15. [MAYBE] Verne Robotics | Founding Research Scientist
+## 17. [MAYBE] Verne Robotics | Founding Research Scientist
 - Link: https://jobs.ashbyhq.com/Verne/cad20f9e-413b-45c4-b803-f949c225be44
 - Location: San Francisco United States
 - Posted: Nov 08 21:34 ET
@@ -641,7 +673,7 @@ Help build models that learn real jobs and robots that perform them reliably. In
 
 ---
 
-## 16. [MAYBE] NewDay | Associate Business Analytics Analyst
+## 18. [MAYBE] NewDay | Associate Business Analytics Analyst
 - Link: https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Associate-Business-Analytics-Analyst_JR0726
 - Location: Leeds
 - Posted: Nov 08 (board gives the date only)
@@ -655,7 +687,7 @@ This role is a great opportunity to use data and insight to help shape how our C
 
 ---
 
-## 17. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
+## 19. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
 - Link: https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Dusseldorf-GER/Forensic-Consultant---IT-Forensics--eDiscovery--Data-Analytics---AI_JR101237
 - Location: Dusseldorf, GER
 - Posted: Nov 08 (board gives the date only)
@@ -669,7 +701,7 @@ We Do Consulting Differently Open to all genders (m/f/d) About the role We are s
 
 ---
 
-## 18. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
+## 20. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
 - Link: https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Milcov/Medium-IT-Business-Intelligence-Analyst_R-38436
 - Location: Milcov
 - Posted: Nov 08 (board gives the date only)
@@ -683,7 +715,7 @@ Job Title CoE SAP BI Business Analyst Responsibilities and Main Duties SAP BW/4H
 
 ---
 
-## 19. [MAYBE] University of Southern California | Research Associate
+## 21. [MAYBE] University of Southern California | Research Associate
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Research-Associate_REQ20182670
 - Location: Los Angeles, CA - Health Sciences Campus
 - Posted: Nov 08 (board gives the date only)
@@ -697,7 +729,7 @@ The USC Department of Orthopaedic Surgery is seeking a Research Associate to ass
 
 ---
 
-## 20. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 22. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804910
 - Location: Plano, TX, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -711,7 +743,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 21. [MAYBE] Valeo | AI Engineer
+## 23. [MAYBE] Valeo | AI Engineer
 - Link: https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/AI-Engineer_REQ2026081784
 - Location: Créteil
 - Posted: Nov 08 (board gives the date only)
@@ -725,7 +757,121 @@ Valeo is a tech global company, designing breakthrough solutions to reinvent the
 
 ---
 
-## 22. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
+## 24. [MAYBE] Relay Financial | Credit Risk Analyst
+- Link: https://jobs.ashbyhq.com/relayfi/25ee1242-658a-4ce0-8634-fdb1d20a5349
+- Location: Toronto, ON Canada remote
+- Posted: Nov 09 11:19 ET
+- Scanner fit: ~44 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: sql, credit, git, portfolio, reporting, risk | Lacks: snowflake  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Relay is a digital banking platform that gives self-made business owners the tools and know-how to be great with money—bringing clarity, confidence, and control to every dollar earned, so they can turn hard work into lasting success. We do this by replacing financial guesswork with real visibility, transforming cash flow from a constant source of stress into a clear signal owners can use to run stronger, more resilient businesses.
+
+You will play a pivotal part on the Credit team, reporting to our VP, Credit. We are expanding our charge card offering, and this role helps decides who gets credit, how much, and when to pull it back. Your mission: put the right limits in the hands of Relay's largest customers and keep that portfolio healthy as it scales.
+
+
+
+What You'll Be Doing
+
+ - Underwrite our largest customers by hand. Spread income statements and balance sheets and set limits after manually reviewing the business and financial risk of those entities..
+
+ - Watch the portfolio without watching every account. Build AI-assisted monitoring for financial and qualitative risk signals.
+
+ - Build pre-approval lists for sales. Review existing Relay customers who don't yet have a card, and work with the Sales team on a cross-sell motion.
+
+ - Partner closely with revenue. Explain credit decisions in plain language, work through requests for larger limits, and join customer conversations when we need their financials.
+
+ - Keep credit policy current with our funding partner. Make sure what we approve stays within the policy our partner will fund, and update that policy as the portfolio grows.
+
+ - Own charge card escalations. Be the expert Customer Experience escalates to for documentation requests, decline reasons and credit questions they can't resolve.
+
+ - Build what isn't there yet. Find the next process, report or tool the function needs, and build it.
+   
+   
+
+Who You Are
+
+ - You've done manual commercial credit underwriting at a corporate or commercial card issuer, from large issuers to card-focused fintechs. US experience is not required.
+
+ - You're strong at financial statement analysis. You can spread statements and defend a limit from the balance sheet, income statement and liquidity picture.
+
+ - You use AI and data tools to work faster, and you can show how they've changed the way you underwrite or monitor a portfolio.
+
+ - You work well with sales. You can explain a decline or a smaller limit without losing the relationship.
+
+ - You figure out what work needs doing instead of waiting for the next case in the queue.
+
+Bonus points
+
+ - SQL, especially in Snowflake
+
+ - Experience spreading statements in Heron or a similar tool
+
+ - Familiarity with S&P or Moody's financial statement models and business credit bureaus
+
+ - Experience as a risk partner embedded with a sales team
+
+
+
+The Interview Process
+
+ - Stage 1: A 45-minute Google Meet video call with a member of our Talent team
+
+ - Stage 2: A 30-minute Google Meet video call with the Hiring Manager
+
+ - Stage 3: A 45-minute Live Session with the Hiring Team
+
+ - Stage 4: A 45-minute Google Meet video call with a member of our leadership team
+
+
+
+Our Compensation Approach
+
+We believe Relayers should feel rewarded for the impact they have on our mission and growth. Compensation follows impact. As impact increases, compensation grows, and we do not limit compensation changes to a once-a-year review cycle.
+
+The annual salary range for this role is $72,900 CAD to $89,100 CAD.
+
+For candidates who demonstrate full readiness for the defined scope of the role, the typical starting salary is $81,000 CAD. Offers below this point reflect candidates we believe can grow into the full scope of the role with support and development. Offers above this point reflect impact that meaningfully exceeds the role’s defined expectations or an expanded scope from day one.
+
+We encourage you to have a conversation with your recruiter and ask questions about compensation throughout the hiring process. For more information on our compensation philosophy and perks and benefits, visit our Candidate Hub https://www.notion.so/Candidate-Hub-1c7da8b7f88580a893f7d7c7852b064e?pvs=21.
+
+
+
+Why Relay Might Be the Perfect Fit For You 
+
+ - You push relentlessly for reinvention: You're always asking "how can this be better?" -- in your work, in your craft, in yourself. Comfort is a signal to push harder, not coast. You'd rather build something better than defend something familiar.
+
+ - You crave autonomy: We trust our team with big challenges and the freedom to solve them. If you’re someone who takes initiative, is comfortable taking risks, and seeks input when needed, you’ll find the freedom here empowering.
+
+ - You own your work: You take pride in your work, follow through on commitments, and feel a deep sense of responsibility for outcomes, not just tasks.
+
+ - You build with AI, not just use it: You're actively embedding AI into how you work, pushing what's possible, and bringing your team along with you.
+
+ - You care about impact, not noise: You care deeply about the substance of your work. You measure success by results, not recognition, and you let your work speak for itself. 
+
+ - You’re energized by complexity and ambiguity: You enjoy tackling problems that don’t come with a playbook. You’re comfortable building from scratch, iterating as you go, and collaborating to shape the best path forward.
+
+ - You seek out feedback: You see directness as respect, not criticism. You actively seek input, sit with hard truths, and use feedback as fuel for improvement.
+
+ - Small businesses are why we're here: Relay exists to help them thrive -- and that mission has to resonate with you.
+
+
+
+Join Us
+
+We're looking for people who are relentless, curious, and care deeply about the work. You're encouraged to apply even if your experience doesn't perfectly match the job description -- your perspective and drive matter more. We welcome diverse backgrounds and people who think critically, challenge the status quo, and want to help small businesses thrive.
+
+If you require accommodations at any stage of the hiring process, please reach out to your Talent Partner.
+
+Disclaimer: For compliance reasons, all offers of employment at Relay are conditional upon a successful background check and employment verification through Certn.
+
+Important Notice: Relay’s recruitment team only contacts candidates and corresponds from official corporate email addresses ending in @relayfi.com. We will never ask for sensitive personal data (such as bank account details, credit card numbers, or social security/insurance numbers) during the initial application or interview stages.
+
+---
+
+## 25. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
 - Link: https://staff-emory.icims.com/jobs/178496/research-scientist--school-of-medicine%2c-pulmonary/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -736,4 +882,18 @@ Valeo is a tech global company, designing breakthrough solutions to reinvent the
 ### Job description
 
 Emory Careers | Research Scientist- School of Medicine, Pulmonary in Atlanta, Georgia | Careers at Emory Campus-Clifton Corridor Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log back in! Research Scientist- School of Medicine, Pulmonary Job Number 178496 Job Type Regular Full-Time Division School Of Medicine Department SOM: Medicine: Pulmonary Job Category Laboratory Research Campus Location (For Posting) : Location US-GA-Atlanta Location : Name Emory Campus-Clifton Corridor Remote Work Classification No Remote Health and Safety Information Working in a laboratory Discover Your Career at Emory University Emory University is a leading research university that fosters excellence and attracts world-class talent to innovate today and prepare leaders for the future. We welcome candidates who can contribute to the excellence of our academic community. Description JOB DESCRIPTION: Develops biochemical and cell-based assays, with the use of such assays to perform high throughput screening of small molecule libraries. Develops and executes lower throughput biochemical or cell-based assays for structural optimization of hit compounds. Hands-on bench scientist. Communicates with biomedical investigators and medicinal chemists. May supervise staff. Performs related responsibilities as required. MINIMUM QUALIFICATIONS: Bachelor's degree and seven years of related experience or equivalent combination of experience, education and training. Strong technical background. NOTE: Position tasks are required to be performed in-person at an Emory University location; working remote is not an option. Emory reserves the right to change this status with notice to employee. Additional Details Emory
+
+---
+
+## 26. [MAYBE] US Foods | Pricing Analyst, 100% Onsite, Raleigh
+- Link: https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Raleigh-NC/Pricing-Analyst--100--Onsite--Raleigh_R283734-1
+- Location: Raleigh NC
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, quantitative, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+ARE YOU A CURRENT US FOODS EMPLOYEE? PLEASE APPLY DIRECTLY THROUGH OUR INTERNAL WORKDAY CAREER SITE Join Our Community of Food People! BASIC PURPOSE Execute pricing strategy at the distribution center (DC) level to support company margin goals and local "Go to Market" strategy. Identify margin improvement opportunities by managing area-wide Daily Sales Below Cost (DSBC) process. ESSENTIAL DUTIES AND RESPONSIBILITIES: Review and manage price deviations and exceptions for Territory Managers (TMs) aligned to designated DC. This includes evaluating requests for commission-based adjustments (CBAs), self-funded deviations, and price approvals. Answer pricing queries escalated from Sales and other USF employees as required for the designated DC. Analyze and develop pricing recommendations to support bids for local customers (e.g., excluding schools) and conduct special pricing reviews for new customer acquisition for the designated DC, in partnership with Strategic Pricing Manager. Manage area DSBC reporting process to improve area margins. Identify costing errors and work with relevant stakeholders to resolve. Execute weekly promotional pricing in designated DC. Monitor and identify opportunities by analyzing and reporting on margin and market pricing. Work closely with District Sales Managers (DSMs) on auditing ongoing local self-funded deviations. Utilize Merlin to identify product and category opportunities for pricing strategies. Complete ad-hoc pricing analysis as required by the Strategic Pricing Manager, Area President or Region Pricing Manager. Manage and upload exceptions for vendor price list from local/regional suppliers. Maintain customer pricing rationale (CPR) back-up for area. SUPERVISION None RELATIONSHIPS Internal: Pricing Manager; Region Pricing Manager; Area President; AVP of Merchandising and Marketing and area sales team (VP Sales, Sales Manager, DSMs, CSC, and TMs) External: Customers, vendors QUALIFICATIONS Education/Training: Bachelor’s Degree, or minimum 3 years of pricing experience required. Related Experience: Pricing experience within foodservice or food manufacturing companies highly desired. Strong quantitative and analytical skills required. Knowledge/Skills/Abilities: • Proven experience working with and supporting sales teams; strong business acumen and interpersonal skills a must. • Proficiency required in Microsoft Office, especially Microsoft Word, Excel, and Microsoft Outlook. • Able to access information within established pricing databases and/or analyze data made available from analysts. Knowledge of the PRIME pricing system highly desired. This role may also receive incentive compensation. Benefits for this role may include health insurance, pre-tax spending accounts, retirement benefits, paid time off, short-term and long-term disability, employee stock purchase plan, and life insurance. To review available benefits, please click here: https://www.usfoods.com/careers/benefits.html #LI-PL1 Compensation depends on relevant experience and/or education, specific skills, function, geographic location, and other factors as applicable by law (for example: state or local minimum wage thresholds). The expected base rate for this role is between $60,000 - $100,000 ***EOE – Race/Color/Religion/Sex/Sexual Orientation/Gender Identity/National Origin/ Age/Genetic Information /Protected Veteran/Disability Status***
 
