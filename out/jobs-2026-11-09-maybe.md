@@ -5,22 +5,24 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | Anglian Water | Consumption Data Analyst | 78 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 2 | Faculty AI | Data Scientist | 67 | none found (check myvisajobs) | Nov 08 21:22 ET |
-| 3 | Faculty AI | Machine Learning Engineer | 66 | none found (check myvisajobs) | Nov 09 01:14 ET |
-| 4 | BerryDunn | Title Healthcare Data Engineer | 65 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 5 | Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term | 62 | 5 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 6 | GTS | Job Title Quantitative Researcher, Algorithmic Trading | 60 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 7 | Anglian Water | Demand Reporting Data Scientist | 60 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 8 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 08 12:11 ET |
-| 9 | Smarkets | Data Engineer | 55 | none found (check myvisajobs) | Nov 09 03:49 ET |
-| 10 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 11 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
-| 12 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 13 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 14 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 15 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 16 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 17 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 2 | Northwestern Medicine | HB Coding Strategic Data Analyst (Remote - Must reside in IL, IN, IA, MO, or WI) | 74 | none found (check myvisajobs) | Nov 09 08:09 ET |
+| 3 | Faculty AI | Data Scientist | 67 | none found (check myvisajobs) | Nov 08 21:22 ET |
+| 4 | Shirley Ryan AbilityLab | Data and Digital Growth Analyst | 67 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 5 | Faculty AI | Machine Learning Engineer | 66 | none found (check myvisajobs) | Nov 09 01:14 ET |
+| 6 | BerryDunn | Title Healthcare Data Engineer | 65 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 7 | Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term | 62 | 5 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 8 | GTS | Job Title Quantitative Researcher, Algorithmic Trading | 60 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 9 | Anglian Water | Demand Reporting Data Scientist | 60 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 10 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 08 12:11 ET |
+| 11 | Smarkets | Data Engineer | 55 | none found (check myvisajobs) | Nov 09 03:49 ET |
+| 12 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 13 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
+| 14 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 15 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 16 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 17 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 18 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 19 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
 
 ---
 
@@ -38,7 +40,21 @@ Circa £34,231 (depending on Skills & Experience) Permanent Full Time / 37 Hours
 
 ---
 
-## 2. [MAYBE] Faculty AI | Data Scientist
+## 2. [MAYBE] Northwestern Medicine | HB Coding Strategic Data Analyst (Remote - Must reside in IL, IN, IA, MO, or WI)
+- Link: https://jobs.smartrecruiters.com/NorthwesternMedicine/744000160610759
+- Location: Chicago IL us remote
+- Posted: Nov 09 08:09 ET
+- Scanner fit: ~74 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, data visualization, excel, power bi, classification, git, healthcare, kpi, reporting, risk, validation | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+The HB Coding Strategic Data Analyst role exists to transform complex coding into actionable insights that drive performance, compliance, and strategic decision-making across Northwestern Medicine's Hospital Billing Coding operations. The position serves as a critical link between data, technology, and operational leadership by providing meaningful analysis and reporting that supports efficient workflows, revenue cycle performance, coding quality, productivity, and organizational goals. Through the development and management of reports, dashboards, performance metrics, and analytics, this role enables coding leadership to identify outpatient trends, measure outcomes, evaluate operational effectiveness, and make informed decisions that improve financial performance, and coding accuracy. The HB Coding Strategic Data Analyst supports Coding leadership, ensuring leaders have the data and insights needed to manage resources, prioritize initiatives, and plan for future organizational needs. Additionally, the position fosters collaboration among key stakeholders to support reporting, workflow optimization, technology enhancements, and process improvement initiatives. By leveraging data analytics, Epic, and other reporting tools, the HB Coding Strategic Data Analyst helps advance operational excellence, support organizational growth, and contribute to Northwestern Medicine's commitment to high-quality patient care and financial stewardship. This position is 100% remote Responsibilities: Serves as the primary analytics resource for Coding Leadership transforming coding, revenue cycle, operational, and financial data into actionable insights that support strategic and operational decision-making. Develop, maintain, and enhance dashboards, scorecards, key performance indicators (KPIs), routine reports, and ad hoc analyses related to productivity, quality, accounts receivable, budgets, vendor performance, and workflow outcomes on a daily, weekly, monthly, and fiscal-year cadence. Analyze coding and revenue cycle data to identify trends, risks, variances, and improvement opportunities, and provide actionable recommendations to leadership and operational teams. Translate complex analytical findings into clear reports, presentations, and visualizations that communicate performance results, risks, opportunities, and recommendations to stakeholders. Collaborate with internal and external stakeholders to resolve issues, support reporting needs, and achieve organizational objectives. Utilize Epic, computer-assisted coding (CAC) technology, Power BI, Microsoft applications, and reporting tools to evaluate system functionality, validate business requirements, coordinates user acceptance testing, post-implementation validation, and optimize operational performance. Coordinate coding technology activities by documenting workflows, supporting upgrades and troubleshooting efforts, managing IS ticket documentation and status reporting, and serving as a subject matter expert for Epic and CAC workflows. Lead and support reporting, technology, and continuous improvement initiatives by applying project management principles, strengthening data integrity, documenting requirements and decisions, and streamlining departmental workflows. Additional Functions Other duties as assigned Minimum Requirements: Education: Associate’s degree in health information management, Health Informatics, or a related field; or equivalent education and relevant experience. Experience: 3 years of data analytics Working knowledge of Key Performance Indicators management Microsoft Office, including advanced Excel functions Epic and computer-assisted coding technology Licensure: None required. Certification: HIM Membership: AHIMA or AAPC Epic certification: Applicable Epic reporting certification required at hire or within six months Behavioral Attributes: Demonstrates attention to detail and consistently monitors work for accuracy. Use critical thinking to draw conclusions and make recommendations. Communicates clearly in writing and verbally, collaborates effectively across teams, manages competing priorities, and maintains accountability for assigned work. Preferred: Acute care revenue cycle experience Project management experience Healthcare coding analytics EPIC Cogito, Reporting Workbench, Slicer Dicer, or applicable Epic reporting Dashboard development and data visualization Budget, productivity, and quality analysis Education: Bachelor’s degree in health information management, Health Informatics, or a related field; or equivalent education and relevant experience. Coding credential: RHIA Addendum 2 – Inpatient HB Coding Strategic Data Analyst Demonstrate expertise in inpatient coding principles and regulatory requirements, including ICD-10-CM, Procedure Coding System (PCS) coding, and official coding guidelines. Demonstrate expertise in denials including DRG downgrades and writing appeal letters. Coding/HIM credential: RHIT or CCS Experience 3 years of inpatient coding experience Reviewing and writing appeal letters for payer denials and DRG downgrades Northwestern Medicine
+
+---
+
+## 3. [MAYBE] Faculty AI | Data Scientist
 - Link: https://jobs.ashbyhq.com/faculty/8e468539-a6d1-4de9-a293-018c4c3ebd9b
 - Location: Sydney Australia Melbourne remote
 - Posted: Nov 08 21:22 ET
@@ -137,7 +153,21 @@ A note on AI: we're happy for you to use it for research and interview prep, but
 
 ---
 
-## 3. [MAYBE] Faculty AI | Machine Learning Engineer
+## 4. [MAYBE] Shirley Ryan AbilityLab | Data and Digital Growth Analyst
+- Link: https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Data-and-Digital-Growth-Analyst_JR-1065780-1
+- Location: Chicago, IL
+- Posted: Nov 08 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: a/b test, dashboard, excel, statistic, classification, git, kpi, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilitation for adults and children with the most severe, complex conditions. By joining our team, you’ll be part of our life-changing mission and vision. You’ll contribute to an innovative, multifaceted culture that is second to none — one that embraces collaboration, excellence, discovery and compassion. You’ll play a role in something that’s never been done before as we integrate science and clinical care to help patients achieve better, faster outcomes — as we Advance Human Ability, together. Job Description Summary The Data & Digital Growth Analyst is responsible for analyzing website, mobile application, and digital marketing performance to identify opportunities to improve user acquisition, engagement, retention, and overall digital effectiveness. This position evaluates performance trends, develops actionable recommendations, and partners with the Digital Marketing team to implement and measure data-informed improvements. The role utilizes digital analytics platforms, performance reporting, and testing methodologies to assess the effectiveness of digital content, campaigns, and user experiences. The Analyst translates complex data into meaningful insights, establishes performance measures, and recommends strategies to support organizational digital growth objectives. Job Description Principal Responsibilities Analyze website performance using GA4, Google Search Console, and other relevant analytics platforms to evaluate traffic, user engagement, acquisition, and conversion trends. Monitor and evaluate key website performance indicators, including traffic sources, search visibility, landing page performance, user navigation, engagement, referral traffic, page speed, and search engine optimization (SEO) effectiveness. Identify opportunities to improve website performance and user experience through data-driven recommendations related to content, navigation, internal linking, landing pages, calls to action, and digital promotional strategies. Develop, coordinate, and evaluate digital testing initiatives, including A/B testing, to assess the effectiveness of proposed improvements and measure outcomes. Analyze mobile application performance, including downloads, acquisition sources, active users, retention, usage frequency, feature engagement, user journeys, and points of user disengagement. Recommend strategies to improve mobile application adoption, user engagement, and retention based on performance trends and user behavior analysis. Support the development, implementation, monitoring, and optimization of digital advertising campaigns designed to increase qualified website traffic, mobile application downloads, and user engagement. Analyze advertising campaign performance and recommend improvements to campaign targeting, messaging, creative content, keywords, and landing pages across applicable digital advertising platforms. Develop and maintain performance dashboards, reports, and key performance indicators (KPIs) to measure digital marketing effectiveness, identify trends, and support data-informed decision-making. Collaborate with Digital Marketing and other internal stakeholders to prioritize improvement opportunities, communicate findings, and evaluate the impact of implemented recommendations. Monitor digital analytics trends, emerging technologies, and industry best practices to recommend improvements to reporting capabilities, measurement methodologies, and digital performance. Perform other duties as assigned. Reporting Relationships Reports directly to Executive Director Digital Marketing and Strategy Knowledge, Skills & Abilities Required Bachelor's degree in Data Analytics, Marketing Analytics, Business Analytics, Digital Marketing, Statistics, or a related field, or an equivalent combination of education and relevant professional experience. Minimum of two (2) years of professional experience in digital analytics, marketing analytics, website performance analysis, or a related field. Demonstrated proficiency with Google Analytics 4 (GA4), Google Search Console, and digital performance reporting tools. Experience utilizing mobile application analytics platforms, such as Firebase, App Store Connect, Google Play Console, or comparable tools. Working knowledge of search engine optimization (SEO), digital advertising, user acquisition, conversion optimization, and digital marketing performance measurement. Ability to analyze complex data, identify meaningful trends, and translate findings into actionable recommendations for technical and non-technical stakeholders. Experience developing performance dashboards, reports, and key performance indicators to support business decisions. Strong analytical, problem-solving, organizational, and communication skills, with the ability to manage multiple priorities and collaborate across functional teams. Knowledge of digital testing methodologies, including A/B testing, and the ability to evaluate and communicate measurable outcomes. Working Conditions Normal office environment with little or no exposure to dust or extreme temperature. Hybrid in office at the Shirley Ryan AbilityLab. The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required of personnel so classified. Pay and Benefits*: Pay Range: $61,800.00 - $103,000.00 Benefits: Shirley Ryan AbilityLab offers a comprehensive benefits program that is competitive with our industry peers in our geographic locations: https://www.sralab.org/benefits *Benefits and benefits’ eligibility can vary by position. Actual compensation will be determined by equity and qualifications of the role. Equal Employment Opportunity Employer Shirley Ryan AbilityLab
+
+---
+
+## 5. [MAYBE] Faculty AI | Machine Learning Engineer
 - Link: https://jobs.ashbyhq.com/faculty/d1f0541e-a99b-4077-8522-397e88d1b98c
 - Location: Sydney Australia Melbourne remote
 - Posted: Nov 09 01:14 ET
@@ -236,7 +266,7 @@ A note on AI: we're happy for you to use it for research and interview prep, but
 
 ---
 
-## 4. [MAYBE] BerryDunn | Title Healthcare Data Engineer
+## 6. [MAYBE] BerryDunn | Title Healthcare Data Engineer
 - Link: https://careers-berrydunn.icims.com/jobs/4078/healthcare-data-engineer/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -250,7 +280,7 @@ Healthcare Data Engineer in Portland, Maine | Careers at Portland, ME Please Ena
 
 ---
 
-## 5. [MAYBE] Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term
+## 7. [MAYBE] Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term
 - Link: https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Athens/Financial-Planning---Analysis-Analyst--FP-A-Analyst----Fixed-Term_R29455
 - Location: Athens
 - Posted: Nov 08 (board gives the date only)
@@ -264,7 +294,7 @@ Are you ready to shape the future of capital markets? We are looking for a Finan
 
 ---
 
-## 6. [MAYBE] GTS | Job Title Quantitative Researcher, Algorithmic Trading
+## 8. [MAYBE] GTS | Job Title Quantitative Researcher, Algorithmic Trading
 - Link: https://careers-gtsx.icims.com/jobs/1628/quantitative-researcher%2c-algorithmic-trading/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -278,7 +308,7 @@ Careers | GTS | Quantitative Researcher, Algorithmic Trading in New York, New Yo
 
 ---
 
-## 7. [MAYBE] Anglian Water | Demand Reporting Data Scientist
+## 9. [MAYBE] Anglian Water | Demand Reporting Data Scientist
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Demand-Reporting-Data-Scientist_R40770
 - Location: 2 Locations
 - Posted: Nov 08 (board gives the date only)
@@ -292,7 +322,7 @@ Circa £43,344 (depending on Skills & Experience) Permanent Full Time / 37 Hours
 
 ---
 
-## 8. [MAYBE] Clera | Founding Applied AI Engineer
+## 10. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/ac506f1a-80de-45db-8015-6d70ff90a130
 - Location: San Francisco United States
 - Posted: Nov 08 12:11 ET
@@ -348,7 +378,7 @@ On-site in San Francisco, California. Candidates must be based in or willing to 
 
 ---
 
-## 9. [MAYBE] Smarkets | Data Engineer
+## 11. [MAYBE] Smarkets | Data Engineer
 - Link: https://jobs.ashbyhq.com/smarkets/3038bed9-d75e-45b9-9283-9db6b4ab93f8
 - Location: London United Kingdom remote
 - Posted: Nov 09 03:49 ET
@@ -490,7 +520,7 @@ These include:
 
 ---
 
-## 10. [MAYBE] Regions Bank | Business Unit Operational Risk Analyst
+## 12. [MAYBE] Regions Bank | Business Unit Operational Risk Analyst
 - Link: https://regions.wd5.myworkdayjobs.com/regions_careers/job/Charlotte-NC---Charlotte-Uptown-Branch/Business-Unit-Operational-Risk-Analyst_R107241
 - Location: 2 Locations
 - Posted: Nov 08 (board gives the date only)
@@ -504,7 +534,7 @@ Thank you for your interest in a career at Regions. At Regions, we believe assoc
 
 ---
 
-## 11. [MAYBE] Verne Robotics | Founding Research Scientist
+## 13. [MAYBE] Verne Robotics | Founding Research Scientist
 - Link: https://jobs.ashbyhq.com/Verne/cad20f9e-413b-45c4-b803-f949c225be44
 - Location: San Francisco United States
 - Posted: Nov 08 21:34 ET
@@ -580,7 +610,7 @@ Help build models that learn real jobs and robots that perform them reliably. In
 
 ---
 
-## 12. [MAYBE] NewDay | Associate Business Analytics Analyst
+## 14. [MAYBE] NewDay | Associate Business Analytics Analyst
 - Link: https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Associate-Business-Analytics-Analyst_JR0726
 - Location: Leeds
 - Posted: Nov 08 (board gives the date only)
@@ -594,7 +624,7 @@ This role is a great opportunity to use data and insight to help shape how our C
 
 ---
 
-## 13. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
+## 15. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
 - Link: https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Dusseldorf-GER/Forensic-Consultant---IT-Forensics--eDiscovery--Data-Analytics---AI_JR101237
 - Location: Dusseldorf, GER
 - Posted: Nov 08 (board gives the date only)
@@ -608,7 +638,7 @@ We Do Consulting Differently Open to all genders (m/f/d) About the role We are s
 
 ---
 
-## 14. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
+## 16. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
 - Link: https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Milcov/Medium-IT-Business-Intelligence-Analyst_R-38436
 - Location: Milcov
 - Posted: Nov 08 (board gives the date only)
@@ -622,7 +652,7 @@ Job Title CoE SAP BI Business Analyst Responsibilities and Main Duties SAP BW/4H
 
 ---
 
-## 15. [MAYBE] University of Southern California | Research Associate
+## 17. [MAYBE] University of Southern California | Research Associate
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Research-Associate_REQ20182670
 - Location: Los Angeles, CA - Health Sciences Campus
 - Posted: Nov 08 (board gives the date only)
@@ -636,7 +666,7 @@ The USC Department of Orthopaedic Surgery is seeking a Research Associate to ass
 
 ---
 
-## 16. [MAYBE] Valeo | AI Engineer
+## 18. [MAYBE] Valeo | AI Engineer
 - Link: https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/AI-Engineer_REQ2026081784
 - Location: Créteil
 - Posted: Nov 08 (board gives the date only)
@@ -650,7 +680,7 @@ Valeo is a tech global company, designing breakthrough solutions to reinvent the
 
 ---
 
-## 17. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
+## 19. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
 - Link: https://staff-emory.icims.com/jobs/178496/research-scientist--school-of-medicine%2c-pulmonary/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
