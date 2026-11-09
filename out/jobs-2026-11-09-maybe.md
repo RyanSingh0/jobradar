@@ -37,10 +37,11 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 31 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
 | 32 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
 | 33 | Relay Financial | Credit Risk Analyst | 44 | none found (check myvisajobs) | Nov 09 11:19 ET |
-| 34 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 35 | US Foods | Pricing Analyst, 100% Onsite, Raleigh | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 36 | The New School | Research Assistant – Social Media & Audience Growth | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 37 | University of Mississippi Medical Center | Research Associate | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 34 | JP Morgan Chase | External Regulatory Reporting Analyst | 44 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 35 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 36 | US Foods | Pricing Analyst, 100% Onsite, Raleigh | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 37 | The New School | Research Assistant – Social Media & Audience Growth | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 38 | University of Mississippi Medical Center | Research Associate | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
 
 ---
 
@@ -1008,7 +1009,21 @@ Important Notice: Relay’s recruitment team only contacts candidates and corres
 
 ---
 
-## 34. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
+## 34. [MAYBE] JP Morgan Chase | External Regulatory Reporting Analyst
+- Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797617
+- Location: Newark, DE, United States US
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~44 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, sql, reporting, risk, validation | Lacks: alteryx
+
+### Job description
+
+Join JPMorganChase's Firmwide Regulatory Reporting & Analysis (FRRA) team, where you'll play a critical role in ensuring the accuracy and integrity of U.S. regulatory filings that underpin the firm's fortress balance sheet. This is an opportunity to build deep expertise in regulatory reporting while collaborating with controllers, technology partners, and senior stakeholders across the organization. If you thrive in a fast-paced, detail-driven environment and want to make a tangible impact on how one of the world's largest financial institutions meets its regulatory obligations, this role is for you. As a External Regulatory Reporting Analyst within the Firmwide Regulatory Reporting & Analysis (FRRA) External Reporting Production team, you will be responsible for end-to-end processing and reporting activities for Investment Securities and Securitization across key U.S. regulatory reports including FR Y-9C, Call Report, and CCAR. You will manage critical BAU activities — from data sourcing and validation to adjustments processing and reconciliations — while partnering closely with line of business controllers, financial control, product controllers, and Risk & Finance Technology teams. You will also identify and execute process improvements to existing tools and procedures, support business users of the FRI application, and contribute to strategic initiatives that strengthen the firm's regulatory reporting infrastructure. Job Responsibilities Execute daily BAU activities including data sourcing, data validation, completeness checks, adjustments processing, and reconciliations for regulatory reports Collaborate closely with line of business controllers, financial control, and product controllers to ensure reporting accuracy and alignment Support business users of the FRI application by resolving user queries and troubleshooting issues in a timely manner Identify and implement process improvements to the existing operating model, tools, and procedures to drive efficiency and reduce risk Interact regularly with controllers, report owners, and Risk & Finance Technology (RFT) partners to ensure seamless reporting workflows Escalate issues promptly to the appropriate teams and management when risks or discrepancies are identified Partner with the projects team through full project life cycles impacting the FRI platform and regulatory reporting processes Validate data integrity and completeness across multiple sources to ensure regulatory submissions meet quality standards Prioritize and balance multiple concurrent activities under tight regulatory deadlines with a sense of urgency Contribute to strategic initiatives supporting FR Y-9C, Call Report, and CCAR reporting enhancements Maintain thorough documentation of processes, adjustments, and issue resolutions to support audit readiness and knowledge continuity Required qualifications, capabilities, and skills: Bachelor’s degree in Accounting, Finance, or Business (or equivalent experience) 1 year of business, finance or accounting or industry experience Understanding of financial statements, accounting procedures, internal and external reporting, and variance analysis Knowledge of Regulatory reporting and related requirements Ability to work on multiple priorities simultaneously with tight deadlines, demonstrating excellent organizational skills Proficiency in Excel & PowerPoint Preferred qualifications, capabilities, and skills: Apply working knowledge of U.S. regulatory reporting requirements, including familiarity with FR Y-9C, Call Report, or CCAR frameworks Utilize Alteryx or similar data automation tools to streamline reporting and data transformation workflows Demonstrate experience working with regulatory reporting platforms or enterprise financial infrastructure applications Identify and execute process improvement initiatives that enhance efficiency, reduce manual effort, or strengthen controls Navigate cross-functional stakeholder environments, building productive relationships with controllers, technology teams, and report owners Operate effectively in a large, matrixed financial institution with an understanding of how regulatory reporting fits within the broader finance organization Leverage SQL, Power Query, or other data extraction tools to support data sourcing and validation activities   JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
+
+---
+
+## 35. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
 - Link: https://staff-emory.icims.com/jobs/178496/research-scientist--school-of-medicine%2c-pulmonary/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1022,7 +1037,7 @@ Emory Careers | Research Scientist- School of Medicine, Pulmonary in Atlanta, Ge
 
 ---
 
-## 35. [MAYBE] US Foods | Pricing Analyst, 100% Onsite, Raleigh
+## 36. [MAYBE] US Foods | Pricing Analyst, 100% Onsite, Raleigh
 - Link: https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Raleigh-NC/Pricing-Analyst--100--Onsite--Raleigh_R283734-1
 - Location: Raleigh NC
 - Posted: Nov 09 (board gives the date only)
@@ -1036,7 +1051,7 @@ ARE YOU A CURRENT US FOODS EMPLOYEE? PLEASE APPLY DIRECTLY THROUGH OUR INTERNAL 
 
 ---
 
-## 36. [MAYBE] The New School | Research Assistant – Social Media & Audience Growth
+## 37. [MAYBE] The New School | Research Assistant – Social Media & Audience Growth
 - Link: https://newschool.wd1.myworkdayjobs.com/external/job/L---2-West-13th-Street/Research-Assistant---Social-Media---Audience-Growth_JR110113
 - Location: L - 2 West 13th Street
 - Posted: Nov 09 (board gives the date only)
@@ -1050,7 +1065,7 @@ Faculty Laura Lanteri is looking for a strong student or junior researcher to su
 
 ---
 
-## 37. [MAYBE] University of Mississippi Medical Center | Research Associate
+## 38. [MAYBE] University of Mississippi Medical Center | Research Associate
 - Link: https://ummc.wd5.myworkdayjobs.com/UMCCareers/job/Jackson-MS/Research-Associate_R00055131-1
 - Location: Jackson, MS
 - Posted: Nov 09 (board gives the date only)
