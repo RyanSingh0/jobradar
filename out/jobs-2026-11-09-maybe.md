@@ -18,30 +18,39 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 12 | BerryDunn | Title Healthcare Data Engineer | 65 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
 | 13 | Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term | 62 | 5 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
 | 14 | Synechron | SDET with AI | 62 | 15 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 15 | GTS | Job Title Quantitative Researcher, Algorithmic Trading | 60 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 16 | Anglian Water | Demand Reporting Data Scientist | 60 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 17 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 08 12:11 ET |
-| 18 | Smarkets | Data Engineer | 55 | none found (check myvisajobs) | Nov 09 03:49 ET |
-| 19 | Repligen | AI Engineer I | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 20 | Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
-| 21 | Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
-| 22 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 23 | University of Kansas Medical Center | Research Assistant – Neurology | 50 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 24 | JP Morgan Chase | Portfolio and Performance Analyst - Associate | 50 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 25 | Lunar Outpost | Full Stack AI Engineer | 50 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 26 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
-| 27 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 28 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 29 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 30 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 31 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 32 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 33 | Relay Financial | Credit Risk Analyst | 44 | none found (check myvisajobs) | Nov 09 11:19 ET |
-| 34 | JP Morgan Chase | External Regulatory Reporting Analyst | 44 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 35 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 36 | US Foods | Pricing Analyst, 100% Onsite, Raleigh | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 37 | The New School | Research Assistant – Social Media & Audience Growth | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 38 | University of Mississippi Medical Center | Research Associate | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 15 | StoneX Group | Job Posting Title Physical Commodity Integrations Analyst | 62 | 11 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 16 | GTS | Job Title Quantitative Researcher, Algorithmic Trading | 60 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 17 | Anglian Water | Demand Reporting Data Scientist | 60 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 18 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 08 12:11 ET |
+| 19 | Smarkets | Data Engineer | 55 | none found (check myvisajobs) | Nov 09 03:49 ET |
+| 20 | Repligen | AI Engineer I | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 21 | Persona AI | Robotics Machine Learning Engineer | 55 | none found (check myvisajobs) | Nov 09 16:13 ET |
+| 22 | Rackner | Telemetry & Performance Data Analyst-Federal Health IT | 55 | none found (check myvisajobs) | Nov 09 16:44 ET |
+| 23 | Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 24 | Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 25 | WSP | Environmental Data Analytics Specialist | 54 | 7 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 26 | TikTok | Research Scientist Graduate (TikTok - Data - Search - Visual Search) - 2027 Start (PhD) | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 27 | TikTok | Research Scientist Graduate (TikTok - Data - Search - Search Quality) - 2027 Start (PhD) | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 28 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 29 | University of Kansas Medical Center | Research Assistant – Neurology | 50 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 30 | JP Morgan Chase | Portfolio and Performance Analyst - Associate | 50 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 31 | Lunar Outpost | Full Stack AI Engineer | 50 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 32 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
+| 33 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 34 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 35 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 36 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 37 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 38 | Hospital for Special Surgery (HSS) | Research Assistant I - Motion Analysis Lab | 45 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 39 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 40 | Relay Financial | Credit Risk Analyst | 44 | none found (check myvisajobs) | Nov 09 11:19 ET |
+| 41 | JP Morgan Chase | External Regulatory Reporting Analyst | 44 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 42 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 43 | US Foods | Pricing Analyst, 100% Onsite, Raleigh | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 44 | The New School | Research Assistant – Social Media & Audience Growth | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 45 | University of Mississippi Medical Center | Research Associate | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 46 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 09 16:55 ET |
+| 47 | Georgetown University | HRC Oral History Research Associate, Georgetown Institute for Women, Peace and Security (GIWPS), Walsh School of Foreign Service (SFS) | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
 
 ---
 
@@ -411,7 +420,21 @@ We are At Synechron, we believe in the power of digital to transform businesses 
 
 ---
 
-## 15. [MAYBE] GTS | Job Title Quantitative Researcher, Algorithmic Trading
+## 15. [MAYBE] StoneX Group | Job Posting Title Physical Commodity Integrations Analyst
+- Link: https://careers-stonex.icims.com/jobs/16964/physical-commodity-integrations-analyst/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~62 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 11 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: excel, power bi, python, sql, credit, data cleaning, futures, reporting, risk, trading, validation | Lacks: scala  | Note: broad title
+
+### Job description
+
+Physical Commodity Integrations Analyst in West Des Moines, Iowa | Careers at West Des Moines IA (O) - Jordan Creek Pkwy Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log back in! Physical Commodity Integrations Analyst Job Locations US-IA-West Des Moines ID 2026-16964 Category (Portal Searching) Sales & Trading Position Type (Portal Searching) New Graduate & Early Talent Overview Connecting clients to markets – and talent to opportunity. With 5,400+ employees and over 80,000 institutional, commercial, and payments clients, we operate from more than 80 offices spread across six continents. As a Fortune 100, Nasdaq-listed provider, we connect clients to the global markets – focusing on innovation, human connection, and providing world-class products and services to all types of investors. Whether you want to forge a career connecting our retail clients to potential trading opportunities, or ingrain yourself in the world of institutional investing, StoneX Group is made up of four business segments that offer endless potential for progression and growth. Business Segment Overview Commercial : With boots on the ground authenticity at the heart of everything we do, our comprehensive array of commercial products and services enable you to work directly with our clients, across hedging, risk management, execution and clearing, OTC products, commodity finance and more. Position Purpose: StoneX Supply & Trading (SS&T) is the physical commodity trading arm of StoneX, a Fortune 500 financial services firm. SS&T originates, finances, moves, and markets physical commodities around the world. The Corporate Development Integrations team is the on-ramp to SS&T’s operating Platform and is responsible for evaluating and onboarding every new business, trader, and trade flow that joins SS&T. The Physical Commodity Integrations Analyst is an entry-level position that supports the onboarding of new businesses onto the Platform and supports the execution of the business while it transitions. Tasks can include entering trades in the system of record, onboarding counterparties, coordinating with accounting and settlements, reviewing positions and P&L, and evaluating valuations and mark-to-market. The role will also include due diligence on potential acquisitions, tracking, and reporting on current and future integrations. The Analyst will follow established processes and templates for integrations and is expected to flag issues early and ask questions when something is unclear. This is first and foremost a learning role: by doing the day-to-day work of a trade – how it is captured, hedged, financed, confirmed, settled, and accounted for – the Analyst builds a front-to-back understanding of how a physical commodity business operates and learns Nyle , SS&T’s proprietary CTRM. The Platform Growth in physical commodities is only durable when it sits on a governed, scalable foundation. SS&T calls that foundation the Platform – the people, processes, and systems required to run and oversee a physical commodity trading business. The Platform is organized into eight functions: Legal, Capital & Liquidity, Market Risk, Credit Risk, Technology & Systems, Data & Analytics, Operations, and Accounting. At the core of the Platform is our operating system Nyle , StoneX’s proprietary, in-house Commodity Trading and Risk Management (CTRM) system, which is being rolled out across SS&T’s global businesses as the single system of record for modeling, processing, and reporting physical commodity transactions. Responsibilities Primary duties will include: Enter purchase and sale trades, pricings, and hedges into the system of record accurately and on trade date; prepare contract confirmations and transaction documentation in line with StoneX guidelines for businesses being integrated into The Platform. Set up and maintain contracts, shipments, bills of lading, inventory, and pricing in the system of record, and coordinate with Settlements, Cash Operations, Credit, and Accounting so invoices, payments, and receivables are processed correctly and on time for businesses being integrated onto The Platform. Review daily positions and P&L for assigned businesses, reconcile them to the system of record, and complete valuations and mark-to-market with Middle Office and Accounting. Assemble counterparty onboarding packages (financials, tax forms, trade authorities) and track them through KYC/AML and credit underwriting; monitor trade and receivable limits and control collateral and title documents. Teach staff of businesses that are being integrated how to do each of the above tasks (enter trades, shipments, coordinate settlements, review positions and PnL, and onboard counterparties). Support the integration plan for each assigned deal, trader hire, or new trade flow. Maintain integration trackers, checklists, and decision logs; prepare and track diligence request lists; compile target data into StoneX templates; and follow up with Platform departments on open items, flagging items at risk. Prepare status reports, position and P&L summaries, and presentation materials in Excel, PowerPoint, and Power BI; populate data-mapping and migration workbooks used to bring target data onto Nyle and assist with validation. Help maintain playbook templates and process documentation and test new Nyle functionality. Qualifications To land this role you will need: 0–2 years of relevant experience, including internships. Highly organized and detail-oriented with strong follow-through; able to manage many tasks accurately in a fast-moving, time-sensitive environment. Proficiency in Excel (lookups, pivots, basic data cleaning) and PowerPoint; comfortable working with data and reconciling numbers. Clear written and verbal communication skills, intellectual curiosity, and a genuine interest in learning how physical commodity trading, hedging, and trade finance work; takes ownership and knows when to ask for help. What makes you stand out: Coursework, internship, or work experience in commodities, agribusiness, merchandising, logistics, trade finance, or financial services; basic understanding of futures markets, hedging, and mark-to-market accounting. Exposure to SQL, Python, Power BI, or AI-assisted tools, or an aptitude for learning them. Fluency in Spanish and/or Portuguese. Education / Certification Requirements: Bachelor’s degree in Business, Finance, Economics, Accounting, Agricultural Business, Supply Chain, Information Systems, or a related field Working Style: 4 days per week onsite, 1 day per week remote Maintain prompt attendance; climate-controlled, time-sensitive office environment Occasional travel to StoneX offices and integration sites Options Apply for this job online Apply Share Email this job to a friend Refer Sorry the Share function is not working properly at this m [...]
+
+---
+
+## 16. [MAYBE] GTS | Job Title Quantitative Researcher, Algorithmic Trading
 - Link: https://careers-gtsx.icims.com/jobs/1628/quantitative-researcher%2c-algorithmic-trading/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -425,7 +448,7 @@ Careers | GTS | Quantitative Researcher, Algorithmic Trading in New York, New Yo
 
 ---
 
-## 16. [MAYBE] Anglian Water | Demand Reporting Data Scientist
+## 17. [MAYBE] Anglian Water | Demand Reporting Data Scientist
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Demand-Reporting-Data-Scientist_R40770
 - Location: 2 Locations
 - Posted: Nov 08 (board gives the date only)
@@ -439,7 +462,7 @@ Circa £43,344 (depending on Skills & Experience) Permanent Full Time / 37 Hours
 
 ---
 
-## 17. [MAYBE] Clera | Founding Applied AI Engineer
+## 18. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/ac506f1a-80de-45db-8015-6d70ff90a130
 - Location: San Francisco United States
 - Posted: Nov 08 12:11 ET
@@ -495,7 +518,7 @@ On-site in San Francisco, California. Candidates must be based in or willing to 
 
 ---
 
-## 18. [MAYBE] Smarkets | Data Engineer
+## 19. [MAYBE] Smarkets | Data Engineer
 - Link: https://jobs.ashbyhq.com/smarkets/3038bed9-d75e-45b9-9283-9db6b4ab93f8
 - Location: London United Kingdom remote
 - Posted: Nov 09 03:49 ET
@@ -637,7 +660,7 @@ These include:
 
 ---
 
-## 19. [MAYBE] Repligen | AI Engineer I
+## 20. [MAYBE] Repligen | AI Engineer I
 - Link: https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Waltham-MA/AI-Engineer-I_R-971
 - Location: Waltham, MA
 - Posted: Nov 09 (board gives the date only)
@@ -651,7 +674,35 @@ Job Summary Make a global impact—join Repligen. We’re united by a mission to
 
 ---
 
-## 20. [MAYBE] Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory
+## 21. [MAYBE] Persona AI | Robotics Machine Learning Engineer
+- Link: https://jobs.ashbyhq.com/persona.ai/bf7d9341-e4cd-4bd9-be47-dc420dcd09b2
+- Location: Houston, TX United States
+- Posted: Nov 09 16:13 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, etl, gcp, llm, machine learning, python, pytorch, tensorflow, deep learning, docker, fx, git, healthcare, kpi | Lacks: azure, c++, scala  | Note: no H-1B filings found for this employer
+
+### Job description
+
+[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA88AAADLCAYAAABQ8qFIAAAQAElEQVR4AeydCZwcRdn/f0/P7MxsEsIhJHsEiICAoIDiASIaFREEuS9REblBFF4FQRE8/oCAwvsqNwqigKCIIJeAoICIKKByicgpJHskgXAk2ZnZna7/r2YTSMJ07zWz2zPzq0/VTHdVddVT36quqqeqpyeAjAiIgAiIgAiIgAiIgAiIgAiIgAiIQCyBBlCeY8unQBEQAREQAREQAREQAREQAREQAREYMwEpz2NGWIUElIQIiIAIiIAIiIAIiIAIiIAIiECiCUh5TnT11I9wklQEREAEREAEREAEREAEREAEGpmAlOdGrl2VbSQEFFcEREAEREAEREAEREAEREAEIglIeY5EowARqDcCklcEREAEREAEREAEREAERKBWBKQ814qs0hUBERg5AV0hAiIgAiIgAiIgAiIgAgklIOU5oRUjsURABOqTgKQWAREQAREQAREQARFoTAJSnhuzXlUqERABERgtAV0nAiIgAiIgAiIgAiJQgYCU5wpQ5CUCIiACIlDPBCS7CIiACIiACIiACFSfgJTn6jNViiIgAiIgAiIwNgK6WgREQAREQAREIHEEpDwnrkokkAiIgAiIgAjUPwGVQAREQAREQAQajYCU50arUZVHBERABERABESgGgSUhgiIgAiIgAgsR0DK83I4dCICIiACIiACIiACjUJA5RABERABEagmASnP1aSptERABERABERABERABKpHQCmJgAiIQIIISHlOUGVIFBEQAREQAREQAREQgcYioNKIgAg0DgEpz41TlyqJCIiACIiACIiACIiACFSbgNITARFYQkDK8xIQ+hIBERABERABERABERABEWhEAiqTCFSHgJTn6nBUKiIgAiIgAiIgAiIgAiIgAiJQGwJKNREEpDwnohokhAiIgAiIgAiIgAiIgAiIgAg0LoFGKJmU50aoRZVBBERABERABERABERABERABESglgQg5bmmeJW4CIiACIiACIiACIiACIiACIhAIxCof+W5EWpBZRABERABERABERABERABERABEUg0ASnPCageiSACIiACIiACIiACIiACIiACIpBsAlKek10/9SKd5BQBERABERABERABERABERCBhiYg5bmhq1eFGz4BxRQBERABERABERABERABERCBaAJSnqPZKEQE6ouApBUBERABERABERABERABEagZASnPNUOrhEVABEZKQPFFQAREQAREQAREQAREIKkEpDwntWYklwiIQD0SkMwiIAIiIAIiIAIiIAINSkDKc4NWrIolAiIgAqMjoKtEQAREQAREQAREQAQqEZDyXImK/ERABERABOqXgCQXAREQAREQAREQgRoQkPJcA6hKUgREQAREQATGQkDXioAIiIAIiIAIJI+AlOfk1YkkEgEREAEREIF6JyD5RUAEREAERKDhCDSQ8rzWqsh2ro9M28ZyCWGQ7dgAmLFaw901KpAIiIAIiEATEFARRUAEREAERGB5Ao2hPOc6P4JM8Sag9DAseFQuIQyAR5Ar3YpMx87LNzudiYAIiIAIiIAI1JyAMhABERABEagqgfpXnldffSWUwm9QYd4SsCzgIJcYBi1w9h6YOxWtHWuxYmRFQAREQAREQAREYNgEFFEEREAEkkSg/pXn11qnwbDOoMKcJLSSZZCAV+SxBhC0D57rUwREQAREQAREQASahoAKKgIi0EAE6l95Lkx9ASH+AWrQkEkgAQPr5zH09T+aQOEkkgiIgAiIgAiIgAiIQCwBBYqACCwlUP/KMx4rIgi/A7gnIAUayTJUnJ3rQdpOAHoXJUs2SSMCIiACIiACIiACItAUBFRIEagSgQZQnkmi2PsIwvDzQPgfSIFGMoxXnNENcwehr+veZMgkKURABERABERABERABESg/ghI4mQQaAzl2bPs7/0rMLATHO6DFGhMrKHiDPcfhG5vFHpumlhZlLsIiIAIiIAIiIAIiIAIiMAEE2iI7BtHefbVUZj/BNLF3YHSRTwtQUo0JsSYuxIY2AED3X+akPyVqQiIgAiIgAiIgAiIgAiIgAhUlQDQWMqzh7N4fhcKvYciZXsAoX4H7ZmMizPixlzAjkK+e18U5j0FGREQAREQAREQAREQAREQARFoEAJ1rzxH1sPiruu48bwdyrugkbEUUBUCVJyduwUIPoFC14+qkqQSEQEREAEREAEREAEREAEREIEEEWhc5dlDzvc8x13QzwP2JTg8y28k0NSxSAY4zGEBjkJx8i7on/NPHsuKgAiIgAiIgAiIgAiIgAiIQMMRaGzlebC6+rkbeg5awp2B0L+8Sr+FHuQyhk8qzdzWJ88/wbldUfC7zU8VxpCgLhUBERABERABERAB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 [...]
+
+---
+
+## 22. [MAYBE] Rackner | Telemetry & Performance Data Analyst-Federal Health IT
+- Link: https://job-boards.greenhouse.io/rackner/jobs/4752908005
+- Location: Remote
+- Posted: Nov 09 16:44 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, power bi, python, sql, data quality, healthcare, kpi, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Telemetry &amp; Performance Data Analyst-Federal Health IT Location: Remote (US) Clearance: Public Trust&nbsp; &nbsp; Rackner is seeking a detail-oriented Telemetry &amp; Performance Data Analyst to turn data into actionable insights that help teams make smarter decisions and improve performance. The Data Analyst will build engaging dashboards, track key metrics, and uncover trends that drive efficiency, enhance user experience, and support continuous improvement. This role will focus on tracking health, optimizing speed and efficiency, and helping to solve technical and operational issues. &nbsp; Responsibilities Collect, organize, and analyze data from multiple systems to track performance and operational trends. Develop and maintain interactive dashboards and reports using Power BI. Establish and monitor key performance indicators (KPIs), ensuring data accuracy, consistency, and reliability. Analyze historical and current data to identify trends, measure progress, and establish performance baselines. Track user engagement, training effectiveness, and technology adoption. Identify data gaps, troubleshoot reporting discrepancies, and recommend improvements. Collaborate with cross-functional teams to support reporting needs and data-driven decision-making. Qualifications 3+ years of experience in data analysis, business intelligence, or performance reporting. Proficiency with Power BI and SQL. Experience with data monitoring, reporting, or analytics tools such as Splunk or ServiceNow. Strong analytical, problem-solving, and communication skills. Ability to organize complex data and present findings to technical and non-technical audiences. Ability to meet applicable background investigation requirements. &nbsp; Preferred Qualifications Experience with Python for data analysis or automation. Familiarity with healthcare, operational, or enterprise performance analytics. Experience developing performance dashboards and automated reporting solutions. Knowledge of data quality management and performance measurement methodologies. &nbsp; About Rackner Rackner builds mission-critical systems for the U.S. government across software engineering, AI/ML, DevSecOps, cloud platforms, distributed systems, and application modernization.&nbsp; Benefits &amp; Perks Rackner offers a comprehensive benefits package to eligible employees, including: Medical, dental, vision, life, and disability insurance. 401(k) retirement plan with company matching contributions. Paid time off and paid holidays. Professional development and company-supported certification opportunities. Home-office equipment and remote-work support. Fitness and wellness reimbursement programs. Weekly pay and company team events. Benefits are subject to applicable plan terms and eligibility requirements. Equal Employment Opportunity Rackner
+
+---
+
+## 23. [MAYBE] Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/Bryan-TX/Assistant-Research-Scientist--Joint-Microscopy-Laboratory_R-098650-1
 - Location: Bryan, TX
 - Posted: Nov 09 (board gives the date only)
@@ -665,7 +716,7 @@ Job Title Assistant Research Scientist, Joint Microscopy Laboratory Agency Texas
 
 ---
 
-## 21. [MAYBE] Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory
+## 24. [MAYBE] Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Bryan-TX/Assistant-Research-Scientist--Joint-Microscopy-Laboratory_R-098650
 - Location: Bryan, TX
 - Posted: Nov 09 (board gives the date only)
@@ -679,7 +730,87 @@ Job Title Assistant Research Scientist, Joint Microscopy Laboratory Agency Texas
 
 ---
 
-## 22. [MAYBE] Regions Bank | Business Unit Operational Risk Analyst
+## 25. [MAYBE] WSP | Environmental Data Analytics Specialist
+- Link: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98898
+- Location: Redmond, WA, United States US Seattle, WA, United States Portland, OR, United States
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 7 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, python, r, git | Lacks: -
+
+### Job description
+
+This Opportunity WSP is currently initiating a search for an Environmental Data Analytics Specialist for our Redmond, WA, Seattle, WA, or Portland, OR offices. Be involved in projects with our Environment, Remediation, and Water Team and be a part of a growing organization that meets our client’s objectives and solves their challenges. Your Impact Perform both geographic and non-geographic data manipulation, data management and analysis, and develop/use automated data management processes using a variety of software environments. Revise existing GIS layers and create new layers following established standards and procedures. Maintain quality control standards and procedures for accurate and precise measurement and documentation. Assist with performing basic professional environmental science work relating to ecological systems, air, and water resources, assisting with verifying the characteristics of a site and providing entry-level technical assistance on various environmental issues. Work on multiple projects simultaneously, with a commitment to keeping projects on time and within budget. Work in a production-oriented environment as part of a team. Prepare technical documentation of project requirements, procedures, execution, and implementation plans. Maintain metadata and best practices to support systems and data. Assist in the preparation of various analytical reports and monthly progress reports suitable for meetings. Exercise responsible and ethical decision-making regarding company funds, resources and conduct, and adhere to WSP’s Code of Conduct and related policies and procedures. Perform additional responsibilities as required by business needs. Who You Are Required Qualifications Bachelor’s Degree in Environmental Science, Geology, Chemistry, Natural Resources Management, Geography, Computer Science, GIS, or a related science field. Experience using ESRI's ArcGIS Pro (ArcMap, ArcCatalog). Basic familiarity with database development and management (using MS Access and/or EQuIS). Basic familiarity with programming languages (for example Python, R, or Visual Basic). Familiarity with other Microsoft Office software (Excel, Office, Word, Access, and PowerPoint). Must possess good organizational and oral and written communication skills. Ability to work both independently and as part of a team. Excellent analytical / problem-solving skills. Competent interpersonal and communication skills when interacting with others, expressing ideas effectively and professionally to a scientific and non-scientific audience. Proficient self-leadership with attention to detail, multi-tasking, and prioritization of responsibilities in a dynamic work environment. Basic proficiency with business writing, office automation and communication software, technology, and tools. Proven track record of upholding workplace safety and ability to abide by WSP’s health, safety and drug/alcohol and harassment policies. Preferred Qualifications: Master’s Degree in Environmental Science, Geology, Chemistry, Natural Resources Management, Geography, Computer Science, GIS, or a related science field. Experience with laboratory analytical data packages and electronic data reports. Experience using ESRI’s ArcGIS Spatial Analyst Extension. Proficient with programming languages Python , R, and/or Visual Basic. Experience with 3D environmental visualization software (e.g. LeapFrog, EVS). Experience with code version control systems such as git. WSP Benefits: WSP provides a comprehensive suite of benefits focused on a providing health and financial stability throughout the employee’s career. These benefits include coverage related to medical, dental, vision, disability, and life; retirement savings; paid sick leave; paid vacation (or other personal time); paid parental leave; and paid time off for purposes of bereavement, voting, and/or attendance at naturalization proceedings. Compensation: Expected Salary (all locations): $63,000 - $86,600 WSP USA is providing the compensation range that the company in good faith believes it might pay and offer for this position, based on the successful applicant’s education, experience, knowledge, skills, abilities in addition to internal equity and specific geographic location. WSP USA reserves the right to ultimately pay more or less than the posted range and offer additional benefits and other compensation, depending on circumstances not related to an applicant’s sex or other status protected by local, state, and/or federal law. #LI-JA1
+
+---
+
+## 26. [MAYBE] TikTok | Research Scientist Graduate (TikTok - Data - Search - Visual Search) - 2027 Start (PhD)
+- Link: https://lifeattiktok.com/search/7667346535273007413
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~53 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: llm, machine learning, nlp, statistic, publication, research | Lacks: scala
+
+### Job description
+
+Our Search Engineering Team is responsible for building and owning TikTok's search engine which can provide our users with the best search experience. In TikTok Search Team, you'll have the opportunity to build full-stack search engine systems and combine information retrieval technology with modern machine learning methods from related fields such as NLP, CV, and recommender systems. We embrace a culture of self-direction, intellectual curiosity, openness, and problem-solving.
+
+We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth. Successful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your resume.
+
+This full-time PhD Graduate role provides early-career researchers and engineers the opportunity to join one of our engineering teams where you will have the opportunity to:
+Participate in applied research and improvement of the search core algorithm, possible directions include:
+- Content understanding: Applying the industry's cutting-edge NLP and CV technologies and leveraging LLM to match the most relevant videos for each search query, and continuously improve the relevance of TikTok search.
+- User Behavior Modeling: Solving the recommendation problem in search, let TikTok search increase the ability of personalization on the basis of "relevant", and understand users better.
+- Video understanding: Comprehensive use of NLP, CV, as well as LLM for better video understanding from the perspective of the video itself and social network, improve authority, credibility, and usefulness of search results.
+- Search research and evaluation: Developing new retrieval, ranking, relevance evaluation, query understanding, multimodal search, or LLM application methods and translating research ideas into scalable product improvements. Minimum Qualification(s)
+- Individuals who are completing or have recently completed a PhD degree in Computer Science, Electrical Engineering, Machine Learning, Artificial Intelligence, Information Retrieval, Natural Language Processing, Data Mining, Statistics, or a related technical field.
+- Research or practical experience in one or more areas: search, information retrieval, ranking, recommendation systems, natural language processing, multimodal learning, large language models, data mining, or machine learning systems.
+
+Preferred Qualification(s)
+- Publications, preprints, patents, open-source contributions, or research projects in search, recommendation, NLP, information retrieval, machine learning, or related areas.
+- Experience with large-scale retrieval, ranking, model training, evaluation, online experimentation, distributed systems, or production ML systems.
+- Familiarity with relevance evaluation, query understanding, semantic retrieval, vector search, LLM applications, or multimodal search.
+- Ability to define ambiguous technical problems, compare solution paths, and communicate trade-offs clearly.
+- Interest in applying research to improve search quality, user experience, and product impact at global scale.
+
+---
+
+## 27. [MAYBE] TikTok | Research Scientist Graduate (TikTok - Data - Search - Search Quality) - 2027 Start (PhD)
+- Link: https://lifeattiktok.com/search/7665793152026740997
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~53 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: llm, machine learning, nlp, statistic, publication, research | Lacks: scala
+
+### Job description
+
+Our Search Engineering Team is responsible for building and owning TikTok's search engine, which can provide our users with the best search experience. In TikTok Search Team, you'll have the opportunity to build full-stack search engine systems and combine information retrieval technology with modern machine learning methods from related fields such as NLP, CV, and recommender systems. We embrace a culture of self-direction, intellectual curiosity, openness, and problem-solving.
+
+We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth. Successful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your resume.
+
+This full-time PhD Graduate role provides early-career researchers and engineers the opportunity to join one of our engineering teams where you will have the opportunity to:
+
+Participate in applied research and improvement of the search core algorithm, possible directions include:
+- Content understanding: Applying the industry's cutting-edge NLP and CV technology and leveraging LLM to match the most relevant videos for each search query, and continuously improve the relevance of TikTok search.
+- User Behavior Modeling: Solving the recommendation problem in search, let TikTok search increase the ability of personalization on the basis of "relevant", and understand users better.
+- Video understanding: Comprehensively using NLP, CV, as well as LLM for better video understanding from the perspective of the video itself and social network, improve authority, credibility, and usefulness of search results.
+- Search research and evaluation: Developing new retrieval, ranking, relevance evaluation, query understanding, multimodal search, or LLM application methods and translating research ideas into scalable product improvements. Minimum Qualification(s)
+- Individuals currently pursuing or recently completed a PhD degree in Computer Science, Electrical Engineering, Machine Learning, Artificial Intelligence, Information Retrieval, Natural Language Processing, Data Mining, Statistics, or a related technical field.
+- Must have graduated with an applicable degree before onboarding.
+- Research or practical experience in one or more areas: search, information retrieval, ranking, recommendation systems, natural language processing, multimodal learning, large language models, data mining, or machine learning systems.
+
+Preferred Qualification(s)
+- Publications, preprints, patents, open-source contributions, or research projects in search, recommendation, NLP, information retrieval, machine learning, or related areas.
+- Experience with large-scale retrieval, ranking, model training, evaluation, online experimentation, distributed systems, or production ML systems.
+- Familiarity with relevance evaluation, query understanding, semantic retrieval, vector search, LLM applications, or multimodal search.
+- Ability to define ambiguous technical problems, compare solution paths, and communicate trade-offs clearly.
+- Interest in applying research to improve search quality, user experience, and product impact at global scale.
+
+---
+
+## 28. [MAYBE] Regions Bank | Business Unit Operational Risk Analyst
 - Link: https://regions.wd5.myworkdayjobs.com/regions_careers/job/Charlotte-NC---Charlotte-Uptown-Branch/Business-Unit-Operational-Risk-Analyst_R107241
 - Location: 2 Locations
 - Posted: Nov 08 (board gives the date only)
@@ -693,7 +824,7 @@ Thank you for your interest in a career at Regions. At Regions, we believe assoc
 
 ---
 
-## 23. [MAYBE] University of Kansas Medical Center | Research Assistant – Neurology
+## 29. [MAYBE] University of Kansas Medical Center | Research Assistant – Neurology
 - Link: https://kumc.wd5.myworkdayjobs.com/kumc-jobs/job/Kansas-City-Metro-Area/Research-Assistant---Neurology_JR010738
 - Location: Kansas City Metro Area
 - Posted: Nov 08 (board gives the date only)
@@ -707,7 +838,7 @@ Department: SOM KC Neurology ----- ICU Position Title: Research Assistant – Ne
 
 ---
 
-## 24. [MAYBE] JP Morgan Chase | Portfolio and Performance Analyst - Associate
+## 30. [MAYBE] JP Morgan Chase | Portfolio and Performance Analyst - Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807255
 - Location: Brooklyn, NY, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -721,7 +852,7 @@ Join J.P. Morgan Asset & Wealth Management’s (JPMWM) Portfolio Analysis Group 
 
 ---
 
-## 25. [MAYBE] Lunar Outpost | Full Stack AI Engineer
+## 31. [MAYBE] Lunar Outpost | Full Stack AI Engineer
 - Link: https://lunaroutpost.bamboohr.com/careers/408
 - Location: Golden Colorado
 - Posted: new since the previous sweep (board shows no date)
@@ -735,7 +866,7 @@ Are you passionate about shaping the future of humanity's presence in spac e ? L
 
 ---
 
-## 26. [MAYBE] Verne Robotics | Founding Research Scientist
+## 32. [MAYBE] Verne Robotics | Founding Research Scientist
 - Link: https://jobs.ashbyhq.com/Verne/cad20f9e-413b-45c4-b803-f949c225be44
 - Location: San Francisco United States
 - Posted: Nov 08 21:34 ET
@@ -811,7 +942,7 @@ Help build models that learn real jobs and robots that perform them reliably. In
 
 ---
 
-## 27. [MAYBE] NewDay | Associate Business Analytics Analyst
+## 33. [MAYBE] NewDay | Associate Business Analytics Analyst
 - Link: https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Associate-Business-Analytics-Analyst_JR0726
 - Location: Leeds
 - Posted: Nov 08 (board gives the date only)
@@ -825,7 +956,7 @@ This role is a great opportunity to use data and insight to help shape how our C
 
 ---
 
-## 28. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
+## 34. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
 - Link: https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Dusseldorf-GER/Forensic-Consultant---IT-Forensics--eDiscovery--Data-Analytics---AI_JR101237
 - Location: Dusseldorf, GER
 - Posted: Nov 08 (board gives the date only)
@@ -839,7 +970,7 @@ We Do Consulting Differently Open to all genders (m/f/d) About the role We are s
 
 ---
 
-## 29. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
+## 35. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
 - Link: https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Milcov/Medium-IT-Business-Intelligence-Analyst_R-38436
 - Location: Milcov
 - Posted: Nov 08 (board gives the date only)
@@ -853,7 +984,7 @@ Job Title CoE SAP BI Business Analyst Responsibilities and Main Duties SAP BW/4H
 
 ---
 
-## 30. [MAYBE] University of Southern California | Research Associate
+## 36. [MAYBE] University of Southern California | Research Associate
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Research-Associate_REQ20182670
 - Location: Los Angeles, CA - Health Sciences Campus
 - Posted: Nov 08 (board gives the date only)
@@ -867,7 +998,7 @@ The USC Department of Orthopaedic Surgery is seeking a Research Associate to ass
 
 ---
 
-## 31. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 37. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804910
 - Location: Plano, TX, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -881,7 +1012,21 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 32. [MAYBE] Valeo | AI Engineer
+## 38. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I - Motion Analysis Lab
+- Link: https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Research-Assistant-I---Motion-Analysis-Lab_JR2026-106160-1
+- Location: New York, NY
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, calibration, credit, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+How you move is why we’re here. ® Now more than ever. Get back to what you need and love to do. The possibilities are endless... Now more than ever, our guiding principles are helping us in our search for exceptional talent - candidates who align with our unique workplace culture and who want to maximize the abundant opportunities for growth and success. If this describes you then let’s talk! HSS is consistently among the top-ranked hospitals for orthopedics and rheumatology by U.S. News & World Report. As a recipient of the Magnet Award for Nursing Excellence, HSS was the first hospital in New York City to receive the distinguished designation. Whether you are early in your career or an expert in your field, you will find HSS an innovative, supportive and inclusive environment. Working with colleagues who love what they do and are deeply committed to our Mission, you too can be part of our transformation across the enterprise. Emp Status Regular Full time Work Shift Compensation Range The base pay scale for this position is $23.90 - $36.54. In addition, this position will be eligible for additional benefits consistent with the role. The salary of the finalist selected for this role will be determined based on various factors, including but not limited to: scope of role, level of experience, education, accomplishments, internal equity, budget, and subject to Fair Market Value evaluation. The hiring range listed is a good faith determination of potential compensation at the time of this job advertisement and may be modified in the future. What you will be doing Research Assistant I Leon Root Motion Analysis Laboratory (LRMALab) Hospital for Special Surgery (HSS) Requirements of this position include a Bachelors degree (BS or BA) in engineering, rehabilitation, biology, physical therapy, kinesiology, anatomy, physiology, neuroscience, or a related discipline; interest and basic experience in the motion analysis process; and excellent written and verbal communication skills. The ideal candidate would have experience in human movement analysis but new graduates will be considered. Prior clinical experience would be a plus. The Research Assistant I position includes collection and analysis of 3D and 2D motion capture, ground reaction force, electromyographic, and plantar pressure data on patients to serve as the basis for their clinical treatment planning. This Research Assistant I is a one-year full-time position which may be extended based upon both positive performance review and programmatic need. Benefits are included. The position responsibilities are primarily but not limited to: a) Perform data collection and processing for individuals undergoing clinical movement analysis or research protocols. b) Preparation and calibration of instrumentation for data collection and maintenance of laboratory space and equipment c) Manage research subject recruitment and related documentation. This includes: contacting and screening subjects, test scheduling, providing informed consent, and updating and maintaining research study documents. d) Assist with the preparation and submission of grants. e) Communication with physicians, scientists, physical therapists, biomechanists, and administrative staff. The person is expected to work closely with LRMALab and HSS staff to creatively streamline study workflows and increase efficiency by identifying roadblocks, brainstorming alternative strategies, and scheduling meetings to appraise study progress. You will receive guidance and training from a number of other faculty and staff in the clinical and scientific aspects of human movement analysis. You will report to Silvia Zanini, MS our Biomechanist III. The LRMALab evaluates a wide range of individuals including pediatric, adult and geriatric in a multi-disciplinary environment. There are typically 10 to 20 active research studies. There are typically a full case load of lower extremity and upper extremity movement analysis patients. Our central philosophy is to objectively examine anatomical/physiological structure and biomechanical function to improve our methods of treating neuromusculoskeletal disease. Our vision is to enhance diagnosis, prognosis, and treatment strategies. For more information about the LRMALab, please go to http://www.hss.edu/rehab-motion-analysis.asp . HSS
+
+---
+
+## 39. [MAYBE] Valeo | AI Engineer
 - Link: https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/AI-Engineer_REQ2026081784
 - Location: Créteil
 - Posted: Nov 08 (board gives the date only)
@@ -895,7 +1040,7 @@ Valeo is a tech global company, designing breakthrough solutions to reinvent the
 
 ---
 
-## 33. [MAYBE] Relay Financial | Credit Risk Analyst
+## 40. [MAYBE] Relay Financial | Credit Risk Analyst
 - Link: https://jobs.ashbyhq.com/relayfi/25ee1242-658a-4ce0-8634-fdb1d20a5349
 - Location: Toronto, ON Canada remote
 - Posted: Nov 09 11:19 ET
@@ -1009,7 +1154,7 @@ Important Notice: Relay’s recruitment team only contacts candidates and corres
 
 ---
 
-## 34. [MAYBE] JP Morgan Chase | External Regulatory Reporting Analyst
+## 41. [MAYBE] JP Morgan Chase | External Regulatory Reporting Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797617
 - Location: Newark, DE, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -1023,7 +1168,7 @@ Join JPMorganChase's Firmwide Regulatory Reporting & Analysis (FRRA) team, where
 
 ---
 
-## 35. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
+## 42. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
 - Link: https://staff-emory.icims.com/jobs/178496/research-scientist--school-of-medicine%2c-pulmonary/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1037,7 +1182,7 @@ Emory Careers | Research Scientist- School of Medicine, Pulmonary in Atlanta, Ge
 
 ---
 
-## 36. [MAYBE] US Foods | Pricing Analyst, 100% Onsite, Raleigh
+## 43. [MAYBE] US Foods | Pricing Analyst, 100% Onsite, Raleigh
 - Link: https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Raleigh-NC/Pricing-Analyst--100--Onsite--Raleigh_R283734-1
 - Location: Raleigh NC
 - Posted: Nov 09 (board gives the date only)
@@ -1051,7 +1196,7 @@ ARE YOU A CURRENT US FOODS EMPLOYEE? PLEASE APPLY DIRECTLY THROUGH OUR INTERNAL 
 
 ---
 
-## 37. [MAYBE] The New School | Research Assistant – Social Media & Audience Growth
+## 44. [MAYBE] The New School | Research Assistant – Social Media & Audience Growth
 - Link: https://newschool.wd1.myworkdayjobs.com/external/job/L---2-West-13th-Street/Research-Assistant---Social-Media---Audience-Growth_JR110113
 - Location: L - 2 West 13th Street
 - Posted: Nov 09 (board gives the date only)
@@ -1065,7 +1210,7 @@ Faculty Laura Lanteri is looking for a strong student or junior researcher to su
 
 ---
 
-## 38. [MAYBE] University of Mississippi Medical Center | Research Associate
+## 45. [MAYBE] University of Mississippi Medical Center | Research Associate
 - Link: https://ummc.wd5.myworkdayjobs.com/UMCCareers/job/Jackson-MS/Research-Associate_R00055131-1
 - Location: Jackson, MS
 - Posted: Nov 09 (board gives the date only)
@@ -1076,4 +1221,32 @@ Faculty Laura Lanteri is looking for a strong student or junior researcher to su
 ### Job description
 
 Hello, Thank you for your interest in career opportunities with the University of Mississippi Medical Center. Please review the following instructions prior to submitting your job application: Provide all of your employment history, education, and licenses/certifications/registrations. You will be unable to modify your application after you have submitted it. You must meet all of the job requirements at the time of submitting the application. You can only apply one time to a job requisition. Once you start the application process you cannot save your work. Please ensure you have all required attachment(s) available to complete your application before you begin the process. Applications must be submitted prior to the close of the recruitment. Once recruitment has closed, applications will no longer be accepted. After you apply, we will review your qualifications and contact you if your application is among the most highly qualified. Due to the large volume of applications, we are unable to individually respond to all applicants. You may check the status of your application via your Candidate Profile. Thank you, Human Resources Important Applications Instructions: Please complete this application in entirety by providing all of your work experience, education and certifications/ license. You will be unable to edit/add/change your application once it is submitted. Job Requisition ID: R00055131 Job Category: Research Organization: SOM-Cell and Molecular Biology- Raucher Location/s: Main Campus Jackson Job Title: Research Associate Job Summary: The Research Associate is a key member of a research team, responsible for conducting experiments, analyzing data, and contributing to scientific investigations. This position is ideal for candidates with a strong scientific background who are eager to engage in independent and collaborative research projects. Education & Experience Education and Experience: Master's Degree in a field of science or Bachelor's in a field of science and two (2) years of laboratory experience Certifications, Licenses, or Registration Required: N/A Preferred Qualifications: Research experience in academic or industry setting Knowledge, Skills & Abilities Responsibilities: Design and execute experiments under the direction of the principal investigator (PI). Conduct molecular, cellular, and/or biochemical assays as part of research studies. Collect, analyze, and interpret experimental data using statistical and imaging software. Contribute to manuscript preparation and presentation of research findings. Maintain accurate and detailed laboratory records. Collaborate with research teams to support multiple ongoing studies. Train and mentor junior staff, students, or research assistants providing guidance on laboratory procedures and best practices. Manage laboratory inventory, ensuring proper ordering and organization of supplies and reagents. Maintain and troubleshoot laboratory equipment, coordinating maintenance and repairs as needed. May assist in animal husbandry, collection of physiological data, and euthanasia. The duties listed are general in nature and are examples of the duties and responsibilities performed and are not meant to be construed as exclusive or all-inclusive. Management retains the right to add or change duties at any time. Physical and Environmental Demands: Requires frequent bending at the waist, frequent crouching/stooping, occasional kneeling, frequent reaching, occasional carrying/lifting up to 75 pounds, occasional push/pulling, frequent walking, frequent standing, frequent sitting, occasional driving, occasional frequent exposure to unpleasant or disagreeable physical environments such as high noise level and exposure to heat and cold, occasional handling or working with potentially dangerous equipment/machinery, occasional exposure to bio-hazardous conditions such as risk of radiation exposure, bloodborne pathogens, fumes or airborne particles, and/or toxic or caustic chemicals, which mandate attention to safety considerations, occasional working hours significantly beyond regularly scheduled hours, occasional travelling to offsite locations, occasional activities subject to significant volume changes of a seasonal/clinical nature, and constant work produced subject to precise measures of quantity and quality. Time Type: Full time FLSA Designation/Job Exempt: Yes Pay Class: Salary FTE %: 100 Work Shift: Day Benefits Eligibility: Grant Funded: No Job Posting Date: 11/9/2026 Job Closing Date (open until filled if no date specified):
+
+---
+
+## 46. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
+- Link: https://jobs.smartrecruiters.com/PAConsulting/744000160735969
+- Location: Chicago us
+- Posted: Nov 09 16:55 ET
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 7 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, quantitative, research | Lacks: -
+
+### Job description
+
+PA's Growth Strategy team helps organizations identify opportunities for sustainable growth through customer insight, market analysis, and strategic thinking. As an Analyst in our Early Career Program, you will work alongside experienced practitioners to solve complex business challenges and help clients make confident strategic decisions. Our Early Career Analyst Program is designed for individuals beginning their professional journey in consulting as either a recent college grad or by re-entering the workforce following continued education and development. We welcome students graduating in Fall/Winter 2026 or Spring 2027, as well as individuals who have developed relevant capabilities through apprenticeships, workforce development programs, military service, community leadership, or other non-traditional pathways. Through mentorship, hands-on project work, formal development opportunities, and client engagements, you will build the skills needed for a successful consulting career. As a Growth Strategy Analyst at PA, you will: Conduct quantitative and qualitative research to support client recommendations. Analyze customer, market, financial, and business data to uncover growth opportunities. Support the development of strategic recommendations and business cases through evidence-based hypotheses. Participate in interviews, workshops, and collaborative problem-solving sessions to create clear, compelling presentations and deliverables for internal and client audiences. Contribute curiosity, creativity, and analytical rigor to project teams. Be welcomed to build office and company culture through the involvement in employee resource groups and firm initiatives. We're looking for individuals who are curious, collaborative, and motivated to solve complex challenges. Successful candidates will typically demonstrate: Strong problem-solving and analytical skills. You’re able to simplify complex problems and ideas through structured analysis and clear thinking. Comfort with conducting quantitative and qualitative research. Excellent written and verbal communication abilities with the ability to collaborate effectively across teams, disciplines, and seniority-levels. Initiative, adaptability, and comfort working in dynamic environments. Commitment to inclusive teamwork and respect for diverse perspectives. Your background includes: Bachelor's or Master's degree expected by Fall/Winter 2026 or Spring 2027 or similar recent completion of non-traditional pathways. All academic backgrounds are welcome. Experience with Excel, PowerPoint, and Word required. Experience with research, analytics, AI tools, coding, leadership activities, apprenticeships, work experience, or community involvement is a plus. Hybrid working - our approach is to be in the office or on client site a minimum of 2 days per week. However, the actual time you spend and where you spend it will vary by role or assignment, including up to 5 days per week on a client site Life At PA encompasses our peoples' experience at PA. It's about how we enrich peoples’ working lives by giving them access to unique people and growth opportunities and purpose led meaningful work. Our purpose guides how we work with our clients and our teams, and support our communities, to deliver insight and impact, solving the world’s most complex challenges. We're focused on building a workplace that values human difference and diverse mindsets, and a culture of inclusion and equality that unlocks the potential in our people so everyone can be their best self. Find out more about Life at PA here . We are dedicated to supporting the physical, emotional, social and financial well-being of our people. Check out some of our extensive benefits: Group medical insurance Health Savings Account with company match Teladoc and informed Nurse line resources Long term care plan Group dental insurance Vision plan 401(k) Savings Plan with company profit sharing contribution Commuter and Parking tax-savings benefit 15 days paid vacation days with the opportunity to buy five additional days 10 paid Holidays plus 10 paid sick days Company and Voluntary income protection benefits Gym and health incentive reimbursement Pet and legal insurance Plans Employee Assistance Plan Annual performance-based bonus We’re committed to advancing equality. We recruit, retain, reward and develop our people based solely on their abilities and contributions and without reference to their age, background, disability, genetic information, parental or family status, religion or belief, race, ethnicity, nationality, sex, sexual orientation, gender identity (or expression), political belief veteran status, or other by any other range of human difference brought about by identity and experience. We welcome applications from underrepresented groups. Adjustments or accommodations - Should you need any adjustments or accommodations to the recruitment process, at either application or interview, please contact us on recruitmentenquiries@paconsulting.com In compliance with Colorado’s, New York’s, Illinois’, & Massachusetts' Equal Pay Transparency Act, PA is required to provide a reasonable salary range for this role. This salary range is specific to Illinois and is commensurate with experience, market data, applicant skills, internal equity and/or degrees/certifications. Salary Range: $94,500 - $104,475 #LI-JS1
+
+---
+
+## 47. [MAYBE] Georgetown University | HRC Oral History Research Associate, Georgetown Institute for Women, Peace and Security (GIWPS), Walsh School of Foreign Service (SFS)
+- Link: https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/New-York/HRC-Oral-History-Research-Associate--Georgetown-Institute-for-Women--Peace-and-Security--GIWPS---Walsh-School-of-Foreign-Service--SFS-_JR28084
+- Location: New York
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: dashboard, research, validation | Lacks: -
+
+### Job description
+
+Georgetown University comprises two unique campuses in the nation’s capital. With the Hilltop Campus located in the heart of the historic Georgetown neighborhood, and the Capitol Campus, just minutes from the U.S. Capitol and U.S. Supreme Court, Georgetown University offers rigorous academic programs, a global perspective, and unparalleled opportunities to engage with Washington, D.C. Our community is a close-knit group of remarkable individuals driven by intellectual inquiry, a commitment to social justice, and a shared dedication to making a difference in the world. Requirements Job Overview The Georgetown Institute for Women, Peace and Security (GIWPS), School of Foreign Service is looking for a dynamic and enthusiastic Research Associate to support the Hillary Rodham Clinton Oral History Project (HRCOHP). The Project’s goal is to create an authoritative archive of spoken recollections and reflections that serve as the first history of her tenure as Secretary of State, including the diplomatic, political, and humanitarian world in which she engaged. Additional duties and responsibilities of the Research Associate include, but are not limited to: Conduct primary and secondary research, including archival research, in support of the Project Director. Travel with and on behalf of the Project Director to visit archives and other repositories in support of project research and to assist in conducting oral history interviews. Develop literature reviews, track down archival documents, and support the drafting and editing of written deliverables. Organize research materials for use in oral history interview preparation in partnership with the Project Director and Research Coordinator. Collaborate with the Project Director to provide substantive input on the development of interview questions. Support HRCOHP staff with tasks related to research and interview preparation including scheduling, document management, and other miscellaneous administrative tasks relevant to the overall project. Work Interactions The Research Associate will directly report to the Project Director and support the Director’s research, interview preparation, and validation of interview transcripts. This position will also collaborate with the Research Coordinator and the HRC Oral History Fellow in carrying out duties such as scheduling, research organization, and strategic planning that are shared by all team members. Requirements and Qualifications Required bachelor's degree in history, political science, international relations, or related field. Familiarity with security studies and women, peace, and security is a plus. Experience in archival research, including organizing research materials and preparing written summaries of research findings. Demonstrated experience preparing for oral history interviews including but not limited to, drafting questions and conducting background research from primary and secondary sources. Proven track record of conducting and communicating policy-relevant research and strong critical thinking and writing skills. Comfortability traveling domestically to assist the Director with interviews and research. Ability to interrogate documents on U.S. foreign policy broadly. Familiarity with the Hillary Doctrine and other efforts to integrate women into U.S. foreign policy, particularly during Secretary Clinton’s tenure is preferred. Must maintain confidentiality and conduct all work in accordance with the HRCOHP’s intellectual property protocols. Work Mode Designation This position has been designated as Remote. Please note that work mode designations are regularly reviewed in order to meet the evolving needs of the University. Such review may necessitate a change to a position’s mode of work designation. Complete details about Georgetown University’s mode of work designations for staff positions can be found on the Department of Human Resources website: https://hr.georgetown.edu/mode-of-work-designation . Pay Range: The projected salary or hourly pay range for this position which represents the full range of anticipated compensation is: $41,926.00 - $65,090.00 Compensation is determined by a number of factors including, but not limited to, the candidate’s individual qualifications, experience, education, skills, and certifications, as well as the University’s business needs and external factors. Current Georgetown Employees: If you currently work at Georgetown University, please exit this website and login to GMS ( gms.georgetown.edu ) using your Net ID and password. Then select the Career worklet on your GMS Home dashboard to view Jobs at Georgetown. Submission Guidelines: Please note that in order to be considered an applicant for any position at Georgetown University you must submit a resume for each position of interest for which you believe you are qualified. Documents are not kept on file for future positions. Need Assistance: If you are a qualified individual with a disability and need a
 
