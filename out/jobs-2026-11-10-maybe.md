@@ -20,22 +20,26 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 14 | Mars | Analyst, Walmart Analytics | 56 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
 | 15 | Momentive | Research scientist | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
 | 16 | Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 17 | Barclays | Business Insights & Analytics Analyst | 54 | 142 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 18 | Snap | Research Scientist, Research | 54 | 52 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 19 | Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads | 54 | 1053 in data/analytics/finance occupations | Nov 10 10:08 ET |
-| 20 | Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst | 54 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 21 | Lila Sciences | ML Research Engineer, Performance Optimization | 53 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 22 | Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation | 50 | 2 in data/analytics/finance occupations | Nov 10 09:58 ET |
-| 23 | ibotta | Analytics Engineer | 50 | 1 in data/analytics/finance occupations | Nov 10 11:53 ET |
-| 24 | Montefiore Medical Center | Research Associate I - | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 25 | Wash U | Bioinformatics Research Analyst - Neurology | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 26 | Washington University in St. Louis | Bioinformatics Research Analyst - Neurology | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 27 | Lila Sciences | ML Research Scientist, Environments & Harnesses | 47 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 28 | First American | Business Intelligence Specialist (Remote) | 46 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 29 | Lila Sciences | ML Research Scientist, Scientific Evaluations | 44 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 30 | Anglian Water | Data Engineer | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 31 | University of Miami | Research Associate I | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
-| 32 | Zekelman Industries | Analytics Engineer | 40 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 17 | EVERSANA | Conversational AI Engineer  | 55 | 9 in data/analytics/finance occupations | Nov 10 13:34 ET |
+| 18 | Highmark Health | Strategy Analyst | 55 | 11 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 19 | Southern New Hampshire University | Market Research and Insights Analyst | 55 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 20 | Barclays | Business Insights & Analytics Analyst | 54 | 142 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 21 | Snap | Research Scientist, Research | 54 | 52 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 22 | Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads | 54 | 1053 in data/analytics/finance occupations | Nov 10 10:08 ET |
+| 23 | Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst | 54 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 24 | Centific | Power BI Developer | 54 | 11 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 25 | Lila Sciences | ML Research Engineer, Performance Optimization | 53 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 26 | Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation | 50 | 2 in data/analytics/finance occupations | Nov 10 09:58 ET |
+| 27 | ibotta | Analytics Engineer | 50 | 1 in data/analytics/finance occupations | Nov 10 11:53 ET |
+| 28 | Montefiore Medical Center | Research Associate I - | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 29 | Wash U | Bioinformatics Research Analyst - Neurology | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 30 | Washington University in St. Louis | Bioinformatics Research Analyst - Neurology | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 31 | Lila Sciences | ML Research Scientist, Environments & Harnesses | 47 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 32 | First American | Business Intelligence Specialist (Remote) | 46 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 33 | Lila Sciences | ML Research Scientist, Scientific Evaluations | 44 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 34 | Anglian Water | Data Engineer | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 35 | University of Miami | Research Associate I | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 36 | Zekelman Industries | Analytics Engineer | 40 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
 
 ---
 
@@ -342,7 +346,49 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 17. [MAYBE] Barclays | Business Insights & Analytics Analyst
+## 17. [MAYBE] EVERSANA | Conversational AI Engineer 
+- Link: https://jobs.smartrecruiters.com/EVERSANA1/744000160943474
+- Location: Overland Park KS us remote
+- Posted: Nov 10 13:34 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 9 in data/analytics/finance occupations
+- Type: full-time (40 h/week stated)
+- Title scope: core | Has: aws, dashboard, excel, llm, fraud, git, healthcare | Lacks: scala
+
+### Job description
+
+THE POSITION: The Conversational AI Engineer is responsible for designing, building, and supporting intelligent virtual agents using NICE Cognigy, with a focus on digital chat and conversational experiences. This role partners with business, IT, and experience design teams to create scalable, reliable chatbot and virtual assistant solutions that deflect contacts, streamline customer journeys, and integrate seamlessly with the broader contact center ecosystem. Experience with the Cognigy conversational AI platform is highly desirable to support advanced NLU, dialog orchestration, and enterprise‑grade automation use cases. ESSENTIAL DUTIES AND RESPONSIBILITIES: Our employees are tasked with delivering excellent business results through the efforts of their teams. These results are achieved by: Analyze business requirements and understand conversation flows, including flow diagrams, dialog logic, and acceptance criteria. Design, build, test, and maintain NICE virtual agents, with a primary focus on digital chat and self‑service use cases. Develop and manage conversation flows, intents, entities, dialog logic, and handoff scenarios to live agents across voice and digital channels. Configure and tune natural language understanding (NLU) models to improve intent recognition, accuracy, and customer experience. Implement and maintain integrations between Cognigy and backend systems, including CRM, knowledge bases, APIs, and automation services. Support human handoff and omnichannel continuity, ensuring context is preserved when escalating from bot to live agent. Monitor and optimize bot performance using analytics, transcripts, and interaction data to improve containment and task completion. Manage releases across Dev/QA/UAT/Prod using snapshots/packages, version control, release notes, and rollback plans; support UAT, go-live, and post-deployment monitoring Troubleshoot and resolve production issues related to bot behavior, NLU accuracy, integrations, and platform performance. Maintain detailed technical documentation for conversation designs, configurations, and integrations. Ensure all conversational AI solutions comply with security, privacy, accessibility, and compliance standards. All other duties as assigned It is the policy of EVERSANA to provide reasonable accommodation when requested by an employee with a disability, unless such accommodation would cause an undue hardship for EVERSANA. If reasonable accommodation is needed to perform the essential functions of your job position, please contact Human Resources. EXPECTATIONS OF THE JOB: Collaborate closely with Business Analysts, CX designers, product owners, and stakeholders during discovery and design workshops. Participate in design reviews, backlog refinement, and release planning for virtual agent initiatives. Communicate clearly with technical and non‑technical partners regarding bot capabilities, limitations, and release readiness. Follow established change management, testing, and documentation standards for all chatbot deployments. Stay current on advancements in conversational AI, NLU, generative AI, and chatbot design best practices. Support production releases and provide after‑hours support as needed for critical issues. Contribute to continuous improvement by identifying opportunities to expand self‑service and automation use cases. Travel: N/A (or limited travel as needed for workshops, vendor sessions, or team meetings) Hours: 40 hours per week, Monday–Friday; occasional after‑hours support may be required for major releases or critical production issues The above list reflects the general details necessary to describe the expectations of the position and shall not be construed as the only expectations that may be assigned for the position. MINIMUM KNOWLEDGE, SKILLS AND ABILITIES: The requirements below are representative of the experience, education, knowledge, skills, and abilities required to perform this job effectively. Education Bachelor’s degree in Information Technology, Computer Science, Engineering, or a related field, or equivalent practical experience. Experience and/or Training 3–5 years of experience developing or supporting conversational AI, chatbots, or virtual assistant solutions. Hands‑on experience building chatbots using NICE Cognigy or comparable virtual agent platforms. Strong understanding of conversational design, NLU concepts, intent modeling, and dialog management. Experience integrating chatbots with enterprise systems using APIs and web services. Experience supporting solutions in a production, enterprise IT environment. Technology / Equipment Experience with chatbot development tools, NLU platforms, and analytics dashboards. Familiarity with REST APIs, JSON payloads, and system integrations. Experience using ticketing, backlog, and documentation tools (e.g., Jira, Confluence, ServiceNow). PREFERRED QUALIFICATIONS: The qualifications below are preferred and may be used to distinguish top candidates. Education Bachelor’s degree in a technical or analytical discipline. Advanced coursework or training in systems analysis, product management, or customer experience technologies. Experience and/or Training Hands‑on experience with the Cognigy conversational AI platform. Experience supporting voice and digital virtual agents, including omnichannel handoff. Experience tuning NLU models using real interaction data and transcripts. Experience in large‑scale or regulated contact center environments. Familiarity with AI‑assisted agent tools and downstream analytics.. Licenses/Certificates preferred: NICE Cognigy certifications. NiCE platform training or certification. Agile, SAFe, or product delivery certifications. Technology / Equipment Exposure to advanced NLU, LLM‑based conversational enhancements, or generative AI use cases. Experience analyzing bot performance metrics and interaction outcomes. Familiarity with security, privacy, and compliance considerations for customer interaction data. PHYSICAL/MENTAL DEMANDS AND WORKING ENVIRONMENT: The physical and mental requirements along with the work environment characteristics described here are representative of those an individual encounters while performing the essential functions of this position. Office: While performing the essential functions of this job the employee is frequently required to reach, grasp, stand and/or sit for long periods of time (up to 90% of the shift), walk, talk and hear; occasionally required to lift and/or move up to 25 pounds. The noise level in the work environment is usually moderately quiet, with frequent interruptions and multiple demands. OUR CULTURAL BELIEFS: Patient Minded I act with the patient’s best interest in mind. Client Delight I own every client experience and its impact on results. Take Action I am empowered and hold myself accountable. Embrace Diversity I create an environment of awareness and respect. Grow Talent I own my development and invest in the development of others. Win Together [...]
+
+---
+
+## 18. [MAYBE] Highmark Health | Strategy Analyst
+- Link: https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Strategy-Analyst_J287990-1
+- Location: Pittsburgh PA, 15222, PAP, Penn Avenue Place
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 11 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, forecast, healthcare, research | Lacks: -
+
+### Job description
+
+Company : Highmark Inc. Job Description : JOB SUMMARY Support leadership of Highmark, or its affiliates with a range of strategy activities essential to Highmark's membership and margin goals. Strategy Analysts provide analytical/strategic-thinking and leadership support that enables project teams to: 1) isolate business issues; 2) help design and execute analytics for studying business issues (market research, scenario planning, forecasting, market share, profitability, etc.); 3) develop technical content (competitive intelligence, market trend analysis); 4) support development of formal recommendations to senior levels of Highmark leadership; 5) help create document components (go-to-market or operational strategies, etc.) that inform critical strategic issues and decisions. ESSENTIAL RESPONSIBILITIES Work with business/ market owners to identify key business issues, articulate problem, apply right analytical framework, develop solution and recommendations, represent findings to stakeholders and own the outcome Under the guidance of Strategy Consultants and Leadership, participate in / lead small to medium sized strategy projects/ work streams with the help of internal or external strategy consulting resources Serve as subject matter expert (resource) to staff and stakeholders on membership, growth and operational strategy issues Provide periodic informal work guidance/direction to other team members; Provide performance input and recommendations to management for development/ training plans. May have supervisory responsibilities on a project basis Apply a broad knowledge of concepts and principles to develop analytical frameworks, approach and methodology best practices to analyze complex strategy issues, often applying ingenuity and originality to develop unique solutions Other duties as assigned or requested. EDUCATION Required Bachelor's Degree in Business, Economics, Engineering or Life Sciences or other related degree Substitutions Six years of relevant experience in lieu of Bachelor's Degree Preferred Master’s Degree in Business, Health, Economics or other related degree EXPERIENCE Required 3-5 years of relevant, progressive experience in strategy / management consulting firms or internal strategy groups of healthcare and related companies Preferred Experience in Health Insurance operations and technology Experience in operational improvement LICENSES or CERTIFICATIONS Required None Preferred None SKILLS Broad application of principles, theories, and concepts in strategic thinking, plus working knowledge of other related fields Strong PC application Skills (MS Office including PowerPoint and Excel) Knowledge of healthcare industry trends and challenges Language (Other than English): None Travel Requirement: 0% - 25% PHYSICAL, MENTAL DEMANDS and WORKING CONDITIONS Position Type Office-based Teaches / trains others regularly Occasionally Travel regularly from the office to various work sites or from site-to-site Rarely Works primarily out-of-the office selling products/services (sales employees) Never Physical work site required Yes Lifting: up to 10 pounds Constantly Lifting: 10 to 25 pounds Rarely Lifting: 25 to 50 pounds Never Disclaimer: The job description has been designed to indicate the general nature and essential duties and responsibilities of work performed by employees within this job title. It may not contain a comprehensive inventory of all duties, responsibilities, and qualifications required of employees to do this job. Compliance Requirement : This job adheres to the ethical and legal standards and behavioral expectations as set forth in the code of business conduct and company policies. As a component of job responsibilities, employees may have access to covered information, cardholder data, or other confidential customer information that must be protected at all times. In connection with this, all employees must comply with both the Health Insurance Portability Accountability Act of 1996 (HIPAA) as described in the Notice of Privacy Practices and Privacy Policies and Procedures as well as all data security guidelines established within the Company’s Handbook of Privacy Policies and Practices and Information Security Policy. Furthermore, it is every employee’s responsibility to comply with the company’s Code of Business Conduct. This includes but is not limited to adherence to applicable federal and state laws, rules, and regulations as well as company policies and training requirements. Highmark Health and its affiliates prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities and prohibit discrimination against all individuals based on any category protected by applicable federal, state, or local law. California Consumer Privacy Act Employees, Contractors, and Applicants Notice
+
+---
+
+## 19. [MAYBE] Southern New Hampshire University | Market Research and Insights Analyst
+- Link: https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/Remote/Market-Research-and-Insights-Analyst_R0014919
+- Location: Remote
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, portfolio, publication, research, validation | Lacks: -
+
+### Job description
+
+Southern New Hampshire University is a team of innovators. World changers. Individuals who believe in progress with purpose. Since 1932, our people-centered strategy has defined us — and helped us grow a team that now serves over 180,000 learners worldwide. Our mission to transform lives is made possible by talented people who bring diverse industry experience, backgrounds and skills to the university. And today, we're ready to expand our reach. All we need is you. Make an impact — from near or far At SNHU, you'll have the option to work remotely in the following states: Alabama, Arizona, Arkansas, Delaware, Florida, Georgia, Hawaii, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Mississippi, Missouri, Nebraska, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin and Wyoming. We ask that our remote employees have access to a reliable internet connection and a dedicated, properly equipped workspace that is free of distractions. Employees must reside in, and work from, one of the above approved states. The opportunity The Market Research and Insights Analyst uses research and analysis to help university leaders understand what is changing in higher education, why it matters, and what we should pay attention to next. As part of the Marketing Insights and Analytics team, you will explore internal and external data, secondary research, competitive intelligence, and market signals to uncover meaningful trends and emerging questions. Working closely with the Director of Marketing Insights and Analytics, you will turn complex information into clear points of view, compelling visualizations, and executive-ready presentations. This role is well suited to someone who enjoys following evidence, discovering unexpected patterns, asking "why," and communicating the story behind the data—not simply producing reports. #LI-Remote What you'll do: Market Research Investigate latest trends, competitive developments, learner behavior, program demand, and other topics shaping U.S. higher education. Monitor and review industry literature and research publications, and maintain a system to curate publications, competitive intelligence, and internal research/reports. Create landscape summaries of topics relevant to higher education and update with new data and insights on an ongoing basis. Use third-party platforms and public datasets to investigate markets, programs, populations, competitors, and opportunities. Partner with Product Marketing and other teams to investigate new programs, markets, audiences, and strategic questions, including providing data support for program portfolio reviews and new program proposals. Conduct deep-dive ad hoc research on market and competitive trends. Analysis and Insights Development Build, maintain, and update data models and reports of external data sources (e.g., IPEDS), using tools such as Microsoft Fabric/PowerBI. Use existing data models and reports to monitor and summarize internal performance trends across products, segments, and demographics. Enhance reports and dashboards according to feedback, insights, and institutional goals. Actively seek opportunities to improve and anticipate feedback on analytic projects and tools. Present analysis findings to diverse audiences in multiple formats. Use project management software to keep track of multiple priorities and projects. Other responsibilities as assigned. What we're looking for: 3+ Years of professional experience in market research, analytics and/or domain knowledge in US higher education Bachelor's degree in Marketing, Analytics or similar field and equivalent of experience can be considered in lieu of a degree Experience analyzing information, developing meaningful insights, and communicating findings to a variety of audiences. Can build and update models and reports in Fabric/PowerBI including intermediate proficiency with DAX and PowerQuery Proficiency in Excel with the ability to perform lookups and mathematical formulas. Experience developing and delivering PowerPoint presentations to a wide variety of audiences from executives to individual contributors. Familiarity with SharePoint, Outlook, and project management software. Keen attention to detail, accuracy, and validation of data Can responsibly leverage Artificial Intelligence for workflows, summarization, and analysis. We believe real innovation comes from inclusion - where different experiences, perspectives and talents are celebrated. So if you're wondering whether SNHU is right for you, take the leap and apply. You might be just the person we're looking for. If you have a disability and require a
+
+---
+
+## 20. [MAYBE] Barclays | Business Insights & Analytics Analyst
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bournemouth-The-Helm-Holdenhurst-Road/Business-Insights---Analytics-Analyst_JR-0000126327-1
 - Location: Bournemouth, The Helm, Holdenhurst Road
 - Posted: Nov 09 (board gives the date only)
@@ -356,7 +402,7 @@ Job Description Purpose of the role To develop, track and analyse operational me
 
 ---
 
-## 18. [MAYBE] Snap | Research Scientist, Research
+## 21. [MAYBE] Snap | Research Scientist, Research
 - Link: https://snapchat.wd1.myworkdayjobs.com/snap/job/Bellevue-Washington/Research-Scientist--Language-for-Personalization_R0044935
 - Location: 2 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -370,7 +416,7 @@ Snap Inc is a technology company. We believe the camera presents the greatest op
 
 ---
 
-## 19. [MAYBE] Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads
+## 22. [MAYBE] Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads
 - Link: https://www.google.com/about/careers/applications/jobs/results/115014381934125766
 - Location: Mountain View, CA, USA ; Pittsburgh, PA, USA
 - Posted: Nov 10 10:08 ET
@@ -384,7 +430,7 @@ Google's software engineers develop the next-generation technologies that change
 
 ---
 
-## 20. [MAYBE] Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst
+## 23. [MAYBE] Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst
 - Link: https://bcbsri.wd1.myworkdayjobs.com/BCBSRICareers/job/Providence-RI/Corporate-Strategy-Analyst_JR100493
 - Location: Providence, RI
 - Posted: Nov 10 (board gives the date only)
@@ -398,7 +444,21 @@ Pay Range: $83,200.00 - $124,800.00 Please email HR_Talent_AcquisitionTeam@bcbsr
 
 ---
 
-## 21. [MAYBE] Lila Sciences | ML Research Engineer, Performance Optimization
+## 24. [MAYBE] Centific | Power BI Developer
+- Link: https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Power-BI-Developer_JR108637-1
+- Location: Remote Work( USA)
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 11 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: etl, excel, llm, power bi, sql, kpi, pipeline, portfolio, reporting | Lacks: azure, scala
+
+### Job description
+
+About Centific Centific is a frontier AI data foundry that curates diverse, high-quality data, using our purpose-built technology platforms to empower the Magnificent Seven and our enterprise clients with safe, scalable AI deployment. Our team includes more than 150 PhDs and data scientists, along with more than 4,000 AI practitioners and engineers. We harness the power of an integrated solution ecosystem—comprising industry-leading partnerships and 1.8 million vertical domain experts in more than 230 markets—to create contextual, multilingual, pre-trained datasets; fine-tuned, industry-specific LLMs; and RAG pipelines supported by vector databases. Our zero-distance innovation™ solutions for GenAI can reduce GenAI costs by up to 80% and bring solutions to market 50% faster. Our mission is to bridge the gap between AI creators and industry leaders by bringing best practices in GenAI to unicorn innovators and enterprise customers. We aim to help these organizations unlock significant business value by deploying GenAI at scale, helping to ensure they stay at the forefront of technological advancement and maintain a competitive edge in their respective markets. About Job Overview We are seeking a Power Platform and Fabric professional to design, build, and deliver an end-to-end lessor scorecard solution. The role replaces manual, spreadsheet-based scorecard tracking with a structured, automated, and secure reporting system, and hands it over to Microsoft owners with full documentation. Key Responsibilities 1. Environment Setup · Stand up Power Platform environments (Dev / Test / Prod) with Dataverse, DLP policies, and approved connectors · Configure Power BI and Fabric workspaces per environment, including capacity and naming conventions · Provision a SQL database (Azure SQL or Fabric SQL) for structured scorecard data · Set up security groups, service principals / service accounts, and source control for solutions and reports 2. Data Integration (ETL) · Inventory current data sources (Excel trackers, SharePoint lists, emails, existing systems) · Replace free-form spreadsheets with structured data entry (Power Apps / Forms into Dataverse or SQL) · Build Fabric pipelines and dataflows to load, clean, and validate data on a schedule · Design a star-schema semantic model (lessor, property, period, metric) as the single source for reporting 3. Automation and AI · Build Power Automate flows for scorecard requests, reminders, approvals, and escalations · Implement automated data-quality checks with exception routing to data owners · Where it adds value, apply AI capabilities (e.g., Copilot Studio, AI Builder) to extract data from submitted documents, draft lessor summaries, or answer questions on scorecard status 4. Metrics and Reporting · Define the metric catalog with business stakeholders: KPI definitions, formulas, thresholds, and owners · Develop Power BI reports, including portfolio overview, lessor scorecard, trends, and drill-down · Configure email alerts and subscriptions for threshold breaches and periodic management packs · Build Power App views for operational users to submit, review, and act on scorecards 5. Monitoring and Access Control · Implement role-based access (workspace roles, Dataverse security roles, row-level security in Power BI) · Set up pipeline and refresh monitoring with failure alerts, plus usage and adoption tracking · Establish ALM with deployment pipelines (Dev → Test → Prod) and change control · Deliver documentation, runbooks, and knowledge transfer to Microsoft owners Required Skills · Hands-on experience with Power Apps, Power Automate, Dataverse, and Power BI · Experience with Microsoft Fabric (pipelines, dataflows, lakehouse/warehouse) and SQL · Strong data modeling skills, including star-schema design and DAX · Familiarity with Power Platform governance, security, and ALM practices · Ability to work directly with business stakeholders to define metrics and requirements Salary: $85K/Annum Centific is an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, citizenship status, age, mental or physical disability, medical condition, sex (including pregnancy), gender identity or expression, sexual orientation, marital status, familial status, veteran status, or any other characteristic protected by applicable law. We consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+
+---
+
+## 25. [MAYBE] Lila Sciences | ML Research Engineer, Performance Optimization
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4455701009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -412,7 +472,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 22. [MAYBE] Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation
+## 26. [MAYBE] Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation
 - Link: https://jobs.lever.co/tri/dbdce3b6-fc88-47d2-a78c-9ec34c66e6d1
 - Location: Cambridge, MA Cambridge, MA US
 - Posted: Nov 10 09:58 ET
@@ -431,7 +491,7 @@ It is unlawful in Massachusetts to require or administer a lie detector test as 
 
 ---
 
-## 23. [MAYBE] ibotta | Analytics Engineer
+## 27. [MAYBE] ibotta | Analytics Engineer
 - Link: https://jobs.ashbyhq.com/ibotta/d1ad9f8d-564a-4859-8e8c-fa2c05485627
 - Location: Hybrid - Denver United States remote
 - Posted: Nov 10 11:53 ET
@@ -525,7 +585,7 @@ To learn more about what our Tech teams are doing day to day, visit Building Ibo
 
 ---
 
-## 24. [MAYBE] Montefiore Medical Center | Research Associate I -
+## 28. [MAYBE] Montefiore Medical Center | Research Associate I -
 - Link: https://montefiore.wd12.myworkdayjobs.com/MMC/job/3415-Bainbridge-Avenue/Research-Associate-I--_JR234732-1
 - Location: 3415 Bainbridge Avenue
 - Posted: Nov 10 (board gives the date only)
@@ -539,7 +599,7 @@ City/State: Bronx, New York Grant Funded: Yes Department: PEDS - Division Of Gen
 
 ---
 
-## 25. [MAYBE] Wash U | Bioinformatics Research Analyst - Neurology
+## 29. [MAYBE] Wash U | Bioinformatics Research Analyst - Neurology
 - Link: https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Bioinformatics-Research-Analyst---Neurology_JR98591
 - Location: Washington University Medical Campus
 - Posted: Nov 10 (board gives the date only)
@@ -553,7 +613,7 @@ Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Provi
 
 ---
 
-## 26. [MAYBE] Washington University in St. Louis | Bioinformatics Research Analyst - Neurology
+## 30. [MAYBE] Washington University in St. Louis | Bioinformatics Research Analyst - Neurology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Bioinformatics-Research-Analyst---Neurology_JR98591
 - Location: Washington University Medical Campus
 - Posted: Nov 10 (board gives the date only)
@@ -567,7 +627,7 @@ Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Provi
 
 ---
 
-## 27. [MAYBE] Lila Sciences | ML Research Scientist, Environments & Harnesses
+## 31. [MAYBE] Lila Sciences | ML Research Scientist, Environments & Harnesses
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4462270009
 - Location: Cambridge, MA USA; London, UK; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -581,7 +641,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 28. [MAYBE] First American | Business Intelligence Specialist (Remote)
+## 32. [MAYBE] First American | Business Intelligence Specialist (Remote)
 - Link: https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Business-Intelligence-Specialist--Remote-_R059554-1
 - Location: 10 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -595,7 +655,7 @@ Who We Are Join a team that puts its People First! First American's GO Title div
 
 ---
 
-## 29. [MAYBE] Lila Sciences | ML Research Scientist, Scientific Evaluations
+## 33. [MAYBE] Lila Sciences | ML Research Scientist, Scientific Evaluations
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4472554009
 - Location: Cambridge, MA USA; London, UK; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -609,7 +669,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 30. [MAYBE] Anglian Water | Data Engineer
+## 34. [MAYBE] Anglian Water | Data Engineer
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Thorpe-Wood-House/Data-Engineer_R40844-1
 - Location: Thorpe Wood House
 - Posted: Nov 09 (board gives the date only)
@@ -623,7 +683,7 @@ Location: Thorpe Wood House, Peterborough Contract: Permanent Salary: £46,000, 
 
 ---
 
-## 31. [MAYBE] University of Miami | Research Associate I
+## 35. [MAYBE] University of Miami | Research Associate I
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-I_R100102926
 - Location: Miami, FL
 - Posted: Nov 09 (board gives the date only)
@@ -637,7 +697,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 32. [MAYBE] Zekelman Industries | Analytics Engineer
+## 36. [MAYBE] Zekelman Industries | Analytics Engineer
 - Link: https://zekelman.wd12.myworkdayjobs.com/Careers/job/Remote_USA/Analytics-Engineer_JR003014
 - Location: Remote_USA
 - Posted: Nov 10 (board gives the date only)
