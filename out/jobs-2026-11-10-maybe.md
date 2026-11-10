@@ -10,20 +10,25 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 4 | Thomson Reuters | Legal Engineer, AI Adoption | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
 | 5 | Thomson Reuters | Legal Engineer, AI Deployment | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
 | 6 | OU Health | Quality Data Analytics Specialist | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 7 | Airbus | Praktikant für Generative AI/Agentic AI (d/m/w) | 62 | 1 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 8 | Eversource Energy | Associate Analyst, Transmission (hybrid schedule) | 62 | 2 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 9 | Interdigital | Research Engineer / Scientist (Wireless + AI/ML) | 60 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 10 | Momentive | Research scientist | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 11 | Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 12 | Barclays | Business Insights & Analytics Analyst | 54 | 142 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 13 | Snap | Research Scientist, Research | 54 | 52 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 14 | Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads | 54 | 1053 in data/analytics/finance occupations | Nov 10 10:08 ET |
-| 15 | Lila Sciences | ML Research Engineer, Performance Optimization | 53 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 16 | Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation | 50 | 2 in data/analytics/finance occupations | Nov 10 09:58 ET |
-| 17 | Lila Sciences | ML Research Scientist, Environments & Harnesses | 47 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 18 | Lila Sciences | ML Research Scientist, Scientific Evaluations | 44 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 19 | Anglian Water | Data Engineer | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 20 | University of Miami | Research Associate I | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 7 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 67 | 1098 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 8 | Motorola | Jr. Software Engineer, AI Agent Platform | 67 | 27 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 9 | Airbus | Praktikant für Generative AI/Agentic AI (d/m/w) | 62 | 1 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 10 | Eversource Energy | Associate Analyst, Transmission (hybrid schedule) | 62 | 2 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 11 | Interdigital | Research Engineer / Scientist (Wireless + AI/ML) | 60 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 12 | Momentive | Research scientist | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 13 | Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 14 | Barclays | Business Insights & Analytics Analyst | 54 | 142 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 15 | Snap | Research Scientist, Research | 54 | 52 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 16 | Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads | 54 | 1053 in data/analytics/finance occupations | Nov 10 10:08 ET |
+| 17 | Lila Sciences | ML Research Engineer, Performance Optimization | 53 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 18 | Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation | 50 | 2 in data/analytics/finance occupations | Nov 10 09:58 ET |
+| 19 | ibotta | Analytics Engineer | 50 | 1 in data/analytics/finance occupations | Nov 10 11:53 ET |
+| 20 | Montefiore Medical Center | Research Associate I - | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 21 | Lila Sciences | ML Research Scientist, Environments & Harnesses | 47 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 22 | First American | Business Intelligence Specialist (Remote) | 46 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 23 | Lila Sciences | ML Research Scientist, Scientific Evaluations | 44 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 24 | Anglian Water | Data Engineer | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 25 | University of Miami | Research Associate I | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
 
 ---
 
@@ -111,7 +116,35 @@ Position Title: Quality Data Analytics Specialist Department: Quality Data Repor
 
 ---
 
-## 7. [MAYBE] Airbus | Praktikant für Generative AI/Agentic AI (d/m/w)
+## 7. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
+- Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803400
+- Location: New York, NY, United States US
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: excel, python, sql, statistic, portfolio, quantitative, research, trading | Lacks: -  | Note: broad title
+
+### Job description
+
+Be part of a team where your expertise in finance and technology drives accurate valuations for millions of securities daily. Your contributions directly impact the quality and reliability of valuations used by market participants worldwide. As a Securities Valuation Analyst or Associate in our PricingDirect team, you'll leverage trading, research, analytics, and technology resources to manage large volumes of data, develop pricing models, and identify growth opportunities. You'll lead projects, deliver results, and collaborate with teams in New York, London, and Hong Kong, serving clients worldwide. Job responsibilities Generate securities valuations for multiple market closes, owning the process from market data collection to client interaction Model cashflows for securitized products, analyzing complex deal structures and asset performance Identify and develop new product growth areas through research and collaboration with clients, trading desks, and technology teams Enhance product and service quality via market surveillance, data analysis, process control reviews, and quality assurance Perform complex financial assignments including quantitative analysis, and communicate portfolio findings to colleagues and clients Maintain regular contact with trading desks, research teams, and market participants Address client concerns promptly and professionally Required qualifications, capabilities, and skills Bachelor's degree or higher in Finance, Mathematics, Statistics, Engineering, Economics, or similar Strong understanding of finance principles and mathematical/statistical modeling 0+ years' experience with fixed income securities Advanced qualitative and quantitative analytical skills; ability to process large volumes of market information Proficiency in Excel with Visual Basic coding and/or practical Python experience Excellent communication skills for client and internal interactions Preferred qualifications, capabilities, and skills Experience with RMBS/ABS/securitized products and programming languages such as Python, VBA, SQL; aptitude for learning new technologies. Master's degree in relevant field Detail-oriented, creative problem solver with the ability to build effective relationships across research, sales, trading, and technology teams in dynamic environments Clear, logical thinker with strong quantitative abilities   JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
+
+---
+
+## 8. [MAYBE] Motorola | Jr. Software Engineer, AI Agent Platform
+- Link: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300
+- Location: Ontario Remote Work, More...
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 27 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, excel, gcp, llm, postgres, python, sql, docker, kubernetes, pipeline, research | Lacks: azure  | Note: broad title
+
+### Job description
+
+Company Overview At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer future. Aperçu de l’entreprise Chez Motorola Solutions, nous pensons que tout commence par nos employés. Nous sommes une communauté mondiale soudée, unie par la volonté incessante de contribuer à la sécurité des personnes partout dans le monde. Nous concevons et connectons des technologies qui contribuent à protéger les personnes, les biens et les infrastructures. Nos solutions favorisent la collaboration essentielle pour améliorer la sécurité des populations, des écoles, des hôpitaux, des entreprises et, finalement, des nations. Connectez-vous à une carrière qui compte et aidez-nous à bâtir un avenir plus sûr. Department Overview Hyper, a Motorola Solutions Company, is a leader in conversational, agentic AI designed to reduce the burden on understaffed public safety answering points (PSAPs) by handling non-emergency calls. It is revolutionizing emergency response systems through cutting-edge AI technologies. Our first product is reducing 911 wait times by alleviating administrative work from highly trained 911 telecommunicators. Job Description We’re looking for a Software Engineer to join the AI Agent Platform team behind Hyper’s emergency response products (Motorola Solutions announced that it acquired Hyper on April 9, 2026). You’ll work alongside experienced engineers across real-time AI pipelines, telephony, backend infrastructure, and product surfaces. You’ll help influence architecture, build core product features, and shape how our team uses AI agents to move faster without compromising reliability, security, or product quality. We encourage engineers to use AI agents in their own work. But because this is mission-critical software, humans still own quality, judgment, and what ships. What You’ll Do Build real-time voice AI features for emergency response workflows. Design and operate LLM-powered systems that support human 911 telecommunicators. Own features across the stack, from backend services and AI pipelines to frontend interfaces and internal tools. Work on low-latency audio processing, streaming systems, telephony integrations, and human-in-the-loop AI workflows. Help integrate speech models, LLMs, and emerging AI technologies into production systems. Build strong habits around tests, code review, observability, and security from day one. Help write and improve evaluation, testing, and observability for AI-assisted systems. Participate in on-call responsibilities (with support and shadow rotations to start), backed by clear runbooks and blameless post-incident reviews. Ask questions, dig into how things work, and bring fresh perspectives to the team. You Might Be a Fit If You’re curious about working across backend, infrastructure, AI, and product, even if you haven’t done it all yet. You use AI tools daily, but you do not confuse speed with quality. You care about quality — you write tests, read documentation, and try to understand a system before you change it. You take feedback well and act on it. You have strong product instincts and care about the humans using what you build. You thrive in a small, fast-moving team where you’ll have real ownership early — and you’re comfortable asking for help. You want to work on AI systems that matter beyond demos. Relevant Experience We don’t expect you to have shipped production systems. We care most about engineering fundamentals, learning velocity, curiosity, and how you think. Coursework, internships, research, and personal projects all count. Relevant exposure may include: Projects involving LLMs, AI agents, AI pipelines, RAG systems, evals, or prompt test harnesses. Speech-to-Text, Text-to-Speech, Voice Activity Detection, endpointing, interruption handling, noise filtering, diarization, or audio streaming. Telephony and voice infrastructure, including PSTN, SIP trunking, PBX, and call routing. Real-time communication systems using WebRTC, WebSockets, RTP/SRTP, media streaming, or low-latency audio transport. Programming in Elixir, Go, Python, Rust, or similar languages. Familiarity with PostgreSQL or relational data modeling. Exposure to cloud infrastructure on AWS, Azure, or GCP Docker, Kubernetes, or similar deployment environments. Internships or co-ops in software engineering, infrastructure, or AI/ML roles. You do not need experience in all of these areas. Most successful candidates will have experience in a few and curiosity to learn the rest #LI-RS1 #LI-Remote Basic Requirements Bachelor's degree Experience with LLMs, AI agents, AI pipelines, RAG systems, evals, or prompt test harnesses. Travel Requirements Under 10% Relocation Provided None Position Type New Grad Referral Payment Plan Yes
+
+---
+
+## 9. [MAYBE] Airbus | Praktikant für Generative AI/Agentic AI (d/m/w)
 - Link: https://ag.wd3.myworkdayjobs.com/Airbus/job/Ulm-Area/Praktikant-fr-Generative-AI-Agentic-AI--d-m-w-_JR10436030
 - Location: Ulm Area
 - Posted: Nov 09 (board gives the date only)
@@ -125,7 +158,7 @@ Job Description: Zur Unterstützung der Entwicklung im Bereich „Engineering De
 
 ---
 
-## 8. [MAYBE] Eversource Energy | Associate Analyst, Transmission (hybrid schedule)
+## 10. [MAYBE] Eversource Energy | Associate Analyst, Transmission (hybrid schedule)
 - Link: https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/Associate-Analyst--Transmission--hybrid-schedule-_R-032522
 - Location: Westwood, MA
 - Posted: Nov 09 (board gives the date only)
@@ -139,7 +172,7 @@ Eversource will not offer immigration-related sponsorship for this position (e.g
 
 ---
 
-## 9. [MAYBE] Interdigital | Research Engineer / Scientist (Wireless + AI/ML)
+## 11. [MAYBE] Interdigital | Research Engineer / Scientist (Wireless + AI/ML)
 - Link: https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/Research-Engineer---Scientist--Wireless---AI-ML-_REQ26-1099
 - Location: 2 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -153,7 +186,7 @@ About InterDigital InterDigital is a global research and development company foc
 
 ---
 
-## 10. [MAYBE] Momentive | Research scientist
+## 12. [MAYBE] Momentive | Research scientist
 - Link: https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Pearl-River/Research-scientist_R9977-1
 - Location: US NY Pearl River
 - Posted: Nov 09 (board gives the date only)
@@ -167,7 +200,7 @@ Job Title: Research scientist Summary: Shape the future of foam control technolo
 
 ---
 
-## 11. [MAYBE] Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty
+## 13. [MAYBE] Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Sandy-Springs-Atlanta-GA-USA/Risk-Analytics-Consultant---Property---Casualty_R26_0000003968
 - Location: 3 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -181,7 +214,7 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 12. [MAYBE] Barclays | Business Insights & Analytics Analyst
+## 14. [MAYBE] Barclays | Business Insights & Analytics Analyst
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bournemouth-The-Helm-Holdenhurst-Road/Business-Insights---Analytics-Analyst_JR-0000126327-1
 - Location: Bournemouth, The Helm, Holdenhurst Road
 - Posted: Nov 09 (board gives the date only)
@@ -195,7 +228,7 @@ Job Description Purpose of the role To develop, track and analyse operational me
 
 ---
 
-## 13. [MAYBE] Snap | Research Scientist, Research
+## 15. [MAYBE] Snap | Research Scientist, Research
 - Link: https://snapchat.wd1.myworkdayjobs.com/snap/job/Bellevue-Washington/Research-Scientist--Language-for-Personalization_R0044935
 - Location: 2 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -209,7 +242,7 @@ Snap Inc is a technology company. We believe the camera presents the greatest op
 
 ---
 
-## 14. [MAYBE] Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads
+## 16. [MAYBE] Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads
 - Link: https://www.google.com/about/careers/applications/jobs/results/115014381934125766
 - Location: Mountain View, CA, USA ; Pittsburgh, PA, USA
 - Posted: Nov 10 10:08 ET
@@ -223,7 +256,7 @@ Google's software engineers develop the next-generation technologies that change
 
 ---
 
-## 15. [MAYBE] Lila Sciences | ML Research Engineer, Performance Optimization
+## 17. [MAYBE] Lila Sciences | ML Research Engineer, Performance Optimization
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4455701009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -237,7 +270,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 16. [MAYBE] Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation
+## 18. [MAYBE] Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation
 - Link: https://jobs.lever.co/tri/dbdce3b6-fc88-47d2-a78c-9ec34c66e6d1
 - Location: Cambridge, MA Cambridge, MA US
 - Posted: Nov 10 09:58 ET
@@ -256,7 +289,115 @@ It is unlawful in Massachusetts to require or administer a lie detector test as 
 
 ---
 
-## 17. [MAYBE] Lila Sciences | ML Research Scientist, Environments & Harnesses
+## 19. [MAYBE] ibotta | Analytics Engineer
+- Link: https://jobs.ashbyhq.com/ibotta/d1ad9f8d-564a-4859-8e8c-fa2c05485627
+- Location: Hybrid - Denver United States remote
+- Posted: Nov 10 11:53 ET
+- Scanner fit: ~50 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, etl, excel, machine learning, python, spark, sql, statistic, data quality, git, pipeline, reporting, validation | Lacks: airflow, databricks, dbt, looker, scala
+
+### Job description
+
+Ibotta is seeking an Analytics Engineer to join our innovative team and contribute to our mission to Make Every Purchase Rewarding. In this role, you will transform raw data into a strategic asset, designing and building the production pipelines, curated datasets, and automation that power our Decision Science, Business Intelligence, and Client & Publisher Analytics teams. You will lead by example as an individual contributor, setting the standard for data quality and engineering best practices while turning complex data into actionable insights for our clients and the business.
+
+
+
+This position is located in Denver, Colorado as a hybrid position requiring 3 days in office (Tuesday, Wednesday, and Thursday). Candidates must live in the United States.
+
+Not based in Denver? We will offer a relocation bonus to help make your move to the Mile High City a smooth one.
+
+
+
+What you will be doing:
+
+ - Design, build, and orchestrate production data pipelines and dashboards using Databricks and Airflow to automate analytical processes
+
+ - Organize and optimize Ibotta’s complex data environment, designing scalable table structures and curated datasets for downstream users in Decision Science and Business Intelligence
+
+ - Partner with Decision Scientists to design, aggregate, and normalize robust datasets for advanced modeling, machine learning, and predictive analytics
+
+ - Architect and document event-based data structures in the data lake to answer critical, high-impact business questions
+
+ - Own data quality, reliability, and governance, including automated testing, validation, anomaly detection, and change management standards for analytics workflows
+
+ - Stand up CI/CD (GitHub Actions) and automated testing for analytics code and pipelines
+
+ - Build and maintain automation tools and self-service patterns that democratize data access and foster data literacy across the organization
+
+ - Integrate AI into engineering workflows, building Claude skills and plugins that automate, standardize, and accelerate the team’s day-to-day work
+
+ - Lead large, complex analytical projects end to end, delivering high-quality work, providing milestone updates, and prioritizing efficiently
+
+ - Monitor, maintain, and modernize existing data services
+
+ - Represent data best practices across Engineering and Decision Science, and mentor associate engineers to foster a culture of technical excellence
+
+ - Embrace and uphold Ibotta’s Core Values: Integrity, Boldness, Ownership, Teamwork, Transparency, & A good idea can come from anywhere
+
+
+
+What we are looking for:
+
+ - 3–5 years of experience in analytics engineering, data engineering, or a highly technical analytics/BI role
+
+ - Bachelor’s degree in Computer Science, Engineering, Analytics, Statistics, Economics, or a related field required
+
+ - Expert-level SQL and proficient Python, with hands-on experience building production grade pipelines and automation
+
+ - Experience with Databricks (including DABs) and Spark, including cluster configuration and optimizing large-scale data processing
+
+ - Understanding of ETL/ELT patterns and modern data stack tools such as Airflow, dbt, and cloud data warehouses
+
+ - A “test-driven” approach to data development, with demonstrated practice in automated testing, CI/CD (GitHub Enterprise/Actions), data validation, and anomaly detection
+
+ - Proficiency with Looker/LookML and AI-assisted tooling (Claude, Cursor, Copilot, Databricks Genie)
+
+ - A proven track record of translating ambiguous business problems into technical data solutions, acting as a bridge between technical teams and business stakeholders
+
+ - Proven ability to establish self-service patterns, set standards, and manage cross-functional priorities in an Agile environment
+
+ - A growth mindset grounded in clear communication, continuous learning, iterative product delivery, and healthy technical debate
+
+ - Independent self-starter who can successfully manage your own time and multitask
+
+
+
+About Ibotta ("I bought a...")
+
+Ibotta (NYSE: IBTA) is a leading performance marketing platform allowing brands to deliver digital promotions to over 200 million consumers through a network of publishers called the Ibotta Performance Network (IPN). The IPN allows marketers to influence what people buy, and where and how often they shop – all while paying only when their campaigns directly result in a sale. American shoppers have earned over $2.6 billion through the IPN since 2012. The largest tech IPO in history to come out of Colorado, Ibotta is headquartered in Denver, and is continually listed as a top place to work by The Denver Post and Inc. Magazine.
+
+
+
+To learn more about what our Tech teams are doing day to day, visit Building Ibotta on  https://medium.com/building-ibottaMedium.com http://Medium.com
+
+
+
+ Additional Details:
+
+ - This position is located in Denver, CO and includes competitive pay, flexible time off, benefits package (including medical, dental, vision), Employee Stock Purchase Program, and 401k match. Denver office perks include paid parking, snacks, and occasional meals.
+
+ - Base compensation range: $113,000 - $132,000. Equity is included in overall compensation package. This compensation range is specific to the United States labor market and may be adjusted based on actual experience.
+
+ - Ibotta
+
+---
+
+## 20. [MAYBE] Montefiore Medical Center | Research Associate I -
+- Link: https://montefiore.wd12.myworkdayjobs.com/MMC/job/3415-Bainbridge-Avenue/Research-Associate-I--_JR234732-1
+- Location: 3415 Bainbridge Avenue
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: gcp, statistic, classification, data quality, portfolio, reporting, research | Lacks: sas
+
+### Job description
+
+City/State: Bronx, New York Grant Funded: Yes Department: PEDS - Division Of General Pediatrics Work Shift: Day Work Days: MON-FRI Scheduled Hours: 8:30 AM-5 PM Scheduled Daily Hours: 7.5 HOURS Pay Range: $60,000.00-$75,000.00 Position Summary Under direct supervision, the Research Associate supports the implementation and coordination of a research and program portfolio led by Dr. Marina Reznik and funded by the National Institutes of Health (NIH) and other federal, state, and private sponsors. The position supports clinical trials and clinical and community-based research studies in accordance with Good Clinical Practice (GCP), approved study protocols, institutional policies, and applicable regulatory requirements. Responsibilities include coordinating daily research operations, scheduling study activities, supporting research conducted in clinical, school-based, and community settings, and recruiting, screening, consenting, and following study participants as appropriate. The Research Associate also collects, manages, and analyzes research data; coordinates research specimens, study materials, and sponsor communications; and assists with regulatory documentation, research reports, manuscripts, and grant-related materials. The role contributes to the integration of research activities into patient-care workflows, supports participant recruitment and retention, and helps ensure the timely completion of study milestones. Additional responsibilities may include literature reviews, statistical analyses, ordering research supplies, maintaining equipment, and providing administrative and operational support for research projects, as assigned. Responsibilities Support the coordination and implementation of clinical trials and clinical and community-based research projects under the direction of the Principal Investigator (PI). Coordinate daily research operations, including scheduling, study-site logistics, participant visits, project timelines, and administrative activities. Recruit, screen, enroll, consent, and follow study participants in accordance with approved study protocols and institutional requirements. Collect, manage, validate, maintain, and analyze research data to ensure accuracy, completeness, and compliance with study requirements. Assist with the preparation and maintenance of research protocols, IRB submissions, regulatory documentation, study files, and other required records. Monitor study progress, participant recruitment and retention, data quality, protocol adherence, and reporting deadlines. Coordinate research activities with clinical departments, schools, community organizations, study sponsors, and other internal and external collaborators. Support the collection, processing, handling, shipment, and documentation of research specimens, study devices, and study-related materials, as applicable. Assist with literature reviews, statistical analyses, manuscripts, abstracts, grant applications, presentations, and sponsor and research progress reports. Maintain effective communication with investigators, research staff, participants, families, and community partners to support study objectives and resolve operational issues. Assist with research supply procurement, equipment maintenance, project resource management, and budget monitoring, as assigned. Participate in research meetings, training sessions, and quality-improvement activities to promote compliance, efficiency, and the successful completion of study milestones. Perform other related duties as assigned. Qualifications Education: Bachelor of Science (BS) degree required; Master of Science (MS) degree preferred. Experience: Four to six years of experience using office, statistical, and bioinformatics or data-mining software preferred. Research Experience: Experience in clinical and community-based research preferred. Experience working with pediatric participants is highly desirable. Technical Skills: Proficiency in Microsoft Office and relevant clinical research software required. Experience with REDCap, SPSS, SAS, Stata, or similar data-management and statistical analysis tools preferred. Training and Compliance: Good Clinical Practice (GCP) and Collaborative Institutional Training Initiative (CITI) training required, as applicable to study responsibilities. Language Skills: Native or fluent Spanish-English bilingual proficiency preferred. Preferred Academic Background: Background in life sciences, public health, or a related field preferred. Communication and Organizational Skills: Strong written and verbal communication, organizational, analytical, and problem-solving skills, with exceptional attention to detail and accuracy. Work Management: Ability to manage competing priorities, coordinate multiple tasks, meet deadlines, and work effectively both independently and collaboratively. Interpersonal Skills: Ability to work professionally and effectively with children, adolescents, young adults, families, clinical teams, and community partners. Montefiore Medical Center
+
+---
+
+## 21. [MAYBE] Lila Sciences | ML Research Scientist, Environments & Harnesses
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4462270009
 - Location: Cambridge, MA USA; London, UK; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -270,7 +411,21 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 18. [MAYBE] Lila Sciences | ML Research Scientist, Scientific Evaluations
+## 22. [MAYBE] First American | Business Intelligence Specialist (Remote)
+- Link: https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Business-Intelligence-Specialist--Remote-_R059554-1
+- Location: 10 Locations
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~46 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 8 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, data visualization, python, sql, data quality, quantitative, reporting | Lacks: databricks, scala, snowflake
+
+### Job description
+
+Who We Are Join a team that puts its People First! First American's GO Title division provides global title and escrow production support across all channels within First American Title including the Mortgage Services, Commercial, Direct, and Agency divisions. Since 1889, First American (NYSE: FAF) has held an unwavering belief in its people. They are passionate about what they do, and we are equally passionate about fostering an environment where all feel welcome, supported, and empowered to be innovative and reach their full potential. Our inclusive, people-first culture has earned our company numerous accolades, including being named to the Fortune 100 Best Companies to Work For® list for eleven consecutive years. We have also earned awards as a best place to work for women, diversity and LGBTQ+ employees, and have been included on more than 50 regional best places to work lists. First American will always strive to be a great place to work, for all. For more information, please visit www.careers.firstam.com. What We Do As a member of the BI Analytics & Reporting team, you will design, develop, and maintain business intelligence solutions that transform complex data into actionable insights. This role combines traditional business intelligence development with modern AI-enabled analytics, helping drive data-informed decision-making across the Title organization. You will partner closely with business stakeholders, analysts, data engineers, and PMO to deliver scalable reporting solutions, dashboards, and automated analytics that improve operational performance and support strategic initiatives. Leveraging Domo and related technologies, you will develop reporting ecosystems that are AI-ready, automated, and aligned with evolving business needs. Business Intelligence & Analytics Development Design, develop, and maintain business intelligence solutions, dashboards, reports, and data visualization tools. Build reporting portals, dashboards, data generators, and other end-user information resources. Develop standard and custom reports that summarize business, operational, financial, and performance data. Create scalable analytical solutions using Domo and related BI platforms. Design and maintain semantic data models that support AI readiness, advanced analytics, and chatbot capabilities. Reporting & Data Management Gather, consolidate, and analyze data from multiple sources to identify trends, patterns, and actionable insights. Ensure data accuracy, integrity, consistency, and governance across reporting solutions. Maintain and enhance BI tools, databases, dashboards, workflows, and methodologies. Proactively identify opportunities for reporting improvements, automation, and process optimization. Monitor and support existing reports, dashboards, and BI applications. Stakeholder Collaboration Partner with business leaders and stakeholders to understand reporting needs and translate business requirements into technical solutions. Communicate complex data findings clearly to technical and non-technical audiences. Present business intelligence insights and trend analyses that support strategic decision-making. Share updates on reporting solutions, tool enhancements, and metadata changes. Automation & Continuous Improvement Develop and implement reporting automation that reduces manual effort and improves operational efficiency. Test and validate reporting solutions to confirm they meet business requirements. Anticipate organizational, process, and system changes that may affect existing metrics and reporting. Continuously improve reporting quality, usability, scalability, and performance. Documentation & Delivery Maintain accurate and timely documentation of requirements, technical designs, data mappings, processes, and operational procedures. Maintain Jira work items, tasks, estimates, statuses, and acceptance criteria to support visibility and alignment with project objectives. Qualifications Required Bachelor's degree in Computer Science, Data Analytics, Information Systems, Business, or a related field, or an equivalent combination of education and experience. 2-4+ years of experience designing, developing, and maintaining business intelligence and reporting solutions. Experience creating dashboards, reports, and data visualizations using BI platforms; Domo experience is preferred. Exceptional analytical, quantitative, and problem-solving skills. Ability to translate business requirements into scalable reporting and analytics solutions. Experience working with multiple data sources while maintaining data quality and integrity. Ability to work independently, prioritize work, and exercise sound judgment in decision-making. Collaborative mindset and the ability to work effectively across business and technical teams. Preferred Experience working with modern cloud data platforms such as Snowflake and Databricks. Proficiency in Python, SQL, JSON, or similar technologies to support data analysis, automation, and reporting solutions. Experience with semantic modeling, AI-enabled analytics, and automation technologies. Understanding of data governance, security, and related best practices. Project management experience or Major Domo certification. This position will be accepting applications on an ongoing basis until the position is filled. #LI-DS1 #LI-REMOTE Pay Range: $85,000.00 - $113,300.00 Annually This hiring range is a reasonable estimate of the base pay range for this position at the time of posting. Pay is based on a number of factors which may include job-related knowledge, skills, experience, business requirements and geographic location. ** Note that the following statements only apply to candidates who will be working from an unincorporated area within Los Angeles County. ** First American will consider for employment all qualified applicants, including those with arrest or conviction records, in a manner consistent with the requirements of applicable state and local laws (e.g., the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act). First American intends to conduct a review of an applicant’s criminal history in connection with a conditional offer. First American reasonably believes that a criminal history may have a direct, adverse and negative relationship with the following material job duties for this position potentially resulting in the withdrawal of the conditional offer of employment: handling of confidential, proprietary or trade secret information belonging to First American or its customers, administrating or facilitating financial transactions, and the ability to meet customer-imposed criminal history requirements. What We Offer By choice, we don’t simply accept individuality – we embrace it, we support it, and we thrive on it! Our People First culture is inclusive for all employees - not just because it's the right thing to do, but because it's the key to our success. We are proud to foster an authentic and incl [...]
+
+---
+
+## 23. [MAYBE] Lila Sciences | ML Research Scientist, Scientific Evaluations
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4472554009
 - Location: Cambridge, MA USA; London, UK; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -284,7 +439,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 19. [MAYBE] Anglian Water | Data Engineer
+## 24. [MAYBE] Anglian Water | Data Engineer
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Thorpe-Wood-House/Data-Engineer_R40844-1
 - Location: Thorpe Wood House
 - Posted: Nov 09 (board gives the date only)
@@ -298,7 +453,7 @@ Location: Thorpe Wood House, Peterborough Contract: Permanent Salary: £46,000, 
 
 ---
 
-## 20. [MAYBE] University of Miami | Research Associate I
+## 25. [MAYBE] University of Miami | Research Associate I
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-I_R100102926
 - Location: Miami, FL
 - Posted: Nov 09 (board gives the date only)
