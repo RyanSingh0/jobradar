@@ -4,23 +4,44 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | Freddie Mac | Quantitative Analytics Professional | 74 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 2 | RBI | Digital Data Analyst, Burger King & Popeyes, International | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 3 | Thomson Reuters | Legal Engineer, AI Adoption | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 4 | Thomson Reuters | Legal Engineer, AI Deployment | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 5 | Airbus | Praktikant für Generative AI/Agentic AI (d/m/w) | 62 | 1 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 6 | Interdigital | Research Engineer / Scientist (Wireless + AI/ML) | 60 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 7 | Momentive | Research scientist | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 8 | Barclays | Business Insights & Analytics Analyst | 54 | 142 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 9 | Snap | Research Scientist, Research | 54 | 52 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 10 | Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads | 54 | 1053 in data/analytics/finance occupations | Nov 10 10:08 ET |
-| 11 | Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation | 50 | 2 in data/analytics/finance occupations | Nov 10 09:58 ET |
-| 12 | Anglian Water | Data Engineer | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 13 | University of Miami | Research Associate I | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 1 | CVS Health | Machine Learning Engineer | 76 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 2 | Freddie Mac | Quantitative Analytics Professional | 74 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 3 | RBI | Digital Data Analyst, Burger King & Popeyes, International | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 4 | Thomson Reuters | Legal Engineer, AI Adoption | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 5 | Thomson Reuters | Legal Engineer, AI Deployment | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 6 | OU Health | Quality Data Analytics Specialist | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 7 | Airbus | Praktikant für Generative AI/Agentic AI (d/m/w) | 62 | 1 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 8 | Eversource Energy | Associate Analyst, Transmission (hybrid schedule) | 62 | 2 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 9 | Interdigital | Research Engineer / Scientist (Wireless + AI/ML) | 60 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 10 | Momentive | Research scientist | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 11 | Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 12 | Barclays | Business Insights & Analytics Analyst | 54 | 142 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 13 | Snap | Research Scientist, Research | 54 | 52 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 14 | Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads | 54 | 1053 in data/analytics/finance occupations | Nov 10 10:08 ET |
+| 15 | Lila Sciences | ML Research Engineer, Performance Optimization | 53 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 16 | Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation | 50 | 2 in data/analytics/finance occupations | Nov 10 09:58 ET |
+| 17 | Lila Sciences | ML Research Scientist, Environments & Harnesses | 47 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 18 | Lila Sciences | ML Research Scientist, Scientific Evaluations | 44 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 19 | Anglian Water | Data Engineer | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 20 | University of Miami | Research Associate I | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] Freddie Mac | Quantitative Analytics Professional
+## 1. [MAYBE] CVS Health | Machine Learning Engineer
+- Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Machine-Learning-Engineer_R1076448
+- Location: 2 Locations
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~76 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, bigquery, excel, gcp, llm, machine learning, python, sql, statistic, segmentation | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time. Role Summary We are looking for a versatile Machine Learning Engineer who can move between backend platform engineering, full-stack AI application development, and Generative AI as team priorities change. Key Responsibilities Build and maintain production backend services, APIs, and integrations for large-scale audience segmentation and activation. Develop and deploy Generative AI and agentic applications, including LLM orchestration, retrieval-augmented generation (RAG), and evaluation. Contribute across the full stack, from backend services to user interfaces, to deliver complete AI products. Collaborate with platform and network security teams on cloud infrastructure, secure networking, and access management. Keep deployed systems healthy through CI/CD, testing, monitoring, and incident triage. Work with product, data science, engineering, and business stakeholders to turn business needs into technical solutions. Required Qualifications 2+ years building, deploying and maintaining 0-1 production ML or data-intensive systems as an MLE or SDE (or PhD with a relevant tech internship). Strong Python and SQL skills, with experience building RESTful APIs (e.g., FastAPI) and integrating third-party services. Solid software engineering practices, including CI/CD, containerization, automated testing, and cloud deployment. Strong curiosity, self-driven, and a willingness to challenge the status quo. Excellent communication and collaboration skills working across cross-functional teams such as product, data science, engineering, marketing, and operations stakeholders. Preferred Qualifications Experience with direct-to-consumer (D2C) platforms and individual personalization. Hands-on experience with agentic workflows, LLM frameworks (e.g., LangChain/LangGraph), RAG, vector search, and MCP servers. Experience with Google Cloud Platform (GCP), especially BigQuery and Vertex AI. Front-end development in React, CSS, and TypeScript, either of – preferably more than one. Background in AdTech, MarTech, recommendation systems, and experimentation workbench. Education Master’s degree in Computer Science, Statistics, Engineering, or a related field, or equivalent work experience. PhD preferred. Anticipated Weekly Hours 40 Time Type Full time Pay Range The typical pay range for this role is: $86,520.00 - $173,040.00 This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. Our people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong. Great benefits for great people We take pride in offering a comprehensive and competitive mix of pay and benefits that reflects our commitment to our colleagues and their families. This full‑time position is eligible for a comprehensive benefits package designed to support the physical, emotional, and financial well‑being of colleagues and their families. The benefits for this position include medical, dental, and vision coverage, paid time off, retirement savings options, wellness programs, and other resources, based on eligibility. Additional details about available benefits are provided during the application process and on Benefits Moments . We anticipate the application window for this opening will close on: 11/29/2026 Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.
+
+---
+
+## 2. [MAYBE] Freddie Mac | Quantitative Analytics Professional
 - Link: https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Professional_JR17753
 - Location: McLean, VA
 - Posted: Nov 09 (board gives the date only)
@@ -34,7 +55,7 @@ At Freddie Mac, our mission of Making Home Possible is what motivates us, and it
 
 ---
 
-## 2. [MAYBE] RBI | Digital Data Analyst, Burger King & Popeyes, International
+## 3. [MAYBE] RBI | Digital Data Analyst, Burger King & Popeyes, International
 - Link: https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Lucerne-Corporate-Office/Digital-Data-Analyst--Burger-King---Popeyes--International_R4071
 - Location: Corp - Lucerne Corporate Office
 - Posted: Nov 09 (board gives the date only)
@@ -48,7 +69,7 @@ Ready to make your next big professional move? Join us on our journey to achieve
 
 ---
 
-## 3. [MAYBE] Thomson Reuters | Legal Engineer, AI Adoption
+## 4. [MAYBE] Thomson Reuters | Legal Engineer, AI Adoption
 - Link: https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/AI-Solutions-Architect_JREQ204513
 - Location: see posting
 - Posted: Nov 09 (board gives the date only)
@@ -62,7 +83,7 @@ Job Description As an Legal Engineer, AI Adoption , you will help law firm custo
 
 ---
 
-## 4. [MAYBE] Thomson Reuters | Legal Engineer, AI Deployment
+## 5. [MAYBE] Thomson Reuters | Legal Engineer, AI Deployment
 - Link: https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Legal-AI-Engineer_JREQ204512
 - Location: see posting
 - Posted: Nov 09 (board gives the date only)
@@ -76,7 +97,21 @@ Job Description As a Legal Engineer, AI Deployment , you will help law firm cust
 
 ---
 
-## 5. [MAYBE] Airbus | Praktikant für Generative AI/Agentic AI (d/m/w)
+## 6. [MAYBE] OU Health | Quality Data Analytics Specialist
+- Link: https://oumedicine.wd5.myworkdayjobs.com/OUHealthCareers/job/WFH-State-of-Oklahoma/Quality-Data-Analyst_R0067038
+- Location: 4 Locations
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~70 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, power bi, python, sql, statistic, tableau, healthcare, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Position Title: Quality Data Analytics Specialist Department: Quality Data Reporting Job Description: Ask your recruiter about our competitive wages and total rewards package ! Remote Eligibility: Candidates must reside and work full-time in AR, KS, MO, OK, or TX before their first day of employment. This position may be filled as levels II, or III, depending on individual experience, education, certification(s), and business need. ****Ideal candidate will have Epic experience (Caboodle/Clarity)**** General Description: The Quality Data Analyst performs advanced data preparation, analysis, and reporting in support of OU Health’s quality improvement efforts. This role evaluates data integrity, enhances analytic processes, and partners with quality and operational leaders to translate data into meaningful insights that inform improvement work. The Analyst II works with increased independence on complex analyses and contributes to the refinement of reporting standards and analytic practices. Essential Responsibilities: Responsibilities listed in this section are core to the position and encompass all organization facilities, to include outlying Ambulatory Clinics. Inability to perform these responsibilities with or without an accommodation may result in disqualification from the position. Collects, validates, and maintains accurate datasets supporting quality, safety, and patient experience initiatives. Develops, enhances, and maintains dashboards, reports, and analytic products; improves existing data processes using business intelligence, statistical, or analytic tools. Participates in regulatory readiness and quality reporting activities, ensuring accurate interpretation and application of measure specifications. Partners with stakeholders to support effective use, interpretation, and decision‑making based on analytic outputs. Interprets performance trends, conducts deeper analyses, and identifies opportunities to support improvement initiatives. Assists quality and operational teams by translating analytic findings into actionable insights. Recommends enhancements to data structures, analytic processes, or reporting standards as data maturity and organizational needs evolve. Maintains awareness of industry trends, national quality programs, and analytic best practices and incorporates relevant updates into analytic work. General Responsibilities: Performs other duties as assigned. Level II Minimum Qualifications: Education: Bachelor's degree in Business, Healthcare Administration, Health Informatics, Statistics, Data Science, or related field required. Experience: At least three (3) years of related experience required. License(s)/Certification(s)/Registration(s) Required: None required. Knowledge, Skills and Abilities: Intermediate skills in healthcare data analysis and visualization tools (SQL, Python, Power BI, Tableau) Ability to optimize data workflows and design moderately complex analytic logic. Strong analytical reasoning and the ability to translate data into actionable insights. Strong stakeholder engagement and communication skills. Level III Minimum Qualifications: Education: Bachelor's degree in Business, Healthcare Administration, Health Informatics, Statistics, Data Science, or related field required. Experience: At least five (5) years of related experience required. License(s)/Certification(s)/Registration(s) Required: None required. Knowledge, Skills and Abilities: Expert-level analytic, statistical, and visualization competencies using SQL, Python, Power BI, and Tableau Deep understanding of healthcare quality measures, regulatory programs, and performance improvement methodologies. Strong leadership, influencing, and communication abilities, including interaction with senior executives. Ability to develop sophisticated analytic solutions and lead systemwide initiatives. Current OU Health Employees - Please click HERE to login. OU Health
+
+---
+
+## 7. [MAYBE] Airbus | Praktikant für Generative AI/Agentic AI (d/m/w)
 - Link: https://ag.wd3.myworkdayjobs.com/Airbus/job/Ulm-Area/Praktikant-fr-Generative-AI-Agentic-AI--d-m-w-_JR10436030
 - Location: Ulm Area
 - Posted: Nov 09 (board gives the date only)
@@ -90,7 +125,21 @@ Job Description: Zur Unterstützung der Entwicklung im Bereich „Engineering De
 
 ---
 
-## 6. [MAYBE] Interdigital | Research Engineer / Scientist (Wireless + AI/ML)
+## 8. [MAYBE] Eversource Energy | Associate Analyst, Transmission (hybrid schedule)
+- Link: https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/Associate-Analyst--Transmission--hybrid-schedule-_R-032522
+- Location: Westwood, MA
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, excel, forecast, power bi, data quality, reporting | Lacks: -  | Note: broad title
+
+### Job description
+
+Eversource will not offer immigration-related sponsorship for this position (e.g., H-1B, O-1, J-1, TN, E-3, etc.). Applicants requiring visa sponsorship to start employment with Eversource will not be considered. Eversource is looking for an Associate Analyst, Transmission in Westwood, MA. This position facilitates development of the Transmission Capital Budget and Long-Range Plan. This includes performance measurements related to executing the plan along with reporting and analyses to provide corporate and business area leaders with the decision support information needed to drive performance improvements and meet company goals. Additionally, the analyst will support regulatory responses and a variety of performance improvement projects. The Analyst will work collaboratively with other team members and departments on routine work and special projects. Essential Functions: Works closely with Project Management and Investment Planning to understand investment schedules and in-service forecasts for active projects. Facilitates collaboration with System Planning Engineers, Asset Management, and other departments to understand scope, schedule, and budgets for future projects, programs, and opportunities. Assists with the creation of company long term forecasts. Assists with the creation of key regulatory filings related to the capital program. Facilitates the design, build and maintenance of performance reporting processes to assure up-to-date performance results are available for business use throughout the year. Collects performance data and information from a variety of sources and keeps all data collection tools organized and updated throughout the year. Reviews and assures data quality on a regular basis, taking steps to correct data or processes as needed. Assists in the development of new tools, dashboards, lists, and metrics as needed to drive performance improvements and highlight areas of focus for transmission leadership Creates and maintains appropriate documentation for performance metrics (i.e., Basis Documents, etc.), all internal team processes and tools, and reporting processes to enable cross-training and business continuity. Prepares data, drafts of presentations, draft reports or information as needed to assist business improvement initiatives, respond to regulatory requests for information, as input to business decision making and for the goals & budget development processes. May include repackaging existing information and/or creating new, ad hoc reports or tools. Proactively learns about the company, industry and in particular the business areas being support in order to understand, validate and communicate performance results and progress of business initiatives. Technical Knowledge/Skill/Education/Licenses/Certifications: Technical Knowledge/Skill: Requires the ability to design, build, analyze and interpret data models (relational tables or databases), ability to use standard business reporting software to build and modify reports and databases and in using data from a data warehouse or other database. Must be able to identify and ensure data quality and accuracy. Strong communications and interpersonal skills, strong mathematics capabilities, conceptual/analytics capabilities Candidates should demonstrate strong skills in Excel with the ability to develop advanced skills in Excel, Access, Power BI & other reporting tools Ability to interpret and summarize data with Excel and PowerPoint charts. Ability to use AI tools and chatbots to enhance aforementioned skills Requires self-directed work ethic and abilities, capable of taking the lead on action items or initiatives while also collaborating with others within and outside of the department. Key skills are in understanding and using data to measure and explain performance, extracting and analyzing data, working with IT systems, developing analytics, collaborating with others, communicating in a business setting with all levels of management, excellent verbal and written communications, can demonstrate effectiveness in performance analysis, developing tools and models to analyze and explain results, developing executive presentation material to explain performance analyses. Must be able to work independently and collaboratively within the organization and be able to recognize and work with sensitive and confidential information. Education: Bachelor’s Degree in Information Technology, Engineering, Business Administration, Finance, Accounting, Economics, or Mathematics, related discipline or equivalent experience Experience : Zero (0) to three (3) years related experience. Prior experience in data handling and business process/performance analysis is preferred. Licenses & Certifications: None Working Conditions: Must be available to work emergency restoration assignment as required. Must be available to travel between MA/CT/NH as necessary. #tranajd #LI-ES1 Competencies: Build trusting relationships Manage and develop people Foster teamwork and cross-functional collaboration Lead change Communicate strategic vision Create an engaged workforce Focus on the customer Take ownership & accountability Compensation and Benefits: Eversource offers a competitive total rewards program. Check out our careers site for an overview of our benefits programs. Salary is commensurate with your experience. This position is eligible for a potential incentive. The annual salary range for this position is: $71,610.00-$79,570.00 Worker Type: Regular Number of Openings: 1 Emergency Response: Responding to emergency situations to meet customers’ needs is part of every employee’s role. If employed, you will be given an Emergency Restoration assignment. This means you may be called to assist during an emergency outside of your normal responsibilities, work hours and location.
+
+---
+
+## 9. [MAYBE] Interdigital | Research Engineer / Scientist (Wireless + AI/ML)
 - Link: https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/Research-Engineer---Scientist--Wireless---AI-ML-_REQ26-1099
 - Location: 2 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -104,7 +153,7 @@ About InterDigital InterDigital is a global research and development company foc
 
 ---
 
-## 7. [MAYBE] Momentive | Research scientist
+## 10. [MAYBE] Momentive | Research scientist
 - Link: https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Pearl-River/Research-scientist_R9977-1
 - Location: US NY Pearl River
 - Posted: Nov 09 (board gives the date only)
@@ -118,7 +167,21 @@ Job Title: Research scientist Summary: Shape the future of foam control technolo
 
 ---
 
-## 8. [MAYBE] Barclays | Business Insights & Analytics Analyst
+## 11. [MAYBE] Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty
+- Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Sandy-Springs-Atlanta-GA-USA/Risk-Analytics-Consultant---Property---Casualty_R26_0000003968
+- Location: 3 Locations
+- Posted: Nov 09 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, llm, statistic, git, reporting, risk, validation | Lacks: actuar  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Built on meritocracy, our unique company culture rewards self-starters and those who are committed to doing what is best for our customers. Brown & Brown is seeking a Risk Analytics Consultant – Property & Casualty to join our growing team! The Risk Analytics Consultant – Property & Casualty serves as the connection point between Brown & Brown offices, customers, and the Digital Innovation & Insights Group (DIIG). This role combines relationship management, analytical expertise, and project coordination to ensure analytics solutions are delivered effectively and translated into meaningful business outcomes. By partnering with producers, account teams, actuaries, analysts, and customers, the Risk Analytics Consultant helps stakeholders leverage data-driven insights, supports informed risk-management and risk-financing decisions, and drives adoption of analytics offerings across the organization. How You Will Contribute: Develop and manage project timelines, coordinate stakeholder activities, and ensure timely completion of key deliverables. Ensure data integrity through data validation, cleansing, and quality review activities. Guide stakeholders in understanding and applying analytical insights to support risk management and risk-financing decisions. Develop and maintain a comprehensive understanding of Property, Casualty, Cyber and D&O analytics solutions and their business applications. Support adoption and effective use of analytical tools, dashboards, and reporting solutions Build, develop, and grow business relationships. Travel as required to support customer engagements, stakeholder meetings, training activities, and business development initiatives. Skills & Experience to be Successful: Business degree including, but not limited to Risk Management, Finance, Accounting and Marketing, Statistics. Minimum, of 3-5 years of combined in insurance, risk management, consulting, analytics, account management, or customer-facing advisory roles. Ability to explain technical concepts to non-technical audiences. Experience preparing, cleansing, validating, and interpreting large datasets. Advanced proficiency in Microsoft Excel, including data analysis, reporting, and visualization. Strong project management and organizational skills with the ability to manage multiple priorities simultaneously. Ability to work independently and in a team-oriented, collaborative environment. Ability to effectively prioritize and execute tasks in high-pressure environment. Ability to motivate and hold fellow team members and business partners accountable. Strong communication and presentation skills (written and verbal). Property & Casualty (P&C) insurance industry experience preferred. Teammate Benefits & Total Well-Being We go beyond standard benefits, focusing on the total well-being of our teammates, including: Health Benefits : Medical/Rx, Dental, Vision, Life Insurance, Disability Insurance Financial Benefits : ESPP; 401k; Student Loan Assistance; Tuition Reimbursement Mental Health & Wellness : Free Mental Health & Enhanced Advocacy Services Beyond Benefits : Paid Time Off, Holidays, Preferred Partner Discounts and more. Not reflective of all benefits. Enrollment waiting periods or eligibility criteria may apply to certain benefits. Benefit details and offerings may vary for subsidiary entities or in specific geographic locations. Recruiting Vendor Disclosure Statement Brown & Brown does not accept unsolicited resumes from external recruiters, recruitment vendors or employment agencies ("Recruiting Vendors"). Recruiting Vendors must have a valid written agreement and received prior written authorization from an authorized Brown & Brown representative before submitting candidates for any publicly posted role. Any unsolicited resumes submitted to Brown & Brown or its employees become the property of Brown & Brown, and no fees will be paid for such submissions. Additional information regarding this policy can be found on our careers page. The Power To Be Yourself As an
+
+---
+
+## 12. [MAYBE] Barclays | Business Insights & Analytics Analyst
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bournemouth-The-Helm-Holdenhurst-Road/Business-Insights---Analytics-Analyst_JR-0000126327-1
 - Location: Bournemouth, The Helm, Holdenhurst Road
 - Posted: Nov 09 (board gives the date only)
@@ -132,7 +195,7 @@ Job Description Purpose of the role To develop, track and analyse operational me
 
 ---
 
-## 9. [MAYBE] Snap | Research Scientist, Research
+## 13. [MAYBE] Snap | Research Scientist, Research
 - Link: https://snapchat.wd1.myworkdayjobs.com/snap/job/Bellevue-Washington/Research-Scientist--Language-for-Personalization_R0044935
 - Location: 2 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -146,7 +209,7 @@ Snap Inc is a technology company. We believe the camera presents the greatest op
 
 ---
 
-## 10. [MAYBE] Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads
+## 14. [MAYBE] Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads
 - Link: https://www.google.com/about/careers/applications/jobs/results/115014381934125766
 - Location: Mountain View, CA, USA ; Pittsburgh, PA, USA
 - Posted: Nov 10 10:08 ET
@@ -160,7 +223,21 @@ Google's software engineers develop the next-generation technologies that change
 
 ---
 
-## 11. [MAYBE] Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation
+## 15. [MAYBE] Lila Sciences | ML Research Engineer, Performance Optimization
+- Link: https://job-boards.greenhouse.io/lilasciences/jobs/4455701009
+- Location: Cambridge, MA USA; San Francisco, CA USA
+- Posted: Nov 10 10:37 ET
+- Scanner fit: ~53 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, llm, machine learning, docker, pipeline, quantitative, research | Lacks: airflow
+
+### Job description
+
+Your Impact at LILA Lila is building a platform where AI and automation co-evolve to accelerate scientific discovery Our AI Research team is looking to hire a ML Research Engineer to maximize iteration speed for mid- and post-training runs on 1T+ parameter LLMs using the latest NVIDIA chips. This involves not only maximizing GPU utilization on an individual training run but also making these optimizations maintainable, reusable, and adaptable so that the rest of the research team always knows how to confidently use the latest optimized stack. What You'll Be Building GPU compute performance: profiling, kernel development, long-context handling, memory footprint optimization GPU cluster performance: collective/MoE framework optimization, comm/compute overlap, RDMA/IB/EFA usage, P/D disaggregation Big data handling: manage mid-training scale data across storage, streaming, tokenization, and processing RL pipeline: optimize the async RL cycle, including environment/sandbox interfacing, long rollout handling, large token metadata (such as router replay), and weight sync Setting the performance standard: make sure optimized configurations are tested, accessible, and adaptable to research tasks so that the whole team can work at maximum velocity Establishing the Pareto frontier: communicate with researchers about throughput/accuracy tradeoffs (e.g. lower-precision compute, higher async staleness) to establish optimal points What You'll Need to Succeed BS/MS in Computer Science or a related quantitative field and 4+ years working as a software engineer or machine learning engineer, or PhD in a relevant research area and 1+ years work experience. Experience with LLM inference libraries such as vLLM and training libraries such as Megatron, including usage and throughput optimization. Experience running LLM inference and/or training at scale across multi-node GPU clusters. Familiarity with core concepts in reinforcement learning. Proven track record of software engineering excellence — clean APIs, well-tested code, thoughtful abstractions. Hands-on experience supporting and maintaining production libraries used by other engineers and researchers. Strong CI/CD skills — experience designing integration test suites, build pipelines, and automated quality gates for multi-package ecosystems. A passion for agentic systems and awareness of cutting-edge approaches in LLM tool use and autonomy. Bonus Points For Experience working with kernel DSLs and frameworks like CUDA, CuTe, CuTile, Triton, etc. Experience with GPU networking frameworks like NCCL and NIXL, as well as fabrics like NVLink, IB, and EFA. Experience with distributed systems or compute frameworks (Ray, Flyte, Airflow, or similar). Familiarity with containerized compute backends (Docker, Modal) and sandbox orchestration. Experience with Ray actors, Ray Serve, or similar actor-model frameworks. Compensation We offer competitive base compensation with bonus potential and generous early-stage equity. Your final offer will reflect your background, expertise, and expected impact. U.S. Benefits. Full-time U.S. employees receive a comprehensive benefits program including medical, dental, and vision coverage; employer-paid life and disability insurance; flexible time off with generous company wide holidays; paid parental leave; an educational assistance program; commuter benefits, including bike share memberships for office based employees; and a company subsidized lunch program. International Benefits. Full-time employees outside the U.S. receive a comprehensive benefits program tailored to their region. USD salary ranges apply only to U.S.-based positions; international salaries are set to local market. Expected Base Salary Range $148,000 &mdash; $240,000 USD About LILA Lila Sciences is building Scientific Superintelligence™ to solve humankind's greatest challenges. We believe science is the most inspiring frontier for AI. Rather than hard-coding expert knowledge into tools, LILA builds systems that can learn for themselves. LILA combines advanced AI models with proprietary AI Science Factory™ instruments into an operating system for science that executes the entire scientific method autonomously, accelerating discovery at unprecedented speed, scale, and impact across medicine, materials, and energy. Learn more at www.lila.ai. Guided by our core values of truth, trust, curiosity, grit, and velocity, we move with startup speed while tackling problems of historic importance. If this sounds like an environment you'd love to work in, even if you don't meet every qualification listed above, we encourage you to apply. We’re All In Lila Sciences is&nbsp;committed to equal employment opportunity&nbsp;regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Information you provide during your application process will be handled in accordance with our Candidate Privacy Policy . A Note to Agencies Lila Sciences does not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to Lila Sciences or its employees is strictly prohibited unless contacted directly by Lila Science’s internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of Lila Sciences, and Lila Sciences will not owe any referral or other fees with respect thereto.
+
+---
+
+## 16. [MAYBE] Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation
 - Link: https://jobs.lever.co/tri/dbdce3b6-fc88-47d2-a78c-9ec34c66e6d1
 - Location: Cambridge, MA Cambridge, MA US
 - Posted: Nov 10 09:58 ET
@@ -179,7 +256,35 @@ It is unlawful in Massachusetts to require or administer a lie detector test as 
 
 ---
 
-## 12. [MAYBE] Anglian Water | Data Engineer
+## 17. [MAYBE] Lila Sciences | ML Research Scientist, Environments & Harnesses
+- Link: https://job-boards.greenhouse.io/lilasciences/jobs/4462270009
+- Location: Cambridge, MA USA; London, UK; San Francisco, CA USA
+- Posted: Nov 10 10:37 ET
+- Scanner fit: ~47 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: llm, python, pipeline, publication, quantitative, research | Lacks: airflow
+
+### Job description
+
+Your Impact at LILA Lila is building a platform where AI and automation co-evolve to accelerate scientific discovery. Our AI Research team is looking to hire a ML Research Scientist to focus on synthetic RL environment pipelines and multi-agent harness design. These core pillars enable efficient scaling at training and test time to unlock scientific discovery. Lila’s scale and unique focus on experimental science means solving novel problems and building infrastructure that scales. What You'll Be Building Design and prototype new harness capabilities — context compaction strategies, novel tool interfaces, long-horizon planning mechanisms, mult-agent swarms, and other innovations that expand what agents can do. Invent new types of RL environments — explore creative ways to turn scientific workflows, simulators, and real-world tasks into training signal. Build end-to-end pipelines for synthetic environment generation — transforming raw assets (papers, codebases, lab protocols) into validated, versioned training environments at scale. Prototype and validate environment designs — from initial concept through reward shaping, data collection, and integration with the training loop. Push the boundaries of multi-step reasoning — design and implement support for chained tasks, hierarchical goals, and complex evaluation scenarios. What You'll Need to Succeed PhD (or equivalent experience) in Computer Science or a related quantitative field and two years of industry experience. A strong track record ideating on new harness designs or creating reinforcement learning environments at scale. Strong prototyping and coding skills — comfortable quickly building and iterating on new ideas in Python. Creativity and research intuition — ability to identify promising directions, design experiments, and navigate ambiguity. Familiarity with core concepts and algorithms in reinforcement learning. Solid software engineering fundamentals — clean code, version control, testing, and ability to integrate experimental work into shared infrastructure. Bonus Points for Strong publication track record at conferences such as NeurIPS, ICML, and ICLR. Background in biology, chemistry, or physics — or experience translating domain expertise into computational tasks. Experience building developer-facing libraries, APIs, or frameworks (registries, plugin systems, CLIs). Familiarity with distributed compute (Ray, Modal) or LLM inference systems (vLLM, batching strategies). Experience with async Python, Pydantic, and workflow orchestration frameworks (Flyte, Airflow). Compensation We offer competitive base compensation with bonus potential and generous early-stage equity. Your final offer will reflect your background, expertise, and expected impact. U.S. Benefits. Full-time U.S. employees receive a comprehensive benefits program including medical, dental, and vision coverage; employer-paid life and disability insurance; flexible time off with generous company wide holidays; paid parental leave; an educational assistance program; commuter benefits, including bike share memberships for office based employees; and a company subsidized lunch program. International Benefits. Full-time employees outside the U.S. receive a comprehensive benefits program tailored to their region. USD salary ranges apply only to U.S.-based positions; international salaries are set to local market. Expected Base Salary Range $228,000 &mdash; $304,000 USD About LILA Lila Sciences is building Scientific Superintelligence™ to solve humankind's greatest challenges. We believe science is the most inspiring frontier for AI. Rather than hard-coding expert knowledge into tools, LILA builds systems that can learn for themselves. LILA combines advanced AI models with proprietary AI Science Factory™ instruments into an operating system for science that executes the entire scientific method autonomously, accelerating discovery at unprecedented speed, scale, and impact across medicine, materials, and energy. Learn more at www.lila.ai. Guided by our core values of truth, trust, curiosity, grit, and velocity, we move with startup speed while tackling problems of historic importance. If this sounds like an environment you'd love to work in, even if you don't meet every qualification listed above, we encourage you to apply. We’re All In Lila Sciences is&nbsp;committed to equal employment opportunity&nbsp;regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Information you provide during your application process will be handled in accordance with our Candidate Privacy Policy . A Note to Agencies Lila Sciences does not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to Lila Sciences or its employees is strictly prohibited unless contacted directly by Lila Science’s internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of Lila Sciences, and Lila Sciences will not owe any referral or other fees with respect thereto.
+
+---
+
+## 18. [MAYBE] Lila Sciences | ML Research Scientist, Scientific Evaluations
+- Link: https://job-boards.greenhouse.io/lilasciences/jobs/4472554009
+- Location: Cambridge, MA USA; London, UK; San Francisco, CA USA
+- Posted: Nov 10 10:37 ET
+- Scanner fit: ~44 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: llm, python, pipeline, publication, research | Lacks: airflow
+
+### Job description
+
+Your Impact at LILA Lila is building a platform where AI and automation co-evolve to accelerate scientific discovery. Our AI Research team is looking to hire a ML Research Scientist to focus on building scientific problems and environments to evaluate frontier LLMs on. What You'll Be Building Design and prototype new evals and environments for science — creating high-quality evaluations, identifying environment failures, and patching model capability gaps. Invent new types of RL environments — explore creative ways to turn scientific workflows, simulators, and real-world tasks into training signal. Build end-to-end pipelines for synthetic environment generation — transforming raw assets (papers, codebases, lab protocols) into validated, versioned training environments at scale. Prototype and validate environment designs — from initial concept through reward shaping, data collection, and integration with the training loop. What You'll Need to Succeed Experience applying ML or computation to biology, chemistry, or material sciences. A strong track record of creating environments or evaluations for model training Experience building large, complex data pipelines for model training or production. Strong prototyping and coding skills — comfortable quickly building and iterating on new ideas in Python. Creativity and research intuition — ability to identify promising directions, design experiments, and navigate ambiguity. Solid software engineering fundamentals — clean code, version control, testing, and ability to integrate experimental work into shared infrastructure. Bonus Points For Demonstrated experience training large language models Strong publication track record at conferences such as NeurIPS, ICML, and ICLR. Strong Python programming skills, including research and production infrastructure Familiarity with distributed compute (Ray, Modal) or LLM inference systems (vLLM, batching strategies). Experience with async Python, Pydantic, and workflow orchestration frameworks (Flyte, Airflow). Compensation We offer competitive base compensation with bonus potential and generous early-stage equity. Your final offer will reflect your background, expertise, and expected impact. U.S. Benefits. Full-time U.S. employees receive a comprehensive benefits program including medical, dental, and vision coverage; employer-paid life and disability insurance; flexible time off with generous company wide holidays; paid parental leave; an educational assistance program; commuter benefits, including bike share memberships for office based employees; and a company subsidized lunch program. International Benefits. Full-time employees outside the U.S. receive a comprehensive benefits program tailored to their region. USD salary ranges apply only to U.S.-based positions; international salaries are set to local market. Expected Base Salary Range $176,000 &mdash; $304,000 USD About LILA Lila Sciences is building Scientific Superintelligence™ to solve humankind's greatest challenges. We believe science is the most inspiring frontier for AI. Rather than hard-coding expert knowledge into tools, LILA builds systems that can learn for themselves. LILA combines advanced AI models with proprietary AI Science Factory™ instruments into an operating system for science that executes the entire scientific method autonomously, accelerating discovery at unprecedented speed, scale, and impact across medicine, materials, and energy. Learn more at www.lila.ai. Guided by our core values of truth, trust, curiosity, grit, and velocity, we move with startup speed while tackling problems of historic importance. If this sounds like an environment you'd love to work in, even if you don't meet every qualification listed above, we encourage you to apply. We’re All In Lila Sciences is&nbsp;committed to equal employment opportunity&nbsp;regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Information you provide during your application process will be handled in accordance with our Candidate Privacy Policy . A Note to Agencies Lila Sciences does not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to Lila Sciences or its employees is strictly prohibited unless contacted directly by Lila Science’s internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of Lila Sciences, and Lila Sciences will not owe any referral or other fees with respect thereto.
+
+---
+
+## 19. [MAYBE] Anglian Water | Data Engineer
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Thorpe-Wood-House/Data-Engineer_R40844-1
 - Location: Thorpe Wood House
 - Posted: Nov 09 (board gives the date only)
@@ -193,7 +298,7 @@ Location: Thorpe Wood House, Peterborough Contract: Permanent Salary: £46,000, 
 
 ---
 
-## 13. [MAYBE] University of Miami | Research Associate I
+## 20. [MAYBE] University of Miami | Research Associate I
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-I_R100102926
 - Location: Miami, FL
 - Posted: Nov 09 (board gives the date only)
