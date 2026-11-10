@@ -10,50 +10,54 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 4 | TELUS Digital | Roboticist (Embodied AI, Machine Learning, Computer Vision)  | 75 | none found (check myvisajobs) | Nov 10 12:48 ET |
 | 5 | Freddie Mac | Quantitative Analytics Professional | 74 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
 | 6 | Applied Fluid Power | Master Data Analyst | 74 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 7 | RBI | Digital Data Analyst, Burger King & Popeyes, International | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 8 | Thomson Reuters | Legal Engineer, AI Adoption | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 9 | Thomson Reuters | Legal Engineer, AI Deployment | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 10 | OU Health | Quality Data Analytics Specialist | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 11 | MUFG | Securities and Market Risk Data Analyst | 68 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 12 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 67 | 1098 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 13 | Motorola | Jr. Software Engineer, AI Agent Platform | 67 | 27 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 14 | The Home Depot | OPERATIONS BUSINESS ANALYST | 65 | 27 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 15 | Caesars Entertainment | Analyst I, Labor Analytics - Corporate (Las Vegas) | 64 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 16 | Airbus | Praktikant für Generative AI/Agentic AI (d/m/w) | 62 | 1 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 17 | Eversource Energy | Associate Analyst, Transmission (hybrid schedule) | 62 | 2 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 18 | Interdigital | Research Engineer / Scientist (Wireless + AI/ML) | 60 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 19 | Mars | Analyst, Walmart Analytics | 56 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 20 | BCBST | Business Research Analyst I | 56 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 21 | Momentive | Research scientist | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 22 | Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 23 | EVERSANA | Conversational AI Engineer  | 55 | 9 in data/analytics/finance occupations | Nov 10 13:34 ET |
-| 24 | Highmark Health | Strategy Analyst | 55 | 11 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 25 | Southern New Hampshire University | Market Research and Insights Analyst | 55 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 26 | Barclays | Business Insights & Analytics Analyst | 54 | 142 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 27 | Snap | Research Scientist, Research | 54 | 52 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 28 | Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads | 54 | 1053 in data/analytics/finance occupations | Nov 10 10:08 ET |
-| 29 | Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst | 54 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 30 | Centific | Power BI Developer | 54 | 11 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 31 | Lila Sciences | ML Research Engineer, Performance Optimization | 53 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 32 | Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation | 50 | 2 in data/analytics/finance occupations | Nov 10 09:58 ET |
-| 33 | ibotta | Analytics Engineer | 50 | 1 in data/analytics/finance occupations | Nov 10 11:53 ET |
-| 34 | Montefiore Medical Center | Research Associate I - | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 35 | Wash U | Bioinformatics Research Analyst - Neurology | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 36 | Washington University in St. Louis | Bioinformatics Research Analyst - Neurology | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 37 | BNY | Associate, Portfolio Analytics - Pipeline | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 38 | Church & Dwight | AI Engineer, R&D | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 39 | Lila Sciences | ML Research Scientist, Environments & Harnesses | 47 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 40 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 10 14:50 ET |
-| 41 | First American | Business Intelligence Specialist (Remote) | 46 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 42 | Toyota | Snowflake & Analytics Platform Engineer | 45 | 7 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 43 | TikTok | Machine Learning Scientist Graduate (TikTok Trust and Safety) - 2027 Start (PhD) | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 44 | Integrity | Data Analyst | 45 | 5 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 45 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 46 | Lila Sciences | ML Research Scientist, Scientific Evaluations | 44 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 47 | Anglian Water | Data Engineer | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 48 | University of Miami | Research Associate I | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
-| 49 | Zekelman Industries | Analytics Engineer | 40 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 50 | Southern Company | AMI Data Analyst | 40 | 7 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 7 | Handshake | Machine Learning Engineer  | 74 | none found (check myvisajobs) | Nov 10 16:36 ET |
+| 8 | RBI | Digital Data Analyst, Burger King & Popeyes, International | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 9 | Thomson Reuters | Legal Engineer, AI Adoption | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 10 | Thomson Reuters | Legal Engineer, AI Deployment | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 11 | OU Health | Quality Data Analytics Specialist | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 12 | MUFG | Securities and Market Risk Data Analyst | 68 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 13 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 67 | 1098 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 14 | Motorola | Jr. Software Engineer, AI Agent Platform | 67 | 27 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 15 | The Home Depot | OPERATIONS BUSINESS ANALYST | 65 | 27 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 16 | Caesars Entertainment | Analyst I, Labor Analytics - Corporate (Las Vegas) | 64 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 17 | Airbus | Praktikant für Generative AI/Agentic AI (d/m/w) | 62 | 1 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 18 | Eversource Energy | Associate Analyst, Transmission (hybrid schedule) | 62 | 2 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 19 | Interdigital | Research Engineer / Scientist (Wireless + AI/ML) | 60 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 20 | Mars | Analyst, Walmart Analytics | 56 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 21 | BCBST | Business Research Analyst I | 56 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 22 | Momentive | Research scientist | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 23 | Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 24 | EVERSANA | Conversational AI Engineer  | 55 | 9 in data/analytics/finance occupations | Nov 10 13:34 ET |
+| 25 | Highmark Health | Strategy Analyst | 55 | 11 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 26 | Southern New Hampshire University | Market Research and Insights Analyst | 55 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 27 | Barclays | Business Insights & Analytics Analyst | 54 | 142 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 28 | Snap | Research Scientist, Research | 54 | 52 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 29 | Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads | 54 | 1053 in data/analytics/finance occupations | Nov 10 10:08 ET |
+| 30 | Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst | 54 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 31 | Centific | Power BI Developer | 54 | 11 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 32 | Lila Sciences | ML Research Engineer, Performance Optimization | 53 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 33 | Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation | 50 | 2 in data/analytics/finance occupations | Nov 10 09:58 ET |
+| 34 | ibotta | Analytics Engineer | 50 | 1 in data/analytics/finance occupations | Nov 10 11:53 ET |
+| 35 | Montefiore Medical Center | Research Associate I - | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 36 | Wash U | Bioinformatics Research Analyst - Neurology | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 37 | Washington University in St. Louis | Bioinformatics Research Analyst - Neurology | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 38 | BNY | Associate, Portfolio Analytics - Pipeline | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 39 | Church & Dwight | AI Engineer, R&D | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 40 | Lila Sciences | ML Research Scientist, Environments & Harnesses | 47 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 41 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 10 14:50 ET |
+| 42 | Lila Sciences | Research Scientist, Soft Matter Simulations | 47 | 1 in data/analytics/finance occupations | Nov 10 16:45 ET |
+| 43 | First American | Business Intelligence Specialist (Remote) | 46 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 44 | Humana | Research Scientist, Clinical Innovation & Trend Analytics | 46 | 72 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 45 | Toyota | Snowflake & Analytics Platform Engineer | 45 | 7 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 46 | TikTok | Machine Learning Scientist Graduate (TikTok Trust and Safety) - 2027 Start (PhD) | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 47 | Integrity | Data Analyst | 45 | 5 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 48 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 49 | Lila Sciences | ML Research Scientist, Scientific Evaluations | 44 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 50 | Anglian Water | Data Engineer | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 51 | University of Miami | Research Associate I | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 52 | Zekelman Industries | Analytics Engineer | 40 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 53 | Southern Company | AMI Data Analyst | 40 | 7 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 54 | JP Morgan Chase | Asset Management - Equity Research Analyst, Industrials  - Associate | 40 | 1098 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
 
 ---
 
@@ -220,7 +224,105 @@ The Master Data Analyst is Applied Fluid Power's hands-on owner of data quality 
 
 ---
 
-## 7. [MAYBE] RBI | Digital Data Analyst, Burger King & Popeyes, International
+## 7. [MAYBE] Handshake | Machine Learning Engineer 
+- Link: https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f
+- Location: San Francisco, CA United States
+- Posted: Nov 10 16:36 ET
+- Scanner fit: ~74 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, gcp, llm, machine learning, nlp, python, pytorch, regression, scikit, tensorflow, classification, credit, deep learning, pipeline | Lacks: azure  | Note: no H-1B filings found for this employer
+
+### Job description
+
+ABOUT HANDSHAKE
+
+Handshake was founded on a simple belief that everyone deserves a path to a great career, regardless of where they went to school or who they know. Today, we power 25 million job seekers, 1 million+ employers, and 1,600 educational institutions.
+
+In 2025, we started Handshake AI and built the fastest-growing AI data business in history. We work directly with frontier AI lab researchers to create evaluations, publish benchmarks, and push the boundary of data. We’ve grown from 0to~1B run rate and pay ~$60M to over 30K individuals every month.
+
+
+
+Why join Handshake now:
+
+ - Shape how every career evolves in the AI economy, at global scale, with impact your friends, family and peers can see and feel
+
+ - Partner hand-in-hand with world-class AI labs, Fortune 500 partners and the world’s top educational institutions
+
+ - Work together with engineers, scientists, operators, and more from Palantir, Meta, Scale AI, and former YC founders
+
+ - Build a massive, fast-growing business with billions in revenue
+
+
+
+About the Role
+
+Handshake is hiring a Machine Learning Engineer I for the Growth Relevance team. AI is transforming how students navigate their careers, and we're committed to providing innovative, responsible AI-powered solutions that guide students from educational aspirations to meaningful career opportunities. In this role, you will contribute directly to this mission by developing, deploying, and enhancing machine learning systems focused on lifecycle optimization, personalized notifications, and monetization strategies.
+
+You'll join a high-impact team leveraging cutting-edge ML infrastructure, including embedding-based retrieval, Graph Neural Networks, and multi-stage rankers built upon a robust data platform with billions of data points. Your work will drive critical marketplace metrics, enhance user engagement, and contribute to responsible AI practices around explainability, fairness, and quality.
+
+
+
+What You'll Do
+
+ - Innovator: Develop and iterate on machine learning models and features that directly influence user experience across lifecycle, notifications, and monetization — with guidance from senior engineers.
+
+ - Collaborator: Partner with senior engineers, data scientists, and product managers to develop and iterate on machine learning models that improve product features and user experience.
+
+ - Learner: Grow your technical depth by working alongside experienced ML practitioners, picking up best practices in model development, experimentation, and production deployment.
+
+
+
+Desired Capabilities
+
+ - Bachelor’s degree in Computer Science, Data Science, or a related field
+
+ - Experience in machine learning, data science, or a related area
+
+ - Proficient in Python, with hands-on experience in frameworks such as scikit-learn, PyTorch, or TensorFlow
+
+ - Experience with deploying and evaluating agentic workflows
+
+ - Strong foundation in core ML concepts, including classification, regression, ranking, and model evaluation
+
+
+
+Extra Credit
+
+ - Master’s degree or currently pursuing an advanced degree in a relevant field
+
+ - Exposure to areas such as recommendations, personalization, NLP, deep learning, LLMs, or explainable AI
+
+ - Familiarity with the ML lifecycle (e.g., experiment tracking, model monitoring, feature pipelines)
+
+ - Experience with cloud platforms (GCP, AWS, or Azure)
+
+ - Clear communicator, able to translate technical work for diverse audiences
+
+ - Collaborative mindset with experience working cross-functionally with product, analytics, and engineering teams
+
+
+
+Perks
+
+Handshake delivers benefits that help you feel supported—and thrive at work and in life.
+
+The below benefits are for full-time US employees.
+
+🎯 Ownership: Equity in a fast-growing company
+
+💰 Financial Wellness: 401(k) match, competitive compensation, financial coaching
+
+🍼 Family Support: Paid parental leave, fertility benefits, parental coaching
+
+💝 Wellbeing: Medical, dental, and vision, mental health support, $500 wellness stipend
+
+📚 Growth: $2,000 learning stipend, ongoing development
+
+💻 Remote & Office: Internet, commuting, and free lunch/gym in our SF office
+
+---
+
+## 8. [MAYBE] RBI | Digital Data Analyst, Burger King & Popeyes, International
 - Link: https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Lucerne-Corporate-Office/Digital-Data-Analyst--Burger-King---Popeyes--International_R4071
 - Location: Corp - Lucerne Corporate Office
 - Posted: Nov 09 (board gives the date only)
@@ -234,7 +336,7 @@ Ready to make your next big professional move? Join us on our journey to achieve
 
 ---
 
-## 8. [MAYBE] Thomson Reuters | Legal Engineer, AI Adoption
+## 9. [MAYBE] Thomson Reuters | Legal Engineer, AI Adoption
 - Link: https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/AI-Solutions-Architect_JREQ204513
 - Location: see posting
 - Posted: Nov 09 (board gives the date only)
@@ -248,7 +350,7 @@ Job Description As an Legal Engineer, AI Adoption , you will help law firm custo
 
 ---
 
-## 9. [MAYBE] Thomson Reuters | Legal Engineer, AI Deployment
+## 10. [MAYBE] Thomson Reuters | Legal Engineer, AI Deployment
 - Link: https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Legal-AI-Engineer_JREQ204512
 - Location: see posting
 - Posted: Nov 09 (board gives the date only)
@@ -262,7 +364,7 @@ Job Description As a Legal Engineer, AI Deployment , you will help law firm cust
 
 ---
 
-## 10. [MAYBE] OU Health | Quality Data Analytics Specialist
+## 11. [MAYBE] OU Health | Quality Data Analytics Specialist
 - Link: https://oumedicine.wd5.myworkdayjobs.com/OUHealthCareers/job/WFH-State-of-Oklahoma/Quality-Data-Analyst_R0067038
 - Location: 4 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -276,7 +378,7 @@ Position Title: Quality Data Analytics Specialist Department: Quality Data Repor
 
 ---
 
-## 11. [MAYBE] MUFG | Securities and Market Risk Data Analyst
+## 12. [MAYBE] MUFG | Securities and Market Risk Data Analyst
 - Link: https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Securities-and-Market-Risk-Data-Analyst_10079331-WD
 - Location: Jersey City, NJ
 - Posted: Nov 10 (board gives the date only)
@@ -290,7 +392,7 @@ Do you want your voice heard and your actions to count? Discover your opportunit
 
 ---
 
-## 12. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
+## 13. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803400
 - Location: New York, NY, United States US
 - Posted: Nov 10 (board gives the date only)
@@ -304,7 +406,7 @@ Be part of a team where your expertise in finance and technology drives accurate
 
 ---
 
-## 13. [MAYBE] Motorola | Jr. Software Engineer, AI Agent Platform
+## 14. [MAYBE] Motorola | Jr. Software Engineer, AI Agent Platform
 - Link: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300
 - Location: Ontario Remote Work, More...
 - Posted: Nov 09 (board gives the date only)
@@ -318,7 +420,7 @@ Company Overview At Motorola Solutions, we believe that everything starts with o
 
 ---
 
-## 14. [MAYBE] The Home Depot | OPERATIONS BUSINESS ANALYST
+## 15. [MAYBE] The Home Depot | OPERATIONS BUSINESS ANALYST
 - Link: https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/OPERATIONS-BUSINESS-ANALYST_Req198317-1
 - Location: STORE SUPPORT CENTER, ATLANTA - 9090
 - Posted: Nov 10 (board gives the date only)
@@ -332,7 +434,7 @@ With a career at The Home Depot, you can be yourself and also be part of somethi
 
 ---
 
-## 15. [MAYBE] Caesars Entertainment | Analyst I, Labor Analytics - Corporate (Las Vegas)
+## 16. [MAYBE] Caesars Entertainment | Analyst I, Labor Analytics - Corporate (Las Vegas)
 - Link: https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/91780
 - Location: Las Vegas, NV, United States US
 - Posted: Nov 10 (board gives the date only)
@@ -346,7 +448,7 @@ Caesars Entertainment is seeking an Analyst I to join our Labor Analytics team i
 
 ---
 
-## 16. [MAYBE] Airbus | Praktikant für Generative AI/Agentic AI (d/m/w)
+## 17. [MAYBE] Airbus | Praktikant für Generative AI/Agentic AI (d/m/w)
 - Link: https://ag.wd3.myworkdayjobs.com/Airbus/job/Ulm-Area/Praktikant-fr-Generative-AI-Agentic-AI--d-m-w-_JR10436030
 - Location: Ulm Area
 - Posted: Nov 09 (board gives the date only)
@@ -360,7 +462,7 @@ Job Description: Zur Unterstützung der Entwicklung im Bereich „Engineering De
 
 ---
 
-## 17. [MAYBE] Eversource Energy | Associate Analyst, Transmission (hybrid schedule)
+## 18. [MAYBE] Eversource Energy | Associate Analyst, Transmission (hybrid schedule)
 - Link: https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/Associate-Analyst--Transmission--hybrid-schedule-_R-032522
 - Location: Westwood, MA
 - Posted: Nov 09 (board gives the date only)
@@ -374,7 +476,7 @@ Eversource will not offer immigration-related sponsorship for this position (e.g
 
 ---
 
-## 18. [MAYBE] Interdigital | Research Engineer / Scientist (Wireless + AI/ML)
+## 19. [MAYBE] Interdigital | Research Engineer / Scientist (Wireless + AI/ML)
 - Link: https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/Research-Engineer---Scientist--Wireless---AI-ML-_REQ26-1099
 - Location: 2 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -388,7 +490,7 @@ About InterDigital InterDigital is a global research and development company foc
 
 ---
 
-## 19. [MAYBE] Mars | Analyst, Walmart Analytics
+## 20. [MAYBE] Mars | Analyst, Walmart Analytics
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Arkansas-Bentonville/Analyst--Walmart-Analytics_R170076-1
 - Location: USA-Arkansas-Bentonville
 - Posted: Nov 10 (board gives the date only)
@@ -402,7 +504,7 @@ Job Description: Role Overview The Data Scientist Analyst, Walmart Analytics wil
 
 ---
 
-## 20. [MAYBE] BCBST | Business Research Analyst I
+## 21. [MAYBE] BCBST | Business Research Analyst I
 - Link: https://bcbst.wd1.myworkdayjobs.com/External/job/USA-TN-Chattanooga-Remote/Business-Research-Analyst-I_R-51528
 - Location: USA, TN, Chattanooga, Remote
 - Posted: Nov 10 (board gives the date only)
@@ -416,7 +518,7 @@ Business Research Analyst I | Senior Care Product Strategy We are hiring a Busin
 
 ---
 
-## 21. [MAYBE] Momentive | Research scientist
+## 22. [MAYBE] Momentive | Research scientist
 - Link: https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Pearl-River/Research-scientist_R9977-1
 - Location: US NY Pearl River
 - Posted: Nov 09 (board gives the date only)
@@ -430,7 +532,7 @@ Job Title: Research scientist Summary: Shape the future of foam control technolo
 
 ---
 
-## 22. [MAYBE] Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty
+## 23. [MAYBE] Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Sandy-Springs-Atlanta-GA-USA/Risk-Analytics-Consultant---Property---Casualty_R26_0000003968
 - Location: 3 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -444,7 +546,7 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 23. [MAYBE] EVERSANA | Conversational AI Engineer 
+## 24. [MAYBE] EVERSANA | Conversational AI Engineer 
 - Link: https://jobs.smartrecruiters.com/EVERSANA1/744000160943474
 - Location: Overland Park KS us remote
 - Posted: Nov 10 13:34 ET
@@ -458,7 +560,7 @@ THE POSITION: The Conversational AI Engineer is responsible for designing, build
 
 ---
 
-## 24. [MAYBE] Highmark Health | Strategy Analyst
+## 25. [MAYBE] Highmark Health | Strategy Analyst
 - Link: https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Strategy-Analyst_J287990-1
 - Location: Pittsburgh PA, 15222, PAP, Penn Avenue Place
 - Posted: Nov 10 (board gives the date only)
@@ -472,7 +574,7 @@ Company : Highmark Inc. Job Description : JOB SUMMARY Support leadership of High
 
 ---
 
-## 25. [MAYBE] Southern New Hampshire University | Market Research and Insights Analyst
+## 26. [MAYBE] Southern New Hampshire University | Market Research and Insights Analyst
 - Link: https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/Remote/Market-Research-and-Insights-Analyst_R0014919
 - Location: Remote
 - Posted: Nov 10 (board gives the date only)
@@ -486,7 +588,7 @@ Southern New Hampshire University is a team of innovators. World changers. Indiv
 
 ---
 
-## 26. [MAYBE] Barclays | Business Insights & Analytics Analyst
+## 27. [MAYBE] Barclays | Business Insights & Analytics Analyst
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bournemouth-The-Helm-Holdenhurst-Road/Business-Insights---Analytics-Analyst_JR-0000126327-1
 - Location: Bournemouth, The Helm, Holdenhurst Road
 - Posted: Nov 09 (board gives the date only)
@@ -500,7 +602,7 @@ Job Description Purpose of the role To develop, track and analyse operational me
 
 ---
 
-## 27. [MAYBE] Snap | Research Scientist, Research
+## 28. [MAYBE] Snap | Research Scientist, Research
 - Link: https://snapchat.wd1.myworkdayjobs.com/snap/job/Bellevue-Washington/Research-Scientist--Language-for-Personalization_R0044935
 - Location: 2 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -514,7 +616,7 @@ Snap Inc is a technology company. We believe the camera presents the greatest op
 
 ---
 
-## 28. [MAYBE] Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads
+## 29. [MAYBE] Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads
 - Link: https://www.google.com/about/careers/applications/jobs/results/115014381934125766
 - Location: Mountain View, CA, USA ; Pittsburgh, PA, USA
 - Posted: Nov 10 10:08 ET
@@ -528,7 +630,7 @@ Google's software engineers develop the next-generation technologies that change
 
 ---
 
-## 29. [MAYBE] Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst
+## 30. [MAYBE] Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst
 - Link: https://bcbsri.wd1.myworkdayjobs.com/BCBSRICareers/job/Providence-RI/Corporate-Strategy-Analyst_JR100493
 - Location: Providence, RI
 - Posted: Nov 10 (board gives the date only)
@@ -542,7 +644,7 @@ Pay Range: $83,200.00 - $124,800.00 Please email HR_Talent_AcquisitionTeam@bcbsr
 
 ---
 
-## 30. [MAYBE] Centific | Power BI Developer
+## 31. [MAYBE] Centific | Power BI Developer
 - Link: https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Power-BI-Developer_JR108637-1
 - Location: Remote Work( USA)
 - Posted: Nov 10 (board gives the date only)
@@ -556,7 +658,7 @@ About Centific Centific is a frontier AI data foundry that curates diverse, high
 
 ---
 
-## 31. [MAYBE] Lila Sciences | ML Research Engineer, Performance Optimization
+## 32. [MAYBE] Lila Sciences | ML Research Engineer, Performance Optimization
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4455701009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -570,7 +672,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 32. [MAYBE] Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation
+## 33. [MAYBE] Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation
 - Link: https://jobs.lever.co/tri/dbdce3b6-fc88-47d2-a78c-9ec34c66e6d1
 - Location: Cambridge, MA Cambridge, MA US
 - Posted: Nov 10 09:58 ET
@@ -589,7 +691,7 @@ It is unlawful in Massachusetts to require or administer a lie detector test as 
 
 ---
 
-## 33. [MAYBE] ibotta | Analytics Engineer
+## 34. [MAYBE] ibotta | Analytics Engineer
 - Link: https://jobs.ashbyhq.com/ibotta/d1ad9f8d-564a-4859-8e8c-fa2c05485627
 - Location: Hybrid - Denver United States remote
 - Posted: Nov 10 11:53 ET
@@ -683,7 +785,7 @@ To learn more about what our Tech teams are doing day to day, visit Building Ibo
 
 ---
 
-## 34. [MAYBE] Montefiore Medical Center | Research Associate I -
+## 35. [MAYBE] Montefiore Medical Center | Research Associate I -
 - Link: https://montefiore.wd12.myworkdayjobs.com/MMC/job/3415-Bainbridge-Avenue/Research-Associate-I--_JR234732-1
 - Location: 3415 Bainbridge Avenue
 - Posted: Nov 10 (board gives the date only)
@@ -697,7 +799,7 @@ City/State: Bronx, New York Grant Funded: Yes Department: PEDS - Division Of Gen
 
 ---
 
-## 35. [MAYBE] Wash U | Bioinformatics Research Analyst - Neurology
+## 36. [MAYBE] Wash U | Bioinformatics Research Analyst - Neurology
 - Link: https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Bioinformatics-Research-Analyst---Neurology_JR98591
 - Location: Washington University Medical Campus
 - Posted: Nov 10 (board gives the date only)
@@ -711,7 +813,7 @@ Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Provi
 
 ---
 
-## 36. [MAYBE] Washington University in St. Louis | Bioinformatics Research Analyst - Neurology
+## 37. [MAYBE] Washington University in St. Louis | Bioinformatics Research Analyst - Neurology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Bioinformatics-Research-Analyst---Neurology_JR98591
 - Location: Washington University Medical Campus
 - Posted: Nov 10 (board gives the date only)
@@ -725,7 +827,7 @@ Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Provi
 
 ---
 
-## 37. [MAYBE] BNY | Associate, Portfolio Analytics - Pipeline
+## 38. [MAYBE] BNY | Associate, Portfolio Analytics - Pipeline
 - Link: https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83672
 - Location: Lake Mary, FL, United States US
 - Posted: Nov 10 (board gives the date only)
@@ -739,7 +841,7 @@ The candidate conducts reporting services on behalf of assigned clients on compl
 
 ---
 
-## 38. [MAYBE] Church & Dwight | AI Engineer, R&D
+## 39. [MAYBE] Church & Dwight | AI Engineer, R&D
 - Link: https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Princeton-NJ/AI-Engineer--R-D_R2026-15825
 - Location: USA, Princeton, NJ
 - Posted: Nov 10 (board gives the date only)
@@ -753,7 +855,7 @@ A collective energy and ambition. A place where you can make a real difference. 
 
 ---
 
-## 39. [MAYBE] Lila Sciences | ML Research Scientist, Environments & Harnesses
+## 40. [MAYBE] Lila Sciences | ML Research Scientist, Environments & Harnesses
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4462270009
 - Location: Cambridge, MA USA; London, UK; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -767,7 +869,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 40. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
+## 41. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990016774556
 - Location: Irvine CA us
 - Posted: Nov 10 14:50 ET
@@ -781,7 +883,21 @@ The Statistical Analyst is an integral role in the research and development of n
 
 ---
 
-## 41. [MAYBE] First American | Business Intelligence Specialist (Remote)
+## 42. [MAYBE] Lila Sciences | Research Scientist, Soft Matter Simulations
+- Link: https://job-boards.greenhouse.io/lilasciences/jobs/4465081009
+- Location: Cambridge, MA USA; San Francisco, CA USA
+- Posted: Nov 10 16:45 ET
+- Scanner fit: ~47 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: python, pytorch, monte carlo, pipeline, publication, research | Lacks: c++
+
+### Job description
+
+Your Impact at LILA Your role will involve applying soft matter physics and molecular simulation expertise to accelerate the discovery, optimization, and understanding of complex soft matter systems. You will use coarse-grained and atomistic modeling, mesoscale simulation, analytical theory, and agentic AI systems to investigate polymers, colloids, surfactants, gels, liquid crystals, and formulated fluid systems with direct relevance to commercial applications. You will work at the intersection of physics-based simulation, AI/ML, and autonomous scientific workflows. The focus is on using computational insight to identify promising formulations and material compositions, explain structure-property relationships, guide optimization campaigns, and help agents reason over simulation and experimental data in scientifically grounded ways. Desired simulation expertise covers atomistic and coarse-grained molecular dynamics, mesoscale approaches such as dissipative particle dynamics, Monte Carlo sampling, and analytical theory including self-consistent field theory, field theoretic simulation, and liquid state theory. This is a hands-on research role for someone who can connect deep soft matter and molecular simulation expertise with software development and practical scientific impact. You will collaborate with computational scientists, AI researchers, software engineers, and experimental teams to turn simulations, models, and scientific reasoning into robust software, agentic frameworks, and closed-loop scientific workflows. What You'll Be Building Implement, extend, and deploy atomistic, coarse-grained, and mesoscale simulation capabilities for soft matter systems, including MD, DPD, SCFT, Monte Carlo, and liquid state theory Engineer simulation software with modern scientific libraries, emphasizing testing, modularity, and reproducibility at scale on HPC and cloud infrastructure Translate simulation outputs into descriptors and datasets for ML models, and build predictive models to guide formulation selection and optimization Develop and deploy agentic AI systems that leverage simulation capabilities for autonomous scientific discovery and closed-loop experimentation Communicate physical insights, model limitations, and recommendations to computational, ML, and experimental collaborators What You'll Need to Succeed PhD in chemical engineering, physics, materials science, chemistry, or a related field (or master's with equivalent experience) Strong background in soft matter physics covering polymers, colloids, surfactants, gels, or liquid crystals, with hands-on expertise in atomistic and coarse-grained MD Working knowledge of at least two of: DPD or other mesoscale methods, Monte Carlo, SCFT, field theoretic simulation, or liquid state theory Strong Python scientific software development skills; fluency with modern practices including version control, testing, code review, and packaging Experience running and automating simulations at scale on HPC or cloud, and integrating computational predictions into experimental or closed-loop optimization workflows Good familiarity with agentic AI systems, autonomous scientific workflows, or simulation-aware agents Bonus Points For Experience with a compiled language (C++, Rust, or Fortran) for performance-critical simulation code, or GPU acceleration via JAX or PyTorch Contributions to open source simulation packages such as LAMMPS, HOOMD-blue, GROMACS, or OpenMM Experience developing ML potentials or applying AI/ML to soft matter simulation data and molecular property prediction Experience building agents that reason over or orchestrate simulation workflows, or coupling simulation to active learning and Bayesian optimization pipelines Publication record in soft matter theory and simulation Compensation We offer competitive base compensation with bonus potential and generous early-stage equity. Your final offer will reflect your background, expertise, and expected impact. U.S. Benefits. Full-time U.S. employees receive a comprehensive benefits program including medical, dental, and vision coverage; employer-paid life and disability insurance; flexible time off with generous company wide holidays; paid parental leave; an educational assistance program; commuter benefits, including bike share memberships for office based employees; and a company subsidized lunch program. International Benefits. Full-time employees outside the U.S. receive a comprehensive benefits program tailored to their region. USD salary ranges apply only to U.S.-based positions; international salaries are set to local market. Expected Base Salary Range $176,000 &mdash; $304,000 USD About LILA Lila Sciences is building Scientific Superintelligence™ to solve humankind's greatest challenges. We believe science is the most inspiring frontier for AI. Rather than hard-coding expert knowledge into tools, LILA builds systems that can learn for themselves. LILA combines advanced AI models with proprietary AI Science Factory™ instruments into an operating system for science that executes the entire scientific method autonomously, accelerating discovery at unprecedented speed, scale, and impact across medicine, materials, and energy. Learn more at www.lila.ai. Guided by our core values of truth, trust, curiosity, grit, and velocity, we move with startup speed while tackling problems of historic importance. If this sounds like an environment you'd love to work in, even if you don't meet every qualification listed above, we encourage you to apply. We’re All In Lila Sciences is&nbsp;committed to equal employment opportunity&nbsp;regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Information you provide during your application process will be handled in accordance with our Candidate Privacy Policy . A Note to Agencies Lila Sciences does not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to Lila Sciences or its employees is strictly prohibited unless contacted directly by Lila Science’s internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of Lila Sciences, and Lila Sciences will not owe any referral or other fees with respect thereto.
+
+---
+
+## 43. [MAYBE] First American | Business Intelligence Specialist (Remote)
 - Link: https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Business-Intelligence-Specialist--Remote-_R059554-1
 - Location: 10 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -795,7 +911,21 @@ Who We Are Join a team that puts its People First! First American's GO Title div
 
 ---
 
-## 42. [MAYBE] Toyota | Snowflake & Analytics Platform Engineer
+## 44. [MAYBE] Humana | Research Scientist, Clinical Innovation & Trend Analytics
+- Link: https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Research-Scientist--Clinical-Innovation---Trend-Analytics_R-436854
+- Location: Remote Nationwide
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~46 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 72 in data/analytics/finance occupations
+- Type: full-time (40 h/week stated)
+- Title scope: core | Has: hypothesis test, python, spark, sql, statistic, healthcare, quantitative, research | Lacks: azure, databricks, sas
+
+### Job description
+
+Become a part of our caring community Humana’s Clinical Innovation and Trend Analytic Team is seeking a Research Scientist 2 (Remote). Healthcare is rapidly changing, and our members are living longer, often with more chronic conditions. The Clinical Innovation and Trend Analytic team identifies opportunities and builds solutions to improve clinical outcomes and lower costs for millions of Medicare Advantage beneficiaries. This is done through an evidence-based approach using data analytics, clinical expertise, strategic mindset, and rigorous study designs. In this multi-disciplinary team, you will have the opportunity to work closely with strategy partners and clinicians to shape Humana’s clinical strategies and initiatives. The Research Scientist 2 applies statistical and epidemiologic principles to identify trends, assess cause-effect relationships, and size potential opportunities using high volumes of complex data. The Research Scientist 2 work assignments are varied and require interpretation of data and independent judgement. Responsibilities As a Research Scientist 2, you will: Conduct exploratory analysis on populations, trends, and clinical conditions to inform potential opportunities for trend savings and clinical outcomes improvement for our members. Collaborate with clinicians and clinical informaticists to define various clinical concepts and extract clinical information from medical, pharmacy, and lab claims for analytics and modeling purposes. Leverage a wide range of analytics methods from descriptive analysis to epidemiological methods. Design outcomes studies and perform program evaluation using randomized controlled trials, propensity matching, difference-in-difference models, or other experimental/quasi-experimental methods. Conduct literature reviews and intervention research to assess engagement rates and treatment effect sizes of interventions that are in the early stages of design and implementation. Write code in SQL, SAS, and Python to assemble data, create analytic variables/features, design visuals and charts, and statistical models for research/science use-cases. Translate analytic results into key takeaways with actionable insights and communicate to business partners. Understand department, segment, and organizational strategy and operating objectives, including their linkages to related areas. Make decisions regarding research methods, occasionally in ambiguous situations with general guidance. Use your skills to make an impact Required Qualifications Master's Degree in a quantitative discipline such as Epidemiology, Biostatistics, Economics, Statistics, Clinical Informatics, Engineering, and/or related fields. 2+ years of experience that includes: Skills to create datasets and analytical variables from large and complex data environments by writing code in SQL, SAS, and Python. Applying research methods to transform high volumes of complex data into actionable insights. Experience with experimental and quasi-experimental methods such as randomized controlled trials, propensity matching, or difference-in-difference models. Experience working collaboratively within a multi-disciplinary team, to deliver quality analytical work, and communicate results and insights clearly to business partners. Preferred Qualifications Healthcare or managed care working experience. Experience working with medical, pharmacy, and lab claims. Demonstrated familiarity with clinical concepts related to a broad range of clinical conditions and disease states. Demonstrated familiarity with hypothesis testing, statistical methods, and/or comparative effectiveness study design and modeling techniques. Experience using Pyspark, DataBricks, Microsoft Azure, PowerBI. Strong interest in healthcare and desire to make a positive impact on health outcomes. This role is not eligible for work visa sponsorship. Work at Home Requirements: To ensure Home or Hybrid Home/Office employees’ ability to work effectively, the self-provided internet service of Home or Hybrid Home/Office employees must meet the following criteria: At minimum, a download speed of 25 Mbps and an upload speed of 10 Mbps is required; wireless, wired cable or DSL connection is suggested. In certain roles, the minimum recommended internet speed required by Humana may not be sufficient for business needs. Humana reserves the right to require associates to upgrade their internet service if necessary. Work from a dedicated space lacking ongoing interruptions to protect member PHI / HIPAA information. Travel: While this is a remote position, occasional travel to Humana's offices for training or meetings may be required. Scheduled Weekly Hours 40 Pay Range The compensation range below reflects a good faith estimate of starting base pay for full time (40 hours per week) employment at the time of posting. The pay range may be higher or lower based on geographic location and individual pay will vary based on demonstrated job related skills, knowledge, experience, education, certifications, etc. $78,400 - $107,800 per year This job is eligible for a bonus incentive plan. This incentive opportunity is based upon company and/or individual performance. Description of Benefits Humana, Inc. and its affiliated subsidiaries (collectively, “Humana”) offers competitive benefits that support whole-person well-being. Associate benefits are designed to encourage personal wellness and smart healthcare decisions for you and your family while also knowing your life extends outside of work. Among our benefits, Humana provides medical, dental and vision benefits, 401(k) retirement savings plan, time off (including paid time off, company and personal holidays, paid parental and caregiver leave), short-term and long-term disability, life insurance and many other opportunities. Application Deadline: 11-19-2026 About us About Humana: Humana Inc. (NYSE: HUM) is a leading U.S. healthcare company. Through our Humana insurance services and our CenterWell healthcare services, we make it easier for the millions of people we serve to achieve their best health – delivering the care and service they need, when they need it. These efforts are leading to a better quality of life for people with Medicare and Medicaid, families, individuals, military service personnel, and communities at large. Learn more about what we offer at Humana.com and at CenterWell.com. ​
+
+---
+
+## 45. [MAYBE] Toyota | Snowflake & Analytics Platform Engineer
 - Link: https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Snowflake---Analytics-Platform-Engineer_10331617
 - Location: Plano, Texas
 - Posted: Nov 10 (board gives the date only)
@@ -809,7 +939,7 @@ Overview Who we are Collaborative. Respectful. A place to dream and do. These ar
 
 ---
 
-## 43. [MAYBE] TikTok | Machine Learning Scientist Graduate (TikTok Trust and Safety) - 2027 Start (PhD)
+## 46. [MAYBE] TikTok | Machine Learning Scientist Graduate (TikTok Trust and Safety) - 2027 Start (PhD)
 - Link: https://lifeattiktok.com/search/7665989163791403269
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -839,7 +969,7 @@ Responsibilities:
 
 ---
 
-## 44. [MAYBE] Integrity | Data Analyst
+## 47. [MAYBE] Integrity | Data Analyst
 - Link: https://integritymarketing.wd1.myworkdayjobs.com/Integrity/job/Gilbert-AZ/Data-Analyst_JR5058
 - Location: 4 Locations
 - Posted: Nov 10 (board gives the date only)
@@ -853,7 +983,7 @@ Job Title: Quality Analyst Business Unit: Fidelis Location: Gilbert, AZ About Fi
 
 ---
 
-## 45. [MAYBE] University of Southern California | Research Associate
+## 48. [MAYBE] University of Southern California | Research Associate
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Research-Associate_REQ20182963
 - Location: Los Angeles, CA - Health Sciences Campus
 - Posted: Nov 10 (board gives the date only)
@@ -867,7 +997,7 @@ The laboratory of Dr. Jeannie Chen at the Zilkha Neurogenetic Institute, Keck Sc
 
 ---
 
-## 46. [MAYBE] Lila Sciences | ML Research Scientist, Scientific Evaluations
+## 49. [MAYBE] Lila Sciences | ML Research Scientist, Scientific Evaluations
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4472554009
 - Location: Cambridge, MA USA; London, UK; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -881,7 +1011,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 47. [MAYBE] Anglian Water | Data Engineer
+## 50. [MAYBE] Anglian Water | Data Engineer
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Thorpe-Wood-House/Data-Engineer_R40844-1
 - Location: Thorpe Wood House
 - Posted: Nov 09 (board gives the date only)
@@ -895,7 +1025,7 @@ Location: Thorpe Wood House, Peterborough Contract: Permanent Salary: £46,000, 
 
 ---
 
-## 48. [MAYBE] University of Miami | Research Associate I
+## 51. [MAYBE] University of Miami | Research Associate I
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-I_R100102926
 - Location: Miami, FL
 - Posted: Nov 09 (board gives the date only)
@@ -909,7 +1039,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 49. [MAYBE] Zekelman Industries | Analytics Engineer
+## 52. [MAYBE] Zekelman Industries | Analytics Engineer
 - Link: https://zekelman.wd12.myworkdayjobs.com/Careers/job/Remote_USA/Analytics-Engineer_JR003014
 - Location: Remote_USA
 - Posted: Nov 10 (board gives the date only)
@@ -923,7 +1053,7 @@ You may not know our name, but you know our products. What we make is part the p
 
 ---
 
-## 50. [MAYBE] Southern Company | AMI Data Analyst
+## 53. [MAYBE] Southern Company | AMI Data Analyst
 - Link: https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22674
 - Location: Birmingham, AL, United States US
 - Posted: Nov 10 (board gives the date only)
@@ -934,4 +1064,18 @@ You may not know our name, but you know our products. What we make is part the p
 ### Job description
 
 AMI Data Analyst The AMI Data Analyst position is a highly technical job that oversees the flow of AMI (Advanced Meter Infrastructure) data from 1.6 million customer meters to the APC billing systems. This position ensures the continuous availability of high quality data from the AMI Systems (Sensus RNI, MV90Xi) to C2M and all other systems that rely on meter data (for billing and other uses, both internal and external). The AMI Data Analyst will ensure that servers, routers, operating systems, and databases are operating correctly and reporting data. They will analyze the daily performance of all meters, ensure the continuity and quality of data, monitor the billing success, and identify potential operational problem areas. The AMI Data Analyst will ensure the resolution of any meter exceptions caused by system performance, application, or system failures to transmit meter data to other systems, such as C2M. They will work with other team members to prepare daily analysis of AMI system performance, report problem areas to identify performance trends, and develop operational processes to improve data collection. The AMI Data Analyst will work closely with our partner organizations: Energy Sales and Services, Technology Organization, Customer Services, Regulatory, Power Delivery, and Metering Services. Strong relationships and clear communication between these groups is needed to ensure meter data is provided to all required systems in a timely manner to best serve our customers. JOB REQUIREMENTS (Education, Experience, Knowledge, and Skills) 4- year degree in business, computer systems, or engineering is preferred 2+ years of experience in Customer Services, Metering Services, Technology Organization, Power Delivery operations, data analysis, or communications systems Ability to work and communicate effectively with the internal partner departments, managers, vendors, and suppliers Ability to manage multiple complex technology and business issues Strong interpersonal skills and ability to work well in team setting Knowledge of Customer Services billing processes and field services, communications systems (particularly RF), metering technologies, and the TO systems necessary to monitor and measure the deployment of over 1.5 million meters Occasional "on call" assignments/irregular hours will be required JOB RESPONSIBILITIES Ensure continuous availability of high quality data from the AMI Systems (Sensus RNI, MV90Xi, C2M ) among many other systems that rely on meter data Monitor and review data several times during each working day to ensure AMI system performance Detailed knowledge of data flow processes and architecture associated with transporting data from the meters to the data collectors, communications systems, and TO systems Identify and troubleshoot issues with AMI Systems and infrastructure (hardware, software, and network) that interrupt data flow processes Ability to detect anomalies and exceptions to the quality standards for the data Ability to analyze Load Profile data and make appropriate edits working with partner departments (Energy Sales, Customer Services, Revenue Accounting) Ability to work with others to achieve resolution for issues with AMI Systems or data quality Provide training as necessary to team members or internal partners Enhance work practices by assisting with specifying requirements, designing, building, testing, and evaluating the various; write queries, scripts, or programs to enhance data analysis Daily communication with internal partners to ensure accurate dataflow Prepare summaries and reports of AMI operational activities and results for APC management SKILLS & BEHAVIORAL ATTRIBUTES Excellent communication skills Self-directed with strong initiative Accountability - takes personal ownership of projects and responsibilities Strong teamwork, collaboration, and participation Continuous learner – seeks growth and development Ability to build and maintain relationships with partners Consistently sets and maintains high performance standards Demonstrates customer service mindset Supports the concepts of Diversity, Equity, and Inclusion Recognized as a Student of the Business Must demonstrate behaviors consistent with the Company's values of unquestionable trust, superior performance, and total commitment   Alabama Power provides safe, reliable, and affordable electricity to 1.5 million customers across the lower two-thirds of Alabama. For more information, visit www.AlabamaPower.com and connect with the company on Facebook (Facebook.com/AlabamaPower), Twitter (Twitter.com/AlabamaPower), LinkedIn (Linkedin.com/company/alabama-power), and Instagram (Instagram.com/alabamapower). Southern Company (NYSE: SO ) is a leading energy provider serving 9 million customers across the Southeast and beyond through its family of companies. Providing clean, safe, reliable and affordable energy with excellent service is our mission. The company has electric operating companies in three states, natural gas distribution companies in four states, a competitive generation company, a leading distributed energy solutions provider with national capabilities, a fiber optics network and telecommunications services. Through an industry-leading commitment to innovation, resilience and sustainability, we are taking action to meet customers' and communities' needs while advancing our goal of net-zero greenhouse gas emissions by 2050. Our uncompromising values ensure we put the needs of those we serve at the center of everything we do and are the key to our sustained success. We are transforming energy into economic, environmental and social progress for tomorrow. Our corporate culture has been recognized by a variety of organizations, earning the company awards and recognitions that reflect Our Values and dedication to service. To learn more, visit www.southerncompany.com . Southern Company invests in the well-being of its employees and their families through a comprehensive total rewards strategy that includes competitive base salary, annual incentive awards for eligible employees and health, welfare and retirement benefits designed to support physical, financial, and emotional/social well-being. This position may also be eligible for additional compensation, such as an incentive program, with the amount of any bonus/awards subject to the terms and conditions of the applicable incentive plan(s). A summary of the benefits offered for this position can be found here https://seo.nlx.org/southernco/pdf/SOCO-Benefits.pdf . Additional and specific details about total compensation and beneﬁts will also be provided during the hiring process. Southern Company
+
+---
+
+## 54. [MAYBE] JP Morgan Chase | Asset Management - Equity Research Analyst, Industrials  - Associate
+- Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805331
+- Location: New York, NY, United States US
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: python, research, risk | Lacks: -
+
+### Job description
+
+At J.P. Morgan Asset Management, we provide equity solutions to many of the world’s largest pension plans, sovereign wealth funds and central banks. The cornerstone of our approach to equity investing is our dedication to in-house research. Our on-the-ground presence in key markets, combined with structured collaboration across regions and sectors, allows us to identify, share and compare ideas around the globe. Our equity investment processes are founded on tried and tested investment philosophies, consistently applied, within a robust risk management framework. We provide equity strategies across regions, sectors, styles and the market cap spectrum. Role Summary As a Research Associate in the Equity Research Department at JP Morgan Asset Management you will support a Senior Research Analyst in their efforts to analyze companies and generate positive investment performance. This particular opening is focused on Industrial Cyclicals. A successful Research Associate is self-motivated, intellectually curious, demonstrates analytical aptitude and attention to detail, and has a strong interest in investing. Job Responsibilities • Conduct a wide variety of research projects to aid in the investment process, including building financial models and industry frameworks as well as company/industry-specific ad hoc projects • Provide data and analysis to assist in the management of regional and global analyst funds Required qualifications, capabilities and skills • 5+ years of relevant industry experience • 3+ years of experience covering Industrial Cyclicals or adjacent sectors • Strong analytical skills, high aptitude for numbers; ability to identify trends through numerical analysis • Intellectual curiosity • Passion for and interest in investing Preferred qualifications, capabilities and skills • VS 2/ Python experience is preferred   JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
 
