@@ -9,47 +9,51 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 3 | CVS Health | Machine Learning Engineer | 76 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
 | 4 | TELUS Digital | Roboticist (Embodied AI, Machine Learning, Computer Vision)  | 75 | none found (check myvisajobs) | Nov 10 12:48 ET |
 | 5 | Freddie Mac | Quantitative Analytics Professional | 74 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 6 | RBI | Digital Data Analyst, Burger King & Popeyes, International | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 7 | Thomson Reuters | Legal Engineer, AI Adoption | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 8 | Thomson Reuters | Legal Engineer, AI Deployment | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 9 | OU Health | Quality Data Analytics Specialist | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 10 | MUFG | Securities and Market Risk Data Analyst | 68 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 11 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 67 | 1098 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 12 | Motorola | Jr. Software Engineer, AI Agent Platform | 67 | 27 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 13 | Airbus | Praktikant für Generative AI/Agentic AI (d/m/w) | 62 | 1 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 14 | Eversource Energy | Associate Analyst, Transmission (hybrid schedule) | 62 | 2 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 15 | Interdigital | Research Engineer / Scientist (Wireless + AI/ML) | 60 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 16 | Mars | Analyst, Walmart Analytics | 56 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 17 | BCBST | Business Research Analyst I | 56 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 18 | Momentive | Research scientist | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 19 | Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 20 | EVERSANA | Conversational AI Engineer  | 55 | 9 in data/analytics/finance occupations | Nov 10 13:34 ET |
-| 21 | Highmark Health | Strategy Analyst | 55 | 11 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 22 | Southern New Hampshire University | Market Research and Insights Analyst | 55 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 23 | Barclays | Business Insights & Analytics Analyst | 54 | 142 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 24 | Snap | Research Scientist, Research | 54 | 52 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 25 | Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads | 54 | 1053 in data/analytics/finance occupations | Nov 10 10:08 ET |
-| 26 | Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst | 54 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 27 | Centific | Power BI Developer | 54 | 11 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 28 | Lila Sciences | ML Research Engineer, Performance Optimization | 53 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 29 | Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation | 50 | 2 in data/analytics/finance occupations | Nov 10 09:58 ET |
-| 30 | ibotta | Analytics Engineer | 50 | 1 in data/analytics/finance occupations | Nov 10 11:53 ET |
-| 31 | Montefiore Medical Center | Research Associate I - | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 32 | Wash U | Bioinformatics Research Analyst - Neurology | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 33 | Washington University in St. Louis | Bioinformatics Research Analyst - Neurology | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 34 | BNY | Associate, Portfolio Analytics - Pipeline | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 35 | Church & Dwight | AI Engineer, R&D | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 36 | Lila Sciences | ML Research Scientist, Environments & Harnesses | 47 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 37 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 10 14:50 ET |
-| 38 | First American | Business Intelligence Specialist (Remote) | 46 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 39 | Toyota | Snowflake & Analytics Platform Engineer | 45 | 7 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 40 | TikTok | Machine Learning Scientist Graduate (TikTok Trust and Safety) - 2027 Start (PhD) | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 41 | Integrity | Data Analyst | 45 | 5 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 42 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 43 | Lila Sciences | ML Research Scientist, Scientific Evaluations | 44 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 44 | Anglian Water | Data Engineer | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 45 | University of Miami | Research Associate I | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
-| 46 | Zekelman Industries | Analytics Engineer | 40 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 6 | Applied Fluid Power | Master Data Analyst | 74 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 7 | RBI | Digital Data Analyst, Burger King & Popeyes, International | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 8 | Thomson Reuters | Legal Engineer, AI Adoption | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 9 | Thomson Reuters | Legal Engineer, AI Deployment | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 10 | OU Health | Quality Data Analytics Specialist | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 11 | MUFG | Securities and Market Risk Data Analyst | 68 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 12 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 67 | 1098 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 13 | Motorola | Jr. Software Engineer, AI Agent Platform | 67 | 27 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 14 | The Home Depot | OPERATIONS BUSINESS ANALYST | 65 | 27 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 15 | Caesars Entertainment | Analyst I, Labor Analytics - Corporate (Las Vegas) | 64 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 16 | Airbus | Praktikant für Generative AI/Agentic AI (d/m/w) | 62 | 1 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 17 | Eversource Energy | Associate Analyst, Transmission (hybrid schedule) | 62 | 2 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 18 | Interdigital | Research Engineer / Scientist (Wireless + AI/ML) | 60 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 19 | Mars | Analyst, Walmart Analytics | 56 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 20 | BCBST | Business Research Analyst I | 56 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 21 | Momentive | Research scientist | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 22 | Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 23 | EVERSANA | Conversational AI Engineer  | 55 | 9 in data/analytics/finance occupations | Nov 10 13:34 ET |
+| 24 | Highmark Health | Strategy Analyst | 55 | 11 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 25 | Southern New Hampshire University | Market Research and Insights Analyst | 55 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 26 | Barclays | Business Insights & Analytics Analyst | 54 | 142 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 27 | Snap | Research Scientist, Research | 54 | 52 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 28 | Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads | 54 | 1053 in data/analytics/finance occupations | Nov 10 10:08 ET |
+| 29 | Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst | 54 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 30 | Centific | Power BI Developer | 54 | 11 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 31 | Lila Sciences | ML Research Engineer, Performance Optimization | 53 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 32 | Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation | 50 | 2 in data/analytics/finance occupations | Nov 10 09:58 ET |
+| 33 | ibotta | Analytics Engineer | 50 | 1 in data/analytics/finance occupations | Nov 10 11:53 ET |
+| 34 | Montefiore Medical Center | Research Associate I - | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 35 | Wash U | Bioinformatics Research Analyst - Neurology | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 36 | Washington University in St. Louis | Bioinformatics Research Analyst - Neurology | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 37 | BNY | Associate, Portfolio Analytics - Pipeline | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 38 | Church & Dwight | AI Engineer, R&D | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 39 | Lila Sciences | ML Research Scientist, Environments & Harnesses | 47 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 40 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 10 14:50 ET |
+| 41 | First American | Business Intelligence Specialist (Remote) | 46 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 42 | Toyota | Snowflake & Analytics Platform Engineer | 45 | 7 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 43 | TikTok | Machine Learning Scientist Graduate (TikTok Trust and Safety) - 2027 Start (PhD) | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 44 | Integrity | Data Analyst | 45 | 5 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 45 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 46 | Lila Sciences | ML Research Scientist, Scientific Evaluations | 44 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 47 | Anglian Water | Data Engineer | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 48 | University of Miami | Research Associate I | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 49 | Zekelman Industries | Analytics Engineer | 40 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 50 | Southern Company | AMI Data Analyst | 40 | 7 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
 
 ---
 
@@ -202,7 +206,21 @@ At Freddie Mac, our mission of Making Home Possible is what motivates us, and it
 
 ---
 
-## 6. [MAYBE] RBI | Digital Data Analyst, Burger King & Popeyes, International
+## 6. [MAYBE] Applied Fluid Power | Master Data Analyst
+- Link: https://applied.wd501.myworkdayjobs.com/applied/job/Lenexa-KS/Master-Data-Analyst_JR105333
+- Location: Lenexa, KS
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~74 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, data visualization, excel, power bi, sql, data quality, git, reporting, risk, validation | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+The Master Data Analyst is Applied Fluid Power's hands-on owner of data quality and a key steward of the company's enterprise master data strategy. This role is responsible for maintaining the integrity of the Golden Record across all systems that consume and depend on master data, including Prophet 21, SolidWorks, VEST, CPQ, the Hydradyne Web Shop, training and content platforms, and future business systems as they are introduced. Working closely with system owners, business leaders, and functional teams, the Master Data Analyst ensures consistent data definitions, structures, and exchange processes across platforms while balancing the unique requirements of each application. The role owns the day-to-day governance, maintenance, cleansing, reporting, and continuous improvement of customer, vendor, item, and product information across Applied Fluid Power's network of subsidiaries. This position is a critical component of AFP's three-year data strategy, ensuring the accuracy, consistency, and reliability of the data that powers business systems, integrations, analytics, eCommerce platforms, and emerging AI capabilities. By providing the discipline required to sustain a trusted enterprise data foundation, the Master Data Analyst helps both operational teams and company leadership execute AFP's long-term data strategy. Key Responsibilities Enterprise Master Data Management Maintain the integrity, accuracy, and completeness of Applied Fluid Power's Golden Record across ERP, PIM, engineering, eCommerce, quoting, and other enterprise platforms. Execute day-to-day creation, maintenance, enrichment, and governance of customer, vendor, item, and product master data in accordance with established data standards. Ensure consistent data definitions, structures, and relationships across systems while supporting the unique requirements of each business application. Identify recurring data quality issues, process gaps, and governance opportunities, escalating recommendations for corrective action and continuous improvement. Data Quality, Governance & Remediation Conduct routine audits and validation activities to identify duplicates, inconsistencies, missing attributes, and other data quality risks. Lead and execute data cleansing, remediation, consolidation, and mass-update initiatives across master data domains. Develop, maintain, and monitor data quality metrics, scorecards, and reporting that measure completeness, accuracy, consistency, and timeliness. Support testing, validation, and user acceptance activities related to master data processes, integrations, and system enhancements. Product & Supplier Information Management Maintain and enrich product information within AFP's Product Information Management (PIM) environment to support operational, commercial, and digital business needs. Manage supplier-provided product attributes and ensure alignment with AFP's enterprise data standards and system requirements. Support new item onboarding, catalog expansion, and product data initiatives across AFP's subsidiary network. Partner with business stakeholders to improve the quality, usability, and consistency of product and supplier data across platforms. Reporting, Analysis & Business Support Develop and maintain recurring reports, dashboards, and analyses that support data governance, operational performance, and continuous improvement initiatives. Perform ad hoc data analysis to support business decisions and identify trends, risks, and opportunities related to master data. Translate complex data findings into actionable insights for business leaders, system owners, and functional teams. Document and maintain standard operating procedures, data standards, and governance processes. Cross-Functional Collaboration Partner with system owners, business leaders, and functional teams to ensure consistent and effective data exchange across enterprise platforms. Collaborate with Data & AI, Operational Excellence, IT, and business stakeholders to support enterprise data initiatives and strategic priorities. Serve as a subject matter resource for master data governance, quality, and reporting practices. Contribute to the ongoing evolution and execution of AFP's enterprise data strategy. Qualifications Required 2+ years of experience working with ERP, PIM, MDM, or other enterprise business systems. High School Diploma or GED required. Experience managing, maintaining, or analyzing large volumes of master data. Strong Microsoft Excel and data analysis skills with the ability to work accurately within detailed datasets. Demonstrated attention to detail and commitment to data quality, accuracy, and process discipline. Experience creating reports, dashboards, or data visualizations using Excel, Power BI, or similar tools. Ability to work independently while collaborating effectively across multiple functions and business units. Preferred Experience with Prophet 21 (P21), Epicor, Product Information Management (PIM), or Master Data Management (MDM) platforms. Experience with data governance, data quality management, cleansing, or remediation initiatives. Familiarity with distribution, manufacturing, industrial products, procurement, inventory, or customer master data processes. Basic SQL, query development, or database reporting experience. Experience supporting multi-site, multi-subsidiary, or enterprise-scale organizations. Organizational Fit The Master Data Analyst is a critical member of Applied Fluid Power's Data & AI team and serves as the operational steward of the company's enterprise master data foundation. Working closely with business leaders, system owners, and data governance stakeholders, this role ensures the quality, consistency, and reliability of the information that powers AFP's business systems, integrations, analytics, digital commerce platforms, and emerging AI capabilities. While the role contributes to the evolution of AFP's enterprise data strategy, its primary responsibility is execution: applying the governance, discipline, and continuous improvement required to maintain a trusted Golden Record across the organization and support AFP's long-term data objectives. Founded in 1923, Applied Industrial Technologies (NYSE: AIT) is a leading value-added distributor and technical solutions provider of industrial motion, fluid power, flow control, automation technologies, and related maintenance supplies. Our leading brands, specialized services, and comprehensive knowledge serve MRO and OEM end users in virtually all industrial markets through our multi-channel capabilities that provide choice, convenience, and expertise. Applied Industrial Technologies is built on a philosophy that puts people first.
+
+---
+
+## 7. [MAYBE] RBI | Digital Data Analyst, Burger King & Popeyes, International
 - Link: https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Lucerne-Corporate-Office/Digital-Data-Analyst--Burger-King---Popeyes--International_R4071
 - Location: Corp - Lucerne Corporate Office
 - Posted: Nov 09 (board gives the date only)
@@ -216,7 +234,7 @@ Ready to make your next big professional move? Join us on our journey to achieve
 
 ---
 
-## 7. [MAYBE] Thomson Reuters | Legal Engineer, AI Adoption
+## 8. [MAYBE] Thomson Reuters | Legal Engineer, AI Adoption
 - Link: https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/AI-Solutions-Architect_JREQ204513
 - Location: see posting
 - Posted: Nov 09 (board gives the date only)
@@ -230,7 +248,7 @@ Job Description As an Legal Engineer, AI Adoption , you will help law firm custo
 
 ---
 
-## 8. [MAYBE] Thomson Reuters | Legal Engineer, AI Deployment
+## 9. [MAYBE] Thomson Reuters | Legal Engineer, AI Deployment
 - Link: https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Legal-AI-Engineer_JREQ204512
 - Location: see posting
 - Posted: Nov 09 (board gives the date only)
@@ -244,7 +262,7 @@ Job Description As a Legal Engineer, AI Deployment , you will help law firm cust
 
 ---
 
-## 9. [MAYBE] OU Health | Quality Data Analytics Specialist
+## 10. [MAYBE] OU Health | Quality Data Analytics Specialist
 - Link: https://oumedicine.wd5.myworkdayjobs.com/OUHealthCareers/job/WFH-State-of-Oklahoma/Quality-Data-Analyst_R0067038
 - Location: 4 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -258,7 +276,7 @@ Position Title: Quality Data Analytics Specialist Department: Quality Data Repor
 
 ---
 
-## 10. [MAYBE] MUFG | Securities and Market Risk Data Analyst
+## 11. [MAYBE] MUFG | Securities and Market Risk Data Analyst
 - Link: https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Securities-and-Market-Risk-Data-Analyst_10079331-WD
 - Location: Jersey City, NJ
 - Posted: Nov 10 (board gives the date only)
@@ -272,7 +290,7 @@ Do you want your voice heard and your actions to count? Discover your opportunit
 
 ---
 
-## 11. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
+## 12. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803400
 - Location: New York, NY, United States US
 - Posted: Nov 10 (board gives the date only)
@@ -286,7 +304,7 @@ Be part of a team where your expertise in finance and technology drives accurate
 
 ---
 
-## 12. [MAYBE] Motorola | Jr. Software Engineer, AI Agent Platform
+## 13. [MAYBE] Motorola | Jr. Software Engineer, AI Agent Platform
 - Link: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300
 - Location: Ontario Remote Work, More...
 - Posted: Nov 09 (board gives the date only)
@@ -300,7 +318,35 @@ Company Overview At Motorola Solutions, we believe that everything starts with o
 
 ---
 
-## 13. [MAYBE] Airbus | Praktikant für Generative AI/Agentic AI (d/m/w)
+## 14. [MAYBE] The Home Depot | OPERATIONS BUSINESS ANALYST
+- Link: https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/OPERATIONS-BUSINESS-ANALYST_Req198317-1
+- Location: STORE SUPPORT CENTER, ATLANTA - 9090
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~65 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 27 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, excel, sql, statistic, tableau, reporting | Lacks: -  | Note: broad title
+
+### Job description
+
+With a career at The Home Depot, you can be yourself and also be part of something bigger. Position Purpose: The Labor Data Analyst will leverage technical experience and competencies to analyze complex datasets to uncover operational insights, predictive outcomes and actions based on analysis of labor data. This role will collaborate to promote and support analytically-driven decisions across the store labor teams leveraging technical skills to drive business decisions. Key Responsibilities: 40% - Develop dashboards, reports, data sources, presentations and visual aids designed to educate and influence labor decisions for client groups and business leaders - Create reporting through the use of visual aids and presentations. Develop Dashboards and reporting for leader and client decision making. Provide Data sources to inform and educate clients and business leaders. 40% - Provide complex analysis of hourly payroll and related business data and processes - Identify trends and determine root cause of labor issues utilizing data sources, reporting, dashboards to provide insights to client groups and business leaders. Determine root cause of problems and provide solutions to drive effective business decisions. Execute moderately complex analysis of hourly payroll trends. 20% - Support existing analytical tools and dashboards for process improvement - Identify improvement opportunities to simplify processes, reduce issues and provide value to client groups and leaders. Continually develop technical competencies and subject matter expertise. Direct Manager/Direct Reports: This Position typically reports to the Data Analytics Manager- Labor This Position has up to 0 Direct Reports Travel Requirements: Typically requires overnight travel less than 5% of the time. Physical Requirements: Frequent periods are spent standing or sitting in the same location with some opportunity to move about; occasionally there may be a need to stoop or lift light objects (typically less than 8 pounds). Working Conditions: Located in a comfortable indoor area. Any unpleasant conditions would be infrequent and not objectionable. Minimum Qualifications: Must be 18 years of age or older Must be legally permitted to work in the United States Preferred Qualifications: Working knowledge of Microsoft Office Suite Working knowledge of Tableau Working knowledge of presentation software (e.g., Microsoft PowerPoint) Demonstrated ability to collaborate and work effectively with cross-functional teams Ability to develop and apply advanced mathematical/statistical techniques Ability to draw accurate conclusions from financial documentation Ability to convey complex or technical ideas and processes in easy-to-understand terms to diverse audiences Excellent written and verbal communication skills Basic experience in SQL/Big Query SQL, and/or similar tools with a demonstrated ability to learn new technical skills. Minimum Education: The knowledge, skills and abilities typically acquired through the completion of a bachelor's degree program or equivalent degree in a field of study related to the job. Preferred Education: The knowledge, skills and abilities typically acquired through the completion of a bachelor's degree program or equivalent degree in a field of study related to the job. Minimum Years of Work Experience: 1 Preferred Years of Work Experience: 1 Minimum Leadership Experience: No previous leadership experience Preferred Leadership Experience: No previous leadership experience Certifications: None Competencies: Action Oriented Nimble Learning Collaborates Customer Focus
+
+---
+
+## 15. [MAYBE] Caesars Entertainment | Analyst I, Labor Analytics - Corporate (Las Vegas)
+- Link: https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/91780
+- Location: Las Vegas, NV, United States US
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~64 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: bigquery, excel, python, r, sql, statistic, tableau, credit, reporting | Lacks: sas  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Caesars Entertainment is seeking an Analyst I to join our Labor Analytics team in Las Vegas, NV. The Analyst I in the Enterprise Analytics team will partner with stakeholders to drive customer acquisition, analyze offer performance, identify industry trends, segment Caesars’ customer database, perform ad-hoc analysis, and create standardized reporting in support of the operations within Caesars Entertainment. This includes analyzing labor trends, staffing levels, and workforce performance to support labor planning, operational efficiency, and data-driven decision-making. Conduct objective, rigorous analytics to help the business improve profitability, operational processes, and customer service – e.g., identification and evaluation of revenue growth opportunities, resource optimization, optimal investment mix, competitive market dynamics, customer behavior, and pricing optimization Distill vast datasets into actionable insights and recommendations that guide decisions and strategies. Contribute to the development of presentation materials and assist in presenting findings to senior management concisely in verbal and written formats Play an active role in the development, roll-out, and post-launch evaluation of strategic projects Develop and support reporting for operating departments to provide senior leaders visibility into trends and business performance drivers Use technology (e.g., SQL, R, Tableau, Google BigQuery, Python) to develop analytics and reporting tools Bachelor's degree from an accredited four-year college Experience querying, analyzing, and visualizing large data sets Strength in critical thinking, problem solving, and written and verbal communication. Comfort in articulating complex information and analyses to a variety of audiences Intellectual curiosity and willingness to quickly learn relevant database applications and software, as well as industry-specific terminology and dynamics ADDITIONAL REQUIREMENTS Bachelor’s Degree from a top-tier program in one of the following areas: Finance, Marketing, Engineering, Economics, Mathematics/Statistics, Hotel Management, Business, or Data Science Demonstrated interest in a career in data- and analytics-driven business Desire to understand a broad range of operations within the casino and hospitality industry Ability to manage multiple projects simultaneously, and meet deadlines while consistently delivering accurate and high-quality work Demonstrated ability to work effectively in a team-oriented environment Ability to uphold and demonstrate the highest level of integrity Proficiency in one or more of the following programming languages: SQL, R, VBA, SAS, Python, and/or experience in working with Google BigQuery. Some experience in working with Microsoft Excel and PowerPoint; Hyperion experience a plus At Caesars Entertainment, Inc., our Team Members create the extraordinary. We are the largest casino-entertainment company in the U.S. and one of the world's most diversified casino-entertainment providers. Since beginning in Reno, Nevada, in 1937, Caesars Entertainment has grown through the development of new resorts, expansions and acquisitions. Our resorts operate primarily under the Caesars®, Harrah's®, Horseshoe® and Eldorado® brand names. We focus on building loyalty and value with our guests through a combination of impeccable service, operational excellence and technological leadership. The company is committed to its Team Members, suppliers, communities and the environment through its PEOPLE PLANET PLAY framework. Our Caesars family is driven by our Mission, Vision and Values. We take great pride in living these values – Together We Win, All In On Service and Blaze the Trail – every day. Our mission, “Create the Extraordinary”. Our vision, “Create spectacular worlds. That immerse, inspire and connect you. We don’t perform magic; we create it with excellence. #WeAreCaesars”. If you are ready to create some magic, we invite you to explore our dynamic, yet unique, career opportunities.
+
+---
+
+## 16. [MAYBE] Airbus | Praktikant für Generative AI/Agentic AI (d/m/w)
 - Link: https://ag.wd3.myworkdayjobs.com/Airbus/job/Ulm-Area/Praktikant-fr-Generative-AI-Agentic-AI--d-m-w-_JR10436030
 - Location: Ulm Area
 - Posted: Nov 09 (board gives the date only)
@@ -314,7 +360,7 @@ Job Description: Zur Unterstützung der Entwicklung im Bereich „Engineering De
 
 ---
 
-## 14. [MAYBE] Eversource Energy | Associate Analyst, Transmission (hybrid schedule)
+## 17. [MAYBE] Eversource Energy | Associate Analyst, Transmission (hybrid schedule)
 - Link: https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/Associate-Analyst--Transmission--hybrid-schedule-_R-032522
 - Location: Westwood, MA
 - Posted: Nov 09 (board gives the date only)
@@ -328,7 +374,7 @@ Eversource will not offer immigration-related sponsorship for this position (e.g
 
 ---
 
-## 15. [MAYBE] Interdigital | Research Engineer / Scientist (Wireless + AI/ML)
+## 18. [MAYBE] Interdigital | Research Engineer / Scientist (Wireless + AI/ML)
 - Link: https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/Research-Engineer---Scientist--Wireless---AI-ML-_REQ26-1099
 - Location: 2 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -342,7 +388,7 @@ About InterDigital InterDigital is a global research and development company foc
 
 ---
 
-## 16. [MAYBE] Mars | Analyst, Walmart Analytics
+## 19. [MAYBE] Mars | Analyst, Walmart Analytics
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Arkansas-Bentonville/Analyst--Walmart-Analytics_R170076-1
 - Location: USA-Arkansas-Bentonville
 - Posted: Nov 10 (board gives the date only)
@@ -356,7 +402,7 @@ Job Description: Role Overview The Data Scientist Analyst, Walmart Analytics wil
 
 ---
 
-## 17. [MAYBE] BCBST | Business Research Analyst I
+## 20. [MAYBE] BCBST | Business Research Analyst I
 - Link: https://bcbst.wd1.myworkdayjobs.com/External/job/USA-TN-Chattanooga-Remote/Business-Research-Analyst-I_R-51528
 - Location: USA, TN, Chattanooga, Remote
 - Posted: Nov 10 (board gives the date only)
@@ -370,7 +416,7 @@ Business Research Analyst I | Senior Care Product Strategy We are hiring a Busin
 
 ---
 
-## 18. [MAYBE] Momentive | Research scientist
+## 21. [MAYBE] Momentive | Research scientist
 - Link: https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Pearl-River/Research-scientist_R9977-1
 - Location: US NY Pearl River
 - Posted: Nov 09 (board gives the date only)
@@ -384,7 +430,7 @@ Job Title: Research scientist Summary: Shape the future of foam control technolo
 
 ---
 
-## 19. [MAYBE] Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty
+## 22. [MAYBE] Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Sandy-Springs-Atlanta-GA-USA/Risk-Analytics-Consultant---Property---Casualty_R26_0000003968
 - Location: 3 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -398,7 +444,7 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 20. [MAYBE] EVERSANA | Conversational AI Engineer 
+## 23. [MAYBE] EVERSANA | Conversational AI Engineer 
 - Link: https://jobs.smartrecruiters.com/EVERSANA1/744000160943474
 - Location: Overland Park KS us remote
 - Posted: Nov 10 13:34 ET
@@ -412,7 +458,7 @@ THE POSITION: The Conversational AI Engineer is responsible for designing, build
 
 ---
 
-## 21. [MAYBE] Highmark Health | Strategy Analyst
+## 24. [MAYBE] Highmark Health | Strategy Analyst
 - Link: https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Strategy-Analyst_J287990-1
 - Location: Pittsburgh PA, 15222, PAP, Penn Avenue Place
 - Posted: Nov 10 (board gives the date only)
@@ -426,7 +472,7 @@ Company : Highmark Inc. Job Description : JOB SUMMARY Support leadership of High
 
 ---
 
-## 22. [MAYBE] Southern New Hampshire University | Market Research and Insights Analyst
+## 25. [MAYBE] Southern New Hampshire University | Market Research and Insights Analyst
 - Link: https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/Remote/Market-Research-and-Insights-Analyst_R0014919
 - Location: Remote
 - Posted: Nov 10 (board gives the date only)
@@ -440,7 +486,7 @@ Southern New Hampshire University is a team of innovators. World changers. Indiv
 
 ---
 
-## 23. [MAYBE] Barclays | Business Insights & Analytics Analyst
+## 26. [MAYBE] Barclays | Business Insights & Analytics Analyst
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bournemouth-The-Helm-Holdenhurst-Road/Business-Insights---Analytics-Analyst_JR-0000126327-1
 - Location: Bournemouth, The Helm, Holdenhurst Road
 - Posted: Nov 09 (board gives the date only)
@@ -454,7 +500,7 @@ Job Description Purpose of the role To develop, track and analyse operational me
 
 ---
 
-## 24. [MAYBE] Snap | Research Scientist, Research
+## 27. [MAYBE] Snap | Research Scientist, Research
 - Link: https://snapchat.wd1.myworkdayjobs.com/snap/job/Bellevue-Washington/Research-Scientist--Language-for-Personalization_R0044935
 - Location: 2 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -468,7 +514,7 @@ Snap Inc is a technology company. We believe the camera presents the greatest op
 
 ---
 
-## 25. [MAYBE] Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads
+## 28. [MAYBE] Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads
 - Link: https://www.google.com/about/careers/applications/jobs/results/115014381934125766
 - Location: Mountain View, CA, USA ; Pittsburgh, PA, USA
 - Posted: Nov 10 10:08 ET
@@ -482,7 +528,7 @@ Google's software engineers develop the next-generation technologies that change
 
 ---
 
-## 26. [MAYBE] Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst
+## 29. [MAYBE] Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst
 - Link: https://bcbsri.wd1.myworkdayjobs.com/BCBSRICareers/job/Providence-RI/Corporate-Strategy-Analyst_JR100493
 - Location: Providence, RI
 - Posted: Nov 10 (board gives the date only)
@@ -496,7 +542,7 @@ Pay Range: $83,200.00 - $124,800.00 Please email HR_Talent_AcquisitionTeam@bcbsr
 
 ---
 
-## 27. [MAYBE] Centific | Power BI Developer
+## 30. [MAYBE] Centific | Power BI Developer
 - Link: https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Power-BI-Developer_JR108637-1
 - Location: Remote Work( USA)
 - Posted: Nov 10 (board gives the date only)
@@ -510,7 +556,7 @@ About Centific Centific is a frontier AI data foundry that curates diverse, high
 
 ---
 
-## 28. [MAYBE] Lila Sciences | ML Research Engineer, Performance Optimization
+## 31. [MAYBE] Lila Sciences | ML Research Engineer, Performance Optimization
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4455701009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -524,7 +570,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 29. [MAYBE] Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation
+## 32. [MAYBE] Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation
 - Link: https://jobs.lever.co/tri/dbdce3b6-fc88-47d2-a78c-9ec34c66e6d1
 - Location: Cambridge, MA Cambridge, MA US
 - Posted: Nov 10 09:58 ET
@@ -543,7 +589,7 @@ It is unlawful in Massachusetts to require or administer a lie detector test as 
 
 ---
 
-## 30. [MAYBE] ibotta | Analytics Engineer
+## 33. [MAYBE] ibotta | Analytics Engineer
 - Link: https://jobs.ashbyhq.com/ibotta/d1ad9f8d-564a-4859-8e8c-fa2c05485627
 - Location: Hybrid - Denver United States remote
 - Posted: Nov 10 11:53 ET
@@ -637,7 +683,7 @@ To learn more about what our Tech teams are doing day to day, visit Building Ibo
 
 ---
 
-## 31. [MAYBE] Montefiore Medical Center | Research Associate I -
+## 34. [MAYBE] Montefiore Medical Center | Research Associate I -
 - Link: https://montefiore.wd12.myworkdayjobs.com/MMC/job/3415-Bainbridge-Avenue/Research-Associate-I--_JR234732-1
 - Location: 3415 Bainbridge Avenue
 - Posted: Nov 10 (board gives the date only)
@@ -651,7 +697,7 @@ City/State: Bronx, New York Grant Funded: Yes Department: PEDS - Division Of Gen
 
 ---
 
-## 32. [MAYBE] Wash U | Bioinformatics Research Analyst - Neurology
+## 35. [MAYBE] Wash U | Bioinformatics Research Analyst - Neurology
 - Link: https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Bioinformatics-Research-Analyst---Neurology_JR98591
 - Location: Washington University Medical Campus
 - Posted: Nov 10 (board gives the date only)
@@ -665,7 +711,7 @@ Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Provi
 
 ---
 
-## 33. [MAYBE] Washington University in St. Louis | Bioinformatics Research Analyst - Neurology
+## 36. [MAYBE] Washington University in St. Louis | Bioinformatics Research Analyst - Neurology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Bioinformatics-Research-Analyst---Neurology_JR98591
 - Location: Washington University Medical Campus
 - Posted: Nov 10 (board gives the date only)
@@ -679,7 +725,7 @@ Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Provi
 
 ---
 
-## 34. [MAYBE] BNY | Associate, Portfolio Analytics - Pipeline
+## 37. [MAYBE] BNY | Associate, Portfolio Analytics - Pipeline
 - Link: https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83672
 - Location: Lake Mary, FL, United States US
 - Posted: Nov 10 (board gives the date only)
@@ -693,7 +739,7 @@ The candidate conducts reporting services on behalf of assigned clients on compl
 
 ---
 
-## 35. [MAYBE] Church & Dwight | AI Engineer, R&D
+## 38. [MAYBE] Church & Dwight | AI Engineer, R&D
 - Link: https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Princeton-NJ/AI-Engineer--R-D_R2026-15825
 - Location: USA, Princeton, NJ
 - Posted: Nov 10 (board gives the date only)
@@ -707,7 +753,7 @@ A collective energy and ambition. A place where you can make a real difference. 
 
 ---
 
-## 36. [MAYBE] Lila Sciences | ML Research Scientist, Environments & Harnesses
+## 39. [MAYBE] Lila Sciences | ML Research Scientist, Environments & Harnesses
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4462270009
 - Location: Cambridge, MA USA; London, UK; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -721,7 +767,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 37. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
+## 40. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990016774556
 - Location: Irvine CA us
 - Posted: Nov 10 14:50 ET
@@ -735,7 +781,7 @@ The Statistical Analyst is an integral role in the research and development of n
 
 ---
 
-## 38. [MAYBE] First American | Business Intelligence Specialist (Remote)
+## 41. [MAYBE] First American | Business Intelligence Specialist (Remote)
 - Link: https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Business-Intelligence-Specialist--Remote-_R059554-1
 - Location: 10 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -749,7 +795,7 @@ Who We Are Join a team that puts its People First! First American's GO Title div
 
 ---
 
-## 39. [MAYBE] Toyota | Snowflake & Analytics Platform Engineer
+## 42. [MAYBE] Toyota | Snowflake & Analytics Platform Engineer
 - Link: https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Snowflake---Analytics-Platform-Engineer_10331617
 - Location: Plano, Texas
 - Posted: Nov 10 (board gives the date only)
@@ -763,7 +809,7 @@ Overview Who we are Collaborative. Respectful. A place to dream and do. These ar
 
 ---
 
-## 40. [MAYBE] TikTok | Machine Learning Scientist Graduate (TikTok Trust and Safety) - 2027 Start (PhD)
+## 43. [MAYBE] TikTok | Machine Learning Scientist Graduate (TikTok Trust and Safety) - 2027 Start (PhD)
 - Link: https://lifeattiktok.com/search/7665989163791403269
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -793,7 +839,7 @@ Responsibilities:
 
 ---
 
-## 41. [MAYBE] Integrity | Data Analyst
+## 44. [MAYBE] Integrity | Data Analyst
 - Link: https://integritymarketing.wd1.myworkdayjobs.com/Integrity/job/Gilbert-AZ/Data-Analyst_JR5058
 - Location: 4 Locations
 - Posted: Nov 10 (board gives the date only)
@@ -807,7 +853,7 @@ Job Title: Quality Analyst Business Unit: Fidelis Location: Gilbert, AZ About Fi
 
 ---
 
-## 42. [MAYBE] University of Southern California | Research Associate
+## 45. [MAYBE] University of Southern California | Research Associate
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Research-Associate_REQ20182963
 - Location: Los Angeles, CA - Health Sciences Campus
 - Posted: Nov 10 (board gives the date only)
@@ -821,7 +867,7 @@ The laboratory of Dr. Jeannie Chen at the Zilkha Neurogenetic Institute, Keck Sc
 
 ---
 
-## 43. [MAYBE] Lila Sciences | ML Research Scientist, Scientific Evaluations
+## 46. [MAYBE] Lila Sciences | ML Research Scientist, Scientific Evaluations
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4472554009
 - Location: Cambridge, MA USA; London, UK; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -835,7 +881,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 44. [MAYBE] Anglian Water | Data Engineer
+## 47. [MAYBE] Anglian Water | Data Engineer
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Thorpe-Wood-House/Data-Engineer_R40844-1
 - Location: Thorpe Wood House
 - Posted: Nov 09 (board gives the date only)
@@ -849,7 +895,7 @@ Location: Thorpe Wood House, Peterborough Contract: Permanent Salary: £46,000, 
 
 ---
 
-## 45. [MAYBE] University of Miami | Research Associate I
+## 48. [MAYBE] University of Miami | Research Associate I
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-I_R100102926
 - Location: Miami, FL
 - Posted: Nov 09 (board gives the date only)
@@ -863,7 +909,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 46. [MAYBE] Zekelman Industries | Analytics Engineer
+## 49. [MAYBE] Zekelman Industries | Analytics Engineer
 - Link: https://zekelman.wd12.myworkdayjobs.com/Careers/job/Remote_USA/Analytics-Engineer_JR003014
 - Location: Remote_USA
 - Posted: Nov 10 (board gives the date only)
@@ -874,4 +920,18 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 ### Job description
 
 You may not know our name, but you know our products. What we make is part the places where we live, work and play – all day, everyday. Zekelman is a family of companies — 100% domestic manufacturers — with a legacy dating back to 1877. We’re proud to be the largest independent steel pipe and tube manufacturer in North America and the leading innovator in multi-family housing development. We believe in what we build and what we build, builds the world around us. Hospitals, hotels, schools, bridges, airports and more. Come build a career you believe in. About The Role: The Applications Analyst is responsible for the assessment, design, development, implementation, testing, education, and ongoing management of assigned enterprise applications. The Applications Analyst III serves as a key technical resource, collaborating with functional teams and translating business requirements into technical specifications and solutions to ensure applications meet organizational goals. What You'll Do: Serves as a liaison between customers, IT teams, and vendors; collaborates with functional and technical stakeholders at various levels. Leads and participates in meetings with stakeholders to gather requirements, discuss solutions, and provide status updates. Listens to users to identify needs and serves as a subject matter expert in resolving business problems related to enterprise applications. Works with functional teams to share information on new features, process improvements, and seeks input regarding future enhancements. Stays current with industry trends and self-educates through seminars, conferences, webinars, and professional networking. Participates in process improvement initiatives and assesses measurement outcomes. Leads or participates in all phases of the software/application development lifecycle: gathers requirements, designs, builds, implements, documents, and trains solutions based on current and future technologies. Ensures assigned applications function optimally and compliance is maintained with business policies, strategies, and regulatory requirements. Utilizes industry-standard and innovative methodologies to troubleshoot system, integration, performance, security, connectivity, and utilization issues. Develops expertise in application-specific functions, configurations, reporting, integrations, and security. Documents incidents, requests, project updates, knowledge, and changes according to IT and organizational procedures. Authors essential project documentation including requirements, project charters, functional specifications, designs, and test plans. Provides management with timely updates regarding existing systems, potential risks, and recommendations for improvement. Ensures adherence to all policies, procedures, standards, and compliance/regulatory requirements. Provides on-call or after-hour support as required. Project Management and Other Responsibilities Leads or participates in project planning, execution, and resource coordination. Provides project status updates to team members and management, proactively making recommendations to ensure project objectives and timelines are met. Participates in or leads review, assessment, design, development, testing, and training activities for new releases or new application implementations. Who You Are Bachelor’s degree in Information Technology, Information Systems, Business Administration, Finance, or related field; MBA preferred. 3–5 years of experience implementing or supporting enterprise applications, preferably in a large organizational environment. Knowledge / Skills / Competencies Willingness to obtain relevant application-specific certifications within 6 months of hire (as needed for assignment). Experience implementing, configuring, or supporting enterprise applications. Excellent written and oral communication skills. Ability to multitask and manage multiple deliverables, including helpdesk support, production tickets, and enhancement requests. What You'll Get Zekelman Industries offers competitive compensation and excellent benefits, including low-cost, high-quality medical and dental benefits. In addition, we have an amazing tuition assistance program, a bonus plan, a 401(k) plan with a generous company match, loyalty awards, and much more: Competitive Compensation Bonus Plan & Profit-Sharing Opportunities 401(k) with Company Match Comprehensive Health, Dental & Vision Insurance Tuition Assistance Program Paid Vacation & Holidays Employee Loyalty Awards Compensation & Benefits Below is the expected base salary range for this position. This is a good-faith estimate, and offers will be determined based on experience, education, skill set, and interview performance. Base Salary Range: Additional compensation may include: ✔ Performance-based yearly merit increases ✔ Profit-sharing bonus opportunities' #LI-KF1 Zekelman Industries offers competitive compensation and excellent benefits, including low-cost, high-quality medical and dental benefits. In addition, we have an amazing tuition assistance program, a bonus plan, a 401(k) plan with a generous company match, immediate vesting, and much more. M/F/D/V We are Zekelman Industries. We manufacture superior quality tubular and related products, and provide outstanding service for our valued customers. We seek to continuously advance the skills and opportunities of our employees, utilizing the latest technology and management tools available to consistently increase profitability and the enterprise value of Zekelman Industries and of our customers.
+
+---
+
+## 50. [MAYBE] Southern Company | AMI Data Analyst
+- Link: https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22674
+- Location: Birmingham, AL, United States US
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 7 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, data quality, reporting | Lacks: -
+
+### Job description
+
+AMI Data Analyst The AMI Data Analyst position is a highly technical job that oversees the flow of AMI (Advanced Meter Infrastructure) data from 1.6 million customer meters to the APC billing systems. This position ensures the continuous availability of high quality data from the AMI Systems (Sensus RNI, MV90Xi) to C2M and all other systems that rely on meter data (for billing and other uses, both internal and external). The AMI Data Analyst will ensure that servers, routers, operating systems, and databases are operating correctly and reporting data. They will analyze the daily performance of all meters, ensure the continuity and quality of data, monitor the billing success, and identify potential operational problem areas. The AMI Data Analyst will ensure the resolution of any meter exceptions caused by system performance, application, or system failures to transmit meter data to other systems, such as C2M. They will work with other team members to prepare daily analysis of AMI system performance, report problem areas to identify performance trends, and develop operational processes to improve data collection. The AMI Data Analyst will work closely with our partner organizations: Energy Sales and Services, Technology Organization, Customer Services, Regulatory, Power Delivery, and Metering Services. Strong relationships and clear communication between these groups is needed to ensure meter data is provided to all required systems in a timely manner to best serve our customers. JOB REQUIREMENTS (Education, Experience, Knowledge, and Skills) 4- year degree in business, computer systems, or engineering is preferred 2+ years of experience in Customer Services, Metering Services, Technology Organization, Power Delivery operations, data analysis, or communications systems Ability to work and communicate effectively with the internal partner departments, managers, vendors, and suppliers Ability to manage multiple complex technology and business issues Strong interpersonal skills and ability to work well in team setting Knowledge of Customer Services billing processes and field services, communications systems (particularly RF), metering technologies, and the TO systems necessary to monitor and measure the deployment of over 1.5 million meters Occasional "on call" assignments/irregular hours will be required JOB RESPONSIBILITIES Ensure continuous availability of high quality data from the AMI Systems (Sensus RNI, MV90Xi, C2M ) among many other systems that rely on meter data Monitor and review data several times during each working day to ensure AMI system performance Detailed knowledge of data flow processes and architecture associated with transporting data from the meters to the data collectors, communications systems, and TO systems Identify and troubleshoot issues with AMI Systems and infrastructure (hardware, software, and network) that interrupt data flow processes Ability to detect anomalies and exceptions to the quality standards for the data Ability to analyze Load Profile data and make appropriate edits working with partner departments (Energy Sales, Customer Services, Revenue Accounting) Ability to work with others to achieve resolution for issues with AMI Systems or data quality Provide training as necessary to team members or internal partners Enhance work practices by assisting with specifying requirements, designing, building, testing, and evaluating the various; write queries, scripts, or programs to enhance data analysis Daily communication with internal partners to ensure accurate dataflow Prepare summaries and reports of AMI operational activities and results for APC management SKILLS & BEHAVIORAL ATTRIBUTES Excellent communication skills Self-directed with strong initiative Accountability - takes personal ownership of projects and responsibilities Strong teamwork, collaboration, and participation Continuous learner – seeks growth and development Ability to build and maintain relationships with partners Consistently sets and maintains high performance standards Demonstrates customer service mindset Supports the concepts of Diversity, Equity, and Inclusion Recognized as a Student of the Business Must demonstrate behaviors consistent with the Company's values of unquestionable trust, superior performance, and total commitment   Alabama Power provides safe, reliable, and affordable electricity to 1.5 million customers across the lower two-thirds of Alabama. For more information, visit www.AlabamaPower.com and connect with the company on Facebook (Facebook.com/AlabamaPower), Twitter (Twitter.com/AlabamaPower), LinkedIn (Linkedin.com/company/alabama-power), and Instagram (Instagram.com/alabamapower). Southern Company (NYSE: SO ) is a leading energy provider serving 9 million customers across the Southeast and beyond through its family of companies. Providing clean, safe, reliable and affordable energy with excellent service is our mission. The company has electric operating companies in three states, natural gas distribution companies in four states, a competitive generation company, a leading distributed energy solutions provider with national capabilities, a fiber optics network and telecommunications services. Through an industry-leading commitment to innovation, resilience and sustainability, we are taking action to meet customers' and communities' needs while advancing our goal of net-zero greenhouse gas emissions by 2050. Our uncompromising values ensure we put the needs of those we serve at the center of everything we do and are the key to our sustained success. We are transforming energy into economic, environmental and social progress for tomorrow. Our corporate culture has been recognized by a variety of organizations, earning the company awards and recognitions that reflect Our Values and dedication to service. To learn more, visit www.southerncompany.com . Southern Company invests in the well-being of its employees and their families through a comprehensive total rewards strategy that includes competitive base salary, annual incentive awards for eligible employees and health, welfare and retirement benefits designed to support physical, financial, and emotional/social well-being. This position may also be eligible for additional compensation, such as an incentive program, with the amount of any bonus/awards subject to the terms and conditions of the applicable incentive plan(s). A summary of the benefits offered for this position can be found here https://seo.nlx.org/southernco/pdf/SOCO-Benefits.pdf . Additional and specific details about total compensation and beneﬁts will also be provided during the hiring process. Southern Company
 
