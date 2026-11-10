@@ -15,20 +15,21 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 9 | Airbus | Praktikant für Generative AI/Agentic AI (d/m/w) | 62 | 1 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
 | 10 | Eversource Energy | Associate Analyst, Transmission (hybrid schedule) | 62 | 2 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
 | 11 | Interdigital | Research Engineer / Scientist (Wireless + AI/ML) | 60 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 12 | Momentive | Research scientist | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 13 | Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 14 | Barclays | Business Insights & Analytics Analyst | 54 | 142 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 15 | Snap | Research Scientist, Research | 54 | 52 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 16 | Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads | 54 | 1053 in data/analytics/finance occupations | Nov 10 10:08 ET |
-| 17 | Lila Sciences | ML Research Engineer, Performance Optimization | 53 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 18 | Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation | 50 | 2 in data/analytics/finance occupations | Nov 10 09:58 ET |
-| 19 | ibotta | Analytics Engineer | 50 | 1 in data/analytics/finance occupations | Nov 10 11:53 ET |
-| 20 | Montefiore Medical Center | Research Associate I - | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 21 | Lila Sciences | ML Research Scientist, Environments & Harnesses | 47 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 22 | First American | Business Intelligence Specialist (Remote) | 46 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 23 | Lila Sciences | ML Research Scientist, Scientific Evaluations | 44 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 24 | Anglian Water | Data Engineer | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 25 | University of Miami | Research Associate I | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 12 | Mars | Analyst, Walmart Analytics | 56 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 13 | Momentive | Research scientist | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 14 | Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 15 | Barclays | Business Insights & Analytics Analyst | 54 | 142 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 16 | Snap | Research Scientist, Research | 54 | 52 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 17 | Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads | 54 | 1053 in data/analytics/finance occupations | Nov 10 10:08 ET |
+| 18 | Lila Sciences | ML Research Engineer, Performance Optimization | 53 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 19 | Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation | 50 | 2 in data/analytics/finance occupations | Nov 10 09:58 ET |
+| 20 | ibotta | Analytics Engineer | 50 | 1 in data/analytics/finance occupations | Nov 10 11:53 ET |
+| 21 | Montefiore Medical Center | Research Associate I - | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 22 | Lila Sciences | ML Research Scientist, Environments & Harnesses | 47 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 23 | First American | Business Intelligence Specialist (Remote) | 46 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 24 | Lila Sciences | ML Research Scientist, Scientific Evaluations | 44 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 25 | Anglian Water | Data Engineer | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 26 | University of Miami | Research Associate I | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
 
 ---
 
@@ -186,7 +187,21 @@ About InterDigital InterDigital is a global research and development company foc
 
 ---
 
-## 12. [MAYBE] Momentive | Research scientist
+## 12. [MAYBE] Mars | Analyst, Walmart Analytics
+- Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Arkansas-Bentonville/Analyst--Walmart-Analytics_R170076-1
+- Location: USA-Arkansas-Bentonville
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~56 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, forecast, power bi, python, sql, statistic, reporting | Lacks: databricks, scala  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Job Description: Role Overview The Data Scientist Analyst, Walmart Analytics will transform customer, shopper, sales, and operational data into actionable insights that accelerate growth for Mars and Walmart/ Sam’s Club. This role combines data science, business analytics, and commercial acumen , partnering with Sales, Category, Supply, Finance, and other cross-functional teams to identify opportunities, improve decision-making, and build scalable analytics solutions. What are we looking for? Bachelor's degree in Data Science, Analytics, Statistics, Mathematics, Computer Science, Business Analytics, or a related field, or equivalent experience. 2+ years of experience in data science, business analytics, sales analytics, category management, or a related analytical role. Strong analytical and problem-solving skills with experience working with large, complex datasets. Advanced Excel skills and experience with Power BI or similar visualization tools. Working knowledge of SQL, Python, Databricks , or similar analytical tools. Strong communication and data-storytelling skills, with the ability to translate complex analysis into actionable business recommendations. Ability to work collaboratively in a fast-paced, cross-functional environment. Preferred Qualifications Experience in CPG, retail, or customer analytics . Experience supporting Walmart or another major omnichannel retailer. Familiarity with Walmart Scintilla, Nielsen/Circana , or other syndicated data sources. Experience with dashboard development, process automation, forecasting, statistical modeling, or predictive analytics. What will be your key responsibilities? Integrate Walmart Scintilla, syndicated, and internal Mars data to create a comprehensive view of business performance. Develop and maintain Power BI dashboards, reporting, and scalable analytical solutions that improve business decision-making. Apply statistical and data-science techniques to forecasting, opportunity identification, and business problem-solving. Automate manual processes and develop repeatable, self-service analytics solutions. Translate complex analysis into clear insights, recommendations, and compelling business stories for leadership and customer teams. Analyze performance drivers including sales, consumption, distribution, assortment, pricing, promotion, and merchandising. Partner with Sales, Category, Supply, Finance, and other teams on strategic initiatives, customer meetings, planning, and ad hoc business questions. What can you expect from Mars? At Mars, you'll work alongside talented Associates guided by The Five Principles, with opportunities to learn, grow, and make an impact. Mars offers best-in-class learning and development, including Mars University, along with competitive compensation and benefits.
+
+---
+
+## 13. [MAYBE] Momentive | Research scientist
 - Link: https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Pearl-River/Research-scientist_R9977-1
 - Location: US NY Pearl River
 - Posted: Nov 09 (board gives the date only)
@@ -200,7 +215,7 @@ Job Title: Research scientist Summary: Shape the future of foam control technolo
 
 ---
 
-## 13. [MAYBE] Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty
+## 14. [MAYBE] Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Sandy-Springs-Atlanta-GA-USA/Risk-Analytics-Consultant---Property---Casualty_R26_0000003968
 - Location: 3 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -214,7 +229,7 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 14. [MAYBE] Barclays | Business Insights & Analytics Analyst
+## 15. [MAYBE] Barclays | Business Insights & Analytics Analyst
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bournemouth-The-Helm-Holdenhurst-Road/Business-Insights---Analytics-Analyst_JR-0000126327-1
 - Location: Bournemouth, The Helm, Holdenhurst Road
 - Posted: Nov 09 (board gives the date only)
@@ -228,7 +243,7 @@ Job Description Purpose of the role To develop, track and analyse operational me
 
 ---
 
-## 15. [MAYBE] Snap | Research Scientist, Research
+## 16. [MAYBE] Snap | Research Scientist, Research
 - Link: https://snapchat.wd1.myworkdayjobs.com/snap/job/Bellevue-Washington/Research-Scientist--Language-for-Personalization_R0044935
 - Location: 2 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -242,7 +257,7 @@ Snap Inc is a technology company. We believe the camera presents the greatest op
 
 ---
 
-## 16. [MAYBE] Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads
+## 17. [MAYBE] Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads
 - Link: https://www.google.com/about/careers/applications/jobs/results/115014381934125766
 - Location: Mountain View, CA, USA ; Pittsburgh, PA, USA
 - Posted: Nov 10 10:08 ET
@@ -256,7 +271,7 @@ Google's software engineers develop the next-generation technologies that change
 
 ---
 
-## 17. [MAYBE] Lila Sciences | ML Research Engineer, Performance Optimization
+## 18. [MAYBE] Lila Sciences | ML Research Engineer, Performance Optimization
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4455701009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -270,7 +285,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 18. [MAYBE] Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation
+## 19. [MAYBE] Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation
 - Link: https://jobs.lever.co/tri/dbdce3b6-fc88-47d2-a78c-9ec34c66e6d1
 - Location: Cambridge, MA Cambridge, MA US
 - Posted: Nov 10 09:58 ET
@@ -289,7 +304,7 @@ It is unlawful in Massachusetts to require or administer a lie detector test as 
 
 ---
 
-## 19. [MAYBE] ibotta | Analytics Engineer
+## 20. [MAYBE] ibotta | Analytics Engineer
 - Link: https://jobs.ashbyhq.com/ibotta/d1ad9f8d-564a-4859-8e8c-fa2c05485627
 - Location: Hybrid - Denver United States remote
 - Posted: Nov 10 11:53 ET
@@ -383,7 +398,7 @@ To learn more about what our Tech teams are doing day to day, visit Building Ibo
 
 ---
 
-## 20. [MAYBE] Montefiore Medical Center | Research Associate I -
+## 21. [MAYBE] Montefiore Medical Center | Research Associate I -
 - Link: https://montefiore.wd12.myworkdayjobs.com/MMC/job/3415-Bainbridge-Avenue/Research-Associate-I--_JR234732-1
 - Location: 3415 Bainbridge Avenue
 - Posted: Nov 10 (board gives the date only)
@@ -397,7 +412,7 @@ City/State: Bronx, New York Grant Funded: Yes Department: PEDS - Division Of Gen
 
 ---
 
-## 21. [MAYBE] Lila Sciences | ML Research Scientist, Environments & Harnesses
+## 22. [MAYBE] Lila Sciences | ML Research Scientist, Environments & Harnesses
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4462270009
 - Location: Cambridge, MA USA; London, UK; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -411,7 +426,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 22. [MAYBE] First American | Business Intelligence Specialist (Remote)
+## 23. [MAYBE] First American | Business Intelligence Specialist (Remote)
 - Link: https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Business-Intelligence-Specialist--Remote-_R059554-1
 - Location: 10 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -425,7 +440,7 @@ Who We Are Join a team that puts its People First! First American's GO Title div
 
 ---
 
-## 23. [MAYBE] Lila Sciences | ML Research Scientist, Scientific Evaluations
+## 24. [MAYBE] Lila Sciences | ML Research Scientist, Scientific Evaluations
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4472554009
 - Location: Cambridge, MA USA; London, UK; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -439,7 +454,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 24. [MAYBE] Anglian Water | Data Engineer
+## 25. [MAYBE] Anglian Water | Data Engineer
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Thorpe-Wood-House/Data-Engineer_R40844-1
 - Location: Thorpe Wood House
 - Posted: Nov 09 (board gives the date only)
@@ -453,7 +468,7 @@ Location: Thorpe Wood House, Peterborough Contract: Permanent Salary: £46,000, 
 
 ---
 
-## 25. [MAYBE] University of Miami | Research Associate I
+## 26. [MAYBE] University of Miami | Research Associate I
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-I_R100102926
 - Location: Miami, FL
 - Posted: Nov 09 (board gives the date only)
