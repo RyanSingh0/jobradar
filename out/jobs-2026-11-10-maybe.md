@@ -4,36 +4,56 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | CVS Health | Machine Learning Engineer | 76 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 2 | Freddie Mac | Quantitative Analytics Professional | 74 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 3 | RBI | Digital Data Analyst, Burger King & Popeyes, International | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 4 | Thomson Reuters | Legal Engineer, AI Adoption | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 5 | Thomson Reuters | Legal Engineer, AI Deployment | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 6 | OU Health | Quality Data Analytics Specialist | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 7 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 67 | 1098 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 8 | Motorola | Jr. Software Engineer, AI Agent Platform | 67 | 27 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 9 | Airbus | Praktikant für Generative AI/Agentic AI (d/m/w) | 62 | 1 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 10 | Eversource Energy | Associate Analyst, Transmission (hybrid schedule) | 62 | 2 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 11 | Interdigital | Research Engineer / Scientist (Wireless + AI/ML) | 60 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 12 | Mars | Analyst, Walmart Analytics | 56 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 13 | Momentive | Research scientist | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 14 | Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 15 | Barclays | Business Insights & Analytics Analyst | 54 | 142 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 16 | Snap | Research Scientist, Research | 54 | 52 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 17 | Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads | 54 | 1053 in data/analytics/finance occupations | Nov 10 10:08 ET |
-| 18 | Lila Sciences | ML Research Engineer, Performance Optimization | 53 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 19 | Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation | 50 | 2 in data/analytics/finance occupations | Nov 10 09:58 ET |
-| 20 | ibotta | Analytics Engineer | 50 | 1 in data/analytics/finance occupations | Nov 10 11:53 ET |
-| 21 | Montefiore Medical Center | Research Associate I - | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 22 | Lila Sciences | ML Research Scientist, Environments & Harnesses | 47 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 23 | First American | Business Intelligence Specialist (Remote) | 46 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 24 | Lila Sciences | ML Research Scientist, Scientific Evaluations | 44 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 25 | Anglian Water | Data Engineer | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 26 | University of Miami | Research Associate I | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 1 | Cadmus | Job Title Energy Research & Project Analyst | 77 | 1 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 2 | CVS Health | Machine Learning Engineer | 76 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 3 | TELUS Digital | Roboticist (Embodied AI, Machine Learning, Computer Vision)  | 75 | none found (check myvisajobs) | Nov 10 12:48 ET |
+| 4 | Freddie Mac | Quantitative Analytics Professional | 74 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 5 | RBI | Digital Data Analyst, Burger King & Popeyes, International | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 6 | Thomson Reuters | Legal Engineer, AI Adoption | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 7 | Thomson Reuters | Legal Engineer, AI Deployment | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 8 | OU Health | Quality Data Analytics Specialist | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 9 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 67 | 1098 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 10 | Motorola | Jr. Software Engineer, AI Agent Platform | 67 | 27 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 11 | Airbus | Praktikant für Generative AI/Agentic AI (d/m/w) | 62 | 1 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 12 | Eversource Energy | Associate Analyst, Transmission (hybrid schedule) | 62 | 2 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 13 | Interdigital | Research Engineer / Scientist (Wireless + AI/ML) | 60 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 14 | Mars | Analyst, Walmart Analytics | 56 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 15 | Momentive | Research scientist | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 16 | Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 17 | Barclays | Business Insights & Analytics Analyst | 54 | 142 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 18 | Snap | Research Scientist, Research | 54 | 52 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 19 | Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads | 54 | 1053 in data/analytics/finance occupations | Nov 10 10:08 ET |
+| 20 | Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst | 54 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 21 | Lila Sciences | ML Research Engineer, Performance Optimization | 53 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 22 | Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation | 50 | 2 in data/analytics/finance occupations | Nov 10 09:58 ET |
+| 23 | ibotta | Analytics Engineer | 50 | 1 in data/analytics/finance occupations | Nov 10 11:53 ET |
+| 24 | Montefiore Medical Center | Research Associate I - | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 25 | Wash U | Bioinformatics Research Analyst - Neurology | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 26 | Washington University in St. Louis | Bioinformatics Research Analyst - Neurology | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 27 | Lila Sciences | ML Research Scientist, Environments & Harnesses | 47 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 28 | First American | Business Intelligence Specialist (Remote) | 46 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 29 | Lila Sciences | ML Research Scientist, Scientific Evaluations | 44 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 30 | Anglian Water | Data Engineer | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 31 | University of Miami | Research Associate I | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 32 | Zekelman Industries | Analytics Engineer | 40 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] CVS Health | Machine Learning Engineer
+## 1. [MAYBE] Cadmus | Job Title Energy Research & Project Analyst
+- Link: https://careers-cadmusgroup.icims.com/jobs/3264/energy-research-%26-project-analyst/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~77 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: data visualization, excel, power bi, python, r, sql, statistic, tableau, git, portfolio, quantitative, research | Lacks: -  | Note: broad title
+
+### Job description
+
+Energy Research & Project Analyst in Boulder, Colorado | Careers at Boulder, Colorado Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log back in! Energy Research & Project Analyst Job Locations US-CO-Boulder | US-OR-Portland | US Posted Date 24 minutes ago (11/10/2026 12:47 PM) Job ID 2026-3264 # of Openings 1 Category Energy and Utilities Overview What You’ll Be Doing Cadmus seeks an Energy Research & Project Analyst to join its Energy Services Division to support clean energy research, analytics, and consulting projects. The ideal candidate will combine strong project management capabilities with technical analytical and market research skills to help plan, coordinate, and execute projects for energy-sector clients. The successful candidate will help manage a portfolio of projects to ensure work stays on schedule and within budget, while also contributing directly to quantitative and qualitative analysis, primary and secondary research, market characterization, and development of actionable client recommendations. This work will support energy efficiency, demand-side management, electrification, distributed energy resources, affordability, and broader clean energy and sustainability strategies. Cadmus seeks candidates with hands-on professional experience in project management who are also comfortable working with data, research methods, and analytical tools. Desired skills include strong organization and attention to detail, analytical and critical thinking, and excellent written and verbal communication. Experience in the energy or utility industry, consulting, market research, program evaluation, or energy analytics is strongly preferred. We are looking for a problem solver who enjoys working closely with clients and can move fluidly between managing the work and contributing to the analysis. The successful candidate will be highly motivated to perform and learn, capable of managing assigned tasks and projects from start to finish with minimal supervision, and comfortable translating data and research findings into clear, decision-ready insights. Who We Are Cadmus provides government, commercial, and other private organizations worldwide with technology-empowered advisory and implementation services. We help our clients achieve their goals and drive lasting, impactful change by leveraging transformative digital solutions and unparalleled expertise across domains. At Cadmus, we look for team players and problem solvers who are driven to use their unique perspectives and intellectual curiosity to help deliver breakthrough solutions that achieve transformative goals. As a member of our team, you'll collaborate with leading experts to support our clients across the globe. We offer competitive compensation, outstanding health care and retirement benefits, a vibrant and collaborative work environment, and ample opportunities for professional growth. Join Cadmus. Together, we are strengthening society and the natural world. For more information, visit cadmusgroup.com . Responsibilities Provide project management and technical support in close collaboration with project managers and principals to ensure timely delivery of high-quality consulting solutions. Manage key aspects of Cadmus research and evaluation projects, including budget tracking, invoicing, project planning, scheduling, resource management, and coordination of research and analytical activities. Contribute to quantitative and qualitative research and analysis, including analysis of utility program, customer, market, demographic, and energy-use data. Support market research and market characterization studies, including primary and secondary research, literature and data reviews, surveys, interviews, and other qualitative and quantitative research methods. Analyze data to identify market trends, customer characteristics, participation barriers, program opportunities, and other insights relevant to clean energy programs and strategies. Support project delivery and ensure deliverables in PowerPoint, Word, and Excel meet Cadmus’ quality standards and exceed client expectations. Support development of reports and presentations that clearly communicate analytical results, research findings, methodologies, data sources, implications, and actionable recommendations. Develop clear data visualizations, tables, charts, and other analytical outputs that translate complex information into insights for clients and decision-makers. Nurture and build existing client relationships and serve as a reliable point of contact. Provide clear, professional, and consistent communication with colleagues and clients, proactively raising concerns, providing constructive feedback, and managing expectations. Communicate with Cadmus Energy Services leadership and support teams, including accounting, accounts payable, contracts, and operations, regarding project health and status. Work independently and collaboratively across Cadmus to deliver high-value research and analytical solutions to clients. Clearly and concisely synthesize technical findings and communicate their implications to technical and nontechnical audiences. Some domestic travel may be required, typically less than 10% annually. Qualifications Two to four years of professional experience that includes project management, research, data analysis, or related consulting work, including demonstrated ability to manage deadlines across multiple simultaneous projects. Undergraduate degree in economics, business, statistics, data analytics, environmental studies, energy, public policy, social sciences, engineering, or a related quantitative or research-oriented field. Demonstrated experience conducting quantitative and/or qualitative analysis and translating results into actionable findings and recommendations. Experience with market research methods, which may include survey research, interviews, secondary research, market characterization, customer research, focus groups, benchmarking, or program evaluation. Strong proficiency in Excel, including experience manipulating, analyzing, and presenting data. Experience with analytical and visualization tools such as Power BI, Tableau, SQL, R, Python, ArcGIS or similar platforms is preferred. Knowledge of, or demonstrated interest in, the energy and utility industry, including areas such as energy efficiency, demand response, electrification, distributed energy resources, customer programs, or clean energy markets. Excellent oral and written communication, critical thinking, and analytical skills. Strong organizational and time-management skills with high attention to detail. Ability to understand the needs of different stakeholders and build consensus. Ability to work with imperfect or complex datasets, identify meaningful patterns, and communicate what those findings mean for [...]
+
+---
+
+## 2. [MAYBE] CVS Health | Machine Learning Engineer
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Machine-Learning-Engineer_R1076448
 - Location: 2 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -47,7 +67,100 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 2. [MAYBE] Freddie Mac | Quantitative Analytics Professional
+## 3. [MAYBE] TELUS Digital | Roboticist (Embodied AI, Machine Learning, Computer Vision) 
+- Link: https://jobs.ashbyhq.com/telus-digital/214a8247-406b-4b30-a9ae-532fe755c30a
+- Location: Remote, US United States remote
+- Posted: Nov 10 12:48 ET
+- Scanner fit: ~75 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: machine learning, postgres, python, pytorch, sql, statistic, calibration, docker, git, pipeline, research, segmentation | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+WHO WE ARE
+
+Welcome to TELUS Digital https://www.telusdigital.com/ — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS https://www.telus.com/en/, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture.
+
+With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data & AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA & Test Engineering.
+
+From mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company.
+
+
+
+
+LOCATION & FLEXIBILITY 
+
+This is a remote US-based role requiring travel for client meetings and hands-on site support (e.g., teleoperation data collection locations). You’ll coordinate on-site setup, equipment readiness, and field execution across project locations as needed.
+
+
+
+
+THE OPPORTUNITY 
+
+We’re hiring a Roboticist (Senior Robotics Applied AI Engineer) to serve as a trusted advisor to our global robotics and embodied-AI clients — and the engineer who ships the solution. This is a solutions-lead role that codes, not consultation alone. Our Roboticist will apply the same consultative, outcome-driven approach across accounts and geographies as our robotics practice grows.
+
+Expect to flex across concurrent client engagements, each with its own goals, constraints, and regional considerations. Bringing deep expertise in robotics and embodied AI, you’ll guide clients through large-scale data collection, field deployments, and program design — and build the perception systems, data pipelines, and model integrations that deliver them.
+
+Internally, you’ll act as the vital bridge between client vision and execution—partnering with Commercial, Solutions, Operations, and Quality to translate ambitious goals into well-run programs across multiple accounts worldwide. As the senior robotics presence in-region, you’ll be the first point of contact and engineering expertise for robotics solution and project requests originating in the US and EU, coordinating with our India/APAC team to move solutions from blueprint to production across time zones.
+
+Strong experience in machine learning, computer vision, technical solutions engineering is required. 
+
+
+
+
+WHAT SUCCESS LOOKS LIKE
+
+Clients will see our Sr. Robotics Applied AI Engineer as a genuine and trusted advisor, not a vendor resource — someone whose input shapes program design before problems occur. Internally, Commercial, Solutions, Operations, and Quality all treat this role as the technical anchor point for robotics engagements, and client programs consistently meet the outcomes they were scoped to deliver. Beyond the advisory anchor, this person also ships working perception and robotics systems: US/EU requests route through them early, feasibility is assessed before commitment, and cross-region handoffs to India/APAC stay clean under load.
+
+ 
+
+
+RESPONSIBILITIES
+
+ - Strategic Client Advisory & Co-Design: Act as the primary robotics subject-matter advisor in client conversations — assessing what a client is trying to achieve and recommending the approach, equipment, and program design most likely to get them there, rather than defaulting to a standard offering (co-design & iterate).
+
+ - Hands-on Solution Build: Design and build the CV and perception systems — detection, segmentation, pose estimation — on the 3D geometry underneath (SE(3), camera models, projection, coordinate frames), and own sensor calibration and fusion (intrinsic/extrinsic, hand-eye, LiDAR–camera) and LiDAR processing.
+
+ - Data Pipelines & Models: Design egocentric data-collection pipelines (head/wrist cameras, depth, IMU) for robot learning; evaluate, integrate, and fine-tune VLA models under data and compute constraints; and build supporting services (REST/gRPC, PostgreSQL) to expose model inference and robotics services.
+
+ - Outcome-Based Scoping: Partner with clients to define success up front, then shape program scope, staffing models, and equipment needs around that outcome — pushing back where a client's initial ask won't get them the result they want.
+
+ - Robotics Domain Leadership: Bring deep knowledge of the robotics and Embodied-AI landscape (hardware, data collection, simulation, and emerging models) to turn technical trends into actionable client solutions.
+
+ - Technical Bridge & Scoping Alignment: Serve as the connective layer between client technical requirements and our internal delivery teams — ensuring what's scoped with the client is translated into specifications Operations, Solutions, and Quality can actually execute, and that internal technical constraints or trade-offs are surfaced back to the client accurately and early.
+
+ - Commercial Support & Development: Identify and help shape new robotics-related opportunities within existing and prospective client accounts, acting as technical credibility in front of clients alongside Commercial.
+
+ - Field Execution & Technical feedback loop: Own real-time technical feedback on equipment, calibration, and field performance during pilots and live programs, escalating issues before they affect client-facing quality, timelines, or SLA standards.
+
+ 
+
+
+QUALIFICATIONS
+
+ - Background in robotics, mechatronics, robotics engineering, or a closely related technical field.
+
+ - Experience in robotics machine learning, computer vision, or technical solutions engineering, with a track record of shipping to production.
+
+ - Demonstrated client-facing or presales experience on robotics, automation, or embodied-AI programs, combined with strong hands-on build/deploy experience — this role both advises and ships.
+
+ - Strong computer vision and perception (detection, segmentation, pose estimation, optical flow) and 3D geometry (SE(3), camera models, projection, coordinate frames).
+
+ - Sensor calibration and fusion, including LiDAR–camera, plus LiDAR processing; and sim-to-real experience (Isaac Sim, MuJoCo, Gazebo, or Unity Robotics Hub).
+
+ - Conceptual grasp of VLA architectures and the current SOTA landscape; strong Python (PyTorch), able to read and implement research papers.
+
+ - Strong working knowledge of current robotics and embodied-AI industry trends, data collection methods, and deployment models.
+
+ - Proven ability to translate technical detail into business-relevant recommendations for non-technical stakeholders.
+
+ - Comfortable operating cross-functionally across Commercial, Solutions, Operations, and Quality teams.
+
+ - Experience supporti [...]
+
+---
+
+## 4. [MAYBE] Freddie Mac | Quantitative Analytics Professional
 - Link: https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Professional_JR17753
 - Location: McLean, VA
 - Posted: Nov 09 (board gives the date only)
@@ -61,7 +174,7 @@ At Freddie Mac, our mission of Making Home Possible is what motivates us, and it
 
 ---
 
-## 3. [MAYBE] RBI | Digital Data Analyst, Burger King & Popeyes, International
+## 5. [MAYBE] RBI | Digital Data Analyst, Burger King & Popeyes, International
 - Link: https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Lucerne-Corporate-Office/Digital-Data-Analyst--Burger-King---Popeyes--International_R4071
 - Location: Corp - Lucerne Corporate Office
 - Posted: Nov 09 (board gives the date only)
@@ -75,7 +188,7 @@ Ready to make your next big professional move? Join us on our journey to achieve
 
 ---
 
-## 4. [MAYBE] Thomson Reuters | Legal Engineer, AI Adoption
+## 6. [MAYBE] Thomson Reuters | Legal Engineer, AI Adoption
 - Link: https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/AI-Solutions-Architect_JREQ204513
 - Location: see posting
 - Posted: Nov 09 (board gives the date only)
@@ -89,7 +202,7 @@ Job Description As an Legal Engineer, AI Adoption , you will help law firm custo
 
 ---
 
-## 5. [MAYBE] Thomson Reuters | Legal Engineer, AI Deployment
+## 7. [MAYBE] Thomson Reuters | Legal Engineer, AI Deployment
 - Link: https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Legal-AI-Engineer_JREQ204512
 - Location: see posting
 - Posted: Nov 09 (board gives the date only)
@@ -103,7 +216,7 @@ Job Description As a Legal Engineer, AI Deployment , you will help law firm cust
 
 ---
 
-## 6. [MAYBE] OU Health | Quality Data Analytics Specialist
+## 8. [MAYBE] OU Health | Quality Data Analytics Specialist
 - Link: https://oumedicine.wd5.myworkdayjobs.com/OUHealthCareers/job/WFH-State-of-Oklahoma/Quality-Data-Analyst_R0067038
 - Location: 4 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -117,7 +230,7 @@ Position Title: Quality Data Analytics Specialist Department: Quality Data Repor
 
 ---
 
-## 7. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
+## 9. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803400
 - Location: New York, NY, United States US
 - Posted: Nov 10 (board gives the date only)
@@ -131,7 +244,7 @@ Be part of a team where your expertise in finance and technology drives accurate
 
 ---
 
-## 8. [MAYBE] Motorola | Jr. Software Engineer, AI Agent Platform
+## 10. [MAYBE] Motorola | Jr. Software Engineer, AI Agent Platform
 - Link: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300
 - Location: Ontario Remote Work, More...
 - Posted: Nov 09 (board gives the date only)
@@ -145,7 +258,7 @@ Company Overview At Motorola Solutions, we believe that everything starts with o
 
 ---
 
-## 9. [MAYBE] Airbus | Praktikant für Generative AI/Agentic AI (d/m/w)
+## 11. [MAYBE] Airbus | Praktikant für Generative AI/Agentic AI (d/m/w)
 - Link: https://ag.wd3.myworkdayjobs.com/Airbus/job/Ulm-Area/Praktikant-fr-Generative-AI-Agentic-AI--d-m-w-_JR10436030
 - Location: Ulm Area
 - Posted: Nov 09 (board gives the date only)
@@ -159,7 +272,7 @@ Job Description: Zur Unterstützung der Entwicklung im Bereich „Engineering De
 
 ---
 
-## 10. [MAYBE] Eversource Energy | Associate Analyst, Transmission (hybrid schedule)
+## 12. [MAYBE] Eversource Energy | Associate Analyst, Transmission (hybrid schedule)
 - Link: https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/Associate-Analyst--Transmission--hybrid-schedule-_R-032522
 - Location: Westwood, MA
 - Posted: Nov 09 (board gives the date only)
@@ -173,7 +286,7 @@ Eversource will not offer immigration-related sponsorship for this position (e.g
 
 ---
 
-## 11. [MAYBE] Interdigital | Research Engineer / Scientist (Wireless + AI/ML)
+## 13. [MAYBE] Interdigital | Research Engineer / Scientist (Wireless + AI/ML)
 - Link: https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/Research-Engineer---Scientist--Wireless---AI-ML-_REQ26-1099
 - Location: 2 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -187,7 +300,7 @@ About InterDigital InterDigital is a global research and development company foc
 
 ---
 
-## 12. [MAYBE] Mars | Analyst, Walmart Analytics
+## 14. [MAYBE] Mars | Analyst, Walmart Analytics
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Arkansas-Bentonville/Analyst--Walmart-Analytics_R170076-1
 - Location: USA-Arkansas-Bentonville
 - Posted: Nov 10 (board gives the date only)
@@ -201,7 +314,7 @@ Job Description: Role Overview The Data Scientist Analyst, Walmart Analytics wil
 
 ---
 
-## 13. [MAYBE] Momentive | Research scientist
+## 15. [MAYBE] Momentive | Research scientist
 - Link: https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Pearl-River/Research-scientist_R9977-1
 - Location: US NY Pearl River
 - Posted: Nov 09 (board gives the date only)
@@ -215,7 +328,7 @@ Job Title: Research scientist Summary: Shape the future of foam control technolo
 
 ---
 
-## 14. [MAYBE] Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty
+## 16. [MAYBE] Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Sandy-Springs-Atlanta-GA-USA/Risk-Analytics-Consultant---Property---Casualty_R26_0000003968
 - Location: 3 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -229,7 +342,7 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 15. [MAYBE] Barclays | Business Insights & Analytics Analyst
+## 17. [MAYBE] Barclays | Business Insights & Analytics Analyst
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bournemouth-The-Helm-Holdenhurst-Road/Business-Insights---Analytics-Analyst_JR-0000126327-1
 - Location: Bournemouth, The Helm, Holdenhurst Road
 - Posted: Nov 09 (board gives the date only)
@@ -243,7 +356,7 @@ Job Description Purpose of the role To develop, track and analyse operational me
 
 ---
 
-## 16. [MAYBE] Snap | Research Scientist, Research
+## 18. [MAYBE] Snap | Research Scientist, Research
 - Link: https://snapchat.wd1.myworkdayjobs.com/snap/job/Bellevue-Washington/Research-Scientist--Language-for-Personalization_R0044935
 - Location: 2 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -257,7 +370,7 @@ Snap Inc is a technology company. We believe the camera presents the greatest op
 
 ---
 
-## 17. [MAYBE] Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads
+## 19. [MAYBE] Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads
 - Link: https://www.google.com/about/careers/applications/jobs/results/115014381934125766
 - Location: Mountain View, CA, USA ; Pittsburgh, PA, USA
 - Posted: Nov 10 10:08 ET
@@ -271,7 +384,21 @@ Google's software engineers develop the next-generation technologies that change
 
 ---
 
-## 18. [MAYBE] Lila Sciences | ML Research Engineer, Performance Optimization
+## 20. [MAYBE] Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst
+- Link: https://bcbsri.wd1.myworkdayjobs.com/BCBSRICareers/job/Providence-RI/Corporate-Strategy-Analyst_JR100493
+- Location: Providence, RI
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, data visualization, healthcare, reporting, risk | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Pay Range: $83,200.00 - $124,800.00 Please email HR_Talent_AcquisitionTeam@bcbsri.org if you are a candidate seeking a reasonable accommodation for the application and/or interview process. At BCBSRI, our greatest resource is our people. We come from varying backgrounds, different cultures, and unique experiences. We are hard-working, caring, and creative individuals who collaborate, support one another, and grow together. Passion, empathy, and understanding are at the forefront of everything we do—not just for our members, but for our employees as well. We recognize that to do your best work, you have to be your best self. It’s why we offer flexible work arrangements that include remote and hybrid opportunities and paid time off. We provide tuition reimbursement and assist with student-loan repayment. We offer health, dental, and vision insurance as well as programs that support your mental health and well-being. We pay competitively, offer bonuses and investment plans, and are committed to growing and developing our employees. Our culture is one of belonging. We strive to be transparent and accountable. We believe in equipping our associates with the knowledge and resources they need to be successful. No matter where you’re at in the organization, you’re an integral part of our team and your input, thoughts, and ideas are valued. Join others who value a workplace for all. We appreciate and celebrate everything that makes us unique, from personal characteristics to past experiences. Our different perspectives strengthen us as an organization and help us better serve all Rhode Islanders. We’re dedicated to serving Rhode Islanders. Our focus extends beyond providing access to high-quality, affordable, and equitable care. To further improve the health and well-being of our fellow Rhode Islanders, we regularly roll up our sleeves and get to work (literally) in communities all across the state—building homes, working in food pantries, revitalizing community centers, and transforming outdoor spaces for children and adults. Because we believe it is our collective responsibility to uplift our fellow Rhode Islanders when and where we can, our associates receive additional paid time to volunteer. Why this job matters: Lead the day-to-day management and coordination of work to shape and advance the organization’s strategic direction. Support the review of high-impact strategic and operational business priorities. Own the development of materials to guide Executive Leadership Team (ELT) meetings, senior executive presentations, and Board of Directors meetings. Scope of work includes translating enterprise priorities, strategic initiatives, and cross-functional input to be clear, cohesive, and decision-oriented for senior leader forums. What you will do: Manage the development and maintenance of materials for executive leader and board forums in partnership with leadership and subject matter experts, aligning topics with enterprise priorities and planning cycles. Own end-to-end slide deck development, including synthesis of complex strategic, operational, and financial information into concise narratives, clear visuals, and actionable takeaways. Establish and manage timelines, contributor expectations and integration of contributor materials, review milestones, facilitate approvals, and escalate risks. Maintain a forward-looking calendar that anticipates upcoming topics, recurring reporting needs, and dependencies across leadership forums. Handle confidential strategic materials with discretion. Perform other duties as assigned. What you need to succeed: Bachelor’s degree in related field or an equivalent combination of education and related work experience. Three to five years’ experience in a strategy, consulting, or corporate development role. Advanced PowerPoint skills, including storyline development, slide design, data visualization, and synthesis of complex information. Strong written, verbal, and presentation skills, as well as ability to develop concise and effective communications. Ability to manage multiple priorities and stakeholders, establish workflows, and meet deadlines. Ability to collaborate while dealing with complex situations. Ability to influence up and across the organization. The extras: Prior healthcare experience Location: BCBSRI is headquartered in downtown Providence, conveniently located near the train station and bus terminal. We actively support associate well-being and work/life balance and offer the following schedules, based on role: In-office : onsite 5 days per week Hybrid: onsite 2-4 days per week Remote: onsite 0-1 days per week. Permitted to reside in the following states, pending approval from the Human Resources Department: Arizona, Connecticut, Florida, Georgia, Louisiana, Massachusetts, North Carolina, Oklahoma, Rhode Island, South Carolina, Texas, Virginia Our culture of belonging at Blue Cross & Blue Shield of Rhode Island (BCBSRI) is at the core of all we do, and it strengthens our ability to meet the challenges of today’s healthcare industry. BCBSRI
+
+---
+
+## 21. [MAYBE] Lila Sciences | ML Research Engineer, Performance Optimization
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4455701009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -285,7 +412,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 19. [MAYBE] Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation
+## 22. [MAYBE] Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation
 - Link: https://jobs.lever.co/tri/dbdce3b6-fc88-47d2-a78c-9ec34c66e6d1
 - Location: Cambridge, MA Cambridge, MA US
 - Posted: Nov 10 09:58 ET
@@ -304,7 +431,7 @@ It is unlawful in Massachusetts to require or administer a lie detector test as 
 
 ---
 
-## 20. [MAYBE] ibotta | Analytics Engineer
+## 23. [MAYBE] ibotta | Analytics Engineer
 - Link: https://jobs.ashbyhq.com/ibotta/d1ad9f8d-564a-4859-8e8c-fa2c05485627
 - Location: Hybrid - Denver United States remote
 - Posted: Nov 10 11:53 ET
@@ -398,7 +525,7 @@ To learn more about what our Tech teams are doing day to day, visit Building Ibo
 
 ---
 
-## 21. [MAYBE] Montefiore Medical Center | Research Associate I -
+## 24. [MAYBE] Montefiore Medical Center | Research Associate I -
 - Link: https://montefiore.wd12.myworkdayjobs.com/MMC/job/3415-Bainbridge-Avenue/Research-Associate-I--_JR234732-1
 - Location: 3415 Bainbridge Avenue
 - Posted: Nov 10 (board gives the date only)
@@ -412,7 +539,35 @@ City/State: Bronx, New York Grant Funded: Yes Department: PEDS - Division Of Gen
 
 ---
 
-## 22. [MAYBE] Lila Sciences | ML Research Scientist, Environments & Harnesses
+## 25. [MAYBE] Wash U | Bioinformatics Research Analyst - Neurology
+- Link: https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Bioinformatics-Research-Analyst---Neurology_JR98591
+- Location: Washington University Medical Campus
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: statistic, classification, pipeline, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Provides critically complex research and experimentation for department/s allowing the advancement of scientific analysis and discovery. Serves as a subject matter expert offering support, training and guidance relative to the discipline/area. May participate and/or present on the research developed, or the established work of those within the department. The Pottier Laboratory in the Department of Neurology at Washington University School of Medicine is recruiting a Bioinformatician to join our research on the genetics and transcriptomics of Alzheimer disease, frontotemporal dementia and related neurodegenerative disorders. The position focuses on single-nuclei RNA sequencing (snRNA-seq) of human brain, with additional work in whole-genome sequencing (short- and long-read). You will work closely with the PI, postdocs, other computational scientists and clinical and neuropathology collaborators as part of the NeuroGenomics and Informatics (NGI) Center, a group of more than 20 computational and statistical researchers. Job Description Primary Duties & Responsibilities: Implements: Algorithms and computer software for analyzing omics-based data sets [high-throughput, massively parallel genomic/proteomic/clinical]; Data management and analysis solutions that aid in the storage, investigation and dissemination of large data sets. Coordinates research project with other investigators and institutions. Participates in developing hypotheses and experimental design. Assists with reporting of methods, data and results. Process and analyze short- and long-read snRNA-seq data, including QC, clustering, cell-type annotation, differential expression and isoform-level analyses. Process and analyze short- and long-read WGS data, including QC, variant calling, structural variants and association analyses. Integrate transcriptomic and genetic data with clinical, neuropathological and proteomic data. Develop, maintain and improve reproducible pipelines on high-performance computing systems as data and tools change. Organize, back up and share data with collaborators and consortia. Advise team members and train and supervise junior scientists. Participate in lab and collaborator meetings. Contribute to manuscripts, grants and reports, including methods, results and figures. Working Conditions: Job Location/Working Conditions Works in a laboratory environment with potential exposure to biological and chemical hazards Must be physically able to wear protective equipment and to provide standard care to research animals Normal office environment. Physical Effort Typically sitting at desk or table. Repetitive wrist, hand or finger movement (PC Typing). Equipment Office equipment. The above statements are intended to describe the general nature and level of work performed by people assigned to this classification. They are not intended to be construed as an exhaustive list of all job duties performed by the personnel so classified. Management reserves the right to revise or amend duties at any time. Required Qualifications Education: Bachelor’s degree or combination of education and/or experience may substitute for minimum education. Certifications /Professional Licenses : No specific certification/professional license is required for this position. Work Experience: Relevant Experience (2 Years) Skills: Not Applicable Driver's License: A driver's license is not required for this position. More About This Job WashU seeks highly motivated individuals who are able to perform duties in a manner consistent with our core mission and guiding principles. Preferred Qualifications Education: Master's degree Certifications /Professional Licenses : No additional certification/professional licenses unless stated elsewhere in the job posting. Work Experience: No additional work experience unless stated elsewhere in the job posting. Skills: Analytical Thinking, Bioinformatics Tools, Communication, Complex Data Analysis, Computational Biology, Critical Reasoning, Gene Expression Microarray, Genome Sequencing, Group Problem Solving, Human Genetics, Model Organism Grade R09 Salary Range $41,700.00 - $75,600.00 / Annually The salary range reflects base salaries paid for positions in a given job grade across the University. Individual rates within the range will be determined by factors including one's qualifications and performance, equity with others in the department, market rates for positions within the same grade and department budget. Questions For frequently asked questions about the application process, please refer to our External Applicant FAQ . Accommodation If you are unable to use our online application system and would like an accommodation, please email CandidateQuestions@wustl.edu or call the dedicated accommodation inquiry number at 314-935-1149 and leave a voicemail with the nature of your request. All qualified individuals must be able to perform the essential functions of the position satisfactorily and, if requested,
+
+---
+
+## 26. [MAYBE] Washington University in St. Louis | Bioinformatics Research Analyst - Neurology
+- Link: https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Bioinformatics-Research-Analyst---Neurology_JR98591
+- Location: Washington University Medical Campus
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: statistic, classification, pipeline, reporting, research | Lacks: -
+
+### Job description
+
+Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Provides critically complex research and experimentation for department/s allowing the advancement of scientific analysis and discovery. Serves as a subject matter expert offering support, training and guidance relative to the discipline/area. May participate and/or present on the research developed, or the established work of those within the department. The Pottier Laboratory in the Department of Neurology at Washington University School of Medicine is recruiting a Bioinformatician to join our research on the genetics and transcriptomics of Alzheimer disease, frontotemporal dementia and related neurodegenerative disorders. The position focuses on single-nuclei RNA sequencing (snRNA-seq) of human brain, with additional work in whole-genome sequencing (short- and long-read). You will work closely with the PI, postdocs, other computational scientists and clinical and neuropathology collaborators as part of the NeuroGenomics and Informatics (NGI) Center, a group of more than 20 computational and statistical researchers. Job Description Primary Duties & Responsibilities: Implements: Algorithms and computer software for analyzing omics-based data sets [high-throughput, massively parallel genomic/proteomic/clinical]; Data management and analysis solutions that aid in the storage, investigation and dissemination of large data sets. Coordinates research project with other investigators and institutions. Participates in developing hypotheses and experimental design. Assists with reporting of methods, data and results. Process and analyze short- and long-read snRNA-seq data, including QC, clustering, cell-type annotation, differential expression and isoform-level analyses. Process and analyze short- and long-read WGS data, including QC, variant calling, structural variants and association analyses. Integrate transcriptomic and genetic data with clinical, neuropathological and proteomic data. Develop, maintain and improve reproducible pipelines on high-performance computing systems as data and tools change. Organize, back up and share data with collaborators and consortia. Advise team members and train and supervise junior scientists. Participate in lab and collaborator meetings. Contribute to manuscripts, grants and reports, including methods, results and figures. Working Conditions: Job Location/Working Conditions Works in a laboratory environment with potential exposure to biological and chemical hazards Must be physically able to wear protective equipment and to provide standard care to research animals Normal office environment. Physical Effort Typically sitting at desk or table. Repetitive wrist, hand or finger movement (PC Typing). Equipment Office equipment. The above statements are intended to describe the general nature and level of work performed by people assigned to this classification. They are not intended to be construed as an exhaustive list of all job duties performed by the personnel so classified. Management reserves the right to revise or amend duties at any time. Required Qualifications Education: Bachelor’s degree or combination of education and/or experience may substitute for minimum education. Certifications /Professional Licenses : No specific certification/professional license is required for this position. Work Experience: Relevant Experience (2 Years) Skills: Not Applicable Driver's License: A driver's license is not required for this position. More About This Job WashU seeks highly motivated individuals who are able to perform duties in a manner consistent with our core mission and guiding principles. Preferred Qualifications Education: Master's degree Certifications /Professional Licenses : No additional certification/professional licenses unless stated elsewhere in the job posting. Work Experience: No additional work experience unless stated elsewhere in the job posting. Skills: Analytical Thinking, Bioinformatics Tools, Communication, Complex Data Analysis, Computational Biology, Critical Reasoning, Gene Expression Microarray, Genome Sequencing, Group Problem Solving, Human Genetics, Model Organism Grade R09 Salary Range $41,700.00 - $75,600.00 / Annually The salary range reflects base salaries paid for positions in a given job grade across the University. Individual rates within the range will be determined by factors including one's qualifications and performance, equity with others in the department, market rates for positions within the same grade and department budget. Questions For frequently asked questions about the application process, please refer to our External Applicant FAQ . Accommodation If you are unable to use our online application system and would like an accommodation, please email CandidateQuestions@wustl.edu or call the dedicated accommodation inquiry number at 314-935-1149 and leave a voicemail with the nature of your request. All qualified individuals must be able to perform the essential functions of the position satisfactorily and, if requested,
+
+---
+
+## 27. [MAYBE] Lila Sciences | ML Research Scientist, Environments & Harnesses
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4462270009
 - Location: Cambridge, MA USA; London, UK; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -426,7 +581,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 23. [MAYBE] First American | Business Intelligence Specialist (Remote)
+## 28. [MAYBE] First American | Business Intelligence Specialist (Remote)
 - Link: https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Business-Intelligence-Specialist--Remote-_R059554-1
 - Location: 10 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -440,7 +595,7 @@ Who We Are Join a team that puts its People First! First American's GO Title div
 
 ---
 
-## 24. [MAYBE] Lila Sciences | ML Research Scientist, Scientific Evaluations
+## 29. [MAYBE] Lila Sciences | ML Research Scientist, Scientific Evaluations
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4472554009
 - Location: Cambridge, MA USA; London, UK; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
@@ -454,7 +609,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 25. [MAYBE] Anglian Water | Data Engineer
+## 30. [MAYBE] Anglian Water | Data Engineer
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Thorpe-Wood-House/Data-Engineer_R40844-1
 - Location: Thorpe Wood House
 - Posted: Nov 09 (board gives the date only)
@@ -468,7 +623,7 @@ Location: Thorpe Wood House, Peterborough Contract: Permanent Salary: £46,000, 
 
 ---
 
-## 26. [MAYBE] University of Miami | Research Associate I
+## 31. [MAYBE] University of Miami | Research Associate I
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-I_R100102926
 - Location: Miami, FL
 - Posted: Nov 09 (board gives the date only)
@@ -479,4 +634,18 @@ Location: Thorpe Wood House, Peterborough Contract: Permanent Salary: £46,000, 
 ### Job description
 
 Current Employees: If you are a current Staff, Faculty or Temporary employee at the University of Miami, please click here to log in to Workday to use the internal application process. To learn how to apply for a faculty or staff position, please review this tip sheet . Coral Recruit Technician – Research Associate I Coral Reef Futures Lab The Coral Recruit Technician is an integral part of the University of Miami’s Land-Based Coral Facility team at The Rosenstiel School on Virginia Key, FL. This position supports reef research and restoration conducted by the Coral Reef Futures Lab. Specifically, the coral recruit technician carries out the sexual propagation and subsequent care of Caribbean coral juveniles within the lab’s aquaculture facility and research spaces. This is a key period in coral development during which the employee’s attention to detail, drive, and determination contribute directly to the production and survival of coral recruits. Key Responsibilities: Assist with the production, rearing, and outplanting of sexually derived coral recruits Perform daily husbandry and maintain aquarium systems. Monitor coral health to identify and address issues as they arise. Coordinate daily and weekly husbandry activities, including developing and assigning tasks to student volunteers. Must adhere to and instruct based on standard operating procedures for coral systems. Assist with the diagnosis and resolution of plumbing, electrical, and other operational issues associated with aquarium systems. Coordinate with graduate students and other staff in the Coral Reef Futures Lab to support ongoing research efforts. Respond as a team member to system equipment failures in an on-call capacity, with the ability to think critically to diagnose and resolve issues in coordination with other team members. Participate in evening and nighttime coral spawning, fertilization, and larval care activities, with occasional work schedule changes to work on weekends or public holidays to accommodate these activities during the spawning season. Requirements & qualifications: Bachelor’s degree in marine biology, environmental science, or a related field (or equivalent experience). U.S. citizenship, or valid U.S. work authorization. Knowledge of coral biology, aquaculture, marine science, and/or related fields. Strong organizational and interpersonal skills. Ability to communicate effectively and professionally with team members, researchers, and members of the public. Accountability and attention to detail, particularly when working with living organisms and time-sensitive husbandry needs. Ability to troubleshoot and communicate or delegate tasks effectively. Ability to work for several hours a day in outdoor shadehouse facilities in South Florida, which can be particularly warm and humid during the summer. Preferred qualifications/competencies: Experience with coral spawning and rearing sexually derived coral recruits Experience with saltwater aquaria, coral husbandry, life support systems, and/or water quality AAUS Scientific Diving certification MOCC Boating certification Work Environment: Although this position includes work with indoor systems, laboratories, and spawning tanks, most time will be spent at the outdoor land-based coral facility. Additional opportunities exist to support field efforts. South Florida weather can be unpredictable and at times extreme, and consequently sun-protective clothing and head coverage via sunhat or hooded shirt are required. Employees should be prepared to work up to 4-5 hours at a time outdoors, and on occasion outside of the regular work week, being accountable for responding to equipment alerts, and involvement in nighttime spawning activities. Position occasionally involves physically demanding duties, including lifting and transporting items weighing up to 50 pounds. The University of Miami is recognized as one of the nation’s premier research institutions and academic health systems and is among the largest employers in South Florida. With more than 20,000 faculty and staff, the University is committed to excellence and guided by a mission to positively impact the lives of students, patients, and communities locally and globally. We are dedicated to fostering a culture where every individual feels valued and empowered to contribute meaningfully. United by shared values, the University community works together to build an environment defined by purpose, collaboration, and service. The University of Miami
+
+---
+
+## 32. [MAYBE] Zekelman Industries | Analytics Engineer
+- Link: https://zekelman.wd12.myworkdayjobs.com/Careers/job/Remote_USA/Analytics-Engineer_JR003014
+- Location: Remote_USA
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, reporting, risk | Lacks: -  | Note: no H-1B filings found for this employer
+
+### Job description
+
+You may not know our name, but you know our products. What we make is part the places where we live, work and play – all day, everyday. Zekelman is a family of companies — 100% domestic manufacturers — with a legacy dating back to 1877. We’re proud to be the largest independent steel pipe and tube manufacturer in North America and the leading innovator in multi-family housing development. We believe in what we build and what we build, builds the world around us. Hospitals, hotels, schools, bridges, airports and more. Come build a career you believe in. About The Role: The Applications Analyst is responsible for the assessment, design, development, implementation, testing, education, and ongoing management of assigned enterprise applications. The Applications Analyst III serves as a key technical resource, collaborating with functional teams and translating business requirements into technical specifications and solutions to ensure applications meet organizational goals. What You'll Do: Serves as a liaison between customers, IT teams, and vendors; collaborates with functional and technical stakeholders at various levels. Leads and participates in meetings with stakeholders to gather requirements, discuss solutions, and provide status updates. Listens to users to identify needs and serves as a subject matter expert in resolving business problems related to enterprise applications. Works with functional teams to share information on new features, process improvements, and seeks input regarding future enhancements. Stays current with industry trends and self-educates through seminars, conferences, webinars, and professional networking. Participates in process improvement initiatives and assesses measurement outcomes. Leads or participates in all phases of the software/application development lifecycle: gathers requirements, designs, builds, implements, documents, and trains solutions based on current and future technologies. Ensures assigned applications function optimally and compliance is maintained with business policies, strategies, and regulatory requirements. Utilizes industry-standard and innovative methodologies to troubleshoot system, integration, performance, security, connectivity, and utilization issues. Develops expertise in application-specific functions, configurations, reporting, integrations, and security. Documents incidents, requests, project updates, knowledge, and changes according to IT and organizational procedures. Authors essential project documentation including requirements, project charters, functional specifications, designs, and test plans. Provides management with timely updates regarding existing systems, potential risks, and recommendations for improvement. Ensures adherence to all policies, procedures, standards, and compliance/regulatory requirements. Provides on-call or after-hour support as required. Project Management and Other Responsibilities Leads or participates in project planning, execution, and resource coordination. Provides project status updates to team members and management, proactively making recommendations to ensure project objectives and timelines are met. Participates in or leads review, assessment, design, development, testing, and training activities for new releases or new application implementations. Who You Are Bachelor’s degree in Information Technology, Information Systems, Business Administration, Finance, or related field; MBA preferred. 3–5 years of experience implementing or supporting enterprise applications, preferably in a large organizational environment. Knowledge / Skills / Competencies Willingness to obtain relevant application-specific certifications within 6 months of hire (as needed for assignment). Experience implementing, configuring, or supporting enterprise applications. Excellent written and oral communication skills. Ability to multitask and manage multiple deliverables, including helpdesk support, production tickets, and enhancement requests. What You'll Get Zekelman Industries offers competitive compensation and excellent benefits, including low-cost, high-quality medical and dental benefits. In addition, we have an amazing tuition assistance program, a bonus plan, a 401(k) plan with a generous company match, loyalty awards, and much more: Competitive Compensation Bonus Plan & Profit-Sharing Opportunities 401(k) with Company Match Comprehensive Health, Dental & Vision Insurance Tuition Assistance Program Paid Vacation & Holidays Employee Loyalty Awards Compensation & Benefits Below is the expected base salary range for this position. This is a good-faith estimate, and offers will be determined based on experience, education, skill set, and interview performance. Base Salary Range: Additional compensation may include: ✔ Performance-based yearly merit increases ✔ Profit-sharing bonus opportunities' #LI-KF1 Zekelman Industries offers competitive compensation and excellent benefits, including low-cost, high-quality medical and dental benefits. In addition, we have an amazing tuition assistance program, a bonus plan, a 401(k) plan with a generous company match, immediate vesting, and much more. M/F/D/V We are Zekelman Industries. We manufacture superior quality tubular and related products, and provide outstanding service for our valued customers. We seek to continuously advance the skills and opportunities of our employees, utilizing the latest technology and management tools available to consistently increase profitability and the enterprise value of Zekelman Industries and of our customers.
 

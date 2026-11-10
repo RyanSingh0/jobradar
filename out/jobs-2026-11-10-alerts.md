@@ -5,3 +5,4 @@ Found in your LinkedIn/HiringCafe/Glassdoor/Indeed/Jobright alert emails but not
 | Source | Company | Title | Location | Link |
 |---|---|---|---|---|
 | linkedin | Comcast | Data Scientist - Freewheel | New York, NY | https://www.linkedin.com/jobs/view/4487994595/ |
+| linkedin | Lex Products | Analytics Engineer | Shelton, CT | https://www.linkedin.com/jobs/view/4487338791/ |
