@@ -20,44 +20,47 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 14 | Euronext | Financial Planning & Analysis Analyst (FP&A Analyst) - Fixed Term | 62 | 5 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
 | 15 | Synechron | SDET with AI | 62 | 15 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
 | 16 | StoneX Group | Job Posting Title Physical Commodity Integrations Analyst | 62 | 11 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 17 | GTS | Job Title Quantitative Researcher, Algorithmic Trading | 60 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 18 | Anglian Water | Demand Reporting Data Scientist | 60 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 19 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 08 12:11 ET |
-| 20 | Smarkets | Data Engineer | 55 | none found (check myvisajobs) | Nov 09 03:49 ET |
-| 21 | Repligen | AI Engineer I | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 22 | Persona AI | Robotics Machine Learning Engineer | 55 | none found (check myvisajobs) | Nov 09 16:13 ET |
-| 23 | Rackner | Telemetry & Performance Data Analyst-Federal Health IT | 55 | none found (check myvisajobs) | Nov 09 16:44 ET |
-| 24 | Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
-| 25 | Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
-| 26 | WSP | Environmental Data Analytics Specialist | 54 | 7 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 27 | TikTok | Research Scientist Graduate (TikTok - Data - Search - Visual Search) - 2027 Start (PhD) | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 28 | TikTok | Research Scientist Graduate (TikTok - Data - Search - Search Quality) - 2027 Start (PhD) | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 29 | Philips | Research Scientist - Computed Tomography (Orange, OH) | 52 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 30 | Philips | Research Scientist-Computed Tomography | 52 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 31 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 32 | University of Kansas Medical Center | Research Assistant – Neurology | 50 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 33 | JP Morgan Chase | Portfolio and Performance Analyst - Associate | 50 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 34 | Lunar Outpost | Full Stack AI Engineer | 50 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 35 | Generalist | Research Assistant | 50 | none found (check myvisajobs) | Nov 09 17:35 ET |
-| 36 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
-| 37 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 38 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 39 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
-| 40 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
-| 41 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 42 | Hospital for Special Surgery (HSS) | Research Assistant I - Motion Analysis Lab | 45 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 43 | ONE Finance | Marketing Analytics - Lifecycle | 45 | none found (check myvisajobs) | Nov 09 17:19 ET |
-| 44 | Amazon | Data Scientist I, NEST | 45 | 3890 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 45 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
-| 46 | Relay Financial | Credit Risk Analyst | 44 | none found (check myvisajobs) | Nov 09 11:19 ET |
-| 47 | JP Morgan Chase | External Regulatory Reporting Analyst | 44 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 48 | Church & Dwight | Data Engineer | 44 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 49 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 50 | US Foods | Pricing Analyst, 100% Onsite, Raleigh | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 51 | The New School | Research Assistant – Social Media & Audience Growth | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 52 | University of Mississippi Medical Center | Research Associate | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
-| 53 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 09 16:55 ET |
-| 54 | Georgetown University | HRC Oral History Research Associate, Georgetown Institute for Women, Peace and Security (GIWPS), Walsh School of Foreign Service (SFS) | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 17 | American Institutes for Research | Research Assistant, Learning Supports | 62 | 8 in data/analytics/finance occupations | Nov 09 22:08 ET |
+| 18 | American Institutes for Research | Research Associate, Learning Supports | 62 | 8 in data/analytics/finance occupations | Nov 09 22:08 ET |
+| 19 | GTS | Job Title Quantitative Researcher, Algorithmic Trading | 60 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 20 | Anglian Water | Demand Reporting Data Scientist | 60 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 21 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 08 12:11 ET |
+| 22 | Smarkets | Data Engineer | 55 | none found (check myvisajobs) | Nov 09 03:49 ET |
+| 23 | Repligen | AI Engineer I | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 24 | Persona AI | Robotics Machine Learning Engineer | 55 | none found (check myvisajobs) | Nov 09 16:13 ET |
+| 25 | Rackner | Telemetry & Performance Data Analyst-Federal Health IT | 55 | none found (check myvisajobs) | Nov 09 16:44 ET |
+| 26 | Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 27 | Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory | 54 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 28 | WSP | Environmental Data Analytics Specialist | 54 | 7 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 29 | TikTok | Research Scientist Graduate (TikTok - Data - Search - Visual Search) - 2027 Start (PhD) | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 30 | TikTok | Research Scientist Graduate (TikTok - Data - Search - Search Quality) - 2027 Start (PhD) | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 31 | Philips | Research Scientist - Computed Tomography (Orange, OH) | 52 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 32 | Philips | Research Scientist-Computed Tomography | 52 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 33 | Regions Bank | Business Unit Operational Risk Analyst | 50 | 22 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 34 | University of Kansas Medical Center | Research Assistant – Neurology | 50 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 35 | JP Morgan Chase | Portfolio and Performance Analyst - Associate | 50 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 36 | Lunar Outpost | Full Stack AI Engineer | 50 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 37 | Generalist | Research Assistant | 50 | none found (check myvisajobs) | Nov 09 17:35 ET |
+| 38 | Emory University | Job Title Associate Academic Research Scientist | School of Medicine - Pediatrics, Emory LOBP | 50 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 39 | Verne Robotics | Founding Research Scientist | 47 | none found (check myvisajobs) | Nov 08 21:34 ET |
+| 40 | NewDay | Associate Business Analytics Analyst | 47 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 41 | BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 42 | Prysmian Cables & Systems | Medium IT Business Intelligence Analyst | 45 | none found (check myvisajobs) | Nov 08 (board gives the date only) |
+| 43 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 08 (board gives the date only) |
+| 44 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 45 | Hospital for Special Surgery (HSS) | Research Assistant I - Motion Analysis Lab | 45 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 46 | ONE Finance | Marketing Analytics - Lifecycle | 45 | none found (check myvisajobs) | Nov 09 17:19 ET |
+| 47 | Amazon | Data Scientist I, NEST | 45 | 3890 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 48 | Valeo | AI Engineer | 44 | 1 in data/analytics/finance occupations | Nov 08 (board gives the date only) |
+| 49 | Relay Financial | Credit Risk Analyst | 44 | none found (check myvisajobs) | Nov 09 11:19 ET |
+| 50 | JP Morgan Chase | External Regulatory Reporting Analyst | 44 | 1098 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 51 | Church & Dwight | Data Engineer | 44 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 52 | Emory University | Job Title Research Scientist- School of Medicine, Pulmonary | 40 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 53 | US Foods | Pricing Analyst, 100% Onsite, Raleigh | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 54 | The New School | Research Assistant – Social Media & Audience Growth | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 55 | University of Mississippi Medical Center | Research Associate | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 56 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 09 16:55 ET |
+| 57 | Georgetown University | HRC Oral History Research Associate, Georgetown Institute for Women, Peace and Security (GIWPS), Walsh School of Foreign Service (SFS) | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
 
 ---
 
@@ -455,7 +458,35 @@ Physical Commodity Integrations Analyst in West Des Moines, Iowa | Careers at We
 
 ---
 
-## 17. [MAYBE] GTS | Job Title Quantitative Researcher, Algorithmic Trading
+## 17. [MAYBE] American Institutes for Research | Research Assistant, Learning Supports
+- Link: https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5476923008
+- Location: US-Remote | US-VA-Arlington | US-NC-Chapel Hill | US-IL-Chicago | US-CA-Sacramento | US-TX-Austin
+- Posted: Nov 09 22:08 ET
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 8 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, r, fraud, git, portfolio, quantitative, reporting, research | Lacks: -
+
+### Job description
+
+AIR is seeking a Research Assistant for its Learning Supports program. This position will support a growing portfolio of research focused on improving student learning outcomes, including projects related to instruction, education technology, leadership development, and supports for special populations such as English learners and students with disabilities. The ideal candidate will bring enthusiasm for communicating about project and organizational initiatives and contributing broadly across program activities. The position will support multiple projects simultaneously and requires strong collaboration, communication, and organizational skills.&nbsp; This position has the flexibility to work remotely within the United States (U.S.) or from one of AIR's U.S. office locations. This does not include U.S. territories. Candidates must be willing to travel.&nbsp; About AIR:&nbsp; Founded in 1946 and headquartered in Arlington, Virginia, the American Institutes for Research (AIR) is a nonpartisan, not-for-profit organization that conducts behavioral and social science research and delivers technical assistance to address some of the most pressing challenges in the United States and globally. We generate evidence and apply data-driven solutions that expand opportunities and improve lives for all.&nbsp; Responsibilities: The responsibilities for the position include:&nbsp; Conduct literature reviews to support research projects and proposal development activities.&nbsp; Prepare and clean data for analysis, including renaming variables, generating derived variables, and reviewing datasets for errors and missing values.&nbsp; Code and review studies for research synthesis and evidence review projects.&nbsp; Conduct quantitative and qualitative analyses and contribute to the reporting and interpretation of findings.&nbsp; Support efforts to recruit and engage schools and districts in research studies, including conducting outreach, building relationships, and coordinating recruitment activities.&nbsp; Serve as a primary point of contact for schools and teachers, providing ongoing communication and coordination related to study data collection activities.&nbsp; Develop and maintain spreadsheets, databases, and tracking tools to support project activities.&nbsp; Support business development efforts by researching funding opportunities, conducting literature reviews, and contributing to proposal development.&nbsp; Assist in identifying, reviewing, and developing scholarly materials that communicate research findings.&nbsp; Prepare research products, presentations, and communication materials for delivery and dissemination.&nbsp; Qualifications: Education, Knowledge, and Experience Bachelor’s degree in the social sciences or a related field. Knowledge of or experience with research methodologies and data collection approaches, such as research synthesis screening, survey design, structured interviews, observations, and focus groups. Experience with or interest in learning communication tools and strategies, including social media platforms. Experience with or interest in learning software programs such as NVivo, R, or Stata for data analysis is preferred, but not required. Skills Strong attention to detail and commitment to accuracy in data collection, analysis, and report preparation. Ability to work independently and collaboratively within a team environment. Proficiency with Microsoft Office Suite. Ability to manage multiple priorities and projects simultaneously. Effective communication skills and the ability to collaborate efficiently in a virtual work environment. Excellent organizational and time management skills. Ability to work and communicate effectively with project stakeholders and external partners. Disclosures: Applicants must be currently authorized to work in the U.S. on a full-time basis. Employment-based visa sponsorship (including H-1B sponsorship) is not available for this position. Depending on project work, qualified candidates may need to meet certain residency requirements. American Institutes for Research
+
+---
+
+## 18. [MAYBE] American Institutes for Research | Research Associate, Learning Supports
+- Link: https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5476961008
+- Location: US-Remote | US-VA-Arlington | US-NC-Chapel Hill | US-IL-Chicago | US-CA-Sacramento | US-TX-Austin
+- Posted: Nov 09 22:08 ET
+- Scanner fit: ~62 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 8 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, r, fraud, git, portfolio, quantitative, reporting, research | Lacks: -
+
+### Job description
+
+AIR is seeking a Research Associate with experience in education research and interest in the application of emerging educational technologies. This position will support a growing portfolio of research, including projects focused on understanding the role AI technologies play in educational opportunities, teaching practices, and student outcomes. The ideal candidate will bring excitement for continuing to develop skills in research and evaluation, and communicating about the work in creative ways. The position will contribute to multiple projects, with a particular emphasis on quantitative and qualitative data collection, processing, basic analysis, and interpretation and dissemination of findings. We seek a collaborative and intellectually curious professional who is excited to contribute to rigorous, actionable research that explores emerging opportunities and challenges in education.&nbsp; This position has the flexibility to work remotely within the United States (U.S.) or from one of AIR’s U.S. office locations. This does not include U.S. territories.&nbsp; About AIR:&nbsp; Founded in 1946 and headquartered in Arlington, Virginia, the American Institutes for Research (AIR) is a nonpartisan, not-for-profit organization that conducts behavioral and social science research and delivers technical assistance to address some of the most pressing challenges in the United States and globally. We generate evidence and apply data-driven solutions that expand opportunities and improve lives for all. Responsibilities: The responsibilities for the position include:&nbsp; Prepare and assist with primary source data collection including through interviews, focus groups, surveys, usage data from educational technology applications, school administrative records, and publicly available data.&nbsp; Serve as a primary point of contact for schools and teachers, providing ongoing communication and coordination related to study data collection activities. Review and process qualitative and quantitative data, including following data procedures to prepare data for analyses.&nbsp; Conduct basic descriptive analyses of quantitative or qualitative research data and contribute to the reporting and interpretation of findings.&nbsp; Prepare documents, portions of reports, briefs, charts, and graphs that describe and interpret findings of analyses.&nbsp; Support project management tasks, including developing project timelines, coordinating meetings, and tracking project progress.&nbsp; Support recruitment of research participants, including developing promotional materials and conducting outreach to school districts.&nbsp; Interest and experience supporting proposal writing and business development activities.&nbsp; Qualifications: Education, Knowledge, and Experience Bachelor’s degree with 2+ years of experience, or a Master’s degree in the social sciences or related fields.&nbsp; Experience collecting and processing quantitative or qualitative data, preferably in educational contexts.&nbsp; Experience conducting quantitative or qualitative analysis, including using data analysis software programs (i.e., Stata, R, NVivo, Dedoose).&nbsp; Interest in the role of AI in education.&nbsp; Experience with classroom teaching or working with education stakeholders, such as school districts, educators, or program and professional development providers is a plus.&nbsp; Passion for bringing evidence to bear on education policy, practice, and decision-making in education.&nbsp;&nbsp; Skills Strong attention to detail and commitment to accuracy in data collection, analysis, and report preparation.&nbsp; Ability to work independently and collaboratively within a team environment.&nbsp; Proficiency with Microsoft Office Suite.&nbsp; Ability to manage multiple priorities and projects simultaneously.&nbsp; Effective communication skills and the ability to collaborate efficiently in a virtual work environment.&nbsp; Excellent organizational and time management skills.&nbsp; Ability to work and communicate effectively with project stakeholders and external partners.&nbsp; Disclosures: Applicants must be currently authorized to work in the U.S. on a full-time basis. Employment-based visa sponsorship (including H-1B sponsorship) is not available for this position. Depending on project work, qualified candidates may need to meet certain residency requirements. American Institutes for Research
+
+---
+
+## 19. [MAYBE] GTS | Job Title Quantitative Researcher, Algorithmic Trading
 - Link: https://careers-gtsx.icims.com/jobs/1628/quantitative-researcher%2c-algorithmic-trading/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -469,7 +500,7 @@ Careers | GTS | Quantitative Researcher, Algorithmic Trading in New York, New Yo
 
 ---
 
-## 18. [MAYBE] Anglian Water | Demand Reporting Data Scientist
+## 20. [MAYBE] Anglian Water | Demand Reporting Data Scientist
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Demand-Reporting-Data-Scientist_R40770
 - Location: 2 Locations
 - Posted: Nov 08 (board gives the date only)
@@ -483,7 +514,7 @@ Circa £43,344 (depending on Skills & Experience) Permanent Full Time / 37 Hours
 
 ---
 
-## 19. [MAYBE] Clera | Founding Applied AI Engineer
+## 21. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/ac506f1a-80de-45db-8015-6d70ff90a130
 - Location: San Francisco United States
 - Posted: Nov 08 12:11 ET
@@ -539,7 +570,7 @@ On-site in San Francisco, California. Candidates must be based in or willing to 
 
 ---
 
-## 20. [MAYBE] Smarkets | Data Engineer
+## 22. [MAYBE] Smarkets | Data Engineer
 - Link: https://jobs.ashbyhq.com/smarkets/3038bed9-d75e-45b9-9283-9db6b4ab93f8
 - Location: London United Kingdom remote
 - Posted: Nov 09 03:49 ET
@@ -681,7 +712,7 @@ These include:
 
 ---
 
-## 21. [MAYBE] Repligen | AI Engineer I
+## 23. [MAYBE] Repligen | AI Engineer I
 - Link: https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Waltham-MA/AI-Engineer-I_R-971
 - Location: Waltham, MA
 - Posted: Nov 09 (board gives the date only)
@@ -695,7 +726,7 @@ Job Summary Make a global impact—join Repligen. We’re united by a mission to
 
 ---
 
-## 22. [MAYBE] Persona AI | Robotics Machine Learning Engineer
+## 24. [MAYBE] Persona AI | Robotics Machine Learning Engineer
 - Link: https://jobs.ashbyhq.com/persona.ai/bf7d9341-e4cd-4bd9-be47-dc420dcd09b2
 - Location: Houston, TX United States
 - Posted: Nov 09 16:13 ET
@@ -709,7 +740,7 @@ Job Summary Make a global impact—join Repligen. We’re united by a mission to
 
 ---
 
-## 23. [MAYBE] Rackner | Telemetry & Performance Data Analyst-Federal Health IT
+## 25. [MAYBE] Rackner | Telemetry & Performance Data Analyst-Federal Health IT
 - Link: https://job-boards.greenhouse.io/rackner/jobs/4752908005
 - Location: Remote
 - Posted: Nov 09 16:44 ET
@@ -723,7 +754,7 @@ Telemetry &amp; Performance Data Analyst-Federal Health IT Location: Remote (US)
 
 ---
 
-## 24. [MAYBE] Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory
+## 26. [MAYBE] Texas A&M University - College Station | Assistant Research Scientist, Joint Microscopy Laboratory
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/Bryan-TX/Assistant-Research-Scientist--Joint-Microscopy-Laboratory_R-098650-1
 - Location: Bryan, TX
 - Posted: Nov 09 (board gives the date only)
@@ -737,7 +768,7 @@ Job Title Assistant Research Scientist, Joint Microscopy Laboratory Agency Texas
 
 ---
 
-## 25. [MAYBE] Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory
+## 27. [MAYBE] Texas A&M University System | Assistant Research Scientist, Joint Microscopy Laboratory
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Bryan-TX/Assistant-Research-Scientist--Joint-Microscopy-Laboratory_R-098650
 - Location: Bryan, TX
 - Posted: Nov 09 (board gives the date only)
@@ -751,7 +782,7 @@ Job Title Assistant Research Scientist, Joint Microscopy Laboratory Agency Texas
 
 ---
 
-## 26. [MAYBE] WSP | Environmental Data Analytics Specialist
+## 28. [MAYBE] WSP | Environmental Data Analytics Specialist
 - Link: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98898
 - Location: Redmond, WA, United States US Seattle, WA, United States Portland, OR, United States
 - Posted: Nov 09 (board gives the date only)
@@ -765,7 +796,7 @@ This Opportunity WSP is currently initiating a search for an Environmental Data 
 
 ---
 
-## 27. [MAYBE] TikTok | Research Scientist Graduate (TikTok - Data - Search - Visual Search) - 2027 Start (PhD)
+## 29. [MAYBE] TikTok | Research Scientist Graduate (TikTok - Data - Search - Visual Search) - 2027 Start (PhD)
 - Link: https://lifeattiktok.com/search/7667346535273007413
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -797,7 +828,7 @@ Preferred Qualification(s)
 
 ---
 
-## 28. [MAYBE] TikTok | Research Scientist Graduate (TikTok - Data - Search - Search Quality) - 2027 Start (PhD)
+## 30. [MAYBE] TikTok | Research Scientist Graduate (TikTok - Data - Search - Search Quality) - 2027 Start (PhD)
 - Link: https://lifeattiktok.com/search/7665793152026740997
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -831,7 +862,7 @@ Preferred Qualification(s)
 
 ---
 
-## 29. [MAYBE] Philips | Research Scientist - Computed Tomography (Orange, OH)
+## 31. [MAYBE] Philips | Research Scientist - Computed Tomography (Orange, OH)
 - Link: https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Research-Scientist---Computed-Tomography--Orange--OH-_586925
 - Location: 3 Locations
 - Posted: Nov 09 (board gives the date only)
@@ -845,7 +876,7 @@ Job Title Research Scientist - Computed Tomography (Orange, OH) Job Description 
 
 ---
 
-## 30. [MAYBE] Philips | Research Scientist-Computed Tomography
+## 32. [MAYBE] Philips | Research Scientist-Computed Tomography
 - Link: https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Research-Scientist-Computed-Tomography_586922
 - Location: Orange (OH), Ohio, United States
 - Posted: Nov 09 (board gives the date only)
@@ -859,7 +890,7 @@ Job Title Research Scientist-Computed Tomography Job Description As an important
 
 ---
 
-## 31. [MAYBE] Regions Bank | Business Unit Operational Risk Analyst
+## 33. [MAYBE] Regions Bank | Business Unit Operational Risk Analyst
 - Link: https://regions.wd5.myworkdayjobs.com/regions_careers/job/Charlotte-NC---Charlotte-Uptown-Branch/Business-Unit-Operational-Risk-Analyst_R107241
 - Location: 2 Locations
 - Posted: Nov 08 (board gives the date only)
@@ -873,7 +904,7 @@ Thank you for your interest in a career at Regions. At Regions, we believe assoc
 
 ---
 
-## 32. [MAYBE] University of Kansas Medical Center | Research Assistant – Neurology
+## 34. [MAYBE] University of Kansas Medical Center | Research Assistant – Neurology
 - Link: https://kumc.wd5.myworkdayjobs.com/kumc-jobs/job/Kansas-City-Metro-Area/Research-Assistant---Neurology_JR010738
 - Location: Kansas City Metro Area
 - Posted: Nov 08 (board gives the date only)
@@ -887,7 +918,7 @@ Department: SOM KC Neurology ----- ICU Position Title: Research Assistant – Ne
 
 ---
 
-## 33. [MAYBE] JP Morgan Chase | Portfolio and Performance Analyst - Associate
+## 35. [MAYBE] JP Morgan Chase | Portfolio and Performance Analyst - Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807255
 - Location: Brooklyn, NY, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -901,7 +932,7 @@ Join J.P. Morgan Asset & Wealth Management’s (JPMWM) Portfolio Analysis Group 
 
 ---
 
-## 34. [MAYBE] Lunar Outpost | Full Stack AI Engineer
+## 36. [MAYBE] Lunar Outpost | Full Stack AI Engineer
 - Link: https://lunaroutpost.bamboohr.com/careers/408
 - Location: Golden Colorado
 - Posted: new since the previous sweep (board shows no date)
@@ -915,7 +946,7 @@ Are you passionate about shaping the future of humanity's presence in spac e ? L
 
 ---
 
-## 35. [MAYBE] Generalist | Research Assistant
+## 37. [MAYBE] Generalist | Research Assistant
 - Link: https://jobs.ashbyhq.com/generalist/8641eb18-ca38-415c-81d2-fdfab61e0023
 - Location: San Francisco Bay Area (San Mateo) United States
 - Posted: Nov 09 17:35 ET
@@ -1002,7 +1033,21 @@ YOU MIGHT THRIVE IN THIS ROLE IF YOU:
 
 ---
 
-## 36. [MAYBE] Verne Robotics | Founding Research Scientist
+## 38. [MAYBE] Emory University | Job Title Associate Academic Research Scientist | School of Medicine - Pediatrics, Emory LOBP
+- Link: https://staff-emory.icims.com/jobs/175849/associate-academic-research-scientist-%7c-school-of-medicine---pediatrics%2c-emory-lobp/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~50 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, classification, reporting, research, validation | Lacks: -
+
+### Job description
+
+Emory Careers | Associate Academic Research Scientist | School of Medicine - Pediatrics, Emory LOBP in Atlanta, Georgia | Careers at Emory Campus-Clifton Corridor Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log back in! Associate Academic Research Scientist | School of Medicine - Pediatrics, Emory LOBP Job Number 175849 Job Type Regular Full-Time Division School Of Medicine Department SOM: Peds: Emory LOBP Job Category Laboratory Research Campus Location (For Posting) : Location US-GA-Atlanta Location : Name Emory Campus-Clifton Corridor Remote Work Classification No Remote Health and Safety Information Working in a laboratory, Working with human blood, body fluids, tissues, or other potentially infectious materials Discover Your Career at Emory University Emory University is a leading research university that fosters excellence and attracts world-class talent to innovate today and prepare leaders for the future. We welcome candidates who can contribute to the excellence of our academic community. Description The Associate Research Scientist will serve as a core scientific contributor within the Schinazi Lab, a premier antiviral drug discovery and development program focused on HIV, hepatitis B, herpesviruses, and emerging viral pathogens including flaviviruses, Mpox enterivuses and noroviruses. The laboratory employs a multidisciplinary team spanning medicinal chemistry, virology, molecular biology, toxicology, pharmacology, and immunology, with a track record of advancing compounds from bench to FDA approval. This role is designed for a scientist with strong hands-on laboratory expertise in cellular and molecular virology who can independently execute complex experimental workflows supporting antiviral assay development, drug efficacy testing, and in vivo evaluation in rodents. The successful candidate will contribute to assay validation, data rigor, documentation, and the training of junior personnel within a highly collaborative, high-throughput research environment. The Associate Academic Research Scientist performs a wide range of highly technical and complex research duties and has documented scientific achievements and increasing technical, management, leadership, and professional expertise necessary to advance basic and/or translational research programs. KEY RESPONSIBILITIES: Demonstrated knowledge of research and experimental platforms for analyzing, design and interpreting results Investigates and recommends potential alternative approaches to improve the quality of results of basic and/or translational research. Demonstrates increased responsibility through management of teams and leadership of scientific projects by applying advanced knowledge, skills, and input necessary for protocol development, as well as facilitating in some training aspects of other team members. Aids in writing IACUC, IRB, Biosafety and other approval documents. Oversees quality assurance of research conducted by other team members. May assist in grant and other funding applications as necessary and appropriate, or with approval of the responsible faculty director, may have their own research projects and/or have full responsibilities for specific areas of instrumentation or methodology development and user support. With the approval of the responsible faculty director, may be principal investigators on funded proposals. Performs other responsibilities as required. ADDITIONAL JOB DETAILS: Experimental Research & Technical Execution Independently perform a broad range of molecular, cellular, and virological techniques in support of antiviral drug discovery and mechanism-of-action studies. Execute complex experiments with precision and reproducibility, including antiviral efficacy assays, cytotoxicity testing, and viral replication inhibition studies, adhering to established protocols and SOPs. Culture and maintain mammalian cell lines, produce and quantify viral stocks, and perform downstream molecular analyses (e.g., nucleic acid purification, qPCR, Western blotting, immunoassays). Troubleshoot routine and moderately complex experimental challenges and recommend practical solutions to improve assay performance and workflow efficiency. Documentation, Reporting & Scientific Communication Prepare and maintain technical documentation, including protocols, SOPs, study records, and technical reports. Analyze and interpret experimental results; prepare charts, graphs, and written summaries for internal review, team meetings, and presentations. Contribute to manuscript preparation and scientific presentations as appropriate. Laboratory Operations & Compliance Support workflow coordination, inventory and supply management, and equipment upkeep within a large, multi-lab research environment. Ensure compliance with biosafety requirements, including work in BSL-2+ and BSL-3 settings as applicable, and adhere to institutional and regulatory guidelines. Maintain proper handling, storage, and disposal of biological and hazardous materials. MINIMUM QUALIFICATIONS: PhD or MD and five years of professional level experience OR Master's degree and ten years of professional level experience in a technical or research lab. Laboratory experience will be based on area of assignment. Internship experience or experience prior to attaining the qualifying degree is not considered eligible work experience for this job classification. NOTE: Applicants applying with a M.D. or equivalent degree must be eligible for a Georgia medical license to meet the minimum qualifications. PREFERRED QUALIFICATIONS: Education: PhD in Virology, Molecular Biology, Cellular Biology, Microbiology, or a closely related discipline; or Master's degree with substantial equivalent research experience. Experience: 3–5 years of progressively responsible laboratory research experience in virology, antiviral research, or a related field, including independent execution of complex experimental workflows. Technical Proficiency: Demonstrated competence in mammalian cell culture, viral propagation and quantification, molecular assays (e.g., qPCR, Western blotting, ELISA), and immunoassays. Regulatory Familiarity: Working knowledge of biosafety practices (BSL-2+ required; BSL-3 experience preferred), laboratory safety, and research compliance requirements. Communication: Strong written and verbal scientific communication skills, including documentation and presentation abilities. Collaboration: Proven ability to work within multidisciplinary teams and to mentor junior personnel. Organizational Skills: High attention to detail, strong time-management abilities, and a methodical approach to experimental work in a fast-paced research environment. Maintains a high code of ethics. NOTE: Position tasks are required to be performed in-person at an Emory University location; working remote is n [...]
+
+---
+
+## 39. [MAYBE] Verne Robotics | Founding Research Scientist
 - Link: https://jobs.ashbyhq.com/Verne/cad20f9e-413b-45c4-b803-f949c225be44
 - Location: San Francisco United States
 - Posted: Nov 08 21:34 ET
@@ -1078,7 +1123,7 @@ Help build models that learn real jobs and robots that perform them reliably. In
 
 ---
 
-## 37. [MAYBE] NewDay | Associate Business Analytics Analyst
+## 40. [MAYBE] NewDay | Associate Business Analytics Analyst
 - Link: https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Associate-Business-Analytics-Analyst_JR0726
 - Location: Leeds
 - Posted: Nov 08 (board gives the date only)
@@ -1092,7 +1137,7 @@ This role is a great opportunity to use data and insight to help shape how our C
 
 ---
 
-## 38. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
+## 41. [MAYBE] BRG | Forensic Consultant - IT Forensics, eDiscovery, Data Analytics & AI
 - Link: https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Dusseldorf-GER/Forensic-Consultant---IT-Forensics--eDiscovery--Data-Analytics---AI_JR101237
 - Location: Dusseldorf, GER
 - Posted: Nov 08 (board gives the date only)
@@ -1106,7 +1151,7 @@ We Do Consulting Differently Open to all genders (m/f/d) About the role We are s
 
 ---
 
-## 39. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
+## 42. [MAYBE] Prysmian Cables & Systems | Medium IT Business Intelligence Analyst
 - Link: https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Milcov/Medium-IT-Business-Intelligence-Analyst_R-38436
 - Location: Milcov
 - Posted: Nov 08 (board gives the date only)
@@ -1120,7 +1165,7 @@ Job Title CoE SAP BI Business Analyst Responsibilities and Main Duties SAP BW/4H
 
 ---
 
-## 40. [MAYBE] University of Southern California | Research Associate
+## 43. [MAYBE] University of Southern California | Research Associate
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Research-Associate_REQ20182670
 - Location: Los Angeles, CA - Health Sciences Campus
 - Posted: Nov 08 (board gives the date only)
@@ -1134,7 +1179,7 @@ The USC Department of Orthopaedic Surgery is seeking a Research Associate to ass
 
 ---
 
-## 41. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 44. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804910
 - Location: Plano, TX, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -1148,7 +1193,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 42. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I - Motion Analysis Lab
+## 45. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I - Motion Analysis Lab
 - Link: https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Research-Assistant-I---Motion-Analysis-Lab_JR2026-106160-1
 - Location: New York, NY
 - Posted: Nov 09 (board gives the date only)
@@ -1162,7 +1207,7 @@ How you move is why we’re here. ® Now more than ever. Get back to what you ne
 
 ---
 
-## 43. [MAYBE] ONE Finance | Marketing Analytics - Lifecycle
+## 46. [MAYBE] ONE Finance | Marketing Analytics - Lifecycle
 - Link: https://jobs.ashbyhq.com/oneapp/081e8d3b-09d0-4127-a032-ef1f39d25d1a
 - Location: United States (Remote) USA remote
 - Posted: Nov 09 17:19 ET
@@ -1271,7 +1316,7 @@ To build technology and products that are used and loved by people and solve rea
 
 ---
 
-## 44. [MAYBE] Amazon | Data Scientist I, NEST
+## 47. [MAYBE] Amazon | Data Scientist I, NEST
 - Link: https://www.amazon.jobs/en/jobs/10600616/data-scientist-i-nest
 - Location: Bellevue, Washington, USA
 - Posted: Nov 09 (board gives the date only)
@@ -1285,7 +1330,7 @@ Are you curious about turning complex data into actionable insights that shape h
 
 ---
 
-## 45. [MAYBE] Valeo | AI Engineer
+## 48. [MAYBE] Valeo | AI Engineer
 - Link: https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/AI-Engineer_REQ2026081784
 - Location: Créteil
 - Posted: Nov 08 (board gives the date only)
@@ -1299,7 +1344,7 @@ Valeo is a tech global company, designing breakthrough solutions to reinvent the
 
 ---
 
-## 46. [MAYBE] Relay Financial | Credit Risk Analyst
+## 49. [MAYBE] Relay Financial | Credit Risk Analyst
 - Link: https://jobs.ashbyhq.com/relayfi/25ee1242-658a-4ce0-8634-fdb1d20a5349
 - Location: Toronto, ON Canada remote
 - Posted: Nov 09 11:19 ET
@@ -1413,7 +1458,7 @@ Important Notice: Relay’s recruitment team only contacts candidates and corres
 
 ---
 
-## 47. [MAYBE] JP Morgan Chase | External Regulatory Reporting Analyst
+## 50. [MAYBE] JP Morgan Chase | External Regulatory Reporting Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797617
 - Location: Newark, DE, United States US
 - Posted: Nov 09 (board gives the date only)
@@ -1427,7 +1472,7 @@ Join JPMorganChase's Firmwide Regulatory Reporting & Analysis (FRRA) team, where
 
 ---
 
-## 48. [MAYBE] Church & Dwight | Data Engineer
+## 51. [MAYBE] Church & Dwight | Data Engineer
 - Link: https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/Data-Engineer_R2026-15824
 - Location: USA, Ewing, NJ
 - Posted: Nov 09 (board gives the date only)
@@ -1441,7 +1486,7 @@ A collective energy and ambition. A place where you can make a real difference. 
 
 ---
 
-## 49. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
+## 52. [MAYBE] Emory University | Job Title Research Scientist- School of Medicine, Pulmonary
 - Link: https://staff-emory.icims.com/jobs/178496/research-scientist--school-of-medicine%2c-pulmonary/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1455,7 +1500,7 @@ Emory Careers | Research Scientist- School of Medicine, Pulmonary in Atlanta, Ge
 
 ---
 
-## 50. [MAYBE] US Foods | Pricing Analyst, 100% Onsite, Raleigh
+## 53. [MAYBE] US Foods | Pricing Analyst, 100% Onsite, Raleigh
 - Link: https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Raleigh-NC/Pricing-Analyst--100--Onsite--Raleigh_R283734-1
 - Location: Raleigh NC
 - Posted: Nov 09 (board gives the date only)
@@ -1469,7 +1514,7 @@ ARE YOU A CURRENT US FOODS EMPLOYEE? PLEASE APPLY DIRECTLY THROUGH OUR INTERNAL 
 
 ---
 
-## 51. [MAYBE] The New School | Research Assistant – Social Media & Audience Growth
+## 54. [MAYBE] The New School | Research Assistant – Social Media & Audience Growth
 - Link: https://newschool.wd1.myworkdayjobs.com/external/job/L---2-West-13th-Street/Research-Assistant---Social-Media---Audience-Growth_JR110113
 - Location: L - 2 West 13th Street
 - Posted: Nov 09 (board gives the date only)
@@ -1483,7 +1528,7 @@ Faculty Laura Lanteri is looking for a strong student or junior researcher to su
 
 ---
 
-## 52. [MAYBE] University of Mississippi Medical Center | Research Associate
+## 55. [MAYBE] University of Mississippi Medical Center | Research Associate
 - Link: https://ummc.wd5.myworkdayjobs.com/UMCCareers/job/Jackson-MS/Research-Associate_R00055131-1
 - Location: Jackson, MS
 - Posted: Nov 09 (board gives the date only)
@@ -1497,7 +1542,7 @@ Hello, Thank you for your interest in career opportunities with the University o
 
 ---
 
-## 53. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
+## 56. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
 - Link: https://jobs.smartrecruiters.com/PAConsulting/744000160735969
 - Location: Chicago us
 - Posted: Nov 09 16:55 ET
@@ -1511,7 +1556,7 @@ PA's Growth Strategy team helps organizations identify opportunities for sustain
 
 ---
 
-## 54. [MAYBE] Georgetown University | HRC Oral History Research Associate, Georgetown Institute for Women, Peace and Security (GIWPS), Walsh School of Foreign Service (SFS)
+## 57. [MAYBE] Georgetown University | HRC Oral History Research Associate, Georgetown Institute for Women, Peace and Security (GIWPS), Walsh School of Foreign Service (SFS)
 - Link: https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/New-York/HRC-Oral-History-Research-Associate--Georgetown-Institute-for-Women--Peace-and-Security--GIWPS---Walsh-School-of-Foreign-Service--SFS-_JR28084
 - Location: New York
 - Posted: Nov 09 (board gives the date only)
