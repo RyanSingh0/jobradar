@@ -12,56 +12,58 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 6 | Applied Fluid Power | Master Data Analyst | 74 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
 | 7 | Handshake | Machine Learning Engineer  | 74 | none found (check myvisajobs) | Nov 10 16:36 ET |
 | 8 | Auto Club Group | Accountant / Financial Analyst | 73 | 12 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 9 | RBI | Digital Data Analyst, Burger King & Popeyes, International | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 10 | Thomson Reuters | Legal Engineer, AI Adoption | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 11 | Thomson Reuters | Legal Engineer, AI Deployment | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 12 | OU Health | Quality Data Analytics Specialist | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 13 | Pathward | Data Scientist I  | 69 | none found (check myvisajobs) | Nov 10 17:23 ET |
-| 14 | MUFG | Securities and Market Risk Data Analyst | 68 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 15 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 67 | 1098 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 16 | Motorola | Jr. Software Engineer, AI Agent Platform | 67 | 27 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 17 | NOX METALS | Purchasing Quantitative | 67 | none found (check myvisajobs) | Nov 10 17:07 ET |
-| 18 | The Home Depot | OPERATIONS BUSINESS ANALYST | 65 | 27 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 19 | Caesars Entertainment | Analyst I, Labor Analytics - Corporate (Las Vegas) | 64 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 20 | Airbus | Praktikant für Generative AI/Agentic AI (d/m/w) | 62 | 1 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 21 | Eversource Energy | Associate Analyst, Transmission (hybrid schedule) | 62 | 2 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 22 | Interdigital | Research Engineer / Scientist (Wireless + AI/ML) | 60 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 23 | Mars | Analyst, Walmart Analytics | 56 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 24 | BCBST | Business Research Analyst I | 56 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 25 | Momentive | Research scientist | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 26 | Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 27 | EVERSANA | Conversational AI Engineer  | 55 | 9 in data/analytics/finance occupations | Nov 10 13:34 ET |
-| 28 | Highmark Health | Strategy Analyst | 55 | 11 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 29 | Southern New Hampshire University | Market Research and Insights Analyst | 55 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 30 | Barclays | Business Insights & Analytics Analyst | 54 | 142 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 31 | Snap | Research Scientist, Research | 54 | 52 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 32 | Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads | 54 | 1053 in data/analytics/finance occupations | Nov 10 10:08 ET |
-| 33 | Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst | 54 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 34 | Centific | Power BI Developer | 54 | 11 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 35 | Lila Sciences | ML Research Engineer, Performance Optimization | 53 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 36 | Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation | 50 | 2 in data/analytics/finance occupations | Nov 10 09:58 ET |
-| 37 | ibotta | Analytics Engineer | 50 | 1 in data/analytics/finance occupations | Nov 10 11:53 ET |
-| 38 | Montefiore Medical Center | Research Associate I - | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 39 | Wash U | Bioinformatics Research Analyst - Neurology | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 40 | Washington University in St. Louis | Bioinformatics Research Analyst - Neurology | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 41 | BNY | Associate, Portfolio Analytics - Pipeline | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 42 | Church & Dwight | AI Engineer, R&D | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 43 | Uline | Business Intelligence Analyst | 50 | 16 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 44 | Lila Sciences | ML Research Scientist, Environments & Harnesses | 47 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 45 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 10 14:50 ET |
-| 46 | Lila Sciences | Research Scientist, Soft Matter Simulations | 47 | 1 in data/analytics/finance occupations | Nov 10 16:45 ET |
-| 47 | First American | Business Intelligence Specialist (Remote) | 46 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
-| 48 | Humana | Research Scientist, Clinical Innovation & Trend Analytics | 46 | 72 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 49 | Toyota | Snowflake & Analytics Platform Engineer | 45 | 7 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 50 | TikTok | Machine Learning Scientist Graduate (TikTok Trust and Safety) - 2027 Start (PhD) | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 51 | Integrity | Data Analyst | 45 | 5 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 52 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 53 | Lila Sciences | ML Research Scientist, Scientific Evaluations | 44 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
-| 54 | Anglian Water | Data Engineer | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
-| 55 | University of Miami | Research Associate I | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
-| 56 | Zekelman Industries | Analytics Engineer | 40 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
-| 57 | Southern Company | AMI Data Analyst | 40 | 7 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 58 | JP Morgan Chase | Asset Management - Equity Research Analyst, Industrials  - Associate | 40 | 1098 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 9 | UCSF | Data Scientist | 73 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
+| 10 | RBI | Digital Data Analyst, Burger King & Popeyes, International | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 11 | Thomson Reuters | Legal Engineer, AI Adoption | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 12 | Thomson Reuters | Legal Engineer, AI Deployment | 70 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 13 | OU Health | Quality Data Analytics Specialist | 70 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 14 | Pathward | Data Scientist I  | 69 | none found (check myvisajobs) | Nov 10 17:23 ET |
+| 15 | MUFG | Securities and Market Risk Data Analyst | 68 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 16 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 67 | 1098 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 17 | Motorola | Jr. Software Engineer, AI Agent Platform | 67 | 27 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 18 | NOX METALS | Purchasing Quantitative | 67 | none found (check myvisajobs) | Nov 10 17:07 ET |
+| 19 | The Home Depot | OPERATIONS BUSINESS ANALYST | 65 | 27 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 20 | Caesars Entertainment | Analyst I, Labor Analytics - Corporate (Las Vegas) | 64 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 21 | Airbus | Praktikant für Generative AI/Agentic AI (d/m/w) | 62 | 1 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 22 | Eversource Energy | Associate Analyst, Transmission (hybrid schedule) | 62 | 2 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 23 | Interdigital | Research Engineer / Scientist (Wireless + AI/ML) | 60 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 24 | Wells Fargo | Equity Research Associate, Software - Small & Mid-Cap | 57 | 163 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 25 | Mars | Analyst, Walmart Analytics | 56 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 26 | BCBST | Business Research Analyst I | 56 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 27 | Momentive | Research scientist | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 28 | Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty | 55 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 29 | EVERSANA | Conversational AI Engineer  | 55 | 9 in data/analytics/finance occupations | Nov 10 13:34 ET |
+| 30 | Highmark Health | Strategy Analyst | 55 | 11 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 31 | Southern New Hampshire University | Market Research and Insights Analyst | 55 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 32 | Barclays | Business Insights & Analytics Analyst | 54 | 142 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 33 | Snap | Research Scientist, Research | 54 | 52 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 34 | Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads | 54 | 1053 in data/analytics/finance occupations | Nov 10 10:08 ET |
+| 35 | Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst | 54 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 36 | Centific | Power BI Developer | 54 | 11 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 37 | Lila Sciences | ML Research Engineer, Performance Optimization | 53 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 38 | Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation | 50 | 2 in data/analytics/finance occupations | Nov 10 09:58 ET |
+| 39 | ibotta | Analytics Engineer | 50 | 1 in data/analytics/finance occupations | Nov 10 11:53 ET |
+| 40 | Montefiore Medical Center | Research Associate I - | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 41 | Wash U | Bioinformatics Research Analyst - Neurology | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 42 | Washington University in St. Louis | Bioinformatics Research Analyst - Neurology | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 43 | BNY | Associate, Portfolio Analytics - Pipeline | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 44 | Church & Dwight | AI Engineer, R&D | 50 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 45 | Uline | Business Intelligence Analyst | 50 | 16 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 46 | Lila Sciences | ML Research Scientist, Environments & Harnesses | 47 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 47 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 10 14:50 ET |
+| 48 | Lila Sciences | Research Scientist, Soft Matter Simulations | 47 | 1 in data/analytics/finance occupations | Nov 10 16:45 ET |
+| 49 | First American | Business Intelligence Specialist (Remote) | 46 | 8 in data/analytics/finance occupations | Nov 09 (board gives the date only) |
+| 50 | Humana | Research Scientist, Clinical Innovation & Trend Analytics | 46 | 72 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 51 | Toyota | Snowflake & Analytics Platform Engineer | 45 | 7 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 52 | TikTok | Machine Learning Scientist Graduate (TikTok Trust and Safety) - 2027 Start (PhD) | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 53 | Integrity | Data Analyst | 45 | 5 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 54 | University of Southern California | Research Associate | 45 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 55 | Lila Sciences | ML Research Scientist, Scientific Evaluations | 44 | 1 in data/analytics/finance occupations | Nov 10 10:37 ET |
+| 56 | Anglian Water | Data Engineer | 40 | none found (check myvisajobs) | Nov 09 (board gives the date only) |
+| 57 | University of Miami | Research Associate I | 40 | cap-exempt employer | Nov 09 (board gives the date only) |
+| 58 | Zekelman Industries | Analytics Engineer | 40 | none found (check myvisajobs) | Nov 10 (board gives the date only) |
+| 59 | Southern Company | AMI Data Analyst | 40 | 7 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 60 | JP Morgan Chase | Asset Management - Equity Research Analyst, Industrials  - Associate | 40 | 1098 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
 
 ---
 
@@ -72,6 +74,7 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 - Scanner fit: ~78 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: bigquery, dashboard, data visualization, machine learning, nlp, power bi, python, r, sql, statistic, tableau, data cleaning, data quality, healthcare | Lacks: java  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -86,6 +89,7 @@ Health Data Analyst Health Data Analyst About UHIN What if you could use your ta
 - Scanner fit: ~77 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: broad | Has: data visualization, excel, power bi, python, r, sql, statistic, tableau, git, portfolio, quantitative, research | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -100,6 +104,7 @@ Energy Research & Project Analyst in Boulder, Colorado | Careers at Boulder, Col
 - Scanner fit: ~76 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: aws, bigquery, excel, gcp, llm, machine learning, python, sql, statistic, segmentation | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -114,6 +119,7 @@ We’re building a world of health around every individual — shaping a more co
 - Scanner fit: ~75 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: machine learning, postgres, python, pytorch, sql, statistic, calibration, docker, git, pipeline, research, segmentation | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -207,6 +213,7 @@ QUALIFICATIONS
 - Scanner fit: ~74 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: aws, econometric, excel, llm, machine learning, python, spark, sql, statistic, derivatives, monte carlo, pipeline, portfolio, quantitative | Lacks: scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -221,6 +228,7 @@ At Freddie Mac, our mission of Making Home Possible is what motivates us, and it
 - Scanner fit: ~74 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: aws, dashboard, data visualization, excel, power bi, sql, data quality, git, reporting, risk, validation | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -235,6 +243,7 @@ The Master Data Analyst is Applied Fluid Power's hands-on owner of data quality 
 - Scanner fit: ~74 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: aws, gcp, llm, machine learning, nlp, python, pytorch, regression, scikit, tensorflow, classification, credit, deep learning, pipeline | Lacks: azure  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -333,6 +342,7 @@ The below benefits are for full-time US employees.
 - Scanner fit: ~73 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 12 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: broad | Has: aws, excel, python, r, sql, statistic, tableau, reporting, research | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -340,13 +350,29 @@ Job Type: Full time Exempt/Non Exempt: Salary Job Description: Location Details:
 
 ---
 
-## 9. [MAYBE] RBI | Digital Data Analyst, Burger King & Popeyes, International
+## 9. [MAYBE] UCSF | Data Scientist
+- Link: https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2516
+- Location: San Francisco, CA, United States US
+- Posted: Nov 11 (board gives the date only)
+- Scanner fit: ~73 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, llm, machine learning, python, pytorch, statistic, tensorflow, classification, deep learning, git, healthcare, pipeline, publication, quantitative | Lacks: scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Summary: The NeuroAI Lab at UCSF, led by Assistant Professor Pedro Pinheiro-Chagas, invites applications for a Data Scientist to support and advance our research initiatives at the intersection of AI and cognitive neuroscience. The successful candidate will contribute to a multidisciplinary team developing cutting-edge AI systems for the discovery, diagnosis, and care of neurodegenerative diseases. The Data Scientist will work across the lab’s core research areas, including: (1) foundation AI models that leverage large-scale clinical databases to identify disease subtypes and risk factors; (2) agentic AI decision support systems that synthesize multimodal patient data for specialist-level diagnoses; and (3) AI conversational agents for scalable clinical assessments. The role involves designing and maintaining robust data pipelines, curating and analyzing complex multimodal datasets (clinical notes, neuropsychological assessments, neuroimaging), developing and evaluating machine learning models, and contributing to research publications. The ideal candidate will have strong programming skills and experience with generative AI and traditional ML algorithms, a passion for translational research, and the ability to work effectively across disciplines. This position offers exceptional opportunities for professional growth at the forefront of health AI, with direct exposure to world-class clinical collaborators and the potential to impact real-world patient care. Department Description: The NeuroAI Lab operates at the UCSF Memory and Aging Center-Department of Neurology - Weill Institute for Neuroscience . We are also affiliated with the Bakar Computational Health Sciences Institute and the Center for Intelligent Imaging (ci2) . % of time Essential Function (Yes/No ) Key Responsibilities (To be completed by Supervisor) 20% Plans long-term statistical studies, including the preparation of proposals, design of survey instruments and determining sampling procedures. 20% Gathers, analyzes, prepares and summarizes the collection of information and data; recommends statistical approaches, trends, sources and uses. 5% Prepares data for presentation. 10% Identifies multivariate strategies. 5% Prepares reports of studies for internal validation and cross validation studies. 5% Analyzes the interrelationships of data and defines logical aspects of data sets. 10% Develops systems for organizing data to analyze, identify and report trends. 10% Manages database of research data for projects. 5% Reviews new software instruments and potential effects on statistical testing. May make programming modifications. 5% Participates in development and implementation of data security policies and procedures. 5% Keeps abreast of technical advances in storage, documentation and dissemination of computerized data. 0 0 0 0 100% (To update total %, enter the amount of time in whole numbers (without the % symbol - e.g., 15, 20) then highlight the total sum (e.g., 1%) at the bottom of the column and press F9. The total sum should add up to 100%.) Required Qualifications: Bachelor’s degree in related area and / or equivalent experience / training. Proficiency in Python, with demonstrated experience in data analysis, machine learning, and statistical modeling. Experience building and maintaining data pipelines, integrating APIs, and working with large-scale datasets. Familiarity with version control (Git) and collaborative software development practices. Strong analytical and problem-solving skills, with the ability to work independently and manage multiple projects. Excellent written and verbal communication skills. Preferred Qualifications: Master’s or Ph.D. in Computer Science, Data Science, Biomedical Informatics, Computational Neuroscience, Biostatistics, or a related quantitative field. Experience with LLMs. Familiarity with clinical, cognitive, or health-related datasets (e.g., electronic health records, neuroimaging, neuropsychological assessments). Knowledge of data security, privacy, and regulatory standards for clinical applications (e.g., HIPAA compliance). Experience with deep learning frameworks (PyTorch, TensorFlow) and cloud computing platforms. Track record of peer-reviewed publications or contributions to open-source projects. Interest in or experience with agentic AI architectures, retrieval-augmented generation (RAG), or multi-agent systems. Ability to thrive in a fast-paced, multidisciplinary research environment. About UCSF The University of California, San Francisco (UCSF) is a leading university dedicated to promoting health worldwide through advanced biomedical research, graduate-level education in the life sciences and health professions, and excellence in patient care. It is the only campus in the 10-campus UC system dedicated exclusively to the health sciences. We bring together the world’s leading experts in nearly every area of health. We are home to five Nobel laureates who have advanced the understanding of cancer, neurodegenerative diseases, aging and stem cells. Pride Values UCSF is a diverse community made of people with many skills and talents. We seek candidates whose work experience or community service has prepared them to contribute to our commitment to professionalism, respect, integrity, diversity and excellence – also known as our PRIDE values . In addition to our PRIDE values, UCSF is committed to equity – both in how we deliver care as well as our workforce. We are committed to building a broadly diverse community, nurturing a culture that is welcoming and supportive, and engaging diverse ideas for the provision of culturally competent education, discovery, and patient care. Additional information about UCSF is available here . Join us to find a rewarding career contributing to improving healthcare worldwide. Equal Employment Opportunity The University of California
+
+---
+
+## 10. [MAYBE] RBI | Digital Data Analyst, Burger King & Popeyes, International
 - Link: https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Lucerne-Corporate-Office/Digital-Data-Analyst--Burger-King---Popeyes--International_R4071
 - Location: Corp - Lucerne Corporate Office
 - Posted: Nov 09 (board gives the date only)
 - Scanner fit: ~70 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: aws, dashboard, excel, machine learning, sql, git, quantitative, reporting, segmentation | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -354,13 +380,14 @@ Ready to make your next big professional move? Join us on our journey to achieve
 
 ---
 
-## 10. [MAYBE] Thomson Reuters | Legal Engineer, AI Adoption
+## 11. [MAYBE] Thomson Reuters | Legal Engineer, AI Adoption
 - Link: https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/AI-Solutions-Architect_JREQ204513
 - Location: see posting
 - Posted: Nov 09 (board gives the date only)
 - Scanner fit: ~70 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 8 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: broad | Has: aws, excel, llm, python, classification, credit, fraud, portfolio, research, risk | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -368,13 +395,14 @@ Job Description As an Legal Engineer, AI Adoption , you will help law firm custo
 
 ---
 
-## 11. [MAYBE] Thomson Reuters | Legal Engineer, AI Deployment
+## 12. [MAYBE] Thomson Reuters | Legal Engineer, AI Deployment
 - Link: https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Legal-AI-Engineer_JREQ204512
 - Location: see posting
 - Posted: Nov 09 (board gives the date only)
 - Scanner fit: ~70 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 8 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: broad | Has: aws, excel, llm, python, classification, credit, fraud, portfolio, research, risk | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -382,13 +410,14 @@ Job Description As a Legal Engineer, AI Deployment , you will help law firm cust
 
 ---
 
-## 12. [MAYBE] OU Health | Quality Data Analytics Specialist
+## 13. [MAYBE] OU Health | Quality Data Analytics Specialist
 - Link: https://oumedicine.wd5.myworkdayjobs.com/OUHealthCareers/job/WFH-State-of-Oklahoma/Quality-Data-Analyst_R0067038
 - Location: 4 Locations
 - Posted: Nov 09 (board gives the date only)
 - Scanner fit: ~70 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: dashboard, power bi, python, sql, statistic, tableau, healthcare, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -396,13 +425,14 @@ Position Title: Quality Data Analytics Specialist Department: Quality Data Repor
 
 ---
 
-## 13. [MAYBE] Pathward | Data Scientist I 
+## 14. [MAYBE] Pathward | Data Scientist I 
 - Link: https://job-boards.greenhouse.io/pathward/jobs/6254370004
 - Location: Remote
 - Posted: Nov 10 17:23 ET
 - Scanner fit: ~69 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: aws, power bi, python, sql, statistic, credit, data quality, fraud, git, portfolio, quantitative, reporting, research, risk | Lacks: snowflake  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -410,13 +440,14 @@ We are a hybrid, remote-office company dedicated to growing our talent anywhere!
 
 ---
 
-## 14. [MAYBE] MUFG | Securities and Market Risk Data Analyst
+## 15. [MAYBE] MUFG | Securities and Market Risk Data Analyst
 - Link: https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Jersey-City-NJ/Securities-and-Market-Risk-Data-Analyst_10079331-WD
 - Location: Jersey City, NJ
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~68 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: aws, dashboard, excel, sql, credit, data quality, futures, reporting, risk | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -424,13 +455,14 @@ Do you want your voice heard and your actions to count? Discover your opportunit
 
 ---
 
-## 15. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
+## 16. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803400
 - Location: New York, NY, United States US
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~67 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: broad | Has: excel, python, sql, statistic, portfolio, quantitative, research, trading | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -438,13 +470,14 @@ Be part of a team where your expertise in finance and technology drives accurate
 
 ---
 
-## 16. [MAYBE] Motorola | Jr. Software Engineer, AI Agent Platform
+## 17. [MAYBE] Motorola | Jr. Software Engineer, AI Agent Platform
 - Link: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300
 - Location: Ontario Remote Work, More...
 - Posted: Nov 09 (board gives the date only)
 - Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 27 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: broad | Has: aws, excel, gcp, llm, postgres, python, sql, docker, kubernetes, pipeline, research | Lacks: azure  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -452,13 +485,14 @@ Company Overview At Motorola Solutions, we believe that everything starts with o
 
 ---
 
-## 17. [MAYBE] NOX METALS | Purchasing Quantitative
+## 18. [MAYBE] NOX METALS | Purchasing Quantitative
 - Link: https://jobs.ashbyhq.com/nox-metals/4428b190-c164-440c-8817-71b10df66efe
 - Location: Detroit United States
 - Posted: Nov 10 17:07 ET
 - Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: dashboard, forecast, python, sql, backtest, quantitative, research, risk | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -556,13 +590,14 @@ Nox Metals
 
 ---
 
-## 18. [MAYBE] The Home Depot | OPERATIONS BUSINESS ANALYST
+## 19. [MAYBE] The Home Depot | OPERATIONS BUSINESS ANALYST
 - Link: https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/OPERATIONS-BUSINESS-ANALYST_Req198317-1
 - Location: STORE SUPPORT CENTER, ATLANTA - 9090
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~65 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 27 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: broad | Has: dashboard, excel, sql, statistic, tableau, reporting | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -570,13 +605,14 @@ With a career at The Home Depot, you can be yourself and also be part of somethi
 
 ---
 
-## 19. [MAYBE] Caesars Entertainment | Analyst I, Labor Analytics - Corporate (Las Vegas)
+## 20. [MAYBE] Caesars Entertainment | Analyst I, Labor Analytics - Corporate (Las Vegas)
 - Link: https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/91780
 - Location: Las Vegas, NV, United States US
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~64 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: bigquery, excel, python, r, sql, statistic, tableau, credit, reporting | Lacks: sas  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -584,13 +620,14 @@ Caesars Entertainment is seeking an Analyst I to join our Labor Analytics team i
 
 ---
 
-## 20. [MAYBE] Airbus | Praktikant für Generative AI/Agentic AI (d/m/w)
+## 21. [MAYBE] Airbus | Praktikant für Generative AI/Agentic AI (d/m/w)
 - Link: https://ag.wd3.myworkdayjobs.com/Airbus/job/Ulm-Area/Praktikant-fr-Generative-AI-Agentic-AI--d-m-w-_JR10436030
 - Location: Ulm Area
 - Posted: Nov 09 (board gives the date only)
 - Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: broad | Has: llm, python, deep learning, docker, git, kubernetes, pipeline, risk | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -598,13 +635,14 @@ Job Description: Zur Unterstützung der Entwicklung im Bereich „Engineering De
 
 ---
 
-## 21. [MAYBE] Eversource Energy | Associate Analyst, Transmission (hybrid schedule)
+## 22. [MAYBE] Eversource Energy | Associate Analyst, Transmission (hybrid schedule)
 - Link: https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/Associate-Analyst--Transmission--hybrid-schedule-_R-032522
 - Location: Westwood, MA
 - Posted: Nov 09 (board gives the date only)
 - Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: broad | Has: dashboard, excel, forecast, power bi, data quality, reporting | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -612,13 +650,14 @@ Eversource will not offer immigration-related sponsorship for this position (e.g
 
 ---
 
-## 22. [MAYBE] Interdigital | Research Engineer / Scientist (Wireless + AI/ML)
+## 23. [MAYBE] Interdigital | Research Engineer / Scientist (Wireless + AI/ML)
 - Link: https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/Research-Engineer---Scientist--Wireless---AI-ML-_REQ26-1099
 - Location: 2 Locations
 - Posted: Nov 09 (board gives the date only)
 - Scanner fit: ~60 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: excel, llm, machine learning, python, pytorch, tensorflow, docker, git, kubernetes, pipeline, publication, research | Lacks: c++, matlab  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -626,13 +665,29 @@ About InterDigital InterDigital is a global research and development company foc
 
 ---
 
-## 23. [MAYBE] Mars | Analyst, Walmart Analytics
+## 24. [MAYBE] Wells Fargo | Equity Research Associate, Software - Small & Mid-Cap
+- Link: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Equity-Research-Associate--Software---Small---Mid-Cap_R-572381
+- Location: NEW YORK, NY
+- Posted: Nov 10 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 163 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, credit, derivatives, reporting, research, risk, trading | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Wells Fargo Corporate & Investment Banking delivers a comprehensive suite of capital markets, banking, and financial products and services. A trusted partner to our clients, we provide corporate and transactional banking, commercial real estate lending and servicing, investment banking, equity and fixed income solutions including sales, trading, and research capabilities to corporate, commercial real estate, government, and institutional clients across the globe. Markets provides solutions to clients with the means to manage their exposure through various derivatives, lending and cash products across Structured Products Group, Rates, Equities, Foreign Exchange, Municipal Products Group, Credit Sales & Trading. About this role: Wells Fargo is seeking an Equity Research Associate for the Software, Small and Mid-Cap sector in Corporate & Investment Banking as part of Markets. Learn more about the career areas and business divisions at wellsfargojobs.com . In this role, you will: Demonstrate strong subject matter expertise within the Software, Small and Mid-Cap sector, with a solid understanding of key companies and industry dynamics Conduct rigorous analysis of financial statements and industry, company, and market data sets Create and update financial models and databases Author, with Senior Analyst, differentiated research content on companies and industry themes Attend company and industry events; cultivate relationships with covered companies and industry contacts Communicate research conclusions to internal and external constituents Collaborate with research peers to support the generation of cross-sector research content Exercise independent judgment while developing the knowledge to understand function, policies, procedures, and compliance requirements Collaborate and consult with peers, colleagues and managers to resolve issues and achieve goals Required Qualifications: 2+ years of Securities Research experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education Desired Qualifications: A BS/BA or higher Direct experience in the Software, Small and Mid-Cap sector or prior equity research coverage of this industry Ability to work effectively in a team environment and across all organizational levels, where flexibility, collaboration, and adaptability are important Advanced Microsoft Office (Word, Excel, Outlook and PowerPoint) skills Knowledge and understanding of financial statement analysis Knowledge and understanding of accounting principles in the capital markets industry Knowledge and understanding of investment tools such as Bloomberg or FactSet application Strong, clear and concise written and oral communication skills Job Expectations: Up to 10% travel Obtaining and/or maintaining appropriate Financial Industry Regulatory Authority (FINRA) license(s) is required for ongoing employment in this position. FINRA Securities Industry Essentials (SIE), Series 63 (or 66), 86, and 87 examinations, or equivalent must be completed within either a 90 or 180-day time period following commencement of employment, depending upon the number of license(s) needed if not immediately available to transfer upon hire. FINRA recognized equivalents will be accepted. This will be communicated at time of offer acceptance. Registration for FINRA Series 65 or 66 must be completed prior to conducting Investment Advisory business. Compliance with state law registration and licensing requirements is mandatory. In addition to state registration and licensing requirements, specific product licenses or SAFE licensing may apply. Additional requirements include meeting enhanced financial fitness and criminal background standards. Wells Fargo will initiate the FINRA licensing review process at the time of offer acceptance. For specific FINRA qualification exams obtained after 9/30/2018, the Securities Industry Essentials (SIE) exam co-requisite is required. This position is subject to FINRA background screening requirements. Candidates must successfully complete and pass a background check prior to hire. In accordance with FINRA rules, individuals who are subject to statutory disqualification are not eligible to be associated with a FINRA-registered broker-dealer. Successful candidates must also meet and comply with ongoing regulatory obligations, which include periodic screening and mandatory reporting of certain incidents. Specific compliance policies may apply regarding outside activities or personal investing; affected employees will be expected to provide information to the Wells Fargo Personal Account Dealing Team and abide by applicable policy requirements if hired. Information will be shared about expectations during the recruitment process. Posting Locations: 150 East 42nd St. - New York, New York 10017 Pay Range Reflected is the base pay range offered for this position. Pay may vary depending on factors including but not limited to demonstrated examples of prior performance, skills, experience, or work location. Employees may also be eligible for incentive opportunities.&#xa;$143,000.00 - $224,000.00 Benefits Wells Fargo provides eligible employees with a comprehensive set of benefits, many of which are listed below. Visit Benefits - Wells Fargo Jobs for an overview of the following benefit plans and programs offered to employees. Health benefits 401(k) Plan Paid time off Disability benefits Life insurance, critical illness insurance, and accident insurance Parental leave Critical caregiving leave Discounts and savings Commuter benefits Tuition reimbursement Scholarships for dependent children Adoption reimbursement Posting End Date: 19 Nov 2026 * Job posting may come down early due to volume of applicants. We Value Equal Opportunity Wells Fargo
+
+---
+
+## 25. [MAYBE] Mars | Analyst, Walmart Analytics
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Arkansas-Bentonville/Analyst--Walmart-Analytics_R170076-1
 - Location: USA-Arkansas-Bentonville
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~56 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: dashboard, excel, forecast, power bi, python, sql, statistic, reporting | Lacks: databricks, scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -640,13 +695,14 @@ Job Description: Role Overview The Data Scientist Analyst, Walmart Analytics wil
 
 ---
 
-## 24. [MAYBE] BCBST | Business Research Analyst I
+## 26. [MAYBE] BCBST | Business Research Analyst I
 - Link: https://bcbst.wd1.myworkdayjobs.com/External/job/USA-TN-Chattanooga-Remote/Business-Research-Analyst-I_R-51528
 - Location: USA, TN, Chattanooga, Remote
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~56 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: bigquery, excel, python, sql, tableau, classification, data quality, reporting, research, validation | Lacks: databricks, sas  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -654,13 +710,14 @@ Business Research Analyst I | Senior Care Product Strategy We are hiring a Busin
 
 ---
 
-## 25. [MAYBE] Momentive | Research scientist
+## 27. [MAYBE] Momentive | Research scientist
 - Link: https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Pearl-River/Research-scientist_R9977-1
 - Location: US NY Pearl River
 - Posted: Nov 09 (board gives the date only)
 - Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: aws, excel, statistic, healthcare, portfolio, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -668,13 +725,14 @@ Job Title: Research scientist Summary: Shape the future of foam control technolo
 
 ---
 
-## 26. [MAYBE] Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty
+## 28. [MAYBE] Brown & Brown Insurance | Risk Analytics Consultant – Property & Casualty
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Sandy-Springs-Atlanta-GA-USA/Risk-Analytics-Consultant---Property---Casualty_R26_0000003968
 - Location: 3 Locations
 - Posted: Nov 09 (board gives the date only)
 - Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: dashboard, excel, llm, statistic, git, reporting, risk, validation | Lacks: actuar  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -682,13 +740,14 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 27. [MAYBE] EVERSANA | Conversational AI Engineer 
+## 29. [MAYBE] EVERSANA | Conversational AI Engineer 
 - Link: https://jobs.smartrecruiters.com/EVERSANA1/744000160943474
 - Location: Overland Park KS us remote
 - Posted: Nov 10 13:34 ET
 - Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 9 in data/analytics/finance occupations
 - Type: full-time (40 h/week stated)
 - Title scope: core | Has: aws, dashboard, excel, llm, fraud, git, healthcare | Lacks: scala
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -696,13 +755,14 @@ THE POSITION: The Conversational AI Engineer is responsible for designing, build
 
 ---
 
-## 28. [MAYBE] Highmark Health | Strategy Analyst
+## 30. [MAYBE] Highmark Health | Strategy Analyst
 - Link: https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Strategy-Analyst_J287990-1
 - Location: Pittsburgh PA, 15222, PAP, Penn Avenue Place
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 11 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: aws, excel, forecast, healthcare, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -710,13 +770,14 @@ Company : Highmark Inc. Job Description : JOB SUMMARY Support leadership of High
 
 ---
 
-## 29. [MAYBE] Southern New Hampshire University | Market Research and Insights Analyst
+## 31. [MAYBE] Southern New Hampshire University | Market Research and Insights Analyst
 - Link: https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/Remote/Market-Research-and-Insights-Analyst_R0014919
 - Location: Remote
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
 - Type: full-time
 - Title scope: core | Has: dashboard, excel, portfolio, publication, research, validation | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -724,13 +785,14 @@ Southern New Hampshire University is a team of innovators. World changers. Indiv
 
 ---
 
-## 30. [MAYBE] Barclays | Business Insights & Analytics Analyst
+## 32. [MAYBE] Barclays | Business Insights & Analytics Analyst
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bournemouth-The-Helm-Holdenhurst-Road/Business-Insights---Analytics-Analyst_JR-0000126327-1
 - Location: Bournemouth, The Helm, Holdenhurst Road
 - Posted: Nov 09 (board gives the date only)
 - Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 142 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: dashboard, excel, machine learning, python, sql, git, kpi, reporting, risk | Lacks: databricks, snowflake
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -738,13 +800,14 @@ Job Description Purpose of the role To develop, track and analyse operational me
 
 ---
 
-## 31. [MAYBE] Snap | Research Scientist, Research
+## 33. [MAYBE] Snap | Research Scientist, Research
 - Link: https://snapchat.wd1.myworkdayjobs.com/snap/job/Bellevue-Washington/Research-Scientist--Language-for-Personalization_R0044935
 - Location: 2 Locations
 - Posted: Nov 09 (board gives the date only)
 - Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 52 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: aws, machine learning, python, pytorch, classification, deep learning, git, publication, research, risk | Lacks: azure, scala
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -752,13 +815,14 @@ Snap Inc is a technology company. We believe the camera presents the greatest op
 
 ---
 
-## 32. [MAYBE] Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads
+## 34. [MAYBE] Google | Software Engineer, AI/ML, ML Infrastructure, Search Ads
 - Link: https://www.google.com/about/careers/applications/jobs/results/115014381934125766
 - Location: Mountain View, CA, USA ; Pittsburgh, PA, USA
 - Posted: Nov 10 10:08 ET
 - Scanner fit: ~54 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1053 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: llm, machine learning, tensorflow, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -766,13 +830,14 @@ Google's software engineers develop the next-generation technologies that change
 
 ---
 
-## 33. [MAYBE] Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst
+## 35. [MAYBE] Blue Cross and Blue Shield of Rhode Island | Corporate Strategy Analyst
 - Link: https://bcbsri.wd1.myworkdayjobs.com/BCBSRICareers/job/Providence-RI/Corporate-Strategy-Analyst_JR100493
 - Location: Providence, RI
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: aws, data visualization, healthcare, reporting, risk | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -780,13 +845,14 @@ Pay Range: $83,200.00 - $124,800.00 Please email HR_Talent_AcquisitionTeam@bcbsr
 
 ---
 
-## 34. [MAYBE] Centific | Power BI Developer
+## 36. [MAYBE] Centific | Power BI Developer
 - Link: https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Power-BI-Developer_JR108637-1
 - Location: Remote Work( USA)
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 11 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: etl, excel, llm, power bi, sql, kpi, pipeline, portfolio, reporting | Lacks: azure, scala
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -794,13 +860,14 @@ About Centific Centific is a frontier AI data foundry that curates diverse, high
 
 ---
 
-## 35. [MAYBE] Lila Sciences | ML Research Engineer, Performance Optimization
+## 37. [MAYBE] Lila Sciences | ML Research Engineer, Performance Optimization
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4455701009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
 - Scanner fit: ~53 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: excel, llm, machine learning, docker, pipeline, quantitative, research | Lacks: airflow
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -808,13 +875,14 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 36. [MAYBE] Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation
+## 38. [MAYBE] Toyota Research Institute | Research Scientist, Robot Learning - Continual Adaptation
 - Link: https://jobs.lever.co/tri/dbdce3b6-fc88-47d2-a78c-9ec34c66e6d1
 - Location: Cambridge, MA Cambridge, MA US
 - Posted: Nov 10 09:58 ET
 - Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: aws, machine learning, pytorch, deep learning, publication, research | Lacks: scala
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -827,13 +895,14 @@ It is unlawful in Massachusetts to require or administer a lie detector test as 
 
 ---
 
-## 37. [MAYBE] ibotta | Analytics Engineer
+## 39. [MAYBE] ibotta | Analytics Engineer
 - Link: https://jobs.ashbyhq.com/ibotta/d1ad9f8d-564a-4859-8e8c-fa2c05485627
 - Location: Hybrid - Denver United States remote
 - Posted: Nov 10 11:53 ET
 - Scanner fit: ~50 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: dashboard, etl, excel, machine learning, python, spark, sql, statistic, data quality, git, pipeline, reporting, validation | Lacks: airflow, databricks, dbt, looker, scala
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -921,13 +990,14 @@ To learn more about what our Tech teams are doing day to day, visit Building Ibo
 
 ---
 
-## 38. [MAYBE] Montefiore Medical Center | Research Associate I -
+## 40. [MAYBE] Montefiore Medical Center | Research Associate I -
 - Link: https://montefiore.wd12.myworkdayjobs.com/MMC/job/3415-Bainbridge-Avenue/Research-Associate-I--_JR234732-1
 - Location: 3415 Bainbridge Avenue
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
 - Type: full-time
 - Title scope: core | Has: gcp, statistic, classification, data quality, portfolio, reporting, research | Lacks: sas
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -935,13 +1005,14 @@ City/State: Bronx, New York Grant Funded: Yes Department: PEDS - Division Of Gen
 
 ---
 
-## 39. [MAYBE] Wash U | Bioinformatics Research Analyst - Neurology
+## 41. [MAYBE] Wash U | Bioinformatics Research Analyst - Neurology
 - Link: https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Bioinformatics-Research-Analyst---Neurology_JR98591
 - Location: Washington University Medical Campus
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: statistic, classification, pipeline, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -949,13 +1020,14 @@ Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Provi
 
 ---
 
-## 40. [MAYBE] Washington University in St. Louis | Bioinformatics Research Analyst - Neurology
+## 42. [MAYBE] Washington University in St. Louis | Bioinformatics Research Analyst - Neurology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Bioinformatics-Research-Analyst---Neurology_JR98591
 - Location: Washington University Medical Campus
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
 - Type: full-time
 - Title scope: core | Has: statistic, classification, pipeline, reporting, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -963,13 +1035,14 @@ Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Provi
 
 ---
 
-## 41. [MAYBE] BNY | Associate, Portfolio Analytics - Pipeline
+## 43. [MAYBE] BNY | Associate, Portfolio Analytics - Pipeline
 - Link: https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83672
 - Location: Lake Mary, FL, United States US
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~50 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: excel, pipeline, portfolio, reporting, risk | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -977,13 +1050,14 @@ The candidate conducts reporting services on behalf of assigned clients on compl
 
 ---
 
-## 42. [MAYBE] Church & Dwight | AI Engineer, R&D
+## 44. [MAYBE] Church & Dwight | AI Engineer, R&D
 - Link: https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Princeton-NJ/AI-Engineer--R-D_R2026-15825
 - Location: USA, Princeton, NJ
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~50 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: llm, machine learning, python, pipeline, reporting, risk | Lacks: scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -991,13 +1065,14 @@ A collective energy and ambition. A place where you can make a real difference. 
 
 ---
 
-## 43. [MAYBE] Uline | Business Intelligence Analyst
+## 45. [MAYBE] Uline | Business Intelligence Analyst
 - Link: https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Analyst_R268991
 - Location: 5 Locations
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 16 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: excel, forecast, sql | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -1005,13 +1080,14 @@ Business Intelligence Analyst Corporate Headquarters 12575 Uline Drive, Pleasant
 
 ---
 
-## 44. [MAYBE] Lila Sciences | ML Research Scientist, Environments & Harnesses
+## 46. [MAYBE] Lila Sciences | ML Research Scientist, Environments & Harnesses
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4462270009
 - Location: Cambridge, MA USA; London, UK; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
 - Scanner fit: ~47 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: llm, python, pipeline, publication, quantitative, research | Lacks: airflow
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -1019,13 +1095,14 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 45. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
+## 47. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990016774556
 - Location: Irvine CA us
 - Posted: Nov 10 14:50 ET
 - Scanner fit: ~47 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 96 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: data visualization, statistic, quantitative, reporting, research, validation | Lacks: sas
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -1033,13 +1110,14 @@ The Statistical Analyst is an integral role in the research and development of n
 
 ---
 
-## 46. [MAYBE] Lila Sciences | Research Scientist, Soft Matter Simulations
+## 48. [MAYBE] Lila Sciences | Research Scientist, Soft Matter Simulations
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4465081009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 10 16:45 ET
 - Scanner fit: ~47 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: python, pytorch, monte carlo, pipeline, publication, research | Lacks: c++
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -1047,13 +1125,14 @@ Your Impact at LILA Your role will involve applying soft matter physics and mole
 
 ---
 
-## 47. [MAYBE] First American | Business Intelligence Specialist (Remote)
+## 49. [MAYBE] First American | Business Intelligence Specialist (Remote)
 - Link: https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Business-Intelligence-Specialist--Remote-_R059554-1
 - Location: 10 Locations
 - Posted: Nov 09 (board gives the date only)
 - Scanner fit: ~46 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 8 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: aws, dashboard, data visualization, python, sql, data quality, quantitative, reporting | Lacks: databricks, scala, snowflake
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -1061,13 +1140,14 @@ Who We Are Join a team that puts its People First! First American's GO Title div
 
 ---
 
-## 48. [MAYBE] Humana | Research Scientist, Clinical Innovation & Trend Analytics
+## 50. [MAYBE] Humana | Research Scientist, Clinical Innovation & Trend Analytics
 - Link: https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Research-Scientist--Clinical-Innovation---Trend-Analytics_R-436854
 - Location: Remote Nationwide
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~46 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 72 in data/analytics/finance occupations
 - Type: full-time (40 h/week stated)
 - Title scope: core | Has: hypothesis test, python, spark, sql, statistic, healthcare, quantitative, research | Lacks: azure, databricks, sas
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -1075,13 +1155,14 @@ Become a part of our caring community Humana’s Clinical Innovation and Trend A
 
 ---
 
-## 49. [MAYBE] Toyota | Snowflake & Analytics Platform Engineer
+## 51. [MAYBE] Toyota | Snowflake & Analytics Platform Engineer
 - Link: https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Snowflake---Analytics-Platform-Engineer_10331617
 - Location: Plano, Texas
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 7 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: aws, data visualization, sql, tableau, reporting, validation | Lacks: scala, snowflake
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -1089,13 +1170,14 @@ Overview Who we are Collaborative. Respectful. A place to dream and do. These ar
 
 ---
 
-## 50. [MAYBE] TikTok | Machine Learning Scientist Graduate (TikTok Trust and Safety) - 2027 Start (PhD)
+## 52. [MAYBE] TikTok | Machine Learning Scientist Graduate (TikTok Trust and Safety) - 2027 Start (PhD)
 - Link: https://lifeattiktok.com/search/7665989163791403269
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
 - Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: machine learning, nlp, pipeline | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -1119,13 +1201,14 @@ Responsibilities:
 
 ---
 
-## 51. [MAYBE] Integrity | Data Analyst
+## 53. [MAYBE] Integrity | Data Analyst
 - Link: https://integritymarketing.wd1.myworkdayjobs.com/Integrity/job/Gilbert-AZ/Data-Analyst_JR5058
 - Location: 4 Locations
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 5 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: excel, reporting, research, validation | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -1133,13 +1216,14 @@ Job Title: Quality Analyst Business Unit: Fidelis Location: Gilbert, AZ About Fi
 
 ---
 
-## 52. [MAYBE] University of Southern California | Research Associate
+## 54. [MAYBE] University of Southern California | Research Associate
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Research-Associate_REQ20182963
 - Location: Los Angeles, CA - Health Sciences Campus
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~45 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
 - Type: full-time
 - Title scope: core | Has: aws, git, publication, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -1147,13 +1231,14 @@ The laboratory of Dr. Jeannie Chen at the Zilkha Neurogenetic Institute, Keck Sc
 
 ---
 
-## 53. [MAYBE] Lila Sciences | ML Research Scientist, Scientific Evaluations
+## 55. [MAYBE] Lila Sciences | ML Research Scientist, Scientific Evaluations
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4472554009
 - Location: Cambridge, MA USA; London, UK; San Francisco, CA USA
 - Posted: Nov 10 10:37 ET
 - Scanner fit: ~44 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: llm, python, pipeline, publication, research | Lacks: airflow
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -1161,13 +1246,14 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 54. [MAYBE] Anglian Water | Data Engineer
+## 56. [MAYBE] Anglian Water | Data Engineer
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Thorpe-Wood-House/Data-Engineer_R40844-1
 - Location: Thorpe Wood House
 - Posted: Nov 09 (board gives the date only)
 - Scanner fit: ~40 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: etl, excel, sql, data quality, git, pipeline, reporting | Lacks: azure, databricks, scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -1175,13 +1261,14 @@ Location: Thorpe Wood House, Peterborough Contract: Permanent Salary: £46,000, 
 
 ---
 
-## 55. [MAYBE] University of Miami | Research Associate I
+## 57. [MAYBE] University of Miami | Research Associate I
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-I_R100102926
 - Location: Miami, FL
 - Posted: Nov 09 (board gives the date only)
 - Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
 - Type: full-time
 - Title scope: core | Has: excel, futures, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -1189,13 +1276,14 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 56. [MAYBE] Zekelman Industries | Analytics Engineer
+## 58. [MAYBE] Zekelman Industries | Analytics Engineer
 - Link: https://zekelman.wd12.myworkdayjobs.com/Careers/job/Remote_USA/Analytics-Engineer_JR003014
 - Location: Remote_USA
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~40 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
 - Type: full-time
 - Title scope: core | Has: excel, reporting, risk | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -1203,13 +1291,14 @@ You may not know our name, but you know our products. What we make is part the p
 
 ---
 
-## 57. [MAYBE] Southern Company | AMI Data Analyst
+## 59. [MAYBE] Southern Company | AMI Data Analyst
 - Link: https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22674
 - Location: Birmingham, AL, United States US
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~40 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 7 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: excel, data quality, reporting | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
@@ -1217,13 +1306,14 @@ AMI Data Analyst The AMI Data Analyst position is a highly technical job that ov
 
 ---
 
-## 58. [MAYBE] JP Morgan Chase | Asset Management - Equity Research Analyst, Industrials  - Associate
+## 60. [MAYBE] JP Morgan Chase | Asset Management - Equity Research Analyst, Industrials  - Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805331
 - Location: New York, NY, United States US
 - Posted: Nov 10 (board gives the date only)
 - Scanner fit: ~40 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
 - Type: full-time
 - Title scope: core | Has: python, research, risk | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
 
 ### Job description
 
