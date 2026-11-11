@@ -6,3 +6,4 @@ Found in your LinkedIn/HiringCafe/Glassdoor/Indeed/Jobright alert emails but not
 |---|---|---|---|---|
 | linkedin | Bikky | Data Analyst - Data Operations | New York, NY | https://www.linkedin.com/jobs/view/4487953970/ |
 | linkedin | Cambridge Health Alliance | Data Analyst - Research | Cambridge, MA | https://www.linkedin.com/jobs/view/4488656624/ |
+| linkedin | Broadgate | Data Scientist | United States | https://www.linkedin.com/jobs/view/4489000253/ |
