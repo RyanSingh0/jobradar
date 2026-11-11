@@ -58,7 +58,14 @@ TITLE_SOFT = re.compile(r"senior|\bsr\.?\b|\bii\b|level 2|\b2\b(?!\d)", re.I)
 # Early-talent programs (fellowships, rotations, new-grad programs) count as core when the description is data/AI work.
 EARLY = re.compile(r"rotational|fellowship|\bfellows?\b|emerging talent|early talent|early career|new grad|"
                    r"graduate (program|scheme)|development program|futureforce|residency program|leadership program", re.I)
-EARLY_TECH = re.compile(r"python|\bsql\b|machine learning|\bai\b|artificial intelligence|data scien|analytics|statistic|llm", re.I)
+EARLY_TECH = [re.compile(x, re.I) for x in (r"python", r"\bsql\b", r"machine learning", r"data scien|data analy",
+              r"statistic", r"\bllms?\b|large language model", r"tableau|power bi", r"\bml\b|ai/ml", r"pytorch|tensorflow|scikit")]
+EARLY_BAD = re.compile(r"coordinator|advisor|conseill|trainee|civil|structural|mechanical|electrical|manufacturing|bim|"
+                       r"traffic|environmental|clinical|nurs|sales|account", re.I)
+
+
+def early_program(title, desc):  # needs 2+ distinct data/AI skill words in the description
+    return bool(EARLY.search(title)) and not EARLY_BAD.search(title) and sum(bool(r.search(desc)) for r in EARLY_TECH) >= 2
 # Companies where Aryan has a referral: matches at fit >= 45 surface in MAYBE whatever the tier, and 4-year asks stay in.
 REFERRAL_FILE = Path(__file__).resolve().parent / "referrals.txt"
 REFERRALS = {l.strip().lower() for l in (REFERRAL_FILE.read_text().splitlines() if REFERRAL_FILE.exists() else [])
@@ -117,8 +124,7 @@ DOMAIN = ["risk", "credit", "fraud", "model validation", "model risk", "backtest
           "futures", "trading", "derivatives", "monte carlo", "healthcare", "research", "publication", "data quality",
           "validation", "calibration", "segmentation", "cohort", "kpi", "reporting", "data cleaning", "pipeline",
           "xgboost", "random forest", "classification", "deep learning", "docker", "kubernetes", "git", "lambda", "athena",
-          "deploy", "production", "data structures", "algorithms", "ai agent", "prototyp", "api", "data mesh", "parity",
-          "data observability", "dimensional model", "snowflake semantic", "triage"]
+          "ai agent", "data mesh", "parity check", "data observability", "dimensional model", "llm evaluation"]
 LACK = ["sas", "snowflake", "databricks", "airflow", "dbt", "looker", "java", "c\\+\\+", "scala", "kafka", "hadoop",
         "salesforce", "sap", "alteryx", "qlik", "matlab", "azure", "ssis", "informatica", "cfa", "actuar", "kdb", "golang",
         "phd required", "ph\\.d\\. required"]
@@ -597,7 +603,7 @@ def classify(j, spons):
     if len(j["desc"]) < 200:
         return "CHECK", "description not readable by the scanner; open the link"
     sponsor_ok = bool(lca) or not spons
-    early = bool(EARLY.search(j["title"])) and bool(EARLY_TECH.search(j["desc"]))
+    early = early_program(j["title"], j["desc"])
     core = bool(CORE.search(j["title"])) or early
     tech = any(k in " " + j["desc"].lower() for k in ("python", "sql", " r ", "statistic", "machine learning", "tableau", "power bi"))
     j["scope"] = "core" if core else "broad"
