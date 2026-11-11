@@ -1,0 +1,4 @@
+# Companies where Aryan has a referral (one per line, as the company name appears in companies.csv)
+Salesforce
+Slack
+ServiceNow

@@ -35,6 +35,7 @@ jobs:
           FANTASTIC_LIMIT: ${{ vars.FANTASTIC_LIMIT || '60' }}
         run: |
           python eligibility.py > /dev/null || { echo "eligibility regression tests failed"; exit 1; }
+          python tests/test_filters.py > /dev/null || { echo "title-gate regression tests failed"; exit 1; }
           case "${{ github.event.schedule }}" in
             "45 */6 * * 1-5") python jobradar.py --only workable --delay 4 ;;
             "20 */6 * * 1-5") if [ -n "$APIFY_TOKEN" ]; then python jobradar.py --only fantastic --hours 10; else echo "paid lane off"; fi ;;

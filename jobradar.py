@@ -38,9 +38,9 @@ CORE = re.compile(  # his target families: these can be HOT; any other TITLE_OK 
     r"statistician|biostatistic|econometric|economist|research (associate|assistant|professional|data|scientist)|predoc|pre-doc|"
     r"analytics|data science|\bai/ml\b", re.I)
 TITLE_BAD = re.compile(
-    r"senior|\bsr\.?\b|\blead\b|leader|expert|\bavp\b|manager|director|principal|staff|\bhead\b|\bvp\b|vice president|"
-    r"\bchief\b|partner\b|intern\b|interns\b|internship|co-op|\bcoop\b|summer 20|\bii\b|\biii\b|\biv\b|level [2-5]|"
-    r"\b[2-5]\b(?!\d)|architect|sales|recruit|counsel|attorney|paralegal|account exec|nurse|\brn\b|physician|pharmac|"
+    r"\blead\b|leader|expert|\bavp\b|manager|director|principal|staff|\bhead\b|\bvp\b|vice president|"
+    r"\bchief\b|partner\b|intern\b|interns\b|internship|co-op|\bcoop\b|summer 20|\biii\b|\biv\b|level [3-5]|"
+    r"\b[3-5]\b(?!\d)|architect|sales|recruit|counsel|attorney|paralegal|account exec|nurse|\brn\b|physician|pharmac|"
     r"security analyst|cyber|soc analyst|threat|penetration|help ?desk|service desk|desktop|network|technician|"
     r"mechanic|warehouse|driver|cashier|clinical (research )?coordinator|post-?doc|student|apprentice|"
     r"\((d/f/m|m/w/d|f/m/d|w/m/d|h/f)\)|professor|faculty|lecturer|teacher|"
@@ -51,6 +51,25 @@ TITLE_BAD = re.compile(
     r"trade finance|transportation|logistics|supply chain|"   # 2 Nov 2026: part-time, temporary, seasonal, visiting and volunteer roles are back in scope (tagged in classify)
     r"procurement|hr analyst|human resources|benefits analyst|compensation analyst|\bit analyst|application analyst|"
     r"\berp\b|oracle (technical|functional)|salesforce|servicenow|sap\b|business systems analyst|product owner|scrum", re.I)
+# 10 Nov 2026 (Salesforce "Data Systems Senior Analyst" miss): "Senior", "Sr", "II" and "level 2" are no longer
+# dropped on the title. The description is read and min_yoe decides (4+ years skips); a soft-senior title with no
+# years stated is capped at MAYBE with a note. Lead/Staff/Principal/Manager/Director/III/IV stay hard blocks.
+TITLE_SOFT = re.compile(r"senior|\bsr\.?\b|\bii\b|level 2|\b2\b(?!\d)", re.I)
+# Early-talent programs (fellowships, rotations, new-grad programs) count as core when the description is data/AI work.
+EARLY = re.compile(r"rotational|fellowship|\bfellows?\b|emerging talent|early talent|early career|new grad|"
+                   r"graduate (program|scheme)|development program|futureforce|residency program|leadership program", re.I)
+EARLY_TECH = re.compile(r"python|\bsql\b|machine learning|\bai\b|artificial intelligence|data scien|analytics|statistic|llm", re.I)
+# Companies where Aryan has a referral: matches at fit >= 45 surface in MAYBE whatever the tier, and 4-year asks stay in.
+REFERRAL_FILE = Path(__file__).resolve().parent / "referrals.txt"
+REFERRALS = {l.strip().lower() for l in (REFERRAL_FILE.read_text().splitlines() if REFERRAL_FILE.exists() else [])
+             if l.strip() and not l.startswith("#")}
+
+
+def is_referral(company):
+    c = (company or "").lower()
+    return any(r == c or c.startswith(r + " ") or c.startswith(r + ",") for r in REFERRALS)
+
+
 US_HINT = re.compile(r"united states|\bus\b|\busa\b|u\.s\.|remote|new york|boston|"
     r"chicago|san francisco|seattle|austin|dallas|houston|atlanta|denver|philadelphia|charlotte|miami|los angeles|"
     r"washington|pittsburgh|minneapolis|phoenix|detroit|columbus|nashville|raleigh|salt lake|san diego|san jose|"
@@ -97,7 +116,9 @@ TECH = ["python", "sql", " r ", " r,", "statistic", "machine learning", "tableau
 DOMAIN = ["risk", "credit", "fraud", "model validation", "model risk", "backtest", "portfolio", "quantitative", "fx",
           "futures", "trading", "derivatives", "monte carlo", "healthcare", "research", "publication", "data quality",
           "validation", "calibration", "segmentation", "cohort", "kpi", "reporting", "data cleaning", "pipeline",
-          "xgboost", "random forest", "classification", "deep learning", "docker", "kubernetes", "git", "lambda", "athena"]
+          "xgboost", "random forest", "classification", "deep learning", "docker", "kubernetes", "git", "lambda", "athena",
+          "deploy", "production", "data structures", "algorithms", "ai agent", "prototyp", "api", "data mesh", "parity",
+          "data observability", "dimensional model", "snowflake semantic", "triage"]
 LACK = ["sas", "snowflake", "databricks", "airflow", "dbt", "looker", "java", "c\\+\\+", "scala", "kafka", "hadoop",
         "salesforce", "sap", "alteryx", "qlik", "matlab", "azure", "ssis", "informatica", "cfa", "actuar", "kdb", "golang",
         "phd required", "ph\\.d\\. required"]
@@ -219,7 +240,17 @@ def ashby(c, cut):
 
 def smartrecruiters(c, cut):
     s = c["slug"]
-    for j in get(f"https://api.smartrecruiters.com/v1/companies/{s}/postings?limit=100&country=us").get("content", []):
+    rows, off = [], 0
+    while True:  # page through everything (10 Nov: ServiceNow has 458 US postings); list is newest first
+        r = get(f"https://api.smartrecruiters.com/v1/companies/{s}/postings?limit=100&offset={off}&country=us")
+        page = r.get("content", [])
+        rows += page
+        off += 100
+        if len(page) < 100 or off >= (r.get("totalFound") or 0) or off >= 2000:
+            break
+        if (iso(page[-1].get("releasedDate")) or cut) < cut:  # page ended in postings older than the window
+            break
+    for j in rows:
         loc = j.get("location") or {}
         def d(i=j["id"]):
             x = (get(f"https://api.smartrecruiters.com/v1/companies/{s}/postings/{i}").get("jobAd") or {}).get("sections") or {}
@@ -468,6 +499,7 @@ def scan(c, cut, seeded):
         for j in FETCH[c["ats"]](c, cut):
             if not j["title"] or not TITLE_OK.search(j["title"]) or TITLE_BAD.search(j["title"]):
                 continue
+            j["soft_senior"] = bool(TITLE_SOFT.search(j["title"]))
             loc = j["location"]
             if loc.strip() and FOREIGN.search(loc) and not us_loc(loc):
                 continue
@@ -545,7 +577,9 @@ def classify(j, spons):
         return "SKIP", f'eligibility: "...{text[a:m.end() + 30]}..."'
     y = min_yoe(j["desc"])
     j["yoe"] = y
-    if y is not None and y >= 4:
+    ref = is_referral(j.get("company"))
+    j["referral"] = ref
+    if y is not None and y >= (5 if ref else 4):
         return "SKIP", f"asks {y}+ years"
     loc = j["location"] or ""
     if (FOREIGN.search(loc) and not us_loc(loc)) or (not us_loc(loc) and FOREIGN.search(j["title"] + " " + j["url"] + " " + j["desc"][:400])):
@@ -563,17 +597,25 @@ def classify(j, spons):
     if len(j["desc"]) < 200:
         return "CHECK", "description not readable by the scanner; open the link"
     sponsor_ok = bool(lca) or not spons
-    core = bool(CORE.search(j["title"]))
+    early = bool(EARLY.search(j["title"])) and bool(EARLY_TECH.search(j["desc"]))
+    core = bool(CORE.search(j["title"])) or early
     tech = any(k in " " + j["desc"].lower() for k in ("python", "sql", " r ", "statistic", "machine learning", "tableau", "power bi"))
     j["scope"] = "core" if core else "broad"
     jt, hrs, jt_note = job_type(j["title"], j["desc"])
     j.update(jobtype=jt, hours=hrs)
     opt_ok = not (jt == "volunteer/unpaid" or (hrs is not None and hrs < 20 and jt == "part-time"))
-    if core and tech and fit >= 55 and sponsor_ok and opt_ok:
-        return "HOT", jt_note
-    if (core and fit >= 40) or (not core and tech and fit >= 62 and sponsor_ok):
+    soft = j.get("soft_senior")
+    notes = [("early-talent program" if early else ""),
+             ("title says Senior/II: " + ("no years stated, check the level" if y is None else f"asks {y} years") if soft else ""),
+             ("referral company: ask your referral" if ref else ""),
+             (f"asks {y} years (referral stretch)" if ref and y == 4 else "")]
+    if core and tech and fit >= 55 and sponsor_ok and opt_ok and not soft and not (ref and y == 4):
+        return "HOT", " ".join(x for x in [jt_note] + notes if x)
+    if soft and not ref and not (core and fit >= 55 and sponsor_ok):  # Senior/II titles: only strong core fits surface
+        return "LOW", "senior title below the bar"
+    if (core and fit >= 40) or (not core and tech and fit >= 62 and sponsor_ok) or (ref and fit >= 45 and opt_ok):
         return "MAYBE", " ".join(x for x in [("" if sponsor_ok else "no H-1B filings found for this employer"),
-                                             ("" if core else "broad title"), jt_note] if x)
+                                             ("" if core else "broad title"), jt_note] + notes if x)
     return "LOW", ""
 
 
@@ -608,7 +650,7 @@ def posted_text(j):
 
 
 def entry(j, n):
-    return (f"---\n\n## {n}. [{j['tier']}] {j['company']} | {j['title']}\n"
+    return (f"---\n\n## {n}. [{j['tier']}]{' [REFERRAL]' if j.get('referral') else ''} {j['company']} | {j['title']}\n"
             f"- Link: {j['url']}\n- Location: {' '.join(j['location'].split()) or 'see posting'}\n- Posted: {posted_text(j)}\n"
             f"- Scanner fit: ~{j.get('fit')} | Min YOE: {j.get('yoe')} | H-1B (certified LCAs, Oct 2024-Dec 2025): {lca_text(j.get('lca'))}\n"
             f"- Type: {j.get('jobtype','full-time')}{' (' + str(j['hours']) + ' h/week stated)' if j.get('hours') else ''}\n"
@@ -619,7 +661,7 @@ def entry(j, n):
 
 def render(day, rows, tier_set, label):
     rows = [r for r in rows if r["tier"] in tier_set]
-    rows.sort(key=lambda r: (-(r.get("fit") or 0)))
+    rows.sort(key=lambda r: (not r.get("referral"), bool(r.get("soft_senior")), -(r.get("fit") or 0)))
     head = [f"# {label} postings for Aryan, {day} (JobRadar, posted in the last 24 h)\n",
             "Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wording was screened automatically; "
             "re-check it in Step 1.\n", "| # | Company | Title | Fit | H-1B | Posted |", "|---|---|---|---|---|---|"]
