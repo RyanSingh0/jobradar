@@ -15,60 +15,65 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 9 | Anduril | Production Master Data Engineer | 55 | none found (check myvisajobs) | Nov 11 01:59 ET |
 | 10 | Brown University Health | Data Analyst | 50 | cap-exempt employer | Nov 10 (board gives the date only) |
 | 11 | People Culture Talent | Software Engineer – ML Infrastructure | 50 | none found (check myvisajobs) | Nov 11 10:45 ET |
-| 12 | ConocoPhillips | Commercial DT, Quantitative Developer | 49 | 4 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 13 | Nascent | Applied ML Engineer - Model R&D | 44 | none found (check myvisajobs) | Nov 11 09:53 ET |
-| 14 | Georgetown University | Assistant Dean, Analytics, Technology, and Security | 40 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 15 | Palo Alto Networks | Senior Data Scientist | 78 | 17 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 16 | Capital One | Senior Associate, Data Scientist -  Consumer Credit Risk Models and Data | 76 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 17 | Liberty Mutual | Title Senior Analyst/Associate, Quantitative Solutions – Liberty Mutual Investments | 75 | 39 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 18 | Capital One | Senior Associate, Data Science - Consumer Credit Risk Models and Data | 75 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 19 | Expedia Inc. | Economist II | 75 | 83 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 20 | Quantum | Senior Data Engineer | 73 | 15 in data/analytics/finance occupations | Nov 10 17:18 ET |
-| 21 | Capital One | Senior Associate, Data Scientist - Card Intelligence | 73 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 22 | StoneX Group | Job Posting Title Senior Credit Risk Analyst | 71 | 11 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 23 | Sanofi | PAT Senior Data Scientist | 71 | 25 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 24 | Capital One | Job Posting Title Senior Data Analyst (Financial Services) | 70 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 25 | Capital One | Senior Data Analyst - Card | 70 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 26 | Stifel | Title Treasury Management Analytics Analyst II | 69 | 15 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 27 | Cleveland Clinic | Research Data Scientist II - Rotroff Lab | 68 | 8 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 28 | University of Miami | Sr. Research Associate 1 - Behavioral and Community Based Research | 68 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 29 | The Brookings Institution | Job Title Senior Research Assistant, The Hamilton Project (Job ID: 2026-3892) | 65 | 1 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 30 | Capital One | Senior Data Analyst - Risk Product Data | 65 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 31 | Emory University | Job Title Senior Biostatistician - Office of Nursing Research - School of Nursing | 64 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 32 | Capital One | Senior Data Analyst - Emerging Payments & AirKey | 64 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 33 | Capital One | Senior Data Analyst - Enterprise Services | 64 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 34 | Circle K | Senior Data Analyst – European Merchandising Analytics (Riga) | 64 | 19 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 35 | Helen of Troy | Sr. AI Analytics Engineer | 63 | 4 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 36 | Thermo Fisher Scientific | Sr Pricing Analyst | 62 | 42 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 37 | Bank of Montreal | Senior AI Engineer, Finance AI & Automation | 59 | 4 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 38 | Capital One | Senior Data Analyst - Analytics & Transformation | 59 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 39 | Dow Jones | Senior Machine Learning Engineer | 59 | 10 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 40 | Ohio State University | Senior Reporting and Analytics Analyst - Government Resource Center | 59 | cap-exempt employer | Nov 10 (board gives the date only) |
-| 41 | TikTok | Senior Research Scientist, TikTok - Trust and Safety | 59 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 42 | TikTok | Senior Machine Learning Engineer, Global E-Commerce – Recommendation (Multiple Positions) | 59 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 43 | Horizon media | Senior Analyst, Business Intelligence | 58 | 12 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 44 | Medtronic | Senior Market Access Analytics Specialist - (Remote) | 58 | 36 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 45 | Medtronic | Senior Market Access Analytics Specialist - (Remote) | 58 | 36 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 46 | Thumbtack | Data Scientist II, Marketing | 55 | 15 in data/analytics/finance occupations | Nov 10 18:04 ET |
-| 47 | Charles Schwab | Job Posting Title Senior Data Scientist | 55 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 48 | Cotiviti | Title Senior Generative AI Scientist I | 55 | 63 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 49 | Liberty Mutual | Title Senior Quantitative Analyst - Liberty Mutual Investments | 55 | 39 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 50 | PepsiCo | Title Analytics Sr Analyst | 55 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 51 | Stifel | Title Bank Data Analyst II – CECL & Credit Risk | 55 | 15 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 52 | StoneX Group | Job Posting Title Senior Operational Risk Analyst | 55 | 11 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 53 | Genentech | Senior Data Scientist, Gen AI Application | 55 | 35 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 54 | Genentech | Senior AI Engineer- Imaging | 55 | 35 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 55 | Insulet Corporation | Senior Analytics Engineer | 55 | 4 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 56 | J.M. Smucker | Senior Analyst, Business Intelligence | 55 | 3 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 57 | TikTok | Senior Machine Learning Engineer, TikTok Trust and Safety | 55 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 58 | TikTok | Senior Machine Learning E-commerce Feed Recommendation  | 55 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 59 | TikTok | Senior Machine Learning Engineer, E-commerce Feed Recommendation  | 55 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 60 | TikTok | Senior Machine Learning Engineer, Recommendation - TikTok eCommerce  | 55 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 61 | Ally Bank | Sr Analyst- Business Intelligence | 55 | 54 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 62 | Ally Bank | Senior Analyst, Advances Business Analytics | 55 | 54 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 63 | Ally Bank | Senior Specialist - Data Science | 55 | 54 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 64 | Pacific Life | Senior Data Engineer | 55 | 2 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
-| 65 | Johnson & Johnson | Senior Finance Analyst Competitive Insights & Analytics | 55 | 11 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 12 | Thermo Fisher Scientific | FSP-Associate Research Scientist-Characterization | 50 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 13 | Uline | Business Intelligence Analyst | 50 | 16 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 14 | ConocoPhillips | Commercial DT, Quantitative Developer | 49 | 4 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 15 | Jobs for Humanity | Data Engineer | 49 | none found (check myvisajobs) | Nov 11 11:49 ET |
+| 16 | Bridgewater Associates | Client Investment Research Analyst, Investor Relations Team | 45 | 57 in data/analytics/finance occupations | Nov 11 11:47 ET |
+| 17 | Nascent | Applied ML Engineer - Model R&D | 44 | none found (check myvisajobs) | Nov 11 09:53 ET |
+| 18 | Georgetown University | Assistant Dean, Analytics, Technology, and Security | 40 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 19 | Sanford Health | Assistant Research Scientist - Dissemination and Implementation | 40 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
+| 20 | Palo Alto Networks | Senior Data Scientist | 78 | 17 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 21 | Capital One | Senior Associate, Data Scientist -  Consumer Credit Risk Models and Data | 76 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 22 | Liberty Mutual | Title Senior Analyst/Associate, Quantitative Solutions – Liberty Mutual Investments | 75 | 39 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 23 | Capital One | Senior Associate, Data Science - Consumer Credit Risk Models and Data | 75 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 24 | Expedia Inc. | Economist II | 75 | 83 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 25 | Quantum | Senior Data Engineer | 73 | 15 in data/analytics/finance occupations | Nov 10 17:18 ET |
+| 26 | Capital One | Senior Associate, Data Scientist - Card Intelligence | 73 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 27 | StoneX Group | Job Posting Title Senior Credit Risk Analyst | 71 | 11 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 28 | Sanofi | PAT Senior Data Scientist | 71 | 25 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 29 | Capital One | Job Posting Title Senior Data Analyst (Financial Services) | 70 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 30 | Capital One | Senior Data Analyst - Card | 70 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 31 | Stifel | Title Treasury Management Analytics Analyst II | 69 | 15 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 32 | Cleveland Clinic | Research Data Scientist II - Rotroff Lab | 68 | 8 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 33 | University of Miami | Sr. Research Associate 1 - Behavioral and Community Based Research | 68 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 34 | The Brookings Institution | Job Title Senior Research Assistant, The Hamilton Project (Job ID: 2026-3892) | 65 | 1 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 35 | Capital One | Senior Data Analyst - Risk Product Data | 65 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 36 | Emory University | Job Title Senior Biostatistician - Office of Nursing Research - School of Nursing | 64 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 37 | Capital One | Senior Data Analyst - Emerging Payments & AirKey | 64 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 38 | Capital One | Senior Data Analyst - Enterprise Services | 64 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 39 | Circle K | Senior Data Analyst – European Merchandising Analytics (Riga) | 64 | 19 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 40 | Helen of Troy | Sr. AI Analytics Engineer | 63 | 4 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 41 | Thermo Fisher Scientific | Sr Pricing Analyst | 62 | 42 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 42 | Bank of Montreal | Senior AI Engineer, Finance AI & Automation | 59 | 4 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 43 | Capital One | Senior Data Analyst - Analytics & Transformation | 59 | 458 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 44 | Dow Jones | Senior Machine Learning Engineer | 59 | 10 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 45 | Ohio State University | Senior Reporting and Analytics Analyst - Government Resource Center | 59 | cap-exempt employer | Nov 10 (board gives the date only) |
+| 46 | TikTok | Senior Research Scientist, TikTok - Trust and Safety | 59 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 47 | TikTok | Senior Machine Learning Engineer, Global E-Commerce – Recommendation (Multiple Positions) | 59 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 48 | Horizon media | Senior Analyst, Business Intelligence | 58 | 12 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 49 | Medtronic | Senior Market Access Analytics Specialist - (Remote) | 58 | 36 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 50 | Medtronic | Senior Market Access Analytics Specialist - (Remote) | 58 | 36 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 51 | Thumbtack | Data Scientist II, Marketing | 55 | 15 in data/analytics/finance occupations | Nov 10 18:04 ET |
+| 52 | Charles Schwab | Job Posting Title Senior Data Scientist | 55 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 53 | Cotiviti | Title Senior Generative AI Scientist I | 55 | 63 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 54 | Liberty Mutual | Title Senior Quantitative Analyst - Liberty Mutual Investments | 55 | 39 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 55 | PepsiCo | Title Analytics Sr Analyst | 55 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 56 | Stifel | Title Bank Data Analyst II – CECL & Credit Risk | 55 | 15 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 57 | StoneX Group | Job Posting Title Senior Operational Risk Analyst | 55 | 11 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 58 | Genentech | Senior Data Scientist, Gen AI Application | 55 | 35 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 59 | Genentech | Senior AI Engineer- Imaging | 55 | 35 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 60 | Insulet Corporation | Senior Analytics Engineer | 55 | 4 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 61 | J.M. Smucker | Senior Analyst, Business Intelligence | 55 | 3 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 62 | TikTok | Senior Machine Learning Engineer, TikTok Trust and Safety | 55 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 63 | TikTok | Senior Machine Learning E-commerce Feed Recommendation  | 55 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 64 | TikTok | Senior Machine Learning Engineer, E-commerce Feed Recommendation  | 55 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 65 | TikTok | Senior Machine Learning Engineer, Recommendation - TikTok eCommerce  | 55 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 66 | Ally Bank | Sr Analyst- Business Intelligence | 55 | 54 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 67 | Ally Bank | Senior Analyst, Advances Business Analytics | 55 | 54 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 68 | Ally Bank | Senior Specialist - Data Science | 55 | 54 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 69 | Pacific Life | Senior Data Engineer | 55 | 2 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
+| 70 | Johnson & Johnson | Senior Finance Analyst Competitive Insights & Analytics | 55 | 11 in data/analytics/finance occupations | Nov 10 (board gives the date only) |
 
 ---
 
@@ -357,7 +362,37 @@ PREFERRED EXPERIENCE
 
 ---
 
-## 12. [MAYBE] ConocoPhillips | Commercial DT, Quantitative Developer
+## 12. [MAYBE] Thermo Fisher Scientific | FSP-Associate Research Scientist-Characterization
+- Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Collegeville-Pennsylvania-USA/FSP-Associate-Research-Scientist-Characterization_R-01375532
+- Location: Collegeville, Pennsylvania, USA
+- Posted: Nov 11 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 42 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, healthcare, reporting, research, validation | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description Join Us as an Associate Research Scientist – Make an Impact at the Forefront of Innovation We have successfully supported the top 50 pharmaceutical companies and more than 750 biotechs, spanning 2,700 clinical trials across 100+ countries in the last 5 years. As an Associate Research Scientist, you will perform complex laboratory analysis of pharmaceutical products and proficiently use analytical instrumentation, calculate and analyze data and record data in adherence with PPD SOP's and the industry. You will routinely act as the project leader on multiple projects, interact with clients, review and evaluate data, write reports and protocols. You will be responsible for the scientific conduct of the project and communication of regulatory issues with senior level team members. What You'll Do: •Independently performs method validations, method transfers and analytical testing of pharmaceutical and biopharmaceutical compounds in a variety of formulations and/or delivery systems. Understands and conforms to methods and protocols applicable to assigned tasks. Designs and drives experiments with minimal supervision. •Prepares study protocols, project status reports, final study reports and other project-related technical documents. •Communicates data and technical issues to the client and responds to client needs and questions. •Mentors, trains and coordinates laboratory activities of other team members and assists in troubleshooting instrument and analytical problems. •Assists with quality systems and new equipment. •Assists in designing method validation or method transfer protocols and establish project timelines. •Reviews, interprets, and analyzes data for technical, quality and compliance to protocols, methods, SOPs, client criteria and Good Manufacturing Practices (GMP) or Good Laboratory Practices (GLP). Performs self and peer review of the data for accuracy and compliance with reporting requirements prior to submission to QA and issuance to customers. Education and Experience Requirements: ARS: Previous experience that provides the knowledge, skills, and abilities to perform the job (comparable 6+years’) OR Masters degree and previous experience that provides the knowledge, skills, and abilities to perform the job (comparable 4+ years’) OR PhD and previous experience that provides the knowledge, skills, and abilities to perform the job (comparable 2+ years’) Knowledge, Skills, Abilities: •Solid understanding and knowledge of general chemistry and separation science •Full understanding of laboratory requirements, PPD & client SOPs, ICH guidelines, USP requirements and FDA guidance •Ability to apply Microsoft Excel and Word to perform tasks •Proficiency on technical operating systems •Proven problem solving and troubleshooting abilities •Effective oral and written communication skills •Proven ability in technical writing skills •Time management and project management skills •Ability to work in a collaborative work environment with a team •Proven problem solving and troubleshooting abilities •Ability to train junior staff Work Environment: Thermo Fisher Scientific values the health and wellbeing of our employees. We support and encourage individuals to create a healthy and balanced environment where they can thrive. Below is listed the working environment/requirements for this role: •Able to communicate, receive, and understand information and ideas with diverse groups of people in a comprehensible and reasonable manner. •Able to work upright and stationary and/or standing for typical working hours. •Able to lift and move objects up to 25 pounds. •Able to work in non-traditional work environments. •Able to use and learn standard office equipment and technology with proficiency. •May have exposure to potentially hazardous elements, including infectious agents, typically found in healthcare or laboratory environments. •Able to perform successfully under pressure while prioritizing and handling multiple projects or activities. Why Join Us? When you join Thermo Fisher Scientific, you become part of a global team that values passion, innovation, and a commitment to scientific excellence. You’ll work in an environment where collaboration and development are part of the everyday experience—and where your contributions truly make a difference. Apply today to help us deliver tomorrow’s breakthroughs.
+
+---
+
+## 13. [MAYBE] Uline | Business Intelligence Analyst
+- Link: https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Analyst_R269075
+- Location: 5 Locations
+- Posted: Nov 11 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 16 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, forecast, sql | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Business Intelligence Analyst Corporate Headquarters 12575 Uline Drive, Pleasant Prairie, WI 53158 Own analytics that move millions of shipments. Join Uline as a Business Intelligence Analyst, where you’ll apply advanced analytics and AI-driven insights to evaluate shipping performance, influence strategy and improve operations across one of North America’s largest freight networks! Careers Packed with Potential. Backed by 45+ years of success, Uline offers opportunities to grow your career with stability you can count on. Position Responsibilities Investigate and interpret logistics data to create clear and concise executive summary memos, diagrams and presentations. Work with cross functional teams to provide informed, actionable insights supporting the improvement of Uline’s logistics operations, processes and procedures. Evaluate shipping rates, surcharges and service standards to optimize logistics strategies. Develop data models and visualizations to support business decisions and forecast impacts. Minimum Requirements Bachelor’s Degree. 2+ years in Analytics, Business or Finance. Experience using data intelligence, predictive analytics or AI-enabled tools to deliver business insights. SQL experience preferred. Proficient in Microsoft Word, PowerPoint and Excel. Excellent communication and time management skills with great attention to detail. Benefits Complete health insurance coverage and 401(k) with 6% employer match that starts day one ! Multiple bonus programs. Paid holidays and generous paid time off. Tuition Assistance Program that covers professional continuing education. Employee Perks On-site café and first-class fitness center with complimentary personal trainers. Over four miles of beautifully maintained walking trails. About Uline Uline, a family-owned company, is North America’s leading distributor of shipping, industrial, and packaging materials with over 10,000 employees across 15 locations. Uline is a drug-free workplace . All new hires must complete a pre-employment hair follicle drug screening . All positions are on-site.
+
+---
+
+## 14. [MAYBE] ConocoPhillips | Commercial DT, Quantitative Developer
 - Link: https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Commercial-DT--Quantitative-Developer_REQ-006475-1
 - Location: Houston, TX
 - Posted: Nov 10 (board gives the date only)
@@ -372,7 +407,37 @@ Welcome to ConocoPhillips, where innovation and excellence create a platform for
 
 ---
 
-## 13. [MAYBE] Nascent | Applied ML Engineer - Model R&D
+## 15. [MAYBE] Jobs for Humanity | Data Engineer
+- Link: https://jobs.smartrecruiters.com/JobsForHumanity/744000161128299
+- Location: Springfield MA us remote
+- Posted: Nov 11 11:49 ET
+- Scanner fit: ~49 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, bigquery, excel, gcp, python, spark, sql, git, pipeline, validation | Lacks: airflow, kafka, scala, snowflake  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Key Responsibilities Pipeline Architecture & Development: Design, build, and maintain scalable, reliable batch and streaming data pipelines using modern distributed frameworks (e.g., Spark, Flink, Kafka, Airflow). Data Modeling & Storage: Architect robust data models and storage strategies optimized for analytical query performance in cloud data warehouses and data lakes (e.g., Snowflake, BigQuery, AWS S3/Redshift). System Quality & Reliability: Monitor data pipeline health, establish automated testing and data validation frameworks, and optimize pipeline throughput, latency, and query performance. Security & Compliance: Ensure all data management practices strictly comply with security protocols, privacy standards, and regulatory frameworks required for financial infrastructure. Cross-Functional Collaboration: Partner with Analytics, Data Science, Product, and Infrastructure teams to translate raw protocol and product telemetry into canonical, reliable data platforms. Qualifications & Requirements Domain & Company Familiarity: Familiarity with cryptocurrency, Web3/blockchain data structures (e.g., on-chain transaction data, smart contract logs), or Coinbase’s mission and product ecosystem. Core Technical Stack: Advanced proficiency in Python or Scala, along with strong expertise in complex SQL query optimization and relational/non-relational database design. Big Data Infrastructure: Deep hands-on experience with cloud infrastructure (AWS/GCP), orchestration platforms (Airflow/Prefect), data lakes, and stream processing tools (Kafka, Spark Streaming, or Flink). Engineering Best Practices: Strong grounding in software engineering fundamentals, including version control (Git), CI/CD, testing, code reviews, and infrastructure as code. Remote Independence: Excellent problem-solving skills with the ability to own data products end-to-end and work autonomously in an asynchronous, remote-first environment. $500 Sign up bonus
+
+---
+
+## 16. [MAYBE] Bridgewater Associates | Client Investment Research Analyst, Investor Relations Team
+- Link: https://job-boards.greenhouse.io/bridgewater89/jobs/8937950002
+- Location: New York City
+- Posted: Nov 11 11:47 ET
+- Scanner fit: ~45 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 57 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, portfolio, quantitative, research | Lacks: -
+- Eligibility: CHECK | Sponsorship &nbsp; / Please note that w e do pro vide immigration sponsorship for this position.
+
+### Job description
+
+About the Client Service Department &nbsp; The goal of Client Service is to build and grow meaningful relationships with the world’s largest, most sophisticated investors and help clients achieve their goals through high quality return streams and tailored insights. To this end, we deeply understand the global pools of capital, develop strategies to effectively develop relationships, and partner with clients on their most difficult investment and portfolio construction problems. We help our clients broaden their understanding of our investment process, strategies and performance as well as deepen their understanding of financial markets more generally. &nbsp; About Your Role &nbsp; Client Investment Research Analysts play a vital role in service of Bridgewater’s overall client service strategy across our front office departments – the Alpha Engine, Total Portfolio Strategies, and Client Service. Analysts act as the primary support to Bridgewater’s Strategists, a small group of senior investors appointed by Bridgewater’s co-CIOs to partner directly with our clients on their most important Research priorities. Day-to-day work includes collaborating with Strategists, Client Advisors, asset class teams, and our CIOs to define approaches on how to handle different client-focused research projects and execute on them through research, analysis, and project management, culminating in novel investment insights that informs out clients’ thinking. From their unique position at the heart of Bridgewater’s client-focused research activity, these individuals have an aerial view into our ever-evolving perspectives on world markets, high-impact company-wide projects and our investment philosophy and processes.&nbsp; &nbsp; Bridgewater’s market-driven approach to client service requires our Analysts to continually expand their understanding and knowledge of the markets. Through formal training and informal on-the-job instruction, Analysts become well-versed in our investment approach, process and different strategies, our book of business, and our production systems.&nbsp; &nbsp; As a Client Investment Research Analyst for the Investor Relations team, you will partner with Client Advisors and Strategists to provide clients with insights and advice to address their questions about Bridgewater’s strategies, performance, and portfolio positions. You will also be exposed to the full breadth of Bridgewater strategies, regularly working with different types of content and project managing across pillars and disciplines.&nbsp; &nbsp; Successful Client Investment Research Analysts will: &nbsp; Develop a holistic understanding of portfolios and portfolio management principles &nbsp; Understand the depth and breadth of Bridgewater’s market knowledge as well as its pioneering work in institutional asset management and alpha and beta separation &nbsp; Contribute to Bridgewater’s world-class client service strategy through creative thinking about how to generate insights and convey key messages to our clients about our investment philosophy, strategies, performance and outlook in the markets. &nbsp; You will drive the following responsibilities:&nbsp; &nbsp;&nbsp; &nbsp; Understand Bridgewater’s book of business, related commercial strategy and our investment thinking &nbsp; Strategize with Client Advisors, other Research teams and investment professionals (at times including CIOs and other Sr. Researchers) and help develop best approach to handle client requests, enable high quality client engagements &nbsp; Apply analytical skills, market knowledge, and an understanding of Bridgewater’s investment methodology to create insights to help shape clients’ investment thinking or deliver client-ready portfolio position and performance reports to allow our Client Advisors, Investment Strategists and Chief Investment Officers to tell the Bridgewater investment story in a rich and accurate way &nbsp; Project manage complex engagements across various senior stakeholders and departments to ensure quality and efficient delivery of work products &nbsp; Engage with and contribute to the creation of Bridgewater’s leverageable content suite, using it to effectively respond to client requests &nbsp; Work creatively with existing methodologies and tools to identify and solve problems in how we serve clients by simultaneously contributing to the creation of new tools, models, and or “machines” to automate and streamline our processes &nbsp; The anticipated onsite requirement for this role is four days per week at our New York City campus. &nbsp; Minimum Qualifications &nbsp; The Client Investment Research Analyst role is a great opportunity to transition into Bridgewater. While the position does not require deep experience in asset management, preferred candidates will have prior experience within a related and similarly fast-paced professional services environment. We are looking for intellectually curious, energetic individuals who can learn quickly and are aggressive problem-solvers. Candidates should meet the following criteria: 1-3 years in a Finance, Consulting or otherwise relevant analytical and conceptual role. &nbsp; Bachelors or Masters degree, preferably in STEM, Economics or Finance (or related degrees), with a strong academic and extracurricular track record &nbsp; Interest for and understanding of markets and economies &nbsp; Ability to solve complex problems through data analysis &nbsp; Aptitude for creative quantitative work involving financial and economic data &nbsp; Experience in writing and synthesizing large amounts of information, preferably with a macroeconomic focus &nbsp; In addition, to succeed within our unique culture and work environment, individuals must demonstrate humility, innate curiosity, and openness to new ideas and approaches. Candidates must be driven, confident, and goal-oriented. All Bridgewater employees are expected to be honest, exceptionally direct, and eager to provide and receive objective feedback. Our employees constantly strive for self-improvement through feedback and self-reflection and are committed to the pursuit of excellence. About Bridgewater &nbsp; Bridgewater Associates is a global macro investment firm, founded in 1975, whose mission is to develop a fundamental, cause-and-effect understanding of how markets and economies work—and translate that understanding into insights, returns, and solutions that help the world’s leading institutional investors solve their most important investment challenges. &nbsp; Over five decades, we have codified our fundamental understanding into a systematic investment process—integrating human judgment with machine intelligence with the goal of applying our thinking consistently, testing it against reality, and continuously improving decision-making over time. We believe this has created a unique platform for applying AI within our process, positioning us at the frontier of integrating technology with investment decision-maki [...]
+
+---
+
+## 17. [MAYBE] Nascent | Applied ML Engineer - Model R&D
 - Link: https://jobs.ashbyhq.com/nascent/c9482147-5f04-45c1-85b1-40a2a8e6f0e4
 - Location: Remote - United States United States Remote - Canada remote
 - Posted: Nov 11 09:53 ET
@@ -485,7 +550,7 @@ What We Offer
 
 ---
 
-## 14. [MAYBE] Georgetown University | Assistant Dean, Analytics, Technology, and Security
+## 18. [MAYBE] Georgetown University | Assistant Dean, Analytics, Technology, and Security
 - Link: https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/Downtown-Campus/Assistant-Dean--Analytics--Technology--and-Security_JR28093
 - Location: Downtown Campus
 - Posted: Nov 10 (board gives the date only)
@@ -500,7 +565,22 @@ Georgetown University comprises two unique campuses in the nation’s capital. W
 
 ---
 
-## 15. [MAYBE] Palo Alto Networks | Senior Data Scientist
+## 19. [MAYBE] Sanford Health | Assistant Research Scientist - Dissemination and Implementation
+- Link: https://sanford.wd5.myworkdayjobs.com/sanfordhealth/job/WI-Marshfield/Assistant-Research-Scientist---Dissemination-and-Implementation_R-0280619
+- Location: WI, Marshfield
+- Posted: Nov 11 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, publication, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland. &#xa;&#xa; Work Shift: 8 Hours - Day Shifts (United States of America)&#xa;&#xa; Scheduled Weekly Hours: 40&#xa;&#xa; Compensation: Salary Range: $32.50 - $52.00&#xa;&#xa;&#xa;&#xa; Union Position: No&#xa;&#xa; Department Details The Assistant Research Scientist will be responsible for dissemination and implementation (D&I) research on behalf of the National Children's Center for Rural and Agricultural Health and Safety, a CDC-NIOSH funded center of excellence within Sanford's National Farm Medicine Center. This important role requires a doctorate degree, preferably in occupational safety and health, social sciences, public health, family studies, or related field. Additional experience in translational sciences and formal D&I projects is valuable Summary Assistant Research Scientist plans, coordinates, implements and conducts independent scientific research. Research would include but is not limited to complex laboratory testing, experiments, epidemiological/data driven research, health services research, field research, and analysis following established protocols. Job Description Analyzes and evaluates findings. Organizes and conceptualizes ideas leading to proposals. Writes technical summaries and publications or co-authors. Prepares and makes formal presentations of research results. Applies for smaller/regional grants aligned with expertise and in support of other research programmatic needs across the research enterprise. High level of knowledge in scientific research processes, procedures, and objectives. Possesses ability to implement experiments and other complex study designs in the subject discipline with the ability to trouble shoot issues. Good knowledge of the principles and techniques of the subject discipline required. Possesses ability to run complex pieces of equipment requiring advanced specialized training. Possesses knowledge of modern research methods, data collection and analysis. Significant experience in analyzing and evaluating data. General level of knowledge of project management, decision-making, and analytical skills. Strong verbal, written, and interpersonal communication skills. Ability to work collaboratively with a research group or team. Required publications and funding upon appointment is minimal. Sanford Research is a multi-site institution and occasional local travel between sites may be required. Qualifications Requires a doctorate degree in a clinical, health, or life science field. Minimum of three years post-doctoral experience in related subject field of study. Equivalent to Instructor. Selected from national applicant pool or known to be nationally competitive. Sanford is an
+
+---
+
+## 20. [MAYBE] Palo Alto Networks | Senior Data Scientist
 - Link: https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Staff-Data-Scientist_JR-022821
 - Location: Office - USA - CA - Headquarters
 - Posted: Nov 10 (board gives the date only)
@@ -515,7 +595,7 @@ Our Mission At Palo Alto Networks®, we’re united by a shared mission—to pro
 
 ---
 
-## 16. [MAYBE] Capital One | Senior Associate, Data Scientist -  Consumer Credit Risk Models and Data
+## 21. [MAYBE] Capital One | Senior Associate, Data Scientist -  Consumer Credit Risk Models and Data
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist----Consumer-Credit-Risk-Models-and-Data_R1005174-1
 - Location: McLean, VA
 - Posted: Nov 10 (board gives the date only)
@@ -530,7 +610,7 @@ Senior Associate, Data Scientist - Consumer Credit Risk Models and Data Data is 
 
 ---
 
-## 17. [MAYBE] Liberty Mutual | Title Senior Analyst/Associate, Quantitative Solutions – Liberty Mutual Investments
+## 22. [MAYBE] Liberty Mutual | Title Senior Analyst/Associate, Quantitative Solutions – Liberty Mutual Investments
 - Link: https://careers-libertymutual.icims.com/jobs/76365/senior-analyst-associate%2c-quantitative-solutions-%e2%80%93-liberty-mutual-investments/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -545,7 +625,7 @@ Senior Analyst/Associate, Quantitative Solutions – Liberty Mutual Investments 
 
 ---
 
-## 18. [MAYBE] Capital One | Senior Associate, Data Science - Consumer Credit Risk Models and Data
+## 23. [MAYBE] Capital One | Senior Associate, Data Science - Consumer Credit Risk Models and Data
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Data-Science---Consumer-Credit-Risk-Models-and-Data_R1005173-1
 - Location: McLean, VA
 - Posted: Nov 10 (board gives the date only)
@@ -560,7 +640,7 @@ Senior Associate, Data Science - Consumer Credit Risk Models and Data Job Descri
 
 ---
 
-## 19. [MAYBE] Expedia Inc. | Economist II
+## 24. [MAYBE] Expedia Inc. | Economist II
 - Link: https://expedia.wd108.myworkdayjobs.com/Search/job/Washington---Seattle-Campus/Economist-II_R-110925-1
 - Location: 2 Locations
 - Posted: Nov 10 (board gives the date only)
@@ -575,7 +655,7 @@ At Expedia Group, we help travelers explore the world, one journey at a time. As
 
 ---
 
-## 20. [MAYBE] Quantum | Senior Data Engineer
+## 25. [MAYBE] Quantum | Senior Data Engineer
 - Link: https://jobs.ashbyhq.com/quantum/228ad80d-8041-49a8-a28e-b7d997eb30b5
 - Location: London United Kingdom remote
 - Posted: Nov 10 17:18 ET
@@ -685,7 +765,7 @@ If you like the sound of what we're all about at Quantum and want to join a team
 
 ---
 
-## 21. [MAYBE] Capital One | Senior Associate, Data Scientist - Card Intelligence
+## 26. [MAYBE] Capital One | Senior Associate, Data Scientist - Card Intelligence
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist---Card-Intelligence_R245082-1
 - Location: 2 Locations
 - Posted: Nov 10 (board gives the date only)
@@ -700,7 +780,7 @@ Senior Associate, Data Scientist - Card Intelligence Data is at the center of ev
 
 ---
 
-## 22. [MAYBE] StoneX Group | Job Posting Title Senior Credit Risk Analyst
+## 27. [MAYBE] StoneX Group | Job Posting Title Senior Credit Risk Analyst
 - Link: https://careers-stonex.icims.com/jobs/16540/senior-credit-risk-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -715,7 +795,7 @@ Senior Credit Risk Analyst in Kansas City, Missouri | Careers at Kansas City MO 
 
 ---
 
-## 23. [MAYBE] Sanofi | PAT Senior Data Scientist
+## 28. [MAYBE] Sanofi | PAT Senior Data Scientist
 - Link: https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/PAT-Senior-Data-Scientist---Canopy_R2873438-1
 - Location: Waltham, MA
 - Posted: Nov 10 (board gives the date only)
@@ -730,7 +810,7 @@ Job title: PAT Senior Data Scientist Location: Waltham, MA About the Job As Seni
 
 ---
 
-## 24. [MAYBE] Capital One | Job Posting Title Senior Data Analyst (Financial Services)
+## 29. [MAYBE] Capital One | Job Posting Title Senior Data Analyst (Financial Services)
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Job-Posting-Title-Senior-Data-Analyst--Financial-Services-_R1004352-1
 - Location: Plano, TX
 - Posted: Nov 10 (board gives the date only)
@@ -745,7 +825,7 @@ Job Posting Title Senior Data Analyst (Financial Services) At Capital One, data 
 
 ---
 
-## 25. [MAYBE] Capital One | Senior Data Analyst - Card
+## 30. [MAYBE] Capital One | Senior Data Analyst - Card
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Analyst---Card_R1000762-1
 - Location: 2 Locations
 - Posted: Nov 10 (board gives the date only)
@@ -760,7 +840,7 @@ Senior Data Analyst - Card At Capital One, data is at the center of everything w
 
 ---
 
-## 26. [MAYBE] Stifel | Title Treasury Management Analytics Analyst II
+## 31. [MAYBE] Stifel | Title Treasury Management Analytics Analyst II
 - Link: https://careers-stifel.icims.com/jobs/9525/treasury-management-analytics-analyst-ii/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -775,7 +855,7 @@ Treasury Management Analytics Analyst II in Saint Louis, Missouri | Careers at H
 
 ---
 
-## 27. [MAYBE] Cleveland Clinic | Research Data Scientist II - Rotroff Lab
+## 32. [MAYBE] Cleveland Clinic | Research Data Scientist II - Rotroff Lab
 - Link: https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Data-Scientist-II---Rotroff-Lab_356305
 - Location: Cleveland Clinic Main Campus
 - Posted: Nov 10 (board gives the date only)
@@ -790,7 +870,7 @@ At Cleveland Clinic Health System, we believe in a better future for healthcare.
 
 ---
 
-## 28. [MAYBE] University of Miami | Sr. Research Associate 1 - Behavioral and Community Based Research
+## 33. [MAYBE] University of Miami | Sr. Research Associate 1 - Behavioral and Community Based Research
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Sr-Research-Associate-1_R100096648
 - Location: Miami, FL
 - Posted: Nov 10 (board gives the date only)
@@ -805,7 +885,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 29. [MAYBE] The Brookings Institution | Job Title Senior Research Assistant, The Hamilton Project (Job ID: 2026-3892)
+## 34. [MAYBE] The Brookings Institution | Job Title Senior Research Assistant, The Hamilton Project (Job ID: 2026-3892)
 - Link: https://careers-brookings.icims.com/jobs/3892/senior-research-assistant%2c-the-hamilton-project-%28job-id%3a-2026-3892%29/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -820,7 +900,7 @@ Jobs and Internships | Brookings Institution | Senior Research Assistant, The Ha
 
 ---
 
-## 30. [MAYBE] Capital One | Senior Data Analyst - Risk Product Data
+## 35. [MAYBE] Capital One | Senior Data Analyst - Risk Product Data
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Analyst---Risk-Product-Data_R247753-2
 - Location: 3 Locations
 - Posted: Nov 10 (board gives the date only)
@@ -835,7 +915,7 @@ Senior Data Analyst - Risk Product Data At Capital One, data is at the center of
 
 ---
 
-## 31. [MAYBE] Emory University | Job Title Senior Biostatistician - Office of Nursing Research - School of Nursing
+## 36. [MAYBE] Emory University | Job Title Senior Biostatistician - Office of Nursing Research - School of Nursing
 - Link: https://staff-emory.icims.com/jobs/173002/senior-biostatistician---office-of-nursing-research---school-of-nursing/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -850,7 +930,7 @@ Emory Careers | Senior Biostatistician - Office of Nursing Research - School of 
 
 ---
 
-## 32. [MAYBE] Capital One | Senior Data Analyst - Emerging Payments & AirKey
+## 37. [MAYBE] Capital One | Senior Data Analyst - Emerging Payments & AirKey
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Data-Analyst---Emerging-Payments---AirKey_R1004307-1
 - Location: 2 Locations
 - Posted: Nov 10 (board gives the date only)
@@ -865,7 +945,7 @@ Senior Data Analyst - Emerging Payments & AirKey At Capital One, data is at the 
 
 ---
 
-## 33. [MAYBE] Capital One | Senior Data Analyst - Enterprise Services
+## 38. [MAYBE] Capital One | Senior Data Analyst - Enterprise Services
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Analyst---Enterprise-Services_R999881-1
 - Location: 5 Locations
 - Posted: Nov 10 (board gives the date only)
@@ -880,7 +960,7 @@ Senior Data Analyst - Enterprise Services At Capital One, data is at the center 
 
 ---
 
-## 34. [MAYBE] Circle K | Senior Data Analyst – European Merchandising Analytics (Riga)
+## 39. [MAYBE] Circle K | Senior Data Analyst – European Merchandising Analytics (Riga)
 - Link: https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-Riga-BC--BU/Senior-Data-Analyst---European-Merchandising-Analytics--Riga-_R635295-1
 - Location: Support Office Riga BC & BU
 - Posted: Nov 10 (board gives the date only)
@@ -895,7 +975,7 @@ Job Description Senior Data Analyst – European Merchandising Analytics Departm
 
 ---
 
-## 35. [MAYBE] Helen of Troy | Sr. AI Analytics Engineer
+## 40. [MAYBE] Helen of Troy | Sr. AI Analytics Engineer
 - Link: https://helenoftroy.wd503.myworkdayjobs.com/Main_HoT/job/USA---Marlborough-Massachusetts/Sr-AI-Analytics-Engineer_R0006091
 - Location: 4 Locations
 - Posted: Nov 10 (board gives the date only)
@@ -910,7 +990,7 @@ Join our IT team at Helen of Troy and make an immediate impact on our trusted br
 
 ---
 
-## 36. [MAYBE] Thermo Fisher Scientific | Sr Pricing Analyst
+## 41. [MAYBE] Thermo Fisher Scientific | Sr Pricing Analyst
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Sr-Pricing-Analyst_R-01369979
 - Location: Pittsburgh, Pennsylvania, USA
 - Posted: Nov 10 (board gives the date only)
@@ -925,7 +1005,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 37. [MAYBE] Bank of Montreal | Senior AI Engineer, Finance AI & Automation
+## 42. [MAYBE] Bank of Montreal | Senior AI Engineer, Finance AI & Automation
 - Link: https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Senior-AI-Engineer--Finance-AI---Automation_R260030665
 - Location: Chicago, IL, USA
 - Posted: Nov 10 (board gives the date only)
@@ -940,7 +1020,7 @@ Application Deadline: 11/29/2026 Address: 320 S Canal Street Job Family Group: D
 
 ---
 
-## 38. [MAYBE] Capital One | Senior Data Analyst - Analytics & Transformation
+## 43. [MAYBE] Capital One | Senior Data Analyst - Analytics & Transformation
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Analyst---Analytics---Transformation_R248273-1
 - Location: McLean, VA
 - Posted: Nov 10 (board gives the date only)
@@ -955,7 +1035,7 @@ Senior Data Analyst - Analytics & Transformation At Capital One, data is at the 
 
 ---
 
-## 39. [MAYBE] Dow Jones | Senior Machine Learning Engineer
+## 44. [MAYBE] Dow Jones | Senior Machine Learning Engineer
 - Link: https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Senior-Machine-Learning-Engineer_Job_Req_55214-1
 - Location: NYC - 1211 Ave of the Americas
 - Posted: Nov 10 (board gives the date only)
@@ -970,7 +1050,7 @@ Job Description: About the Team: Our Technology team drives the evolution of our
 
 ---
 
-## 40. [MAYBE] Ohio State University | Senior Reporting and Analytics Analyst - Government Resource Center
+## 45. [MAYBE] Ohio State University | Senior Reporting and Analytics Analyst - Government Resource Center
 - Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Senior-Reporting-and-Analytics-Analyst---Government-Resource-Center_R162048-1
 - Location: Columbus Campus
 - Posted: Nov 10 (board gives the date only)
@@ -985,7 +1065,7 @@ Screen reader users may encounter difficulty with this site. For assistance with
 
 ---
 
-## 41. [MAYBE] TikTok | Senior Research Scientist, TikTok - Trust and Safety
+## 46. [MAYBE] TikTok | Senior Research Scientist, TikTok - Trust and Safety
 - Link: https://lifeattiktok.com/search/7524552693411973383
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -1016,7 +1096,7 @@ Preferred Qualifications:
 
 ---
 
-## 42. [MAYBE] TikTok | Senior Machine Learning Engineer, Global E-Commerce – Recommendation (Multiple Positions)
+## 47. [MAYBE] TikTok | Senior Machine Learning Engineer, Global E-Commerce – Recommendation (Multiple Positions)
 - Link: https://lifeattiktok.com/search/7683256075692345653
 - Location: Seattle, Washington, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -1074,7 +1154,7 @@ TikTok is committed to providing
 
 ---
 
-## 43. [MAYBE] Horizon media | Senior Analyst, Business Intelligence
+## 48. [MAYBE] Horizon media | Senior Analyst, Business Intelligence
 - Link: https://horizonmedia.wd1.myworkdayjobs.com/CareerOpportunities/job/New-York-New-York/Senior-Analyst--Business-Intelligence_R0017625
 - Location: New York, New York
 - Posted: Nov 10 (board gives the date only)
@@ -1089,7 +1169,7 @@ Job Description Who We Are Horizon Next is one of the industry's most innovative
 
 ---
 
-## 44. [MAYBE] Medtronic | Senior Market Access Analytics Specialist - (Remote)
+## 49. [MAYBE] Medtronic | Senior Market Access Analytics Specialist - (Remote)
 - Link: https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Market-Access-Analytics-Specialist_R72698
 - Location: 2 Locations
 - Posted: Nov 10 (board gives the date only)
@@ -1104,7 +1184,7 @@ We anticipate the application window for this opening will close on - 12 Nov 202
 
 ---
 
-## 45. [MAYBE] Medtronic | Senior Market Access Analytics Specialist - (Remote)
+## 50. [MAYBE] Medtronic | Senior Market Access Analytics Specialist - (Remote)
 - Link: https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Market-Access-Analytics-Specialist_R72698-1
 - Location: 2 Locations
 - Posted: Nov 10 (board gives the date only)
@@ -1119,7 +1199,7 @@ We anticipate the application window for this opening will close on - 12 Nov 202
 
 ---
 
-## 46. [MAYBE] Thumbtack | Data Scientist II, Marketing
+## 51. [MAYBE] Thumbtack | Data Scientist II, Marketing
 - Link: https://jobs.ashbyhq.com/thumbtack/41a2b5a1-eff3-4a32-9e5f-e51f7e7856e8
 - Location: Remote, United States United States remote
 - Posted: Nov 10 18:04 ET
@@ -1199,7 +1279,7 @@ Thumbtack is committed to working with and providing
 
 ---
 
-## 47. [MAYBE] Charles Schwab | Job Posting Title Senior Data Scientist
+## 52. [MAYBE] Charles Schwab | Job Posting Title Senior Data Scientist
 - Link: https://career-schwab.icims.com/jobs/125669/senior-data-scientist/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1214,7 +1294,7 @@ Senior Data Scientist in Austin, Texas | Careers at AUS1 - AUSTIN TX CAMPUS - BL
 
 ---
 
-## 48. [MAYBE] Cotiviti | Title Senior Generative AI Scientist I
+## 53. [MAYBE] Cotiviti | Title Senior Generative AI Scientist I
 - Link: https://careers-cotiviti.icims.com/jobs/19797/senior-generative-ai-scientist-i/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1229,7 +1309,7 @@ Senior Generative AI Scientist I in Remote | Careers at US Nationwide Remote Ple
 
 ---
 
-## 49. [MAYBE] Liberty Mutual | Title Senior Quantitative Analyst - Liberty Mutual Investments
+## 54. [MAYBE] Liberty Mutual | Title Senior Quantitative Analyst - Liberty Mutual Investments
 - Link: https://careers-libertymutual.icims.com/jobs/76096/senior-quantitative-analyst---liberty-mutual-investments/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1244,7 +1324,7 @@ Senior Quantitative Analyst - Liberty Mutual Investments in Boston, Massachusett
 
 ---
 
-## 50. [MAYBE] PepsiCo | Title Analytics Sr Analyst
+## 55. [MAYBE] PepsiCo | Title Analytics Sr Analyst
 - Link: https://uscareers-pepsico.icims.com/jobs/444150/analytics-sr-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1259,7 +1339,7 @@ Analytics Sr Analyst in Plano, Texas | Careers at TX-Plano-7701a-HDQ-TX224B Plea
 
 ---
 
-## 51. [MAYBE] Stifel | Title Bank Data Analyst II – CECL & Credit Risk
+## 56. [MAYBE] Stifel | Title Bank Data Analyst II – CECL & Credit Risk
 - Link: https://careers-stifel.icims.com/jobs/10046/bank-data-analyst-ii-%e2%80%93-cecl-%26-credit-risk/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1274,7 +1354,7 @@ Bank Data Analyst II – CECL & Credit Risk in Saint Louis, Missouri | Careers a
 
 ---
 
-## 52. [MAYBE] StoneX Group | Job Posting Title Senior Operational Risk Analyst
+## 57. [MAYBE] StoneX Group | Job Posting Title Senior Operational Risk Analyst
 - Link: https://careers-stonex.icims.com/jobs/16907/senior-operational-risk-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1289,7 +1369,7 @@ Senior Operational Risk Analyst in Chicago, Illinois | Careers at Chicago IL (O)
 
 ---
 
-## 53. [MAYBE] Genentech | Senior Data Scientist, Gen AI Application
+## 58. [MAYBE] Genentech | Senior Data Scientist, Gen AI Application
 - Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Data-Scientist--Gen-AI-Application_202609-122461-1
 - Location: South San Francisco
 - Posted: Nov 10 (board gives the date only)
@@ -1304,7 +1384,7 @@ Why Genentech We’re passionate about delivering on Our Promise to improve the 
 
 ---
 
-## 54. [MAYBE] Genentech | Senior AI Engineer- Imaging
+## 59. [MAYBE] Genentech | Senior AI Engineer- Imaging
 - Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-AI-Engineer--Imaging_202610-127660
 - Location: South San Francisco
 - Posted: Nov 10 (board gives the date only)
@@ -1319,7 +1399,7 @@ We advance science so that we all have more time with the people we love. As an 
 
 ---
 
-## 55. [MAYBE] Insulet Corporation | Senior Analytics Engineer
+## 60. [MAYBE] Insulet Corporation | Senior Analytics Engineer
 - Link: https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Gelang-Patah-Johor/Senior-Analytics-Engineer_REQ-2026-17633
 - Location: Gelang Patah, Johor
 - Posted: Nov 10 (board gives the date only)
@@ -1334,7 +1414,7 @@ Job Summary Position Overview: The Senior Analytics Engineer will be part of Ins
 
 ---
 
-## 56. [MAYBE] J.M. Smucker | Senior Analyst, Business Intelligence
+## 61. [MAYBE] J.M. Smucker | Senior Analyst, Business Intelligence
 - Link: https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Senior-Analyst--Business-Intelligence_116129
 - Location: 2 Locations
 - Posted: Nov 10 (board gives the date only)
@@ -1349,7 +1429,7 @@ Your Opportunity as the Senior Analyst, BI The Senior Analyst, Business Intellig
 
 ---
 
-## 57. [MAYBE] TikTok | Senior Machine Learning Engineer, TikTok Trust and Safety
+## 62. [MAYBE] TikTok | Senior Machine Learning Engineer, TikTok Trust and Safety
 - Link: https://lifeattiktok.com/search/7346319256134633766
 - Location: Seattle, Washington, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -1386,7 +1466,7 @@ Preferred Qualifications:
 
 ---
 
-## 58. [MAYBE] TikTok | Senior Machine Learning E-commerce Feed Recommendation 
+## 63. [MAYBE] TikTok | Senior Machine Learning E-commerce Feed Recommendation 
 - Link: https://lifeattiktok.com/search/7327254212869736713
 - Location: Seattle, Washington, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -1419,7 +1499,7 @@ Preferred Qualifications
 
 ---
 
-## 59. [MAYBE] TikTok | Senior Machine Learning Engineer, E-commerce Feed Recommendation 
+## 64. [MAYBE] TikTok | Senior Machine Learning Engineer, E-commerce Feed Recommendation 
 - Link: https://lifeattiktok.com/search/7202462007307192632
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -1453,7 +1533,7 @@ Preferred Qualifications
 
 ---
 
-## 60. [MAYBE] TikTok | Senior Machine Learning Engineer, Recommendation - TikTok eCommerce 
+## 65. [MAYBE] TikTok | Senior Machine Learning Engineer, Recommendation - TikTok eCommerce 
 - Link: https://lifeattiktok.com/search/7254623216965568825
 - Location: Seattle, Washington, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -1481,7 +1561,7 @@ Preferred Qualifications:
 
 ---
 
-## 61. [MAYBE] Ally Bank | Sr Analyst- Business Intelligence
+## 66. [MAYBE] Ally Bank | Sr Analyst- Business Intelligence
 - Link: https://ally.wd1.myworkdayjobs.com/ALLY/job/Lewisville-TX/Sr-Analyst--Business-Intelligence_R2601330
 - Location: Lewisville, TX
 - Posted: Nov 10 (board gives the date only)
@@ -1496,7 +1576,7 @@ Ally and Your Career Ally Financial only succeeds when its people do - and that�
 
 ---
 
-## 62. [MAYBE] Ally Bank | Senior Analyst, Advances Business Analytics
+## 67. [MAYBE] Ally Bank | Senior Analyst, Advances Business Analytics
 - Link: https://ally.wd1.myworkdayjobs.com/ALLY/job/Lewisville-TX/Senior-Analyst--Advances-Business-Analytics_R2601357
 - Location: Lewisville, TX
 - Posted: Nov 10 (board gives the date only)
@@ -1511,7 +1591,7 @@ Ally and Your Career Ally Financial only succeeds when its people do - and that�
 
 ---
 
-## 63. [MAYBE] Ally Bank | Senior Specialist - Data Science
+## 68. [MAYBE] Ally Bank | Senior Specialist - Data Science
 - Link: https://ally.wd1.myworkdayjobs.com/ALLY/job/Detroit-MI/Senior-Specialist---Data-Science_R2600882
 - Location: 2 Locations
 - Posted: Nov 10 (board gives the date only)
@@ -1526,7 +1606,7 @@ Ally and Your Career Ally Financial only succeeds when its people do - and that�
 
 ---
 
-## 64. [MAYBE] Pacific Life | Senior Data Engineer
+## 69. [MAYBE] Pacific Life | Senior Data Engineer
 - Link: https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-800/Senior-Data-Engineer_R18002
 - Location: Newport Beach CA-800
 - Posted: Nov 10 (board gives the date only)
@@ -1541,7 +1621,7 @@ Job Description: What You'll Do Design, build, and maintain scalable data pipeli
 
 ---
 
-## 65. [MAYBE] Johnson & Johnson | Senior Finance Analyst Competitive Insights & Analytics
+## 70. [MAYBE] Johnson & Johnson | Senior Finance Analyst Competitive Insights & Analytics
 - Link: https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Senior-Finance-Analyst-Competitive-Insights---Analytics_R-108691-2
 - Location: New Brunswick, New Jersey, United States of America
 - Posted: Nov 10 (board gives the date only)
