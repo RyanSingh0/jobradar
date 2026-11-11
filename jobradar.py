@@ -135,8 +135,8 @@ def fit_estimate(text):
     tech = sorted({k.strip(" ,") for k in TECH if k in t})
     dom = sorted({k for k in DOMAIN if k in t})
     lack = sorted({k.replace("\\", "") for k in LACK if re.search(r"\b" + k, t)})
-    if not tech:
-        return 0, dom, lack
+    if not tech:  # 10 Nov 2026: finance/research postings often name no tools; score them on domain words (capped)
+        return (min(60, round(100 * len(dom) / (len(dom) + 3 * len(lack) + 6))) if len(dom) >= 3 else 0), dom, lack
     got = 2 * len(tech) + len(dom)
     return min(95, round(100 * got / (got + 3 * len(lack) + 6))), tech + dom, lack
 

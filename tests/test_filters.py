@@ -28,6 +28,9 @@ CASES = [
     ("Non-referral asking 4 years -> SKIP", lambda: run("Acme Analytics", "Data Analyst", GENERIC + " 4+ years of experience."), {"SKIP"}),
     ("Data Analyst II with 2 years -> MAYBE", lambda: run("Acme Analytics", "Data Analyst II", GENERIC + " 2+ years of experience."), {"MAYBE"}),
     ("Plain Data Analyst 1-2 years -> HOT", lambda: run("Acme Analytics", "Data Analyst", GENERIC + " 1-2 years of experience."), {"HOT"}),
+    ("Tool-free quant/risk posting still surfaces", lambda: run("Acme Analytics", "Credit Risk Analyst",
+        ("Front office credit risk for derivatives and FX portfolios, model risk review, reporting and quantitative research. "
+         "1-2 years of experience. ") * 3), {"MAYBE", "HOT"}),
     ("Staff ML Engineer still dropped on title", lambda: run("Salesforce", "Staff Machine Learning Engineer", GENERIC), {"DROPPED"}),
     ("Lead Data Scientist still dropped on title", lambda: run("Salesforce", "Lead Data Scientist", GENERIC), {"DROPPED"}),
     ("Data Analyst III still dropped on title", lambda: run("Acme Analytics", "Data Analyst III", GENERIC), {"DROPPED"}),

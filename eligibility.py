@@ -44,6 +44,10 @@ BLOCK = [
     r"\bitar\b|u\.?s\.? person",
     r"authori[sz]ed to work in the (u\.?s\.?|united states)[^.;]{0,80}without[^.;]{0,40}(sponsor|visa)",
     r"(now|currently)[^.;]{0,20}(or|and)[^.;]{0,20}in the future[^.;]{0,60}(not|will not|cannot)",
+    # 10 Nov 2026 (Liberty Mutual ADP): "You must have permanent work authorization in the United States"
+    r"(must|required to|need to)[^.;]{0,25}(have|hold|possess)[^.;]{0,20}permanent[^.;]{0,15}(work|employment)? ?authori[sz]",
+    r"permanent(ly)?[^.;]{0,15}authori[sz]\w*[^.;]{0,40}(required|must|only)",
+    r"(must|required to)[^.;]{0,20}be permanently authori[sz]ed",
 ]
 OK = [
     r"(will|may|can|is able to|are able to|is willing to)[^.;]{0,20}(consider )?(sponsor|provide (visa |immigration )?sponsorship)",
@@ -94,6 +98,9 @@ def verdict(text):
 
 # Real lines from postings and emails seen 26 Oct - 10 Nov 2026 (expected verdict, text)
 TESTS = [
+    ("BLOCK", "You must have permanent work authorization in the United States."),
+    ("BLOCK", "Candidates must be permanently authorized to work in the U.S."),
+    ("BLOCK", "Permanent work authorization in the United States is required for this program."),
     ("BLOCK", "At this time, Wellmark is not considering applicants for this position that require any type of immigration sponsorship (additional work authorization or permanent work authorization) now or in the future to work in the United States."),
     ("BLOCK", "Candidate must be authorized to work in the US without company sponsorship. The company will not support the STEM OPT I-983 Training Plan endorsement for this position."),
     ("BLOCK", "This role is not eligible for work visa sponsorship."),
