@@ -17,6 +17,7 @@ ROOT = Path(__file__).resolve().parent
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36 JobRadar/2",
       "Accept": "application/json, text/html;q=0.9"}
 from zoneinfo import ZoneInfo
+from eligibility import verdict as elig_verdict  # sentence-level work-authorization gate (10 Nov 2026)
 ET = ZoneInfo("America/New_York")  # was a fixed UTC-4, which reads an hour late after daylight saving ends
 WINDOW_H = 24
 
@@ -534,6 +535,10 @@ def jkey(company, title):
 
 def classify(j, spons):
     text = j["title"] + " " + j["desc"]
+    ev, eq = elig_verdict(j["desc"])
+    j["elig"] = (ev, eq[:2])
+    if ev == "BLOCK":
+        return "SKIP", f'eligibility: "{eq[0][:220]}"'
     m = BLOCK_RE.search(text)
     if m:
         a = max(0, m.start() - 50)
@@ -608,7 +613,8 @@ def entry(j, n):
             f"- Scanner fit: ~{j.get('fit')} | Min YOE: {j.get('yoe')} | H-1B (certified LCAs, Oct 2024-Dec 2025): {lca_text(j.get('lca'))}\n"
             f"- Type: {j.get('jobtype','full-time')}{' (' + str(j['hours']) + ' h/week stated)' if j.get('hours') else ''}\n"
             f"- Title scope: {j.get('scope','-')} | Has: {', '.join(j.get('have', [])[:14]) or '-'} | Lacks: {', '.join(j.get('lack', [])) or '-'}"
-            f"{'  | Note: ' + j['why'].strip() if j.get('why', '').strip() else ''}\n\n### Job description\n\n{trim(j['desc']).strip() or '(not readable; open the link)'}\n")
+            f"{'  | Note: ' + j['why'].strip() if j.get('why', '').strip() else ''}\n"
+            f"- Eligibility: {(j.get('elig') or ('NONE', []))[0]}{' | ' + ' / '.join(q[:220] for q in (j.get('elig') or ('', []))[1]) if (j.get('elig') or ('', []))[1] else ' (no sponsorship or authorization sentence found: still read the employer page)'}\n\n### Job description\n\n{trim(j['desc']).strip() or '(not readable; open the link)'}\n")
 
 
 def render(day, rows, tier_set, label):
