@@ -6,29 +6,35 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 |---|---|---|---|---|---|
 | 1 | Varian | Financial Analyst | 71 | 12 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
 | 2 | Royal Bank of Canada | OTC Derivatives Controls Analyst | 68 | 7 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 3 | Consolidated Edison | Analyst, Policy Integration Forecasting | 67 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 4 | Circle K | B2B Commercial Analyst | 65 | 19 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 5 | Lightcast | Economic Research Analyst / Junior Data Scientist - 1089 | 65 | none found (check myvisajobs) | Nov 12 11:49 ET |
-| 6 | SAIC | Data Scientist Associate | 61 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 7 | Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera | 54 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 8 | Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
-| 9 | Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | cap-exempt employer | Nov 11 (board gives the date only) |
-| 10 | Google | Research Scientist, Modeling of Readout and Reset, Quantum | 50 | 1053 in data/analytics/finance occupations | Nov 12 03:36 ET |
-| 11 | GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F) | 50 | 3 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 12 | GenScript | Research Associate, Analytical Development | 45 | 5 in data/analytics/finance occupations | Nov 12 02:18 ET |
-| 13 | Google | Gemini Vision Research Scientist, DeepMind | 44 | 1053 in data/analytics/finance occupations | Nov 12 09:38 ET |
-| 14 | Syngenta Group | Research Scientist | 40 | 5 in data/analytics/finance occupations | Nov 12 09:18 ET |
-| 15 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 12 10:12 ET |
-| 16 | CVS Health | Software Engineer (AI Engineering) | 40 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
-| 17 | CVS Health | Data and Analytics Consultant | 40 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 18 | Capital One | Senior Associate, Data Science - Compliance Model Risk | 74 | 458 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 19 | Merck | Senior AI Data Scientist/ Statistician | 67 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 20 | Merck | Senior AI Data Scientist | 65 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 21 | Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera | 62 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 22 | Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 23 | Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA ** | 56 | 16 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 24 | Elsevier | Senior Software Engineer / Senior AI Engineer | 55 | 7 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 25 | Wells Fargo | Senior Risk Analytics Consultant (Merchant Services) | 55 | 163 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 3 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 68 | 1098 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 4 | Consolidated Edison | Analyst, Policy Integration Forecasting | 67 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 5 | Circle K | B2B Commercial Analyst | 65 | 19 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 6 | Lightcast | Economic Research Analyst / Junior Data Scientist - 1089 | 65 | none found (check myvisajobs) | Nov 12 11:49 ET |
+| 7 | DaVita | Financial Analyst | 65 | 9 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 8 | SAIC | Data Scientist Associate | 61 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 9 | Centrica | Data Scientist | 61 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 10 | Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera | 54 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 11 | Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
+| 12 | Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | cap-exempt employer | Nov 11 (board gives the date only) |
+| 13 | Google | Research Scientist, Modeling of Readout and Reset, Quantum | 50 | 1053 in data/analytics/finance occupations | Nov 12 03:36 ET |
+| 14 | GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F) | 50 | 3 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 15 | TikTok | Data Scientist - TikTok Ads | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 16 | GenScript | Research Associate, Analytical Development | 45 | 5 in data/analytics/finance occupations | Nov 12 02:18 ET |
+| 17 | Google | Gemini Vision Research Scientist, DeepMind | 44 | 1053 in data/analytics/finance occupations | Nov 12 09:38 ET |
+| 18 | Syngenta Group | Research Scientist | 40 | 5 in data/analytics/finance occupations | Nov 12 09:18 ET |
+| 19 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 12 10:12 ET |
+| 20 | CVS Health | Software Engineer (AI Engineering) | 40 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
+| 21 | CVS Health | Data and Analytics Consultant | 40 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 22 | Genentech | Machine Learning Scientist/Senior Machine Learning Scientist, Agents for Applied Small Molecule Drug Design, AIDD | 78 | 35 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 23 | Capital One | Senior Associate, Data Science - Compliance Model Risk | 74 | 458 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 24 | Merck | Senior AI Data Scientist/ Statistician | 67 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 25 | Merck | Senior AI Data Scientist | 65 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 26 | Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera | 62 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 27 | Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 28 | Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA ** | 56 | 16 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 29 | Elsevier | Senior Software Engineer / Senior AI Engineer | 55 | 7 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 30 | Wells Fargo | Senior Risk Analytics Consultant (Merchant Services) | 55 | 163 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 31 | Ally Bank | Senior Data Analyst - Fraud | 55 | 54 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
 
 ---
 
@@ -62,7 +68,22 @@ Job Description What is the opportunity? The OTC Derivatives Controls Analyst wi
 
 ---
 
-## 3. [MAYBE] Consolidated Edison | Analyst, Policy Integration Forecasting
+## 3. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
+- Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808330
+- Location: New York, NY, United States US
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~68 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: excel, python, sql, statistic, data quality, portfolio, quantitative, research, trading | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Be part of JPMorgan Chase that continuously grows! Through periods of volatility and uncertainty, market participants are always in need of independent, reliable, and accurate securities valuation services. With offices in New York, London, and Hong Kong, JPMorgan's PricingDirect employees serve our clients globally by providing them evaluated pricing on over two million fixed income securities and derivative instruments every day. As an Analyst or Associate in our PricingDirect Securities Valuation SPG team, you will gain access to trading, research, analytics, and technology resources of JPMorgan Chase. You will be given the opportunity to combine your knowledge of financial concepts with your programming skills to manage large volumes of data for developing and maintaining accurate pricing models. You will leverage your product and market knowledge to identify growth areas, lead projects, and deliver results for your team and your clients. If you are results-oriented, intellectually curious, in pursuit of excellence, and enjoy working in a collaborative team environment where your contributions directly impact our business, you are encouraged to apply for this role. Job responsibilities Daily generation of securities valuations for multiple market closes, entailing start-to-end ownership responsibilities, including: market data collection and analysis, price generation, quality control, and client interaction Examine and develop new areas of product growth through independent self-guided research, interactions with clients, JPMorgan trading desks, research professionals, and technology teams Continuously improve product and service quality through daily market surveillance, communication with market participants, data and financial analysis, review of process controls, and data quality assurance Perform complex financial assignments, including quantitative and information/data analysis Provide in-depth analysis of portfolios of securities, communicating in detail to colleagues and clients Develop and maintain regular contact with trading desks, research teams, and other market participants Address all client concerns in a timely and professional manner Required qualifications, capabilities, and skills Bachelor's degree or higher in Finance, Mathematics, Statistics, Engineering, Economics, or similar Firm understanding of principles of finance, mathematical, and/or statistical modeling Strong qualitative and quantitative analytical skills with the ability to process large amounts of market information Proficiency in Excel with Visual Basic coding experience and/or practical experience working with Python Excellent communication skills to interact with clients, portfolio managers, traders, research, and sales Clear, logical thinker with strong quantitative abilities Preferred qualifications, capabilities, and skills Experience with RMBS/ABS/securitized products a strong plus Experience in programming language such as Python, VBA, SQL, and high aptitude for learning new technologies Detailed oriented, creative problem solver with ability to learn quickly, multi-task, and self-manage priorities under rapidly changing and flexible timelines Ability to build effective working relationships and interact comfortably with a wide spectrum of counterparties, including fixed-income research teams, sales personnel, traders, portfolio managers, and technologists   JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
+
+---
+
+## 4. [MAYBE] Consolidated Edison | Analyst, Policy Integration Forecasting
 - Link: https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/1000452
 - Location: New York, NY, United States US
 - Posted: Nov 12 (board gives the date only)
@@ -77,7 +98,7 @@ The Analyst will perform analysis and forecasting of various load modifiers such
 
 ---
 
-## 4. [MAYBE] Circle K | B2B Commercial Analyst
+## 5. [MAYBE] Circle K | B2B Commercial Analyst
 - Link: https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B161-Raleigh-NC/B2B-Commercial-Analyst_R635702
 - Location: Nonstore B161 Raleigh NC
 - Posted: Nov 11 (board gives the date only)
@@ -92,7 +113,7 @@ B2B Commercial Analyst Location: Raleigh, NC Job Summary The B2B Commercial Anal
 
 ---
 
-## 5. [MAYBE] Lightcast | Economic Research Analyst / Junior Data Scientist - 1089
+## 6. [MAYBE] Lightcast | Economic Research Analyst / Junior Data Scientist - 1089
 - Link: https://jobs.lever.co/economicmodeling/aa5e1f5e-d9cf-446e-af35-fc12b9e453a5
 - Location: Remote (Work From Home) US Remote (Work From Home) US Moscow, ID US
 - Posted: Nov 12 11:49 ET
@@ -107,7 +128,22 @@ Query, clean, and analyze large datasets using SQL, Python, and Snowflake. Sourc
 
 ---
 
-## 6. [MAYBE] SAIC | Data Scientist Associate
+## 7. [MAYBE] DaVita | Financial Analyst
+- Link: https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Financial-Analyst_R0486190
+- Location: 05555 - Casa del Mundo Office (Denver HQ)
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~65 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 9 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: excel, forecast, tableau, healthcare, reporting, research, risk, validation | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Posting Date 11/12/2026&#xa;2000 16th Street, Denver, Colorado, 80202, United States of America&#xa; DaVita is seeking a detail-oriented, analytical, and growth-minded Financial Analyst to join our National Hospital Services Group (HSG) FP&A team. This role reports to the Manager of FP&A and will support key recurring planning, forecasting, reporting, and business-performance processes for the HSG business. The Financial Analyst will build a strong foundation in monthly financial results, treatment-volume forecasting, revenue forecasting, operational reviews, and the annual budget process. This role offers meaningful exposure to HSG finance and operations leaders, with opportunities to contribute analyses and, over time, present findings to the Senior Director of Finance and other HSG leadership. The work of the HSG FP&A team supports decisions and reporting that reach broader Finance leadership, the Chief Operating Officer, and the Chief Financial Officer. The ideal candidate is a quick learner and a careful, curious problem solver who takes ownership of assigned deliverables, asks good questions, and is eager to develop into a trusted FP&A partner. The candidate should be comfortable working with large datasets and detailed models, and should enjoy collaborating with Finance and Operations teammates. *This is a hybrid role located in our Denver office. Tues, Wed, Thurs in office.* Essential Duties & Responsibilities Financial Reporting and Insights: Prepare monthly financial reporting and variance analyses, validate treatment-volume, revenue, operating-income, and run-rate drivers, and help translate results into concise commentary and presentation materials for HSG operating reviews. Forecasting and Modeling: Support recurring treatment-volume and revenue-per-treatment forecast models, including model roll-forward, Essbase refreshes, assumption updates, new and lost business updates, bridge analyses, and stakeholder summaries. Budgeting and Planning: Contribute to the annual budget process, including model and mapping updates, Anaplan data loads and maintenance, source-data validation, review cycles, and documentation. Business Partnership: Partner with HSG FP&A, Operations, field finance, Revenue Accounting, and other stakeholders to research data questions, explain performance drivers, and support recommendations to leadership. Process Execution and Improvement: Deliver assigned work within the monthly business-day calendar, flag dependencies and risks early, document recurring processes, and identify opportunities to improve model accuracy and efficiency. Technical Capability and Growth: Use Excel, Hyperion Essbase, Anaplan, Tableau, SharePoint, and other financial tools to produce accurate, decision-ready analysis, while building skills through feedback, review, and guidance from senior team members. Desired Qualifications 1+ years of experience in FP&A, corporate finance, accounting, or a related analytical role, with a preference for healthcare or multi-site operations experience Exposure to forecasting, variance analysis, management reporting, or budgeting processes Proficient to advanced Microsoft Excel skills, including complex formulas, pivot tables, financial modeling, and working with large data files Experience with Hyperion Essbase and Anaplan is a plus; Tableau or comparable reporting-tool experience is helpful Strong analytical skills with the ability to identify drivers, validate outputs, and communicate clear conclusions Solid written communication and presentation skills Ability to manage multiple time-sensitive deliverables in a fast-paced environment, with strong accuracy and attention to detail Bachelor’s degree in Finance, Accounting, Economics, Business, or a related field Strong alignment with DaVita’s Mission and Values What We’ll Provide: More than just pay, our DaVita Rewards package connects teammates to what matters most. Teammates are eligible to begin receiving benefits on the first day of the month following or coinciding with one month of continuous employment. Below are some of our benefit offerings. Comprehensive benefits: Medical, dental, vision, 401(k) match, paid time off, PTO cash out Support for you and your family: Family resources, EAP counseling sessions, access Headspace®, backup child and elder care, maternity/paternity leave and more Professional development programs: DaVita offers a variety of programs to help strong performers grow within their career and also offers on-demand virtual leadership and development courses through DaVita’s online training platform StarLearning. #LI-JS5 &#xa; At DaVita, we strive to be a community first and a company second. We want all teammates to experience DaVita as "a place where I belong." Our goal is to embed belonging into everything we do in our Village, so that it becomes part of who we are. We are proud to be an equal opportunity workplace and comply with state and federal affirmative action requirements. Individuals are recruited, hired, assigned and promoted without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, protected veteran status, or any other protected characteristic. &#xa; This position will be open for a minimum of three days. &#xa;The Salary Range for the role is $57,784.00 - $85,000.00 per year.&#xa;&#xa; &#xa;&#xa;&#xa;&#xa;&#xa; For location-specific minimum wage details, see the following link: DaVita.jobs/WageRates &#xa; Compensation for the role will depend on a number of factors, including a candidate’s qualifications, skills, competencies and experience. DaVita offers a competitive total rewards package, which includes a 401k match, healthcare coverage and a broad range of other benefits. Learn more at https://careers.davita.com/benefits &#xa;&#xa;&#xa; Colorado Residents: Please do not respond to any questions in this initial application that may seek age-identifying information such as age, date of birth, or dates of school attendance or graduation. You may also redact this information from any materials you submit during the application process. You will not be penalized for redacting or removing this information.
+
+---
+
+## 8. [MAYBE] SAIC | Data Scientist Associate
 - Link: https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2615778
 - Location: Upper Marlboro, MD, United States US
 - Posted: Nov 12 (board gives the date only)
@@ -122,7 +158,22 @@ SAIC is seeking a Data Scientist Associate with a strong background in statistic
 
 ---
 
-## 7. [MAYBE] Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera
+## 9. [MAYBE] Centrica | Data Scientist
+- Link: https://centrica.wd3.myworkdayjobs.com/Centrica/job/Cardiff/Data-Scientist_R0091143
+- Location: 3 Locations
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~61 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: machine learning, python, regression, spark, sql, statistic, classification, data quality, git, pipeline, portfolio, segmentation, xgboost | Lacks: databricks, scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Join us, be part of more. We’re so much more than an energy company. We’re a family of brands revolutionising how we power the planet. We're energisers. One team of 21,000 colleagues that's energising a greener, fairer future by creating an energy system that doesn’t rely on fossil fuels, whilst living our powerful commitment to igniting positive change in our communities. Here, you can find more purpose, more passion, and more potential. That’s why working here is #MoreThanACareer. We do energy differently - we do it all. We make it, store it, move it, sell it, and mend it. We have an exciting opportunity for a Data Scientist to join our team, using relevant data to tackle complex business challenges and turn insight into measurable outcomes. You'll work across a varied portfolio of customer, commercial and operational problems, from understanding churn and retention to Customer Lifetime Value (CLTV), segmentation, propensity modelling and operational optimisation. This is more than a model-development role. You'll have the opportunity to build reusable, production-ready solutions, embed models into business processes and see the real-world impact of your work. Key Accountabilities: Design, build, test and deploy statistical and machine learning models to solve customer, commercial and operational challenges. Analyse large and complex datasets to identify patterns, opportunities and drivers of customer behaviour, translating your findings into clear, actionable recommendations. Partner with stakeholders to turn commercial questions and opportunities into well-defined data science problems. Develop solutions across areas including churn and retention, CLTV, segmentation, propensity modelling, customer targeting and optimisation. Build robust feature engineering, training and inference pipelines, using technologies such as Python, PySpark and Databricks. Help take models into production through automated workflows, testing, version control, CI/CD, monitoring and model lifecycle management. Collaborate with data engineers, platform teams and fellow data scientists to create scalable, reliable solutions while maintaining high standards of data quality, model governance and responsible AI. Here’s what we’re looking for: Experience applying statistical analysis and machine learning to real-world business problems. Strong programming skills in Python and SQL, with experience working with large and complex datasets. Experience with, or exposure to, PySpark and Databricks. A good understanding of machine learning techniques, which could include classification, regression, gradient boosting/XGBoost, segmentation, propensity modelling or survival analysis. Experience or knowledge of production ML practices such as Git, CI/CD, MLflow, automated testing, model deployment and monitoring. Strong analytical thinking, with the ability to take an ambiguous business question through exploration and modelling to an actionable recommendation. The ability to explain complex analytical approaches, assumptions and results clearly to both technical and non-technical audiences. A collaborative and curious approach, with a willingness to learn, challenge existing thinking and share knowledge. Experience within customer analytics, energy, utilities, retention, pricing or commercial analytics would be beneficial, but isn't essential. Location: We operate a Flexible First approach, giving colleagues flexibility in how and where they work. This role can be predominantly home-based, although ideally you will be based within commutable distance of our Cardiff site and be flexible to travel across our sites as may be needed on occasion for team meetings. Why should you apply? We’re not a perfect place – but we’re a people place. Our priority is supporting all of the different realities our people face. Life is about so much more than work. We get it. That’s why we’ve designed our total rewards to give you the flexibility to choose what you need, when you need it, making sure that you and your family are supported not only financially, but physically and emotionally too. Visit the link below to discover why we’re a great place to work and what being part of more means for you. https://www.morethanacareer.energy/centrica If you're full of energy, fired up about sustainability, and ready to craft not only a better tomorrow, but a better you, then come and find your purpose in a team where your voice matters, your growth is non-negotiable, and your ambitions are our priority. Help us, help you. We would love for you to share any information about yourself throughout our recruitment process so that we can better understand you and help shape your journey.
+
+---
+
+## 10. [MAYBE] Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Research-Associate-I---Patient-Centered-Research--Evidera_R-01375964
 - Location: Remote, Mexico
 - Posted: Nov 11 (board gives the date only)
@@ -137,7 +188,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 8. [MAYBE] Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology
+## 11. [MAYBE] Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology
 - Link: https://wustl.wd1.myworkdayjobs.com/external/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521
 - Location: Remote
 - Posted: Nov 11 (board gives the date only)
@@ -152,7 +203,7 @@ Location Remote, US&#xa;&#xa; Position Summary Position assists investigator wit
 
 ---
 
-## 9. [MAYBE] Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology
+## 12. [MAYBE] Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521
 - Location: Remote
 - Posted: Nov 11 (board gives the date only)
@@ -167,7 +218,7 @@ Location Remote, US&#xa;&#xa; Position Summary Position assists investigator wit
 
 ---
 
-## 10. [MAYBE] Google | Research Scientist, Modeling of Readout and Reset, Quantum
+## 13. [MAYBE] Google | Research Scientist, Modeling of Readout and Reset, Quantum
 - Link: https://www.google.com/about/careers/applications/jobs/results/101752149989302982
 - Location: Goleta, CA, USA ; Los Angeles, CA, USA
 - Posted: Nov 12 03:36 ET
@@ -182,7 +233,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 11. [MAYBE] GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F)
+## 14. [MAYBE] GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F)
 - Link: https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Villeurbanne/Analytics-Sourcing-Specialist--Spcialiste-analytique-des-achats-H-F-_R5058835-1
 - Location: Villeurbanne
 - Posted: Nov 11 (board gives the date only)
@@ -197,7 +248,38 @@ Job Description Summary Négocier avec des fournisseurs dédiés conformément �
 
 ---
 
-## 12. [MAYBE] GenScript | Research Associate, Analytical Development
+## 15. [MAYBE] TikTok | Data Scientist - TikTok Ads
+- Link: https://lifeattiktok.com/search/6863478486973040910
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~50 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, python, sql, statistic, quantitative | Lacks: hadoop
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We're the TikTok Monetization Products data science team, who enables and champions data driven decision making. Our Vision is to become the world class data science team, where data is used rigorously to drive all decision making. Our Mission is to drive monetization and sustainable revenue growth for TikTok through data science.
+
+- Apply your expertise in quantitative analysis, data mining, and the presentation of data to see beyond the numbers and understand how our users interact with our ads products
+- Partner with Product and Engineering teams to solve problems and identify trends and opportunities
+- Inform, influence, support, and execute our product decisions
+- Build/maintain reports, dashboards, and metrics to monitor the performance of our products
+- Mine massive amounts of data and extract useful product insights
+- Manage development of data resources, gather requirements, organize sources, and support product launches Minimum Qualifications
+- 3+ years experience doing quantitative analysis
+- BA/BS in Math, Statistics, Economics, Computer Science, or other quantitative field. Advanced degrees preferred but not required
+- Fluency in SQL or other programming languages. Some development experience in at least one scripting language (PHP, Python, Perl, etc.)
+- Experience with large data sets and distributed computing (Hive/Hadoop) a plus
+
+Preferred Qualifications:
+- Ability to initiate and drive projects to completion with minimal guidance
+- The ability to communicate the results of analyses in a clear and effective manner
+- Basic understanding of statistical analysis
+
+---
+
+## 16. [MAYBE] GenScript | Research Associate, Analytical Development
 - Link: https://job-boards.greenhouse.io/genscript/jobs/5293026007
 - Location: Seattle, Washington, United States
 - Posted: Nov 12 02:18 ET
@@ -212,7 +294,7 @@ About GenScript Founded in 2002 in New Jersey, GenScript Biotech Corporation acc
 
 ---
 
-## 13. [MAYBE] Google | Gemini Vision Research Scientist, DeepMind
+## 17. [MAYBE] Google | Gemini Vision Research Scientist, DeepMind
 - Link: https://www.google.com/about/careers/applications/jobs/results/103995840904733382
 - Location: Mountain View, CA, USA ; New York, NY, USA ; Los Angeles, CA, USA
 - Posted: Nov 12 09:38 ET
@@ -227,7 +309,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 14. [MAYBE] Syngenta Group | Research Scientist
+## 18. [MAYBE] Syngenta Group | Research Scientist
 - Link: https://jobs.smartrecruiters.com/SyngentaGroup/744000161311869
 - Location: Durham North Carolina us
 - Posted: Nov 12 09:18 ET
@@ -242,7 +324,7 @@ This role serves as a key member of the soybean trait introgression team while a
 
 ---
 
-## 15. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
+## 19. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
 - Link: https://jobs.smartrecruiters.com/PAConsulting/744000161325099
 - Location: Chicago us
 - Posted: Nov 12 10:12 ET
@@ -257,7 +339,7 @@ PA's Growth Strategy team helps organizations identify opportunities for sustain
 
 ---
 
-## 16. [MAYBE] CVS Health | Software Engineer (AI Engineering)
+## 20. [MAYBE] CVS Health | Software Engineer (AI Engineering)
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Software-Engineer--NET-Python-_R1084915
 - Location: RI - Work from home
 - Posted: Nov 11 (board gives the date only)
@@ -272,7 +354,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 17. [MAYBE] CVS Health | Data and Analytics Consultant
+## 21. [MAYBE] CVS Health | Data and Analytics Consultant
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Data-and-Analytics-Consultant_R1064091-1
 - Location: see posting
 - Posted: Nov 12 (board gives the date only)
@@ -287,7 +369,22 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 18. [MAYBE] Capital One | Senior Associate, Data Science - Compliance Model Risk
+## 22. [MAYBE] Genentech | Machine Learning Scientist/Senior Machine Learning Scientist, Agents for Applied Small Molecule Drug Design, AIDD
+- Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/San-Francisco/Machine-Learning-Scientist---Agents-for-Applied-Small-Molecule-Drug-Design_202606-115525-1
+- Location: 2 Locations
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~78 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 35 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, machine learning, python, pytorch, statistic, tensorflow, ai agent, git, healthcare, portfolio, publication, quantitative, research | Lacks: -  | Note: title says Senior/II: asks 0 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+A healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love. That’s what makes us Roche. Advances in AI, data, and computational sciences are transforming drug discovery and development. Roche’s Research and Early Development organisations at Genentech (gRED) and Pharma (pRED) have demonstrated how these technologies accelerate R&D, leveraging data and novel computational models to drive impact. Seamless data sharing and access to models across gRED and pRED are essential to maximising these opportunities. The new Computational Sciences Center of Excellence (CoE) is a strategic, unified group whose goal is to harness the transformative power of data and Artificial Intelligence (AI) to assist our scientists in both pRED and gRED to deliver more innovative and transformative medicines for patients worldwide. ​ The Opportunity We are seeking a Machine Learning Scientist / Senior Machine Learning Scientist to create the next generation of small molecule drug discovery systems, powered by AI agents. You will join the small molecule team within Roche/Genentech’s AI for Drug Discovery (AI4DD) organization, formerly Prescient Design, to combine advances in AI with extensive scientific data, resources, and world-class drug discovery experts. You will play a central role in shaping and building these agentic systems from the ground up to push the boundaries of what AI can achieve in the search for new medicines. In this role, you will: Design, build and deploy AI agents to tackle the biggest challenges in small molecule drug discovery. Partner with medicinal and computational chemists, structural biologists, and experimental researchers to test and refine agents in real drug discovery scenarios. Implement and deploy computational tools for small molecule drug discovery, including external and internal software, and developing new methods. Shape the team’s technical direction by identifying high-impact scientific problems and turning ambitious ideas into new initiatives. Pursue cutting-edge computational and machine learning research to develop new models, methods, and tools that advance small molecule drug discovery. Share your work through scientific publications, open-source code and workflows, and presentations at leading conferences. Who you are: PhD with 0–3 years of relevant experience, or BS/MS with 5+ years of relevant industry experience, in machine learning, computer science, computational chemistry, chemical engineering, or a related quantitative/scientific field such as statistics or physics. Strong Python programming and software engineering skills, with experience building, debugging, and maintaining reliable scientific software or AI systems. Hands-on experience designing, building, and evaluating AI agents using frameworks such as the Claude Agent SDK, LangGraph, or similar, including tool integration and multi-step workflows for scientific applications. Foundational understanding of chemistry and the core concepts of small molecule drug design. Evidence of strong technical or scientific contributions through research publications, impactful software, or AI systems you have built. Excellent communication and collaboration skills: able to explain technical ideas clearly, listen closely to scientific partners, give and receive constructive feedback, and take ownership of shared outcomes. Preferred: Practical experience designing, training, and evaluating ML models/methods for scientific or molecular applications (e.g. graph neural networks, generative models, etc.). Proficiency with modern ML frameworks (e.g., PyTorch, JAX, TensorFlow, Hugging Face). Understanding of core machine learning foundations. A public portfolio of relevant projects available online (e.g., on GitHub/GitLab) is a plus. If you want to put autonomous AI to work discovering the medicines patients need next, apply now and help build the future of drug design at Roche. Relocation benefits are NOT available for this opportunity The expected salary range for this position, based on the primary location of San Francisco, is $147,600 - $274,000 for the ML Scientist, and $167,400 - 310,800 for the Senior ML Scientist. For the primary of location of New York City, $141.100 - $262,100 for the ML Scientist, and $160,100 - 297,300 for the Senior ML Scientist. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. A discretionary annual bonus may be available based on individual and Company performance. This position also qualifies for the benefits detailed at the link provided below. Benefits #ComputationCoE #tech4lifeComputationalScience #tech4lifeAI Genentech
+
+---
+
+## 23. [MAYBE] Capital One | Senior Associate, Data Science - Compliance Model Risk
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Senior-Associate--Data-Science---Compliance-Model-Risk_R1005177-1
 - Location: 4 Locations
 - Posted: Nov 11 (board gives the date only)
@@ -302,7 +399,7 @@ Senior Associate, Data Science - Compliance Model Risk Data is at the center of 
 
 ---
 
-## 19. [MAYBE] Merck | Senior AI Data Scientist/ Statistician
+## 24. [MAYBE] Merck | Senior AI Data Scientist/ Statistician
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-AI-Data-Scientist--Statistician_R426163
 - Location: USA - New Jersey - Rahway
 - Posted: Nov 11 (board gives the date only)
@@ -317,7 +414,7 @@ Job Description Position Overview: We are seeking a highly motivated quantitativ
 
 ---
 
-## 20. [MAYBE] Merck | Senior AI Data Scientist
+## 25. [MAYBE] Merck | Senior AI Data Scientist
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-AI-Data-Scientist_R426413-2
 - Location: USA - New Jersey - Rahway
 - Posted: Nov 11 (board gives the date only)
@@ -332,7 +429,7 @@ Job Description Position Overview: We are seeking a highly motivated quantitativ
 
 ---
 
-## 21. [MAYBE] Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera
+## 26. [MAYBE] Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Research-Associate-II--Patient-Centered-Research---Evidera_R-01375966
 - Location: Remote, Mexico
 - Posted: Nov 11 (board gives the date only)
@@ -347,7 +444,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 22. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary
+## 27. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary
 - Link: https://ejis.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3044563
 - Location: United States US
 - Posted: Nov 12 (board gives the date only)
@@ -362,7 +459,7 @@ As a Data Scientist II, work closely with clinical leads and product sponsors to
 
 ---
 
-## 23. [MAYBE] Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA **
+## 28. [MAYBE] Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA **
 - Link: https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/SRB-Belgrade-Hybrid/Sr-Data-Analyst-I--RWE----Hybrid-SERBIA---_25113045
 - Location: 2 Locations
 - Posted: Nov 11 (board gives the date only)
@@ -377,7 +474,7 @@ Sr Data Analyst I, RWE ** Hybrid SERBIA ** Syneos Health® is a leading fully-in
 
 ---
 
-## 24. [MAYBE] Elsevier | Senior Software Engineer / Senior AI Engineer
+## 29. [MAYBE] Elsevier | Senior Software Engineer / Senior AI Engineer
 - Link: https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia/Senior-Software-Engineer---Senior-AI-Engineer_R117481
 - Location: 3 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -392,7 +489,7 @@ Are you excited about building intelligent systems powered by cutting-edge AI te
 
 ---
 
-## 25. [MAYBE] Wells Fargo | Senior Risk Analytics Consultant (Merchant Services)
+## 30. [MAYBE] Wells Fargo | Senior Risk Analytics Consultant (Merchant Services)
 - Link: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Risk-Analytics-Consultant--Merchant-Services-_R-577689
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -404,4 +501,19 @@ Are you excited about building intelligent systems powered by cutting-edge AI te
 ### Job description
 
 About this role: Wells Fargo is seeking a Senior Risk Analytics Consultant to leverage data, advanced analytics, Artificial Intelligence (AI), and Machine Learning (ML) to assess credit and fraud risks, enhance risk reporting, and support business growth while safeguarding the payments ecosystem. This role requires strong analytical and problem-solving skills, expertise in risk management, and the ability to collaborate effectively with cross-functional teams. Risk Assessment & Analytics Analyze merchant data to assess credit risk and fraud risk for underwriting and ongoing monitoring. Identify emerging fraud patterns and risk trends using advanced analytics. Utilize machine learning models, statistical techniques, and predictive analytics to enhance risk assessment. Develop and refine risk scoring models to automate decision-making and improve risk controls. Reporting & Insights In this role, you will: Lead or participate in moderately complex initiatives, and delivering insight and decision strategies within analytics and reporting, and contribute to large-scale planning related to Risk Analytics Review and analyze moderately complex data aggregation, forecasting, reporting, and programming models Be responsible for process production, data reconciliation, and model documentation in alignment with policy governance Resolve data, production, business modeling, and lead team to meet Risk Analytics deliverables while leveraging solid understanding of risk reporting policies, modeling strategies, procedures, regulatory requests, and compliance requirements Collaborate and consult with peers, experienced managers, compliance, and technology to resolve modeling, forecasting, and production issues, and achieve analytic and reporting goals Lead projects, teams, and mentor less experienced staff Partner with cross enterprise risk analysts in development of common modeling strategies Required Qualifications: 4+ years of Risk Analytics experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education Desired Qualifications: 3 years of payments industry/merchant services experience Strong experience in data analytics, risk management, and reporting in a payments or financial services environment. Proficiency in AI/ML, SQL, Python, R, or other data analysis tools. Knowledge of merchant services, credit risk, fraud risk, and payments risk mitigation strategies. Experience with risk modeling, machine learning, or predictive analytics is a plus. Excellent communication and stakeholder management skills. Ability to balance business growth with effective risk mitigation strategies. Job Expectations: Ability to work at one of the approved locations in the job posting Specific compliance policies may apply regarding outside activities and/or personal investing; affected employees will be expected to provide information to the Wells Fargo Personal Account Dealing Team and abide by applicable policy requirements if hired. Information will be shared about expectations during the recruitment process Posting End Date: 17 Nov 2026 *Job posting may come down early due to volume of applicants. We Value Equal Opportunity Wells Fargo
+
+---
+
+## 31. [MAYBE] Ally Bank | Senior Data Analyst - Fraud
+- Link: https://ally.wd1.myworkdayjobs.com/ALLY/job/Charlotte-NC/Senior-Data-Analyst---Fraud_R2601095-1
+- Location: 2 Locations
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 54 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, power bi, python, sql, statistic, data quality, fraud, git, healthcare, reporting, risk, validation | Lacks: snowflake  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Ally and Your Career Ally Financial only succeeds when its people do - and that’s more than some cliché people put on job postings. We love this stuff! We see our people as, well, people - with interests, families, friends, dreams, and causes that are all important to them. Our focus is on the health and safety of our teammates as well as work-life balance and diversity and inclusion. From generous benefits to a variety of employee resource groups, we strive to build paths that encourage employees to stretch themselves professionally. We want to help you grow, develop, and learn new things. You’re constantly evolving, so shouldn’t your opportunities be, too? Work Schedule : Ally designates roles as (1) fully on-site, (2) hybrid, or (3) fully remote. Hybrid roles are generally expected to be in the office a certain number of days per week as indicated by your manager. Your hiring manager will discuss this role's specific work requirements with you during the hiring process. All work requirements are subject to change at any time based on leader discretion and/or business need. &#xa; The Opportunity In office role with weekly hybrid schedule. Ally work locations Charlotte NC or Lewisville TX The Senior Data Analyst, Fraud Data & Value Stream Analytics will support two connected priorities: building the data foundation that powers fraud detection, decisioning, investigations, and customer protection, and developing Value Stream scorecards that measure business performance and outcomes. This role will partner with Fraud, Product, Data, Technology, Architecture, Analytics, Risk, Compliance, Finance, and Operations teams to translate business needs into clear data requirements, trusted metrics, and actionable insights. The Analyst will map data across business processes and source systems, assess data quality and readiness, support real-time and batch data initiatives, and maintain documentation that improves lineage, traceability, and reuse. The role will also define and validate scorecard metrics, reconcile results to source data, produce recurring performance reporting, and explain trends and drivers to stakeholders. It is well suited for a curious, detail-oriented analyst who can connect business problems to data, communicate findings clearly, and work across teams to move complex initiatives forward.&#xa;&#xa; The Work Itself Key Responsibilities Partner with business and product teams to understand fraud use cases, Value Stream objectives, business processes, decisions, and the data and measures required to support them. Translate business needs into data requirements, source-to-target mappings, metric definitions, calculation rules, acceptance criteria, and analytical approaches. Profile and analyze large, complex datasets to assess availability, completeness, accuracy, timeliness, consistency, and fitness for use. Develop and maintain Value Stream scorecards, dashboards, metric dictionaries, calculation logic, targets, and recurring performance reporting. Reconcile scorecard results to authoritative sources, investigate variances, document methodology and lineage, and clearly explain trends, drivers, limitations, and changes. Maintain fraud data inventories, metadata, ownership, quality measures, lineage, and traceability across source and consuming systems. Support real-time and batch data delivery through requirements validation, testing, reconciliation, production validation, and ongoing monitoring. Communicate findings, risks, decisions, and recommendations to technical and nontechnical audiences while managing multiple priorities in a collaborative environment. Qualifications We’re Looking For Bachelor’s degree in data analytics, information systems, computer science, statistics, mathematics, business, finance, or a related field, or equivalent work experience. 3+ years of experience in data analysis, business intelligence, performance measurement, scorecard reporting, data management, financial services, fraud, risk, or a related discipline. Strong SQL skills and experience querying, joining, validating, and analyzing large datasets across multiple sources. Experience with data profiling, mapping, data-quality assessment, reconciliation, root-cause analysis, metadata, lineage, metric governance, and requirements documentation. Experience developing and maintaining scorecards, dashboards, metric definitions, and visual analyses using Snowflake, Power BI, and Excel. Working knowledge of data concepts such as real-time streaming, batch integration, APIs, data models, operational data stores, analytical platforms, and cloud-based services. Strong analytical thinking, attention to detail, problem-solving, documentation, and verbal and written communication skills. Ability to work independently, manage competing priorities, and collaborate effectively with business, product, data, and technology partners. Experience with Python or another analytical programming language is preferred. Experience with fraud, identity, authentication, payments, decisioning, investigations, or financial-crime data is preferred. Minimum Qualifications: 3+ years or relevant experience Bachelor's degree in Computer Science, Information Systems, Data Science, Data Analytics or equivalent &#xa;&#xa; How We'll Have Your Back Ally's compensation program offers market-competitive base pay and pay-for-performance incentives (bonuses) based on achieving personal and company goals. Our Total Rewards program includes industry-leading compensation and benefits plus additional incentives that are designed to meet your needs and those of your family so you can get the most out of your career and your life, including: Time Away: Program starts at 20 paid time off days in addition to 11 paid holidays and 8 hours of volunteer time off yearly (time off days are prorated based on start date and program varies based on full or part-time status and management level). Planning for the Future: plan for the near and long term with an industry-leading 401K retirement savings plan with matching and company contributions, student loan pay downs and 529 educational save up assistance programs, tuition reimbursement, employee stock purchase plan, and financial learning center and financial coach access. Supporting your Health & Well-being: flexible health and insurance options including medical, dental and vision, employee, spouse and child life insurance, short- and long-term disability, pre-tax Health Savings Account with employer contributions, Healthcare FSA, critical illness, accident & hospital indemnity insurance, and a total well-being program that helps you and your family stay on track physically, socially, emotionally, and financially. Building a Family: adoption, surrogacy and fertility assistance as well as paid parental and caregiver leave, Dependent Day Care FSA back-up child and adult/elder care days and childcare discounts. Work-Life Integration: other benefits including Mentally Fit Employee Assist [...]
 
