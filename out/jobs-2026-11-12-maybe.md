@@ -5,36 +5,42 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | Varian | Financial Analyst | 71 | 12 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 2 | Royal Bank of Canada | OTC Derivatives Controls Analyst | 68 | 7 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 3 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 68 | 1098 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 4 | Consolidated Edison | Analyst, Policy Integration Forecasting | 67 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 5 | Circle K | B2B Commercial Analyst | 65 | 19 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 6 | Lightcast | Economic Research Analyst / Junior Data Scientist - 1089 | 65 | none found (check myvisajobs) | Nov 12 11:49 ET |
-| 7 | DaVita | Financial Analyst | 65 | 9 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 8 | SAIC | Data Scientist Associate | 61 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 9 | Centrica | Data Scientist | 61 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 10 | Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera | 54 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 11 | Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
-| 12 | Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | cap-exempt employer | Nov 11 (board gives the date only) |
-| 13 | Google | Research Scientist, Modeling of Readout and Reset, Quantum | 50 | 1053 in data/analytics/finance occupations | Nov 12 03:36 ET |
-| 14 | GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F) | 50 | 3 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 15 | TikTok | Data Scientist - TikTok Ads | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 16 | GenScript | Research Associate, Analytical Development | 45 | 5 in data/analytics/finance occupations | Nov 12 02:18 ET |
-| 17 | Google | Gemini Vision Research Scientist, DeepMind | 44 | 1053 in data/analytics/finance occupations | Nov 12 09:38 ET |
-| 18 | Syngenta Group | Research Scientist | 40 | 5 in data/analytics/finance occupations | Nov 12 09:18 ET |
-| 19 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 12 10:12 ET |
-| 20 | CVS Health | Software Engineer (AI Engineering) | 40 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
-| 21 | CVS Health | Data and Analytics Consultant | 40 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 22 | Genentech | Machine Learning Scientist/Senior Machine Learning Scientist, Agents for Applied Small Molecule Drug Design, AIDD | 78 | 35 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 23 | Capital One | Senior Associate, Data Science - Compliance Model Risk | 74 | 458 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 24 | Merck | Senior AI Data Scientist/ Statistician | 67 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 25 | Merck | Senior AI Data Scientist | 65 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 26 | Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera | 62 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 27 | Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 28 | Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA ** | 56 | 16 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 29 | Elsevier | Senior Software Engineer / Senior AI Engineer | 55 | 7 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 30 | Wells Fargo | Senior Risk Analytics Consultant (Merchant Services) | 55 | 163 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 31 | Ally Bank | Senior Data Analyst - Fraud | 55 | 54 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 2 | Verizon Communications | AI Engineer - GenAI and Agentic AI | 70 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 3 | Royal Bank of Canada | OTC Derivatives Controls Analyst | 68 | 7 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 4 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 68 | 1098 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 5 | Consolidated Edison | Analyst, Policy Integration Forecasting | 67 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 6 | Circle K | B2B Commercial Analyst | 65 | 19 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 7 | Lightcast | Economic Research Analyst / Junior Data Scientist - 1089 | 65 | none found (check myvisajobs) | Nov 12 11:49 ET |
+| 8 | DaVita | Financial Analyst | 65 | 9 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 9 | SAIC | Data Scientist Associate | 61 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 10 | Centrica | Data Scientist | 61 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 11 | Public Partnerships (PPL) | Analytics Engagement Consultant | 59 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 12 | Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera | 54 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 13 | Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
+| 14 | Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | cap-exempt employer | Nov 11 (board gives the date only) |
+| 15 | Gordon Food Service | Reporting and Data Insights Analyst | 52 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 16 | Google | Research Scientist, Modeling of Readout and Reset, Quantum | 50 | 1053 in data/analytics/finance occupations | Nov 12 03:36 ET |
+| 17 | GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F) | 50 | 3 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 18 | TikTok | Data Scientist - TikTok Ads | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 19 | GenScript | Research Associate, Analytical Development | 45 | 5 in data/analytics/finance occupations | Nov 12 02:18 ET |
+| 20 | SAIC | Operational Research Analyst | 45 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 21 | Google | Gemini Vision Research Scientist, DeepMind | 44 | 1053 in data/analytics/finance occupations | Nov 12 09:38 ET |
+| 22 | Syngenta Group | Research Scientist | 40 | 5 in data/analytics/finance occupations | Nov 12 09:18 ET |
+| 23 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 12 10:12 ET |
+| 24 | CVS Health | Software Engineer (AI Engineering) | 40 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
+| 25 | CVS Health | Data and Analytics Consultant | 40 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 26 | PennState University | Part Time Research Assistant (Camodeca) | 40 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 27 | Genentech | Machine Learning Scientist/Senior Machine Learning Scientist, Agents for Applied Small Molecule Drug Design, AIDD | 78 | 35 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 28 | Capital One | Senior Associate, Data Science - Compliance Model Risk | 74 | 458 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 29 | Merck | Senior AI Data Scientist/ Statistician | 67 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 30 | Unity | Senior Machine learning engineer, AI Authoring | 67 | 24 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 31 | Merck | Senior AI Data Scientist | 65 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 32 | Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera | 62 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 33 | Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 34 | Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA ** | 56 | 16 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 35 | Elsevier | Senior Software Engineer / Senior AI Engineer | 55 | 7 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 36 | Wells Fargo | Senior Risk Analytics Consultant (Merchant Services) | 55 | 163 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 37 | Ally Bank | Senior Data Analyst - Fraud | 55 | 54 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
 
 ---
 
@@ -53,7 +59,22 @@ Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sus
 
 ---
 
-## 2. [MAYBE] Royal Bank of Canada | OTC Derivatives Controls Analyst
+## 2. [MAYBE] Verizon Communications | AI Engineer - GenAI and Agentic AI
+- Link: https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/AI-Engineer---GenAI-and-Agentic-AI_R-1103671-1
+- Location: 3 Locations
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~70 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, gcp, llm, machine learning, nlp, python, sql, statistic, ai agent, deep learning, pipeline, quantitative, research | Lacks: azure  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+When you join Verizon You want more out of a career. A place to share your ideas freely — even if they’re daring or different. Where the true you can learn, grow, and thrive. At Verizon, we power and empower how people live, work and play by connecting them to what brings them joy. We do what we love — driving innovation, creativity, and impact in the world. Our V Team is a community of people who anticipate, lead, and believe that listening is where learning begins. In crisis and in celebration, we come together — lifting our communities and building trust in how we show up, everywhere & always. Want in? Join the #VTeamLife. Why build AI at Verizon? Most early-career AI roles keep builders stuck on isolated prototypes, internal chatbots, or low-stakes demos that never make it past a proof-of-concept. In Verizon's Marketing Technology Group, you’ll build production-grade agentic AI systems that directly power how a $130B+ enterprise sells, serves, and operates. Working alongside senior AI engineers and product owners, you’ll design and deploy multi-agent workflows, RAG pipelines, and tool-integrated LLMs using modern stacks (LangGraph, Google ADK, MCP) that elevate sales productivity and service operations for thousands of employees and millions of customers. Backed by Verizon’s multi-year investment to industrialize AI—and deep partnerships with hyperscalers like Google Cloud and AWS—this is your opportunity to master production guardrails, latency optimization, and real-world agent orchestration while accelerating your growth as an AI engineer. What you'll be doing … You will help drive profitable growth and business innovation by building Generative AI and Agentic AI solutions for Verizon Business Group. Working with our AI engineers and product owners, you will build and deploy AI agents that improve sales productivity, customer experience, service operations and operational efficiency. At Verizon, we are on a multi-year journey to industrialize our AI Science capabilities, fueling decisions and processes across our $130B+ enterprise. With our nationwide 5G leadership, you will help build and scale AI solutions that serve thousands of employees and millions of customers. Build AI Agents: Design, build and deploy LLM-powered agents and multi-agent workflows that automate business tasks, with guidance from senior team members. Develop GenAI Capabilities: Build retrieval-augmented generation (RAG) pipelines, tool and API integrations, and prompts that ground agents in enterprise data. Evaluate & Improve Quality: Measure agent accuracy, response quality and latency, and apply evaluation methods, guardrails and monitoring so agents stay reliable in production. Deploy & Monitor in Production: Help deploy agents and models in real-time and batch environments, and track their performance, cost and drift. Partner with the Business: Work with business stakeholders and senior engineers to understand requirements and turn them into working agent solutions. Learn & Innovate: Research and test new LLMs, agent frameworks and GenAI methods, and bring promising ideas to the team. What we're looking for... You bring strong analytical instincts and a passion for solving business problems with Generative AI. You learn quickly, take ownership of your assigned work, communicate your results clearly, and collaborate well with global, cross-functional engineering teams in a fast-paced environment. You'll need to have... Bachelor's degree or four or more years of work experience Four or more years of relevant work experience Two or more years of hands-on experience in machine learning, data science or AI engineering, including Generative AI or LLM-based projects. Two or more years of experience with Python and SQL. Experience building applications with LLMs, including prompt engineering, RAG and tool or function calling. Experience with cloud computing environments (e.g., GCP, AWS or Azure). Experience in quantitative skills in math, statistics or related fields. Even better if you also have... Master's degree or Ph.D. in a quantitative field (Computer Science, Data Science, Statistics, Math, Engineering or Economics). Experience building and deploying AI agents to production, including evaluation, guardrails and observability. Experience with vector databases (e.g., pgvector, Pinecone or Elasticsearch) and embedding models. Experience with at least one agent framework, such as LangChain, LangGraph, CrewAI, AutoGen or Google ADK. Familiarity with the Model Context Protocol (MCP) or multi-agent orchestration. Experience with traditional machine learning, deep learning and NLP. Ability to explain technical concepts and results clearly to non-technical audiences. If Verizon and this role sound like a fit for you, we encourage you to apply even if you don't meet every "even better" qualification listed above. Where you’ll be working In this hybrid role, you'll have a defined work location that includes working from home and a minimum of three days per week in the office, which will be set by your manager. Employees are responsible for maintaining compliance with hybrid work policies. Scheduled Weekly Hours 40 Equal Employment Opportunity Verizon
+
+---
+
+## 3. [MAYBE] Royal Bank of Canada | OTC Derivatives Controls Analyst
 - Link: https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/90-WESTERN-PKYBEDFORD/OTC-Derivatives-Controls-Analyst_R-0000192451-2
 - Location: 90 WESTERN PKY:BEDFORD
 - Posted: Nov 11 (board gives the date only)
@@ -68,7 +89,7 @@ Job Description What is the opportunity? The OTC Derivatives Controls Analyst wi
 
 ---
 
-## 3. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
+## 4. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808330
 - Location: New York, NY, United States US
 - Posted: Nov 12 (board gives the date only)
@@ -83,7 +104,7 @@ Be part of JPMorgan Chase that continuously grows! Through periods of volatility
 
 ---
 
-## 4. [MAYBE] Consolidated Edison | Analyst, Policy Integration Forecasting
+## 5. [MAYBE] Consolidated Edison | Analyst, Policy Integration Forecasting
 - Link: https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/1000452
 - Location: New York, NY, United States US
 - Posted: Nov 12 (board gives the date only)
@@ -98,7 +119,7 @@ The Analyst will perform analysis and forecasting of various load modifiers such
 
 ---
 
-## 5. [MAYBE] Circle K | B2B Commercial Analyst
+## 6. [MAYBE] Circle K | B2B Commercial Analyst
 - Link: https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B161-Raleigh-NC/B2B-Commercial-Analyst_R635702
 - Location: Nonstore B161 Raleigh NC
 - Posted: Nov 11 (board gives the date only)
@@ -113,7 +134,7 @@ B2B Commercial Analyst Location: Raleigh, NC Job Summary The B2B Commercial Anal
 
 ---
 
-## 6. [MAYBE] Lightcast | Economic Research Analyst / Junior Data Scientist - 1089
+## 7. [MAYBE] Lightcast | Economic Research Analyst / Junior Data Scientist - 1089
 - Link: https://jobs.lever.co/economicmodeling/aa5e1f5e-d9cf-446e-af35-fc12b9e453a5
 - Location: Remote (Work From Home) US Remote (Work From Home) US Moscow, ID US
 - Posted: Nov 12 11:49 ET
@@ -128,7 +149,7 @@ Query, clean, and analyze large datasets using SQL, Python, and Snowflake. Sourc
 
 ---
 
-## 7. [MAYBE] DaVita | Financial Analyst
+## 8. [MAYBE] DaVita | Financial Analyst
 - Link: https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Financial-Analyst_R0486190
 - Location: 05555 - Casa del Mundo Office (Denver HQ)
 - Posted: Nov 12 (board gives the date only)
@@ -143,7 +164,7 @@ Posting Date 11/12/2026&#xa;2000 16th Street, Denver, Colorado, 80202, United St
 
 ---
 
-## 8. [MAYBE] SAIC | Data Scientist Associate
+## 9. [MAYBE] SAIC | Data Scientist Associate
 - Link: https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2615778
 - Location: Upper Marlboro, MD, United States US
 - Posted: Nov 12 (board gives the date only)
@@ -158,7 +179,7 @@ SAIC is seeking a Data Scientist Associate with a strong background in statistic
 
 ---
 
-## 9. [MAYBE] Centrica | Data Scientist
+## 10. [MAYBE] Centrica | Data Scientist
 - Link: https://centrica.wd3.myworkdayjobs.com/Centrica/job/Cardiff/Data-Scientist_R0091143
 - Location: 3 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -173,7 +194,22 @@ Join us, be part of more. We’re so much more than an energy company. We’re a
 
 ---
 
-## 10. [MAYBE] Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera
+## 11. [MAYBE] Public Partnerships (PPL) | Analytics Engagement Consultant
+- Link: https://publicpartnerships.wd1.myworkdayjobs.com/ppl/job/US-Remote/Analytics-Engagement-Consultant_JR26-1087
+- Location: US Remote
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~59 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, power bi, python, sql, statistic, tableau, classification, healthcare, quantitative, reporting, research, risk, segmentation | Lacks: azure, databricks, snowflake  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | At PPL, all aspects of employment regarding recruitment, hiring, training, promotion, compensation, benefits, transfers, layoffs, return from layoff, company-sponsored training, education, and social and recreational pro
+
+### Job description
+
+It's fun to work in a company where people truly BELIEVE in what they're doing! We're committed to bringing passion and customer focus to the business. Our people make all the difference in our success. Public Partnerships LLC supports individuals with disabilities or chronic illnesses and aging adults, to remain in their homes and communities and “self” direct their own long-term home care. Our role as the nation’s largest and most experienced Financial Management Service provider is to assist those eligible Medicaid recipients to choose and pay for their own support workers and services within their state-approved personalized budget. We are appointed by states and managed healthcare organizations to better serve more of their residents and members requiring long-term care and ensure the efficient use of taxpayer funded services. Our culture attracts and rewards people who are results-oriented and strive to exceed customer expectations. We desire motivated candidates who are excited to join our fast-paced, entrepreneurial environment, and who want to make a difference in helping transform the lives of the consumers we serve. (learn more at www.pplfirst.com ). Duties & Responsibilities: Job Summary The Analytics Engagement Consultant supports data-driven decision-making across Public Partnerships LLC (PPL) by delivering analytical insights, developing reporting solutions, and partnering with business stakeholders to solve operational and strategic challenges. This role is ideal for an early-career analytics professional who demonstrates strong technical aptitude, business curiosity, and a desire to influence organizational outcomes through data. The Analytics Engagement C will contribute to analytics engagements, support data modeling and reporting initiatives, and collaborate with cross-functional teams to improve program performance across PPL's business lines. Key Responsibilities Analytics Delivery & Project Execution Support the execution of analytics initiatives under the guidance of senior analytics leaders. Perform data analysis, reporting, and research to address defined business questions and operational challenges. Assist in requirements gathering, project planning, and solution development for analytics engagements. Manage assigned deliverables and timelines while proactively communicating risks, dependencies, and obstacles. Contribute to the development of dashboards, reports, and analytical tools that support business decision-making. Data Analysis & Technical Development Develop, maintain, and optimize SQL queries, datasets, and reporting solutions. Utilize Python and related analytical tools to perform data manipulation, analysis, and automation activities. Support data transformation, validation, and quality assurance processes. Apply analytical techniques including segmentation, trend analysis, descriptive statistics, and anomaly detection to identify actionable insights. Document methodologies, assumptions, business rules, and technical processes to support knowledge sharing and audit readiness Stakeholder Partnership & Communication Collaborate with managers, senior managers, and cross-functional business partners to understand analytical needs and deliver meaningful insights. Translate technical findings into clear, concise recommendations for business audiences. Participate in stakeholder meetings and contribute to discussions regarding analytical approaches and business opportunities. Support the presentation of findings through written reports, dashboards, and verbal communications . Continuous Improvement & Professional Development Participate in code reviews, peer reviews, and knowledge-sharing activities. Develop an understanding of PPL's business operations, including Medicaid programs, self-directed services, payroll operations, program performance, and compliance requirements. Contribute to the continuous improvement of analytics standards, methodologies, and best practices. Stay current on emerging analytics technologies, tools, and industry trends. All other duties assigned Required Skills: Strong SQL skills with demonstrated ability to develop complex queries utilizing joins, common table expressions (CTEs), aggregations, and window functions. Working knowledge of Python for data analysis, data manipulation, and automation. Understanding of data modeling concepts, including conceptual, logical, and physical data models. Strong analytical, problem-solving, and critical-thinking skills. Excellent written and verbal communication skills with the ability to explain technical concepts to non-technical audiences. Ability to manage multiple priorities and work independently within established deadlines. Qualifications: Education/Experience: Bachelor's degree in Computer Science, Statistics, Economics, Engineering, Information Systems, Mathematics, Business Analytics, or a related quantitative field; equivalent combination of education and experience may be considered. Two (2) to four (4) years of professional experience in analytics, business intelligence, data analysis, consulting, or a related field. Experience with modern data platforms and analytics technologies such as Databricks, Snowflake, Azure Data Factory, Azure Synapse, Power BI, Tableau, or similar tools. Experience working in healthcare, Medicaid, government programs, payroll operations, financial services, or other regulated industries. Familiarity with cloud-based data architectures and data transformation frameworks. Exposure to statistical analysis, predictive modeling, or data science methodologies. Experience supporting cross-functional business initiatives through analytics and reporting. Working Conditions: Remote. Supervisory Responsibility (If applicable): None Compensation: $98,000-$115,000 This role is eligible for a base salary within the posted range. Actual compensation will be determined based on a variety of factors, including skills, experience, and geographic location. Compensation may vary for positions based in high cost-of-labor markets. The above is intended to describe the general contents and requirements of work being performed by people assigned to this classification. It is not intended to be construed as an exhaustive statement of all duties, responsibilities, or skills of personnel so classified PPL
+
+---
+
+## 12. [MAYBE] Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Research-Associate-I---Patient-Centered-Research--Evidera_R-01375964
 - Location: Remote, Mexico
 - Posted: Nov 11 (board gives the date only)
@@ -188,7 +224,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 11. [MAYBE] Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology
+## 13. [MAYBE] Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology
 - Link: https://wustl.wd1.myworkdayjobs.com/external/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521
 - Location: Remote
 - Posted: Nov 11 (board gives the date only)
@@ -203,7 +239,7 @@ Location Remote, US&#xa;&#xa; Position Summary Position assists investigator wit
 
 ---
 
-## 12. [MAYBE] Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology
+## 14. [MAYBE] Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521
 - Location: Remote
 - Posted: Nov 11 (board gives the date only)
@@ -218,7 +254,22 @@ Location Remote, US&#xa;&#xa; Position Summary Position assists investigator wit
 
 ---
 
-## 13. [MAYBE] Google | Research Scientist, Modeling of Readout and Reset, Quantum
+## 15. [MAYBE] Gordon Food Service | Reporting and Data Insights Analyst
+- Link: https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Reporting-and-Data-Insights-Analyst_R-59873
+- Location: Wyoming, Michigan
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~52 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, power bi, statistic, tableau, data quality, reporting, risk | Lacks: looker, scala
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Welcome to Gordon Food Service! We are excited that you are thinking about opportunities with us, and we have an amazing story to share. See below for a quick glance of who we are and the impact you could have on the food service industry. There's a seat at our table for you... The Reporting and Data Insights Analyst is responsible for the design and delivery of reporting solutions, insights, and analytics. Partners with leadership on the development and implementation of data insights. What you will do: Reporting Serves as an Internal Audit reporting and continuous improvement expert with deep knowledge of current reporting and data functionality, design concepts, creating strong partnerships with relevant process areas Partners with the Internal Audit, Asset Protection, and Enterprise Risk Management teams to deeply understand business problems to solve, key questions to be answered, and how the reporting tools developed will fit into business process decision-making. Develops interactive and easy-to-understand data visualizations using best practices to effectively solve business problems by enabling business insights and making recommendations. Interprets data and analyzes results using statistical techniques to deliver data in a useful and appealing way to users. Recommends definitions for new and updated metrics, and supports metric data governance and documentation. Familiar with blending multiple data sources together into cohesive insights Data Governance Develops data standards, policies, and procedures, including methodologies for monitoring, analyzing and correcting data usage, distribution, and reporting. Facilitates collaboration and cross-functional partnerships in the department to solve the team's most pressing challenges Evaluates priorities and works through complex issues to identify, develop and implement effective solutions for process optimization and/or automation. Assists with change management, communication, and training initiatives that advance the department’s data governance and reporting abilities and maturity. Supports implementing scalable frameworks, standards and data best practices while upholding integrity and privacy across our data ecosystem and lifecycle. Works as a data steward hand-in-hand with the managers of the critical data systems to convey data governance needs. Supports the documentation and implementation of data quality policies, standards, and procedures for both legacy and new data environments. Develops and delivers training to the end-users on new and existing dashboards, AI tools, and automations.. When you will work: Monday through Friday, 8:00am - 5:00pm. Hybrid Work Schedule: 4 days in office, 1 day from home. What you bring to the table: Bachelor's degree in Finance, Accounting, Computer Science, Information Systems, or Data Science (or equivalent) plus 2 or more years of experience data analytics (e.g., Visual Looker, Power BI, Tableau, etc.) and Artificial Intelligence tools (e.g. Gemini, ChatGPT, Claude, etc). Effective understanding of Data Governance and Data Quality concepts Analytical and problem-solving skills combined with strong business discernment and an ability to communicate analysis in a clear and compelling manner. Experience in reporting, including developing complex reports, layouts, and analytics for business purposes. Project oversight in support of overall direction and delivery of analytics and data governance solutions Experience gathering requirements, designing, prototyping, testing, and deploying solutions to meet customer requirements. Passion for exceptional customer service Strong communication and presentation skills, with the ability to effectively manage customer expectations. Comfortable helping translate ambiguity into tangibility BE PART OF AN AMAZING CULTURE WHERE WHAT MATTERS TO YOU, MATTERS TO US! Gordon Food Service values our customers and understands that their success is largely dependent upon their workforce. To demonstrate our commitment to our partnership, we will require any candidate who works for a Gordon Food Service customer to provide a letter of support from their management if they are selected for the interview process. Equal Employment Opportunity is a matter of policy at Gordon Food Service, Inc. and we are committed to a work environment in which all individuals are treated with respect and dignity. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, status as a protected veteran, or status as a qualified individual with disability. If you require
+
+---
+
+## 16. [MAYBE] Google | Research Scientist, Modeling of Readout and Reset, Quantum
 - Link: https://www.google.com/about/careers/applications/jobs/results/101752149989302982
 - Location: Goleta, CA, USA ; Los Angeles, CA, USA
 - Posted: Nov 12 03:36 ET
@@ -233,7 +284,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 14. [MAYBE] GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F)
+## 17. [MAYBE] GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F)
 - Link: https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Villeurbanne/Analytics-Sourcing-Specialist--Spcialiste-analytique-des-achats-H-F-_R5058835-1
 - Location: Villeurbanne
 - Posted: Nov 11 (board gives the date only)
@@ -248,7 +299,7 @@ Job Description Summary Négocier avec des fournisseurs dédiés conformément �
 
 ---
 
-## 15. [MAYBE] TikTok | Data Scientist - TikTok Ads
+## 18. [MAYBE] TikTok | Data Scientist - TikTok Ads
 - Link: https://lifeattiktok.com/search/6863478486973040910
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -279,7 +330,7 @@ Preferred Qualifications:
 
 ---
 
-## 16. [MAYBE] GenScript | Research Associate, Analytical Development
+## 19. [MAYBE] GenScript | Research Associate, Analytical Development
 - Link: https://job-boards.greenhouse.io/genscript/jobs/5293026007
 - Location: Seattle, Washington, United States
 - Posted: Nov 12 02:18 ET
@@ -294,7 +345,22 @@ About GenScript Founded in 2002 in New Jersey, GenScript Biotech Corporation acc
 
 ---
 
-## 17. [MAYBE] Google | Gemini Vision Research Scientist, DeepMind
+## 20. [MAYBE] SAIC | Operational Research Analyst
+- Link: https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2619061
+- Location: Pearl Harbor, HI, United States US
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, portfolio, research, risk | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | Clearance Requirement: US Citizenship.
+
+### Job description
+
+Description SAIC is seeking an Operational Research Analyst for an Air Force TENCAP HOPE 2.0 contract, for Research and Development for the Pacific Air Forces (PACAF) Air Warfare Center located at Joint Base Pearl Harbor Hickam, Hawaii. This position will support the PACAF Air Warfare Center with operational and technical matters, including the development and interpretation of information that assists leaders with decision-making, policy formulation, and other functions. Description of Duties: Lead and participate in multi-dimensional teams in high-tempo environments that produce high quality deliverables. Serve as a cross-functional partner, consensus builder, and thought leader in driving transformation and scaling operations. Manage risk and organization relationships. Manage, design, develop, and integrate activities to ensure technical, schedule, and financial performance. Support operations by developing support plans and coordinating associated logistics. Participate in forums and workgroups, including the development of briefings and reports. Conduct and support design, research and development activities. Receive assignments in the form of broad objectives, then establish specific goals and schedules to meet objectives. Establish and recommend changes to policies, which affect subordinate organizations.  Required Education & Experience: Bachelors and Fourteen (14) or relevant years of experience in lieu of degree. Extensive technical and military operational expertise. Experience developing and presenting high-level briefings. Excellent oral and written communication skills. Clearance Requirement: US Citizenship. Secret with ability to obtain TS/SCI. Desired Experience/Skills/Attributes: US military aviator experience. PMP Certification. Risk Management. SAIC® is a premier mission integrator focused on advancing the power of technology and innovation to serve and protect our world. Our robust portfolio of offerings across the defense, space, intelligence, and civilian markets includes secure high-end solutions in mission IT, enterprise IT, engineering services, and professional services. We integrate emerging technology, rapidly and securely, into mission critical operations that modernize and enable critical national imperatives. We are approximately 23,000 strong; driven by mission, united by purpose, and inspired by opportunities. SAIC
+
+---
+
+## 21. [MAYBE] Google | Gemini Vision Research Scientist, DeepMind
 - Link: https://www.google.com/about/careers/applications/jobs/results/103995840904733382
 - Location: Mountain View, CA, USA ; New York, NY, USA ; Los Angeles, CA, USA
 - Posted: Nov 12 09:38 ET
@@ -309,7 +375,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 18. [MAYBE] Syngenta Group | Research Scientist
+## 22. [MAYBE] Syngenta Group | Research Scientist
 - Link: https://jobs.smartrecruiters.com/SyngentaGroup/744000161311869
 - Location: Durham North Carolina us
 - Posted: Nov 12 09:18 ET
@@ -324,7 +390,7 @@ This role serves as a key member of the soybean trait introgression team while a
 
 ---
 
-## 19. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
+## 23. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
 - Link: https://jobs.smartrecruiters.com/PAConsulting/744000161325099
 - Location: Chicago us
 - Posted: Nov 12 10:12 ET
@@ -339,7 +405,7 @@ PA's Growth Strategy team helps organizations identify opportunities for sustain
 
 ---
 
-## 20. [MAYBE] CVS Health | Software Engineer (AI Engineering)
+## 24. [MAYBE] CVS Health | Software Engineer (AI Engineering)
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Software-Engineer--NET-Python-_R1084915
 - Location: RI - Work from home
 - Posted: Nov 11 (board gives the date only)
@@ -354,7 +420,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 21. [MAYBE] CVS Health | Data and Analytics Consultant
+## 25. [MAYBE] CVS Health | Data and Analytics Consultant
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Data-and-Analytics-Consultant_R1064091-1
 - Location: see posting
 - Posted: Nov 12 (board gives the date only)
@@ -369,7 +435,22 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 22. [MAYBE] Genentech | Machine Learning Scientist/Senior Machine Learning Scientist, Agents for Applied Small Molecule Drug Design, AIDD
+## 26. [MAYBE] PennState University | Part Time Research Assistant (Camodeca)
+- Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Beaver/Part-Time-Research-Assistant--Camodeca-_REQ_0000084281-1
+- Location: Penn State Beaver
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: part-time
+- Title scope: core | Has: statistic, reporting, research | Lacks: -  | Note: part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+- Eligibility: CHECK | BACKGROUND CHECKS/CLEARANCES This position requires the following clearances in addition to applicable background checks: PA State Police Criminal Background Check, PA Child Abuse History Clearance Form, and Federal (FBI
+
+### Job description
+
+APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process . Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday. If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants . Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants . JOB DESCRIPTION AND POSITION REQUIREMENTS Penn State Beaver is accepting applications for a part time Research Assistant to work with Dr. Camodeca. Duties/Expectations Job requires interaction with children and their parents and/or guardians in an assessment context with supervision Scheduling/confirming interviews and assessments Tracking receipt of documents Conducting structured zoom interviews with parents and/or guardians Observing assessments, being the second adult in a room while the child is present for compliance purposes Data entry Previous experience in Dr. Camodeca's lab or permission required. BACKGROUND CHECKS/CLEARANCES This position requires the following clearances in addition to applicable background checks: PA State Police Criminal Background Check, PA Child Abuse History Clearance Form, and Federal (FBI) Fingerprint Criminal Background Check. CAMPUS SECURITY CRIME STATISTICS Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here .
+
+---
+
+## 27. [MAYBE] Genentech | Machine Learning Scientist/Senior Machine Learning Scientist, Agents for Applied Small Molecule Drug Design, AIDD
 - Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/San-Francisco/Machine-Learning-Scientist---Agents-for-Applied-Small-Molecule-Drug-Design_202606-115525-1
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -384,7 +465,7 @@ A healthier future. It’s what drives us to innovate. To continuously advance s
 
 ---
 
-## 23. [MAYBE] Capital One | Senior Associate, Data Science - Compliance Model Risk
+## 28. [MAYBE] Capital One | Senior Associate, Data Science - Compliance Model Risk
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Senior-Associate--Data-Science---Compliance-Model-Risk_R1005177-1
 - Location: 4 Locations
 - Posted: Nov 11 (board gives the date only)
@@ -399,7 +480,7 @@ Senior Associate, Data Science - Compliance Model Risk Data is at the center of 
 
 ---
 
-## 24. [MAYBE] Merck | Senior AI Data Scientist/ Statistician
+## 29. [MAYBE] Merck | Senior AI Data Scientist/ Statistician
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-AI-Data-Scientist--Statistician_R426163
 - Location: USA - New Jersey - Rahway
 - Posted: Nov 11 (board gives the date only)
@@ -414,7 +495,22 @@ Job Description Position Overview: We are seeking a highly motivated quantitativ
 
 ---
 
-## 25. [MAYBE] Merck | Senior AI Data Scientist
+## 30. [MAYBE] Unity | Senior Machine learning engineer, AI Authoring
+- Link: https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/Senior-Machine-learning-engineer--AI-Authoring_JOBREQ-2616605
+- Location: Mountain View, CA, USA
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 24 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: bigquery, excel, forecast, llm, machine learning, postgres, backtest, calibration, healthcare, pipeline, portfolio, publication | Lacks: kafka  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The opportunity Unity is building next-generation intelligence systems for gaming: systems that help AI-native teams understand the market and get the most out of the frontier models. We are hiring a Senior Machine Learning Engineer to lead this effort. You will own the end-to-end architecture, build pipelines, systems, and models, and scale a cross-disciplinary team of engine developers, game developers, and machine learning engineers. The work spans market forecasting, outcome prediction, multimodal content understanding, evaluation, and agentic systems. What you'll be doing Technical Excellence Work on our Game Intelligence ML platform, from data ingestion, semantic layer and feature stores through model registry, evaluation and serving. Make the calls that keep every model output reproducible and auditable: versioned data snapshots, model and prompt versions, and cost tracked per decision. Define, lead, and spearhead engineering practices for the agentic era, including agentic development workflows and evaluation methodologies. Partner with different functional teams and disciplines to translate expert human judgment into training signals. Shape the roadmap with the product team. Modeling Build predictors of commercial outcomes for games such as user acquisition cost, lifetime value and return on ad spend from large, noisy, multi-source signals. Build forecasting models over market signals that detect emerging demand and estimate when a window opens, peaks and closes. Deliver every prediction as a calibrated range with stated confidence, and own the ranking and portfolio logic that turns predictions into recommendations within a budget. Experimentation and agentic systems Design online experimentation with guardrails, safe exploration and clear human decision points. Build evaluation harnesses for LLM-based agents, including automated playtesting and multimodal assessment of generated content. Orchestrate frontier-model agents in production with strict data boundaries and cost control. Calibration and measurement Own the feedback loop that scores predictions against realized outcomes and corrects bias, coverage and signal weighting over time. Make the system report its own error in plain language so that creators and internal stakeholders can trust it. What we're looking for Passion for game industry Deep experience in Game, Game Engine development or Game publishing. Experience in machine learning with a track record of owning production ML systems or Agentic systems end to end, from data to serving to measured business outcome. Deep experience in performance marketing or ad-tech modeling: predicting acquisition cost, lifetime value, return on ad spend, retention or comparable outcomes. Strong grounding in probabilistic prediction and calibration: quantile or interval prediction, coverage, bias correction and backtesting of forecasts. Experience building LLM-based agent systems in production: orchestration, evaluation harnesses, prompt and model versioning, and cost control. Comfort building in a zero-to-one environment. You might also have Experience in mobile game user acquisition, LiveOps or monetization, on the studio or publisher side. Experience with Unity game engine, or with automated and bot-driven playtesting. Time-series and demand forecasting experience over noisy, multi-source market signals. Experience with the Claude Agent SDK, Codex or similar frameworks for multi-agent software production. Hands-on experience with BigQuery, ClickHouse, Kafka, Postgres, pgvector or their equivalents. Publications or open-source contributions in forecasting, causal inference, calibration or agentic systems. This range reflects the anticipated base salary for this position. Beyond base salary, this role may be eligible for equity awards and participation in our company incentive plans (such as annual discretionary bonuses or sales commissions). The final offer amount will depend on several factors, including geographic location and the candidate’s relevant experience, professional background, and skill set. Benefits At Unity, we want our team members to thrive. We offer a wide range of benefits designed to support well-being and work-life balance. Please note: Benefits eligibility, specific offerings, and coverage vary based on the country and employment status. While specific benefits vary, here are some of the ways we strive to take care of our eligible team members globally: Comprehensive health, life, and disability insurance | Commute subsidy | Employee stock ownership | Competitive retirement/pension plans | Generous vacation and personal days | Support for new parents through leave and family-care programs | Office food snacks | Mental Health and Wellbeing programs and support | Employee Resource Groups | Global Employee Assistance Program | Training and development programs | Volunteering and donation matching program Life at Unity Unity [NYSE: U] is the world’s leading game engine, powering play for more than 3 billion consumers each month. The top mobile games in the world, the most played PC indie titles, the most innovative console games, and virtually all of the top XR and Web Games are developed, deployed, and grown in Unity. Unity also enables teams across industries like automotive, manufacturing, and healthcare to design, simulate, and collaborate in 3D — closing the gap between ideas and reality. For more information, please visit www.unity.com . Unity is a proud
+
+---
+
+## 31. [MAYBE] Merck | Senior AI Data Scientist
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-AI-Data-Scientist_R426413-2
 - Location: USA - New Jersey - Rahway
 - Posted: Nov 11 (board gives the date only)
@@ -429,7 +525,7 @@ Job Description Position Overview: We are seeking a highly motivated quantitativ
 
 ---
 
-## 26. [MAYBE] Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera
+## 32. [MAYBE] Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Research-Associate-II--Patient-Centered-Research---Evidera_R-01375966
 - Location: Remote, Mexico
 - Posted: Nov 11 (board gives the date only)
@@ -444,7 +540,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 27. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary
+## 33. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary
 - Link: https://ejis.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3044563
 - Location: United States US
 - Posted: Nov 12 (board gives the date only)
@@ -459,7 +555,7 @@ As a Data Scientist II, work closely with clinical leads and product sponsors to
 
 ---
 
-## 28. [MAYBE] Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA **
+## 34. [MAYBE] Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA **
 - Link: https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/SRB-Belgrade-Hybrid/Sr-Data-Analyst-I--RWE----Hybrid-SERBIA---_25113045
 - Location: 2 Locations
 - Posted: Nov 11 (board gives the date only)
@@ -474,7 +570,7 @@ Sr Data Analyst I, RWE ** Hybrid SERBIA ** Syneos Health® is a leading fully-in
 
 ---
 
-## 29. [MAYBE] Elsevier | Senior Software Engineer / Senior AI Engineer
+## 35. [MAYBE] Elsevier | Senior Software Engineer / Senior AI Engineer
 - Link: https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia/Senior-Software-Engineer---Senior-AI-Engineer_R117481
 - Location: 3 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -489,7 +585,7 @@ Are you excited about building intelligent systems powered by cutting-edge AI te
 
 ---
 
-## 30. [MAYBE] Wells Fargo | Senior Risk Analytics Consultant (Merchant Services)
+## 36. [MAYBE] Wells Fargo | Senior Risk Analytics Consultant (Merchant Services)
 - Link: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Risk-Analytics-Consultant--Merchant-Services-_R-577689
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -504,7 +600,7 @@ About this role: Wells Fargo is seeking a Senior Risk Analytics Consultant to le
 
 ---
 
-## 31. [MAYBE] Ally Bank | Senior Data Analyst - Fraud
+## 37. [MAYBE] Ally Bank | Senior Data Analyst - Fraud
 - Link: https://ally.wd1.myworkdayjobs.com/ALLY/job/Charlotte-NC/Senior-Data-Analyst---Fraud_R2601095-1
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
