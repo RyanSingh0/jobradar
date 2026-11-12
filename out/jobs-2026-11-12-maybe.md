@@ -4,23 +4,89 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera | 54 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 2 | Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
-| 3 | Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | cap-exempt employer | Nov 11 (board gives the date only) |
-| 4 | Google | Research Scientist, Modeling of Readout and Reset, Quantum | 50 | 1053 in data/analytics/finance occupations | Nov 12 03:36 ET |
-| 5 | GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F) | 50 | 3 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 6 | GenScript | Research Associate, Analytical Development | 45 | 5 in data/analytics/finance occupations | Nov 12 02:18 ET |
-| 7 | Google | Gemini Vision Research Scientist, DeepMind | 44 | 1053 in data/analytics/finance occupations | Nov 12 09:38 ET |
-| 8 | Syngenta Group | Research Scientist | 40 | 5 in data/analytics/finance occupations | Nov 12 09:18 ET |
-| 9 | Capital One | Senior Associate, Data Science - Compliance Model Risk | 74 | 458 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 10 | Merck | Senior AI Data Scientist/ Statistician | 67 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 11 | Merck | Senior AI Data Scientist | 65 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 12 | Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera | 62 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 13 | Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA ** | 56 | 16 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 1 | Varian | Financial Analyst | 71 | 12 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 2 | Royal Bank of Canada | OTC Derivatives Controls Analyst | 68 | 7 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 3 | Consolidated Edison | Analyst, Policy Integration Forecasting | 67 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 4 | Circle K | B2B Commercial Analyst | 65 | 19 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 5 | Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera | 54 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 6 | Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
+| 7 | Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | cap-exempt employer | Nov 11 (board gives the date only) |
+| 8 | Google | Research Scientist, Modeling of Readout and Reset, Quantum | 50 | 1053 in data/analytics/finance occupations | Nov 12 03:36 ET |
+| 9 | GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F) | 50 | 3 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 10 | GenScript | Research Associate, Analytical Development | 45 | 5 in data/analytics/finance occupations | Nov 12 02:18 ET |
+| 11 | Google | Gemini Vision Research Scientist, DeepMind | 44 | 1053 in data/analytics/finance occupations | Nov 12 09:38 ET |
+| 12 | Syngenta Group | Research Scientist | 40 | 5 in data/analytics/finance occupations | Nov 12 09:18 ET |
+| 13 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 12 10:12 ET |
+| 14 | CVS Health | Software Engineer (AI Engineering) | 40 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
+| 15 | Capital One | Senior Associate, Data Science - Compliance Model Risk | 74 | 458 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 16 | Merck | Senior AI Data Scientist/ Statistician | 67 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 17 | Merck | Senior AI Data Scientist | 65 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 18 | Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera | 62 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 19 | Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA ** | 56 | 16 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera
+## 1. [MAYBE] Varian | Financial Analyst
+- Link: https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/OAV-N/Financial-Analyst_R-31930
+- Location: OAV N
+- Posted: Nov 11 (board gives the date only)
+- Scanner fit: ~71 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 12 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, dashboard, data visualization, excel, forecast, power bi, data quality, fraud, git, healthcare, kpi, portfolio, reporting, research | Lacks: sap  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Our inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone, offering resources and flexibility to foster your professional and personal growth, all while valuing your unique contributions. Key Responsibilities 1. Financial Closing & Reconciliations Support monthly, quarterly, and annual financial closing activities, ensuring accuracy and timely completion. Prepare and review financial reports, journal entries, accruals, and account reconciliations. Analyze financial data and investigate discrepancies or unusual transactions. Support the validation of financial results and ensure consistency between financial systems and reporting tools. Collaborate with Accounting and other Finance teams to resolve closing-related issues. 2. Financial Reporting & Performance Analysis Prepare and maintain monthly financial reports, management reports, and KPI dashboards. Support the analysis of actual financial performance against budget, forecast, and prior periods. Perform basic variance analysis and identify key financial movements and deviations. Assist in preparing financial presentations and performance updates for management. Ensure the accuracy, completeness, and integrity of financial data. Provide ad-hoc financial reports and analysis as required by local, regional, and global Finance teams. 3. Budgeting & Forecasting Support the annual budgeting and periodic forecasting processes. Collect, consolidate, and validate financial information from different business functions. Assist in preparing financial models, budget templates, and forecast reports. Monitor actual performance against financial targets and highlight significant deviations. Support scenario analysis and financial planning activities. 4. Data Analysis & Business Support Extract, organize, and analyze financial and operational data to support business performance monitoring. Assist in identifying financial trends, risks, and opportunities. Provide analytical support to Finance and business stakeholders. Support the preparation of business cases and financial analysis for specific projects and initiatives. Develop an understanding of key business drivers and their impact on financial performance. 5. Financial Controls & Compliance Support the implementation and maintenance of internal financial controls and reporting procedures. Assist with internal and external audit requests and documentation. Ensure compliance with internal financial reporting guidelines and company policies. Support tax reporting and transfer pricing activities by preparing relevant financial information and documentation. 6. Process Improvement & Digitalization Identify opportunities to improve financial reporting processes and data quality. Support automation and standardization of recurring financial reports. Maintain and enhance Excel-based reporting tools and financial templates. Support the use and development of financial systems, dashboards, and reporting tools. Requirements Bachelor's degree in Finance, Accounting, Business Administration, or a related field. 2–4 years of relevant experience in Financial Analysis, Financial Controlling, Accounting, or FP&A. Basic understanding of financial statements, accounting principles, and financial reporting. Experience supporting month-end closing, account reconciliations, and financial reporting. Basic knowledge of budgeting, forecasting, and variance analysis. Strong Microsoft Excel skills, including working with large datasets, pivot tables, and financial formulas. Experience with SAP or other ERP systems is an asset. Knowledge of Power BI or other reporting and data visualization tools is an advantage. Strong analytical and problem-solving skills with excellent attention to detail. Good organizational skills and ability to manage multiple priorities and deadlines. Strong communication and interpersonal skills, with the ability to collaborate effectively with different Finance and business stakeholders. Proactive attitude, willingness to learn, and ability to work independently while contributing to a team environment. Who we are: We are a team of more than 72,000 highly dedicated Healthineers in more than 70 countries. As a leader in medical technology, we constantly push the boundaries to create better outcomes and experiences for patients, no matter where they live or what health issues they are facing. Our portfolio is crucial for clinical decision-making and treatment pathways. How we work: When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably. To find out more about Siemens Healthineers' businesses, please visit our company page at Siemens Healthineers Canada . The expected compensation for this position is: $61,000 - $87,000 Factors which may affect starting compensation within this range may include geography/market, skills, education, experience, and other qualifications of the successful candidate. Siemens Healthineers offers a variety of health and wellness benefits including a flexible benefits plan, Defined Contribution Pension Plan, Registered Retirement Savings Plan matching contributions, plus a competitive paid time off program including vacation, company holidays, sick leave, and parental leave (all subject to eligibility requirements). This information is provided per required laws and regulations. Applicants should apply via Siemens Healthineers external or internal careers site. Equal Employment Opportunity Statement: Siemens Healthineers is committed to creating a diverse environment and is proud to be an
+
+---
+
+## 2. [MAYBE] Royal Bank of Canada | OTC Derivatives Controls Analyst
+- Link: https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/90-WESTERN-PKYBEDFORD/OTC-Derivatives-Controls-Analyst_R-0000192451-2
+- Location: 90 WESTERN PKY:BEDFORD
+- Posted: Nov 11 (board gives the date only)
+- Scanner fit: ~68 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 7 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: excel, python, sql, ai agent, derivatives, kpi, portfolio, reporting, risk, trading | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Description What is the opportunity? The OTC Derivatives Controls Analyst will be responsible for assisting in investigating OTC uncleared derivative trades valuation difference and resolving margin disputes. The incumbent will create daily reconciliation reports and be responsible for analyzing, monitoring, reporting and escalation of trade and portfolio level exposure differences in compliance with regulatory guidelines for in scope counterparties including CFTC, SEC, EMIR. What will you do? Produce, analyze and investigate exposure reconciliations for in-scope counterparties according to regulatory guidelines including aging and reasons for differences Track and monitor frequency of required reconciliations based on counterparty trade volumes in compliance with industry regulations Partner with IT to reduce systemic risk and increase operational efficiencies in the daily process Case Management and reporting of exposure differences in TriResolve and using EUC tools Escalating disputes/discrepancies as per Standing Orders and department Operating Procedures Liaise with internal stakeholders and counterparties to ensure timely resolution of exposure differences in compliance with regulatory requirements Assist in producing management reporting for KPI purposes Proactively advise margin teams on potential disputes through the day Cross-train as required on additional control functions including CSA onboarding What do you need to succeed? Must-have Experience in a capital market client facing operations or middle office role preferably with OTC derivatives and/or reconciliation Good understanding of OTC derivatives and margining workflow under the ISDA-CSA protocols College or University Diploma/degree Advanced skills in MS Excel Attention to details Ability to multi-task while adhering to deadlines Strong organisational and time management skills Nice-to-have Experience with utilization of AI agents and AI tools in working environment Experience with maintaining Excel macros or equivalent scripts Experience with programming languages and data query (e.g. VBA, Python, SQL) Experience with management information reporting Familiarity with pricing and valuations of OTC derivatives and risks associated with collateralisation of these products Familiarity with collateral systems e.g. COLLINE, TriResolve, Acadia Familiarity with ISDA CSA documents and terminologies Understanding of regulatory requirements for OTC derivatives reconciliations across regimes in scope for RBC, and ISDA protocols for OTC derivatives uncleared margin best practices Understanding of OTC derivative trading, lifecycle events and settlement Understanding of risks and controls framework applied to Capital Markets and the OTC derivative markets What’s in it for you? We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual. A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation Leaders who support your development through coaching and managing opportunities Work in a dynamic, collaborative, progressive, and high-performing team Opportunities to do challenging work Flexible work/life balance options #LI-KA2 Job Skills Active Learning, Adaptability, Business Appraisals, Critical Thinking, Customer Service, Decision Making, Effectiveness Measurement, Operational Delivery, Process Improvements Additional Job Details Address: 90 WESTERN PKY:BEDFORD City: Bedford Country: Canada Work hours/week: 37.5 Employment Type: Full time Platform: CAPITAL MARKETS Job Type: Regular Pay Type: Salaried Posted Date: 2026-11-12 Application Deadline: 2026-11-26 Note : Applications will be accepted until 11:59 PM on the day prior to the application deadline date above Our Employment Opportunities At RBC, we are guided by living shared values of Client First, Integrity, Collaboration, Respect and Excellence and winning together as One RBC. We believe an inclusive workplace that has diverse perspectives is core to our continued growth as one of the largest and most successful banks in the world. Maintaining a workplace where our employees feel supported to perform at their best, effectively collaborate, drive innovation, and grow professionally helps to bring our Purpose to life and create value for our clients and communities. RBC strives to deliver this through policies and programs intended to foster a workplace based on respect, belonging and opportunity for all. Join our Talent Community Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you. Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com . RBC is presently inviting candidates to apply for this existing vacancy. Applying to this posting allows you to express your interest in this current career opportunity at RBC. Qualified applicants may be contacted to review their resume in more detail.
+
+---
+
+## 3. [MAYBE] Consolidated Edison | Analyst, Policy Integration Forecasting
+- Link: https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/1000452
+- Location: New York, NY, United States US
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: excel, forecast, power bi, python, sql, statistic | Lacks: -  | Note: broad title
+- Eligibility: CHECK | This position does not provide employment pursuant to the terms of a STEM OPT Training Plan.
+
+### Job description
+
+The Analyst will perform analysis and forecasting of various load modifiers such as electric vehicles, photovoltaics, heat pumps, DG/CHP, and battery energy storage systems to support electric, gas, and steam forecasts for CECONY and ORU. This position is essential to the success of the Company because it monitors our local and national dynamic energy policies and ensures consistency among forecasts, strategies, and plans emanating from Energy Management, Strategic Planning, Customer Energy Solutions, and Corporate Affairs. The successful candidate for this position will possess strong analytical skills, an understanding of policy integration forecasting, and a passion for driving positive change in the energy sector. This position does not provide employment pursuant to the terms of a STEM OPT Training Plan. Core Responsibilities Provide valuable support to the Director of Commodity Forecasting and the Section Manager within the relatively newly established section conducting analysis and forecasting of various load modifiers, including electric vehicles, photovoltaics, heat pumps, DG/CHP, and battery energy storage systems. These forecasts will play a crucial role in supporting electric, gas, and steam projections for CECONY and ORU. Monitor the Companys local and national dynamic energy policies and ensures consistency among forecasts, strategies and plans and keep current with Local Law 97, Local Law 154, and CLCPA policies as they drive forecasts and ensure reflection of policy interpretation in the Companys forecast. Create and prepare spreadsheets, reports, regulatory filings, and testimony. Manipulate and analyze extensive datasets during the model development process, utilizing Python, SQL, Excel, VBA, and other robust statistical/analytical software. Support electric, gas, and steam rate case, budgets, peak demand forecasts, and long-range plans as the expert for the load modifiers and respond to interrogatories regarding their forecast. Conduct comprehensive analysis and evaluations of load modifier assessments related to electric vehicles, photovoltaics, heat pumps, DG/CHP, and battery energy storage systems, both from internal departments and external consultants, to facilitate informed decision-making. Deliver presentations on forecasting matters; and represent the Company at meetings with the NYISO, New York State Public Service Commission, New York City governmental agencies, and other stakeholders. Collaborate closely with Strategic Planning, Customer Energy Solutions, and Corporate Affairs teams to ensure alignment and consistency across forecasts, policies, strategies, and plans. Perform other related tasks and assignments as required. Perform emergency/storm duty as needed. Required Education/Experience Bachelor's Degree in Business Administration, Public Policy, Engineering, Energy Management, Mathematics, Economics or related field and a minimum of 2 years' work experience. Preferred Education/Experience Master's Degree in Business Administration, Public Policy, Engineering, Energy Management, Mathematics, Economics or related field and a minimum of 2 years' work experience. Relevant Work Experience Working knowledge of Python, Power BI, SQL, or VBA and an interest in gaining skills in scripting, required. Proficient in Microsoft Word, Excel, and PowerPoint, required. Proficient in developing comprehensive and analytical spreadsheet models in Excel, required. Minimum of 1 year of utility experience preferred in which some analytical, technical, engineering, forecasting, and/or modeling related, preferred. Experience in forecasting/modeling of electric, gas, or steam or equivalent forecasting/analytical experience, preferred. Working knowledge of utility or in-house customer information system, preferred. Familiarity with clean energy technologies and data relating to electric vehicles, photovoltaics, heat pumps, DG/CHP and battery energy storage systems, preferred. Licenses and Certifications Driver's License Required Additional Physical Demands The selected candidate will be assigned a System Emergency Assignment (i.e., an emergency response role) and will be expected to work non-business hours during emergencies, which may include nights, weekends, and holidays. Mission Statement: Consolidated Edison Company of New York, Inc. (Con Edison), Orange & Rockland Utilities (O&R), and Consolidated Edison Transmission (CET) employees are required to follow health, safety, and environmental policies,
+
+---
+
+## 4. [MAYBE] Circle K | B2B Commercial Analyst
+- Link: https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B161-Raleigh-NC/B2B-Commercial-Analyst_R635702
+- Location: Nonstore B161 Raleigh NC
+- Posted: Nov 11 (board gives the date only)
+- Scanner fit: ~65 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 19 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, dashboard, excel, forecast, power bi, sql, tableau, kpi, pipeline, reporting | Lacks: salesforce  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+B2B Commercial Analyst Location: Raleigh, NC Job Summary The B2B Commercial Analyst supports the B2B Commercial organization by delivering accurate and actionable sales, market, and performance reporting. This role provides analytical insights to sales teams and customers, evaluates business unit performance, and leverages advanced data tools to optimize pipeline management, grow gallons, and strengthen commercial execution. The analyst also develops dashboards, supports quarterly reviews, and delivers strategic insights to Commercial Leadership. Key Responsibilities - Develop recurring and ad hoc sales and market reports to support field sales teams and customers. - Translate complex data into clear, actionable insights that improve sales strategy and customer engagement. - Analyze performance, including volume, margin, retention, and pipeline effectiveness. - Maintain dashboards, scorecards, and KPI reports used in quarterly reviews and commercial planning. - Perform detailed pipeline analysis using Salesforce to evaluate opportunity quality, movement, and conversion. - Provide insights that improve forecast accuracy and support territory planning and account prioritization. - Build and manage analytical models and dashboards using Power BI, Tableau, and advanced Excel. - Leverage AI tools to automate reporting and enhance insight generation. - Maintain strong data integrity and serve as a subject matter expert for Salesforce reporting. - Create other reports, tools, and analyses as required by Commercial Leadership to support strategic initiatives and decision-making. - Supports in validating commercial sales transactional data Qualifications Listed qualifications represent the ideal criteria; consideration may be made based on experience and capability. Required - Bachelor’s degree in business, analytics, economics, finance, or a related field. - Experience in a B2B commercial sales, or analytics-focused environment. - Advanced Excel skills including pivot tables, power queries, and modeling. - Proficiency with Salesforce reporting tools. - Experience using Power BI and/or Tableau for visualization and dashboard creation. - Experience writing SQL queries for data extraction and analysis - Strong analytical, problem‑solving, and communication skills. Preferred - Experience in industrial, energy, logistics, distribution, or similar B2B environments. - Familiarity with AI-driven analytics and automation tools such as Power Automate - Strong understanding of B2B sales processes, pipeline management, and CRM best practices. Key Competencies - Analytical Thinking - Commercial Acumen - Collaboration - Communication Skills - Attention to Detail - Problem-Solving Why Join Circle K At Circle K, we are committed to innovation, collaboration, and delivering value to our customers. As part of our B2B team, you will contribute to strategic initiatives, work cross-functionally, and make a measurable impact on the business. We offer professional development opportunities and a global brand environment built on integrity, diversity, and excellence. Equal Opportunity Statement Circle K
+
+---
+
+## 5. [MAYBE] Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Research-Associate-I---Patient-Centered-Research--Evidera_R-01375964
 - Location: Remote, Mexico
 - Posted: Nov 11 (board gives the date only)
@@ -35,7 +101,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 2. [MAYBE] Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology
+## 6. [MAYBE] Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology
 - Link: https://wustl.wd1.myworkdayjobs.com/external/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521
 - Location: Remote
 - Posted: Nov 11 (board gives the date only)
@@ -50,7 +116,7 @@ Location Remote, US&#xa;&#xa; Position Summary Position assists investigator wit
 
 ---
 
-## 3. [MAYBE] Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology
+## 7. [MAYBE] Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521
 - Location: Remote
 - Posted: Nov 11 (board gives the date only)
@@ -65,7 +131,7 @@ Location Remote, US&#xa;&#xa; Position Summary Position assists investigator wit
 
 ---
 
-## 4. [MAYBE] Google | Research Scientist, Modeling of Readout and Reset, Quantum
+## 8. [MAYBE] Google | Research Scientist, Modeling of Readout and Reset, Quantum
 - Link: https://www.google.com/about/careers/applications/jobs/results/101752149989302982
 - Location: Goleta, CA, USA ; Los Angeles, CA, USA
 - Posted: Nov 12 03:36 ET
@@ -80,7 +146,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 5. [MAYBE] GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F)
+## 9. [MAYBE] GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F)
 - Link: https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Villeurbanne/Analytics-Sourcing-Specialist--Spcialiste-analytique-des-achats-H-F-_R5058835-1
 - Location: Villeurbanne
 - Posted: Nov 11 (board gives the date only)
@@ -95,7 +161,7 @@ Job Description Summary Négocier avec des fournisseurs dédiés conformément �
 
 ---
 
-## 6. [MAYBE] GenScript | Research Associate, Analytical Development
+## 10. [MAYBE] GenScript | Research Associate, Analytical Development
 - Link: https://job-boards.greenhouse.io/genscript/jobs/5293026007
 - Location: Seattle, Washington, United States
 - Posted: Nov 12 02:18 ET
@@ -110,7 +176,7 @@ About GenScript Founded in 2002 in New Jersey, GenScript Biotech Corporation acc
 
 ---
 
-## 7. [MAYBE] Google | Gemini Vision Research Scientist, DeepMind
+## 11. [MAYBE] Google | Gemini Vision Research Scientist, DeepMind
 - Link: https://www.google.com/about/careers/applications/jobs/results/103995840904733382
 - Location: Mountain View, CA, USA ; New York, NY, USA ; Los Angeles, CA, USA
 - Posted: Nov 12 09:38 ET
@@ -125,7 +191,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 8. [MAYBE] Syngenta Group | Research Scientist
+## 12. [MAYBE] Syngenta Group | Research Scientist
 - Link: https://jobs.smartrecruiters.com/SyngentaGroup/744000161311869
 - Location: Durham North Carolina us
 - Posted: Nov 12 09:18 ET
@@ -140,7 +206,37 @@ This role serves as a key member of the soybean trait introgression team while a
 
 ---
 
-## 9. [MAYBE] Capital One | Senior Associate, Data Science - Compliance Model Risk
+## 13. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
+- Link: https://jobs.smartrecruiters.com/PAConsulting/744000161325099
+- Location: Chicago us
+- Posted: Nov 12 10:12 ET
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 7 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, quantitative, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+PA's Growth Strategy team helps organizations identify opportunities for sustainable growth through customer insight, market analysis, and strategic thinking. As an Analyst in our Early Career Program, you will work alongside experienced practitioners to solve complex business challenges and help clients make confident strategic decisions. Our Early Career Analyst Program is designed for individuals beginning their professional journey in consulting as either a recent college grad or by re-entering the workforce following continued education and development. We welcome students graduating in Fall/Winter 2026 or Spring 2027, as well as individuals who have developed relevant capabilities through apprenticeships, workforce development programs, military service, community leadership, or other non-traditional pathways. Through mentorship, hands-on project work, formal development opportunities, and client engagements, you will build the skills needed for a successful consulting career. As a Growth Strategy Analyst at PA, you will: Conduct quantitative and qualitative research to support client recommendations. Analyze customer, market, financial, and business data to uncover growth opportunities. Support the development of strategic recommendations and business cases through evidence-based hypotheses. Participate in interviews, workshops, and collaborative problem-solving sessions to create clear, compelling presentations and deliverables for internal and client audiences. Contribute curiosity, creativity, and analytical rigor to project teams. Be welcomed to build office and company culture through the involvement in employee resource groups and firm initiatives. We're looking for individuals who are curious, collaborative, and motivated to solve complex challenges. Successful candidates will typically demonstrate: Strong problem-solving and analytical skills. You’re able to simplify complex problems and ideas through structured analysis and clear thinking. Comfort with conducting quantitative and qualitative research. Excellent written and verbal communication abilities with the ability to collaborate effectively across teams, disciplines, and seniority-levels. Initiative, adaptability, and comfort working in dynamic environments. Commitment to inclusive teamwork and respect for diverse perspectives. Your background includes: Bachelor's or Master's degree expected by Fall/Winter 2026 or Spring 2027 or similar recent completion of non-traditional pathways. All academic backgrounds are welcome. Experience with Excel, PowerPoint, and Word required. Experience with research, analytics, AI tools, coding, leadership activities, apprenticeships, work experience, or community involvement is a plus. Hybrid working - our approach is to be in the office or on client site a minimum of 2 days per week. However, the actual time you spend and where you spend it will vary by role or assignment, including up to 5 days per week on a client site Life At PA encompasses our peoples' experience at PA. It's about how we enrich peoples’ working lives by giving them access to unique people and growth opportunities and purpose led meaningful work. Our purpose guides how we work with our clients and our teams, and support our communities, to deliver insight and impact, solving the world’s most complex challenges. We're focused on building a workplace that values human difference and diverse mindsets, and a culture of inclusion and equality that unlocks the potential in our people so everyone can be their best self. Find out more about Life at PA here . We are dedicated to supporting the physical, emotional, social and financial well-being of our people. Check out some of our extensive benefits: Group medical insurance Health Savings Account with company match Teladoc and informed Nurse line resources Long term care plan Group dental insurance Vision plan 401(k) Savings Plan with company profit sharing contribution Commuter and Parking tax-savings benefit 15 days paid vacation days with the opportunity to buy five additional days 10 paid Holidays plus 10 paid sick days Company and Voluntary income protection benefits Gym and health incentive reimbursement Pet and legal insurance Plans Employee Assistance Plan Annual performance-based bonus We’re committed to advancing equality. We recruit, retain, reward and develop our people based solely on their abilities and contributions and without reference to their age, background, disability, genetic information, parental or family status, religion or belief, race, ethnicity, nationality, sex, sexual orientation, gender identity (or expression), political belief veteran status, or other by any other range of human difference brought about by identity and experience. We welcome applications from underrepresented groups. Adjustments or accommodations - Should you need any adjustments or accommodations to the recruitment process, at either application or interview, please contact us on recruitmentenquiries@paconsulting.com In compliance with Colorado’s, New York’s, Illinois’, & Massachusetts' Equal Pay Transparency Act, PA is required to provide a reasonable salary range for this role. This salary range is specific to Illinois and is commensurate with experience, market data, applicant skills, internal equity and/or degrees/certifications. Salary Range: $94,500 - $104,475 #LI-JS1
+
+---
+
+## 14. [MAYBE] CVS Health | Software Engineer (AI Engineering)
+- Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Software-Engineer--NET-Python-_R1084915
+- Location: RI - Work from home
+- Posted: Nov 11 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, python, sql, git, healthcare, kubernetes, pipeline | Lacks: java, kafka, scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time. Position Summary Build software that helps people access care at CVS MinuteClinic, part of a household name in U.S. healthcare. Your work will shape patient-facing experiences and the tools providers use to deliver care, connecting engineering decisions to patient access, provider efficiency, and everyday care experiences. Our modernization is already underway. We have modernized critical systems, including patient-facing kiosks, internal web applications, and APIs, and delivered AI features that our providers use. You will build on that foundation as we expand cloud-native services, open-source technologies, and AI-enabled and agentic workflows. We value single-threaded ownership: one clearly accountable engineer driving an assigned feature or component through delivery. You will independently move defined work forward, make implementation decisions within agreed designs, and follow through on production outcomes. Senior Engineers and tech leads provide design guidance and review as you grow your scope. Our current environment includes C#, .NET, and Microsoft technologies. Deep expertise in that stack is valuable as we connect existing systems with new capabilities. Our future direction emphasizes Python, Java, Kotlin, Kubernetes, and Kafka, with distributed systems designed for reliability, scalability, and maintainability. Above all, we value curiosity and a sustained desire to learn. We look for engineers who explore unfamiliar technologies, seek feedback, and apply what they learn to real problems. Bring strong engineering fundamentals, accountability, and the motivation to keep growing. What You'll Do • Own your work through delivery: Take responsibility for a defined feature or component from understanding requirements through implementation, testing, deployment, and follow-up. Proactively resolve questions, raise blockers, and communicate progress. • Build cloud-native capabilities: Develop APIs and backend features while building practical experience with Python, Java, Kotlin, Kubernetes, and Kafka. Apply team patterns for asynchronous processing, reliable service interactions, and failure handling. • Contribute to AI and agentic workflows: Extend provider-facing AI capabilities and help build workflows that retrieve information and interact with approved tools. Implement tests, evaluations, permissions, and human review steps with guidance from experienced engineers. • Extend our modernization work: Improve patient-facing kiosks, internal applications, and APIs. Maintain and enhance C#/.NET services while helping connect existing capabilities with newer cloud-native systems. • Deliver dependable software: Write clean, testable code, participate in code reviews, and contribute to CI/CD workflows. Work with databases, application logs, and monitoring tools; participate in on-call support using team runbooks and escalation paths. • Keep learning and improving: Seek feedback, explore unfamiliar technologies, and apply new skills to your work. Partner with product, QA, and infrastructure colleagues, document decisions, and share what you learn. Required Qualifications - 2+ years of professional software engineering experience with C# and .NET (Framework or Core) - Working knowledge of REST API design and SQL Server - Familiarity with CI/CD concepts and at least one pipeline tool (GitHub Actions, Jenkins, Octopus, or equivalent) - Ability to read and troubleshoot application logs; comfort working in a cloud-hosted environment Preferred Qualifications - Experience with IIS-hosted web applications and Windows-based deployment workflows - Exposure to TypeScript or Angular for internal tooling - Familiarity with APM tools such as AppDynamics, Splunk, or Grafana - Knowledge of HIPAA compliance requirements and PHI-handling practices Education - Bachelor's degree in Computer Science, Software Engineering, Information Systems, or a related technical field Equivalent Experience Accepted - In lieu of a degree, 4+ years of professional software engineering experience in a production environment will be considered Preferred - Bachelor's degree in Computer Science or Software Engineering Anticipated Weekly Hours 40 Time Type Full time Pay Range The typical pay range for this role is: $79,310.00 - $158,620.00 This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. Our people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong. Great benefits for great people We take pride in offering a comprehensive and competitive mix of pay and benefits that reflects our commitment to our colleagues and their families. This full‑time position is eligible for a comprehensive benefits package designed to support the physical, emotional, and financial well‑being of colleagues and their families. The benefits for this position include medical, dental, and vision coverage, paid time off, retirement savings options, wellness programs, and other resources, based on eligibility. Additional details about available benefits are provided during the application process and on Benefits Moments . We anticipate the application window for this opening will close on: 11/27/2026 Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.
+
+---
+
+## 15. [MAYBE] Capital One | Senior Associate, Data Science - Compliance Model Risk
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Senior-Associate--Data-Science---Compliance-Model-Risk_R1005177-1
 - Location: 4 Locations
 - Posted: Nov 11 (board gives the date only)
@@ -155,7 +251,7 @@ Senior Associate, Data Science - Compliance Model Risk Data is at the center of 
 
 ---
 
-## 10. [MAYBE] Merck | Senior AI Data Scientist/ Statistician
+## 16. [MAYBE] Merck | Senior AI Data Scientist/ Statistician
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-AI-Data-Scientist--Statistician_R426163
 - Location: USA - New Jersey - Rahway
 - Posted: Nov 11 (board gives the date only)
@@ -170,7 +266,7 @@ Job Description Position Overview: We are seeking a highly motivated quantitativ
 
 ---
 
-## 11. [MAYBE] Merck | Senior AI Data Scientist
+## 17. [MAYBE] Merck | Senior AI Data Scientist
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-AI-Data-Scientist_R426413-2
 - Location: USA - New Jersey - Rahway
 - Posted: Nov 11 (board gives the date only)
@@ -185,7 +281,7 @@ Job Description Position Overview: We are seeking a highly motivated quantitativ
 
 ---
 
-## 12. [MAYBE] Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera
+## 18. [MAYBE] Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Research-Associate-II--Patient-Centered-Research---Evidera_R-01375966
 - Location: Remote, Mexico
 - Posted: Nov 11 (board gives the date only)
@@ -200,7 +296,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 13. [MAYBE] Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA **
+## 19. [MAYBE] Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA **
 - Link: https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/SRB-Belgrade-Hybrid/Sr-Data-Analyst-I--RWE----Hybrid-SERBIA---_25113045
 - Location: 2 Locations
 - Posted: Nov 11 (board gives the date only)
