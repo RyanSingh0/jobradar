@@ -8,21 +8,26 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 2 | Royal Bank of Canada | OTC Derivatives Controls Analyst | 68 | 7 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
 | 3 | Consolidated Edison | Analyst, Policy Integration Forecasting | 67 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
 | 4 | Circle K | B2B Commercial Analyst | 65 | 19 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 5 | Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera | 54 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 6 | Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
-| 7 | Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | cap-exempt employer | Nov 11 (board gives the date only) |
-| 8 | Google | Research Scientist, Modeling of Readout and Reset, Quantum | 50 | 1053 in data/analytics/finance occupations | Nov 12 03:36 ET |
-| 9 | GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F) | 50 | 3 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 10 | GenScript | Research Associate, Analytical Development | 45 | 5 in data/analytics/finance occupations | Nov 12 02:18 ET |
-| 11 | Google | Gemini Vision Research Scientist, DeepMind | 44 | 1053 in data/analytics/finance occupations | Nov 12 09:38 ET |
-| 12 | Syngenta Group | Research Scientist | 40 | 5 in data/analytics/finance occupations | Nov 12 09:18 ET |
-| 13 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 12 10:12 ET |
-| 14 | CVS Health | Software Engineer (AI Engineering) | 40 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
-| 15 | Capital One | Senior Associate, Data Science - Compliance Model Risk | 74 | 458 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 16 | Merck | Senior AI Data Scientist/ Statistician | 67 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 17 | Merck | Senior AI Data Scientist | 65 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 18 | Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera | 62 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 19 | Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA ** | 56 | 16 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 5 | Lightcast | Economic Research Analyst / Junior Data Scientist - 1089 | 65 | none found (check myvisajobs) | Nov 12 11:49 ET |
+| 6 | Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera | 54 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 7 | Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
+| 8 | Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | cap-exempt employer | Nov 11 (board gives the date only) |
+| 9 | Google | Research Scientist, Modeling of Readout and Reset, Quantum | 50 | 1053 in data/analytics/finance occupations | Nov 12 03:36 ET |
+| 10 | GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F) | 50 | 3 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 11 | GenScript | Research Associate, Analytical Development | 45 | 5 in data/analytics/finance occupations | Nov 12 02:18 ET |
+| 12 | Google | Gemini Vision Research Scientist, DeepMind | 44 | 1053 in data/analytics/finance occupations | Nov 12 09:38 ET |
+| 13 | Syngenta Group | Research Scientist | 40 | 5 in data/analytics/finance occupations | Nov 12 09:18 ET |
+| 14 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 12 10:12 ET |
+| 15 | CVS Health | Software Engineer (AI Engineering) | 40 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
+| 16 | CVS Health | Data and Analytics Consultant | 40 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 17 | Capital One | Senior Associate, Data Science - Compliance Model Risk | 74 | 458 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 18 | Merck | Senior AI Data Scientist/ Statistician | 67 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 19 | Merck | Senior AI Data Scientist | 65 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 20 | Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera | 62 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 21 | Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 22 | Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA ** | 56 | 16 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 23 | Elsevier | Senior Software Engineer / Senior AI Engineer | 55 | 7 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 24 | Wells Fargo | Senior Risk Analytics Consultant (Merchant Services) | 55 | 163 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
 
 ---
 
@@ -86,7 +91,22 @@ B2B Commercial Analyst Location: Raleigh, NC Job Summary The B2B Commercial Anal
 
 ---
 
-## 5. [MAYBE] Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera
+## 5. [MAYBE] Lightcast | Economic Research Analyst / Junior Data Scientist - 1089
+- Link: https://jobs.lever.co/economicmodeling/aa5e1f5e-d9cf-446e-af35-fc12b9e453a5
+- Location: Remote (Work From Home) US Remote (Work From Home) US Moscow, ID US
+- Posted: Nov 12 11:49 ET
+- Scanner fit: ~65 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, llm, python, sql, statistic, tableau, pipeline, quantitative, research | Lacks: snowflake  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Query, clean, and analyze large datasets using SQL, Python, and Snowflake. Sources may include Lightcast data, government and third-party data, and client datasets. Build and maintain data pipelines and create indices or composite measures for custom analyses. Apply statistical and quantitative methods, such as benchmarking, correlation, and trend analysis, to answer client questions. Adapt proven methods into repeatable workflows, trial new research approaches, and apply core labor market economics concepts. Develop client-ready materials in Excel, PowerPoint, and Word, as well as visualizations and dashboards in Tableau or similar tools. Present research to clients and internal teams, and communicate findings in ways that reflect what the data can support. Use LLM tools to assist with coding, debugging, documentation, data tasks, dashboards, and draft deliverables; review and refine outputs for accuracy and quality. Keep current with AI tools relevant to labor market research and share useful approaches with the team. 2–4 years of experience in quantitative research, data analysis, or data science. Bachelor’s or master’s degree in Economics, Public Policy, Data Science, Statistics, or another quantitatively focused field. Experience working with APIs to access, integrate, and analyze data.
+
+---
+
+## 6. [MAYBE] Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Research-Associate-I---Patient-Centered-Research--Evidera_R-01375964
 - Location: Remote, Mexico
 - Posted: Nov 11 (board gives the date only)
@@ -101,7 +121,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 6. [MAYBE] Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology
+## 7. [MAYBE] Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology
 - Link: https://wustl.wd1.myworkdayjobs.com/external/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521
 - Location: Remote
 - Posted: Nov 11 (board gives the date only)
@@ -116,7 +136,7 @@ Location Remote, US&#xa;&#xa; Position Summary Position assists investigator wit
 
 ---
 
-## 7. [MAYBE] Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology
+## 8. [MAYBE] Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521
 - Location: Remote
 - Posted: Nov 11 (board gives the date only)
@@ -131,7 +151,7 @@ Location Remote, US&#xa;&#xa; Position Summary Position assists investigator wit
 
 ---
 
-## 8. [MAYBE] Google | Research Scientist, Modeling of Readout and Reset, Quantum
+## 9. [MAYBE] Google | Research Scientist, Modeling of Readout and Reset, Quantum
 - Link: https://www.google.com/about/careers/applications/jobs/results/101752149989302982
 - Location: Goleta, CA, USA ; Los Angeles, CA, USA
 - Posted: Nov 12 03:36 ET
@@ -146,7 +166,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 9. [MAYBE] GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F)
+## 10. [MAYBE] GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F)
 - Link: https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Villeurbanne/Analytics-Sourcing-Specialist--Spcialiste-analytique-des-achats-H-F-_R5058835-1
 - Location: Villeurbanne
 - Posted: Nov 11 (board gives the date only)
@@ -161,7 +181,7 @@ Job Description Summary Négocier avec des fournisseurs dédiés conformément �
 
 ---
 
-## 10. [MAYBE] GenScript | Research Associate, Analytical Development
+## 11. [MAYBE] GenScript | Research Associate, Analytical Development
 - Link: https://job-boards.greenhouse.io/genscript/jobs/5293026007
 - Location: Seattle, Washington, United States
 - Posted: Nov 12 02:18 ET
@@ -176,7 +196,7 @@ About GenScript Founded in 2002 in New Jersey, GenScript Biotech Corporation acc
 
 ---
 
-## 11. [MAYBE] Google | Gemini Vision Research Scientist, DeepMind
+## 12. [MAYBE] Google | Gemini Vision Research Scientist, DeepMind
 - Link: https://www.google.com/about/careers/applications/jobs/results/103995840904733382
 - Location: Mountain View, CA, USA ; New York, NY, USA ; Los Angeles, CA, USA
 - Posted: Nov 12 09:38 ET
@@ -191,7 +211,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 12. [MAYBE] Syngenta Group | Research Scientist
+## 13. [MAYBE] Syngenta Group | Research Scientist
 - Link: https://jobs.smartrecruiters.com/SyngentaGroup/744000161311869
 - Location: Durham North Carolina us
 - Posted: Nov 12 09:18 ET
@@ -206,7 +226,7 @@ This role serves as a key member of the soybean trait introgression team while a
 
 ---
 
-## 13. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
+## 14. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
 - Link: https://jobs.smartrecruiters.com/PAConsulting/744000161325099
 - Location: Chicago us
 - Posted: Nov 12 10:12 ET
@@ -221,7 +241,7 @@ PA's Growth Strategy team helps organizations identify opportunities for sustain
 
 ---
 
-## 14. [MAYBE] CVS Health | Software Engineer (AI Engineering)
+## 15. [MAYBE] CVS Health | Software Engineer (AI Engineering)
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Software-Engineer--NET-Python-_R1084915
 - Location: RI - Work from home
 - Posted: Nov 11 (board gives the date only)
@@ -236,7 +256,22 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 15. [MAYBE] Capital One | Senior Associate, Data Science - Compliance Model Risk
+## 16. [MAYBE] CVS Health | Data and Analytics Consultant
+- Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Data-and-Analytics-Consultant_R1064091-1
+- Location: see posting
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time. Position Summary Under general supervision, drafts, reviews, and edits Medicare policy and workflows. This position will support Medicare Service operations by creating Customer Service knowledge articles and communications. Ability to interact in a meeting set environment with multiple departments in the Medicare organization. Required Qualifications 1-3 years Customer Service experience 1-3 years Medicare Experience 1-3 years experience with GPS, HRP and MP systems Insurance industry and benefit experience is preferred. Must be an independent, critical thinker who is a self-starter and deadline driven. Strong attention to detail and accuracy performing at high levels in a fast paced and constantly changing work environment. Ability to communicate both verbally and in writing. Proficiency with Microsoft Office Word, Excel, SharePoint and Outlook applications. Preferred Qualifications Claim background a plus QuickBase knowledge a plus Knowledge and experience in medical, dental and vision benefits. Knowledge and experience in benefit terminology. General understanding of compliance and regulatory issues (ERISA, HIPAA, ACA, COBRA). Organizes time efficiently to ensure that tasks are completed to meet or exceed deadlines. Bachelor's degree preferred Education High School Diploma or GED equivalent Anticipated Weekly Hours 40 Time Type Full time Pay Range The typical pay range for this role is: $18.50 - $42.35 This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. Our people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong. Great benefits for great people We take pride in offering a comprehensive and competitive mix of pay and benefits that reflects our commitment to our colleagues and their families. This full‑time position is eligible for a comprehensive benefits package designed to support the physical, emotional, and financial well‑being of colleagues and their families. The benefits for this position include medical, dental, and vision coverage, paid time off, retirement savings options, wellness programs, and other resources, based on eligibility. Additional details about available benefits are provided during the application process and on Benefits Moments . We anticipate the application window for this opening will close on: 11/13/2026 Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.
+
+---
+
+## 17. [MAYBE] Capital One | Senior Associate, Data Science - Compliance Model Risk
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Senior-Associate--Data-Science---Compliance-Model-Risk_R1005177-1
 - Location: 4 Locations
 - Posted: Nov 11 (board gives the date only)
@@ -251,7 +286,7 @@ Senior Associate, Data Science - Compliance Model Risk Data is at the center of 
 
 ---
 
-## 16. [MAYBE] Merck | Senior AI Data Scientist/ Statistician
+## 18. [MAYBE] Merck | Senior AI Data Scientist/ Statistician
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-AI-Data-Scientist--Statistician_R426163
 - Location: USA - New Jersey - Rahway
 - Posted: Nov 11 (board gives the date only)
@@ -266,7 +301,7 @@ Job Description Position Overview: We are seeking a highly motivated quantitativ
 
 ---
 
-## 17. [MAYBE] Merck | Senior AI Data Scientist
+## 19. [MAYBE] Merck | Senior AI Data Scientist
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-AI-Data-Scientist_R426413-2
 - Location: USA - New Jersey - Rahway
 - Posted: Nov 11 (board gives the date only)
@@ -281,7 +316,7 @@ Job Description Position Overview: We are seeking a highly motivated quantitativ
 
 ---
 
-## 18. [MAYBE] Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera
+## 20. [MAYBE] Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Research-Associate-II--Patient-Centered-Research---Evidera_R-01375966
 - Location: Remote, Mexico
 - Posted: Nov 11 (board gives the date only)
@@ -296,7 +331,22 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 19. [MAYBE] Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA **
+## 21. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary
+- Link: https://ejis.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3044563
+- Location: United States US
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: aws, data visualization, excel, gcp, machine learning, python, spark, sql, statistic, git, healthcare, publication, quantitative, reporting | Lacks: azure, hadoop, scala  | Note: title says Senior/II: asks 2 years
+- Eligibility: CHECK | As a Data Scientist II, work closely with clinical leads and product sponsors to deliver an ML project from beginning to end, including designing, developing, testing the data solutions, and independently conducting sile
+
+### Job description
+
+As a Data Scientist II, work closely with clinical leads and product sponsors to deliver an ML project from beginning to end, including designing, developing, testing the data solutions, and independently conducting silent and active pilot runs Collect, clean, and curate large and complex data sets from various sources to ensure it is suitable for machine learning tasks Lead the design, development, and optimization of machine learning applications to solve complex optimization problems Oversee data collection, preprocessing, and feature engineering to ensure high-quality datasets for model training Work with clinical leads and product owners to translate the optimization problem into product development design Design and run active pilot to measure usability, adoption, model performance and impact Stay updated on the latest advancements in ML and AI and implement novel algorithms and techniques when appropriate. Collaborate with the engineering team to deploy machine learning models into production environments, ensuring scalability and reliability. Mentor and guide junior members of the ML team, fostering a culture of learning and innovation. Collaborate cross-functionally with stakeholders to understand and address operational needs through machine learning solutions Research: Participate in research initiatives and contribute to publications and patents Effectively communicates statistical and technical ideas and results to non-technical stakeholders in written and verbal form to ensure decision points and their impact are clearly understood by all audiences Develop and maintain project work plans, including critical tasks, milestones, timelines, interdependencies, and contingencies. Tracks and reports progress. Keeps stakeholders apprised of project status and implications for completion. Prepare clear, well-organized project-specific documentation, including, at a minimum, analytic methods used, key decision points and caveats, with sufficient detail to support comprehension and replication. Mentor other analysts on how to a) determine appropriate statistical analysis methods, b) leverage appropriate programing languages and tools, and c) generate and interpret statistical analysis outputs. Share development and process knowledge with other analysts in order to assure redundancy and continuously builds a core of analytical strength within the organization. Adheres to corporate standards for performance metrics, data collection, data integrity, query design, and reporting format to ensure high quality, meaningful analytic output. Works closely with IT on the ongoing improvement of Mount Sinai’s integrated data warehouse, driven by strategic and business needs, and designed to ensure data and reporting consistency throughout the organization. Demonstrates advanced level proficiency with the principles and methodologies of process improvement. Applies these in the execution of responsibilities in support of a process focused approach. Other duties as assigned. Master's or Ph.D. degree in a quantitative discipline (e.g., Statistics, Operations Research, Bioinformatics, Economics, Computational Biology, Computer Science, Information Technology, Mathematics, Physics) or equivalent practical experience 4+ years of work experience in data science, software engineering, or data analysis 2+ years of hands-on experience with Scala and Python, including documentation for reproducibility 2+ years of hands-on experience with database languages (e.g., SQL, NoSQL) Strong knowledge of data preprocessing, feature engineering, and model evaluation techniques Applied experience in ML fields, such as natural language processing, computer vision, and statistical learning theory Experience handling terabyte-sized datasets, exploring data to discover hidden patterns, using data visualization tools, and leveraging GPUs for model development Proficiency in articulating technical concepts to diverse audiences, both technical and non-technical, and delivering data-driven presentations. Experience with cloud computing platforms (e.g., AWS, Azure, GCP) Experience with version control systems (e.g., Git) Knowledge of big data technologies (e.g., Hadoop, Spark) Self-motivated with a demonstrated ability to work independently, and to exercise independent judgment in developing complex techniques or programs in a dynamic environment. Preferred Qualifications Publications or presentations in recognized journals or conferences Deep technical skills, 2+ years of experience in running active pilot and business savvy to interface with product owner and users working group Deep knowledge and hands-on experience in agile project management Strength through Unity and Inclusion The Mount Sinai Health System is committed to fostering an environment where everyone can contribute to excellence. We share a common dedication to delivering outstanding patient care. When you join us, you become part of Mount Sinai’s unparalleled legacy of achievement, education, and innovation as we work together to transform healthcare. We encourage all team members to actively participate in creating a culture that ensures fair access to opportunities, promotes inclusive practices, and supports the success of every individual. At Mount Sinai, our leaders are committed to fostering a workplace where all employees feel valued, respected, and empowered to grow. We strive to create an environment where collaboration, fairness, and continuous learning drive positive change, improving the well-being of our staff, patients, and organization. Our leaders are expected to challenge outdated practices, promote a culture of respect, and work toward meaningful improvements that enhance patient care and workplace experiences. We are dedicated to building a supportive and welcoming environment where everyone has the opportunity to thrive and advance professionally. Explore this opportunity and be part of the next chapter in our history. About the Mount Sinai Health System: Mount Sinai Health System is one of the largest academic medical systems in the New York metro area, with more than 48,000 employees working across eight hospitals, more than 400 outpatient practices, more than 300 labs, a school of nursing, and a leading school of medicine and graduate education. Mount Sinai advances health for all people, everywhere, by taking on the most complex health care challenges of our time — discovering and applying new scientific learning and knowledge; developing safer, more effective treatments; educating the next generation of medical leaders and innovators; and supporting local communities by delivering high-quality care to all who need it. Through the integration of its hospitals, labs, and schools, Mount Sinai offers comprehensive health care solutions from birth through geriatrics, leveraging innovative approaches such as artificial intelligence and informatics while keeping patients’ medical and emotional needs at the center of all trea [...]
+
+---
+
+## 22. [MAYBE] Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA **
 - Link: https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/SRB-Belgrade-Hybrid/Sr-Data-Analyst-I--RWE----Hybrid-SERBIA---_25113045
 - Location: 2 Locations
 - Posted: Nov 11 (board gives the date only)
@@ -308,4 +358,34 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 ### Job description
 
 Sr Data Analyst I, RWE ** Hybrid SERBIA ** Syneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success. We partner with innovators at every point across the drug development and commercialization continuum, helping them navigate complexity, anticipate change and accelerate progress. Our Clinical Solutions team members act with a drug development mindset, applying their years of experience and deep expertise to truly understand customer needs and represent those in the solutions we shape. Whether you join us in a Functional Service Provider partnership or a Full-Service environment, you’ll collaborate with passionate problem solvers, innovating as a team to help our customers achieve their goals. We are agile and driven to deliver – for one another, our customers, and, most importantly, for those in need. Discover what your 25,000 future colleagues already know: Why Syneos Health • We are passionate about developing our people, through career development and progression; supportive and engaged line management; technical and therapeutic area training; peer recognition and total rewards program. • We are committed to building an inclusive culture – where you can authentically be yourself. Central to this is our purpose – Driven to Deliver – which captures the passion of our colleagues to show up each day and shape solutions that have the ability to dramatically impact someone’s life. • We are continuously building the company we all want to work for and our customers want to work with. Why? Because we know that when we bring together smart colleagues from across the world, we can shape the future of healthcare, driving impact for customers and defining the pace of patient progress. Job Responsibilities JOB RESPONSIBILITIES AND REQUIREMENTS Contribute to the design of RWE studies, including protocol development, ability to lead statistical analysis plans (SAPs), and other key study documents with minimal/modest supervision; must be able to lead SAP development without supervision for “straightforward” studies, e.g., treatment patterns, purely descriptive studies. Apply comprehensive knowledge of real-world data sources (e.g., claims, EMR/EHR, registries, omics data, wearable data, PROs) to inform study design, feasibility assessments, and methodological decisions. Strong fluency in at least one of SAS or R is mandatory. Perform advanced statistical analyses using SAS, R, Python, SQL, and/or other appropriate tools, ensuring data quality, reproducibility, traceability, and methodological rigor. Develop operational definitions, code lists, and analytical specifications aligned with study objectives and industry standards. Prepare high-quality tables, figures, and listings (TFLs) and contribute to study reports, manuscripts, and client deliverables with clear interpretation of findings and articulation of limitations. Experience in providing client-facing support, including presenting planning and project updates, explaining methodologies, addressing technical questions, and contributing to strategic discussions. Demonstrate a consulting-oriented approach by proactively identifying risks, proposing solutions, and adapting to evolving client needs. Manage programming timelines and analytical workstreams across multiple concurrent projects; communicate progress, risks, and mitigation strategies effectively to internal and external stakeholders. Occasional support of proposal development, desk research, and exploratory analyses as needed. QUALIFICATION REQUIREMENTS Master’s degree or higher in Biostatistics, Statistics, Epidemiology, Public Health, Health Economics, Bioinformatics, Computer Science, or a related quantitative discipline, or equivalent combination of education and experience (to demonstrate experience, explicit supporting evidence is required). 5 years (minimum of 3 years) of project-based experience conducting RWE research using secondary healthcare data sources (e.g., claims, EMR/EHR, registries, hospital databases, lab/genomic data, wearable data, PROs). 5 years (minimum of 2 years in a consulting setting) of hands-on statistical programming experience (e.g., SAS, R, Python, SQL) in a research or consulting setting. Strong understanding of RWE methodologies, observational study designs, bias and confounding control methods, and data governance considerations. Excellent written and verbal communication skills in English, with client-facing experience and preparing deliver-ready results and presenting to stakeholders. •Proven ability to manage multiple priorities, work independently, and deliver high-quality outputs under tight timelines. Demonstrated consulting mindset with the ability to translate analytical results into strategic insights and practical recommendations. Get to know Syneos Health Over the past 5 years, we have worked with 94% of all Novel FDA Approved Drugs, 95% of EMA Authorized Products and over 200 Studies across 73,000 Sites and 675,000+ Trial patients. No matter what your role is, you’ll take the initiative and challenge the status quo with us in a highly competitive and ever-changing environment. Learn more about Syneos Health. http://www.syneoshealth.com Additional Information Tasks, duties, and responsibilities as listed in this job description are not exhaustive. The Company, at its sole discretion and with no prior notice, may assign other tasks, duties, and job responsibilities. Equivalent experience, skills, and/or education will also be considered so qualifications of incumbents may differ from those listed in the Job Description. The Company, at its sole discretion, will determine what constitutes as equivalent to the qualifications described above. Further, nothing contained herein should be construed to create an employment contract. Occasionally, required skills/experiences for jobs are expressed in brief terms. Any language contained herein is intended to fully comply with all obligations imposed by the legislation of each country in which it operates, including the implementation of the EU Equality Directive, in relation to the recruitment and employment of its employees. The Company is committed to compliance with the Americans with Disabilities Act, including the provision of
+
+---
+
+## 23. [MAYBE] Elsevier | Senior Software Engineer / Senior AI Engineer
+- Link: https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia/Senior-Software-Engineer---Senior-AI-Engineer_R117481
+- Location: 3 Locations
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 7 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, gcp, llm, python, sql, healthcare, pipeline, research, risk | Lacks: azure, java  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Are you excited about building intelligent systems powered by cutting-edge AI technologies? Do you enjoy designing models that turn complex data into impactful solutions? About the team: Embedded Innovation Teams are cross-functional squads embedded within our segments to rapidly turn internal AI experimentation into validated, reusable solutions, building the capabilities we need to deliver customer value and growth. We work problem-first rather than tool-first, directly inside segment and function teams, improving the internal workflows that help our people deliver better outcomes for customers, faster. About the role: As a Senior AI Engineer, you will build and ship AI-powered features as part of a cross-functional Innovation Squad, working inside a business function. You will deliver the set technical direction to production standard, working autonomously within a defined problem, building and testing tool use, retrieval pipelines, and agent workflows, integrating AI capabilities into enterprise systems, and contributing to evaluation, observability, and guardrails. You will hold a high bar on code quality, flag risks and blockers early, and work alongside host-function stakeholders to make sure what you build fits real workflows, not assumed ones. You'll also support handover and capability-building so the solution is owned and operable after the squad moves on. Key Responsibilities: Building prototypes and proofs of concept and ship agentic AI solutions to production standards within a defined technical approach. Implementing and testing tool use, retrieval pipelines, and agent workflows. Contributing to evaluation, observability, and guardrails for agentic systems. Integrating AI capabilities into existing enterprise workflows and systems. Maintaining high code quality and documentation so patterns can be reused. Flagging technical risks and blockers early. Interface with technical peers to finalize requirements and complete moderately complex bug fixes. Building solutions for reuse, contributing to patterns, reference implementations and starter kits so work done in one function can be picked up by another. Implementing solutions to capture outcome data against baselines. Work alongside host-function stakeholders to ensure the build fits real workflows, not assumed ones. Supporting handover and capability-building in the host function so the solution is owned and operable after the squad moves on. Requirements: Engineering experience: 3+ years in software engineering, with hands-on experience building LLM-powered applications in production (RAG, tool-augmented agents, or agentic workflows). Ways of working: Comfortable working autonomously within a defined problem and pushing back when something doesn't make sense, and delivering in short, time-boxed cycles where validated outcomes matter more than perfect solutions. Agentic AI / LLMs: Building RAG pipelines, tool-augmented agents, and agentic workflows; familiar with prompt engineering, context management, evaluation, and observability. Agent fundamentals: Understands how agents use memory, tools, and retrieval to complete multi-step tasks. Enterprise integration: Integrating AI into existing systems via APIs and data pipelines. Cloud: AWS, Azure or GCP. Delivery: CI/CD, modern SDLC, TDD and code review. Data: Working with relational, columnar and vector stores, grounded in sound data-modelling principles. Languages: Python, Java, TypeScript/JavaScript, SQL and relevant AI SDKs. Communication: Clear written and verbal communication with technical peers and stakeholders. Measurement: Instrumenting solutions to capture usage, productivity and quality metrics against established baselines. Why Join Us? Join our team and contribute to a culture of innovation, collaboration, and excellence. If you are ready to advance your career and make a significant impact, we encourage you to apply. Work in a way that works for you We promote a healthy work/life balance across the organization. We offer an appealing working prospect for our people. With numerous wellbeing initiatives, shared parental leave, study assistance and sabbaticals, we will help you meet your immediate responsibilities and your long-term goals. Working flexible hours - flexing the times when you work in the day to help you fit everything in and work when you are the most productive. Working for you We know that your well-being and happiness are key to a long and successful career. These are some of the benefits we are delighted to offer: Comprehensive Pension Plan Generous vacation entitlement and option for sabbatical leave Maternity, Paternity, Adoption and Family Care leave Personal Choice budget Internal communities and networks Various employee discounts Recruitment introduction reward Employee Assistance Program (global) About the business- A global leader in information and analytics, we help researchers and healthcare professionals advance science and improve health outcomes for the benefit of society. Building on our publishing heritage, we combine quality information and vast data sets with analytics to support visionary science and research, health education, and interactive learning, as well as exceptional healthcare and clinical practice. At Elsevier, your work contributes to the world’s grand challenges and a more sustainable future. We harness innovative technologies to support science and healthcare to partner for a better world. &#xa;&#xa;U.S. National Base Pay Range: $86,600 - $144,400. Geographic differentials may apply in some locations to better reflect local market rates.&#xa;&#xa;&#xa;&#xa;This job is eligible for an annual incentive bonus.&#xa;&#xa;&#xa;&#xa;&#xa;&#xa; We know your well-being and happiness are key to a long and successful career. We are delighted to offer country specific benefits. Click here to access benefits specific to your location. We are committed to providing a fair and accessible hiring process. If you have a disability or other need that requires accommodation or adjustment, please let us know by completing our Applicant Request Support Form or please contact 1-855-833-5120. Criminals may pose as recruiters asking for money or personal information. We never request money or banking details from job applicants. Learn more about spotting and avoiding scams here . Please read our Candidate Privacy Policy .
+
+---
+
+## 24. [MAYBE] Wells Fargo | Senior Risk Analytics Consultant (Merchant Services)
+- Link: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Risk-Analytics-Consultant--Merchant-Services-_R-577689
+- Location: 2 Locations
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 163 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, forecast, machine learning, python, r, sql, statistic, credit, fraud, reporting, risk | Lacks: -  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About this role: Wells Fargo is seeking a Senior Risk Analytics Consultant to leverage data, advanced analytics, Artificial Intelligence (AI), and Machine Learning (ML) to assess credit and fraud risks, enhance risk reporting, and support business growth while safeguarding the payments ecosystem. This role requires strong analytical and problem-solving skills, expertise in risk management, and the ability to collaborate effectively with cross-functional teams. Risk Assessment & Analytics Analyze merchant data to assess credit risk and fraud risk for underwriting and ongoing monitoring. Identify emerging fraud patterns and risk trends using advanced analytics. Utilize machine learning models, statistical techniques, and predictive analytics to enhance risk assessment. Develop and refine risk scoring models to automate decision-making and improve risk controls. Reporting & Insights In this role, you will: Lead or participate in moderately complex initiatives, and delivering insight and decision strategies within analytics and reporting, and contribute to large-scale planning related to Risk Analytics Review and analyze moderately complex data aggregation, forecasting, reporting, and programming models Be responsible for process production, data reconciliation, and model documentation in alignment with policy governance Resolve data, production, business modeling, and lead team to meet Risk Analytics deliverables while leveraging solid understanding of risk reporting policies, modeling strategies, procedures, regulatory requests, and compliance requirements Collaborate and consult with peers, experienced managers, compliance, and technology to resolve modeling, forecasting, and production issues, and achieve analytic and reporting goals Lead projects, teams, and mentor less experienced staff Partner with cross enterprise risk analysts in development of common modeling strategies Required Qualifications: 4+ years of Risk Analytics experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education Desired Qualifications: 3 years of payments industry/merchant services experience Strong experience in data analytics, risk management, and reporting in a payments or financial services environment. Proficiency in AI/ML, SQL, Python, R, or other data analysis tools. Knowledge of merchant services, credit risk, fraud risk, and payments risk mitigation strategies. Experience with risk modeling, machine learning, or predictive analytics is a plus. Excellent communication and stakeholder management skills. Ability to balance business growth with effective risk mitigation strategies. Job Expectations: Ability to work at one of the approved locations in the job posting Specific compliance policies may apply regarding outside activities and/or personal investing; affected employees will be expected to provide information to the Wells Fargo Personal Account Dealing Team and abide by applicable policy requirements if hired. Information will be shared about expectations during the recruitment process Posting End Date: 17 Nov 2026 *Job posting may come down early due to volume of applicants. We Value Equal Opportunity Wells Fargo
 
