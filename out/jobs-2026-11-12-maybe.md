@@ -4,47 +4,69 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | Varian | Financial Analyst | 71 | 12 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 2 | Verizon Communications | AI Engineer - GenAI and Agentic AI | 70 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 3 | Royal Bank of Canada | OTC Derivatives Controls Analyst | 68 | 7 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 4 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 68 | 1098 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 5 | Consolidated Edison | Analyst, Policy Integration Forecasting | 67 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 6 | Circle K | B2B Commercial Analyst | 65 | 19 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 7 | Lightcast | Economic Research Analyst / Junior Data Scientist - 1089 | 65 | none found (check myvisajobs) | Nov 12 11:49 ET |
-| 8 | DaVita | Financial Analyst | 65 | 9 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 9 | SAIC | Data Scientist Associate | 61 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 10 | Centrica | Data Scientist | 61 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 11 | Public Partnerships (PPL) | Analytics Engagement Consultant | 59 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 12 | Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera | 54 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 13 | Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
-| 14 | Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | cap-exempt employer | Nov 11 (board gives the date only) |
-| 15 | Gordon Food Service | Reporting and Data Insights Analyst | 52 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 16 | Google | Research Scientist, Modeling of Readout and Reset, Quantum | 50 | 1053 in data/analytics/finance occupations | Nov 12 03:36 ET |
-| 17 | GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F) | 50 | 3 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 18 | TikTok | Data Scientist - TikTok Ads | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 19 | GenScript | Research Associate, Analytical Development | 45 | 5 in data/analytics/finance occupations | Nov 12 02:18 ET |
-| 20 | SAIC | Operational Research Analyst | 45 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 21 | Google | Gemini Vision Research Scientist, DeepMind | 44 | 1053 in data/analytics/finance occupations | Nov 12 09:38 ET |
-| 22 | Syngenta Group | Research Scientist | 40 | 5 in data/analytics/finance occupations | Nov 12 09:18 ET |
-| 23 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 12 10:12 ET |
-| 24 | CVS Health | Software Engineer (AI Engineering) | 40 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
-| 25 | CVS Health | Data and Analytics Consultant | 40 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 26 | PennState University | Part Time Research Assistant (Camodeca) | 40 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 27 | Genentech | Machine Learning Scientist/Senior Machine Learning Scientist, Agents for Applied Small Molecule Drug Design, AIDD | 78 | 35 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 28 | Capital One | Senior Associate, Data Science - Compliance Model Risk | 74 | 458 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 29 | Merck | Senior AI Data Scientist/ Statistician | 67 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 30 | Unity | Senior Machine learning engineer, AI Authoring | 67 | 24 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 31 | Merck | Senior AI Data Scientist | 65 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 32 | Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera | 62 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 33 | Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 34 | Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA ** | 56 | 16 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 35 | Elsevier | Senior Software Engineer / Senior AI Engineer | 55 | 7 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 36 | Wells Fargo | Senior Risk Analytics Consultant (Merchant Services) | 55 | 163 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 37 | Ally Bank | Senior Data Analyst - Fraud | 55 | 54 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 1 | FanDuel | Analytics Engineer | 72 | none found (check myvisajobs) | Nov 12 14:29 ET |
+| 2 | Varian | Financial Analyst | 71 | 12 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 3 | Verizon Communications | AI Engineer - GenAI and Agentic AI | 70 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 4 | Royal Bank of Canada | OTC Derivatives Controls Analyst | 68 | 7 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 5 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 68 | 1098 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 6 | Consolidated Edison | Analyst, Policy Integration Forecasting | 67 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 7 | Circle K | B2B Commercial Analyst | 65 | 19 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 8 | Lightcast | Economic Research Analyst / Junior Data Scientist - 1089 | 65 | none found (check myvisajobs) | Nov 12 11:49 ET |
+| 9 | DaVita | Financial Analyst | 65 | 9 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 10 | Iron Mountain | Business Intelligence & AI Automation / Bilingual / Hybrid | 64 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 11 | SAIC | Data Scientist Associate | 61 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 12 | Centrica | Data Scientist | 61 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 13 | Public Partnerships (PPL) | Analytics Engagement Consultant | 59 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 14 | Voya Financial | Client Reporting Analyst | 55 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 15 | Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera | 54 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 16 | Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
+| 17 | Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | cap-exempt employer | Nov 11 (board gives the date only) |
+| 18 | Gordon Food Service | Reporting and Data Insights Analyst | 52 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 19 | Google | Research Scientist, Modeling of Readout and Reset, Quantum | 50 | 1053 in data/analytics/finance occupations | Nov 12 03:36 ET |
+| 20 | GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F) | 50 | 3 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 21 | TikTok | Data Scientist - TikTok Ads | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 22 | Crum & Forster Insurance | Title Reporting Analyst, Hybrid | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 23 | GenScript | Research Associate, Analytical Development | 45 | 5 in data/analytics/finance occupations | Nov 12 02:18 ET |
+| 24 | SAIC | Operational Research Analyst | 45 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 25 | Morningstar | Multi-Asset & Alternative Investment Analyst | 45 | 13 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 26 | Google | Gemini Vision Research Scientist, DeepMind | 44 | 1053 in data/analytics/finance occupations | Nov 12 09:38 ET |
+| 27 | Syngenta Group | Research Scientist | 40 | 5 in data/analytics/finance occupations | Nov 12 09:18 ET |
+| 28 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 12 10:12 ET |
+| 29 | CVS Health | Software Engineer (AI Engineering) | 40 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
+| 30 | CVS Health | Data and Analytics Consultant | 40 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 31 | PennState University | Part Time Research Assistant (Camodeca) | 40 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 32 | Genentech | Machine Learning Scientist/Senior Machine Learning Scientist, Agents for Applied Small Molecule Drug Design, AIDD | 78 | 35 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 33 | Capital One | Senior Associate, Data Science - Compliance Model Risk | 74 | 458 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 34 | Expedia Inc. | Data Scientist II - Advertising Analytics | 70 | 83 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 35 | Merck | Senior AI Data Scientist/ Statistician | 67 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 36 | Unity | Senior Machine learning engineer, AI Authoring | 67 | 24 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 37 | Merck | Senior AI Data Scientist | 65 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 38 | Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera | 62 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 39 | Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 40 | Marathon Petroleum | Senior Commercial Risk Analyst - Middle Office | 57 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 41 | Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA ** | 56 | 16 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 42 | Elsevier | Senior Software Engineer / Senior AI Engineer | 55 | 7 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 43 | Wells Fargo | Senior Risk Analytics Consultant (Merchant Services) | 55 | 163 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 44 | Ally Bank | Senior Data Analyst - Fraud | 55 | 54 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] Varian | Financial Analyst
+## 1. [MAYBE] FanDuel | Analytics Engineer
+- Link: https://www.fanduel.careers/open-positions?gh_jid=8368191
+- Location: New York City
+- Posted: Nov 12 14:29 ET
+- Scanner fit: ~72 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, data visualization, excel, python, r, sql, tableau, classification, data quality, pipeline, portfolio, reporting, risk | Lacks: databricks  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+THE POSITION Our roster has an opening with your name on it FanDuel is looking for an Analytics Engineer who will be responsible for designing, building, maintaining, and improving the data models, datasets and data visualizations which are and will be used by data scientists, analysts and stakeholders to power business performance impacting decisions in Generosity/Promotional Spend. This is a great opportunity for somebody who wants to work in an environment where curiosity is rewarded and people are empowered to make decisions. The ideal candidate will have a passion for continual learning and developing innovative solutions to business problems. In addition to the specific responsibilities outlined above, employees may be required to perform other such duties as assigned by the Company. This ensures operational flexibility and allows the Company to meet evolving business needs. THE GAME PLAN &nbsp; Everyone on our team has a part to play Work with Data Scientists and Data Engineers to optimize data pipelines and feature engineering for reporting, analysis, classification and prediction models Manage data transformation jobs for relevant data, ensure completion on schedule, optimize code, troubleshoot any issues Optimize modeled metric pipelines, streamline execution times and prioritizations, reduce query execution times where possible, remove unnecessary or unused metrics Leverage AI to accelerate and enhance your work, taking care to ensure high integrity, managing AI risk of error, and maintaining excellent understanding of AI output to avoid blind trust. Build a strong understanding of Sportsbook Generosity Distribution strategy, our customers behaviors and preferences, and your stakeholders objectives, to support collaboration, and focus on delivering impactful output and ideation Through idea generation and exploratory analysis, develop new and innovative ways to turn behaviors into features for use in analysis, segmentation and predictive modeling Maintain business rule definitions, and code implementations Design and implement data quality checks and alerts to manage accuracy of underlying data, and ensure modeled metrics are fit for purpose Build strong knowledge in how to optimally use our data platforms, and assist in educating team members in optimal platform usage; Build and maintain strong working relationships with key stakeholders in relevant teams within the Data Engineering and Data Product departments; Build and maintain dashboards, optimize code, troubleshoot issues Identifying potential improvements in underlying ingested data, or new data needs, and working with Data Engineering to prioritize and deliver &nbsp; THE STATS What we’re looking for in our next teammate Minimum 3 years of experience in a similar role Minimum 2 years building, maintaining and optimizing complex data pipelines with real world applications Advanced SQL coding and experience of manipulating large datasets Proficient in at least one programming language (e.g. Python, R, C# etc.) Strong problem solving ability and attention to detail are important Experience building data pipelines using Python and Databricks an advantage Experience working with data visualization tools like Tableau an advantage Undergraduate degree in a coding heavy or technical discipline Interest in Sports an advantage &nbsp; ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America’s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry’s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. &nbsp; In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico. The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company’s affiliates have offices worldwide, including in Ireland, Portugal, Romania, and Australia. FanDuel Group is a subsidiary of Flutter Entertainment, the world's largest sports betting and gaming operator with a portfolio of globally recognized brands and traded on the New York Stock Exchange (NYSE: FLUT). PLAYER BENEFITS We treat our team right We offer amazing benefits above and beyond the basics. We have an array of health plans to choose from (some as low as $0 per paycheck) that include programs for fertility and family planning, mental health support, and fitness benefits. We offer generous paid time off (PTO &amp; sick leave), annual bonus and long-term incentive opportunities (based on performance), 401k with up to a 5% match, commuter benefits, pet insurance, and more - check out all our benefits here: FanDuel Total Rewards . *Benefits differ across location, role, and level. FanDuel is an equal opportunities employer and we believe, as one of our principles states, “We are One Team!”. As such, we are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, creed, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, veteran status, or any other characteristic protected by state, local or federal law. We believe FanDuel is strongest and best able to compete if all employees feel valued, respected, and included. FanDuel is committed to providing
+
+---
+
+## 2. [MAYBE] Varian | Financial Analyst
 - Link: https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/OAV-N/Financial-Analyst_R-31930
 - Location: OAV N
 - Posted: Nov 11 (board gives the date only)
@@ -59,7 +81,7 @@ Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sus
 
 ---
 
-## 2. [MAYBE] Verizon Communications | AI Engineer - GenAI and Agentic AI
+## 3. [MAYBE] Verizon Communications | AI Engineer - GenAI and Agentic AI
 - Link: https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/AI-Engineer---GenAI-and-Agentic-AI_R-1103671-1
 - Location: 3 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -74,7 +96,7 @@ When you join Verizon You want more out of a career. A place to share your ideas
 
 ---
 
-## 3. [MAYBE] Royal Bank of Canada | OTC Derivatives Controls Analyst
+## 4. [MAYBE] Royal Bank of Canada | OTC Derivatives Controls Analyst
 - Link: https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/90-WESTERN-PKYBEDFORD/OTC-Derivatives-Controls-Analyst_R-0000192451-2
 - Location: 90 WESTERN PKY:BEDFORD
 - Posted: Nov 11 (board gives the date only)
@@ -89,7 +111,7 @@ Job Description What is the opportunity? The OTC Derivatives Controls Analyst wi
 
 ---
 
-## 4. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
+## 5. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808330
 - Location: New York, NY, United States US
 - Posted: Nov 12 (board gives the date only)
@@ -104,7 +126,7 @@ Be part of JPMorgan Chase that continuously grows! Through periods of volatility
 
 ---
 
-## 5. [MAYBE] Consolidated Edison | Analyst, Policy Integration Forecasting
+## 6. [MAYBE] Consolidated Edison | Analyst, Policy Integration Forecasting
 - Link: https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/1000452
 - Location: New York, NY, United States US
 - Posted: Nov 12 (board gives the date only)
@@ -119,7 +141,7 @@ The Analyst will perform analysis and forecasting of various load modifiers such
 
 ---
 
-## 6. [MAYBE] Circle K | B2B Commercial Analyst
+## 7. [MAYBE] Circle K | B2B Commercial Analyst
 - Link: https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B161-Raleigh-NC/B2B-Commercial-Analyst_R635702
 - Location: Nonstore B161 Raleigh NC
 - Posted: Nov 11 (board gives the date only)
@@ -134,7 +156,7 @@ B2B Commercial Analyst Location: Raleigh, NC Job Summary The B2B Commercial Anal
 
 ---
 
-## 7. [MAYBE] Lightcast | Economic Research Analyst / Junior Data Scientist - 1089
+## 8. [MAYBE] Lightcast | Economic Research Analyst / Junior Data Scientist - 1089
 - Link: https://jobs.lever.co/economicmodeling/aa5e1f5e-d9cf-446e-af35-fc12b9e453a5
 - Location: Remote (Work From Home) US Remote (Work From Home) US Moscow, ID US
 - Posted: Nov 12 11:49 ET
@@ -149,7 +171,7 @@ Query, clean, and analyze large datasets using SQL, Python, and Snowflake. Sourc
 
 ---
 
-## 8. [MAYBE] DaVita | Financial Analyst
+## 9. [MAYBE] DaVita | Financial Analyst
 - Link: https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Financial-Analyst_R0486190
 - Location: 05555 - Casa del Mundo Office (Denver HQ)
 - Posted: Nov 12 (board gives the date only)
@@ -164,7 +186,22 @@ Posting Date 11/12/2026&#xa;2000 16th Street, Denver, Colorado, 80202, United St
 
 ---
 
-## 9. [MAYBE] SAIC | Data Scientist Associate
+## 10. [MAYBE] Iron Mountain | Business Intelligence & AI Automation / Bilingual / Hybrid
+- Link: https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/COL--Bogot--Calle-18-69B-73/Business-Intelligence---AI-Automation---Bilingual---Hybrid_J0109003
+- Location: COL | Bogotá | Calle 18, 69B, 73
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~64 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: bigquery, dashboard, power bi, python, sql, tableau, git, quantitative, reporting, risk | Lacks: looker  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At Iron Mountain we know that work, when done well, makes a positive impact for our customers, our employees, and our planet. That’s why we need smart, committed people to join us. Whether you’re looking to start your career or make a change, talk to us and see how you can elevate the power of your work at Iron Mountain. We provide expert, sustainable solutions in records and information management, digital transformation services, data centers, asset lifecycle management, and fine art storage, handling, and logistics. We proudly partner every day with our 225,000 customers around the world to preserve their invaluable artifacts, extract more from their inventory, and protect their data privacy in innovative and socially responsible ways. Are you curious about being part of our growth stor​y while evolving your skills in a culture that will welcome your unique contributions? If so, let's start the conversation. Iron Mountain is seeking an analytical Analyst / Senior Analyst – Business Intelligence & AI Automation to join our Business Intelligence & Analytics team. In this role, you’ll have the opportunity to go far beyond traditional dashboarding by turning complex data into clear, actionable insights that drive faster decisions across Finance, Sales, Customer Experience, and Operations. Working within a collaborative, hybrid team in Bogotá, your expertise will help modernize how we deliver information—combining data fluency with AI-enabled workflows to eliminate manual effort and solve real operational bottlenecks. If you are curious, execution-minded, and eager to pioneer smarter analytics solutions on a trusted, rock-solid foundation, this is the place to accelerate your career. What You’ll Do (Responsibilities) In this role, you will: Transform Raw Data into Insights: Analyze business, financial, operational, and customer data to spot trends, diagnose bottlenecks, and deliver clear recommendations that accelerate leadership decision-making. Build Decision-Useful Visualizations: Design, enhance, and maintain accurate, executive-friendly dashboards and reporting solutions that replace vanity metrics with actionable intelligence. Automate & AI-Enable Workflows: Identify repetitive reporting and data preparation tasks, leveraging AI tools, summarization, and orchestration platforms to streamline delivery and build self-service solutions. Partner Across Business Functions: Collaborate closely with stakeholders in Finance, Customer Experience, Sales, and Operations to uncover root-cause business needs and challenge unclear requests constructively. Own End-to-End Delivery: Manage analytics projects from initial scoping through execution with strong accountability, proactively communicating risks and ensuring polished, reliable outputs. What You’ll Bring (Skills & Qualifications) The ideal candidate will have: 2–6 years of experience in analytics, BI, reporting, automation, or data-focused roles (exceptional recent graduates with strong technical and commercial aptitude will also be considered). Strong knowledge of SQL, working proficiency in Python for data processing or automation, and hands-on experience with BI tools (such as Tableau, Power BI, or Looker Studio) and cloud data platforms like BigQuery. Practical familiarity with modern AI ecosystems—such as Vertex AI, generative AI tools, copilots, APIs, or workflow orchestration platforms—and an eye for where automation can reduce manual effort. A Bachelor’s degree in Engineering, Analytics, Computer Science, Finance, Business, Mathematics, or a related quantitative field. Professional working proficiency in spoken and written English, paired with the ability to translate complex technical findings into clear stories for global stakeholders. What We Offer (Benefits) Location: Bogotá, Colombia (Hybrid work model requiring a minimum of 3 days per week in the office). Competitive compensation and benefits aligned with experience. Paid time off and local holidays. Flexible hybrid work arrangements to support collaboration and work–life balance. Comprehensive health, wellness, and retirement plans. Opportunities for continuous learning and professional growth in emerging analytics and AI technologies. Ready to turn data into action and build the future of intelligent reporting? Apply today to join our Bogotá team! Category: Technology
+
+---
+
+## 11. [MAYBE] SAIC | Data Scientist Associate
 - Link: https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2615778
 - Location: Upper Marlboro, MD, United States US
 - Posted: Nov 12 (board gives the date only)
@@ -179,7 +216,7 @@ SAIC is seeking a Data Scientist Associate with a strong background in statistic
 
 ---
 
-## 10. [MAYBE] Centrica | Data Scientist
+## 12. [MAYBE] Centrica | Data Scientist
 - Link: https://centrica.wd3.myworkdayjobs.com/Centrica/job/Cardiff/Data-Scientist_R0091143
 - Location: 3 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -194,7 +231,7 @@ Join us, be part of more. We’re so much more than an energy company. We’re a
 
 ---
 
-## 11. [MAYBE] Public Partnerships (PPL) | Analytics Engagement Consultant
+## 13. [MAYBE] Public Partnerships (PPL) | Analytics Engagement Consultant
 - Link: https://publicpartnerships.wd1.myworkdayjobs.com/ppl/job/US-Remote/Analytics-Engagement-Consultant_JR26-1087
 - Location: US Remote
 - Posted: Nov 12 (board gives the date only)
@@ -209,7 +246,22 @@ It's fun to work in a company where people truly BELIEVE in what they're doing! 
 
 ---
 
-## 12. [MAYBE] Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera
+## 14. [MAYBE] Voya Financial | Client Reporting Analyst
+- Link: https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Client-Reporting-Analyst_JR0033375
+- Location: Atlanta, GA
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, power bi, sql, fraud, git, portfolio, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Together we fight for everyone’s opportunity for a better financial future. We will do this together — with customers, partners and colleagues. We will fight for others, not against: We will stand up for and champion everyone’s access to opportunities. The status quo is not good enough … we believe every individual and every community deserves access to financial opportunities. We are determined to support both individuals and communities in reaching a better financial future. We know that reaching this future depends on our actions today. Like our Purpose Statement, Voya believes in being bold and committed to action. We are committed to a work environment where the differences that we are born with — and those we acquire throughout our lives — are understood, valued and intentionally pursued. We believe that our employees own our culture and have a responsibility to foster an environment where we all feel comfortable bringing our whole selves to work. Purposefully bringing our differences together to positively influence our culture, serve our clients and enrich our communities is essential to our vision. Are you ready to join a company with a strong purpose and a winning culture? Start your Voyage – Apply Now Get to Know the Opportunity The Client Reporting Analyst is responsible for designing, building, maintaining, and delivering high-quality investment reports for institutional clients. This role has a strong focus on report development using SimCorp Coric or similar dynamic reporting tools, along with the data analysis and problem-solving needed to support accurate and effective client reporting. The analyst will work across Client Service, Operations, Data, and Technology to turn business requirements into clear, professional client reports. The role requires hands-on report development experience, strong attention to report design and presentation, and the ability to understand the data and calculations behind the reports. The Contributions You Will Make Design, build, and maintain client reports using SimCorp Coric and other reporting platforms. Create professional, client-ready reports that present investment information clearly and consistently. Build report templates, layouts, variables, calculations, conditional content, and other report logic. Work with Client Service, Operations, Data, and Technology teams to understand reporting needs and turn them into working reporting solutions. Understand and validate the data used in reports, including holdings, performance, attribution, portfolio characteristics, and other investment data. Investigate and resolve report issues by reviewing source data, calculations, report logic, formatting, and production processes. Test reports and perform quality control to ensure accuracy, consistency, and a high-quality client presentation. Improve and automate reporting processes using tools such as Microsoft Copilot, GitHub Copilot, Power Automate, SQL, Power BI, WebFOCUS, Excel, and related technologies. Use AI and automation tools where appropriate to support report development, testing, documentation, data analysis, and process improvements. Maintain documentation for report requirements, data sources, calculations, templates, testing, and production processes. Support new client reporting needs, report redesigns, platform upgrades, ad hoc requests, and other Client Reporting initiatives. Minimum Knowledge and Experience Bachelor’s degree required; concentration in Finance, Accounting, Business, Computer Science, Information Systems, or a related field preferred. Minimum 3 years of experience in client reporting, report development, business intelligence, or a similar reporting role; financial services or asset management experience preferred. Hands-on experience with SimCorp Coric is strongly preferred. Experience with similar dynamic reporting or document generation platforms will also be considered. Demonstrated experience designing and building data-driven reports, not only producing or reviewing completed reports. Strong report design skills with the ability to create clean, professional, client-ready output. Experience building report templates, variables, calculations, conditional content, and other report logic. Ability to work with large data sets and understand how source data, calculations, and report output connect. Working knowledge of SQL preferred. Advanced proficiency in Microsoft Excel and PowerPoint required; experience with Power BI, WebFOCUS, or similar reporting tools is a plus. Experience using AI or automation tools such as Microsoft Copilot, GitHub Copilot, or Power Automate for reporting, development, testing, documentation, or process improvement is a plus. Strong analytical, problem-solving, and communication skills. Understanding of investment reporting concepts such as holdings, performance, attribution, and portfolio characteristics preferred. #LI-MG1 Compensation Pay Disclosure: Voya is committed to pay that’s fair and equitable, which means comparable pay for comparable roles and responsibilities. The below annual base salary range reflects the expected hiring range(s) for this position in the location(s) listed. In addition to base salary, Voya offers incentive opportunities (i.e., annual cash incentives, sales incentives, and/or long-term incentives) based on the role to reward the achievement of annual performance objectives. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Voya Financial is willing to pay at the time of this posting. Actual compensation offered may vary from the posted salary range based upon the candidate’s geographic location, work experience, education, licensure requirements and/or skill level and will be finalized at the time of offer. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked. $90,000 to $105,000 USD Be Well. Stay Well. Voya provides the resources that can make a difference in your lives. To us, this means thriving physically, financially, socially and emotionally. Voya benefits are designed to help you do just that. That’s why we offer an array of plans, programs, tools and resources with one goal in mind: To help you and your family be well and stay well. What We Offer Health, dental, vision and life insurance plans 401(k) Savings plan – with generous company matching contributions (up to 6%) Voya Retirement Plan – employer paid cash balance retirement plan (4%) Tuition reimbursement up to $5,250/year Paid time off – including 20 days paid time off, nine paid company holidays and a flexible Diversity Celebration Day. Paid volunteer time — 40 hours per calendar year Learn more about Voya benefits (download PDF) Critical Skills At Voya, we have identified the following critical skills which are key to success in our culture: Customer Focused : Passionate drive to delight our customers and offer uniq [...]
+
+---
+
+## 15. [MAYBE] Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Research-Associate-I---Patient-Centered-Research--Evidera_R-01375964
 - Location: Remote, Mexico
 - Posted: Nov 11 (board gives the date only)
@@ -224,7 +276,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 13. [MAYBE] Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology
+## 16. [MAYBE] Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology
 - Link: https://wustl.wd1.myworkdayjobs.com/external/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521
 - Location: Remote
 - Posted: Nov 11 (board gives the date only)
@@ -239,7 +291,7 @@ Location Remote, US&#xa;&#xa; Position Summary Position assists investigator wit
 
 ---
 
-## 14. [MAYBE] Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology
+## 17. [MAYBE] Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521
 - Location: Remote
 - Posted: Nov 11 (board gives the date only)
@@ -254,7 +306,7 @@ Location Remote, US&#xa;&#xa; Position Summary Position assists investigator wit
 
 ---
 
-## 15. [MAYBE] Gordon Food Service | Reporting and Data Insights Analyst
+## 18. [MAYBE] Gordon Food Service | Reporting and Data Insights Analyst
 - Link: https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Reporting-and-Data-Insights-Analyst_R-59873
 - Location: Wyoming, Michigan
 - Posted: Nov 12 (board gives the date only)
@@ -269,7 +321,7 @@ Welcome to Gordon Food Service! We are excited that you are thinking about oppor
 
 ---
 
-## 16. [MAYBE] Google | Research Scientist, Modeling of Readout and Reset, Quantum
+## 19. [MAYBE] Google | Research Scientist, Modeling of Readout and Reset, Quantum
 - Link: https://www.google.com/about/careers/applications/jobs/results/101752149989302982
 - Location: Goleta, CA, USA ; Los Angeles, CA, USA
 - Posted: Nov 12 03:36 ET
@@ -284,7 +336,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 17. [MAYBE] GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F)
+## 20. [MAYBE] GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F)
 - Link: https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Villeurbanne/Analytics-Sourcing-Specialist--Spcialiste-analytique-des-achats-H-F-_R5058835-1
 - Location: Villeurbanne
 - Posted: Nov 11 (board gives the date only)
@@ -299,7 +351,7 @@ Job Description Summary Négocier avec des fournisseurs dédiés conformément �
 
 ---
 
-## 18. [MAYBE] TikTok | Data Scientist - TikTok Ads
+## 21. [MAYBE] TikTok | Data Scientist - TikTok Ads
 - Link: https://lifeattiktok.com/search/6863478486973040910
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -330,7 +382,22 @@ Preferred Qualifications:
 
 ---
 
-## 19. [MAYBE] GenScript | Research Associate, Analytical Development
+## 22. [MAYBE] Crum & Forster Insurance | Title Reporting Analyst, Hybrid
+- Link: https://careers-cfins.icims.com/jobs/5452/reporting-analyst%2c-hybrid/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~47 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, credit, portfolio, reporting, risk | Lacks: actuar  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Reporting Analyst, Hybrid in EATONTOWN, New Jersey | Careers at EATONTOWN, NJ Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log back in! Reporting Analyst, Hybrid Job Locations US-NJ-EATONTOWN Job ID 2026-5452 Category Finance Type Regular Division A&H Crum & Forster Company Overview Crum & Forster (C&F) , with a proud history dating to 1822, provides specialty and standard commercial lines insurance products through our admitted and surplus lines insurance companies. C&F enjoys a financial strength rating of "A+" (Superior) by AM Best and is proud of our superior customer service platform. Our claims and risk engineering services are recognized as among the best in the industry. Our most valuable asset is our people: more than 2000 employees in locations throughout the United States. The company is increasingly winning recognition as a great place to work, earning several workplace and wellness awards, including the 2025 Great Place to Work ® Award for our employee-first focus and our steadfast commitment to diversity, equity and Inclusion. C&F is part of Fairfax Financial Holdings, a global, billion dollar organization. For more information about Crum & Forster, please visit our website: www.cfins.com. Job Description Since 2000, Crum & Forster’s Accident & Health division (A&H) has offered a diverse portfolio of specialty insurance and reinsurance products nationwide. We place a strong focus on product development and creative distribution methods, along with excellent client service and support. In addition to our robust domestic portfolio, which spans both special risk and medical solutions, A&H works on an international basis through various partnerships. Our global capabilities provide our partners with even broader flexibility in underwriting solutions. Gross premium written in 2025 surpassed $2.4B. The qualities and capabilities of Crum & Forster Accident & Health demonstrate our philosophy of building meaningful, long-term partnerships and our dedication to providing alternative strategies in an ever-changing insurance market. The Reporting department of the Crum & Forster Accident & Health segment is looking for a multi-talented individual to join the Reporting team. This position will interact internally with Underwriting, Actuarial, Claims, Compliance, IT, Regulatory, and externally with the divisions business partners. This position will be focused on supporting the Companies’ automation initiatives and processing information received from partners. What you will do for C&F: Analyze, reconcile, and triage data received from partners to permitted parameters to allow for effective robotic process automation daily Compile data and analyze for submission to States to satisfy regulatory reporting requirements Decompose high-level business and user requirements into functional requirements, specified in an appropriate level of detail and forms suitable for use by those who must base their work on the requirements Assist the internal Accounting team in reconciling client data Collaborate internally with various departments Perform requirements analysis and verification, ensuring that requirement statements are complete, consistent, concise, comprehensible, traceable, feasible, unambiguous, and verifiable, and that they conform to standards Perform special projects and assignments under the direction of senior personnel Other duties as assigned What You will bring to C&F: Bachelors Degree from an accredited institution or equivalent experience required 2 or more years of working experience preferred Strong PC skills including Excel, Word, Outlook, Power Point, etc. Ability to clearly present information through the spoken or written word; read and interpret complex information with moderate supervision Ability to establish a good rapport with all customers and business partners Demonstrated concern for a high-level of service delivery and a strong focus on customer satisfaction Capability to analyze relevant aspects of a situation before reaching a conclusion Strong focus on accuracy when completing all projects Provide a sustained effort and dedication to getting the job done well, while working continuously to produce superior work regardless of obstacles or setbacks Displays personal concern, interest, pride and accountability in all areas of responsibility Ability to effectively handle multiple tasks in a fast paced environment Ability to work both independently and in a team environment Strong organization and time management skills with exceptional attention to detail What C&F will bring to you Competitive compensation package Generous 401K employer match Employee Stock Purchase plan with employer matching Generous Paid Time Off Excellent benefits that go beyond health, dental & vision. Our programs are focused on your whole family’s wellness, including your physical, mental and financial wellbeing A core C&F tenet is owning your career development, so we provide a wealth of ways for you to keep learning, including tuition reimbursement, industry-related certifications and professional training to keep you progressing on your chosen path A dynamic, ambitious, fun and exciting work environment We believe you do well by doing good and want to encourage a spirit of social and community responsibility, matching donation program, volunteer opportunities, and an employee-driven corporate giving program that lets you participate and support your community At C&F you will BELONG If you require special accommodations, please let us know. We value inclusivity and diversity. We are committed to equal employment opportunity and welcome everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you require special accommodations, please let us know For California Residents Only: Information collected and processed as part of your career profile and any job applications you choose to submit are subject to our privacy notices and policies, visit https://www.cfins.com/onlineprivacypolicy/ca/noticeatcollection/ for more information. Crum & Forster is committed to ensuring a workplace free from discriminatory pay disparities and complying with applicable pay equity laws. Salary ranges are available for all positions at this location, taking into account roles with a comparable level of responsibility and impact in the relevant labor market and these salary ranges are regularly reviewed and adjusted in accordance with prevailing market conditions. The annualized base pay for the advertised position, located in the specified area, ranges from a minimum of $50,900.00 to a maximum of $74,700.00. The actual compensation is determined by various factors, including but not limited to the market pay for [...]
+
+---
+
+## 23. [MAYBE] GenScript | Research Associate, Analytical Development
 - Link: https://job-boards.greenhouse.io/genscript/jobs/5293026007
 - Location: Seattle, Washington, United States
 - Posted: Nov 12 02:18 ET
@@ -345,7 +412,7 @@ About GenScript Founded in 2002 in New Jersey, GenScript Biotech Corporation acc
 
 ---
 
-## 20. [MAYBE] SAIC | Operational Research Analyst
+## 24. [MAYBE] SAIC | Operational Research Analyst
 - Link: https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2619061
 - Location: Pearl Harbor, HI, United States US
 - Posted: Nov 12 (board gives the date only)
@@ -360,7 +427,22 @@ Description SAIC is seeking an Operational Research Analyst for an Air Force TEN
 
 ---
 
-## 21. [MAYBE] Google | Gemini Vision Research Scientist, DeepMind
+## 25. [MAYBE] Morningstar | Multi-Asset & Alternative Investment Analyst
+- Link: https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Multi-Asset---Alternative-Investment-Analyst_REQ-058785
+- Location: Chicago
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 13 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, portfolio, quantitative, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+As a manager research analyst, your objective and independent research on funds and other investment vehicles will help individuals, intermediaries, and institutional investors make better investment decisions--Morningstar’s primary mission. The position requires a passion for investing along with strong analytical, presentation, and writing skills. In this role, you will research and rate funds and other investment vehicles, such as 529 savings plans, model portfolios, and separately managed accounts, while also developing broader investment expertise that contributes to the team’s thought leadership. This position is with our Multi-Asset and Alternative Investment asset class team and is based in our Chicago office. Responsibilities Develop clear opinions to support forward-looking ratings on funds and other investment vehicles based on research that focuses on the funds’ management team, strategy, parent company, performance, and expenses. Conduct quantitative and qualitative analysis using our databases, monitoring regulatory information, interviewing portfolio managers, and leading on-site due diligence visits of asset-management firms. Author and edit analytical research reports, articles, and industry studies. Discuss ratings and reports with external institutional clients and internal investment management group. Represent Morningstar by speaking to media, conferences, industry associations, and regulators. Requirements A bachelor's degree is required; a graduate degree and/or Chartered Financial Analyst® designation (or interest in pursuing one or the other) is preferred. Passion for investing and for helping investors make better investment decisions. Excellent analytical, writing, and verbal communication skills. Ability to work at times independently, and at other times within a collaborative environment. Demonstrated expertise as a manager research analyst in multi-asset and alternative investments. Compensation and Benefits At Morningstar we believe people are at their best when they are at their healthiest. That’s why we champion your wellness through a wide range of programs that support all stages of your personal and professional life. Here are some examples of the offerings we provide: Financial Health 100% 401k match up to 6% of salary Stock Ownership Potential Company provided life insurance - 1x salary + commission Physical Health Comprehensive health benefits (medical/dental/vision) including potential premium discounts and company-provided HSA contributions (up to $500-$2,000 annually) for specific plans and coverages Additional medical Wellness Incentives - up to $300-$600 annual Company-provided long- and short-term disability insurance Emotional Health Trust-Based Time Off 6-week Paid Sabbatical Program 6-Week Paid Family Caregiving Leave Competitive 8-24 Week Paid Parental Leave Adoption Assistance Leadership Coaching & Formal Mentorship Opportunities Annual Flex Stipend - $1000 annually to cover personal education & well-being expenses Tuition Reimbursement Social Health Charitable Matching Gifts program Dollars for Doers volunteer program Paid volunteering days 15+ Employee Resource & Affinity Groups Total Cash Compensation Range $117,500.00-172,350.00 Inclusive of annual base salary and target incentive Morningstar's hybrid work environment gives you the opportunity to collaborate in-person each week as we've found that we're at our best when we're purposely together on a regular basis. In most of our locations, our hybrid work model is four days in-office each week. A range of other benefits are also available to enhance flexibility as needs change. No matter where you are, you'll have tools and resources to engage meaningfully with your global colleagues. 036_MstarResearchLLC Morningstar Research Services LLC Legal Entity
+
+---
+
+## 26. [MAYBE] Google | Gemini Vision Research Scientist, DeepMind
 - Link: https://www.google.com/about/careers/applications/jobs/results/103995840904733382
 - Location: Mountain View, CA, USA ; New York, NY, USA ; Los Angeles, CA, USA
 - Posted: Nov 12 09:38 ET
@@ -375,7 +457,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 22. [MAYBE] Syngenta Group | Research Scientist
+## 27. [MAYBE] Syngenta Group | Research Scientist
 - Link: https://jobs.smartrecruiters.com/SyngentaGroup/744000161311869
 - Location: Durham North Carolina us
 - Posted: Nov 12 09:18 ET
@@ -390,7 +472,7 @@ This role serves as a key member of the soybean trait introgression team while a
 
 ---
 
-## 23. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
+## 28. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
 - Link: https://jobs.smartrecruiters.com/PAConsulting/744000161325099
 - Location: Chicago us
 - Posted: Nov 12 10:12 ET
@@ -405,7 +487,7 @@ PA's Growth Strategy team helps organizations identify opportunities for sustain
 
 ---
 
-## 24. [MAYBE] CVS Health | Software Engineer (AI Engineering)
+## 29. [MAYBE] CVS Health | Software Engineer (AI Engineering)
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Software-Engineer--NET-Python-_R1084915
 - Location: RI - Work from home
 - Posted: Nov 11 (board gives the date only)
@@ -420,7 +502,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 25. [MAYBE] CVS Health | Data and Analytics Consultant
+## 30. [MAYBE] CVS Health | Data and Analytics Consultant
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Data-and-Analytics-Consultant_R1064091-1
 - Location: see posting
 - Posted: Nov 12 (board gives the date only)
@@ -435,7 +517,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 26. [MAYBE] PennState University | Part Time Research Assistant (Camodeca)
+## 31. [MAYBE] PennState University | Part Time Research Assistant (Camodeca)
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Beaver/Part-Time-Research-Assistant--Camodeca-_REQ_0000084281-1
 - Location: Penn State Beaver
 - Posted: Nov 12 (board gives the date only)
@@ -450,7 +532,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 27. [MAYBE] Genentech | Machine Learning Scientist/Senior Machine Learning Scientist, Agents for Applied Small Molecule Drug Design, AIDD
+## 32. [MAYBE] Genentech | Machine Learning Scientist/Senior Machine Learning Scientist, Agents for Applied Small Molecule Drug Design, AIDD
 - Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/San-Francisco/Machine-Learning-Scientist---Agents-for-Applied-Small-Molecule-Drug-Design_202606-115525-1
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -465,7 +547,7 @@ A healthier future. It’s what drives us to innovate. To continuously advance s
 
 ---
 
-## 28. [MAYBE] Capital One | Senior Associate, Data Science - Compliance Model Risk
+## 33. [MAYBE] Capital One | Senior Associate, Data Science - Compliance Model Risk
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Senior-Associate--Data-Science---Compliance-Model-Risk_R1005177-1
 - Location: 4 Locations
 - Posted: Nov 11 (board gives the date only)
@@ -480,7 +562,22 @@ Senior Associate, Data Science - Compliance Model Risk Data is at the center of 
 
 ---
 
-## 29. [MAYBE] Merck | Senior AI Data Scientist/ Statistician
+## 34. [MAYBE] Expedia Inc. | Data Scientist II - Advertising Analytics
+- Link: https://expedia.wd108.myworkdayjobs.com/Search/job/Washington---Seattle-Campus/Data-Scientist-II---Advertising-Analytics_R-111162
+- Location: 2 Locations
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~70 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 83 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: a/b test, aws, dashboard, excel, machine learning, python, regression, sql, statistic, time series, classification | Lacks: databricks  | Note: title says Senior/II: asks 2 years
+- Eligibility: CHECK | The employer will provide the Social Security Administration (SSA) and, if necessary, the Department of Homeland Security (DHS) with information from each new employee's I-9 to confirm work authorization.
+
+### Job description
+
+At Expedia Group, we help travelers explore the world, one journey at a time. As a global travel company powered by passionate people, trusted partnerships, and leading technology, we connect travelers, partners, and advertisers through our consumer brands, B2B network, and travel advertising business. Here, you'll do meaningful work that helps millions of people discover, book, and experience travel with more ease, confidence, and joy. Our five Behaviors-Traveler First, Think Big, Operate with Excellence, Ownership Mindset, and Succeed Together-help foster a supportive environment where people can grow their careers and have the flexibility, benefits, and support to do their best work. Join us and build for travelers everywhere. Data Scientist II - Advertising Analytics At Expedia Group, our mission is to power global travel for everyone, everywhere. If you're passionate about creating exceptional customer experiences and thrive in a collaborative, fast-paced, high-growth environment, you’ll love being part of Expedia Group Advertising's Yield & Analytics (Y&A) team. We’re looking for an exceptional Data Scientist II - Advertising Analytics to join our team. If you have a strong analytical mindset, a strategic approach, and a bias for action, this is your opportunity to make a real impact. In this role, you’ll collaborate closely with product partners to optimize and launch best-in-class onsite advertising solution. This is an exciting opportunity to join a dynamic, international team where data is at the heart of every decision, and customer centricity drives everything we do. In this role, you will: Collaborate with product teams to harness data from diverse sources—uncovering new product opportunities or identifying friction points in existing experiences. Translate insights into actionable strategies that drive product innovation and enhancement. Design and execute A/B tests to rigorously evaluate product performance and feature improvements. Quantify outcomes into clear financial impact, and perform in-depth analysis to extract insights that inform the next iteration of development. Define, track, and visualize key metrics through intuitive dashboards to enable real-time business monitoring. Proactively surface metric shifts and conduct root-cause analyses to identify underlying drivers. Deliver impactful product and customer insights to cross-functional stakeholders, empowering leadership and product teams to make informed, data-driven decisions. Support product roadmap planning and go-to-market (GTM) strategy by providing analytical guidance and strategic recommendations that align with business objectives and customer needs. Experience & Qualifications: Bachelor’s degree (or equivalent) in Statistics, Mathematics, Economics, Data Science, or a related field. 2+ years of analytics experience with a focus on product analytics and measurements. Technical Expertise: Strong proficiency in big data tools (SQL, Python, Databricks, AWS, etc.) for working with large, complex datasets. Cross-functional Collaboration: Proven track record of collaborating with teams across Product, Finance, and other departments to integrate data insights into business strategies. Problem-Solving & General Management: Strong analytical, problem-solving, and leadership skills to manage complex initiatives and cross-functional relationships. Preferred Qualifications: Advanced Analytical Skills: Expertise in experimentation, causal inference, and advanced analytics, including the ability to dive deeper into A/B test data beyond statistical significance. Economic Modeling: Knowledge of economic modeling techniques such as price elasticity and time series analysis is beneficial. Multivariate Analysis: Familiarity with regression, classification, and other multivariate analysis methods. Machine Learning Models: Exposure to machine learning models such as recommendations, multi-armed bandit algorithms, or reinforcement learning The total cash range for this position in Seattle is $112,000.00 to $156,500.00. Employees in this role have the potential to increase their pay up to $179,000.00, which is the top of the range, based on ongoing, demonstrated, and sustained performance in the role.&#xa; Starting pay for this role will vary based on multiple factors, including location, available budget, and an individual’s knowledge, skills, and experience. Pay ranges may be modified in the future. Benefits and perks Expedia Group offers benefits and perks designed to support employees and their families, including medical, dental, and vision coverage, paid time off, an Employee Assistance Program, wellness and travel reimbursement, travel discounts, and International Airlines Travel Agent Network (IATAN) membership. Learn more about life at Expedia Group at https://careers.expediagroup.com/life . Accommodation requests Expedia Group is committed to providing an inclusive and accessible recruiting experience. If you need an accommodation or adjustment due to a disability during the application or recruiting process, please submit a request at https://expedia.service-now.com/askeg?id=job_accommodation . About Expedia Group Expedia Group includes three flagship consumer brands - Expedia, Hotels.com, and Vrbo - along with a leading B2B travel business and travel advertising offerings. Across our brands and business, we help travelers explore the world with confidence and ease. Important notice Employment opportunities and job offers at Expedia Group will always come from Expedia Group's Talent Acquisition and hiring teams. Never share sensitive personal information unless you are confident of the recipient. Expedia Group does not extend job offers via email or messaging tools to individuals with whom we have not made prior contact. Our email domain is @expediagroup.com. The official place to find and apply for roles is https://careers.expediagroup.com/jobs/ . Equal Opportunity Expedia is committed to creating an inclusive work environment with a diverse workforce. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status, or any other characteristic protected by law. This employer participates in
+
+---
+
+## 35. [MAYBE] Merck | Senior AI Data Scientist/ Statistician
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-AI-Data-Scientist--Statistician_R426163
 - Location: USA - New Jersey - Rahway
 - Posted: Nov 11 (board gives the date only)
@@ -495,7 +592,7 @@ Job Description Position Overview: We are seeking a highly motivated quantitativ
 
 ---
 
-## 30. [MAYBE] Unity | Senior Machine learning engineer, AI Authoring
+## 36. [MAYBE] Unity | Senior Machine learning engineer, AI Authoring
 - Link: https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/Senior-Machine-learning-engineer--AI-Authoring_JOBREQ-2616605
 - Location: Mountain View, CA, USA
 - Posted: Nov 12 (board gives the date only)
@@ -510,7 +607,7 @@ The opportunity Unity is building next-generation intelligence systems for gamin
 
 ---
 
-## 31. [MAYBE] Merck | Senior AI Data Scientist
+## 37. [MAYBE] Merck | Senior AI Data Scientist
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-AI-Data-Scientist_R426413-2
 - Location: USA - New Jersey - Rahway
 - Posted: Nov 11 (board gives the date only)
@@ -525,7 +622,7 @@ Job Description Position Overview: We are seeking a highly motivated quantitativ
 
 ---
 
-## 32. [MAYBE] Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera
+## 38. [MAYBE] Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Research-Associate-II--Patient-Centered-Research---Evidera_R-01375966
 - Location: Remote, Mexico
 - Posted: Nov 11 (board gives the date only)
@@ -540,7 +637,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 33. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary
+## 39. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary
 - Link: https://ejis.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3044563
 - Location: United States US
 - Posted: Nov 12 (board gives the date only)
@@ -555,7 +652,22 @@ As a Data Scientist II, work closely with clinical leads and product sponsors to
 
 ---
 
-## 34. [MAYBE] Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA **
+## 40. [MAYBE] Marathon Petroleum | Senior Commercial Risk Analyst - Middle Office
+- Link: https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Houston-Texas/Senior-Commercial-Risk-Analyst---Middle-Office_00025306
+- Location: Houston, Texas
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, power bi, portfolio, reporting, risk, trading | Lacks: -  | Note: title says Senior/II: asks 2 years
+- Eligibility: CHECK | Detailed benefit information is available at https://mympcbenefits.com .The hired candidate will also be eligible for a discretionary company-sponsored annual bonus program.
+
+### Job description
+
+An exciting career awaits you At MPC, we’re committed to being a great place to work – one that welcomes new ideas, encourages diverse perspectives, develops our people, and fosters a collaborative team environment. Position Summary The Commercial Risk team is part of Marathon’s Middle Office organization and plays a critical role in supporting Marathon’s Supply and Trading functions by providing independent oversight of market risk and trading performance. The team delivers value through the measurement and reporting of market risk associated with commercial trading and hedging activities, as well as through in-depth financial analysis and reporting. This role is essential to understanding daily trading performance and ensuring the organization captures value from its supply and trading operations, leveraging strong financial expertise and commercial acumen. The team ensures that financial results are aligned with prevailing market conditions, offering an independent perspective on trading outcomes and confirming that activities remain within defined risk limits and governance frameworks. As part of the team, you will expand your understanding of the oil energy markets. This will include how various oil commodities are priced and how purchase and sale transactions and related transportation costs impact the associated trade. You will also develop a deeper appreciation of how financial instruments are used to hedge and used to minimize the risks associated with the physical side of the transactions. You will gain a better understanding of the concept of price exposure and of Marked to Market (MtM) methodologies and how they apply to the oil energy markets. This role opens future opportunities to join commercial teams to supply and trade commodities in an exciting and expanding company and industry. We are seeking a Senior Commercial Risk Analyst with demonstrated experience in price risk management, either within a Front Office or Middle Office environment, to support this growing area and contribute to the continued evolution of the platform. Key Responsibilities: Perform daily financial analysis on system generated daily MtM trading performance and issues reports on the portfolio priced position and results Collaborate with other team members and stakeholders including Middle Office, Accounting, Refining Operations, Schedulers and Traders, designing and enhancing processes and procedures to enable accurate and timely priced position information Validate inputs to MtM results for accuracy and consistency with policies and procedures, tests and validates new data sources enabling faster and more accurate compilation of position data Develop, maintain, and enhance analytical reports, and perform ad hoc analysis in support of senior management Develop and enhance processes and controls to ensure accurate and timely priced position reporting Support design, development, and implementation of new activity Support team initiatives and ad hoc projects, including internal and external audit requests Maintain and deliver weekly and monthly analytical reporting packages Test and validate new data sources enabling faster and more accurate compilation of position data Provide clear, concise explanations of risk exposures and key drivers impacting portfolio performance and related strategic decisions Partner with Accounting and Finance (BP&A) to reconcile and explain variances between risk management and financial reporting Minimum Requirements: Bachelor’s degree in Accounting, Finance, Economics, or related discipline required Four (4) or more years of experience in analysis of financial results and reporting and/or experience in refinery or supply operations 2+ years of demonstrated experience trading or risk managing commodity trading activities Ability to use and create Power BI reports preferred #TA Corporate As an energy industry leader, our career opportunities fuel personal and professional growth. Location: Houston, Texas Additional locations: Job Requisition ID: 00025306 Location Address: 500 Dallas St Ste 2900 Education: Bachelors (Required) Employee Group: Full time Employee Subgroup: Regular Marathon Petroleum Company LP
+
+---
+
+## 41. [MAYBE] Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA **
 - Link: https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/SRB-Belgrade-Hybrid/Sr-Data-Analyst-I--RWE----Hybrid-SERBIA---_25113045
 - Location: 2 Locations
 - Posted: Nov 11 (board gives the date only)
@@ -570,7 +682,7 @@ Sr Data Analyst I, RWE ** Hybrid SERBIA ** Syneos Health® is a leading fully-in
 
 ---
 
-## 35. [MAYBE] Elsevier | Senior Software Engineer / Senior AI Engineer
+## 42. [MAYBE] Elsevier | Senior Software Engineer / Senior AI Engineer
 - Link: https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia/Senior-Software-Engineer---Senior-AI-Engineer_R117481
 - Location: 3 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -585,7 +697,7 @@ Are you excited about building intelligent systems powered by cutting-edge AI te
 
 ---
 
-## 36. [MAYBE] Wells Fargo | Senior Risk Analytics Consultant (Merchant Services)
+## 43. [MAYBE] Wells Fargo | Senior Risk Analytics Consultant (Merchant Services)
 - Link: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Risk-Analytics-Consultant--Merchant-Services-_R-577689
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -600,7 +712,7 @@ About this role: Wells Fargo is seeking a Senior Risk Analytics Consultant to le
 
 ---
 
-## 37. [MAYBE] Ally Bank | Senior Data Analyst - Fraud
+## 44. [MAYBE] Ally Bank | Senior Data Analyst - Fraud
 - Link: https://ally.wd1.myworkdayjobs.com/ALLY/job/Charlotte-NC/Senior-Data-Analyst---Fraud_R2601095-1
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
