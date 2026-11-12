@@ -9,25 +9,26 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 3 | Consolidated Edison | Analyst, Policy Integration Forecasting | 67 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
 | 4 | Circle K | B2B Commercial Analyst | 65 | 19 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
 | 5 | Lightcast | Economic Research Analyst / Junior Data Scientist - 1089 | 65 | none found (check myvisajobs) | Nov 12 11:49 ET |
-| 6 | Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera | 54 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 7 | Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
-| 8 | Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | cap-exempt employer | Nov 11 (board gives the date only) |
-| 9 | Google | Research Scientist, Modeling of Readout and Reset, Quantum | 50 | 1053 in data/analytics/finance occupations | Nov 12 03:36 ET |
-| 10 | GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F) | 50 | 3 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 11 | GenScript | Research Associate, Analytical Development | 45 | 5 in data/analytics/finance occupations | Nov 12 02:18 ET |
-| 12 | Google | Gemini Vision Research Scientist, DeepMind | 44 | 1053 in data/analytics/finance occupations | Nov 12 09:38 ET |
-| 13 | Syngenta Group | Research Scientist | 40 | 5 in data/analytics/finance occupations | Nov 12 09:18 ET |
-| 14 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 12 10:12 ET |
-| 15 | CVS Health | Software Engineer (AI Engineering) | 40 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
-| 16 | CVS Health | Data and Analytics Consultant | 40 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 17 | Capital One | Senior Associate, Data Science - Compliance Model Risk | 74 | 458 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 18 | Merck | Senior AI Data Scientist/ Statistician | 67 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 19 | Merck | Senior AI Data Scientist | 65 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 20 | Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera | 62 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 21 | Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 22 | Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA ** | 56 | 16 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 23 | Elsevier | Senior Software Engineer / Senior AI Engineer | 55 | 7 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 24 | Wells Fargo | Senior Risk Analytics Consultant (Merchant Services) | 55 | 163 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 6 | SAIC | Data Scientist Associate | 61 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 7 | Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera | 54 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 8 | Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
+| 9 | Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | cap-exempt employer | Nov 11 (board gives the date only) |
+| 10 | Google | Research Scientist, Modeling of Readout and Reset, Quantum | 50 | 1053 in data/analytics/finance occupations | Nov 12 03:36 ET |
+| 11 | GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F) | 50 | 3 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 12 | GenScript | Research Associate, Analytical Development | 45 | 5 in data/analytics/finance occupations | Nov 12 02:18 ET |
+| 13 | Google | Gemini Vision Research Scientist, DeepMind | 44 | 1053 in data/analytics/finance occupations | Nov 12 09:38 ET |
+| 14 | Syngenta Group | Research Scientist | 40 | 5 in data/analytics/finance occupations | Nov 12 09:18 ET |
+| 15 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 12 10:12 ET |
+| 16 | CVS Health | Software Engineer (AI Engineering) | 40 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
+| 17 | CVS Health | Data and Analytics Consultant | 40 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 18 | Capital One | Senior Associate, Data Science - Compliance Model Risk | 74 | 458 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 19 | Merck | Senior AI Data Scientist/ Statistician | 67 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 20 | Merck | Senior AI Data Scientist | 65 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 21 | Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera | 62 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 22 | Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 23 | Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA ** | 56 | 16 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 24 | Elsevier | Senior Software Engineer / Senior AI Engineer | 55 | 7 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 25 | Wells Fargo | Senior Risk Analytics Consultant (Merchant Services) | 55 | 163 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
 
 ---
 
@@ -106,7 +107,22 @@ Query, clean, and analyze large datasets using SQL, Python, and Snowflake. Sourc
 
 ---
 
-## 6. [MAYBE] Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera
+## 6. [MAYBE] SAIC | Data Scientist Associate
+- Link: https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2615778
+- Location: Upper Marlboro, MD, United States US
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~61 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, etl, machine learning, python, spark, sql, statistic, fraud, git, pipeline, portfolio, quantitative | Lacks: databricks, hadoop  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | Required: A bachelor’s degree in mathematics, statistics, data science, or a comparable quantitative science, 0-2 years applicable professional experience Ability to obtain and maintain a public trust requiring US Citize
+
+### Job description
+
+SAIC is seeking a Data Scientist Associate with a strong background in statistical data analysis using modern analytic tools and frameworks. Experience with techniques and platforms to create, manage, manipulate, and draw insight from large datasets is desired. The candidate will join the dynamic team at the Identity and Data Sciences Laboratory (IDSL). The IDSL is tasked with evaluating how new AI technologies can be best integrated into operational use-cases across the US government. We are investigating how AI systems can improve process efficiency and effectiveness, be optimally teamed with human operators, and detect fraud. Our engineers enjoy a great work-life balance and work in an environment that promotes learning and exploration. Responsibilities: Work with senior data scientists to perform data management and analysis tasks. Develop and apply extract, transform, load (ETL) data pipelines to create analytic datasets. Perform exploratory data analyses (EDA) on analytic datasets. Apply AI models to datasets for AI evaluation, data enrichment, prediction, or generation. Work with senior scientists and engineers to develop statistically sound designs of experiment, defining and testing hypotheses. Work with senior scientists and engineers to plan and execute comprehensive statistical analyses to generate quantitative results. Maintain attention to detail and quality standards to ensure results are accurate and withstand technical scrutiny. Contribute to ongoing data collection activities.  Required: A bachelor’s degree in mathematics, statistics, data science, or a comparable quantitative science, 0-2 years applicable professional experience Ability to obtain and maintain a public trust requiring US Citizenship. Proficiency in programming statistical analyses, machine learning, and/or data mining (R, Python, or similar). Proficiency in database technologies (SQL, NoSQL). Familiarity with source control (e.g., Git). Familiarity with common data formats (JSON, Parquet, XML, etc.). Desired : Experience with techniques and platforms to manage, manipulate, and draw insight from large datasets (Spark, Hadoop, Databricks, etc.). Understanding of scaling and performance of distributed/cloud systems (AWS). Understanding of machine vision, generative AI, machine learning, automation, and scripting. Strong communication skills, with the ability to present findings and recommendations to both technical and non-technical audiences. SAIC® is a premier mission integrator focused on advancing the power of technology and innovation to serve and protect our world. Our robust portfolio of offerings across the defense, space, intelligence, and civilian markets includes secure high-end solutions in mission IT, enterprise IT, engineering services, and professional services. We integrate emerging technology, rapidly and securely, into mission critical operations that modernize and enable critical national imperatives. We are approximately 23,000 strong; driven by mission, united by purpose, and inspired by opportunities. SAIC
+
+---
+
+## 7. [MAYBE] Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Research-Associate-I---Patient-Centered-Research--Evidera_R-01375964
 - Location: Remote, Mexico
 - Posted: Nov 11 (board gives the date only)
@@ -121,7 +137,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 7. [MAYBE] Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology
+## 8. [MAYBE] Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology
 - Link: https://wustl.wd1.myworkdayjobs.com/external/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521
 - Location: Remote
 - Posted: Nov 11 (board gives the date only)
@@ -136,7 +152,7 @@ Location Remote, US&#xa;&#xa; Position Summary Position assists investigator wit
 
 ---
 
-## 8. [MAYBE] Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology
+## 9. [MAYBE] Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521
 - Location: Remote
 - Posted: Nov 11 (board gives the date only)
@@ -151,7 +167,7 @@ Location Remote, US&#xa;&#xa; Position Summary Position assists investigator wit
 
 ---
 
-## 9. [MAYBE] Google | Research Scientist, Modeling of Readout and Reset, Quantum
+## 10. [MAYBE] Google | Research Scientist, Modeling of Readout and Reset, Quantum
 - Link: https://www.google.com/about/careers/applications/jobs/results/101752149989302982
 - Location: Goleta, CA, USA ; Los Angeles, CA, USA
 - Posted: Nov 12 03:36 ET
@@ -166,7 +182,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 10. [MAYBE] GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F)
+## 11. [MAYBE] GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F)
 - Link: https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Villeurbanne/Analytics-Sourcing-Specialist--Spcialiste-analytique-des-achats-H-F-_R5058835-1
 - Location: Villeurbanne
 - Posted: Nov 11 (board gives the date only)
@@ -181,7 +197,7 @@ Job Description Summary Négocier avec des fournisseurs dédiés conformément �
 
 ---
 
-## 11. [MAYBE] GenScript | Research Associate, Analytical Development
+## 12. [MAYBE] GenScript | Research Associate, Analytical Development
 - Link: https://job-boards.greenhouse.io/genscript/jobs/5293026007
 - Location: Seattle, Washington, United States
 - Posted: Nov 12 02:18 ET
@@ -196,7 +212,7 @@ About GenScript Founded in 2002 in New Jersey, GenScript Biotech Corporation acc
 
 ---
 
-## 12. [MAYBE] Google | Gemini Vision Research Scientist, DeepMind
+## 13. [MAYBE] Google | Gemini Vision Research Scientist, DeepMind
 - Link: https://www.google.com/about/careers/applications/jobs/results/103995840904733382
 - Location: Mountain View, CA, USA ; New York, NY, USA ; Los Angeles, CA, USA
 - Posted: Nov 12 09:38 ET
@@ -211,7 +227,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 13. [MAYBE] Syngenta Group | Research Scientist
+## 14. [MAYBE] Syngenta Group | Research Scientist
 - Link: https://jobs.smartrecruiters.com/SyngentaGroup/744000161311869
 - Location: Durham North Carolina us
 - Posted: Nov 12 09:18 ET
@@ -226,7 +242,7 @@ This role serves as a key member of the soybean trait introgression team while a
 
 ---
 
-## 14. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
+## 15. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
 - Link: https://jobs.smartrecruiters.com/PAConsulting/744000161325099
 - Location: Chicago us
 - Posted: Nov 12 10:12 ET
@@ -241,7 +257,7 @@ PA's Growth Strategy team helps organizations identify opportunities for sustain
 
 ---
 
-## 15. [MAYBE] CVS Health | Software Engineer (AI Engineering)
+## 16. [MAYBE] CVS Health | Software Engineer (AI Engineering)
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Software-Engineer--NET-Python-_R1084915
 - Location: RI - Work from home
 - Posted: Nov 11 (board gives the date only)
@@ -256,7 +272,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 16. [MAYBE] CVS Health | Data and Analytics Consultant
+## 17. [MAYBE] CVS Health | Data and Analytics Consultant
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Data-and-Analytics-Consultant_R1064091-1
 - Location: see posting
 - Posted: Nov 12 (board gives the date only)
@@ -271,7 +287,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 17. [MAYBE] Capital One | Senior Associate, Data Science - Compliance Model Risk
+## 18. [MAYBE] Capital One | Senior Associate, Data Science - Compliance Model Risk
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Senior-Associate--Data-Science---Compliance-Model-Risk_R1005177-1
 - Location: 4 Locations
 - Posted: Nov 11 (board gives the date only)
@@ -286,7 +302,7 @@ Senior Associate, Data Science - Compliance Model Risk Data is at the center of 
 
 ---
 
-## 18. [MAYBE] Merck | Senior AI Data Scientist/ Statistician
+## 19. [MAYBE] Merck | Senior AI Data Scientist/ Statistician
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-AI-Data-Scientist--Statistician_R426163
 - Location: USA - New Jersey - Rahway
 - Posted: Nov 11 (board gives the date only)
@@ -301,7 +317,7 @@ Job Description Position Overview: We are seeking a highly motivated quantitativ
 
 ---
 
-## 19. [MAYBE] Merck | Senior AI Data Scientist
+## 20. [MAYBE] Merck | Senior AI Data Scientist
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-AI-Data-Scientist_R426413-2
 - Location: USA - New Jersey - Rahway
 - Posted: Nov 11 (board gives the date only)
@@ -316,7 +332,7 @@ Job Description Position Overview: We are seeking a highly motivated quantitativ
 
 ---
 
-## 20. [MAYBE] Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera
+## 21. [MAYBE] Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Research-Associate-II--Patient-Centered-Research---Evidera_R-01375966
 - Location: Remote, Mexico
 - Posted: Nov 11 (board gives the date only)
@@ -331,7 +347,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 21. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary
+## 22. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary
 - Link: https://ejis.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3044563
 - Location: United States US
 - Posted: Nov 12 (board gives the date only)
@@ -346,7 +362,7 @@ As a Data Scientist II, work closely with clinical leads and product sponsors to
 
 ---
 
-## 22. [MAYBE] Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA **
+## 23. [MAYBE] Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA **
 - Link: https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/SRB-Belgrade-Hybrid/Sr-Data-Analyst-I--RWE----Hybrid-SERBIA---_25113045
 - Location: 2 Locations
 - Posted: Nov 11 (board gives the date only)
@@ -361,7 +377,7 @@ Sr Data Analyst I, RWE ** Hybrid SERBIA ** Syneos Health® is a leading fully-in
 
 ---
 
-## 23. [MAYBE] Elsevier | Senior Software Engineer / Senior AI Engineer
+## 24. [MAYBE] Elsevier | Senior Software Engineer / Senior AI Engineer
 - Link: https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia/Senior-Software-Engineer---Senior-AI-Engineer_R117481
 - Location: 3 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -376,7 +392,7 @@ Are you excited about building intelligent systems powered by cutting-edge AI te
 
 ---
 
-## 24. [MAYBE] Wells Fargo | Senior Risk Analytics Consultant (Merchant Services)
+## 25. [MAYBE] Wells Fargo | Senior Risk Analytics Consultant (Merchant Services)
 - Link: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Risk-Analytics-Consultant--Merchant-Services-_R-577689
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
