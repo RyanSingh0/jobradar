@@ -4,54 +4,70 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | FanDuel | Analytics Engineer | 72 | none found (check myvisajobs) | Nov 12 14:29 ET |
-| 2 | Varian | Financial Analyst | 71 | 12 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 3 | Verizon Communications | AI Engineer - GenAI and Agentic AI | 70 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 4 | Royal Bank of Canada | OTC Derivatives Controls Analyst | 68 | 7 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 5 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 68 | 1098 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 6 | Consolidated Edison | Analyst, Policy Integration Forecasting | 67 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 7 | Circle K | B2B Commercial Analyst | 65 | 19 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 8 | Lightcast | Economic Research Analyst / Junior Data Scientist - 1089 | 65 | none found (check myvisajobs) | Nov 12 11:49 ET |
-| 9 | DaVita | Financial Analyst | 65 | 9 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 10 | Iron Mountain | Business Intelligence & AI Automation / Bilingual / Hybrid | 64 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 11 | SAIC | Data Scientist Associate | 61 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 12 | Centrica | Data Scientist | 61 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 13 | Public Partnerships (PPL) | Analytics Engagement Consultant | 59 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 14 | Voya Financial | Client Reporting Analyst | 55 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 15 | Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera | 54 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 16 | Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
-| 17 | Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | cap-exempt employer | Nov 11 (board gives the date only) |
-| 18 | Gordon Food Service | Reporting and Data Insights Analyst | 52 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 19 | Google | Research Scientist, Modeling of Readout and Reset, Quantum | 50 | 1053 in data/analytics/finance occupations | Nov 12 03:36 ET |
-| 20 | GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F) | 50 | 3 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 21 | TikTok | Data Scientist - TikTok Ads | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 22 | Crum & Forster Insurance | Title Reporting Analyst, Hybrid | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 23 | GenScript | Research Associate, Analytical Development | 45 | 5 in data/analytics/finance occupations | Nov 12 02:18 ET |
-| 24 | SAIC | Operational Research Analyst | 45 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 25 | Morningstar | Multi-Asset & Alternative Investment Analyst | 45 | 13 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 26 | Google | Gemini Vision Research Scientist, DeepMind | 44 | 1053 in data/analytics/finance occupations | Nov 12 09:38 ET |
-| 27 | Syngenta Group | Research Scientist | 40 | 5 in data/analytics/finance occupations | Nov 12 09:18 ET |
-| 28 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 12 10:12 ET |
-| 29 | CVS Health | Software Engineer (AI Engineering) | 40 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
-| 30 | CVS Health | Data and Analytics Consultant | 40 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 31 | PennState University | Part Time Research Assistant (Camodeca) | 40 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 32 | Genentech | Machine Learning Scientist/Senior Machine Learning Scientist, Agents for Applied Small Molecule Drug Design, AIDD | 78 | 35 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 33 | Capital One | Senior Associate, Data Science - Compliance Model Risk | 74 | 458 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 34 | Expedia Inc. | Data Scientist II - Advertising Analytics | 70 | 83 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 35 | Merck | Senior AI Data Scientist/ Statistician | 67 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 36 | Unity | Senior Machine learning engineer, AI Authoring | 67 | 24 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 37 | Merck | Senior AI Data Scientist | 65 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 38 | Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera | 62 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 39 | Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 40 | Marathon Petroleum | Senior Commercial Risk Analyst - Middle Office | 57 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 41 | Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA ** | 56 | 16 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
-| 42 | Elsevier | Senior Software Engineer / Senior AI Engineer | 55 | 7 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 43 | Wells Fargo | Senior Risk Analytics Consultant (Merchant Services) | 55 | 163 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 44 | Ally Bank | Senior Data Analyst - Fraud | 55 | 54 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 1 | CVS Health | Data Science Analyst | 79 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 2 | FanDuel | Analytics Engineer | 72 | none found (check myvisajobs) | Nov 12 14:29 ET |
+| 3 | Varian | Financial Analyst | 71 | 12 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 4 | Verizon Communications | AI Engineer - GenAI and Agentic AI | 70 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 5 | Royal Bank of Canada | OTC Derivatives Controls Analyst | 68 | 7 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 6 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 68 | 1098 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 7 | Consolidated Edison | Analyst, Policy Integration Forecasting | 67 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 8 | Circle K | B2B Commercial Analyst | 65 | 19 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 9 | Lightcast | Economic Research Analyst / Junior Data Scientist - 1089 | 65 | none found (check myvisajobs) | Nov 12 11:49 ET |
+| 10 | DaVita | Financial Analyst | 65 | 9 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 11 | Iron Mountain | Business Intelligence & AI Automation / Bilingual / Hybrid | 64 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 12 | SAIC | Data Scientist Associate | 61 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 13 | Centrica | Data Scientist | 61 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 14 | Public Partnerships (PPL) | Analytics Engagement Consultant | 59 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 15 | Voya Financial | Client Reporting Analyst | 55 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 16 | Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera | 54 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 17 | Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
+| 18 | Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology | 54 | cap-exempt employer | Nov 11 (board gives the date only) |
+| 19 | Gordon Food Service | Reporting and Data Insights Analyst | 52 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 20 | Google | Research Scientist, Modeling of Readout and Reset, Quantum | 50 | 1053 in data/analytics/finance occupations | Nov 12 03:36 ET |
+| 21 | GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F) | 50 | 3 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 22 | TikTok | Data Scientist - TikTok Ads | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 23 | Crum & Forster Insurance | Title Reporting Analyst, Hybrid | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 24 | GenScript | Research Associate, Analytical Development | 45 | 5 in data/analytics/finance occupations | Nov 12 02:18 ET |
+| 25 | SAIC | Operational Research Analyst | 45 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 26 | Morningstar | Multi-Asset & Alternative Investment Analyst | 45 | 13 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 27 | Google | Gemini Vision Research Scientist, DeepMind | 44 | 1053 in data/analytics/finance occupations | Nov 12 09:38 ET |
+| 28 | Syngenta Group | Research Scientist | 40 | 5 in data/analytics/finance occupations | Nov 12 09:18 ET |
+| 29 | PA Consulting | Early Career | Growth Strategy Analyst (2027) | 40 | 7 in data/analytics/finance occupations | Nov 12 10:12 ET |
+| 30 | CVS Health | Software Engineer (AI Engineering) | 40 | none found (check myvisajobs) | Nov 11 (board gives the date only) |
+| 31 | CVS Health | Data and Analytics Consultant | 40 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 32 | PennState University | Part Time Research Assistant (Camodeca) | 40 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 33 | Genentech | Machine Learning Scientist/Senior Machine Learning Scientist, Agents for Applied Small Molecule Drug Design, AIDD | 78 | 35 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 34 | Capital One | Senior Associate, Data Science - Compliance Model Risk | 74 | 458 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 35 | Expedia Inc. | Data Scientist II - Advertising Analytics | 70 | 83 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 36 | Merck | Senior AI Data Scientist/ Statistician | 67 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 37 | Unity | Senior Machine learning engineer, AI Authoring | 67 | 24 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 38 | Merck | Senior AI Data Scientist | 65 | 71 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 39 | Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera | 62 | 42 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 40 | Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 41 | Marathon Petroleum | Senior Commercial Risk Analyst - Middle Office | 57 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 42 | Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA ** | 56 | 16 in data/analytics/finance occupations | Nov 11 (board gives the date only) |
+| 43 | Elsevier | Senior Software Engineer / Senior AI Engineer | 55 | 7 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 44 | Wells Fargo | Senior Risk Analytics Consultant (Merchant Services) | 55 | 163 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 45 | Ally Bank | Senior Data Analyst - Fraud | 55 | 54 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] FanDuel | Analytics Engineer
+## 1. [MAYBE] CVS Health | Data Science Analyst
+- Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IRL---Galway/Data-Science-Analyst_R1094299
+- Location: IRL - Galway
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~79 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, hypothesis test, machine learning, pandas, probability, python, r, scikit, sql, statistic, pipeline, validation | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time. Position Summary Primary Job Duties & Responsibilities Contribute to business-critical, enterprise-grade data and machine learning pipelines using modern technology and techniques. Drive long-term improvements with a focus on simplicity, reproducibility and maintainability. Work closely with the team to develop analytical and modelling solutions. Assist with data preparation, exploratory analysis, feature engineering, AI model development and validation under the guidance of experienced data scientists. Support the evaluation of model performance, including the design of appropriate metrics and the interpretation of results. Contribute to the team by offering their unique perspectives, supporting ongoing initiatives, and acquiring valuable skills and knowledge to kick-start their professional career. Participate in training sessions, workshops, and other learning opportunities to enhance professional skills, industry knowledge, and understanding of business operations. Required Qualifications Bachelor's degree in Computer Science, Data Science, Statistics, Mathematics (Economics, Finance), Engineering or similar Preferred Qualifications Bachelor's degree in Computer Science, Data Science, Statistics, Mathematics (Economics, Finance), Engineering or similar Education Understanding of programming languages used in data science. Ex: Python, R, SQL. Familiarity with data manipulation and analysis libraries. Ex: pandas, NumPy, scikit-learn, matplotlib. Familiarity with AI models such as Claude and ChatGPT. Foundational understanding of statistics and probability, including hypothesis testing and descriptive statistics. Ability to query and work with structured data. Adept at problem solving and decision-making skills. Excellent written and verbal communication, including the ability to explain analytical findings to non-technical audiences. Proactive, self-starter who is results driven. Strong team player and comfortable working on own initiative. Pay Range The typical pay range for this role is: €30,000.00 - €75,000.00 We anticipate the application window for this opening will close on: 14/11/2026
+
+---
+
+## 2. [MAYBE] FanDuel | Analytics Engineer
 - Link: https://www.fanduel.careers/open-positions?gh_jid=8368191
 - Location: New York City
 - Posted: Nov 12 14:29 ET
@@ -66,7 +82,7 @@ THE POSITION Our roster has an opening with your name on it FanDuel is looking f
 
 ---
 
-## 2. [MAYBE] Varian | Financial Analyst
+## 3. [MAYBE] Varian | Financial Analyst
 - Link: https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/OAV-N/Financial-Analyst_R-31930
 - Location: OAV N
 - Posted: Nov 11 (board gives the date only)
@@ -81,7 +97,7 @@ Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sus
 
 ---
 
-## 3. [MAYBE] Verizon Communications | AI Engineer - GenAI and Agentic AI
+## 4. [MAYBE] Verizon Communications | AI Engineer - GenAI and Agentic AI
 - Link: https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/AI-Engineer---GenAI-and-Agentic-AI_R-1103671-1
 - Location: 3 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -96,7 +112,7 @@ When you join Verizon You want more out of a career. A place to share your ideas
 
 ---
 
-## 4. [MAYBE] Royal Bank of Canada | OTC Derivatives Controls Analyst
+## 5. [MAYBE] Royal Bank of Canada | OTC Derivatives Controls Analyst
 - Link: https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/90-WESTERN-PKYBEDFORD/OTC-Derivatives-Controls-Analyst_R-0000192451-2
 - Location: 90 WESTERN PKY:BEDFORD
 - Posted: Nov 11 (board gives the date only)
@@ -111,7 +127,7 @@ Job Description What is the opportunity? The OTC Derivatives Controls Analyst wi
 
 ---
 
-## 5. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
+## 6. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808330
 - Location: New York, NY, United States US
 - Posted: Nov 12 (board gives the date only)
@@ -126,7 +142,7 @@ Be part of JPMorgan Chase that continuously grows! Through periods of volatility
 
 ---
 
-## 6. [MAYBE] Consolidated Edison | Analyst, Policy Integration Forecasting
+## 7. [MAYBE] Consolidated Edison | Analyst, Policy Integration Forecasting
 - Link: https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/1000452
 - Location: New York, NY, United States US
 - Posted: Nov 12 (board gives the date only)
@@ -141,7 +157,7 @@ The Analyst will perform analysis and forecasting of various load modifiers such
 
 ---
 
-## 7. [MAYBE] Circle K | B2B Commercial Analyst
+## 8. [MAYBE] Circle K | B2B Commercial Analyst
 - Link: https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B161-Raleigh-NC/B2B-Commercial-Analyst_R635702
 - Location: Nonstore B161 Raleigh NC
 - Posted: Nov 11 (board gives the date only)
@@ -156,7 +172,7 @@ B2B Commercial Analyst Location: Raleigh, NC Job Summary The B2B Commercial Anal
 
 ---
 
-## 8. [MAYBE] Lightcast | Economic Research Analyst / Junior Data Scientist - 1089
+## 9. [MAYBE] Lightcast | Economic Research Analyst / Junior Data Scientist - 1089
 - Link: https://jobs.lever.co/economicmodeling/aa5e1f5e-d9cf-446e-af35-fc12b9e453a5
 - Location: Remote (Work From Home) US Remote (Work From Home) US Moscow, ID US
 - Posted: Nov 12 11:49 ET
@@ -171,7 +187,7 @@ Query, clean, and analyze large datasets using SQL, Python, and Snowflake. Sourc
 
 ---
 
-## 9. [MAYBE] DaVita | Financial Analyst
+## 10. [MAYBE] DaVita | Financial Analyst
 - Link: https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Financial-Analyst_R0486190
 - Location: 05555 - Casa del Mundo Office (Denver HQ)
 - Posted: Nov 12 (board gives the date only)
@@ -186,7 +202,7 @@ Posting Date 11/12/2026&#xa;2000 16th Street, Denver, Colorado, 80202, United St
 
 ---
 
-## 10. [MAYBE] Iron Mountain | Business Intelligence & AI Automation / Bilingual / Hybrid
+## 11. [MAYBE] Iron Mountain | Business Intelligence & AI Automation / Bilingual / Hybrid
 - Link: https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/COL--Bogot--Calle-18-69B-73/Business-Intelligence---AI-Automation---Bilingual---Hybrid_J0109003
 - Location: COL | Bogotá | Calle 18, 69B, 73
 - Posted: Nov 12 (board gives the date only)
@@ -201,7 +217,7 @@ At Iron Mountain we know that work, when done well, makes a positive impact for 
 
 ---
 
-## 11. [MAYBE] SAIC | Data Scientist Associate
+## 12. [MAYBE] SAIC | Data Scientist Associate
 - Link: https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2615778
 - Location: Upper Marlboro, MD, United States US
 - Posted: Nov 12 (board gives the date only)
@@ -216,7 +232,7 @@ SAIC is seeking a Data Scientist Associate with a strong background in statistic
 
 ---
 
-## 12. [MAYBE] Centrica | Data Scientist
+## 13. [MAYBE] Centrica | Data Scientist
 - Link: https://centrica.wd3.myworkdayjobs.com/Centrica/job/Cardiff/Data-Scientist_R0091143
 - Location: 3 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -231,7 +247,7 @@ Join us, be part of more. We’re so much more than an energy company. We’re a
 
 ---
 
-## 13. [MAYBE] Public Partnerships (PPL) | Analytics Engagement Consultant
+## 14. [MAYBE] Public Partnerships (PPL) | Analytics Engagement Consultant
 - Link: https://publicpartnerships.wd1.myworkdayjobs.com/ppl/job/US-Remote/Analytics-Engagement-Consultant_JR26-1087
 - Location: US Remote
 - Posted: Nov 12 (board gives the date only)
@@ -246,7 +262,7 @@ It's fun to work in a company where people truly BELIEVE in what they're doing! 
 
 ---
 
-## 14. [MAYBE] Voya Financial | Client Reporting Analyst
+## 15. [MAYBE] Voya Financial | Client Reporting Analyst
 - Link: https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Client-Reporting-Analyst_JR0033375
 - Location: Atlanta, GA
 - Posted: Nov 12 (board gives the date only)
@@ -261,7 +277,7 @@ Together we fight for everyone’s opportunity for a better financial future. We
 
 ---
 
-## 15. [MAYBE] Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera
+## 16. [MAYBE] Thermo Fisher Scientific | Research Associate I - Patient Centered Research, Evidera
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Research-Associate-I---Patient-Centered-Research--Evidera_R-01375964
 - Location: Remote, Mexico
 - Posted: Nov 11 (board gives the date only)
@@ -276,7 +292,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 16. [MAYBE] Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology
+## 17. [MAYBE] Wash U | Data Analyst (PRN/Remote) - Transplant Nephrology
 - Link: https://wustl.wd1.myworkdayjobs.com/external/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521
 - Location: Remote
 - Posted: Nov 11 (board gives the date only)
@@ -291,7 +307,7 @@ Location Remote, US&#xa;&#xa; Position Summary Position assists investigator wit
 
 ---
 
-## 17. [MAYBE] Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology
+## 18. [MAYBE] Washington University in St. Louis | Data Analyst (PRN/Remote) - Transplant Nephrology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521
 - Location: Remote
 - Posted: Nov 11 (board gives the date only)
@@ -306,7 +322,7 @@ Location Remote, US&#xa;&#xa; Position Summary Position assists investigator wit
 
 ---
 
-## 18. [MAYBE] Gordon Food Service | Reporting and Data Insights Analyst
+## 19. [MAYBE] Gordon Food Service | Reporting and Data Insights Analyst
 - Link: https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Reporting-and-Data-Insights-Analyst_R-59873
 - Location: Wyoming, Michigan
 - Posted: Nov 12 (board gives the date only)
@@ -321,7 +337,7 @@ Welcome to Gordon Food Service! We are excited that you are thinking about oppor
 
 ---
 
-## 19. [MAYBE] Google | Research Scientist, Modeling of Readout and Reset, Quantum
+## 20. [MAYBE] Google | Research Scientist, Modeling of Readout and Reset, Quantum
 - Link: https://www.google.com/about/careers/applications/jobs/results/101752149989302982
 - Location: Goleta, CA, USA ; Los Angeles, CA, USA
 - Posted: Nov 12 03:36 ET
@@ -336,7 +352,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 20. [MAYBE] GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F)
+## 21. [MAYBE] GE Vernova | Analytics Sourcing Specialist (Spécialiste analytique des achats H/F)
 - Link: https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Villeurbanne/Analytics-Sourcing-Specialist--Spcialiste-analytique-des-achats-H-F-_R5058835-1
 - Location: Villeurbanne
 - Posted: Nov 11 (board gives the date only)
@@ -351,7 +367,7 @@ Job Description Summary Négocier avec des fournisseurs dédiés conformément �
 
 ---
 
-## 21. [MAYBE] TikTok | Data Scientist - TikTok Ads
+## 22. [MAYBE] TikTok | Data Scientist - TikTok Ads
 - Link: https://lifeattiktok.com/search/6863478486973040910
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -382,7 +398,7 @@ Preferred Qualifications:
 
 ---
 
-## 22. [MAYBE] Crum & Forster Insurance | Title Reporting Analyst, Hybrid
+## 23. [MAYBE] Crum & Forster Insurance | Title Reporting Analyst, Hybrid
 - Link: https://careers-cfins.icims.com/jobs/5452/reporting-analyst%2c-hybrid/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -397,7 +413,7 @@ Reporting Analyst, Hybrid in EATONTOWN, New Jersey | Careers at EATONTOWN, NJ Pl
 
 ---
 
-## 23. [MAYBE] GenScript | Research Associate, Analytical Development
+## 24. [MAYBE] GenScript | Research Associate, Analytical Development
 - Link: https://job-boards.greenhouse.io/genscript/jobs/5293026007
 - Location: Seattle, Washington, United States
 - Posted: Nov 12 02:18 ET
@@ -412,7 +428,7 @@ About GenScript Founded in 2002 in New Jersey, GenScript Biotech Corporation acc
 
 ---
 
-## 24. [MAYBE] SAIC | Operational Research Analyst
+## 25. [MAYBE] SAIC | Operational Research Analyst
 - Link: https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2619061
 - Location: Pearl Harbor, HI, United States US
 - Posted: Nov 12 (board gives the date only)
@@ -427,7 +443,7 @@ Description SAIC is seeking an Operational Research Analyst for an Air Force TEN
 
 ---
 
-## 25. [MAYBE] Morningstar | Multi-Asset & Alternative Investment Analyst
+## 26. [MAYBE] Morningstar | Multi-Asset & Alternative Investment Analyst
 - Link: https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Multi-Asset---Alternative-Investment-Analyst_REQ-058785
 - Location: Chicago
 - Posted: Nov 12 (board gives the date only)
@@ -442,7 +458,7 @@ As a manager research analyst, your objective and independent research on funds 
 
 ---
 
-## 26. [MAYBE] Google | Gemini Vision Research Scientist, DeepMind
+## 27. [MAYBE] Google | Gemini Vision Research Scientist, DeepMind
 - Link: https://www.google.com/about/careers/applications/jobs/results/103995840904733382
 - Location: Mountain View, CA, USA ; New York, NY, USA ; Los Angeles, CA, USA
 - Posted: Nov 12 09:38 ET
@@ -457,7 +473,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 27. [MAYBE] Syngenta Group | Research Scientist
+## 28. [MAYBE] Syngenta Group | Research Scientist
 - Link: https://jobs.smartrecruiters.com/SyngentaGroup/744000161311869
 - Location: Durham North Carolina us
 - Posted: Nov 12 09:18 ET
@@ -472,7 +488,7 @@ This role serves as a key member of the soybean trait introgression team while a
 
 ---
 
-## 28. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
+## 29. [MAYBE] PA Consulting | Early Career | Growth Strategy Analyst (2027)
 - Link: https://jobs.smartrecruiters.com/PAConsulting/744000161325099
 - Location: Chicago us
 - Posted: Nov 12 10:12 ET
@@ -487,7 +503,7 @@ PA's Growth Strategy team helps organizations identify opportunities for sustain
 
 ---
 
-## 29. [MAYBE] CVS Health | Software Engineer (AI Engineering)
+## 30. [MAYBE] CVS Health | Software Engineer (AI Engineering)
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Software-Engineer--NET-Python-_R1084915
 - Location: RI - Work from home
 - Posted: Nov 11 (board gives the date only)
@@ -502,7 +518,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 30. [MAYBE] CVS Health | Data and Analytics Consultant
+## 31. [MAYBE] CVS Health | Data and Analytics Consultant
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Data-and-Analytics-Consultant_R1064091-1
 - Location: see posting
 - Posted: Nov 12 (board gives the date only)
@@ -517,7 +533,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 31. [MAYBE] PennState University | Part Time Research Assistant (Camodeca)
+## 32. [MAYBE] PennState University | Part Time Research Assistant (Camodeca)
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Beaver/Part-Time-Research-Assistant--Camodeca-_REQ_0000084281-1
 - Location: Penn State Beaver
 - Posted: Nov 12 (board gives the date only)
@@ -532,7 +548,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 32. [MAYBE] Genentech | Machine Learning Scientist/Senior Machine Learning Scientist, Agents for Applied Small Molecule Drug Design, AIDD
+## 33. [MAYBE] Genentech | Machine Learning Scientist/Senior Machine Learning Scientist, Agents for Applied Small Molecule Drug Design, AIDD
 - Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/San-Francisco/Machine-Learning-Scientist---Agents-for-Applied-Small-Molecule-Drug-Design_202606-115525-1
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -547,7 +563,7 @@ A healthier future. It’s what drives us to innovate. To continuously advance s
 
 ---
 
-## 33. [MAYBE] Capital One | Senior Associate, Data Science - Compliance Model Risk
+## 34. [MAYBE] Capital One | Senior Associate, Data Science - Compliance Model Risk
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Senior-Associate--Data-Science---Compliance-Model-Risk_R1005177-1
 - Location: 4 Locations
 - Posted: Nov 11 (board gives the date only)
@@ -562,7 +578,7 @@ Senior Associate, Data Science - Compliance Model Risk Data is at the center of 
 
 ---
 
-## 34. [MAYBE] Expedia Inc. | Data Scientist II - Advertising Analytics
+## 35. [MAYBE] Expedia Inc. | Data Scientist II - Advertising Analytics
 - Link: https://expedia.wd108.myworkdayjobs.com/Search/job/Washington---Seattle-Campus/Data-Scientist-II---Advertising-Analytics_R-111162
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -577,7 +593,7 @@ At Expedia Group, we help travelers explore the world, one journey at a time. As
 
 ---
 
-## 35. [MAYBE] Merck | Senior AI Data Scientist/ Statistician
+## 36. [MAYBE] Merck | Senior AI Data Scientist/ Statistician
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-AI-Data-Scientist--Statistician_R426163
 - Location: USA - New Jersey - Rahway
 - Posted: Nov 11 (board gives the date only)
@@ -592,7 +608,7 @@ Job Description Position Overview: We are seeking a highly motivated quantitativ
 
 ---
 
-## 36. [MAYBE] Unity | Senior Machine learning engineer, AI Authoring
+## 37. [MAYBE] Unity | Senior Machine learning engineer, AI Authoring
 - Link: https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/Senior-Machine-learning-engineer--AI-Authoring_JOBREQ-2616605
 - Location: Mountain View, CA, USA
 - Posted: Nov 12 (board gives the date only)
@@ -607,7 +623,7 @@ The opportunity Unity is building next-generation intelligence systems for gamin
 
 ---
 
-## 37. [MAYBE] Merck | Senior AI Data Scientist
+## 38. [MAYBE] Merck | Senior AI Data Scientist
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-AI-Data-Scientist_R426413-2
 - Location: USA - New Jersey - Rahway
 - Posted: Nov 11 (board gives the date only)
@@ -622,7 +638,7 @@ Job Description Position Overview: We are seeking a highly motivated quantitativ
 
 ---
 
-## 38. [MAYBE] Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera
+## 39. [MAYBE] Thermo Fisher Scientific | Research Associate II, Patient Centered Research - Evidera
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/Research-Associate-II--Patient-Centered-Research---Evidera_R-01375966
 - Location: Remote, Mexico
 - Posted: Nov 11 (board gives the date only)
@@ -637,7 +653,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 39. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary
+## 40. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Data Scientist II- Pulmonary
 - Link: https://ejis.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3044563
 - Location: United States US
 - Posted: Nov 12 (board gives the date only)
@@ -652,7 +668,7 @@ As a Data Scientist II, work closely with clinical leads and product sponsors to
 
 ---
 
-## 40. [MAYBE] Marathon Petroleum | Senior Commercial Risk Analyst - Middle Office
+## 41. [MAYBE] Marathon Petroleum | Senior Commercial Risk Analyst - Middle Office
 - Link: https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Houston-Texas/Senior-Commercial-Risk-Analyst---Middle-Office_00025306
 - Location: Houston, Texas
 - Posted: Nov 12 (board gives the date only)
@@ -667,7 +683,7 @@ An exciting career awaits you At MPC, we’re committed to being a great place t
 
 ---
 
-## 41. [MAYBE] Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA **
+## 42. [MAYBE] Syneos Health | Sr Data Analyst I, RWE ** Hybrid SERBIA **
 - Link: https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/SRB-Belgrade-Hybrid/Sr-Data-Analyst-I--RWE----Hybrid-SERBIA---_25113045
 - Location: 2 Locations
 - Posted: Nov 11 (board gives the date only)
@@ -682,7 +698,7 @@ Sr Data Analyst I, RWE ** Hybrid SERBIA ** Syneos Health® is a leading fully-in
 
 ---
 
-## 42. [MAYBE] Elsevier | Senior Software Engineer / Senior AI Engineer
+## 43. [MAYBE] Elsevier | Senior Software Engineer / Senior AI Engineer
 - Link: https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia/Senior-Software-Engineer---Senior-AI-Engineer_R117481
 - Location: 3 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -697,7 +713,7 @@ Are you excited about building intelligent systems powered by cutting-edge AI te
 
 ---
 
-## 43. [MAYBE] Wells Fargo | Senior Risk Analytics Consultant (Merchant Services)
+## 44. [MAYBE] Wells Fargo | Senior Risk Analytics Consultant (Merchant Services)
 - Link: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Risk-Analytics-Consultant--Merchant-Services-_R-577689
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -712,7 +728,7 @@ About this role: Wells Fargo is seeking a Senior Risk Analytics Consultant to le
 
 ---
 
-## 44. [MAYBE] Ally Bank | Senior Data Analyst - Fraud
+## 45. [MAYBE] Ally Bank | Senior Data Analyst - Fraud
 - Link: https://ally.wd1.myworkdayjobs.com/ALLY/job/Charlotte-NC/Senior-Data-Analyst---Fraud_R2601095-1
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
