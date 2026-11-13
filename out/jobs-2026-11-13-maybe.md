@@ -4,39 +4,63 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | PricewaterhouseCoopers (PwC) | Finance Data, Analytics & AI - Experienced Associate | 73 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 2 | Steampunk | Job Title AI Evaluation Scientist | 72 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 3 | ING | Data Scientist Specialist | 70 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 4 | Faculty AI | Machine Learning Engineer  | 68 | none found (check myvisajobs) | Nov 13 11:22 ET |
-| 5 | PSECU | Credit Risk Analyst | 68 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 6 | Blackhawk Network Holdings | Title Financial Analyst I | 65 | 3 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 7 | Symbotic | Financial Analyst, Cost & Project Reporting | 62 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 8 | UTHealth Houston | Clinical Business Intelligence Analyst - Associate | 62 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 9 | University of Texas - Austin | Graduate Program Coordinator I- Department of Nutritional Sciences | 62 | cap-exempt employer | Nov 13 (board gives the date only) |
-| 10 | Procter & Gamble (P&G) | Data Engineer | 60 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 11 | FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters | 55 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 12 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 13 | U.S. Bank | PCI Data Risk Analyst | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 14 | U.S. Bank | Research Analyst - Equity | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 15 | bet365 | Machine Learning Engineer | 52 | none found (check myvisajobs) | Nov 13 10:52 ET |
-| 16 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 17 | Lloyds Bank | Business Data Analyst - Controls Office | 50 | 4 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 18 | Howard University | Research Assistant (Peer Recovery) | 50 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 19 | INTEGRIS Health | Epic Cogito Analytics Engineer | 50 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 20 | Visa | Marketing Analyst | 50 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 21 | Northwell Health | Business intelligence Specialist | 45 | 14 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 22 | UTHealth Houston | Research Associate | 45 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 23 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 24 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 25 | Etsy | Machine Learning Engineer IC3.1. Ads Recommendations | 40 | 19 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 26 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 27 | Ohio State University | Data Science Senior Analyst, AI Engineer | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 28 | Genentech | Senior AI Engineer | 55 | 35 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 29 | Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics | 55 | 71 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 1 | Conduent | Fraud Support Analyst | 79 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 2 | PricewaterhouseCoopers (PwC) | Finance Data, Analytics & AI - Experienced Associate | 73 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 3 | Steampunk | Job Title AI Evaluation Scientist | 72 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 4 | ING | Data Scientist Specialist | 70 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 5 | Faculty AI | Machine Learning Engineer  | 68 | none found (check myvisajobs) | Nov 13 11:22 ET |
+| 6 | PSECU | Credit Risk Analyst | 68 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 7 | Blackhawk Network Holdings | Title Financial Analyst I | 65 | 3 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 8 | Symbotic | Financial Analyst, Cost & Project Reporting | 62 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 9 | UTHealth Houston | Clinical Business Intelligence Analyst - Associate | 62 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 10 | University of Texas - Austin | Graduate Program Coordinator I- Department of Nutritional Sciences | 62 | cap-exempt employer | Nov 13 (board gives the date only) |
+| 11 | Georgetown University | Research Assistant, Thrive Center for Children, Families, and Communities | 62 | cap-exempt employer | Nov 13 (board gives the date only) |
+| 12 | Procter & Gamble (P&G) | Data Engineer | 60 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 13 | U.S. Bank | Technology Risk Analyst | 57 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 14 | FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters | 55 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 15 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 16 | U.S. Bank | PCI Data Risk Analyst | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 17 | U.S. Bank | Research Analyst - Equity | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 18 | bet365 | Machine Learning Engineer | 52 | none found (check myvisajobs) | Nov 13 10:52 ET |
+| 19 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 20 | Lloyds Bank | Business Data Analyst - Controls Office | 50 | 4 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 21 | Howard University | Research Assistant (Peer Recovery) | 50 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 22 | INTEGRIS Health | Epic Cogito Analytics Engineer | 50 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 23 | Visa | Marketing Analyst | 50 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 24 | Northwell Health | Business intelligence Specialist | 45 | 14 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 25 | UTHealth Houston | Research Associate | 45 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 26 | 42dot | Machine Learning & Data Engineer, Vehicle Modeling | 44 | none found (check myvisajobs) | Nov 13 14:36 ET |
+| 27 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 28 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 29 | Etsy | Machine Learning Engineer IC3.1. Ads Recommendations | 40 | 19 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 30 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 31 | O'Reilly Auto Parts | Merchandise Data Analyst | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 32 | Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems | 67 | 5 in data/analytics/finance occupations | Nov 13 14:29 ET |
+| 33 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 34 | Ohio State University | Data Science Senior Analyst, AI Engineer | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 35 | Genentech | Senior AI Engineer | 55 | 35 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 36 | Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics | 55 | 71 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 37 | Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases | 55 | 2 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 38 | University of Southern California | Biostatistician II | 55 | cap-exempt employer | Nov 13 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] PricewaterhouseCoopers (PwC) | Finance Data, Analytics & AI - Experienced Associate
+## 1. [MAYBE] Conduent | Fraud Support Analyst
+- Link: https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27220
+- Location: Remote US, United States US
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~79 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 5 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, dashboard, data visualization, excel, power bi, sql, statistic, tableau, fraud, git, portfolio, reporting, research, risk | Lacks: -  | Note: broad title
+- Eligibility: CHECK | Citizen or a Lawful Permanent Resident.
+
+### Job description
+
+Fraud Detection | Transaction Monitoring | Risk Analysis | SQL | Power BI | Fraud Operations Join our team as a Fraud Support Analyst , supporting fraud prevention and risk management through terminal reviews, merchant validation, transaction monitoring, fraud investigations, and data analysis. In this role, you will primarily support the Misaligned Terminal Blocking Solution by reviewing flagged terminals, validating merchant legitimacy, and maintaining block lists. You will also analyze transactional and operational data to identify fraud patterns, anomalies, vulnerabilities, and emerging risks, partnering with cross-functional teams to strengthen fraud controls and deliver accurate, actionable, and auditable decisions within established service level agreements (SLAs). Responsibilities Terminal Review & Fraud Investigation Review system-flagged terminals using established fraud investigation criteria and public or third-party sources to validate merchant legitimacy and identify misaligned, suspicious, or corrupt terminals. Research store websites, business listings, licensing records, Google Maps, and other available sources to support merchant validation and fraud detection decisions. Add, update, or remove flagged terminals and maintain fraud block lists in accordance with standard operating procedures and SLAs. Document evidence, findings, and actions to maintain auditability and compliance with applicable policies, regulations, and governance requirements. Fraud Analysis & Reporting Extract, integrate, and analyze data from multiple systems to identify fraud trends, transaction anomalies, vulnerabilities, and operational risks. Monitor fraud strategies and controls to evaluate effectiveness and identify opportunities for improvement. Generate and analyze fraud reports, block list updates, dashboards, and activity summaries. Communicate fraud findings, trends, risks, and recommendations to Fraud Operations, internal leadership, cross-functional stakeholders, and clients. Cross-Functional Support Partner with Fraud Operations, Technical Support, Product/Platform, and Client Support teams to define analytical requirements, escalate issues, troubleshoot problems, and improve fraud prevention solutions. Support fraud teams by researching issues, analyzing data, and assisting with technical and operational troubleshooting. Qualifications Bachelor’s degree in Business Administration, Mathematics, Computer Science, Economics, Statistics, or a related field plus at least one year of relevant experience; or equivalent professional experience in lieu of a degree. If substituting professional experience for a degree, at least three years of experience in fraud analysis, fraud operations, risk analysis, business analysis, data analysis, transaction monitoring, statistical reporting, or a related analytical role. Experience interpreting complex data, identifying trends and anomalies, developing practical recommendations, and communicating findings to stakeholders. Advanced proficiency in SQL. Experience developing interactive dashboards, reports, and data visualizations using Power BI, Tableau, or similar business intelligence tools. Strong data analysis, data mining, data management, interpretation, and visualization skills, including experience working with large datasets from multiple systems. Proficiency with Microsoft tools including Copilot, Excel, Outlook, Word, Teams, and PowerPoint, with the ability to learn additional analytical technologies. Strong attention to detail with the ability to make independent, data-driven decisions, manage competing priorities, and meet SLA-driven deadlines. Excellent written and verbal communication skills, including experience preparing technical documentation, reports, queries, presentations, and explaining findings to nontechnical audiences. Must be either a U.S. Citizen or a Lawful Permanent Resident. Preferred Qualifications Master’s degree, Certified Fraud Examiner (CFE) certification, or another recognized fraud or risk certification. Experience in fraud detection, fraud prevention, risk operations, compliance, payments, or financial services. Experience with fraud rules, transaction monitoring, case management systems, operational SLAs, and workflow-driven processes. Ability to interpret basic system logic and partner with technical teams to troubleshoot fraud-related issues. Work Environment Works primarily with fraud monitoring applications, analytical reports, dashboards, and Microsoft tools. Must be able to respond promptly to time-sensitive fraud alerts and SLA-driven tasks. Regular collaboration with Fraud Operations, Technical Support, Product/Platform, Client Support, internal leadership, and clients. Why Join Us This role provides the opportunity to combine fraud investigation, data analytics, SQL, transaction monitoring, and risk analysis to help identify suspicious activity and strengthen fraud prevention controls. You’ll work across fraud, technical, product, and client-facing teams while developing expertise in data-driven fraud detection and operational risk management. Flexible Working At Conduent, we want you to be yourself. We recognize that everyone is different and that how people want to work and deliver at their best is different for everyone too. In this role, you can expect the following working conditions: Remote work : Enjoy the convenience of working from home and maximize your time by unplugging at the end of your workday. Working For You Perks and rewards designed for you: Health and Welfare Benefits: Our health and welfare benefits can be tailored to fit you and your family's needs and start on the first day of employment Retirement Savings: We will support you as you save for your future. Employee Discounts: We offer you access to a vast selection of global, national, and local discounts on merchandise, services, travel, and more. Career Growth Opportunities: We help you thrive, so together, we can grow. We provide opportunities to advance your career with a vast portfolio of businesses and a global footprint. Paid Training: Earn while you learn and continue to grow with access to award-winning learning platforms throughout your Conduent career. Paid time off: We provide attractive paid time off packages designed for you to enjoy your life away from work. Great Work Environment: We are proud of our award-winning culture and the recognition we’ve received for our diversity efforts. Join Us At Conduent, we are one team, one mission. We understand that our success is directly related to the success of our associates. We strive to create a culture where you can: Bring your authentic self to work. Grow and thrive, both personally and professionally. Make a difference with our clients, in our communities, and with the millions of people we support. When you join Conduent, you are engaged in creating the future - both our company’s and your own. With more than 60,000 associates across 24 countries, we wi [...]
+
+---
+
+## 2. [MAYBE] PricewaterhouseCoopers (PwC) | Finance Data, Analytics & AI - Experienced Associate
 - Link: https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/TX-Dallas/Finance-Data--Analytics---AI---Associate_774048WD
 - Location: 39 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -51,7 +75,7 @@ Industry/Sector Not Applicable Specialism Finance Management Level Associate Job
 
 ---
 
-## 2. [MAYBE] Steampunk | Job Title AI Evaluation Scientist
+## 3. [MAYBE] Steampunk | Job Title AI Evaluation Scientist
 - Link: https://careers-steampunk.icims.com/jobs/8402/ai-evaluation-scientist/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -66,7 +90,7 @@ AI Evaluation Scientist in McLean, Virginia Please Enable Cookies to Continue Pl
 
 ---
 
-## 3. [MAYBE] ING | Data Scientist Specialist
+## 4. [MAYBE] ING | Data Scientist Specialist
 - Link: https://ing.wd3.myworkdayjobs.com/icsgblcor/job/PB_Cen_Katowice-ul-Chorzowska-50/Data-Scientist-Specialist-1_REQ-10123233
 - Location: PB_Cen_Katowice (ul. Chorzowska 50)
 - Posted: Nov 12 (board gives the date only)
@@ -81,7 +105,7 @@ O stanowisku: Forma zatrudnienia: umowa o pracę Lokalizacja: ul. Sokolska 34, K
 
 ---
 
-## 4. [MAYBE] Faculty AI | Machine Learning Engineer 
+## 5. [MAYBE] Faculty AI | Machine Learning Engineer 
 - Link: https://jobs.ashbyhq.com/faculty/1d3f1ec9-a1ec-4b64-b29a-54d151aab500
 - Location: London United Kingdom remote
 - Posted: Nov 13 11:22 ET
@@ -192,7 +216,7 @@ A note on AI: we're happy for you to use it for research and interview prep, but
 
 ---
 
-## 5. [MAYBE] PSECU | Credit Risk Analyst
+## 6. [MAYBE] PSECU | Credit Risk Analyst
 - Link: https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Credit-Risk-Analyst_JR101113
 - Location: Harrisburg, PA
 - Posted: Nov 13 (board gives the date only)
@@ -207,7 +231,7 @@ Members Achieve More isn't just a tagline for us, it's part of everything we do!
 
 ---
 
-## 6. [MAYBE] Blackhawk Network Holdings | Title Financial Analyst I
+## 7. [MAYBE] Blackhawk Network Holdings | Title Financial Analyst I
 - Link: https://careers-blackhawknetwork.icims.com/jobs/27400/financial-analyst-i/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -222,7 +246,7 @@ Financial Analyst I in Coppell, Texas | Careers at Blackhawk Network - Coppell, 
 
 ---
 
-## 7. [MAYBE] Symbotic | Financial Analyst, Cost & Project Reporting
+## 8. [MAYBE] Symbotic | Financial Analyst, Cost & Project Reporting
 - Link: https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Financial-Analyst--Cost---Project-Reporting_R8461
 - Location: USA Wilmington, MA - HQ
 - Posted: Nov 13 (board gives the date only)
@@ -237,7 +261,7 @@ Who we are With its A.I.-powered robotic technology platform, Symbotic is changi
 
 ---
 
-## 8. [MAYBE] UTHealth Houston | Clinical Business Intelligence Analyst - Associate
+## 9. [MAYBE] UTHealth Houston | Clinical Business Intelligence Analyst - Associate
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8331
 - Location: San Antonio, TX, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -252,7 +276,7 @@ The BI Developer (Intermediate) at UT Health San Antonio supports clinical, oper
 
 ---
 
-## 9. [MAYBE] University of Texas - Austin | Graduate Program Coordinator I- Department of Nutritional Sciences
+## 10. [MAYBE] University of Texas - Austin | Graduate Program Coordinator I- Department of Nutritional Sciences
 - Link: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Graduate-Program-Coordinator-I--Department-of-Nutritional-Sciences_R_00049324
 - Location: UT MAIN CAMPUS
 - Posted: Nov 13 (board gives the date only)
@@ -267,7 +291,22 @@ Job Posting Title: Graduate Program Coordinator I- Department of Nutritional Sci
 
 ---
 
-## 10. [MAYBE] Procter & Gamble (P&G) | Data Engineer
+## 11. [MAYBE] Georgetown University | Research Assistant, Thrive Center for Children, Families, and Communities
+- Link: https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers/job/2115-Wisconsin-Ave-6th-Floor/Research-Assistant--Thrive-Center-for-Children-and-Families_JR26957
+- Location: 2115 Wisconsin Ave 6th Floor
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, r, healthcare, portfolio, quantitative, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Georgetown University comprises two unique campuses in the nation’s capital. With the Hilltop Campus located in the heart of the historic Georgetown neighborhood, and the Capitol Campus, just minutes from the U.S. Capitol and U.S. Supreme Court, Georgetown University offers rigorous academic programs, a global perspective, and unparalleled opportunities to engage with Washington, D.C. Our community is a close-knit group of remarkable individuals driven by intellectual inquiry, a commitment to social justice, and a shared dedication to making a difference in the world. Requirements Job Overview The Brilliant Beginnings Integration Lab, situated within the Early Childhood Innovation Network (ECIN) and Georgetown’s Thrive Center for Children and Families, is seeking a Research Assistant to support a multidisciplinary portfolio of implementation science, health services, and community-engaged research focused on perinatal, infant, and family mental health and substance use care. The Lab focuses on transforming systems of care to improve how evidence-based mental health and substance use services are integrated across healthcare and community settings. A major emphasis is on understanding how interventions can be implemented, adapted, and sustained within real-world systems serving pregnant and postpartum individuals, infants, fathers and partners, and families. The Research Assistant will support a federally-funded award focused on improving access to substance use disorder care during pregnancy and postpartum within obstetric settings. This work includes supporting the PI with collaboration with obstetric practices and other medical and community partners; qualitative research with clinicians, healthcare leaders, patients, and stakeholders; assessment of implementation barriers and facilitators; adaptation of a multicomponent clinical approach; and evaluation of outcomes including feasibility, acceptability, appropriateness, adoption, fidelity, and sustainment. The Lab’s broader portfolio also includes: Perinatal and infant mental health integration, including research and program evaluation within a Mother–Baby Intensive Outpatient Program that integrates treatment of parental mental health conditions with attention to infant development, the parent–infant relationship, parenting, and family functioning. Father and partner mental health, including projects examining how healthcare systems can better identify, engage, and support fathers and partners during pregnancy and the postpartum period. Perinatal and infant mental health research across Latin America, including collaborative work with clinicians, researchers, and professional networks across the region focused on mental health services, training, research capacity, implementation, and opportunities for international collaboration. Additional research examining health equity, healthcare-community partnerships, implementation of evidence-based practices, and integration of behavioral health within obstetric, pediatric, and community settings. This position provides hands-on experience across the full research process, including study development; literature reviews and evidence synthesis; development of qualitative interview and focus group guides; participant recruitment, screening, consent, scheduling, tracking, and follow-up; conducting and supporting qualitative interviews and focus groups; transcription review, qualitative coding, data management, and analysis; quantitative data entry, cleaning, and basic analysis; preparation and maintenance of research databases and tracking systems; management of participant incentives; preparation and maintenance of IRB submissions, amendments, continuing reviews, and other regulatory documentation; coordination with clinical and community partners; organization and coordination of community and stakeholder advisory boards; preparation of meeting agendas, materials, presentations, and summaries; tracking and incorporating advisory board and partner feedback into study activities; coordination of implementation science activities, including workflow assessment, identification of barriers and facilitators, intervention adaptation, and implementation outcome tracking; preparation of study protocols, manuals, training materials, and project documentation; coordination of project timelines, deliverables, and meetings across multiple research studies; and dissemination activities, including supporting the PI with the preparation of abstracts, posters, presentations, reports, manuscripts, and other scholarly products. Work Interactions The position will report administratively to Morcia Mason and programmatically to Amalia Londoño Tobón, MD, Assistant Professor in the Department of Psychiatry. This position will interface directly with project faculty and staff, and will communicate regularly with partners on the grant. In addition, the position will interface with team members from the Early Childhood Innovation Network (ECIN) and other partnering agencies. Requirements and Qualifications A bachelor’s degree in a health-related field—including psychology, biology, social work, public health, or another relevant discipline—is required. Basic knowledge of the principles, processes, and methods of medical and social science research through literature reviews, coursework, and/or field experience is also required. A successful candidate will have at least one year of experience in a research or related setting, proficiency in MS Office (Word, Excel, PowerPoint), and strong organizational and communication skills. The candidate must also have a strong interest in implementation science, perinatal and infant mental health, substance use disorders, maternal-child health, and research conducted in partnership with healthcare and community settings. Given the lab’s bilingual and international work, proficiency or fluency in Spanish is required. Preference will be given to candidates with experience in qualitative and quantitative research methods and familiarity with software such as SPSS, STATA, R, Atlas.ti, Dedoose, Qualtrics, or REDCap. Prior experience conducting literature reviews, supporting participant recruitment and qualitative interviews, working in medical settings—particularly obstetrics, pediatrics, psychiatry, or addiction medicine—and collaborating with clinical or community partners is preferred. Experience with IRB processes, community or stakeholder advisory boards, and research dissemination is also desirable. The ideal candidate will be highly organized, dependable, able to manage multiple projects simultaneously, and demonstrate the professionalism, empathy, and cultural humility needed to work with diverse clinical partners, community organizations, patients, and families. Work Mode Designation This position has been designated as Hybrid. Please note that work mode designations are regularly reviewed in order to meet the evolving needs of the University. Such review  [...]
+
+---
+
+## 12. [MAYBE] Procter & Gamble (P&G) | Data Engineer
 - Link: https://pg.wd5.myworkdayjobs.com/1000/job/Weybridge/Data-Engineer_R000162789
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -282,7 +321,22 @@ Job Location Weybridge Job Description Ready to make an impact on globally renow
 
 ---
 
-## 11. [MAYBE] FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters
+## 13. [MAYBE] U.S. Bank | Technology Risk Analyst
+- Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Technology-Risk-Analyst_2026-0035585
+- Location: 4 Locations
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 82 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, healthcare, reporting, risk, validation | Lacks: -
+- Eligibility: CHECK | Citizenship and Immigration Services.
+
+### Job description
+
+At U.S. Bank, we’re on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and discover what you excel at—all from Day One. Job Description Senior Technology Risk Analyst Corporate Functions Risk is seeking a Technology Risk Analyst to join our team. This role will focus on the identification, vetting, and analysis of technology risks and audit-related concerns across the Technology organization. This role serves as an independent challenge function, helping stakeholders assess potential issues, review supporting evidence, and develop clear risk statements, ownership assignments, and remediation strategies. Daily activities include potential issue triage, detailed review and challenge of potential issue documentation, facilitation of collaborative vetting discussions, executive reporting, and presentation of risk analysis to senior leadership. This opportunity provides exposure across all three lines of defense and requires strong partnerships with business lines, internal audit, and risk management teams. Success in this role will be predicated on the ability to evaluate complex risk scenarios, influence stakeholders, drive consistency, and deliver timely, well-supported results in a dynamic environment. Position Highlights Performing analysis, vetting, and validation of Technology, Information Security Services (ISS) and AI, Data and Innovation (AiDI) risks Facilitating collaborative discussions with internal audit, risk management, and business line stakeholders to evaluate and disposition potential issues Reviewing and challenging risk documentation for completeness, accuracy, risk alignment, and adherence to issue management standards Supporting audit engagements through consultation, issue evaluation, status reporting, documentation review, and stakeholder coordination Analyzing themes and trends across audit potential issues, Technology, ISS and AiDI risks, and control deficiencies to identify broader risk implications and thematic issues Developing communications, presentations, and reporting materials that translate complex technical and risk concepts into actionable insights Identifying opportunities to improve issue management, audit support, and risk governance processes Basic Qualifications Bachelor's degree, or equivalent work experience Typically more than six years of applicable experience Preferred Skills and Experience Risk and/or audit experience with Technology, ISS and AiDI solutions, including in-depth knowledge of technology processes, controls, and inherent risks Experience evaluating, vetting, and documenting technology and ISS issues, audit findings, or control deficiencies Application of technology risk fundamentals to unique scenarios and prioritization of multiple workstreams to produce timely, reportable results Refined communication skills and ability to quickly distill complex technical detail into concise, actionable conclusions Established knowledge of Risk, Compliance, and Audit competencies, including issue management, testing, validation, and documentation techniques Ability to influence stakeholders and facilitate discussions involving Technology, Audit, Risk Management, and senior leadership Initiative and courage to identify and solve new problems where solutions may not be clearly defined and independently create movement when assignments are stuck Drive, determination, and resolve to manage competing and evolving priorities Hybrid/flexible schedule The role offers a hybrid/flexible schedule, which means there's an in-office expectation of 3 or more days per week and the flexibility to work outside the office location for the other days. If there’s anything we can do to accommodate a disability during any portion of the application or hiring process, please refer to our disability accommodations for applicants . Benefits: Our approach to benefits and total rewards considers our team members’ whole selves and what may be needed to thrive in and outside work. That's why our benefits are designed to help you and your family boost your health, protect your financial security and give you peace of mind. Our benefits include the following: Healthcare (medical, dental, vision) Basic term and optional term life insurance Short-term and long-term disability Pregnancy disability and parental leave 401(k) and employer-funded retirement plan Paid vacation (from two to five weeks depending on salary grade and tenure) Up to 11 paid holiday opportunities Adoption assistance Sick and Safe Leave accruals of one hour for every 30 worked, up to 80 hours per calendar year unless otherwise provided by law Review our full benefits available by employment status here . U.S. Bank
+
+---
+
+## 14. [MAYBE] FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters
 - Link: https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FirstEnergyCareers/job/105882
 - Location: Akron, OH, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -297,7 +351,7 @@ Supervisor, Project Controls Analytics We are seeking a skilled and experienced 
 
 ---
 
-## 12. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
+## 15. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
 - Link: https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Data-Engineer_JR-1065782-1
 - Location: Chicago, IL
 - Posted: Nov 12 (board gives the date only)
@@ -312,7 +366,7 @@ Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilita
 
 ---
 
-## 13. [MAYBE] U.S. Bank | PCI Data Risk Analyst
+## 16. [MAYBE] U.S. Bank | PCI Data Risk Analyst
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/PCI-Data-Risk-Analyst_2026-0035298
 - Location: 2 Locations
 - Posted: Nov 13 (board gives the date only)
@@ -327,7 +381,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 14. [MAYBE] U.S. Bank | Research Analyst - Equity
+## 17. [MAYBE] U.S. Bank | Research Analyst - Equity
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Research-Analyst---Equity_2026-0032798
 - Location: Minneapolis, MN
 - Posted: Nov 13 (board gives the date only)
@@ -342,7 +396,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 15. [MAYBE] bet365 | Machine Learning Engineer
+## 18. [MAYBE] bet365 | Machine Learning Engineer
 - Link: https://jobs.smartrecruiters.com/Bet3651/744000161522539
 - Location: Denver Colorado us
 - Posted: Nov 13 10:52 ET
@@ -357,7 +411,7 @@ We are seeking a highly pragmatic, results-driven Machine Learning (ML) Engineer
 
 ---
 
-## 16. [MAYBE] Dentsu | Data Engineer
+## 19. [MAYBE] Dentsu | Data Engineer
 - Link: https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/HoChiMinhCity/Data-Engineer_R1122768
 - Location: Ho Chi Minh City
 - Posted: Nov 12 (board gives the date only)
@@ -372,7 +426,7 @@ The Data Engineer is responsible for designing, building, and maintaining the co
 
 ---
 
-## 17. [MAYBE] Lloyds Bank | Business Data Analyst - Controls Office
+## 20. [MAYBE] Lloyds Bank | Business Data Analyst - Controls Office
 - Link: https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Chester/Business-Data-Analyst---Controls-Office_165850
 - Location: 6 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -387,7 +441,7 @@ End Date Thursday 26 November 2026 Salary Range £44,901 - £49,890 We support f
 
 ---
 
-## 18. [MAYBE] Howard University | Research Assistant (Peer Recovery)
+## 21. [MAYBE] Howard University | Research Assistant (Peer Recovery)
 - Link: https://howard.wd1.myworkdayjobs.com/HU/job/Washington-DC/Research-Assistant--Peer-Recovery-_JR108816-1
 - Location: Washington DC
 - Posted: Nov 12 (board gives the date only)
@@ -402,7 +456,7 @@ The Talent Acquisition department hires qualified candidates to fill positions w
 
 ---
 
-## 19. [MAYBE] INTEGRIS Health | Epic Cogito Analytics Engineer
+## 22. [MAYBE] INTEGRIS Health | Epic Cogito Analytics Engineer
 - Link: https://ertr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/116359
 - Location: OK, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -417,7 +471,7 @@ Get to Know Your Team INTEGRIS Health, Oklahoma's largest not-for-profit health 
 
 ---
 
-## 20. [MAYBE] Visa | Marketing Analyst
+## 23. [MAYBE] Visa | Marketing Analyst
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/US---Atlanta-GA/Marketing-Analyst_REF090402W
 - Location: US - Atlanta, GA
 - Posted: Nov 13 (board gives the date only)
@@ -432,7 +486,7 @@ About Us Visa is a world leader in payments technology, facilitating transaction
 
 ---
 
-## 21. [MAYBE] Northwell Health | Business intelligence Specialist
+## 24. [MAYBE] Northwell Health | Business intelligence Specialist
 - Link: https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/200359
 - Location: New York, New York, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -447,7 +501,7 @@ Job Description Supports the design and development of custom Business Intellige
 
 ---
 
-## 22. [MAYBE] UTHealth Houston | Research Associate
+## 25. [MAYBE] UTHealth Houston | Research Associate
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8076
 - Location: San Antonio, TX, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -462,7 +516,89 @@ Under general supervision, responsible for performing technical or narrative res
 
 ---
 
-## 23. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
+## 26. [MAYBE] 42dot | Machine Learning & Data Engineer, Vehicle Modeling
+- Link: https://jobs.ashbyhq.com/42dot/d118c92f-1378-404a-a98f-058948606d28
+- Location: Sunnyvale, United States US
+- Posted: Nov 13 14:36 ET
+- Scanner fit: ~44 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, machine learning, calibration, pipeline, validation | Lacks: scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+WE ARE LOOKING FOR THE BEST
+
+
+
+
+ABOUT US
+
+42dot is a mobility AI company committed to solving mobility challenges with software and AI. As the Global Software Center of Hyundai Motor Group, 42dot pioneers the future of mobility by advancing the development of software-defined vehicles. 
+
+We develop safety-first, user-centric software-defined vehicle technologies that deliver the latest performance through continuous updates like smartphones. By advancing software and AI technology, 42dot envisions a world where everything is connected and moves autonomously through a self-managing urban transportation operating system.
+
+
+
+
+
+ABOUT THE ROLE
+
+We are building next-generation vehicle modeling and data technology at 42dot by combining physics-based models, machine learning, simulation, and large-scale vehicle data.
+
+
+As a Machine Learning & Data Engineer, Vehicle Modeling, you will develop ML and data infrastructure that improves vehicle models and supports broader vehicle intelligence and autonomous driving development. You will work across vehicle telemetry, simulation, test data, fleet data, and cloud platforms to build scalable systems for model development, evaluation, and continuous improvement.
+
+
+A core focus of this role is using real-world vehicle data to identify model performance gaps and improve models through calibration, parameter estimation, machine learning, and hybrid physics-and-data approaches. You may develop ML models that complement physics-based models, estimate model parameters under different vehicle states and operating conditions, or improve predictions where physical models alone are insufficient.
+
+
+You will also help build the data and cloud infrastructure needed to ingest, clean, organize, process, and evaluate large-scale vehicle datasets, supporting modeling, simulation, vehicle intelligence, and autonomous driving workflows.
+This role sits at the intersection of machine learning, data engineering, physical system modeling, simulation, and vehicle software.
+
+Responsibilities
+
+ - Develop machine learning and hybrid physics-data approaches to improve vehicle and component model accuracy.
+
+ - Develop methods for model calibration, parameter estimation, adaptive modeling, and data-driven model improvement across different vehicle states and operating conditions.
+
+ - Build scalable workflows for comparing model predictions with test, simulation, and real-world vehicle data and identifying opportunities for model improvement.
+
+ - Build pipelines for ingesting, cleaning, synchronizing, transforming, storing, and accessing large-scale vehicle telemetry and time-series data.
+
+ - Develop cloud-based infrastructure for data processing, model training, simulation, evaluation, and validation. 
+
+ - Build tools and workflows for dataset management, model evaluation, experiment tracking, and reproducible model development.
+
+ - Support data processing, model evaluation, and analysis workflows used by vehicle intelligence
+
+Interview Process
+
+ - Application Review - Coding Test - 1st interview - 2nd interview - Offer Negotiation - Hiring
+
+ - The screening procedures may vary depending on the position, schedule, or other circumstances.
+   
+   You will be individually notified of the screening schedule and results via the email address provided in your application.
+
+Additional Information
+
+ - In accordance with fair hiring practices, do not include any personal information unrelated to your job qualifications (e.g., Social Security Number, family relations, marital status, age, photo, physical condition, place of birth, etc.) in your resume.
+
+ - All documents must be submitted in PDF format and under 30MB in size.
+
+ -  If you experience issues uploading your resume, please send it along with the job posting URL to recruit@42dot.ai.
+
+ - We strongly encourage applications from U.S. veterans and candidates eligible for employment preference under applicable laws.
+
+ - Qualified individuals with disabilities are encouraged to apply and will receive consideration under the Americans with Disabilities Act (ADA).
+
+ - 42dot does not accept unsolicited resumes and will not pay fees for any such submissions. Equal Opportunity Statement
+
+ - 42dot
+
+---
+
+## 27. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
 - Link: https://ms.wd5.myworkdayjobs.com/External/job/Greenwood-Village-Colorado-United-States-of-America/Wealth-Management---Fiduciary-Consulting-Group--FCG---Performance-Analyst---Analyst---Associate_PT-JR046133
 - Location: Greenwood Village, Colorado, United States of America
 - Posted: Nov 12 (board gives the date only)
@@ -477,7 +613,7 @@ Morgan Stanley is a leading global financial services firm providing a wide rang
 
 ---
 
-## 24. [MAYBE] Jabil | Financial Reporting Analyst
+## 28. [MAYBE] Jabil | Financial Reporting Analyst
 - Link: https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Analyst-I_J2464707
 - Location: St. Petersburg/Tampa, FL
 - Posted: Nov 12 (board gives the date only)
@@ -492,7 +628,7 @@ At Jabil (NYSE: JBL), we are proud to be a trusted partner for the world's top b
 
 ---
 
-## 25. [MAYBE] Etsy | Machine Learning Engineer IC3.1. Ads Recommendations
+## 29. [MAYBE] Etsy | Machine Learning Engineer IC3.1. Ads Recommendations
 - Link: https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Machine-Learning-Engineer-IC31-Ads-Recommendations_JR6135-1
 - Location: Brooklyn, New York
 - Posted: Nov 13 (board gives the date only)
@@ -507,7 +643,138 @@ Company Description Etsy is the global marketplace for unique and creative goods
 
 ---
 
-## 26. [MAYBE] Inova | Financial Performance Analyst 2
+## 30. [MAYBE] UTHealth Houston | Research Assistant
+- Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8484
+- Location: San Antonio, TX, United States US
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time (20 h/week stated)
+- Title scope: core | Has: excel, healthcare, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Under general supervision, provides routine technical assistance in performing assigned and delegated tasks in support of research projects. Responsibilities include assisting or conducting a variety of scientific experiments and research projects of limited complexity, collecting, evaluating and interpreting data for clinical and diagnostic research. Provides routine technical assistance in performing assigned and delegated tasks in support of research projects. Performs assigned clerical and technical duties in a research or clinical lab setting. Assists investigator or higher level technician with research studies, experiments and assays including collection of data, preparation of solutions and set-up and maintenance of equipment. Performs routine tests with direction from supervisor, manager or higher level technician. Assists in conducting a variety of scientific experiments and research projects of limited complexity, collecting, evaluating, and interpreting data. Carries out general laboratory maintenance. Performs all other duties as assigned. Attention to detail by achieving thoroughness and accuracy when accomplishing a task through concern for all the areas involved. Ability to organize and coordinate work within schedule constraints and handle emergent requirements in a timely manner. Ability to monitor important and complex projects concurrently within a research environment or laboratory schedule. Ability to effectively communicate orally and in writing, to include writing and preparing memorandums, letters, and other official correspondence. Knowledge of Microsoft Word, Excel, PowerPoint, and Lotus Notes/other e-mail software. Education: Bachelor's degree in a basic science or related field is required. Experience: None required. The University of Texas at San Antonio (UT San Antonio) is a nationally recognized, top-tier public research university that unites the power of higher education, biomedical discovery and healthcare within one visionary institution. As the third-largest research university in Texas and a Carnegie R1-designated institution, UT San Antonio is a model of access and excellence — advancing knowledge, social mobility and public health across South Texas and beyond. UT San Antonio serves approximately 42,000 students in 320 academic programs spanning science, engineering, medicine, health, liberal arts, AI, cybersecurity, business, education and more. With 17,000 faculty and staff, UT San Antonio has been recognized by Forbes as one of America’s Best Employers for Company Culture . Benefits Overview UT Health San Antonio offers an excellent benefits package for its employees. Employees who work at least 20 hours a week, with an appointment of at least 4.5 months, are eligible for benefits. Medical - UT SELECT Medical insurance is offered free for employees and administered by Blue Cross and Blue Shield of Texas. Family members can be added to the plan through payroll deduction. Employees and their dependents can also receive discounted copays and coinsurance when using UT Health Physicians, a network of 800 premier physicians including more than 100 specialists. Employees receive $50,000 of group term life insurance and $50,000 of basic accidental death and dismemberment insurance for free, with options to purchase additional employee and dependent coverage for both at group rates. Dental - Three dental insurance plan options are available for employees and their families through Delta Dental Insurance Company, two PPOs and one dental HMO plan. Both PPO plans allow employees to choose any licensed dentist. Vision - Fully insured Vision Care benefits are offered by Superior Vision Services. Two vision plan options that offer either standard or enhanced vision benefits. Disability - Employees can enroll in the Disability Insurance which provides income if a non-work related illness or injury prevents you from working. FSAs - Employees can enroll in flexible spending accounts (FSAs) to set aside money from earnings before taxes for qualifying dependent day care expenses or out-of-pocket health care expenses. Retirement - Employees are eligible for either the Teacher Retirement System (TRS) or the Optional Retirement Plan (ORP). TRS is a defined benefit retirement plan which UT Health matches employee contributions. ORP is for eligible faculty staff employees. Voluntary retirement programs are also available to invest before- or after-tax dollars with the choice of five quality retirement plan providers. Time Off - A generous leave program offers multiple paid leave options: Front-loaded Paid Time Off: 128 to 208 hours (16 to 26 days) of Paid Time Off based on years of service, given at the start of each fiscal year. PTO may be prorated in year one based on date of hire. Extended Illness Bank: 8 hours (1 day) accrued per month which can be used for illness or injury after one day of Paid Time Off is taken. Paid Family Leave: Up to 240 hours (6 weeks) to care for a spouse, child, or parent after 6 months of consecutive employment. Holidays: 12 set paid holidays each year. Discounts - Employees enjoy a range of discounts on services, tickets, and gym membership.
+
+---
+
+## 31. [MAYBE] O'Reilly Auto Parts | Merchandise Data Analyst
+- Link: https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/Merchandise-Data-Analyst_R193941
+- Location: Headquarters
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: a/b test, excel, reporting, research | Lacks: snowflake  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+A Merchandise Data Analyst researches and explores data-based information using data analysis tools. The goal of a Merchandise Data Analyst is to share meaningful insights from data that helps our Product Management team and other key stakeholders make important operational decisions. You will perform analyses of promotional effectiveness, marketing efforts, customer loyalty data, and product performance. Strive to continually improve our reporting systems and analytical capabilities for both our team members and supplier users. Present and defend recommendations to mid-management and senior level management. ESSENTIAL JOB FUNCTIONS Produce, validate, and maintain merchandise reporting using tools such as Excel, Snowflake, Sigma, and Mastercard Test & Learn. Provide insight into existing merchandise reports and identify opportunities for improvement. Develop a comprehensive understanding of the data sources utilized by the Merchandise Data team, including Snowflake, supplyLINE, Sigma, and Mastercard Test & Learn (A/B testing) to support data-driven business decisions. Produce and monitor projects such as Mastercard Test & Learn tests, business plans, and product performance. Prepare and present analytical findings and recommendations to Category Management team and other key stakeholders. Run weekly, monthly and quarterly reports. Collaborate with Merchandise and other cross-functional teams to support merchandising decisions through data analysis and reporting. SKILLS/EDUCATION/KNOWLEDGE/EXPERIENCE/ABILITIES 2 year or 4-year degree in Business/Marketing, Data Analytics, Economics or Mathematics. Strong analytical skills. Strong interpersonal, communication, and collaborative skills. Proficient with Excel and Word. Ability to work with limited supervision. O’Reilly Auto Parts has a proven track record of growth and stability. O’Reilly is full of successful career stories and believes in a strong promote-from-within philosophy, encouraging you to grow your career along with the organization. Total Compensation Package: Competitive Wages & Paid Time Off Stock Purchase Plan & 401k with Employer Contributions Starting Day One Medical, Dental, & Vision Insurance with Optional Flexible Spending Account (FSA) Team Member Health/Wellbeing Programs Tuition Educational Assistance Programs Opportunities for Career Growth O’Reilly Auto Parts
+
+---
+
+## 32. [MAYBE] Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems
+- Link: https://jobs.ashbyhq.com/socure/382aacca-5f17-41a9-961e-6f89982058fe
+- Location: Hub - San Francisco United States Hub - New York Hub - Seattle remote
+- Posted: Nov 13 14:29 ET
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 5 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, llm, python, regression, ai agent, classification, data quality, fraud, git, kubernetes, pipeline, risk | Lacks: java  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+WHY SOCURE?
+
+Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every day.
+
+We hire people who want that level of responsibility. People who move fast, think critically, act like owners, and care deeply about solving customer problems with precision. If you want predictability or narrow scope, this won’t be your place. If you want to help build the future of identity with a team that holds a high bar for itself — keep reading.
+
+
+
+
+JOB OVERVIEW
+
+We are looking for a Software Engineer – Backend Platforms and Agentic & ML Systems to help build the backend, artificial intelligence, and machine-learning foundations that power Socure’s agentic investigation systems.
+
+This is a hands-on engineering role for someone who wants to work across backend services, distributed systems, AI agents, retrieval, machine-learning models, and production infrastructure. You will design, implement, test, and operate software that supports agent orchestration, asynchronous workflows, knowledge retrieval, model integration, evaluation, and reliable production operation.
+
+You will contribute to systems supporting multi-step investigations across use cases such as watchlist review, sanctions and PEP matching, adverse-media analysis, fraud-ring correlation, case management, and other risk and compliance workflows.
+
+A key part of the role is helping agents work with accurate, relevant, and timely domain knowledge. You will build capabilities that dynamically provide contextual information to agents, combine structured and unstructured data, support knowledge-graph and retrieval workflows, and preserve evidence and provenance for downstream decisions.
+
+You will work with experienced engineers, machine-learning practitioners, product partners, and investigation experts to turn complex problems into dependable software. The role is calibrated for an engineer who can own well-scoped features and components, learn quickly, contribute to design discussions, and grow toward broader technical ownership.
+
+
+JOB RESPONSIBILITIES
+
+ - Design, implement, test, and operate backend services that support agent orchestration, task execution, state management, model integrations, and investigation workflows.
+
+ - Build synchronous and asynchronous workflows for agent tasks, including queues, retries, resumability, cancellation, idempotency, scheduling, and failure recovery.
+
+ - Contribute to agent frameworks and developer harnesses that support tool calling, structured outputs, reusable skills, actor-based workflows, human review, and policy-controlled execution.
+
+ - Implement services that dynamically inject relevant knowledge into agent workflows based on investigation type, entity context, workflow state, customer policy, prior findings, and current task requirements.
+
+ - Build domain-grounding capabilities that help agents distinguish authoritative facts, customer-defined policies, derived signals, hypotheses, and unverified observations.
+
+ - Develop knowledge-ingestion and enrichment pipelines that normalize, classify, chunk, index, version, and refresh structured and unstructured data.
+
+ - Implement retrieval workflows using combinations of semantic search, lexical search, metadata filtering, hybrid retrieval, reranking, entity-aware retrieval, and temporal filtering.
+
+ - Contribute to knowledge-graph systems that represent entities, relationships, events, evidence, provenance, and risk signals.
+
+ - Support graph traversal, multi-hop retrieval, graph-enhanced context assembly, and integration between graph, vector, search, document, and API-based data sources.
+
+ - Implement context-selection logic that balances relevance, freshness, source authority, latency, tenant permissions, and model context limits.
+
+ - Add safeguards against stale, contradictory, duplicated, irrelevant, poisoned, or unauthorized information entering agent contexts.
+
+ - Build state and memory capabilities for agents, including short-term task state, investigation history, entity context, retrieval state, and provenance.
+
+ - Integrate agents with internal APIs, identity and risk data sources, case-management systems, watchlist systems, model endpoints, webhooks, and event streams.
+
+ - Develop secure connector and tool-execution patterns, including authentication, authorization, credential management, tenant isolation, audit logging, and sandboxed execution where appropriate.
+
+ - Integrate machine-learning models used for classification, ranking, extraction, entity resolution, summarization, and other investigation-related capabilities.
+
+ - Partner with machine-learning and data-science teammates on feature definitions, training data preparation, labeling strategies, dataset quality, model interfaces, and deployment workflows.
+
+ - Contribute to model training, fine-tuning, and adaptation workflows, including dataset preparation, experiment tracking, evaluation, versioning, deployment, and rollback.
+
+ - Implement model-serving and model-routing integrations that select models based on task requirements, latency, cost, quality, context, and data boundaries.
+
+ - Improve system performance through caching, batching, parallel execution, retrieval optimization, context reduction, model selection, prompt optimization, and efficient inference configuration.
+
+ - Build evaluation and regression tests for retrieval quality, grounding, citation correctness, model behavior, tool selection, workflow completion, and end-to-end investigation outcomes.
+
+ - Create test cases covering domain-specific scenarios, ambiguous cases, adversarial inputs, policy variations, knowledge freshness, retrieval failures, and production incidents.
+
+ - Instrument services with logs, metrics, traces, latency measurements, cost attribution, retrieval diagnostics, model-version tracking, and operational dashboards.
+
+ - Use production telemetry, failed runs, investigator feedback, and evaluation results to improve prompts, tools, memory, knowledge sources, model behavior, and workflow design.
+
+ - Participate in on-call and incident response for systems owned by the team. Help improve monitoring, service-level objectives, capacity planning, and recovery procedures.
+
+ - Write technical designs, document implementation decisions, participate in code and design reviews, and communicate trade-offs clearly.
+
+ - Collaborate with Product, Fraud and Risk, Investigation Operations, Platform Engineering, SRE, Security, Privacy, and Data Science.
+
+ - Contribute to engineering standards for testing, observability, deployment, security, maintainability, and responsible AI development.
+
+
+JOB REQUIREMENTS
+
+
+REQUIRED QUALIFICATIONS
+
+ - Bachelor’s or master’s degree in Computer Science, Engineering, or a related technical field, or equivalent practical experience.
+
+ - Pr [...]
+
+---
+
+## 33. [MAYBE] Inova | Financial Performance Analyst 2
 - Link: https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/692434
 - Location: United States US VA, United States
 - Posted: Nov 13 (board gives the date only)
@@ -522,7 +789,7 @@ Inova Health is looking for a dedicated Financial Performance Analyst 2 to join 
 
 ---
 
-## 27. [MAYBE] Ohio State University | Data Science Senior Analyst, AI Engineer
+## 34. [MAYBE] Ohio State University | Data Science Senior Analyst, AI Engineer
 - Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Data-Science-Senior-Analyst--AI-Engineer_R162476-1
 - Location: Columbus Campus
 - Posted: Nov 12 (board gives the date only)
@@ -537,7 +804,7 @@ Screen reader users may encounter difficulty with this site. For assistance with
 
 ---
 
-## 28. [MAYBE] Genentech | Senior AI Engineer
+## 35. [MAYBE] Genentech | Senior AI Engineer
 - Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-AI-Engineer_202611-128780
 - Location: South San Francisco
 - Posted: Nov 13 (board gives the date only)
@@ -552,7 +819,7 @@ We’re passionate about delivering on Our Promise to improve the lives of patie
 
 ---
 
-## 29. [MAYBE] Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics
+## 36. [MAYBE] Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/Sr-Scientist--Bioinformatics--Translational-Genome-Analytics_R426685-1
 - Location: USA - Massachusetts - Boston (MA Parcel B Laboratory)
 - Posted: Nov 13 (board gives the date only)
@@ -564,4 +831,34 @@ We’re passionate about delivering on Our Promise to improve the lives of patie
 ### Job description
 
 Job Description Role Overview: Our company is a global health care leader committed to being the world's premier, most research-intensive biopharmaceutical company. Our Research Laboratories take our leading discovery capabilities and world-class small molecule and biologics research and development expertise to create breakthrough science that radically changes how we approach serious diseases. The Data, AI and Genome Sciences department seeks a talented data scientist with a strong quantitative and statistical foundation to join our Translational Genome Analytics team. In this role, you will bring rigorous statistics, machine learning, and modern AI to large, complex multi-omics datasets to understand the molecular basis of cancer and to nominate targets and biomarkers across our research portfolio. You will work closely with computational, AI and ML, and experimental colleagues to turn data into decisions that move programs forward. We are especially interested in scientists with a strong oncology and cancer genomics background who can also analyze functional genomics screens, so you can support target nomination and the broader discovery portfolio from both directions. You are an independent scientist who takes an open-ended question and carries it through to a clear answer, and who thrives in a highly collaborative discovery environment. In This Exciting Role, You Will: Analyze large-scale oncology datasets, including bulk RNA-seq, whole-exome and whole-genome sequencing (WES/WGS), and single-cell RNA-seq (scRNA-seq), to understand disease biology and the mechanisms of disease progression and drug action. Contribute to the nomination and prioritization of drug combinations for both oncology and immunology disease areas by weighing expression profiling, disease biology, mechanistic and functional-genomics evidence, and the competitive landscape together, and bring that evidence to program teams. Apply rigorous statistics and integrate multi-omics and functional genomics data with prior biological knowledge, using network-based and machine learning approaches, to reach robust conclusions and a coherent picture of target and pathway biology. Apply deep learning and single-cell foundation models to problems such as cell-type deconvolution, batch integration, patient stratification, and perturbation-response prediction. Use modern AI, including LLM-based agents and retrieval over internal data, to accelerate evidence synthesis and analysis, and help bring these tools into routine, well-validated use. Draw on human and real-world data to inform and reverse-translate discovery hypotheses, connecting preclinical findings to patient biology. Collaborate closely across disciplines, including experimental scientists, AI and ML and data science teams, software engineers, and program teams, and deliver reproducible, well-documented research that supports Discovery Oncology. Minimum Requirements: A BS in computational biology, bioinformatics, biostatistics, or a related quantitative discipline and a minimum of 5 years of relevant experience, MS and 3+ years of relevant experience, OR a Ph.D. in Bioinformatics, Biostatistics, Computational Biology, Statistics, Computer Science, Genetics, Mathematics, or a related STEM field. A passion for solving problems in oncology and cancer genomics through computational methods, with a consistent focus on detail and execution. Hands-on experience analyzing and biologically interpreting large-scale NGS datasets (bulk RNA-seq, WES/WGS, scRNA-seq), including experimental design, QC, and building analyses where no standard pipeline exists, and integrating multiple omics layers with prior biological knowledge. A strong statistical foundation, spanning hypothesis testing, regression and mixed models, survival analysis, and dimensionality reduction, with sound judgment about confounding, batch effects, and multiple comparisons, and a track record of applying machine learning to biological data with judgment about where it adds value and where simpler methods suffice. Strong technical skills, including R or Python, version control (Git), and Linux, with hands-on experience across cloud and data platforms such as AWS (S3), Nextflow, Databricks, and Posit. Familiarity with major cancer genomics resources, such as TCGA, GTEx, CCLE, CPTAC, and DepMap. A collaborative working style and excellent oral and written communication skills. Preferred Experience and Skills: A Ph.D. in Bioinformatics, Biostatistics, Computational Biology, Statistics, Computer Science, Genetics, Mathematics, or a related STEM field. Post-doctoral or relevant industry experience in cancer genomics or computational oncology, with a deep understanding of cancer biology and current research trends. Experience applying or fine-tuning foundation models for single-cell or genomic data, and an interest in developing agentic AI and LLM-powered tools for biological analysis. Network-based analysis of gene regulatory patterns and signaling pathways from NGS data. A strong publication record. #EligibleforERP Required Skills: Bioinformatics, Computational Biology, Computational Genomics, Data Science, High Performance Computing (HPC), Machine Learning (ML), Python (Programming Language), Researching, R-Studio, Scientific Modeling Preferred Skills: Current Employees apply HERE Current Contingent Workers apply HERE US and Puerto Rico Residents Only: Our company is committed to inclusion, ensuring that candidates can engage in a hiring process that exhibits their true capabilities. Please click here if you need an accommodation during the application or hiring process. As an Equal Employment Opportunity Employer, we provide equal opportunities to all employees and applicants for employment and prohibit discrimination on the basis of race, color, age, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or other applicable legally protected characteristics. As a federal contractor, we comply with all affirmative action requirements for protected veterans and individuals with disabilities. For more information about personal rights under the U.S. Equal Opportunity Employment laws, visit: EEOC
+
+---
+
+## 37. [MAYBE] Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases
+- Link: https://elanco.wd5.myworkdayjobs.com/External_Career/job/US---Teleworker/Senior-Research-Scientist---Farm-Animal-Clinical-Development--Vaccines-and-Infectious-Diseases_R0027380
+- Location: 3 Locations
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, gcp, statistic, pipeline, research | Lacks: -  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At Elanco (NYSE: ELAN) – it all starts with animals! As a global leader in animal health, we are dedicated to innovation and delivering products and services to prevent and treat disease in farm animals and pets. At Elanco, we are driven by our vision of Food and Companionship Enriching Life and our purpose – all to Go Beyond for Animals, Customers, Society and Our People. At Elanco, we pride ourselves on fostering a diverse and inclusive work environment. We believe that diversity is the driving force behind innovation, creativity, and overall business success. Here, you’ll be part of a company that values and champions new ways of thinking, work with dynamic individuals, and acquire new skills and experiences that will propel your career to new heights. Making animals’ lives better makes life better – join our team today! As the Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases, you will play a pivotal role in advancing Elanco’s farm animal innovation pipeline by designing, coordinating, and executing global host animal safety and efficacy study programs. In this role, you will formulate clinical development plans from inception through approval to deliver next-generation vaccines and therapeutic products to our customers. You will partner closely with cross-functional R&D teams, Regulatory Affairs, and external research partners to translate scientific strategy into high-impact regulatory submissions. Your Responsibilities: • Design, author, and execute robust host animal safety and efficacy study protocols and comprehensive clinical development plans in compliance with USDA, GLP, vGCP, and VICH standards. • Partner with Clinical Development Sciences (CDS) to evaluate, select, and monitor qualified external research facilities, investigators, and contract research organizations (CROs). • Collaborate cross-functionally with Biostatistics, Regulatory Affairs, Medical Writing, and Quality Assurance to analyze, interpret, and report clinical trial data for global regulatory submissions. • Serve as a clinical and technical subject matter expert during regulatory agency interactions and scientific conferences, effectively communicating study data and strategy. • Drive continuous improvement and technical excellence by updating functional procedures, mentoring less experienced colleagues, and staying current with advances in veterinary vaccines and infectious diseases. What You Need to Succeed (minimum qualifications): • Education: Master’s Degree in Animal Science, Veterinary Sciences, Microbiology, Immunology, or related scientific discipline (or Bachelor's Degree with equivalent level of relevant industry experience); DVM or Ph.D. warmly welcomed. • Required Experience: A minimum of 3 years of experience in veterinary clinical study design, animal health research, or vaccine/biologics product development. • Key Skills: Proven proficiency in designing host animal safety/efficacy protocols under GxP/VICH-GCP guidelines, combined with strong project organization and cross-functional communication abilities. What will give you a competitive edge (preferred qualifications): • DVM and/or Ph.D. in Veterinary Medicine, Animal Science, Immunology, Virology, or Infectious Diseases. • 5+ years of direct experience leading farm animal vaccine or therapeutic clinical development programs. • Demonstrated experience interacting with regulatory agencies (e.g., USDA-CVB, FDA-CVM, EMA) and authoring regulatory dossier sections. • Hands-on expertise evaluating, selecting, and overseeing external contract research organizations (CROs) and university research facilities. • Strong strategic mindset with demonstrated ability to translate complex scientific data into regulatory and commercial solutions. Additional Information: • Travel: 10–20% (Domestic and occasional International travel) • Location: Global Elanco Headquarters - Indianapolis, IN - Hybrid Work Environment Don’t meet every single requirement? Studies have shown underrepresented groups are less likely to apply to jobs unless they meet every single qualification. At Elanco we are dedicated to building a diverse and inclusive work environment. If you think you might be a good fit for a role but don't necessarily meet every requirement, we encourage you to apply. You may be the right candidate for this role or other roles! Elanco Benefits and Perks: We offer a comprehensive benefits package focusing on financial, physical, and mental well-being while encouraging our employees to pursue our purpose! Some highlights include: Multiple relocation packages Two weeklong shutdowns (mid-summer and year-end) in the US (in addition to PTO) 8-week parental leave 9 Employee Resource Groups Annual bonus offering Flexible work arrangements Up to 6% 401K matching Elanco is an
+
+---
+
+## 38. [MAYBE] University of Southern California | Biostatistician II
+- Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/San-Diego-CA/Biostatistician-II_REQ20181725
+- Location: San Diego, CA
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: aws, excel, gcp, r, statistic, git, quantitative, reporting, research | Lacks: sas  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Biostatistician II The USC Keck School of Medicine, Epstein Family Alzheimer’s Therapeutic Research Institute (ATRI), located in San Diego, California, is an academic institute focused on advancing the development of treatments for Alzheimer’s disease (AD) and related dementias through innovative clinical trials. The ATRI Biostatistics Section provides statistical leadership for clinical trials and studies managed by ATRI. We are seeking a highly trained and motivated Biostatistician II with strong statistical, programming, and scientific communication skills who is interested in building a career in clinical trials biostatistics in an academic research environment. This position is suited to a biostatistician with prior clinical research experience who can contribute with a high degree of technical independence while working as part of an experienced and collaborative biostatistics team. The Biostatistician II will join an established group of statisticians and work closely with senior biostatistics staff, biostatistics postdoctoral fellows, faculty biostatisticians, study investigators, and other research collaborators. Under the direction and statistical oversight of senior biostatistics staff and faculty biostatisticians, the Biostatistician II will serve as the lead statistical analyst and manage the day-to-day biostatistical activities for assigned clinical trials and studies. The individual will serve as the primary biostatistics contact for routine study activities, coordinate statistical deliverables, and provide guidance to junior biostatistics staff working on the study. Senior biostatistics staff and faculty biostatisticians will continue to provide oversight and guidance on study design, statistical strategy, complex methodological issues, and major scientific decisions. The Biostatistician II will: • Manage the day-to-day biostatistical activities for assigned clinical trials and research studies under the direction of senior biostatistics staff and faculty biostatisticians. • Perform and oversee statistical programming and analyses for clinical trials and related research studies. • Apply appropriate statistical methods to longitudinal and other complex clinical trial and research data. • Conduct sample size, power, and related design calculations to support clinical trials and research studies. • Contribute to study design and the development of statistical approaches, including study objectives, endpoints, analysis strategies, and statistical analysis plans. • Prepare, manage, and evaluate analysis-ready datasets, statistical analyses, tables, figures, and other statistical outputs. • Coordinate statistical activities and deliverables across assigned studies, including timelines, analyses, quality control activities, and documentation. • Provide guidance and technical support to junior biostatistics staff working on assigned studies and review their statistical programming and analytical work as appropriate. • Lead or contribute to quality control and quality assurance of statistical analyses and programming. • Contribute substantively to statistical methods and results sections for study reports, abstracts, presentations, and scientific manuscripts. • Communicate statistical concepts, study design considerations, analytical approaches, and results clearly to investigators and multidisciplinary research collaborators. • Present statistical results in study team meetings and contribute to the interpretation of findings and scientific discussions. • Develop and maintain an in-depth understanding of assigned clinical trials, including study design, protocol, endpoints, data structure, analysis objectives, and statistical responsibilities. • Identify statistical or study-specific issues, propose potential approaches, and engage senior biostatistics staff or faculty biostatisticians when additional methodological guidance or decisions are needed. • Manage multiple study responsibilities while maintaining high standards for accuracy, reproducibility, documentation, organization, and timely delivery. Education and Experience • Master’s degree in biostatistics, statistics, or a closely related quantitative discipline. • 3–5 years of relevant professional biostatistics or statistical research experience following the graduate degree. • Demonstrated experience applying statistical methods in clinical trials, clinical research, or other complex biomedical research. Requirements • Strong training in statistical theory, study design, and statistical methods. • Excellent R programming skills and demonstrated ability to independently implement and validate complex statistical analyses. • Demonstrated experience conducting sample size and power calculations and applying statistical principles to clinical study design. • Experience analyzing longitudinal and other complex clinical or biomedical research data. • Experience developing or contributing substantively to statistical analysis plans and study-specific analysis specifications. • Ability to manage the day-to-day statistical activities and deliverables for assigned clinical trials or research studies within a senior-led biostatistical team structure. • Ability to provide technical direction and guidance to junior statistical staff and review statistical programming and analytical work. • Excellent scientific communication skills, including the ability to clearly explain study design, statistical methods, assumptions, limitations, and results to both statistical and nonstatistical collaborators. • Strong scientific writing skills and experience contributing statistical content to reports, presentations, abstracts, or manuscripts. • Strong attention to detail, organization, and commitment to high-quality, reproducible statistical work. • Ability to exercise sound judgment regarding when issues can be addressed independently and when input from senior biostatistics staff or faculty biostatisticians is appropriate. • Initiative, accountability, and ability to adapt to changing study priorities. Strongly Preferred • Experience supporting clinical trials. • Experience with clinical trial design, analysis, and reporting. • Experience working collaboratively with investigators and multidisciplinary clinical research teams. • Experience contributing substantially to scientific manuscripts, abstracts, presentations, or reports. • Experience providing technical guidance or oversight to junior statistical programmers or biostatisticians. • Demonstrated interest in developing a long-term career in academic clinical trials biostatistics. • Experience in Alzheimer’s disease or other neurological clinical research is desirable but not required. Work Location This position requires regular on-site presence at ATRI in San Diego three days per week. Candidates should apply with the expectation that this is an ongoing requirement of the position. Compensation The annual base salary range for this position is $106,106.81 - $145,866. [...]
 
