@@ -4,16 +4,33 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | ING | Data Scientist Specialist | 70 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 2 | Procter & Gamble (P&G) | Data Engineer | 60 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 3 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 4 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 5 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 6 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 1 | Steampunk | Job Title AI Evaluation Scientist | 72 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 2 | ING | Data Scientist Specialist | 70 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 3 | Procter & Gamble (P&G) | Data Engineer | 60 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 4 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 5 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 6 | Lloyds Bank | Business Data Analyst - Controls Office | 50 | 4 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 7 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 8 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] ING | Data Scientist Specialist
+## 1. [MAYBE] Steampunk | Job Title AI Evaluation Scientist
+- Link: https://careers-steampunk.icims.com/jobs/8402/ai-evaluation-scientist/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~72 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, llm, machine learning, nlp, python, pytorch, scikit, statistic, fraud, pipeline, quantitative, research, risk | Lacks: azure  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | AI Evaluation Scientist Job Location US-VA-McLean Posted Date 10 minutes ago (11/13/2026 9:00 AM) Job ID 8402 Clearance Requirement Public Trust Overview We are looking for an AI Evaluation Scientist to design and execut
+
+### Job description
+
+AI Evaluation Scientist in McLean, Virginia Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log back in! AI Evaluation Scientist Job Location US-VA-McLean Posted Date 10 minutes ago (11/13/2026 9:00 AM) Job ID 8402 Clearance Requirement Public Trust Overview We are looking for an AI Evaluation Scientist to design and execute evaluation processes that ensure our predictive and generative AI systems are accurate , reliable, safe, and aligned with mission requirements. This role is essential for establishing trust in AI solutions and supporting continuous improvement across the AI lifecycle. The AI Evaluation Scientist will work closely with engineers, data scientists, governance analysts, and product teams to develop evaluation metrics, build test harnesses, analyze model behavior, and support responsible deployment. Contributions Implement evaluation frameworks for AI models, including accuracy, robustness, relevance, bias, hallucination rate, and safety metrics. Build and maintain automated evaluation scripts, tests, and pipelines that assess AI model outputs and detect performance drift over time. Develop benchmark datasets, challenge sets, and scenario-based test cases tailored to mission and user needs. Perform structured error analysis and behavioral audits of LLMs, retrieval-augmented generation (RAG) systems, and predictive models, documenting findings and improvement recommendations. Collaborate with AI Developers, LLMOps Engineers, and Data Scientists to support iterative experimentation, model hardening, and quality improvements. Contribute to the design of human-in-the-loop evaluation workflows, integrating qualitative and quantitative insight into evaluation reports. Assist in mapping evaluation outcomes to responsible AI principles such as fairness, transparency, reliability, and safety. Partner with AI Governance Analysts to ensure evaluation outputs support compliance, documentation, and risk assessments. Stay current with emerging evaluation tools, frameworks, metrics, and research related to LLM assessment and generative AI reliability. Document evaluation processes, criteria, and results for both technical and non-technical audiences. You will contribute to the growth of our AI & Data Exploitation Practice! Qualifications Ability to hold a position of public trust with the U.S. government. Bachelor’s degree and 8+ years of work experience, or an equivalent combination of education and experience. 2+ years of experience evaluating machine learning models, NLP systems, or generative AI models (LLMs preferred). Familiarity with evaluation metrics, statistical testing, dataset creation, and experimental design for AI systems. Proficiency in Python and relevant libraries such as PyTorch, Hugging Face, scikit-learn, LangChain. Proficiency in AI evaluation frameworks such as Ragas or DeepEval. Proficiency in AI traceability/observability tools based on the OpenTelemetry protocol. Experience analyzing structured and unstructured data, including text, documents, and embeddings. Understanding of LLM behavior, prompt evaluation, retrieval pipelines, or RAG architectures. Exposure to responsible AI concepts and governance-aligned evaluation criteria (e.g., fairness, transparency, reliability). Strong analytical skills with the ability to interpret model weaknesses, extract insights, and recommend actionable improvements. Excellent written and verbal communication skills, with the ability to present evaluation findings clearly to technical and non-technical stakeholders. Experience working in agile or iterative development environments is a plus. Familiarity with OWASP LLM Top 10 Risks Relevant certifications (helpful but not required): NIST AI RMF (AISIC), INFORMS CAP, AWS/Azure/Google ML Certifications. About steampunk Steampunk relies on several factors to determine salary, including but not limited to geographic location, contractual requirements, education, knowledge, skills, competencies, and experience. The projected compensation range for this position is $105,000 to $145,000. The estimate displayed represents a typical annual salary range for this position. Annual salary is just one aspect of Steampunk’s total compensation package for employees. Learn more about additional Steampunk benefits here. Identity Statement As part of the application process, you are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud. Steampunk is a Change Agent in the Federal contracting industry, bringing new thinking to clients in the Homeland, Federal Civilian, Health and DoD sectors. Through our Human-Centered delivery methodology , we are fundamentally changing the expectations our Federal clients have for true shared accountability in solving their toughest mission challenges. If you want to learn more about our story, visit http://www.steampunk.com .
+
+---
+
+## 2. [MAYBE] ING | Data Scientist Specialist
 - Link: https://ing.wd3.myworkdayjobs.com/icsgblcor/job/PB_Cen_Katowice-ul-Chorzowska-50/Data-Scientist-Specialist-1_REQ-10123233
 - Location: PB_Cen_Katowice (ul. Chorzowska 50)
 - Posted: Nov 12 (board gives the date only)
@@ -28,7 +45,7 @@ O stanowisku: Forma zatrudnienia: umowa o pracę Lokalizacja: ul. Sokolska 34, K
 
 ---
 
-## 2. [MAYBE] Procter & Gamble (P&G) | Data Engineer
+## 3. [MAYBE] Procter & Gamble (P&G) | Data Engineer
 - Link: https://pg.wd5.myworkdayjobs.com/1000/job/Weybridge/Data-Engineer_R000162789
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -43,7 +60,7 @@ Job Location Weybridge Job Description Ready to make an impact on globally renow
 
 ---
 
-## 3. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
+## 4. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
 - Link: https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Data-Engineer_JR-1065782-1
 - Location: Chicago, IL
 - Posted: Nov 12 (board gives the date only)
@@ -58,7 +75,7 @@ Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilita
 
 ---
 
-## 4. [MAYBE] Dentsu | Data Engineer
+## 5. [MAYBE] Dentsu | Data Engineer
 - Link: https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/HoChiMinhCity/Data-Engineer_R1122768
 - Location: Ho Chi Minh City
 - Posted: Nov 12 (board gives the date only)
@@ -73,7 +90,22 @@ The Data Engineer is responsible for designing, building, and maintaining the co
 
 ---
 
-## 5. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
+## 6. [MAYBE] Lloyds Bank | Business Data Analyst - Controls Office
+- Link: https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Chester/Business-Data-Analyst---Controls-Office_165850
+- Location: 6 Locations
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 4 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: gcp, power bi, reporting, risk | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+End Date Thursday 26 November 2026 Salary Range £44,901 - £49,890 We support flexible working – click here for more information on flexible working options Flexible Working Options Hybrid Working, Job Share Job Description Summary - Job Description Title: Business Data Analyst - Controls Office Salary: £44,901 – £49,890 Location(s): Chester, Leeds, Manchester, Edinburgh, Bristol or Birmingham Hours: Full time Working pattern: Hybrid, 40% of your time (or two days) in an office site listed above About the role You will join a growing area that is changing how data is used to strengthen risk and control decisions and deliver better outcomes for customers. The Group has made significant progress through Resetting Risk, creating a stronger and more consistent approach to risk management. We’re now focused on embedding this across Connected Finance, supported by improved policies, data and tooling. Our data strategy is focused on creating a trusted, connected data environment that improves quality, reduces duplication and provides actionable insight. In this role, you’ll help turn that strategy into practical change, working with colleagues to solve business and data challenges, shape requirements and improve how data is managed, presented and used to support better decisions. There is real autonomy in how you approach the work. Rather than simply analysing the data in front of you, you’ll have the opportunity to shape how data is approached, presented and used, making the most of the tools available to influence better decisions. You’ll also have access to vast amounts of data and exposure to technologies including AI, Google Cloud Platform (GCP), Power Platform, Power Query and Power BI, giving you the chance to build your skillset while delivering change. What you will be doing day to day Support delivery of the risk and control data strategy, translating priorities into clear requirements, practical actions and measurable outcomes. Engage stakeholders to understand key challenges, current processes and the data needed to improve decision making. Connect and analyse data across risk and control journeys to identify quality gaps, emerging trends, root causes and opportunities for earlier intervention. Leverage tools to bring data together and surface timely, actionable insight. Shape improvements to data, reporting, workflows and automation that reduce manual effort and strengthen risk and control outcomes. Partner with risk, data and technology teams to develop reusable and sustainable solutions that improve insight, reduce duplication and strengthen risk oversight. What you will need Strong analytical and problem-solving skills, with the ability to organise information, identify key issues and draw evidence-based conclusions. Some experience of business analysis, data analysis, process improvement or change delivery. A good understanding of risk and control, including how data and insight can support effective risk management and stronger control outcomes. Confidence working with data to understand business questions and translate findings into clear requirements and practical actions. An organised approach, with the confidence to take ownership of your work and shape how you approach problems, rather than relying on a predefined way of doing things. An interest in using data, technology and automation to improve how work gets done. And any experience of these would be really useful Experience using Power Platform, Power BI or Power Query to improve reporting, insight or automate processes. Experience using automation to simplify processes, reduce manual activity or improve ways of working. Experience supporting projects or change activity, with an understanding of project governance and how change is delivered effectively. Experience working within risk and control, or another environment where data advises risk-based decision-making. About working for us Our ambition is to be the leading UK business for diversity, equity and inclusion supporting our customers, colleagues and communities and we’re committed to creating an environment in which everyone can thrive, learn and develop. We were one of the first major organisations to set goals on diversity in senior roles, create a menopause health package, and a dedicated Working with Cancer Initiative. We offer reasonable workplace adjustments for colleagues with disabilities, including flexibility in office attendance, location and working patterns. And, as a Disability Confident Leader, we guarantee interviews for a fair and proportionate number of applicants who meet the minimum criteria for the role with a disability, long-term health or neurodivergent condition through the Disability Confident Scheme. We provide reasonable adjustments throughout the recruitment process to reduce or remove barriers. Just let us know what you need. We also offer a wide-ranging benefits package, which includes: A generous pension contribution of up to 15% An annual bonus award, subject to Group performance Share schemes including free shares Benefits you can adapt to your lifestyle, such as discounted shopping 28 days’ holiday, with bank holidays on top A range of wellbeing initiatives and generous parental leave policies Want to do amazing work, that’s interesting and makes a difference to millions of people? Join our journey. #LI-DC1 At Lloyds Banking Group, we're driven by a clear purpose; to help Britain prosper. Across the Group, our colleagues are focused on making a difference to customers, businesses and communities. With us you'll have a key role to play in shaping the financial services of the future, whilst the scale and reach of our Group means you'll have many opportunities to learn, grow and develop. We keep your data safe. So, we'll only ever ask you to provide confidential or sensitive information once you have formally been invited along to an interview or accepted a verbal offer to join us which is when we run our background checks. We'll always explain what we need and why, with any request coming from a trusted Lloyds Banking Group person. We're focused on creating a values-led culture and are committed to building a workforce which reflects the diversity of the customers and communities we serve. Together we’re building a truly inclusive workplace where all of our colleagues have the opportunity to make a real difference.
+
+---
+
+## 7. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
 - Link: https://ms.wd5.myworkdayjobs.com/External/job/Greenwood-Village-Colorado-United-States-of-America/Wealth-Management---Fiduciary-Consulting-Group--FCG---Performance-Analyst---Analyst---Associate_PT-JR046133
 - Location: Greenwood Village, Colorado, United States of America
 - Posted: Nov 12 (board gives the date only)
@@ -88,7 +120,7 @@ Morgan Stanley is a leading global financial services firm providing a wide rang
 
 ---
 
-## 6. [MAYBE] Inova | Financial Performance Analyst 2
+## 8. [MAYBE] Inova | Financial Performance Analyst 2
 - Link: https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/692434
 - Location: United States US VA, United States
 - Posted: Nov 13 (board gives the date only)
