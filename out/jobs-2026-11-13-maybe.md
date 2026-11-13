@@ -7,18 +7,25 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 1 | PricewaterhouseCoopers (PwC) | Finance Data, Analytics & AI - Experienced Associate | 73 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
 | 2 | Steampunk | Job Title AI Evaluation Scientist | 72 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
 | 3 | ING | Data Scientist Specialist | 70 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 4 | Blackhawk Network Holdings | Title Financial Analyst I | 65 | 3 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 5 | Procter & Gamble (P&G) | Data Engineer | 60 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 6 | FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters | 55 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 7 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 8 | bet365 | Machine Learning Engineer | 52 | none found (check myvisajobs) | Nov 13 10:52 ET |
-| 9 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 10 | Lloyds Bank | Business Data Analyst - Controls Office | 50 | 4 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 11 | Howard University | Research Assistant (Peer Recovery) | 50 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 12 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 13 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 14 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 15 | Ohio State University | Data Science Senior Analyst, AI Engineer | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 4 | Faculty AI | Machine Learning Engineer  | 68 | none found (check myvisajobs) | Nov 13 11:22 ET |
+| 5 | PSECU | Credit Risk Analyst | 68 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 6 | Blackhawk Network Holdings | Title Financial Analyst I | 65 | 3 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 7 | Procter & Gamble (P&G) | Data Engineer | 60 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 8 | FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters | 55 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 9 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 10 | U.S. Bank | PCI Data Risk Analyst | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 11 | U.S. Bank | Research Analyst - Equity | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 12 | bet365 | Machine Learning Engineer | 52 | none found (check myvisajobs) | Nov 13 10:52 ET |
+| 13 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 14 | Lloyds Bank | Business Data Analyst - Controls Office | 50 | 4 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 15 | Howard University | Research Assistant (Peer Recovery) | 50 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 16 | INTEGRIS Health | Epic Cogito Analytics Engineer | 50 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 17 | Visa | Marketing Analyst | 50 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 18 | Northwell Health | Business intelligence Specialist | 45 | 14 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 19 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 20 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 21 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 22 | Ohio State University | Data Science Senior Analyst, AI Engineer | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
 
 ---
 
@@ -67,7 +74,133 @@ O stanowisku: Forma zatrudnienia: umowa o pracę Lokalizacja: ul. Sokolska 34, K
 
 ---
 
-## 4. [MAYBE] Blackhawk Network Holdings | Title Financial Analyst I
+## 4. [MAYBE] Faculty AI | Machine Learning Engineer 
+- Link: https://jobs.ashbyhq.com/faculty/1d3f1ec9-a1ec-4b64-b29a-54d151aab500
+- Location: London United Kingdom remote
+- Posted: Nov 13 11:22 ET
+- Scanner fit: ~68 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, forecast, gcp, machine learning, probability, python, pytorch, scikit, statistic, tensorflow, docker, git, kubernetes | Lacks: azure, scala  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.
+
+### Job description
+
+WHY FACULTY? 
+
+
+We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here https://faculty.ai/impact.
+
+
+
+We don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery expertise to our clients who span government, finance, retail, energy, life sciences and defence.
+
+
+
+Our business, and reputation, is growing fast and we’re always on the lookout for individuals who share our intellectual curiosity and desire to build a positive legacy through technology.
+
+
+
+AI is an epoch-defining technology, join a company where you’ll be empowered to envision its most powerful applications, and to make them happen.
+
+
+ABOUT THE TEAM
+
+In our Retail & Consumer Business Unit, we bring everything we have learned in more than a decade of Applied AI and use it to help leading retailers, consumer brands, marketplaces, and digital commerce businesses navigate a rapidly evolving landscape.
+
+We develop and embed AI solutions that help organisations better understand their customers, optimise operations, improve forecasting and decision-making, and unlock new opportunities for growth. From supply chains and merchandising to marketing, personalisation, and customer experience, we work with clients to deliver measurable commercial impact through AI. We are proud to combine technical excellence with practical deployment, ensuring solutions create value in complex, real-world environments.
+
+
+ABOUT THE ROLE
+
+Join us as a Machine Learning Engineer to deliver bespoke, impactful AI solutions for our diverse Retail & Consumer clients.
+
+You will be instrumental in bringing machine learning out of the lab and into the real world, contributing to scalable software architecture and defining best practices. Working closely with clients and cross-functional teams, you’ll ensure the technical feasibility and successful delivery of high-quality, production-grade ML systems that drive tangible business outcomes.
+
+
+WHAT YOU’LL BE DOING
+
+ - Building and deploying production-grade ML software, tools, and infrastructure.
+
+ - Creating reusable, scalable solutions that accelerate the delivery of AI and machine learning systems across retail and consumer use cases.
+
+ - Collaborating with engineers, data scientists, product teams, and commercial leads to solve critical client challenges.
+
+ - Leading technical scoping and architectural decisions to ensure project feasibility, scalability, and commercial impact.
+
+ - Defining and implementing Faculty’s standards for deploying machine learning systems in production.
+
+ - Acting as a trusted technical advisor to customers and partners, translating complex ML concepts into actionable business outcomes.
+
+ - Applying machine learning to challenges such as demand forecasting, customer analytics, personalisation, pricing, marketing optimisation, inventory management, and operational efficiency.
+
+ - Supporting clients in adopting AI capabilities that improve customer experiences and drive sustainable growth.
+
+
+WHO WE’RE LOOKING FOR
+
+ - You understand the full machine learning lifecycle and have experience operationalising models built with frameworks such as Scikit-learn, TensorFlow, or PyTorch.
+
+ - You possess strong Python skills and solid experience in software engineering best practices.
+
+ - You bring hands-on experience with cloud platforms and infrastructure (e.g. AWS, Azure, GCP), including architecture and security.
+
+ - You’ve worked with containerisation and orchestration tools such as Docker and Kubernetes to build and manage applications at scale.
+
+ - You are comfortable with core ML concepts, including probability, statistics, experimentation, and common machine learning techniques.
+
+ - Experience working with retail, consumer, ecommerce, marketing, supply chain, or customer data is beneficial but not essential.
+
+ - You’re an excellent communicator, able to guide technical teams and confidently advise non-technical stakeholders.
+
+ - You thrive in a fast-paced environment and enjoy the autonomy to own scope, solve challenging problems, and deliver impactful solutions.
+
+
+OUR INTERVIEW PROCESS
+
+ - Talent Team Screen (30 mins)
+
+ - Pair Programming Interview (90 mins)
+
+ - System Design Interview (90 mins)
+
+ - Commercial Interview (60 mins)
+
+
+
+
+OUR RECRUITMENT ETHOS
+
+
+
+
+We aim to grow the best team - not the most similar one. We know that diversity of individuals fosters diversity of thought, and that strengthens our principle of seeking truth. And we know from experience that diverse teams deliver better work, relevant to the world in which we live. We’re united by a deep intellectual curiosity and desire to use our abilities for measurable positive impact. We strongly encourage applications from people of all backgrounds, ethnicities, genders, religions and sexual orientations.
+
+
+
+If you don’t feel you meet all the requirements, but are excited by the role and know you bring some key strengths, please don't hesitate in applying as you might be right for this role, or other roles. We are open to conversations about part-time hours. 
+
+
+
+A note on AI: we're happy for you to use it for research and interview prep, but please don't use it to generate answers during live interviews. We also use an AI note-taker (Metaview) in interviews so interviewers can stay present (which you can opt out of just let us know,) and every application is reviewed by a human, never decided by AI.
+
+---
+
+## 5. [MAYBE] PSECU | Credit Risk Analyst
+- Link: https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Credit-Risk-Analyst_JR101113
+- Location: Harrisburg, PA
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~68 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, forecast, sql, statistic, credit, portfolio, quantitative, risk, validation | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Members Achieve More isn't just a tagline for us, it's part of everything we do! We're looking for passionate individuals to join our team to help us maintain that focus every day. Want to work somewhere that's remained strong for 90 years, that encourages you to learn, grow, and pursue your dreams? If yes, then read on... Provides strategic analytical expertise supporting the Credit Union's lending and credit risk management functions by transforming complex data into actionable business insights that inform lending strategies and risk management decisions for leadership. Serves as a subject matter expert and trusted analytical resource, leveraging quantitative analysis and business intelligence to identify emerging risks, evaluate opportunities, and support organizational objectives. Collaborates proactively across the organization to enhance credit risk governance, strengthen measurement frameworks, and drive continuous improvements. Exercises a high degree of independence and judgment in developing insights, recommendations, and solutions that support growth, profitability, and sound risk management. Reports to the Director of Credit Risk & Data Analytics. Schedule: Monday - Friday. Flexible Hours 7:00am - 3:00pm; 8:00am - 4:00pm or 9:00am - 5:00pm. Onsite requirement is 40%; 2 days a week Tuesday and Wednesday. In this position, you will Lead first-line monitoring and analysis of the Credit Union’s loan portfolio to include credit quality, performance trends, and concentration risk. Perform advanced statistical and trend analysis to identify emerging risks, growth opportunities, and portfolio changes. Present findings and recommendations to management to support decisions impacting portfolio management, pricing, underwriting strategies, and credit policy. Evaluate the effectiveness of credit risk models, decision strategies, scorecards, policies, and pricing programs. Quantify business impacts and develop data-driven recommendations that balance risk, growth, and profitability objectives. Conduct pre- and post-implementation analyses to validate outcomes, assess ROI, and drive optimization. Develop, maintain, and enhance complex SQL queries, databases, scorecards, and analytical tools to support Credit Risk Management and executive decision-making. Identify, prioritize, and implement process automation and operational efficiency improvements through analytics and dashboard enhancements. Conduct forecasting, scenario analysis, and forward-looking portfolio assessments to support strategic planning, credit loss estimation, risk monitoring, and regulatory expectations. Partner with internal stakeholders to establish performance metrics, monitoring frameworks, and analytical methodologies that provide actionable insights and support enterprise objectives. Maintain knowledge of credit risk best practices, emerging analytical techniques, regulatory developments, and industry benchmarks. Provide guidance and mentorship on analytical methodologies, best practices, and risk measurement and modeling techniques. Represent Credit Risk Management in enterprise projects & initiatives. Lead requirements gathering, testing, implementation, validation, and post-implementation performance measurement. Other duties as assigned. Qualifications: Bachelors: Business Administration (Required), Bachelors: Data Analytics (Required), Bachelors: Economics (Required), Bachelors: Finance (Required), Bachelors: Mathematics (Required), Bachelors: Statistics (Required), Bachelors (Required), Masters, Masters: Data Analytics, Masters: Economics, Masters: Statistics Any equivalent combination of experience and education. | Required&#xa;Five years’ experience in Lending Management, Credit Risk Management, Financial Analysis, Data Analytics, or related field. | Required
+
+---
+
+## 6. [MAYBE] Blackhawk Network Holdings | Title Financial Analyst I
 - Link: https://careers-blackhawknetwork.icims.com/jobs/27400/financial-analyst-i/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -82,7 +215,7 @@ Financial Analyst I in Coppell, Texas | Careers at Blackhawk Network - Coppell, 
 
 ---
 
-## 5. [MAYBE] Procter & Gamble (P&G) | Data Engineer
+## 7. [MAYBE] Procter & Gamble (P&G) | Data Engineer
 - Link: https://pg.wd5.myworkdayjobs.com/1000/job/Weybridge/Data-Engineer_R000162789
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -97,7 +230,7 @@ Job Location Weybridge Job Description Ready to make an impact on globally renow
 
 ---
 
-## 6. [MAYBE] FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters
+## 8. [MAYBE] FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters
 - Link: https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FirstEnergyCareers/job/105882
 - Location: Akron, OH, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -112,7 +245,7 @@ Supervisor, Project Controls Analytics We are seeking a skilled and experienced 
 
 ---
 
-## 7. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
+## 9. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
 - Link: https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Data-Engineer_JR-1065782-1
 - Location: Chicago, IL
 - Posted: Nov 12 (board gives the date only)
@@ -127,7 +260,37 @@ Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilita
 
 ---
 
-## 8. [MAYBE] bet365 | Machine Learning Engineer
+## 10. [MAYBE] U.S. Bank | PCI Data Risk Analyst
+- Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/PCI-Data-Risk-Analyst_2026-0035298
+- Location: 2 Locations
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 82 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, healthcare, reporting, risk | Lacks: -
+- Eligibility: CHECK | Citizenship and Immigration Services.
+
+### Job description
+
+At U.S. Bank, we’re on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and discover what you excel at—all from Day One. Job Description U.S. Bank is seeking a highly effective and dynamic Payment Card Industry (PCI) Risk Analyst to lead Payment Card Industry Data Security Standard compliance activities in partnership with business line partners. This position is responsible for understanding PCI business processes, communicating PCI requirements, validating compliance, and coordinating activities necessary to maintain ongoing PCI compliance. Success will be measured through a thorough understanding of PCI business processes within Consumer and Business Banking and effective execution and oversight of activities required to maintain PCI compliance. The Payment Card Industry (PCI) Risk Analyst in Consumer and Business Banking (CBB) will be responsible for business line adherence to enterprise policies, including Information Security and Data Protection and Privacy Policies. Position Highlights Act as a business line subject matter expert for PCI Data Security Standard requirements and escalate matters of risk or non-compliance to enterprise partners Participate in risk management initiatives related to Data Protection and Information Security Work with business line partners to maintain continuous compliance with PCI requirements, including identification and management of PCI processes, people, and technology Define and document the scope of the cardholder data environment (CDE), systems connected to the CDE, and business processes within each business unit Coordinate PCI compliance activities, including documentation, evidence collection, stakeholder follow-up, and remediation tracking Identify compliance gaps, determine necessary next steps, and work with accountable business and technology partners to drive actions through resolution Maintain documentation and reporting necessary to demonstrate ongoing PCI compliance Basic Qualifications Bachelor's degree, or equivalent work experience Typically more than six years of applicable experience Preferred Skills and Experience Considerable knowledge of applicable laws, regulations, financial services, and regulatory trends that impact their assigned line of business Considerable understanding of the business line’s operations, products/services, systems, and associated risks/controls Thorough knowledge of Risk/Compliance/Audit competencies Strong analytical, process facilitation and project management skills Effective presentation, interpersonal, written and verbal communication skills Effective relationship building and negotiation skills Proficient computer navigation skills using a variety of software packages, including Microsoft Office applications and word processing, spreadsheets, databases, and presentations Applicable professional certifications Hybrid/flexible schedule The role offers a hybrid/flexible schedule, which means there's an in-office expectation of 3 or more days per week and the flexibility to work outside the office location for the other days. If there’s anything we can do to accommodate a disability during any portion of the application or hiring process, please refer to our disability accommodations for applicants . Benefits: Our approach to benefits and total rewards considers our team members’ whole selves and what may be needed to thrive in and outside work. That's why our benefits are designed to help you and your family boost your health, protect your financial security and give you peace of mind. Our benefits include the following: Healthcare (medical, dental, vision) Basic term and optional term life insurance Short-term and long-term disability Pregnancy disability and parental leave 401(k) and employer-funded retirement plan Paid vacation (from two to five weeks depending on salary grade and tenure) Up to 11 paid holiday opportunities Adoption assistance Sick and Safe Leave accruals of one hour for every 30 worked, up to 80 hours per calendar year unless otherwise provided by law Review our full benefits available by employment status here . U.S. Bank
+
+---
+
+## 11. [MAYBE] U.S. Bank | Research Analyst - Equity
+- Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Research-Analyst---Equity_2026-0032798
+- Location: Minneapolis, MN
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 82 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, healthcare, portfolio, research | Lacks: -
+- Eligibility: CHECK | Citizenship and Immigration Services.
+
+### Job description
+
+At U.S. Bank, we’re on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and discover what you excel at—all from Day One. Job Description Initiates and conducts research relating to investment suitability of various individual or classes of securities using sources such as annual or industry reports, trade journals, technical periodicals, and brokers' and management reports. Discusses with senior management of assigned corporations items such as industry or company trends in research and development, order backlogs, current and projected sales, trade position, labor relations and plant capacity. Discusses various companies and industries with other professional securities analyst both inside and outside the company. Prepares, or supervises the preparation of research reports to be presented to investment officers or committees that often include buy, sell or hold recommendations. Assists in analyzing the composition of investment portfolios and recommending portfolio strategies to fulfill investment objectives. Basic Qualifications - Bachelor's degree, or equivalent work experience - One to two years of research experience Preferred Skills/Experience - Basic understanding of investment management - Some knowledge of equity research and analysis techniques and mathematical decision modeling - Good understanding of the economy and market conditions - Ability to work independently - Well-developed analytical skills - Excellent verbal and written communication skills If there’s anything we can do to accommodate a disability during any portion of the application or hiring process, please refer to our disability accommodations for applicants . Benefits: Our approach to benefits and total rewards considers our team members’ whole selves and what may be needed to thrive in and outside work. That's why our benefits are designed to help you and your family boost your health, protect your financial security and give you peace of mind. Our benefits include the following: Healthcare (medical, dental, vision) Basic term and optional term life insurance Short-term and long-term disability Pregnancy disability and parental leave 401(k) and employer-funded retirement plan Paid vacation (from two to five weeks depending on salary grade and tenure) Up to 11 paid holiday opportunities Adoption assistance Sick and Safe Leave accruals of one hour for every 30 worked, up to 80 hours per calendar year unless otherwise provided by law Review our full benefits available by employment status here . U.S. Bank
+
+---
+
+## 12. [MAYBE] bet365 | Machine Learning Engineer
 - Link: https://jobs.smartrecruiters.com/Bet3651/744000161522539
 - Location: Denver Colorado us
 - Posted: Nov 13 10:52 ET
@@ -142,7 +305,7 @@ We are seeking a highly pragmatic, results-driven Machine Learning (ML) Engineer
 
 ---
 
-## 9. [MAYBE] Dentsu | Data Engineer
+## 13. [MAYBE] Dentsu | Data Engineer
 - Link: https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/HoChiMinhCity/Data-Engineer_R1122768
 - Location: Ho Chi Minh City
 - Posted: Nov 12 (board gives the date only)
@@ -157,7 +320,7 @@ The Data Engineer is responsible for designing, building, and maintaining the co
 
 ---
 
-## 10. [MAYBE] Lloyds Bank | Business Data Analyst - Controls Office
+## 14. [MAYBE] Lloyds Bank | Business Data Analyst - Controls Office
 - Link: https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Chester/Business-Data-Analyst---Controls-Office_165850
 - Location: 6 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -172,7 +335,7 @@ End Date Thursday 26 November 2026 Salary Range £44,901 - £49,890 We support f
 
 ---
 
-## 11. [MAYBE] Howard University | Research Assistant (Peer Recovery)
+## 15. [MAYBE] Howard University | Research Assistant (Peer Recovery)
 - Link: https://howard.wd1.myworkdayjobs.com/HU/job/Washington-DC/Research-Assistant--Peer-Recovery-_JR108816-1
 - Location: Washington DC
 - Posted: Nov 12 (board gives the date only)
@@ -187,7 +350,52 @@ The Talent Acquisition department hires qualified candidates to fill positions w
 
 ---
 
-## 12. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
+## 16. [MAYBE] INTEGRIS Health | Epic Cogito Analytics Engineer
+- Link: https://ertr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/116359
+- Location: OK, United States US
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: etl, sql, statistic, tableau, git, healthcare, risk, validation | Lacks: qlik, ssis
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Get to Know Your Team INTEGRIS Health, Oklahoma's largest not-for-profit health systems, is seeking a dedicated caregiver to join us in our mission to partner with people to live heathier lives. Benefits of being an INTEGRIS Health caregiver include front-loaded PTO, Medical benefits through the extensive INTEGRIS Health Network, finanical assistance for continued education, 24/7 health support and more. Take the first step toward growing your career by joining us. The Analytics Engineer (AE) role combines analytics skills with an understanding of the processes and data that support health care to inform and improve desired performance outcomes. The AE is responsible for supporting the creation and delivery of analytic value (including discovery, development, communication and/or interpretation) for clinical and business teams as defined by analytics management and stakeholder domain leaders. The AE supports and contributes to management and stakeholder expectations. INTEGRIS is an Equal Opportunity/Affirmative Action Employer. All applicants will receive consideration regardless of membership in any protected status as defined by applicable state or federal law, including protected veteran or disability status. Perform tasks, assignments, conducts analysis and development within a limited scope and scale of deliverables; basic to intermediate level skills and experience with tools * Contribute to scoping stakeholder requirements for analytic solutions and developing the appropriate analytic approach * Design and develop data models and visualizations that meet project requirements and comply with established design standards and principles * Conduct data validation tests to ensure quality of measurement * Conduct and/or contribute to presenting solutions to stakeholders and collaborating through iterations * Assist with training and coaching team members and stakeholders on tools and methodologies * Manage individual workload and quality of deliverables * All other duties as assigned Reports to the assigned Director or Vice President This position may have additional or varied physical demand and/or respiratory fit test requirements. Please consult the Physical Demands Project SharePoint site or contact Risk Management/Employee Health for additional information. Performs job duties in a manner which will ensure a physical environment free of hazards to self and others. * BS/BA in information technology, math, statistics, healthcare or business-related field or equivalent relevant work experience * Master's Degree (MSIS preferred) or 2+ years' experience in technology or technology related field * Intermediate SQL Knowledge of creating stored procedures, functions * Use of temp tables, CTEs * Knowledge of best practices in data modeling * Experience with Extract, Transform, and Load (ETL) processes and principles. Familiarity with multiple ETL applications is a bonus. * Strong experience delivering analytics to technical, non-technical and leadership teams that influence and support business strategy * Effective written and verbal communication and presentation skills * Strong ability to Interact with and communicate with all levels of employees and clients * Self-motivated; comfortable working independently under general direction Preferred: * Health care experience, particularly working with data * Statistical modeling experience * Strong working knowledge of database principles, processes, technologies and tools * Experience with SQL Server Integration Services (SSIS) * Visualization experience using a variety of BI tools (Qlikview, Tableau, Cognos, Crystal Reports) * Experience with development methodologies including AGILE development * Experience and/or training in continuous improvement methodologies including Lean & Six Sigma, Change Management, Facilitation Skills and Project Management
+
+---
+
+## 17. [MAYBE] Visa | Marketing Analyst
+- Link: https://visa.wd5.myworkdayjobs.com/Visa/job/US---Atlanta-GA/Marketing-Analyst_REF090402W
+- Location: US - Atlanta, GA
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, git, pipeline, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | About Us Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to  / At Visa, you'll have the opportunity to create impact at scale — tackling meaningful challenges, growing your skills and seeing your contributions impact lives around the world.
+
+### Job description
+
+About Us Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid. At Visa, you'll have the opportunity to create impact at scale — tackling meaningful challenges, growing your skills and seeing your contributions impact lives around the world. Join Visa and do work that matters – to you, to your community, and to the world. Progress starts with you. Job Description Job Description This is an exciting time to join Visa's U.S. Marketing Services team, as we strengthen our focus on developing new partnerships and deepening relationships with established Issuer, Merchant and Fintech Clients. The U.S. Marketing Services team, part of the overall North America Marketing organization, is transforming how we partner with clients to drive engagement, through a proactive and results driven marketing approach. As part of the U.S. Marketing Services team, the Analyst, U.S. Marketing Services Super Regional Issuers will support the development and execution of client programs that optimize the use of Visa marketing platforms/initiatives. This Analyst is responsible for supporting partnership relationships with Visa’s Super Regional bank clients, and building best-in-class co-marketing plans that support business goals for both Visa and its clients. This Analyst must be able to thrive in a dynamic, highly-matrixed environment. The analyst will be results-oriented, flexible, and have a “can do”, positive attitude. Additionally, the analyst must have a consistent track record in working collaboratively with internal team members and external clients. The analyst should be detail oriented and thoughtful when preparing materials for clients. In addition, you should be qualified to communicate directly with clients through weekly conference calls, video conferences, or in-person meetings. The Analyst will support important administrative functions across multiple platforms including opening and managing budgets, submitting intake forms and financial reporting. Essential Functions Support the sell-in, development, and implementation of B2B, B2C and B2B2C marketing programs that leverage Visa resources, expertise, platforms, and sponsorship assets to drive business goals for Visa and its clients. Work cross-functionally with key internal stakeholders including Account Sales, Consulting & Analytics, Product Marketing, Research & Insights, Brand, Product, Communications, Digital Media, Legal, and agency partners to align priorities, coordinate deliverables, and ensure seamless program execution. Assist the business development team with opportunity support and proposal development, including compiling client-facing proposals, creating PowerPoint presentations, supporting program ideation, and contributing to process improvements across marketing research, strategy, creative development, and channel delivery. Manage internal processes and operational workstreams that support marketing program delivery, including business development pipeline tracking, project pricing reviews and approvals, budget management, agency and client SOWs, legal agreement routing, purchase order management, vendor invoicing, and project revenue recognition. Provide project management support for client marketing programs, including managing timelines and budgets, running weekly internal and client status calls, drafting agendas and call notes, coordinating agency partners, routing materials for review, and securing necessary stakeholder approvals. Track program performance and results, including managing post-campaign tracking, analytics, results recaps, and status updates, while building strong cross-functional relationships and operating with a flexible, results-oriented, “can-do” attitude in a fast-moving, highly matrixed environment. Visa requires at least 3 days in office, expectations of these days will be confirmed by your Hiring Manager. This role must sit in Atlanta, Georgia. Qualifications Basic Qualifications 2 or more years of work experience with a Bachelor's Degree or an Advanced Degree (e.g., Master's, MBA, JD, MD, or PhD). Preferred Qualifications 3 or more years of work experience with a Bachelor's Degree or more than 2 years of work experience with an Advanced Degree (e.g., Master's, MBA, JD, MD). Experience supporting marketing, business development, or project management initiatives within financial services, payments, fintech, banking, or client-facing B2B/B2C environments. Knowledge of digital and integrated marketing channels, including digital, social, paid search, influencer, sponsorship, events, and other performance or brand marketing tactics relevant to Super Regional and Fintech clients. Strong presentation, written, and verbal communication skills, with the ability to create clear client-ready materials, communicate effectively in meetings, and translate complex information or data into actionable insights and recommendations. Demonstrated ability to manage cross-functional, end-to-end projects with a high level of detail, including coordinating internal and external stakeholders, managing timelines and budgets, tracking deliverables, and ensuring deadlines are met. Strong relationship management and influencing skills, with the ability to build trust, manage expectations, and collaborate with Sales, Product, Marketing, agencies, clients, and other internal or external decision makers. Self-motivated, proactive, and solutions-oriented, with the ability to self-manage, ask thoughtful questions, propose solutions, multitask across multiple priorities, and operate with appropriate urgency in a fast-paced environment. Experience running meetings with internal and external stakeholders, including preparing agendas, capturing follow-ups, facilitating discussion, and driving alignment across workstreams. Strong strategic thinking and problem-solving skills, with a results-focused mindset and the ability to approach challenges with thoughtfulness, drive, and sound judgment. Advanced proficiency in Microsoft Office, particularly PowerPoint, Excel, and Word, with the ability to build polished presentations, analyze information, and manage trackers or reports. Client-facing, agency, fintech, financial services, or digital marketing experience preferred Characteristics: Strategic thinker and results-driven problem solver who approaches challenges with thoughtfulness, drive, and urgency Strong executive presence with the ability to represent Visa effectively with internal stakeholders and clients Collaborative, hands-on teammate who builds strong relationships and thrives under pressure and tight deadlines Sound judgment and strong communication skills, with the ability to communicate effectively up, down, and across the organization Passion for project management with strong  [...]
+
+---
+
+## 18. [MAYBE] Northwell Health | Business intelligence Specialist
+- Link: https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/200359
+- Location: New York, New York, United States US
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 14 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, reporting, research, validation | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Description Supports the design and development of custom Business Intelligence (BI) dashboards, metrics and reports. Translates business requirements into detailed technical design and programming specifications, conducts data analysis, identifies data sources, and creates and modifies data architecture as necessary. Participates and supports the analysis of business intelligence initiatives Job Responsibility Develops dashboards, metrics, or insights and identify trends or anomalies. Consults with users or decision makers to identify data sources, required data elements, or data validation standards. Collaborates with development teams to design business intelligence solutions to facilitate data gathering, storage, and retrieval. Collaborates with end users in the design and development of custom dashboards, metrics and reports. Analyzes and evaluates end user’s reporting needs and translates business requirements into detailed technical design and programming specifications. Researches and conducts data analysis in support of resolution of production issues. Coordinates with other IT groups and other departments in the resolution of problem calls. Documents all report related activities including user requests, report specification, development, modification, testing and on-going production support. Creates dashboard and reporting solutions to meet user needs and requirements. Ensures development of entire dashboard life cycle including coding, unit testing, bug fixes and report design. Operates under general guidance and work assignments are varied and require interpretation and independent decisions on course of action. Performs related duties as required. All responsibilities noted here are considered essential functions of the job under the Americans with Disabilities Act. Duties not mentioned here, but considered related are not essential functions. Job Qualification Bachelor’s Degree in Computer Science, Information Systems or related technical field required, or equivalent combination of education and related experience. Minimum of 3 years of relevant experience, required. *Additional Salary Detail The salary range and/or hourly rate listed is a good faith determination of potential base compensation that may be offered to a successful applicant for this position at the time of this job advertisement and may be modified in the future. When determining a team member's base salary and/or rate, several factors may be considered as applicable (e.g., location, specialty, service line, years of relevant experience, education, credentials, negotiated contracts, budget and internal equity).
+
+---
+
+## 19. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
 - Link: https://ms.wd5.myworkdayjobs.com/External/job/Greenwood-Village-Colorado-United-States-of-America/Wealth-Management---Fiduciary-Consulting-Group--FCG---Performance-Analyst---Analyst---Associate_PT-JR046133
 - Location: Greenwood Village, Colorado, United States of America
 - Posted: Nov 12 (board gives the date only)
@@ -202,7 +410,7 @@ Morgan Stanley is a leading global financial services firm providing a wide rang
 
 ---
 
-## 13. [MAYBE] Jabil | Financial Reporting Analyst
+## 20. [MAYBE] Jabil | Financial Reporting Analyst
 - Link: https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Analyst-I_J2464707
 - Location: St. Petersburg/Tampa, FL
 - Posted: Nov 12 (board gives the date only)
@@ -217,7 +425,7 @@ At Jabil (NYSE: JBL), we are proud to be a trusted partner for the world's top b
 
 ---
 
-## 14. [MAYBE] Inova | Financial Performance Analyst 2
+## 21. [MAYBE] Inova | Financial Performance Analyst 2
 - Link: https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/692434
 - Location: United States US VA, United States
 - Posted: Nov 13 (board gives the date only)
@@ -232,7 +440,7 @@ Inova Health is looking for a dedicated Financial Performance Analyst 2 to join 
 
 ---
 
-## 15. [MAYBE] Ohio State University | Data Science Senior Analyst, AI Engineer
+## 22. [MAYBE] Ohio State University | Data Science Senior Analyst, AI Engineer
 - Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Data-Science-Senior-Analyst--AI-Engineer_R162476-1
 - Location: Columbus Campus
 - Posted: Nov 12 (board gives the date only)
