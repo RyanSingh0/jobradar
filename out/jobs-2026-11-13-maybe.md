@@ -30,18 +30,19 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 24 | Northwell Health | Business intelligence Specialist | 45 | 14 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
 | 25 | UTHealth Houston | Research Associate | 45 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
 | 26 | 42dot | Machine Learning & Data Engineer, Vehicle Modeling | 44 | none found (check myvisajobs) | Nov 13 14:36 ET |
-| 27 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 28 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 29 | Etsy | Machine Learning Engineer IC3.1. Ads Recommendations | 40 | 19 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 30 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 31 | O'Reilly Auto Parts | Merchandise Data Analyst | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 32 | Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems | 67 | 5 in data/analytics/finance occupations | Nov 13 14:29 ET |
-| 33 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 34 | Ohio State University | Data Science Senior Analyst, AI Engineer | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 35 | Genentech | Senior AI Engineer | 55 | 35 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 36 | Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics | 55 | 71 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 37 | Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases | 55 | 2 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 38 | University of Southern California | Biostatistician II | 55 | cap-exempt employer | Nov 13 (board gives the date only) |
+| 27 | General Motors | AI/ML Engineer - Model Inference | 44 | 22 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 28 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 29 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 30 | Etsy | Machine Learning Engineer IC3.1. Ads Recommendations | 40 | 19 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 31 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 32 | O'Reilly Auto Parts | Merchandise Data Analyst | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 33 | Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems | 67 | 5 in data/analytics/finance occupations | Nov 13 14:29 ET |
+| 34 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 35 | Ohio State University | Data Science Senior Analyst, AI Engineer | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 36 | Genentech | Senior AI Engineer | 55 | 35 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 37 | Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics | 55 | 71 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 38 | Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases | 55 | 2 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 39 | University of Southern California | Biostatistician II | 55 | cap-exempt employer | Nov 13 (board gives the date only) |
 
 ---
 
@@ -598,7 +599,22 @@ Additional Information
 
 ---
 
-## 27. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
+## 27. [MAYBE] General Motors | AI/ML Engineer - Model Inference
+- Link: https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/AI-ML-Engineer---Model-Inference_JR-202613719-1
+- Location: Sunnyvale, California, United States of America
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~44 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 22 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, machine learning, regression, pipeline | Lacks: scala
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Description The Team Cola is part of GM’s autonomous vehicle effort, focused on helping teams discover, understand, and curate high-value data from large-scale real-world sensor streams. The team sits at the intersection of machine learning, data infrastructure, and developer productivity, building systems that make it easier to search for important scenarios, prepare training-ready data, and support fast iteration across perception and evaluation workflows. Our goal is to make world understanding scalable, practical, and cost efficient for embodied AI systems. We believe the next generation of autonomy and robotics depends not only on stronger models, but also on better infrastructure for turning massive volumes of multimodal data into reusable signals, searchable artifacts, and high-quality evaluation loops. That means building systems that can operate at industrial scale while preserving the flexibility to adapt quickly to new questions, new edge cases, and new model capabilities. A core idea behind how we work is EMWU, or Efficient Multi-Tier World Understanding. At a high level, EMWU is a cost-aware approach that first performs the cheapest reusable work, such as detection, featurization, and retrieval, and then applies deeper reasoning only where it adds meaningful value. This operating model reflects how Cola engineers think: build durable intermediate artifacts, design for scale from the start, and balance quality, speed, and cost instead of optimizing any one of them in isolation. The Role We are looking for a hands-on machine learning engineer to help build the data processing, featurization, and inference foundations that power scalable world understanding. This role is ideal for someone who is equally comfortable working on machine learning systems, production infrastructure, and evaluation loops, and who enjoys turning ambiguous problems into practical, reliable solutions. What You’ll Do Design, build, and productionize data processing and featurization pipelines for large-scale multimodal data Improve inference frameworks for computer vision and multimodal models, with a focus on reliability, extensibility, and operational simplicity Drive scalability and cost efficiency across the end-to-end pipeline, including compute utilization, throughput, storage, and query performance Work closely with partners across machine learning, infrastructure, and evaluation to deliver systems that support both rapid experimentation and production use Develop and refine evaluation methods for model quality, retrieval quality, and system-level performance Help shape technical direction through strong execution, thoughtful tradeoff analysis, and clear engineering judgment Take ownership of ambiguous problem spaces, define practical paths forward, and move quickly from prototype to production Operate with urgency and a strong bias toward execution velocity while maintaining a high bar for engineering quality Your Skills & Abilities BS, MS, or PhD in Computer Science, Electrical Engineering, Robotics, or a related technical field, or equivalent practical experience Experience building production data processing or machine learning pipelines at scale Experience with featurization, embedding, inference, or retrieval systems for vision or multimodal workloads Strong understanding of computer vision models and the practical challenges of deploying them in production environments Experience evaluating machine learning systems using clear metrics, experiments, and regression safeguards Proven ability to work hands-on in fast-moving environments with incomplete information Strong ownership mindset, sound technical judgment, and the ability to drive execution through ambiguity What Will Give You A Competitive Edge Experience with world models or large-scale world understanding systems Experience with simulation workflows or synthetic data systems Experience with vector search, approximate nearest neighbor retrieval, or large-scale embedding infrastructure Experience working on embodied AI, autonomous systems, or safety-critical machine learning applications Compensation The salary range for this role is $117,700 and $221,400. The actual base salary a successful candidate will be offered within this range will vary based on factors relevant to the position (along with level.) Bonus Potential: An incentive pay program offers payouts based on company performance, job level, and individual performance. Benefits: GM offers a variety of health and wellbeing benefit programs. Benefit options include medical, dental, vision, Health Savings Account, Flexible Spending Accounts, retirement savings plan, sickness and accident benefits, life insurance, paid vacation & holidays, tuition assistance programs, employee assistance program, GM vehicle discounts and more. &#xa;&#xa;&#xa;&#xa;This role is based remotely, but if the selected candidate lives within a specific mile radius of a GM hub, they will be expected to report to the location three times a week {or other frequency dictated by your manager}.&#xa;&#xa;Relocation benefits are available for candidates who qualify under company policy.&#xa;&#xa; About GM Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all. Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team. Benefits Overview From day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources . Non-Discrimination and Equal Employment Opportunities (U.S.) General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers. All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit Ho [...]
+
+---
+
+## 28. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
 - Link: https://ms.wd5.myworkdayjobs.com/External/job/Greenwood-Village-Colorado-United-States-of-America/Wealth-Management---Fiduciary-Consulting-Group--FCG---Performance-Analyst---Analyst---Associate_PT-JR046133
 - Location: Greenwood Village, Colorado, United States of America
 - Posted: Nov 12 (board gives the date only)
@@ -613,7 +629,7 @@ Morgan Stanley is a leading global financial services firm providing a wide rang
 
 ---
 
-## 28. [MAYBE] Jabil | Financial Reporting Analyst
+## 29. [MAYBE] Jabil | Financial Reporting Analyst
 - Link: https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Analyst-I_J2464707
 - Location: St. Petersburg/Tampa, FL
 - Posted: Nov 12 (board gives the date only)
@@ -628,7 +644,7 @@ At Jabil (NYSE: JBL), we are proud to be a trusted partner for the world's top b
 
 ---
 
-## 29. [MAYBE] Etsy | Machine Learning Engineer IC3.1. Ads Recommendations
+## 30. [MAYBE] Etsy | Machine Learning Engineer IC3.1. Ads Recommendations
 - Link: https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Machine-Learning-Engineer-IC31-Ads-Recommendations_JR6135-1
 - Location: Brooklyn, New York
 - Posted: Nov 13 (board gives the date only)
@@ -643,7 +659,7 @@ Company Description Etsy is the global marketplace for unique and creative goods
 
 ---
 
-## 30. [MAYBE] UTHealth Houston | Research Assistant
+## 31. [MAYBE] UTHealth Houston | Research Assistant
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8484
 - Location: San Antonio, TX, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -658,7 +674,7 @@ Under general supervision, provides routine technical assistance in performing a
 
 ---
 
-## 31. [MAYBE] O'Reilly Auto Parts | Merchandise Data Analyst
+## 32. [MAYBE] O'Reilly Auto Parts | Merchandise Data Analyst
 - Link: https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/Merchandise-Data-Analyst_R193941
 - Location: Headquarters
 - Posted: Nov 13 (board gives the date only)
@@ -673,7 +689,7 @@ A Merchandise Data Analyst researches and explores data-based information using 
 
 ---
 
-## 32. [MAYBE] Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems
+## 33. [MAYBE] Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems
 - Link: https://jobs.ashbyhq.com/socure/382aacca-5f17-41a9-961e-6f89982058fe
 - Location: Hub - San Francisco United States Hub - New York Hub - Seattle remote
 - Posted: Nov 13 14:29 ET
@@ -774,7 +790,7 @@ REQUIRED QUALIFICATIONS
 
 ---
 
-## 33. [MAYBE] Inova | Financial Performance Analyst 2
+## 34. [MAYBE] Inova | Financial Performance Analyst 2
 - Link: https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/692434
 - Location: United States US VA, United States
 - Posted: Nov 13 (board gives the date only)
@@ -789,7 +805,7 @@ Inova Health is looking for a dedicated Financial Performance Analyst 2 to join 
 
 ---
 
-## 34. [MAYBE] Ohio State University | Data Science Senior Analyst, AI Engineer
+## 35. [MAYBE] Ohio State University | Data Science Senior Analyst, AI Engineer
 - Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Data-Science-Senior-Analyst--AI-Engineer_R162476-1
 - Location: Columbus Campus
 - Posted: Nov 12 (board gives the date only)
@@ -804,7 +820,7 @@ Screen reader users may encounter difficulty with this site. For assistance with
 
 ---
 
-## 35. [MAYBE] Genentech | Senior AI Engineer
+## 36. [MAYBE] Genentech | Senior AI Engineer
 - Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-AI-Engineer_202611-128780
 - Location: South San Francisco
 - Posted: Nov 13 (board gives the date only)
@@ -819,7 +835,7 @@ We’re passionate about delivering on Our Promise to improve the lives of patie
 
 ---
 
-## 36. [MAYBE] Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics
+## 37. [MAYBE] Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/Sr-Scientist--Bioinformatics--Translational-Genome-Analytics_R426685-1
 - Location: USA - Massachusetts - Boston (MA Parcel B Laboratory)
 - Posted: Nov 13 (board gives the date only)
@@ -834,7 +850,7 @@ Job Description Role Overview: Our company is a global health care leader commit
 
 ---
 
-## 37. [MAYBE] Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases
+## 38. [MAYBE] Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases
 - Link: https://elanco.wd5.myworkdayjobs.com/External_Career/job/US---Teleworker/Senior-Research-Scientist---Farm-Animal-Clinical-Development--Vaccines-and-Infectious-Diseases_R0027380
 - Location: 3 Locations
 - Posted: Nov 13 (board gives the date only)
@@ -849,7 +865,7 @@ At Elanco (NYSE: ELAN) – it all starts with animals! As a global leader in ani
 
 ---
 
-## 38. [MAYBE] University of Southern California | Biostatistician II
+## 39. [MAYBE] University of Southern California | Biostatistician II
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/San-Diego-CA/Biostatistician-II_REQ20181725
 - Location: San Diego, CA
 - Posted: Nov 13 (board gives the date only)
