@@ -4,14 +4,46 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 2 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 3 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 4 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 1 | ING | Data Scientist Specialist | 70 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 2 | Procter & Gamble (P&G) | Data Engineer | 60 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 3 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 4 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 5 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 6 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
+## 1. [MAYBE] ING | Data Scientist Specialist
+- Link: https://ing.wd3.myworkdayjobs.com/icsgblcor/job/PB_Cen_Katowice-ul-Chorzowska-50/Data-Scientist-Specialist-1_REQ-10123233
+- Location: PB_Cen_Katowice (ul. Chorzowska 50)
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~70 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: llm, machine learning, python, pytorch, scikit, tensorflow, deep learning, xgboost | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+O stanowisku: Forma zatrudnienia: umowa o pracę Lokalizacja: ul. Sokolska 34, Katowice (2 dni w tygodniu pracujemy z biura) O nas Dołącz do zespołu, który tworzy i rozwija rozwiązania oparte o sztuczną inteligencję wykorzystywane przez pracowników i klientów. Pracujemy nad projektami z obszaru GenAI, Machine Learning i Deep Learning, rozwijając rozwiązania wspierające m.in. obsługę klienta, analizę dokumentów, produktywność pracowników oraz inteligentne procesy decyzyjne. Będziesz częścią interdyscyplinarnego zespołu współpracującego z ekspertami biznesowymi, architektami, inżynierami danych, specjalistami MLOps oraz ekspertami AI Governance. Nasz zespół odpowiada za projektowanie, rozwój i wdrażanie rozwiązań AI oraz odpowiedzialnego wykorzystania sztucznej inteligencji. Twoje zadania projektujesz, budujesz i rozwijasz modele ML/DL oraz rozwiązania Generative AI analizujesz problemy biznesowe i identyfikujesz możliwości wykorzystania AI przygotowujesz, przetwarzasz i eksplorujesz dane strukturalne oraz nieustrukturyzowane rozwijasz aplikacje wykorzystujące duże modele językowe (LLM) projektujesz i implementujesz rozwiązania RAG (Retrieval Augmented Generation) tworzysz prompty, testujesz jakość odpowiedzi oraz optymalizujesz działanie modeli GenAI monitorujesz jakość modeli oraz analizujesz ich efektywność biznesową przygotowujesz rekomendacje oraz prezentujesz wyniki analiz interesariuszom biznesowym Nasze oczekiwania: posiadasz minimum 2 lata doświadczenia w obszarze Data Science, Machine Learning i/lub GenAI bardzo dobrze znasz Python masz doświadczenie w pracy z bibliotekami Machine Learning (np. scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch) posiadasz praktyczną wiedzę dotyczącą LLM, GenAI, prompt engineeringu oraz architektur RAG potrafisz samodzielnie analizować problemy biznesowe i proponować rozwiązania analityczne umiesz komunikować wyniki analiz osobom nietechnicznym znasz język angielski na poziomie umożliwiającym pracę w środowisku międzynarodowym Mile widziane: doświadczenie we wdrażaniu modeli na środowiska produkcyjne, znajomość platform Vertex AI lub podobnych, doświadczenie w pracy w środowisku Agile/Scrum. To oferujem y: Inwestujemy w rozwój - proponujemy dofinansowanie szkoleń i kursów oraz dostęp do platform edukacyjnych: Udemy Business, eTutor, wewnętrznej platformy elearningowej. Oferujemy także staże rozwojowe czy konsultacje z doradcami kariery Dbamy o zdrowie i bezpieczeństwo - oferujemy pakiet medyczny i ubezpieczenie na życie dla Ciebie i Twoich bliskich, dostęp do platformy Mindgram z indywidualnymi konsultacjami ze specjalistami i webinariami. Pracując w ING masz możliwość dołączenia do Pracowniczego Programu Emerytalnego i Programu Profilaktyki Onkologicznej Promujemy aktywność fizyczną i zdrowy tryb życia. Oferujemy bezpłatne karty sportowe Multisport oraz Medicover Sport – możesz korzystać z szerokiej gamy obiektów sportowych i zajęć. Wierzymy, że aktywność fizyczna to klucz do dobrego samopoczucia i równowagi Work life balance w praktyce to dodatkowe dni wolne: „dzień dla rodziny” (od Ciebie zależy jak go wykorzystasz), wolne dni w formie nagrody i wolne godziny na wolontariat czy profilaktykę zdrowotną Dla rodziców mamy dodatkowe dni urlopu macierzyńskiego i ojcowskiego oraz dni wolne na opiekę nad dzieckiem, niezależenie od wykorzystanego limitu przez drugiego rodzica Dołączając do nas decydujesz się na pracę w stabilnej i zorientowanej na komfortowe warunki pracy organizacji z certyfikatem Top Employer. Przyszłość to nasza wspólna inwestycja - razem z ING możesz zaangażować się w każdą inicjatywę wspierającą ESG i odpowiedzialność społeczną Każdej osobie pracującej zapewniamy niezbędny sprzęt do pracy, ale jeśli chcesz korzystać z własnego smartfona jako telefonu służbowego, oferujemy program BYOD (Bring Your Own Device) z refundacją i zniżkami na wybrane zakupy. Laptop do pracy zapewniamy standardowo Świętujemy wspólnie i poznajemy się na zespołowych wyjazdach, imprezach rodzinnych i sportowych, jak Dzień Dziecka, Biegnij Warszawo czy Turnieje sportowe
+
+---
+
+## 2. [MAYBE] Procter & Gamble (P&G) | Data Engineer
+- Link: https://pg.wd5.myworkdayjobs.com/1000/job/Weybridge/Data-Engineer_R000162789
+- Location: 2 Locations
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~60 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, llm, python, sql, statistic, ai agent, data quality, docker, git, pipeline, quantitative, research, segmentation | Lacks: azure, scala  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | Full details on visa restrictions can be found on the Home Office website and immigration rules are subject to change. / If your current right to work is temporary, or linked to another sponsor, P&G are willing to provide sponsorship from the end of your current permission, subject to meeting all the necessary Home Office requirements.
+
+### Job description
+
+Job Location Weybridge Job Description Ready to make an impact on globally renowned brands like Gillette, Pampers, Head & Shoulders and Oral-B? Join our data engineering team at P&G, where business, innovation and technology come together to create a competitive advantage. This role is for a curious, practical problem-solver who wants to learn fast, build things that work and make a visible impact. As a Data Engineer, you will pioneer the application of technology to the solution of business problems by partnering closely with business teams to deeply understand their core challenges and strategic goals. Your primary focus will be on designing and building intelligent systems that can reason, plan, and execute tasks with a high degree of autonomy. This innovation focused role requires you to translate business needs into novel agentic solutions, taking responsibility for the full development lifecycle from rapid prototyping to building robust, scalable solutions. What You Can Expect: Collaborate directly with business stakeholders to identify, understand, and define high-impact opportunities for the application of technology. Lead the conceptualization and rapid prototyping of AI-based proof of concepts; demonstrate value, fail fast. Architect and build intelligent production solutions to identified opportunities utilising the optimal data engineering tool-set; with a focus on Agentic AI. Own the full product development lifecycle, ensuring the final systems are robust, scalable, and align with governance frameworks. Architect, build, and maintain scalable data pipelines. This includes integrating with existing data sources and applying software engineering practices to ensure data reliability, security and quality. Collaborate with Cloud/Infrastructure teams to provision and configure the necessary environments development, including cloud resources, container orchestration platforms, and databases. Develop and maintain robust, automated data pipelines that feed real-time and batch data to AI agents for reasoning and tool use, ensuring data quality and reliability. Implement and manage CI/CD pipelines using tools like GitHub Actions to automate the testing, containerization, and deployment of AI agents, data pipelines, and infrastructure as code. Package and deploy AI agents as scalable and secure microservices using containers (Docker) and API frameworks (e.g., FastAPI, Flask), ensuring they can be integrated into broader business systems. Develop user interfaces and interactive demos for key stakeholders. Implement comprehensive monitoring to track agent performance, decision accuracy, tool usage, and resource consumption, creating automated alerts and evaluation frameworks. Work directly with business units to integrate agent-driven capabilities into their workflows and applications, helping to measure and communicate the resulting business impact. What We Offer You: Meaningful work from Day 1: You'll be working on some of the UK's best loved brands, with the space and opportunity to bring your experience, energy and new perspectives and make a genuine impact right from the start. Continuous development: At P&G we offer a career, not just a job. You'll be empowered to become the best at what you do through continuous learning, day-to-day coaching from your manager, a varied career path and the chance to work alongside inspiring people. Empowering culture: You'll collaborate on impactful projects in a supportive environment where our company values are embraced and diversity is celebrated. Competitive benefits: P&G takes a Total Rewards approach. On top of your competitive salary of £45,000, which is reviewed annually, you can expect a double-matched pension scheme, private health insurance, participation in a stock ownership scheme, 25 days holiday and your very own 'Flex4Me' Fund, which lets you allocate a portion of your benefits package to the areas that matter most to you. Job Qualifications What We Look For: You have a Bachelor's or Master's degree in a quantitative field such as Computer Science, Engineering, Maths, Statistics, Operations Research or Analytics. You have an experimental, iterative approach and are excited by the challenge of pioneering new solutions in ambiguous environments. A deep curiosity for autonomous AI and its practical application would be particularly useful. Excellent communication and collaboration skills, with a proven ability to partner with non-technical stakeholders, understand business challenges, and translate them into technical requirements. A proactive, self-motivated attitude with strong analytical and problem-solving skills. Fluency in English (written and oral). Technical experience (foundational experience in several of these is enough): Strong proficiency in Python Solid understanding of software engineering best practices, automated testing, and writing clean, maintainable code. Experience with SQL for complex data querying and manipulation. Demonstrable experience/understanding of Large Language Models (LLMs) and ideally familiarity with agentic frameworks and libraries Hands-on experience building and orchestrating data pipelines Practical knowledge of CI/CD automation, specifically using GitHub Actions, to build, test, and deploy code and infrastructure. Experience with containerization (Docker) and deploying applications as APIs using frameworks like FastAPI or Flask. Familiarity with Azure Note: We have immediate availability for this role, so we encourage you to apply if you are able to start as soon as possible. We may close the role early if positions are filled. Right to Work: For our entry level technical roles such as this one, you will need a continuous, or temporary right to work in the UK. If your current right to work is temporary, or linked to another sponsor, P&G are willing to provide sponsorship from the end of your current permission, subject to meeting all the necessary Home Office requirements. Full details on visa restrictions can be found on the Home Office website and immigration rules are subject to change. P&G is legally required to ensure all candidates have the right to work in the UK from Day 1 of their employment. All applicants will therefore be asked to provide evidence of their right to work at the conclusion of the recruitment process as a condition of employment. At P&G #weseeequal
+
+---
+
+## 3. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
 - Link: https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Data-Engineer_JR-1065782-1
 - Location: Chicago, IL
 - Posted: Nov 12 (board gives the date only)
@@ -26,7 +58,7 @@ Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilita
 
 ---
 
-## 2. [MAYBE] Dentsu | Data Engineer
+## 4. [MAYBE] Dentsu | Data Engineer
 - Link: https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/HoChiMinhCity/Data-Engineer_R1122768
 - Location: Ho Chi Minh City
 - Posted: Nov 12 (board gives the date only)
@@ -41,7 +73,7 @@ The Data Engineer is responsible for designing, building, and maintaining the co
 
 ---
 
-## 3. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
+## 5. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
 - Link: https://ms.wd5.myworkdayjobs.com/External/job/Greenwood-Village-Colorado-United-States-of-America/Wealth-Management---Fiduciary-Consulting-Group--FCG---Performance-Analyst---Analyst---Associate_PT-JR046133
 - Location: Greenwood Village, Colorado, United States of America
 - Posted: Nov 12 (board gives the date only)
@@ -56,7 +88,7 @@ Morgan Stanley is a leading global financial services firm providing a wide rang
 
 ---
 
-## 4. [MAYBE] Inova | Financial Performance Analyst 2
+## 6. [MAYBE] Inova | Financial Performance Analyst 2
 - Link: https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/692434
 - Location: United States US VA, United States
 - Posted: Nov 13 (board gives the date only)
