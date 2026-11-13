@@ -19,32 +19,36 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 13 | Procter & Gamble (P&G) | Data Engineer | 60 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
 | 14 | U.S. Bank | Technology Risk Analyst | 57 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
 | 15 | FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters | 55 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 16 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 17 | U.S. Bank | PCI Data Risk Analyst | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 18 | U.S. Bank | Research Analyst - Equity | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 19 | bet365 | Machine Learning Engineer | 52 | none found (check myvisajobs) | Nov 13 10:52 ET |
-| 20 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 21 | Lloyds Bank | Business Data Analyst - Controls Office | 50 | 4 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 22 | Howard University | Research Assistant (Peer Recovery) | 50 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 23 | INTEGRIS Health | Epic Cogito Analytics Engineer | 50 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 24 | Visa | Marketing Analyst | 50 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 25 | Northwell Health | Business intelligence Specialist | 45 | 14 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 26 | UTHealth Houston | Research Associate | 45 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 27 | 42dot | Machine Learning & Data Engineer, Vehicle Modeling | 44 | none found (check myvisajobs) | Nov 13 14:36 ET |
-| 28 | General Motors | AI/ML Engineer - Model Inference | 44 | 22 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 29 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 30 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 31 | Etsy | Machine Learning Engineer IC3.1. Ads Recommendations | 40 | 19 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 32 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 33 | O'Reilly Auto Parts | Merchandise Data Analyst | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 34 | Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems | 67 | 5 in data/analytics/finance occupations | Nov 13 14:29 ET |
-| 35 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 36 | Ohio State University | Data Science Senior Analyst, AI Engineer | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 37 | JP Morgan Chase | Chase Modeling - Applied AI ML Senior Associate | 59 | 1098 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 38 | Genentech | Senior AI Engineer | 55 | 35 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 39 | Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics | 55 | 71 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 40 | Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases | 55 | 2 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 41 | University of Southern California | Biostatistician II | 55 | cap-exempt employer | Nov 13 (board gives the date only) |
+| 16 | CVS Health | AI Engineer | 55 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 17 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 18 | U.S. Bank | PCI Data Risk Analyst | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 19 | U.S. Bank | Research Analyst - Equity | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 20 | bet365 | Machine Learning Engineer | 52 | none found (check myvisajobs) | Nov 13 10:52 ET |
+| 21 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 22 | Lloyds Bank | Business Data Analyst - Controls Office | 50 | 4 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 23 | Howard University | Research Assistant (Peer Recovery) | 50 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 24 | INTEGRIS Health | Epic Cogito Analytics Engineer | 50 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 25 | Visa | Marketing Analyst | 50 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 26 | Northwell Health | Business intelligence Specialist | 45 | 14 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 27 | UTHealth Houston | Research Associate | 45 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 28 | Fifth Third Bank | Data Engineer I-Regulatory Reporting | 45 | 32 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 29 | PennState University | Part-Time Food Mycology Research Assistant | 45 | cap-exempt employer | Nov 13 (board gives the date only) |
+| 30 | 42dot | Machine Learning & Data Engineer, Vehicle Modeling | 44 | none found (check myvisajobs) | Nov 13 14:36 ET |
+| 31 | General Motors | AI/ML Engineer - Model Inference | 44 | 22 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 32 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 33 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 34 | Etsy | Machine Learning Engineer IC3.1. Ads Recommendations | 40 | 19 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 35 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 36 | O'Reilly Auto Parts | Merchandise Data Analyst | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 37 | Capital One | Senior Business Analyst - Commercial Risk Management (Strategy & Analytics) | 70 | 458 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 38 | Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems | 67 | 5 in data/analytics/finance occupations | Nov 13 14:29 ET |
+| 39 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 40 | Ohio State University | Data Science Senior Analyst, AI Engineer | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 41 | JP Morgan Chase | Chase Modeling - Applied AI ML Senior Associate | 59 | 1098 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 42 | Genentech | Senior AI Engineer | 55 | 35 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 43 | Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics | 55 | 71 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 44 | Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases | 55 | 2 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 45 | University of Southern California | Biostatistician II | 55 | cap-exempt employer | Nov 13 (board gives the date only) |
 
 ---
 
@@ -369,7 +373,22 @@ Supervisor, Project Controls Analytics We are seeking a skilled and experienced 
 
 ---
 
-## 16. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
+## 16. [MAYBE] CVS Health | AI Engineer
+- Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Work-from-hom/AI-Engineer_R1094134
+- Location: NY - Work from hom
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, gcp, llm, machine learning, python, pytorch, scikit, sql, docker, git, llm evaluation, pipeline, portfolio | Lacks: azure, scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time. Position Summary We're hiring an AI Engineer to design, build and deploy AI-powered features. You'll work closely with senior engineers, data scientists and product teams on production systems that use large language models (LLMs), retrieval-augmented generation (RAG) and machine learning (ML) pipelines. The work covers prompt engineering, model evaluation, data preparation and integrating models into scalable services through APIs. It's a hands-on role with strong mentorship, suited to someone who has shipped real software and wants to grow in applied AI. Required Qualifications 3+ years of professional experience in software engineering, ML engineering or a related technical role Strong Python skills and experience with ML libraries such as PyTorch, Hugging Face Transformers or scikit-learn Hands-on experience building applications with LLM APIs and frameworks, including RAG and vector search Experience building and integrating REST APIs, with working knowledge of SQL, Git and Docker Preferred Qualifications Experience deploying and monitoring models on a cloud platform (AWS, GCP or Azure) Experience fine-tuning models with techniques such as LoRA or PEFT Familiarity with model serving and MLOps tools (e.g., vLLM, MLflow, Weights & Biases) Experience building LLM evaluation frameworks, guardrails or agent/tool-use workflows Understanding of responsible AI principles, including bias, safety and data privacy Contributions to open-source AI projects or a portfolio of personal projects Education Bachelor’s degree or equivalent experience (Highschool diploma plus 4 years relevant work experience) Anticipated Weekly Hours 40 Time Type Full time Pay Range The typical pay range for this role is: $79,310.00 - $158,620.00 This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. Our people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong. Great benefits for great people We take pride in offering a comprehensive and competitive mix of pay and benefits that reflects our commitment to our colleagues and their families. This full‑time position is eligible for a comprehensive benefits package designed to support the physical, emotional, and financial well‑being of colleagues and their families. The benefits for this position include medical, dental, and vision coverage, paid time off, retirement savings options, wellness programs, and other resources, based on eligibility. Additional details about available benefits are provided during the application process and on Benefits Moments . We anticipate the application window for this opening will close on: 12/31/2026 Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.
+
+---
+
+## 17. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
 - Link: https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Data-Engineer_JR-1065782-1
 - Location: Chicago, IL
 - Posted: Nov 12 (board gives the date only)
@@ -384,7 +403,7 @@ Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilita
 
 ---
 
-## 17. [MAYBE] U.S. Bank | PCI Data Risk Analyst
+## 18. [MAYBE] U.S. Bank | PCI Data Risk Analyst
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/PCI-Data-Risk-Analyst_2026-0035298
 - Location: 2 Locations
 - Posted: Nov 13 (board gives the date only)
@@ -399,7 +418,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 18. [MAYBE] U.S. Bank | Research Analyst - Equity
+## 19. [MAYBE] U.S. Bank | Research Analyst - Equity
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Research-Analyst---Equity_2026-0032798
 - Location: Minneapolis, MN
 - Posted: Nov 13 (board gives the date only)
@@ -414,7 +433,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 19. [MAYBE] bet365 | Machine Learning Engineer
+## 20. [MAYBE] bet365 | Machine Learning Engineer
 - Link: https://jobs.smartrecruiters.com/Bet3651/744000161522539
 - Location: Denver Colorado us
 - Posted: Nov 13 10:52 ET
@@ -429,7 +448,7 @@ We are seeking a highly pragmatic, results-driven Machine Learning (ML) Engineer
 
 ---
 
-## 20. [MAYBE] Dentsu | Data Engineer
+## 21. [MAYBE] Dentsu | Data Engineer
 - Link: https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/HoChiMinhCity/Data-Engineer_R1122768
 - Location: Ho Chi Minh City
 - Posted: Nov 12 (board gives the date only)
@@ -444,7 +463,7 @@ The Data Engineer is responsible for designing, building, and maintaining the co
 
 ---
 
-## 21. [MAYBE] Lloyds Bank | Business Data Analyst - Controls Office
+## 22. [MAYBE] Lloyds Bank | Business Data Analyst - Controls Office
 - Link: https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Chester/Business-Data-Analyst---Controls-Office_165850
 - Location: 6 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -459,7 +478,7 @@ End Date Thursday 26 November 2026 Salary Range £44,901 - £49,890 We support f
 
 ---
 
-## 22. [MAYBE] Howard University | Research Assistant (Peer Recovery)
+## 23. [MAYBE] Howard University | Research Assistant (Peer Recovery)
 - Link: https://howard.wd1.myworkdayjobs.com/HU/job/Washington-DC/Research-Assistant--Peer-Recovery-_JR108816-1
 - Location: Washington DC
 - Posted: Nov 12 (board gives the date only)
@@ -474,7 +493,7 @@ The Talent Acquisition department hires qualified candidates to fill positions w
 
 ---
 
-## 23. [MAYBE] INTEGRIS Health | Epic Cogito Analytics Engineer
+## 24. [MAYBE] INTEGRIS Health | Epic Cogito Analytics Engineer
 - Link: https://ertr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/116359
 - Location: OK, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -489,7 +508,7 @@ Get to Know Your Team INTEGRIS Health, Oklahoma's largest not-for-profit health 
 
 ---
 
-## 24. [MAYBE] Visa | Marketing Analyst
+## 25. [MAYBE] Visa | Marketing Analyst
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/US---Atlanta-GA/Marketing-Analyst_REF090402W
 - Location: US - Atlanta, GA
 - Posted: Nov 13 (board gives the date only)
@@ -504,7 +523,7 @@ About Us Visa is a world leader in payments technology, facilitating transaction
 
 ---
 
-## 25. [MAYBE] Northwell Health | Business intelligence Specialist
+## 26. [MAYBE] Northwell Health | Business intelligence Specialist
 - Link: https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/200359
 - Location: New York, New York, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -519,7 +538,7 @@ Job Description Supports the design and development of custom Business Intellige
 
 ---
 
-## 26. [MAYBE] UTHealth Houston | Research Associate
+## 27. [MAYBE] UTHealth Houston | Research Associate
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8076
 - Location: San Antonio, TX, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -534,7 +553,37 @@ Under general supervision, responsible for performing technical or narrative res
 
 ---
 
-## 27. [MAYBE] 42dot | Machine Learning & Data Engineer, Vehicle Modeling
+## 28. [MAYBE] Fifth Third Bank | Data Engineer I-Regulatory Reporting
+- Link: https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Data-Engineer-I-Regulatory-Reporting_R74837-1
+- Location: Cincinnati, OH
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 32 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: etl, machine learning, sql, pipeline, reporting, research, risk | Lacks: java, scala
+- Eligibility: CHECK | - Must be able to communicate ideas both verbally and in writing to management, business and IT sponsors, and technical resources in language that is appropriate for each group.
+
+### Job description
+
+Make banking a Fifth Third better® We connect great people to great opportunities. Are you ready to take the next step? Discover a career in banking at Fifth Third Bank. GENERAL FUNCTION: The data engineer designs and builds platforms, tools, and solutions that help the bank manage, secure, and generate value from its data. The person in this role creates scalable and reusable solutions for gathering, collecting, storing, processing, and serving data on both small and very large (i.e. Big Data) scales. These solutions can include on-premise and cloud-based data platforms, and solutions in any of the following domains ETL, business intelligence, analytics, persistence (relational, NoSQL, data lakes), search, messaging, data warehousing, stream processing, and machine learning. Responsible and accountable for risk by openly exchanging ideas and opinions, elevating concerns, and personally following policies and procedures as defined. Accountable for always doing the right thing for customers and colleagues, and ensures that actions and behaviors drive a positive customer experience. While operating within the Bank's risk appetite, achieves results by consistently identifying, assessing, managing, monitoring, and reporting risks of all types. ESSENTIAL DUTIES AND RESPONSIBILITIES: - Responsible for design, Development, and Support of data solutions, APIs, tools, and processes to enable rapid delivery of business capabilities. - Work closely with IT application teams, Enterprise architecture, infrastructure, information security, and LOB stakeholders to translate business and technical strategies into data-driven solutions for the Bank. - Act as a technical Expert addressing problems related to system and application design, performance, integration, security, etc. - Conduct research and Development based on current trends and technologies related to the banking industry, data engineering and architecture, data security, and related topics. - Work with developers to Build CI/CD pipelines, Self-service Build tools, and automated deployment processes. - Evaluate software products and Provide documented recommendations as needed. - Provide Support and troubleshooting for data platforms. Must be willing to Provide escalated on-call Support for complicated and/or critical incidents. - Participate in the planning process for hardware and software. - Plan and work on internal projects as needed, including legacy system replacement, Monitoring and analytics improvements, tool Development, and technical documentation. - Provide technical guidance and mentoring for other team members. - Manage and prioritize multiple assignments. SUPERVISORY RESPONSIBLITIES: None MINIMUM KNOWLEDGE, SKILLS, AND ABILITIES REQUIRED: - Bachelor's degree in Computer Science/Information Systems or equivalent combination of education and experience. - Must be able to communicate ideas both verbally and in writing to management, business and IT sponsors, and technical resources in language that is appropriate for each group. - Fundamental understanding of distributed computing principles - Knowledge of application and data security concepts, best practices, and common vulnerabilities. - Conceptual understanding of one or more of the following disciplines preferred big data technologies and distributions, metadata management products, commercial ETL tools, Bi and reporting tools, messaging systems, data warehousing, Java (language and run time environment), major version control systems, continuous integration/delivery tools, infrastructure automation and virtualization tools, major cloud, or rest API design and development. Data Engineer I-Regulatory Reporting At Fifth Third, we understand the importance of recognizing our employees for the role they play in improving the lives of our customers, communities and each other. Our Total Rewards include comprehensive benefits and differentiated compensation offerings to give each employee the opportunity to be their best every day. The base salary for this position is reflective of the range of salary levels for all roles within this pay grade across the U.S. Individual salaries within this range will vary based on factors such as role, relevant skillset, relevant experience, education and geographic location. In addition to the base salary, this role is eligible to participate in an incentive compensation plan, with any such payment based upon company, line of business and/or individual performance. Our extensive benefits programs are designed to support the individual needs of our employees and their families, encompassing physical, financial, emotional and social well-being. You can learn more about those programs on our 53.com Careers page at: https://www.53.com/content/fifth-third/en/careers/benefits.html or by consulting with your talent acquisition partner. LOCATION -- Cincinnati, Ohio 45202 Attention search firms and staffing agencies: do not submit unsolicited resumes for this posting. Fifth Third does not accept resumes from any agency that does not have an active agreement with Fifth Third. Any unsolicited resumes – no matter how they are submitted – will be considered the property of Fifth Third and Fifth Third will not be responsible for any associated fee. Fifth Third Bank, National Association is proud to have an engaged and inclusive culture and to promote and ensure equal employment opportunity in all employment decisions regardless of race, color, gender, national origin, religion, age, disability, sexual orientation, gender identity, military status, veteran status or any other legally protected status.
+
+---
+
+## 29. [MAYBE] PennState University | Part-Time Food Mycology Research Assistant
+- Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Food-Mycology-Research-Assistant_REQ_0000084310-1
+- Location: Penn State University Park
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: part-time (8 h/week stated)
+- Title scope: core | Has: statistic, publication, reporting, research | Lacks: -  | Note: part-time, about 8 h/week: under the 20 h/week STEM OPT minimum
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process . Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday. If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants . Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants . JOB DESCRIPTION AND POSITION REQUIREMENTS The Wee Lab in the Department of Food Science, Penn State – University Park is looking for undergraduate researchers in food mycology beginning as soon as able. Projects in our laboratory center around fungal biology and mycology within the context of food and biomaterials. Responsibilities and Expectations : Undergraduate research assistants in our team typically commit 8-10 hours/week during the Spring/Fall and 30-40 hours/week during Summer. Employment is based on availability of funding and performance. Undergraduate research responsibilities include but are not limited to: General: Conduct organized research in the area of food microbiology focused on food-associated fungi; perform independent literature searches and prepare summaries of topics pertinent to ongoing and future research; prepare summaries of research projects conducted in the laboratory; conduct research under the direction of the PI leading to peer reviewed publication Research-based laboratory: perform analytical procedures and protocols as directed; collect and analyze data from ongoing research projects Microbiology: Preparation of growth media, growth of fungi, spore stock preparation Molecular biology: DNA extraction, gel electrophoresis, Sanger sequencing Basic microscopy Data management: maintain files (electronic) of protocols (assure students provide appropriately formatted and referenced protocols as they are developed) for the laboratory Laboratory safety and maintenance: conduct and comply with general laboratory safety and housekeeping; complete safety training and university requirements, general laboratory cleaning and maintenance such as glassware cleaning and autoclave use for sterilization and waste handling; maintain inventory and order research supplies and materials as needed Be able to work and function in a highly collaborative team; collaborate with postdoctoral associate, technicians, graduate, and/or senior undergraduate researcher No animal or work in humans Skills and Qualifications: Self-motivation, strong leadership skills, and a high level of responsibility to complete tasks in a timely manner Strong verbal and written communication skills Background in microbiology and/or food microbiology preferred Undergraduates with previous research skills encouraged to apply Ability to learn new research techniques as needed Flexibility in adjusting to new work-related requirements Maintain a grade of “B” or better in required coursework (CGPA: minimum 3.2) Strong computer skills especially with Microsoft Office, internet, and electronic media Please include a cover letter and resume with your application in WorkDay. In your cover letter, please share your interest, why do you want to conduct research, and why are you a good fit for this position. BACKGROUND CHECKS/CLEARANCES Employment with the University will require successful completion of background check(s) in accordance with University policies. CAMPUS SECURITY CRIME STATISTICS Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here .
+
+---
+
+## 30. [MAYBE] 42dot | Machine Learning & Data Engineer, Vehicle Modeling
 - Link: https://jobs.ashbyhq.com/42dot/d118c92f-1378-404a-a98f-058948606d28
 - Location: Sunnyvale, United States US
 - Posted: Nov 13 14:36 ET
@@ -616,7 +665,7 @@ Additional Information
 
 ---
 
-## 28. [MAYBE] General Motors | AI/ML Engineer - Model Inference
+## 31. [MAYBE] General Motors | AI/ML Engineer - Model Inference
 - Link: https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/AI-ML-Engineer---Model-Inference_JR-202613719-1
 - Location: Sunnyvale, California, United States of America
 - Posted: Nov 13 (board gives the date only)
@@ -631,7 +680,7 @@ Job Description The Team Cola is part of GM’s autonomous vehicle effort, focus
 
 ---
 
-## 29. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
+## 32. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
 - Link: https://ms.wd5.myworkdayjobs.com/External/job/Greenwood-Village-Colorado-United-States-of-America/Wealth-Management---Fiduciary-Consulting-Group--FCG---Performance-Analyst---Analyst---Associate_PT-JR046133
 - Location: Greenwood Village, Colorado, United States of America
 - Posted: Nov 12 (board gives the date only)
@@ -646,7 +695,7 @@ Morgan Stanley is a leading global financial services firm providing a wide rang
 
 ---
 
-## 30. [MAYBE] Jabil | Financial Reporting Analyst
+## 33. [MAYBE] Jabil | Financial Reporting Analyst
 - Link: https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Analyst-I_J2464707
 - Location: St. Petersburg/Tampa, FL
 - Posted: Nov 12 (board gives the date only)
@@ -661,7 +710,7 @@ At Jabil (NYSE: JBL), we are proud to be a trusted partner for the world's top b
 
 ---
 
-## 31. [MAYBE] Etsy | Machine Learning Engineer IC3.1. Ads Recommendations
+## 34. [MAYBE] Etsy | Machine Learning Engineer IC3.1. Ads Recommendations
 - Link: https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Machine-Learning-Engineer-IC31-Ads-Recommendations_JR6135-1
 - Location: Brooklyn, New York
 - Posted: Nov 13 (board gives the date only)
@@ -676,7 +725,7 @@ Company Description Etsy is the global marketplace for unique and creative goods
 
 ---
 
-## 32. [MAYBE] UTHealth Houston | Research Assistant
+## 35. [MAYBE] UTHealth Houston | Research Assistant
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8484
 - Location: San Antonio, TX, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -691,7 +740,7 @@ Under general supervision, provides routine technical assistance in performing a
 
 ---
 
-## 33. [MAYBE] O'Reilly Auto Parts | Merchandise Data Analyst
+## 36. [MAYBE] O'Reilly Auto Parts | Merchandise Data Analyst
 - Link: https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/Merchandise-Data-Analyst_R193941
 - Location: Headquarters
 - Posted: Nov 13 (board gives the date only)
@@ -706,7 +755,22 @@ A Merchandise Data Analyst researches and explores data-based information using 
 
 ---
 
-## 34. [MAYBE] Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems
+## 37. [MAYBE] Capital One | Senior Business Analyst - Commercial Risk Management (Strategy & Analytics)
+- Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Business-Analyst---Commercial-Risk-Management--Strategy---Analytics-_R1000949
+- Location: McLean, VA
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~70 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 458 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, forecast, sql, statistic, tableau, credit, quantitative, research, risk | Lacks: -  | Note: title says Senior/II: asks 1 years
+- Eligibility: OK | Previous consulting experience is a plus Basic Qualifications: At least 2 years of professional experience performing analysis Currently has, or is in the process of obtaining one of the following with an expectation tha
+
+### Job description
+
+Senior Business Analyst - Commercial Risk Management (Strategy & Analytics) As a Senior Business Analyst at Capital One, you will apply your strategic and analytical skills to major company challenges. You will team with world-class professionals to develop and test strategies that ultimately impact the bottom line. And you will do it all in a collaborative environment that values your insight, encourages you to take on new responsibility, promotes continuous learning, and rewards innovation. This Senior Business Analyst position sits within Commercial Risk Management’s Strategy & Analytics team, which develops and implements risk rating (underwriting) and loss forecasting models across the Commercial Bank. Serving as a key analytical lead for upcoming model builds, this position bridges quantitative modelers and senior business leaders. The candidate will leverage big data tools and visualization platforms (such as Tableau and QuickSight) to evaluate model prototypes through a business lens, using data-driven storytelling to translate complex technical concepts into clear, actionable insights that secure stakeholder buy-in. General Responsibilities: Analysis: Identify business challenges and opportunities for improvement and solve for them using analysis to make strategic or tactical recommendations Product: Perform modeling/analytics to assist new product/models for various lines of business within Commercial Bank Credit Risk: Support step-change improvements in credit performance by connecting drivers of future consumer and commercial credit trends to historical behavior, creating risk models, and testing hypotheses using rigorous monitoring and analysis Execution: Involve problem frame-works, develop hypotheses, test and analysis, solution development, scope operational feasibility, lead implementation efforts and develop a monitoring plan Partnership: Work closely with colleagues across Capital One including: Model Development, Credit Officers, Underwriters, Relationship Managers, Finance and others to drive improvement in our credit risk modeling Strategic & analytic orientation: A proven track record of decision making and problem solving based on analytics. Conceptual thinking skills must be complemented by a strong quantitative orientation, given that a large part of the business is based on rigorous analytics & credit risk management Strong business judgment, leadership and integrity: He/she should be a tenacious decision maker, able to bring a healthy, aggressive, yet responsible approach to business Strong communication skills: Impeccable written and oral communication credentials, coupled with strategic influencing skills and the ability to drive agreement through intellect, interpersonal and negotiation skills Clear results orientation: display an intense focus on achieving both short and long term goals. He/she should be able to drive and execute an agenda in an uncertain and fluid environment Successful track record of thriving in a fast paced, entrepreneurial and dynamic environment. Previous consulting experience is a plus Basic Qualifications: At least 2 years of professional experience performing analysis Currently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date: A Bachelor's Degree in a quantitative field (Business, Finance, Accounting, Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, Computer engineering, Software engineering, Mechanical engineering, Information Systems or a related quantitative field) A Master's Degree in a quantitative field (Business, Finance, Accounting, Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, Computer Engineering, Software Engineering, Mechanical engineering, Information Systems or a related quantitative field) or an MBA with a quantitative concentration Preferred Qualifications: Master’s Degree in Business or quantitative field such as Finance, Economics, Physical Sciences, Math, Statistics, Engineering 1+ years of experience in Statistical model building 1+ years of experience in market research 1+ years of experience in SQL querying 2+ years of experience in business analysis 1+ years of experience in consulting Capital One will consider sponsoring a new qualified applicant for employment authorization for this position. The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked. McLean, VA: $111,200 - $126,900 for Sr. Business Analyst Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter. This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan. Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website . Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level. This role is expected to accept applications for a minimum of 5 business days. No agencies please. Capital One
+
+---
+
+## 38. [MAYBE] Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems
 - Link: https://jobs.ashbyhq.com/socure/382aacca-5f17-41a9-961e-6f89982058fe
 - Location: Hub - San Francisco United States Hub - New York Hub - Seattle remote
 - Posted: Nov 13 14:29 ET
@@ -807,7 +871,7 @@ REQUIRED QUALIFICATIONS
 
 ---
 
-## 35. [MAYBE] Inova | Financial Performance Analyst 2
+## 39. [MAYBE] Inova | Financial Performance Analyst 2
 - Link: https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/692434
 - Location: United States US VA, United States
 - Posted: Nov 13 (board gives the date only)
@@ -822,7 +886,7 @@ Inova Health is looking for a dedicated Financial Performance Analyst 2 to join 
 
 ---
 
-## 36. [MAYBE] Ohio State University | Data Science Senior Analyst, AI Engineer
+## 40. [MAYBE] Ohio State University | Data Science Senior Analyst, AI Engineer
 - Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Data-Science-Senior-Analyst--AI-Engineer_R162476-1
 - Location: Columbus Campus
 - Posted: Nov 12 (board gives the date only)
@@ -837,7 +901,7 @@ Screen reader users may encounter difficulty with this site. For assistance with
 
 ---
 
-## 37. [MAYBE] JP Morgan Chase | Chase Modeling - Applied AI ML Senior Associate
+## 41. [MAYBE] JP Morgan Chase | Chase Modeling - Applied AI ML Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706883
 - Location: New York, NY, United States US Jacksonville, FL, United States Jersey City, NJ, United States Plano, TX, United States Columbus, OH, United States
 - Posted: Nov 13 (board gives the date only)
@@ -852,7 +916,7 @@ Join a team that consists of an intellectually diverse team of economists, stati
 
 ---
 
-## 38. [MAYBE] Genentech | Senior AI Engineer
+## 42. [MAYBE] Genentech | Senior AI Engineer
 - Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-AI-Engineer_202611-128780
 - Location: South San Francisco
 - Posted: Nov 13 (board gives the date only)
@@ -867,7 +931,7 @@ We’re passionate about delivering on Our Promise to improve the lives of patie
 
 ---
 
-## 39. [MAYBE] Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics
+## 43. [MAYBE] Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/Sr-Scientist--Bioinformatics--Translational-Genome-Analytics_R426685-1
 - Location: USA - Massachusetts - Boston (MA Parcel B Laboratory)
 - Posted: Nov 13 (board gives the date only)
@@ -882,7 +946,7 @@ Job Description Role Overview: Our company is a global health care leader commit
 
 ---
 
-## 40. [MAYBE] Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases
+## 44. [MAYBE] Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases
 - Link: https://elanco.wd5.myworkdayjobs.com/External_Career/job/US---Teleworker/Senior-Research-Scientist---Farm-Animal-Clinical-Development--Vaccines-and-Infectious-Diseases_R0027380
 - Location: 3 Locations
 - Posted: Nov 13 (board gives the date only)
@@ -897,7 +961,7 @@ At Elanco (NYSE: ELAN) – it all starts with animals! As a global leader in ani
 
 ---
 
-## 41. [MAYBE] University of Southern California | Biostatistician II
+## 45. [MAYBE] University of Southern California | Biostatistician II
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/San-Diego-CA/Biostatistician-II_REQ20181725
 - Location: San Diego, CA
 - Posted: Nov 13 (board gives the date only)
