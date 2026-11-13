@@ -11,24 +11,28 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 5 | PSECU | Credit Risk Analyst | 68 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
 | 6 | Blackhawk Network Holdings | Title Financial Analyst I | 65 | 3 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
 | 7 | Symbotic | Financial Analyst, Cost & Project Reporting | 62 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 8 | Procter & Gamble (P&G) | Data Engineer | 60 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 9 | FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters | 55 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 10 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 11 | U.S. Bank | PCI Data Risk Analyst | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 12 | U.S. Bank | Research Analyst - Equity | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 13 | bet365 | Machine Learning Engineer | 52 | none found (check myvisajobs) | Nov 13 10:52 ET |
-| 14 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 15 | Lloyds Bank | Business Data Analyst - Controls Office | 50 | 4 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 16 | Howard University | Research Assistant (Peer Recovery) | 50 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 17 | INTEGRIS Health | Epic Cogito Analytics Engineer | 50 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 18 | Visa | Marketing Analyst | 50 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 19 | Northwell Health | Business intelligence Specialist | 45 | 14 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 20 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 21 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 22 | Etsy | Machine Learning Engineer IC3.1. Ads Recommendations | 40 | 19 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 23 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 24 | Ohio State University | Data Science Senior Analyst, AI Engineer | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 25 | Genentech | Senior AI Engineer | 55 | 35 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 8 | UTHealth Houston | Clinical Business Intelligence Analyst - Associate | 62 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 9 | University of Texas - Austin | Graduate Program Coordinator I- Department of Nutritional Sciences | 62 | cap-exempt employer | Nov 13 (board gives the date only) |
+| 10 | Procter & Gamble (P&G) | Data Engineer | 60 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 11 | FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters | 55 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 12 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 13 | U.S. Bank | PCI Data Risk Analyst | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 14 | U.S. Bank | Research Analyst - Equity | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 15 | bet365 | Machine Learning Engineer | 52 | none found (check myvisajobs) | Nov 13 10:52 ET |
+| 16 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 17 | Lloyds Bank | Business Data Analyst - Controls Office | 50 | 4 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 18 | Howard University | Research Assistant (Peer Recovery) | 50 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 19 | INTEGRIS Health | Epic Cogito Analytics Engineer | 50 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 20 | Visa | Marketing Analyst | 50 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 21 | Northwell Health | Business intelligence Specialist | 45 | 14 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 22 | UTHealth Houston | Research Associate | 45 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 23 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 24 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 25 | Etsy | Machine Learning Engineer IC3.1. Ads Recommendations | 40 | 19 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 26 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 27 | Ohio State University | Data Science Senior Analyst, AI Engineer | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 28 | Genentech | Senior AI Engineer | 55 | 35 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 29 | Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics | 55 | 71 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
 
 ---
 
@@ -233,7 +237,37 @@ Who we are With its A.I.-powered robotic technology platform, Symbotic is changi
 
 ---
 
-## 8. [MAYBE] Procter & Gamble (P&G) | Data Engineer
+## 8. [MAYBE] UTHealth Houston | Clinical Business Intelligence Analyst - Associate
+- Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8331
+- Location: San Antonio, TX, United States US
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time (20 h/week stated)
+- Title scope: core | Has: dashboard, excel, sql, statistic, tableau, healthcare, portfolio, reporting, research, validation | Lacks: scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The BI Developer (Intermediate) at UT Health San Antonio supports clinical, operational, and financial decision making by transforming complex healthcare data into meaningful, actionable insights. Working under supervision, this role designs, develops, tests, and maintains reporting and analytics solutions, with Epic serving as the primary platform. The BI Developer partners with clinical, operational, and Health Information Systems stakeholders to translate business requirements into scalable dashboards, reports, and key performance indicators. This role applies strong analytical thinking, data modeling principles, and SQL expertise to ensure accurate, reliable, and high quality reporting solutions. In addition to Epic reporting tools such as Radar, Reporting Workbench, SlicerDicer, and Clarity or Caboodle, familiarity with Advanced Analytics Plus capabilities, including data science and artificial intelligence tools, is valued. The position participates in Epic upgrade activities, including testing and validation, and provides limited after hours on call support during designated rotation periods a few weeks per year. The BI Developer contributes to continuous improvement efforts, data governance practices, and the ongoing evolution of the organization’s analytics environment. Gather and analyze business requirements to perform data modeling and mapping across multiple platforms for enterprise-wide BI initiatives Apply research and evaluation standards, descriptive statistics, and data management principles to translate complex data into meaningful content. Extract, load and transform data from transactional software systems into analytical software/BI systems. Design, create, test, and maintain a portfolio of reports, scorecards, and dashboards. Role activities include problem analysis, break/fix, design/modeling, implementation/coding, and testing. Responsible for navigating a wealth of data and turning it into actionable and insightful information. Work autonomously and collaboratively with other team members, as well as cross functionally, providing guidance to define report requirements and validate results. Develop and maintain appropriate documentation on all work products. Consult with business customers in the use of analytical & reporting tools to develop effective clinical, cost, quality & satisfaction outcomes. Other duties as assigned. Critical and analytical thinking proficiencies Strong written and verbal communication skills Demonstrate the ability to understand troubleshoot software issues Organizational management skills and ability to multitask Education: Bachelor’s Degree in a scientific, technical, healthcare informatics, or mathematics field or four (4) years of comparable experience may be substituted for a degree. Experience: Zero to one (0-1) years of experience is required. Licenses/Certifications: Certified in Tableau preferred. Familiarity with Business Intelligence and Data Analytics tools preferred. As specified by the department director, Epic certification for assigned modules are required within eighteen (18) months of hire. Epic certification must be maintained per Epic Corporation standards. As specified by the department director, additional certifications for assigned software analytical tools (such as Tableau) are required within thirty-six (36) months of hire. Certification must be maintained per Health-IT standards. The University of Texas at San Antonio (UT San Antonio) is a nationally recognized, top-tier public research university that unites the power of higher education, biomedical discovery and healthcare within one visionary institution. As the third-largest research university in Texas and a Carnegie R1-designated institution, UT San Antonio is a model of access and excellence — advancing knowledge, social mobility and public health across South Texas and beyond. UT San Antonio serves approximately 42,000 students in 320 academic programs spanning science, engineering, medicine, health, liberal arts, AI, cybersecurity, business, education and more. With 17,000 faculty and staff, UT San Antonio has been recognized by Forbes as one of America’s Best Employers for Company Culture . Benefits Overview UT Health San Antonio offers an excellent benefits package for its employees. Employees who work at least 20 hours a week, with an appointment of at least 4.5 months, are eligible for benefits. Medical - UT SELECT Medical insurance is offered free for employees and administered by Blue Cross and Blue Shield of Texas. Family members can be added to the plan through payroll deduction. Employees and their dependents can also receive discounted copays and coinsurance when using UT Health Physicians, a network of 800 premier physicians including more than 100 specialists. Employees receive $50,000 of group term life insurance and $50,000 of basic accidental death and dismemberment insurance for free, with options to purchase additional employee and dependent coverage for both at group rates. Dental - Three dental insurance plan options are available for employees and their families through Delta Dental Insurance Company, two PPOs and one dental HMO plan. Both PPO plans allow employees to choose any licensed dentist. Vision - Fully insured Vision Care benefits are offered by Superior Vision Services. Two vision plan options that offer either standard or enhanced vision benefits. Disability - Employees can enroll in the Disability Insurance which provides income if a non-work related illness or injury prevents you from working. FSAs - Employees can enroll in flexible spending accounts (FSAs) to set aside money from earnings before taxes for qualifying dependent day care expenses or out-of-pocket health care expenses. Retirement - Employees are eligible for either the Teacher Retirement System (TRS) or the Optional Retirement Plan (ORP). TRS is a defined benefit retirement plan which UT Health matches employee contributions. ORP is for eligible faculty staff employees. Voluntary retirement programs are also available to invest before- or after-tax dollars with the choice of five quality retirement plan providers. Time Off - A generous leave program offers multiple paid leave options: Front-loaded Paid Time Off: 128 to 208 hours (16 to 26 days) of Paid Time Off based on years of service, given at the start of each fiscal year. PTO may be prorated in year one based on date of hire. Extended Illness Bank: 8 hours (1 day) accrued per month which can be used for illness or injury after one day of Paid Time Off is taken. Paid Family Leave: Up to 240 hours (6 weeks) to care for a spouse, child, or parent after 6 months of consecutive employment. Holidays: 12 set paid holidays each year. Discounts - Employees enjoy a range of discounts on services, tickets, and gym membership.
+
+---
+
+## 9. [MAYBE] University of Texas - Austin | Graduate Program Coordinator I- Department of Nutritional Sciences
+- Link: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Graduate-Program-Coordinator-I--Department-of-Nutritional-Sciences_R_00049324
+- Location: UT MAIN CAMPUS
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time (20 h/week stated)
+- Title scope: broad | Has: aws, excel, llm, statistic, reporting, research | Lacks: -  | Note: broad title
+- Eligibility: CHECK | ---- E-Verify: The University of Texas at Austin use E-Verify to check the work authorization of all new hires effective May 2015.
+
+### Job description
+
+Job Posting Title: Graduate Program Coordinator I- Department of Nutritional Sciences ---- Hiring Department: Department of Nutritional Sciences ---- Position Open To: All Applicants ---- Weekly Scheduled Hours: 40 ---- FLSA Status: Non-Exempt from FLSA ---- Earliest Start Date: Immediately ---- Position Duration: Expected to Continue ---- Location: UT MAIN CAMPUS ---- Job Details: General Notes The College of Natural Sciences (CNS) at the University of Texas at Austin is committed to fostering a workplace where every employee can contribute at the highest possible level to support the University’s mission. What starts here really does change the world ( https://cns.utexas.edu/ ). The research and coursework in the Department of Nutritional Sciences explores how nutrients, foods, and dietary patterns impact health at many levels, from the molecular level (genes, metabolites and cells) to the systems level (individuals, families, societies, and infrastructure). Purpose The Department of Nutritional Sciences is seeking a Graduate Coordinator I. This is an entry level position, requiring a detail-oriented, independent, resourceful, and service-driven applicant to provide administrative support to our graduate program and department. Responsibilities 1. Program Administration & Governance Coordinates Executive Committee and Graduate Studies Committee (GSC) meetings, prepares agendas and minutes, tracks committee actions and decisions, and maintains centralized program records, templates, and documentation. 2. Admissions & Recruitment Serves as primary contact for graduate student applicant communications, assists with building and maintaining applicant tracking systems, interacts with the Graduate School on admissions processes, supports faculty with student recruitment efforts, and coordinates admissions events and application review. 3. Student Onboarding & Progress Tracking Guides incoming students through hiring, onboarding (IDs, insurance, stipends, course registration), and works with the Graduate Advisor to monitor student milestones — annual reviews, progress, qualifying exams, candidacy, and defenses. Student advocacy across campus graduate departments. Works closely with the Graduate School and Texas Global regarding requirements and documentation for all new students. 4. Funding, Fellowships & Awards Maintains funding opportunity databases, tracks student eligibility and funding history, coordinates nomination and application processes, compiles faculty voting/rankings, and manages award communications. 5. Curriculum & Academic Program Development Supports curriculum and handbook review and proposal submissions, tracks curriculum actions and approvals, maintains program website content, and supports program reviews. Assists with semester teaching and research assignments, and detail oriented tracking throughout a students time in the program. 6. Program Assessment & Reporting Maintains program databases and generates reports on admissions, enrollment, graduation rates, and candidacy milestones for internal and institutional use. Required Qualifications BS and three years’ of progressive administrative office experience, preferably in an academic or student focused setting. Experience may be substituted for education. Familiarity with Adobe Pro, Microsoft Excel and Word Competencies: Accuracy and attention to detail, strong Initiative skills, decision making and critical thinking, effective and responsive communication, interpersonal relationships, service excellence, and problem solving Highly collaborative, team-focused mindset Demonstrated ability to prioritize tasks and work independently to complete those tasks Strong organizational skills with attention to detail Preferred Qualifications Experience with higher education and University of Texas at Austin (UT-Austin) policies is a plus Salary Range $48,000+, depending on experience Working Conditions Work in standard office conditions Repetitive use of a keyboard at a workstation Use of manual dexterity Required Materials Resume/CV 3 work references with their contact information; at least one reference should be from a supervisor Letter of interest Important for applicants who are NOT current university employees or contingent workers: You will be prompted to submit your resume the first time you apply, then you will be provided an option to upload a new Resume for subsequent applications. Any additional required materials (letter of interest, references, etc.) will be uploaded in the Application Questions section; you will be able to multi-select additional files. Before submitting your online job application, ensure that ALL required materials have been uploaded. Once your job application has been submitted, you cannot make changes. Important for Current university employees and contingent workers: As a current university employee or contingent worker, you MUST apply within Workday by searching for Find UT Jobs. If you are a current University employee, log-in to Workday, navigate to your Worker Profile, click the Career link in the left-hand navigation menu and then update the sections in your Professional Profile before you apply. This information will be pulled into your application. The application is one page, and you will be prompted to upload your resume. In addition, you must respond to the application questions presented to upload any additional Required Materials (letter of interest, references, etc.) that were noted above. ---- Employment Eligibility: Regular staff who have been employed in their current position for the last six continuous months are eligible for openings being recruited for through University-Wide or Open Recruiting, to include both promotional opportunities and lateral transfers. Staff who are promotion/transfer eligible may apply for positions without supervisor approval. ---- Retirement Plan Eligibility: The retirement plan for this position is Teacher Retirement System of Texas (TRS), subject to the position being at least 20 hours per week and at least 135 days in length. ---- Background Checks: A criminal history background check will be required for finalist(s) under consideration for this position. ----
+
+---
+
+## 10. [MAYBE] Procter & Gamble (P&G) | Data Engineer
 - Link: https://pg.wd5.myworkdayjobs.com/1000/job/Weybridge/Data-Engineer_R000162789
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -248,7 +282,7 @@ Job Location Weybridge Job Description Ready to make an impact on globally renow
 
 ---
 
-## 9. [MAYBE] FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters
+## 11. [MAYBE] FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters
 - Link: https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FirstEnergyCareers/job/105882
 - Location: Akron, OH, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -263,7 +297,7 @@ Supervisor, Project Controls Analytics We are seeking a skilled and experienced 
 
 ---
 
-## 10. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
+## 12. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
 - Link: https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Data-Engineer_JR-1065782-1
 - Location: Chicago, IL
 - Posted: Nov 12 (board gives the date only)
@@ -278,7 +312,7 @@ Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilita
 
 ---
 
-## 11. [MAYBE] U.S. Bank | PCI Data Risk Analyst
+## 13. [MAYBE] U.S. Bank | PCI Data Risk Analyst
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/PCI-Data-Risk-Analyst_2026-0035298
 - Location: 2 Locations
 - Posted: Nov 13 (board gives the date only)
@@ -293,7 +327,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 12. [MAYBE] U.S. Bank | Research Analyst - Equity
+## 14. [MAYBE] U.S. Bank | Research Analyst - Equity
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Research-Analyst---Equity_2026-0032798
 - Location: Minneapolis, MN
 - Posted: Nov 13 (board gives the date only)
@@ -308,7 +342,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 13. [MAYBE] bet365 | Machine Learning Engineer
+## 15. [MAYBE] bet365 | Machine Learning Engineer
 - Link: https://jobs.smartrecruiters.com/Bet3651/744000161522539
 - Location: Denver Colorado us
 - Posted: Nov 13 10:52 ET
@@ -323,7 +357,7 @@ We are seeking a highly pragmatic, results-driven Machine Learning (ML) Engineer
 
 ---
 
-## 14. [MAYBE] Dentsu | Data Engineer
+## 16. [MAYBE] Dentsu | Data Engineer
 - Link: https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/HoChiMinhCity/Data-Engineer_R1122768
 - Location: Ho Chi Minh City
 - Posted: Nov 12 (board gives the date only)
@@ -338,7 +372,7 @@ The Data Engineer is responsible for designing, building, and maintaining the co
 
 ---
 
-## 15. [MAYBE] Lloyds Bank | Business Data Analyst - Controls Office
+## 17. [MAYBE] Lloyds Bank | Business Data Analyst - Controls Office
 - Link: https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Chester/Business-Data-Analyst---Controls-Office_165850
 - Location: 6 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -353,7 +387,7 @@ End Date Thursday 26 November 2026 Salary Range £44,901 - £49,890 We support f
 
 ---
 
-## 16. [MAYBE] Howard University | Research Assistant (Peer Recovery)
+## 18. [MAYBE] Howard University | Research Assistant (Peer Recovery)
 - Link: https://howard.wd1.myworkdayjobs.com/HU/job/Washington-DC/Research-Assistant--Peer-Recovery-_JR108816-1
 - Location: Washington DC
 - Posted: Nov 12 (board gives the date only)
@@ -368,7 +402,7 @@ The Talent Acquisition department hires qualified candidates to fill positions w
 
 ---
 
-## 17. [MAYBE] INTEGRIS Health | Epic Cogito Analytics Engineer
+## 19. [MAYBE] INTEGRIS Health | Epic Cogito Analytics Engineer
 - Link: https://ertr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/116359
 - Location: OK, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -383,7 +417,7 @@ Get to Know Your Team INTEGRIS Health, Oklahoma's largest not-for-profit health 
 
 ---
 
-## 18. [MAYBE] Visa | Marketing Analyst
+## 20. [MAYBE] Visa | Marketing Analyst
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/US---Atlanta-GA/Marketing-Analyst_REF090402W
 - Location: US - Atlanta, GA
 - Posted: Nov 13 (board gives the date only)
@@ -398,7 +432,7 @@ About Us Visa is a world leader in payments technology, facilitating transaction
 
 ---
 
-## 19. [MAYBE] Northwell Health | Business intelligence Specialist
+## 21. [MAYBE] Northwell Health | Business intelligence Specialist
 - Link: https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/200359
 - Location: New York, New York, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -413,7 +447,22 @@ Job Description Supports the design and development of custom Business Intellige
 
 ---
 
-## 20. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
+## 22. [MAYBE] UTHealth Houston | Research Associate
+- Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8076
+- Location: San Antonio, TX, United States US
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time (20 h/week stated)
+- Title scope: core | Has: excel, healthcare, publication, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Under general supervision, responsible for performing technical or narrative research by designing, modifying and collaborating with primary investigator regarding protocol and methodology of research topics. Plans, designs and implements research experiments according to established protocols to assure high quality scientific results in support of project goals. Conducts experiments and studies and assesses outcome; adapts continued studies based on the organization of findings. Presents data in organized, readable formats including written reports and graphical summaries, account for relevant supplies and ordering them as needed and other activities related to each project. Conducts library and topical research pertinent to projects. Writes and prepares final papers to support findings; submits evidence for publication. Assures compliance with institutional policies, rules and regulations to meet federal, state and local standards and codes pertaining to safety and ethics. Performs all other duties as assigned. Demonstrated ability to organize and coordinate work within schedule constraints and handle emergent requirements in a timely manner. Demonstrated ability to monitor important and complex projects concurrently. Knowledge of Microsoft Word, Excel, PowerPoint, and Lotus Notes/other email software. Demonstrated ability to effectively communicate verbally and in writing, to include writing and preparing memorandums, letters, and other official correspondence. EDUCATION: Bachelor's Degree degree in a specialized field of study is required. EXPERIENCE: Four (4) years of experience is required. Hands-on experience in molecular and cell biology techniques is required. Experience in epigenetic or genomic profiling is preferred. The University of Texas at San Antonio (UT San Antonio) is a nationally recognized, top-tier public research university that unites the power of higher education, biomedical discovery and healthcare within one visionary institution. As the third-largest research university in Texas and a Carnegie R1-designated institution, UT San Antonio is a model of access and excellence — advancing knowledge, social mobility and public health across South Texas and beyond. UT San Antonio serves approximately 42,000 students in 320 academic programs spanning science, engineering, medicine, health, liberal arts, AI, cybersecurity, business, education and more. With 17,000 faculty and staff, UT San Antonio has been recognized by Forbes as one of America’s Best Employers for Company Culture . Benefits Overview UT Health San Antonio offers an excellent benefits package for its employees. Employees who work at least 20 hours a week, with an appointment of at least 4.5 months, are eligible for benefits. Medical - UT SELECT Medical insurance is offered free for employees and administered by Blue Cross and Blue Shield of Texas. Family members can be added to the plan through payroll deduction. Employees and their dependents can also receive discounted copays and coinsurance when using UT Health Physicians, a network of 800 premier physicians including more than 100 specialists. Employees receive $50,000 of group term life insurance and $50,000 of basic accidental death and dismemberment insurance for free, with options to purchase additional employee and dependent coverage for both at group rates. Dental - Three dental insurance plan options are available for employees and their families through Delta Dental Insurance Company, two PPOs and one dental HMO plan. Both PPO plans allow employees to choose any licensed dentist. Vision - Fully insured Vision Care benefits are offered by Superior Vision Services. Two vision plan options that offer either standard or enhanced vision benefits. Disability - Employees can enroll in the Disability Insurance which provides income if a non-work related illness or injury prevents you from working. FSAs - Employees can enroll in flexible spending accounts (FSAs) to set aside money from earnings before taxes for qualifying dependent day care expenses or out-of-pocket health care expenses. Retirement - Employees are eligible for either the Teacher Retirement System (TRS) or the Optional Retirement Plan (ORP). TRS is a defined benefit retirement plan which UT Health matches employee contributions. ORP is for eligible faculty staff employees. Voluntary retirement programs are also available to invest before- or after-tax dollars with the choice of five quality retirement plan providers. Time Off - A generous leave program offers multiple paid leave options: Front-loaded Paid Time Off: 128 to 208 hours (16 to 26 days) of Paid Time Off based on years of service, given at the start of each fiscal year. PTO may be prorated in year one based on date of hire. Extended Illness Bank: 8 hours (1 day) accrued per month which can be used for illness or injury after one day of Paid Time Off is taken. Paid Family Leave: Up to 240 hours (6 weeks) to care for a spouse, child, or parent after 6 months of consecutive employment. Holidays: 12 set paid holidays each year. Discounts - Employees enjoy a range of discounts on services, tickets, and gym membership.
+
+---
+
+## 23. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
 - Link: https://ms.wd5.myworkdayjobs.com/External/job/Greenwood-Village-Colorado-United-States-of-America/Wealth-Management---Fiduciary-Consulting-Group--FCG---Performance-Analyst---Analyst---Associate_PT-JR046133
 - Location: Greenwood Village, Colorado, United States of America
 - Posted: Nov 12 (board gives the date only)
@@ -428,7 +477,7 @@ Morgan Stanley is a leading global financial services firm providing a wide rang
 
 ---
 
-## 21. [MAYBE] Jabil | Financial Reporting Analyst
+## 24. [MAYBE] Jabil | Financial Reporting Analyst
 - Link: https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Analyst-I_J2464707
 - Location: St. Petersburg/Tampa, FL
 - Posted: Nov 12 (board gives the date only)
@@ -443,7 +492,7 @@ At Jabil (NYSE: JBL), we are proud to be a trusted partner for the world's top b
 
 ---
 
-## 22. [MAYBE] Etsy | Machine Learning Engineer IC3.1. Ads Recommendations
+## 25. [MAYBE] Etsy | Machine Learning Engineer IC3.1. Ads Recommendations
 - Link: https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Machine-Learning-Engineer-IC31-Ads-Recommendations_JR6135-1
 - Location: Brooklyn, New York
 - Posted: Nov 13 (board gives the date only)
@@ -458,7 +507,7 @@ Company Description Etsy is the global marketplace for unique and creative goods
 
 ---
 
-## 23. [MAYBE] Inova | Financial Performance Analyst 2
+## 26. [MAYBE] Inova | Financial Performance Analyst 2
 - Link: https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/692434
 - Location: United States US VA, United States
 - Posted: Nov 13 (board gives the date only)
@@ -473,7 +522,7 @@ Inova Health is looking for a dedicated Financial Performance Analyst 2 to join 
 
 ---
 
-## 24. [MAYBE] Ohio State University | Data Science Senior Analyst, AI Engineer
+## 27. [MAYBE] Ohio State University | Data Science Senior Analyst, AI Engineer
 - Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Data-Science-Senior-Analyst--AI-Engineer_R162476-1
 - Location: Columbus Campus
 - Posted: Nov 12 (board gives the date only)
@@ -488,7 +537,7 @@ Screen reader users may encounter difficulty with this site. For assistance with
 
 ---
 
-## 25. [MAYBE] Genentech | Senior AI Engineer
+## 28. [MAYBE] Genentech | Senior AI Engineer
 - Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-AI-Engineer_202611-128780
 - Location: South San Francisco
 - Posted: Nov 13 (board gives the date only)
@@ -500,4 +549,19 @@ Screen reader users may encounter difficulty with this site. For assistance with
 ### Job description
 
 We’re passionate about delivering on Our Promise to improve the lives of patients and create healthier communities for all. We foster a culture of inclusivity, integrity and creativity while boldly pursuing answers to the world’s most complex health challenges and transforming society. The Opportunity Join our Data and Digital Catalyst organization as a Senior AI Engineer in AI Enablement, where you will partner closely with computational and research scientists to turn artificial intelligence into an everyday utility that accelerates drug discovery and development. Working in a cross-functional, impact-driven team, you will design, build, and scale modern AI/ML and agentic systems that unlock the full potential of our scientific data. Design, develop, and test robust, scalable scientific web applications, backend systems, and cloud-native architectures that power AI/ML workflows. Build foundational AgentOps capabilities—including evaluation frameworks, observability, secure execution environments, memory/retrieval systems, and model routing—to deploy and operate AI agents at scale. Establish AI data readiness capabilities by structuring, validating, and standardizing diverse scientific datasets to ensure reproducibility, traceability, and trustworthiness. Develop tooling to evaluate AI/ML model performance and define new metrics for assessing AI output quality. Partner directly with product managers, computational scientists, and research teams to translate complex scientific challenges into actionable technical specifications. Implement and evaluate emerging AI/ML algorithms, analytical techniques, and GPU performance optimizations to continuously evolve our modern tech stack. Who you are: You hold a Bachelor’s degree with 5+ years of relevant experience (or a Master’s degree with 3+ years) in Computer Science, Machine Learning, Software Engineering, or an equivalent practical background. You bring strong proficiency in AI/ML frameworks, statistical modeling, machine learning theory, and GPU/ML performance optimization. You have hands-on experience building cloud-native architectures (ideally AWS) using Kubernetes alongside relational, NoSQL, or data lake storage systems. You apply software engineering best practices across the full stack and demonstrate agility in quickly picking up new technologies and languages. You communicate clearly and excel at building trusted, collaborative partnerships across technical and non-technical teams. Preferred Experience working with biological data, scientific imaging, or within a life sciences research environment. Hands-on experience building and deploying Generative AI solutions, autonomous agents, or workflow automation tools. Location This role is based in South San Francisco and offers a hybrid schedule working 3 day per week on campus No relocation benefits are available for this posting The expected salary range for this position based on the primary location of San Franscico, CA is $168,100- $312,300 Annual. This position is open to both SE6 and SE7 levels, with final leveling to be determined upon completion of the interview process. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. A discretionary annual bonus may be available based on individual and Company performance. Genentech
+
+---
+
+## 29. [MAYBE] Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics
+- Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/Sr-Scientist--Bioinformatics--Translational-Genome-Analytics_R426685-1
+- Location: USA - Massachusetts - Boston (MA Parcel B Laboratory)
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 71 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, hypothesis test, llm, machine learning, python, r, regression, statistic, deep learning, git, healthcare, pipeline, portfolio | Lacks: databricks  | Note: title says Senior/II: asks 3 years
+- Eligibility: CHECK | Employee Status: Regular Relocation: Domestic/International VISA Sponsorship: Yes Travel Requirements: 10% Flexible Work Arrangements: Hybrid Shift: Not Indicated Valid Driving License: No Hazardous Material(s): n/a Job 
+
+### Job description
+
+Job Description Role Overview: Our company is a global health care leader committed to being the world's premier, most research-intensive biopharmaceutical company. Our Research Laboratories take our leading discovery capabilities and world-class small molecule and biologics research and development expertise to create breakthrough science that radically changes how we approach serious diseases. The Data, AI and Genome Sciences department seeks a talented data scientist with a strong quantitative and statistical foundation to join our Translational Genome Analytics team. In this role, you will bring rigorous statistics, machine learning, and modern AI to large, complex multi-omics datasets to understand the molecular basis of cancer and to nominate targets and biomarkers across our research portfolio. You will work closely with computational, AI and ML, and experimental colleagues to turn data into decisions that move programs forward. We are especially interested in scientists with a strong oncology and cancer genomics background who can also analyze functional genomics screens, so you can support target nomination and the broader discovery portfolio from both directions. You are an independent scientist who takes an open-ended question and carries it through to a clear answer, and who thrives in a highly collaborative discovery environment. In This Exciting Role, You Will: Analyze large-scale oncology datasets, including bulk RNA-seq, whole-exome and whole-genome sequencing (WES/WGS), and single-cell RNA-seq (scRNA-seq), to understand disease biology and the mechanisms of disease progression and drug action. Contribute to the nomination and prioritization of drug combinations for both oncology and immunology disease areas by weighing expression profiling, disease biology, mechanistic and functional-genomics evidence, and the competitive landscape together, and bring that evidence to program teams. Apply rigorous statistics and integrate multi-omics and functional genomics data with prior biological knowledge, using network-based and machine learning approaches, to reach robust conclusions and a coherent picture of target and pathway biology. Apply deep learning and single-cell foundation models to problems such as cell-type deconvolution, batch integration, patient stratification, and perturbation-response prediction. Use modern AI, including LLM-based agents and retrieval over internal data, to accelerate evidence synthesis and analysis, and help bring these tools into routine, well-validated use. Draw on human and real-world data to inform and reverse-translate discovery hypotheses, connecting preclinical findings to patient biology. Collaborate closely across disciplines, including experimental scientists, AI and ML and data science teams, software engineers, and program teams, and deliver reproducible, well-documented research that supports Discovery Oncology. Minimum Requirements: A BS in computational biology, bioinformatics, biostatistics, or a related quantitative discipline and a minimum of 5 years of relevant experience, MS and 3+ years of relevant experience, OR a Ph.D. in Bioinformatics, Biostatistics, Computational Biology, Statistics, Computer Science, Genetics, Mathematics, or a related STEM field. A passion for solving problems in oncology and cancer genomics through computational methods, with a consistent focus on detail and execution. Hands-on experience analyzing and biologically interpreting large-scale NGS datasets (bulk RNA-seq, WES/WGS, scRNA-seq), including experimental design, QC, and building analyses where no standard pipeline exists, and integrating multiple omics layers with prior biological knowledge. A strong statistical foundation, spanning hypothesis testing, regression and mixed models, survival analysis, and dimensionality reduction, with sound judgment about confounding, batch effects, and multiple comparisons, and a track record of applying machine learning to biological data with judgment about where it adds value and where simpler methods suffice. Strong technical skills, including R or Python, version control (Git), and Linux, with hands-on experience across cloud and data platforms such as AWS (S3), Nextflow, Databricks, and Posit. Familiarity with major cancer genomics resources, such as TCGA, GTEx, CCLE, CPTAC, and DepMap. A collaborative working style and excellent oral and written communication skills. Preferred Experience and Skills: A Ph.D. in Bioinformatics, Biostatistics, Computational Biology, Statistics, Computer Science, Genetics, Mathematics, or a related STEM field. Post-doctoral or relevant industry experience in cancer genomics or computational oncology, with a deep understanding of cancer biology and current research trends. Experience applying or fine-tuning foundation models for single-cell or genomic data, and an interest in developing agentic AI and LLM-powered tools for biological analysis. Network-based analysis of gene regulatory patterns and signaling pathways from NGS data. A strong publication record. #EligibleforERP Required Skills: Bioinformatics, Computational Biology, Computational Genomics, Data Science, High Performance Computing (HPC), Machine Learning (ML), Python (Programming Language), Researching, R-Studio, Scientific Modeling Preferred Skills: Current Employees apply HERE Current Contingent Workers apply HERE US and Puerto Rico Residents Only: Our company is committed to inclusion, ensuring that candidates can engage in a hiring process that exhibits their true capabilities. Please click here if you need an accommodation during the application or hiring process. As an Equal Employment Opportunity Employer, we provide equal opportunities to all employees and applicants for employment and prohibit discrimination on the basis of race, color, age, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or other applicable legally protected characteristics. As a federal contractor, we comply with all affirmative action requirements for protected veterans and individuals with disabilities. For more information about personal rights under the U.S. Equal Opportunity Employment laws, visit: EEOC
 
