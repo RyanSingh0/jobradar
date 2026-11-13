@@ -20,35 +20,38 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 14 | U.S. Bank | Technology Risk Analyst | 57 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
 | 15 | FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters | 55 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
 | 16 | CVS Health | AI Engineer | 55 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 17 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 18 | U.S. Bank | PCI Data Risk Analyst | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 19 | U.S. Bank | Research Analyst - Equity | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 20 | bet365 | Machine Learning Engineer | 52 | none found (check myvisajobs) | Nov 13 10:52 ET |
-| 21 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 22 | Lloyds Bank | Business Data Analyst - Controls Office | 50 | 4 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 23 | Howard University | Research Assistant (Peer Recovery) | 50 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 24 | INTEGRIS Health | Epic Cogito Analytics Engineer | 50 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 25 | Visa | Marketing Analyst | 50 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 26 | Northwell Health | Business intelligence Specialist | 45 | 14 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 27 | UTHealth Houston | Research Associate | 45 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 28 | Fifth Third Bank | Data Engineer I-Regulatory Reporting | 45 | 32 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 29 | PennState University | Part-Time Food Mycology Research Assistant | 45 | cap-exempt employer | Nov 13 (board gives the date only) |
-| 30 | 42dot | Machine Learning & Data Engineer, Vehicle Modeling | 44 | none found (check myvisajobs) | Nov 13 14:36 ET |
-| 31 | General Motors | AI/ML Engineer - Model Inference | 44 | 22 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 32 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 33 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 34 | Etsy | Machine Learning Engineer IC3.1. Ads Recommendations | 40 | 19 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 35 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 36 | O'Reilly Auto Parts | Merchandise Data Analyst | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 37 | Capital One | Senior Business Analyst - Commercial Risk Management (Strategy & Analytics) | 70 | 458 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 38 | Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems | 67 | 5 in data/analytics/finance occupations | Nov 13 14:29 ET |
-| 39 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 40 | Ohio State University | Data Science Senior Analyst, AI Engineer | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 41 | JP Morgan Chase | Chase Modeling - Applied AI ML Senior Associate | 59 | 1098 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 42 | Genentech | Senior AI Engineer | 55 | 35 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 43 | Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics | 55 | 71 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 44 | Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases | 55 | 2 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 45 | University of Southern California | Biostatistician II | 55 | cap-exempt employer | Nov 13 (board gives the date only) |
+| 17 | Dutch Bros | Shop Business Insights Analyst | 55 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 18 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 19 | U.S. Bank | PCI Data Risk Analyst | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 20 | U.S. Bank | Research Analyst - Equity | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 21 | Cushman & Wakefield | Research Analyst | 54 | 2 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 22 | bet365 | Machine Learning Engineer | 52 | none found (check myvisajobs) | Nov 13 10:52 ET |
+| 23 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 24 | Lloyds Bank | Business Data Analyst - Controls Office | 50 | 4 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 25 | Howard University | Research Assistant (Peer Recovery) | 50 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 26 | INTEGRIS Health | Epic Cogito Analytics Engineer | 50 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 27 | Visa | Marketing Analyst | 50 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 28 | Northwell Health | Business intelligence Specialist | 45 | 14 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 29 | UTHealth Houston | Research Associate | 45 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 30 | Fifth Third Bank | Data Engineer I-Regulatory Reporting | 45 | 32 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 31 | PennState University | Part-Time Food Mycology Research Assistant | 45 | cap-exempt employer | Nov 13 (board gives the date only) |
+| 32 | 42dot | Machine Learning & Data Engineer, Vehicle Modeling | 44 | none found (check myvisajobs) | Nov 13 14:36 ET |
+| 33 | General Motors | AI/ML Engineer - Model Inference | 44 | 22 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 34 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 35 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 36 | Etsy | Machine Learning Engineer IC3.1. Ads Recommendations | 40 | 19 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 37 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 38 | O'Reilly Auto Parts | Merchandise Data Analyst | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 39 | Capital One | Senior Business Analyst - Commercial Risk Management (Strategy & Analytics) | 70 | 458 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 40 | Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems | 67 | 5 in data/analytics/finance occupations | Nov 13 14:29 ET |
+| 41 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 42 | Ohio State University | Data Science Senior Analyst, AI Engineer | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 43 | JP Morgan Chase | Chase Modeling - Applied AI ML Senior Associate | 59 | 1098 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 44 | Genentech | Senior AI Engineer | 55 | 35 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 45 | Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics | 55 | 71 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 46 | Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases | 55 | 2 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 47 | University of Southern California | Biostatistician II | 55 | cap-exempt employer | Nov 13 (board gives the date only) |
+| 48 | Robinhood | Senior Data Scientist, Experimentation | 55 | 49 in data/analytics/finance occupations | Nov 13 17:25 ET |
 
 ---
 
@@ -388,7 +391,22 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 17. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
+## 17. [MAYBE] Dutch Bros | Shop Business Insights Analyst
+- Link: https://dutchbros.wd1.myworkdayjobs.com/DBShops/job/1930-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Shop-Business-Insights-Analyst_REQ-20781
+- Location: 1930 W Rio Salado Pkwy Tempe AZ 85281
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: a/b test, bigquery, dashboard, excel, forecast, power bi, python, sql, statistic, tableau, data quality, kpi, quantitative, reporting | Lacks: scala, snowflake  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+It's fun to work in a company where people truly believe in what they are doing. At Dutch Bros Coffee, we are more than just a coffee company. We are a fun-loving, mind-blowing company that makes a difference one cup at a time. Position Overview The Shop Business Insights Analyst serves as the strategic analytics partner for Operations, transforming complex operational, workforce, customer, and financial data into actionable business recommendations. This role owns the development of key operational insights that improve shop profitability, optimize labor performance, enhance crew member and customer experience, and support scalable growth across Dutch Bros shops. A central part of the role is authoring clear, defensible definitions of good performance rather than inheriting them by default, and pressure-testing them against real data before they are adopted. The Shop Business Insights Analyst partners closely with Regional Operators, Business Coaches, AVPs, Finance, People teams, and Executive Leadership to identify opportunities, measure performance, and influence business decisions through data-driven storytelling, forecasting, and KPI management. Key Result Areas Shop Performance and Profitability Analytics Analyze shop-level performance across sales, labor, productivity, turnover, customer experience, and profitability metrics. Identify trends, risks, and opportunities impacting operational performance. Deliver actionable recommendations that improve shop-level performance and financial outcomes. Conduct regional and market-level performance comparisons. Labor Optimization & Workforce Analytics Analyze labor utilization, scheduling effectiveness, and staffing levels. Develop workforce planning recommendations supporting growth and profitability. Partner with Operations and People teams to identify drivers of retention and engagement. Build labor forecasting models supporting seasonal demand. Operational KPI Strategy & Vibe Check Reporting Define, maintain, and govern key operational metrics through the Vibe Check metric system, establishing thresholds and variance definitions grounded in observed data distributions rather than inherited defaults. Distinguish structural metric issues requiring design fixes from genuine one-off exceptions, recommending metric redesign or exception-specific follow-up as appropriate. Ensure consistent KPI definitions across all regions. Drive data quality and reporting accuracy. Strategic Decision Support Serve as an analytics advisor to Regional Operators, Business Coaches, and AVPs. Measure ROI of operational programs in partnership with cross-functional partners. Conduct scenario modeling and forecasting. Skills Multi-Unit Operations Acumen Workforce Planning Strategic Storytelling Executive Communication Business Partnership Problem Solving Project Management Change Management Process Improvement Stakeholder Influence Job Qualifications 3-5 years of experience in business intelligence, operations analytics, workforce analytics, financial analysis, or data analytics roles, required. Bachelor’s in Business Analytics, Economics, Finance, Statistics, Mathematics, Data Science, or a related quantitative discipline, required. Experience supporting multi-unit retail, restaurant, hospitality, consumer services, or QSR operations, preferred. Experience influencing business decisions through analytics and executive-level recommendations. Advanced SQL proficiency and Excel modeling skills. Power BI, Tableau, Python, Streamlit, or equivalent dashboard development experience. Experience working with Snowflake, BigQuery, or enterprise data warehouses. Experience developing forecasting and labor optimization models and designing experiments (A/B testing, difference-in-differences). Familiarity with workforce analytics, turnover metrics, scheduling efficiency, and profitability reporting. Location Requirement This role is located in Tempe, AZ. This position is required to be in office 4 days per week (Mon-Thurs); Fridays are optional remote work days. Physical Requirements In-Office Environment: Must be able to work in a busy, crowded, and loud office with frequent distractions and interruptions Must be able to collaborate in-person with occasional impromptu in-person meetings Office Conditions: Adaptability to typical office conditions, which may include exposure to air conditioning, heating, artificial lighting, and varying noise levels Mobility : Ability to sit, stand, reach, twist, stretch, and work at a desk for long stretches. Must be able to occasionally move or lift office items up to 25 pounds Hearing Requirements: Hearing must be sufficient or correctable to ensure clear understanding of spoken information, including participating in virtual meetings and phone calls. Use of hearing aids or other assistive devices is acceptable if needed. Reading and Writing Proficiency: Ability to read and write in English is essential for processing documents, drafting reports, and following up on necessary actions. Proficiency in written communication is required to handle job-related tasks effectively. Vision Requirements: Vision must be adequate or correctable to perform essential job duties, such as reading documents on a computer screen and using other visual tools. Use of corrective lenses or other measures to meet visual requirements is expected if needed. Technology Proficiency: Must be proficient in operating a computer and other office productivity tools such as printers, scanners, and collaboration software. Effective Communication: Must possess strong verbal and written communication skills to interact effectively with team members, clients, and other stakeholders via email, video conferencing, and other in office communication tool s. Compensation: DOE If you like wild growth and working in a unique and fun environment, surrounded by positive community, you'll enjoy your career with us!
+
+---
+
+## 18. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
 - Link: https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Data-Engineer_JR-1065782-1
 - Location: Chicago, IL
 - Posted: Nov 12 (board gives the date only)
@@ -403,7 +421,7 @@ Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilita
 
 ---
 
-## 18. [MAYBE] U.S. Bank | PCI Data Risk Analyst
+## 19. [MAYBE] U.S. Bank | PCI Data Risk Analyst
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/PCI-Data-Risk-Analyst_2026-0035298
 - Location: 2 Locations
 - Posted: Nov 13 (board gives the date only)
@@ -418,7 +436,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 19. [MAYBE] U.S. Bank | Research Analyst - Equity
+## 20. [MAYBE] U.S. Bank | Research Analyst - Equity
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Research-Analyst---Equity_2026-0032798
 - Location: Minneapolis, MN
 - Posted: Nov 13 (board gives the date only)
@@ -433,7 +451,22 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 20. [MAYBE] bet365 | Machine Learning Engineer
+## 21. [MAYBE] Cushman & Wakefield | Research Analyst
+- Link: https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---USA---CT---Stamford---400-Atlantic-St/Research-Analyst_R341691
+- Location: CW Site - USA - CT - Stamford - 400 Atlantic St
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, forecast, statistic, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Title Research Analyst Job Description Summary The Analyst reports to the local Manager. The Analyst is responsible for supporting the development of local research output and thought leadership. Specifically, this position provides support for gathering and analyzing local market data and interpreting this information to identify trends in the market. Output of the analysis is used to produce research deliverables to be included in pitch and/or proposal materials and reflects various market dynamics. The Analyst is also accountable for accurate and proactive maintenance of proprietary and third-party databases with local market data, as well as pulling data from said systems to support thought leadership and forecast development. This position is not specific to a service line but may specialize by property type. Job Description Responsibilities: Gather, analyze, interpret, and present real estate trends and information for business development opportunities, client support, and internal analysis for the office and industrial markets Compile and distribute research in the form of narratives, graphics, data summaries, etc. for internal (Brokers, Property Managers, Marketing) Analyze market statistics, generate market reports and/or collateral material based on statistical analysis conducted Interface with national research resources to produce standardized market reports and customized client research Educate internal clients on available research tools and resources Develop and maintain a proprietary commercial real estate database ensuring consistently accurate and current data Create and analyze spreadsheets utilizing data needed to generate graphs, tables, and written analysis and make recommendations to the Director of Research Generate statistics, tables, and graphs used in quarterly market and statistical reports Create quarterly market reports to include written analysis explaining statistics and market activity, which may include drafting quarterly write-up Compile statistical data specific to client or service line by translating and converting data to graphs/tables/charts Qualifications: Bachelor's Degree; Industry related field of study preferred PowerBI Skills are a plus. 1+ years of real estate research or related business experience Or any similar combination of education and experience Experience in data entry/data management Proficient in Microsoft Office Suite Strong data software applications skills Demonstrated ability to work independently to meet goals and objectives Proven record of providing excellent internal and external customer service Excellent verbal and written communication skills Effective listening and critical thinking skills Cushman & Wakefield also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health, vision, and dental insurance, flexible spending accounts, health savings accounts, retirement savings plans, life, and disability insurance programs, and paid and unpaid time away from work. In addition to a comprehensive benefits package, Cushman and Wakefield provide eligible employees with competitive pay, which may vary depending on eligibility factors such as geographic location, date of hire, total hours worked, job type, business line, and applicability of collective bargaining agreements. The compensation that will be offered to the successful candidate will depend on factors such as whether the position is covered by a collective bargaining agreement, the geographic area in which the work will be performed, market pay rates in that area, and the candidate’s experience and qualifications. The company will not pay less than minimum wage for this role. The compensation for the position is: $ 72,250.00 - $85,000.00 Cushman & Wakefield
+
+---
+
+## 22. [MAYBE] bet365 | Machine Learning Engineer
 - Link: https://jobs.smartrecruiters.com/Bet3651/744000161522539
 - Location: Denver Colorado us
 - Posted: Nov 13 10:52 ET
@@ -448,7 +481,7 @@ We are seeking a highly pragmatic, results-driven Machine Learning (ML) Engineer
 
 ---
 
-## 21. [MAYBE] Dentsu | Data Engineer
+## 23. [MAYBE] Dentsu | Data Engineer
 - Link: https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/HoChiMinhCity/Data-Engineer_R1122768
 - Location: Ho Chi Minh City
 - Posted: Nov 12 (board gives the date only)
@@ -463,7 +496,7 @@ The Data Engineer is responsible for designing, building, and maintaining the co
 
 ---
 
-## 22. [MAYBE] Lloyds Bank | Business Data Analyst - Controls Office
+## 24. [MAYBE] Lloyds Bank | Business Data Analyst - Controls Office
 - Link: https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Chester/Business-Data-Analyst---Controls-Office_165850
 - Location: 6 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -478,7 +511,7 @@ End Date Thursday 26 November 2026 Salary Range £44,901 - £49,890 We support f
 
 ---
 
-## 23. [MAYBE] Howard University | Research Assistant (Peer Recovery)
+## 25. [MAYBE] Howard University | Research Assistant (Peer Recovery)
 - Link: https://howard.wd1.myworkdayjobs.com/HU/job/Washington-DC/Research-Assistant--Peer-Recovery-_JR108816-1
 - Location: Washington DC
 - Posted: Nov 12 (board gives the date only)
@@ -493,7 +526,7 @@ The Talent Acquisition department hires qualified candidates to fill positions w
 
 ---
 
-## 24. [MAYBE] INTEGRIS Health | Epic Cogito Analytics Engineer
+## 26. [MAYBE] INTEGRIS Health | Epic Cogito Analytics Engineer
 - Link: https://ertr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/116359
 - Location: OK, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -508,7 +541,7 @@ Get to Know Your Team INTEGRIS Health, Oklahoma's largest not-for-profit health 
 
 ---
 
-## 25. [MAYBE] Visa | Marketing Analyst
+## 27. [MAYBE] Visa | Marketing Analyst
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/US---Atlanta-GA/Marketing-Analyst_REF090402W
 - Location: US - Atlanta, GA
 - Posted: Nov 13 (board gives the date only)
@@ -523,7 +556,7 @@ About Us Visa is a world leader in payments technology, facilitating transaction
 
 ---
 
-## 26. [MAYBE] Northwell Health | Business intelligence Specialist
+## 28. [MAYBE] Northwell Health | Business intelligence Specialist
 - Link: https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/200359
 - Location: New York, New York, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -538,7 +571,7 @@ Job Description Supports the design and development of custom Business Intellige
 
 ---
 
-## 27. [MAYBE] UTHealth Houston | Research Associate
+## 29. [MAYBE] UTHealth Houston | Research Associate
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8076
 - Location: San Antonio, TX, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -553,7 +586,7 @@ Under general supervision, responsible for performing technical or narrative res
 
 ---
 
-## 28. [MAYBE] Fifth Third Bank | Data Engineer I-Regulatory Reporting
+## 30. [MAYBE] Fifth Third Bank | Data Engineer I-Regulatory Reporting
 - Link: https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Data-Engineer-I-Regulatory-Reporting_R74837-1
 - Location: Cincinnati, OH
 - Posted: Nov 13 (board gives the date only)
@@ -568,7 +601,7 @@ Make banking a Fifth Third better® We connect great people to great opportuniti
 
 ---
 
-## 29. [MAYBE] PennState University | Part-Time Food Mycology Research Assistant
+## 31. [MAYBE] PennState University | Part-Time Food Mycology Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Food-Mycology-Research-Assistant_REQ_0000084310-1
 - Location: Penn State University Park
 - Posted: Nov 13 (board gives the date only)
@@ -583,7 +616,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 30. [MAYBE] 42dot | Machine Learning & Data Engineer, Vehicle Modeling
+## 32. [MAYBE] 42dot | Machine Learning & Data Engineer, Vehicle Modeling
 - Link: https://jobs.ashbyhq.com/42dot/d118c92f-1378-404a-a98f-058948606d28
 - Location: Sunnyvale, United States US
 - Posted: Nov 13 14:36 ET
@@ -665,7 +698,7 @@ Additional Information
 
 ---
 
-## 31. [MAYBE] General Motors | AI/ML Engineer - Model Inference
+## 33. [MAYBE] General Motors | AI/ML Engineer - Model Inference
 - Link: https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/AI-ML-Engineer---Model-Inference_JR-202613719-1
 - Location: Sunnyvale, California, United States of America
 - Posted: Nov 13 (board gives the date only)
@@ -680,7 +713,7 @@ Job Description The Team Cola is part of GM’s autonomous vehicle effort, focus
 
 ---
 
-## 32. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
+## 34. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
 - Link: https://ms.wd5.myworkdayjobs.com/External/job/Greenwood-Village-Colorado-United-States-of-America/Wealth-Management---Fiduciary-Consulting-Group--FCG---Performance-Analyst---Analyst---Associate_PT-JR046133
 - Location: Greenwood Village, Colorado, United States of America
 - Posted: Nov 12 (board gives the date only)
@@ -695,7 +728,7 @@ Morgan Stanley is a leading global financial services firm providing a wide rang
 
 ---
 
-## 33. [MAYBE] Jabil | Financial Reporting Analyst
+## 35. [MAYBE] Jabil | Financial Reporting Analyst
 - Link: https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Analyst-I_J2464707
 - Location: St. Petersburg/Tampa, FL
 - Posted: Nov 12 (board gives the date only)
@@ -710,7 +743,7 @@ At Jabil (NYSE: JBL), we are proud to be a trusted partner for the world's top b
 
 ---
 
-## 34. [MAYBE] Etsy | Machine Learning Engineer IC3.1. Ads Recommendations
+## 36. [MAYBE] Etsy | Machine Learning Engineer IC3.1. Ads Recommendations
 - Link: https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Machine-Learning-Engineer-IC31-Ads-Recommendations_JR6135-1
 - Location: Brooklyn, New York
 - Posted: Nov 13 (board gives the date only)
@@ -725,7 +758,7 @@ Company Description Etsy is the global marketplace for unique and creative goods
 
 ---
 
-## 35. [MAYBE] UTHealth Houston | Research Assistant
+## 37. [MAYBE] UTHealth Houston | Research Assistant
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8484
 - Location: San Antonio, TX, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -740,7 +773,7 @@ Under general supervision, provides routine technical assistance in performing a
 
 ---
 
-## 36. [MAYBE] O'Reilly Auto Parts | Merchandise Data Analyst
+## 38. [MAYBE] O'Reilly Auto Parts | Merchandise Data Analyst
 - Link: https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/Merchandise-Data-Analyst_R193941
 - Location: Headquarters
 - Posted: Nov 13 (board gives the date only)
@@ -755,7 +788,7 @@ A Merchandise Data Analyst researches and explores data-based information using 
 
 ---
 
-## 37. [MAYBE] Capital One | Senior Business Analyst - Commercial Risk Management (Strategy & Analytics)
+## 39. [MAYBE] Capital One | Senior Business Analyst - Commercial Risk Management (Strategy & Analytics)
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Business-Analyst---Commercial-Risk-Management--Strategy---Analytics-_R1000949
 - Location: McLean, VA
 - Posted: Nov 13 (board gives the date only)
@@ -770,7 +803,7 @@ Senior Business Analyst - Commercial Risk Management (Strategy & Analytics) As a
 
 ---
 
-## 38. [MAYBE] Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems
+## 40. [MAYBE] Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems
 - Link: https://jobs.ashbyhq.com/socure/382aacca-5f17-41a9-961e-6f89982058fe
 - Location: Hub - San Francisco United States Hub - New York Hub - Seattle remote
 - Posted: Nov 13 14:29 ET
@@ -871,7 +904,7 @@ REQUIRED QUALIFICATIONS
 
 ---
 
-## 39. [MAYBE] Inova | Financial Performance Analyst 2
+## 41. [MAYBE] Inova | Financial Performance Analyst 2
 - Link: https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/692434
 - Location: United States US VA, United States
 - Posted: Nov 13 (board gives the date only)
@@ -886,7 +919,7 @@ Inova Health is looking for a dedicated Financial Performance Analyst 2 to join 
 
 ---
 
-## 40. [MAYBE] Ohio State University | Data Science Senior Analyst, AI Engineer
+## 42. [MAYBE] Ohio State University | Data Science Senior Analyst, AI Engineer
 - Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Data-Science-Senior-Analyst--AI-Engineer_R162476-1
 - Location: Columbus Campus
 - Posted: Nov 12 (board gives the date only)
@@ -901,7 +934,7 @@ Screen reader users may encounter difficulty with this site. For assistance with
 
 ---
 
-## 41. [MAYBE] JP Morgan Chase | Chase Modeling - Applied AI ML Senior Associate
+## 43. [MAYBE] JP Morgan Chase | Chase Modeling - Applied AI ML Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706883
 - Location: New York, NY, United States US Jacksonville, FL, United States Jersey City, NJ, United States Plano, TX, United States Columbus, OH, United States
 - Posted: Nov 13 (board gives the date only)
@@ -916,7 +949,7 @@ Join a team that consists of an intellectually diverse team of economists, stati
 
 ---
 
-## 42. [MAYBE] Genentech | Senior AI Engineer
+## 44. [MAYBE] Genentech | Senior AI Engineer
 - Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-AI-Engineer_202611-128780
 - Location: South San Francisco
 - Posted: Nov 13 (board gives the date only)
@@ -931,7 +964,7 @@ We’re passionate about delivering on Our Promise to improve the lives of patie
 
 ---
 
-## 43. [MAYBE] Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics
+## 45. [MAYBE] Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/Sr-Scientist--Bioinformatics--Translational-Genome-Analytics_R426685-1
 - Location: USA - Massachusetts - Boston (MA Parcel B Laboratory)
 - Posted: Nov 13 (board gives the date only)
@@ -946,7 +979,7 @@ Job Description Role Overview: Our company is a global health care leader commit
 
 ---
 
-## 44. [MAYBE] Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases
+## 46. [MAYBE] Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases
 - Link: https://elanco.wd5.myworkdayjobs.com/External_Career/job/US---Teleworker/Senior-Research-Scientist---Farm-Animal-Clinical-Development--Vaccines-and-Infectious-Diseases_R0027380
 - Location: 3 Locations
 - Posted: Nov 13 (board gives the date only)
@@ -961,7 +994,7 @@ At Elanco (NYSE: ELAN) – it all starts with animals! As a global leader in ani
 
 ---
 
-## 45. [MAYBE] University of Southern California | Biostatistician II
+## 47. [MAYBE] University of Southern California | Biostatistician II
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/San-Diego-CA/Biostatistician-II_REQ20181725
 - Location: San Diego, CA
 - Posted: Nov 13 (board gives the date only)
@@ -973,4 +1006,19 @@ At Elanco (NYSE: ELAN) – it all starts with animals! As a global leader in ani
 ### Job description
 
 Biostatistician II The USC Keck School of Medicine, Epstein Family Alzheimer’s Therapeutic Research Institute (ATRI), located in San Diego, California, is an academic institute focused on advancing the development of treatments for Alzheimer’s disease (AD) and related dementias through innovative clinical trials. The ATRI Biostatistics Section provides statistical leadership for clinical trials and studies managed by ATRI. We are seeking a highly trained and motivated Biostatistician II with strong statistical, programming, and scientific communication skills who is interested in building a career in clinical trials biostatistics in an academic research environment. This position is suited to a biostatistician with prior clinical research experience who can contribute with a high degree of technical independence while working as part of an experienced and collaborative biostatistics team. The Biostatistician II will join an established group of statisticians and work closely with senior biostatistics staff, biostatistics postdoctoral fellows, faculty biostatisticians, study investigators, and other research collaborators. Under the direction and statistical oversight of senior biostatistics staff and faculty biostatisticians, the Biostatistician II will serve as the lead statistical analyst and manage the day-to-day biostatistical activities for assigned clinical trials and studies. The individual will serve as the primary biostatistics contact for routine study activities, coordinate statistical deliverables, and provide guidance to junior biostatistics staff working on the study. Senior biostatistics staff and faculty biostatisticians will continue to provide oversight and guidance on study design, statistical strategy, complex methodological issues, and major scientific decisions. The Biostatistician II will: • Manage the day-to-day biostatistical activities for assigned clinical trials and research studies under the direction of senior biostatistics staff and faculty biostatisticians. • Perform and oversee statistical programming and analyses for clinical trials and related research studies. • Apply appropriate statistical methods to longitudinal and other complex clinical trial and research data. • Conduct sample size, power, and related design calculations to support clinical trials and research studies. • Contribute to study design and the development of statistical approaches, including study objectives, endpoints, analysis strategies, and statistical analysis plans. • Prepare, manage, and evaluate analysis-ready datasets, statistical analyses, tables, figures, and other statistical outputs. • Coordinate statistical activities and deliverables across assigned studies, including timelines, analyses, quality control activities, and documentation. • Provide guidance and technical support to junior biostatistics staff working on assigned studies and review their statistical programming and analytical work as appropriate. • Lead or contribute to quality control and quality assurance of statistical analyses and programming. • Contribute substantively to statistical methods and results sections for study reports, abstracts, presentations, and scientific manuscripts. • Communicate statistical concepts, study design considerations, analytical approaches, and results clearly to investigators and multidisciplinary research collaborators. • Present statistical results in study team meetings and contribute to the interpretation of findings and scientific discussions. • Develop and maintain an in-depth understanding of assigned clinical trials, including study design, protocol, endpoints, data structure, analysis objectives, and statistical responsibilities. • Identify statistical or study-specific issues, propose potential approaches, and engage senior biostatistics staff or faculty biostatisticians when additional methodological guidance or decisions are needed. • Manage multiple study responsibilities while maintaining high standards for accuracy, reproducibility, documentation, organization, and timely delivery. Education and Experience • Master’s degree in biostatistics, statistics, or a closely related quantitative discipline. • 3–5 years of relevant professional biostatistics or statistical research experience following the graduate degree. • Demonstrated experience applying statistical methods in clinical trials, clinical research, or other complex biomedical research. Requirements • Strong training in statistical theory, study design, and statistical methods. • Excellent R programming skills and demonstrated ability to independently implement and validate complex statistical analyses. • Demonstrated experience conducting sample size and power calculations and applying statistical principles to clinical study design. • Experience analyzing longitudinal and other complex clinical or biomedical research data. • Experience developing or contributing substantively to statistical analysis plans and study-specific analysis specifications. • Ability to manage the day-to-day statistical activities and deliverables for assigned clinical trials or research studies within a senior-led biostatistical team structure. • Ability to provide technical direction and guidance to junior statistical staff and review statistical programming and analytical work. • Excellent scientific communication skills, including the ability to clearly explain study design, statistical methods, assumptions, limitations, and results to both statistical and nonstatistical collaborators. • Strong scientific writing skills and experience contributing statistical content to reports, presentations, abstracts, or manuscripts. • Strong attention to detail, organization, and commitment to high-quality, reproducible statistical work. • Ability to exercise sound judgment regarding when issues can be addressed independently and when input from senior biostatistics staff or faculty biostatisticians is appropriate. • Initiative, accountability, and ability to adapt to changing study priorities. Strongly Preferred • Experience supporting clinical trials. • Experience with clinical trial design, analysis, and reporting. • Experience working collaboratively with investigators and multidisciplinary clinical research teams. • Experience contributing substantially to scientific manuscripts, abstracts, presentations, or reports. • Experience providing technical guidance or oversight to junior statistical programmers or biostatisticians. • Demonstrated interest in developing a long-term career in academic clinical trials biostatistics. • Experience in Alzheimer’s disease or other neurological clinical research is desirable but not required. Work Location This position requires regular on-site presence at ATRI in San Diego three days per week. Candidates should apply with the expectation that this is an ongoing requirement of the position. Compensation The annual base salary range for this position is $106,106.81 - $145,866. [...]
+
+---
+
+## 48. [MAYBE] Robinhood | Senior Data Scientist, Experimentation
+- Link: https://boards.greenhouse.io/robinhood/jobs/8356065?t=gh_src=&gh_jid=8356065
+- Location: Menlo Park, CA
+- Posted: Nov 13 17:25 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 49 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: a/b test, aws, machine learning, python, r, spark, statistic, quantitative | Lacks: scala  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading. ABOUT THE TEAM + ROLE We are building an elite team, applying frontier technologies to the world's biggest financial problems. We're looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn't a place for complacency, it's where ambitious people do the best work of their careers. We're a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Experimentation Platform team at Robinhood builds the systems and infrastructure that power our company-wide experimentation efforts. Our mission is to enable rapid, trustworthy, and statistically sound experimentation at scale, so teams can learn quickly and make confident decisions. We partner closely with engineering, product, and data teams across the company. The team's work has a direct impact on product velocity and business outcomes. Together, we're driving a culture of data-informed innovation across Robinhood. As a Senior Data Scientist on the Experimentation Platform team , you'll play a key role in shaping the statistical foundations of our experimentation systems. You'll collaborate closely with engineering, product, and data partners to advance best practices in A/B testing, improve experiment velocity, and build capabilities that help Robinhood scale experimentation effectively. You'll also explore how AI-powered capabilities can automate workflows and strengthen decision-making, while serving as a trusted statistical partner to data science and product teams. This is a high-impact role with the opportunity to define how we learn and iterate across our products! This role is based in our Menlo Park, CA office , with in-person attendance expected at least 3 days per week. At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. WHAT YOU'LL DO • Enhance the statistical methodologies underpinning the experimentation platform, including A/B testing and advanced techniques • Evaluate current experimentation practices across Robinhood and identify areas for improvement • Partner with engineering to build scalable tools and infrastructure for experimentation • Identify and drive opportunities to integrate AI-powered capabilities into the experimentation platform, automating workflows, accelerating experimentation velocity, and improving decision-making • Develop and champion experimentation best practices, enabling teams to design, analyze, and interpret experiments with statistical rigor • Serve as a statistical expert and trusted partner to data science and product teams, providing guidance on complex experimental designs and causal inference challenges • Shape the experimentation platform roadmap by identifying high-impact opportunities, prioritizing initiatives, and driving solutions from concept through implementation and adoption WHAT YOU BRING • Master's or PhD in a quantitative field (e.g., statistics, economics, mathematics, engineering, natural sciences) • 3+ years of experience with A/B testing, causal inference, experimental design, and statistical analysis in a tech environment • Deep expertise in statistical methods such as multivariate testing, adaptive experimentation, Bayesian inference, and machine learning techniques • Proficiency in Python or R for data analysis and experimentation workflows • Experience partnering with engineering and product teams to translate statistical methodologies into production-ready tools and platform capabilities • Strong communication skills, with the ability to explain complex statistical concepts and influence technical and non-technical stakeholders • Experience building experimentation platforms or integrating AI-powered capabilities into data science workflows is a plus WHAT WE OFFER • Challenging, high-impact work to grow your career • Performance driven compensation with multipliers for outsized impact, bonus programs, equity ownership, and 401(k) matching • Top Tier benefits to fuel your work, including 100% paid health insurance for employees with 90% coverage for dependents • Access to the Robinhood Employee Fund that gives eligible US employees the opportunity to invest in a private employee fund that provides exposure to Robinhood Ventures funds. • Access to the best AI tools on the market and continuous AI skill-building for every employee, technical or not. • Lifestyle wallet - a highly flexible benefits spending account for wellness, learning, and more • Employer-paid life &amp; disability insurance, fertility benefits, and mental health benefits • Time off to recharge including company holidays, paid time off, sick time, parental leave, and more! • Exceptional office experience with catered meals, events, and comfortable workspaces. &nbsp; &nbsp; In addition to the base pay range listed below, this role is also eligible for bonus opportunities + equity + benefits. Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. The expected base pay range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. For other locations not listed, compensation can be discussed with your recruiter during the interview process. Base Pay Range: Zone 1 (Menlo Park, CA; New York, NY; Bellevue, WA; Washington, DC) $187,000 &mdash; $220,000 USD Zone 2 (Denver, CO; Westlake, TX; Chicago, IL) $165,000 &mdash; $194,000 USD Zone 3 (Lake Mary, FL; Clearwater, FL; Gainesville, FL) $146,000 &mdash; $172,000 USD Click here to learn more about our Total Rewards, which vary by region and entity. If our mission energizes you and you’re ready to build the future of finance, we look forward to seeing your application. AI Usage Disclosure: Robinhood uses artificial intelligence (AI) tools to support parts of our recruiting process. These tools enhance the efficiency and consistency of our hiring process; however, all hiring decisions are made by our hiring teams. Robinhood provides equal opportunity for all applicants, offers
 
