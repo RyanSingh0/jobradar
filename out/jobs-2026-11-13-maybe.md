@@ -11,7 +11,8 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 5 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
 | 6 | Lloyds Bank | Business Data Analyst - Controls Office | 50 | 4 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
 | 7 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 8 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 8 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 9 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
 
 ---
 
@@ -120,7 +121,22 @@ Morgan Stanley is a leading global financial services firm providing a wide rang
 
 ---
 
-## 8. [MAYBE] Inova | Financial Performance Analyst 2
+## 8. [MAYBE] Jabil | Financial Reporting Analyst
+- Link: https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Analyst-I_J2464707
+- Location: St. Petersburg/Tampa, FL
+- Posted: Nov 12 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, fraud, reporting, research, validation | Lacks: scala
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At Jabil (NYSE: JBL), we are proud to be a trusted partner for the world's top brands, offering comprehensive engineering, supply chain, and manufacturing solutions. With 60 years of experience across industries and a vast network of over 100 sites worldwide, Jabil combines global reach with local expertise to deliver both scalable and customized solutions. Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe. JOB SUMMARY The position is an entry-level role that supports the Company’s global lease accounting and financial reporting processes. Working under direct supervision and established procedures. The analyst will review lease agreement, prepare lease analysis, maintain accurate lease data, and support lease disclosures for the Company’s external financial reports. The role requires strong analytical skills, attention to detail, and the ability to work collaboratively with various cross-functional partners to obtain complete and accurate information. The analyst will also assist with technical accounting research, process improvement, and other special projects. ESSENTIAL DUTIES AND RESPONSIBILITIES Technical Accounting - Leases · Review lease agreements and other supporting documents to identify lease terms and ensure required documentation is complete. · Prepare lease accounting analyses in accordance with U.S. GAAP ASC 842 · Assist with the preparation and validation of lease-related information used in the Company’s Form 10-Q and Form 10-K filings. · Support monthly, quarterly, and annual close activities and complete assigned deliverables within established deadlines. · Research lease accounting guidance and document conclusions for routine accounting questions, with guidance from senior team members. · Complete ad hoc analyses and special projects as requested by management. JOB QUALIFICATIONS KNOWLEDGE, EDUCATION & EXPERIENCE REQUIREMENTS • Bachelor’s degree in Accounting. • 0-2 years of experience. • The ability to identify, understand a problem and its root cause, and research effective solutions. • Strong attention to detail and organization. • Demonstrates strong written and oral communication skills. • Proficiency in understanding and use of Excel. • Strong sense of teamwork and collaboration with an emphasis on building solid working relationships. • Demonstrated knowledge of Accounting concepts, Generally Accepted Accounting Principles (U.S. GAAP) and SEC reporting requirements. • Simultaneously balances multiple responsibilities; prioritizes tasks based on urgency and relevance. • Results driven and ability to meet deadlines. • Understanding of the political and societal impacts on business across multiple countries. • Ability to extract and analyze data to identify trends, anomalies and differences. BE AWARE OF FRAUD: When applying for a job at Jabil you will be contacted via correspondence through our official job portal with a jabil.com e-mail address; direct phone call from a member of the Jabil team; or direct e-mail with a jabil.com e-mail address. Jabil does not request payments for interviews or at any other point during the hiring process. Jabil will not ask for your personal identifying information such as a social security number, birth certificate, financial institution, driver’s license number or passport information over the phone or via e-mail. If you believe you are a victim of identity theft, contact the Federal Bureau of Investigations internet crime hotline (www.ic3.gov), the Federal Trade Commission identity theft hotline (www.identitytheft.gov) and/or your local police department. Any scam job listings should be reported to whatever website it was posted in. Jabil, including its subsidiaries,
+
+---
+
+## 9. [MAYBE] Inova | Financial Performance Analyst 2
 - Link: https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/692434
 - Location: United States US VA, United States
 - Posted: Nov 13 (board gives the date only)
