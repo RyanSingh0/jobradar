@@ -10,22 +10,25 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 4 | Faculty AI | Machine Learning Engineer  | 68 | none found (check myvisajobs) | Nov 13 11:22 ET |
 | 5 | PSECU | Credit Risk Analyst | 68 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
 | 6 | Blackhawk Network Holdings | Title Financial Analyst I | 65 | 3 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 7 | Procter & Gamble (P&G) | Data Engineer | 60 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 8 | FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters | 55 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 9 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 10 | U.S. Bank | PCI Data Risk Analyst | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 11 | U.S. Bank | Research Analyst - Equity | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 12 | bet365 | Machine Learning Engineer | 52 | none found (check myvisajobs) | Nov 13 10:52 ET |
-| 13 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 14 | Lloyds Bank | Business Data Analyst - Controls Office | 50 | 4 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 15 | Howard University | Research Assistant (Peer Recovery) | 50 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 16 | INTEGRIS Health | Epic Cogito Analytics Engineer | 50 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 17 | Visa | Marketing Analyst | 50 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 18 | Northwell Health | Business intelligence Specialist | 45 | 14 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 19 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 20 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 21 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 22 | Ohio State University | Data Science Senior Analyst, AI Engineer | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 7 | Symbotic | Financial Analyst, Cost & Project Reporting | 62 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 8 | Procter & Gamble (P&G) | Data Engineer | 60 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 9 | FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters | 55 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 10 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 11 | U.S. Bank | PCI Data Risk Analyst | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 12 | U.S. Bank | Research Analyst - Equity | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 13 | bet365 | Machine Learning Engineer | 52 | none found (check myvisajobs) | Nov 13 10:52 ET |
+| 14 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 15 | Lloyds Bank | Business Data Analyst - Controls Office | 50 | 4 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 16 | Howard University | Research Assistant (Peer Recovery) | 50 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 17 | INTEGRIS Health | Epic Cogito Analytics Engineer | 50 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 18 | Visa | Marketing Analyst | 50 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 19 | Northwell Health | Business intelligence Specialist | 45 | 14 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 20 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 21 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 22 | Etsy | Machine Learning Engineer IC3.1. Ads Recommendations | 40 | 19 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 23 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 24 | Ohio State University | Data Science Senior Analyst, AI Engineer | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 25 | Genentech | Senior AI Engineer | 55 | 35 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
 
 ---
 
@@ -215,7 +218,22 @@ Financial Analyst I in Coppell, Texas | Careers at Blackhawk Network - Coppell, 
 
 ---
 
-## 7. [MAYBE] Procter & Gamble (P&G) | Data Engineer
+## 7. [MAYBE] Symbotic | Financial Analyst, Cost & Project Reporting
+- Link: https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Financial-Analyst--Cost---Project-Reporting_R8461
+- Location: USA Wilmington, MA - HQ
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: excel, forecast, machine learning, credit, portfolio, reporting, risk | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Who we are With its A.I.-powered robotic technology platform, Symbotic is changing the way consumer goods move through the supply chain. Intelligent software orchestrates advanced robots in a high-density, end-to-end system – reinventing warehouse automation for increased efficiency, speed and flexibility. What we need As the Financial Analyst you will work in a fast-paced environment, gaining exposure across a wide variety of business activities. You will be a part of the embedded financial analyst team and will support Project Cost Control and Procurement Approval Process, EAC/Portfolio Reporting, Site Management, and work with the Labor Functional Teams. This role will report to the Senior Manager, Costing and Project Reporting. What we do The Finance Costing and Project Reporting Team plays a crucial role in ensuring the financial health of projects within the organization. Our responsibilities encompass a range of activities related to project costs, budget management, and financial reporting. What you’ll do Support Project Cost Control, Estimate at Completion (EAC) / Estimate to Complete (ETC) data collection and Reporting, Customer Reporting, support Risk Management and Change Management. Assist in the consolidation of our project site portfolio Be proactive and work with different key stakeholders, learning costing of the business Support project reporting on budgets, actuals, forecasts, and variances. Manage purchase requisitions/orders and change management Track labor savings by category Risk and opportunity formulation and tracking Aid in projects complying with governance, project delivery processes and project reporting standards. What you’ll need Bachelor's degree in Finance, Accounting, Economics, or equivalent. MBA is a plus Minimum of 2 years’ experience in Supply Chain/Operations (through finance or functionally) Ability to work in a results-oriented, project-driven, real-time team environment, prioritize projects, and deliver quality results within tight time constraints. Excellent organization, attention to detail, analytical and abstract reasoning skills Be able to work in a dynamic business environment that requires rapid learning, multitask, and prioritization of deliverables. Proficiency in Microsoft Office Suite; specifically Excel and PowerPoint. Hybrid schedule (minimum 3 days per week in office) based in Wilmington, MA office Our Environment : Up to 10% of travel may be required. Employees must have a valid driver’s license and the ability to drive and/or fly to client and other customer locations. The employee is responsible for owning a credit card and managing expenses personally to be reimbursed on a bi-weekly basis. #LI-TN1 #LI-Hybrid About Symbotic Symbotic is an automation technology leader reimagining the supply chain with its end-to-end, AI-powered robotic and software platform. Symbotic reinvents the warehouse as a strategic asset for the world’s largest retail, wholesale, and food & beverage companies. Applying next-gen technology, high-density storage and machine learning to solve today's complex distribution challenges, Symbotic enables companies to move goods with unmatched speed, agility, accuracy and efficiency. As the backbone of commerce the Symbotic platform transforms the flow of goods and the economics of supply chain for its customers. For more information, visit www.symbotic.com . We are a community of innovators, collaborators and pioneers who embrace our differences, because we know unique perspectives make us stronger and smarter. Every perspective matters. We depend on the collective voices of our employees, customers and community to help guide us as we build a better place to work – for you and the world. That’s why we’re proud to be an
+
+---
+
+## 8. [MAYBE] Procter & Gamble (P&G) | Data Engineer
 - Link: https://pg.wd5.myworkdayjobs.com/1000/job/Weybridge/Data-Engineer_R000162789
 - Location: 2 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -230,7 +248,7 @@ Job Location Weybridge Job Description Ready to make an impact on globally renow
 
 ---
 
-## 8. [MAYBE] FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters
+## 9. [MAYBE] FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters
 - Link: https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FirstEnergyCareers/job/105882
 - Location: Akron, OH, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -245,7 +263,7 @@ Supervisor, Project Controls Analytics We are seeking a skilled and experienced 
 
 ---
 
-## 9. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
+## 10. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
 - Link: https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Data-Engineer_JR-1065782-1
 - Location: Chicago, IL
 - Posted: Nov 12 (board gives the date only)
@@ -260,7 +278,7 @@ Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilita
 
 ---
 
-## 10. [MAYBE] U.S. Bank | PCI Data Risk Analyst
+## 11. [MAYBE] U.S. Bank | PCI Data Risk Analyst
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/PCI-Data-Risk-Analyst_2026-0035298
 - Location: 2 Locations
 - Posted: Nov 13 (board gives the date only)
@@ -275,7 +293,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 11. [MAYBE] U.S. Bank | Research Analyst - Equity
+## 12. [MAYBE] U.S. Bank | Research Analyst - Equity
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Research-Analyst---Equity_2026-0032798
 - Location: Minneapolis, MN
 - Posted: Nov 13 (board gives the date only)
@@ -290,7 +308,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 12. [MAYBE] bet365 | Machine Learning Engineer
+## 13. [MAYBE] bet365 | Machine Learning Engineer
 - Link: https://jobs.smartrecruiters.com/Bet3651/744000161522539
 - Location: Denver Colorado us
 - Posted: Nov 13 10:52 ET
@@ -305,7 +323,7 @@ We are seeking a highly pragmatic, results-driven Machine Learning (ML) Engineer
 
 ---
 
-## 13. [MAYBE] Dentsu | Data Engineer
+## 14. [MAYBE] Dentsu | Data Engineer
 - Link: https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/HoChiMinhCity/Data-Engineer_R1122768
 - Location: Ho Chi Minh City
 - Posted: Nov 12 (board gives the date only)
@@ -320,7 +338,7 @@ The Data Engineer is responsible for designing, building, and maintaining the co
 
 ---
 
-## 14. [MAYBE] Lloyds Bank | Business Data Analyst - Controls Office
+## 15. [MAYBE] Lloyds Bank | Business Data Analyst - Controls Office
 - Link: https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Chester/Business-Data-Analyst---Controls-Office_165850
 - Location: 6 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -335,7 +353,7 @@ End Date Thursday 26 November 2026 Salary Range £44,901 - £49,890 We support f
 
 ---
 
-## 15. [MAYBE] Howard University | Research Assistant (Peer Recovery)
+## 16. [MAYBE] Howard University | Research Assistant (Peer Recovery)
 - Link: https://howard.wd1.myworkdayjobs.com/HU/job/Washington-DC/Research-Assistant--Peer-Recovery-_JR108816-1
 - Location: Washington DC
 - Posted: Nov 12 (board gives the date only)
@@ -350,7 +368,7 @@ The Talent Acquisition department hires qualified candidates to fill positions w
 
 ---
 
-## 16. [MAYBE] INTEGRIS Health | Epic Cogito Analytics Engineer
+## 17. [MAYBE] INTEGRIS Health | Epic Cogito Analytics Engineer
 - Link: https://ertr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/116359
 - Location: OK, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -365,7 +383,7 @@ Get to Know Your Team INTEGRIS Health, Oklahoma's largest not-for-profit health 
 
 ---
 
-## 17. [MAYBE] Visa | Marketing Analyst
+## 18. [MAYBE] Visa | Marketing Analyst
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/US---Atlanta-GA/Marketing-Analyst_REF090402W
 - Location: US - Atlanta, GA
 - Posted: Nov 13 (board gives the date only)
@@ -380,7 +398,7 @@ About Us Visa is a world leader in payments technology, facilitating transaction
 
 ---
 
-## 18. [MAYBE] Northwell Health | Business intelligence Specialist
+## 19. [MAYBE] Northwell Health | Business intelligence Specialist
 - Link: https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/200359
 - Location: New York, New York, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -395,7 +413,7 @@ Job Description Supports the design and development of custom Business Intellige
 
 ---
 
-## 19. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
+## 20. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
 - Link: https://ms.wd5.myworkdayjobs.com/External/job/Greenwood-Village-Colorado-United-States-of-America/Wealth-Management---Fiduciary-Consulting-Group--FCG---Performance-Analyst---Analyst---Associate_PT-JR046133
 - Location: Greenwood Village, Colorado, United States of America
 - Posted: Nov 12 (board gives the date only)
@@ -410,7 +428,7 @@ Morgan Stanley is a leading global financial services firm providing a wide rang
 
 ---
 
-## 20. [MAYBE] Jabil | Financial Reporting Analyst
+## 21. [MAYBE] Jabil | Financial Reporting Analyst
 - Link: https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Analyst-I_J2464707
 - Location: St. Petersburg/Tampa, FL
 - Posted: Nov 12 (board gives the date only)
@@ -425,7 +443,22 @@ At Jabil (NYSE: JBL), we are proud to be a trusted partner for the world's top b
 
 ---
 
-## 21. [MAYBE] Inova | Financial Performance Analyst 2
+## 22. [MAYBE] Etsy | Machine Learning Engineer IC3.1. Ads Recommendations
+- Link: https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Machine-Learning-Engineer-IC31-Ads-Recommendations_JR6135-1
+- Location: Brooklyn, New York
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 19 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: machine learning, python, pytorch, tensorflow, pipeline, reporting | Lacks: c++, java, scala
+- Eligibility: OK | While Etsy supports visa sponsorship, sponsorship opportunities may be limited to certain roles and skills.
+
+### Job description
+
+Company Description Etsy is the global marketplace for unique and creative goods. We build, power, and evolve the tools and technologies that connect millions of entrepreneurs with millions of buyers around the world. As an Etsy employee, you will tackle unique, meaningful, and large-scale problems alongside passionate coworkers, all the while making a rewarding impact and Keeping Commerce Human. We believe exceptional companies are built by exceptional teams, and we're intentional about it. That means hiring great people, setting them up for success from day one, and giving them real reasons to grow their careers here. We invest in development that goes beyond promotions, and we foster the trust and relationships that help people do their best work together. What’s the Role? In this role, you will have the opportunity to work with our machine learning systems that impacts our ads delivery system, including candidate retrieval, user engagement modeling, and ad experience on Etsy.com and the Etsy app. In addition to expanding our machine learning systems, you will work closely with other machine learning engineers and our product analytics partners to help drive product and customer impact. This is a full time role reporting to the Engineering Manager. What’s this team like at Etsy? Etsy is seeking a Senior Engineer for our Ads Quality team, one of the machine learning engineering teams for Etsy Ads, our onsite ad platform. Etsy Ads is used by our smallest and largest sellers to grow their businesses and it is one of the major revenue streams for Etsy. The Ads Quality team focuses on determining which listings a buyer should be shown using machine learning techniques in order to maximize relevance, seller return, and Etsy revenue. This includes building machine learning systems designed to retrieve the most relevant ads for our buyers across a range of advertising surfaces throughout the buyer's journey. What does the day-to-day look like? Work cross functionally with product engineering teams and communicate your ideas and model capabilities to product managers Apply the latest advances in machine learning to improve the relevance and increase buyer ad engagement Prototype, optimize, and productionize large-scale ML models to improve our ads funnel Conduct A/B experiments to validate the efficiency of ML models and pipelines Work closely with product managers, ML engineers, and analytics partners to measure and improve our ads product Of course, this is just a sample of the kinds of work this role will require! You should assume that your role will encompass other tasks, too, and that your job duties and responsibilities may change from time to time at Etsy's discretion, or otherwise applicable with local law Qualities that will help you thrive in this role are: Must-Haves Solid engineering & coding skills and proficiency in at least one programming language of Python, Scala, Java or C/C++. Experience with writing scalable and performant data pipelines on distributed systems Experience with the ML lifecycle: training, deployment, monitoring, debugging and iterating on production machine learning systems Nice-to-Haves Familiarity with vector databases, retrieval systems, and ANN tuning in production environments, with Vespa experience preferred. Hand-on experience in machine learning frameworks & technologies such as Tensorflow, Pytorch. Compensation & Benefits In addition to salary, you'll be eligible for an equity package, an annual performance bonus, and our competitive benefits that support you and your family. Base salary is determined by your location, skills, and experience. Etsy uses two geographic pay zones to reflect the labor markets where we compete for talent: one called Geo-1, covering the New York City metropolitan area, San Francisco Bay Area, and Seattle metropolitan area, and one called Geo-2, covering all other U.S. locations. Salary ranges for this role vary by zone and are listed below. Location We prioritize candidates based within commutable distance of Etsy’s Brooklyn Office. Depending on proximity, we ask team members to come in once or twice per week. Remote candidates outside commutable distance may be considered on a case-by-case basis, with the expectation of occasional travel to the office. Learn more details about our work modes and workplace safety policies here . Salary Range: • Geo-1: 182,000.00 - 246,000.00 USD Annual&#xa;• Geo-2: 164,000.00 - 222,000.00 USD Annual&#xa;&#xa; What's Next If you're interested in joining the team at Etsy, please share your resume with us and feel free to include a cover letter if you'd like. As we hope you've seen already, Etsy is a place that values individuality and variety. We don't want you to be like everyone else -- we want you to be like you! So tell us what you're all about. Our Promise At Etsy, we believe that a diverse, equitable, and inclusive workplace furthers relevance, resilience, and longevity. We encourage people from all backgrounds, ages, abilities, and experiences to apply. Etsy is proud to be an equal opportunity workplace and is committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, national origin, religion or creed, sex, pregnancy (including childbirth and related medical conditions), gender, gender identity or expression, sexual orientation, age, citizenship or immigration status, marital or familial status, physical or mental disability, medical condition, genetic information, military or veteran status**, or any other characteristic protected by applicable federal, state, or local law**. If, due to a disability, you need an accommodation during any part of the interview or hiring process, please let your recruiter know and we will work with you to meet your needs. While Etsy supports visa sponsorship, sponsorship opportunities may be limited to certain roles and skills.
+
+---
+
+## 23. [MAYBE] Inova | Financial Performance Analyst 2
 - Link: https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/692434
 - Location: United States US VA, United States
 - Posted: Nov 13 (board gives the date only)
@@ -440,7 +473,7 @@ Inova Health is looking for a dedicated Financial Performance Analyst 2 to join 
 
 ---
 
-## 22. [MAYBE] Ohio State University | Data Science Senior Analyst, AI Engineer
+## 24. [MAYBE] Ohio State University | Data Science Senior Analyst, AI Engineer
 - Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Data-Science-Senior-Analyst--AI-Engineer_R162476-1
 - Location: Columbus Campus
 - Posted: Nov 12 (board gives the date only)
@@ -452,4 +485,19 @@ Inova Health is looking for a dedicated Financial Performance Analyst 2 to join 
 ### Job description
 
 Screen reader users may encounter difficulty with this site. For assistance with applying, please contact hr-accessibleapplication@osu.edu . If you have questions while submitting an application, please review these frequently asked questions . Current Employees and Students: If you are currently employed or enrolled as a student at The Ohio State University, please l og in to Workday to use the internal application process. Welcome to The Ohio State University's career site. We invite you to apply to positions of interest. In order to ensure your application is complete, you must complete the following: Ensure you have all necessary documents available when starting the application process. You can review the additional job description section on postings for documents that may be required. Prior to submitting your application, please review and update (if necessary) the information in your candidate profile as it will transfer to your application. Job Title: Data Science Senior Analyst, AI Engineer Department: Advancement | Business Intelligence Position Overview The Ohio State University’s Office of Advancement seeks a naturally curious, creative, and collaborative professional to serve as a Data Science Senior Analyst. This role offers the opportunity to use data science and emerging AI capabilities to help staff better understand alumni, donors, and other constituents, make more informed decisions, and improve how they accomplish their work. The Office of Advancement brings together professionals in alumni and constituent engagement, fundraising, marketing, business planning, technology, analytics, and operations to build a community of lifelong champions who support and advocate for Ohio State. The Data Science Senior Analyst works with business and technical partners to ask meaningful questions, uncover opportunities, and turn complex or ambiguous needs into practical data science and AI solutions. The position applies customer analytics, predictive modeling, machine learning, generative AI, statistical methods, and other appropriate techniques to support fundraising, engagement, marketing, operational improvement, and strategic decision-making. The work may range from identifying and prioritizing audiences and predicting future behavior to analyzing complex data and creating AI-enabled tools that make information and expertise more accessible to staff. This is an end-to-end role for someone who wants to see their work move beyond analysis or experimentation and become part of how people make decisions and perform their work. The Data Science Senior Analyst coordinates and executes assigned solutions from discovery and prototyping through deployment, adoption, monitoring, and improvement. The role collaborates closely with intended users and technical partners to create solutions that are useful, understandable, maintainable, and responsibly designed. The Data Science Senior Analyst independently performs complex analytical and technical work, recommends appropriate approaches, and receives general guidance on new projects or unfamiliar assignments. The role also serves as a consultative resource, helping partners understand what AI, data science, and analytics can accomplish, where their limitations lie, and how they can be used effectively. The successful candidate will combine analytical and technical ability with curiosity, sound judgment, adaptability, attention to detail, and a commitment to collaboration, and will be comfortable learning evolving technologies and communicating complex concepts to technical and nontechnical audiences. The role reports to the Associate Director, Data Science and collaborates with colleagues across Advancement, the university, and the Wexner Medical Center. All members of Advancement are part of creating a culture that inspires an exceptionally multifaceted and talented team and are expected to exhibit The Ohio State University’s Shared Values . The Office of Advancement is committed to acting with kindness, respect, and integrity at all times and welcoming our colleagues’ ideas, voices, and perspectives, acknowledging that we are better together. Duties and Responsibilities 55% - Coordinate and execute the discovery, technical design, development, testing, deployment, and ongoing improvement of assigned applied AI, machine learning, and advanced analytics solutions within established objectives and technical standards. Develop predictive models, AI solutions, and analytical approaches that help Advancement understand alumni, donors, and other constituents; identify and prioritize audiences; recognize patterns and opportunities; and support informed engagement and fundraising decisions. Design and build assigned AI-enabled tools, such as agents, intelligent search, decision-support tools, user-facing applications, workflow automations, conversational experiences, and reusable analytical services. Recommend methods based on documented business needs, available data, feasibility, risk, and intended outcomes. Develop rapid prototypes and proofs of concept to assess feasibility, clarify requirements, demonstrate potential value, and gather early feedback from users. Apply appropriate statistical, machine-learning, and analytical methods, which may include regression, classification, clustering, recommendation, forecasting, natural language processing, information retrieval, graph analysis, experimentation, or other techniques suited to the business need. Apply techniques such as retrieval-augmented generation, prompt and context design, tool integration, structured outputs, semantic search, and human-in-the-loop review when appropriate. Develop user-facing applications, visualizations, documentation, and training materials in accordance with established accessibility and usability requirements and the needs of varied audiences. Identify and evaluate internal and external data sources needed for assigned solutions, considering relevance, quality, limitations, appropriate use, and integration requirements. Recommend and coordinate with appropriate teams when acquisition or broader integration is needed. Design, build, test, document, and maintain the data workflows, feature pipelines, evaluation datasets, and reusable data components needed to support assigned solutions. Collaborate with Data Science colleagues to ensure final data objects meet team standards. Assess and monitor the quality of data supporting assigned solutions, implement appropriate validation checks, and document relevant limitations. Partner with data owners and technical teams to address issues requiring upstream or broader remediation. Develop, deploy, and maintain assigned solutions using approved development platforms and technologies, including Azure Databricks and Microsoft Azure, in accordance with established organizational standards and capabilities. Develop evaluation plans and recommend acceptance criteria for assigned solutions, considering accurac [...]
+
+---
+
+## 25. [MAYBE] Genentech | Senior AI Engineer
+- Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-AI-Engineer_202611-128780
+- Location: South San Francisco
+- Posted: Nov 13 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 35 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, machine learning, sql, statistic, ai agent, git, kubernetes, research | Lacks: scala  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We’re passionate about delivering on Our Promise to improve the lives of patients and create healthier communities for all. We foster a culture of inclusivity, integrity and creativity while boldly pursuing answers to the world’s most complex health challenges and transforming society. The Opportunity Join our Data and Digital Catalyst organization as a Senior AI Engineer in AI Enablement, where you will partner closely with computational and research scientists to turn artificial intelligence into an everyday utility that accelerates drug discovery and development. Working in a cross-functional, impact-driven team, you will design, build, and scale modern AI/ML and agentic systems that unlock the full potential of our scientific data. Design, develop, and test robust, scalable scientific web applications, backend systems, and cloud-native architectures that power AI/ML workflows. Build foundational AgentOps capabilities—including evaluation frameworks, observability, secure execution environments, memory/retrieval systems, and model routing—to deploy and operate AI agents at scale. Establish AI data readiness capabilities by structuring, validating, and standardizing diverse scientific datasets to ensure reproducibility, traceability, and trustworthiness. Develop tooling to evaluate AI/ML model performance and define new metrics for assessing AI output quality. Partner directly with product managers, computational scientists, and research teams to translate complex scientific challenges into actionable technical specifications. Implement and evaluate emerging AI/ML algorithms, analytical techniques, and GPU performance optimizations to continuously evolve our modern tech stack. Who you are: You hold a Bachelor’s degree with 5+ years of relevant experience (or a Master’s degree with 3+ years) in Computer Science, Machine Learning, Software Engineering, or an equivalent practical background. You bring strong proficiency in AI/ML frameworks, statistical modeling, machine learning theory, and GPU/ML performance optimization. You have hands-on experience building cloud-native architectures (ideally AWS) using Kubernetes alongside relational, NoSQL, or data lake storage systems. You apply software engineering best practices across the full stack and demonstrate agility in quickly picking up new technologies and languages. You communicate clearly and excel at building trusted, collaborative partnerships across technical and non-technical teams. Preferred Experience working with biological data, scientific imaging, or within a life sciences research environment. Hands-on experience building and deploying Generative AI solutions, autonomous agents, or workflow automation tools. Location This role is based in South San Francisco and offers a hybrid schedule working 3 day per week on campus No relocation benefits are available for this posting The expected salary range for this position based on the primary location of San Franscico, CA is $168,100- $312,300 Annual. This position is open to both SE6 and SE7 levels, with final leveling to be determined upon completion of the interview process. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. A discretionary annual bonus may be available based on individual and Company performance. Genentech
 
