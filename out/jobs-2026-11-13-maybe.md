@@ -21,37 +21,41 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 15 | FirstEnergy | Supervisor Project Controls Analytics - Project Management Controls - Akron FirstEnergy Headquarters | 55 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
 | 16 | CVS Health | AI Engineer | 55 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
 | 17 | Dutch Bros | Shop Business Insights Analyst | 55 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 18 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
-| 19 | U.S. Bank | PCI Data Risk Analyst | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 20 | U.S. Bank | Research Analyst - Equity | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 21 | Cushman & Wakefield | Research Analyst | 54 | 2 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 22 | bet365 | Machine Learning Engineer | 52 | none found (check myvisajobs) | Nov 13 10:52 ET |
-| 23 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 24 | Lloyds Bank | Business Data Analyst - Controls Office | 50 | 4 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 25 | Howard University | Research Assistant (Peer Recovery) | 50 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 26 | INTEGRIS Health | Epic Cogito Analytics Engineer | 50 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 27 | Visa | Marketing Analyst | 50 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 28 | Northwell Health | Business intelligence Specialist | 45 | 14 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 29 | UTHealth Houston | Research Associate | 45 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 30 | Fifth Third Bank | Data Engineer I-Regulatory Reporting | 45 | 32 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 31 | PennState University | Part-Time Food Mycology Research Assistant | 45 | cap-exempt employer | Nov 13 (board gives the date only) |
-| 32 | 42dot | Machine Learning & Data Engineer, Vehicle Modeling | 44 | none found (check myvisajobs) | Nov 13 14:36 ET |
-| 33 | General Motors | AI/ML Engineer - Model Inference | 44 | 22 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 34 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 35 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
-| 36 | Etsy | Machine Learning Engineer IC3.1. Ads Recommendations | 40 | 19 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 37 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 38 | O'Reilly Auto Parts | Merchandise Data Analyst | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
-| 39 | Capital One | Senior Business Analyst - Commercial Risk Management (Strategy & Analytics) | 70 | 458 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 40 | Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems | 67 | 5 in data/analytics/finance occupations | Nov 13 14:29 ET |
-| 41 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 42 | Ohio State University | Data Science Senior Analyst, AI Engineer | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
-| 43 | JP Morgan Chase | Chase Modeling - Applied AI ML Senior Associate | 59 | 1098 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 44 | Genentech | Senior AI Engineer | 55 | 35 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 45 | Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics | 55 | 71 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 46 | Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases | 55 | 2 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
-| 47 | University of Southern California | Biostatistician II | 55 | cap-exempt employer | Nov 13 (board gives the date only) |
-| 48 | Robinhood | Senior Data Scientist, Experimentation | 55 | 49 in data/analytics/finance occupations | Nov 13 17:25 ET |
+| 18 | TensorWave | ML Performance Engineer | 55 | none found (check myvisajobs) | Nov 13 18:20 ET |
+| 19 | TensorWave | ML Engineer, Developer Ecosystem | 55 | none found (check myvisajobs) | Nov 13 18:28 ET |
+| 20 | Shirley Ryan AbilityLab | Data Engineer | 54 | none found (check myvisajobs) | Nov 12 (board gives the date only) |
+| 21 | U.S. Bank | PCI Data Risk Analyst | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 22 | U.S. Bank | Research Analyst - Equity | 54 | 82 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 23 | Cushman & Wakefield | Research Analyst | 54 | 2 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 24 | bet365 | Machine Learning Engineer | 52 | none found (check myvisajobs) | Nov 13 10:52 ET |
+| 25 | Dentsu | Data Engineer | 50 | 12 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 26 | Lloyds Bank | Business Data Analyst - Controls Office | 50 | 4 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 27 | Howard University | Research Assistant (Peer Recovery) | 50 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 28 | INTEGRIS Health | Epic Cogito Analytics Engineer | 50 | 3 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 29 | Visa | Marketing Analyst | 50 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 30 | Northwell Health | Business intelligence Specialist | 45 | 14 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 31 | UTHealth Houston | Research Associate | 45 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 32 | Fifth Third Bank | Data Engineer I-Regulatory Reporting | 45 | 32 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 33 | PennState University | Part-Time Food Mycology Research Assistant | 45 | cap-exempt employer | Nov 13 (board gives the date only) |
+| 34 | Oregon Health & Science University | Requisition Title Research Assistant | 45 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 35 | 42dot | Machine Learning & Data Engineer, Vehicle Modeling | 44 | none found (check myvisajobs) | Nov 13 14:36 ET |
+| 36 | General Motors | AI/ML Engineer - Model Inference | 44 | 22 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 37 | Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate | 40 | 165 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 38 | Jabil | Financial Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 12 (board gives the date only) |
+| 39 | Etsy | Machine Learning Engineer IC3.1. Ads Recommendations | 40 | 19 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 40 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 41 | O'Reilly Auto Parts | Merchandise Data Analyst | 40 | none found (check myvisajobs) | Nov 13 (board gives the date only) |
+| 42 | Capital One | Senior Business Analyst - Commercial Risk Management (Strategy & Analytics) | 70 | 458 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 43 | Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems | 67 | 5 in data/analytics/finance occupations | Nov 13 14:29 ET |
+| 44 | Roblox Corporation | Senior Software Engineer, Data Engineering | 67 | 37 in data/analytics/finance occupations | Nov 13 19:23 ET |
+| 45 | Inova | Financial Performance Analyst 2 | 62 | 5 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 46 | Ohio State University | Data Science Senior Analyst, AI Engineer | 62 | cap-exempt employer | Nov 12 (board gives the date only) |
+| 47 | JP Morgan Chase | Chase Modeling - Applied AI ML Senior Associate | 59 | 1098 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 48 | Genentech | Senior AI Engineer | 55 | 35 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 49 | Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics | 55 | 71 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 50 | Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases | 55 | 2 in data/analytics/finance occupations | Nov 13 (board gives the date only) |
+| 51 | University of Southern California | Biostatistician II | 55 | cap-exempt employer | Nov 13 (board gives the date only) |
+| 52 | Robinhood | Senior Data Scientist, Experimentation | 55 | 49 in data/analytics/finance occupations | Nov 13 17:25 ET |
 
 ---
 
@@ -406,7 +410,197 @@ It's fun to work in a company where people truly believe in what they are doing.
 
 ---
 
-## 18. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
+## 18. [MAYBE] TensorWave | ML Performance Engineer
+- Link: https://jobs.ashbyhq.com/TensorWave/e0ca2ee5-4419-4e7f-b7d6-e90996970809
+- Location: Las Vegas, Nevada United States
+- Posted: Nov 13 18:20 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, python, pytorch, healthcare, kubernetes, validation | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About TensorWave
+
+Our mission is simple: deliver seamless, secure, reliable, and resilient AI compute at scale. We've built a versatile cloud platform that eliminates infrastructure barriers, empowering builders to focus on innovation instead of fighting their stack. Because breakthrough AI should move at the speed of ideas, not infrastructure.
+
+About the Role
+
+We're looking for an ML Performance Engineer to join our MLOps team. You will validate new clusters by running large-scale training and inference workloads, help improve our managed Kubernetes and Slurm platforms through hands-on use, and produce performance benchmarks for customers and the broader market.
+
+What You’ll Do
+
+ - Validate new cluster deployments by running large-scale training and inference workloads before customer handoff
+
+ - Identify, reproduce, and diagnose performance and reliability issues, working with infrastructure and platform teams to resolve them
+
+ - Use our managed Kubernetes and Slurm platforms the way our customers do, and provide feedback that improves them
+
+ - Run model benchmarks across training and inference, both for internal and external use
+
+ - Build tooling and repeatable workflows for validation and benchmarking
+
+ - Stay current with distributed training and inference frameworks and their performance on AMD Instinct GPUs
+
+ - Work with larger MLOps team to help support customer clusters and workloads
+
+Who You Are
+
+Required Qualifications
+
+ - Bachelor of Science in Computer Science, Computer Engineering, or a related technical field, or equivalent practical experience
+
+ - 3+ years of experience running ML workloads on GPU clusters
+
+ - Hands-on experience with distributed training using frameworks such as PyTorch FSDP, Megatron-LM, DeepSpeed, or torchtitan
+
+ - Working knowledge of Slurm and Kubernetes from a user and workload perspective
+
+ - Experience profiling and optimizing GPU workloads, including collective communication performance
+
+ - Strong Python skills and solid Linux fundamentals
+
+ - Clear written communication of performance findings to engineering and non-technical audiences
+
+
+
+What We Offer
+
+ - Stock Options
+
+ - 100% paid Medical, Dental, and Vision insurance for Employees
+
+ - Company Health Savings Account Contributions
+
+ - 100% paid Short Term and Long Term Disability Insurance for Employees
+
+ - Life and Voluntary Supplemental Insurance Options
+
+ - Other Insurance Options, such as Pet & Legal Insurance
+
+ - Various Supplementary Health Benefits, such as discounted Virtual Healthcare Appointments and Serious Illness Support
+
+ - Flexible Spending Account
+
+ - 401(k)
+
+ - Employee Assistance Program
+
+ - Flexible PTO
+
+ - Paid Holidays
+
+ - Parental Leave
+
+ - Other In-Office Perks
+
+Equal Employment Opportunity
+
+TensorWave
+
+---
+
+## 19. [MAYBE] TensorWave | ML Engineer, Developer Ecosystem
+- Link: https://jobs.ashbyhq.com/TensorWave/ae435bd5-fe8e-49c7-9d64-53034dc0ff45
+- Location: Remote United States remote
+- Posted: Nov 13 18:28 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, llm, python, pytorch, healthcare, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About TensorWave
+
+Our mission is simple: deliver seamless, secure, reliable, and resilient AI compute at scale. We've built a versatile cloud platform that eliminates infrastructure barriers, empowering builders to focus on innovation instead of fighting their stack. Because breakthrough AI should move at the speed of ideas, not infrastructure.
+
+About the Role
+
+We're looking for an ML Engineer, Developer Ecosystem to serve as the engineering counterpart to our Developer Ecosystem team. Working within the ML team and reporting to the VP of AI, you will build the tutorials, reference solutions, and workshop content that help developers succeed on TensorWave, and bring hands-on ML expertise to our developer events and technical content.
+
+What You’ll Do
+
+ - Build and maintain a library of tutorials and reference solutions for AMD Instinct GPUs, covering inference, serving, and fine-tuning
+
+ - Evaluate new models and frameworks as they are released and develop working examples on our platform
+
+ - Deliver technical content for workshops and hackathons, and support participants during events
+
+ - Partner with the marketing team on technical content, contributing topics, outlines, and technical review
+
+ - Share insights from events and the developer community to inform marketing and ML priorities
+
+ - Collaborate with ML engineering teams and contribute issue reports and fixes to upstream projects
+
+Who You Are
+
+Required Qualifications
+
+ - Bachelor of Science in Computer Science, Computer Engineering, or a related technical field, or equivalent practical experience
+
+ - 3+ years of experience building ML systems in Python
+
+ - Strong experience with PyTorch and the Hugging Face ecosystem
+
+ - Hands-on experience with LLM inference frameworks such as vLLM or SGLang
+
+ - Proficiency with Linux, containers, and GPU environments
+
+ - Strong written and verbal communication skills, including presenting to technical audiences
+
+ - Based in the San Francisco Bay Area, with availability for regular in-person events and occasional travel
+
+Preferred Qualifications
+
+ - Experience with AMD Instinct GPUs and the ROCm ecosystem, or equivalent experience with NVIDIA CUDA
+
+ - Experience with model training and fine-tuning
+
+ - Experience delivering workshops, talks, or technical training
+
+ - Experience writing technical documentation, tutorials, or blog posts for developer audiences
+
+ - Open source contributor
+
+What We Offer
+
+ - Stock Options
+
+ - 100% paid Medical, Dental, and Vision insurance for Employees
+
+ - Company Health Savings Account Contributions
+
+ - 100% paid Short Term and Long Term Disability Insurance for Employees
+
+ - Life and Voluntary Supplemental Insurance Options
+
+ - Other Insurance Options, such as Pet & Legal Insurance
+
+ - Various Supplementary Health Benefits, such as discounted Virtual Healthcare Appointments and Serious Illness Support
+
+ - Flexible Spending Account
+
+ - 401(k)
+
+ - Employee Assistance Program
+
+ - Flexible PTO
+
+ - Paid Holidays
+
+ - Parental Leave
+
+ - Other In-Office Perks
+
+Equal Employment Opportunity
+
+TensorWave
+
+---
+
+## 20. [MAYBE] Shirley Ryan AbilityLab | Data Engineer
 - Link: https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Data-Engineer_JR-1065782-1
 - Location: Chicago, IL
 - Posted: Nov 12 (board gives the date only)
@@ -421,7 +615,7 @@ Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilita
 
 ---
 
-## 19. [MAYBE] U.S. Bank | PCI Data Risk Analyst
+## 21. [MAYBE] U.S. Bank | PCI Data Risk Analyst
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/PCI-Data-Risk-Analyst_2026-0035298
 - Location: 2 Locations
 - Posted: Nov 13 (board gives the date only)
@@ -436,7 +630,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 20. [MAYBE] U.S. Bank | Research Analyst - Equity
+## 22. [MAYBE] U.S. Bank | Research Analyst - Equity
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Research-Analyst---Equity_2026-0032798
 - Location: Minneapolis, MN
 - Posted: Nov 13 (board gives the date only)
@@ -451,7 +645,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 21. [MAYBE] Cushman & Wakefield | Research Analyst
+## 23. [MAYBE] Cushman & Wakefield | Research Analyst
 - Link: https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---USA---CT---Stamford---400-Atlantic-St/Research-Analyst_R341691
 - Location: CW Site - USA - CT - Stamford - 400 Atlantic St
 - Posted: Nov 13 (board gives the date only)
@@ -466,7 +660,7 @@ Job Title Research Analyst Job Description Summary The Analyst reports to the lo
 
 ---
 
-## 22. [MAYBE] bet365 | Machine Learning Engineer
+## 24. [MAYBE] bet365 | Machine Learning Engineer
 - Link: https://jobs.smartrecruiters.com/Bet3651/744000161522539
 - Location: Denver Colorado us
 - Posted: Nov 13 10:52 ET
@@ -481,7 +675,7 @@ We are seeking a highly pragmatic, results-driven Machine Learning (ML) Engineer
 
 ---
 
-## 23. [MAYBE] Dentsu | Data Engineer
+## 25. [MAYBE] Dentsu | Data Engineer
 - Link: https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/HoChiMinhCity/Data-Engineer_R1122768
 - Location: Ho Chi Minh City
 - Posted: Nov 12 (board gives the date only)
@@ -496,7 +690,7 @@ The Data Engineer is responsible for designing, building, and maintaining the co
 
 ---
 
-## 24. [MAYBE] Lloyds Bank | Business Data Analyst - Controls Office
+## 26. [MAYBE] Lloyds Bank | Business Data Analyst - Controls Office
 - Link: https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Chester/Business-Data-Analyst---Controls-Office_165850
 - Location: 6 Locations
 - Posted: Nov 12 (board gives the date only)
@@ -511,7 +705,7 @@ End Date Thursday 26 November 2026 Salary Range £44,901 - £49,890 We support f
 
 ---
 
-## 25. [MAYBE] Howard University | Research Assistant (Peer Recovery)
+## 27. [MAYBE] Howard University | Research Assistant (Peer Recovery)
 - Link: https://howard.wd1.myworkdayjobs.com/HU/job/Washington-DC/Research-Assistant--Peer-Recovery-_JR108816-1
 - Location: Washington DC
 - Posted: Nov 12 (board gives the date only)
@@ -526,7 +720,7 @@ The Talent Acquisition department hires qualified candidates to fill positions w
 
 ---
 
-## 26. [MAYBE] INTEGRIS Health | Epic Cogito Analytics Engineer
+## 28. [MAYBE] INTEGRIS Health | Epic Cogito Analytics Engineer
 - Link: https://ertr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/116359
 - Location: OK, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -541,7 +735,7 @@ Get to Know Your Team INTEGRIS Health, Oklahoma's largest not-for-profit health 
 
 ---
 
-## 27. [MAYBE] Visa | Marketing Analyst
+## 29. [MAYBE] Visa | Marketing Analyst
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/US---Atlanta-GA/Marketing-Analyst_REF090402W
 - Location: US - Atlanta, GA
 - Posted: Nov 13 (board gives the date only)
@@ -556,7 +750,7 @@ About Us Visa is a world leader in payments technology, facilitating transaction
 
 ---
 
-## 28. [MAYBE] Northwell Health | Business intelligence Specialist
+## 30. [MAYBE] Northwell Health | Business intelligence Specialist
 - Link: https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/200359
 - Location: New York, New York, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -571,7 +765,7 @@ Job Description Supports the design and development of custom Business Intellige
 
 ---
 
-## 29. [MAYBE] UTHealth Houston | Research Associate
+## 31. [MAYBE] UTHealth Houston | Research Associate
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8076
 - Location: San Antonio, TX, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -586,7 +780,7 @@ Under general supervision, responsible for performing technical or narrative res
 
 ---
 
-## 30. [MAYBE] Fifth Third Bank | Data Engineer I-Regulatory Reporting
+## 32. [MAYBE] Fifth Third Bank | Data Engineer I-Regulatory Reporting
 - Link: https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Data-Engineer-I-Regulatory-Reporting_R74837-1
 - Location: Cincinnati, OH
 - Posted: Nov 13 (board gives the date only)
@@ -601,7 +795,7 @@ Make banking a Fifth Third better® We connect great people to great opportuniti
 
 ---
 
-## 31. [MAYBE] PennState University | Part-Time Food Mycology Research Assistant
+## 33. [MAYBE] PennState University | Part-Time Food Mycology Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Food-Mycology-Research-Assistant_REQ_0000084310-1
 - Location: Penn State University Park
 - Posted: Nov 13 (board gives the date only)
@@ -616,7 +810,22 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 32. [MAYBE] 42dot | Machine Learning & Data Engineer, Vehicle Modeling
+## 34. [MAYBE] Oregon Health & Science University | Requisition Title Research Assistant
+- Link: https://externalcareers-ohsu.icims.com/jobs/41987/research-assistant/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~45 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: aws, excel, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Research Assistant in Portland, Oregon | Careers at Portland, OR (Waterfront) Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log back in! Research Assistant Job Locations US-OR-Portland Requisition ID 2026-41987 Position Category Research Position Type Regular Full-Time Job Type Research Department PK Lab, Clinical Research Management, Knight Cancer Institute Salary Range $23.84 - $33.87, per hour. Offer based on wage placement according to collective bargaining agreement. FTE 1.00 Schedule Monday - Friday Hours 8:30am - 5:00pm HR Mission School of Medicine Drug Testable No Department Overview The OHSU Knight Cancer Institute, known as one of the pioneers in personalized cancer medicine, is an international leader in research and cancer treatment. Driven by its mission to end cancer, as we know it, the institute is building upon its expertise in targeted treatments to advance the early detection of cancer when the disease is most treatable. Function/Duties of Position This position will provide support of PK Research lab sample processing while following Det Norske Veritas (DNV) standards and OHSU policies regarding lab management and safety. Some key responsibilities include: Specimen Processing Follows procedures and work practices related to collection, processing, storage, and shipment of research specimens Laboratory assistance Oversees laboratory safety and ensures that the laboratory remains in compliance with all local, state, and federal regulations by supporting and enforcing PK laboratory policies and procedures Maintains laboratory supplies and inventory by checking and logging stock. May include management of Chemical/Biohazard and sharps inventories and disposal of such items. Research Kits Receives, unpacks, and organizes research kits. Works with study teams to order kits as needed. Follows lab manuals and protocols to build research kits and delivers them to appropriate locations for draws. Required Qualifications Education and experience: Bachelor's in relevant field OR Associate's AND 3 years of relevant experience OR 4 years of relevant experience OR Equivalent combination of training and experience. Knowledge, skills, and abilities: Ability to prioritize multiple tasks at one time Ability to record data accurately Must have excellent communication, analytical and organizational skills: both written and verbal Ability to work independently and as part of a team while being collaborative in resolving problems. Must be proficient with computers running Windows and PC applications e.g. MS Excel, Oracle, Access, Word, and PowerPoint). Typing 60wpm Must have demonstrated excellent customer service skills both on the phone and in person Must possess energy and drive to coordinate multiple projects simultaneously Ability to use tact and diplomacy to maintain effective working relationships Preferred Qualifications Bachelor's degree with coursework in science. Some research knowledge with a minimum of 1-year research experience. 1-year experience working in a lab environment. Working knowledge of advanced scientific techniques and procedures. Familiarity with laboratory techniques Familiarity with solutions and reagents Familiarity with centrifugation, aliquoting and volume measuremen Familiarity with medical terminology Additional Details Apply online. Please include a cover letter. #PHL # knightcancerjobs #knightresearchandlabjobs #knightclinicalresearchjobs #knightnews Why apply to OHSU? We are Oregon's only public academic health center. In addition to caring for patients, we lead groundbreaking research. We also train the next generation of health care professionals. As Portland's largest employer, we give you opportunities to learn and advance in a system of hospitals and clinics across Oregon and Southwest Washington. All are welcome. OHSU welcomes people of all ages, ethnicities, genders, national origins, religions and sexual orientations. We are striving to build an anti-racist, multicultural institution and encourage people with diverse backgrounds to apply. To request
+
+---
+
+## 35. [MAYBE] 42dot | Machine Learning & Data Engineer, Vehicle Modeling
 - Link: https://jobs.ashbyhq.com/42dot/d118c92f-1378-404a-a98f-058948606d28
 - Location: Sunnyvale, United States US
 - Posted: Nov 13 14:36 ET
@@ -698,7 +907,7 @@ Additional Information
 
 ---
 
-## 33. [MAYBE] General Motors | AI/ML Engineer - Model Inference
+## 36. [MAYBE] General Motors | AI/ML Engineer - Model Inference
 - Link: https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/AI-ML-Engineer---Model-Inference_JR-202613719-1
 - Location: Sunnyvale, California, United States of America
 - Posted: Nov 13 (board gives the date only)
@@ -713,7 +922,7 @@ Job Description The Team Cola is part of GM’s autonomous vehicle effort, focus
 
 ---
 
-## 34. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
+## 37. [MAYBE] Morgan Stanley | Wealth Management - Fiduciary Consulting Group (FCG), Performance Analyst - Analyst / Associate
 - Link: https://ms.wd5.myworkdayjobs.com/External/job/Greenwood-Village-Colorado-United-States-of-America/Wealth-Management---Fiduciary-Consulting-Group--FCG---Performance-Analyst---Analyst---Associate_PT-JR046133
 - Location: Greenwood Village, Colorado, United States of America
 - Posted: Nov 12 (board gives the date only)
@@ -728,7 +937,7 @@ Morgan Stanley is a leading global financial services firm providing a wide rang
 
 ---
 
-## 35. [MAYBE] Jabil | Financial Reporting Analyst
+## 38. [MAYBE] Jabil | Financial Reporting Analyst
 - Link: https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Analyst-I_J2464707
 - Location: St. Petersburg/Tampa, FL
 - Posted: Nov 12 (board gives the date only)
@@ -743,7 +952,7 @@ At Jabil (NYSE: JBL), we are proud to be a trusted partner for the world's top b
 
 ---
 
-## 36. [MAYBE] Etsy | Machine Learning Engineer IC3.1. Ads Recommendations
+## 39. [MAYBE] Etsy | Machine Learning Engineer IC3.1. Ads Recommendations
 - Link: https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Machine-Learning-Engineer-IC31-Ads-Recommendations_JR6135-1
 - Location: Brooklyn, New York
 - Posted: Nov 13 (board gives the date only)
@@ -758,7 +967,7 @@ Company Description Etsy is the global marketplace for unique and creative goods
 
 ---
 
-## 37. [MAYBE] UTHealth Houston | Research Assistant
+## 40. [MAYBE] UTHealth Houston | Research Assistant
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8484
 - Location: San Antonio, TX, United States US
 - Posted: Nov 13 (board gives the date only)
@@ -773,7 +982,7 @@ Under general supervision, provides routine technical assistance in performing a
 
 ---
 
-## 38. [MAYBE] O'Reilly Auto Parts | Merchandise Data Analyst
+## 41. [MAYBE] O'Reilly Auto Parts | Merchandise Data Analyst
 - Link: https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/Merchandise-Data-Analyst_R193941
 - Location: Headquarters
 - Posted: Nov 13 (board gives the date only)
@@ -788,7 +997,7 @@ A Merchandise Data Analyst researches and explores data-based information using 
 
 ---
 
-## 39. [MAYBE] Capital One | Senior Business Analyst - Commercial Risk Management (Strategy & Analytics)
+## 42. [MAYBE] Capital One | Senior Business Analyst - Commercial Risk Management (Strategy & Analytics)
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Business-Analyst---Commercial-Risk-Management--Strategy---Analytics-_R1000949
 - Location: McLean, VA
 - Posted: Nov 13 (board gives the date only)
@@ -803,7 +1012,7 @@ Senior Business Analyst - Commercial Risk Management (Strategy & Analytics) As a
 
 ---
 
-## 40. [MAYBE] Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems
+## 43. [MAYBE] Socure | Senior Software Engineer – Backend Platforms and Agentic & ML Systems
 - Link: https://jobs.ashbyhq.com/socure/382aacca-5f17-41a9-961e-6f89982058fe
 - Location: Hub - San Francisco United States Hub - New York Hub - Seattle remote
 - Posted: Nov 13 14:29 ET
@@ -904,7 +1113,22 @@ REQUIRED QUALIFICATIONS
 
 ---
 
-## 41. [MAYBE] Inova | Financial Performance Analyst 2
+## 44. [MAYBE] Roblox Corporation | Senior Software Engineer, Data Engineering
+- Link: https://careers.roblox.com/jobs/8366921?gh_jid=8366921
+- Location: San Mateo, CA, United States
+- Posted: Nov 13 19:23 ET
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 37 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, machine learning, regression, data quality, git, pipeline, risk | Lacks: -  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: CHECK | For US based roles only, please note the Company may not be able to employ candidates for this role who have United States work authorization related to certain U.S. / visa categories, or support future H-1B sponsorship at this time.
+
+### Job description
+
+Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators.&nbsp; At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.&nbsp; A career at Roblox means you’ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone. The team The Tooling team builds shared systems that make data reliable, discoverable, governable, efficient, and easy to use. Our work spans data quality, lineage, metadata, ownership, observability, lifecycle management, optimization, and self-service workflows for Data Engineering, Data Science, Experimentation, Machine Learning, and product teams. The role We are looking for a Senior Software Engineer to design, build, and operate high-leverage data tooling used across Roblox. You will own substantial technical work from problem discovery through production rollout, turning complex operational signals into clear, dependable workflows. A key focus for this role is intelligent automation for data operations: helping people and systems discover relevant data, diagnose quality or pipeline issues, understand cost and lifecycle signals, and take safe next steps. You will build these capabilities with strong evaluation, observability, and human oversight.&nbsp; You will Design, implement, and operate shared services, frameworks, and developer experiences for data quality, lineage, metadata, ownership, observability, lifecycle management, and optimization. Turn signals such as freshness, quality failures, lineage, usage, and compute or storage cost into actionable alerts, recommendations, dashboards, and workflows. Build AI-assisted or agentic experiences that help users investigate data questions and operational issues, with appropriate permissions, traceability, safety checks, and human approval for consequential actions. Develop evaluation infrastructure for automated recommendations and actions, including reproducible tests, measurable quality criteria, regression checks, and monitoring for failures or unintended behavior. Improve how teams discover, validate, govern, and operate data products, reducing toil while preserving clear ownership and reliable controls. Partner with Data Engineering, Data Science, Experimentation, ML, product, and infrastructure teams to understand needs and deliver reusable solutions rather than one-off fixes. Own production readiness for your work: instrumentation, service health, rollout plans, incident response, and follow-through on reliability and usability improvements. Lead technical design for projects or workstreams, communicate tradeoffs and risks clearly, and mentor engineers through reviews and collaborative problem-solving. You have Strong software engineering experience building and operating production systems, platforms, or developer tools. Experience designing services or frameworks that are reused by multiple teams, with attention to reliability, maintainability, observability, and user experience. Experience with data systems or operational workflows, for example, metadata, data quality, lineage, orchestration, monitoring, or large-scale pipeline operations. Sound judgment for turning ambiguous problems into incremental, measurable solutions, and for balancing automation with appropriate safeguards. Experience evaluating automated or AI-assisted systems using representative tests, measurable outcomes, and ongoing production feedback; familiarity with agentic workflows is especially relevant. The ability to collaborate across engineering and data disciplines, influence technical decisions, and explain complex tradeoffs to varied audiences. A track record of mentoring peers and raising engineering quality without relying on formal authority. For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future. All full-time employees are also eligible for equity compensation and for benefits as described on this page . Annual Salary Range $243,290 &mdash; $295,250 USD Roles that are based in an office are onsite Tuesday, Wednesday, and Thursday, with optional presence on Monday and Friday (unless otherwise noted). Roblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Roblox also provides
+
+---
+
+## 45. [MAYBE] Inova | Financial Performance Analyst 2
 - Link: https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/692434
 - Location: United States US VA, United States
 - Posted: Nov 13 (board gives the date only)
@@ -919,7 +1143,7 @@ Inova Health is looking for a dedicated Financial Performance Analyst 2 to join 
 
 ---
 
-## 42. [MAYBE] Ohio State University | Data Science Senior Analyst, AI Engineer
+## 46. [MAYBE] Ohio State University | Data Science Senior Analyst, AI Engineer
 - Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Data-Science-Senior-Analyst--AI-Engineer_R162476-1
 - Location: Columbus Campus
 - Posted: Nov 12 (board gives the date only)
@@ -934,7 +1158,7 @@ Screen reader users may encounter difficulty with this site. For assistance with
 
 ---
 
-## 43. [MAYBE] JP Morgan Chase | Chase Modeling - Applied AI ML Senior Associate
+## 47. [MAYBE] JP Morgan Chase | Chase Modeling - Applied AI ML Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706883
 - Location: New York, NY, United States US Jacksonville, FL, United States Jersey City, NJ, United States Plano, TX, United States Columbus, OH, United States
 - Posted: Nov 13 (board gives the date only)
@@ -949,7 +1173,7 @@ Join a team that consists of an intellectually diverse team of economists, stati
 
 ---
 
-## 44. [MAYBE] Genentech | Senior AI Engineer
+## 48. [MAYBE] Genentech | Senior AI Engineer
 - Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-AI-Engineer_202611-128780
 - Location: South San Francisco
 - Posted: Nov 13 (board gives the date only)
@@ -964,7 +1188,7 @@ We’re passionate about delivering on Our Promise to improve the lives of patie
 
 ---
 
-## 45. [MAYBE] Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics
+## 49. [MAYBE] Merck | Sr. Scientist, Bioinformatics, Translational Genome Analytics
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/Sr-Scientist--Bioinformatics--Translational-Genome-Analytics_R426685-1
 - Location: USA - Massachusetts - Boston (MA Parcel B Laboratory)
 - Posted: Nov 13 (board gives the date only)
@@ -979,7 +1203,7 @@ Job Description Role Overview: Our company is a global health care leader commit
 
 ---
 
-## 46. [MAYBE] Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases
+## 50. [MAYBE] Elanco | Senior Research Scientist – Farm Animal Clinical Development, Vaccines and Infectious Diseases
 - Link: https://elanco.wd5.myworkdayjobs.com/External_Career/job/US---Teleworker/Senior-Research-Scientist---Farm-Animal-Clinical-Development--Vaccines-and-Infectious-Diseases_R0027380
 - Location: 3 Locations
 - Posted: Nov 13 (board gives the date only)
@@ -994,7 +1218,7 @@ At Elanco (NYSE: ELAN) – it all starts with animals! As a global leader in ani
 
 ---
 
-## 47. [MAYBE] University of Southern California | Biostatistician II
+## 51. [MAYBE] University of Southern California | Biostatistician II
 - Link: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/San-Diego-CA/Biostatistician-II_REQ20181725
 - Location: San Diego, CA
 - Posted: Nov 13 (board gives the date only)
@@ -1009,7 +1233,7 @@ Biostatistician II The USC Keck School of Medicine, Epstein Family Alzheimer’s
 
 ---
 
-## 48. [MAYBE] Robinhood | Senior Data Scientist, Experimentation
+## 52. [MAYBE] Robinhood | Senior Data Scientist, Experimentation
 - Link: https://boards.greenhouse.io/robinhood/jobs/8356065?t=gh_src=&gh_jid=8356065
 - Location: Menlo Park, CA
 - Posted: Nov 13 17:25 ET
