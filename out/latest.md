@@ -1,7 +1,312 @@
-# Sweep 2026-11-13 22:31 ET: 197 boards, 1 new matches, 0 kept, 1 board errors, 829s
+# Sweep 2026-11-14 02:31 ET: 4598 boards, 7 new matches, 2 kept, 1609 board errors, 95s
 
 Alert inbox: no new relevant alert postings
-- [SKIP] Mindex | Data Engineer - Remote | fit~- | https://apply.workable.com/j/55A1A6E8C4 | eligibility: "Mindex is unable to sponsor employment visas at this time."
+- [MAYBE] City of Oklahoma City | Business Intelligence Specialist - City | fit~65 | https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4402 | no H-1B filings found for this employer
+- [MAYBE] Major League Baseball | Analyst, Major League Strategy & Analytics | fit~60 | https://job-boards.greenhouse.io/baltimoreorioles/jobs/6262099004 | no H-1B filings found for this employer part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+- [LOW] OKX | Sr. Software Engineer, Machine Learning & Data Infrastructure | fit~40 | https://job-boards.greenhouse.io/okx/jobs/8187582003 | senior title below the bar
+- [LOW] Cortica | Board Certified Behavior Analyst (BCBA) - Hybrid Remote | fit~33 | https://job-boards.greenhouse.io/allcareers/jobs/8941932002
+- [SKIP] Clay | Machine Learning Engineer | fit~- | https://jobs.ashbyhq.com/claylabs/f8d2a754-8ac4-4ba8-9c36-ed56184132a7 | asks 5+ years
+- [SKIP] Charles Schwab | Job Posting Title Senior Specialist, SEC Reporting | fit~- | https://career-schwab.icims.com/jobs/129841/senior-specialist%2c-sec-reporting/job | eligibility: "Applicants must be currently authorized to work in the United States on a full-time basis without employer sponsorship."
+- [SKIP] The Wonderful Company | Senior Healthcare Data Analyst, Health Plan Strategy | fit~- | https://jobs.smartrecruiters.com/TheWonderfulCompany/744000161617169 | asks 4+ years
 
 ## Board errors
-- Currier Plastics (workable:currier-plastics:): HTTPError HTTP Error 404: Not Found
+- 2020 Companies (workday:2020companies.wd1:external_careers): HTTPError HTTP Error 521: <none>
+- 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 521: <none>
+- AAA Club Alliance (workday:aaaie.wd1:csaacareers): HTTPError HTTP Error 521: <none>
+- AAA Club Alliance (workday:ace.wd5:careers): HTTPError HTTP Error 521: <none>
+- AAA Mountainwest Group (workday:ncnu.wd1:aaa_ncnu_careers): HTTPError HTTP Error 521: <none>
+- ABB (workday:abb.wd3:external_career_page): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- ABC Supply (workday:abcsupply.wd1:abcsupplycareers): HTTPError HTTP Error 521: <none>
+- AES (workday:aes.wd1:AES_US): HTTPError HTTP Error 521: <none>
+- AES (workday:aes.wd1:aes_clean_energy): HTTPError HTTP Error 521: <none>
+- AI Fund (lever:aifund:): HTTPError HTTP Error 404: Not Found
+- AIG (workday:aig.wd1:aig): HTTPError HTTP Error 521: <none>
+- AIG (workday:aig.wd1:early_careers): HTTPError HTTP Error 521: <none>
+- ALFA LAVAL (workday:alfalaval.wd3:Alfa_Laval_jobs): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- AMA (workday:albertamotorassociation.wd3:ama): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- AMN Healthcare (workday:amn.wd1:amn_careers): HTTPError HTTP Error 521: <none>
+- APM Terminals (workday:maersk.wd3:APMT_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- ARRAY Technologies (workday:arraytechinc.wd5:Array_Careers): HTTPError HTTP Error 521: <none>
+- ASM Global (workday:asmglobal.wd1:careers): HTTPError HTTP Error 521: <none>
+- ASML (workday:asml.wd3:asmlext1): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- AT&T (workday:att.wd1:ATTGeneral): HTTPError HTTP Error 521: <none>
+- AT&T (workday:att.wd1:attcollege): HTTPError HTTP Error 521: <none>
+- ATC (workday:atcllc.wd5:atcllc): HTTPError HTTP Error 521: <none>
+- AVEVA (workday:aveva.wd3:AVEVA_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- AWE (workday:awepeople.wd3:Grad_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Abbott (workday:abbott.wd5:abbottcareers): HTTPError HTTP Error 521: <none>
+- Abbott (workday:abbott.wd5:abbottcareers2): HTTPError HTTP Error 521: <none>
+- Academy Sports + Outdoors (workday:academy.wd1:careers): HTTPError HTTP Error 521: <none>
+- Accuray (workday:accuray.wd5:external): HTTPError HTTP Error 521: <none>
+- Ace Hardware (workday:acehardware.wd1:External): HTTPError HTTP Error 521: <none>
+- AcreTrader (rippling:acretrader-jobs:): HTTPError HTTP Error 404: Not Found
+- Acrisure (workday:acrisure.wd1:Acrisure): HTTPError HTTP Error 521: <none>
+- Acuity International (workday:acuityinternational.wd5:external): HTTPError HTTP Error 521: <none>
+- Acxiom (workday:acxiomllc.wd5:AcxiomUSA): HTTPError HTTP Error 521: <none>
+- Aderant (workday:aderant.wd5:Aderant_External_Careers): HTTPError HTTP Error 521: <none>
+- Adient (workday:adient.wd3:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Adobe (workday:adobe.wd5:external_experienced): HTTPError HTTP Error 521: <none>
+- Adtran (workday:adtran.wd3:adtran): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Advance Auto Parts (workday:advanceauto.wd5:advanceexternalcareers): HTTPError HTTP Error 521: <none>
+- Advocate Health Care (workday:aah.wd5:External): HTTPError HTTP Error 521: <none>
+- Aegon Asset Management (workday:transamerica.wd5:AEGONAM): HTTPError HTTP Error 521: <none>
+- Aegon Asset Management (workday:transamerica.wd5:AUK_JobSite): HTTPError HTTP Error 521: <none>
+- AeroVironment (workday:avav.wd1:avav): HTTPError HTTP Error 521: <none>
+- Age of Learning (lever:aofl:): HTTPError HTTP Error 404: Not Found
+- Agilent Technologies (workday:agilent.wd5:Agilent_Careers): HTTPError HTTP Error 521: <none>
+- Agilent Technologies (workday:agilent.wd5:Agilent_Student_Careers): HTTPError HTTP Error 521: <none>
+- Agiliti (workday:agiliti.wd5:careers): HTTPError HTTP Error 521: <none>
+- Air Liquide (workday:airliquidehr.wd3:AirLiquideExternalCareer): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Air Products (workday:airproducts.wd5:AP0001): HTTPError HTTP Error 521: <none>
+- Airbus (workday:ag.wd3:Airbus): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Aircall (lever:aircall:): HTTPError HTTP Error 404: Not Found
+- Airgas (workday:airliquidehr.wd3:airgasexternalcareer): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Albany Medical College (workday:albanymed.wd5:albany_med): HTTPError HTTP Error 521: <none>
+- Albemarle (workday:albemarle.wd5:External): HTTPError HTTP Error 521: <none>
+- Alcoa (workday:alcoa.wd5:Careers): HTTPError HTTP Error 521: <none>
+- Alcon (workday:alcon.wd5:careers_alcon): HTTPError HTTP Error 521: <none>
+- Alegeus (workday:alegeus.wd1:Alegeus_External_Careers): HTTPError HTTP Error 521: <none>
+- Alexion (workday:astrazeneca.wd3:alexion): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Alfa Financial Software (workday:alfa.wd3:alfa): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Alkegen (workday:alkegen.wd5:alkegen): HTTPError HTTP Error 521: <none>
+- Allegion (workday:allegion.wd5:careers): HTTPError HTTP Error 521: <none>
+- Allegro MicroSystems (workday:allegromicro.wd5:allegrocareers): HTTPError HTTP Error 521: <none>
+- AllianceBernstein (workday:abglobal.wd1:abcampuscareers): HTTPError HTTP Error 521: <none>
+- AllianceBernstein (workday:abglobal.wd1:alliancebernsteincareers): HTTPError HTTP Error 521: <none>
+- Alliant Energy (workday:alliantenergy.wd1:alliant): HTTPError HTTP Error 521: <none>
+- Alliaxis (workday:aliaxis.wd3:aliaxis): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Allina Health (workday:allina.wd5:external): HTTPError HTTP Error 521: <none>
+- Allison Transmission (workday:allisontransmission.wd1:ATI-External): HTTPError HTTP Error 521: <none>
+- Allstate Insurance Company (workday:allstate.wd5:allstate_careers): HTTPError HTTP Error 521: <none>
+- Allstate Insurance Company (workday:allstate.wd5:sourcing_event): HTTPError HTTP Error 521: <none>
+- Ally Bank (workday:ally.wd1:ALLY): HTTPError HTTP Error 521: <none>
+- Alma (greenhouse:alma:): HTTPError HTTP Error 404: Not Found
+- Alston & Bird Law Firm (workday:alston.wd1:ExternalCareer): HTTPError HTTP Error 521: <none>
+- AltaGas (workday:wgl.wd5:altagas): HTTPError HTTP Error 521: <none>
+- Altasciences (workday:altasciences.wd1:Careers): HTTPError HTTP Error 521: <none>
+- Altera Corporation (workday:altera.wd1:altera): HTTPError HTTP Error 521: <none>
+- Alteryx (workday:alteryx.wd108:AlteryxCareers): HTTPError HTTP Error 503: Service Unavailable
+- Always Compassionate Home Care (workday:alwayscompassionate.wd1:achomecare): HTTPError HTTP Error 521: <none>
+- Ambarella (workday:ambarella.wd108:ambarella): HTTPError HTTP Error 503: Service Unavailable
+- Amcor (workday:amcor.wd5:amcor_external_career_site): HTTPError HTTP Error 521: <none>
+- Amentum (workday:pae.wd1:amentum_careers): HTTPError HTTP Error 521: <none>
+- Ameren (workday:ameren.wd1:External): HTTPError HTTP Error 521: <none>
+- Ameresco (workday:ameresco.wd5:Ameresco): HTTPError HTTP Error 521: <none>
+- American Bankers Association (workday:aba.wd1:aba): HTTPError HTTP Error 521: <none>
+- American Cancer Society (workday:acs.wd5:acscareers): HTTPError HTTP Error 521: <none>
+- American Cancer Society Cancer Action Network (workday:acs.wd5:acscan): HTTPError HTTP Error 521: <none>
+- American Century Investments (workday:americancentury.wd5:AmericanCenturyInvestments): HTTPError HTTP Error 521: <none>
+- American Electric Power (workday:aep.wd1:AEPCareerSite): HTTPError HTTP Error 521: <none>
+- American Family Insurance Group (workday:amfam.wd1:AmFamGroupInternCareers): HTTPError HTTP Error 521: <none>
+- American Family Insurance Group (workday:amfam.wd1:Careers): HTTPError HTTP Error 521: <none>
+- American Fidelity (workday:americanfidelity.wd5:External): HTTPError HTTP Error 521: <none>
+- American Red Cross (workday:americanredcross.wd1:american_red_cross_careers): HTTPError HTTP Error 521: <none>
+- American University (workday:american.wd1:au): HTTPError HTTP Error 521: <none>
+- Ameriprise Financial (workday:ameriprise.wd5:Ameriprise): HTTPError HTTP Error 521: <none>
+- Amerisure (workday:osv-amerisure.wd5:Amerisure): HTTPError HTTP Error 521: <none>
+- Amgen (workday:amgen.wd1:careers): HTTPError HTTP Error 521: <none>
+- Amigo AI (ashby:amigo:): HTTPError HTTP Error 404: Not Found
+- Amplify (workday:amplify.wd1:Amplify_Careers): HTTPError HTTP Error 521: <none>
+- Amynta Group (workday:amynta.wd5:global): HTTPError HTTP Error 521: <none>
+- Analog Devices (workday:analogdevices.wd1:External): HTTPError HTTP Error 521: <none>
+- Anglian Water (workday:awg.wd3:AW): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Anglian Water (workday:awg.wd3:broadbean_external): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Anheuser-Busch (workday:abinbev.wd1:USA): HTTPError HTTP Error 521: <none>
+- Ankura Consulting Group (workday:ankura.wd5:ankura): HTTPError HTTP Error 521: <none>
+- Ann & Robert H. Lurie Children’s Hospital of Chicago (workday:luriechildrens.wd1:externalportal): HTTPError HTTP Error 521: <none>
+- Antares Capital (workday:antares.wd5:antares): HTTPError HTTP Error 521: <none>
+- Antech Diagnostics (workday:vca.wd1:antechcareers): HTTPError HTTP Error 521: <none>
+- Apex Fintech Solutions (workday:peak6group.wd1:apexfintechsolutions): HTTPError HTTP Error 521: <none>
+- Apollo Global (workday:athene.wd5:Apollo_Careers): HTTPError HTTP Error 521: <none>
+- Apple Bank (workday:applebank.wd5:applebankcareers): HTTPError HTTP Error 521: <none>
+- Applied Information Sciences (workday:appliedis.wd5:ais_careers): HTTPError HTTP Error 521: <none>
+- Applied Intuition (greenhouse:appliedintuition:): HTTPError HTTP Error 404: Not Found
+- Applied Materials (workday:amat.wd1:External): HTTPError HTTP Error 521: <none>
+- Aprio (lever:aprio:): HTTPError HTTP Error 404: Not Found
+- Aptiv (workday:aptiv.wd5:aptiv_careers): HTTPError HTTP Error 521: <none>
+- Aramsco (workday:aramsco.wd1:aramscocareers): HTTPError HTTP Error 521: <none>
+- Arbella (workday:arbella.wd5:Arbella): HTTPError HTTP Error 521: <none>
+- Arch (ashby:arch.co:): HTTPError HTTP Error 404: Not Found
+- Arch Capital Group (workday:archgroup.wd1:careers): HTTPError HTTP Error 521: <none>
+- Arctic Wolf (workday:arcticwolf.wd1:External): HTTPError HTTP Error 521: <none>
+- Ares Management (workday:aresmgmt.wd1:External): HTTPError HTTP Error 521: <none>
+- Argo Group (workday:brookfield.wd5:bpandc): HTTPError HTTP Error 521: <none>
+- Argonne National Laboratory (workday:argonne.wd1:Argonne_Careers): HTTPError HTTP Error 521: <none>
+- Argonne National Laboratory (workday:argonne.wd1:EDU_PUB): HTTPError HTTP Error 521: <none>
+- AriensCo (workday:arienscompany.wd5:external): HTTPError HTTP Error 521: <none>
+- Arine (greenhouse:arine:): HTTPError HTTP Error 404: Not Found
+- Aristocrat Leisure (workday:aristocrat.wd3:aristocratexternalcareerssite): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Arizona State University (workday:asu.wd1:ASUStaffCareers): HTTPError HTTP Error 521: <none>
+- Arizona State University (workday:asuep.wd5:ASUEP): HTTPError HTTP Error 521: <none>
+- Arizona State University (workday:asuep.wd5:ASUFoundation): HTTPError HTTP Error 521: <none>
+- Arkansas Blue Cross (workday:arkbluecross.wd1:abcbs_external_careers): HTTPError HTTP Error 521: <none>
+- Arkansas Children's (workday:archildrens.wd1:external_career_site): HTTPError HTTP Error 521: <none>
+- Arrow Electronics (workday:arrow.wd1:ac): HTTPError HTTP Error 521: <none>
+- Arrowstreet Capital (workday:arrowstreetcapital.wd5:Campus_Careers): HTTPError HTTP Error 521: <none>
+- Ascend Performance Materials (workday:ascendperformancematerials.wd1:ascend): HTTPError HTTP Error 521: <none>
+- Ascensus (workday:ascensushr.wd1:ascensuscareers): HTTPError HTTP Error 521: <none>
+- Aspen Dental (workday:aspendental.wd1:careers_aspen_dental): HTTPError HTTP Error 521: <none>
+- AspenTech (workday:aspentech.wd5:aspentech): HTTPError HTTP Error 521: <none>
+- AssetMark (workday:assetmark.wd5:AssetMark_Careers): HTTPError HTTP Error 521: <none>
+- AssetWorks (workday:volarisgroup.wd3:AssetWorks): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- AssetWorks (workday:volarisgroup.wd3:GoAssetWorks): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Associated Bank (workday:associatedbank.wd1:external_careers): HTTPError HTTP Error 521: <none>
+- Association of American Medical Colleges (workday:aamc.wd5:aamc): HTTPError HTTP Error 521: <none>
+- Assurant (workday:assurant.wd1:Assurant_Careers): HTTPError HTTP Error 521: <none>
+- Assurant (workday:assurant.wd1:External_Limited_Posting): HTTPError HTTP Error 521: <none>
+- AstraZeneca (workday:astrazeneca.wd3:Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Astreya (workday:astreya.wd5:life-at-astreya-opportunities): HTTPError HTTP Error 521: <none>
+- Asurion (workday:asurion.wd5:asurioncareers_us): HTTPError HTTP Error 521: <none>
+- Athena Health (workday:athenahealth.wd1:External): HTTPError HTTP Error 521: <none>
+- Athene (workday:athene.wd5:athene_careers): HTTPError HTTP Error 521: <none>
+- AtkinsRéalis (workday:slihrms.wd3:careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Atlas Energy Solutions (greenhouse:atlassand:): HTTPError HTTP Error 404: Not Found
+- Atomic Semi (ashby:atomicsemi:): HTTPError HTTP Error 404: Not Found
+- Atrium Hospitality (workday:atriumhospitality.wd5:atriumhospitality): HTTPError HTTP Error 521: <none>
+- Augusta National Golf Club (workday:angc.wd5:ANGC): HTTPError HTTP Error 521: <none>
+- Austal USA (workday:austalusa.wd1:austal): HTTPError HTTP Error 521: <none>
+- Austin Community College District (workday:austincc.wd1:external): HTTPError HTTP Error 521: <none>
+- Auto Club Group (workday:acg.wd1:Careers): HTTPError HTTP Error 521: <none>
+- Auto-Owners Insurance (workday:aoins.wd5:AutoOwners): HTTPError HTTP Error 521: <none>
+- AutoNation (workday:autonation.wd5:Careers): HTTPError HTTP Error 521: <none>
+- Autodesk (workday:autodesk.wd1:Ext): HTTPError HTTP Error 521: <none>
+- Autodesk (workday:autodesk.wd1:uni): HTTPError HTTP Error 521: <none>
+- Autoroboto (lever:autoroboto:): HTTPError HTTP Error 404: Not Found
+- Autostore (workday:autostore.wd3:autostore): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Availity (workday:availity.wd1:availity_careers_us): HTTPError HTTP Error 521: <none>
+- Aviagen (workday:aviagen.wd1:aviagen-careers): HTTPError HTTP Error 521: <none>
+- AvicenaTech (rippling:general:): HTTPError HTTP Error 404: Not Found
+- Avis Budget Group (workday:avisbudget.wd1:abg_careers): HTTPError HTTP Error 521: <none>
+- Aviva (workday:aviva.wd1:External): HTTPError HTTP Error 521: <none>
+- Aviva Investors (workday:aviva.wd1:Aviva_Investors_External): HTTPError HTTP Error 521: <none>
+- Avnet (workday:avnet.wd1:external): HTTPError HTTP Error 521: <none>
+- Axalta (workday:axalta.wd1:axalta): HTTPError HTTP Error 521: <none>
+- Axcelis Technologies Inc. (workday:axcelis.wd1:axcelis): HTTPError HTTP Error 521: <none>
+- Axiom Space (workday:axiomspace.wd5:External_Career_Site): HTTPError HTTP Error 521: <none>
+- Axis Capital (workday:axiscapital.wd1:axiscareers): HTTPError HTTP Error 521: <none>
+- Axis Communications AB (workday:axis.wd3:external_career_site): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Axos Bank (workday:axos.wd5:Axos): HTTPError HTTP Error 521: <none>
+- Azenta (workday:azenta.wd1:AzentaJobs): HTTPError HTTP Error 521: <none>
+- BCBST (workday:bcbst.wd1:External): HTTPError HTTP Error 521: <none>
+- BDO Canada (workday:bdo.wd3:BDO): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- BECU (workday:becu.wd1:External): HTTPError HTTP Error 521: <none>
+- BJ's Wholesale Club (workday:bjswholesaleclub.wd1:BJsCareers): HTTPError HTTP Error 521: <none>
+- BP (workday:bpinternational.wd3:bpCareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- BP (workday:bpinternational.wd3:bpEarlyCareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- BRG (workday:thinkbrg.wd5:BRG_External_Career_Site): HTTPError HTTP Error 521: <none>
+- Bacardi (workday:bacardi.wd3:Jobs_Bacardi): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Badger Meter (workday:badgermeter.wd5:US_CareerSite): HTTPError HTTP Error 521: <none>
+- Bain Capital (workday:baincapital.wd1:External_Public): HTTPError HTTP Error 521: <none>
+- Baird (workday:baird.wd1:careers): HTTPError HTTP Error 521: <none>
+- Baker Hughes (workday:bakerhughes.wd5:BakerHughes): HTTPError HTTP Error 521: <none>
+- Baker Tilly (workday:bakertilly.wd5:BTCareers): HTTPError HTTP Error 521: <none>
+- Baldwin Group (workday:baldwin.wd1:Baldwin): HTTPError HTTP Error 521: <none>
+- Banco Bilbao Vizcaya Argentaria (workday:bbva.wd3:BBVA): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Bank of America (workday:ghr.wd1:lateral-emea): HTTPError HTTP Error 521: <none>
+- Bank of America (workday:ghr.wd1:us-emplsv): HTTPError HTTP Error 521: <none>
+- Bank of Montreal (workday:bmo.wd3:Campus): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Bank of Montreal (workday:bmo.wd3:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Bank of Montreal (workday:bmo.wd3:Privileged): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Banner Health (workday:bannerhealth.wd108:Careers): HTTPError HTTP Error 503: Service Unavailable
+- Baptist Health (workday:bhs.wd1:careers): HTTPError HTTP Error 521: <none>
+- Barclays (workday:barclays.wd3:External_Career_Site_Barclays): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Barnard College (workday:barnard.wd1:Staff): HTTPError HTTP Error 521: <none>
+- Barr (workday:barr.wd1:barrcareers): HTTPError HTTP Error 521: <none>
+- Barry-Wehmiller (workday:barrywehmiller.wd1:BWCareers): HTTPError HTTP Error 521: <none>
+- Barry-Wehmiller (workday:barrywehmiller.wd1:BWConfidential): HTTPError HTTP Error 521: <none>
+- Bass Pro Shops (workday:basspro.wd1:careers): HTTPError HTTP Error 521: <none>
+- Baxter International (workday:baxter.wd1:baxter): HTTPError HTTP Error 521: <none>
+- BeOne (workday:beigene.wd5:beigene): HTTPError HTTP Error 521: <none>
+- Beacon Software (ashby:beaconsoftware:): HTTPError HTTP Error 404: Not Found
+- Becton Dickinson (workday:bdx.wd1:EXTERNAL_CAREER_SITE_USA): HTTPError HTTP Error 521: <none>
+- Becton Dickinson (workday:bdx.wd1:US_EARLY_TALENT_SITE): HTTPError HTTP Error 521: <none>
+- Belk (workday:belk.wd1:careers): HTTPError HTTP Error 521: <none>
+- Belk (workday:belk.wd1:careers-collegecampus): HTTPError HTTP Error 521: <none>
+- Benefis Health System (workday:benefis.wd1:bhs): HTTPError HTTP Error 521: <none>
+- Best Buy (workday:bestbuycanada.wd3:BestBuyCA_Career): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Best Egg (lever:bestegg:): HTTPError HTTP Error 404: Not Found
+- BetMGM (workday:betmgminc.wd5:BetMGM): HTTPError HTTP Error 521: <none>
+- Beth Israel Lahey Health (workday:bilh.wd1:External): HTTPError HTTP Error 521: <none>
+- Betway (workday:myhcm.wd3:Betway): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- BiblioCommons (workday:volarisgroup.wd3:BiblioCommons): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Bio-Techne (workday:biotechne.wd5:Biotechne): HTTPError HTTP Error 521: <none>
+- Biogen (workday:biibhr.wd3:external): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Bird Construction (workday:bird.wd3:BirdConstructionCareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- BlackRock (workday:blackrock.wd1:BlackRock_Early_Careers_Program): HTTPError HTTP Error 521: <none>
+- BlackRock (workday:blackrock.wd1:BlackRock_Professional): HTTPError HTTP Error 521: <none>
+- Blackberry (workday:bb.wd3:QNX): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Blackberry (workday:bb.wd3:Student): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Blackberry (workday:bb.wd3:blackberry): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Blackstone (workday:blackstone.wd1:Blackstone_Campus_Careers): HTTPError HTTP Error 521: <none>
+- Blackstone (workday:blackstone.wd1:bx_external_site): HTTPError HTTP Error 521: <none>
+- Bloom Energy (workday:bloomenergy.wd1:bloomenergycareers): HTTPError HTTP Error 521: <none>
+- Bloomberg Industry Group (workday:bloomberg.wd1:Bloombergindustrygroup_External_Career_Site): HTTPError HTTP Error 521: <none>
+- Blue Cross Blue Shield (workday:bcbsa.wd1:careers): HTTPError HTTP Error 521: <none>
+- Blue Cross Blue Shield of Arizona (workday:bcbsaz.wd1:bcbsazcareers): HTTPError HTTP Error 521: <none>
+- Blue Cross and Blue Shield of Kansas (workday:bcbsks.wd1:External): HTTPError HTTP Error 521: <none>
+- Blue Cross and Blue Shield of Louisiana (workday:bcbsla.wd1:external): HTTPError HTTP Error 521: <none>
+- Blue Cross and Blue Shield of Rhode Island (workday:bcbsri.wd1:BCBSRICareers): HTTPError HTTP Error 521: <none>
+- Blue Cross of Idaho (workday:bcidaho.wd5:BCI): HTTPError HTTP Error 521: <none>
+- Blue Nile (workday:signetjewelers.wd1:bluenile): HTTPError HTTP Error 521: <none>
+- Blue Origin (workday:blueorigin.wd5:blueorigin): HTTPError HTTP Error 521: <none>
+- Blue Yonder (workday:jda.wd5:JDA_Careers): HTTPError HTTP Error 521: <none>
+- BlueCross BlueShield of Nebraska (workday:nebraskablue.wd1:BCBSNE): HTTPError HTTP Error 521: <none>
+- BlueScope (workday:bluescopenac.wd5:BNACareers): HTTPError HTTP Error 521: <none>
+- Boar’s Head Brand (workday:boarshead.wd1:BHC): HTTPError HTTP Error 521: <none>
+- Bob's Discount Furniture (workday:bobsdf.wd1:bobs_careers): HTTPError HTTP Error 521: <none>
+- Boeing (workday:boeing.wd1:external_subsidiary): HTTPError HTTP Error 521: <none>
+- Bonterra (workday:bonterra.wd1:bonterratech): HTTPError HTTP Error 521: <none>
+- Booz Allen (workday:bah.wd1:Confidential): HTTPError HTTP Error 521: <none>
+- Booz Allen (workday:bah.wd1:bah_jobs): HTTPError HTTP Error 521: <none>
+- BorgWarner (workday:borgwarner.wd5:BorgWarner_Careers): HTTPError HTTP Error 521: <none>
+- Boston Dynamics (workday:bostondynamics.wd1:Boston_Dynamics): HTTPError HTTP Error 521: <none>
+- Boston Medical Center (workday:bmc.wd1:BMC): HTTPError HTTP Error 521: <none>
+- Boys Town (workday:boystown.wd1:boystowncareers): HTTPError HTTP Error 521: <none>
+- Brandeis University (workday:brandeis.wd5:Jobs): HTTPError HTTP Error 521: <none>
+- Braun Intertec (workday:braunintertec.wd5:brauninterteccareers): HTTPError HTTP Error 521: <none>
+- Bread Financial (workday:alliancedata.wd5:breadfinancial_us): HTTPError HTTP Error 521: <none>
+- Breeze Airways (greenhouse:breezeairways:): HTTPError HTTP Error 404: Not Found
+- Brevan Howard (workday:brevanhoward.wd3:BH_ExternalCareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Brigham Young University (workday:byu.wd1:byu-careers): HTTPError HTTP Error 521: <none>
+- Brink (workday:brinks.wd5:brinkscareersus): HTTPError HTTP Error 521: <none>
+- Bristol Myers Squibb (workday:bristolmyerssquibb.wd5:bms): HTTPError HTTP Error 521: <none>
+- Broadcom Limited (workday:broadcom.wd1:external_career): HTTPError HTTP Error 521: <none>
+- Broadridge (workday:broadridge.wd5:Careers): HTTPError HTTP Error 521: <none>
+- Broadview Federal Credit Union (workday:broadviewfcu.wd1:broadviewfcucareers): HTTPError HTTP Error 521: <none>
+- Brock University (workday:brocku.wd3:brocku_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Brookfield (workday:brookfield.wd5:brookfield): HTTPError HTTP Error 521: <none>
+- Brookhaven Lab (workday:bnl.wd1:externa): HTTPError HTTP Error 521: <none>
+- Brooks Automation (workday:brooksauto.wd1:Brooks_External_Site): HTTPError HTTP Error 521: <none>
+- Brown & Brown Insurance (workday:bbinsurance.wd1:careers): HTTPError HTTP Error 521: <none>
+- Brown Brothers Harriman (workday:bbh.wd5:BBH): HTTPError HTTP Error 521: <none>
+- Brown University (workday:brown.wd5:staff-careers-brown): HTTPError HTTP Error 521: <none>
+- Buildertrend (workday:buildertrend.wd108:External_Careers): HTTPError HTTP Error 503: Service Unavailable
+- Bupa (workday:bupa.wd3:ext_career): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Burlington Stores (workday:burlington.wd5:BurlingtonCareers): HTTPError HTTP Error 521: <none>
+- Busuu (workday:osv-chegg.wd5:Busuu): HTTPError HTTP Error 521: <none>
+- Buyers Edge Platform (greenhouse:buyersedgeplatformrecruiting:): HTTPError HTTP Error 404: Not Found
+- C Spire (workday:cspire-telapex.wd12:external-careers): HTTPError HTTP Error 422: Unprocessable Entity
+- C&S Wholesale Grocers (workday:cswg.wd1:cs_careers): HTTPError HTTP Error 521: <none>
+- C.H. Robinson (workday:chrobinson.wd5:CHRobinson): HTTPError HTTP Error 521: <none>
+- CACI (workday:caci.wd1:external): HTTPError HTTP Error 521: <none>
+- CAE (workday:cae.wd3:career): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- CAI (workday:cai.wd5:computer_aid): HTTPError HTTP Error 521: <none>
+- CALSTART (lever:calstart:): HTTPError HTTP Error 404: Not Found
+- CCC Intelligent Solutions (workday:cccis.wd1:broadbean_external): HTTPError HTTP Error 521: <none>
+- CDK Global (workday:cdk.wd1:CDK): HTTPError HTTP Error 521: <none>
+- CDW Corporation (workday:cdw.wd5:careers): HTTPError HTTP Error 521: <none>
+- CFA Institute (workday:osv-cfainstitute.wd5:Careers): HTTPError HTTP Error 521: <none>
+- CHEP (workday:brambles.wd5:Brambles_Careers): HTTPError HTTP Error 521: <none>
+- CIBC (workday:cibc.wd3:campus): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- CLEAResult (workday:clearesult.wd1:CLEAResult_External_Careers): HTTPError HTTP Error 521: <none>
+- CMC Markets (workday:cmcmarkets.wd3:CMC_Markets_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- CME Group (workday:cmegroup.wd1:cme_careers): HTTPError HTTP Error 521: <none>
+- CNA Insurance (workday:cna.wd1:CNA_Careers): HTTPError HTTP Error 521: <none>
+- CNM Central New Mexico Community College (workday:chess.wd1:CNMJOBS): HTTPError HTTP Error 521: <none>
+- CNO Financial Group (workday:cnoinc.wd5:Careers): HTTPError HTTP Error 521: <none>
+- COUNTRY Financial (workday:countryfinancial.wd5:COUNTRYCorporateExternal): HTTPError HTTP Error 521: <none>
+- COUNTRY Financial (workday:countryfinancial.wd5:COUNTRYCorporateInternships): HTTPError HTTP Error 521: <none>
+- CSA Group (workday:csagroup.wd3:csagroup): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- CSAA Insurance Group (workday:aaaie.wd1:CSAACareers2): HTTPError HTTP Error 521: <none>
+- CSI (workday:csiweb.wd1:CSI_Careers): HTTPError HTTP Error 521: <none>
+- CSL (workday:csl.wd1:CSL_External): HTTPError HTTP Error 521: <none>
