@@ -5,31 +5,37 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | PricewaterhouseCoopers (PwC) | FS Risk, Regulatory & Data Analytics Experienced Professional | 73 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
-| 2 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 67 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 3 | Sony | Data Scientist (Maternity Cover) | 67 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 4 | Intermountain Healthcare | Portfolio Data and Decision Analyst | 65 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 5 | Tutor Intelligence | AI Engineer – Manufacturing & Production | 57 | none found (check myvisajobs) | Nov 15 22:48 ET |
-| 6 | Valsoft Corporation | AI Engineer - KDR | 57 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
-| 7 | Macy's | Data Quality Specialist | 57 | 8 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 8 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 15 12:09 ET |
-| 9 | Barclays | AI Data Engineer - KDB | 53 | 142 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 10 | The Federal Reserve System | Quantitative Fellowship Program - Federal Reserve System | 52 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 11 | Banner Health | Neuropathology Research Scientist Brain and Body Donation Program | 50 | 4 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 12 | Equifax | Data Scientist - Intermediate | 50 | 34 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 13 | Open Avenues Foundation | Data Engineer Expérimenté H/F | 50 | 69 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 14 | U.S. Bank | Financial Reporting Analyst | 50 | 82 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 15 | Wellington Management | Implementation & Trading Risk Analyst | 47 | 32 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 16 | Citi | Data Engineer - Bigdata Technologies | 40 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
-| 17 | onsemi | Marketing Analyst, Campaign Marketing Support Specialist | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 18 | Airgas | Research Associate | 40 | 1 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 19 | Rolls-Royce | Junior Machine Learning Engineering | 40 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
-| 20 | Wood Mackenzie | Research Associate - Upstream | 40 | 6 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 21 | Citizens Financial Group | Sr. Data Scientist | 78 | 54 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 22 | Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services | 72 | 50 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 23 | Alcon | Senior Associate Business Intelligence Analyst (Alteryx & Tableau) | 61 | 12 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 24 | Banner Health | Data & Analytics Engineer II | 59 | 4 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 25 | JP Morgan Chase | Applied AI ML Senior Associate | 56 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 26 | Genpact Llc | Sr. AI Engineer 4B | 56 | 80 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 2 | Tufts Medicine (Tufts Medical Center) | Growth Marketing Analyst | 68 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 3 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 67 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 4 | Sony | Data Scientist (Maternity Cover) | 67 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 5 | Intermountain Healthcare | Portfolio Data and Decision Analyst | 65 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 6 | Tutor Intelligence | AI Engineer – Manufacturing & Production | 57 | none found (check myvisajobs) | Nov 15 22:48 ET |
+| 7 | Valsoft Corporation | AI Engineer - KDR | 57 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
+| 8 | Macy's | Data Quality Specialist | 57 | 8 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 9 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 15 12:09 ET |
+| 10 | Barclays | AI Data Engineer - KDB | 53 | 142 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 11 | The Federal Reserve System | Quantitative Fellowship Program - Federal Reserve System | 52 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 12 | Free Market Health | AI Engineer I | 52 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 13 | Banner Health | Neuropathology Research Scientist Brain and Body Donation Program | 50 | 4 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 14 | Equifax | Data Scientist - Intermediate | 50 | 34 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 15 | Open Avenues Foundation | Data Engineer Expérimenté H/F | 50 | 69 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 16 | U.S. Bank | Financial Reporting Analyst | 50 | 82 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 17 | Global Partners | Business Intelligence Analyst | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 18 | Wellington Management | Implementation & Trading Risk Analyst | 47 | 32 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 19 | Citi | Data Engineer - Bigdata Technologies | 40 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
+| 20 | onsemi | Marketing Analyst, Campaign Marketing Support Specialist | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 21 | Airgas | Research Associate | 40 | 1 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 22 | Rolls-Royce | Junior Machine Learning Engineering | 40 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
+| 23 | Wood Mackenzie | Research Associate - Upstream | 40 | 6 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 24 | Ohio State University | Research Associate - Rehabilitation Engineering Design Laboratory | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 25 | Citizens Financial Group | Sr. Data Scientist | 78 | 54 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 26 | Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services | 72 | 50 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 27 | Alcon | Senior Associate Business Intelligence Analyst (Alteryx & Tableau) | 61 | 12 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 28 | Banner Health | Data & Analytics Engineer II | 59 | 4 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 29 | Starr Insurance | Senior AI/ML Engineer | 58 | 8 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 30 | JP Morgan Chase | Applied AI ML Senior Associate | 56 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 31 | Genpact Llc | Sr. AI Engineer 4B | 56 | 80 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 32 | Genpact Llc | Sr. AI Engineer 4B | 56 | 80 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
 
 ---
 
@@ -48,7 +54,22 @@ Job Description & Summary We are a team that turns complexity into opportunity. 
 
 ---
 
-## 2. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
+## 2. [MAYBE] Tufts Medicine (Tufts Medical Center) | Growth Marketing Analyst
+- Link: https://tuftsmedicine.wd1.myworkdayjobs.com/Jobs/job/TuftsMedicine/Growth-Marketing-Analyst_R27178
+- Location: TuftsMedicine
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~68 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: a/b test, dashboard, git, healthcare, kpi, portfolio, publication, reporting, research, risk, segmentation | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Overview Reporting to the System Director, Brand and Digital Strategy, this position drives patient acquisition, engagement, and service line growth through data-driven digital marketing strategies for Tufts Medicine, the primary health system of Tufts University School of Medicine. This role leads the optimization of the patient journey and content strategy, advances SEO and generative engine optimization (GEO) readiness, and manages paid media and digital campaign performance across the full marketing funnel. This position develops and executes integrated, multi-channel campaigns that translate consumer insights into measurable business outcomes, leveraging analytics, testing, AI, and automation to improve performance and ROI. This position serves as a strategic partner to content, digital strategy and experience, marketing operations, and service line portfolio teams to reduce friction across the patient journey. Local candidate required. Primarily remote position. Must be able to come onsite to our locations in Massachusetts as needed. Job Description Minimum Qualifications: 1. Bachelor's degree in Marketing, Digital Marketing, Communications, Business Administration, Health Informatics, or related field. 2. Five (5) years of progressive growth marketing, digital marketing, or performance marketing experience. Preferred Qualifications: 1. Experience in healthcare including academic hospitals, health systems, medical schools or life sciences. 2. Master's degree in Marketing, Business Administration (MBA), Health Informatics, or related field. 3. Eight (8) years of experience in healthcare marketing and growth marketing. 4. Experience in academic health systems or large integrated delivery networks. 5. Experience with WRITER or similar enterprise AI platforms. 6. Certification in digital marketing, analytics, or paid media (Google Analytics, Google Ads, Meta Blueprint, HubSpot). 7. Experience with patient journey mapping, consumer insights, and precision marketing. 8. Experience with healthcare content optimization, CMS platforms, and conversion rate optimization (CRO). 9. Three (3) years experience in healthcare marketing. Duties and Responsibilities: The duties and responsibilities listed below are intended to describe the general nature of work and are not intended to be an all-inclusive list. Other duties and responsibilities may be assigned. 1. Develops and executes comprehensive growth marketing strategies aligned with Tufts Medicine's strategic goals, driving patient acquisition, engagement, and service line growth across the full consumer journey. 2. Leads patient journey optimization across the digital front door, including find-a-doctor experience, service line journeys, content pathways, conversion UX, appointment scheduling flows, lead capture, and follow-up engagement to reduce friction and increase conversion. 3. Owns and optimizes content strategy and performance across websites, blogs, service line pages, and native platforms, collaborating with content, digital strategy and experience, marketing operations, and service line portfolio teams to deploy optimized content that fuels growth. 4. Develops and implements SEO and generative engine optimization (GEO) strategies to ensure Tufts Medicine ranks prominently in traditional search and AI-powered search platforms (ChatGPT, Perplexity, Google AI Overviews), including schema markup, structured data, and AI search readiness. 5. Plans, executes, and optimizes paid media campaigns across search, social, programmatic, and display channels, managing budget allocation, bidding strategies, creative testing, and performance to maximize ROAS, CPA, and patient acquisition. 6. Defines audience strategies using segmentation, personas, and journey insights to deliver relevant, data-driven campaigns across B2C, B2B2C, and consumer audiences. 7. Establishes and monitors growth marketing KPIs, analytics frameworks, and performance dashboards to measure campaign effectiveness, ROI, and patient conversion across all digital channels. 8. Champions the adoption and governance of AI-powered marketing tools, including WRITER (organization's enterprise AI platform), for content creation, campaign optimization, SEO/GEO execution, and workflow automation. 9. Leads conversion rate optimization (CRO) initiatives including landing page testing, A/B testing, funnel optimization, and user experience enhancements to improve conversion at every stage of the funnel. 10. Translates research, analytics, and market signals into actionable marketing plans that drive performance across the full consumer journey from awareness through conversion and retention. 11. Partners with IT, clinical informatics, web, and security teams to ensure digital campaigns and content initiatives align with enterprise governance, security, risk management, and HIPAA compliance frameworks. 12. Manages relationships with digital agencies, media vendors, SEO/GEO partners, and content developers to deliver best-in-class growth marketing solutions. 13. Coordinates paid media, email, web, content, and creative teams around shared funnel goals, ensuring integrated strategies, coordinated execution, and shared accountability for outcomes. 14. Stays current with emerging technologies, digital marketing trends, AI and GEO innovations, and healthcare industry best practices to recommend strategic investments and maintain competitive advantage. 15. Develops action plans with clear deliverables, deadlines, accountabilities, and measurable benchmarks for all growth marketing initiatives. 16. Presents regular reports to the System Director, Brand and Digital Strategy and senior leadership on campaign performance, patient acquisition results, insights, and strategic recommendations. 17. Fosters and cultivates relationships across the health system (hospitals, departments, medical school), establishing MarCom as a trusted, strategic partner for growth. Physical Requirements: 1. Ability to sit for extended periods while working at a computer workstation. 2. Manual dexterity to operate computer keyboard and mouse for content creation and editing. 3. Visual acuity to review web content, proofread text, and analyze digital interfaces and analytics dashboards. Skills & Abilities: 1. Strategic thinking and ability to translate business objectives into actionable growth marketing strategies. 2. Expert knowledge of digital marketing channels: SEO, SEM, paid social, programmatic advertising, content marketing, and email marketing. 3. Proficiency with paid media platforms: Google Ads, Meta Ads, programmatic, and campaign management tools. 4. Knowledge of AI tools and platforms, particularly WRITER for content creation, workflow automation, and marketing optimization. 5. Expertise in SEO and generative engine optimization (GEO), including schema, structured data, and AI search prominence strategies. 6. Strong understanding of content optimization, CMS platforms, UX/UI principles, an [...]
+
+---
+
+## 3. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809457
 - Location: New York, NY, United States US
 - Posted: Nov 16 (board gives the date only)
@@ -63,7 +84,7 @@ Be part of a team where your expertise in finance and technology drives accurate
 
 ---
 
-## 3. [MAYBE] Sony | Data Scientist (Maternity Cover)
+## 4. [MAYBE] Sony | Data Scientist (Maternity Cover)
 - Link: https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Weybridge/Data-Scientist--Maternity-Cover-_JR-119893-1
 - Location: Weybridge
 - Posted: Nov 16 (board gives the date only)
@@ -78,7 +99,7 @@ Joining our DX (Digital Transformation) AI & Automation team, you will turn mach
 
 ---
 
-## 4. [MAYBE] Intermountain Healthcare | Portfolio Data and Decision Analyst
+## 5. [MAYBE] Intermountain Healthcare | Portfolio Data and Decision Analyst
 - Link: https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Portfolio-Data-and-Decision-Analyst_R189663
 - Location: Key Bank Tower
 - Posted: Nov 16 (board gives the date only)
@@ -93,7 +114,7 @@ Job Description: This role reports directly to the Portfolio Governance Director
 
 ---
 
-## 5. [MAYBE] Tutor Intelligence | AI Engineer – Manufacturing & Production
+## 6. [MAYBE] Tutor Intelligence | AI Engineer – Manufacturing & Production
 - Link: https://jobs.lever.co/tutorintelligence/f018d281-4e94-411d-ae19-4d6141c09bde
 - Location: Watertown, MA Watertown, MA US
 - Posted: Nov 15 22:48 ET
@@ -108,7 +129,7 @@ Real robots, really shipping. This isn't a lab project. We build robots every da
 
 ---
 
-## 6. [MAYBE] Valsoft Corporation | AI Engineer - KDR
+## 7. [MAYBE] Valsoft Corporation | AI Engineer - KDR
 - Link: https://apply.workable.com/j/539B2EC004
 - Location: Beirut Beirut Governorate Lebanon
 - Posted: Nov 15 (board gives the date only)
@@ -123,7 +144,7 @@ Aspire Software is looking for an AI Engineer to join our team in Lebanon. Here 
 
 ---
 
-## 7. [MAYBE] Macy's | Data Quality Specialist
+## 8. [MAYBE] Macy's | Data Quality Specialist
 - Link: https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/94728
 - Location: New York, NY, United States US
 - Posted: Nov 16 (board gives the date only)
@@ -138,7 +159,7 @@ Be Part of an Amazing Story Macy’s is more than just a store. We’re a story.
 
 ---
 
-## 8. [MAYBE] Clera | Founding Applied AI Engineer
+## 9. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/321b13c0-4622-4ca3-ba2d-0d696d0f13fc
 - Location: San Francisco United States
 - Posted: Nov 15 12:09 ET
@@ -195,7 +216,7 @@ On-site in San Francisco, California.
 
 ---
 
-## 9. [MAYBE] Barclays | AI Data Engineer - KDB
+## 10. [MAYBE] Barclays | AI Data Engineer - KDB
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/AI-Data-Engineer---KDB_JR-0000104455-2
 - Location: Canary Wharf, 1 Churchill Place
 - Posted: Nov 15 (board gives the date only)
@@ -210,7 +231,7 @@ Job Description Purpose of the role To build and maintain the systems that colle
 
 ---
 
-## 10. [MAYBE] The Federal Reserve System | Quantitative Fellowship Program - Federal Reserve System
+## 11. [MAYBE] The Federal Reserve System | Quantitative Fellowship Program - Federal Reserve System
 - Link: https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Quantitative-Fellowship-Program---Federal-Reserve-System_R-0000034088
 - Location: 10 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -225,7 +246,22 @@ Company Federal Reserve Bank of Minneapolis The QFP is a two-year rotational pro
 
 ---
 
-## 11. [MAYBE] Banner Health | Neuropathology Research Scientist Brain and Body Donation Program
+## 12. [MAYBE] Free Market Health | AI Engineer I
+- Link: https://ats.rippling.com/free-market-health/jobs/23d56451-04d9-48e8-8872-4e97c313a230
+- Location: Pittsburgh, PA United States
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~52 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, llm, python, sql, ai agent, git, healthcare | Lacks: azure, databricks  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+AI Engineer I AI Engineer I Why FMH Every day, someone receives a life-changing diagnosis. Getting the right medication should be straightforward - but too often it isn’t. Specialty medications move through a complex network of providers, health plans, pharmacies, and manufacturers. Administrative delays, disconnected systems, and limited visibility can slow treatment when time matters most. Free Market Health exists to make that process work better. Our technology connects stakeholders across the specialty pharmacy ecosystem, helping prescriptions reach the right pharmacy while improving visibility, reducing friction, and keeping treatment moving forward for the patients who depend on them. We focus on the most important stakeholder of all: the patient. Y our impact Free Market Health is seeking an AI Engineer I, Embedded AI to join our AI & Data Science team and help bring practical AI solutions into day-to-day business operations. Embedded within an assigned business area, you will learn its workflows, systems, data, and priorities while helping build, deploy, and improve AI-enabled applications. Working alongside experienced engineers and business partners, you will gain hands-on experience delivering reliable solutions that improve efficiency, quality, and operational outcomes. This is an excellent opportunity for an early-career engineer who enjoys solving real business problems, wants exposure to modern AI engineering practices, and is motivated to grow into greater technical independence. What You’ll Do Partner with the Business Develop an understanding of your assigned business area’s workflows, systems, data, priorities, and operational challenges. Work with business users and senior team members to identify opportunities where AI, automation, or process improvements could create meaningful value. Translate defined business problems and requirements into appropriately scoped technical tasks. Build relationships with business users and learn how technical solutions support their day-to-day work. Support the implementation and adoption of new AI capabilities. Help measure outcomes such as adoption, time saved, quality improvements, reduced manual effort, and other business impact. Build and Support AI Solutions Design, build, test, and deploy AI agents, copilots, automations, and supporting services with guidance from experienced team members. Develop agentic workflows that connect enterprise data, APIs, applications, and tools. Build integrations using REST APIs, Model Context Protocol, and other enterprise integration patterns. Implement LLM application patterns such as tool calling, structured outputs, retrieval-augmented generation, grounding, and multi-step workflows. Build retrieval solutions using structured and unstructured data, embeddings, vector search, and enterprise knowledge sources. Develop tests and evaluations to measure AI behavior, accuracy, reliability, and task completion. Monitor deployed solutions for reliability, quality, usage, and cost. Apply established security, access-control, responsible AI, human-oversight, and governance practices. Help evaluate when conventional software, automation, data solutions, or process improvements may be more appropriate than an AI-based solution. Write clear, maintainable code and documentation while contributing to reusable engineering components and patterns. What We’re Looking For At least one year of software engineering, data engineering, AI engineering, or comparable applied development experience. Relevant experience may come from professional work, internships, apprenticeships, open-source contributions, or substantial project work. Experience building software, automations, integrations, or AI-enabled applications. Technical Skills Proficiency in Python and working knowledge of SQL. Familiarity with Databricks or a comparable modern data platform. Familiarity with a major public cloud platform. Azure experience is preferred. Experience using AI-assisted development environments such as Cursor or Claude Code. Understanding of LLM application patterns, including prompting, tool calling, retrieval-augmented generation, structured outputs, and agentic workflows. Familiarity with Model Context Protocol and emerging agent-interoperability approaches. Experience working with REST APIs. Familiarity with Git, testing, code review, and modern software development practices. Business and Collaboration Skills Ability to collaborate effectively with technical and non-technical partners. Strong problem-solving skills and curiosity about how business processes work. Ability to translate reasonably well-defined business problems into technical tasks with guidance. Openness to feedback and a commitment to learning from experienced team members. Motivation to develop increasing technical independence. A practical, outcome-focused approach to technology and problem-solving. Nice to Haves Experience with Azure AI Foundry. Experience with LangGraph, LangChain, or similar frameworks. Experience with vector search, embeddings, enterprise search, or RAG. Exposure to AI evaluation, tracing, or monitoring. Exposure to CI/CD practices and production deployment. Familiarity with AI security, governance, responsible AI, and human-in-the-loop patterns. Experience working in healthcare or another regulated industry. Life at FMH We’re building more than a company. We’re building a team of ambitious, curious people who are passionate about solving meaningful problems, growing their careers, and genuinely enjoying the journey together. Based in Pittsburgh’s Strip District, FMH draws inspiration from the city we call home. Our value of Grit isn’t just a word on a wall. It’s a mindset inspired by the city around us: showing up, rolling up our sleeves, and finding a way forward no matter the challenge. As FMH continues to grow, so do the opportunities for our people to leave their mark. Guided by our core values of Integrity, Adaptability, Grit, and Collaboration , we foster an environment where trust is earned, new ideas are welcomed, challenges are embraced, and success is shared. You will be surrounded by people who care deeply about the work they do and the people they do it with. Together, we’re building something special, and we’re just getting started. Benefits Unlimited PTO 100% employer-paid individual medical, dental, and vision premiums Employer HSA contribution Paid parental leave 401(k) match Transportation and parking benefits Flexible, collaborative work environment Benefit eligibility is based on employment status. Build What’s Next With Us Healthcare is evolving - and so are we. If you’re excited by meaningful challenges, collaborative teammates, and the opportunity to help build a growing healthcare technology company, we’d love to hear from you.
+
+---
+
+## 13. [MAYBE] Banner Health | Neuropathology Research Scientist Brain and Body Donation Program
 - Link: https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Research-10515-W-Sante-Fe-Dr/Neuropathology-Research-Scientist-Brain-and-Body-Donation-Program_R4458151
 - Location: Banner Research (10515 W Sante Fe Dr)
 - Posted: Nov 15 (board gives the date only)
@@ -240,7 +276,7 @@ Primary City/State: Sun City, Arizona Department Name: Neuropathology Lab-Rsrch 
 
 ---
 
-## 12. [MAYBE] Equifax | Data Scientist - Intermediate
+## 14. [MAYBE] Equifax | Data Scientist - Intermediate
 - Link: https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Data-Scientist---Intermediate_J00180106
 - Location: USA - Georgia - Alpharetta - 30005
 - Posted: Nov 15 (board gives the date only)
@@ -255,7 +291,7 @@ Equifax is where you can power your possible. If you want to achieve your true p
 
 ---
 
-## 13. [MAYBE] Open Avenues Foundation | Data Engineer Expérimenté H/F
+## 15. [MAYBE] Open Avenues Foundation | Data Engineer Expérimenté H/F
 - Link: https://open.wd103.myworkdayjobs.com/OPEN/job/Lille/Data-Engineer-Confirm-H-F_R13320
 - Location: Lille
 - Posted: Nov 15 (board gives the date only)
@@ -270,7 +306,7 @@ Equifax is where you can power your possible. If you want to achieve your true p
 
 ---
 
-## 14. [MAYBE] U.S. Bank | Financial Reporting Analyst
+## 16. [MAYBE] U.S. Bank | Financial Reporting Analyst
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Boston-MA/Financial-Reporting-Analyst_2026-0035269-1
 - Location: Boston, MA
 - Posted: Nov 16 (board gives the date only)
@@ -285,7 +321,22 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 15. [MAYBE] Wellington Management | Implementation & Trading Risk Analyst
+## 17. [MAYBE] Global Partners | Business Intelligence Analyst
+- Link: https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Newton-Office/Business-Intelligence-Analyst_R0032179
+- Location: Newton Office
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, machine learning, python, sql, tableau, kpi, reporting | Lacks: dbt, snowflake  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Summary: At Global Partners, business starts with people. Since 1933, we’ve believed in taking care of our customers, our guests, our communities, and each other—and that belief continues to guide us. The Global Spirit is how we work to fuel that long term commitment to success. As a Fortune 500 company with 90+ years of experience, we’re proud to fuel communities—responsibly and sustainably. We show up every day with grit, passion, and purpose—anticipating needs, building lasting relationships, and creating shared value. Job Description: Responsibilities: Support the Gasoline Distribution and Store Operations (GDSO) business. Transform complex data into digestible business insights and visualizations that guide strategic decision-making and KPI management. Create analytics in our BI tools that allow the creation of actionable strategies and oversee the translation of business needs into analytical work products. Orchestrate the collaborative efforts of cross-functional teams, refine our reporting architectures, build visualizations, and advocate for the intelligent deployment of machine learning models. Create visualizations from disparate data sources using the Tableau visualization tool. Streamline and automate data delivery through Tableau reporting, develop Tableau dashboards for operational insights, and enable data filtration for relevancy to various teams. Collaborate across the GDSO to identify and translate data analytics into actionable insights, standardize analytical methodologies, and define product requirements with GDSO units. Engage with GDSO leadership to understand their data needs, ensuring the delivery of tailored analytics solutions. Collaborate on crafting and ensuring the accuracy of measurement processes, creating and presenting key KPIs derived through rigorous business intelligence visualization processes, and using core business logic. Identify and solve high-value business questions to unlock significant benefits such as cost savings, customer satisfaction, and resource optimization. Serve as the pivotal link between business units and the Central Data & Analytics org, translating complex data insights into actionable business analyses. Establish visualization quality standards and role-based access, oversee user acceptance testing for team analytical tools, and promote data literacy to nurture a data-driven organizational culture. Partner to create and execute an approach to effectively prioritize projects that provide the most value and are used to align with business goals. Additional Job Description: Requirements: Bachelor's Degree in Computer Science, Information Technology or a related field and three years of retail and eCommerce analytics experience. Experience must include three years each of the following: data ecosystem tools such as dbt, Snowflake, Python, and SQL; creating visualizations from disparate data sources using a Tableau visualization tool; Automating data delivery through Tableau reporting; Developing Tableau dashboards for operational insights and enabling data filtration for relevancy; Identifying and translating data analytics into actionable insights, standardizing analytical methodologies, and defining product requirements; Crafting and ensuring the accuracy of measurement processes; Creating and presenting key KPIs derived through business intelligence visualization processes; Establishing visualization quality standards and role-based access; and overseeing user acceptance testing for team analytical tools. Experience may be gained concurrently. Pay Range: $137,000.00 - $140,000.00 The pay range for this position is outlined above. The final amount offered at the start of employment is determined based on factors including, but not limited to, experience level, knowledge, skills, abilities and geographic location, and the Company reserves the right to modify base salary at any time, including for reasons related to individual performance, Company or individual department/team performance and market factors. Our Commitments to You Coins! We offer competitive salaries and opportunities for growth. We have an amazing Talent Development Team who create trainings for growth and job development. Health & Wellness - Medical, Dental, Visions and Life Insurance. Along with additional wellness support. The Road Ahead – We offer 401k and a match component! Professional Development - We provide tuition reimbursement; this benefit is offered after 6 months of service. What to Expect From the Hiring Process We value passion and potential. Please apply if you’re qualified and interested—we’d love to hear from you. A member of our Talent Acquisition team will review your application and may connect you with the hiring manager if your experience is a strong match. Interviews are conducted virtually and in person, depending on the role. We’ll provide more details about next steps if selected to move forward. Global Partners LP
+
+---
+
+## 18. [MAYBE] Wellington Management | Implementation & Trading Risk Analyst
 - Link: https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Implementation---Trading-Risk-Analyst_R95132-1
 - Location: Boston, MA, United States
 - Posted: Nov 15 (board gives the date only)
@@ -300,7 +351,7 @@ About Us Wellington Management offers comprehensive investment management capabi
 
 ---
 
-## 16. [MAYBE] Citi | Data Engineer - Bigdata Technologies
+## 19. [MAYBE] Citi | Data Engineer - Bigdata Technologies
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Data-Engineer---Bigdata-Technologies_261001065
 - Location: 1/124, SHIVAJI GARDENS, MOONLI
 - Posted: Nov 15 (board gives the date only)
@@ -315,7 +366,7 @@ The Engineering Analyst is an intermediate level position responsible for a vari
 
 ---
 
-## 17. [MAYBE] onsemi | Marketing Analyst, Campaign Marketing Support Specialist
+## 20. [MAYBE] onsemi | Marketing Analyst, Campaign Marketing Support Specialist
 - Link: https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507261
 - Location: Scottsdale, AZ, United States US
 - Posted: Nov 16 (board gives the date only)
@@ -330,7 +381,7 @@ Job Summary: onsemi is seeking a results-driven, creative marketer to join the C
 
 ---
 
-## 18. [MAYBE] Airgas | Research Associate
+## 21. [MAYBE] Airgas | Research Associate
 - Link: https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Newark-DE-ICD---RD---Industrial-performance/Research-Associate_R10103130-2
 - Location: Newark, DE (ICD) - R&D - Industrial performance
 - Posted: Nov 15 (board gives the date only)
@@ -345,7 +396,7 @@ R10103130 Research Associate (Open)&#xa;&#xa; Location: Newark, DE (ICD) - R&D -
 
 ---
 
-## 19. [MAYBE] Rolls-Royce | Junior Machine Learning Engineering
+## 22. [MAYBE] Rolls-Royce | Junior Machine Learning Engineering
 - Link: https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142
 - Location: Indianapolis
 - Posted: Nov 15 (board gives the date only)
@@ -360,7 +411,7 @@ Job Description Junior Machine Learning Engineering Duration: Permanent Location
 
 ---
 
-## 20. [MAYBE] Wood Mackenzie | Research Associate - Upstream
+## 23. [MAYBE] Wood Mackenzie | Research Associate - Upstream
 - Link: https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Edinburgh-GB/Research-Associate---Upstream_JR3524
 - Location: Edinburgh, GB
 - Posted: Nov 16 (board gives the date only)
@@ -375,7 +426,22 @@ Wood Mackenzie is the global leader in analytics, insights and proprietary data 
 
 ---
 
-## 21. [MAYBE] Citizens Financial Group | Sr. Data Scientist
+## 24. [MAYBE] Ohio State University | Research Associate - Rehabilitation Engineering Design Laboratory
+- Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Research-Associate---Rehabilitation-Engineering-Design-Laboratory_R151783-1
+- Location: College of Medicine/Office of Health Sciences
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, deep learning, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Screen reader users may encounter difficulty with this site. For assistance with applying, please contact hr-accessibleapplication@osu.edu . If you have questions while submitting an application, please review these frequently asked questions . Current Employees and Students: If you are currently employed or enrolled as a student at The Ohio State University, please l og in to Workday to use the internal application process. Welcome to The Ohio State University's career site. We invite you to apply to positions of interest. In order to ensure your application is complete, you must complete the following: Ensure you have all necessary documents available when starting the application process. You can review the additional job description section on postings for documents that may be required. Prior to submitting your application, please review and update (if necessary) the information in your candidate profile as it will transfer to your application. Job Title: Research Associate - Rehabilitation Engineering Design Laboratory Department: Medicine | Health and Rehabilitation Sciences Position Summary The Rehabilitation Engineering Design Laboratory and Assistive Technology Center at OSU are seeking a dedicated and innovative Computer Science/Computer Engineering graduate to join the team for an exciting project. The selected candidate will develop a mobile application to track wheelchair usage behavior. This project offers a unique opportunity to delve into the world of mobile application development, deep learning frameworks and apply them in a real-world context. The goal is to detect and analyze wheelchair usage patterns, with the potential to significantly enhance the quality of life for wheelchair users. This is a great opportunity to build scientific skills and knowledge at the intersection of engineering and health science disciplines, learn new techniques, and position yourself well for your future training and career goals. Although an ideal candidate will have proficiency with some of the basic or advanced research and development work, training will be provided for the required skillsets. This is a full-time position based in Columbus, Ohio, with an initial one-year appointment and the possibility of extension based on performance and funding. Job Requirements Bachelor's Degree in computer science/engineering, health sciences, or other medical field, or equivalent experience required. At least one year of experience working in a research setting and collaborating with an interdisciplinary group of practitioners. Industry or clinical experience preferred. Requires excellent organizational, written, and verbal communication skills. Must be able to take direction and appropriate action in a stressful environment. Additional Information: Location: Atwell Hall (0306) Position Type: Term (Fixed Term) Scheduled Hours: 40 Shift: First Shift Final candidates are subject to successful completion of a background check. A drug screen or physical may be required during the post offer process. Thank you for your interest in positions at The Ohio State University and Wexner Medical Center. Once you have applied, the most updated information on the status of your application can be found by visiting the Candidate Home section of this site. Please view your submitted applications by logging in and reviewing your status. For answers to additional questions please review the frequently asked questions . The university
+
+---
+
+## 25. [MAYBE] Citizens Financial Group | Sr. Data Scientist
 - Link: https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50426
 - Location: United States US
 - Posted: Nov 16 (board gives the date only)
@@ -390,7 +456,7 @@ Citizens Financial Group, Inc. (CFG) seeks a Sr. Data Scientist for its Boston, 
 
 ---
 
-## 22. [MAYBE] Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services
+## 26. [MAYBE] Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services
 - Link: https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Senior-Data-Quality-Assurance-Engineer--Data-Annotation-Services_R0000395657
 - Location: Irving, Texas
 - Posted: Nov 15 (board gives the date only)
@@ -405,7 +471,7 @@ Career Area: Technology, Digital and Data Job Description: Your Work Shapes the 
 
 ---
 
-## 23. [MAYBE] Alcon | Senior Associate Business Intelligence Analyst (Alteryx & Tableau)
+## 27. [MAYBE] Alcon | Senior Associate Business Intelligence Analyst (Alteryx & Tableau)
 - Link: https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Sr-Associate--Sales-Operations_R-2026-47449-1
 - Location: Fort Worth, Texas
 - Posted: Nov 16 (board gives the date only)
@@ -420,7 +486,7 @@ At Alcon, we are driven by the meaningful work we do to help people see brillian
 
 ---
 
-## 24. [MAYBE] Banner Health | Data & Analytics Engineer II
+## 28. [MAYBE] Banner Health | Data & Analytics Engineer II
 - Link: https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Data---Analytics-Engineer-II_R4459269
 - Location: Remote Arizona
 - Posted: Nov 15 (board gives the date only)
@@ -435,7 +501,22 @@ Department Name: Rev Cycle Analytics-Corp Work Shift: Day Job Category: Informat
 
 ---
 
-## 25. [MAYBE] JP Morgan Chase | Applied AI ML Senior Associate
+## 29. [MAYBE] Starr Insurance | Senior AI/ML Engineer
+- Link: https://starrcompanies.wd1.myworkdayjobs.com/careers/job/399-Park-Avenue-New-York-NY/Senior-AI-ML-Engineer_JR4659
+- Location: 399 Park Avenue-New York, NY
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~58 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 8 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, forecast, llm, machine learning, python, regression, sql, statistic, classification, deep learning, random forest, research, risk | Lacks: actuar, azure, scala  | Note: title says Senior/II: asks 2 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Join Starr, a global leader in commercial insurance with over a century of expertise. We empower our employees to innovate, make impactful decisions, and build lasting client relationships worldwide. At Starr, you'll work in an entrepreneurial culture alongside accessible leaders, leveraging our financial strength and vast industry experience to deliver solutions for our clients, no matter how complex. Grow your career with a rapidly growing company that invests in its people and their ability to drive real progress. Join the Starr Enterprise Data and Artificial Intelligence Organization and start reimagining the future of insurance. The Data and AI team at Starr builds first-of-a-kind capabilities that advance the insurance practice and scale across the entire enterprise. The team’s ultimate mission is to develop cutting-edge data and AI capabilities that drive profit growth for Starr. The Senior AI/ML engineer is an important, integral part of the Data & AI team. This position is responsible for uncovering meaningful data patterns and transforming them into actionable insights by leveraging predictive modeling, data mining, machine learning algorithms, and foundational models. This individual will be responsible for developing scalable solutions to provide data-driven and optimization insights. He/she should have vast experience in machine learning/AI algorithms and demonstrated ability to innovate and customize when necessary. We are looking for somebody who will be passionate about learning and deploying leading technologies in the AI space specific to the business needs to drive results and identify opportunities. As a Senior AI/ML Engineer this person will drive business impact by solving unique problems through analytics and machine learning, continuous improvement in methodologies, and change management in a fast-paced environment. Key Responsibilities Design, develop, and deploy AI/ML solutions with best practices in statistics, machine learning, deep learning, and foundational models to improve the profitability for Starr. Example includes classification models, forecasting, propensity and uplift modeling, foundational model fine-tuning, evaluation, and implementation, etc. Identify growth opportunities in underwriting, claims processing, risk assessment, and/or customer service through AI/ML augmentation. Collaborate cross-functionally with business, IT, and Transformation to drive scalability and impact of the AI/ML solutions. Communicate complex AI/ML concepts and findings to business leaders in a clear and concise manner. Conduct research and stay up-to-date with the latest advancements in AI/ML to continuously improve our AI capabilities. Required Professional and Technical Expertise: Master’s degree in Statistics, Data Science, Mathematics, Computer Science, Operational Research, or related disciplines. 5+ years' experience with data science/machine learning techniques (e.g., logistic regression, hierarchical regression, decision tree, random forest, neural networks, etc.) and 2+ years of experience working with LLM. Expertise in Python, SQL and with data science and data analytics packages working on structured and unstructured data. Experience with developing and industrializing scalable AI solutions from ideation to delivery. Expertise working in Azure, AWS or other cloud service using big data solutions. Proven ability to understand, cleanse, and integrate massive disparate data sets and demonstrated familiarity with data modeling workflow. Recognized for analytical rigor and ability to identify actionable insights from ambiguous and sometimes limited information. Strong communication, ability to effectively connect/translate complex analytics findings to business insights and recommendations. Preferred Professional and Technical Expertise: Ph.D. in Statistics, Data Science, Mathematics, Computer Science, Operational Research, or related disciplines. Natural language processing and natural language understanding expertise. Ability to gain consensus, to lead change and transformation. Passionate about data science and self-motivated to stay abreast of advances in data science techniques. Desire to work in a team based dynamic and fast-paced business culture. Experience leading projects for one or more business units. Experience in the insurance industry, particularly in underwriting, claims processing, or risk management. Knowledge of actuarial science and insurance-specific data sets. For individuals assigned and/or hired to work in New York, Starr Insurance Companies is required by law to include a reasonable estimate of the compensation range for this role. The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets: experience and training: licensure and certifications: and other business and organizational needs. A reasonable estimate of the current range is $180,000-$200,000. #LI-EP1 Starr
+
+---
+
+## 30. [MAYBE] JP Morgan Chase | Applied AI ML Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809525
 - Location: Jersey City, NJ, United States US New York, NY, United States
 - Posted: Nov 16 (board gives the date only)
@@ -450,8 +531,23 @@ Bring your applied research and machine learning skills to a team building moder
 
 ---
 
-## 26. [MAYBE] Genpact Llc | Sr. AI Engineer 4B
+## 31. [MAYBE] Genpact Llc | Sr. AI Engineer 4B
 - Link: https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-AI-Engineer-4B_JR10035951
+- Location: 1401-G-India: Floor 1 to 12, Hafeezpet Phoenix, Hyderabad
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~56 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 80 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, machine learning, nlp, python, pytorch, statistic, tensorflow, ai agent, deep learning, git, pipeline, validation | Lacks: azure, databricks, scala  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Sr. AI Engineer Ready to turn bold ideas into real-world impact? At Genpact, we don’t just adapt to change, we lead it. AI and digital innovation are transforming the way businesses work, and we’re at the forefront of it. Genpact’s AI Gigafactory , our industry-first accelerator, exemplifies how we scale advanced technology solutions to help global enterprises work smarter, grow faster, and transform at scale. Whether tackling complex challenges through large-scale models or agentic AI , our breakthrough solutions tackle companies’ most complex challenges. If you thrive in a fast-moving, innovation-driven environment, love building and deploying cutting-edge AI solutions, and want to push the boundaries of what’s possible, this is your moment. Genpact (NYSE: G) is an agentic and advanced technology solutions company. We leverage process intelligence and artificial intelligence to deliver measurable outcomes. With a strong partner ecosystem and decades of client trust, we provide innovative solutions that transform how businesses run. Powered by a team with an active learning mindset and client centricity at its core, we deliver lasting value for the world’s leading enterprises. Get to know us at genpact.com and on LinkedIn , YouTube , X , and Facebook . Job Description 1. Design and implement end-to-end machine learning pipelines for production analytics use cases, ensuring scalability and performance. 2. Own model development lifecycle including feature engineering, training, validation, and deployment for assigned client projects. 3. Mentor junior AI engineers and analysts on ML best practices, code quality, and technical problem-solving approaches. 4. Partner with data engineers and business stakeholders to translate requirements into ML solutions and validate model performance. 5. Drive optimization of existing AI models through experimentation, hyperparameter tuning, and algorithm selection. 6. Document technical architecture, model assumptions, and deployment procedures to enable knowledge transfer and operational handoff. 7. Contribute to internal AI/ML capability building by sharing learnings, code libraries, and reusable frameworks across teams. Qualifications Bachelors - Computer Science, Bachelors - Mathematics, Bachelors - Software Engineering, Masters - Artificial Intelligence, Masters - Statistics Certifications BUILD - GENERATIVE AI - Genpact, Certification in Python and Machine Learning - Decodr Technology, Deep Learning Specialization - Coursera, Generative AI & Large Language Models - Databricks Academy, IBM Machine Learning Specialization - IBM Required Skills AI/ML Ops, AI Agents, Amazon Web Services (AWS), Artificial Intelligence (AI), Deep Learning Algorithms, Google Cloud Platform, Machine Learning, Microsoft Azure, Natural Language Processing (NLP), PyTorch, Tensorflow Language English (Required) Language Proficiency - English (OVERALL - Proficient - C2) Additional Job Location - Job Type Regular Master Skill List - AI Remote Type - Hybrid Work Shift - Day Job (India) Why join Genpact? • Lead AI-powered transformation – Drive innovation and solve real-world business challenges that matter • Make an impact – Help global enterprises solve business challenges that matter • Accelerate your career – Gain hands-on experience, mentorship, and world-class learning opportunities to stay ahead • Work with the best – Join 140,000+ bold thinkers and problem-solvers who push boundaries every day • Thrive in a values-driven culture – Our courage, curiosity, and incisiveness - built on a foundation of integrity and inclusion - allow your ideas to fuel progress Come join the 140,000+ coders, tech shapers, and growth makers at Genpact and take your career in the only direction that matters: Up. Let’s build tomorrow together. Genpact
+
+---
+
+## 32. [MAYBE] Genpact Llc | Sr. AI Engineer 4B
+- Link: https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-AI-Engineer-4B_JR10035892
 - Location: 1401-G-India: Floor 1 to 12, Hafeezpet Phoenix, Hyderabad
 - Posted: Nov 16 (board gives the date only)
 - Scanner fit: ~56 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 80 in data/analytics/finance occupations
