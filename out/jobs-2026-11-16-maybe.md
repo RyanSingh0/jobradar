@@ -7,57 +7,61 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 1 | Cortland | Financial Planning & Analysis (FP&A) Analyst - Atlanta, GA | 77 | 2 in data/analytics/finance occupations | Nov 16 16:45 ET |
 | 2 | Goldman Sachs | Global Banking & Markets - Classic - Finance & Strategy - Analyst - Dallas | 74 | 772 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
 | 3 | PricewaterhouseCoopers (PwC) | FS Risk, Regulatory & Data Analytics Experienced Professional | 73 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
-| 4 | Tufts Medicine (Tufts Medical Center) | Growth Marketing Analyst | 68 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 5 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 67 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 6 | Sony | Data Scientist (Maternity Cover) | 67 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 7 | Intermountain Healthcare | Portfolio Data and Decision Analyst | 65 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 8 | Visa | US Consumer Credit, Product Analyst | 65 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 9 | CVS Health | Data Scientist | 64 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 10 | Broadridge | Financial Analyst - GTO FP&A (Hybrid - Newark, NJ) | 62 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 11 | Tutor Intelligence | AI Engineer – Manufacturing & Production | 57 | none found (check myvisajobs) | Nov 15 22:48 ET |
-| 12 | Valsoft Corporation | AI Engineer - KDR | 57 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
-| 13 | Macy's | Data Quality Specialist | 57 | 8 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 14 | Physical Intelligence | ML Infra Engineer, Compute | 57 | none found (check myvisajobs) | Nov 16 16:20 ET |
-| 15 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 15 12:09 ET |
-| 16 | Barclays | AI Data Engineer - KDB | 53 | 142 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 17 | Manulife Financial | Investment Analyst - Infrastructure | 53 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 18 | The Federal Reserve System | Quantitative Fellowship Program - Federal Reserve System | 52 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 19 | Free Market Health | AI Engineer I | 52 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 20 | Nightwing Intelligence Solutions | Data Analyst | 52 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 21 | Banner Health | Neuropathology Research Scientist Brain and Body Donation Program | 50 | 4 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 22 | Equifax | Data Scientist - Intermediate | 50 | 34 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 23 | Open Avenues Foundation | Data Engineer Expérimenté H/F | 50 | 69 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 24 | U.S. Bank | Financial Reporting Analyst | 50 | 82 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 25 | Global Partners | Business Intelligence Analyst | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 26 | Sanford Health | Assistant Research Scientist - Statistical Genetics | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 27 | University of Miami | Research Associate 1 | 50 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 28 | Wellington Management | Implementation & Trading Risk Analyst | 47 | 32 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 29 | U.S. Bank | Data Engineer | 46 | 82 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 30 | UTHealth Houston | Dental Assistant (Predoctoral Dental Education) | 45 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 31 | Citi | Data Engineer - Bigdata Technologies | 40 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
-| 32 | onsemi | Marketing Analyst, Campaign Marketing Support Specialist | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 33 | Airgas | Research Associate | 40 | 1 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 34 | Rolls-Royce | Junior Machine Learning Engineering | 40 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
-| 35 | Wood Mackenzie | Research Associate - Upstream | 40 | 6 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 36 | Ohio State University | Research Associate - Rehabilitation Engineering Design Laboratory | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 37 | Cedars-Sinai Medical Center | Research Associate I - Li Lab - Biomedical Imaging Research Institute | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 38 | Citizens Financial Group | Sr. Data Scientist | 78 | 54 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 39 | Asurion | Sr Analyst, Digital Marketing Analytics | 75 | 16 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 40 | Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services | 72 | 50 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 41 | General Motors | Senior AI/ML Engineer | 68 | 22 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 42 | Alcon | Senior Associate Business Intelligence Analyst (Alteryx & Tableau) | 61 | 12 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 43 | Banner Health | Data & Analytics Engineer II | 59 | 4 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 44 | AbbVie | Senior Research Statistician - Statistical Innovation (Hybrid) | 59 | 96 in data/analytics/finance occupations | Nov 16 13:34 ET |
-| 45 | General Motors | Senior Machine Learning Engineer - ML Training Infrastructure | 59 | 22 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 46 | Starr Insurance | Senior AI/ML Engineer | 58 | 8 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 47 | Johnson & Johnson | Senior AI Engineer | 58 | 11 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 48 | Omnicom Group | Senior Associate, Business Analytics | 57 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 49 | JP Morgan Chase | Applied AI ML Senior Associate | 56 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 50 | Genpact Llc | Sr. AI Engineer 4B | 56 | 80 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 51 | Genpact Llc | Sr. AI Engineer 4B | 56 | 80 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 52 | Grant Thornton | Sr. Associate, Business Intelligence | 55 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 53 | JP Morgan Chase | Data and Analytics Product Delivery Team - Analytics Solutions Senior Associate | 55 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 54 | Clarios | Sr. Pricing Analyst | 55 | 3 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 4 | McKesson | Business Process Improvement Analyst | 71 | 38 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 5 | Tufts Medicine (Tufts Medical Center) | Growth Marketing Analyst | 68 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 6 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 67 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 7 | Sony | Data Scientist (Maternity Cover) | 67 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 8 | Intermountain Healthcare | Portfolio Data and Decision Analyst | 65 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 9 | Visa | US Consumer Credit, Product Analyst | 65 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 10 | CVS Health | Data Scientist | 64 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 11 | Broadridge | Financial Analyst - GTO FP&A (Hybrid - Newark, NJ) | 62 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 12 | Tutor Intelligence | AI Engineer – Manufacturing & Production | 57 | none found (check myvisajobs) | Nov 15 22:48 ET |
+| 13 | Valsoft Corporation | AI Engineer - KDR | 57 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
+| 14 | Macy's | Data Quality Specialist | 57 | 8 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 15 | Physical Intelligence | ML Infra Engineer, Compute | 57 | none found (check myvisajobs) | Nov 16 16:20 ET |
+| 16 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 15 12:09 ET |
+| 17 | Barclays | AI Data Engineer - KDB | 53 | 142 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 18 | Manulife Financial | Investment Analyst - Infrastructure | 53 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 19 | The Federal Reserve System | Quantitative Fellowship Program - Federal Reserve System | 52 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 20 | Free Market Health | AI Engineer I | 52 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 21 | Nightwing Intelligence Solutions | Data Analyst | 52 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 22 | Banner Health | Neuropathology Research Scientist Brain and Body Donation Program | 50 | 4 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 23 | Equifax | Data Scientist - Intermediate | 50 | 34 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 24 | Open Avenues Foundation | Data Engineer Expérimenté H/F | 50 | 69 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 25 | U.S. Bank | Financial Reporting Analyst | 50 | 82 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 26 | Global Partners | Business Intelligence Analyst | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 27 | Sanford Health | Assistant Research Scientist - Statistical Genetics | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 28 | University of Miami | Research Associate 1 | 50 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 29 | General Motors | Motorsports Data Analyst | 50 | 22 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 30 | Wellington Management | Implementation & Trading Risk Analyst | 47 | 32 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 31 | U.S. Bank | Data Engineer | 46 | 82 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 32 | UTHealth Houston | Dental Assistant (Predoctoral Dental Education) | 45 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 33 | Citi | Data Engineer - Bigdata Technologies | 40 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
+| 34 | onsemi | Marketing Analyst, Campaign Marketing Support Specialist | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 35 | Airgas | Research Associate | 40 | 1 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 36 | Rolls-Royce | Junior Machine Learning Engineering | 40 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
+| 37 | Wood Mackenzie | Research Associate - Upstream | 40 | 6 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 38 | Ohio State University | Research Associate - Rehabilitation Engineering Design Laboratory | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 39 | Cedars-Sinai Medical Center | Research Associate I - Li Lab - Biomedical Imaging Research Institute | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 40 | Citizens Financial Group | Sr. Data Scientist | 78 | 54 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 41 | Asurion | Sr Analyst, Digital Marketing Analytics | 75 | 16 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 42 | Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services | 72 | 50 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 43 | General Motors | Senior AI/ML Engineer | 68 | 22 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 44 | Alcon | Senior Associate Business Intelligence Analyst (Alteryx & Tableau) | 61 | 12 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 45 | Banner Health | Data & Analytics Engineer II | 59 | 4 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 46 | AbbVie | Senior Research Statistician - Statistical Innovation (Hybrid) | 59 | 96 in data/analytics/finance occupations | Nov 16 13:34 ET |
+| 47 | General Motors | Senior Machine Learning Engineer - ML Training Infrastructure | 59 | 22 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 48 | Starr Insurance | Senior AI/ML Engineer | 58 | 8 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 49 | Johnson & Johnson | Senior AI Engineer | 58 | 11 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 50 | Omnicom Group | Senior Associate, Business Analytics | 57 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 51 | Caris | Senior Business Intelligence Analyst - Business Analytics | 57 | 1 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 52 | JP Morgan Chase | Applied AI ML Senior Associate | 56 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 53 | Genpact Llc | Sr. AI Engineer 4B | 56 | 80 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 54 | Genpact Llc | Sr. AI Engineer 4B | 56 | 80 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 55 | Grant Thornton | Sr. Associate, Business Intelligence | 55 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 56 | JP Morgan Chase | Data and Analytics Product Delivery Team - Analytics Solutions Senior Associate | 55 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 57 | Clarios | Sr. Pricing Analyst | 55 | 3 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 58 | Cohere Health | Senior Applied Scientist | 55 | 16 in data/analytics/finance occupations | Nov 16 17:36 ET |
 
 ---
 
@@ -106,7 +110,22 @@ Job Description & Summary We are a team that turns complexity into opportunity. 
 
 ---
 
-## 4. [MAYBE] Tufts Medicine (Tufts Medical Center) | Growth Marketing Analyst
+## 4. [MAYBE] McKesson | Business Process Improvement Analyst
+- Link: https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-KY-Shepherdsville/Business-Process-Improvement-Analyst_JR0157264
+- Location: 4 Locations
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~71 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 38 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, data visualization, excel, power bi, credit, fraud, git, healthcare, kpi, reporting, risk | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+McKesson is an impact-driven, Fortune 10 company that touches virtually every aspect of healthcare. We are known for delivering insights, products, and services that make quality care more accessible and affordable. Here, we focus on the health, happiness, and well-being of you and those we serve – we care. What you do at McKesson matters. We foster a culture where you can grow, make an impact, and are empowered to bring new ideas. Together, we thrive as we shape the future of health for patients, our communities, and our people. If you want to be part of tomorrow’s health today, we want to hear from you. The Business Process Improvement Analyst supports continuous improvement initiatives across 3PL Operations. In this role, you will partner with operations leaders and cross-functional teams to analyze business processes, identify performance gaps, and implement solutions that improve productivity, service, quality, cost, capacity, and operational reliability. You will use data analysis, Lean, Six Sigma, process mapping, and structured problem-solving methodologies to turn operational challenges into practical, measurable improvements. You will also help develop standardized processes, performance metrics, and tools that support continuous improvement across the distribution network. What You’ll Do Analyze operational processes and data to identify inefficiencies, bottlenecks, waste, variation, root causes, and process improvement opportunities. Support process improvement and continuous improvement projects from problem definition through implementation and sustainment. Facilitate or support process mapping, Value Stream Mapping, root cause analysis, Kaizen, DMAIC, PDCA, and A3 problem-solving activities. Develop current-state and future-state process maps and recommend practical process improvements. Collect, analyze, and interpret operational data to identify trends, performance gaps, and improvement opportunities. Support development and maintenance of KPIs, dashboards, scorecards, and operational reporting. Perform productivity, capacity, variance, trend, and root cause analyses and translate results into actionable recommendations. Establish baseline and post-implementation measures to evaluate results and quantify operational or financial benefits. Develop and document Standard Work, process controls, checklists, visual management tools, and process documentation. Coordinate assigned continuous improvement projects, including milestones, action items, risks, benefits, and implementation activities. Support labor planning, capacity planning, workflow analysis, slotting, productivity, and resource optimization. Partner with Operations and technology teams to evaluate automation, digital tools, analytics, and AI-enabled process improvements. Develop implementation materials and support training, change management, adoption, and post-implementation sustainment. Support Continuous Improvement workshops and help operational teams apply structured problem-solving techniques. Basic Requirements Experience in business process improvement, continuous improvement, operations, supply chain, distribution, analytics, manufacturing, or a related field. Experience analyzing and improving business or operational processes. Experience working with operational data, KPIs, or performance metrics. Preferred Skills/Experience Bachelor’s degree in Business, Supply Chain, Operations Management, Industrial Engineering, Analytics, or a related Industry experience Experience in 3PL, distribution, warehousing, pharmaceutical/healthcare distribution, or supply chain operations. Experience with Lean, Six Sigma, Kaizen, Value Stream Mapping, process mapping, DMAIC, PDCA, or A3 problem solving. Experience with operational dashboards, KPIs, scorecards, and data visualization. Advanced Microsoft Excel skills and experience with Power BI or similar analytics tools. Experience with labor planning, productivity analysis, capacity planning, slotting, or process optimization. Experience supporting automation or technology-enabled process improvements. Familiarity with project management and change management methodologies. Experience coordinating projects involving multiple stakeholders. Travel / In-Office / Physical Requirements Ability to travel up to 10–25% to distribution center locations.” We are proud to offer a competitive compensation package at McKesson as part of our Total Rewards. This is determined by several factors, including performance, experience and skills, equity, regular job market evaluations, and geographical markets. The pay range shown below is aligned with McKesson's pay philosophy, and pay will always be compliant with any applicable regulations. In addition to base pay, other compensation, such as an annual bonus or long-term incentive opportunities may be offered. For more information regarding benefits at McKesson, please click here. Our Base Pay Range for this position $68,800 - $114,600 McKesson has become aware of online recruiting-related scams in which individuals who are not affiliated with or authorized by McKesson are using McKesson’s (or affiliated entities, like CoverMyMeds or RxCrossroads) name in fraudulent emails, job postings or social media messages. In light of these scams, please bear the following in mind: McKesson Talent Advisors will never solicit money or credit card information in connection with a McKesson job application. McKesson Talent Advisors do not communicate with candidates via online chatrooms or using email accounts such as Gmail or Hotmail. Note that McKesson does rely on a virtual assistant (Gia) for certain recruiting-related communications with candidates. McKesson job postings are posted on our career site: careers.mckesson.com . McKesson
+
+---
+
+## 5. [MAYBE] Tufts Medicine (Tufts Medical Center) | Growth Marketing Analyst
 - Link: https://tuftsmedicine.wd1.myworkdayjobs.com/Jobs/job/TuftsMedicine/Growth-Marketing-Analyst_R27178
 - Location: TuftsMedicine
 - Posted: Nov 16 (board gives the date only)
@@ -121,7 +140,7 @@ Job Overview Reporting to the System Director, Brand and Digital Strategy, this 
 
 ---
 
-## 5. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
+## 6. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809457
 - Location: New York, NY, United States US
 - Posted: Nov 16 (board gives the date only)
@@ -136,7 +155,7 @@ Be part of a team where your expertise in finance and technology drives accurate
 
 ---
 
-## 6. [MAYBE] Sony | Data Scientist (Maternity Cover)
+## 7. [MAYBE] Sony | Data Scientist (Maternity Cover)
 - Link: https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Weybridge/Data-Scientist--Maternity-Cover-_JR-119893-1
 - Location: Weybridge
 - Posted: Nov 16 (board gives the date only)
@@ -151,7 +170,7 @@ Joining our DX (Digital Transformation) AI & Automation team, you will turn mach
 
 ---
 
-## 7. [MAYBE] Intermountain Healthcare | Portfolio Data and Decision Analyst
+## 8. [MAYBE] Intermountain Healthcare | Portfolio Data and Decision Analyst
 - Link: https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Portfolio-Data-and-Decision-Analyst_R189663
 - Location: Key Bank Tower
 - Posted: Nov 16 (board gives the date only)
@@ -166,7 +185,7 @@ Job Description: This role reports directly to the Portfolio Governance Director
 
 ---
 
-## 8. [MAYBE] Visa | US Consumer Credit, Product Analyst
+## 9. [MAYBE] Visa | US Consumer Credit, Product Analyst
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/US---San-Francisco-CA/US-Consumer-Credit--Product-Analyst_REF090232W
 - Location: 2 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -181,7 +200,7 @@ About Us Visa is a world leader in payments technology, facilitating transaction
 
 ---
 
-## 9. [MAYBE] CVS Health | Data Scientist
+## 10. [MAYBE] CVS Health | Data Scientist
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Work-from-home/Data-Scientist_R1099882-1
 - Location: CA - Work from home
 - Posted: Nov 16 (board gives the date only)
@@ -196,7 +215,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 10. [MAYBE] Broadridge | Financial Analyst - GTO FP&A (Hybrid - Newark, NJ)
+## 11. [MAYBE] Broadridge | Financial Analyst - GTO FP&A (Hybrid - Newark, NJ)
 - Link: https://broadridge.wd5.myworkdayjobs.com/Careers/job/Newark-NJ/Financial-Analyst---GTO-FP-A--Hybrid---Newark--NJ-_JR1087554
 - Location: Newark, NJ
 - Posted: Nov 16 (board gives the date only)
@@ -211,7 +230,7 @@ At Broadridge, we've built a culture where the highest goal is to empower others
 
 ---
 
-## 11. [MAYBE] Tutor Intelligence | AI Engineer – Manufacturing & Production
+## 12. [MAYBE] Tutor Intelligence | AI Engineer – Manufacturing & Production
 - Link: https://jobs.lever.co/tutorintelligence/f018d281-4e94-411d-ae19-4d6141c09bde
 - Location: Watertown, MA Watertown, MA US
 - Posted: Nov 15 22:48 ET
@@ -226,7 +245,7 @@ Real robots, really shipping. This isn't a lab project. We build robots every da
 
 ---
 
-## 12. [MAYBE] Valsoft Corporation | AI Engineer - KDR
+## 13. [MAYBE] Valsoft Corporation | AI Engineer - KDR
 - Link: https://apply.workable.com/j/539B2EC004
 - Location: Beirut Beirut Governorate Lebanon
 - Posted: Nov 15 (board gives the date only)
@@ -241,7 +260,7 @@ Aspire Software is looking for an AI Engineer to join our team in Lebanon. Here 
 
 ---
 
-## 13. [MAYBE] Macy's | Data Quality Specialist
+## 14. [MAYBE] Macy's | Data Quality Specialist
 - Link: https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/94728
 - Location: New York, NY, United States US
 - Posted: Nov 16 (board gives the date only)
@@ -256,7 +275,7 @@ Be Part of an Amazing Story Macy’s is more than just a store. We’re a story.
 
 ---
 
-## 14. [MAYBE] Physical Intelligence | ML Infra Engineer, Compute
+## 15. [MAYBE] Physical Intelligence | ML Infra Engineer, Compute
 - Link: https://jobs.ashbyhq.com/physicalintelligence/e81c8b57-4a6c-4d24-a166-e2c881718fdc
 - Location: San Francisco United States
 - Posted: Nov 16 16:20 ET
@@ -346,7 +365,7 @@ Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employ
 
 ---
 
-## 15. [MAYBE] Clera | Founding Applied AI Engineer
+## 16. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/321b13c0-4622-4ca3-ba2d-0d696d0f13fc
 - Location: San Francisco United States
 - Posted: Nov 15 12:09 ET
@@ -403,7 +422,7 @@ On-site in San Francisco, California.
 
 ---
 
-## 16. [MAYBE] Barclays | AI Data Engineer - KDB
+## 17. [MAYBE] Barclays | AI Data Engineer - KDB
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/AI-Data-Engineer---KDB_JR-0000104455-2
 - Location: Canary Wharf, 1 Churchill Place
 - Posted: Nov 15 (board gives the date only)
@@ -418,7 +437,7 @@ Job Description Purpose of the role To build and maintain the systems that colle
 
 ---
 
-## 17. [MAYBE] Manulife Financial | Investment Analyst - Infrastructure
+## 18. [MAYBE] Manulife Financial | Investment Analyst - Infrastructure
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Investment-Analyst---Infrastructure_JR26101364
 - Location: Boston, Massachusetts
 - Posted: Nov 16 (board gives the date only)
@@ -433,7 +452,7 @@ The Investment Analyst delivers consistent performance as a productive member of
 
 ---
 
-## 18. [MAYBE] The Federal Reserve System | Quantitative Fellowship Program - Federal Reserve System
+## 19. [MAYBE] The Federal Reserve System | Quantitative Fellowship Program - Federal Reserve System
 - Link: https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Quantitative-Fellowship-Program---Federal-Reserve-System_R-0000034088
 - Location: 10 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -448,7 +467,7 @@ Company Federal Reserve Bank of Minneapolis The QFP is a two-year rotational pro
 
 ---
 
-## 19. [MAYBE] Free Market Health | AI Engineer I
+## 20. [MAYBE] Free Market Health | AI Engineer I
 - Link: https://ats.rippling.com/free-market-health/jobs/23d56451-04d9-48e8-8872-4e97c313a230
 - Location: Pittsburgh, PA United States
 - Posted: new since the previous sweep (board shows no date)
@@ -463,7 +482,7 @@ AI Engineer I AI Engineer I Why FMH Every day, someone receives a life-changing 
 
 ---
 
-## 20. [MAYBE] Nightwing Intelligence Solutions | Data Analyst
+## 21. [MAYBE] Nightwing Intelligence Solutions | Data Analyst
 - Link: https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Data-Analyst_JR102258
 - Location: Sterling, VA
 - Posted: Nov 16 (board gives the date only)
@@ -478,7 +497,7 @@ Nightwing provides technically advanced full-spectrum cyber, data operations, sy
 
 ---
 
-## 21. [MAYBE] Banner Health | Neuropathology Research Scientist Brain and Body Donation Program
+## 22. [MAYBE] Banner Health | Neuropathology Research Scientist Brain and Body Donation Program
 - Link: https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Research-10515-W-Sante-Fe-Dr/Neuropathology-Research-Scientist-Brain-and-Body-Donation-Program_R4458151
 - Location: Banner Research (10515 W Sante Fe Dr)
 - Posted: Nov 15 (board gives the date only)
@@ -493,7 +512,7 @@ Primary City/State: Sun City, Arizona Department Name: Neuropathology Lab-Rsrch 
 
 ---
 
-## 22. [MAYBE] Equifax | Data Scientist - Intermediate
+## 23. [MAYBE] Equifax | Data Scientist - Intermediate
 - Link: https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Data-Scientist---Intermediate_J00180106
 - Location: USA - Georgia - Alpharetta - 30005
 - Posted: Nov 15 (board gives the date only)
@@ -508,7 +527,7 @@ Equifax is where you can power your possible. If you want to achieve your true p
 
 ---
 
-## 23. [MAYBE] Open Avenues Foundation | Data Engineer Expérimenté H/F
+## 24. [MAYBE] Open Avenues Foundation | Data Engineer Expérimenté H/F
 - Link: https://open.wd103.myworkdayjobs.com/OPEN/job/Lille/Data-Engineer-Confirm-H-F_R13320
 - Location: Lille
 - Posted: Nov 15 (board gives the date only)
@@ -523,7 +542,7 @@ Equifax is where you can power your possible. If you want to achieve your true p
 
 ---
 
-## 24. [MAYBE] U.S. Bank | Financial Reporting Analyst
+## 25. [MAYBE] U.S. Bank | Financial Reporting Analyst
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Boston-MA/Financial-Reporting-Analyst_2026-0035269-1
 - Location: Boston, MA
 - Posted: Nov 16 (board gives the date only)
@@ -538,7 +557,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 25. [MAYBE] Global Partners | Business Intelligence Analyst
+## 26. [MAYBE] Global Partners | Business Intelligence Analyst
 - Link: https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Newton-Office/Business-Intelligence-Analyst_R0032179
 - Location: Newton Office
 - Posted: Nov 16 (board gives the date only)
@@ -553,7 +572,7 @@ Job Summary: At Global Partners, business starts with people. Since 1933, we’v
 
 ---
 
-## 26. [MAYBE] Sanford Health | Assistant Research Scientist - Statistical Genetics
+## 27. [MAYBE] Sanford Health | Assistant Research Scientist - Statistical Genetics
 - Link: https://sanford.wd5.myworkdayjobs.com/sanfordhealth/job/WI-Marshfield/Assistant-Research-Scientist---Statistical-Genetics_R-0281326
 - Location: WI, Marshfield
 - Posted: Nov 16 (board gives the date only)
@@ -568,7 +587,7 @@ Sanford Health, the largest rural health system in the United States, is dedicat
 
 ---
 
-## 27. [MAYBE] University of Miami | Research Associate 1
+## 28. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103279
 - Location: Miami, FL
 - Posted: Nov 16 (board gives the date only)
@@ -583,7 +602,22 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 28. [MAYBE] Wellington Management | Implementation & Trading Risk Analyst
+## 29. [MAYBE] General Motors | Motorsports Data Analyst
+- Link: https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/Motorsports-Data-Analyst_JR-202624270
+- Location: Concord, North Carolina, United States of America
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 22 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, data visualization, excel | Lacks: -
+- Eligibility: CHECK | The Role The GM Motorsports team develops analytics-driven solutions to help GM sponsored race teams reach the winner’s circle. / What You’ll Do Apply Data Science and Modeling techniques to drive data driven decision making and solve complex business problems: Create breakthrough insights by performing exploratory and targeted data analyses Undert
+
+### Job description
+
+Job Description At GM Motorsports, we are driven by a clear purpose: to accelerate our teams’ ability to win on the racetrack and in the marketplace. Our vision is to be the benchmark of global motorsports excellence, inspiring enduring passion for our brands and products through world-class performance, innovation, and teamwork. We are looking for people who share our mindset and core values — ownership in organizational success, a commitment to add value to our team, and the courage to reject mediocrity in pursuit of exceptional results. The Role The GM Motorsports team develops analytics-driven solutions to help GM sponsored race teams reach the winner’s circle. We are seeking an experienced motorsports data analyst to drive solution development, deployment, and in-race support of analytic models for predictive race strategy analysis. As this role requires support of live motorsports events, often occurring over the weekend, the ability to work a flexible schedule is required. In addition to live strategy tools, the role will entail extensive data mining and ad hoc analysis to identify performance trends in past event data and clear, concise presentation of analysis findings to GM Motorsports teams. What You’ll Do Apply Data Science and Modeling techniques to drive data driven decision making and solve complex business problems: Create breakthrough insights by performing exploratory and targeted data analyses Undertake preprocessing/postprocessing of structured and unstructured data Leverage motorsports race strategy understanding to define context of analysis findings Monitor and sustain model effectiveness Present complex information using data visualization techniques Support live, in-race strategy modeling tools including: Model training and configuration of model starting point from prior event data for weekly motorsports events Monitor in-race strategy predictions Collaborate with diverse technical teams across both GM and GM sponsored Motorsports teams to provide data and analytic guidance. What You’ll Need (Required Qualifications) Bachelor of Science in Mechanical Engineering, Computer Science, or related field of study 2 or more years of experience in motorsports Proven experience applying data science and modeling techniques in industry settings Ability to support off-hours travel, testing, and race events as required #LI-LP2 &#xa;&#xa;&#xa;&#xa;This role is categorized as hybrid. This means the selected candidate is expected to report to a specific location at least 3 times a week {or other frequency dictated by their manager}.&#xa;&#xa;The selected candidate will be required to travel About GM Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all. Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team. Benefits Overview From day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources . Non-Discrimination and Equal Employment Opportunities (U.S.) General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers. All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire . Accommodations General Motors offers opportunities to all job seekers including individuals with disabilities. If you need a
+
+---
+
+## 30. [MAYBE] Wellington Management | Implementation & Trading Risk Analyst
 - Link: https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Implementation---Trading-Risk-Analyst_R95132-1
 - Location: Boston, MA, United States
 - Posted: Nov 15 (board gives the date only)
@@ -598,7 +632,7 @@ About Us Wellington Management offers comprehensive investment management capabi
 
 ---
 
-## 29. [MAYBE] U.S. Bank | Data Engineer
+## 31. [MAYBE] U.S. Bank | Data Engineer
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Data-Engineer_2026-0035249-1
 - Location: Irving, TX
 - Posted: Nov 16 (board gives the date only)
@@ -613,7 +647,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 30. [MAYBE] UTHealth Houston | Dental Assistant (Predoctoral Dental Education)
+## 32. [MAYBE] UTHealth Houston | Dental Assistant (Predoctoral Dental Education)
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8521
 - Location: San Antonio, TX, United States US
 - Posted: Nov 16 (board gives the date only)
@@ -628,7 +662,7 @@ Under direct supervision, supports dental care delivery by preparing treatment r
 
 ---
 
-## 31. [MAYBE] Citi | Data Engineer - Bigdata Technologies
+## 33. [MAYBE] Citi | Data Engineer - Bigdata Technologies
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Data-Engineer---Bigdata-Technologies_261001065
 - Location: 1/124, SHIVAJI GARDENS, MOONLI
 - Posted: Nov 15 (board gives the date only)
@@ -643,7 +677,7 @@ The Engineering Analyst is an intermediate level position responsible for a vari
 
 ---
 
-## 32. [MAYBE] onsemi | Marketing Analyst, Campaign Marketing Support Specialist
+## 34. [MAYBE] onsemi | Marketing Analyst, Campaign Marketing Support Specialist
 - Link: https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507261
 - Location: Scottsdale, AZ, United States US
 - Posted: Nov 16 (board gives the date only)
@@ -658,7 +692,7 @@ Job Summary: onsemi is seeking a results-driven, creative marketer to join the C
 
 ---
 
-## 33. [MAYBE] Airgas | Research Associate
+## 35. [MAYBE] Airgas | Research Associate
 - Link: https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Newark-DE-ICD---RD---Industrial-performance/Research-Associate_R10103130-2
 - Location: Newark, DE (ICD) - R&D - Industrial performance
 - Posted: Nov 15 (board gives the date only)
@@ -673,7 +707,7 @@ R10103130 Research Associate (Open)&#xa;&#xa; Location: Newark, DE (ICD) - R&D -
 
 ---
 
-## 34. [MAYBE] Rolls-Royce | Junior Machine Learning Engineering
+## 36. [MAYBE] Rolls-Royce | Junior Machine Learning Engineering
 - Link: https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142
 - Location: Indianapolis
 - Posted: Nov 15 (board gives the date only)
@@ -688,7 +722,7 @@ Job Description Junior Machine Learning Engineering Duration: Permanent Location
 
 ---
 
-## 35. [MAYBE] Wood Mackenzie | Research Associate - Upstream
+## 37. [MAYBE] Wood Mackenzie | Research Associate - Upstream
 - Link: https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Edinburgh-GB/Research-Associate---Upstream_JR3524
 - Location: Edinburgh, GB
 - Posted: Nov 16 (board gives the date only)
@@ -703,7 +737,7 @@ Wood Mackenzie is the global leader in analytics, insights and proprietary data 
 
 ---
 
-## 36. [MAYBE] Ohio State University | Research Associate - Rehabilitation Engineering Design Laboratory
+## 38. [MAYBE] Ohio State University | Research Associate - Rehabilitation Engineering Design Laboratory
 - Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Research-Associate---Rehabilitation-Engineering-Design-Laboratory_R151783-1
 - Location: College of Medicine/Office of Health Sciences
 - Posted: Nov 16 (board gives the date only)
@@ -718,7 +752,7 @@ Screen reader users may encounter difficulty with this site. For assistance with
 
 ---
 
-## 37. [MAYBE] Cedars-Sinai Medical Center | Research Associate I - Li Lab - Biomedical Imaging Research Institute
+## 39. [MAYBE] Cedars-Sinai Medical Center | Research Associate I - Li Lab - Biomedical Imaging Research Institute
 - Link: https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21758
 - Location: Beverly Hills, CA, United States US Los Angeles, CA, United States
 - Posted: Nov 16 (board gives the date only)
@@ -733,7 +767,7 @@ Principal Investigator, Debiao Li, PhD, is looking for a Research Associate to j
 
 ---
 
-## 38. [MAYBE] Citizens Financial Group | Sr. Data Scientist
+## 40. [MAYBE] Citizens Financial Group | Sr. Data Scientist
 - Link: https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50426
 - Location: United States US
 - Posted: Nov 16 (board gives the date only)
@@ -748,7 +782,7 @@ Citizens Financial Group, Inc. (CFG) seeks a Sr. Data Scientist for its Boston, 
 
 ---
 
-## 39. [MAYBE] Asurion | Sr Analyst, Digital Marketing Analytics
+## 41. [MAYBE] Asurion | Sr Analyst, Digital Marketing Analytics
 - Link: https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Work-at-Home/Senior-Analyst--Digital-Analytics_ASU0021103-1
 - Location: US-Work at Home
 - Posted: Nov 16 (board gives the date only)
@@ -763,7 +797,7 @@ Title : Senior Analyst, Digital Marketing Analytics Location : Nashville, TN or 
 
 ---
 
-## 40. [MAYBE] Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services
+## 42. [MAYBE] Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services
 - Link: https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Senior-Data-Quality-Assurance-Engineer--Data-Annotation-Services_R0000395657
 - Location: Irving, Texas
 - Posted: Nov 15 (board gives the date only)
@@ -778,7 +812,7 @@ Career Area: Technology, Digital and Data Job Description: Your Work Shapes the 
 
 ---
 
-## 41. [MAYBE] General Motors | Senior AI/ML Engineer
+## 43. [MAYBE] General Motors | Senior AI/ML Engineer
 - Link: https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-AI-ML-Engineer_JR-202619968-1
 - Location: 2 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -793,7 +827,7 @@ Job Description About the Team The Compression and Parity team in GM's Autonomou
 
 ---
 
-## 42. [MAYBE] Alcon | Senior Associate Business Intelligence Analyst (Alteryx & Tableau)
+## 44. [MAYBE] Alcon | Senior Associate Business Intelligence Analyst (Alteryx & Tableau)
 - Link: https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Sr-Associate--Sales-Operations_R-2026-47449-1
 - Location: Fort Worth, Texas
 - Posted: Nov 16 (board gives the date only)
@@ -808,7 +842,7 @@ At Alcon, we are driven by the meaningful work we do to help people see brillian
 
 ---
 
-## 43. [MAYBE] Banner Health | Data & Analytics Engineer II
+## 45. [MAYBE] Banner Health | Data & Analytics Engineer II
 - Link: https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Data---Analytics-Engineer-II_R4459269
 - Location: Remote Arizona
 - Posted: Nov 15 (board gives the date only)
@@ -823,7 +857,7 @@ Department Name: Rev Cycle Analytics-Corp Work Shift: Day Job Category: Informat
 
 ---
 
-## 44. [MAYBE] AbbVie | Senior Research Statistician - Statistical Innovation (Hybrid)
+## 46. [MAYBE] AbbVie | Senior Research Statistician - Statistical Innovation (Hybrid)
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990016882577
 - Location: North Chicago IL us
 - Posted: Nov 16 13:34 ET
@@ -838,7 +872,7 @@ The Senior Research Statistician in Statistical Innovation is responsible for pr
 
 ---
 
-## 45. [MAYBE] General Motors | Senior Machine Learning Engineer - ML Training Infrastructure
+## 47. [MAYBE] General Motors | Senior Machine Learning Engineer - ML Training Infrastructure
 - Link: https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-Machine-Learning-Engineer---ML-Training-Infrastructure_JR-202618569
 - Location: Sunnyvale, California, United States of America
 - Posted: Nov 16 (board gives the date only)
@@ -853,7 +887,7 @@ Job Description The Role: We are seeking an experienced, technical oriented, imp
 
 ---
 
-## 46. [MAYBE] Starr Insurance | Senior AI/ML Engineer
+## 48. [MAYBE] Starr Insurance | Senior AI/ML Engineer
 - Link: https://starrcompanies.wd1.myworkdayjobs.com/careers/job/399-Park-Avenue-New-York-NY/Senior-AI-ML-Engineer_JR4659
 - Location: 399 Park Avenue-New York, NY
 - Posted: Nov 16 (board gives the date only)
@@ -868,7 +902,7 @@ Join Starr, a global leader in commercial insurance with over a century of exper
 
 ---
 
-## 47. [MAYBE] Johnson & Johnson | Senior AI Engineer
+## 49. [MAYBE] Johnson & Johnson | Senior AI Engineer
 - Link: https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Senior-AI-Engineer_R-109646-1
 - Location: Titusville, New Jersey, United States of America
 - Posted: Nov 16 (board gives the date only)
@@ -883,7 +917,7 @@ At Johnson & Johnson, we believe health is everything. Our strength in healthcar
 
 ---
 
-## 48. [MAYBE] Omnicom Group | Senior Associate, Business Analytics
+## 50. [MAYBE] Omnicom Group | Senior Associate, Business Analytics
 - Link: https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Senior-Associate--Business-Analytics_R18520-1
 - Location: New York, New York, United States of America
 - Posted: Nov 16 (board gives the date only)
@@ -898,7 +932,22 @@ Agency: PHd Job Function: Data and Analytics Job Subfunction: Data Science and A
 
 ---
 
-## 49. [MAYBE] JP Morgan Chase | Applied AI ML Senior Associate
+## 51. [MAYBE] Caris | Senior Business Intelligence Analyst - Business Analytics
+- Link: https://carislifesciences.wd12.myworkdayjobs.com/CLS/job/Irving-TX--75063/Senior-Business-Intelligence-Analyst---Business-Analytics_JR105708
+- Location: Irving, TX -75063
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, etl, python, sql, tableau, credit, healthcare, pipeline, portfolio, publication, reporting, risk, validation | Lacks: salesforce, scala, ssis  | Note: title says Senior/II: asks 2 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At Caris, we understand that cancer is an ugly word—a word no one wants to hear, but one that connects us all. That’s why we’re not just transforming cancer care—we’re changing lives. We introduced precision medicine to the world and built an industry around the idea that every patient deserves answers as unique as their DNA. Backed by cutting-edge molecular science and AI, we ask ourselves every day: “What would I do if this patient were my mom?” That question drives everything we do. But our mission doesn’t stop with cancer. We're pushing the frontiers of medicine and leading a revolution in healthcare—driven by innovation, compassion, and purpose. Join us in our mission to improve the human condition across multiple diseases. If you're passionate about meaningful work and want to be part of something bigger than yourself, Caris is where your impact begins. Position Summary The Senior Business Intelligence Analyst independently leads the architecture, technical design, governance, and delivery of complex business intelligence and analytics solutions across the company. The role partners with department and executive leaders to define analytical priorities, key performance indicators, reporting standards, and scalable data solutions. It requires expertise in Tableau, backend data exploration, and SQL Server data-source development, including T-SQL and stored procedures. The analyst owns recurring executive and Board-level reporting, leads cross-functional analytics projects from intake through delivery, provides technical direction to other analysts, and serves as the escalation point for complex analytics and data issues. This is a senior individual-contributor role without formal people-management responsibility. Job Responsibilities Business Partnership and Requirements Partner with department and executive leaders to define reporting needs, analytical priorities, key performance indicators, and reporting standards. Lead requirements discovery and business process analysis, including user interviews and documentation of functional, system, data, integration, and dashboard requirements. Lead technical specification writing for data integration, transformation logic, data mappings, and dashboard architecture, and review other analysts' designs against those specifications. Look beyond the initial request to identify underlying business needs, reporting gaps, and opportunities to replace manual reporting with scalable solutions. Translate analytical findings into clear, actionable insights and train business users to apply dashboards and self-service tools effectively. Business Intelligence Solutions and Reporting Own complex business intelligence solutions, dashboards, reports, and data sources from analysis and design through development, testing, implementation, support, and optimization. Own recurring executive and Board-level reporting, including data validation, publication timelines, documentation, and backup coverage. Design and maintain data-source architecture, stored procedures, and dashboards (including those behind collections, billing audits, and revenue-cycle reporting) for business areas such as Finance, Billing, Supply Chain, Customer Support, Account Implementation, and Laboratory Operations, in partnership with Analytics Engineering. Own and validate data logic for time-sensitive operational workflows, with appropriate stakeholder review and sign-off. Maintain runbooks and technical documentation for owned reports, pipelines, and controls, and serve as backup for critical executive and operational reporting. Process Improvement, Automation, and Innovation Lead process-improvement and automation initiatives that replace recurring manual work with scalable, governed solutions. Identify recurring requests and address the underlying data source or enable self-service reporting where appropriate. Evaluate and apply relevant practices in business intelligence, cloud technologies, data engineering, and AI-assisted analytics. Validate AI-generated analysis and contribute reusable, governed analysis patterns, and serve as the requirements and data lead for predictive analytics initiatives (for example, in revenue cycle). Project and Portfolio Delivery Independently lead multiple high-priority, high-visibility, cross-functional analytics projects from intake and kickoff through planning, coordination, delivery, and support. Manage priorities, scope, timelines, dependencies, technical risks, and stakeholder expectations for an assigned portfolio. Provide timely project assessments and status updates, recommend solutions, and maintain accurate Jira backlog and work-sizing records. Develop and maintain intake and kickoff materials that clarify scope, approach, timelines, responsibilities, and expected value. Governance, Controls, and Compliance Help establish and maintain standards for dashboard design, data validation, testing, documentation, reporting quality, and performance. Execute and document assigned SOX-related controls for data pipelines and stored procedures, including failure follow-up, rerun verification, and change closure; serve as a trained backup owner as needed. Serve as an escalation point for regulated or time-sensitive data requests, following HIPAA and internal privacy procedures for protected health information. Technical Leadership and Escalation Provide technical guidance, design review, and mentoring to Business Intelligence Analysts. Act as the escalation point for complex data, reporting, performance, and solution-design issues, and independently select technical approaches. Assess in-flight or inherited analytics work, identify gaps, and deliver corrections under tight timelines. Perform other related duties, special projects, and ad hoc analyses as assigned. Required Qualifications Bachelor's degree in Business Analytics, Data Science, or a closely related analytical field. 5+ years of experience in business intelligence or analytics, including analytical report creation and delivery. 5+ years of SQL experience, including SQL Server stored procedures. 5+ years of experience building internal or client-facing Tableau dashboards, including management of Tableau Cloud user permissions. 3+ years of experience monitoring and optimizing dashboard performance. 2+ years of experience in healthcare data analytics. Working knowledge of Jira and Salesforce platforms and data-process automation. Experience developing data pipelines with SSIS and SQL Server stored procedures, and using Python, AWS, and software APIs for ETL and data integration. Experience leading requirements discovery and providing insights to users across multiple business departments (e.g., Finance, Billing, Supply Chain, and Operations). Experience owning recurring dashboards for executive-level and Board-level reporting and for external partner use. Experience leading analytics projects from intake through delivery, including prioritizing requests, setting stakeholder exp [...]
+
+---
+
+## 52. [MAYBE] JP Morgan Chase | Applied AI ML Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809525
 - Location: Jersey City, NJ, United States US New York, NY, United States
 - Posted: Nov 16 (board gives the date only)
@@ -913,7 +962,7 @@ Bring your applied research and machine learning skills to a team building moder
 
 ---
 
-## 50. [MAYBE] Genpact Llc | Sr. AI Engineer 4B
+## 53. [MAYBE] Genpact Llc | Sr. AI Engineer 4B
 - Link: https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-AI-Engineer-4B_JR10035951
 - Location: 1401-G-India: Floor 1 to 12, Hafeezpet Phoenix, Hyderabad
 - Posted: Nov 16 (board gives the date only)
@@ -928,7 +977,7 @@ Sr. AI Engineer Ready to turn bold ideas into real-world impact? At Genpact, we 
 
 ---
 
-## 51. [MAYBE] Genpact Llc | Sr. AI Engineer 4B
+## 54. [MAYBE] Genpact Llc | Sr. AI Engineer 4B
 - Link: https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-AI-Engineer-4B_JR10035892
 - Location: 1401-G-India: Floor 1 to 12, Hafeezpet Phoenix, Hyderabad
 - Posted: Nov 16 (board gives the date only)
@@ -943,7 +992,7 @@ Sr. AI Engineer Ready to turn bold ideas into real-world impact? At Genpact, we 
 
 ---
 
-## 52. [MAYBE] Grant Thornton | Sr. Associate, Business Intelligence
+## 55. [MAYBE] Grant Thornton | Sr. Associate, Business Intelligence
 - Link: https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116360
 - Location: Chicago, IL, United States US New York, NY, United States Boston, MA, United States Hartford, CT, United States Edison, NJ, United States Melville, NY, United States Atlanta, GA, United States Charlotte, NC, United States Dallas, TX, United States Cincinnati, OH, United States Cleveland, OH, United States Pittsburgh, PA, United States Philadelphia, PA, United States Orlando, FL, United States Fort Lauderdale, FL, United States Jacksonville, FL, United States Raleigh, NC, United States
 - Posted: Nov 16 (board gives the date only)
@@ -958,7 +1007,7 @@ Job Description: As the GTM Business Analyst, you help business leaders and team
 
 ---
 
-## 53. [MAYBE] JP Morgan Chase | Data and Analytics Product Delivery Team - Analytics Solutions Senior Associate
+## 56. [MAYBE] JP Morgan Chase | Data and Analytics Product Delivery Team - Analytics Solutions Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804899
 - Location: Seattle, WA, United States US Columbus, OH, United States Plano, TX, United States
 - Posted: Nov 16 (board gives the date only)
@@ -973,7 +1022,7 @@ Join a team that makes CCB Data Product development clear and measurable, helpin
 
 ---
 
-## 54. [MAYBE] Clarios | Sr. Pricing Analyst
+## 57. [MAYBE] Clarios | Sr. Pricing Analyst
 - Link: https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Sr-Pricing-Analyst_WD51300
 - Location: United States, Wisconsin, Milwaukee
 - Posted: Nov 16 (board gives the date only)
@@ -985,4 +1034,19 @@ Join a team that makes CCB Data Product development clear and measurable, helpin
 ### Job description
 
 What you will do The Sr. Pricing & Revenue Analyst will model out the cost structure, retail spreads, and overall financial impacts of batteries in the market. In collaborating with our sales, engineering, legal, category, and finance teams, you will deliver insights critical to Clarios’ overall value proposition and enabling Clarios' success in bids in the marketplace. This position is a pillar of the broader team serving as the foundation of overall market intelligence to Clarios. Reporting to the Director of Market & Revenue Analytics, the Senior Pricing Analyst will work side by side with sales, demand planning, marketing, finance, supply chain, and category management teams to strategically measure the market dynamics and find the balance necessary to ensure Clarios’ go-to-market strategy is both competitive and financially responsible. How you will do it Manage retail competitive price shops, seeing the batteries from the perspective of the end consumer. Communicate: be the source-of-truth for sales and marketing teams on market dynamics, providing alerts to any notable shifts in market pricing. Analyze B2B cost quotes, trends, and share – weekly - from 3rd party sources. Consolidate insights from sales and field teams, via salesforce , informing market pricing models, keeping us up-to-speed on all relevant changes. Summarize quarterly financial results for publicly traded customers, highlighting any insights that may impact their battery position or business. Maintain price walk models for key competitor parts, using data sources above. Review all proposed price changes, highlighting any risks/opportunities for either Clarios or the customer. Participate in market intel reviews with 3rd party providers. Provide market insights to sales team and demand planning groups weekly. Deliver short-term demand forecasts for the market, accounting for trends in consumer sentiment, seasonality, pricing, weather, and more. Ad hoc projects and analysis as needed. Foundational Points Bring ideas: drive innovation in processes and software, actively partaking in development of new dashboards, market intelligence reviews, AI analytics, and other internally developed tools. Be a team player: support the broader teams with ad hoc requests. Learn : partnering with cross-functional teams, become an expert in the battery market. Speak up : don’t be afraid to ask questions, raise ideas, or challenge the status quo. Persuasive communication skills : Briefly but thoroughly be able to communicate data with clearly defined proposals/conclusions. Both written and spoken. Be creative : ability to synthesize data from multiple sources, make educated (but documented) assumptions, and continuously be willing to refine models as new information comes to light. Analytical curiosity : the “why” is just as important as the “what.” Adaptability : Pivot strategies quickly when market trends or internal dynamics change What we look for 4 Year bachelor’s degree; Business, Finance, or Economics major a plus. Proficient in Excel , PowerPoint , Power BI, and Salesforce . Experience working in CPG and/or retail required. 3+ years preferred. Experience in Automotive or Manufacturing industries a plus. Comfortable speaking in front of groups and with executives. Proven ability to work with data from multiple sources, interpret data and turn into actionable insights. Ability to travel if needed (10%). This position will be hybrid, working out of Clarios' Glendale, Wisconsin corporate headquarters. What you get: Medical, dental and vision care coverage and a 401(k) savings plan with company matching – all starting on date of hire Tuition reimbursement, perks, and discounts Parental and caregiver leave programs All the usual benefits such as paid time off, flexible spending, short-and long-term disability, basic life insurance, business travel insurance, and Employee Assistance Program Global market strength and worldwide market share leadership HQ location earns LEED certification for sustainability plus a full-service cafeteria and workout facility Clarios has been recognized as one of 2026's Most Ethical Companies by Ethisphere. This prestigious recognition marks the fourth consecutive year Clarios has received this distinction. Who we are: Clarios is the force behind the world’s most recognizable car battery brands, powering vehicles from leading automakers like Ford, General Motors, Toyota, Honda, and Nissan. With 18,000 employees worldwide, we develop, manufacture, and distribute energy storage solutions while recovering, recycling, and reusing up to 99% of battery materials—setting the standard for sustainability in our industry. At Clarios, we’re not just making batteries; we’re shaping the future of sustainable transportation. Join our mission to innovate, push boundaries, and make a real impact. Discover your potential at Clarios—where your power meets endless possibilities. Veterans/Military Spouses: We value the leadership, adaptability, and technical expertise developed through military service. At Clarios, those capabilities thrive in an environment built on grit, ingenuity, and passion—where you can grow your career while helping to power progress worldwide. All qualified applicants will be considered without regard to protected characteristics. Equal Employment Opportunity: We recognize that people come with a wealth of experience and talent beyond just the technical requirements of a job. If your experience is close to what you see listed here, please apply. Diversity of experience and skills combined with passion is key to challenging the status quo. Therefore, we encourage people from all backgrounds to apply to our positions. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, status as a protected veteran or other protected characteristics protected by law. As a federal contractor, we are committed to not discriminating against any applicant or employee based on these protected statuses. We will also take affirmative action to ensure equal employment opportunities. Please let us know if you require accommodations during the interview process by emailing Special.Accommodations@Clarios.com .
+
+---
+
+## 58. [MAYBE] Cohere Health | Senior Applied Scientist
+- Link: https://job-boards.greenhouse.io/coherehealth/jobs/8203550003
+- Location: United States
+- Posted: Nov 16 17:36 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 16 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, llm, machine learning, python, pytorch, scikit, statistic, git, healthcare, risk, validation | Lacks: scala  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Opportunity Overview As a Senior Applied Scientist, you will play a key role in building and scaling Cohere Health’s AI capabilities. You’ll be a senior individual contributor developing, evaluating, and deploying models that automate and augment complex clinical workflows!&nbsp; Our Applied Science team’s work is focused on: Complex clinical document understanding and Information retrieval (think LLMs and other modern architectures at scale) Codification of expert clinical knowledge (think knowledge graph enrichment and traversal) Clinical Decision Automation (tie the above together to create and evaluate robust automation workflows) Direct Clinician Support (think LLMs and traditional learning to augment and optimize complex multi-step clinical workflows) This team is responsible for the full lifecycle of applied machine learning from problem framing, rigorous attention to methods and experimentation, to partnering with AI Engineering to deploy and monitor models. You’ll work with structured and unstructured healthcare data to generate insights and power intelligent systems that improve prior authorization and broader clinical decision-making. You’ll combine hands-on technical contributions with team leadership, helping to establish best practices, mentor team members, and drive high-impact solutions in close partnership with Product, Engineering, Clinical, and Analytics stakeholders. This is an opportunity to shape both the technical direction and team culture within a growing global organization. What you’ll do: Lead and mentor junior Applied Scientists, helping them focus on impactful problems and create robust machine learning solutions Translate complex healthcare business and clinical problems into scalable machine learning and data science solutions Validate those solutions with methodological and statistical rigor to assure that our Clinical AI is reliable, reproducible, and safe Partner with AI Engineering to scale those solutions to create real healthcare impact! Communicate technical concepts, methodologies, and insights clearly to both technical and non-technical stakeholders Contribute to multiple ML products as an expert advisor. What you’ll need: PhD or MS with 3+ years experience in machine learning, data science, or applied AI roles Expertise in statistical methods, experimental design, and model evaluation Experiencing leveraging both modern language models (agentic or non-agentic LLM) and classical ML techniques in a production setting Expertise in Python and experience with ML frameworks (e.g., PyTorch, scikit-learn) AWS or other cloud experience Nice-to-haves Experience in transactional healthcare (e.g., Utilization Management, Payment Integrity, Risk Adjustment, Quality, Care Management, etc).&nbsp; Experience driving process automation in a healthcare setting using modern language models Experience applying retrieval and relational extraction techniques to unstructured clinical notes and other patient history documentation Pay &amp; Perk 💻 Fully remote opportunity with about 5% travel 🩺 Medical, dental, vision, life, disability insurance, and Employee Assistance Program&nbsp; 📈 401K retirement plan with company match; flexible spending and health savings account&nbsp; 🏝️ Flex Time Off + company holidays 👶 Up to 14 weeks of paid parental leave&nbsp; 🐶 Pet insurance &nbsp; &nbsp; The salary range for this position is $135,000 to $170,000 annually; as part of a total benefits package which includes health insurance, 401k and bonus. In accordance with state applicable laws, Cohere is required to provide a reasonable estimate of the compensation range for this role. Individual pay decisions are ultimately based on a number of factors, including but not limited to qualifications for the role, experience level, skillset, and internal alignment. &nbsp; Interview Process*: Connect with Talent Acquisition for a Preliminary Phone Screening Meet your Hiring Manager! Coding Round Case Study Final Interview *Subject to change &nbsp; About Cohere Health: Cohere Health’s clinical intelligence platform and agentic AI-powered solutions connect health plans’ strategic goals and providers’ needs, optimizing the speed, cost, and quality of care. With an enterprise approach that streamlines payer-provider decision-making across the care continuum–including policy, prior authorization, payment accuracy, and more–the company improves collaboration and reduces burden, resulting in up to 8x ROI and 94% provider satisfaction.&nbsp; With the acquisition of ZignaAI, we’ve further enhanced our platform by launching our Payment Integrity Suite, anchored by Cohere Validate™, an AI-driven clinical and coding validation solution that operates in near real-time. By unifying pre-service authorization data with post-service claims validation, we’re creating a transparent healthcare ecosystem that reduces waste, improves payer-provider collaboration and patient outcomes, and ensures providers are paid promptly and accurately. Cohere Health’s innovations continue to receive industry wide recognition. We’ve been named to the 2025 Inc. 5000 list and in the Gartner® Hype Cycle™ for U.S. Healthcare Payers (2022-2025), and ranked as a Top 5 LinkedIn™ Startup for 2023 &amp; 2024. Backed by leading investors such as Deerfield Management, Define Ventures, Flare Capital Partners, Longitude Capital, and Polaris Partners.&nbsp; The Coherenauts, as we call ourselves, who succeed here are empathetic teammates who are candid, kind, caring, and embody our core values and principles . We believe that diverse, inclusive teams make the most impactful work. Cohere is deeply invested in ensuring that we have a supportive, growth-oriented environment that works for everyone. We can’t wait to learn more about you and meet you at Cohere Health! Equal Opportunity Statement:&nbsp; Cohere Health
 
