@@ -43,25 +43,26 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 37 | Wood Mackenzie | Research Associate - Upstream | 40 | 6 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
 | 38 | Ohio State University | Research Associate - Rehabilitation Engineering Design Laboratory | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
 | 39 | Cedars-Sinai Medical Center | Research Associate I - Li Lab - Biomedical Imaging Research Institute | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 40 | Citizens Financial Group | Sr. Data Scientist | 78 | 54 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 41 | Asurion | Sr Analyst, Digital Marketing Analytics | 75 | 16 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 42 | Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services | 72 | 50 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 43 | General Motors | Senior AI/ML Engineer | 68 | 22 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 44 | Alcon | Senior Associate Business Intelligence Analyst (Alteryx & Tableau) | 61 | 12 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 45 | Banner Health | Data & Analytics Engineer II | 59 | 4 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 46 | AbbVie | Senior Research Statistician - Statistical Innovation (Hybrid) | 59 | 96 in data/analytics/finance occupations | Nov 16 13:34 ET |
-| 47 | General Motors | Senior Machine Learning Engineer - ML Training Infrastructure | 59 | 22 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 48 | Starr Insurance | Senior AI/ML Engineer | 58 | 8 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 49 | Johnson & Johnson | Senior AI Engineer | 58 | 11 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 50 | Omnicom Group | Senior Associate, Business Analytics | 57 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 51 | Caris | Senior Business Intelligence Analyst - Business Analytics | 57 | 1 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 52 | JP Morgan Chase | Applied AI ML Senior Associate | 56 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 53 | Genpact Llc | Sr. AI Engineer 4B | 56 | 80 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 40 | Frost | External Reporting Analyst | 40 | 2 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 41 | Citizens Financial Group | Sr. Data Scientist | 78 | 54 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 42 | Asurion | Sr Analyst, Digital Marketing Analytics | 75 | 16 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 43 | Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services | 72 | 50 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 44 | General Motors | Senior AI/ML Engineer | 68 | 22 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 45 | Alcon | Senior Associate Business Intelligence Analyst (Alteryx & Tableau) | 61 | 12 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 46 | Banner Health | Data & Analytics Engineer II | 59 | 4 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 47 | AbbVie | Senior Research Statistician - Statistical Innovation (Hybrid) | 59 | 96 in data/analytics/finance occupations | Nov 16 13:34 ET |
+| 48 | General Motors | Senior Machine Learning Engineer - ML Training Infrastructure | 59 | 22 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 49 | Starr Insurance | Senior AI/ML Engineer | 58 | 8 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 50 | Johnson & Johnson | Senior AI Engineer | 58 | 11 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 51 | Omnicom Group | Senior Associate, Business Analytics | 57 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 52 | Caris | Senior Business Intelligence Analyst - Business Analytics | 57 | 1 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 53 | JP Morgan Chase | Applied AI ML Senior Associate | 56 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
 | 54 | Genpact Llc | Sr. AI Engineer 4B | 56 | 80 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 55 | Grant Thornton | Sr. Associate, Business Intelligence | 55 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 56 | JP Morgan Chase | Data and Analytics Product Delivery Team - Analytics Solutions Senior Associate | 55 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 57 | Clarios | Sr. Pricing Analyst | 55 | 3 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 58 | Cohere Health | Senior Applied Scientist | 55 | 16 in data/analytics/finance occupations | Nov 16 17:36 ET |
+| 55 | Genpact Llc | Sr. AI Engineer 4B | 56 | 80 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 56 | Grant Thornton | Sr. Associate, Business Intelligence | 55 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 57 | JP Morgan Chase | Data and Analytics Product Delivery Team - Analytics Solutions Senior Associate | 55 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 58 | Clarios | Sr. Pricing Analyst | 55 | 3 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 59 | Cohere Health | Senior Applied Scientist | 55 | 16 in data/analytics/finance occupations | Nov 16 17:36 ET |
 
 ---
 
@@ -767,7 +768,22 @@ Principal Investigator, Debiao Li, PhD, is looking for a Research Associate to j
 
 ---
 
-## 40. [MAYBE] Citizens Financial Group | Sr. Data Scientist
+## 40. [MAYBE] Frost | External Reporting Analyst
+- Link: https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---Downtown/External-Reporting-Analyst_R262318
+- Location: San Antonio, TX - Downtown
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, reporting, risk | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Description It’s about process, progress, and people. Do you have a knack for moving things forward? Do you have a keen attention to detail? Would others describe you as being reliable and resourceful? If so, being an External Reporting Analyst with Frost could be for you. At Frost, it’s about more than a job. It’s about having a flourishing career where you can thrive, both in and out of work. At Frost, we’re committed to fostering an environment that reflects our values and encourages team members to be the best they can be. In joining our adaptable, integrity-driven team, you’ll become part of Frost’s over 150-year legacy of providing unparalleled financial services. Who you are: As an External Reporting Analyst, you keep things moving forward. In this role you will assist with preparation and review of forms, reports, and other regulatory files. You are excited to use your expertise in the field and share your knowledge with other areas of the bank, and you understand the importance of communication as you collaborate with auditors, regulators, and other business units. More than that, this role is about constant improvement and doing so with our signature all-win approach in mind. What you’ll do: Assist with the preparation and review of Forms 10-Q, 10-K, Call Reports, and other regulatory filings Support financial reporting, CECL and data analysis activities Perform SOX and internal control testing, documentation, and remediation tracking Identify, evaluate, and document control gaps, operational incidents, process exceptions, and emerging risks; ensure proper escalation and timely resolution Support business continuity planning, testing, and related governance activities Coordinate with auditors, regulators, and business units to support examinations, audits, and reporting requirements Always take action using Integrity, Caring, and Excellence to achieve all-win outcomes What you’ll need: Bachelor’s degree in accounting, finance or a related field; or equivalent experience 2+ years of experience in accounting, finance, financial reporting, audit, compliance, or a related area Experience in bank operations, financial reporting, and regulatory requirements preferred Strong written and verbal communication skills Strong analytical, problem-solving, and organizational skills Ability to collaborate effectively across departments and build strong working relationships Proficiency in Microsoft Office applications Attention to detail and ability to manage multiple priorities in a deadline-driven environment Additional Preferred Skills : CPA or CPA candidate Our Benefits: At Frost, we care about your health, your family, and your future and strive to have our benefits reflect that. This includes: Medical, dental, vision, long-term disability, and life insurance 401(k) matching Generous holiday and paid time off schedule Tuition reimbursement Extensive health and wellness programs, including our Employee Assistance Program Referral bonus program + more! Since 1868, Frost has dedicated their expertise to provide exceptional banking, investment, and insurance services to businesses and individuals throughout Texas. Frost is one of the 50 largest U.S. banks by asset size and is a leader in banking customer satisfaction. At Frost, it’s about being part of something bigger. If this sounds like you, we encourage you to apply and see what’s possible at Frost.
+
+---
+
+## 41. [MAYBE] Citizens Financial Group | Sr. Data Scientist
 - Link: https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50426
 - Location: United States US
 - Posted: Nov 16 (board gives the date only)
@@ -782,7 +798,7 @@ Citizens Financial Group, Inc. (CFG) seeks a Sr. Data Scientist for its Boston, 
 
 ---
 
-## 41. [MAYBE] Asurion | Sr Analyst, Digital Marketing Analytics
+## 42. [MAYBE] Asurion | Sr Analyst, Digital Marketing Analytics
 - Link: https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Work-at-Home/Senior-Analyst--Digital-Analytics_ASU0021103-1
 - Location: US-Work at Home
 - Posted: Nov 16 (board gives the date only)
@@ -797,7 +813,7 @@ Title : Senior Analyst, Digital Marketing Analytics Location : Nashville, TN or 
 
 ---
 
-## 42. [MAYBE] Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services
+## 43. [MAYBE] Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services
 - Link: https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Senior-Data-Quality-Assurance-Engineer--Data-Annotation-Services_R0000395657
 - Location: Irving, Texas
 - Posted: Nov 15 (board gives the date only)
@@ -812,7 +828,7 @@ Career Area: Technology, Digital and Data Job Description: Your Work Shapes the 
 
 ---
 
-## 43. [MAYBE] General Motors | Senior AI/ML Engineer
+## 44. [MAYBE] General Motors | Senior AI/ML Engineer
 - Link: https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-AI-ML-Engineer_JR-202619968-1
 - Location: 2 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -827,7 +843,7 @@ Job Description About the Team The Compression and Parity team in GM's Autonomou
 
 ---
 
-## 44. [MAYBE] Alcon | Senior Associate Business Intelligence Analyst (Alteryx & Tableau)
+## 45. [MAYBE] Alcon | Senior Associate Business Intelligence Analyst (Alteryx & Tableau)
 - Link: https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Sr-Associate--Sales-Operations_R-2026-47449-1
 - Location: Fort Worth, Texas
 - Posted: Nov 16 (board gives the date only)
@@ -842,7 +858,7 @@ At Alcon, we are driven by the meaningful work we do to help people see brillian
 
 ---
 
-## 45. [MAYBE] Banner Health | Data & Analytics Engineer II
+## 46. [MAYBE] Banner Health | Data & Analytics Engineer II
 - Link: https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Data---Analytics-Engineer-II_R4459269
 - Location: Remote Arizona
 - Posted: Nov 15 (board gives the date only)
@@ -857,7 +873,7 @@ Department Name: Rev Cycle Analytics-Corp Work Shift: Day Job Category: Informat
 
 ---
 
-## 46. [MAYBE] AbbVie | Senior Research Statistician - Statistical Innovation (Hybrid)
+## 47. [MAYBE] AbbVie | Senior Research Statistician - Statistical Innovation (Hybrid)
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990016882577
 - Location: North Chicago IL us
 - Posted: Nov 16 13:34 ET
@@ -872,7 +888,7 @@ The Senior Research Statistician in Statistical Innovation is responsible for pr
 
 ---
 
-## 47. [MAYBE] General Motors | Senior Machine Learning Engineer - ML Training Infrastructure
+## 48. [MAYBE] General Motors | Senior Machine Learning Engineer - ML Training Infrastructure
 - Link: https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-Machine-Learning-Engineer---ML-Training-Infrastructure_JR-202618569
 - Location: Sunnyvale, California, United States of America
 - Posted: Nov 16 (board gives the date only)
@@ -887,7 +903,7 @@ Job Description The Role: We are seeking an experienced, technical oriented, imp
 
 ---
 
-## 48. [MAYBE] Starr Insurance | Senior AI/ML Engineer
+## 49. [MAYBE] Starr Insurance | Senior AI/ML Engineer
 - Link: https://starrcompanies.wd1.myworkdayjobs.com/careers/job/399-Park-Avenue-New-York-NY/Senior-AI-ML-Engineer_JR4659
 - Location: 399 Park Avenue-New York, NY
 - Posted: Nov 16 (board gives the date only)
@@ -902,7 +918,7 @@ Join Starr, a global leader in commercial insurance with over a century of exper
 
 ---
 
-## 49. [MAYBE] Johnson & Johnson | Senior AI Engineer
+## 50. [MAYBE] Johnson & Johnson | Senior AI Engineer
 - Link: https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Senior-AI-Engineer_R-109646-1
 - Location: Titusville, New Jersey, United States of America
 - Posted: Nov 16 (board gives the date only)
@@ -917,7 +933,7 @@ At Johnson & Johnson, we believe health is everything. Our strength in healthcar
 
 ---
 
-## 50. [MAYBE] Omnicom Group | Senior Associate, Business Analytics
+## 51. [MAYBE] Omnicom Group | Senior Associate, Business Analytics
 - Link: https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Senior-Associate--Business-Analytics_R18520-1
 - Location: New York, New York, United States of America
 - Posted: Nov 16 (board gives the date only)
@@ -932,7 +948,7 @@ Agency: PHd Job Function: Data and Analytics Job Subfunction: Data Science and A
 
 ---
 
-## 51. [MAYBE] Caris | Senior Business Intelligence Analyst - Business Analytics
+## 52. [MAYBE] Caris | Senior Business Intelligence Analyst - Business Analytics
 - Link: https://carislifesciences.wd12.myworkdayjobs.com/CLS/job/Irving-TX--75063/Senior-Business-Intelligence-Analyst---Business-Analytics_JR105708
 - Location: Irving, TX -75063
 - Posted: Nov 16 (board gives the date only)
@@ -947,7 +963,7 @@ At Caris, we understand that cancer is an ugly word—a word no one wants to hea
 
 ---
 
-## 52. [MAYBE] JP Morgan Chase | Applied AI ML Senior Associate
+## 53. [MAYBE] JP Morgan Chase | Applied AI ML Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809525
 - Location: Jersey City, NJ, United States US New York, NY, United States
 - Posted: Nov 16 (board gives the date only)
@@ -962,7 +978,7 @@ Bring your applied research and machine learning skills to a team building moder
 
 ---
 
-## 53. [MAYBE] Genpact Llc | Sr. AI Engineer 4B
+## 54. [MAYBE] Genpact Llc | Sr. AI Engineer 4B
 - Link: https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-AI-Engineer-4B_JR10035951
 - Location: 1401-G-India: Floor 1 to 12, Hafeezpet Phoenix, Hyderabad
 - Posted: Nov 16 (board gives the date only)
@@ -977,7 +993,7 @@ Sr. AI Engineer Ready to turn bold ideas into real-world impact? At Genpact, we 
 
 ---
 
-## 54. [MAYBE] Genpact Llc | Sr. AI Engineer 4B
+## 55. [MAYBE] Genpact Llc | Sr. AI Engineer 4B
 - Link: https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-AI-Engineer-4B_JR10035892
 - Location: 1401-G-India: Floor 1 to 12, Hafeezpet Phoenix, Hyderabad
 - Posted: Nov 16 (board gives the date only)
@@ -992,7 +1008,7 @@ Sr. AI Engineer Ready to turn bold ideas into real-world impact? At Genpact, we 
 
 ---
 
-## 55. [MAYBE] Grant Thornton | Sr. Associate, Business Intelligence
+## 56. [MAYBE] Grant Thornton | Sr. Associate, Business Intelligence
 - Link: https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116360
 - Location: Chicago, IL, United States US New York, NY, United States Boston, MA, United States Hartford, CT, United States Edison, NJ, United States Melville, NY, United States Atlanta, GA, United States Charlotte, NC, United States Dallas, TX, United States Cincinnati, OH, United States Cleveland, OH, United States Pittsburgh, PA, United States Philadelphia, PA, United States Orlando, FL, United States Fort Lauderdale, FL, United States Jacksonville, FL, United States Raleigh, NC, United States
 - Posted: Nov 16 (board gives the date only)
@@ -1007,7 +1023,7 @@ Job Description: As the GTM Business Analyst, you help business leaders and team
 
 ---
 
-## 56. [MAYBE] JP Morgan Chase | Data and Analytics Product Delivery Team - Analytics Solutions Senior Associate
+## 57. [MAYBE] JP Morgan Chase | Data and Analytics Product Delivery Team - Analytics Solutions Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804899
 - Location: Seattle, WA, United States US Columbus, OH, United States Plano, TX, United States
 - Posted: Nov 16 (board gives the date only)
@@ -1022,7 +1038,7 @@ Join a team that makes CCB Data Product development clear and measurable, helpin
 
 ---
 
-## 57. [MAYBE] Clarios | Sr. Pricing Analyst
+## 58. [MAYBE] Clarios | Sr. Pricing Analyst
 - Link: https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Sr-Pricing-Analyst_WD51300
 - Location: United States, Wisconsin, Milwaukee
 - Posted: Nov 16 (board gives the date only)
@@ -1037,7 +1053,7 @@ What you will do The Sr. Pricing & Revenue Analyst will model out the cost struc
 
 ---
 
-## 58. [MAYBE] Cohere Health | Senior Applied Scientist
+## 59. [MAYBE] Cohere Health | Senior Applied Scientist
 - Link: https://job-boards.greenhouse.io/coherehealth/jobs/8203550003
 - Location: United States
 - Posted: Nov 16 17:36 ET
