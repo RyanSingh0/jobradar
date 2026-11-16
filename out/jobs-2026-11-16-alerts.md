@@ -7,3 +7,4 @@ Found in your LinkedIn/HiringCafe/Glassdoor/Indeed/Jobright alert emails but not
 | linkedin | Lockheed Martin | Data Analyst Stf | Fort Worth, TX | https://www.linkedin.com/jobs/view/4488974821/ |
 | linkedin | Accenture | Data Science Research Specialist | New York, NY | https://www.linkedin.com/jobs/view/4489589767/ |
 | linkedin | Bright Vision Technologies | Data Analyst | New York, NY | https://www.linkedin.com/jobs/view/4489355384/ |
+| linkedin | Solo Clash | Quantitative Researcher - Geospatial & Sensor Data | United States | https://www.linkedin.com/jobs/view/4490228658/ |

@@ -6,11 +6,12 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 |---|---|---|---|---|---|
 | 1 | PricewaterhouseCoopers (PwC) | FS Risk, Regulatory & Data Analytics Experienced Professional | 73 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
 | 2 | Tutor Intelligence | AI Engineer – Manufacturing & Production | 57 | none found (check myvisajobs) | Nov 15 22:48 ET |
-| 3 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 15 12:09 ET |
-| 4 | Citi | Data Engineer - Bigdata Technologies | 40 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
-| 5 | Citizens Financial Group | Sr. Data Scientist | 78 | 54 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 6 | Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services | 72 | 50 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 7 | JP Morgan Chase | Applied AI ML Senior Associate | 56 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 3 | Valsoft Corporation | AI Engineer - KDR | 57 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
+| 4 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 15 12:09 ET |
+| 5 | Citi | Data Engineer - Bigdata Technologies | 40 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
+| 6 | Citizens Financial Group | Sr. Data Scientist | 78 | 54 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 7 | Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services | 72 | 50 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 8 | JP Morgan Chase | Applied AI ML Senior Associate | 56 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
 
 ---
 
@@ -44,7 +45,22 @@ Real robots, really shipping. This isn't a lab project. We build robots every da
 
 ---
 
-## 3. [MAYBE] Clera | Founding Applied AI Engineer
+## 3. [MAYBE] Valsoft Corporation | AI Engineer - KDR
+- Link: https://apply.workable.com/j/539B2EC004
+- Location: Beirut Beirut Governorate Lebanon
+- Posted: Nov 15 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: a/b test, aws, etl, gcp, llm, python, docker, pipeline, portfolio, validation | Lacks: azure, scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Aspire Software is looking for an AI Engineer to join our team in Lebanon. Here is a little window into our company: Aspire Software operates and manages wholly owned software companies, providing mission-critical solutions across multiple verticals. By implementing industry best practices, Aspire delivers a time sensitive integration process, and the operation of a decentralized model has allowed it to become a hub for creating rapid growth by reinvesting in its portfolio. About the Role You'll be working inside a legacy codebase with established architecture, business rules, and customer commitments, and your job is twofold: (1) use AI tooling to extend and modernize what these platforms can do, and (2) use that same AI expertise to make our existing engineering teams faster and sharper — compressing the time between a customer requirement and a shipped, correct solution. You will work directly with engineering leads, product, and operators to find where AI-assisted development — code generation, automated testing, requirement-to-implementation acceleration, intelligent tooling — can shorten delivery cycles without sacrificing quality, especially under aggressive customer timelines. If you enjoy going deep into complex, configurable systems and making both the product and the team around it faster, this role is for you. Your mission: use AI to multiply the output and accuracy of our development teams, while extending the intelligence of the platforms themselves. Primary Responsibilities Accelerate team delivery Introduce and operationalize AI-assisted development practices (code generation, AI pair-programming, automated test generation) across existing engineering teams. Identify friction points in how requirements move from customer ask to shipped feature, and apply AI tooling to close the gap. Partner with developers working in Angular, React, C#, and TypeScript to embed AI tooling into their actual day-to-day workflow — not a side project. Build reusable patterns/playbooks so AI-assisted delivery scales across teams, not just your own output. Extend platform intelligence Design, develop, and deploy AI features directly into existing, deeply configurable SaaS platforms. Integrate LLMs and ML models into legacy architectures without destabilizing existing functional/technical requirements. Build automation pipelines that reduce manual operational tasks within the product and internally. Develop intelligent agents and AI-powered workflow systems where they create measurable leverage. Architect AI Infrastructure Implement RAG systems and embedding pipelines. Work with vector databases and retrieval systems. Build AI orchestration layers and agent frameworks. Ensure reliability, monitoring, and evaluation of AI outputs. Deploy and maintain models in production environments. Collaborate cross-functionally Work directly with engineering leads and non-technical stakeholders to understand both platform constraints and business pain points. Translate ambiguous problems — in the product or in the development process — into scalable AI solutions. Balance speed with engineering rigor, especially against aggressive customer-driven timelines. Drive execution with minimal oversight. Requirements Core engineering Experience working within deeply configurable, enterprise-grade SaaS platforms (not greenfield products). Strong Python expertise (required). Comfortable across multiple languages/frameworks — Angular, React, C#, and TypeScript. Backend development experience (APIs, microservices) in a mature production codebase. Experience deploying production systems; familiarity with cloud infrastructure (AWS, Azure, or GCP). CI/CD, Docker, containerization. AI & ML systems Experience with: LLM integration (OpenAI, Anthropic, open-source models, etc.) AI-assisted development tooling (code generation / coding copilots, applied at team scale, not just individually) Prompt engineering RAG pipelines Vector databases (Pinecone, Weaviate, FAISS, etc.) Embeddings and semantic search Familiarity with: Model fine-tuning (where relevant) Supervised / unsupervised learning Evaluation frameworks for LLM systems Understanding of hallucination mitigation, guardrails, and output validation. Data & automation Experience with: Building data pipelines and ETL processes. Working with structured & unstructured data. API integrations across SaaS platforms. Automation tooling and workflow orchestration. MLOps & productionization Experience with: Model versioning and experiment tracking. Monitoring model performance. Logging and observability. A/B testing AI features. You'll Probably Love This Role If… Have worked inside complex, long-lived SaaS codebases and know how to introduce change. Enjoy autonomy and ownership. Thrive in fast-moving environments with real customer deadlines. Want to make both a platform and a team measurably faster. Required Qualifications Deep comfort working inside legacy, configurable enterprise platforms. Highly hands-on — you ship, not just design. Multiplier mindset — as interested in making the team faster as in making the product smarter. Comfortable with ambiguity and aggressive timelines. Business-oriented — you care about ROI and customer-facing impact. Pragmatic — uses the right tool, not the fanciest one
+
+---
+
+## 4. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/321b13c0-4622-4ca3-ba2d-0d696d0f13fc
 - Location: San Francisco United States
 - Posted: Nov 15 12:09 ET
@@ -101,7 +117,7 @@ On-site in San Francisco, California.
 
 ---
 
-## 4. [MAYBE] Citi | Data Engineer - Bigdata Technologies
+## 5. [MAYBE] Citi | Data Engineer - Bigdata Technologies
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Data-Engineer---Bigdata-Technologies_261001065
 - Location: 1/124, SHIVAJI GARDENS, MOONLI
 - Posted: Nov 15 (board gives the date only)
@@ -116,7 +132,7 @@ The Engineering Analyst is an intermediate level position responsible for a vari
 
 ---
 
-## 5. [MAYBE] Citizens Financial Group | Sr. Data Scientist
+## 6. [MAYBE] Citizens Financial Group | Sr. Data Scientist
 - Link: https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50426
 - Location: United States US
 - Posted: Nov 16 (board gives the date only)
@@ -131,7 +147,7 @@ Citizens Financial Group, Inc. (CFG) seeks a Sr. Data Scientist for its Boston, 
 
 ---
 
-## 6. [MAYBE] Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services
+## 7. [MAYBE] Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services
 - Link: https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Senior-Data-Quality-Assurance-Engineer--Data-Annotation-Services_R0000395657
 - Location: Irving, Texas
 - Posted: Nov 15 (board gives the date only)
@@ -146,7 +162,7 @@ Career Area: Technology, Digital and Data Job Description: Your Work Shapes the 
 
 ---
 
-## 7. [MAYBE] JP Morgan Chase | Applied AI ML Senior Associate
+## 8. [MAYBE] JP Morgan Chase | Applied AI ML Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809525
 - Location: Jersey City, NJ, United States US New York, NY, United States
 - Posted: Nov 16 (board gives the date only)
