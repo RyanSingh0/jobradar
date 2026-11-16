@@ -5,13 +5,15 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | PricewaterhouseCoopers (PwC) | FS Risk, Regulatory & Data Analytics Experienced Professional | 73 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
-| 2 | Tutor Intelligence | AI Engineer – Manufacturing & Production | 57 | none found (check myvisajobs) | Nov 15 22:48 ET |
-| 3 | Valsoft Corporation | AI Engineer - KDR | 57 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
-| 4 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 15 12:09 ET |
-| 5 | Citi | Data Engineer - Bigdata Technologies | 40 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
-| 6 | Citizens Financial Group | Sr. Data Scientist | 78 | 54 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 7 | Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services | 72 | 50 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 8 | JP Morgan Chase | Applied AI ML Senior Associate | 56 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 2 | JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst | 67 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 3 | Tutor Intelligence | AI Engineer – Manufacturing & Production | 57 | none found (check myvisajobs) | Nov 15 22:48 ET |
+| 4 | Valsoft Corporation | AI Engineer - KDR | 57 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
+| 5 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 15 12:09 ET |
+| 6 | Wellington Management | Implementation & Trading Risk Analyst | 47 | 32 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 7 | Citi | Data Engineer - Bigdata Technologies | 40 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
+| 8 | Citizens Financial Group | Sr. Data Scientist | 78 | 54 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 9 | Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services | 72 | 50 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 10 | JP Morgan Chase | Applied AI ML Senior Associate | 56 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
 
 ---
 
@@ -30,7 +32,22 @@ Job Description & Summary We are a team that turns complexity into opportunity. 
 
 ---
 
-## 2. [MAYBE] Tutor Intelligence | AI Engineer – Manufacturing & Production
+## 2. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Securitized Products Group - Analyst
+- Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809457
+- Location: New York, NY, United States US
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: excel, python, sql, statistic, portfolio, quantitative, research, trading | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Be part of a team where your expertise in finance and technology drives accurate valuations for millions of securities daily. Your contributions directly impact the quality and reliability of valuations used by market participants worldwide. As a Securities Valuation Analyst or Associate in our PricingDirect SPG team, you'll leverage trading, research, analytics, and technology resources to manage large volumes of data, develop pricing models, and identify growth opportunities. You'll lead projects, deliver results, and collaborate with teams in New York, London, and Hong Kong, serving clients worldwide. Job responsibilities Generate securities valuations for multiple market closes, owning the process from market data collection to client interaction Model cashflows for securitized products, analyzing complex deal structures and asset performance Identify and develop new product growth areas through research and collaboration with clients, trading desks, and technology teams Enhance product and service quality via market surveillance, data analysis, process control reviews, and quality assurance Perform complex financial assignments including quantitative analysis, and communicate portfolio findings to colleagues and clients Maintain regular contact with trading desks, research teams, and market participants Address client concerns promptly and professionally Required qualifications, capabilities, and skills Bachelor's degree or higher in Finance, Mathematics, Statistics, Engineering, Economics, or similar Strong understanding of finance principles and mathematical/statistical modeling 0+ years' experience with fixed income securities Advanced qualitative and quantitative analytical skills; ability to process large volumes of market information Proficiency in Excel with Visual Basic coding and/or practical Python experience Excellent communication skills for client and internal interactions Preferred qualifications, capabilities, and skills Experience with CMBS/securitized products and programming languages such as Python, VBA, SQL; aptitude for learning new technologies. Master's degree in relevant field Detail-oriented, creative problem solver with the ability to build effective relationships across research, sales, trading, and technology teams in dynamic environments Clear, logical thinker with strong quantitative abilities   JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
+
+---
+
+## 3. [MAYBE] Tutor Intelligence | AI Engineer – Manufacturing & Production
 - Link: https://jobs.lever.co/tutorintelligence/f018d281-4e94-411d-ae19-4d6141c09bde
 - Location: Watertown, MA Watertown, MA US
 - Posted: Nov 15 22:48 ET
@@ -45,7 +62,7 @@ Real robots, really shipping. This isn't a lab project. We build robots every da
 
 ---
 
-## 3. [MAYBE] Valsoft Corporation | AI Engineer - KDR
+## 4. [MAYBE] Valsoft Corporation | AI Engineer - KDR
 - Link: https://apply.workable.com/j/539B2EC004
 - Location: Beirut Beirut Governorate Lebanon
 - Posted: Nov 15 (board gives the date only)
@@ -60,7 +77,7 @@ Aspire Software is looking for an AI Engineer to join our team in Lebanon. Here 
 
 ---
 
-## 4. [MAYBE] Clera | Founding Applied AI Engineer
+## 5. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/321b13c0-4622-4ca3-ba2d-0d696d0f13fc
 - Location: San Francisco United States
 - Posted: Nov 15 12:09 ET
@@ -117,7 +134,22 @@ On-site in San Francisco, California.
 
 ---
 
-## 5. [MAYBE] Citi | Data Engineer - Bigdata Technologies
+## 6. [MAYBE] Wellington Management | Implementation & Trading Risk Analyst
+- Link: https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Implementation---Trading-Risk-Analyst_R95132-1
+- Location: Boston, MA, United States
+- Posted: Nov 15 (board gives the date only)
+- Scanner fit: ~47 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 32 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, r, reporting, research, risk, trading | Lacks: cfa
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About Us Wellington Management offers comprehensive investment management capabilities that span nearly all segments of the global capital markets. Our investment solutions, tailored to the unique return and risk objectives of institutional clients in more than 60 countries, draw on a robust body of proprietary research and a collaborative culture that encourages independent thought and healthy debate. As a private partnership, we believe our ownership structure fosters a long-term view that aligns our perspectives with those of our clients. About the Role THE POSITION The Investment Implementation and Trading department is seeking to recruit a Risk Analyst to work on our IIT Risk team in Boston. The team’s role is to minimize risk by implementing best-in-class, first-line risk management practices throughout the order implementation and trade execution ecosystems. Risks include financial, operational, regulatory, compliance, reputational, and business. RESPONSIBILITIES The Implementation and Trading Risk Analyst’s primary responsibility is to identify, assess, monitor and mitigate risks across Investment Implementation and Trading by partnering with business teams to strengthen controls, enhance supervision and support effective risk-based decision-making. Identify and assess risks and potential control gaps and partner with business teams to design practical controls, strengthen processes and drive remediation. Analyze incidents and other risk data to identify root causes, recurring themes and emerging risks and develop actionable recommendations. Develop and monitor key risk indicators, supervisory reporting and other data to identify trends, concentrations and changes in the department's risk profile, escalating potential areas of concern and remediation. Support the Investment Implementation and Trading Leadership Team by monitoring adherence to policies, procedures and established controls and evaluating whether controls are operating effectively. Conduct focused risk assessments of workflows, new initiatives and areas of elevated risk, translating findings into clear recommendations for business leaders. Participate in the development of a new first line risk framework that will raise awareness with senior leaders re our risk profile, provide data to make risk based decisions, take on a variety of ad hoc projects that include establishing the approach to keep stakeholders up to date Assess risks associated with business change, including new products, processes, technologies and workflows, and partner with stakeholders to identify appropriate controls and mitigate risk prior to implementation. QUALIFICATIONS The successful candidate is likely to have: Personal qualities and values that are consistent with, and would be additive to, Wellington Management's culture; Ability to work effectively and efficiently under tight deadlines and other pressures; Proven organizational and communication skills with an emphasis on accuracy, concision and timeliness; Working knowledge of Microsoft products including Excel and PowerPoint Ability to use AI tools to enhance efficiency Strong analytical aptitude and ability to perform deep-dive data analysis as well as high level strategic thinking; Ability to manage small projects Interpersonal skills, ability to engage with subject matter experts across the firm A minimum 3-5 years relevant work experience in the financial services industry; and Strong academic credentials; a Bachelor's degree is required Not sure you meet 100% of our qualifications? That’s ok. If you believe that you could excel in this role, we encourage you to apply and welcome a chance to review your background. We are dedicated to building and maintaining a diversified workforce and considering a broad array of candidates with a variety of skill, workplace experiences, and backgrounds. As an
+
+---
+
+## 7. [MAYBE] Citi | Data Engineer - Bigdata Technologies
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Data-Engineer---Bigdata-Technologies_261001065
 - Location: 1/124, SHIVAJI GARDENS, MOONLI
 - Posted: Nov 15 (board gives the date only)
@@ -132,7 +164,7 @@ The Engineering Analyst is an intermediate level position responsible for a vari
 
 ---
 
-## 6. [MAYBE] Citizens Financial Group | Sr. Data Scientist
+## 8. [MAYBE] Citizens Financial Group | Sr. Data Scientist
 - Link: https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50426
 - Location: United States US
 - Posted: Nov 16 (board gives the date only)
@@ -147,7 +179,7 @@ Citizens Financial Group, Inc. (CFG) seeks a Sr. Data Scientist for its Boston, 
 
 ---
 
-## 7. [MAYBE] Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services
+## 9. [MAYBE] Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services
 - Link: https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Senior-Data-Quality-Assurance-Engineer--Data-Annotation-Services_R0000395657
 - Location: Irving, Texas
 - Posted: Nov 15 (board gives the date only)
@@ -162,7 +194,7 @@ Career Area: Technology, Digital and Data Job Description: Your Work Shapes the 
 
 ---
 
-## 8. [MAYBE] JP Morgan Chase | Applied AI ML Senior Associate
+## 10. [MAYBE] JP Morgan Chase | Applied AI ML Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809525
 - Location: Jersey City, NJ, United States US New York, NY, United States
 - Posted: Nov 16 (board gives the date only)
