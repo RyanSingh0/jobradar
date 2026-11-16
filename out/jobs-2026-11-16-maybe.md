@@ -16,32 +16,39 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 10 | Macy's | Data Quality Specialist | 57 | 8 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
 | 11 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 15 12:09 ET |
 | 12 | Barclays | AI Data Engineer - KDB | 53 | 142 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 13 | The Federal Reserve System | Quantitative Fellowship Program - Federal Reserve System | 52 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 14 | Free Market Health | AI Engineer I | 52 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 15 | Banner Health | Neuropathology Research Scientist Brain and Body Donation Program | 50 | 4 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 16 | Equifax | Data Scientist - Intermediate | 50 | 34 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 17 | Open Avenues Foundation | Data Engineer Expérimenté H/F | 50 | 69 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 18 | U.S. Bank | Financial Reporting Analyst | 50 | 82 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 19 | Global Partners | Business Intelligence Analyst | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 20 | Sanford Health | Assistant Research Scientist - Statistical Genetics | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 21 | University of Miami | Research Associate 1 | 50 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 22 | Wellington Management | Implementation & Trading Risk Analyst | 47 | 32 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 23 | U.S. Bank | Data Engineer | 46 | 82 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 24 | Citi | Data Engineer - Bigdata Technologies | 40 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
-| 25 | onsemi | Marketing Analyst, Campaign Marketing Support Specialist | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 26 | Airgas | Research Associate | 40 | 1 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 27 | Rolls-Royce | Junior Machine Learning Engineering | 40 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
-| 28 | Wood Mackenzie | Research Associate - Upstream | 40 | 6 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 29 | Ohio State University | Research Associate - Rehabilitation Engineering Design Laboratory | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 30 | Citizens Financial Group | Sr. Data Scientist | 78 | 54 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 31 | Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services | 72 | 50 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 32 | Alcon | Senior Associate Business Intelligence Analyst (Alteryx & Tableau) | 61 | 12 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 33 | Banner Health | Data & Analytics Engineer II | 59 | 4 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
-| 34 | AbbVie | Senior Research Statistician - Statistical Innovation (Hybrid) | 59 | 96 in data/analytics/finance occupations | Nov 16 13:34 ET |
-| 35 | Starr Insurance | Senior AI/ML Engineer | 58 | 8 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 36 | JP Morgan Chase | Applied AI ML Senior Associate | 56 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 37 | Genpact Llc | Sr. AI Engineer 4B | 56 | 80 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 38 | Genpact Llc | Sr. AI Engineer 4B | 56 | 80 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 13 | Manulife Financial | Investment Analyst - Infrastructure | 53 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 14 | The Federal Reserve System | Quantitative Fellowship Program - Federal Reserve System | 52 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 15 | Free Market Health | AI Engineer I | 52 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 16 | Nightwing Intelligence Solutions | Data Analyst | 52 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 17 | Banner Health | Neuropathology Research Scientist Brain and Body Donation Program | 50 | 4 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 18 | Equifax | Data Scientist - Intermediate | 50 | 34 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 19 | Open Avenues Foundation | Data Engineer Expérimenté H/F | 50 | 69 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 20 | U.S. Bank | Financial Reporting Analyst | 50 | 82 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 21 | Global Partners | Business Intelligence Analyst | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 22 | Sanford Health | Assistant Research Scientist - Statistical Genetics | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 23 | University of Miami | Research Associate 1 | 50 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 24 | Wellington Management | Implementation & Trading Risk Analyst | 47 | 32 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 25 | U.S. Bank | Data Engineer | 46 | 82 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 26 | Citi | Data Engineer - Bigdata Technologies | 40 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
+| 27 | onsemi | Marketing Analyst, Campaign Marketing Support Specialist | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 28 | Airgas | Research Associate | 40 | 1 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 29 | Rolls-Royce | Junior Machine Learning Engineering | 40 | none found (check myvisajobs) | Nov 15 (board gives the date only) |
+| 30 | Wood Mackenzie | Research Associate - Upstream | 40 | 6 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 31 | Ohio State University | Research Associate - Rehabilitation Engineering Design Laboratory | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 32 | Citizens Financial Group | Sr. Data Scientist | 78 | 54 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 33 | Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services | 72 | 50 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 34 | General Motors | Senior AI/ML Engineer | 68 | 22 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 35 | Alcon | Senior Associate Business Intelligence Analyst (Alteryx & Tableau) | 61 | 12 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 36 | Banner Health | Data & Analytics Engineer II | 59 | 4 in data/analytics/finance occupations | Nov 15 (board gives the date only) |
+| 37 | AbbVie | Senior Research Statistician - Statistical Innovation (Hybrid) | 59 | 96 in data/analytics/finance occupations | Nov 16 13:34 ET |
+| 38 | General Motors | Senior Machine Learning Engineer - ML Training Infrastructure | 59 | 22 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 39 | Starr Insurance | Senior AI/ML Engineer | 58 | 8 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 40 | Omnicom Group | Senior Associate, Business Analytics | 57 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 41 | JP Morgan Chase | Applied AI ML Senior Associate | 56 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 42 | Genpact Llc | Sr. AI Engineer 4B | 56 | 80 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 43 | Genpact Llc | Sr. AI Engineer 4B | 56 | 80 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 44 | Grant Thornton | Sr. Associate, Business Intelligence | 55 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 45 | JP Morgan Chase | Data and Analytics Product Delivery Team - Analytics Solutions Senior Associate | 55 | 1098 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
 
 ---
 
@@ -267,7 +274,22 @@ Job Description Purpose of the role To build and maintain the systems that colle
 
 ---
 
-## 13. [MAYBE] The Federal Reserve System | Quantitative Fellowship Program - Federal Reserve System
+## 13. [MAYBE] Manulife Financial | Investment Analyst - Infrastructure
+- Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Investment-Analyst---Infrastructure_JR26101364
+- Location: Boston, Massachusetts
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~53 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, credit, portfolio, quantitative, reporting, research, risk | Lacks: cfa  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The Investment Analyst delivers consistent performance as a productive member of an investment industry team. Incumbents lead parts of the investment surveillance and new investment evaluation process autonomously and contribute valued opinions on the “how and why” identified in his/her analysis of different aspects of a company’s performance; this includes identifying industry trends that are worthy of discussion with senior team members. Work can/will result in investment actions being taken by portfolio management and/or credit leadership. As needed, the Investment Analyst will assist in the development of investment, sales and marketing strategies as well as responsibilities related to investor relations and cultivation of deal sources. Also, on an as needed basis, will be responsible for traveling to management and due diligence meetings, as well as key industry conferences and research symposia. Position Responsibilities: Maintain current investment view on existing Investment Portfolio Demonstrate a comprehensive knowledge of portfolio companies, industry dynamics, key success factors, risks and opportunities. Author detailed annual and investment reviews, Loan Review and Rating Change memos that cover financial analysis, peer comparisons, competitive positioning, industry reviews, macroeconomic conditions, event risk, pro forma modeling, quantitative risk assessment, relative value, exposure limits, and appropriate maturities. As appropriate, recommend changes to credit ratings or outlook based on company performance and/or industry conditions. Present these recommendations to senior members of the industry team and to members of the Credit and Portfolio management teams. Perform the analysis and drafting of quarterly internal reporting for investments which have underperformed or are at risk for loss (“Loan Review”), including drafting descriptions of what has caused the company to come under stress, and what their prospects are for recovery or further degradation. Report on material changes in company credit profiles for public entities within our portfolio (i.e. mergers, large acquisitions, external rating agency changes, etc.), with a summary of affected holdings and impact on credit profile and prospects. Provide timely updates to our credit officers, portfolio managers, and other lending teams. New Investment Analysis Provide material support and independent analysis to senior investment officers in evaluating the performance and prospects of new investment proposals for their risks and likely returns (i.e. performing investment due diligence). Draw upon industry knowledge to identify the most relevant industry research reports and data to identify market trends, considerations and/or concerns. Select, analyze, and report on the financial and operational aspects of comparative companies to assist in ascertaining an investment’s relative merits. The incumbent will be expected to travel and represent BCF at management presentations and actively participate in the due diligence process when evaluating new investment opportunities. Other duties as assigned Key Strategic Projects Create ad-hoc presentations and reports for internal reporting purposes related to various items such as portfolio risks or team performance Handle time-sensitive requests from internal groups for information and/or action. For example, public bond opportunities and/or requests for information from senior management. Required Qualifications: Two to four years of relevant work experience Undergraduate degree In-depth sector knowledge and command of specific industry and competitive factors Strong quantitative and analytical skills with a demonstrated ability to think critically and understand financial statement analysis as applied to investments Collaborative team player with excellent written and oral communication skills Must be able to manage multiple projects at once Project management skills with the ability to contact and follow up with key constituent parties (legal, accounting, portfolio) to move joint work forward Advanced proficiency in Excel and PowerPoint; advanced proficiency in CapitalIQ, Bloomberg, BarclaysLive! and other investment software tools a plus Progress toward CFA and/or MBA desired When you join our team: We’ll empower you to learn and grow the career you want. We’ll recognize and support you in a flexible environment where well-being and inclusion are more than just words. As part of our global team, we’ll support you in shaping the future you want to see. The role being advertised is an existing vacancy. About Manulife and John Hancock Manulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. To learn more about us, visit https://www.manulife.com/en/about/our-story.html . Manulife
+
+---
+
+## 14. [MAYBE] The Federal Reserve System | Quantitative Fellowship Program - Federal Reserve System
 - Link: https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Quantitative-Fellowship-Program---Federal-Reserve-System_R-0000034088
 - Location: 10 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -282,7 +304,7 @@ Company Federal Reserve Bank of Minneapolis The QFP is a two-year rotational pro
 
 ---
 
-## 14. [MAYBE] Free Market Health | AI Engineer I
+## 15. [MAYBE] Free Market Health | AI Engineer I
 - Link: https://ats.rippling.com/free-market-health/jobs/23d56451-04d9-48e8-8872-4e97c313a230
 - Location: Pittsburgh, PA United States
 - Posted: new since the previous sweep (board shows no date)
@@ -297,7 +319,22 @@ AI Engineer I AI Engineer I Why FMH Every day, someone receives a life-changing 
 
 ---
 
-## 15. [MAYBE] Banner Health | Neuropathology Research Scientist Brain and Body Donation Program
+## 16. [MAYBE] Nightwing Intelligence Solutions | Data Analyst
+- Link: https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Data-Analyst_JR102258
+- Location: Sterling, VA
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~52 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, etl, excel, python, sql, data quality, pipeline, research, validation | Lacks: azure, kafka, scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Nightwing provides technically advanced full-spectrum cyber, data operations, systems integration and intelligence mission support services to meet our customers’ most demanding challenges. Our capabilities include cyber space operations, cyber defense and resiliency, vulnerability research, ubiquitous technical surveillance, data intelligence, lifecycle mission enablement, and software modernization. Nightwing brings disruptive technologies, agility, and competitive offerings to customers in the intelligence community, defense, civil, and commercial markets. We are seeking a Data Engineer to design, build, and maintain cyber data platforms that support security analytics, logging, and defensive operations. You will engineer data ingestion pipelines, manage storage and indexing, optimize queries, and ensure data quality and availability so cyber analysts and operators can reliably access the data they need for detection, hunting, and incident response. This role sits at the intersection of data engineering and cybersecurity, enabling enterprise‑scale collection and analysis of logs, telemetry, and threat data across mission environments. Key Responsibilities Cyber Data Platform Engineering Engineer and maintain data platforms that aggregate security logs and telemetry from enterprise systems and networks. Design and implement scalable data ingestion pipelines for SIEM, EDR, network sensors, cloud services, and application logs. Configure data parsing, normalization, and enrichment to support effective correlation and analytics. Storage, Indexing & Performance Manage data storage, indexing, and retention strategies to balance performance, cost, and mission requirements. Optimize queries, dashboards, and searches used by cyber analysts and threat hunters. Monitor platform performance and adjust configurations to maintain responsiveness under operational load. Data Quality, Availability & Access Ensure data completeness, accuracy, and timeliness across all critical log sources. Implement controls and checks to detect gaps in logging or ingestion failures. Support analyst and operator access to data, including permissions, views, and interfaces aligned with security policies. Coordinate with SOC, threat hunting, and incident response teams to ensure data availability for operations. Integration & Collaboration Work with systems engineering, network, and security teams to onboard new data sources and tools. Support integration of defensive tools (SIEM, EDR/XDR, IDS/IPS, cloud security) with the data platform. Contribute to SOPs, run books, and documentation for data platform operations and troubleshooting. Required Qualifications Education & Certification Bachelor’s degree in Computer Science, Data Engineering, Information Systems, Cybersecurity, or related STEM field; or equivalent experience. Relevant technical certification (cloud, data, or security) preferred but not required. Experience 3–5+ years of experience in data engineering, data platform administration, or log management in enterprise environments. Experience with one or more of the following: SIEM or log analytics platforms (e.g., Splunk, Elastic, Sentinel). Data pipeline tools (e.g., Kafka, Logstash, Fluentd, Beats, or equivalent). Relational or NoSQL data stores used for analytics. Experience working with cybersecurity teams or supporting security monitoring, detection, or incident response. Technical Knowledge Strong understanding of data ingestion, ETL/ELT, indexing, and query optimization. Working knowledge of log formats (Windows, Linux, network devices, cloud services, applications). Familiarity with scripting or programming (e.g., Python, SQL) for data manipulation and automation. Knowledge of basic cybersecurity concepts and how data is used for detection and investigation. Preferred Qualifications Experience supporting DoD or Intelligence Community cyber operations. Experience designing data architectures for large‑scale security logging and telemetry. Familiarity with MITRE ATT&CK‑aligned logging and detection requirements. Advanced data or cloud certifications (e.g., AWS/Azure data engineer, Splunk/Elastic certifications). Why Nightwing Contribute directly to mission‑critical cybersecurity operations supporting the Intelligence Community and national security objectives. Gain hands‑on experience with leading security monitoring, vulnerability management, and automated validation tools. Work alongside experienced cyber operators and engineers who are committed to mentorship, professional growth, and operational excellence. Engage in challenging, meaningful work where your analysis and attention to detail directly impact mission resilience and security outcomes. Competitive compensation with opportunities for advancement as you develop deeper expertise in detection engineering, threat hunting, and automated security validation. Salary & Benefits The salary associated with this position ($99,000-$206,000) is commensurate with the selected candidate’s qualifications, years of relevant experience, and demonstrated level of expertise. Compensation will be determined based on these factors to ensure alignment with skills, responsibilities, and market standards. Nightwing offers medical, vision and dental insurance coverage in addition to a 401k plan, PTO, Holidays, and additional insurances. Nightwing
+
+---
+
+## 17. [MAYBE] Banner Health | Neuropathology Research Scientist Brain and Body Donation Program
 - Link: https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Research-10515-W-Sante-Fe-Dr/Neuropathology-Research-Scientist-Brain-and-Body-Donation-Program_R4458151
 - Location: Banner Research (10515 W Sante Fe Dr)
 - Posted: Nov 15 (board gives the date only)
@@ -312,7 +349,7 @@ Primary City/State: Sun City, Arizona Department Name: Neuropathology Lab-Rsrch 
 
 ---
 
-## 16. [MAYBE] Equifax | Data Scientist - Intermediate
+## 18. [MAYBE] Equifax | Data Scientist - Intermediate
 - Link: https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Data-Scientist---Intermediate_J00180106
 - Location: USA - Georgia - Alpharetta - 30005
 - Posted: Nov 15 (board gives the date only)
@@ -327,7 +364,7 @@ Equifax is where you can power your possible. If you want to achieve your true p
 
 ---
 
-## 17. [MAYBE] Open Avenues Foundation | Data Engineer Expérimenté H/F
+## 19. [MAYBE] Open Avenues Foundation | Data Engineer Expérimenté H/F
 - Link: https://open.wd103.myworkdayjobs.com/OPEN/job/Lille/Data-Engineer-Confirm-H-F_R13320
 - Location: Lille
 - Posted: Nov 15 (board gives the date only)
@@ -342,7 +379,7 @@ Equifax is where you can power your possible. If you want to achieve your true p
 
 ---
 
-## 18. [MAYBE] U.S. Bank | Financial Reporting Analyst
+## 20. [MAYBE] U.S. Bank | Financial Reporting Analyst
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Boston-MA/Financial-Reporting-Analyst_2026-0035269-1
 - Location: Boston, MA
 - Posted: Nov 16 (board gives the date only)
@@ -357,7 +394,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 19. [MAYBE] Global Partners | Business Intelligence Analyst
+## 21. [MAYBE] Global Partners | Business Intelligence Analyst
 - Link: https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Newton-Office/Business-Intelligence-Analyst_R0032179
 - Location: Newton Office
 - Posted: Nov 16 (board gives the date only)
@@ -372,7 +409,7 @@ Job Summary: At Global Partners, business starts with people. Since 1933, we’v
 
 ---
 
-## 20. [MAYBE] Sanford Health | Assistant Research Scientist - Statistical Genetics
+## 22. [MAYBE] Sanford Health | Assistant Research Scientist - Statistical Genetics
 - Link: https://sanford.wd5.myworkdayjobs.com/sanfordhealth/job/WI-Marshfield/Assistant-Research-Scientist---Statistical-Genetics_R-0281326
 - Location: WI, Marshfield
 - Posted: Nov 16 (board gives the date only)
@@ -387,7 +424,7 @@ Sanford Health, the largest rural health system in the United States, is dedicat
 
 ---
 
-## 21. [MAYBE] University of Miami | Research Associate 1
+## 23. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103279
 - Location: Miami, FL
 - Posted: Nov 16 (board gives the date only)
@@ -402,7 +439,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 22. [MAYBE] Wellington Management | Implementation & Trading Risk Analyst
+## 24. [MAYBE] Wellington Management | Implementation & Trading Risk Analyst
 - Link: https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Implementation---Trading-Risk-Analyst_R95132-1
 - Location: Boston, MA, United States
 - Posted: Nov 15 (board gives the date only)
@@ -417,7 +454,7 @@ About Us Wellington Management offers comprehensive investment management capabi
 
 ---
 
-## 23. [MAYBE] U.S. Bank | Data Engineer
+## 25. [MAYBE] U.S. Bank | Data Engineer
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Data-Engineer_2026-0035249-1
 - Location: Irving, TX
 - Posted: Nov 16 (board gives the date only)
@@ -432,7 +469,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 24. [MAYBE] Citi | Data Engineer - Bigdata Technologies
+## 26. [MAYBE] Citi | Data Engineer - Bigdata Technologies
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Data-Engineer---Bigdata-Technologies_261001065
 - Location: 1/124, SHIVAJI GARDENS, MOONLI
 - Posted: Nov 15 (board gives the date only)
@@ -447,7 +484,7 @@ The Engineering Analyst is an intermediate level position responsible for a vari
 
 ---
 
-## 25. [MAYBE] onsemi | Marketing Analyst, Campaign Marketing Support Specialist
+## 27. [MAYBE] onsemi | Marketing Analyst, Campaign Marketing Support Specialist
 - Link: https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507261
 - Location: Scottsdale, AZ, United States US
 - Posted: Nov 16 (board gives the date only)
@@ -462,7 +499,7 @@ Job Summary: onsemi is seeking a results-driven, creative marketer to join the C
 
 ---
 
-## 26. [MAYBE] Airgas | Research Associate
+## 28. [MAYBE] Airgas | Research Associate
 - Link: https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Newark-DE-ICD---RD---Industrial-performance/Research-Associate_R10103130-2
 - Location: Newark, DE (ICD) - R&D - Industrial performance
 - Posted: Nov 15 (board gives the date only)
@@ -477,7 +514,7 @@ R10103130 Research Associate (Open)&#xa;&#xa; Location: Newark, DE (ICD) - R&D -
 
 ---
 
-## 27. [MAYBE] Rolls-Royce | Junior Machine Learning Engineering
+## 29. [MAYBE] Rolls-Royce | Junior Machine Learning Engineering
 - Link: https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142
 - Location: Indianapolis
 - Posted: Nov 15 (board gives the date only)
@@ -492,7 +529,7 @@ Job Description Junior Machine Learning Engineering Duration: Permanent Location
 
 ---
 
-## 28. [MAYBE] Wood Mackenzie | Research Associate - Upstream
+## 30. [MAYBE] Wood Mackenzie | Research Associate - Upstream
 - Link: https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Edinburgh-GB/Research-Associate---Upstream_JR3524
 - Location: Edinburgh, GB
 - Posted: Nov 16 (board gives the date only)
@@ -507,7 +544,7 @@ Wood Mackenzie is the global leader in analytics, insights and proprietary data 
 
 ---
 
-## 29. [MAYBE] Ohio State University | Research Associate - Rehabilitation Engineering Design Laboratory
+## 31. [MAYBE] Ohio State University | Research Associate - Rehabilitation Engineering Design Laboratory
 - Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Research-Associate---Rehabilitation-Engineering-Design-Laboratory_R151783-1
 - Location: College of Medicine/Office of Health Sciences
 - Posted: Nov 16 (board gives the date only)
@@ -522,7 +559,7 @@ Screen reader users may encounter difficulty with this site. For assistance with
 
 ---
 
-## 30. [MAYBE] Citizens Financial Group | Sr. Data Scientist
+## 32. [MAYBE] Citizens Financial Group | Sr. Data Scientist
 - Link: https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50426
 - Location: United States US
 - Posted: Nov 16 (board gives the date only)
@@ -537,7 +574,7 @@ Citizens Financial Group, Inc. (CFG) seeks a Sr. Data Scientist for its Boston, 
 
 ---
 
-## 31. [MAYBE] Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services
+## 33. [MAYBE] Caterpillar Inc. | Senior Data Quality Assurance Engineer, Data Annotation Services
 - Link: https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Senior-Data-Quality-Assurance-Engineer--Data-Annotation-Services_R0000395657
 - Location: Irving, Texas
 - Posted: Nov 15 (board gives the date only)
@@ -552,7 +589,22 @@ Career Area: Technology, Digital and Data Job Description: Your Work Shapes the 
 
 ---
 
-## 32. [MAYBE] Alcon | Senior Associate Business Intelligence Analyst (Alteryx & Tableau)
+## 34. [MAYBE] General Motors | Senior AI/ML Engineer
+- Link: https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-AI-ML-Engineer_JR-202619968-1
+- Location: 2 Locations
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~68 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 22 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, python, pytorch, parity check, pipeline, portfolio, quantitative, reporting, risk, validation | Lacks: -  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Description About the Team The Compression and Parity team in GM's Autonomous Vehicle organization makes aggressive model optimization safe enough to ship repeatedly. We compress and quantize models headed for the car, and we own the analytical machinery that proves the compressed model still behaves like the original — not by assertion, but with bounded, quantified, auditable evidence. Every deployment decision our organization makes about a compressed model runs through the tooling this team builds. About the Role We are looking for a mathematically rigorous engineer to own model numerics: how we measure, bound, and reason about the numerical behavior of the models we ship — and how we turn that analysis into deployment decisions. The central question of this role is deceptively simple: given two numerically different versions of the same model, is the difference safe? Answering it well requires connecting things that are usually studied separately — floating-point drift and Hessian conditioning on one end, vehicle trajectory error on the other. You will build the tooling that makes that connection quantitative, and you will define the thresholds that turn it into a ship / no-ship decision. This role is not: running an existing validation harness and reporting the numbers it produces. When a parity check fails, the expectation is that you can say which operation caused the divergence and why — not merely that a difference exceeded a threshold. The tooling exists to make that investigation fast; it does not replace the investigation itself. What You'll Do Validate Optimized implementations . Optimized implementations are supposed to be equivalent to their references. Establishing that rigorously, rather than by spot check, means deciding what equivalence should mean for a given operation, and designing the inputs that would expose a violation if one existed. Connect tensor differences to behavioral disparity. Map low-level numerical differences from quantization, compilation, and precision reduction to downstream driving behavior, using both open-loop metrics (trajectory displacement error, perception IoU) and closed-loop outcomes — and identify the mechanism behind the mapping, not just the correlation. Build sensitivity and robustness analysis tooling . Use Jacobian/Hessian-based methods to characterize how model outputs respond to weight and input perturbation, extend the same machinery to out-of-distribution inputs, and turn it into tooling that runs repeatedly across checkpoints — by engineers who are not you. Build training dynamics observability . Design diagnostics that detect and root-cause training instabilities — gradient vanishing and explosion, loss spikes, silent divergence — including decompositions of gradient and update trajectories into loss-descent and oscillatory components under modern schedules such as WSD. Make it cheap enough to always be on . Metric computation, gradient decomposition, and diagnostic logging have to run inside real distributed training jobs with negligible throughput cost and no OOM risk. Observability nobody can afford to enable is observability that doesn't exist. Requirements: We are deliberately strict on a small number of things and flexible on everything else. A working command of numerical analysis and matrix theory. Jacobian/Hessian estimation, spectral properties, conditioning, and floating-point error analysis should be tools you reach for by reflex, not topics you once studied. You should be able to say why an estimator's variance blows up, and when that matters. A real mental model of neural network training. Loss landscapes, gradient and error propagation, optimizer dynamics, and the mechanics by which training goes wrong. You should have opinions about what a gradient norm spike does and does not tell you. An adversarial instinct for numerical edge cases. Typical inputs rarely find anything. We are looking for someone who reaches for denormals, extreme dynamic range, catastrophic cancellation, degenerate shapes, and accumulation-order effects — someone whose first question about a passing test is what that test failed to exercise. The engineering to make the math run . High proficiency in PyTorch and Python, and a track record of building analytical tools that are both mathematically defensible and fast enough to be used in production training and evaluation loops. The judgment to make analysis actionable. Much of this role is turning a numerical result into something an engineer who will not read your derivation can act on: knowing which quantity actually answers the question being asked, tracing an anomalous number back to the operation that produced it, etc Bachelor's, Master's, or PhD in Applied Mathematics, Control, Physics, Computer Science, Data Science, or a closely related quantitative field. What You'll Learn Here You are not expected to arrive with these. They are the parts of the job that are genuinely specific to this environment, and we expect them to take three to nine months: The training recipes, the acceleration techniques in our stack The semantics of autonomous driving behavioral metrics and what actually constitutes meaningful behavioral drift for a vehicle. Model compression portfolio, the deployment path to the car, and the organizational context around a ship decision. Our parity validation workflow and where the quantization and compilation toolchains hide their sharp edges. What Will Give You a Competitive Edge Hands-on experience debugging large-scale training runs: diagnosing loss spikes, resolving numerical divergence, and running deep investigations into training dynamics. Experience with distributed training beyond DDP — FSDP, Megatron-LM, DeepSpeed, 3D parallelism — particularly designing low-overhead observability over sharded parameter and gradient state. Experience in quantization, compiler toolchains, or inference-time numerical parity. Experience building or scaling evaluation pipelines and its metrics formulation for AV or ADAS systems. Published or applied work in model robustness, OOD generalization, or adversarial/perturbation analysis. Compensation: The compensation information is a good faith estimate only. It is based on what a successful applicant might be paid in accordance with applicable state laws. The compensation may not be representative for positions located outside of New York, Colorado, California, or Washington Compensation: The expected base compensation for this role is : $170,600 - $261,300 Actual base compensation within the identified range will vary based on factors relevant to the position. Bonus Potential: An incentive pay program offers payouts based on company performance, job level, and individual performance. Benefits: GM offers a variety of health and wellbeing benefit programs. Benefit options include medical, dental, vision, Health Savings Account, Flexible Spending Accounts, retirement savings plan, sickness and accident benefits, life i [...]
+
+---
+
+## 35. [MAYBE] Alcon | Senior Associate Business Intelligence Analyst (Alteryx & Tableau)
 - Link: https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Sr-Associate--Sales-Operations_R-2026-47449-1
 - Location: Fort Worth, Texas
 - Posted: Nov 16 (board gives the date only)
@@ -567,7 +619,7 @@ At Alcon, we are driven by the meaningful work we do to help people see brillian
 
 ---
 
-## 33. [MAYBE] Banner Health | Data & Analytics Engineer II
+## 36. [MAYBE] Banner Health | Data & Analytics Engineer II
 - Link: https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Data---Analytics-Engineer-II_R4459269
 - Location: Remote Arizona
 - Posted: Nov 15 (board gives the date only)
@@ -582,7 +634,7 @@ Department Name: Rev Cycle Analytics-Corp Work Shift: Day Job Category: Informat
 
 ---
 
-## 34. [MAYBE] AbbVie | Senior Research Statistician - Statistical Innovation (Hybrid)
+## 37. [MAYBE] AbbVie | Senior Research Statistician - Statistical Innovation (Hybrid)
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990016882577
 - Location: North Chicago IL us
 - Posted: Nov 16 13:34 ET
@@ -597,7 +649,22 @@ The Senior Research Statistician in Statistical Innovation is responsible for pr
 
 ---
 
-## 35. [MAYBE] Starr Insurance | Senior AI/ML Engineer
+## 38. [MAYBE] General Motors | Senior Machine Learning Engineer - ML Training Infrastructure
+- Link: https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-Machine-Learning-Engineer---ML-Training-Infrastructure_JR-202618569
+- Location: Sunnyvale, California, United States of America
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~59 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 22 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, gcp, machine learning, python, pytorch, tensorflow, pipeline, research, risk | Lacks: azure, scala  | Note: title says Senior/II: asks 1 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Description The Role: We are seeking an experienced, technical oriented, impact delivering-driven expert in ML Training Infrastructure with a strong ability to execute hands-on technical work. In this role, you will be responsible for designing and building scalable, reliable, and high-performance AI/ML platform infrastructure to support advanced AI research and model development initiatives. As a Senior ML Engineer, you will collaborate closely with machine learning engineers, research scientists, and other partners to develop state-of-the-art AI solutions that enable the future of intelligent driving technologies across General Motors vehicles. What You'll Do: Design and development of scalable, reliable, high-performance ML framework to support model training at scale. Raise the bar on system observability, debuggability, and operational excellence, and user experience. Model training performance analysis and optimization solutions to scale distributed training workflows and maximize resource utilization across heterogeneous hardware environments, and save cost. Collaborate with cross-functional teams to integrate new features and technologies into the platform. Your Skills & Abilities (Required Qualifications) Bachelors degree or higher in Computer Science or equivalent major OR equivalent relevant experience 5+ years professional software engineering experience. 1+ years specialized experience in AI/ML infrastructure, e.g., enabling distributed training for scaling large ML models Strong programming skills in Python, with proficiency in frameworks such as,PyTorch (preferred), TensorFlow, or similar Experience with distributed computing, GPU computing, and cloud environments (AWS, GCP, Azure). Willingness to travel to Sunnyvale, CA as needed Comfortable working in highly ambiguous and dynamic environments What Will Give You a Competitive Edge (preferred qualifications): Self-motivated, strong execution, impact-delivering oriented Extensive knowledge and experience with PyTorch 2.x+ and distributed training framework Experience with design and development of training framework that supports FSDP, Pipeline Parallelism and other scalable solutions to training large foundational models Experience with profiling, analysis, debugging and optimizing training and data loading performance. Excellent communication skills to resolve controversial, make consensus, communicate risks and give constructive feedback Compensation: The compensation information is a good faith estimate only. It is based on what a successful applicant might be paid in accordance with applicable state laws. The compensation may not be representative for positions located outside of New York, Colorado, California, or Washington. The salary range for this role: is $170,000 to $240,800 . The actual base salary a successful candidate will be offered within this range will vary based on factors relevant to the position. Bonus Potential: An incentive pay program offers payouts based on company performance, job level, and individual performance. Benefits: GM offers a variety of health and wellbeing benefit programs. Benefit options include medical, dental, vision, Health Savings Account, Flexible Spending Accounts, retirement savings plan, sickness and accident benefits, life insurance, paid vacation & holidays, tuition assistance programs, employee assistance program, GM vehicle discounts and more. &#xa;&#xa;&#xa;&#xa;This role is categorized as hybrid. This means the selected candidate is expected to report to a specific location at least 3 times a week {or other frequency dictated by their manager}.&#xa;&#xa;The selected candidate will be required to travel About GM Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all. Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team. Benefits Overview From day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources . Non-Discrimination and Equal Employment Opportunities (U.S.) General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers. All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire . Accommodations General Motors offers opportunities to all job seekers including individuals with disabilities. If you need a
+
+---
+
+## 39. [MAYBE] Starr Insurance | Senior AI/ML Engineer
 - Link: https://starrcompanies.wd1.myworkdayjobs.com/careers/job/399-Park-Avenue-New-York-NY/Senior-AI-ML-Engineer_JR4659
 - Location: 399 Park Avenue-New York, NY
 - Posted: Nov 16 (board gives the date only)
@@ -612,7 +679,22 @@ Join Starr, a global leader in commercial insurance with over a century of exper
 
 ---
 
-## 36. [MAYBE] JP Morgan Chase | Applied AI ML Senior Associate
+## 40. [MAYBE] Omnicom Group | Senior Associate, Business Analytics
+- Link: https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Senior-Associate--Business-Analytics_R18520-1
+- Location: New York, New York, United States of America
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 10 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, forecast, sql, statistic | Lacks: -  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Agency: PHd Job Function: Data and Analytics Job Subfunction: Data Science and Analytics Job Description: Utilizes developing specialized knowledge to execute tasks and contribute to smaller projects or defined components of larger initiatives. Addresses non-routine problems using established practices and past experience. May support the coordination of day-to-day activities for a team or specific area. Extracts actionable insights from high volume, high dimensional data to investigate complex business and marketing problems and inform decision making. Applies a range of data preparation, analytical, modelling, and visualisation techniques—including statistical analysis, predictive modelling, experimentation, pattern recognition, and AI/advanced analytics tools—to generate insights that improve business performance and outcomes. Analyzes business, customer, operational, and market data to identify trends, optimise effectiveness, and forecast future performance. Develops and maintains analytics outputs such as reports, dashboards, and visualisations using data platforms and tools (e.g., ERP/CRM systems, relational or NoSQL databases, business intelligence and analytics software), and may create custom scripts, models, or leverage AI enabled approaches to enhance analysis and insight generation. May contribute to advanced analytics initiatives such as marketing mix modelling, cross channel measurement, and strategic insight development to optimise investment decisions, media effectiveness, and marketing performance across channels and platforms. &#xa;&#xa; $40,000 - $85,000 To the extent permissible by local law, Omnicom’s policy requires employees to work in the office for a minimum of three days a week, unless additional in-office days are directed by their agency or manager. Omnicom is committed to hiring and developing exceptional talent. We agree that talent is uniquely distributed, and we’re focused on developing inclusive teams that can bring the best solutions to everything we do. We strongly believe that celebrating what makes us different makes us better together. Join us—we look forward to getting to know you. We will process your personal data in accordance with our Recruitment Privacy Notice. Link to Recruitment Privacy Notice: https://www.omc.com/privacy-notice For US Job Seekers: It is the policy of Omnicom and any of its affiliates to provide equal employment opportunities to all employees and applicants for employment without regard to race, religion, color, ethnic origin, gender, gender identity, age, marital status, veteran status, sexual orientation, disability, or any other basis prohibited by applicable federal, state, or local law. EOE/AA/M/D/V/F.
+
+---
+
+## 41. [MAYBE] JP Morgan Chase | Applied AI ML Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809525
 - Location: Jersey City, NJ, United States US New York, NY, United States
 - Posted: Nov 16 (board gives the date only)
@@ -627,7 +709,7 @@ Bring your applied research and machine learning skills to a team building moder
 
 ---
 
-## 37. [MAYBE] Genpact Llc | Sr. AI Engineer 4B
+## 42. [MAYBE] Genpact Llc | Sr. AI Engineer 4B
 - Link: https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-AI-Engineer-4B_JR10035951
 - Location: 1401-G-India: Floor 1 to 12, Hafeezpet Phoenix, Hyderabad
 - Posted: Nov 16 (board gives the date only)
@@ -642,7 +724,7 @@ Sr. AI Engineer Ready to turn bold ideas into real-world impact? At Genpact, we 
 
 ---
 
-## 38. [MAYBE] Genpact Llc | Sr. AI Engineer 4B
+## 43. [MAYBE] Genpact Llc | Sr. AI Engineer 4B
 - Link: https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-AI-Engineer-4B_JR10035892
 - Location: 1401-G-India: Floor 1 to 12, Hafeezpet Phoenix, Hyderabad
 - Posted: Nov 16 (board gives the date only)
@@ -654,4 +736,34 @@ Sr. AI Engineer Ready to turn bold ideas into real-world impact? At Genpact, we 
 ### Job description
 
 Sr. AI Engineer Ready to turn bold ideas into real-world impact? At Genpact, we don’t just adapt to change, we lead it. AI and digital innovation are transforming the way businesses work, and we’re at the forefront of it. Genpact’s AI Gigafactory , our industry-first accelerator, exemplifies how we scale advanced technology solutions to help global enterprises work smarter, grow faster, and transform at scale. Whether tackling complex challenges through large-scale models or agentic AI , our breakthrough solutions tackle companies’ most complex challenges. If you thrive in a fast-moving, innovation-driven environment, love building and deploying cutting-edge AI solutions, and want to push the boundaries of what’s possible, this is your moment. Genpact (NYSE: G) is an agentic and advanced technology solutions company. We leverage process intelligence and artificial intelligence to deliver measurable outcomes. With a strong partner ecosystem and decades of client trust, we provide innovative solutions that transform how businesses run. Powered by a team with an active learning mindset and client centricity at its core, we deliver lasting value for the world’s leading enterprises. Get to know us at genpact.com and on LinkedIn , YouTube , X , and Facebook . Job Description 1. Design and implement end-to-end machine learning pipelines for production analytics use cases, ensuring scalability and performance. 2. Own model development lifecycle including feature engineering, training, validation, and deployment for assigned client projects. 3. Mentor junior AI engineers and analysts on ML best practices, code quality, and technical problem-solving approaches. 4. Partner with data engineers and business stakeholders to translate requirements into ML solutions and validate model performance. 5. Drive optimization of existing AI models through experimentation, hyperparameter tuning, and algorithm selection. 6. Document technical architecture, model assumptions, and deployment procedures to enable knowledge transfer and operational handoff. 7. Contribute to internal AI/ML capability building by sharing learnings, code libraries, and reusable frameworks across teams. Qualifications Bachelors - Computer Science, Bachelors - Mathematics, Bachelors - Software Engineering, Masters - Artificial Intelligence, Masters - Statistics Certifications BUILD - GENERATIVE AI - Genpact, Certification in Python and Machine Learning - Decodr Technology, Deep Learning Specialization - Coursera, Generative AI & Large Language Models - Databricks Academy, IBM Machine Learning Specialization - IBM Required Skills AI/ML Ops, AI Agents, Amazon Web Services (AWS), Artificial Intelligence (AI), Deep Learning Algorithms, Google Cloud Platform, Machine Learning, Microsoft Azure, Natural Language Processing (NLP), PyTorch, Tensorflow Language English (Required) Language Proficiency - English (OVERALL - Proficient - C2) Additional Job Location - Job Type Regular Master Skill List - AI Remote Type - Hybrid Work Shift - Day Job (India) Why join Genpact? • Lead AI-powered transformation – Drive innovation and solve real-world business challenges that matter • Make an impact – Help global enterprises solve business challenges that matter • Accelerate your career – Gain hands-on experience, mentorship, and world-class learning opportunities to stay ahead • Work with the best – Join 140,000+ bold thinkers and problem-solvers who push boundaries every day • Thrive in a values-driven culture – Our courage, curiosity, and incisiveness - built on a foundation of integrity and inclusion - allow your ideas to fuel progress Come join the 140,000+ coders, tech shapers, and growth makers at Genpact and take your career in the only direction that matters: Up. Let’s build tomorrow together. Genpact
+
+---
+
+## 44. [MAYBE] Grant Thornton | Sr. Associate, Business Intelligence
+- Link: https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116360
+- Location: Chicago, IL, United States US New York, NY, United States Boston, MA, United States Hartford, CT, United States Edison, NJ, United States Melville, NY, United States Atlanta, GA, United States Charlotte, NC, United States Dallas, TX, United States Cincinnati, OH, United States Cleveland, OH, United States Pittsburgh, PA, United States Philadelphia, PA, United States Orlando, FL, United States Fort Lauderdale, FL, United States Jacksonville, FL, United States Raleigh, NC, United States
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 10 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, excel, power bi, sql, pipeline, reporting, research | Lacks: -  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Description: As the GTM Business Analyst, you help business leaders and teams turn questions, needs, and opportunities into clear requirements and useful analysis. You spend time with users to understand how work is performed today, what decisions they are trying to make, and where better information or simpler processes could improve the outcome. Reporting into the Business Intelligence function, you work across go-to-market, sales, client, service line, and firm leadership teams. You connect business users with reporting, data, and technology resources, making sure the problem is well understood before a solution is designed and that the final result works for the people who will use it. This role combines business analysis, requirements management, user research, and hands-on analytical work. You may support a new dashboard, investigate a performance question, improve an existing process, or help define a larger reporting initiative. In each case, you bring structure to the request, test assumptions with data, and communicate the answer in clear business terms. Essential Functions & Responsibilities: Meet with business users and leaders to understand their goals, decisions, pain points, current processes, and information needs. Turn business needs into clear problem statements, requirements, user stories, process flows, measures, and acceptance criteria. Ask focused questions, challenge assumptions constructively, and distinguish the core business need from a requested feature or report. Analyze business, sales, pipeline, client, and performance data to identify trends, explain drivers, test hypotheses, and answer ad hoc questions. Create clear summaries, visualizations, and recommendations that explain what the analysis means and why it matters. Work with reporting, data, CRM, and technology teams to clarify requirements, answer questions, and keep delivery aligned with the user's need. Support testing and user acceptance by developing test cases, validating results, documenting issues, and confirming that agreed requirements were met. Map current and future processes, identify gaps or unnecessary manual work, and recommend practical improvements. Help prioritize requests by clarifying expected value, urgency, effort, dependencies, and the users affected. Maintain a clear record of requirements, decisions, definitions, open questions, and changes throughout the work. Support adoption by preparing user guidance, facilitating feedback sessions, and helping business teams understand new reports or processes. Build reusable requirement templates, definitions, and analytical approaches that improve consistency across the Business Intelligence function. Other duties as assigned You Have the Following Technical Skills and Qualifications: Bachelor's degree in Business, Analytics, Finance, Information Systems, or a related field 3-5 years of experience in business analysis, analytics, business intelligence, sales operations, consulting, or a related role Demonstrated ability to gather requirements, understand users and processes, and translate business needs into clear specifications Strong analytical skills, including the ability to work with imperfect data, test hypotheses, identify drivers, and form practical conclusions Working proficiency with Excel and data visualization tools such as Power BI; experience with SQL or similar data-query tools is preferred Ability to explain analysis and technical topics in plain language to both business and technical audiences Strong facilitation, listening, writing, and stakeholder-management skills, with a practical and curious approach to problem solving Experience supporting testing, process mapping, or user acceptance is preferred Knowledge of pipeline, sales performance, CRM, client, or professional services data is preferred Ability to manage multiple requests, organize details, and work effectively in a matrixed environment The base salary range for this position is between $76,000 and $114,000. Placement within the pay range is at Grant Thornton’s discretion, and it is based on multiple factors, including but not limited to, job -related knowledge/skills, experience, business needs, progression within the role, geographic location, and internal equity. At Grant Thornton, compensation decisions are dependent upon the facts and circumstances of each position and candidate.   At Grant Thornton, we believe in making business more personal and building trust into every result – for our clients and you. Here, we go beyond your expectations of a career in professional services by offering a career path with more: more opportunity, more flexibility, and more support. It’s what makes us different, and we think being different makes us better. In the U.S., Grant Thornton delivers professional services through two specialized entities: Grant Thornton LLP, a licensed, certified public accounting (CPA) firm that provides audit and assurance services ― and Grant Thornton Advisors LLC (not a licensed CPA firm), which exclusively provides non-attest offerings, including tax and advisory services. In 2025, Grant Thornton formed a multinational, multidisciplinary platform with Grant Thornton Ireland. The platform offers a premier Trans-Atlantic advisory and tax practice, as well as independent American and Irish audit practices. With $2.7 billion in revenues and more than 50 offices spanning the U.S., Ireland and other territories, the platform delivers a singular client experience that includes enhanced solutions and capabilities, backed by powerful technologies and a roster of 12,000 quality-driven professionals enjoying exceptional career-growth opportunities and a distinctive cross-border culture. Grant Thornton is part of the Grant Thornton International Limited network, which provides access to its member firms in more than 150 global markets.
+
+---
+
+## 45. [MAYBE] JP Morgan Chase | Data and Analytics Product Delivery Team - Analytics Solutions Senior Associate
+- Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804899
+- Location: Seattle, WA, United States US Columbus, OH, United States Plano, TX, United States
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, python, sql, statistic, tableau, athena, quantitative, reporting | Lacks: alteryx, snowflake  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Join a team that makes CCB Data Product development clear and measurable, helping leaders understand what is being built, why it matters, and how CCB Data Products are being adopted across the business. As an Analytics Senior Associate, within the CCB Data and Analytics Products Organization, you will help define and implement CCB’s Data Strategy and own the CCB Data Product performance and visibility capability and provide teams and leaders across CCB with a trusted view of progress and outcomes and interpret strategic objectives, propose plans, and execute with a high degree of independence. Job responsibilities: Own the CCB Data Product performance and visibility capability, providing a trusted view of roadmap progress, adoption, and business value and support the definition and implementation of the CCB Data Strategy, translating strategic priorities into outcome-based objectives and key results (OKRs) for the capability you own. Track the CCB Data Product roadmap and explain what is being developed, why it matters, and how it supports CCB priorities and conduct ongoing discovery with stakeholders and CCB Data Product consumers to understand their needs, identify adoption barriers, and surface opportunities for improvement. Define and report on CCB Data Product adoption measures, such as consuming teams, use cases onboarded, and usage volume, and connect those measures to business outcomes where possible. Improve reporting on the CCB Data Product development process and automate recurring reporting to increase efficiency, accuracy, and timeliness. Query and analyze data using SQL to support CCB Data Product roadmap, adoption, and business-value reporting. Partner with multiple lines of business and cross-functional teams to align priorities, resolve day-to-day issues, and escalate tradeoffs when needed and communicate CCB Data Product progress, decisions, and outcomes to senior leaders and strategy partners through executive-level presentations and transparent decision logs. Required qualifications, capabilities, and skills: Bachelor’s degree in a quantitative, scientific, technical, or business field (for example, Mathematics, Statistics, Computer Science, Engineering, Economics, Finance, or Business Administration), or equivalent practical experience; 3–5 years of relevant experience in data management, data product reporting, analytics, or a related field. Solid SQL (Structured Query Language) skills, with the ability to query and analyze data independently using platforms such as Snowflake, Teradata, AWS Athena, or similar. Comfort leveraging AI-powered tools, such as generative AI and large language model assistants, to accelerate reporting, analysis, and presentation development. Strong data management skills, including a working knowledge of relevant data structures. Experience defining and tracking usage metrics for data assets or platforms and using those insights to inform decisions and working with governed data and partnering with engineering, product, and business teams in a regulated environment. Excellent written and verbal communication skills, with the ability to explain technical data product work to varied audiences and strong presentation skills. including experience developing and delivering executive-level presentations using tools such as Tableau or PowerPoint. Experience using Jira and Confluence to track roadmaps, document processes, and manage reporting workflows. Preferred qualifications, capabilities, and skills: Exposure to product management or roadmap ownership, including setting OKRs or conducting stakeholder discovery. Previous experience in the financial services industry. Knowledge of CCB or consumer banking data and data products. Experience automating reporting processes using tools such as Python, Alteryx, Tableau, or SQL-based workflows.   Chase is a leading financial services firm, helping nearly half of America’s households and small businesses achieve their financial goals through a broad range of financial products. Our mission is to create engaged, lifelong relationships and put our customers at the heart of everything we do. We also help small businesses, nonprofits and cities grow, delivering solutions to solve all their financial needs. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
 
