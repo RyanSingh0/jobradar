@@ -15,17 +15,20 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 9 | Manulife Financial | Associate Data Scientist | 55 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
 | 10 | Dell Technologies | Inside Product Specialist - Early Career | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
 | 11 | Legal & General | Associate, Investment Analytics, L&G - Asset Management, America | 54 | none found (check myvisajobs) | Nov 16 18:23 ET |
-| 12 | TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 13 | TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start | 52 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 14 | Google | Research Scientist, Error Correction Experiments, Quantum AI | 50 | 1053 in data/analytics/finance occupations | Nov 17 03:09 ET |
-| 15 | Pernod Ricard créateurs de convivialité | Master Data Analyst | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 16 | Kemin | Job Title Research Associate | 45 | 2 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 17 | University of Louisville | Temporary Research Assistant (Part Time) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 18 | Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 19 | ING | Data Analyst | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 20 | Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design | 65 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 21 | Natera | Research Associate 2 | 57 | 28 in data/analytics/finance occupations | Nov 16 18:51 ET |
-| 22 | GE Healthcare | Senior AI Engineer | 57 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 12 | Texas A&M University - College Station | Research Assistant | 54 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 13 | Texas A&M University System | Research Assistant | 54 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 14 | TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 15 | TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start | 52 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 16 | Google | Research Scientist, Error Correction Experiments, Quantum AI | 50 | 1053 in data/analytics/finance occupations | Nov 17 03:09 ET |
+| 17 | Pernod Ricard créateurs de convivialité | Master Data Analyst | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 18 | Kemin | Job Title Research Associate | 45 | 2 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 19 | Pfizer | Associate, AI Engineering | 45 | 30 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 20 | University of Louisville | Temporary Research Assistant (Part Time) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 21 | Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 22 | ING | Data Analyst | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 23 | Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design | 65 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 24 | Natera | Research Associate 2 | 57 | 28 in data/analytics/finance occupations | Nov 16 18:51 ET |
+| 25 | GE Healthcare | Senior AI Engineer | 57 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
 
 ---
 
@@ -194,7 +197,37 @@ The LGIMA Investment Analytics team is responsible for providing market-leading 
 
 ---
 
-## 12. [MAYBE] TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety
+## 12. [MAYBE] Texas A&M University - College Station | Research Assistant
+- Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098073-1
+- Location: College Station, TX
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, llm, statistic, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Title Research Assistant Agency Texas A&M University Department Psychology Proposed Minimum Salary Commensurate Job Location College Station, Texas Job Type Staff Job Description Here's a Glimpse of the Job The Research Assistant will support and coordinate research projects within Dr. MacNamara’s Multimethod Affect and Cognition Lab (MAClab) in the Department of Psychology. The selected candidate will contribute to research examining emotion and cognition in health and psychiatric conditions, particularly anxiety and depression, while supporting treatment-related research. Opportunities to Contribute Collects psychophysiological and functional magnetic resonance imaging (fMRI) data from human research participants. Supervises and supports undergraduate research assistants in data collection procedures. Conducts phone screenings and interviews with participants experiencing anxiety and/or depression. Provides administrative tasks related to grants and projects in the lab, including but not limited to preparation of IRBs and reports to funders. Recruits and screens potential research participants to determine eligibility. Assists with EEG and fMRI research studies and related data collection procedures. Prepares IRB applications, grant documents, and other research materials. Assists with additional research and laboratory tasks as needed. Qualifications Bachelor’s degree in Psychology, Neuroscience, Biology, or equivalent combination of education and experience. Ability to travel independently in employee-owned vehicle to MRI scanner on campus (10-minute drive from main campus). A well-qualified candidate for this position will also possess: Prior experience working in psychology, psychiatry (or related field) research lab. Prior experience with emotion-focused psychophysiology research. Master’s degree in Psychology, Neuroscience, Biology, or related field (completed by Fall 2026) or equivalent combination of education and experience. Statistical expertise. Ability to work independently, multitask and work cooperatively with others. Strong organizational skills. Ability to effectively communicate both orally and in writing. Ability to positively and professionally interact with research participants and other lab members. Working knowledge of office software; strong computer skills. Salary: $45,000 - $50,000 Compensation will be commensurate to selected hire’s experience. Special Note: This position is funded by grant and/or contract funding, which is renewed through provisions of the grantor of the contract. Therefore, continuation of this position will be reviewed annually and is contingent upon continuation of funding from these grants and/or contracts, as well as satisfactory job performance. Why Texas A&M University? Texas A&M University is committed to enriching the learning and working environment by promoting a culture that respects all perspectives, talents & lived experiences. Embracing varying opinions and perspectives strengthens our core values which are: Respect, Excellence, Leadership, Loyalty, Integrity, and Selfless Service. The Department of Psychological and Brain Sciences is engaged in research that falls into all five graduate areas of specialization: Behavioral and Cellular Neuroscience Clinical Psychology Cognition and Cognitive Neuroscience Psychology Industrial/Organizational Psychology Social & Personality Psychology In addition to the Department of Psychological and Brain Science’s 5 areas of specialization, we have overlapping research interests that bridge traditional areas of psychology. These primary research themes include Affective Science; Neuroscience; Personality and Individual Differences. To learn more please visit our site at https://artsci.tamu.edu/psychological-brain-sciences/index.html We are a prestigious university with strong traditions, Core Values, and a community of caring and collaboration. Amenities associated with a major university, such as sporting and cultural events, state-of-the-art recreation facilities, the Bush Library and Museum, and much more await you. Experience all that a big city has to offer but with a reasonable cost-of-living and no long commutes. Medical, prescription drug, dental, vision, life and AD&D, flexible spending accounts , and long-term disability insurance with Texas A&M contributing to employee health and basic life premiums. 12-15 days of annual paid holidays. Up to eight hours of paid sick leave and at least eight hours of paid vacation each month. Automatic enrollment in the Teacher Retirement System of Texas Health and Wellness: Free exercise programs and release time Professional Development: All employees have access to free LinkedIn Learning training, webinars, and limited financial support to attend conferences, workshops, and more. Educational release time and tuition assistance for completing a degree while a Texas A&M employee. Living Well, a program at Texas A&M that has been built by employees, for employees. Instructions to Applicants: Applications received by Texas A&M University must either have all job application data entered, or a resume attached. Failure to provide all job application data or a complete resume could result in an invalid submission and a rejected application. We encourage all applicants to upload a resume or use a LinkedIn profile to prepopulate the online application. All positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check. Equal Opportunity/Veterans/Disability Employer.
+
+---
+
+## 13. [MAYBE] Texas A&M University System | Research Assistant
+- Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098073
+- Location: College Station, TX
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, llm, statistic, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Title Research Assistant Agency Texas A&M University Department Psychology Proposed Minimum Salary Commensurate Job Location College Station, Texas Job Type Staff Job Description Here's a Glimpse of the Job The Research Assistant will support and coordinate research projects within Dr. MacNamara’s Multimethod Affect and Cognition Lab (MAClab) in the Department of Psychology. The selected candidate will contribute to research examining emotion and cognition in health and psychiatric conditions, particularly anxiety and depression, while supporting treatment-related research. Opportunities to Contribute Collects psychophysiological and functional magnetic resonance imaging (fMRI) data from human research participants. Supervises and supports undergraduate research assistants in data collection procedures. Conducts phone screenings and interviews with participants experiencing anxiety and/or depression. Provides administrative tasks related to grants and projects in the lab, including but not limited to preparation of IRBs and reports to funders. Recruits and screens potential research participants to determine eligibility. Assists with EEG and fMRI research studies and related data collection procedures. Prepares IRB applications, grant documents, and other research materials. Assists with additional research and laboratory tasks as needed. Qualifications Bachelor’s degree in Psychology, Neuroscience, Biology, or equivalent combination of education and experience. Ability to travel independently in employee-owned vehicle to MRI scanner on campus (10-minute drive from main campus). A well-qualified candidate for this position will also possess: Prior experience working in psychology, psychiatry (or related field) research lab. Prior experience with emotion-focused psychophysiology research. Master’s degree in Psychology, Neuroscience, Biology, or related field (completed by Fall 2026) or equivalent combination of education and experience. Statistical expertise. Ability to work independently, multitask and work cooperatively with others. Strong organizational skills. Ability to effectively communicate both orally and in writing. Ability to positively and professionally interact with research participants and other lab members. Working knowledge of office software; strong computer skills. Salary: $45,000 - $50,000 Compensation will be commensurate to selected hire’s experience. Special Note: This position is funded by grant and/or contract funding, which is renewed through provisions of the grantor of the contract. Therefore, continuation of this position will be reviewed annually and is contingent upon continuation of funding from these grants and/or contracts, as well as satisfactory job performance. Why Texas A&M University? Texas A&M University is committed to enriching the learning and working environment by promoting a culture that respects all perspectives, talents & lived experiences. Embracing varying opinions and perspectives strengthens our core values which are: Respect, Excellence, Leadership, Loyalty, Integrity, and Selfless Service. The Department of Psychological and Brain Sciences is engaged in research that falls into all five graduate areas of specialization: Behavioral and Cellular Neuroscience Clinical Psychology Cognition and Cognitive Neuroscience Psychology Industrial/Organizational Psychology Social & Personality Psychology In addition to the Department of Psychological and Brain Science’s 5 areas of specialization, we have overlapping research interests that bridge traditional areas of psychology. These primary research themes include Affective Science; Neuroscience; Personality and Individual Differences. To learn more please visit our site at https://artsci.tamu.edu/psychological-brain-sciences/index.html We are a prestigious university with strong traditions, Core Values, and a community of caring and collaboration. Amenities associated with a major university, such as sporting and cultural events, state-of-the-art recreation facilities, the Bush Library and Museum, and much more await you. Experience all that a big city has to offer but with a reasonable cost-of-living and no long commutes. Medical, prescription drug, dental, vision, life and AD&D, flexible spending accounts , and long-term disability insurance with Texas A&M contributing to employee health and basic life premiums. 12-15 days of annual paid holidays. Up to eight hours of paid sick leave and at least eight hours of paid vacation each month. Automatic enrollment in the Teacher Retirement System of Texas Health and Wellness: Free exercise programs and release time Professional Development: All employees have access to free LinkedIn Learning training, webinars, and limited financial support to attend conferences, workshops, and more. Educational release time and tuition assistance for completing a degree while a Texas A&M employee. Living Well, a program at Texas A&M that has been built by employees, for employees. Instructions to Applicants: Applications received by Texas A&M University must either have all job application data entered, or a resume attached. Failure to provide all job application data or a complete resume could result in an invalid submission and a rejected application. We encourage all applicants to upload a resume or use a LinkedIn profile to prepopulate the online application. All positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check. Equal Opportunity/Veterans/Disability Employer.
+
+---
+
+## 14. [MAYBE] TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety
 - Link: https://lifeattiktok.com/search/7574962733457443125
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -228,7 +261,7 @@ Preferred Qualifications
 
 ---
 
-## 13. [MAYBE] TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start
+## 15. [MAYBE] TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start
 - Link: https://lifeattiktok.com/search/7668663594419374341
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -265,7 +298,7 @@ By submitting an application for this role, you accept and agree to our global a
 
 ---
 
-## 14. [MAYBE] Google | Research Scientist, Error Correction Experiments, Quantum AI
+## 16. [MAYBE] Google | Research Scientist, Error Correction Experiments, Quantum AI
 - Link: https://www.google.com/about/careers/applications/jobs/results/141343429106770630
 - Location: Goleta, CA, USA
 - Posted: Nov 17 03:09 ET
@@ -280,7 +313,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 15. [MAYBE] Pernod Ricard créateurs de convivialité | Master Data Analyst
+## 17. [MAYBE] Pernod Ricard créateurs de convivialité | Master Data Analyst
 - Link: https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Dumbarton/Master-Data-Analyst_JR-055616-1
 - Location: Dumbarton
 - Posted: Nov 16 (board gives the date only)
@@ -295,7 +328,7 @@ Master Data Analyst Your Manager: Master Data Lead Team: Planning, Supply Chain 
 
 ---
 
-## 16. [MAYBE] Kemin | Job Title Research Associate
+## 18. [MAYBE] Kemin | Job Title Research Associate
 - Link: https://careers-kemin.icims.com/jobs/12604/research-associate/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -310,7 +343,22 @@ Research Associate in Parma | Careers at EMENA Region Please Enable Cookies to C
 
 ---
 
-## 17. [MAYBE] University of Louisville | Temporary Research Assistant (Part Time)
+## 19. [MAYBE] Pfizer | Associate, AI Engineering
+- Link: https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-Kingdom---Walton-Oaks/Associate--AI-Engineering_4966818-2
+- Location: 2 Locations
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 30 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: etl, excel, git | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+This is an early-career engineering job where your work ends up in front of the leadership of a global company. You'll build AI tools for Pfizer's Office of the Chief Executive Officer (OCEO), which sets the company's strategy, looks after its communications and global health investments, and runs the CEO's own office. You'll take ideas from a first conversation to something senior colleagues rely on. You'll work directly with the people who had the ideas. Many of them aren't engineers, and you'll often be the one sitting next to them while the idea turns into something real. You'll be building with current AI models and tools from your first week, with a senior engineering lead guiding you, and you'll own solutions yourself as you get more experienced. There are two of these jobs, in a team of five, and you'd report to the Senior Director, AI Innovation and Delivery. It suits someone who likes learning in the open, wants to see what their work actually does, and is as happy helping a colleague build something as building it alone. Role Responsibilities Pair with the people who have ideas Work alongside colleagues who bring an idea in, especially if it's their first time. Help them shape it and test it, be straight about what it will take to make it production-grade, and make sure they know what they own once it's live. Next time, they should need you a bit less. Build and harden Build features, integrations and fixes from the briefs the Product Lead agrees with originators. You'll use AI coding tools, and your work gets reviewed. Some ideas you'll help build from scratch; others start as a prototype that you turn into a production-grade solution. Before writing anything new, check whether it already exists. Test and evaluate Write the tests and evaluation cases that show whether something works. Run them before release and keep them running after. Watch how solutions behave in real use, find where they get things wrong, and turn what you find into fixes or new tests. Help run what we build Take your share of the day-to-day running: keeping an eye on quality and cost, dealing with issues, applying platform updates, keeping releases tidy. If something looks off, flag it early instead of quietly working around it. Learn it, then own it Get to know the solutions the team runs, including work handed over by outside partners, well enough to change them with confidence. As you get more experienced, you'll take ownership of particular ones. Document as you go Keep how-to guides, decision notes and runbooks up to date, and write them so people outside the team can follow them too. It's what keeps a solution working after the people who built it have moved on. Role Behaviours Help people build Leave each person you work with more capable than before. A pairing session went well if they can do more on their own afterwards. Ask early Ask questions and raise problems as soon as they come up, whether it's the code, the data or getting access to it. A question on day one costs far less than a mistake found at release. Reuse first Look for a component, pattern or platform feature that already does the job. Writing something new needs a reason. Test what you ship A change isn't finished until you've shown it works on real examples. Keep that evidence where others can see it. Write it down Note what you built and why, in plain words a colleague outside the team can follow. If you're the only one who can explain it, it's not done yet. Work Location Assignment: Hybrid Purpose Breakthroughs that change patients' lives ... At Pfizer we are a patient centric company, guided by our four values: courage, joy, equity and excellence. Our breakthrough culture lends itself to our dedication to transforming millions of lives. Digital Transformation Strategy One bold way we are achieving our purpose is through our company wide digital transformation strategy. We are leading the way in adopting new data, modelling and automated solutions to further digitize and accelerate drug discovery and development with the aim of enhancing health outcomes and the patient experience. Flexibility We aim to create a trusting, flexible workplace culture which encourages employees to achieve work life harmony, attracts talent and enables everyone to be their best working self. Let’s start the conversation! Equal Employment Opportunity We believe that a diverse and inclusive workforce is crucial to building a successful business. As an employer, Pfizer is committed to celebrating this, in all its forms – allowing for us to be as diverse as the patients and communities we serve. Together, we continue to build a culture that encourages, supports and empowers our employees. DisAbility Confident We are proud to be a Disability Confident Employer and we encourage you to put your best self forward with the knowledge and trust that we will make any reasonable adjustments necessary to support your application and future career. Our mission is unleashing the power of our people, especially those with unique superpowers. Your journey with Pfizer starts here! To learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers . Information & Business Tech
+
+---
+
+## 20. [MAYBE] University of Louisville | Temporary Research Assistant (Part Time)
 - Link: https://uofl.wd1.myworkdayjobs.com/UofLCareerSite/job/Belknap-Campus/Temporary-Research-Assistant--Part-Time-_R109732
 - Location: Belknap Campus
 - Posted: Nov 16 (board gives the date only)
@@ -325,7 +373,7 @@ Department: Early Childhood Research Center-JM Location: Belknap Campus Time Typ
 
 ---
 
-## 18. [MAYBE] Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab)
+## 21. [MAYBE] Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab)
 - Link: https://seattlechildrens.wd5.myworkdayjobs.com/External/job/Seattle-WA/Research-Associate-I---Bench--Kalia-Lab-_R264858
 - Location: Seattle, WA
 - Posted: Nov 16 (board gives the date only)
@@ -340,7 +388,7 @@ A Research Associate I-Bench position focusing on translational discoveries in T
 
 ---
 
-## 19. [MAYBE] ING | Data Analyst
+## 22. [MAYBE] ING | Data Analyst
 - Link: https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bratislava/Data-Analyst_REQ-10121029-1
 - Location: Bratislava
 - Posted: Nov 16 (board gives the date only)
@@ -355,7 +403,7 @@ The opportunity ING Wholesale Banking (WB) has been helping clients across the w
 
 ---
 
-## 20. [MAYBE] Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design
+## 23. [MAYBE] Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design
 - Link: https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Senior-Scientist--Machine-Learning-and-Algorithm-Development-for-RNA-Design_R20182
 - Location: see posting
 - Posted: Nov 16 (board gives the date only)
@@ -370,7 +418,7 @@ The Role Moderna is seeking a computational scientist to develop artificial inte
 
 ---
 
-## 21. [MAYBE] Natera | Research Associate 2
+## 24. [MAYBE] Natera | Research Associate 2
 - Link: https://job-boards.greenhouse.io/natera/jobs/6250593004
 - Location: Boulder, CO
 - Posted: Nov 16 18:51 ET
@@ -385,7 +433,7 @@ LOCATION : On-Site in Boulder, CO (Foresight Dx business unit, a Natera company)
 
 ---
 
-## 22. [MAYBE] GE Healthcare | Senior AI Engineer
+## 25. [MAYBE] GE Healthcare | Senior AI Engineer
 - Link: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Staff-Machine-Learning-Engineer_R4042375-1
 - Location: Haifa HEALTHCARE HA IL 2
 - Posted: Nov 16 (board gives the date only)
