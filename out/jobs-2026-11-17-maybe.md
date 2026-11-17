@@ -5,30 +5,39 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | UCSF | Research Data Analyst | 80 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 2 | Oregon State Government | Power BI Developer (Information Systems Specialist 6) | 74 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 3 | CVS Health | Decision Scientist (Automation & Optimization) | 68 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 4 | S&P Global | Analyst, Analytic Quality & Validation | 67 | 5 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 5 | CNA Insurance | Business Intelligence Developer | 57 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 6 | Deutsche Bank | Structured Finance Investment Analyst (RMBS & CMBS) | 57 | 213 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 7 | City of New York | OEI Research Assistant, Bureau of Environmental Disease Prevention | 57 | none found (check myvisajobs) | Nov 17 06:13 ET |
-| 8 | Anglian Water | Data Engineer | 57 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 9 | Manulife Financial | Associate Data Scientist | 55 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 10 | Dell Technologies | Inside Product Specialist - Early Career | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 11 | Legal & General | Associate, Investment Analytics, L&G - Asset Management, America | 54 | none found (check myvisajobs) | Nov 16 18:23 ET |
-| 12 | Texas A&M University - College Station | Research Assistant | 54 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 13 | Texas A&M University System | Research Assistant | 54 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 14 | TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 15 | TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start | 52 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 16 | Google | Research Scientist, Error Correction Experiments, Quantum AI | 50 | 1053 in data/analytics/finance occupations | Nov 17 03:09 ET |
-| 17 | Pernod Ricard créateurs de convivialité | Master Data Analyst | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 18 | Kemin | Job Title Research Associate | 45 | 2 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 19 | Pfizer | Associate, AI Engineering | 45 | 30 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 20 | University of Louisville | Temporary Research Assistant (Part Time) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 21 | Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 22 | ING | Data Analyst | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 23 | Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design | 65 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 24 | Natera | Research Associate 2 | 57 | 28 in data/analytics/finance occupations | Nov 16 18:51 ET |
-| 25 | GE Healthcare | Senior AI Engineer | 57 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 2 | RBI | Global Commodity Management & Analytics Specialist | 80 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 3 | Ascensus | Reporting & KPI Analyst | 79 | 2 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 4 | Oregon State Government | Power BI Developer (Information Systems Specialist 6) | 74 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 5 | CVS Health | Decision Scientist (Automation & Optimization) | 68 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 6 | S&P Global | Analyst, Analytic Quality & Validation | 67 | 5 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 7 | CNA Insurance | Business Intelligence Developer | 57 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 8 | Deutsche Bank | Structured Finance Investment Analyst (RMBS & CMBS) | 57 | 213 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 9 | City of New York | OEI Research Assistant, Bureau of Environmental Disease Prevention | 57 | none found (check myvisajobs) | Nov 17 06:13 ET |
+| 10 | Anglian Water | Data Engineer | 57 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 11 | Manulife Financial | Associate Data Scientist | 55 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 12 | Dell Technologies | Inside Product Specialist - Early Career | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 13 | Legal & General | Associate, Investment Analytics, L&G - Asset Management, America | 54 | none found (check myvisajobs) | Nov 16 18:23 ET |
+| 14 | Texas A&M University - College Station | Research Assistant | 54 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 15 | Texas A&M University System | Research Assistant | 54 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 16 | Boston Medical Center | Post Doc Research Fellow, Ophthalmology | 54 | 18 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 17 | TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 18 | TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start | 52 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 19 | Google | Research Scientist, Error Correction Experiments, Quantum AI | 50 | 1053 in data/analytics/finance occupations | Nov 17 03:09 ET |
+| 20 | Pernod Ricard créateurs de convivialité | Master Data Analyst | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 21 | Texas A&M AgriLife Research | Research Associate | 50 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 22 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 23 | Kemin | Job Title Research Associate | 45 | 2 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 24 | Pfizer | Associate, AI Engineering | 45 | 30 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 25 | Cencora | Contract Administration & Data Analytics Analyst | 42 | 1 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 26 | University of Louisville | Temporary Research Assistant (Part Time) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 27 | Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 28 | ING | Data Analyst | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 29 | Truist Bank | Institutional Investment Analyst I | 40 | 99 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 30 | Truist Bank | Data Scientist II (Compliance Testing) | 70 | 99 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 31 | Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design | 65 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 32 | Natera | Research Associate 2 | 57 | 28 in data/analytics/finance occupations | Nov 16 18:51 ET |
+| 33 | GE Healthcare | Senior AI Engineer | 57 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 34 | Varian | Senior Research Scientist, Optimization Algorithms | 57 | 12 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
 
 ---
 
@@ -47,7 +56,37 @@ This is a limited appointment position will end 12-months after the start date. 
 
 ---
 
-## 2. [MAYBE] Oregon State Government | Power BI Developer (Information Systems Specialist 6)
+## 2. [MAYBE] RBI | Global Commodity Management & Analytics Specialist
+- Link: https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Zug-Corporate-Office/Global-Commodity-Management---Analytics-Specialist_R4096
+- Location: Corp - Zug Corporate Office
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~80 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, excel, forecast, machine learning, power bi, python, r, tableau, data quality, git, portfolio, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Ready to make your next big professional move? Join us on our journey to achieve our big dream of building the most loved restaurant brands in the world. Restaurant Brands International Inc. is one of the world's largest quick service restaurant companies with nearly $49 billion in annual system-wide sales and over 33,000 restaurants in more than 120 countries and territories. RBI owns four of the world's most prominent and iconic quick service restaurant brands – TIM HORTONS®, BURGER KING®, POPEYES®, and FIREHOUSE SUBS®. These independently operated brands have been serving their respective guests, franchisees and communities for decades. Through its Restaurant Brands for Good framework, RBI is improving sustainable outcomes related to its food, the planet, and people and communities. RBI is committed to growing the TIM HORTONS®, BURGER KING®, POPEYES® and FIREHOUSE SUBS® brands by leveraging their respective core values, employee and franchisee relationships, and long track records of community support. Each brand benefits from the global scale and shared best practices that come from ownership by Restaurant Brands International Inc. Our opportunity: The Global Commodity Management & Analytics Specialist will support the Centre of Excellence (CoE) with commodity intelligence, data analysis, risk reporting and negotiation preparation. Based in Zug, Switzerland, the role will report to the Senior Manager, Global Commodity Management & Analytics. It will help develop analytical tools and processes that support the Procurement team in making informed commercial decisions across direct and indirect categories, including sugar, wheat, soy, corn, pork, beef, chicken, paperboard, potatoes, metals, steel, engineering, energy, MRO and industrial gases. RBI follows a 5 day, in-office work schedule to support collaboration. Candidates should be comfortable working onsite 5 days per week . Your roles & responsibilities: Support the development and maintenance of analytical tools, including forecasts, dashboards and scenario-planning templates. Check data quality, document assumptions and help prepare recurring reports. Collect and analyse market, supplier and commercial data across the portfolio. Identify relevant trends, check key assumptions and summarise findings for review by the team. Contribute to cost models and benchmarks by collecting, validating and analysing relevant data. Help compare supplier pricing and prepare clear insights for sourcing and commercial discussions. Support risk and scenario analysis by preparing data, checking assumptions and updating dashboards and reports. Support analytical and procurement projects by preparing cost analysis, market information and meeting materials. Coordinate timelines, maintain action trackers and support category leads with negotiation preparation. Assist with contingency and risk analysis by gathering inputs, updating scenario models and preparing reports. Coordinate information across teams, maintain action logs and escalate findings or data gaps to the relevant colleagues. Maintain analytical datasets and support external data sources and system integrations. Help keep information accurate, organised and accessible, and document data definitions and processes for procurement, finance and supply-chain teams. Coordinate project updates and prepare dashboards, reports and meeting materials for regional and global stakeholders. Track milestones and follow-up actions, and support senior colleagues with analysis and governance materials. Your skills and experience: 2-5 years of experience in analytics, procurement, supply chain or commercial finance. Previous experience in FMCG, food service, QSR or agri-food for raw materials or direct commodities is an advantage. Experience with digital transformation, data analytics and procurement systems is an advantage. Experience using analytical tools, forecasting methods or data models to support commercial decisions. Exposure to predictive analytics or machine learning is an advantage. Working knowledge of Excel and experience with at least one analytical or visualisation tool, such as Python, R, Power BI or Tableau. Willingness to develop skills in modelling and dashboarding. Understanding of commercial concepts such as pricing, cost drivers or risks. Experience using data sources, research platforms or business intelligence tools is an advantage. Previous exposure to scenario analysis, risk reporting or project coordination in a commercial or operational context is and advantage. Good analytical and project coordination skills, with the ability to work with data, identify trends, organise information and explain findings in a clear and structured way. Clear written and verbal communication skills. Able to prepare concise updates and present analysis to colleagues and stakeholders, with support as needed. Fluent English. Additional languages are an advantage. Benefits at all of our global offices are focused on physical, mental and financial wellness. We offer unique and progressive benefits, including a comprehensive global paid parental leave program that supports employees as they expand their families, free telemedicine and mental wellness support. Restaurant Brands International and all of its affiliated companies (collectively, RBI) are equal opportunity and affirmative action employers that do not discriminate on the basis of race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or veteran status, or any other characteristic protected by local, state, provincial or federal laws, rules, or regulations. RBI's policy applies to all terms and conditions of employment. Accommodation is available for applicants with disabilities upon request.
+
+---
+
+## 3. [MAYBE] Ascensus | Reporting & KPI Analyst
+- Link: https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Lake-Mary-FL/Reporting---KPI-Analyst_R0022867
+- Location: 2 Locations
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~79 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, data visualization, excel, forecast, power bi, python, sql, statistic, tableau, data quality, fraud, healthcare, kpi, reporting | Lacks: -  | Note: broad title
+- Eligibility: CHECK | Newport offers comprehensive plan solutions and consulting expertise to plan sponsors and the advisors who serve them.
+
+### Job description
+
+Newport, an Ascensus company, helps employers offer their associates a more secure financial future through retirement plans , insurance and consulting services . Newport offers comprehensive plan solutions and consulting expertise to plan sponsors and the advisors who serve them. As a provider and partner, Newport is independent, experienced, and responsive. The Reporting & KPI Analyst will play a key role in monitoring, analyzing, and reporting on the organization’s key performance indicators (KPIs) to support data-driven decision-making. This individual will be responsible for developing and maintaining performance dashboards, generating insights, and creating standardized reports to help stakeholders understand trends and measure progress against targets. This role ensures data integrity, timely reporting, and the accuracy of various performance indicators. The Reporting and KPI analyst will also collaborate with cross-functional teams to provide clear insights that support strategic decision-making. Section 2: Job Functions, Essential Duties and Responsibilities Data Collection & Analysis: Gather, process, and analyze data from various sources to produce insights on KPIs and performance metrics. KPI Monitoring: Track and report on KPIs regularly, highlighting variances from targets and identifying areas of opportunity or concern. Reporting & Dashboard Development: Create, maintain, and improve dashboards, scorecards, and visualizations that present KPIs and trends in a clear, actionable format. Collaborative Insights: Work closely with cross-functional teams (e.g., Consulting, Client Services, Accounting, Plan Administration, Operations) to understand their KPI needs and provide insights to guide strategic decisions. Data Quality Assurance: Ensure accuracy, consistency, and reliability of data by conducting regular audits and identifying potential data quality issues. Performance Evaluation: Analyze performance against benchmarks, forecasting future performance trends, and providing recommendations for improvement. Process Improvement: Identify and implement process improvements to streamline reporting, enhance data accuracy, and improve KPI tracking systems. Documentation & Training: Document reporting processes and provide training to users on accessing and interpreting reports. Responsible for protecting, securing, and proper handling of all confidential data held by Ascensus to ensure against unauthorized access, improper transmission, and/or unapproved disclosure of information that could result in harm to Ascensus or our clients. Our I-Client service philosophy and our Core Values of People Matter, Quality First and Integrity Always® should be visible in your actions on a day-to-day basis showing your support of our organizational culture. Supervision N/A Section 3: Experience, Skills, Knowledge Requirements Bachelor’s degree in business, Statistics, Data Analytics, Information Systems, or a related field. Strong understanding of KPI frameworks, data analytics, and business intelligence. Excellent analytical and problem-solving skills with strong attention to detail. Effective communication skills to present findings clearly to non-technical stakeholders. 2+ years of experience in a data analysis or reporting role. Proficiency in data visualization tools (e.g., Power BI, Tableau) and reporting tools (e.g., SQL, Excel). Knowledge of statistical analysis and data modeling is a plus. Experience in a similar industry or domain (e.g., finance, e-commerce, healthcare). Familiarity with ERP or CRM systems and data extraction processes. Experience with scripting or programming languages like Python or R. For all virtual remote positions, in order to ensure associates can effectively perform their job duties with no distractions, we require an uninterrupted virtual workspace and there is also an expectation of family care being in place during business hours. Additionally, there is an internet work speed requirement of 25 Mbps or better for individual use. If more than one person is utilizing the same internet connection in the same household or building, then a stronger connection is required. If you are unsure of your internet speed, please check with your service provider. Note: For call center roles specifically , it is a requirement to either hardwire your equipment directly to the internet router or ensure your workstation is in close proximity to the router. Please ensure that you are able to meet these expectations before applying. We are proud to be an
+
+---
+
+## 4. [MAYBE] Oregon State Government | Power BI Developer (Information Systems Specialist 6)
 - Link: https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Salem--DOJ--Justice-Building/Power-BI-Developer--Information-Systems-Specialist-6-_REQ-209764
 - Location: Salem | DOJ | Justice Building
 - Posted: Nov 16 (board gives the date only)
@@ -62,7 +101,7 @@ Initial Posting Date: 11/16/2026 Application Deadline: 11/30/2026 Agency: Depart
 
 ---
 
-## 3. [MAYBE] CVS Health | Decision Scientist (Automation & Optimization)
+## 5. [MAYBE] CVS Health | Decision Scientist (Automation & Optimization)
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Illinois/Decision-Scientist--Automation---Optimization-_R1053070
 - Location: Work At Home-Illinois
 - Posted: Nov 16 (board gives the date only)
@@ -77,7 +116,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 4. [MAYBE] S&P Global | Analyst, Analytic Quality & Validation
+## 6. [MAYBE] S&P Global | Analyst, Analytic Quality & Validation
 - Link: https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Analyst--Analytic-Quality---Validation_332930-1
 - Location: New York, NY
 - Posted: Nov 16 (board gives the date only)
@@ -92,7 +131,7 @@ About the Role: Grade Level (for internal use): 11 Company Name: Standard & Poor
 
 ---
 
-## 5. [MAYBE] CNA Insurance | Business Intelligence Developer
+## 7. [MAYBE] CNA Insurance | Business Intelligence Developer
 - Link: https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Scottsdale-AZ-USA/Business-Intelligence-Developer_R-7872
 - Location: 2 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -107,7 +146,7 @@ You have a clear vision of where your career can go. And we have the leadership 
 
 ---
 
-## 6. [MAYBE] Deutsche Bank | Structured Finance Investment Analyst (RMBS & CMBS)
+## 8. [MAYBE] Deutsche Bank | Structured Finance Investment Analyst (RMBS & CMBS)
 - Link: https://db.wd3.myworkdayjobs.com/DBWebsite/job/New-York-875-Third-Avenue/Structured-Finance-Analyst---RMBS---CMBS_R0445205-1
 - Location: New York, 875 Third Avenue
 - Posted: Nov 16 (board gives the date only)
@@ -122,7 +161,7 @@ Job Description: Employer: Deutsche Asset Management Title: Structured Finance I
 
 ---
 
-## 7. [MAYBE] City of New York | OEI Research Assistant, Bureau of Environmental Disease Prevention
+## 9. [MAYBE] City of New York | OEI Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016898596
 - Location: New York City NY us
 - Posted: Nov 17 06:13 ET
@@ -137,7 +176,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 8. [MAYBE] Anglian Water | Data Engineer
+## 10. [MAYBE] Anglian Water | Data Engineer
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Lincoln/Data-Engineer_R41065
 - Location: 2 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -152,7 +191,7 @@ Salary starting from £46k, salary dependant on skills and experience Permanent 
 
 ---
 
-## 9. [MAYBE] Manulife Financial | Associate Data Scientist
+## 11. [MAYBE] Manulife Financial | Associate Data Scientist
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Chengdu-Sichuan/Associate-Data-Scientist_JR26110217
 - Location: Chengdu, Sichuan
 - Posted: Nov 16 (board gives the date only)
@@ -167,7 +206,7 @@ Responsibilities: • Actively participates on cross-functional project teams de
 
 ---
 
-## 10. [MAYBE] Dell Technologies | Inside Product Specialist - Early Career
+## 12. [MAYBE] Dell Technologies | Inside Product Specialist - Early Career
 - Link: https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302716
 - Location: Round Rock, TX, United States US
 - Posted: Nov 17 (board gives the date only)
@@ -182,7 +221,7 @@ Position Overview We are seeking an enthusiastic and tech-savvy recent college g
 
 ---
 
-## 11. [MAYBE] Legal & General | Associate, Investment Analytics, L&G - Asset Management, America
+## 13. [MAYBE] Legal & General | Associate, Investment Analytics, L&G - Asset Management, America
 - Link: https://jobs.smartrecruiters.com/LegalAndGeneral/744000161933889
 - Location: Chicago IL us
 - Posted: Nov 16 18:23 ET
@@ -197,7 +236,7 @@ The LGIMA Investment Analytics team is responsible for providing market-leading 
 
 ---
 
-## 12. [MAYBE] Texas A&M University - College Station | Research Assistant
+## 14. [MAYBE] Texas A&M University - College Station | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098073-1
 - Location: College Station, TX
 - Posted: Nov 16 (board gives the date only)
@@ -212,7 +251,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 13. [MAYBE] Texas A&M University System | Research Assistant
+## 15. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098073
 - Location: College Station, TX
 - Posted: Nov 16 (board gives the date only)
@@ -227,7 +266,22 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 14. [MAYBE] TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety
+## 16. [MAYBE] Boston Medical Center | Post Doc Research Fellow, Ophthalmology
+- Link: https://bmc.wd1.myworkdayjobs.com/BMC/job/Boston/Post-Doc-Research-Fellow--Ophthalmology_51389
+- Location: Boston
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 18 in data/analytics/finance occupations
+- Type: full-time (40 h/week stated)
+- Title scope: core | Has: excel, statistic, publication, quantitative, research | Lacks: -  | Note: early-talent program
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Position : Post Doc Research Fellow Department : Ophthalmology Location: Boston, MA Schedule : 40 hours per week, On-site POSITION SUMMARY: Plans and executes clinical studies. Implements and modifies experimental protocols. Performs data analyses. Interprets experimental results, prepares and writes manuscripts in conjunction with principal investigators. In collaboration with PI and other researchers, presents research findings at sectional and national meetings. Assists in general clinical functions of the department as part of ongoing training. JOB RESPONSIBILITIES: Performs analyses of clinical case data with the goal of evaluating research methods. Assists in the design of protocols and the selection of analysis techniques. Assists in awarded clinical trials by pre-screening potential participants and coordinating research visits. Advises other staff on method development, troubleshooting and modifying research protocols, and the writing of abstracts. Collaboratively designs experimental protocols to obtain research objectives. Develops, implements, troubleshoots, and modifies methodologies as necessary. Records and analyzes data using statistical software. Participates in the interpretation of results through conferences with the Principal Investigators and other researchers. Collaborates in the writing of abstracts and manuscripts. Participates in the presentation of research reports at national and local meetings. Carries out independent literature searches in order to locate new techniques or other results. Undertakes ongoing clinical training through self-study as well as mentoring by other members of the staff. Conforms to hospital standards of performance and conduct, including those pertaining to patient rights, so that the best possible customer service and patient care may be provided. Utilizes hospital’s Values as the basis for decision-making and to facilitate the division’s hospital mission. Follows established hospital infection control and safety procedures. Performs other tasks as needed. (The above statements in this job description are intended to depict the general nature and level of work assigned to the employee(s) in this job. The above is not intended to represent an exhaustive list of accountable duties and responsibilities required). JOB REQUIREMENTS EDUCATION: MD degree in medicine, ophthalmology, vision science, neuroscience, or a related biomedical field. EXPERIENCE: Demonstrated research experience in ophthalmology, particularly corneal diseases, ocular surface disorders, corneal neuropathy, or neurotrophic keratopathy Experience with in vivo confocal microscopy (IVCM) , i ncluding corneal nerve imaging, epithelial cell assessment, and quantitative image analysis Familiar with Image J Software and publications with nerve quantifications Experience with clinical research protocols, data collection, literature review, scientific manuscript preparation, and research database management. Clinical and Translational Research: Experience contributing to retrospective clinical studies, case series, and interdisciplinary investigations involving ophthalmic diseases. Systematic Reviews and Evidence Synthesis: Publication experience involving systematic reviews, meta-analyses, and critical evaluation of clinical research literature. Pediatric Neurotrophic Keratopathy: Published research involving pediatric neurotrophic keratopathy, corneal opacities, amblyopia, visual outcomes, and treatment with recombinant human nerve growth factor. Corneal Inflammation and Complex Ocular Surface Disease: First-author publication experience involving severe peripheral corneal thinning, refractory scleritis, corneal transplantation, and multimodal immunosuppressive treatment. Ocular Immunology and Infectious Eye Disease: First-author publication/publications experience investigating varicella-zoster virus-associated anterior uveitis, molecular diagnosis, and treatment outcomes. KNOWLEDGE AND SKILLS: A record of scientific productivity, including peer-reviewed publications, abstracts, or presentations at national or international scientific meetings. Research interests aligned with corneal neurobiology, neuroinflammation, limbal stem cell deficiency, and the identification of imaging biomarkers for early disease detection. Familiarity with corneal imaging technologies, image-processing software, and quantitative assessment of corneal nerves and cellular morphology. Ability to contribute to grant-supported research projects, prospective clinical studies, and multidisciplinary collaborations. Strong analytical, organizational, scientific writing, and communication skills. Ability to work collaboratively across Boston Medical Center, Boston University, and Boston Children's Hospital research teams.· Research experience in epidermolysis bullosa (EB), particularly its ocular manifestations, corneal nerve degeneration, and microstructural abnormalities evaluated through in vivo confocal microscopy. Scientific Publications and Manuscript Preparation: Demonstrated ability to contribute to peer-reviewed scientific publications, including first-author and coauthor manuscripts in ophthalmology journals. Interdisciplinary Research Collaboration: Demonstrated participation in collaborative research spanning ophthalmology, dermatology, and other medical specialties. Research Interests: Documented publication interests encompassing corneal nerve abnormalities, ocular surface disease, pediatric corneal disorders, ocular inflammation, and translational imaging research. Extensive knowledge of basic sciences, including pure or applied physics and mathematics. Requires proficiency with standard Microsoft programs and statistical analysis tools. Requires thorough knowledge of scientific principles, the ability to solve technical problems, and strong analytical skills commensurate with the collaborative execution of research projects. Must possess excellent oral and written communication skills and the ability to collaborate effectively with personnel from various specialties. Must demonstrate motivation to contribute strongly to the research effort as well as to develop personal skills relevant to independent work in a clinical setting. Boston Medical Center
+
+---
+
+## 17. [MAYBE] TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety
 - Link: https://lifeattiktok.com/search/7574962733457443125
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -261,7 +315,7 @@ Preferred Qualifications
 
 ---
 
-## 15. [MAYBE] TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start
+## 18. [MAYBE] TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start
 - Link: https://lifeattiktok.com/search/7668663594419374341
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -298,7 +352,7 @@ By submitting an application for this role, you accept and agree to our global a
 
 ---
 
-## 16. [MAYBE] Google | Research Scientist, Error Correction Experiments, Quantum AI
+## 19. [MAYBE] Google | Research Scientist, Error Correction Experiments, Quantum AI
 - Link: https://www.google.com/about/careers/applications/jobs/results/141343429106770630
 - Location: Goleta, CA, USA
 - Posted: Nov 17 03:09 ET
@@ -313,7 +367,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 17. [MAYBE] Pernod Ricard créateurs de convivialité | Master Data Analyst
+## 20. [MAYBE] Pernod Ricard créateurs de convivialité | Master Data Analyst
 - Link: https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Dumbarton/Master-Data-Analyst_JR-055616-1
 - Location: Dumbarton
 - Posted: Nov 16 (board gives the date only)
@@ -328,7 +382,37 @@ Master Data Analyst Your Manager: Master Data Lead Team: Planning, Supply Chain 
 
 ---
 
-## 18. [MAYBE] Kemin | Job Title Research Associate
+## 21. [MAYBE] Texas A&M AgriLife Research | Research Associate
+- Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/Dallas-TX/Research-Associate_R-098870-1
+- Location: Dallas, TX
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 4 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: llm, statistic, publication, research | Lacks: -
+- Eligibility: CHECK | Important Notice Regarding H1-B Sponsorship: Your employment at Texas A&M AgriLife may require nonimmigrant sponsorship. / A Presidential proclamation issued on September 19, 2025, imposes a $100,000 fee on new H-1B petitions filed after September 21, 2025.
+
+### Job description
+
+Job Title Research Associate Agency Texas A&M Agrilife Research Department Dallas Proposed Minimum Salary Commensurate Job Location Dallas, Texas Job Type Staff Job Description About Texas A&M AgriLife Texas A&M AgriLife is comprised of the following Texas A&M University System members: Texas A&M AgriLife Extension Service Texas A&M AgriLife Research College of Agriculture and Life Sciences at Texas A&M University Texas A&M Forest Service Texas A&M Veterinary Medical Diagnostic Laboratory As the nation’s largest most comprehensive agriculture program, Texas A&M AgriLife brings together a college and four state agencies focused on agriculture and life sciences within The Texas A&M University System. With over 5,000 employees and a presence in every county across the state, Texas A&M AgriLife is uniquely positioned to improve lives, environments and the Texas economy through education, research, extension and service. Click here to learn more about joining AgriLife! Job Summary: The Turfgrass Breeding program https://dallas.tamu.edu/research/turf/ at Texas A&M AgriLife Research and Extension Center in Dallas https://dallas.tamu.edu/ invites applications for a Research Associate to join an interdisciplinary research program. The position will contribute to the development and phenotypic characterization of warm- and cool-season turfgrasses with enhanced adaptation, biotic and abiotic stress tolerance, and turfgrass quality. This position provides an opportunity to work across the continuum from crossing and population development to phenotyping leading to new and improved cultivar development. This position is funded through external grants and/or contracts, which are subject to renewal at the discretion of the grantor or contracting agency. Continued employment is contingent upon the ongoing availability and renewal of funding, as well as employees' satisfactory job performance. Responsibilities: Hybridization (inter- and intra-) to develop new hybrids in zoysiagrass and St. Augustinegrass Data collection (field and greenhouse) for various morphological, seasonal, biotic and abiotic traits Assist and coordinate in the design and conduct of the experiment, statistically analyze data, and write draft manuscripts for publications Implement research protocols, which include plot setup, treatment application and data collection Procurement of supplies from vendors Supervision of part-time/wage-payroll employees assisting with greenhouse maintenance of turfgrass breeding material Management of trials/breeding nurseries, as needed Other duties assigned Qualifications: Required Education and Experience: M.S. degree in Plant Breeding, Genetics, Agronomy, Turfgrass Science or related field. Familiarity with appropriate laboratory, farm and/or technical equipment. Ability to effectively utilize a computer and applicable software to create databases, perform statistical analyses, present data and perform other computer related tasks. Ability to communicate effectively. Ability to establish effective working relationships. Ability to multi-task and work cooperatively with others. Preferred Qualifications: The ideal candidate will have a M.S degree with 2-years’ experience in the field or a Ph.D. in Plant Breeding, Genetics, Agronomy, Turfgrass Science, or a related field. Strong statistical skills are highly desirable. Experience with crossing techniques is preferred. Other Requirements: Travels to various field site locations. Ability to lift or move light, moderate, or heavy objects. Ability to work outdoors in variable weather conditions. What You Need to Know Salary: Compensation is commensurate with the candidate’s qualifications. Position Funding: This is funded through grants or contracts. Funding for this position is anticipated through December 31, 2029. Employment is contingent upon the continued availability of funding and satisfactory job performance. Flexible Work Arrangements: This position is not eligible for remote work. Important Notice Regarding H1-B Sponsorship: Your employment at Texas A&M AgriLife may require nonimmigrant sponsorship. A Presidential proclamation issued on September 19, 2025, imposes a $100,000 fee on new H-1B petitions filed after September 21, 2025. Texas A&M AgriLife will NOT pay this fee. If the fee is imposed on your petition, this offer of employment will be revoked. If actions taken during your employment result in the imposition of this fee, your employment will be terminated. To the extent that this statement conflicts with any applicable System or member Policy, Regulation, or Rule, this statement will control. We recommend that you consult with your private immigration counsel at your own expense regarding potential implications. In addition, on January 27, 2026, Texas Governor Abbott issued a moratorium on the filing of any new H-1B unless approved by the Texas Workforce Commission. Accordingly, if you will now or in the future require sponsorship for employment visa status this moratorium may affect our ability to employ you should you be selected as the final candidate. Benefits and Leave: Health, dental, vision, life and long-term disability insurance (AgriLife contributes to premiums) 12–15 annual paid holidays Up to 8 hours/month sick leave and at least 8 hours/month vacation Automatic enrollment in the Teacher Retirement System of Texas Employee Wellness Initiative Access to ongoing professional development and training through Aspire, LinkedIn Learning, and internally developed programs How to Apply Applications must include all job application data or a complete resume. Incomplete applications may be rejected. Applicants are encouraged to upload a resume or use LinkedIn to prepopulate application fields. Required Documents: CV / Resume Cover Letter List of References Certifications / Additional Documentation (if applicable) All positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check. Equal Opportunity/Veterans/Disability Employer.
+
+---
+
+## 22. [MAYBE] Texas A&M University System | Research Associate
+- Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Dallas-TX/Research-Associate_R-098870
+- Location: Dallas, TX
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: llm, statistic, publication, research | Lacks: -
+- Eligibility: CHECK | Important Notice Regarding H1-B Sponsorship: Your employment at Texas A&M AgriLife may require nonimmigrant sponsorship. / A Presidential proclamation issued on September 19, 2025, imposes a $100,000 fee on new H-1B petitions filed after September 21, 2025.
+
+### Job description
+
+Job Title Research Associate Agency Texas A&M Agrilife Research Department Dallas Proposed Minimum Salary Commensurate Job Location Dallas, Texas Job Type Staff Job Description About Texas A&M AgriLife Texas A&M AgriLife is comprised of the following Texas A&M University System members: Texas A&M AgriLife Extension Service Texas A&M AgriLife Research College of Agriculture and Life Sciences at Texas A&M University Texas A&M Forest Service Texas A&M Veterinary Medical Diagnostic Laboratory As the nation’s largest most comprehensive agriculture program, Texas A&M AgriLife brings together a college and four state agencies focused on agriculture and life sciences within The Texas A&M University System. With over 5,000 employees and a presence in every county across the state, Texas A&M AgriLife is uniquely positioned to improve lives, environments and the Texas economy through education, research, extension and service. Click here to learn more about joining AgriLife! Job Summary: The Turfgrass Breeding program https://dallas.tamu.edu/research/turf/ at Texas A&M AgriLife Research and Extension Center in Dallas https://dallas.tamu.edu/ invites applications for a Research Associate to join an interdisciplinary research program. The position will contribute to the development and phenotypic characterization of warm- and cool-season turfgrasses with enhanced adaptation, biotic and abiotic stress tolerance, and turfgrass quality. This position provides an opportunity to work across the continuum from crossing and population development to phenotyping leading to new and improved cultivar development. This position is funded through external grants and/or contracts, which are subject to renewal at the discretion of the grantor or contracting agency. Continued employment is contingent upon the ongoing availability and renewal of funding, as well as employees' satisfactory job performance. Responsibilities: Hybridization (inter- and intra-) to develop new hybrids in zoysiagrass and St. Augustinegrass Data collection (field and greenhouse) for various morphological, seasonal, biotic and abiotic traits Assist and coordinate in the design and conduct of the experiment, statistically analyze data, and write draft manuscripts for publications Implement research protocols, which include plot setup, treatment application and data collection Procurement of supplies from vendors Supervision of part-time/wage-payroll employees assisting with greenhouse maintenance of turfgrass breeding material Management of trials/breeding nurseries, as needed Other duties assigned Qualifications: Required Education and Experience: M.S. degree in Plant Breeding, Genetics, Agronomy, Turfgrass Science or related field. Familiarity with appropriate laboratory, farm and/or technical equipment. Ability to effectively utilize a computer and applicable software to create databases, perform statistical analyses, present data and perform other computer related tasks. Ability to communicate effectively. Ability to establish effective working relationships. Ability to multi-task and work cooperatively with others. Preferred Qualifications: The ideal candidate will have a M.S degree with 2-years’ experience in the field or a Ph.D. in Plant Breeding, Genetics, Agronomy, Turfgrass Science, or a related field. Strong statistical skills are highly desirable. Experience with crossing techniques is preferred. Other Requirements: Travels to various field site locations. Ability to lift or move light, moderate, or heavy objects. Ability to work outdoors in variable weather conditions. What You Need to Know Salary: Compensation is commensurate with the candidate’s qualifications. Position Funding: This is funded through grants or contracts. Funding for this position is anticipated through December 31, 2029. Employment is contingent upon the continued availability of funding and satisfactory job performance. Flexible Work Arrangements: This position is not eligible for remote work. Important Notice Regarding H1-B Sponsorship: Your employment at Texas A&M AgriLife may require nonimmigrant sponsorship. A Presidential proclamation issued on September 19, 2025, imposes a $100,000 fee on new H-1B petitions filed after September 21, 2025. Texas A&M AgriLife will NOT pay this fee. If the fee is imposed on your petition, this offer of employment will be revoked. If actions taken during your employment result in the imposition of this fee, your employment will be terminated. To the extent that this statement conflicts with any applicable System or member Policy, Regulation, or Rule, this statement will control. We recommend that you consult with your private immigration counsel at your own expense regarding potential implications. In addition, on January 27, 2026, Texas Governor Abbott issued a moratorium on the filing of any new H-1B unless approved by the Texas Workforce Commission. Accordingly, if you will now or in the future require sponsorship for employment visa status this moratorium may affect our ability to employ you should you be selected as the final candidate. Benefits and Leave: Health, dental, vision, life and long-term disability insurance (AgriLife contributes to premiums) 12–15 annual paid holidays Up to 8 hours/month sick leave and at least 8 hours/month vacation Automatic enrollment in the Teacher Retirement System of Texas Employee Wellness Initiative Access to ongoing professional development and training through Aspire, LinkedIn Learning, and internally developed programs How to Apply Applications must include all job application data or a complete resume. Incomplete applications may be rejected. Applicants are encouraged to upload a resume or use LinkedIn to prepopulate application fields. Required Documents: CV / Resume Cover Letter List of References Certifications / Additional Documentation (if applicable) All positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check. Equal Opportunity/Veterans/Disability Employer.
+
+---
+
+## 23. [MAYBE] Kemin | Job Title Research Associate
 - Link: https://careers-kemin.icims.com/jobs/12604/research-associate/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -343,7 +427,7 @@ Research Associate in Parma | Careers at EMENA Region Please Enable Cookies to C
 
 ---
 
-## 19. [MAYBE] Pfizer | Associate, AI Engineering
+## 24. [MAYBE] Pfizer | Associate, AI Engineering
 - Link: https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-Kingdom---Walton-Oaks/Associate--AI-Engineering_4966818-2
 - Location: 2 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -358,7 +442,22 @@ This is an early-career engineering job where your work ends up in front of the 
 
 ---
 
-## 20. [MAYBE] University of Louisville | Temporary Research Assistant (Part Time)
+## 25. [MAYBE] Cencora | Contract Administration & Data Analytics Analyst
+- Link: https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Ohio/Contract-Administration---Data-Analytics-Analyst_R2618060
+- Location: Remote, Ohio
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~42 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: temporary/contract
+- Title scope: core | Has: dashboard, excel, sql, data quality, futures, git, healthcare, portfolio, reporting, risk | Lacks: alteryx, databricks, salesforce, sap  | Note: temporary or contract: confirm it is W-2 with an E-Verify employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere. Apply today! Job Details This role is in support of American Health Packaging, a Cencora business offering pharma packaging services in the US. This is a remote role but required to be in Eastern Time Zone. Under the general direction of the Senior Manager of Portfolio Management, the Contract Administration & Data Analytics Analyst is responsible for overseeing contract lifecycle management, providing business insights through data analytics, and leading continuous improvement initiatives that enhance operational performance. This role serves as a key liaison between Commercial, Finance, Operations, IT, and Customer teams to ensure contract compliance, data integrity, process efficiency, and business alignment. The position combines contract administration expertise with analytical capabilities to identify trends, improve decision-making, and drive strategic initiatives that increase productivity, reduce risk, and improve customer satisfaction. Continuous improvement and automation opportunities are a core focus of the role. Contract Administration Independently manages portfolio activities for American Health Packaging and BluePoint Labs product lines. Identify, implement and communicate customer contract Add/Change/Delete activities. Actively manages multiple customer contracts including understanding contract terms, interface with Sales Managers to resolve any contract discrepancies or issues and ensuring compliance with contract terms and obligations. Maintain contract documentation and ensure accuracy across internal systems. Serve as a point of contact for Sales, Legal, Finance, Operations, and customers regarding contract-related inquiries. Conduct periodic contract audits and identify opportunities for process enhancements and risk mitigation. Develop and maintain standard operating procedures (SOPs), work instructions, and process documentation. Data Analytics & Business Intelligence Supports standardized reporting functions. Analyze operational, financial, customer, and portfolio performance data to identify trends and business opportunities. Aid in the development and maintenance of dashboards and reports using business intelligence tools. Perform ad hoc analyses related to pricing, customer contracts, product portfolios, and business performance. Partner with stakeholders and BIA to define reporting requirements and analytical solutions. Validate data quality and implement controls to improve accuracy and reliability. Continuous Improvement & Process Excellence Apply AI tools and technologies to improve contract management, document review, data extraction, and reporting processes. Identify, evaluate, and implement automation opportunities across contract administration processes. Identify workflow inefficiencies and implement process improvements to increase productivity and reduce cycle times. Partner with IT and business teams to implement automation tools and digital solutions. Drive change management efforts and support user adoption of new processes and technologies. Partner with BIA to facilitate cross-functional projects focused on operational excellence and customer experience improvements. Standardize best practices across business functions and promote a culture of continuous improvement. Education & Experience: Bachelor's degree in Business Administration, Finance, Analytics, Supply Chain, Operations Management, or related field. 2+ years experience in contract administration, business operations, business analytics, or process improvement. Experience with PowerBI, Alteryx, Databricks, Dataiku, Business Objects, or other BI platforms. SQL knowledge is recommended. SAP, SalesForce, and IQVIA knowledge is beneficial. Advanced Microsoft Excel skills required. Excellent communication and stakeholder management skills. Experience in healthcare, pharmaceutical, distribution, manufacturing, or regulated industries. Hands-on experience with automation, AI-enabled solutions, or continuous improvement methods. Core Competencies Contract Administration & Compliance Strong analytical and problem-solving capabilities. Data Analytics & Business Intelligence Continuous Improvement & Process Optimization Automation & Digital Transformation Strategic Thinking Cross-Functional Collaboration What Cencora offers We provide compensation, benefits, and resources that enable a highly inclusive culture and support our team members’ ability to live with purpose every day. In addition to traditional offerings like medical, dental, and vision care, we also provide a comprehensive suite of benefits that focus on the physical, emotional, financial, and social aspects of wellness. This encompasses support for working families, which may include backup dependent care, adoption assistance, infertility coverage, family building support, behavioral health solutions, paid parental leave, and paid caregiver leave. To encourage your personal growth, we also offer a variety of training programs, professional development resources, and opportunities to participate in mentorship programs, employee resource groups, volunteer activities, and much more. For details, visit https://www.virtualfairhub.com/cencora Full time Equal Employment Opportunity Cencora is committed to providing equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status or membership in any other class protected by federal, state or local law. The company’s continued success depends on the full and effective utilization of qualified individuals. Therefore, harassment is prohibited and all matters related to recruiting, training, compensation, benefits, promotions and transfers comply with equal opportunity principles and are non-discriminatory. Cencora is committed to providing
+
+---
+
+## 26. [MAYBE] University of Louisville | Temporary Research Assistant (Part Time)
 - Link: https://uofl.wd1.myworkdayjobs.com/UofLCareerSite/job/Belknap-Campus/Temporary-Research-Assistant--Part-Time-_R109732
 - Location: Belknap Campus
 - Posted: Nov 16 (board gives the date only)
@@ -373,7 +472,7 @@ Department: Early Childhood Research Center-JM Location: Belknap Campus Time Typ
 
 ---
 
-## 21. [MAYBE] Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab)
+## 27. [MAYBE] Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab)
 - Link: https://seattlechildrens.wd5.myworkdayjobs.com/External/job/Seattle-WA/Research-Associate-I---Bench--Kalia-Lab-_R264858
 - Location: Seattle, WA
 - Posted: Nov 16 (board gives the date only)
@@ -388,7 +487,7 @@ A Research Associate I-Bench position focusing on translational discoveries in T
 
 ---
 
-## 22. [MAYBE] ING | Data Analyst
+## 28. [MAYBE] ING | Data Analyst
 - Link: https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bratislava/Data-Analyst_REQ-10121029-1
 - Location: Bratislava
 - Posted: Nov 16 (board gives the date only)
@@ -403,7 +502,37 @@ The opportunity ING Wholesale Banking (WB) has been helping clients across the w
 
 ---
 
-## 23. [MAYBE] Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design
+## 29. [MAYBE] Truist Bank | Institutional Investment Analyst I
+- Link: https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Analyst-I_R0119462
+- Location: 3 Locations
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 99 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: classification, portfolio, reporting, research, risk, trading | Lacks: cfa
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communications. If you already have a profile with us, you can log in to check status. Need Help? If you have a disability and need assistance with the application, you can request a reasonable accommodation. Send an email to Accessibility (accommodation requests only; other inquiries won't receive a response). Regular or Temporary: Regular Language Fluency: English (Required) Work Shift: 1st shift (United States of America) Please review the following job description: The Investment Analyst (IA) partners with Senior Institutional Investment Managers (SIIM) and the Investment Advisory Group (IAG) to support the delivery of sophisticated investment advisory and portfolio management services to institutional clients across the Truist footprint. The role supports a team focused on public, non-profit and private institutions with investable assets generally exceeding $25 million, as well as specialized Dealer Trust Services relationships. The Institutional Investment Analyst serves as a key investment resource, providing portfolio analysis, investment research, performance reporting, client presentation support, and ongoing portfolio management assistance. The position plays an integral role in client retention, business development, fiduciary oversight, investment policy implementation, and the delivery of a consistent institutional client experience. Essential Duties and Responsibilities The following is a summary of the primary responsibilities associated with this role. Additional duties may be assigned as business needs evolve. 1. Portfolio Management and Investment Analysis Support Senior Institutional Investment Managers in the construction, implementation, monitoring, and maintenance of institutional investment portfolios. Conduct investment analysis, portfolio reviews, asset allocation assessments, manager due diligence, and performance evaluations to help ensure portfolios remain aligned with client objectives and investment policy guidelines. 2. Institutional Client Servicing Prepare institutional investment reviews, committee materials, performance reports, and market commentary for clients. Participate in client meetings, investment committee presentations, and ongoing client communications while assisting in the delivery of advice-driven investment solutions. 3. Business Development Support Partner with Senior Institutional Investment Managers in new business development efforts by analyzing prospective client portfolios, preparing investment recommendations, conducting comparative portfolio analyses, and developing presentation materials for prospect and finalist meetings. 4. Investment Policy and Fiduciary Support Assist in the development, implementation, and ongoing monitoring of Investment Policy Statements (IPS). Identify portfolio variances relative to investment objectives, risk parameters, and policy guidelines, and work with Senior Institutional Investment Managers to recommend appropriate actions. 5. Trading and Portfolio Implementation Support portfolio implementation activities, including trading execution, cash management, rebalancing, manager transitions, and investment strategy updates. Ensure all activities are completed in accordance with Truist policies, fiduciary standards, and applicable regulatory requirements. 6. Dealer Trust Services Support Provide specialized analytical and portfolio support for Dealer Trust Services relationships, including investment reporting, cash flow analysis, portfolio implementation, performance monitoring, and client communications related to dealer reserve and trust investment programs. 7. Risk Management and Compliance Actively participate in risk management and compliance activities by maintaining appropriate documentation, supporting account reviews, monitoring adherence to client guidelines, and ensuring compliance with Truist policies, regulatory requirements, and fiduciary responsibilities. 8. Collaboration and Partnership Work closely with Senior Institutional Investment Managers, the Investment Advisory Group, Wealth teammates, Product Specialists, Compliance, Operations, and other partners to deliver integrated solutions and a high-quality client experience. The annual base salary for this position is $80,000 - $92,500 Qualifications Required Qualifications: The requirements listed below are representative of the knowledge, skill and/or ability required.
+
+---
+
+## 30. [MAYBE] Truist Bank | Data Scientist II (Compliance Testing)
+- Link: https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Data-Scientist-II--Compliance-Testing-_R0121704
+- Location: 4 Locations
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~70 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 99 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: data visualization, econometric, excel, machine learning, power bi, probability, python, r, spark, sql, statistic, tableau, classification, quantitative | Lacks: hadoop, sas  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communications. If you already have a profile with us, you can log in to check status. Need Help? If you have a disability and need assistance with the application, you can request a reasonable accommodation. Send an email to Accessibility (accommodation requests only; other inquiries won't receive a response). Regular or Temporary: Regular Language Fluency: English (Required) Work Shift: 1st shift (United States of America) Please review the following job description: Perform sophisticated analytics (statistical and predictive analytics, machine learning modeling, etc.) to provide actionable insights that improve business outcomes and minimize risk and also provide consultation to business leaders and other stakeholders on how to leverage analytics insights and build strategies around analytics. This position will sit in-office 5 days a week at one of the locations listed. No remote option available. ESSENTIAL DUTIES AND RESPONSIBILITIES Following is a summary of the essential functions for this job. Other duties may be performed, both major and minor, which are not mentioned below. Specific activities may change from time to time. 1. Independently perform sophisticated data analytics (ranging from classical econometrics to machine learning, neural networks, and natural language processing) in a variety of environments using structured and unstructured data. 2. Produce compelling data visualizations to communicate insights and influence outcomes among a wide array of stakeholders. 3. Take accountability and ownership of end-to-end data science solution design, technical delivery, and measurable business outcome. 4. Engage in stakeholder meetings to identify business objectives and scope solution requirements. 5. Independently write, document, and deploy custom code in a variety of environments (Python, SAS, R, etc.) to create predictive analytics applications. 6. Use, maintain, share and collaborate through Truist internal code repositories to foster continual learning and cross-pollination of skillsets. 7. Actively research and advocate adoption of emerging methods and technologies in the data science field, with the eye of continually advancing Truist’s capabilities. 8. Exercise sound judgment and foster risk management culture throughout design, development, and deployment practices; partner with cross-functional teams to coordinate rules on data usage, data governance and analytics capabilities. QUALIFICATIONS Required Qualifications: The requirements listed below are representative of the knowledge, skill and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. 1. Bachelor’s degree and four or more years of experience in a quantitative field such as Finance, Mathematics, Analytics, Data Science, Computer Science, or Engineering, or equivalent education and related training 2. Exhibit understanding of statistical methods, including a broad understanding of classical statistics, probability theory, econometrics, time-series, and primary statistical tests 3. Familiarity with linear algebra concepts for optimization, complex matrix operations, eigenvalue decompositions, and principal components; working knowledge of calculus/differential equations, with understanding of stochastic processes 4. Demonstrate understanding of data cleansing and preparation methodologies, including regex, filtering, indexing, interpolation, and outlier treatment 5. Strong familiarity with data extraction in a variety of environments (SQL, JQuery, etc.) 6. Working knowledge of Hadoop, Pig, Hive, and/or NoSQL, Spark 7. Experience in managing multiple projects with tight deadlines in a collaborative environment Preferred Qualifications: 1. Advanced analytical and data visualization skills, such as Excel (advanced formulas, PivotTables, Power Query) and/or business intelligence tools (Tableau, Power BI). 2. Experience with developing and evaluating Artificial Intelligence (AI) solutions to supplement analysis of data. 3. Relevant experience and advanced professional certification(s), specialized training, or an advanced degree in analytics, data science, or a related field. 4. Previous experience in the banking or fin-tech industry To comply with the Virginia pay transparency statute and for work locations in Virginia only, the annual base salary for this position is $115,000-$120,000. OTHER JOB REQUIREMENTS / WORKING CONDITIONS Sitting Constantly (More than 50% of the time) Visual / Audio / Speaking Able to access and interpret client information received from the computer and able to hear and speak with individuals in person and on the phone. Manual Dexterity / Keyboarding Able to work standard office equipment, including PC keyboard and mouse, copy/fax machines, and printers. Availability Able to work all hours scheduled, including overtime as directed by manager/supervisor and required by business need. Travel Minimal and up to 10% General Description of Available Benefits for Eligible Employees of Truist Financial Corporation: All regular teammates (not temporary or contingent workers) working 20 hours or more per week are eligible for benefits, though eligibility for specific benefits may be determined by the division of Truist offering the position. Truist offers medical, dental, vision, life insurance, disability, accidental death and dismemberment, tax-preferred savings accounts, and a 401k plan to teammates. Teammates also receive no less than 10 days of vacation (prorated based on date of hire and by full-time or part-time status) during their first year of employment, along with 10 sick days (also prorated), and paid holidays. For more details on Truist’s generous benefit plans, please visit our Benefits site . Depending on the position and division, this job may also be eligible for Truist’s defined benefit pension plan, restricted stock units, and/or a deferred compensation plan. As you advance through the hiring process, you will also learn more about the specific benefits available for any non-temporary position for which you apply, based on full-time or part-time status, position, and division of work. Truist
+
+---
+
+## 31. [MAYBE] Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design
 - Link: https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Senior-Scientist--Machine-Learning-and-Algorithm-Development-for-RNA-Design_R20182
 - Location: see posting
 - Posted: Nov 16 (board gives the date only)
@@ -418,7 +547,7 @@ The Role Moderna is seeking a computational scientist to develop artificial inte
 
 ---
 
-## 24. [MAYBE] Natera | Research Associate 2
+## 32. [MAYBE] Natera | Research Associate 2
 - Link: https://job-boards.greenhouse.io/natera/jobs/6250593004
 - Location: Boulder, CO
 - Posted: Nov 16 18:51 ET
@@ -433,7 +562,7 @@ LOCATION : On-Site in Boulder, CO (Foresight Dx business unit, a Natera company)
 
 ---
 
-## 25. [MAYBE] GE Healthcare | Senior AI Engineer
+## 33. [MAYBE] GE Healthcare | Senior AI Engineer
 - Link: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Staff-Machine-Learning-Engineer_R4042375-1
 - Location: Haifa HEALTHCARE HA IL 2
 - Posted: Nov 16 (board gives the date only)
@@ -445,4 +574,19 @@ LOCATION : On-Site in Boulder, CO (Foresight Dx business unit, a Natera company)
 ### Job description
 
 Job Description Summary The Senior AI Engineer is a senior technical leader responsible for designing, developing, and deploying production-grade AI systems for GE Healthcare medical imaging products. This role focuses on vision-language models, diffusion models, and multimodal learning, working closely with data scientists, software engineers, product leaders, and clinical experts to turn advanced AI methods into robust product capabilities. Job Description The Senior AI Engineer is a senior technical leader responsible for designing, developing, and deploying production-grade AI systems for GE HealthCare medical imaging products. This role focuses on vision-language models, diffusion models, and multimodal learning, working closely with data scientists, software engineers, product leaders, and clinical experts to turn advanced AI methods into robust product capabilities. Key Responsibilities Design, implement, and productionize AI models for clinical applications, including vision and diffusion models. Own end-to-end model lifecycle: data ingestion, training, evaluation, deployment, monitoring, and iteration. Work with large-scale medical datasets, ensuring data quality, preprocessing, and efficient pipeline management. Drive technical decisions and tradeoffs with a focus on scalability, maintainability, and real-world constraints. Collaborate with clinical AI scientists to translate research innovations into production-ready solutions. Stay current with advancements in vision-language modeling, GenAI, and related AI technologies. Qualifications Master’s or PhD in Computer Science, Electrical Engineering, Biomedical Engineering, or related field. Significant hands-on experience building and deploying ML systems to production. Strong experience with machine learning and deep learning frameworks (e.g., PyTorch, TensorFlow). Solid understanding of deep learning, computer vision, and natural language processing techniques. Prior experience working with medical imaging data is highly preferred. Solid software engineering fundamentals, including testing, version control, CI/CD, and code reviews. Independent, self-learner, and results-oriented. Fluent English (speaking and writing). GE HealthCare is a leading global medical technology and digital solutions innovator. Our mission is to improve lives in the moments that matter. Unlock your ambition, turn ideas into world-changing realities, and join an organization where every voice makes a difference, and every difference builds a healthier world. GE HealthCare
+
+---
+
+## 34. [MAYBE] Varian | Senior Research Scientist, Optimization Algorithms
+- Link: https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HEL-AA/Senior-Research-Scientist--Optimization-Algorithms_R-31898-1
+- Location: HEL AA
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 12 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, machine learning, python, fraud, git, healthcare, portfolio, publication, research | Lacks: c++  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Our inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone, offering resources and flexibility to foster your professional and personal growth, all while valuing your unique contributions. As Senior Research Scientist in the Optimization Algorithms team in Helsinki, you will contribute to the development of high-performance algorithms used by clinicians around the world to plan advanced radiotherapy treatments. This position offers the opportunity to solve challenging problems at the intersection of medical physics, mathematics, optimization, and software engineering while contributing to products that help improve cancer treatment. We are looking for someone with experience in algorithm development and numerical methods who can quickly take ownership of complex technical challenges. In addition to technical expertise, we value strong collaboration skills. We recognize that talent comes from many different paths and encourage applicants to apply even if their experience does not align perfectly with every qualification listed. This opportunity could be for you if you: Enjoy taking ownership and delivering results. Have a collaborative and innovative problem-solving mindset. Enjoy working closely with colleagues and sharing knowledge across disciplines. Your role: Develop and improve radiotherapy treatment planning algorithms. Research, design, implement, and evaluate new optimization methods and algorithmic solutions. Contribute to the full software development lifecycle, from concept and design to implementation, testing, and delivery. Collaborate closely with software engineers, physicists, researchers, product managers, and clinical users. Support successful product releases by collaborating with teams and contributing to development activities as needed. Participate in technical discussions, innovation initiatives, and the continuous improvement of our treatment planning solutions. Contribute to technical decision-making and help shape the future direction of our solutions. Experience and Qualifications: MSc or PhD in Computer Science, Mathematics, Physics, Engineering, or a related technical field. Strong programming skills in modern C++. Solid theoretical and practical experience in algorithm design, numerical methods, optimization, scientific computing, or related areas. Excellent problem-solving and analytical skills. Fluency in English language, both written and spoken. Beneficial Skills & Experience: Medical imaging, radiotherapy, medical device software, or other regulated software environments. CUDA / GPU programming. Machine learning. Quick prototyping and scripting languages such as Python. Scientific research and publication activities. What We Can Offer: Inspiring work atmosphere and a supportive work community. Meaningful work that contributes to improving cancer treatment. Opportunities for continuous learning and professional growth. International and cross-cultural working environment. Hybrid working model. Office located in the heart of Helsinki. #LI-HYBRID Who we are : We are a team of more than 72,000 highly dedicated Healthineers in more than 70 countries. As a leader in medical technology, we constantly push the boundaries to create better outcomes and experiences for patients, no matter where they live or what health issues they are facing. Our portfolio is crucial for clinical decision-making and treatment pathways. How we work : When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably. To find out more about Healthineers’ specific businesses, please visit our company page here . As an
 
