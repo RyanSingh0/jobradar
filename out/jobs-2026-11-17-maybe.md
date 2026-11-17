@@ -10,15 +10,22 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 4 | S&P Global | Analyst, Analytic Quality & Validation | 67 | 5 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
 | 5 | CNA Insurance | Business Intelligence Developer | 57 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
 | 6 | Deutsche Bank | Structured Finance Investment Analyst (RMBS & CMBS) | 57 | 213 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 7 | Manulife Financial | Associate Data Scientist | 55 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 8 | Dell Technologies | Inside Product Specialist - Early Career | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 9 | Legal & General | Associate, Investment Analytics, L&G - Asset Management, America | 54 | none found (check myvisajobs) | Nov 16 18:23 ET |
-| 10 | TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start | 52 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 11 | Google | Research Scientist, Error Correction Experiments, Quantum AI | 50 | 1053 in data/analytics/finance occupations | Nov 17 03:09 ET |
-| 12 | University of Louisville | Temporary Research Assistant (Part Time) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 13 | Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 14 | Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design | 65 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 15 | Natera | Research Associate 2 | 57 | 28 in data/analytics/finance occupations | Nov 16 18:51 ET |
+| 7 | City of New York | OEI Research Assistant, Bureau of Environmental Disease Prevention | 57 | none found (check myvisajobs) | Nov 17 06:13 ET |
+| 8 | Anglian Water | Data Engineer | 57 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 9 | Manulife Financial | Associate Data Scientist | 55 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 10 | Dell Technologies | Inside Product Specialist - Early Career | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 11 | Legal & General | Associate, Investment Analytics, L&G - Asset Management, America | 54 | none found (check myvisajobs) | Nov 16 18:23 ET |
+| 12 | TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 13 | TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start | 52 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 14 | Google | Research Scientist, Error Correction Experiments, Quantum AI | 50 | 1053 in data/analytics/finance occupations | Nov 17 03:09 ET |
+| 15 | Pernod Ricard créateurs de convivialité | Master Data Analyst | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 16 | Kemin | Job Title Research Associate | 45 | 2 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 17 | University of Louisville | Temporary Research Assistant (Part Time) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 18 | Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 19 | ING | Data Analyst | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 20 | Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design | 65 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 21 | Natera | Research Associate 2 | 57 | 28 in data/analytics/finance occupations | Nov 16 18:51 ET |
+| 22 | GE Healthcare | Senior AI Engineer | 57 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
 
 ---
 
@@ -112,7 +119,37 @@ Job Description: Employer: Deutsche Asset Management Title: Structured Finance I
 
 ---
 
-## 7. [MAYBE] Manulife Financial | Associate Data Scientist
+## 7. [MAYBE] City of New York | OEI Research Assistant, Bureau of Environmental Disease Prevention
+- Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016898596
+- Location: New York City NY us
+- Posted: Nov 17 06:13 ET
+- Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, statistic, credit, git, quantitative, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The mission of the Bureau of Environmental Disease Prevention is to prevent environmental disease in homes, communities, and the workplace, and to protect health by promoting healthy environments and health equity. The OEI Research Assistant will answer OEI’s main complaint line, relaying messages to appropriate office/field staff for follow-up. Under supervision, with latitude for independent judgement, will perform complex research and clerical tasks, and will report and assist the program’s senior administrative lead as necessary. DUTIES WILL INCLUDE BUT NOT BE LIMITED TO: - Data entry - Review and verify previously entered data for accuracy, validity, and that it complies with set protocols - Answer OEI’s main line and relay messages to the relevant personnel - Serve as a liaison between clients and office/field personnel on the matter of incoming complaints - Prepare written reports on weekly field activities - Maintain accurate digital archiving of all forms and reports - Assist with mail delivery/pick-up from building’s central mailroom - Other duties as assigned PREFERRED SKILLS: Previous experience researching information online, a strong customer service background, excellent oral and written communication skills, courteous telephone manner, basic computer literacy with the desire to learn additional computer skills Why you should work for us: - Loan Forgiveness: As a prospective employee of the City of New York, you may be eligible for federal/state loan forgiveness and repayment assistance programs that lessen your payments or even fully forgive your full balance. For more information, please visit the U.S. Department of Education’s website (https://studentaid.gov/pslf/) - Benefits: City employees are entitled to unmatched benefits such as: o a premium-free health insurance plan that saves employees over $10K annually, per a 2024 assessment. o additional health, fitness, and financial benefits may be available based on the position’s associated union/benefit fund. o a public sector defined benefit pension plan with steady monthly payments in retirement. o a tax-deferred savings program and o a robust Worksite Wellness Program that offers resources and opportunities to keep you healthy while serving New Yorkers. - Work From Home Policy: Depending on your position, you may be able to work up to two days during the week from home. - Job Security - you could enjoy more job security compared to private sector employment and be able to contribute to making NYC a healthy place to live and work. Established in 1805, the New York City Department of Health and Mental Hygiene (NYC Health Department) is the oldest and largest health department in the U.S., dedicated to protecting and improving the health of NYC. Our mission is to safeguard the health of every resident and cultivate a city where everyone, regardless of age, background, or location, can achieve their optimal health. We provide a wide array of programs and services focused on food and nutrition, anti-tobacco support, chronic disease prevention, HIV/AIDS treatment, family and child health, environmental health, mental health, and social justice initiatives. As the primary population health strategist and policy authority for NYC, with a rich history of public health initiatives and scientific advancements, from addressing the 1822 yellow fever outbreak to the COVID-19 pandemic, we serve as a global leader in public health innovation and expertise. Come join us and help to continue our efforts in making a difference in the lives of all New Yorkers! Commitment to Equity: The City of New York is an inclusive
+
+---
+
+## 8. [MAYBE] Anglian Water | Data Engineer
+- Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Lincoln/Data-Engineer_R41065
+- Location: 2 Locations
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time (37 h/week stated)
+- Title scope: core | Has: excel, python, sql, docker, git, healthcare, kubernetes, pipeline, risk | Lacks: azure  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Salary starting from £46k, salary dependant on skills and experience Permanent Full time / 37 hours a week Hybrid role, working from Huntingdon or Lincoln 26 day annual leave, annual bonus, double match pension (up to 7%), private healthcare Anglian Water offers a flexible approach; this role provides you the flexibility to work from home and from an Anglian Water office. Your base location will be in either Huntingdon or Lincoln, depending on your location. Join Us as a Data Engineer – Shape the Future of the Datacore at Anglian Water We’re on the lookout for a passionate and experienced Data Engineer to join our dynamic and fast-growing team. This is a fantastic opportunity to play a key role in managing, optimising, and evolving the Datacore Industrial Internet of Things (IIoT) platform — enabling the delivery of critical Data products that power our business. In this hands-on role, you’ll be responsible for the day-to-day technical operations of the Datacore — implementing, maintaining, and enhancing the data solutions for our OT business needs. You’ll help shape our digital future optimising the infrastructure/applications and technology that make up the platform focusing on improving efficiency and consistency. As part of our Digital Engineering practice, you’ll be embedded within a high-energy, fast-paced environment, collaborating with talented professionals across disciplines. You’ll work closely with our Platform Teams, driving infrastructure improvements, identifying opportunities for continuous service optimisation, and ensuring our Datacore capabilities keep pace with business needs. We work in a truly agile way, so experience with methodologies like DevOps, Scrum, LESS, or Kanban is essential. If you thrive in a fast-paced, forward-thinking environment and love solving complex challenges with innovative solutions, we’d love to hear from you. What You’ll Be Doing As a Data Engineer, working within our Operational Technology (DataCore) team you’ll play a hands-on role in implementing, maintaining, and enhancing the data solutions for our OT business needs. Your key responsibilities will include: Delivering Data solutions for our Operational technology (OT) needs which will include creating ingestion pipelines, applying data cleansing rules and integrating with various systems Delivering and configuring data-focused application changes Monitoring performance of the data-focused applications you are charged with Ensuring our data products meet service commitments and provide automated performance insights Troubleshooting and preventing operational issues Automating provisioning, testing, and deployment processes Maintaining and enforcing best-practice operational procedures Leading and contributing to Communities of Practice to drive continuous improvement and innovation As a valued employee, you’ll be entitled to: Full private healthcare with no excess 26 days leave, rising with service + Bank Holidays, with the option to swap Christmas and Easter holidays for those celebrated by your religion A flexible working culture Competitive pension scheme – we double-match your contributions up to 7% Life Assurance at eight times your salary Personal Accident cover – up to 5x your salary Bonus Scheme Lots of great discounts Flexible benefits to support your wellbeing and lifestyle What does it take to be a Data Engineer? We’re looking for someone who truly embodies our values — doing the right thing, building trust, and always exploring new ways to improve. You’ll lead by example, fostering collaboration and inspiring those around you. You'll also: Strong experience in data engineering Experience/understanding of Data Product lifecycle management Strong analytical and problem solving skills Ability to make recommendations and take decisions Highly organised with effective time management and planning skills Excellent attention to detail Willingness to adapt to change Enjoys technical challenges and learning new skills Take ownership of risks and support robust risk management Champion knowledge sharing and operational excellence Support our Digital Engineering Centre for Enablement and Communities of Practice Key Skills and experience: Highly proficient in Python and SQL Proficient in Datacore application stack Proficient in technologies like Bicep, Python, Docker, Kubernetes, Azure Kubernetes Service (AKS) Proficient in Data Pipelines (both low code and Azure) Experience in configuring and maintaining IIoT applications such as TimeSeries Databases or Industrial Data Ops Tools Understanding of Agile delivery frameworks and methodologies Working Knowledge of Service Management processes, specifically Change, Incident, Event, Configuration and Problem Management Why Anglian Water? Anglian Water is not your typical water company. What we do really matters. Water is the lifeblood of our world and we’re proud of the difference we make. We put people at the heart of our business, and we truly love what we do! If you’re passionate about what you do and would like to make a difference, then we’d love to hear from you. Closing date: 1st December 2026 #loveeverydrop #LI-ZP1
+
+---
+
+## 9. [MAYBE] Manulife Financial | Associate Data Scientist
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Chengdu-Sichuan/Associate-Data-Scientist_JR26110217
 - Location: Chengdu, Sichuan
 - Posted: Nov 16 (board gives the date only)
@@ -127,7 +164,7 @@ Responsibilities: • Actively participates on cross-functional project teams de
 
 ---
 
-## 8. [MAYBE] Dell Technologies | Inside Product Specialist - Early Career
+## 10. [MAYBE] Dell Technologies | Inside Product Specialist - Early Career
 - Link: https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302716
 - Location: Round Rock, TX, United States US
 - Posted: Nov 17 (board gives the date only)
@@ -142,7 +179,7 @@ Position Overview We are seeking an enthusiastic and tech-savvy recent college g
 
 ---
 
-## 9. [MAYBE] Legal & General | Associate, Investment Analytics, L&G - Asset Management, America
+## 11. [MAYBE] Legal & General | Associate, Investment Analytics, L&G - Asset Management, America
 - Link: https://jobs.smartrecruiters.com/LegalAndGeneral/744000161933889
 - Location: Chicago IL us
 - Posted: Nov 16 18:23 ET
@@ -157,7 +194,41 @@ The LGIMA Investment Analytics team is responsible for providing market-leading 
 
 ---
 
-## 10. [MAYBE] TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start
+## 12. [MAYBE] TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety
+- Link: https://lifeattiktok.com/search/7574962733457443125
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~53 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, llm, python, pytorch, deep learning, research | Lacks: c++
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Our Foundations and Intelligence Service R&D team is fast growing and responsible for building state-of-the-art foundation models, such as LLM, VLM and Omni Models. Our mission is to build a bridge for collaboration between foundation models and downstream business scenarios, and use foundation model powered world knowledge to enhance better user experiences across TikTok, including content moderation, search and recommendations, client AI, etc.
+We are looking for researchers in LLM, VLM and Omni Model domain who are experienced in single/multi-modality LLM/VLM pretraining and applications, including evaluations, data processing and recipes for pre-training and post-training, reinforcement learning based alignment, efficient training and inference. There is no doubt that a lot of unsolved problems in the LLM domain which could have a huge impact on industry and academia. In TikTok, we have real applications, resources and patience for technology incubation.
+
+Your main responsibilities will be
+
+- Lead, collaborate and execute on research that pushes forward state-of-the-art in multimodal reasoning and generation research
+- Enhance VLM with specialized features like OCR and captioning to optimize performance for TikTok business applications
+- Explore the model architecture and inference-efficient model design to enable scaled application in downstream TikTok business
+- Work closely with cross-functional teams to plan and implement projects harnessing VLMs for diverse purposes and vertical domains
+- Extend the insights and impact from industry to academia Minimum Qualifications
+- Ph.D in Computer Science, Data Science, Artificial Intelligence, or a related field
+- Proficiency in programming languages such as Python, Rust, or C++ and a track record of working with deep learning frameworks (e.g., PyTorch, DeepSpeed, Megatron, vLLM, etc.).
+
+Preferred Qualifications
+- Strong understanding of cutting-edge LLM research (e.g., long context, multi-modality, alignment research, agent ecosystem, etc.) and possess practical expertise in effectively implementing these advanced systems as a plus
+- Excellent problem-solving skills and a creative mindset to address complex AI challenges. Demonstrated ability to drive research projects from idea to implementation, producing tangible outcomes.
+- Published research papers or contributions to the LLM community would be a significant plus.
+- Experience with inference tuning and inference acceleration. Have a deep understanding of GPU and/or other AI accelerators, experience with large-scale AI networks, PyTorch 2.0 and similar technologies.
+- Experience with evaluation of AI systems, LLM application & agent development is desirable.
+- Strong understanding of distributed computing framework & performance tuning and verification for training/finetuning/inference; Being familiar with PEFT, RL, MoE, CoT or Langchain is a plus.
+
+---
+
+## 13. [MAYBE] TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start
 - Link: https://lifeattiktok.com/search/7668663594419374341
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -194,7 +265,7 @@ By submitting an application for this role, you accept and agree to our global a
 
 ---
 
-## 11. [MAYBE] Google | Research Scientist, Error Correction Experiments, Quantum AI
+## 14. [MAYBE] Google | Research Scientist, Error Correction Experiments, Quantum AI
 - Link: https://www.google.com/about/careers/applications/jobs/results/141343429106770630
 - Location: Goleta, CA, USA
 - Posted: Nov 17 03:09 ET
@@ -209,7 +280,37 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 12. [MAYBE] University of Louisville | Temporary Research Assistant (Part Time)
+## 15. [MAYBE] Pernod Ricard créateurs de convivialité | Master Data Analyst
+- Link: https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Dumbarton/Master-Data-Analyst_JR-055616-1
+- Location: Dumbarton
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, portfolio, reporting, research, validation | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Master Data Analyst Your Manager: Master Data Lead Team: Planning, Supply Chain Location: Kilmalid, Dumbarton – we operate a hybrid working approach Contract Type: Fixed Term Contract – ending September 2027 Pernod Ricard is a worldwide leader in the spirits and champagne industry, blending traditional craftsmanship, state-of-the-art brand development, and global distribution technologies. Our prestigious portfolio of premium to luxury brands includes Absolut vodka, Ricard pastis, Ballantine’s, Chivas Regal, Royal Salute, and The Glenlivet Scotch whiskies, Jameson Irish whiskey, Martell cognac, Havana Club rum, Beefeater gin, Malibu liqueur, and Mumm and Perrier-Jouët champagnes. Our mission is to ensure the long-term growth of our brands with full respect for people and the environment, while empowering our employees around the world to be ambassadors of our purposeful, inclusive, and responsible culture of authentic conviviality Chivas Brothers is the Pernod Ricard business dedicated entirely to Scotch whisky. Our award-winning portfolio features some of the world’s most revered single malt and blended Scotch whisky brands, including Chivas, Ballantine’s, Royal Salute, The Glenlivet and Aberlour, which are exported from Scotland to over 100 countries worldwide. As the world’s No.2 Scotch whisky producer with a 1,600-strong team across 26 sites, we are committed to upholding the heritage and pursuing the progress of Scotch and ensuring its sustainable future, as well as opening it up to new audiences across the globe. About the role We are now seeking a Master Data Analyst to play a key part in maintaining accurate and timely product and Bill of Materials (BoM) data within the (Enterprise Resource Planning) ERP system. This role provides effective administrative support to the Master Data BOM team, including cased goods, spirit, material and BoM data input, set‑up and approval. The position ensures ERP system manufacturing setup of SKU’s and components is correct and accurate to support successful delivery of all R&D and change projects. The role works across the supply chain to deliver excellent customer service and improve cost, quality and compliance performance, while effectively communicating with departments such as Engineering, Distillation & Maturation, Inventory, Procurement, Research & Development, Customer Service, Planning, Outsourcing Bottling/Rework, Spirit Planning and MIS. What you will do SKU & Component Setup, Maintenance & Lifecycle Management Setup and maintain SKUs, Spirits and Components in line with standard practice. Action SKU Register requests to ensure Market Supply SKU Requests are delivered on time. Transact and expedite system workflow and support the Product Life Cycle Forum to ensure items are developed on time for bottling. Develop clear procedures, checks and measures to support accurate data setup and continuous improvement. Manage the Run-in/Run-out and PLC process to minimise obsolescence during the SKU lifecycle and during introduction of new and exit of old components and SKUs. Analyse all BOM change requests to ensure that each level of the multi-level BOM is changed in accordance with the requested change and ensure that the change request is necessary. Obsolete items as appropriate and mass-maintain on system to eliminate future exposure. Bill of Materials (BoM) Creation, Changes & Configuration Effectively configure and process Bill of Material as appropriate Set-up data for multi-level BOM’s Process and distribute information (Bill of Material / Design Changes) in a timely manner (OTIF) Attend and add valid input to project meeting to ensure new Bill of Materials build and cost are correct. Data Integrity & Accuracy Action data integrity reports daily and develop new integrity reports to ensure data accuracy. Work with colleagues to maintain accurate and reliable item and BoM data across the system. Work with relevant teams to investigate data issues affecting Bottling or Shipping and agree appropriate improvements. Cross Functional Support & Collaboration Support and contribute to Market Supply, Research & Development, Rework, Procurement and Manufacturing initiatives to improve service. Deliver excellent customer service, Work collaboratively to resolve issues, seeking support or escalating where appropriate. Stand in for line manager and represent the team and company professionally at project meetings. Reporting, Workflow & Continuous Improvement Collaborate with colleagues to identify and deliver opportunities for continuous improvement across the Master Data BOM team and wider Supply Chain. Manage the workflow process to ensure timely input of key data for new SKU builds and smooth progression through to live. Your skills and background Experience using business enterprise systems, such as JDE E1 ERP, and an understanding of BoM structures. Good planning and material process skills, with an organised and methodical approach. Comfortable using Microsoft Excel, Word and Outlook, with opportunities to further develop your skills. Experience in managing data accuracy and validation processes. Understanding of commercial, quality, and financial impacts of SKU setup. Why join us? Collective Spirit You will be part of a connected, international community shaped by iconic brands, a performance mindset, and a proud legacy, where collaboration, fun and ambition coexist. Craft your path We empower you to own your career, innovate boldly and grow alongside our business, surrounded by leaders who value curiosity, energy, and impact. Cultivate the future You’ll help shape a business with a soul — one that cherishes the land, respects communities, and brings good times from a good place, responsibly and sustainably. People are at the heart of everything we do at Pernod Ricard and are the foundation of our collective spirit as ‘Créateurs de Convivialité’. We promote inclusion throughout our business and supply chain. In our teams, we proactively foster a diverse work force and an inclusive culture, an environment where we can truly be ourselves. We will assess your application for this role based on your skills, experiences, and achievements, not your gender, age, ethnic or educational background or any other such factors. Our recruiting team are more than happy to provide reasonable adjustments during our application and interview process, in order for you to participate fully in our recruitment experience. Our mix of benefits Competitive salary, along with performance related bonus Defined Contribution Pension Private medical insurance, including income protection Comprehensive Employee Assistance Programme 25 days’ annual holiday plus public holidays Pernod Ricard share incentive plan and share ownership plan Life Assurance An allowance to spend on our brands Our reward & recognition scheme Employee discounts from a range of high street retailers Regular events in our very own office bar Learn more about working with Pernod Ricard [...]
+
+---
+
+## 16. [MAYBE] Kemin | Job Title Research Associate
+- Link: https://careers-kemin.icims.com/jobs/12604/research-associate/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~45 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, classification, publication, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Research Associate in Parma | Careers at EMENA Region Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log back in! Research Associate Location IT-Parma Posted Date 52 minutes ago (11/17/2026 7:18 AM) Job ID 2026-12604 # Positions 1 Category Hidden (14951) Position Type Regular Full-Time Overview At Kemin Food Technologies (KFTEMEA), we foster a culture that encourages entrepreneurial thinking, innovation, and a passion for success. For our Parma site, we are currently looking for a Research Associate to join our team. Under direct supervision, the Research Associate will provide technical support to R&D projects, performing a variety of activities within well-defined guidelines and applying scientific methodologies related to meat applications and functional ingredients . The role involves hands-on activities in a laboratory and other research settings. Responsibilities - The position will work closely with the R&D team to translate customer and market needs into technically robust ingredient solutions addressing product quality, yield, texture, color, flavor, oxidative and microbiological stability, and shelf life. - Investigate interactions and synergies among functional ingredients used for water binding, yield improvement, texture, emulsion stability, color stability, oxidation control, microbial stability, and shelf-life extension. - Formulation development, meat-processing trials, analytical testing, pilot-plant activities, technical documentation, ensuring appropriate traceability of formulations, raw materials, samples, and experimental data - Draft research protocols, technical reports and research methods, with supervision. - Collaborate with Quality, Purchasing, Regulatory, and Operations during ingredients qualification and implementation. - Perform basic data analysis, collect, interpret and document research data, with supervision. - Maintain accurate experimental records, protocols, formulations, and test results, preparing and presenting research data and analytics in multiple formats. - Contribute to scientific publications used for internal purposes. Qualifications - Bachelor Degree - Experience: Up to 2 years of relevant professional experience - Ability to work under pressure and able to handle multiple projects efficiently. - Analytical lab skills with a strong scientific curiosity and innovative thinking. - Reliable and self-motivated. - Good understanding of Microsoft office products (Word, Excel, Powerpoint, etc.) - Good written and oral communication skills. - Good understanding of English, both written and oral. - Ability to interact well with others in a team environment. Job Offer Details Contract: Permanent employment contract Working hours: Full-time, Monday to Friday, with flexible start and finish times Job classification: Level 5 under the applicable National Collective Labour Agreement (CCNL) Applicable Collective Labour Agreement: Food Industry National Collective Labour Agreement (CCNL Industria Alimentare) Gross Annual Salary (RAL): Between €29,000 and €32,000 . The exact salary within this range will be determined based on objective, role-related and gender-neutral criteria, including relevant professional experience, technical skills, level of autonomy, and responsibilities associated with the position. Benefits: Meal vouchers (€10 per day) or company canteen; Long Service Program; Health Insurance (FASA); Employee discounts Work location: Parma (PR), Italy #LI-AF3 Options Apply for this job online Apply Share Refer this job to a friend Refer Sorry the Share function is not working properly at this moment. Please refresh the page and try again later. Share on your newsfeed Application FAQs Software Powered by ICIMS www.icims.com
+
+---
+
+## 17. [MAYBE] University of Louisville | Temporary Research Assistant (Part Time)
 - Link: https://uofl.wd1.myworkdayjobs.com/UofLCareerSite/job/Belknap-Campus/Temporary-Research-Assistant--Part-Time-_R109732
 - Location: Belknap Campus
 - Posted: Nov 16 (board gives the date only)
@@ -224,7 +325,7 @@ Department: Early Childhood Research Center-JM Location: Belknap Campus Time Typ
 
 ---
 
-## 13. [MAYBE] Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab)
+## 18. [MAYBE] Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab)
 - Link: https://seattlechildrens.wd5.myworkdayjobs.com/External/job/Seattle-WA/Research-Associate-I---Bench--Kalia-Lab-_R264858
 - Location: Seattle, WA
 - Posted: Nov 16 (board gives the date only)
@@ -239,7 +340,22 @@ A Research Associate I-Bench position focusing on translational discoveries in T
 
 ---
 
-## 14. [MAYBE] Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design
+## 19. [MAYBE] ING | Data Analyst
+- Link: https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bratislava/Data-Analyst_REQ-10121029-1
+- Location: Bratislava
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, sql | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The opportunity ING Wholesale Banking (WB) has been helping clients across the world to build successful businesses for more than 200 years. With a network of over 40 countries, ING supports clients with everyday transactions like payments or foreign exchange, and strategic advice on cybersecurity, international growth, sustainability, and large project financing. We are looking for a business data specialist to support our Wholesale bank businesses over 40 countries. If you are an independent thinker, a team player, someone that embraces ING’s orange code values and who can help us to take Corporate Customer Data Management to the next level - we would like to meet you! Roles and Responsibilities Your job will include: Analyze Incidents on data synchronization between GRID and OnePAM. Examine discrepancies in Customer Data, Accounts and provide adequate solutions for the Users. Communicate findings, status of the Incidents daily to stakeholders with Excel, direct communications Query in OnePAM with SQL for Customer Data analysis, Accounts synchronization, Product migrations and necessary corrections. Knowledge of basis structures in SQL is required as joins, group by Provide insights on reconciliation issues, analyzing problems from report provided. Connect issues reported to relevant sections in the databases, highlighting paths and root causes Willingness to be committed to the realization of a project and ING’s targets. Strong stakeholder skills, collaboration and eagerness to learn are key to succeed This role is 90% of the time about data and data analysis and outcomes The interview will consist of two parts: 1. Standard Interview – A conversation focused on your experience, skills, and fit for the role. 2. Practical Exercise – A short Excel-based task to assess your ability to work with data and apply relevant skills. Personality requirements and skills You have 1 year or more of experience in the field of data analysis and processing to improve Customer’s journey Analytical thinking and eagerness to learn and contribute to the success of the Group Intermediate Excel capabilities Knowledge of Know Your Customer (KYC) Domain is a big plus English C1 Wage (gross) 2 227 EUR/month *By legal requirement we are providing the information about the basic wage component (minimum salary) for the advertised position. Based on your experience/profile, the final financial conditions will be the subject to discuss and negotiate at the personal interview, however, not less than above mentioned minimum salary component. We offer you a bunch of great benefits Friendly working environment You build your own working day - flexible working hours and work from home Daily working time: 7hrs 45min instead of standard 8hrs Daily refreshments - coffee, fruits, drinks Fully equipped gym accessible 24 hours / 7 days per week Game room with unlimited access Modern designed coffee corner and terrace with the grill spot WellbeING Sick leave compensation: up to 80% of the monthly salary Life insurance contribution: up to 22,14 EUR/per month 3rd pillar contribution: up to 3% from your monthly salary 24/7 external mental health support Learning opportunities: internal and external learning programs Regular teambuildings, social events and communities YOU/family/friends time Extra 3 PERSONAL days per year Extra vacation days: up to 10 extra days/per year We welcome your ING-positive friends: referrals starting from 1000 EUR 150€ for childbirth/adoption bonus, wedding day and registered partnership contributions, work anniversary award Our premises are open 24/7 and you can even bring your friends or family along (up to 2 friends to the gym and game room) Extra perks Yearly bonus based on your performance and company’s results Cafeteria points: 50€/month (600€/year) - Multisport card, Alza, Zalando, Cinema City, etc. Home office contribution: 20 EUR/per month Discounts from our and your favorite stores: up to 30% Warm welcome package for your fresh start Pet friendly office
+
+---
+
+## 20. [MAYBE] Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design
 - Link: https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Senior-Scientist--Machine-Learning-and-Algorithm-Development-for-RNA-Design_R20182
 - Location: see posting
 - Posted: Nov 16 (board gives the date only)
@@ -254,7 +370,7 @@ The Role Moderna is seeking a computational scientist to develop artificial inte
 
 ---
 
-## 15. [MAYBE] Natera | Research Associate 2
+## 21. [MAYBE] Natera | Research Associate 2
 - Link: https://job-boards.greenhouse.io/natera/jobs/6250593004
 - Location: Boulder, CO
 - Posted: Nov 16 18:51 ET
@@ -266,4 +382,19 @@ The Role Moderna is seeking a computational scientist to develop artificial inte
 ### Job description
 
 LOCATION : On-Site in Boulder, CO (Foresight Dx business unit, a Natera company) &nbsp; ABOUT OUR COMPANY: Foresight Diagnostics is a molecular diagnostics company pioneering non-invasive cancer detection through highly sensitive, cell-free DNA-based liquid biopsy technologies. Our proprietary methods - originally developed at Stanford University - are designed to detect smaller tumors earlier and enable more personalized treatment strategies for patients with cancer.&nbsp; We sit at the intersection of molecular biology, bioinformatics, and next-generation sequencing (NGS), and we translate rigorous science into clinically meaningful solutions. Following our acquisition by Natera, we now combine the agility of a mission-driven startup with the scale and resources of a global leader in cell-free DNA testing. It’s an exciting moment to join us.&nbsp; Headquartered in Boulder, Colorado, our team operates in a high accountability, collaborative environment where quality and continuous improvement aren’t just values - they’re how we work every day. &nbsp; ABOUT THE ROLE: Every liquid biopsy result starts at the bench, and this role puts you right there. As part of our Boulder R&amp;D team, you’ll work hands-on with scientists developing ultrasensitive, cell-free DNA technology designed to detect smaller tumors earlier and enable more personalized treatment for patients with cancer. You’ll run experiments across the NGS workflow, from gDNA isolation and library prep to hybrid capture and sequencing, using automated liquid handlers and instruments like the TapeStation and Qubit. Along the way, you’ll learn to troubleshoot, keep instruments running smoothly, and understand why an experiment behaves the way it does, not just how to run it. You won’t work in a silo. You’ll partner daily with Associates and Scientists, summarize and present your data to the team, and write SOPs that shape how we work. Your notebooks, results, and attention to detail will be trusted and relied on by the people around you. Foresight’s Stanford-born science now has the backing of Natera, a global leader in cell-free DNA testing, so you’ll get the agility of a mission-driven startup with the resources and reach of an established company. If you have a few years of molecular biology experience and want to build deep expertise in one of the most exciting areas of modern diagnostics, in a collaborative, high-accountability culture where quality and continuous improvement are part of everyday work, we’d love to meet you. &nbsp; PRIMARY RESPONSIBILITIES: You will work primarily with R&amp;D assisting Associates/Scientists in various lab duties. Responsibilities will include: Independently execute simple experiments and perform basic troubleshooting&nbsp; Produce competent, reproducible results to a high technical standard Maintain accurate and well-organized laboratory records, worksheets and notebooks Summarize data in spreadsheets, graphs and presentations Write standard operating procedures (SOP) and other lab-related documents as needed Maintain equipment and instruments in good operating condition, recognize any malfunctions and troubleshoot as needed Utilize molecular biology techniques in performing laboratory tests. This role will have occasional access to PHI both in paper and electronic form and have occasional access to various technologies to access PHI (paper and electronic) in order to perform the job. Adhere to environmental, health and safety (EHS) guidelines and good laboratory practices (GLP) Perform other tasks as specified by the manager/director &nbsp; QUALIFICATIONS: BS/BA in a biological science or equivalent Minimum of 2 years Molecular Biology laboratory experience required &nbsp; KNOWLEDGE, SKILLS, AND ABILITIES: gDNA isolation from biological samples (preferred). Experience with library preparation for next generation sequencing and sequencing platforms&nbsp; Experience with hybrid capture technologies Experience with laboratory automated liquid handler platforms Sample analysis/QC on the Agilent Tapestation, Nanodrop, Qubit, electrophoresis Must have proven interpersonal, communication, computer, and technical skills. Excellent oral and written communication skills required. Microsoft Excel experience required Compensation &amp; Total Rewards&nbsp; This range reflects a good-faith estimate of the base pay we reasonably expect to offer at the time of hire. Final compensation will vary based on experience, qualifications, and internal equity considerations. Comprehensive health benefits (medical, dental, vision) 401(k) with company match Generous paid time off and company holidays Additional wellness and work-life benefits Compensation Range &nbsp; $74,800.00 - $89,000.00 OUR OPPORTUNITY Natera™ is a global leader in cell-free DNA (cfDNA) testing, dedicated to oncology, women’s health, and organ health. Our aim is to make personalized genetic testing and diagnostics part of the standard of care to protect health and enable earlier and more targeted interventions that lead to longer, healthier lives. The Natera team consists of highly dedicated statisticians, geneticists, doctors, laboratory scientists, business professionals, software engineers and many other professionals from world-class institutions, who care deeply for our work and each other. When you join Natera, you’ll work hard and grow quickly. Working alongside the elite of the industry, you’ll be stretched and challenged, and take pride in being part of a company that is changing the landscape of genetic disease management. WHAT WE OFFER Competitive Benefits - Employee benefits include comprehensive medical, dental, vision, life and disability plans for eligible employees and their dependents. Additionally, Natera employees and their immediate families receive free testing in addition to fertility care benefits. Other benefits include pregnancy and baby bonding leave, 401k benefits, commuter benefits and much more. We also offer a generous employee referral program! For more information, visit www.natera.com . Natera is proud to be an
+
+---
+
+## 22. [MAYBE] GE Healthcare | Senior AI Engineer
+- Link: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Staff-Machine-Learning-Engineer_R4042375-1
+- Location: Haifa HEALTHCARE HA IL 2
+- Posted: Nov 16 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 4 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: machine learning, pytorch, tensorflow, data quality, deep learning, git, healthcare, pipeline, research | Lacks: scala  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Description Summary The Senior AI Engineer is a senior technical leader responsible for designing, developing, and deploying production-grade AI systems for GE Healthcare medical imaging products. This role focuses on vision-language models, diffusion models, and multimodal learning, working closely with data scientists, software engineers, product leaders, and clinical experts to turn advanced AI methods into robust product capabilities. Job Description The Senior AI Engineer is a senior technical leader responsible for designing, developing, and deploying production-grade AI systems for GE HealthCare medical imaging products. This role focuses on vision-language models, diffusion models, and multimodal learning, working closely with data scientists, software engineers, product leaders, and clinical experts to turn advanced AI methods into robust product capabilities. Key Responsibilities Design, implement, and productionize AI models for clinical applications, including vision and diffusion models. Own end-to-end model lifecycle: data ingestion, training, evaluation, deployment, monitoring, and iteration. Work with large-scale medical datasets, ensuring data quality, preprocessing, and efficient pipeline management. Drive technical decisions and tradeoffs with a focus on scalability, maintainability, and real-world constraints. Collaborate with clinical AI scientists to translate research innovations into production-ready solutions. Stay current with advancements in vision-language modeling, GenAI, and related AI technologies. Qualifications Master’s or PhD in Computer Science, Electrical Engineering, Biomedical Engineering, or related field. Significant hands-on experience building and deploying ML systems to production. Strong experience with machine learning and deep learning frameworks (e.g., PyTorch, TensorFlow). Solid understanding of deep learning, computer vision, and natural language processing techniques. Prior experience working with medical imaging data is highly preferred. Solid software engineering fundamentals, including testing, version control, CI/CD, and code reviews. Independent, self-learner, and results-oriented. Fluent English (speaking and writing). GE HealthCare is a leading global medical technology and digital solutions innovator. Our mission is to improve lives in the moments that matter. Unlock your ambition, turn ideas into world-changing realities, and join an organization where every voice makes a difference, and every difference builds a healthier world. GE HealthCare
 
