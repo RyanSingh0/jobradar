@@ -37,26 +37,27 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 31 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 16 (board gives the date only) |
 | 32 | PennState University | Research Assistant - Cattadori Lab | 50 | cap-exempt employer | Nov 16 (board gives the date only) |
 | 33 | Loyola Marymount University | Research Scientist | 50 | cap-exempt employer | Nov 17 (board gives the date only) |
-| 34 | Kemin | Job Title Research Associate | 45 | 2 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 35 | Pfizer | Associate, AI Engineering | 45 | 30 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 36 | Highmark Health | Data Engineer | 45 | 11 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 37 | CuspAI | Applied AI/ML Research Engineer (Generative Models) | 44 | none found (check myvisajobs) | Nov 17 10:35 ET |
-| 38 | Humana | Data Engineer | 44 | 72 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 39 | Cencora | Contract Administration & Data Analytics Analyst | 42 | 1 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 40 | University of Louisville | Temporary Research Assistant (Part Time) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 41 | Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 42 | ING | Data Analyst | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 43 | Truist Bank | Institutional Investment Analyst I | 40 | 99 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 44 | UTHealth Houston | Patient Services Representative (Entry Level - PreDoc Dental Clinic) | 40 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 45 | Equifax | Senior Financial BI & Big Data Quality Analyst (SQL) | 77 | 34 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 46 | The Home Depot | Sr. Data Analyst Labor | 75 | 27 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 47 | JP Morgan Chase | Senior Associate- Applied AI/ML | 71 | 1098 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 48 | Truist Bank | Data Scientist II (Compliance Testing) | 70 | 99 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 49 | Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design | 65 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 50 | Natera | Research Associate 2 | 57 | 28 in data/analytics/finance occupations | Nov 16 18:51 ET |
-| 51 | GE Healthcare | Senior AI Engineer | 57 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 52 | Varian | Senior Research Scientist, Optimization Algorithms | 57 | 12 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 53 | Humana | Senior Analytics Solutions Engineer | 56 | 72 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 34 | Atoms | Cloud Platform - ML Robotics Infra Engineer | 50 | none found (check myvisajobs) | Nov 17 13:11 ET |
+| 35 | Kemin | Job Title Research Associate | 45 | 2 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 36 | Pfizer | Associate, AI Engineering | 45 | 30 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 37 | Highmark Health | Data Engineer | 45 | 11 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 38 | CuspAI | Applied AI/ML Research Engineer (Generative Models) | 44 | none found (check myvisajobs) | Nov 17 10:35 ET |
+| 39 | Humana | Data Engineer | 44 | 72 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 40 | Cencora | Contract Administration & Data Analytics Analyst | 42 | 1 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 41 | University of Louisville | Temporary Research Assistant (Part Time) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 42 | Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 43 | ING | Data Analyst | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 44 | Truist Bank | Institutional Investment Analyst I | 40 | 99 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 45 | UTHealth Houston | Patient Services Representative (Entry Level - PreDoc Dental Clinic) | 40 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 46 | Equifax | Senior Financial BI & Big Data Quality Analyst (SQL) | 77 | 34 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 47 | The Home Depot | Sr. Data Analyst Labor | 75 | 27 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 48 | JP Morgan Chase | Senior Associate- Applied AI/ML | 71 | 1098 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 49 | Truist Bank | Data Scientist II (Compliance Testing) | 70 | 99 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 50 | Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design | 65 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 51 | Natera | Research Associate 2 | 57 | 28 in data/analytics/finance occupations | Nov 16 18:51 ET |
+| 52 | GE Healthcare | Senior AI Engineer | 57 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 53 | Varian | Senior Research Scientist, Optimization Algorithms | 57 | 12 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 54 | Humana | Senior Analytics Solutions Engineer | 56 | 72 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
 
 ---
 
@@ -728,7 +729,22 @@ This position plays an integral role in advancing the research mission of HeadsU
 
 ---
 
-## 34. [MAYBE] Kemin | Job Title Research Associate
+## 34. [MAYBE] Atoms | Cloud Platform - ML Robotics Infra Engineer
+- Link: https://job-boards.greenhouse.io/cssmerge/jobs/8948543002
+- Location: Pittsburgh, PA
+- Posted: Nov 17 13:11 ET
+- Scanner fit: ~50 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, bigquery, dashboard, etl, gcp, python, athena, data quality, docker, healthcare, kubernetes, pipeline | Lacks: airflow, c++, dbt, scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Who we are &nbsp; Lab37 Robotics , is a technology company focused on the development and deployment of robots designed specifically for direct-to-customer food production. Our mission is to revolutionize the food industry by creating innovative robotic solutions that enhance efficiency, quality, and customer satisfaction. We are passionate about pushing the boundaries of technology to deliver cutting-edge products that meet the evolving needs of our clients. &nbsp; What you'll do Take on ownership of the robotics ML cloud platform layer that powers Lab37's robotics fleet. This spans bridging cloud infrastructure with edge robotics workflows, enabling rapid prototyping, reading and understanding C++ robotics code, and deploying cloud-enabled ML workflows that allow robotics engineers to run inference models and assess results in production environments. Work with a small, high-impact platform team to build end-to-end tooling and integrations — from quick model experiments and C++ integration to productionizing cloud workflows that empower robotics engineers to call ML models directly and evaluate system performance in the field. Responsibilities Read, analyze, and interface with C++ robotics codebases to ensure seamless integration between on-robot software and cloud-hosted ML workflows. Build and maintain cloud-enabled pipelines that stream robot telemetry, execute ML inference workloads, and feed evaluated signals back into robotics control loops. Design and maintain data quality checks and observability dashboards (the "glass panel" for data pipeline health) Own the data warehouse layer — schema design, incremental loading, dbt transforms, and BigQuery/Athena query optimization Partnership with other cloud engineers to build a golden path for CI/CD and continuously improve developer and shipping experience.&nbsp; Partner end-to-end with robotics engineers to rapidly prototype, deploy, and operationalize cloud ML APIs and interfaces for real-time model evaluation and field execution. Participate in on-call rotations for data pipeline reliability &nbsp; What we're looking for 3+ years in robotics infra, cloud infrastructure Strong experience with workflow orchestration tools (SageMaker, ArgoWorkflows, Airflow, or similar) Strong proficiency in C++ and Python for navigating robotics software stacks and building scalable ML pipelines Experience in end-to-end ML lifecycle management — from rapid prototyping to deploying production cloud workflows accessible by edge robotics software Experience with cloud data services&nbsp; Docker containerization and Kubernetes basics Desirable skills Robotics or IoT telemetry data experience — understanding the challenges of real-world sensor data ETL debugging, data quality frameworks, anomaly detection, and low-level Linux system configuration Experience with hybrid cloud environments (AWS + GCP) and AWS infrastructure components including Amazon S3, scaling S3 pipelines, DynamoDB, and Amazon SageMaker Experience with dbt for data transformations and warehouse modeling &nbsp; Why join us Demand for online food delivery is growing really fast! In the last 5 years, just in the US, the overall market has expanded 10X from $10B to $100B, and could expand to $500bn- $1T by 2030. Changing the restaurant industry: You’ll be part of a team that helps restaurants succeed in online food delivery.&nbsp; Collaborative environment: You will receive support and guidance from experienced colleagues and managers, helping you to learn, grow and achieve your goals, and you’ll work closely with other teams to ensure our customer’s success. &nbsp; What else you need to know This role is based in our Pittsburgh &nbsp; office. As a company driven by invention and continuous change - we are constantly reimagining our industries, building new products, and refining how we operate. We do our best work together. That’s why all of our office-based teams work onsite, five days a week. The base salary range for this role is $140,000 - $170,000 per year. Actual compensation will be determined on an individual basis and may vary depending on experience, skills, and qualifications. Base salary is just one part of your total rewards package. You may also be eligible for equity awards and an annual performance-based bonus. Benefits Summary (USA Full-Time Exempt Employees): Medical, dental, and vision insurance (multiple plans, incl. HSA options). Company-paid life and disability insurance (short- and long-term). Voluntary insurance: accident, critical illness, hospital indemnity. Optional supplemental life insurance for self, spouse, and children. Pet insurance discount. 401(k). Health Savings Account (HSA) Flexible Spending Accounts (Healthcare, Dependent Care, Commuter) Time Off policies: Discretionary vacation days 8 paid holidays per year Paid sick time Paid Bereavement leave Paid Parental Leave Benefits are subject to change at the company's discretion. Atoms accepts applications on an ongoing basis. &nbsp; Ready to join us as we serve those who serve others?&nbsp; #LI-Onsite
+
+---
+
+## 35. [MAYBE] Kemin | Job Title Research Associate
 - Link: https://careers-kemin.icims.com/jobs/12604/research-associate/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -743,7 +759,7 @@ Research Associate in Parma | Careers at EMENA Region Please Enable Cookies to C
 
 ---
 
-## 35. [MAYBE] Pfizer | Associate, AI Engineering
+## 36. [MAYBE] Pfizer | Associate, AI Engineering
 - Link: https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-Kingdom---Walton-Oaks/Associate--AI-Engineering_4966818-2
 - Location: 2 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -758,7 +774,7 @@ This is an early-career engineering job where your work ends up in front of the 
 
 ---
 
-## 36. [MAYBE] Highmark Health | Data Engineer
+## 37. [MAYBE] Highmark Health | Data Engineer
 - Link: https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Data-Engineer_J291550
 - Location: 51 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -773,7 +789,7 @@ Company : Highmark Inc. Job Description : JOB SUMMARY This role is an integral m
 
 ---
 
-## 37. [MAYBE] CuspAI | Applied AI/ML Research Engineer (Generative Models)
+## 38. [MAYBE] CuspAI | Applied AI/ML Research Engineer (Generative Models)
 - Link: https://jobs.ashbyhq.com/cuspai/ea10b5f7-1672-4294-a9d4-602403e67a89
 - Location: Berlin, DE Germany remote
 - Posted: Nov 17 10:35 ET
@@ -912,7 +928,7 @@ CuspAI is an equal opportunities employer committed to building a diverse and in
 
 ---
 
-## 38. [MAYBE] Humana | Data Engineer
+## 39. [MAYBE] Humana | Data Engineer
 - Link: https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Data-Engineer_R-434927
 - Location: 11 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -927,7 +943,7 @@ Become a part of our caring community We are looking for a motivated and detail-
 
 ---
 
-## 39. [MAYBE] Cencora | Contract Administration & Data Analytics Analyst
+## 40. [MAYBE] Cencora | Contract Administration & Data Analytics Analyst
 - Link: https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Ohio/Contract-Administration---Data-Analytics-Analyst_R2618060
 - Location: Remote, Ohio
 - Posted: Nov 16 (board gives the date only)
@@ -942,7 +958,7 @@ Our team members are at the heart of everything we do. At Cencora, we are united
 
 ---
 
-## 40. [MAYBE] University of Louisville | Temporary Research Assistant (Part Time)
+## 41. [MAYBE] University of Louisville | Temporary Research Assistant (Part Time)
 - Link: https://uofl.wd1.myworkdayjobs.com/UofLCareerSite/job/Belknap-Campus/Temporary-Research-Assistant--Part-Time-_R109732
 - Location: Belknap Campus
 - Posted: Nov 16 (board gives the date only)
@@ -957,7 +973,7 @@ Department: Early Childhood Research Center-JM Location: Belknap Campus Time Typ
 
 ---
 
-## 41. [MAYBE] Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab)
+## 42. [MAYBE] Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab)
 - Link: https://seattlechildrens.wd5.myworkdayjobs.com/External/job/Seattle-WA/Research-Associate-I---Bench--Kalia-Lab-_R264858
 - Location: Seattle, WA
 - Posted: Nov 16 (board gives the date only)
@@ -972,7 +988,7 @@ A Research Associate I-Bench position focusing on translational discoveries in T
 
 ---
 
-## 42. [MAYBE] ING | Data Analyst
+## 43. [MAYBE] ING | Data Analyst
 - Link: https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bratislava/Data-Analyst_REQ-10121029-1
 - Location: Bratislava
 - Posted: Nov 16 (board gives the date only)
@@ -987,7 +1003,7 @@ The opportunity ING Wholesale Banking (WB) has been helping clients across the w
 
 ---
 
-## 43. [MAYBE] Truist Bank | Institutional Investment Analyst I
+## 44. [MAYBE] Truist Bank | Institutional Investment Analyst I
 - Link: https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Analyst-I_R0119462
 - Location: 3 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -1002,7 +1018,7 @@ The position is described below. If you want to apply, click the Apply Now butto
 
 ---
 
-## 44. [MAYBE] UTHealth Houston | Patient Services Representative (Entry Level - PreDoc Dental Clinic)
+## 45. [MAYBE] UTHealth Houston | Patient Services Representative (Entry Level - PreDoc Dental Clinic)
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8519
 - Location: San Antonio, TX, United States US
 - Posted: Nov 17 (board gives the date only)
@@ -1017,7 +1033,7 @@ Under direct supervision, responsible for providing customer service to patients
 
 ---
 
-## 45. [MAYBE] Equifax | Senior Financial BI & Big Data Quality Analyst (SQL)
+## 46. [MAYBE] Equifax | Senior Financial BI & Big Data Quality Analyst (SQL)
 - Link: https://equifax.wd5.myworkdayjobs.com/external/job/CRI-Sabana/Senior-Financial-Business-Intelligence-Analyst_J00179273-1
 - Location: CRI-Sabana
 - Posted: Nov 17 (board gives the date only)
@@ -1032,7 +1048,7 @@ The Financial Business Intelligence (BI) Data Quality Analyst is responsible for
 
 ---
 
-## 46. [MAYBE] The Home Depot | Sr. Data Analyst Labor
+## 47. [MAYBE] The Home Depot | Sr. Data Analyst Labor
 - Link: https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Data-Analyst-Labor_Req198996
 - Location: STORE SUPPORT CENTER, ATLANTA - 9090
 - Posted: Nov 17 (board gives the date only)
@@ -1047,7 +1063,7 @@ With a career at The Home Depot, you can be yourself and also be part of somethi
 
 ---
 
-## 47. [MAYBE] JP Morgan Chase | Senior Associate- Applied AI/ML
+## 48. [MAYBE] JP Morgan Chase | Senior Associate- Applied AI/ML
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808835
 - Location: Jersey City, NJ, United States US New York, NY, United States
 - Posted: Nov 17 (board gives the date only)
@@ -1062,7 +1078,7 @@ Job Responsibilities Develop advanced agentic AI solutions across NLP, speech an
 
 ---
 
-## 48. [MAYBE] Truist Bank | Data Scientist II (Compliance Testing)
+## 49. [MAYBE] Truist Bank | Data Scientist II (Compliance Testing)
 - Link: https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Data-Scientist-II--Compliance-Testing-_R0121704
 - Location: 4 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -1077,7 +1093,7 @@ The position is described below. If you want to apply, click the Apply Now butto
 
 ---
 
-## 49. [MAYBE] Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design
+## 50. [MAYBE] Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design
 - Link: https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Senior-Scientist--Machine-Learning-and-Algorithm-Development-for-RNA-Design_R20182
 - Location: see posting
 - Posted: Nov 16 (board gives the date only)
@@ -1092,7 +1108,7 @@ The Role Moderna is seeking a computational scientist to develop artificial inte
 
 ---
 
-## 50. [MAYBE] Natera | Research Associate 2
+## 51. [MAYBE] Natera | Research Associate 2
 - Link: https://job-boards.greenhouse.io/natera/jobs/6250593004
 - Location: Boulder, CO
 - Posted: Nov 16 18:51 ET
@@ -1107,7 +1123,7 @@ LOCATION : On-Site in Boulder, CO (Foresight Dx business unit, a Natera company)
 
 ---
 
-## 51. [MAYBE] GE Healthcare | Senior AI Engineer
+## 52. [MAYBE] GE Healthcare | Senior AI Engineer
 - Link: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Staff-Machine-Learning-Engineer_R4042375-1
 - Location: Haifa HEALTHCARE HA IL 2
 - Posted: Nov 16 (board gives the date only)
@@ -1122,7 +1138,7 @@ Job Description Summary The Senior AI Engineer is a senior technical leader resp
 
 ---
 
-## 52. [MAYBE] Varian | Senior Research Scientist, Optimization Algorithms
+## 53. [MAYBE] Varian | Senior Research Scientist, Optimization Algorithms
 - Link: https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HEL-AA/Senior-Research-Scientist--Optimization-Algorithms_R-31898-1
 - Location: HEL AA
 - Posted: Nov 16 (board gives the date only)
@@ -1137,7 +1153,7 @@ Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sus
 
 ---
 
-## 53. [MAYBE] Humana | Senior Analytics Solutions Engineer
+## 54. [MAYBE] Humana | Senior Analytics Solutions Engineer
 - Link: https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Analytics-Solutions-Engineer_R-433143
 - Location: Remote Nationwide
 - Posted: Nov 17 (board gives the date only)
