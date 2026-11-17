@@ -10,65 +10,78 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 4 | Oregon State Government | Power BI Developer (Information Systems Specialist 6) | 74 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
 | 5 | Whataburger | Marketing Analyst | 74 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
 | 6 | Allegiant Air | Financial Analyst (Payments) | 74 | 6 in data/analytics/finance occupations | Nov 17 07:57 ET |
-| 7 | Kraft Heinz | Scientist, R&D – Data Analytics & Operations​ | 70 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 8 | CVS Health | Decision Scientist (Automation & Optimization) | 68 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 9 | S&P Global | Analyst, Analytic Quality & Validation | 67 | 5 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 10 | DriveTime | Analyst, Performance Reporting | 67 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 11 | Clera | Founding Engineer (AI/ML) | 65 | none found (check myvisajobs) | Nov 17 12:26 ET |
-| 12 | SouthState Bank | Compensation Analytics & Technology Coordinator | 64 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 13 | AllianceBernstein | Derivative Valuation Analyst | 62 | 24 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 14 | Faculty AI | Data Scientist  | 61 | none found (check myvisajobs) | Nov 17 14:55 ET |
-| 15 | Verizon Communications | Forward Deployed AI Engineer | 59 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 16 | CNA Insurance | Business Intelligence Developer | 57 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 17 | Deutsche Bank | Structured Finance Investment Analyst (RMBS & CMBS) | 57 | 213 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 18 | City of New York | OEI Research Assistant, Bureau of Environmental Disease Prevention | 57 | none found (check myvisajobs) | Nov 17 06:13 ET |
-| 19 | Anglian Water | Data Engineer | 57 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 20 | Manulife Financial | Associate Data Scientist | 55 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 21 | Dell Technologies | Inside Product Specialist - Early Career | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 22 | Legal & General | Associate, Investment Analytics, L&G - Asset Management, America | 54 | none found (check myvisajobs) | Nov 16 18:23 ET |
-| 23 | Texas A&M University - College Station | Research Assistant | 54 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 24 | Texas A&M University System | Research Assistant | 54 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 25 | Boston Medical Center | Post Doc Research Fellow, Ophthalmology | 54 | 18 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 26 | SentiLink | Strategy & Analytics Associate | 54 | 4 in data/analytics/finance occupations | Nov 17 10:32 ET |
-| 27 | IBC Bank | Fraud Data Analyst | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 28 | TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 29 | TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start | 52 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 30 | Atoms | AI Researcher - New Grad (PhD) | 52 | none found (check myvisajobs) | Nov 17 15:00 ET |
-| 31 | Avnet | Business Intelligence Analyst | 52 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 32 | Google | Research Scientist, Error Correction Experiments, Quantum AI | 50 | 1053 in data/analytics/finance occupations | Nov 17 03:09 ET |
-| 33 | Pernod Ricard créateurs de convivialité | Master Data Analyst | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 34 | Texas A&M AgriLife Research | Research Associate | 50 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 35 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 36 | PennState University | Research Assistant - Cattadori Lab | 50 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 37 | Loyola Marymount University | Research Scientist | 50 | cap-exempt employer | Nov 17 (board gives the date only) |
-| 38 | Atoms | Cloud Platform - ML Robotics Infra Engineer | 50 | none found (check myvisajobs) | Nov 17 13:11 ET |
-| 39 | Evolent | Full Stack AI Engineer (AI Service Engines & Integration) | 48 | 2 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 40 | Shirley Ryan AbilityLab | Research Assistant - tiHUB | 47 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 41 | Kemin | Job Title Research Associate | 45 | 2 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 42 | Pfizer | Associate, AI Engineering | 45 | 30 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 43 | Highmark Health | Data Engineer | 45 | 11 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 44 | WVUMedicine | Research Associate | 45 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 45 | CuspAI | Applied AI/ML Research Engineer (Generative Models) | 44 | none found (check myvisajobs) | Nov 17 10:35 ET |
-| 46 | Humana | Data Engineer | 44 | 72 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 47 | Cencora | Contract Administration & Data Analytics Analyst | 42 | 1 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 48 | University of Louisville | Temporary Research Assistant (Part Time) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 49 | Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 50 | ING | Data Analyst | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 51 | Truist Bank | Institutional Investment Analyst I | 40 | 99 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 52 | UTHealth Houston | Patient Services Representative (Entry Level - PreDoc Dental Clinic) | 40 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 53 | Equifax | Senior Financial BI & Big Data Quality Analyst (SQL) | 77 | 34 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 54 | The Home Depot | Sr. Data Analyst Labor | 75 | 27 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 55 | JP Morgan Chase | Senior Associate- Applied AI/ML | 71 | 1098 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 56 | Truist Bank | Data Scientist II (Compliance Testing) | 70 | 99 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 57 | Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design | 65 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 58 | Capital One | Senior Data Analyst - US Card | 64 | 458 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 59 | Natera | Research Associate 2 | 57 | 28 in data/analytics/finance occupations | Nov 16 18:51 ET |
-| 60 | GE Healthcare | Senior AI Engineer | 57 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 61 | Varian | Senior Research Scientist, Optimization Algorithms | 57 | 12 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 62 | Humana | Senior Analytics Solutions Engineer | 56 | 72 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 63 | Johnson & Johnson | Senior Data Analyst, CX Insights | 56 | 11 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 64 | Kensho | Machine Learning Engineer II | 55 | 2 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 65 | S&P Global | Machine Learning Engineer II | 55 | 5 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 7 | Abbott | Associate Clinical Information Analyst | 74 | 14 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 8 | HERE Technologies | Requisition Title Data Scientist | 71 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 9 | Kraft Heinz | Scientist, R&D – Data Analytics & Operations​ | 70 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 10 | CVS Health | Decision Scientist (Automation & Optimization) | 68 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 11 | Kodiak Robotics | Data Scientist | 68 | none found (check myvisajobs) | Nov 17 15:36 ET |
+| 12 | S&P Global | Analyst, Analytic Quality & Validation | 67 | 5 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 13 | DriveTime | Analyst, Performance Reporting | 67 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 14 | Clera | Founding Engineer (AI/ML) | 65 | none found (check myvisajobs) | Nov 17 12:26 ET |
+| 15 | SouthState Bank | Compensation Analytics & Technology Coordinator | 64 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 16 | AllianceBernstein | Derivative Valuation Analyst | 62 | 24 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 17 | Centific | AI Research Engineer: Vision AI / VLM / Physical AI | 62 | 11 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 18 | Faculty AI | Data Scientist  | 61 | none found (check myvisajobs) | Nov 17 14:55 ET |
+| 19 | Verizon Communications | Forward Deployed AI Engineer | 59 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 20 | CNA Insurance | Business Intelligence Developer | 57 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 21 | Deutsche Bank | Structured Finance Investment Analyst (RMBS & CMBS) | 57 | 213 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 22 | City of New York | OEI Research Assistant, Bureau of Environmental Disease Prevention | 57 | none found (check myvisajobs) | Nov 17 06:13 ET |
+| 23 | Anglian Water | Data Engineer | 57 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 24 | Manulife Financial | Associate Data Scientist | 55 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 25 | Dell Technologies | Inside Product Specialist - Early Career | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 26 | Legal & General | Associate, Investment Analytics, L&G - Asset Management, America | 54 | none found (check myvisajobs) | Nov 16 18:23 ET |
+| 27 | Texas A&M University - College Station | Research Assistant | 54 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 28 | Texas A&M University System | Research Assistant | 54 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 29 | Boston Medical Center | Post Doc Research Fellow, Ophthalmology | 54 | 18 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 30 | SentiLink | Strategy & Analytics Associate | 54 | 4 in data/analytics/finance occupations | Nov 17 10:32 ET |
+| 31 | IBC Bank | Fraud Data Analyst | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 32 | TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 33 | TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start | 52 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 34 | Atoms | AI Researcher - New Grad (PhD) | 52 | none found (check myvisajobs) | Nov 17 15:00 ET |
+| 35 | Avnet | Business Intelligence Analyst | 52 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 36 | Google | Research Scientist, Error Correction Experiments, Quantum AI | 50 | 1053 in data/analytics/finance occupations | Nov 17 03:09 ET |
+| 37 | Pernod Ricard créateurs de convivialité | Master Data Analyst | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 38 | Texas A&M AgriLife Research | Research Associate | 50 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 39 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 40 | PennState University | Research Assistant - Cattadori Lab | 50 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 41 | Loyola Marymount University | Research Scientist | 50 | cap-exempt employer | Nov 17 (board gives the date only) |
+| 42 | Atoms | Cloud Platform - ML Robotics Infra Engineer | 50 | none found (check myvisajobs) | Nov 17 13:11 ET |
+| 43 | Evolent | Full Stack AI Engineer (AI Service Engines & Integration) | 48 | 2 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 44 | Retell AI | Applied AI Engineer (Customer Facing), Spanish speaking | 48 | none found (check myvisajobs) | Nov 17 15:37 ET |
+| 45 | Shirley Ryan AbilityLab | Research Assistant - tiHUB | 47 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 46 | Lowe's | Data Scientist | 47 | 65 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 47 | University of Chicago | Research Professional | 47 | cap-exempt employer | Nov 17 (board gives the date only) |
+| 48 | Kemin | Job Title Research Associate | 45 | 2 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 49 | Pfizer | Associate, AI Engineering | 45 | 30 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 50 | Highmark Health | Data Engineer | 45 | 11 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 51 | WVUMedicine | Research Associate | 45 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 52 | Atoms | AI Researcher - New Grad (BS/MS) | 45 | none found (check myvisajobs) | Nov 17 15:08 ET |
+| 53 | IQVIA | Research Assistant | 45 | 95 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 54 | CuspAI | Applied AI/ML Research Engineer (Generative Models) | 44 | none found (check myvisajobs) | Nov 17 10:35 ET |
+| 55 | Humana | Data Engineer | 44 | 72 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 56 | Toast | Data Engineer | 43 | 5 in data/analytics/finance occupations | Nov 17 15:59 ET |
+| 57 | Cencora | Contract Administration & Data Analytics Analyst | 42 | 1 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 58 | University of Louisville | Temporary Research Assistant (Part Time) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 59 | Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 60 | ING | Data Analyst | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 61 | Truist Bank | Institutional Investment Analyst I | 40 | 99 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 62 | UTHealth Houston | Patient Services Representative (Entry Level - PreDoc Dental Clinic) | 40 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 63 | Equifax | Senior Financial BI & Big Data Quality Analyst (SQL) | 77 | 34 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 64 | The Home Depot | Sr. Data Analyst Labor | 75 | 27 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 65 | Hasbro | Senior Analyst, People Analytics (Temporary Assignment) | 72 | 2 in data/analytics/finance occupations | Nov 17 15:36 ET |
+| 66 | JP Morgan Chase | Senior Associate- Applied AI/ML | 71 | 1098 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 67 | Truist Bank | Data Scientist II (Compliance Testing) | 70 | 99 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 68 | AbbVie | Sr Scientist, Quantitative Bioimaging | 67 | 96 in data/analytics/finance occupations | Nov 17 15:48 ET |
+| 69 | Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design | 65 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 70 | Capital One | Senior Data Analyst - US Card | 64 | 458 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 71 | Natera | Research Associate 2 | 57 | 28 in data/analytics/finance occupations | Nov 16 18:51 ET |
+| 72 | GE Healthcare | Senior AI Engineer | 57 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 73 | Varian | Senior Research Scientist, Optimization Algorithms | 57 | 12 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 74 | Humana | Senior Analytics Solutions Engineer | 56 | 72 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 75 | Johnson & Johnson | Senior Data Analyst, CX Insights | 56 | 11 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 76 | Kensho | Machine Learning Engineer II | 55 | 2 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 77 | S&P Global | Machine Learning Engineer II | 55 | 5 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 78 | JP Morgan Chase | Digital Channels Quant Analytics, Senior Associate | 55 | 1098 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
 
 ---
 
@@ -208,7 +221,37 @@ The Physical Demands and Work Environment described here are a representative of
 
 ---
 
-## 7. [MAYBE] Kraft Heinz | Scientist, R&D – Data Analytics & Operations​
+## 7. [MAYBE] Abbott | Associate Clinical Information Analyst
+- Link: https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Santa-Clara/Associate-Clinical-Information-Analyst_31167479-1
+- Location: United States - California - Santa Clara
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~74 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 14 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, data visualization, excel, power bi, python, sql, statistic, healthcare, portfolio, reporting | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and branded generic medicines. Our 122,000 colleagues serve people in more than 160 countries. JOB DESCRIPTION: Working at Abbott At Abbott, you can do work that matters, grow, and learn, care for yourself and your family, be your true self, and live a full life. You’ll also have access to: Career development with an international company where you can grow the career you dream of. Employees can qualify for free medical coverage in our Health Investment Plan (HIP) PPO medical plan in the next calendar year. An excellent retirement savings plan with a high employer contribution. Tuition reimbursement, the Freedom 2 Save student debt program, and FreeU education benefit - an affordable and convenient path to getting a bachelor’s degree. A company recognized as a great place to work in dozens of countries worldwide and named one of the most admired companies in the world by Fortune. A company that is recognized as one of the best big companies to work for as well as the best place to work for diversity, working mothers, female executives, and scientists. The Opportunit y This position will be an on-site position out of our Santa Clara, CA location in the Medical Device division. Our medical devices help more than 10,000 people have healthier hearts, improve quality of life for thousands of people living with chronic pain and movement disorders, and liberate more than 500,000 people with diabetes from routine ﬁngersticks. Working under Supervision, the Associate Clinical Information Analyst, supports the delivery of high-quality clinical analytics and reporting products through developing, testing, validating, and troubleshooting to ensure solutions meet business requirements, quality standards, and user needs. You will develop and maintain reporting and dashboard through collaboration with stakeholders and Product Owners. What you'll work on Collaborate with stakeholders, business owners, and customers to ensure comprehensive understanding of Reporting and Analytics products. Configures data models and data flows; engineers required reporting elements into data models. Create logic and relationships for data models and data tables Develop and maintain scripts, procedures, and automation tools according to specifications to streamline data standardizing and processing tasks. Build and maintain MS Power Platform products for data ingestion and data management. Design and develop report and page level visualizations, filters, and measures using Power BI. Establish required functionalities of reports, including relationships and filters. Tests analytics and reporting products to specifications and business requirements. Peer review and QC of products. Complies with U.S. Food and Drug Administration (FDA) regulations, other regulatory requirements, Company policies, operating procedures, processes, and task assignments. Maintains positive and cooperative communication and collaboration with all levels of employees, customers, contractors, and vendors. Required Qualifications Bachelor's degree in Software engineering, computer science, Business Administration, Data Science, Statistics, or related Life Sciences degree or an equivalent combination of education and work experience. Minimum 0-3 years of experience with relational databases, data modeling, data visualization, software/non-product software development methodologies, and agile methodology experience is recommended. Experience with unit and integration level testing and automated testing is strongly recommended. Experience working in a broader enterprise/cross-division business unit model preferred. Ability to work in a highly matrixed and geographically diverse business environment. Ability to work within a team and as an individual contributor in a fast-paced, changing environment. Strong verbal and written communications with ability to effectively communicate at multiple levels in the organization. Multitasks, prioritizes and meets deadlines in timely manner. Strong organizational and follow-up skills, as well as attention to detail. Preferred Qualifications Experience with programming languages such as SQL, Vega/Vega-Lite, JSON, and Python are strongly recommended. Experience with MS Power Platform and Power BI is preferred. Apply Now Learn more about our health and wellness benefits, which provide the security to help you and your family live full lives: https://abbottbenefits.com/ Follow your career aspirations to Abbott for diverse opportunities with a company that can help you build your future and live your best life. Abbott
+
+---
+
+## 8. [MAYBE] HERE Technologies | Requisition Title Data Scientist
+- Link: https://careers-here.icims.com/jobs/85071/data-scientist/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~71 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: llm, postgres, python, pytorch, sql, tensorflow, deep learning, pipeline, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Working at HERE | Take your career further | Data Scientist in Chicago, Illinois | Careers at US Chicago (IL) Randolph Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log back in! Data Scientist Job Locations US-IL-Chicago Requisition ID 2026-85071 Category Product & Engineering What's the role? As Data Scientist II you have 1-2 years of experience, specializing in Vision Foundation Models develops and scales large-scale visual, multimodal, or generative models (like ViT, SAM, DinoV3) using Python and PyTorch/TensorFlow. Responsibilities include pre-training, fine-tuning, and optimizing model architectures for perception and reasoning. Requires experience in self-supervised learning, computer vision, and deploying high-performance models. Your role includes: Model Development: Design, train, and scale vision foundation models across image and video modalities. Fine-tuning & Adaptation: Utilize transfer learning, fine-tuning, and adapter methods to adapt models to specific downstream tasks. Pipeline Engineering: Create efficient data pipelines and pre-training strategies for large-scale datasets. Optimization: Optimize model architecture, training efficiency, latency, and throughput. Research to Production: Implement novel algorithms from research papers to solve real-world computer vision challenges. Evaluation: Implement evaluation frameworks (e.g., using LLM-as-a-judge or traditional metrics) to measure model performance and quality. Who are you? Skills and Qualifications Technical Proficiencies: Advanced proficiency in Python and deep learning frameworks like PyTorch. Vision Expertise: Strong understanding of Computer Vision techniques, Vision Transformers (ViT), and self-supervised learning. Model Experience: Hands-on experience with foundational model architectures (e.g., SAM, DinoV3). Data Handling: Experience handling large-scale, unstructured datasets. Education & Experience: Typically requires a Master's or above in Computer Science, AI, or related fields. Performance Optimization: Experience with CUDA for performance optimization. Preferred Qualifications Experience with generative models or diffusion models. Knowledge of Multimodal Learning (image and text/video). Experience with edge AI deployment. Experience with database management and optimization, with a strong preference on PostgreSQL / PostGIS. The expected base salary range for this position is $110,000 to $125,000 per year. Actual compensation will be based on factors such as skills and experience. This position is also eligible for an annual performance bonus, which is subject to company and individual performance. Life at HERE comes with generous benefits to support your health and overall wellness. Benefits available to US-based HERE employees include health (Medical/Dental/Vision) insurance, retirement savings plans, paid time off & leave policies . As part of HERE Technologies employment process, candidates will be required to successfully complete a background verification process. Offers of employment and any related claims are subject to the successful completion of a background verification. Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, HERE will consider for employment qualified applicants with arrest and conviction records. HERE
+
+---
+
+## 9. [MAYBE] Kraft Heinz | Scientist, R&D – Data Analytics & Operations​
 - Link: https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Scientist--R-D---Data-Analytics---Operations-_R-108544-1
 - Location: Glenview, IL
 - Posted: Nov 16 (board gives the date only)
@@ -223,7 +266,7 @@ Job Description Job Purpose The R&D Scientist for Data Analytics & Operations us
 
 ---
 
-## 8. [MAYBE] CVS Health | Decision Scientist (Automation & Optimization)
+## 10. [MAYBE] CVS Health | Decision Scientist (Automation & Optimization)
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Illinois/Decision-Scientist--Automation---Optimization-_R1053070
 - Location: Work At Home-Illinois
 - Posted: Nov 16 (board gives the date only)
@@ -238,7 +281,22 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 9. [MAYBE] S&P Global | Analyst, Analytic Quality & Validation
+## 11. [MAYBE] Kodiak Robotics | Data Scientist
+- Link: https://job-boards.greenhouse.io/kodiak/jobs/4511215009
+- Location: Mountain View, CA
+- Posted: Nov 17 15:36 ET
+- Scanner fit: ~68 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, data visualization, etl, excel, machine learning, python, statistic, fraud, quantitative, research | Lacks: c++  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | person status, and/or citizenship status. / person status, and/or citizenship status necessitate an export license, bar the candidate from the position, or otherwise fall under national security-related restrictions, Kodiak will consider the candidate for alternat
+
+### Job description
+
+Kodiak AI, Inc. (Nasdaq: KDK), founded in 2018, is a leader in Physical AI, developing driverless technology that powers machines that move. Its Kodiak Driver is a vehicle-agnostic autonomous driving system that combines AI-powered software with modular hardware. Today it operates in long-haul trucking, industrial trucking, and defense. In 2024, Kodiak launched commercial Driver-as-a-Service operations with no one in the cab, and plans to launch driverless long-haul service between Dallas and Houston by the end of 2026. Kodiak has partnered with many of the biggest names in freight, including Bosch for scaled hardware production, AWS, and leading customers including Atlas Energy Solutions, IKEA, Bridgestone, Werner Enterprises, C.R. England, Roehl Transport, and General Dynamics Land Systems. We are looking for a Data Scientist with a background in data analysis, statistical modeling, data-centric research, and problem-solving. This person must understand the fundamentals of data interrogation frameworks, predictive analytics, and machine learning methods. The person in this role will be ensuring data cleanliness, eliminating statistical noise, and validating data metrics and dashboards to accelerate our engineering and commercial development. The role will work collaboratively across multiple teams to systematize data usage, analyze performance trends, and turn complex datasets into reliable, actionable insights. In this role, you will: Optimize and enhance existing metrics, dashboards, and data interrogation frameworks to support an efficient analytics process. Design and implement statistical and machine learning models to solve practical business problems and answer core product questions. Research and evaluate incoming datasets, distinguishing meaningful operational trends and conclusions from statistical noise. Facilitate the development of our data platform by ensuring data cleanliness, schema accuracy, and reliable underlying metrics. Collaborate with Software Engineers, Operations, and Autonomy teams to enable broad dissemination of data insights across the organization. Develop and maintain data visualization tools to ensure key findings are accessible and easily interpreted by all stakeholders. Serve as the domain expert across a broad range of data sources, monitoring real-time trends to maximize data utility over time. What you bring: Strong technical background as evidenced by a BS, MS, or PhD in Computer Science, Statistics, Operations Research, or a related quantitative field. 2+ years of academic or industry experience applying machine learning, mathematical optimization, and statistical modeling to practical business problems. Solid understanding of data aggregation, statistical interrogation metrics, and their underlying mathematical principles. Proficiency with Python, along with a willingness to learn C++. Experience with version control systems and modern software development workflows. Experience evaluating complex dataset releases (e.g., determining performance improvements in autonomy models vs. baseline). Familiarity with data platform infrastructure and ensuring dataset cleanliness. Bonus for experience in operations research or specialized quantitative modeling. Bonus for experience communicating insights to non-technical cross-functional teams. Bonus for experience in real-time data trend recognition and alerting. Great communicator; you must be capable of presenting clear, data-driven conclusions and writing concise documentation. Passion; you must be passionate about autonomous vehicles and their potential impact on humanity. What we offer: Competitive compensation package including equity and annual bonuses Excellent Medical, Dental, and Vision plans through Kaiser Permanente, Cigna, and&nbsp; MetLife (including a medical plan with infertility benefits) MetLife Legal Services, Identity &amp; Fraud Protection, Hospital Indemnity Insurance, Accident Insurance, &amp; Critical Illness Insurance Flexible PTO, 10 paid holidays, and generous parental leave policies Our office is centrally located in Mountain View, CA Office perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV charging Long Term Disability, Short Term Disability, Life Insurance Wellbeing Benefits - Headspace through Cigna, Calm through Kaiser, One Medical, Gympass, Spring Health through Cigna, Rula (mental health navigation)&nbsp; Fidelity 401(k) Commuter, FSA, Dependent Care FSA, HSA Various incentive programs (referral bonuses, patent bonuses, etc.) The pay range listed below reflects the base salary&nbsp; in our SF/Silicon Valley location,&nbsp; across several internal levels. Actual starting pay will be based on job-related factors including: work location, experience, relevant training, education, skill level and performance during interview. Total compensation at Kodiak includes base pay, equity, bonus and a competitive benefits package California Pay Range $130,000 &mdash; $150,000 USD &nbsp; At Kodiak, we strive to build a diverse community working towards our common company goals in a safe and collaborative environment where harassment of any kind is strictly prohibited. Kodiak is committed to equal opportunity employment regardless of race, ethnicity, religion, gender identity, sexual orientation, age, disability, or veteran status, or any other basis protected by applicable law. &nbsp; In alignment with its business operations, Kodiak adheres to all relevant statutes, regulations, and administrative prerequisites. Accordingly, roles that carry more sensitive requirements may be limited to candidates that can satisfy additional scrutiny and eligibility for such positions may hinge on verification of a candidate’s residence, U.S. person status, and/or citizenship status. Should the position require, and Kodiak determines that a candidate’s residence, U.S. person status, and/or citizenship status necessitate an export license, bar the candidate from the position, or otherwise fall under national security-related restrictions, Kodiak will consider the candidate for alternative positions unaffected by such restrictions, under terms and conditions set forth at Kodiak’s sole discretion, or, as an alternative, opt not to proceed with the candidate’s application. If applicable, Kodiak may provide visa sponsorship for eligible candidates. &nbsp; We use a third-party AI tool (Endorsed) to assist in the initial screening of applications. As part of the evaluation process, we provide Endorsed with job requirements and candidate-submitted applications. Final hiring decisions are made by our human recruitment team, and no automated system makes the ultimate decision regarding hiring. Certain features of the platform may qualify it as an Automated Employment Decision Tool (AEDT) under applicable regulations. We began using Endorsed on January 1, 2026. You can review the independent bias audit report covering our use of Endorsed [here]( https://endorsed.com/l [...]
+
+---
+
+## 12. [MAYBE] S&P Global | Analyst, Analytic Quality & Validation
 - Link: https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Analyst--Analytic-Quality---Validation_332930-1
 - Location: New York, NY
 - Posted: Nov 16 (board gives the date only)
@@ -253,7 +311,7 @@ About the Role: Grade Level (for internal use): 11 Company Name: Standard & Poor
 
 ---
 
-## 10. [MAYBE] DriveTime | Analyst, Performance Reporting
+## 13. [MAYBE] DriveTime | Analyst, Performance Reporting
 - Link: https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analyst--Performance-Reporting_R16542
 - Location: 1720 W Rio Salado Pkwy Tempe, AZ 85281
 - Posted: Nov 17 (board gives the date only)
@@ -268,7 +326,7 @@ What’s Under the Hood DriveTime Family of Brands includes in-house financing a
 
 ---
 
-## 11. [MAYBE] Clera | Founding Engineer (AI/ML)
+## 14. [MAYBE] Clera | Founding Engineer (AI/ML)
 - Link: https://jobs.ashbyhq.com/Clera/536342d3-f63f-43b3-9d9c-07edbca08574
 - Location: San Francisco United States
 - Posted: Nov 17 12:26 ET
@@ -327,7 +385,7 @@ On-site in San Francisco, California. The role works in person six days per week
 
 ---
 
-## 12. [MAYBE] SouthState Bank | Compensation Analytics & Technology Coordinator
+## 15. [MAYBE] SouthState Bank | Compensation Analytics & Technology Coordinator
 - Link: https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Compensation-Analytics---Technology-Coordinator_R-06321
 - Location: Remote Opportunity - VA, NC, SC, GA, FL, AL, TX, & CO
 - Posted: Nov 17 (board gives the date only)
@@ -342,7 +400,7 @@ The SouthState story is one of steady growth, deep community roots, and an unwav
 
 ---
 
-## 13. [MAYBE] AllianceBernstein | Derivative Valuation Analyst
+## 16. [MAYBE] AllianceBernstein | Derivative Valuation Analyst
 - Link: https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Derivative-Valuation-Analyst_R0019733-2
 - Location: Nashville, Tennessee
 - Posted: Nov 17 (board gives the date only)
@@ -357,7 +415,22 @@ Who You’ll Work With: AllianceBernstein is looking for a proactive, detail-ori
 
 ---
 
-## 14. [MAYBE] Faculty AI | Data Scientist 
+## 17. [MAYBE] Centific | AI Research Engineer: Vision AI / VLM / Physical AI
+- Link: https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Engineer--Vision-AI---VLM---Physical-AI_JR107045
+- Location: Remote Work( USA)
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 11 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: llm, python, pytorch, deep learning, docker, git, kpi, kubernetes, pipeline, publication, research, segmentation | Lacks: scala  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About Centific Centific is a frontier AI data foundry that curates diverse, high-quality data, using our purpose-built technology platforms to empower the Magnificent Seven and our enterprise clients with safe, scalable AI deployment. Our team includes more than 150 PhDs and data scientists, along with more than 4,000 AI practitioners and engineers. We harness the power of an integrated solution ecosystem—comprising industry-leading partnerships and 1.8 million vertical domain experts in more than 230 markets—to create contextual, multilingual, pre-trained datasets; fine-tuned, industry-specific LLMs; and RAG pipelines supported by vector databases. Our zero-distance innovation™ solutions for GenAI can reduce GenAI costs by up to 80% and bring solutions to market 50% faster. Our mission is to bridge the gap between AI creators and industry leaders by bringing best practices in GenAI to unicorn innovators and enterprise customers. We aim to help these organizations unlock significant business value by deploying GenAI at scale, helping to ensure they stay at the forefront of technological advancement and maintain a competitive edge in their respective markets. About Job AI Research Engineer: Vision AI / VLM / Physical AI Company: Centific Location: Seattle, WA (or Remote) Type: Full‑time Build the Future of Perception & Embodied Intelligence Are you pushing the frontier of computer vision, multimodal large models, and embodied/physical AI— and have the publications to show it ? Join us to translate cutting-edge‑ research into production systems that perceive, reason, and act in the real world. The Mission We are building state of‑ t‑heart Vision AI across 2D/3D perception, egocentric/360° understanding, and multimodal reasoning. As an AI Research Engineer, you will own high‑ ‑leverage experiments from paper → prototype → deployable module in our platform. We are seeking passionate Engineersto join our cutting-edge labs, you could be part of : Computer Vision team as a Research Engineer and dive into the world of 3D reconstruction, scene understanding, and visual AI. You’ll explore innovative techniques like those used to transform real-world spaces into immersive 3D models—such as the 3D Reconstruction projects —and work with cutting-edge architectures like VGG-T ( Visual Geometry Grounded Transformers) , known for advancing deep learning in vision tasks. This role is perfect for those excited to develop AI systems that interpret, reconstruct, and interact with the visual world, using state-of-the-art tools and methodologies. Physical AI Robotics team, where you’ll work at the intersection of simulation, robotics, and AI. You’ll leverage NVIDIA’s Omniverse for advanced 3D simulation and collaboration, Isaac Sim for robotics training and testing, and GR00T for foundation models in robotics. Experience with Holoscan SDK for real-time medical and industrial robotics pipelines, Newton Physics for dynamic simulation, and NVIDIA’s NERD for neural robot dynamics will be a plus. This role is ideal for those eager to push the boundaries of AI-driven robotics using state-of-the-art tools and frameworks. What You’ll Do Advance Visual Perception: Build and fine‑tune models for detection, tracking, segmentation (2D/3D), pose & activity recognition, and scene understanding (incl. 360° and multi‑view). Multimodal Reasoning with VLMs: Train/evaluate vision–language models (VLMs) for grounding, dense captioning, temporal QA, and tooluse; design retrieval‑ augmented and agentic loops for perception‑ action‑ tasks. Physical AI & Embodiment: Prototype perception‑in‑the‑loop policies that close the gap from pixels to actions (simulation + real data). Integrate with planners and task graphs for manipulation, navigation, or safety workflows. Data & Evaluation at Scale: Curate datasets, author high‑signal evaluation protocols/KPIs, and run ablations that make results irreproducible impossible . Systems & Deployment: Package research into reliable services on a modern stack (Kubernetes, Docker, Ray, FastAPI), with profiling, telemetry, and CI for reproducible science. Agentic Workflows: Orchestrate multi-agent pipelines (e.g., ‑LangGraphstyle graphs) that combine perception, reasoning, simulation, and ‑codeg eneration to ‑selfc heck and ‑selfcorrect‑. Example Problems You Might Tackle Long horizon‑ video understanding (events, activities, causality) from egocentric or 360° video. 3D scene grounding: linking language queries to objects, affordances, and trajectories. Fast, privacy preserving perception for ‑ondevice‑ or edge inference. Robust multi‑modal evaluation: temporal consistency, open‑set detection, uncertainty. Vision conditioned‑ policy evaluation in sim (Isaac/MuJoCo) with sim2real stress tests. Minimum Qualifications Masters/Ph.D in CS/EE/Robotics (or related), actively publishing in CV/ML/Robotics (e.g., CVPR/ICCV/ECCV, NeurIPS/ICML/ICLR, CoRL/RSS). Strong PyTorch (or JAX) and Python; comfort with CUDA profiling and mixed precision‑ training. Demonstrated research in computer vision and at least one of: VLMs (e.g., LLaVA style, video‑ language‑ models), embodied/physical AI , 3D perception . Proven ability to move from paper → code → ablation → result with rigorous experiment tracking. Preferred Qualifications Experience with video models (e.g., TimeSFormer/MViT/VideoMAE), diffusion or 3D GS/NeRF pipelines, or SLAM/scene reconstruction . Prior work on multimodal grounding (referring expressions, spatial language, affordances) or temporal reasoning . Familiarity with ROS2 , DeepStream/TAO , or edge inference optimizations (TensorRT, ONNX). Scalable training: Ray , distributed data loaders, sharded checkpoints. Strong software craft: testing, linting, profiling, containers, and reproducibility. Public code artifacts (GitHub) and first‑author publications or strong open source‑ impact. Our Stack (you’ll touch a subset) Modeling: PyTorch, torchvision/lightning, Hugging Face, OpenMMLab, xFormers Perception: YOLO/Detectron/MMDet, SAM/Mask2Former, CLIP‑style backbones, optical flow VLM / LLM: Vision encoders + LLMs, RAG for video, toolformer‑/agent loops 3D / Sim: Open3D, PyTorch3D, Isaac/MuJoCo, COLMAP/SLAM, NeRF/3DGS Systems: Python, FastAPI, Ray, Kubernetes, Docker, Triton/TensorRT, Weights & Biases Pipelines: LangGraph‑like orchestration, data versioning, artifact stores What Success Looks Like A publishable or open‑sourced outcome (with company approval) or a production‑ready module that measurably moves a product KPI (latency, accuracy, robustness). Clean, reproducible code with documented ablations and an evaluation report that a teammate can rerun end‑to‑end. A demo that clearly communicates capabilities, limits, and next steps. Why Centific Real impact: Your research ships—powering core features in our MVPs and products. Mentorship: Work closely with our Principal Architect and senior engineers/researchers. Velocity + Rigor: We balance top‑tier research practices with pragmatic pr [...]
+
+---
+
+## 18. [MAYBE] Faculty AI | Data Scientist 
 - Link: https://jobs.ashbyhq.com/faculty/0b6ad03f-8633-47ef-9dec-a8eb3cebf9b2
 - Location: London United Kingdom remote
 - Posted: Nov 17 14:55 ET
@@ -489,7 +562,7 @@ A note on AI: we're happy for you to use it for research and interview prep, but
 
 ---
 
-## 15. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
+## 19. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
 - Link: https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Forward-Deployed-AI-Engineer_R-1103685-1
 - Location: 5 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -504,7 +577,7 @@ When you join Verizon You want more out of a career. A place to share your ideas
 
 ---
 
-## 16. [MAYBE] CNA Insurance | Business Intelligence Developer
+## 20. [MAYBE] CNA Insurance | Business Intelligence Developer
 - Link: https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Scottsdale-AZ-USA/Business-Intelligence-Developer_R-7872
 - Location: 2 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -519,7 +592,7 @@ You have a clear vision of where your career can go. And we have the leadership 
 
 ---
 
-## 17. [MAYBE] Deutsche Bank | Structured Finance Investment Analyst (RMBS & CMBS)
+## 21. [MAYBE] Deutsche Bank | Structured Finance Investment Analyst (RMBS & CMBS)
 - Link: https://db.wd3.myworkdayjobs.com/DBWebsite/job/New-York-875-Third-Avenue/Structured-Finance-Analyst---RMBS---CMBS_R0445205-1
 - Location: New York, 875 Third Avenue
 - Posted: Nov 16 (board gives the date only)
@@ -534,7 +607,7 @@ Job Description: Employer: Deutsche Asset Management Title: Structured Finance I
 
 ---
 
-## 18. [MAYBE] City of New York | OEI Research Assistant, Bureau of Environmental Disease Prevention
+## 22. [MAYBE] City of New York | OEI Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016898596
 - Location: New York City NY us
 - Posted: Nov 17 06:13 ET
@@ -549,7 +622,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 19. [MAYBE] Anglian Water | Data Engineer
+## 23. [MAYBE] Anglian Water | Data Engineer
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Lincoln/Data-Engineer_R41065
 - Location: 2 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -564,7 +637,7 @@ Salary starting from £46k, salary dependant on skills and experience Permanent 
 
 ---
 
-## 20. [MAYBE] Manulife Financial | Associate Data Scientist
+## 24. [MAYBE] Manulife Financial | Associate Data Scientist
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Chengdu-Sichuan/Associate-Data-Scientist_JR26110217
 - Location: Chengdu, Sichuan
 - Posted: Nov 16 (board gives the date only)
@@ -579,7 +652,7 @@ Responsibilities: • Actively participates on cross-functional project teams de
 
 ---
 
-## 21. [MAYBE] Dell Technologies | Inside Product Specialist - Early Career
+## 25. [MAYBE] Dell Technologies | Inside Product Specialist - Early Career
 - Link: https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302716
 - Location: Round Rock, TX, United States US
 - Posted: Nov 17 (board gives the date only)
@@ -594,7 +667,7 @@ Position Overview We are seeking an enthusiastic and tech-savvy recent college g
 
 ---
 
-## 22. [MAYBE] Legal & General | Associate, Investment Analytics, L&G - Asset Management, America
+## 26. [MAYBE] Legal & General | Associate, Investment Analytics, L&G - Asset Management, America
 - Link: https://jobs.smartrecruiters.com/LegalAndGeneral/744000161933889
 - Location: Chicago IL us
 - Posted: Nov 16 18:23 ET
@@ -609,7 +682,7 @@ The LGIMA Investment Analytics team is responsible for providing market-leading 
 
 ---
 
-## 23. [MAYBE] Texas A&M University - College Station | Research Assistant
+## 27. [MAYBE] Texas A&M University - College Station | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098073-1
 - Location: College Station, TX
 - Posted: Nov 16 (board gives the date only)
@@ -624,7 +697,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 24. [MAYBE] Texas A&M University System | Research Assistant
+## 28. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098073
 - Location: College Station, TX
 - Posted: Nov 16 (board gives the date only)
@@ -639,7 +712,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 25. [MAYBE] Boston Medical Center | Post Doc Research Fellow, Ophthalmology
+## 29. [MAYBE] Boston Medical Center | Post Doc Research Fellow, Ophthalmology
 - Link: https://bmc.wd1.myworkdayjobs.com/BMC/job/Boston/Post-Doc-Research-Fellow--Ophthalmology_51389
 - Location: Boston
 - Posted: Nov 16 (board gives the date only)
@@ -654,7 +727,7 @@ Position : Post Doc Research Fellow Department : Ophthalmology Location: Boston,
 
 ---
 
-## 26. [MAYBE] SentiLink | Strategy & Analytics Associate
+## 30. [MAYBE] SentiLink | Strategy & Analytics Associate
 - Link: https://jobs.ashbyhq.com/sentilink/941419a2-277e-40da-bb94-40cd973107cd
 - Location: United States United States remote
 - Posted: Nov 17 10:32 ET
@@ -757,7 +830,7 @@ CORPORATE VALUES:
 
 ---
 
-## 27. [MAYBE] IBC Bank | Fraud Data Analyst
+## 31. [MAYBE] IBC Bank | Fraud Data Analyst
 - Link: https://ibc.wd5.myworkdayjobs.com/ibc_careers/job/San-Antonio-TX/Fraud-Data-Analyst_R16374
 - Location: San Antonio, TX
 - Posted: Nov 17 (board gives the date only)
@@ -772,7 +845,7 @@ IBC Bank successes are the result of an aggressive and innovative attitude. The 
 
 ---
 
-## 28. [MAYBE] TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety
+## 32. [MAYBE] TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety
 - Link: https://lifeattiktok.com/search/7574962733457443125
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -806,7 +879,7 @@ Preferred Qualifications
 
 ---
 
-## 29. [MAYBE] TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start
+## 33. [MAYBE] TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start
 - Link: https://lifeattiktok.com/search/7668663594419374341
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -843,7 +916,7 @@ By submitting an application for this role, you accept and agree to our global a
 
 ---
 
-## 30. [MAYBE] Atoms | AI Researcher - New Grad (PhD)
+## 34. [MAYBE] Atoms | AI Researcher - New Grad (PhD)
 - Link: https://job-boards.greenhouse.io/cssmerge/jobs/8948819002
 - Location: San Francisco, CA
 - Posted: Nov 17 15:00 ET
@@ -858,7 +931,7 @@ Who we are Atoms is building the machines that power the next era of progress. O
 
 ---
 
-## 31. [MAYBE] Avnet | Business Intelligence Analyst
+## 35. [MAYBE] Avnet | Business Intelligence Analyst
 - Link: https://avnet.wd1.myworkdayjobs.com/external/job/Lexington-Kentucky-United-States-Of-America/Business-Intelligence-Analyst_JR-024939-1
 - Location: Lexington, Kentucky, United States Of America
 - Posted: Nov 17 (board gives the date only)
@@ -873,7 +946,7 @@ Who We Are: At Avnet, relationships matter. We are a global, FORTUNE ® 500 tech
 
 ---
 
-## 32. [MAYBE] Google | Research Scientist, Error Correction Experiments, Quantum AI
+## 36. [MAYBE] Google | Research Scientist, Error Correction Experiments, Quantum AI
 - Link: https://www.google.com/about/careers/applications/jobs/results/141343429106770630
 - Location: Goleta, CA, USA
 - Posted: Nov 17 03:09 ET
@@ -888,7 +961,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 33. [MAYBE] Pernod Ricard créateurs de convivialité | Master Data Analyst
+## 37. [MAYBE] Pernod Ricard créateurs de convivialité | Master Data Analyst
 - Link: https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Dumbarton/Master-Data-Analyst_JR-055616-1
 - Location: Dumbarton
 - Posted: Nov 16 (board gives the date only)
@@ -903,7 +976,7 @@ Master Data Analyst Your Manager: Master Data Lead Team: Planning, Supply Chain 
 
 ---
 
-## 34. [MAYBE] Texas A&M AgriLife Research | Research Associate
+## 38. [MAYBE] Texas A&M AgriLife Research | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/Dallas-TX/Research-Associate_R-098870-1
 - Location: Dallas, TX
 - Posted: Nov 16 (board gives the date only)
@@ -918,7 +991,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Dalla
 
 ---
 
-## 35. [MAYBE] Texas A&M University System | Research Associate
+## 39. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Dallas-TX/Research-Associate_R-098870
 - Location: Dallas, TX
 - Posted: Nov 16 (board gives the date only)
@@ -933,7 +1006,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Dalla
 
 ---
 
-## 36. [MAYBE] PennState University | Research Assistant - Cattadori Lab
+## 40. [MAYBE] PennState University | Research Assistant - Cattadori Lab
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant---Cattadori-Lab_REQ_0000084354-2
 - Location: Penn State University Park
 - Posted: Nov 16 (board gives the date only)
@@ -948,7 +1021,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 37. [MAYBE] Loyola Marymount University | Research Scientist
+## 41. [MAYBE] Loyola Marymount University | Research Scientist
 - Link: https://lmu.wd1.myworkdayjobs.com/careers/job/Westchester-Campus/Research-Scientist_R16919
 - Location: Westchester Campus
 - Posted: Nov 17 (board gives the date only)
@@ -963,7 +1036,7 @@ This position plays an integral role in advancing the research mission of HeadsU
 
 ---
 
-## 38. [MAYBE] Atoms | Cloud Platform - ML Robotics Infra Engineer
+## 42. [MAYBE] Atoms | Cloud Platform - ML Robotics Infra Engineer
 - Link: https://job-boards.greenhouse.io/cssmerge/jobs/8948543002
 - Location: Pittsburgh, PA
 - Posted: Nov 17 13:11 ET
@@ -978,7 +1051,7 @@ Who we are &nbsp; Lab37 Robotics , is a technology company focused on the develo
 
 ---
 
-## 39. [MAYBE] Evolent | Full Stack AI Engineer (AI Service Engines & Integration)
+## 43. [MAYBE] Evolent | Full Stack AI Engineer (AI Service Engines & Integration)
 - Link: https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Full-Stack-AI-Engineer--AI-Service-Engines---Integration-_JR-916835
 - Location: Work at Home
 - Posted: Nov 17 (board gives the date only)
@@ -993,7 +1066,194 @@ Your Future Evolves Here Evolent partners with health plans and providers to ach
 
 ---
 
-## 40. [MAYBE] Shirley Ryan AbilityLab | Research Assistant - tiHUB
+## 44. [MAYBE] Retell AI | Applied AI Engineer (Customer Facing), Spanish speaking
+- Link: https://jobs.ashbyhq.com/retell-ai/1b10f02d-d474-4a67-85f4-8697a39a4e38
+- Location: San Francisco Bay Area United States
+- Posted: Nov 17 15:37 ET
+- Scanner fit: ~48 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, gcp, llm, python, credit | Lacks: azure, scala  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | - US Visas: Retell AI is open to sponsoring work authorization for qualified candidates, including H-1B, TN, L-1, E-3, F-1 (OPT/CPT), and O-1 visas.
+
+### Job description
+
+ABOUT RETELL AI
+
+Retell AI is using first-principles thinking to reimagine the call center with cutting-edge voice AI. Thousands of companies now use Retell's AI voice agents to handle sales, support, and logistics calls that once required large teams of human agents. Backed by Y Combinator, Alt Capital, and other leading investors. We've grown 20x from $5M to $100M+ in annualized revenue run rate in under two years, reaching a $1.5B+ valuation.
+
+Our vision for 2026 is to build a modern CX platform where entire contact centers are powered by AI. Instead of basic automation that needs constant human tuning, we're creating intelligent AI “workers” that act as frontline agents, QA analysts, and managers, continuously executing, monitoring, and improving every customer interaction.
+
+We're growing fast and looking for ambitious builders who want to tackle hard technical problems, move quickly, and have a real impact on one of the fastest-growing voice AI companies in the world.
+
+Let's build the future together.
+
+Recent recognition:
+
+ - Voice AI Startup Hits $100 Million Run Rate With $4.6 Million Funding https://www.forbes.com/sites/timkeary/2026/11/12/voice-ai-startup-hits-100-million--run-rate-with-46-million-funding/
+
+ - Retell ranked #1 in G2 Voice AI evaluation https://ai.g2.com/evaluations/categories/voice
+
+ - No. 1 Best Places to Work in the Bay Area, San Francisco Business Times 2026 https://finance.yahoo.com/technology/ai/articles/voice-ai-startup-retell-ai-145200025.html
+
+ - Top 50 AI Apps, a16z (2025) https://a16z.com/the-ai-application-spending-report-where-startup-dollars-really-go/
+
+ - #3 Fastest-Growing Software Company, G2 Best Software Awards 2026 https://company.g2.com/news/g2s-2026-best-software-awards
+
+ - Best Agentic AI Software, G2 Best Software Awards 2026 https://www.retellai.com/blog/retell-ai-recognized-as-the-best-agentic-ai-software-by-g2
+
+ - #4 Fastest-Growing Software Vendor, Brex Benchmark 2025 https://www.brex.com/journal/brex-benchmark-december-2025
+
+ - Enterprise Tech 30 Class of 2026, Nasdaq & Wing VC https://www.nasdaq.com/videos/retell-ai
+
+ - Top-Ranked Startup, Lean AI Leaderboard https://leanaileaderboard.com/
+
+ - Backed by Y Combinator https://www.ycombinator.com/companies/retell-ai
+
+ 
+
+
+ABOUT THE ROLE
+
+Retell AI is transforming customer experience with Voice AI for enterprises, including customers like CVS/Aetna, American Airlines, Lenovo, and Grab. We're building the infrastructure that powers millions of AI-powered phone conversations every month—and we're just getting started.
+
+We're hiring an Applied AI Engineer to work directly with Spanish speaking enterprise customers to design, build, and deploy production AI voice applications.
+
+As an Applied AI Engineer, you'll sit at the intersection of AI, software engineering, and customer success. You'll partner closely with customer engineering teams to integrate Retell into their products, solve complex technical challenges, optimize AI workflows, and help customers successfully launch and scale Voice AI in production.
+
+This is an ideal role for someone who enjoys building software, solving ambiguous technical problems, and working directly with customers. You'll collaborate daily with Engineering, Product, and Customer Success while helping shape the future of enterprise AI.
+
+This is a full-time position based in our Redwood City headquarters. 
+
+ 
+
+
+WHAT YOU'LL DO
+
+
+BUILD AI SOLUTIONS WITH CUSTOMERS
+
+ - Design, build, and deploy production AI voice applications.
+
+ - Partner with customer engineering teams to integrate Retell APIs and SDKs.
+
+ - Develop custom workflows, automations, and conversational AI experiences.
+
+ - Help customers architect scalable AI systems for production.
+
+
+SOLVE COMPLEX TECHNICAL PROBLEMS
+
+ - Debug production issues across APIs, webhooks, telephony, SIP, authentication, latency, and infrastructure.
+
+ - Investigate AI behavior and improve prompt quality, reliability, and performance.
+
+ - Work directly in customer codebases when needed.
+
+ - Own technical implementation from proof of concept through production launch.
+
+
+DRIVE CUSTOMER SUCCESS
+
+ - Lead technical onboarding for enterprise customers.
+
+ - Serve as the primary technical advisor during implementation.
+
+ - Guide customers on AI best practices, architecture, and deployment strategies.
+
+ - Help customers expand into new AI use cases across their organizations.
+
+
+INFLUENCE THE PRODUCT
+
+ - Partner closely with Product and Engineering to improve the platform.
+
+ - Turn customer feedback into product improvements.
+
+ - Identify recurring customer pain points and propose scalable solutions.
+
+ - Help define best practices for deploying enterprise Voice AI.
+   
+    
+
+
+WHAT WE'RE LOOKING FOR
+
+
+MUST HAVE
+
+ - Requires proficiency in Spanish language.
+
+ - Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, or a related technical field.
+
+ - 2+ years of software engineering or customer-facing technical experience building and deploying production applications.
+
+ - Strong programming skills in Python, TypeScript, or similar languages.
+
+ - Experience working with APIs, SDKs, and distributed systems.
+
+ - Excellent debugging and problem-solving skills.
+
+ - Strong communication skills and the ability to work directly with technical customers.
+
+ - Available to work standard U.S. business hours with overlap with our Pacific Time team and enterprise customers.
+   
+    
+
+
+NICE TO HAVE
+
+ - Experience building AI or LLM-powered applications.
+
+ - Experience with Voice AI, speech technologies, or conversational AI.
+
+ - Experience with cloud infrastructure (AWS, GCP, Azure).
+
+ - Experience with telephony, SIP, Twilio, or real-time communications.
+
+ - Startup experience.
+
+ - Customer-facing engineering, solutions engineering, or consulting experience.
+
+ - Willingness to travel up to 10% for customer workshops, launches, and onsite engagements.
+   
+    
+
+
+YOU MIGHT THRIVE IF
+
+ - You enjoy building software that solves real customer problems.
+
+ - You like working directly with engineers and technical stakeholders.
+
+ - You enjoy owning projects from architecture through deployment.
+
+ - You're excited about AI and love experimenting with the latest models and technologies.
+
+ - You thrive in fast-moving startup environments with lots of ownership.
+
+ - You enjoy wearing multiple hats across engineering, product, and customer success.
+
+ - You care deeply about delivering exceptional customer outcomes while building scalable solutions.
+   
+    
+
+
+JOB DETAILS
+
+ - Location: Redwood City, CA, US - relocation provided 
+
+ - US Visas: Retell AI is open to sponsoring work authorization for qualified candidates, including H-1B, TN, L-1, E-3, F-1 (OPT/CPT), and O-1 visas.
+   
+    
+
+
+COMPENSATION
+
+Our compensation ranges reflect different scopes of responsibility and cash/equity options. Your offer will depend on the skills and impact you demonstrate during interviews, the scope of the role, and your preferred cash/e [...]
+
+---
+
+## 45. [MAYBE] Shirley Ryan AbilityLab | Research Assistant - tiHUB
 - Link: https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Research-Assistant---tiHUB_JR-1065777
 - Location: Chicago, IL
 - Posted: Nov 17 (board gives the date only)
@@ -1008,7 +1268,37 @@ Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilita
 
 ---
 
-## 41. [MAYBE] Kemin | Job Title Research Associate
+## 46. [MAYBE] Lowe's | Data Scientist
+- Link: https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Data-Scientist_JR-02706475
+- Location: Lowe's Charlotte Technology Hub 3505
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~47 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 65 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: machine learning, sql, statistic, deep learning, quantitative | Lacks: scala
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Innovate in Charlotte Thank you for dedicating your time and talent to Lowe’s. We want to give you more opportunities to learn and grow, so if you find a position you’re interested in below, we encourage you to apply! Your Impact The primary purpose of the Data Scientist is to provide analytical capabilities to support data science initiatives. This position solves complex problems with close supervision and direction of senior colleagues and is responsible for the data science support of various company initiatives. Finally, this position supports the development of automated self-service products and solutions for business partners to effectively interpret data and build data products. What You Will Do Mines and extracts data and applies statistics, machine learning, and deep learning algorithms necessary to derive insights and to develop solutions providing a competitive advantage to the business. Conducts deep statistical analysis, including predictive and prescriptive modeling, to provide a competitive advantage to the business. Works with more senior level scientists on the team to translate requirements into an analytical approach; asks the right questions to understand the problem. Contributes to or builds the solution to solve a business problem; helps identify the sources, methods, parameters, and procedures to be used; may also communicate with stakeholders on project scope and timelines. Gathers and assimilates data according to the project plan; works with the team to discuss analysis and findings. Prepares final recommendations, ensuring solutions are scalable and implementable in the business. Executes plan for measuring impact based on discussions with partners and senior team members. Executes projects with full adherence to enterprise product and project management practices by participating in formal and informal training. Maintains knowledge of techniques, technology, industry trends, best practices, and emerging methodologies and applies it to projects. Minimum Qualifications Bachelor’s degree in mathematics, statistics, physics, economics, engineering, computer science, data, information science, or related quantitative analytic field or equivalent years of experience in lieu of education requirement, if applicable 2 years of experience executing and deploying data science, machine learning, deep learning, and generative AI solutions, preferably in a large-scale enterprise setting (fewer years may be accepted with a master’s or doctorate degree) 1 year of SQL and programming experience (fewer years may be accepted with a master's or doctorate degree) Preferred Skills/Education Master’s degree in mathematics, statistics, physics, economics, engineering, computer science, data, information science, or related quantitative analytic field 1 year of experience using multiple data systems and sources 1 year of experience working with cross-functional partners About Lowe’s Lowe’s Companies, Inc. (NYSE: LOW) is a FORTUNE® 100 home improvement company with total fiscal year 2025 sales of more than $86 billion. Lowe’s employs approximately 300,000 associates and operates over 1,750 home improvement stores, 540 branches and 120 distribution centers. Lowe’s is a core value S&P 500 equity stock and a dividend aristocrat. Based in Mooresville, N.C., Lowe’s supports the communities it serves through programs focused on creating safe, affordable housing, improving community spaces, helping to develop the next generation of skilled trade experts and providing disaster relief to communities in need. For more information, visit Lowes.com . Lowe’s
+
+---
+
+## 47. [MAYBE] University of Chicago | Research Professional
+- Link: https://uchicago.wd5.myworkdayjobs.com/External/job/Lemont-IL/Research-Professional_JR35820
+- Location: Lemont, IL
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~47 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, python, statistic, publication, research | Lacks: c++
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Department PME ChemMatCARS About the Department NSF’s ChemMatCARS, affiliated with the Pritzker School of Molecular Engineering (PME), the University of Chicago and funded by NSF, is a national user facility for frontier research in chemistry and materials science using synchrotron x-rays. It is located at the Advanced Photon Source, Argonne National Laboratory. The mission of ChemMatCARS is to develop and operate world-class synchrotron x-ray facilities in the areas of small-molecule crystallography, liquid interface scattering, and anomalous small and wide-angle scattering to serve the needs of ChemMatCARS users. Job Summary The Pritzker School of Molecular Engineering is seeking a Research Professional to support the day-to-day operational and administrative needs of a large and complex research user facility at ChemMatCARS. The successful candidate will be responsible for supporting scientific users conducting research and providing mail-in and remote data collection services at ChemMatCARS. The candidate is also expected to initiate and engage in collaborative research with ChemMatCARS users and staff, while pursuing independent research activities. Additional responsibilities include the development, commissioning, and maintenance of advanced synchrotron X-ray instrumentation and experimental capabilities. Responsibilities Facilitates and promotes advanced technical/scientific research projects including data analysis. Recognizes opportunities for innovation and develops or incorporates new research concepts, methodologies, and instrumentation. Provides day-to-day operational support for ChemMatCARS user programs, including onsite, remote, and mail-in experiments. Assists in the preparation of grant proposals, progress reports, scientific presentations, and manuscripts. Works closely with senior researchers to develop documentation, experimental protocols, and computational resources. Maintains scientific operations, including coordination of students, postdoctoral researchers, research staff, and visiting users. Collaborates with ChemMatCARS staff and external users on multidisciplinary research projects. Creates and presents tutorials, workshops, and documentation for user training. Maintains laboratory records, inventories, websites, grant-related documentation, and operational reports. Reviews laboratory protocols and training on new techniques. Manage complex data sets for research. Trains new laboratory personnel. Performs other related work as needed. Minimum Qualifications Education: Minimum requirements include a PhD in related field. Work Experience: Minimum requirements include knowledge and skills developed through 2-5 years of work experience in a related job discipline. Certifications: --- Preferred Qualifications Education: Doctoral degree in materials science, chemistry, physics, chemical engineering, crystallography, or a related field. Experience: Significant work experience; postdoc experience preferred. Familiar with synchrotron X-ray scattering, diffraction, crystallography, or related experimental techniques. Supporting scientific users at a national laboratory or shared research facility is highly desirable. Demonstrated ability to initiate and lead collaborative research projects with students, postdoctoral researchers, and scientific staff. Background working in academic, national laboratory, or multidisciplinary research environments. Supervisory or mentoring experience is desirable. Technical Skills or Knowledge: Strong programming skills in Python; experience with C/C++ is desirable. Familiarity with scientific instrumentation, automation, and data acquisition systems. Knowledge of Linux-based operating systems. Familiarity with scientific data analysis and visualization software. Strong computer skills, including document management, spreadsheets, and databases. Familiarity with grant writing, manuscript preparation, and scientific communication. Knowledge of modern synchrotron X-ray instrumentation, crystallographic methods, or related experimental techniques. Knowledge of laboratory safety procedures and applicable federal regulations. Preferred Competencies Demonstrated administrative, problem-solving, organization and coordination skills. Demonstrated excellent oral and written communication skills. Excellent time management skills and handle multiple, concurrent tasks within deadlines with minimal supervision. Prioritize urgent tasks while ensuring established deadlines are met. Flexible and adaptable to changes in workflow and procedures. Handle stressful, sensitive, and confidential situations and information with absolute discretion. Knowledge and experience of related research techniques or methods. Knowledge of and familiarity with local and federal regulations, guidelines, and procedures. Application Documents Resume/CV, including a list of publications (required) Research Statement (required). References Contact Information (3)(required) The University of Chicago uses AI-assisted tools to streamline and augment some recruitment processes; however, AI is not used to make hiring decisions. When applying, the document(s) MUST be uploaded via the My Experience page, in the section titled Application Documents of the application. Job Family Research Role Impact Individual Contributor Scheduled Weekly Hours 40 Drug Test Required No Health Screen Required No Motor Vehicle Record Inquiry Required No Pay Rate Type Salary ​ FLSA Status Exempt ​ Pay Range $85,000.00 - $90,000.00 The included pay rate or range represents the University’s good faith estimate of the possible compensation offer for this role at the time of posting. Benefits Eligible Yes The University of Chicago offers a wide range of benefits programs and resources for eligible employees, including health, retirement, and paid time off. Information about the benefit offerings can be found in the Benefits Guidebook . Posting Statement The University of Chicago
+
+---
+
+## 48. [MAYBE] Kemin | Job Title Research Associate
 - Link: https://careers-kemin.icims.com/jobs/12604/research-associate/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1023,7 +1313,7 @@ Research Associate in Parma | Careers at EMENA Region Please Enable Cookies to C
 
 ---
 
-## 42. [MAYBE] Pfizer | Associate, AI Engineering
+## 49. [MAYBE] Pfizer | Associate, AI Engineering
 - Link: https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-Kingdom---Walton-Oaks/Associate--AI-Engineering_4966818-2
 - Location: 2 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -1038,7 +1328,7 @@ This is an early-career engineering job where your work ends up in front of the 
 
 ---
 
-## 43. [MAYBE] Highmark Health | Data Engineer
+## 50. [MAYBE] Highmark Health | Data Engineer
 - Link: https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Data-Engineer_J291550
 - Location: 51 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -1053,7 +1343,7 @@ Company : Highmark Inc. Job Description : JOB SUMMARY This role is an integral m
 
 ---
 
-## 44. [MAYBE] WVUMedicine | Research Associate
+## 51. [MAYBE] WVUMedicine | Research Associate
 - Link: https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Health-Sciences-Center/Research-Associate_JR26-42177
 - Location: Health Sciences Center
 - Posted: Nov 17 (board gives the date only)
@@ -1068,7 +1358,37 @@ Welcome! We’re excited you’re considering an opportunity with us! To apply t
 
 ---
 
-## 45. [MAYBE] CuspAI | Applied AI/ML Research Engineer (Generative Models)
+## 52. [MAYBE] Atoms | AI Researcher - New Grad (BS/MS)
+- Link: https://job-boards.greenhouse.io/cssmerge/jobs/8948844002
+- Location: San Francisco, CA
+- Posted: Nov 17 15:08 ET
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: python, pytorch, git, healthcare, pipeline, quantitative, research, validation | Lacks: c++, scala  | Note: no H-1B filings found for this employer early-talent program
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Who we are Atoms is building the machines that power the next era of progress. Over the last decade, software has transformed the digital world. But the physical world, where food is made, minerals are mined, goods are moved, and industries are run, remains far less intelligent, far less efficient, and far more constrained. We’re changing that. Atoms builds Physical AI real-world robots for the industries that move civilization forward, starting with food, mining, and transport. Our systems are designed to understand, predict, and control the real world with precision, turning complex physical operations into something more reliable, more scalable, and more productive. This work requires more than robotics. It requires deep integration across AI, hardware, software, operations, manufacturing, and real estate. We don’t just build machines in a lab. We deploy them into real environments, operate them, learn from them, and improve them until they work at scale. We are researchers, roboticists, engineers, and builders. We believe the next great technology companies will not only transform information, but the physical systems that shape everyday life. If you want to work on hard problems with real-world impact, join us. &nbsp; About the role We are seeking a full-time AI Researcher (New Grad) to join our founding team and bridge the gap between high-level AI research and real-world physical actuation for our next-generation autonomous transport platforms. In this role, you will contribute directly to core research initiatives on Perception, World Models, and Action models. You will help translate cutting-edge theoretical breakthroughs into scalable, real-world deployment on physical autonomous systems, driving how our platforms perceive, simulate, and navigate complex environments. &nbsp; What you’ll do Train, evaluate, and fine-tune multimodal models that map real-time sensor inputs and behavioral goals to vehicle actuation. Experiment with generative world model architectures using multi-sensor log data to improve simulation fidelity and trajectory querying. Prototype, benchmark, and scale reinforcement learning (RL), trajectory planning, and model distillation algorithms based on state-of-the-art literature. Integrate emerging AI research models into internal training and deployment pipelines, optimizing for latency and physical vehicle constraints. Systematically analyze edge cases and failure modes in novel, unstructured operating environments to iterate on model performance and stability. Design and run rigorous closed-loop simulation benchmarks alongside engineering and validation teams to identify bottlenecks and guide model improvements. Collaborate with cross-functional teams across hardware, systems, and robotics software to test and validate models on physical fleets. &nbsp; What we're looking for Education: Recent graduate or completing a Bachelor’s or Master’s degree in Computer Science, EECS, Robotics, AI, or a closely related quantitative field. Core Expertise: Coursework, substantial project experience, or research background focused on at least one of the following domains: Generative World Models / Video Generation / Diffusion Models Vision-Language-Action (VLA) models or embodied AI Reinforcement Learning (RL), trajectory optimization, or decision-making systems Large-scale multimodal Transformer architectures applied to robotics or spatio-temporal data Framework Fluency: Advanced hands-on proficiency with PyTorch or JAX for training, fine-tuning, and evaluating neural network architectures. Programming: Strong programming skills in Python and working knowledge of C++ (C++14 or newer). Preferred qualifications Prior internship, co-op, or published academic research experience in autonomous driving, mobile robotics, computer vision, or spatial AI. Experience working with simulation environments (e.g., Isaac Sim, CARLA) or robotic hardware platforms. Familiarity with model optimization techniques (e.g., quantization, TensorRT, ONNX) for edge compute deployment. &nbsp; Why join us At Atoms, you’ll work on one of the defining challenges of our time bringing automation into the physical world to drive real, lasting impact. We exist to uncover valuable unknown truths and turn them into progress, which means constantly pushing beyond what’s known and building what doesn’t yet exist. The work is ambitious and often challenging, but it’s grounded in a shared sense of purpose and a team committed to seeing it through together. Our work only matters if it serves others, and we know that meaningful progress depends on the trust of the people we serve and the strength of our team so we invest in both, creating an environment where you can do your best work and grow. &nbsp; What else you need to know This role is based in our Mountain View or San Francisco office. Atoms is a company driven by invention and continuous change, we are constantly reimagining our industries, building new products, and refining how we operate. We do our best work together. That’s why all of our office-based teams work onsite, five days a week. The base salary range for this role is $170,000 per year. Actual compensation will be determined on an individual basis and may vary depending on experience, skills, and qualifications. Base salary is just one part of your total rewards package. You may also be eligible for equity awards and an annual performance-based bonus. Benefits Summary (USA Full-Time Exempt Employees): Medical, dental, and vision insurance (multiple plans, incl. HSA options). Company-paid life and disability insurance (short- and long-term). Voluntary insurance: accident, critical illness, hospital indemnity. Optional supplemental life insurance for self, spouse, and children. Pet insurance discount. 401(k). Health Savings Account (HSA) Flexible Spending Accounts (Healthcare, Dependent Care, Commuter) Time Off policies: Discretionary vacation days 8 paid holidays per year Paid sick time Paid Bereavement leave Paid Parental Leave Benefits are subject to change at the company's discretion. Atoms accepts applications on an ongoing basis. &nbsp; Ready to join us as we serve those who serve others?&nbsp; #LI-Onsite
+
+---
+
+## 53. [MAYBE] IQVIA | Research Assistant
+- Link: https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Tempe-AZ-United-States-of-America/Research-Assistant_R1576942
+- Location: Tempe, AZ, United States of America
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 95 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: llm, fraud, healthcare, research | Lacks: -
+- Eligibility: CHECK | Comply with company and Sponsor policies, standard operating procedures (SOPs) and guidelines
+
+### Job description
+
+This is an on-site position in Tempe, AZ. Job Overview This individual will play a key role in assisting in the conduct of clinical trial activities, in accordance with all applicable regulations governing the conduct of clinical trials. The primary skills include logical thinking, ability to prioritize, the ability to adapt quickly to changing business conditions, strong interpersonal and team building skills. Essential Functions • Develop strong working relationships and maintain effective communication with study team members • Develop strong working relationships with the investigators and office staff to build a foundation of trust and respect between the clinic and the research office • Assists with the screening, recruiting and enrollment of research subjects • Perform patient/research participant scheduling • Collect patient/research participant history • Data entry and management • Coordinate follow up care and laboratory procedures • Adhere to an IRB approved protocol • Assist in the informed consent process of research subjects • Support the safety of research subjects • Coordinate protocol related research procedures, study visits, and follow up care • Comply with company and Sponsor policies, standard operating procedures (SOPs) and guidelines • Schedule subject visits and procedures Qualifications • High School Diploma or equivalent Req • Bachelor's Degree Pref IQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com IQVIA is proud to be an
+
+---
+
+## 54. [MAYBE] CuspAI | Applied AI/ML Research Engineer (Generative Models)
 - Link: https://jobs.ashbyhq.com/cuspai/ea10b5f7-1672-4294-a9d4-602403e67a89
 - Location: Berlin, DE Germany remote
 - Posted: Nov 17 10:35 ET
@@ -1207,7 +1527,7 @@ CuspAI is an equal opportunities employer committed to building a diverse and in
 
 ---
 
-## 46. [MAYBE] Humana | Data Engineer
+## 55. [MAYBE] Humana | Data Engineer
 - Link: https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Data-Engineer_R-434927
 - Location: 11 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -1222,7 +1542,22 @@ Become a part of our caring community We are looking for a motivated and detail-
 
 ---
 
-## 47. [MAYBE] Cencora | Contract Administration & Data Analytics Analyst
+## 56. [MAYBE] Toast | Data Engineer
+- Link: https://careers.toasttab.com/jobs?gh_jid=8359240
+- Location: Remote, US
+- Posted: Nov 17 15:59 ET
+- Scanner fit: ~43 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 5 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, bigquery, etl, gcp, python, sql, data quality, docker, git, kpi, pipeline, reporting | Lacks: airflow, azure, dbt, java, scala, snowflake
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy.' As a Data Engineer on the Enterprise Data team, you’ll build and scale the data platforms and pipelines that power insights across the entire company. You’ll work closely with Analytics, Engineering, and Product teams to ensure high-quality, reliable data is accessible and actionable. This is a hands-on engineering role focused on delivering production-grade, scalable, and reliable data systems that support analytics, reporting, and operational decision-making across the company. A day in the life (Responsibilities) Build and maintain scalable, production-ready data pipelines end to end using modern data technologies. Ensure data quality, observability, lineage, and governance are built into every pipeline. Implement best practices for cost-efficient, performant cloud-based data infrastructure. Contribute to data platform tooling and frameworks that support self-service analytics and reusability across teams. Participate in code reviews, design discussions, and technical architecture planning to continually raise engineering standards. Build and support semantic and metrics layer foundations (e.g., dbt metrics, Snowflake semantic layer) for AI applications that enable consistent, reusable definitions of KPIs across reporting and analytics. Collaborate with cross-functional stakeholders to design and support the evolution of the enterprise data domain model, including Customer 360. What you'll need to thrive (Requirements) 2+ years of experience in data engineering, software engineering, or a related role building and maintaining data systems in production. Strong SQL skills and experience with a programming language such as Python, Scala, or Java. Familiarity with modern data warehouse/lakehouse technologies (e.g., Snowflake, BigQuery, Redshift, Delta Lake). Experience building and optimizing ETL/ELT workflows using tools such as Airflow, dbt, or similar orchestration frameworks. Comfortable understanding of data modeling, data warehousing, and pipeline design. Ability to write clean, maintainable, and well-tested code for data transformations and automation. Demonstrated ability to communicate technical tradeoffs and data concepts clearly to non-technical stakeholders, including operations and business leaders. Proven ability to work collaboratively with analytics, operations, and product teams. Strong problem-solving skills, attention to detail, and a drive to build scalable, reliable systems. What will help you stand out (Non-essential Skills/Nice to Haves) Hands-on experience with cloud-based data platforms (AWS, GCP, or Azure). Experience with CI/CD, infrastructure as code, or containerization (e.g., Docker, Terraform). Comfort using AI-assisted development tools (e.g., GitHub Copilot, Claude, Snowflake Cortex AI) to accelerate pipeline development, testing, and documentation and curiosity about how GenAI can enhance data product quality. Exposure to data governance, metadata management, and observability tools. Knowledge of data security, privacy, and compliance in cloud environments. AI at Toast At Toast, one of our company values is that we're hungry to build and learn. We believe learning new AI tools empowers us to build for our customers faster, more independently, and with higher quality. We provide these tools across all disciplines, from Engineering and Product to Sales and Support, and are inspired by how our Toasters are already driving real value with them. The people who thrive here are those who embrace changes that let us build more for our customers; it’s a core part of our culture. Our Total Rewards Philosophy&nbsp; We strive to provide competitive compensation and benefits programs that help to attract, retain, and motivate the best and brightest people in our industry. Our total rewards package goes beyond great earnings potential and provides the means to a healthy lifestyle with the flexibility to meet Toasters’ changing needs. Learn more about our benefits at&nbsp; https://careers.toasttab.com/toast-benefits . The base salary range for this role is listed below. The starting salary will be determined based on skills, experience, and geographic location. In addition to base salary, our total rewards components include cash compensation (overtime, bonus/commissions if eligible), equity, and benefits. You can learn more about how we align pay with local labor markets in our Geographic Pay Zone Philosophy . Zone A $106,000 &mdash; $170,000 USD Zone B $92,000 &mdash; $147,000 USD Zone C $83,000 &mdash; $133,000 USD How Toast Uses AI in its Hiring Process Throughout the hiring process, our goal is to get to know you. We use AI tools to support our recruiters and interviewers with tasks like note-taking, summarization, and documentation of interviews to ensure they can be fully focused on your conversation. All hiring decisions are made by people. We ask that you complete interviews and assessments on your own, without real-time AI tools, recording, or transcription bots, unless we tell you otherwise in advance. To learn more: https://careers.toasttab.com/ai-in-hiring Our Approach to Hybrid Working We embrace a hybrid work model that fosters in-person collaboration while valuing individual needs. Our goal is to build a strong culture of connection as we work together to empower the hospitality community, regardless of location. Please visit the Locations page on our career site to learn more about our in-office expectations by region:&nbsp; https://careers.toasttab.com/locations-toast People Are the Secret Ingredient in Our Recipe for Success At Toast, our employees are our secret ingredient—when they thrive, we thrive. The restaurant industry brings together people with a wide range of backgrounds, experiences, and perspectives, and we value that same breadth at Toast. We strive to build a culture grounded in authenticity, respect, and humility, where every Toaster has a real opportunity to grow, contribute, and do their best work—raising the bar in delivering exceptional experiences for our customers and each other. Apply today! Toast is committed to creating an accessible and inclusive hiring process. As part of this commitment, we strive to provide
+
+---
+
+## 57. [MAYBE] Cencora | Contract Administration & Data Analytics Analyst
 - Link: https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Ohio/Contract-Administration---Data-Analytics-Analyst_R2618060
 - Location: Remote, Ohio
 - Posted: Nov 16 (board gives the date only)
@@ -1237,7 +1572,7 @@ Our team members are at the heart of everything we do. At Cencora, we are united
 
 ---
 
-## 48. [MAYBE] University of Louisville | Temporary Research Assistant (Part Time)
+## 58. [MAYBE] University of Louisville | Temporary Research Assistant (Part Time)
 - Link: https://uofl.wd1.myworkdayjobs.com/UofLCareerSite/job/Belknap-Campus/Temporary-Research-Assistant--Part-Time-_R109732
 - Location: Belknap Campus
 - Posted: Nov 16 (board gives the date only)
@@ -1252,7 +1587,7 @@ Department: Early Childhood Research Center-JM Location: Belknap Campus Time Typ
 
 ---
 
-## 49. [MAYBE] Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab)
+## 59. [MAYBE] Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab)
 - Link: https://seattlechildrens.wd5.myworkdayjobs.com/External/job/Seattle-WA/Research-Associate-I---Bench--Kalia-Lab-_R264858
 - Location: Seattle, WA
 - Posted: Nov 16 (board gives the date only)
@@ -1267,7 +1602,7 @@ A Research Associate I-Bench position focusing on translational discoveries in T
 
 ---
 
-## 50. [MAYBE] ING | Data Analyst
+## 60. [MAYBE] ING | Data Analyst
 - Link: https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bratislava/Data-Analyst_REQ-10121029-1
 - Location: Bratislava
 - Posted: Nov 16 (board gives the date only)
@@ -1282,7 +1617,7 @@ The opportunity ING Wholesale Banking (WB) has been helping clients across the w
 
 ---
 
-## 51. [MAYBE] Truist Bank | Institutional Investment Analyst I
+## 61. [MAYBE] Truist Bank | Institutional Investment Analyst I
 - Link: https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Analyst-I_R0119462
 - Location: 3 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -1297,7 +1632,7 @@ The position is described below. If you want to apply, click the Apply Now butto
 
 ---
 
-## 52. [MAYBE] UTHealth Houston | Patient Services Representative (Entry Level - PreDoc Dental Clinic)
+## 62. [MAYBE] UTHealth Houston | Patient Services Representative (Entry Level - PreDoc Dental Clinic)
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8519
 - Location: San Antonio, TX, United States US
 - Posted: Nov 17 (board gives the date only)
@@ -1312,7 +1647,7 @@ Under direct supervision, responsible for providing customer service to patients
 
 ---
 
-## 53. [MAYBE] Equifax | Senior Financial BI & Big Data Quality Analyst (SQL)
+## 63. [MAYBE] Equifax | Senior Financial BI & Big Data Quality Analyst (SQL)
 - Link: https://equifax.wd5.myworkdayjobs.com/external/job/CRI-Sabana/Senior-Financial-Business-Intelligence-Analyst_J00179273-1
 - Location: CRI-Sabana
 - Posted: Nov 17 (board gives the date only)
@@ -1327,7 +1662,7 @@ The Financial Business Intelligence (BI) Data Quality Analyst is responsible for
 
 ---
 
-## 54. [MAYBE] The Home Depot | Sr. Data Analyst Labor
+## 64. [MAYBE] The Home Depot | Sr. Data Analyst Labor
 - Link: https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Data-Analyst-Labor_Req198996
 - Location: STORE SUPPORT CENTER, ATLANTA - 9090
 - Posted: Nov 17 (board gives the date only)
@@ -1342,7 +1677,22 @@ With a career at The Home Depot, you can be yourself and also be part of somethi
 
 ---
 
-## 55. [MAYBE] JP Morgan Chase | Senior Associate- Applied AI/ML
+## 65. [MAYBE] Hasbro | Senior Analyst, People Analytics (Temporary Assignment)
+- Link: https://job-boards.greenhouse.io/hasbro/jobs/4511241009
+- Location: Boston, Massachusetts, United States
+- Posted: Nov 17 15:36 ET
+- Scanner fit: ~72 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: temporary/contract
+- Title scope: core | Has: dashboard, excel, forecast, power bi, python, r, spark, sql, statistic, cohort, git, portfolio, reporting, validation | Lacks: sap  | Note: temporary or contract: confirm it is W-2 with an E-Verify employer title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We&nbsp;take play seriously. We’re looking for curious adventurers ready to find their party, fueled by imagination&nbsp;and drive&nbsp;to build what’s never been built before. At Hasbro and Wizards of the Coast, you’ll collaborate with passionate teams to reimagine our iconic brands and create experiences that spark joy, connection, and community through the magic of play. This is your chance to shape legendary play that lasts a lifetime. &nbsp; Senior Analyst, People Analytics (Temporary Assignment) We take play seriously. We’re looking for curious adventurers ready to find their party, fueled by imagination and drive to build what’s never been built before. At Hasbro and Wizards of the Coast, you’ll collaborate with passionate teams to reimagine our iconic brands and create experiences that spark joy, connection, and community through the magic of play. This is your chance to shape legendary play that lasts a lifetime. This is a temporary assignment through ManpowerGroup/Tapfin supporting Hasbro. Job Overview Hasbro is looking for a senior people analytics practitioner to own a live reporting and insights portfolio spanning employee engagement, talent acquisition, talent and succession, and the workforce measures reported to executive leadership. This is a hands-on analyst role. You will run the analysis yourself, present the findings to the audience that asked for them, and work with HR Systems and enterprise analytics to correct the data underneath. The portfolio carries recurring cycles with fixed dates alongside project work, and the requirement is reporting that is accurate and on time together with analysis that explains what the numbers mean and what should happen next. You will report to the Vice President, HR Planning, Analytics &amp; Technology, and work alongside a senior data analyst. You will partner with the HR business partners, the centers of excellence, Talent Acquisition, HR Systems and the enterprise analytics team, and your output reaches the HR leadership team, giving you a direct role in how people data shapes decisions. Candidates who have built their analytical experience through different paths are encouraged to apply. Location and Work Arrangement This role is based at our Boston, Massachusetts office and follows a hybrid schedule designed to support in-person collaboration. Employees are expected to work onsite on Tuesdays, Wednesdays, and Thursdays, with the flexibility to work remotely or onsite on Mondays and Fridays. What You'll Do Own the employee engagement survey cycle end to end, including administration, analysis, and the findings and action planning presented to HR leadership. Own talent acquisition analytics, including the recruiting dashboard, funnel and time to fill reporting, and offer acceptance methodology. Own talent and succession reporting, including the nine-box cycle, cohort movement across high-potential populations, and talent form completion reporting. Produce the quarterly workforce measures reported to the executive steering committee for the headquarters relocation, covering retention, offer acceptance, intern conversion and in-office attendance. Move recurring reporting toward self-service where the audience and the question are stable, reducing manual production effort. Agree the question, the audience and the intended decision with the requester before the analysis starts. Present analysis to senior HR stakeholders in clear business language, with the recommendation and the limitations stated. Challenge incoming requests on problem definition and on whether the available data can answer them. Reconcile and validate data across the human capital platform, the applicant tracking system and the reporting layer, investigate discrepancies to root cause, and work with the system owners to correct them at the source. Maintain metric definitions and the people data dictionary with HR Systems and enterprise analytics, so that a measure is calculated consistently across reports. Maintain documentation of report definitions, data sources, business logic and intended use. Apply confidentiality and access judgment when working with employee-level data, including where individual identification is appropriate. What You'll Bring Five or more years in people analytics, HR reporting or an equivalent analytical function, with a bachelor's degree in statistics, data science, analytics, economics, industrial and organizational psychology, human resources or a related field, or equivalent demonstrated experience. Hands-on depth in analysis, including statistical testing, cohort analysis and trend analysis, and the ability to select the method that fits the question. Expert Excel, including advanced formulas, pivot tables, lookups, data cleansing, conditional logic, data validation and reconciliation across large datasets. Working proficiency in SQL, enough to query, join, filter and aggregate across multiple tables and sources. Hands-on experience with an enterprise human capital platform and its reporting layer, SAP SuccessFactors and Power BI preferred, with equivalent platform depth considered. Experience administering and analyzing an employee listening or engagement survey platform. A record of presenting analysis to senior stakeholders and translating it into recommendations for a non-technical audience. Evidence of identifying data errors independently, investigating the cause and resolving them with the owning team rather than adjusting the output. Experience working to fixed reporting cycles alongside project work, and judgment in setting expectations when the two compete. What Sets You Apart Greenhouse or comparable applicant tracking system reporting. Python or R, and forecasting, scenario or predictive analysis. Experience building a metric dictionary or data governance standards for people data. Employment Details This is a temporary assignment supporting Hasbro. The selected individual will be employed and paid by ManpowerGroup/Tapfin as a W-2 employee and will not be an employee of Hasbro. Employment Type: Temporary Assignment Location: Boston, Massachusetts (Hybrid) Duration: 6-8 months Hourly Pay Range: $46.00 - $69.00 USD In compliance with local law, we are disclosing the hourly pay range for this role. Benefits through ManpowerGroup/Tapfin ManpowerGroup offers Consultants and their eligible spouses and children medical, dental, and vision coverage, as well as a health savings account, flexible spending accounts, a 401(k) plan and a Non-Qualified Savings Plan with a company match, supplemental life and disability insurance, business travel insurance, an employee assistance program, and wellbeing perks such as Active&amp;Fit Direct and BenefitHub discounts. Who We Are We’re a team of creators, storytellers, and innovators united under the Hasbro family and home to beloved brands, AAA digital games studios and immersive experiences that spark imagination across generations. Together, we’re committed to a culture  [...]
+
+---
+
+## 66. [MAYBE] JP Morgan Chase | Senior Associate- Applied AI/ML
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808835
 - Location: Jersey City, NJ, United States US New York, NY, United States
 - Posted: Nov 17 (board gives the date only)
@@ -1357,7 +1707,7 @@ Job Responsibilities Develop advanced agentic AI solutions across NLP, speech an
 
 ---
 
-## 56. [MAYBE] Truist Bank | Data Scientist II (Compliance Testing)
+## 67. [MAYBE] Truist Bank | Data Scientist II (Compliance Testing)
 - Link: https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Data-Scientist-II--Compliance-Testing-_R0121704
 - Location: 4 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -1372,7 +1722,22 @@ The position is described below. If you want to apply, click the Apply Now butto
 
 ---
 
-## 57. [MAYBE] Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design
+## 68. [MAYBE] AbbVie | Sr Scientist, Quantitative Bioimaging
+- Link: https://jobs.smartrecruiters.com/AbbVie/3743990016919816
+- Location: Worcester MA us
+- Posted: Nov 17 15:48 ET
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 96 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, pandas, python, pytorch, scikit, statistic, classification, publication, quantitative, research, segmentation, validation | Lacks: scala  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We are seeking a Senior Scientist to advance quantitative bioimaging capabilities in support of immunology discovery research. In this role, you will work within a cross-functional team with access to multiple microscopy modalities, complex in vitro models, multimodal biological datasets, and advanced computational infrastructure. You will develop and apply quantitative imaging, computer-vision, and machine-learning approaches to characterize cellular and tissue phenotypes, support the development of biological models, including co-cultures, organ-on-chip systems, organoids, and tissue explants, and generate insights that advance immunology discovery programs. This role combines hands-on delivery of robust, reproducible image-analysis workflows with the evaluation and application of advanced AI/ML approaches, including biomedical image segmentation, representation learning, foundation models, and scalable computational workflows. You will partner closely with wet-lab scientists, imaging specialists, computational scientists, and other subject-matter experts to translate biological questions into rigorous and impactful analysis strategies. The role sits at the intersection of biology, bioengineering, microscopy, and computational science. Candidates with combined expertise in two or more of these areas are especially encouraged to apply. Key Responsibilities Develop, optimize, and apply imaging assays and quantitative image-analysis workflows for 2D and 3D cellular and tissue models to characterize cellular and other complex biological phenotypes. Collaborate with wet-lab assay scientists, imaging specialists, and computational scientists from experimental and assay design through image acquisition, analysis, validation, and data delivery. Extract biologically meaningful, multiparametric features from high-content imaging datasets and use them to characterize disease-relevant phenotypes, mechanisms, and treatment responses. Apply statistical, machine-learning, and deep-learning methods to identify candidate imaging biomarkers and relate imaging phenotypes to molecular, functional, and other biological readouts. Contribute to the integration of imaging data with multimodal datasets, including molecular, single-cell, spatial, or perturbational data, where appropriate. Establish quality-control and evaluation frameworks to assess image and assay quality, distinguish biological signal from technical artifacts, and define data-quality criteria, acceptance thresholds, and analytical limitations. Maintain clear experimental and analytical records; analyze, visualize, and present results rigorously to both technical and nontechnical audiences. Communicate methods, assumptions, results, uncertainties, and limitations effectively to cross-functional project teams. Stay current with advances in quantitative bioimaging, image analysis, computer vision, and AI/ML for biological imaging, and evaluate opportunities to incorporate relevant approaches into team workflows. Basic Qualifications BS, MS, or PhD in engineering, biophysics, computational biology, imaging science, bioinformatics, or a related discipline, with typically 10-12+ (BS), 8-10+ (MS), or 0-4+ (PhD) years experience. Demonstrated experience developing quantitative image-analysis or computational solutions involving one or more of the following: image segmentation, feature extraction, phenotypic profiling, object classification, or analysis of high-content imaging data. Experience with at least one relevant imaging modality or assay type, such as confocal microscopy, high-content imaging, or cell painting. Ability to assess image quality, recognize common imaging artifacts, and interpret biologically meaningful phenotypes. Working knowledge of machine-learning or deep-learning approaches for biological imaging, with the ability to understand model behavior, assess performance, and contribute to appropriate evaluation strategies. Proficiency with the Python data-science ecosystem, including NumPy, pandas, Polars, scikit-learn, and/or PyTorch. Strong biological grounding, attention to experimental rigor, and demonstrated ability to collaborate effectively with wet-lab and computational colleagues. Excellent written, verbal, and presentation skills, including the ability to explain methods, results, assumptions, and limitations to diverse audiences. Preferred Qualifications Experience working with complex in vitro models, such as organoids, organ-on-chip systems, co-cultures, tissue explants, or other advanced in vitro platforms. Experience with classical bioimage-analysis tools such as CellProfiler, scikit-image, ImageJ/Fiji, or comparable platforms. Exposure to deep-learning, self-supervised learning, foundation-model, embedding-based, or multimodal AI approaches for biological imaging. Peer-reviewed publications, patents, conference presentations, or other demonstrated scientific contributions in quantitative bioimaging, computer vision, computational biology, bioengineering, or a related field. Position will be filled at level commensurate with extent of education, experience, and accomplishment— Senior Scientist I or Senior Scientist II ​Applicable only to applicants applying to a position in any location with pay disclosure requirements under state or local law: ​ The compensation range described below is the range of possible base pay compensation that the Company believes in good faith it will pay for this role at the time of this posting based on the job grade for this position. Individual compensation paid within this range will depend on many factors including geographic location, and we may ultimately pay more or less than the posted range. This range may be modified in the future. ​ We offer a comprehensive package of benefits including paid time off (vacation, holidays, sick), medical/dental/vision insurance and 401(k) to eligible employees.​ This job is eligible to participate in our short-term incentive program. ​ This job may be eligible to participate in our long-term incentive program. Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, incentive, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole and absolute discretion unless and until paid and may be modified at the Company’s sole and absolute discretion, consistent with applicable law. ​ AbbVie
+
+---
+
+## 69. [MAYBE] Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design
 - Link: https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Senior-Scientist--Machine-Learning-and-Algorithm-Development-for-RNA-Design_R20182
 - Location: see posting
 - Posted: Nov 16 (board gives the date only)
@@ -1387,7 +1752,7 @@ The Role Moderna is seeking a computational scientist to develop artificial inte
 
 ---
 
-## 58. [MAYBE] Capital One | Senior Data Analyst - US Card
+## 70. [MAYBE] Capital One | Senior Data Analyst - US Card
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Analyst---US-Card_R245027-1
 - Location: 2 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -1402,7 +1767,7 @@ Senior Data Analyst - US Card At Capital One, data is at the center of everythin
 
 ---
 
-## 59. [MAYBE] Natera | Research Associate 2
+## 71. [MAYBE] Natera | Research Associate 2
 - Link: https://job-boards.greenhouse.io/natera/jobs/6250593004
 - Location: Boulder, CO
 - Posted: Nov 16 18:51 ET
@@ -1417,7 +1782,7 @@ LOCATION : On-Site in Boulder, CO (Foresight Dx business unit, a Natera company)
 
 ---
 
-## 60. [MAYBE] GE Healthcare | Senior AI Engineer
+## 72. [MAYBE] GE Healthcare | Senior AI Engineer
 - Link: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Staff-Machine-Learning-Engineer_R4042375-1
 - Location: Haifa HEALTHCARE HA IL 2
 - Posted: Nov 16 (board gives the date only)
@@ -1432,7 +1797,7 @@ Job Description Summary The Senior AI Engineer is a senior technical leader resp
 
 ---
 
-## 61. [MAYBE] Varian | Senior Research Scientist, Optimization Algorithms
+## 73. [MAYBE] Varian | Senior Research Scientist, Optimization Algorithms
 - Link: https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HEL-AA/Senior-Research-Scientist--Optimization-Algorithms_R-31898-1
 - Location: HEL AA
 - Posted: Nov 16 (board gives the date only)
@@ -1447,7 +1812,7 @@ Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sus
 
 ---
 
-## 62. [MAYBE] Humana | Senior Analytics Solutions Engineer
+## 74. [MAYBE] Humana | Senior Analytics Solutions Engineer
 - Link: https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Analytics-Solutions-Engineer_R-433143
 - Location: Remote Nationwide
 - Posted: Nov 17 (board gives the date only)
@@ -1462,7 +1827,7 @@ Become a part of our caring community Are you passionate about solving complex h
 
 ---
 
-## 63. [MAYBE] Johnson & Johnson | Senior Data Analyst, CX Insights
+## 75. [MAYBE] Johnson & Johnson | Senior Data Analyst, CX Insights
 - Link: https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Senior-Data-Analyst--CX-Insights_R-099797
 - Location: Jacksonville, Florida, United States of America
 - Posted: Nov 17 (board gives the date only)
@@ -1477,7 +1842,7 @@ At Johnson & Johnson, we believe health is everything. Our strength in healthcar
 
 ---
 
-## 64. [MAYBE] Kensho | Machine Learning Engineer II
+## 76. [MAYBE] Kensho | Machine Learning Engineer II
 - Link: https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer-II_332921-1
 - Location: 2 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -1492,7 +1857,7 @@ Kensho is S&P Global’s hub for AI innovation and transformation. With expertis
 
 ---
 
-## 65. [MAYBE] S&P Global | Machine Learning Engineer II
+## 77. [MAYBE] S&P Global | Machine Learning Engineer II
 - Link: https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer-II_332921-2
 - Location: 2 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -1504,4 +1869,19 @@ Kensho is S&P Global’s hub for AI innovation and transformation. With expertis
 ### Job description
 
 Kensho is S&P Global’s hub for AI innovation and transformation. With expertise in machine learning, natural language processing, and data discovery, we develop and deploy novel solutions to innovate and drive progress at S&P Global and its customers worldwide. Kensho's solutions and research focus on business and financial generative AI applications, agents, data retrieval APIs, data extraction, and much more. At Kensho, we hire talented people and give them the autonomy and support needed to build amazing technology and products. We collaborate using our teammates' diverse perspectives to solve hard problems. Our communication with one another is open, honest, and efficient. We dedicate time and resources to explore new ideas, but always rooted in engineering best practices. As a result, we can innovate rapidly to produce technology that is scalable, robust, and useful. Kensho is S&P Global’s hub for AI innovation and transformation. With expertise in machine learning, natural language processing, and data discovery, we develop and deploy novel solutions to innovate and drive progress at S&P Global and its customers worldwide. Kensho's solutions and research focus on business and financial generative AI applications, agents, data retrieval APIs, data extraction, and much more. The Document Intelligence Team at Kensho is focused on designing and deploying production-grade machine learning systems that power our document processing pipelines. The team researches and implements cutting edge technologies in the document understanding domain. In our work, we emphasize scalable solutions and robust engineering. We also present and publish some of our research in the leading document intelligence conferences and journals. Our mission is to make complex visually rich documents machine-readable. Our products power both traditional document processing pipelines and the next generation LLM-driven agentic systems. Kensho’s document processing capabilities deliver highly accurate results with the best in class efficiency. We are seeking a mid-level Machine Learning Engineer to help develop and scale document understanding systems across the company. This is a hands-on, full-lifecycle ML role with a strong emphasis on PDF and image processing, high code quality, and system-level thinking. Kensho states that the anticipated base salary range for the position is $140,000 - $180,000 USD. In addition, this role is eligible for an annual incentive bonus and equity plans. At Kensho, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. What You’ll Do: Design and implement document processing systems that transform visually rich documents into machine readable forms Build and optimize production-level systems that process billions of document pages a year Develop pragmatic cutting edge solutions for diverse business workflows Investigate and solve challenges in document understanding Work closely with Product and Design teams to build ML-based solutions that enhance user experiences and meet business objectives Collaborate closely with the ML Operations team to create automated solutions for managing the entire ML systems lifecycle, from initial technical design to seamless implementation Who You'll Need: Bachelor's degree or higher in Computer Science, Engineering, or a related field 3+ years of significant, hands-on industry experience with machine learning (ML), computer vision (CV), natural language processing (NLP), and information retrieval systems, including designing, shipping, and maintaining production systems Strong programming skills in Python, with a working knowledge of data processing tools and ML frameworks such as PyTorch, Transformers, and HuggingFace Experience working with computer vision models such as ViT and DETR. Proven experience building ML pipelines for data processing, training, inference, maintenance, evaluation, versioning, and experimentation Demonstrated effective coding, documentation, collaboration, and communication habits Strong problem-solving skills and a proactive approach to addressing challenges Ability to adapt to a fast-paced and dynamic work environment Technologies We Love: ML: PyTorch, Transformers, HuggingFace, LangChain Tools/Toolkits: Claude Code, Git, Weights & Biases, DVC, Flask, Django, FastAPI, LiteLLM Techniques: CV (computer vision), NLP (natural language processing), Transformers, Graph Models, DETR Deployment: Airflow, Docker, Kubernetes, Jenkins, AWS, Github Action At Kensho, we pride ourselves on providing top-of-market benefits, including: Medical, Dental, and Vision insurance 100% company paid premiums Unlimited Paid Time Off 26 weeks of 100% paid Parental Leave (paternity and maternity) 401(k) plan with 6% employer matching Generous company matching on donations to non-profit charities Up to $20,000 tuition assistance toward degree programs, plus up to $4,000/year for ongoing professional education such as industry conferences Plentiful snacks, drinks, and regularly catered lunches Dog-friendly office (CAM office) Bike sharing program memberships Compassion leave and elder care leave Mentoring and additional learning opportunities Opportunity to expand professional network and participate in conferences and events Recruitment Fraud Alert: If you receive an email from a spglobalind.com domain or any other regionally based domains, it is a scam and should be reported to reportfraud@spglobal.com . S&P Global never requires any candidate to pay money for job applications, interviews, offer letters, “pre-employment training” or for equipment/delivery of equipment. Stay informed and protect yourself from recruitment fraud by reviewing our guidelines, fraudulent domains, and how to report suspicious activity here .
+
+---
+
+## 78. [MAYBE] JP Morgan Chase | Digital Channels Quant Analytics, Senior Associate
+- Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807334
+- Location: Wilmington, DE, United States US Jersey City, NJ, United States Plano, TX, United States Brooklyn, NY, United States
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: a/b test, aws, econometric, python, r, sql, statistic, tableau, git, portfolio, reporting | Lacks: alteryx, sas, snowflake  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Summary: As a Quant Analytics Senior Associate on the Digital Analytics team you will support an extensive portfolio of digital products by using data to provide recommendations that enhance the customer experience and build long term, profitable customer relationships. In this role, you will be the driver of the analytics book of work that is transforming Chase’s cross-channel, cross-line of business strategy to a hyper-personalized, data-driven, customer centric model. Your expertise in digital data and analytical thought leadership will be used to help define OKRs, develop and measure A/B tests, scope strategic analytical questions and create analytical plans providing insights to drive outcomes for Chase’s 80+ million digital customers. You will be responsible for delivering actionable analysis in clear and compelling terms while building relationships with Digital Product, Tech, Design, Strategy and more. The ideal candidate should be self-driven and independent, motivated to establish and grow a platform to push the business forward. Job Responsibilities: Data Storytelling : Analyze and visualize digital customer behaviors to craft compelling narratives that drive insights and action. OKR Management : Lead the creation, iteration, reporting, and causal analysis of OKRs to track and achieve strategic goals. Data-Driven Decision Making : Foster data-informed decisions and experimentation by establishing strategic partnerships, promoting best practices, and ensuring clear communication. Opportunity Identification : Develop OKRs and conduct deep-dive analyses to uncover opportunities for driving Digital CSAT, Engagement, and Deepening Consultation : Serve as a subject matter expert in Digital data, providing consultation to the broader Data & Analytics organization. Required qualifications, skills, and responsibilities: 3+ years of experience analyzing customer experiences, digital products/usage Proven track record of problem-solving using data and building new analytics capabilities. Talent for translating numbers into an actionable story for business leaders Superior written, oral communication and presentation skills with experience communicating concisely and effectively with all levels of management and partners Experience in querying big data platforms and SAS/SQL Experience with Digital Analytics Bachelor’s degree is required (preferred in data science, mathematics, statistics, econometrics, engineering, or related fields). Preferred qualifications, skills, and responsibilities: Hands-on experience with generative AI solutions, including large language models, retrieval-augmented generation, and agentic AI frameworks. Experience with analytical tools such as Python, R, Alteryx, Tableau, and Adobe Analytics Experience working with Big Data environments (i.e., Snowflake, AWS) Experience with A/B testing   Chase is a leading financial services firm, helping nearly half of America’s households and small businesses achieve their financial goals through a broad range of financial products. Our mission is to create engaged, lifelong relationships and put our customers at the heart of everything we do. We also help small businesses, nonprofits and cities grow, delivering solutions to solve all their financial needs. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
 
