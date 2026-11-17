@@ -13,10 +13,12 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 7 | Manulife Financial | Associate Data Scientist | 55 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
 | 8 | Dell Technologies | Inside Product Specialist - Early Career | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
 | 9 | Legal & General | Associate, Investment Analytics, L&G - Asset Management, America | 54 | none found (check myvisajobs) | Nov 16 18:23 ET |
-| 10 | University of Louisville | Temporary Research Assistant (Part Time) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 11 | Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 12 | Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design | 65 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 13 | Natera | Research Associate 2 | 57 | 28 in data/analytics/finance occupations | Nov 16 18:51 ET |
+| 10 | TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start | 52 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 11 | Google | Research Scientist, Error Correction Experiments, Quantum AI | 50 | 1053 in data/analytics/finance occupations | Nov 17 03:09 ET |
+| 12 | University of Louisville | Temporary Research Assistant (Part Time) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 13 | Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 14 | Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design | 65 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 15 | Natera | Research Associate 2 | 57 | 28 in data/analytics/finance occupations | Nov 16 18:51 ET |
 
 ---
 
@@ -155,7 +157,59 @@ The LGIMA Investment Analytics team is responsible for providing market-leading 
 
 ---
 
-## 10. [MAYBE] University of Louisville | Temporary Research Assistant (Part Time)
+## 10. [MAYBE] TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start
+- Link: https://lifeattiktok.com/search/7668663594419374341
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~52 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: forecast, machine learning, probability, python, pytorch, statistic, tensorflow, deep learning, research | Lacks: c++, java, scala
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The Brand Ads Team builds technologies that unlock business growth potential. This team owns several ads products: reservation ads, auction ads, and innovative content ads that enables advertisers and users to foster more awareness of their brand to attain their business goals. We work on the end-to-end ads delivery tech stack, including ads bidding, ranking, and forecasting. 
+
+We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth.
+Successful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your resume.
+Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to our Company and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+
+Responsibilities:
+- As a Machine Learning Engineer on the Brand Ads team, you will work on real-world problems such as forecasting available inventory, optimizing  auction traffic, and using machine learning to improve delivery quality and efficiency. You will collaborate closely with engineers, product managers, data scientists, and strategy partners to turn ambiguous business challenges into scalable technical solutions.
+-You will work on a brand-facing business where your systems map directly to revenue and to the experience of major advertisers. Minimum Qualifications
+- Individuals who are completing or have recently completed a Master's degree  in Computer Science, a related field, or equivalent practical experience.
+- Proficient in at least one general-purpose programming language, such as Go, C/C++, Java, or Python, with solid coding and debugging skills.
+Strong foundation in data structures, algorithms, Linux development environment, and system design, with strong analytical and problem-solving skills.
+- Solid understanding of statistics, probability, machine learning, and deep learning fundamentals, with familiarity with at least one mainstream machine learning framework such as TensorFlow, PyTorch, or MXNet.
+- Ability to work effectively in ambiguous environments, make sound engineering trade-offs, and collaborate in cross-functional teams.
+
+Preferred Qualifications
+- Good understanding of online advertising systems, especially one or more of the following areas: guaranteed delivery, reservation ads, pacing, allocation, inventory forecasting, traffic strategy, brand safety, ads ranking, bidding, or auction systems.
+- Familiarity with advertising concepts such as CPM, CPC, CTR, CVR, campaign, creative, targeting, demand, inventory, budget, pacing, reservation, auction, DSP, or RTB.
+- Experience with large-scale backend systems, recommendation systems, search systems, or advertising systems.
+- Experience with data analysis, experimentation, feature engineering, or model optimization.
+- Experience with large-scale backend, recommendation, search, or advertising systems, as well as data analysis, experimentation, feature engineering, model optimization, distributed computing, or related internship, project, or research experience.
+ 
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy
+
+---
+
+## 11. [MAYBE] Google | Research Scientist, Error Correction Experiments, Quantum AI
+- Link: https://www.google.com/about/careers/applications/jobs/results/141343429106770630
+- Location: Goleta, CA, USA
+- Posted: Nov 17 03:09 ET
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1053 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, python, portfolio, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+As an organization, Google maintains a portfolio of research projects driven by fundamental research, new product innovation, product contribution and infrastructure goals, while providing individuals and teams the freedom to emphasize specific types of work. As a Research Scientist, you'll setup large-scale tests and deploy promising ideas quickly and broadly, managing deadlines and deliverables while applying the latest theories to develop new and improved products, processes, or technologies. From creating experiments and prototyping implementations to designing new architectures, our research scientists work on real-world problems that span the breadth of computer science, such as machine (and deep) learning, data mining, natural language processing, hardware and software performance analysis, improving compilers for mobile platforms, as well as core search and much more. As a Research Scientist, you'll also actively contribute to the wider research community by sharing and publishing your findings, with ideas inspired by internal projects as well as from collaborations with research programs at partner universities and technical institutes all over the world. Google's Quantum Error Correction team brings quantum error correction from theory to reality. We drive experimental QEC advances and enable research with QEC benchmarks and data, and collaborate across Quantum AI to conduct system integration tests and pave the way to large-scale error-corrected quantum computers. As a Research Scientist, you will contribute to our next generation of dynamic QEC experiments by driving system design, methodology, and real-time feedback testing. You will partner across theory, software, and device architecture, applying experimental quantum expertise to this exciting new domain. Google Quantum AI is building quantum computing for otherwise unsolvable problems. The full potential of quantum computing will be unlocked with a large-scale computer capable of complex, error-corrected computations. Our roadmap is focused on advancing the capabilities of quantum computing and enabling meaningful applications. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $174000 - $252000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Design and implement system for running Quantum Error Correction experiments with real-time feedback. Collaborate with partner teams across a wide range of subfields to test new techniques, adopt them into standard procedures, and conduct system integration tests. Collaborate on interdisciplinary quantum error correction projects. Complete research projects and present results internally and externally. Minimum qualifications: PhD in physics, electrical engineering, quantum information, or equivalent experience. Experience calibrating, operating, or benchmarking quantum systems. Experience in research, including research projects, publishing papers, or presenting at conferences. Preferred qualifications: Experience with quantum error correction. Experience working on a team developing excellent tools that can be transferred to a production environment. Experience with cryogenic hardware, microwave engineering, electronics, or superconducting qubits. Strong Python proficiency for scientific computing and data analysis, including collaborative development and version control. PhD in physics, electrical engineering, quantum information, or equivalent experience. Experience calibrating, operating, or benchmarking quantum systems. Experience in research, including research projects, publishing papers, or presenting at conferences.
+
+---
+
+## 12. [MAYBE] University of Louisville | Temporary Research Assistant (Part Time)
 - Link: https://uofl.wd1.myworkdayjobs.com/UofLCareerSite/job/Belknap-Campus/Temporary-Research-Assistant--Part-Time-_R109732
 - Location: Belknap Campus
 - Posted: Nov 16 (board gives the date only)
@@ -170,7 +224,7 @@ Department: Early Childhood Research Center-JM Location: Belknap Campus Time Typ
 
 ---
 
-## 11. [MAYBE] Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab)
+## 13. [MAYBE] Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab)
 - Link: https://seattlechildrens.wd5.myworkdayjobs.com/External/job/Seattle-WA/Research-Associate-I---Bench--Kalia-Lab-_R264858
 - Location: Seattle, WA
 - Posted: Nov 16 (board gives the date only)
@@ -185,7 +239,7 @@ A Research Associate I-Bench position focusing on translational discoveries in T
 
 ---
 
-## 12. [MAYBE] Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design
+## 14. [MAYBE] Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design
 - Link: https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Senior-Scientist--Machine-Learning-and-Algorithm-Development-for-RNA-Design_R20182
 - Location: see posting
 - Posted: Nov 16 (board gives the date only)
@@ -200,7 +254,7 @@ The Role Moderna is seeking a computational scientist to develop artificial inte
 
 ---
 
-## 13. [MAYBE] Natera | Research Associate 2
+## 15. [MAYBE] Natera | Research Associate 2
 - Link: https://job-boards.greenhouse.io/natera/jobs/6250593004
 - Location: Boulder, CO
 - Posted: Nov 16 18:51 ET
