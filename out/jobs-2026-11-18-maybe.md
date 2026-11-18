@@ -14,39 +14,47 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 8 | Cresta | Applied Data Scientist  | 64 | none found (check myvisajobs) | Nov 18 12:29 ET |
 | 9 | Cleveland-Cliffs | Manufacturing Planning Analyst | 62 | 1 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
 | 10 | U.S. Bank | CLO Global Business Tech - Business Ops Analyst | 62 | 82 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 11 | Fin | GTM Data Scientist | 58 | none found (check myvisajobs) | Nov 18 10:25 ET |
-| 12 | Ema | Software Engineer, Machine Learning | 57 | none found (check myvisajobs) | Nov 18 03:20 ET |
-| 13 | Path Robotics | Machine Learning Engineer, Robotics | 57 | none found (check myvisajobs) | Nov 18 08:43 ET |
-| 14 | Healthfirst | Data Engineer | 56 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 15 | PlayStation | ML Ops Engineer | 55 | none found (check myvisajobs) | Nov 18 05:04 ET |
-| 16 | Voya Financial | IM Entry Level Analyst Program-Jr. Portfolio Analyst | 55 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 17 | BTI360 | Data Scientist - Polygraph Required  | 55 | none found (check myvisajobs) | Nov 18 11:26 ET |
-| 18 | CVS Health | Data Engineer | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 19 | Mayo Clinic | Research Fellow - Quantitative Health Science - Ehlers lab | 54 | 26 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 20 | Vistra | Data Scientist | 52 | 8 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 21 | Mars | Dry Food Process Research Scientist | 50 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 22 | JP Morgan Chase | Data Scientist Associate | 50 | 1098 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 23 | Fifth Third Bank | Data Engineer I | 50 | 32 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 24 | Howard University | Research Assistant/ Recovery Guide | 50 | cap-exempt employer | Nov 18 (board gives the date only) |
-| 25 | Clemson University | Statistical and Research Analyst | 50 | cap-exempt employer | Nov 18 (board gives the date only) |
-| 26 | Rocket Companies | Data Scientist | 50 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 27 | Citi | Data Engineer | 46 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 28 | Regeneron Pharmaceuticals | Process Data Scientist | 45 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 29 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 30 | PricewaterhouseCoopers (PwC) | Junior Data Analyst (Automation and VBA Focus) | 44 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 31 | PennState University | Research Assistant - Fusco | 40 | cap-exempt employer | Nov 17 (board gives the date only) |
-| 32 | Manulife Financial | Data Engineer | 40 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 33 | Expedia Inc. | Machine Learning Scientist II - Agentic Experiences | 75 | 83 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 34 | Evolent | Senior Data Scientist (AI Evaluation & Improvement) | 75 | 2 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 35 | Lloyds Bank | Senior Data Scientist | 73 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 36 | Capital One | Senior Data Scientist | 72 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 37 | Exelixis | Senior Data Analyst - Compliance Operations | 67 | 12 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 38 | Capital One | Sr. Data Analyst - Retail Bank | 65 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 39 | Capital One | Senior Data Analyst - Enterprise Services | 64 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 40 | Thermo Fisher Scientific | Sr Pricing Analyst | 62 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 41 | Western Union | Senior Business Analyst, Compliance Systems and Analytics | 57 | 17 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 42 | Roche | Senior Real World Data Scientist | 55 | 7 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 43 | Micron Technology | Sr Data Scientist | 55 | 46 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 11 | The Composites Solution Partner (CSP) | Business Intelligence Analyst | 62 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 12 | UTHealth Houston | Data Analyst-Associate (On-Site) | 59 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 13 | Fin | GTM Data Scientist | 58 | none found (check myvisajobs) | Nov 18 10:25 ET |
+| 14 | Ema | Software Engineer, Machine Learning | 57 | none found (check myvisajobs) | Nov 18 03:20 ET |
+| 15 | Path Robotics | Machine Learning Engineer, Robotics | 57 | none found (check myvisajobs) | Nov 18 08:43 ET |
+| 16 | CAI | Data Engineer | 57 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 17 | Healthfirst | Data Engineer | 56 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 18 | PlayStation | ML Ops Engineer | 55 | none found (check myvisajobs) | Nov 18 05:04 ET |
+| 19 | Voya Financial | IM Entry Level Analyst Program-Jr. Portfolio Analyst | 55 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 20 | BTI360 | Data Scientist - Polygraph Required  | 55 | none found (check myvisajobs) | Nov 18 11:26 ET |
+| 21 | Steampunk | Job Title Data Scientist | 55 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 22 | CVS Health | Data Engineer | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 23 | Mayo Clinic | Research Fellow - Quantitative Health Science - Ehlers lab | 54 | 26 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 24 | Vistra | Data Scientist | 52 | 8 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 25 | Mars | Dry Food Process Research Scientist | 50 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 26 | JP Morgan Chase | Data Scientist Associate | 50 | 1098 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 27 | Fifth Third Bank | Data Engineer I | 50 | 32 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 28 | Howard University | Research Assistant/ Recovery Guide | 50 | cap-exempt employer | Nov 18 (board gives the date only) |
+| 29 | Clemson University | Statistical and Research Analyst | 50 | cap-exempt employer | Nov 18 (board gives the date only) |
+| 30 | Rocket Companies | Data Scientist | 50 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 31 | NVIDIA | Data Analytics Security Administrator | 50 | 78 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 32 | Citi | Data Engineer | 46 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 33 | Regeneron Pharmaceuticals | Process Data Scientist | 45 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 34 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 35 | PricewaterhouseCoopers (PwC) | Junior Data Analyst (Automation and VBA Focus) | 44 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 36 | PennState University | Research Assistant - Fusco | 40 | cap-exempt employer | Nov 17 (board gives the date only) |
+| 37 | Manulife Financial | Data Engineer | 40 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 38 | GenScript | Research Associate | 40 | 5 in data/analytics/finance occupations | Nov 18 14:15 ET |
+| 39 | UTHealth Houston | Research Assistant (Part-Time) | 40 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 40 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 41 | Expedia Inc. | Machine Learning Scientist II - Agentic Experiences | 75 | 83 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 42 | Evolent | Senior Data Scientist (AI Evaluation & Improvement) | 75 | 2 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 43 | Lloyds Bank | Senior Data Scientist | 73 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 44 | Capital One | Senior Data Scientist | 72 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 45 | Exelixis | Senior Data Analyst - Compliance Operations | 67 | 12 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 46 | Capital One | Sr. Data Analyst - Retail Bank | 65 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 47 | Capital One | Senior Data Analyst - Enterprise Services | 64 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 48 | Thermo Fisher Scientific | Sr Pricing Analyst | 62 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 49 | Western Union | Senior Business Analyst, Compliance Systems and Analytics | 57 | 17 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 50 | Roche | Senior Real World Data Scientist | 55 | 7 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 51 | Micron Technology | Sr Data Scientist | 55 | 46 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
 
 ---
 
@@ -200,7 +208,37 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 11. [MAYBE] Fin | GTM Data Scientist
+## 11. [MAYBE] The Composites Solution Partner (CSP) | Business Intelligence Analyst
+- Link: https://thecsp.wd5.myworkdayjobs.com/CSP/job/Auburn-Hills/Business-Intelligence-Analyst_JR101462-1
+- Location: Auburn Hills
+- Posted: Nov 18 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, power bi, sql, tableau, data quality, kpi, quantitative, reporting, validation | Lacks: qlik  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | Support the BI Manager in Discovery sessions with the Dashboard Sponsor and Dashboard Owner.
+
+### Job description
+
+CSP is the industry leader in the formulation and molding of lightweight, advanced composite components for the transportation industries. As an innovative, full-service Tier One supplier, we offer an entrepreneurial environment where you’re only limited by your own imagination. In addition to our team-focused environment, we provide industry-leading benefits, called BENEfits4U. Our comprehensive offering includes: affordable medical, dental, and vision care; flexible spending accounts; life insurance; 401k with company match and much, much more. Job Description 1. Discovery and requirements: Stay informed on new dashboard, report, and analytics requests as they come through intake, so you are ready to support Discovery once a request is prioritized and assigned. Support the BI Manager in Discovery sessions with the Dashboard Sponsor and Dashboard Owner. Help map how business users produce their reports today, including data sources, manual steps, and where things break. Own BI Spec Development. Turn business needs into functional requirements the Technical BI team can build from, such as user stories, acceptance criteria, KPI definitions, data mappings, and dashboard mockups. The BI Manager reviews and approves each spec. Pull program metrics for the BI Manager’s reviews, including request volume, cycle time, adoption, and data quality issues. 2. Build support and analysis: Support the BI Data Engineers during Data Mapping by answering requirement questions and confirming each KPI connects to the right source data. Support the dashboard development partner during Dashboard Building by clarifying requirements and checking that each build matches the spec. Write SQL queries and build Power BI prototypes to test requirements, explore data, and answer one-off business questions. Run variance, trend, and driver analysis on financial and operational data, and write up what you find with a recommendation. 3. Data quality, definitions, and testing: Work with dashboard owners to reconcile BI outputs to source systems and financial statements. When the numbers don’t tie, work with dashboard owners and the technical team until they do. Lead user acceptance testing with the Dashboard Owner before each release. Write test scripts, log defects, and follow each one until it is fixed. Log data quality issues and explain their business impact to the BI Manager so the team can work with dashboard owners to discuss corrective actions 4. Deployment, training, and adoption: Own Deployment Prep for each release. Make sure documentation, and access are ready before a dashboard goes live, and coordinate the rollout and training with the Dashboard Owner. Develop user guides, and quick-reference sheets for new dashboards and BI tools. Answer first-line questions from business users about dashboards, what the data means, and access. Pass technical issues to the Technical BI team. Track active users, report usage, and the share of reporting done through self-service. Tell the BI Manager where adoption is falling behind. Preferred experience and skills: We want an analyst who likes digging into data, asks good questions, and can explain a finding to someone who doesn’t work with data every day. If you enjoy chasing down the one number that doesn’t tie out, you will do well here. 2-4+ years in business analysis, business intelligence, data analytics, or financial analysis. Manufacturing or industrial experience is a plus. Hands-on experience building reports and dashboards in a major BI platform. Power BI is strongly preferred, and we will also consider Tableau or Qlik. Working SQL skills and an understanding of basic data modeling, such as fact and dimension tables, joins, and relationships. Advanced Excel, including pivot tables, lookups, and Power Query. A solid grounding in finance and accounting, including the P&L, balance sheet, and cost accounting. You need to understand the data well enough to question it. An understanding of manufacturing and operations would be helpful. Experience gathering and documenting business requirements through user stories, process maps, or functional specifications. Experience with data validation, reconciliation, and user acceptance testing. Clear writing and speaking, including explaining analysis to non-technical audiences. Ability to juggle several requests at once, work on your own or with a team, and keep the details right. Education: A bachelor’s degree in Finance, Accounting, Information Systems, Computer Science, or another quantitative field is required. Personal attributes: Storyteller. You can turn a table of numbers into one chart and two sentences a busy plant manager will read. Careful with numbers. You reconcile to the source before you hit send. You would rather find your own mistake than have a VP find it. Curious. When a number moves, you want to know why. Collaborative. You are comfortable working with plant supervisors and data engineers in the same week, and you can translate between them. Eager to grow. You take pride in your work and want to keep building your analytics and BI skills. If you enjoy innovation, and an opportunity to learn and contribute to a growing organization, CSP is the place for you!
+
+---
+
+## 12. [MAYBE] UTHealth Houston | Data Analyst-Associate (On-Site)
+- Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8319
+- Location: San Antonio, TX, United States US
+- Posted: Nov 18 (board gives the date only)
+- Scanner fit: ~59 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time (20 h/week stated)
+- Title scope: core | Has: dashboard, excel, statistic, tableau, healthcare, portfolio, publication, reporting, research | Lacks: sas  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | Core responsibilities include supporting data management for ongoing clinical and translational research, preparing study progress reports for federal sponsors and institutional stakeholders, developing ad hoc analytical / The successful candidate will work with the Principal Investigator, the laboratory biostatistician, postdoctoral fellows, and research coordinators, contributing to the analytical infrastructure that supports the laborat
+
+### Job description
+
+Join a federally funded clinical and translational research laboratory whose active portfolio spans immune resilience, biological aging, military performance, infection, asthma, exercise physiology, heat stress, and trauma, with scientific output reaching multispecialty journals including Nature Communications and Aging Cell. The Data Analyst — Associate supports the research data management, reporting, and analytical workflows that underlie this portfolio. This position may be filled at multiple education and training levels, including candidates with a bachelor’s degree in biology, biostatistics, biomedical informatics, or a related field (with relevant analytical experience), candidates with a master’s degree, and candidates with a doctoral (PhD) degree. The specific appointment will be calibrated to the candidate’s background and the laboratory’s active analytical needs. Reporting to the Principal Investigator and senior analytical personnel, the Data Analyst — Associate contributes to the compilation, review, and submission of research data, reports, and documentation across the laboratory’s active studies. Core responsibilities include supporting data management for ongoing clinical and translational research, preparing study progress reports for federal sponsors and institutional stakeholders, developing ad hoc analytical reports as requested, maintaining documentation consistent with institutional and regulatory requirements, and ensuring that research reporting is accurate, timely, and audit-ready. The role is positioned to support scientific decision-making across the laboratory’s active federally funded research. The successful candidate will work with the Principal Investigator, the laboratory biostatistician, postdoctoral fellows, and research coordinators, contributing to the analytical infrastructure that supports the laboratory’s publication record and sponsor reporting obligations. This position supports research operations and academic activities, including clinical and translational research, and is not focused on financial analysis, budgeting, accounting, or financial reporting. The lab is currently engaged in exciting, state-of-the-art, multidisciplinary projects focused on infection, aging, asthma, and exercise, and job duties are aligned with these research initiatives. Compile and report data to support institutional compliance requirements. Utilize basic programming techniques to extract, manipulate, analyze, and report data to internal and external constituencies. Utilizes existing algorithms to merge complex data into new datasets. Collaborates with team members across the institution to access data and articulate data requirements for various projects and initiatives. Assist in developing and maintaining data repositories and databases. Ensures compliance with deliverable reporting requirements by performing quality data audits and analysis. Perform ad-hoc analysis and provide recommendations based on data insights. Prepare reports, dashboards, and visualizations to communicate data effectively. Perform other duties as assigned. Experience in manipulating and analyzing data from varying sources to determine reporting needs and design specifications. Familiarity of empirical research and answering questions with data. Experience with statistical tools such as SPSS, SAS, or similar analytic tools. Experience in dashboard sustainment using visualization tools such as but not limited to Tableau. Proficient written and verbal skills, including the ability to convey information effectively. Ability to work with a diverse group of colleagues as part of a diverse and dynamic team. Education: Bachelor's Degree degree in a related field is required. Experience: Two (2) years of related experience is required. The University of Texas at San Antonio (UT San Antonio) is a nationally recognized, top-tier public research university that unites the power of higher education, biomedical discovery and healthcare within one visionary institution. As the third-largest research university in Texas and a Carnegie R1-designated institution, UT San Antonio is a model of access and excellence — advancing knowledge, social mobility and public health across South Texas and beyond. UT San Antonio serves approximately 42,000 students in 320 academic programs spanning science, engineering, medicine, health, liberal arts, AI, cybersecurity, business, education and more. With 17,000 faculty and staff, UT San Antonio has been recognized by Forbes as one of America’s Best Employers for Company Culture . Benefits Overview UT Health San Antonio offers an excellent benefits package for its employees. Employees who work at least 20 hours a week, with an appointment of at least 4.5 months, are eligible for benefits. Medical - UT SELECT Medical insurance is offered free for employees and administered by Blue Cross and Blue Shield of Texas. Family members can be added to the plan through payroll deduction. Employees and their dependents can also receive discounted copays and coinsurance when using UT Health Physicians, a network of 800 premier physicians including more than 100 specialists. Employees receive $50,000 of group term life insurance and $50,000 of basic accidental death and dismemberment insurance for free, with options to purchase additional employee and dependent coverage for both at group rates. Dental - Three dental insurance plan options are available for employees and their families through Delta Dental Insurance Company, two PPOs and one dental HMO plan. Both PPO plans allow employees to choose any licensed dentist. Vision - Fully insured Vision Care benefits are offered by Superior Vision Services. Two vision plan options that offer either standard or enhanced vision benefits. Disability - Employees can enroll in the Disability Insurance which provides income if a non-work related illness or injury prevents you from working. FSAs - Employees can enroll in flexible spending accounts (FSAs) to set aside money from earnings before taxes for qualifying dependent day care expenses or out-of-pocket health care expenses. Retirement - Employees are eligible for either the Teacher Retirement System (TRS) or the Optional Retirement Plan (ORP). TRS is a defined benefit retirement plan which UT Health matches employee contributions. ORP is for eligible faculty staff employees. Voluntary retirement programs are also available to invest before- or after-tax dollars with the choice of five quality retirement plan providers. Time Off - A generous leave program offers multiple paid leave options: Front-loaded Paid Time Off: 128 to 208 hours (16 to 26 days) of Paid Time Off based on years of service, given at the start of each fiscal year. PTO may be prorated in year one based on date of hire. Extended Illness Bank: 8 hours (1 day) accrued per month which can be used for illness or injury after one day of Paid Time Off is taken. Paid Family Leave: Up to 240 hours (6 weeks) to ca [...]
+
+---
+
+## 13. [MAYBE] Fin | GTM Data Scientist
 - Link: https://job-boards.greenhouse.io/intercom/jobs/8374568
 - Location: San Francisco, California
 - Posted: Nov 18 10:25 ET
@@ -215,7 +253,7 @@ Fin , now part of Salesforce, is on a mission to help businesses provide perfect
 
 ---
 
-## 12. [MAYBE] Ema | Software Engineer, Machine Learning
+## 14. [MAYBE] Ema | Software Engineer, Machine Learning
 - Link: https://jobs.ashbyhq.com/ema/9728a171-9617-4533-9f03-10c14c3b6ca5
 - Location: Mountain View (Hybrid)
 - Posted: Nov 18 03:20 ET
@@ -301,7 +339,7 @@ Ema Unlimited
 
 ---
 
-## 13. [MAYBE] Path Robotics | Machine Learning Engineer, Robotics
+## 15. [MAYBE] Path Robotics | Machine Learning Engineer, Robotics
 - Link: https://boards.greenhouse.io/pathrobotics/jobs/8949716002?gh_jid=8949716002
 - Location: Columbus, Ohio or Remote
 - Posted: Nov 18 08:43 ET
@@ -316,7 +354,22 @@ Build the Path Forward At Path Robotics, we’re building the future of embodied
 
 ---
 
-## 14. [MAYBE] Healthfirst | Data Engineer
+## 16. [MAYBE] CAI | Data Engineer
+- Link: https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Engineer_R8999
+- Location: PA-CLIENT-STATE
+- Posted: Nov 18 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, excel, power bi, python, r, sql, statistic, data quality, healthcare, pipeline, reporting | Lacks: azure, scala, ssis  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Data Engineer Req number: R8999 Employment type: Full time Worksite flexibility: Remote Who we are CAI is a global services firm with over 9,000 associates worldwide and a yearly revenue of $1.3 billion+. We have over 40 years of excellence in uniting talent and technology to power the possible for our clients, colleagues, and communities. As a privately held company, we have the freedom and focus to do what is right—whatever it takes. Our tailor-made solutions create lasting results across the public and commercial sectors, and we are trailblazers in bringing neurodiversity to the enterprise. Job Summary As the Data Engineer, you will be responsible for developing and maintaining enterprise reporting solutions, supporting business operations through scalable data solutions, and providing technical leadership and mentorship to team members. Job Description We are seeking a Data Engineer to join our client's team in a Full-Time and Remote role. This position will require this person to work Eastern Standard Time. This position is responsible for developing and maintaining enterprise reporting solutions, supporting business operations through scalable data solutions, and providing technical leadership and mentorship to team members. What You'll Do • Collaborate with business units to gather requirements, understand data needs, and translate them into effective reporting solutions that support operational and strategic goals • Develop, maintain, and optimize SSRS reports and Power BI dashboards to provide actionable business insights • Write, troubleshoot, and optimize SQL queries for data extraction, transformation, and analysis • Ensure data accuracy, consistency, and integrity across all reporting platforms • Support ad hoc data requests and provide timely, insightful analysis to business partners • Document report logic, data definitions, and processes to support transparency and knowledge sharing • Participate in data quality initiatives and contribute to continuous improvement of reporting processes • Participate in code review sessions, script testing, error correction, and code modifications as required • Implement business rules through stored procedures, middleware, and other technologies • Maintain and regularly update technical documentation, data definitions, and reporting logic within the team wiki • Assist in the development, maintenance, and operation of Azure DevOps pipelines and BI Support application lifecycle management processes • Mentor and support team members through technical guidance and sharing best practices • Collaborate with cross-functional teams to ensure alignment with data standards and governance requirements • Perform other duties as assigned What You'll Need Required: • Associate degree and 4 years of experience in Information Technology/MIS, Mathematics, Statistics, Data Analytics, Engineering Sciences, Business, Healthcare Administration, Human Services, healthcare claims and reporting environments, or application development and support • Experience with SQL Server 2016 or higher • Experience writing SQL scripts and developing stored procedures • Experience with SSRS, SSMS, SSIS, Power BI, Visual Studio 2016 or higher, Azure DevOps, and source control tools • Experience with C# and Microsoft .NET Framework 4.0 or higher • Knowledge of Microsoft SQL Server operating systems • Knowledge of indexes, index management, and database statistics • Knowledge of implementing operational automation through scripting • Knowledge of Microsoft Power BI or comparable analytics software • Knowledge of Microsoft SSRS reporting software • Ability to translate and communicate complex technical concepts to both technical and non-technical audiences • Ability to prepare implementation plans across multiple platforms • Strong customer service, communication, analytical, problem-solving, and organizational skills • Strong attention to detail with the ability to prioritize tasks and manage complex technical procedures • Ability to work independently and collaboratively within a team environment • Certification required for candidates qualifying through a 2-year degree pathway • Equivalent combinations of education and experience may be considered • Valid active driver’s license maintained throughout employment Preferred: • Recent experience with SQL database management and development • Experience with Power BI, analytical tools, R, Python, Visual Studio, and SSRS • Microsoft data systems certifications • CSTP, ISTQB, ASTQB, MTA, MCSA, MCSD, MCSE, ITIL v3, Power BI, AWS, Azure, INFORMS, IIBA, or equivalent certifications Physical Demands • Ability to safely and successfully perform the essential job functions consistent with the ADA and other federal, state, and local standards • Sedentary work that involves sitting or remaining stationary most of the time with occasional movement to attend meetings and perform job-related tasks • Ability to conduct repetitive tasks on a computer, utilizing a mouse, keyboard, and monitor
+
+---
+
+## 17. [MAYBE] Healthfirst | Data Engineer
 - Link: https://healthfirst.wd1.myworkdayjobs.com/healthfirst/job/Remote---NY/Data-Engineer_R022686
 - Location: 2 Locations
 - Posted: Nov 18 (board gives the date only)
@@ -331,7 +384,7 @@ The Data Engineer is responsible for data acquisition strategies and integration
 
 ---
 
-## 15. [MAYBE] PlayStation | ML Ops Engineer
+## 18. [MAYBE] PlayStation | ML Ops Engineer
 - Link: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6240810004
 - Location: United States, San Diego, CA
 - Posted: Nov 18 05:04 ET
@@ -346,7 +399,7 @@ Why Sony Interactive Entertainment? Sony Interactive Entertainment isn’t just 
 
 ---
 
-## 16. [MAYBE] Voya Financial | IM Entry Level Analyst Program-Jr. Portfolio Analyst
+## 19. [MAYBE] Voya Financial | IM Entry Level Analyst Program-Jr. Portfolio Analyst
 - Link: https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/IM-Entry-Level-Analyst-Program-Jr-Portfolio-Analyst_JR0033433
 - Location: Atlanta, GA
 - Posted: Nov 17 (board gives the date only)
@@ -361,7 +414,7 @@ Together we fight for everyone’s opportunity for a better financial future. We
 
 ---
 
-## 17. [MAYBE] BTI360 | Data Scientist - Polygraph Required 
+## 20. [MAYBE] BTI360 | Data Scientist - Polygraph Required 
 - Link: https://job-boards.greenhouse.io/bti36021/jobs/8353101
 - Location: Tysons Corner, Virginia
 - Posted: Nov 18 11:26 ET
@@ -376,7 +429,22 @@ Together we fight for everyone’s opportunity for a better financial future. We
 
 ---
 
-## 18. [MAYBE] CVS Health | Data Engineer
+## 21. [MAYBE] Steampunk | Job Title Data Scientist
+- Link: https://careers-steampunk.icims.com/jobs/8716/data-scientist/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, excel, llm, machine learning, python, pytorch, scikit, sql, statistic, tensorflow, data quality, deep learning, fraud | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | Data Scientist Job Location US-VA-McLean Posted Date 34 minutes ago (11/18/2026 2:36 PM) Job ID 8716 Clearance Requirement Public Trust Overview We are looking for seasoned Data Scientist to work with our existing team o
+
+### Job description
+
+Data Scientist in McLean, Virginia Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log back in! Data Scientist Job Location US-VA-McLean Posted Date 34 minutes ago (11/18/2026 2:36 PM) Job ID 8716 Clearance Requirement Public Trust Overview We are looking for seasoned Data Scientist to work with our existing team of Data Architects and Developers to develop strategies, create ML/AI solutions, and deliver results. We are looking for a more than just a “Data Scientist”, but a technologist with excellent communication and customer service skills and a passion for data and problem solving. Contributions Conduct exploratory data analysis (EDA) to uncover trends, identify data quality issues, and determine modeling opportunities. Develop machine learning models using frameworks such as scikit-learn, XGBoost , PyTorch , TensorFlow, or similar libraries. Perform feature engineering, dataset preparation, and model optimization to improve predictive accuracy and operational performance. Evaluate models using appropriate statistical methods and performance metrics, documenting findings and informing iterative improvements. Work with Data Engineers to understand and enhance data pipelines, ensuring model-ready datasets are accurate , complete, and consistent. Collaborate with AI Developers and LLMOps / MLOps Engineers to integrate ML models into production environments or decision-support applications. Build visualizations, dashboards, data stories, and executive-friendly summaries to communicate insights clearly to stakeholders. Support human-centered design processes by translating user needs into modeling requirements and refining model outputs based on feedback. Contribute to reproducibility and auditability by maintaining well-organized code, notebooks, documentation, and experiment histories . Stay current with modern data science methodologies, ML techniques, data processing tools, and cloud-enabled analytics workflows. You will contribute to the growth of our AI & Data Exploitation Practice! Qualifications Ability to hold a position of public trust with the US government Willing to commute to Alexandria, VA 2 times per week Bachelor’s or Master’s degree in Data Science, Computer Science, Statistics, Mathematics, Analytics, Engineering, Economics, or a related field 5+ years industry experience developing ML/AI solutions and a passion for solving complex problems 3+ years direct experience in Data Modeling and Data Solution Development Experience modeling on structured and unstructured data sets Experience with exploratory data analysis Experience in feature engineering Experience in data visualization Experience with Python and SQL Experience with Deep Learning methodology and state of the art libraries Knowledge of data collection methods, capabilities, and tasking process Knowledge of Neo4j Knowledge of criminal justice, grants, research arenas Ability to leverage multiple data management tools to organize relevant information and make decisions About steampunk Steampunk relies on several factors to determine salary, including but not limited to geographic location, contractual requirements, education, knowledge, skills, competencies, and experience. The projected compensation range for this position is $140,000 to $160,000. The estimate displayed represents a typical annual salary range for this position. Annual salary is just one aspect of Steampunk’s total compensation package for employees. Learn more about additional Steampunk benefits here. Identity Statement As part of the application process, you are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud. Steampunk is a Change Agent in the Federal contracting industry, bringing new thinking to clients in the Homeland, Federal Civilian, Health and DoD sectors. Through our Human-Centered delivery methodology , we are fundamentally changing the expectations our Federal clients have for true shared accountability in solving their toughest mission challenges. If you want to learn more about our story, visit http://www.steampunk.com .
+
+---
+
+## 22. [MAYBE] CVS Health | Data Engineer
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Work-from-home/Data-Engineer_R1070871
 - Location: CA - Work from home
 - Posted: Nov 17 (board gives the date only)
@@ -391,7 +459,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 19. [MAYBE] Mayo Clinic | Research Fellow - Quantitative Health Science - Ehlers lab
+## 23. [MAYBE] Mayo Clinic | Research Fellow - Quantitative Health Science - Ehlers lab
 - Link: https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/395446
 - Location: Phoenix, AZ, United States US
 - Posted: Nov 18 (board gives the date only)
@@ -406,7 +474,7 @@ The ideal candidate will have demonstrated research experience in physical activ
 
 ---
 
-## 20. [MAYBE] Vistra | Data Scientist
+## 24. [MAYBE] Vistra | Data Scientist
 - Link: https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Data-Scientist_40016989-2
 - Location: Irving, Texas
 - Posted: Nov 17 (board gives the date only)
@@ -421,7 +489,7 @@ If you have what it takes to become part of the Vistra family and would like to 
 
 ---
 
-## 21. [MAYBE] Mars | Dry Food Process Research Scientist
+## 25. [MAYBE] Mars | Dry Food Process Research Scientist
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/FRA-Gard-Aimargues/Dry-Food-Process-Research-Scientist_R171894-1
 - Location: FRA-Gard-Aimargues
 - Posted: Nov 17 (board gives the date only)
@@ -436,7 +504,7 @@ Job Description: At Royal Canin R&D, the Research Team is responsible for long-t
 
 ---
 
-## 22. [MAYBE] JP Morgan Chase | Data Scientist Associate
+## 26. [MAYBE] JP Morgan Chase | Data Scientist Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810053
 - Location: Plano, TX, United States US
 - Posted: Nov 18 (board gives the date only)
@@ -451,7 +519,7 @@ Join a Payments Data and Analytics team that builds data products used to improv
 
 ---
 
-## 23. [MAYBE] Fifth Third Bank | Data Engineer I
+## 27. [MAYBE] Fifth Third Bank | Data Engineer I
 - Link: https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Data-Engineer-I_R74842-1
 - Location: Cincinnati, OH
 - Posted: Nov 18 (board gives the date only)
@@ -466,7 +534,7 @@ Make banking a Fifth Third better® We connect great people to great opportuniti
 
 ---
 
-## 24. [MAYBE] Howard University | Research Assistant/ Recovery Guide
+## 28. [MAYBE] Howard University | Research Assistant/ Recovery Guide
 - Link: https://howard.wd1.myworkdayjobs.com/HU/job/Seeley-G-Mudd-Building-College-of-Medicine/Research-Assistant--Recovery-Guide_JR108820
 - Location: Seeley G. Mudd Building (College of Medicine)
 - Posted: Nov 18 (board gives the date only)
@@ -481,7 +549,7 @@ The Talent Acquisition department hires qualified candidates to fill positions w
 
 ---
 
-## 25. [MAYBE] Clemson University | Statistical and Research Analyst
+## 29. [MAYBE] Clemson University | Statistical and Research Analyst
 - Link: https://clemson.wd12.myworkdayjobs.com/Clemson_Careers/job/CLEMSON-SC/Statistical-and-Research-Analyst_JR-11082
 - Location: CLEMSON, SC
 - Posted: Nov 18 (board gives the date only)
@@ -496,7 +564,7 @@ JOB SUMMARY: Performs research, data management and record-keeping activities. J
 
 ---
 
-## 26. [MAYBE] Rocket Companies | Data Scientist
+## 30. [MAYBE] Rocket Companies | Data Scientist
 - Link: https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Remote---Michigan/Data-Scientist_R-084225
 - Location: Remote - Michigan
 - Posted: Nov 18 (board gives the date only)
@@ -511,7 +579,22 @@ As the Data Scientist, you’ll be responsible for performing exploratory data a
 
 ---
 
-## 27. [MAYBE] Citi | Data Engineer
+## 31. [MAYBE] NVIDIA | Data Analytics Security Administrator
+- Link: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Analytics-Security-Administrator_JR2029815
+- Location: US, CA, Santa Clara
+- Posted: Nov 18 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 78 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, power bi, python, spark, sql, tableau, classification, reporting, validation | Lacks: azure, databricks, snowflake
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in an inclusive, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world. Are you passionate about protecting data while enabling teams to innovate? Do you enjoy turning complex security requirements into practical, automated solutions? We’d love to hear from you! We’re in search of an experienced, hands-on Data Analytics Security Manager to safeguard Databricks and enterprise analytics platforms. We want someone who can improve data security, make access administration more straightforward, and embed security into routine platform activities. You’ll collaborate with our data owners, platform engineering, IAM, and Cybersecurity teams to provide reliable, auditable controls across development, test, and production. Together, we’ll enable trusted analytics while protecting the data behind it. What You’ll Be Doing: We’ll trust you to advance platform security within Databricks and Unity Catalog. You’ll handle accounts, workspaces, compute, jobs, ownership, and permissions; reinforce environment isolation and secure connectivity; and supervise platform health and usage. Implement data protection by enforcing least-privilege access, row filters, column masks, and attribute-based controls where available. Collaborating with data owners, you’ll assign classifications, manage storage access and sharing, and verify enforcement across users, service identities, and integrations. You will be responsible for protecting the overall analytics system—from content permissions and external sharing to connectors, embedded integrations, and downstream extracts. You’ll work alongside IAM teams to improve SSO, provisioning, privileged access, service identities, and access reviews. Turn insight into action: maintain audit logging, support investigations, close access and configuration gaps, and deliver reliable evidence. Bring your automation attitude! We want you to streamline provisioning, access reporting, and configuration checks while building reusable runbooks and consistent change practices. What We Need to See: We’re seeking 5+ overall years of applicable experience in enterprise IT, data platforms, cloud engineering, IAM, or information security, including 3+ years of practical Databricks administration and security implementation. Bachelor’s degree in Accounting, Finance, Information Systems, or a related field, or equivalent experience. Extensive knowledge of Databricks and data security: Set up and resolve issues related to Databricks and Unity Catalog security, covering ownership, permissions, storage credentials, and external locations. Apply and confirm least-privilege access, row-level security, column masking, classification, and tagging. Analytics, cloud, and identity experience: Secure at least one additional analytics platform, such as Power BI, Tableau, or Snowflake. Apply working knowledge of Azure or AWS security, SSO, SCIM, OAuth, service identities, credential lifecycle management, and privileged access. Strong automation and operational skills: Use SQL, Python, REST APIs, platform administration tools, and Terraform to simplify operations. Bring familiarity with CI/CD, Spark, Delta Lake, and Databricks SQL, along with strong troubleshooting, audit-log analysis, documentation, and communication skills. Ways to Stand Out from the crowd: Have you automated sensitive-data discovery, built policy-validation checks, or coordinated platform logs with a SIEM? We also value experience with Microsoft Purview or comparable classification tools, multi-workspace architectures, PowerShell, and privacy or regulatory controls. Relevant Databricks, cloud security, identity management, or data protection certifications are a plus. Widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package. As you plan your future, see what we can offer to you and your family www.nvidiabenefits.com/ Your base salary will be determined based on your location, experience, and other objective job-related factors. The expected base salary range for this position is 112,500 USD – 214,500 USD. You will also be eligible for equity and benefits . Applications for this job will be accepted at least until November 22, 2026. This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes. NVIDIA is committed to fostering an inclusive work environment and proud to be an
+
+---
+
+## 32. [MAYBE] Citi | Data Engineer
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Data-Engineer_261004570-1
 - Location: DLF CYBERCITY 12B
 - Posted: Nov 17 (board gives the date only)
@@ -526,7 +609,7 @@ We are seeking a motivated, detail-oriented Data Engineer to join our Data Engin
 
 ---
 
-## 28. [MAYBE] Regeneron Pharmaceuticals | Process Data Scientist
+## 33. [MAYBE] Regeneron Pharmaceuticals | Process Data Scientist
 - Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/Limerick/Process-Data-Scientist_R53165
 - Location: Limerick
 - Posted: Nov 17 (board gives the date only)
@@ -541,7 +624,7 @@ At Regeneron, we use science and innovation to develop life-changing medicines f
 
 ---
 
-## 29. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 34. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805154
 - Location: Plano, TX, United States US
 - Posted: Nov 18 (board gives the date only)
@@ -556,7 +639,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 30. [MAYBE] PricewaterhouseCoopers (PwC) | Junior Data Analyst (Automation and VBA Focus)
+## 35. [MAYBE] PricewaterhouseCoopers (PwC) | Junior Data Analyst (Automation and VBA Focus)
 - Link: https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Lviv/Junior-Data-Analyst--Automation-and-VBA-Focus-_774953WD
 - Location: Lviv
 - Posted: Nov 18 (board gives the date only)
@@ -571,7 +654,7 @@ Job Description & Summary PwC is a global network of more than 370,000 professio
 
 ---
 
-## 31. [MAYBE] PennState University | Research Assistant - Fusco
+## 36. [MAYBE] PennState University | Research Assistant - Fusco
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant---Fusco_REQ_0000084404-1
 - Location: Penn State University Park
 - Posted: Nov 17 (board gives the date only)
@@ -586,7 +669,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 32. [MAYBE] Manulife Financial | Data Engineer
+## 37. [MAYBE] Manulife Financial | Data Engineer
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Waterloo-Ontario/Data-Engineer_JR26070439
 - Location: 2 Locations
 - Posted: Nov 18 (board gives the date only)
@@ -601,7 +684,52 @@ Join us at Manulife and be part of a team that strives for excellence, where you
 
 ---
 
-## 33. [MAYBE] Expedia Inc. | Machine Learning Scientist II - Agentic Experiences
+## 38. [MAYBE] GenScript | Research Associate
+- Link: https://job-boards.greenhouse.io/genscript/jobs/5300904007
+- Location: Seattle, Washington, United States
+- Posted: Nov 18 14:15 ET
+- Scanner fit: ~40 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 5 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, healthcare, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About GenScript Founded in 2002 in New Jersey, GenScript Biotech Corporation accelerates innovation in biotech and healthcare by providing researchers and companies with the building blocks needed to develop groundbreaking treatments and products. Guided by its mission to Make People and Nature Healthier Through Biotechnology, and its role as a well-recognized biotechnology company, GenScript has a team of approximately 6,165 employees and has served more than 200,000 customers across over 100 countries and regions. GenScript is looking for a highly motivated and scientifically rigorous individual to join our RNA team for RNA delivery formulation and new RNA product research and development as Research Associate. This position will focus on developing novel lipid nanoparticle formulations for RNA delivery. &nbsp;&nbsp; Responsibilities: Prepare formulations and perform characterization assays, data analysis. Support developing assays for formulation characterization in vitro. Contribute in the development, writing and reviewing analytical method protocols. Prepare technical reports and presentations for clear communication of scientific findings in the team. Monitors supply inventory and identifies any products required. Maintains work area, equipment, department and all storage areas in a clean, neat and orderly manner. Perform other duties as needed. Requirements: Bachelor's degree in molecular biology, chemistry, biochemistry, pharmaceutical science, chemical engineering or related field,&nbsp; Master is preferred 0-5 years of relevant experience in nucleic acid delivery with hands-on experience in lipid nanoparticle formulation and characterization Direct experience with messenger RNA is preferred Understanding and success in implementation of RNA-related analytics (ribogreen, gel electrophoresis, capillary electrophoresis, etc) is preferred Works collaboratively with team members to support each other Excellent communication and problem-solving skills A sense of humility and an eagerness to continue to learn and contribute to a supportive team Perks:&nbsp; Free colleague meals during shift Onsite gyms Compensation: Salary range: $65,000 – $80,000 total compensation, including bonus, depending on experience and qualifications. Benefits: Benefits include medical, dental, and vision insurance as well as a 401(k) retirement plan with a company match that vests fully on day one. We offer paid parental leave after just three (3) months of employment, and a paid time off policy that includes vacation time, personal time, sick time, floating holidays, and company holidays. Additional benefits include flexible spending and health savings accounts, life and AD&amp;D insurance, short- and long-term disability coverage, legal assistance, and supplemental plans such as pet, critical illness, accident, and hospital indemnity insurance. We also provide commuter benefits, well-being initiatives, and peer-to-peer recognition programs; demonstrating our ongoing commitment to building a culture where our people feel empowered, supported, and inspired to do their best work. GenScript USA Inc/ProBio Inc. is a proud equal opportunity/affirmative action employer committed to attracting, retaining, and maximizing the performance of a diverse and inclusive workforce. It is the Company's policy to ensure equal employment opportunity without discrimination or harassment based on race, color, religion, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity or expression, age, disability, national origin, marital or domestic/civil partnership status, genetic information, citizenship status, uniformed service member or veteran status, or any other characteristic protected by law. GenScript USA Inc./ProBio Inc. maintains a drug-free workplace. &nbsp; Please note: Genscript USA Inc./ProBio Inc. will only contact candidates through verified application sources. GenScript/Probio does not request personal information from candidates through individual email or any other platform.&nbsp;
+
+---
+
+## 39. [MAYBE] UTHealth Houston | Research Assistant (Part-Time)
+- Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8306
+- Location: San Antonio, TX, United States US
+- Posted: Nov 18 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: part-time (20 h/week stated)
+- Title scope: core | Has: excel, healthcare, research | Lacks: -  | Note: no H-1B filings found for this employer part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Under general supervision, provides routine technical assistance in performing assigned and delegated tasks in support of research projects. Responsibilities include assisting or conducting a variety of scientific experiments and research projects of limited complexity, collecting, evaluating and interpreting data for clinical and diagnostic research. Provides routine technical assistance in performing assigned and delegated tasks in support of research projects. Performs assigned clerical and technical duties in a research or clinical lab setting. Assists investigator or higher level technician with research studies, experiments and assays including collection of data, preparation of solutions and set-up and maintenance of equipment. Performs routine tests with direction from supervisor, manager or higher level technician. Assists in conducting a variety of scientific experiments and research projects of limited complexity, collecting, evaluating, and interpreting data. Carries out general laboratory maintenance. Performs all other duties as assigned. Attention to detail by achieving thoroughness and accuracy when accomplishing a task through concern for all the areas involved. Ability to organize and coordinate work within schedule constraints and handle emergent requirements in a timely manner. Ability to monitor important and complex projects concurrently within a research environment or laboratory schedule. Ability to effectively communicate orally and in writing, to include writing and preparing memorandums, letters, and other official correspondence. Knowledge of Microsoft Word, Excel, PowerPoint, and Lotus Notes/other e-mail software. Education: Bachelor's Degree in a basic science is required. Experience: None. The University of Texas at San Antonio (UT San Antonio) is a nationally recognized, top-tier public research university that unites the power of higher education, biomedical discovery and healthcare within one visionary institution. As the third-largest research university in Texas and a Carnegie R1-designated institution, UT San Antonio is a model of access and excellence — advancing knowledge, social mobility and public health across South Texas and beyond. UT San Antonio serves approximately 42,000 students in 320 academic programs spanning science, engineering, medicine, health, liberal arts, AI, cybersecurity, business, education and more. With 17,000 faculty and staff, UT San Antonio has been recognized by Forbes as one of America’s Best Employers for Company Culture . Benefits Overview UT Health San Antonio offers an excellent benefits package for its employees. Employees who work at least 20 hours a week, with an appointment of at least 4.5 months, are eligible for benefits. Medical - UT SELECT Medical insurance is offered free for employees and administered by Blue Cross and Blue Shield of Texas. Family members can be added to the plan through payroll deduction. Employees and their dependents can also receive discounted copays and coinsurance when using UT Health Physicians, a network of 800 premier physicians including more than 100 specialists. Employees receive $50,000 of group term life insurance and $50,000 of basic accidental death and dismemberment insurance for free, with options to purchase additional employee and dependent coverage for both at group rates. Dental - Three dental insurance plan options are available for employees and their families through Delta Dental Insurance Company, two PPOs and one dental HMO plan. Both PPO plans allow employees to choose any licensed dentist. Vision - Fully insured Vision Care benefits are offered by Superior Vision Services. Two vision plan options that offer either standard or enhanced vision benefits. Disability - Employees can enroll in the Disability Insurance which provides income if a non-work related illness or injury prevents you from working. FSAs - Employees can enroll in flexible spending accounts (FSAs) to set aside money from earnings before taxes for qualifying dependent day care expenses or out-of-pocket health care expenses. Retirement - Employees are eligible for either the Teacher Retirement System (TRS) or the Optional Retirement Plan (ORP). TRS is a defined benefit retirement plan which UT Health matches employee contributions. ORP is for eligible faculty staff employees. Voluntary retirement programs are also available to invest before- or after-tax dollars with the choice of five quality retirement plan providers. Time Off - A generous leave program offers multiple paid leave options: Front-loaded Paid Time Off: 128 to 208 hours (16 to 26 days) of Paid Time Off based on years of service, given at the start of each fiscal year. PTO may be prorated in year one based on date of hire. Extended Illness Bank: 8 hours (1 day) accrued per month which can be used for illness or injury after one day of Paid Time Off is taken. Paid Family Leave: Up to 240 hours (6 weeks) to care for a spouse, child, or parent after 6 months of consecutive employment. Holidays: 12 set paid holidays each year. Discounts - Employees enjoy a range of discounts on services, tickets, and gym membership.
+
+---
+
+## 40. [MAYBE] UTHealth Houston | Research Assistant
+- Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8316
+- Location: San Antonio, TX, United States US
+- Posted: Nov 18 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time (20 h/week stated)
+- Title scope: core | Has: excel, healthcare, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Under general supervision, provides routine technical assistance in performing assigned and delegated tasks in support of research projects. Responsibilities include assisting or conducting a variety of scientific experiments and research projects of limited complexity, collecting, evaluating and interpreting data for clinical and diagnostic research. Provides routine technical assistance in performing assigned and delegated tasks in support of research projects. Performs assigned clerical and technical duties in a research or clinical lab setting. Assists investigator or higher level technician with research studies, experiments and assays including collection of data, preparation of solutions and set-up and maintenance of equipment. Performs routine tests with direction from supervisor, manager or higher level technician. Assists in conducting a variety of scientific experiments and research projects of limited complexity, collecting, evaluating, and interpreting data. Carries out general laboratory maintenance. Performs all other duties as assigned. Attention to detail by achieving thoroughness and accuracy when accomplishing a task through concern for all the areas involved. Ability to organize and coordinate work within schedule constraints and handle emergent requirements in a timely manner. Ability to monitor important and complex projects concurrently within a research environment or laboratory schedule. Ability to effectively communicate orally and in writing, to include writing and preparing memorandums, letters, and other official correspondence. Knowledge of Microsoft Word, Excel, PowerPoint, and Lotus Notes/other e-mail software. Education: Bachelors degree in a basic science or related field is required. Experience: None. The University of Texas at San Antonio (UT San Antonio) is a nationally recognized, top-tier public research university that unites the power of higher education, biomedical discovery and healthcare within one visionary institution. As the third-largest research university in Texas and a Carnegie R1-designated institution, UT San Antonio is a model of access and excellence — advancing knowledge, social mobility and public health across South Texas and beyond. UT San Antonio serves approximately 42,000 students in 320 academic programs spanning science, engineering, medicine, health, liberal arts, AI, cybersecurity, business, education and more. With 17,000 faculty and staff, UT San Antonio has been recognized by Forbes as one of America’s Best Employers for Company Culture . Benefits Overview UT Health San Antonio offers an excellent benefits package for its employees. Employees who work at least 20 hours a week, with an appointment of at least 4.5 months, are eligible for benefits. Medical - UT SELECT Medical insurance is offered free for employees and administered by Blue Cross and Blue Shield of Texas. Family members can be added to the plan through payroll deduction. Employees and their dependents can also receive discounted copays and coinsurance when using UT Health Physicians, a network of 800 premier physicians including more than 100 specialists. Employees receive $50,000 of group term life insurance and $50,000 of basic accidental death and dismemberment insurance for free, with options to purchase additional employee and dependent coverage for both at group rates. Dental - Three dental insurance plan options are available for employees and their families through Delta Dental Insurance Company, two PPOs and one dental HMO plan. Both PPO plans allow employees to choose any licensed dentist. Vision - Fully insured Vision Care benefits are offered by Superior Vision Services. Two vision plan options that offer either standard or enhanced vision benefits. Disability - Employees can enroll in the Disability Insurance which provides income if a non-work related illness or injury prevents you from working. FSAs - Employees can enroll in flexible spending accounts (FSAs) to set aside money from earnings before taxes for qualifying dependent day care expenses or out-of-pocket health care expenses. Retirement - Employees are eligible for either the Teacher Retirement System (TRS) or the Optional Retirement Plan (ORP). TRS is a defined benefit retirement plan which UT Health matches employee contributions. ORP is for eligible faculty staff employees. Voluntary retirement programs are also available to invest before- or after-tax dollars with the choice of five quality retirement plan providers. Time Off - A generous leave program offers multiple paid leave options: Front-loaded Paid Time Off: 128 to 208 hours (16 to 26 days) of Paid Time Off based on years of service, given at the start of each fiscal year. PTO may be prorated in year one based on date of hire. Extended Illness Bank: 8 hours (1 day) accrued per month which can be used for illness or injury after one day of Paid Time Off is taken. Paid Family Leave: Up to 240 hours (6 weeks) to care for a spouse, child, or parent after 6 months of consecutive employment. Holidays: 12 set paid holidays each year. Discounts - Employees enjoy a range of discounts on services, tickets, and gym membership.
+
+---
+
+## 41. [MAYBE] Expedia Inc. | Machine Learning Scientist II - Agentic Experiences
 - Link: https://expedia.wd108.myworkdayjobs.com/Search/job/Washington---Seattle-Campus/Machine-Learning-Scientist-II---Agentic-Experiences_R-109446
 - Location: 3 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -616,7 +744,7 @@ At Expedia Group, we help travelers explore the world, one journey at a time. As
 
 ---
 
-## 34. [MAYBE] Evolent | Senior Data Scientist (AI Evaluation & Improvement)
+## 42. [MAYBE] Evolent | Senior Data Scientist (AI Evaluation & Improvement)
 - Link: https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Senior-Data-Scientist--AI-Evaluation---Improvement-_JR-917050
 - Location: Work at Home
 - Posted: Nov 18 (board gives the date only)
@@ -631,7 +759,7 @@ Your Future Evolves Here Evolent partners with health plans and providers to ach
 
 ---
 
-## 35. [MAYBE] Lloyds Bank | Senior Data Scientist
+## 43. [MAYBE] Lloyds Bank | Senior Data Scientist
 - Link: https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Senior-Data-Scientist_155318
 - Location: Manchester
 - Posted: Nov 17 (board gives the date only)
@@ -646,7 +774,7 @@ End Date Tuesday 01 December 2026 Salary Range £72,702 - £80,780 We support fl
 
 ---
 
-## 36. [MAYBE] Capital One | Senior Data Scientist
+## 44. [MAYBE] Capital One | Senior Data Scientist
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Scientist_R1006102-1
 - Location: 2 Locations
 - Posted: Nov 18 (board gives the date only)
@@ -661,7 +789,7 @@ Senior Data Scientist Data is at the center of everything we do. As a startup, w
 
 ---
 
-## 37. [MAYBE] Exelixis | Senior Data Analyst - Compliance Operations
+## 45. [MAYBE] Exelixis | Senior Data Analyst - Compliance Operations
 - Link: https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Senior-Data-Analyst---Compliance-Operations_JR7232
 - Location: Alameda, CA
 - Posted: Nov 18 (board gives the date only)
@@ -676,7 +804,7 @@ SUMMARY/JOB PURPOSE The Senior Data Analyst - Compliance Operations is responsib
 
 ---
 
-## 38. [MAYBE] Capital One | Sr. Data Analyst - Retail Bank
+## 46. [MAYBE] Capital One | Sr. Data Analyst - Retail Bank
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Data-Analyst---Retail-Bank_R247428-1
 - Location: 2 Locations
 - Posted: Nov 18 (board gives the date only)
@@ -691,7 +819,7 @@ Sr. Data Analyst - Retail Bank At Capital One, data is at the center of everythi
 
 ---
 
-## 39. [MAYBE] Capital One | Senior Data Analyst - Enterprise Services
+## 47. [MAYBE] Capital One | Senior Data Analyst - Enterprise Services
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Analyst---Enterprise-Services_R1000374-2
 - Location: 3 Locations
 - Posted: Nov 18 (board gives the date only)
@@ -706,7 +834,7 @@ Senior Data Analyst - Enterprise Services At Capital One, data is at the center 
 
 ---
 
-## 40. [MAYBE] Thermo Fisher Scientific | Sr Pricing Analyst
+## 48. [MAYBE] Thermo Fisher Scientific | Sr Pricing Analyst
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Sr-Pricing-Analyst_R-01365671
 - Location: Pittsburgh, Pennsylvania, USA
 - Posted: Nov 17 (board gives the date only)
@@ -721,7 +849,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 41. [MAYBE] Western Union | Senior Business Analyst, Compliance Systems and Analytics
+## 49. [MAYBE] Western Union | Senior Business Analyst, Compliance Systems and Analytics
 - Link: https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/LTU---Vilnius/Senior-Business-Analyst--Compliance-Systems-and-Analytics_JR0129985
 - Location: LTU - Vilnius
 - Posted: Nov 17 (board gives the date only)
@@ -736,7 +864,7 @@ Senior Business Analyst, Compliance Systems and Analytics – Vilnius, Lithuania
 
 ---
 
-## 42. [MAYBE] Roche | Senior Real World Data Scientist
+## 50. [MAYBE] Roche | Senior Real World Data Scientist
 - Link: https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Senior-Real-World-Data-Scientist_202610-127658-1
 - Location: 2 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -751,7 +879,7 @@ At Roche you can show up as yourself, embraced for the unique qualities you brin
 
 ---
 
-## 43. [MAYBE] Micron Technology | Sr Data Scientist
+## 51. [MAYBE] Micron Technology | Sr Data Scientist
 - Link: https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Sr-Data-Scientist_JR98989
 - Location: Boise, ID - ID1
 - Posted: Nov 18 (board gives the date only)
