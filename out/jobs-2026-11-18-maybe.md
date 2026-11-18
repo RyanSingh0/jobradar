@@ -4,21 +4,42 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | Airbus | Aeronautical Analyst - Navigation | 67 | 1 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 2 | Ema | Software Engineer, Machine Learning | 57 | none found (check myvisajobs) | Nov 18 03:20 ET |
-| 3 | Path Robotics | Machine Learning Engineer, Robotics | 57 | none found (check myvisajobs) | Nov 18 08:43 ET |
-| 4 | PlayStation | ML Ops Engineer | 55 | none found (check myvisajobs) | Nov 18 05:04 ET |
-| 5 | Mars | Dry Food Process Research Scientist | 50 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 6 | Citi | Data Engineer | 46 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 7 | Regeneron Pharmaceuticals | Process Data Scientist | 45 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 8 | Expedia Inc. | Machine Learning Scientist II - Agentic Experiences | 75 | 83 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 9 | Lloyds Bank | Senior Data Scientist | 73 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 10 | Western Union | Senior Business Analyst, Compliance Systems and Analytics | 57 | 17 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 11 | Roche | Senior Real World Data Scientist | 55 | 7 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 1 | Broadridge | Quality Analyst | 70 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 2 | Airbus | Aeronautical Analyst - Navigation | 67 | 1 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 3 | Cleveland-Cliffs | Manufacturing Planning Analyst | 62 | 1 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 4 | Ema | Software Engineer, Machine Learning | 57 | none found (check myvisajobs) | Nov 18 03:20 ET |
+| 5 | Path Robotics | Machine Learning Engineer, Robotics | 57 | none found (check myvisajobs) | Nov 18 08:43 ET |
+| 6 | PlayStation | ML Ops Engineer | 55 | none found (check myvisajobs) | Nov 18 05:04 ET |
+| 7 | Vistra | Data Scientist | 52 | 8 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 8 | Mars | Dry Food Process Research Scientist | 50 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 9 | Citi | Data Engineer | 46 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 10 | Regeneron Pharmaceuticals | Process Data Scientist | 45 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 11 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 12 | PennState University | Research Assistant - Fusco | 40 | cap-exempt employer | Nov 17 (board gives the date only) |
+| 13 | Expedia Inc. | Machine Learning Scientist II - Agentic Experiences | 75 | 83 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 14 | Lloyds Bank | Senior Data Scientist | 73 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 15 | Thermo Fisher Scientific | Sr Pricing Analyst | 62 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 16 | Western Union | Senior Business Analyst, Compliance Systems and Analytics | 57 | 17 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 17 | Roche | Senior Real World Data Scientist | 55 | 7 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] Airbus | Aeronautical Analyst - Navigation
+## 1. [MAYBE] Broadridge | Quality Analyst
+- Link: https://broadridge.wd5.myworkdayjobs.com/Careers/job/Coppell-TX/Quality-Analyst_JR1087374
+- Location: Coppell, TX
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~70 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 4 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, dashboard, excel, power bi, sql, data quality, kpi, reporting, risk | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At Broadridge, we've built a culture where the highest goal is to empower others to accomplish more. If you’re passionate about developing your career, while helping others along the way, come join the Broadridge team. Broadridge is growing! We are seeking a Quality Analyst to join our dynamic team in Coppell, Texas. This role supports quality control, operational analysis, and reporting activities within a highly regulated fintech environment. This role helps improve process performance, reporting accuracy, and control effectiveness by gathering business requirements, analyzing operational data, documenting processes, and producing insights for internal stakeholders. Working with more experienced analysts, managers, and cross-functional partners, contributes to service quality measurement, trend analysis, governance support, and continuous improvement initiatives across business operations. This is an early-career professional role suited to individuals who can apply foundational business analysis, reporting, and problem-solving skills in a structured, controls-focused environment. This is a hybrid role requiring 3-4 days in the office per week, the remainder from home. Job Responsibilities: Collect, organize, and validate operational data to support quality control reporting, KPI tracking, and performance monitoring. Assist in business requirements gathering through stakeholder interviews, documentation review, and workflow analysis. Document current-state processes, standard operating procedures, business rules, and reporting definitions with strong traceability and version control. Support development and maintenance of recurring reports, dashboards, and visualizations using Excel, Power BI, and related reporting tools. Analyze service quality, operational performance, and exception trends to identify issues, patterns, and improvement opportunities. Participate in root cause analysis for quality issues, reporting discrepancies, control gaps, and operational inefficiencies. Help prepare executive-ready summaries, operational review materials, and business insights under guidance from senior team members. Monitor data quality, reporting accuracy, and adherence to established governance, controls, and standards. Support audit, compliance, and regulatory documentation requests by gathering evidence and maintaining organized records. Contribute to continuous improvement efforts by identifying manual pain points, process inefficiencies, and basic automation opportunities. Partner with operations, quality, risk, compliance, and technology teams to clarify requirements and support implementation of approved changes. Follow established methodologies, documentation standards, and change management practices. Preferred Qualifications : Experience in financial services, fintech, banking, payments, or another regulated industry. Exposure to quality assurance, quality control, operational risk, or compliance-related reporting. Familiarity with process mapping tools and standard improvement methods. Experience supporting audit requests, governance routines, or control evidence collection. Basic SQL, data querying, or data preparation experience. Exposure to automation or AI-enabled productivity tools for reporting, workflow support, or analysis. Skills/Competencies: Analytical and detail-oriented Structured and process disciplined Curious and improvement minded Effective at organizing information and maintaining traceability Responsive and dependable in execution Collaborative and receptive to feedback Clear communicator with developing business storytelling skills Sound judgment within defined procedures and escalation paths Quality focused with strong ownership of accuracy Adaptable in a fast-paced, cross-functional operating environment Requirements: Bachelor’s degree in business, Finance, Economics, Data Analytics, Operations, or a related field, or equivalent practical experience. 1–3 years of experience in business operations, business analysis, reporting, quality control, or a related analytical role. Foundational experience gathering requirements, documenting processes, and supporting reporting or analytics activities. Experience working with Excel for data analysis, reporting, reconciliation, or trend tracking. Familiarity with Power BI or similar dashboard/reporting tools. Strong attention to detail and ability to produce accurate work in a controls-oriented environment. Written and verbal communication skills sufficient to document findings and support stakeholder updates. Basic understanding of KPIs, operational metrics, and performance reporting. Ability to manage multiple tasks, follow established processes, and meet deadlines. Awareness of risk, compliance, confidentiality, and documentation requirements in regulated or structured environments. The work hours are Monday - Friday, daytime hours, with 3-4 days per week and the remainder from home. The salary range for this position is $60,000 - $75,000 annual base. Eligible for annual bonus. Broadridge considers various factors when evaluating a candidate's final salary including, but not limited to, relevant experience, skills, and education. Please visit www.broadridgebenefits.com for more information on our comprehensive benefit offerings. #LI-KS1 #LI-Onsite We are dedicated to fostering a collaborative, engaging, and inclusive environment and are committed to providing a workplace that empowers associates to be authentic and bring their best to work. We believe that associates do their best when they feel safe, understood, and valued, and we work diligently and collaboratively to ensure Broadridge is a company—and ultimately a community—that recognizes and celebrates everyone’s unique perspective. Use of AI in Hiring As part of the recruiting process, Broadridge may use technology, including artificial intelligence (AI)-based tools, to help review and evaluate applications. These tools are used only to support our recruiters and hiring managers, and all employment decisions include human review to ensure fairness, accuracy, and compliance with applicable laws. Please note that honesty and transparency are critical to our hiring process. Any attempt to falsify, misrepresent, or disguise information in an application, resume, assessment, or interview will result in disqualification from consideration. US applicants: Click here to view the EEOC "
+
+---
+
+## 2. [MAYBE] Airbus | Aeronautical Analyst - Navigation
 - Link: https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Aeronautical-Analyst---Navigation_JR10459180
 - Location: Gdansk
 - Posted: Nov 17 (board gives the date only)
@@ -33,7 +54,22 @@ Job Description: Skywise is a leading digital services company, wholly owned by 
 
 ---
 
-## 2. [MAYBE] Ema | Software Engineer, Machine Learning
+## 3. [MAYBE] Cleveland-Cliffs | Manufacturing Planning Analyst
+- Link: https://aksteel.wd1.myworkdayjobs.com/careers/job/Corporate-Headquarters/Manufacturing-Planning-Analyst_R14048
+- Location: Corporate Headquarters
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: excel, python, sql, statistic, data quality, risk | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Location: Cleveland, OH Cleveland-Cliffs is seeking a Manufacturing Planning Analyst to support the Sales & Operation Planning function by analyzing steel demand, inventory, capacity, and shipment trends to enable effective decision-making across the planning process within our Integrated Business group. This is an on-site position located in Cleveland, OH. The Analyst works closely with Planning, Commercial, Operations, Finance, Network Allocation & Optimization, and Advanced Analytics teams to identify risks, opportunities, and planning actions that improve service, operational stability, and asset utilization. Summary of Responsibilities: Support the monthly S&OP process through data collection, analysis, and meeting preparation Assist in the development and maintenance of operating plans Identify gaps between plan and actual performance and recommend corrective actions Prepare planning presentations and executive decision-support materials Analyze supply, demand, inventory, and capacity trends across the manufacturing network Develop planning scenarios and evaluate potential impacts to service, inventory, and operational performance Identify emerging risks and opportunities affecting achievement of operating plans Support establishment and monitoring of order intake targets Partner with Commercial, Operations, Finance, and Supply Chain stakeholders to improve planning alignment Assist in translating business requirements into actionable planning insights Participate in planning reviews and business performance discussions Identify opportunities to improve planning processes and data quality. Support implementation of new planning tools, processes, and capabilities. Participates in cross-functional improvement initiatives Promote standardization and best practices within the planning organization Other duties as assigned Minimum Qualifications: Bachelor’s Degree in Statistics, Supply Chain Management, or Operations or equivalent At least 1 to 3 years of experience in related field Advanced Microsoft Excel skills SQL knowledge with the ability to query databases Comfort & experience summarizing, formatting, and handling large data sets. Ability to communicate effectively & efficiently with various levels of the organization Preferred Qualifications: Experience in production planning, inventory control, or scheduling within Manufacturing Experience in a steel manufacturing environment Experience utilizing Python Experience utilizing AI Assistants for data analysis Relocation assistance is not provided for this position. The salary range for this role is $65,000 to $85,000. An employee’s pay within the salary range will be based on numerous factors including, but not limited to, relevant education, qualifications, experience, skills, geographic location and business or organizational needs. Cleveland-Cliffs is a leading North America-based steel producer with focus on value-added sheet products, particularly for the automotive industry. The Company is vertically integrated from the mining of iron ore, production of pellets and direct reduced iron, and processing of ferrous scrap through primary steelmaking and downstream finishing, stamping, tooling, and tubing. We offer an excellent total compensation package, including competitive pay with variable compensation opportunity, health insurance, retirement plan, education assistance, paid time off, and more. Cleveland-Cliffs Inc. is committed to working with and providing
+
+---
+
+## 4. [MAYBE] Ema | Software Engineer, Machine Learning
 - Link: https://jobs.ashbyhq.com/ema/9728a171-9617-4533-9f03-10c14c3b6ca5
 - Location: Mountain View (Hybrid)
 - Posted: Nov 18 03:20 ET
@@ -119,7 +155,7 @@ Ema Unlimited
 
 ---
 
-## 3. [MAYBE] Path Robotics | Machine Learning Engineer, Robotics
+## 5. [MAYBE] Path Robotics | Machine Learning Engineer, Robotics
 - Link: https://boards.greenhouse.io/pathrobotics/jobs/8949716002?gh_jid=8949716002
 - Location: Columbus, Ohio or Remote
 - Posted: Nov 18 08:43 ET
@@ -134,7 +170,7 @@ Build the Path Forward At Path Robotics, we’re building the future of embodied
 
 ---
 
-## 4. [MAYBE] PlayStation | ML Ops Engineer
+## 6. [MAYBE] PlayStation | ML Ops Engineer
 - Link: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6240810004
 - Location: United States, San Diego, CA
 - Posted: Nov 18 05:04 ET
@@ -149,7 +185,22 @@ Why Sony Interactive Entertainment? Sony Interactive Entertainment isn’t just 
 
 ---
 
-## 5. [MAYBE] Mars | Dry Food Process Research Scientist
+## 7. [MAYBE] Vistra | Data Scientist
+- Link: https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Data-Scientist_40016989-2
+- Location: Irving, Texas
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~52 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 8 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, data visualization, machine learning, python, statistic, tableau, pipeline, quantitative | Lacks: hadoop, sas, snowflake
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+If you have what it takes to become part of the Vistra family and would like to start a promising career with a global leader, take a look at the exciting employment opportunities that are currently available and apply online. Job Summary We are seeking a highly skilled Data Scientist to join our team. As a Data Scientist, you will be responsible for designing and implementing complex analytical solutions to support business decisions. You will work closely with stakeholders to understand business requirements, identify opportunities for data-driven insights, and develop and execute data models and analyses. The ideal candidate will have advanced technical skills in statistical analysis, machine learning, and data visualization, as well as strong business acumen and communication skills. You will have the opportunity to work on challenging projects, learn cutting-edge techniques, and contribute to the development of innovative solutions. Job Description Key Accountabilities •Work closely with stakeholders to identify business needs and opportunities for data-driven insights •Extract, clean, and analyze complex datasets using statistical techniques and data manipulation tools. •Develop and execute complex statistical models and machine learning algorithms to extract insights and drive business decisions •Design and implement data visualizations to effectively communicate insights to stakeholders •Support the presentation of findings and insights through clear and concise data visualizations, charts, and reports. •Collaborate with cross-functional teams to ensure data accuracy, consistency, and reliability •Develop and maintain data pipelines and databases •Stay up-to-date with emerging trends and technologies in data science and apply them to business problems •Document methodologies, processes, and findings to enable knowledge sharing and future reference. Education, Experience, & Skill Requirement s •Master's or Ph.D. degree in a quantitative field such as Statistics, Mathematics, Computer Science, or related field •1-3 years of experience in data science or related field •Proficiency in statistical analysis, ML Ops, and data visualization •Familiarity with databases (e.g. Snowflake, Hadoop, Oracle etc) and dashboarding tools (e.g. PowerBI, Tableau, Grafana) •Comfortable understanding, developing, and maintaining a large codebase (Python, SAS, R) Key Metrics •Strong communication skills and ability to effectively communicate technical concepts to non-technical stakeholders •Ability to work independently and collaboratively in a fast-paced environment Job Family Data Analytics Company Vistra Corporate Services Company Locations Irving, Texas Texas We are a company of people committed to: Exceeding Customer Expectations, Great People, Teamwork, Competitive Spirit and Effective Communication. If this describes you, then apply today! If you currently work for Vistra or its subsidiaries, please apply via the internal career site. It is the policy of the Company to comply with all employment laws and to afford equal employment opportunity to individuals in all aspects of employment, including in selection for job opportunities, without regard to race, color, religion, sex, sexual orientation, gender identity, pregnancy, national origin, age, disability, genetic information, military service, protected veteran status, or any other consideration protected by federal, state or local laws. If you are an individual with a disability and need assistance submitting an application or would like to request an accommodation, please email us at assistance@vistraenergy.com to make a request.
+
+---
+
+## 8. [MAYBE] Mars | Dry Food Process Research Scientist
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/FRA-Gard-Aimargues/Dry-Food-Process-Research-Scientist_R171894-1
 - Location: FRA-Gard-Aimargues
 - Posted: Nov 17 (board gives the date only)
@@ -164,7 +215,7 @@ Job Description: At Royal Canin R&D, the Research Team is responsible for long-t
 
 ---
 
-## 6. [MAYBE] Citi | Data Engineer
+## 9. [MAYBE] Citi | Data Engineer
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Data-Engineer_261004570-1
 - Location: DLF CYBERCITY 12B
 - Posted: Nov 17 (board gives the date only)
@@ -179,7 +230,7 @@ We are seeking a motivated, detail-oriented Data Engineer to join our Data Engin
 
 ---
 
-## 7. [MAYBE] Regeneron Pharmaceuticals | Process Data Scientist
+## 10. [MAYBE] Regeneron Pharmaceuticals | Process Data Scientist
 - Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/Limerick/Process-Data-Scientist_R53165
 - Location: Limerick
 - Posted: Nov 17 (board gives the date only)
@@ -194,7 +245,37 @@ At Regeneron, we use science and innovation to develop life-changing medicines f
 
 ---
 
-## 8. [MAYBE] Expedia Inc. | Machine Learning Scientist II - Agentic Experiences
+## 11. [MAYBE] JP Morgan Chase | Fraud Analyst
+- Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805154
+- Location: Plano, TX, United States US
+- Posted: Nov 18 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, fraud, research, risk | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Do you enjoy speaking with clients while using your detective skills to research complex situations? Join our team to ensure our clients receive the best fraud protection and remediation services in the industry. You will help to manage challenging situations by offering fraud detection, prevention, remediation and recovery solutions, and helping manage customer expectations. Demonstrating delivery of best practices, you will leverage your deep understanding of prevention capabilities and fraud acumen to make informed decisions that protect or clients. If you are a critical thinker and able to exercise and able to solve problems in a fast-paced environment, you may be perfect for our team. As a Fraud Analyst within JPMorganChase, you will work closely with internal teams and clients to provide a white glove experience during the remediation process. In this role, you will be securing accounts, handling claims, and completing all necessary steps to make the client whole. This role will provide you the ability to strengthen your current skillset and empower growth. Job responsibilities Identify and mitigate potential fraud risks using analytical skills to ensure robust protection for our clients. Collaborate seamlessly with various departments to enhance fraud detection and prevention strategies. Investigate detailed US & International Private Bank fraud activities, using problem-solving abilities to uncover insights. Manage detailed reviews with tight deadlines, prioritizing tasks and managing time effectively. Detect and address fraud indicators with keen attention to detail, ensuring swift remediation. Communicate clearly and concisely with clients and team members to facilitate understanding and action. Required qualifications, capabilities, and skills Proficient in delivering excellent written and oral communications at an executive level. Demonstrated ability to excel in dynamic, fast-paced environments by swiftly adapting to evolving demands and challenges. Skilled in handling highly confidential client details with professionalism, adhering to firm storage and retention requirements. Demonstrates strong organizational skills, attention to detail, and excellent follow-up habits. Preferred qualifications, capabilities, and skills Experienced in client service, with a focus on delivering exceptional support and solutions proven with at least one year of experience. Highly analytical, with expertise in collecting, analyzing, and synthesizing information at an expert level.   JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
+
+---
+
+## 12. [MAYBE] PennState University | Research Assistant - Fusco
+- Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant---Fusco_REQ_0000084404-1
+- Location: Penn State University Park
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: part-time
+- Title scope: core | Has: statistic, reporting, research | Lacks: -  | Note: part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process . Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday. If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants . Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants . JOB DESCRIPTION AND POSITION REQUIREMENTS The College of IST is seeking applicants for part-time job of Research Assistant. The Research Assistant will support the development and improvement of cybersecurity courses, instructional materials, and hands-on lab activities. Duties may include researching current cybersecurity tools and practices, testing and documenting lab exercises, developing sample code or technical instructions, reviewing course materials, and assisting with the evaluation of new technologies for use in the curriculum. Applicants should have experience or coursework in cybersecurity, information technology, computer science, or a related field. Familiarity with Linux, networking, cloud computing, scripting, virtualization, cybersecurity tools, or artificial intelligence is preferred. The successful candidate should have strong technical problem-solving, communication, documentation, and organizational skills and be able to work independently and collaboratively. BACKGROUND CHECKS/CLEARANCES Employment with the University will require successful completion of background check(s) in accordance with University policies. CAMPUS SECURITY CRIME STATISTICS Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here .
+
+---
+
+## 13. [MAYBE] Expedia Inc. | Machine Learning Scientist II - Agentic Experiences
 - Link: https://expedia.wd108.myworkdayjobs.com/Search/job/Washington---Seattle-Campus/Machine-Learning-Scientist-II---Agentic-Experiences_R-109446
 - Location: 3 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -209,7 +290,7 @@ At Expedia Group, we help travelers explore the world, one journey at a time. As
 
 ---
 
-## 9. [MAYBE] Lloyds Bank | Senior Data Scientist
+## 14. [MAYBE] Lloyds Bank | Senior Data Scientist
 - Link: https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Senior-Data-Scientist_155318
 - Location: Manchester
 - Posted: Nov 17 (board gives the date only)
@@ -224,7 +305,22 @@ End Date Tuesday 01 December 2026 Salary Range £72,702 - £80,780 We support fl
 
 ---
 
-## 10. [MAYBE] Western Union | Senior Business Analyst, Compliance Systems and Analytics
+## 15. [MAYBE] Thermo Fisher Scientific | Sr Pricing Analyst
+- Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Sr-Pricing-Analyst_R-01365671
+- Location: Pittsburgh, Pennsylvania, USA
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 42 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, sql, statistic, pipeline, portfolio, quantitative, validation | Lacks: -  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description Position Summary The Senior Pricing Analyst will identify and deliver pricing opportunities across the product and service portfolio. This role develops data-driven pricing strategies, analytical tools, and actionable recommendations that improve price realization and commercial performance. The analyst will partner closely with Sales, Marketing, Finance, Product Management, Business Analytics, and other commercial teams to implement pricing initiatives and measure results. Key Responsibilities Identify, validate, and quantify pricing-improvement opportunities across the product and service portfolio. Maintain and prioritize a pipeline of near-, mid-, and long-term pricing initiatives; track progress from validation through implementation and measurement. Develop and implement data-driven pricing guidelines, tools, policies, and procedures for business units. Provide analysis and technical support for list pricing, customer-specific discounts, product-conversion opportunities, and other pricing initiatives. Recommend pricing and positioning for new product introductions to optimize customer value and commercial performance. Partner with Sales, Marketing, Finance, Product Management, Business Analytics, and commercial teams to align pricing strategies and execute improvement programs. Develop SQL- and Excel-based analytical tools that guide strategic market pricing and measure financial impact. Advise, train, and mentor sales and commercial teams on pricing strategy, execution, and price-attainment practices. Perform ad hoc analyses of customer, product, and vendor dynamics and translate findings into actionable recommendations. Prepare and present executive-level reports summarizing findings, progress, financial impact, and opportunities to improve price attainment and sales performance. Perform other duties as assigned. Required Qualifications Bachelor's degree in business, operations, mathematics, a scientific discipline, or a related field. At least three years of related experience in pricing, commercial analytics, finance, business analytics, or a comparable field. Advanced proficiency in Excel and experience working with relational databases and SQL. Demonstrated experience with financial modeling, quantitative analysis, statistical problem-solving, and complex data sets. Strong written and verbal communication skills, including the ability to explain analytical findings to technical and nontechnical audiences. Demonstrated ability to influence stakeholders, build productive cross-functional relationships, and operate effectively in a matrix organization. Ability to work independently with broad guidance, manage multiple priorities, and drive projects to successful completion. Ability to travel up to 10%. Preferred Qualifications Advanced degree in business, science, analytics, or a related field. Pricing experience in a manufacturing and/or distribution business. Experience working in a large, diversified, or complex corporate environment.
+
+---
+
+## 16. [MAYBE] Western Union | Senior Business Analyst, Compliance Systems and Analytics
 - Link: https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/LTU---Vilnius/Senior-Business-Analyst--Compliance-Systems-and-Analytics_JR0129985
 - Location: LTU - Vilnius
 - Posted: Nov 17 (board gives the date only)
@@ -239,7 +335,7 @@ Senior Business Analyst, Compliance Systems and Analytics – Vilnius, Lithuania
 
 ---
 
-## 11. [MAYBE] Roche | Senior Real World Data Scientist
+## 17. [MAYBE] Roche | Senior Real World Data Scientist
 - Link: https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Senior-Real-World-Data-Scientist_202610-127658-1
 - Location: 2 Locations
 - Posted: Nov 17 (board gives the date only)
