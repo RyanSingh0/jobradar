@@ -6,13 +6,15 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 |---|---|---|---|---|---|
 | 1 | Airbus | Aeronautical Analyst - Navigation | 67 | 1 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
 | 2 | Ema | Software Engineer, Machine Learning | 57 | none found (check myvisajobs) | Nov 18 03:20 ET |
-| 3 | PlayStation | ML Ops Engineer | 55 | none found (check myvisajobs) | Nov 18 05:04 ET |
-| 4 | Mars | Dry Food Process Research Scientist | 50 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 5 | Citi | Data Engineer | 46 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 6 | Expedia Inc. | Machine Learning Scientist II - Agentic Experiences | 75 | 83 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 7 | Lloyds Bank | Senior Data Scientist | 73 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 8 | Western Union | Senior Business Analyst, Compliance Systems and Analytics | 57 | 17 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 9 | Roche | Senior Real World Data Scientist | 55 | 7 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 3 | Path Robotics | Machine Learning Engineer, Robotics | 57 | none found (check myvisajobs) | Nov 18 08:43 ET |
+| 4 | PlayStation | ML Ops Engineer | 55 | none found (check myvisajobs) | Nov 18 05:04 ET |
+| 5 | Mars | Dry Food Process Research Scientist | 50 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 6 | Citi | Data Engineer | 46 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 7 | Regeneron Pharmaceuticals | Process Data Scientist | 45 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 8 | Expedia Inc. | Machine Learning Scientist II - Agentic Experiences | 75 | 83 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 9 | Lloyds Bank | Senior Data Scientist | 73 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 10 | Western Union | Senior Business Analyst, Compliance Systems and Analytics | 57 | 17 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 11 | Roche | Senior Real World Data Scientist | 55 | 7 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
 
 ---
 
@@ -117,7 +119,22 @@ Ema Unlimited
 
 ---
 
-## 3. [MAYBE] PlayStation | ML Ops Engineer
+## 3. [MAYBE] Path Robotics | Machine Learning Engineer, Robotics
+- Link: https://boards.greenhouse.io/pathrobotics/jobs/8949716002?gh_jid=8949716002
+- Location: Columbus, Ohio or Remote
+- Posted: Nov 18 08:43 ET
+- Scanner fit: ~57 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: machine learning, python, pytorch, calibration, deep learning, pipeline, publication, research, risk | Lacks: c++  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Build the Path Forward At Path Robotics, we’re building the future of embodied intelligence. Our AI-driven systems enable robots to adapt, learn, and perform in the real world closing the skilled labor gap and transforming industries. We go beyond traditional methods, combining perception, reasoning, and control to deliver field-ready AI that is risk-aware, reliable, and continuously improving through real-world use. Big, hard problems are our everyday work, and our team of intelligent, humble, and driven people make the impossible possible together. We're seeking a Machine Learning Engineer to join our Robotics team. You'll use machine learning to improve how our robots plan, scan, and act. You'll frame real robot problems as well-defined ML problems, train models on data that a fleet of production robotic cells generates every day, and ship them into a production stack where they work alongside classical planning and perception. Your models run on live robots doing real work for customers. What You'll Do Frame open-ended problems in planning, scanning, and robot behavior as well-defined ML problems. Train models that work with classical methods, such as initial guesses and learned costs for trajectory optimization, plan quality and feasibility predictors, and learned collision models. Develop viewpoint planning policies that choose where and how to scan, and predict scan quality before the robot commits. Apply imitation learning, reinforcement learning, and generative models such as diffusion and flow matching where they outperform classical baselines. Build production ML pipelines: datasets from fleet logs and simulation, training, and metrics. Evaluate models in the loop, with offline metrics that predict gains on the robot, failure-mode analysis, and calibrated confidence that determines when the system falls back to classical methods. Own your models end to end, from prototype to deployment on live robotic cells, with low-latency inference and monitoring. Who You Are An MS or PhD in Computer Science, Robotics, Machine Learning, or a related field. 2+ years of applied machine learning for robotics or autonomy, in research or industry. Fluent in Python with PyTorch or JAX, and experienced training, evaluating, and deploying deep learning models. Strong foundations in linear algebra, 3D geometry, kinematics, and optimization. You've run your methods on real robot hardware. You explain model results and their limits clearly, so planning, perception, and field teams know when to trust them. Preferred C++, and experience deploying models into a C++ or ROS 2 production stack. Motion planning, trajectory optimization, or collision checking. Active perception, next-best-view or informative path planning, or 3D point cloud learning. Uncertainty estimation and calibration, or Bayesian and information-theoretic planning. GPU inference optimization (CUDA, TensorRT, ONNX). Simulation and sim-to-real transfer (Isaac Lab, MuJoCo). Publications at RSS, CoRL, ICRA, IROS, NeurIPS, ICML, or similar venues. Why You’ll Love Working Here Daily free lunch to keep you fueled and connected with the team Flexible PTO so you can take the time you need, when you need it Comprehensive medical, dental, and vision coverage 6 weeks fully paid parental leave, plus an additional 6–8 weeks for birthing parents (12–14 weeks total) 401(k) retirement plan through Empower Generous employee referral bonuses—help us grow our team! Who We Are At Path Robotics we love coming to work to solve interesting and tough challenges but also because our ideas are welcomed and valued. We encourage unique thinking and are dedicated to creating a diverse and inclusive environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. If you require a
+
+---
+
+## 4. [MAYBE] PlayStation | ML Ops Engineer
 - Link: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6240810004
 - Location: United States, San Diego, CA
 - Posted: Nov 18 05:04 ET
@@ -132,7 +149,7 @@ Why Sony Interactive Entertainment? Sony Interactive Entertainment isn’t just 
 
 ---
 
-## 4. [MAYBE] Mars | Dry Food Process Research Scientist
+## 5. [MAYBE] Mars | Dry Food Process Research Scientist
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/FRA-Gard-Aimargues/Dry-Food-Process-Research-Scientist_R171894-1
 - Location: FRA-Gard-Aimargues
 - Posted: Nov 17 (board gives the date only)
@@ -147,7 +164,7 @@ Job Description: At Royal Canin R&D, the Research Team is responsible for long-t
 
 ---
 
-## 5. [MAYBE] Citi | Data Engineer
+## 6. [MAYBE] Citi | Data Engineer
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Data-Engineer_261004570-1
 - Location: DLF CYBERCITY 12B
 - Posted: Nov 17 (board gives the date only)
@@ -162,7 +179,22 @@ We are seeking a motivated, detail-oriented Data Engineer to join our Data Engin
 
 ---
 
-## 6. [MAYBE] Expedia Inc. | Machine Learning Scientist II - Agentic Experiences
+## 7. [MAYBE] Regeneron Pharmaceuticals | Process Data Scientist
+- Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/Limerick/Process-Data-Scientist_R53165
+- Location: Limerick
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 42 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, statistic, reporting | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At Regeneron, we use science and innovation to develop life-changing medicines for people with serious diseases. Regeneron is currently seeking a Process Data Scientist to join our process monitoring and analytics team. This position offers the opportunity to contribute to a fast-growing, science-driven organization making a meaningful difference to patients worldwide. When & where: Location: On-site Shift Requirements: Monday to Friday, 8:00 a.m. to 4:30 p.m. What you’ll do: Lead and enhance process monitoring programs and systems. Source and verify process data from Laboratory Information Management Systems, Qumas, OPM, Historian, and paper records. Apply statistical process control and quality engineering to monitor process capability, identify trends, and support investigations. Determine root causes of process-related deviations using scientific and analytical methods. Develop automated analytical solutions to support reporting and data distribution. Manage data integrity investigations, Corrective and Preventive Actions (CAPAs), and change controls. Analyze large datasets using Principal Component Analysis (PCA), Partial Least Squares (PLS), curve metrics, and batch analysis to develop predictive models. Lead cross-functional investigations, present findings, issue technical reports, and mentor junior team members. Let’s find out if we’re a fit: Associate: Bachelor’s degree in Mathematics, Statistics, or a related discipline. Intermediate: Bachelor’s degree in Mathematics, Statistics, or a related discipline with 2+ years of experience; or an equivalent combination of education and experience. Knowledge of statistical process control, quality engineering, and process capability analysis. Experience working with manufacturing, process, and quality data systems. Experience applying multivariate analysis techniques, including Principal Component Analysis (PCA) and Partial Least Squares (PLS). Ability to develop data acquisition, aggregation, reporting, visualization, and automated analytics solutions. Experience supporting investigations, data integrity activities, regulatory audits, submissions, and continuous improvement initiatives. Experience in a biopharmaceutical current Good Manufacturing Practice (cGMP) manufacturing environment is an advantage. Strong collaboration, communication, presentation, coaching, and problem-solving skills. Does this sound like you? Apply now to take your first step towards living the Regeneron Way! We are committed to building a workplace with an inclusive culture. Regeneron
+
+---
+
+## 8. [MAYBE] Expedia Inc. | Machine Learning Scientist II - Agentic Experiences
 - Link: https://expedia.wd108.myworkdayjobs.com/Search/job/Washington---Seattle-Campus/Machine-Learning-Scientist-II---Agentic-Experiences_R-109446
 - Location: 3 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -177,7 +209,7 @@ At Expedia Group, we help travelers explore the world, one journey at a time. As
 
 ---
 
-## 7. [MAYBE] Lloyds Bank | Senior Data Scientist
+## 9. [MAYBE] Lloyds Bank | Senior Data Scientist
 - Link: https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Senior-Data-Scientist_155318
 - Location: Manchester
 - Posted: Nov 17 (board gives the date only)
@@ -192,7 +224,7 @@ End Date Tuesday 01 December 2026 Salary Range £72,702 - £80,780 We support fl
 
 ---
 
-## 8. [MAYBE] Western Union | Senior Business Analyst, Compliance Systems and Analytics
+## 10. [MAYBE] Western Union | Senior Business Analyst, Compliance Systems and Analytics
 - Link: https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/LTU---Vilnius/Senior-Business-Analyst--Compliance-Systems-and-Analytics_JR0129985
 - Location: LTU - Vilnius
 - Posted: Nov 17 (board gives the date only)
@@ -207,7 +239,7 @@ Senior Business Analyst, Compliance Systems and Analytics – Vilnius, Lithuania
 
 ---
 
-## 9. [MAYBE] Roche | Senior Real World Data Scientist
+## 11. [MAYBE] Roche | Senior Real World Data Scientist
 - Link: https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Senior-Real-World-Data-Scientist_202610-127658-1
 - Location: 2 Locations
 - Posted: Nov 17 (board gives the date only)
