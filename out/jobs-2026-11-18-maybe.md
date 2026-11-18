@@ -4,27 +4,64 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | Broadridge | Quality Analyst | 70 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 2 | Airbus | Aeronautical Analyst - Navigation | 67 | 1 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 3 | Cleveland-Cliffs | Manufacturing Planning Analyst | 62 | 1 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 4 | Ema | Software Engineer, Machine Learning | 57 | none found (check myvisajobs) | Nov 18 03:20 ET |
-| 5 | Path Robotics | Machine Learning Engineer, Robotics | 57 | none found (check myvisajobs) | Nov 18 08:43 ET |
-| 6 | PlayStation | ML Ops Engineer | 55 | none found (check myvisajobs) | Nov 18 05:04 ET |
-| 7 | Vistra | Data Scientist | 52 | 8 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 8 | Mars | Dry Food Process Research Scientist | 50 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 9 | Citi | Data Engineer | 46 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 10 | Regeneron Pharmaceuticals | Process Data Scientist | 45 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 11 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 12 | PennState University | Research Assistant - Fusco | 40 | cap-exempt employer | Nov 17 (board gives the date only) |
-| 13 | Expedia Inc. | Machine Learning Scientist II - Agentic Experiences | 75 | 83 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 14 | Lloyds Bank | Senior Data Scientist | 73 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 15 | Thermo Fisher Scientific | Sr Pricing Analyst | 62 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 16 | Western Union | Senior Business Analyst, Compliance Systems and Analytics | 57 | 17 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 17 | Roche | Senior Real World Data Scientist | 55 | 7 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 1 | Strategic Education | Digital Media Analyst | 78 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 2 | Verisk | ML scientist - Atmospheric Sciences | 71 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 3 | Broadridge | Quality Analyst | 70 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 4 | Airbus | Aeronautical Analyst - Navigation | 67 | 1 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 5 | Genentech | Computational Methods Developer, Small Molecule Drug Discovery, AI for Drug Discovery | 65 | 35 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 6 | Labcorp | RCM Data Analyst I - Hybrid | 64 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 7 | Cleveland-Cliffs | Manufacturing Planning Analyst | 62 | 1 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 8 | Fin | GTM Data Scientist | 58 | none found (check myvisajobs) | Nov 18 10:25 ET |
+| 9 | Ema | Software Engineer, Machine Learning | 57 | none found (check myvisajobs) | Nov 18 03:20 ET |
+| 10 | Path Robotics | Machine Learning Engineer, Robotics | 57 | none found (check myvisajobs) | Nov 18 08:43 ET |
+| 11 | PlayStation | ML Ops Engineer | 55 | none found (check myvisajobs) | Nov 18 05:04 ET |
+| 12 | Voya Financial | IM Entry Level Analyst Program-Jr. Portfolio Analyst | 55 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 13 | CVS Health | Data Engineer | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 14 | Vistra | Data Scientist | 52 | 8 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 15 | Mars | Dry Food Process Research Scientist | 50 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 16 | Citi | Data Engineer | 46 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 17 | Regeneron Pharmaceuticals | Process Data Scientist | 45 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 18 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 19 | PennState University | Research Assistant - Fusco | 40 | cap-exempt employer | Nov 17 (board gives the date only) |
+| 20 | Expedia Inc. | Machine Learning Scientist II - Agentic Experiences | 75 | 83 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 21 | Lloyds Bank | Senior Data Scientist | 73 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 22 | Thermo Fisher Scientific | Sr Pricing Analyst | 62 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 23 | Western Union | Senior Business Analyst, Compliance Systems and Analytics | 57 | 17 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 24 | Roche | Senior Real World Data Scientist | 55 | 7 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] Broadridge | Quality Analyst
+## 1. [MAYBE] Strategic Education | Digital Media Analyst
+- Link: https://strayer.wd1.myworkdayjobs.com/SEI/job/Remote/Digital-Media-Analyst_R31518
+- Location: Remote
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~78 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 4 in data/analytics/finance occupations
+- Type: full-time (40 h/week stated)
+- Title scope: broad | Has: a/b test, dashboard, data visualization, excel, llm, power bi, sql, statistic, tableau, git, kpi, reporting | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Responsible for the design, development, and communication of paid media analytics that provide insight into the marketing performance of Strayer University. The Paid Media Analyst translates raw campaign data across social, display, and video channels into actionable intelligence that drives strategy, improves efficiency, and demonstrates enrollment impact. Essential Duties & Responsibilities The Digital Media Analyst is a core member of the Strayer in-house digital media team. This position is responsible for the design, development, and communication of paid media analytics that provide insight into the company's marketing performance across all in-house digital channels. This individual will regularly collaborate with the Digital Media Buyer, Media Strategy team, and the broader Marketing Analytics team to deliver end-to-end paid media analytics that meet and exceed requirements from internal clients. This role manages multiple priorities efficiently and independently, while facilitating knowledge transfer and self-service reporting. A natural curiosity for using data to understand paid media performance is very helpful in this position, as is a passion to collaborate with the team to continually improve reporting outputs and analytical processes. 1. Performance Reporting & Dashboards Design, build, and maintain weekly, monthly, and quarterly performance dashboards across all in-house digital channels Track and report on key KPIs including spend, impressions, clicks, leads, views, applications, and enrollments Deliver standardized reporting packages to relevant stakeholders on a defined cadence; flag anomalies and pacing issues proactively Support quarterly business reviews (QBRs) with analysis-ready data pulls, charts, and written commentary Maintain a running pacing tracker updated no less than weekly across all active campaigns and budget lines 2. Campaign Analysis & Optimization Insights Analyze campaign performance data to surface actionable insights on audience targeting, creative performance, placement mix, and bid strategy Provide data-driven optimization recommendations; document and track the impact of changes made Support A/B test design, execution tracking, and results analysis across all platforms; maintain a testing log with documented outcomes Monitor creative fatigue and frequency metrics; generate creative performance reports to inform rotation decisions Analyze cross-channel attribution and assist with media mix modeling inputs to help quantify incremental impact 3. Data Infrastructure & Tagging Integrity Own the tracking taxonomy and ensure all campaigns are correctly tagged before launch; audit existing campaigns quarterly Monitor platform pixels and conversion events across platforms; flag and escalate discrepancies to the tagging/analytics team Maintain campaign naming conventions and trafficking documentation to ensure clean data downstream in BI tools and data warehouse Serve as the internal QA checkpoint for campaign setup accuracy — verifying targeting, tracking, budgets, and creative assignments against the approved media plan Pull and validate custom audience lists; ensure CRM/upload-based segments are refreshed on schedule 4. Cross-Team Collaboration & Self-Service Collaborate with the Marketing Analytics Team to align paid media definitions, metrics, and data structures with the broader marketing data ecosystem Develop and maintain self-service reporting documentation and SOPs so internal stakeholders can access and interpret campaign data independently Support invoice reconciliation by producing spend-vs-plan reports and validating against media plan budgets Contribute to knowledge-transfer documentation and maintain the team's analytics and process playbook Job Skills Demonstrated capability in analyzing paid media data to drive marketing strategy and support decision-making across paid social, display, and programmatic channels Strong interpersonal skills — both verbal and written — with the ability to present complex data in an understandable and compelling manner Demonstrated experience driving and achieving results through data-informed recommendations Ability to work in a team setting while also being an assertive self-starter capable of managing multiple priorities independently Demonstrated problem-solving and analytical skills with a natural curiosity for uncovering the story behind the numbers Ability to present complex information in an understandable and compelling manner to non-technical stakeholders Work Experience Minimum of 2 years of relevant digital marketing analytics experience, preferably with direct exposure to paid media campaigns Experience extracting and analyzing data from digital campaign management platforms such as Meta Ads Manager, TikTok Ads Manager, Google DV360, Google Ads, or DoubleClick/CM360 Knowledge and experience using analytical and data visualization tools, particularly Excel, Power BI, and/or Tableau Experience with web reporting tools such as Adobe Analytics or Google Analytics, as well as SQL or similar query languages Experience building and maintaining performance dashboards and recurring reporting packages for senior stakeholders Education Bachelor's degree in digital marketing, analytics, statistics, mathematics, business, or a web-relevant field Other Must be able to travel occasionally should a business need arise. For most roles travel would not be common. Travel may involve plane, car or metro. In accordance with ADA policies,
+
+---
+
+## 2. [MAYBE] Verisk | ML scientist - Atmospheric Sciences
+- Link: https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5118
+- Location: Boston, MA, United States US
+- Posted: Nov 18 (board gives the date only)
+- Scanner fit: ~71 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, machine learning, pandas, python, pytorch, statistic, git, research, risk | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+What if your machine learning expertise could change how the world prepares for its next major storm? Join Verisk Catastrophe and Risk Solutions and help build the next generation of cutting-edge machine learning and statistical models for climate risk, improving our predictions of weather extremes and sharpening the risk insights we deliver to clients. As an AI/ML Scientist, you will play a critical role in expanding our modeling capabilities. You will build, deploy, and validate machine learning algorithms that solve real-world climate problems, and contribute to the development of stochastic event catalogs for perils such as winter storms, storm surge, tropical cyclones, and other natural hazards. This role is a perfect blend of machine learning and climate science, and your work will directly impact how insurers, reinsurers, and governments prepare for and respond to catastrophic events. About the Day to Day Responsibilities of the Role Design, build, deploy, and maintain ML models to achieve research and business objectives. Collaborate with and provide support to other research groups to develop new machine learning tools and enhance existing models. Evaluate model performance and uncertainty on real-world data and present findings to stakeholders. Prepare, clean, process, and quality-control data used in modeling workflows. Collaborate with meteorologists, hydrologists, and engineers to integrate physical insights into ML models. About You and How You Can Excel in This Role Ph.D. degree (completed or close to completion) in computer science, statistics, physics, engineering, atmospheric sciences, or a related field. Strong background in machine learning and statistical modeling for spatio-temporal data and physical processes. Theoretical understanding of fluid dynamics and climate processes, including weather and climate extremes. Proficiency in Python and ML libraries (such as PyTorch or Jax) as well as version control (Git). Experience with climate data (e.g., reanalysis, satellite, numerical weather prediction, or climate model outputs such as CMIP). Familiarity with geospatial data processing and visualization tools (e.g., xarray, NetCDF, pandas). High degree of comfort working with large datasets and deploying machine learning models in HPC our cloud environments. Excellent verbal and written communication skills, including the ability to convey technical ideas to a non-technical audience. Team-focused and evidence of supporting project team members. Strong presentation skills, particularly experience presenting at a high-level, executive-level, or client-facing level. Relevant industry experience , such as internships or previous work in the insurance or catastrophe modeling industry is a PLUS! #LI-BH1 For over 50 years, Verisk has been the leading data analytics and technology partner to the global insurance industry by delivering value to our clients through expertise and scale. We empower communities and businesses to make better decisions on risk, faster. At Verisk, you'll have the chance to use your voice and build a rewarding career that's as unique as you are, with work flexibility and the support, coaching, and training you need to succeed. For the eighth consecutive year, Verisk is proudly recognized as a Great Place to Work® for outstanding workplace culture in the US, the fourth consecutive year in the UK, Spain, and India, and the second consecutive year in Poland. In addition, we’ve been recognized by The Wall Street Journal as one of the Best-Managed Companies and by Forbes as a World’s Best Employer, testaments to the value we place on workplace culture. We’re 7,000 people strong. We relentlessly and ethically pursue innovation. And we are looking for people like you to help us translate big data into big ideas. Join us and create an exceptional experience for yourself and a better tomorrow for future generations. Verisk Businesses Underwriting Solutions — provides underwriting and rating solutions for auto and property, general liability, and excess and surplus to assess and price risk with speed and precision Claims Solutions — supports end-to-end claims handling with analytic and automation tools that streamline workflow, improve claims management, and support better customer experiences Property and Restoration Solutions — offers property estimation software and tools for professionals in estimating all phases of building and repair to make day-to-day workflows the most efficient Specialty Business Solutions — provides an integrated suite of software for full end-to-end management of insurance and reinsurance business, helping companies manage their businesses through efficiency, flexibility, and data governance Catastrophe and Risk Solutions — provides risk modeling solutions to help individuals, businesses, and society become more resilient to catastrophic events. Marketing Solutions — delivers data and insights to improve the reach, timing,relevance, and compliance of every consumer engagement Life Insurance Solutions – offers end-to-end, data insight-driven core capabilities for carriers, distribution, and direct customers across the entire policy lifecycle of life and annuities for both individual and group. Verisk Maplecroft — provides intelligence on sustainability, resilience, and ESG, helping people, business, and societies become stronger Verisk Analytics
+
+---
+
+## 3. [MAYBE] Broadridge | Quality Analyst
 - Link: https://broadridge.wd5.myworkdayjobs.com/Careers/job/Coppell-TX/Quality-Analyst_JR1087374
 - Location: Coppell, TX
 - Posted: Nov 17 (board gives the date only)
@@ -39,7 +76,7 @@ At Broadridge, we've built a culture where the highest goal is to empower others
 
 ---
 
-## 2. [MAYBE] Airbus | Aeronautical Analyst - Navigation
+## 4. [MAYBE] Airbus | Aeronautical Analyst - Navigation
 - Link: https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Aeronautical-Analyst---Navigation_JR10459180
 - Location: Gdansk
 - Posted: Nov 17 (board gives the date only)
@@ -54,7 +91,37 @@ Job Description: Skywise is a leading digital services company, wholly owned by 
 
 ---
 
-## 3. [MAYBE] Cleveland-Cliffs | Manufacturing Planning Analyst
+## 5. [MAYBE] Genentech | Computational Methods Developer, Small Molecule Drug Discovery, AI for Drug Discovery
+- Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Computational-Methods-Developer--Small-Molecule-Drug-Discovery--AI-for-Drug-Discovery_202611-129632
+- Location: South San Francisco
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~65 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 35 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, excel, machine learning, python, statistic, ai agent, docker, healthcare, kubernetes, publication, quantitative, research | Lacks: scala  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+A healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love. That’s what makes us Roche. Advances in AI, data, and computational sciences are transforming drug discovery and development. Roche’s Research and Early Development organisations at Genentech (gRED) and Pharma (pRED) have demonstrated how these technologies accelerate R&D, leveraging data and novel computational models to drive impact. Seamless data sharing and access to models across gRED and pRED are essential to maximising these opportunities. The new Computational Sciences Center of Excellence (CoE) is a strategic, unified group whose goal is to harness the transformative power of data and Artificial Intelligence (AI) to assist our scientists in both pRED and gRED to deliver more innovative and transformative medicines for patients worldwide. ​ The Opportunity Build computational methods and workflows that help scientists discover new medicines. Join the small molecule team within Roche/Genentech’s AI for Drug Discovery (AI4DD) organization, formerly Prescient Design, to turn advances in cheminformatics, computational chemistry and machine learning into powerful tools for molecular design. Working alongside world-class drug hunters, you will develop, deploy, and support computational methods used in real discovery programs. With access to extensive scientific data, computational resources and drug discovery expertise, you will shape new capabilities and take them from first prototype to everyday use by scientists and AI agents. In this role, you will: Develop computational methods and robust, reusable libraries, APIs, and services for small-molecule drug discovery, spanning cheminformatics, molecular modeling, and property prediction. Partner with medicinal and computational chemists to identify scientific bottlenecks, design practical implementations, and benchmark and validate in drug discovery campaigns. Own capabilities from prototype through deployment and ongoing use, collaborating with engineering teams to deliver scalable and reliable workflows on cloud and HPC infrastructure. Shape the team’s technical direction by proposing new computational approaches and raising software quality. Share scientific and software contributions through publications, open-source tools and presentations at top conferences. Who you are PhD with 0–3 years of relevant experience, or BS/MS with 5+ years of relevant industry experience, in computer science, software engineering, computational chemistry, chemical engineering, or a related quantitative or scientific field such as statistics or physics. Strong Python programming and software engineering skills, including software design, debugging and performance optimization, with experience in code review, automated testing, packaging, documentation and continuous integration. Experience developing cheminformatics or computational chemistry workflows using tools such as RDKit, OpenEye or comparable libraries, grounded in an understanding of chemistry and small molecule drug discovery. Working knowledge of foundational machine learning concepts and experience integrating, deploying, and troubleshooting trained models built with modern ML frameworks. Strong command of agent-assisted software development using tools such as Codex or Claude Code, and sound practices for reviewing, testing, and maintaining the resulting code. Evidence of strong technical or scientific contributions through impactful software, open-source contributions, research publications, or other substantial projects. Preferred Qualifications Hands-on experience with infrastructure supporting scientific software, including Linux, Docker, AWS, and Kubernetes, with the ability to deploy and monitor workloads and troubleshoot application and infrastructure issues. Relocation benefits are NOT available for this job posting The expected salary range for this position based on the primary location of California is $168,100 - 312,300 of hiring range. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. A discretionary annual bonus may be available based on individual and Company performance. This position also qualifies for the benefits detailed at the link provided below. Benefits #ComputationCoE #tech4lifeComputationalScience Genentech
+
+---
+
+## 6. [MAYBE] Labcorp | RCM Data Analyst I - Hybrid
+- Link: https://labcorp.wd1.myworkdayjobs.com/external/job/Burlington-NC/RCM-Data-Analyst-I---Hybrid_2639189
+- Location: Burlington NC
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~64 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, power bi, sql, statistic, git, healthcare, quantitative, reporting, research, risk | Lacks: sas  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Labcorp is a global leader in laboratory services, providing the insights and answers that help healthcare providers, patients, researchers, pharmaceutical companies and health systems make confident decisions and improve outcomes. Through our unparalleled science, data, technology and laboratory network, we advance diagnostics, accelerate innovation and help address some of the world’s most important health challenges. As we shape the future of healthcare, we are leveraging advanced technologies, intelligent digital solutions and data-driven innovation across our operations to enhance how work gets done and deliver greater value to customers and patients. With our global scale and deep expertise, you’ll have the opportunity to do meaningful work, grow your career and make a real impact on people’s health around the world. Together, we’re improving health and improving lives. Labcorp is a global leader in diagnostic testing and drug development solutions, helping healthcare providers, researchers, and patients make informed decisions that advance care. Join us in our mission to improve health and improve lives. Labcorp is seeking an RCM Data Analyst I – Hybrid to join our Revenue Cycle Management (RCM) team! The RCM Data Analyst I serves as a key analytical resource supporting Labcorp's Revenue Cycle Management organization. This role combines healthcare data analytics, reimbursement research, claims lifecycle analysis, payer policy evaluation, and systems support to drive improvements in reimbursement outcomes and revenue integrity. The analyst will leverage tools such as SQL, SAS, VBA, and Excel to transform complex data into actionable insights that support operational excellence, regulatory compliance, and revenue growth. Work Schedule: Monday – Friday; 8:00am-5:00pm EST This hybrid position offers a balanced schedule of three in-office workdays at our Burlington or Durham, NC locations and two remote workdays per week, supporting both collaboration and flexibility. Responsibilities: · Locate, validate, analyze, and interpret data from laboratory systems, billing systems, payer transactions, and external data sources. · Develop detailed claim-level analysis from order entry through post-adjudication activities. · Analyze industry-standard electronic claim transactions and payer responses. · Evaluate payer policies and government regulations against claim data to identify reimbursement opportunities and risks. · Perform statistical sampling, trend analysis, and data modeling to support reimbursement and policy recommendations. · Identify system processing opportunities and recommend changes to improve claim outcomes and revenue capture. · Develop and maintain scorecards, dashboards, reports, and analytical presentations. · Present analytical findings through slide presentations, dashboards, and written reports. · Create and maintain weekly inventory reports and recurring RCM policy reporting deliverables. · Support reimbursement review activities through claim analysis and processing file reviews. · Produce subsidiary and operational reporting for RCM leadership and stakeholders. · Support systems control research, system monitoring, and revenue protection initiatives. · Develop and recommend business rules to support system technology changes and claim processing improvements. · Participate in payer meetings, acquisitions, industry workgroups, and RCM policy initiatives through research and process testing support. · Maintain documentation of analytical findings, testing results, business rules, and operational processes. · Support Lab Advisory Council activities and other RCM Policy team initiatives. Minimum Qualifications: · Bachelor’s degree in Business, Finance, Healthcare Administration, Data Analytics, Statistics, Information Systems, Computer Science, or a related quantitative field with 2 or more years of experience in healthcare revenue cycle, healthcare analytics, reimbursement analysis, claims analysis, or healthcare data analysis OR Associates degree with 4 or more years of experience in healthcare revenue cycle, healthcare analytics, reimbursement analysis, claims analysis, or healthcare data analysis OR high school / GED with 6 or more years of experience in healthcare revenue cycle, healthcare analytics, reimbursement analysis, claims analysis, or healthcare data analysis. Preferred Qualifications · 2 or more years’ experience utilizing SQL for data extraction, transformation, and analysis. · 2 or more years’ experience utilizing SAS for healthcare, claims, reimbursement, or financial data analysis. · 2 or more years’ experience utilizing Microsoft Excel, including formulas, pivot tables, and data analysis functions. · 2 or more years’ experience creating dashboards or visualizations using Cognos, Power BI, or similar reporting platforms. · 2 or more years’ experience analyzing healthcare claims, reimbursement workflows, payer policies, or revenue cycle processes. · 2 or more years’ experience validating, reconciling, and auditing complex datasets from multiple systems. · 2 or more years’ experience supporting healthcare revenue cycle management (RCM), reimbursement operations, or payer policy analysis. · Experience utilizing VBA for reporting automation and data management. · Experience analyzing electronic healthcare transactions, including ANSI X12 claims and remittance transactions. · Experience supporting SOX controls, system controls, audit reporting, or compliance monitoring activities. Additional Job Standards: · Demonstrate effective verbal and written communication for presenting analytical findings to leadership, operational teams, and stakeholders. · Apply critical thinking and problem-solving techniques to identify reimbursement opportunities and operational improvements. · Collaborate effectively with cross-functional teams, including Revenue Cycle Management, Information Technology, Operations, Compliance, and Finance. · Participate actively in team discussions, meetings, and business review sessions. · Translate complex analytical findings into clear business recommendations and actionable insights. · Maintain accuracy, attention to detail, and documentation standards across analytical and reporting activities. · Demonstrate intellectual curiosity and initiative when investigating claim processing issues, payer behavior, and system performance trends. Application Window Closes: 11/24/2026 Benefits: . Employees regularly scheduled to work 20 or more hours per week are eligible for comprehensive benefits including: Medical, Dental, Vision, Life, STD/LTD, 401(k), Paid Time Off (PTO) or Flexible Time Off (FTO), Tuition Reimbursement and Employee Stock Purchase Plan. Employees regularly scheduled to work less than 20 hours, Casual, Intern, and Temporary employees are only eligible to participate in the 401(k) Plan. Employees who are regularly scheduled to work a 7 on/7 off schedule are eligible to receive all the foregoing benefits except [...]
+
+---
+
+## 7. [MAYBE] Cleveland-Cliffs | Manufacturing Planning Analyst
 - Link: https://aksteel.wd1.myworkdayjobs.com/careers/job/Corporate-Headquarters/Manufacturing-Planning-Analyst_R14048
 - Location: Corporate Headquarters
 - Posted: Nov 17 (board gives the date only)
@@ -69,7 +136,22 @@ Location: Cleveland, OH Cleveland-Cliffs is seeking a Manufacturing Planning Ana
 
 ---
 
-## 4. [MAYBE] Ema | Software Engineer, Machine Learning
+## 8. [MAYBE] Fin | GTM Data Scientist
+- Link: https://job-boards.greenhouse.io/intercom/jobs/8374568
+- Location: San Francisco, California
+- Posted: Nov 18 10:25 ET
+- Scanner fit: ~58 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, hypothesis test, machine learning, pandas, python, scikit, sql, statistic, ai agent, calibration, classification, data quality, git, pipeline | Lacks: airflow, dbt, salesforce, snowflake  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Fin , now part of Salesforce, is on a mission to help businesses provide perfect customer experiences. Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system. Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we're building the future of customer experience. Here, ambition meets action. Tech meets trust. And innovation isn't a buzzword, it's a way of life. The world of work as we know it is changing, and we're looking for Trailblazers who are passionate about bettering business and the world through AI. Ready to level up your career at the company leading workforce transformation in the agentic era? You're in the right place. Agentforce is the future of AI, and you are the future of Salesforce. What's the opportunity?&nbsp; Fin's GTM Data Science team builds the machine learning behind our Growth, Marketing and Sales teams. Our models decide which leads become MQLs, how they're routed, what they're worth, which play a rep runs next, how marketing spend is attributed, and which customers are ready to expand. We already run many production models, including lead scoring, lead value, next best play, multi-touch attribution, marketing mix modeling and customer expansion. Each one is owned end to end: deployment, monitoring, adoption and measured business lift. Keeping these models accurate, trusted and improving is now as important as building new ones. We're hiring a Data Scientist to own the day-to-day health of these production systems and to help turn prototypes into production models. This is not a reporting role. You'll ship changes that go live, and you'll see the effect on the pipeline. If you want to work on applied ML in production, with real stakeholders and revenue on the line, this role is for you. What will I be doing?&nbsp; Own production models day to day Keep production GTM models healthy: inbound lead scoring and value, account and play recommendations, and marketing attribution and mix models Maintain the business logic around them: MQL routing tiers and exclusions, play eligibility rules and competitor overrides, and lead value tier bands Monitor performance, calibration, drift and data quality, and fix issues at their root cause: a broken enrichment feed, a tier mix that shifts overnight Write documentation and runbooks: how each model works, how to retrain it, and what to do when it breaks, so no model depends on one person You keep the models the business relies on healthy and trusted. Be the first point of contact for GTM stakeholders Answer questions from Growth, Marketing, Marketing Ops, SDR, Sales, CS and RevOps leaders, such as why a lead didn't MQL or why an account got a play Turn ad-hoc requests into scoped, prioritized work and well-tested changes Size a change's impact before it ships Build self-serve dashboards and monitoring so the same question doesn't come back You make it easy for GTM teams to trust and act on our data products. Ship new models into production Productionize prototypes built by senior data scientists into reliable, scheduled pipelines Integrate model outputs into the systems that act on them: Salesforce, ad platform conversion values, experimentation metrics and outbound play lists Set up the monitoring, alerting and tests each new model needs Measure lift after launch and report what changed You'll learn how a model goes from notebook to production, and own that path. What impact might I have Within 6-12 months, you might: Be the named owner of one or more production models, end to end Cut the time from a stakeholder question to a shipped fix from days to hours Catch data-quality breaks before they cost us MQLs or pipeline Ship at least one prototype into production and measure its lift Success is measured in model health, stakeholder trust and business outcom What we're looking for Experience 1-3 years in data science, analytics engineering, ML engineering or a related quantitative role (internships and graduate research count) Some experience with a model or data pipeline that ran in production, or a strong wish to learn Exposure to GTM data (Growth, Marketing, Sales) in a B2B SaaS setting is a plus Technical skills Strong SQL and Python for data analysis and modeling (pandas, scikit-learn or similar) Solid foundations in statistics: distributions, hypothesis testing, model evaluation Comfort with version control (GitHub) and code review Familiarity with dbt, Snowflake, Airflow or Salesforce is a plus Mindset You are: An owner: you follow an issue to its root cause and close the loop with the person who raised it Careful: you check your numbers, test changes before they ship, and say clearly what you're unsure of Curious: you dig into the "why" when a metric moves AI-first: you use AI tools to work faster, and you know when to check their output A clear communicator: you can explain a model's behaviour to a non-technical stakeholder Eager to grow: you learn from senior data scientists and take on more scope quickly &nbsp; *Proof of eligibility to work in the United States is required. The base salary range for candidates within the San Francisco Bay Area is $147,000 - $176,000. Actual base pay will depend on a variety of factors such as education, skills, experience, location, etc. The base pay range is subject to change and may be modified in the future. All regular employees may also be eligible for the corporate bonus program or a sales incentive (target included in OTE) as well as stock in the form of Restricted Stock Units (RSUs).&nbsp;&nbsp; #LI-Hybrid Unleash Your Potential When you join Salesforce, you’ll be limitless in all areas of your life. Our benefits and resources support you to find balance and be your best, and our AI agents accelerate your impact so you can do your best. Together, we’ll bring the power of Agentforce to organizations of all sizes and deliver amazing experiences that customers love. Apply today to not only shape the future — but to redefine what’s possible — for yourself, for AI, and the world. In the United States, compensation offered will be determined by factors such as location, job level, job-related knowledge, skills, and experience. Certain roles may be eligible for incentive compensation, equity, and benefits. At Fin, we want to give people what they need to do the best work of their careers. Our benefits and programs are designed to support your health and wellbeing, your family, your time away from work, and your financial future. Offerings vary by location in line with local practices and requirements. Learn more about  [...]
+
+---
+
+## 9. [MAYBE] Ema | Software Engineer, Machine Learning
 - Link: https://jobs.ashbyhq.com/ema/9728a171-9617-4533-9f03-10c14c3b6ca5
 - Location: Mountain View (Hybrid)
 - Posted: Nov 18 03:20 ET
@@ -155,7 +237,7 @@ Ema Unlimited
 
 ---
 
-## 5. [MAYBE] Path Robotics | Machine Learning Engineer, Robotics
+## 10. [MAYBE] Path Robotics | Machine Learning Engineer, Robotics
 - Link: https://boards.greenhouse.io/pathrobotics/jobs/8949716002?gh_jid=8949716002
 - Location: Columbus, Ohio or Remote
 - Posted: Nov 18 08:43 ET
@@ -170,7 +252,7 @@ Build the Path Forward At Path Robotics, we’re building the future of embodied
 
 ---
 
-## 6. [MAYBE] PlayStation | ML Ops Engineer
+## 11. [MAYBE] PlayStation | ML Ops Engineer
 - Link: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6240810004
 - Location: United States, San Diego, CA
 - Posted: Nov 18 05:04 ET
@@ -185,7 +267,37 @@ Why Sony Interactive Entertainment? Sony Interactive Entertainment isn’t just 
 
 ---
 
-## 7. [MAYBE] Vistra | Data Scientist
+## 12. [MAYBE] Voya Financial | IM Entry Level Analyst Program-Jr. Portfolio Analyst
+- Link: https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/IM-Entry-Level-Analyst-Program-Jr-Portfolio-Analyst_JR0033433
+- Location: Atlanta, GA
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, credit, fraud, portfolio, reporting, research, risk, trading | Lacks: cfa  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Together we fight for everyone’s opportunity for a better financial future. We will do this together — with customers, partners and colleagues. We will fight for others, not against: We will stand up for and champion everyone’s access to opportunities. The status quo is not good enough … we believe every individual and every community deserves access to financial opportunities. We are determined to support both individuals and communities in reaching a better financial future. We know that reaching this future depends on our actions today. Like our Purpose Statement, Voya believes in being bold and committed to action. We are committed to a work environment where the differences that we are born with — and those we acquire throughout our lives — are understood, valued and intentionally pursued. We believe that our employees own our culture and have a responsibility to foster an environment where we all feel comfortable bringing our whole selves to work. Purposefully bringing our differences together to positively influence our culture, serve our clients and enrich our communities is essential to our vision. Are you ready to join a company with a strong purpose and a winning culture? Start your Voyage – Apply Now Get to Know the Opportunity: This role is part of the Voya Investment Management Entry Level Analyst Program beginning in July 2027. The program is designed to help entry-level employees launch their investment careers through hands-on experience, on-the-job development, and training. The Analyst will join the Leveraged Credit/Multi-Sector Below Investment Grade team and support Portfolio Management through credit underwriting, trading activities, portfolio analytics, and reporting. This role is in our Atlanta office, with expected onsite presence on average up to 4 days per week to support team and business priorities. The Contributions You’ll Make: Support credit analysts with credit underwriting activities, with the opportunity to progress toward independently underwriting credits. Coordinate with Portfolio Managers, Traders, and Analysts on action items and trades across investment mandates and assist with order management. Support Portfolio Managers and Traders with order management and trade processing to help ensure accounts are invested at appropriate targets and reflect desired positioning across sectors and issuers. Assist with developing automated processes to improve the efficiency of order management, trade processing, and related activities. Communicate with sell-side counterparties regarding trading activities. Track bond new issues, including documenting ongoing decisions and communicating with underwriters. Assist with developing and maintaining portfolio and analyst dashboards across High Yield mandates to support portfolio construction and risk management. Support Analysts with sector review reporting and data needs. Partner with the Middle Office on settlements and cash management matters, the DIG group on data-related issues, particularly security and portfolio analytics data, and Compliance as appropriate. Prepare weekly, monthly, and quarterly reporting for internal executive committees, Compliance, counterparties, and client presentations. Provide ad hoc reporting and other support to Portfolio Managers, Traders, and Analysts as needed. Minimum Knowledge & Experience: Applicants should be graduating with an undergraduate degree in December 2026 or spring/summer 2027. Bachelor's degree in business, finance, or a related field. High school dipolma or GED. Strong intellectual curiosity and research orientation. Comfort working with and analyzing financial statements / financial information. Strong Excel skills. Comfort with technology, systems, and analytical tools. Familiarity or experience with AI-enabled tools. Fundamental understanding of accounting principles. Strong analytical and data skills. Excellent communication skills. Ability to work effectively as a team player with a positive attitude and eagerness to learn in a supporting role. Passion for building a career in financial services and investments. Preferred Knowledge & Experience: Willingness to pursue the Chartered Financial Analyst (CFA) designation. Exposure to Bloomberg is beneficial. How This Role Aligns to Our Core Four: Voya’s Core Four are at the heart of how we work, and this role brings them to life through thoughtful investment analysis, collaboration, disciplined execution, and continuous improvement. Instill Customer Obsession: Support portfolio management, analysis, and reporting that contribute to thoughtful investment decisions and effective management of client portfolios. Transform with Automation/AI: Help develop automated processes and portfolio and analyst dashboards that improve efficiency and support stronger analysis and decision-making. Drive Higher Performance Through Our People: Collaborate closely with Portfolio Managers, Traders, Analysts, Middle Office, DIG, Compliance, and other partners to execute investment activities and support shared priorities. Execute on the Fundamentals: Maintain accuracy and discipline across credit underwriting, trade processing, portfolio data, reporting, settlements, and compliance-related activities. #LI-MN1 Compensation Pay Disclosure: Voya is committed to pay that’s fair and equitable, which means comparable pay for comparable roles and responsibilities. The below annual base salary range reflects the expected hiring range(s) for this position in the location(s) listed. In addition to base salary, Voya offers incentive opportunities (i.e., annual cash incentives, sales incentives, and/or long-term incentives) based on the role to reward the achievement of annual performance objectives. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Voya Financial is willing to pay at the time of this posting. Actual compensation offered may vary from the posted salary range based upon the candidate’s geographic location, work experience, education, licensure requirements and/or skill level and will be finalized at the time of offer. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked. $90,000 USD Be Well. Stay Well. Voya provides the resources that can make a difference in your lives. To us, this means thriving physically, financially, socially and emotionally. Voya benefits are designed to help you do just that. That’s why we offer an array of plans, programs, tools and resources with one goal in mind: To help you and your family be well and stay well. What We Offer Health, dental, vision and life insurance plans 401(k) Savings plan – with generous company matching contributions (up to 6%) Voya Retirement Plan – employer paid cash balance retirement plan (4%) Tuition reimbursement up to $5,250/year Paid time off – including 20 days paid time off, nine paid company holidays an [...]
+
+---
+
+## 13. [MAYBE] CVS Health | Data Engineer
+- Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Work-from-home/Data-Engineer_R1070871
+- Location: CA - Work from home
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, sql, validation | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time. A Brief Overview We're seeking a talented Data Engineer who can provide SQL Server Production Support by monitoring system performance and availability. Identify and diagnose issues, then escalate them to the responsible developer for resolution. Manage change processes by developing and documenting steps to resolve job failures. Conduct regular monitoring and investigation of database problems, escalating to the appropriate database team or developer as necessary. Apply proactive and logical thinking to prevent and resolve issues efficiently. What you will do Resolve JIRA issues from various teams to investigate, troubleshoot, and fix data/procedures/processes Implements data validation and quality checks to identify and address data anomalies or errors Documents data engineering processes, workflows, and systems for reference and knowledge-sharing purposes Identifies opportunities to streamline data engineering processes, improve efficiency, and enhance the quality of deliverables Participate in On-Call rotation to monitor and remediate failed jobs and production problems Required Qualifications 2+ years work experience Demonstrated experience in SQL Server production support and database management Strong problem-solving skills and attention to detail. Excellent communication skills for effective escalation and collaboration with developers Ability to work independently and proactively in a fast-paced environment Preferred Qualifications On-Call experience, specifically troubleshooting failures critical to business functions or client facing applications Education Bachelor's Degree Anticipated Weekly Hours 40 Time Type Full time Pay Range The typical pay range for this role is: $79,310.00 - $158,620.00 This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. Our people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong. Great benefits for great people We take pride in offering a comprehensive and competitive mix of pay and benefits that reflects our commitment to our colleagues and their families. This full‑time position is eligible for a comprehensive benefits package designed to support the physical, emotional, and financial well‑being of colleagues and their families. The benefits for this position include medical, dental, and vision coverage, paid time off, retirement savings options, wellness programs, and other resources, based on eligibility. Additional details about available benefits are provided during the application process and on Benefits Moments . We anticipate the application window for this opening will close on: 11/24/2026 Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.
+
+---
+
+## 14. [MAYBE] Vistra | Data Scientist
 - Link: https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Data-Scientist_40016989-2
 - Location: Irving, Texas
 - Posted: Nov 17 (board gives the date only)
@@ -200,7 +312,7 @@ If you have what it takes to become part of the Vistra family and would like to 
 
 ---
 
-## 8. [MAYBE] Mars | Dry Food Process Research Scientist
+## 15. [MAYBE] Mars | Dry Food Process Research Scientist
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/FRA-Gard-Aimargues/Dry-Food-Process-Research-Scientist_R171894-1
 - Location: FRA-Gard-Aimargues
 - Posted: Nov 17 (board gives the date only)
@@ -215,7 +327,7 @@ Job Description: At Royal Canin R&D, the Research Team is responsible for long-t
 
 ---
 
-## 9. [MAYBE] Citi | Data Engineer
+## 16. [MAYBE] Citi | Data Engineer
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Data-Engineer_261004570-1
 - Location: DLF CYBERCITY 12B
 - Posted: Nov 17 (board gives the date only)
@@ -230,7 +342,7 @@ We are seeking a motivated, detail-oriented Data Engineer to join our Data Engin
 
 ---
 
-## 10. [MAYBE] Regeneron Pharmaceuticals | Process Data Scientist
+## 17. [MAYBE] Regeneron Pharmaceuticals | Process Data Scientist
 - Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/Limerick/Process-Data-Scientist_R53165
 - Location: Limerick
 - Posted: Nov 17 (board gives the date only)
@@ -245,7 +357,7 @@ At Regeneron, we use science and innovation to develop life-changing medicines f
 
 ---
 
-## 11. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 18. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805154
 - Location: Plano, TX, United States US
 - Posted: Nov 18 (board gives the date only)
@@ -260,7 +372,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 12. [MAYBE] PennState University | Research Assistant - Fusco
+## 19. [MAYBE] PennState University | Research Assistant - Fusco
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant---Fusco_REQ_0000084404-1
 - Location: Penn State University Park
 - Posted: Nov 17 (board gives the date only)
@@ -275,7 +387,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 13. [MAYBE] Expedia Inc. | Machine Learning Scientist II - Agentic Experiences
+## 20. [MAYBE] Expedia Inc. | Machine Learning Scientist II - Agentic Experiences
 - Link: https://expedia.wd108.myworkdayjobs.com/Search/job/Washington---Seattle-Campus/Machine-Learning-Scientist-II---Agentic-Experiences_R-109446
 - Location: 3 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -290,7 +402,7 @@ At Expedia Group, we help travelers explore the world, one journey at a time. As
 
 ---
 
-## 14. [MAYBE] Lloyds Bank | Senior Data Scientist
+## 21. [MAYBE] Lloyds Bank | Senior Data Scientist
 - Link: https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Senior-Data-Scientist_155318
 - Location: Manchester
 - Posted: Nov 17 (board gives the date only)
@@ -305,7 +417,7 @@ End Date Tuesday 01 December 2026 Salary Range £72,702 - £80,780 We support fl
 
 ---
 
-## 15. [MAYBE] Thermo Fisher Scientific | Sr Pricing Analyst
+## 22. [MAYBE] Thermo Fisher Scientific | Sr Pricing Analyst
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Sr-Pricing-Analyst_R-01365671
 - Location: Pittsburgh, Pennsylvania, USA
 - Posted: Nov 17 (board gives the date only)
@@ -320,7 +432,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 16. [MAYBE] Western Union | Senior Business Analyst, Compliance Systems and Analytics
+## 23. [MAYBE] Western Union | Senior Business Analyst, Compliance Systems and Analytics
 - Link: https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/LTU---Vilnius/Senior-Business-Analyst--Compliance-Systems-and-Analytics_JR0129985
 - Location: LTU - Vilnius
 - Posted: Nov 17 (board gives the date only)
@@ -335,7 +447,7 @@ Senior Business Analyst, Compliance Systems and Analytics – Vilnius, Lithuania
 
 ---
 
-## 17. [MAYBE] Roche | Senior Real World Data Scientist
+## 24. [MAYBE] Roche | Senior Real World Data Scientist
 - Link: https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Senior-Real-World-Data-Scientist_202610-127658-1
 - Location: 2 Locations
 - Posted: Nov 17 (board gives the date only)

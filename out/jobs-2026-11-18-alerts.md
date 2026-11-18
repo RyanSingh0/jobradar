@@ -6,3 +6,4 @@ Found in your LinkedIn/HiringCafe/Glassdoor/Indeed/Jobright alert emails but not
 |---|---|---|---|---|
 | linkedin | Federated Hermes | Portfolio Analytics Analyst | Boston, MA | https://www.linkedin.com/jobs/view/4490147100/ |
 | linkedin | 佳期投资 (JQ Investments) | Quantitative Researcher | New York, NY | https://www.linkedin.com/jobs/view/4491136001/ |
+| linkedin | Tesla | Data Analyst, Commercial Energy Service Operations | Fremont, CA | https://www.linkedin.com/jobs/view/4490956796/ |
