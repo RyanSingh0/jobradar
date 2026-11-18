@@ -5,43 +5,48 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | Strategic Education | Digital Media Analyst | 78 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 2 | Verisk | ML scientist - Atmospheric Sciences | 71 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 3 | Broadridge | Quality Analyst | 70 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 4 | Airbus | Aeronautical Analyst - Navigation | 67 | 1 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 5 | Genentech | Computational Methods Developer, Small Molecule Drug Discovery, AI for Drug Discovery | 65 | 35 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 6 | Labcorp | RCM Data Analyst I - Hybrid | 64 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 7 | Cresta | Applied Data Scientist  | 64 | none found (check myvisajobs) | Nov 18 12:29 ET |
-| 8 | Cleveland-Cliffs | Manufacturing Planning Analyst | 62 | 1 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 9 | U.S. Bank | CLO Global Business Tech - Business Ops Analyst | 62 | 82 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 10 | Fin | GTM Data Scientist | 58 | none found (check myvisajobs) | Nov 18 10:25 ET |
-| 11 | Ema | Software Engineer, Machine Learning | 57 | none found (check myvisajobs) | Nov 18 03:20 ET |
-| 12 | Path Robotics | Machine Learning Engineer, Robotics | 57 | none found (check myvisajobs) | Nov 18 08:43 ET |
-| 13 | Healthfirst | Data Engineer | 56 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 14 | PlayStation | ML Ops Engineer | 55 | none found (check myvisajobs) | Nov 18 05:04 ET |
-| 15 | Voya Financial | IM Entry Level Analyst Program-Jr. Portfolio Analyst | 55 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 16 | BTI360 | Data Scientist - Polygraph Required  | 55 | none found (check myvisajobs) | Nov 18 11:26 ET |
-| 17 | CVS Health | Data Engineer | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 18 | Vistra | Data Scientist | 52 | 8 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 19 | Mars | Dry Food Process Research Scientist | 50 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 20 | JP Morgan Chase | Data Scientist Associate | 50 | 1098 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 21 | Fifth Third Bank | Data Engineer I | 50 | 32 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 22 | Howard University | Research Assistant/ Recovery Guide | 50 | cap-exempt employer | Nov 18 (board gives the date only) |
-| 23 | Clemson University | Statistical and Research Analyst | 50 | cap-exempt employer | Nov 18 (board gives the date only) |
-| 24 | Citi | Data Engineer | 46 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 25 | Regeneron Pharmaceuticals | Process Data Scientist | 45 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 26 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 27 | PricewaterhouseCoopers (PwC) | Junior Data Analyst (Automation and VBA Focus) | 44 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 28 | PennState University | Research Assistant - Fusco | 40 | cap-exempt employer | Nov 17 (board gives the date only) |
-| 29 | Manulife Financial | Data Engineer | 40 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 30 | Expedia Inc. | Machine Learning Scientist II - Agentic Experiences | 75 | 83 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 31 | Evolent | Senior Data Scientist (AI Evaluation & Improvement) | 75 | 2 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 32 | Lloyds Bank | Senior Data Scientist | 73 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 33 | Capital One | Sr. Data Analyst - Retail Bank | 65 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 34 | Capital One | Senior Data Analyst - Enterprise Services | 64 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 35 | Thermo Fisher Scientific | Sr Pricing Analyst | 62 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 36 | Western Union | Senior Business Analyst, Compliance Systems and Analytics | 57 | 17 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 37 | Roche | Senior Real World Data Scientist | 55 | 7 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 38 | Micron Technology | Sr Data Scientist | 55 | 46 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 2 | Astronics | Data Analyst | 78 | none found (check myvisajobs) | Nov 18 13:51 ET |
+| 3 | Verisk | ML scientist - Atmospheric Sciences | 71 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 4 | Broadridge | Quality Analyst | 70 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 5 | Airbus | Aeronautical Analyst - Navigation | 67 | 1 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 6 | Genentech | Computational Methods Developer, Small Molecule Drug Discovery, AI for Drug Discovery | 65 | 35 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 7 | Labcorp | RCM Data Analyst I - Hybrid | 64 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 8 | Cresta | Applied Data Scientist  | 64 | none found (check myvisajobs) | Nov 18 12:29 ET |
+| 9 | Cleveland-Cliffs | Manufacturing Planning Analyst | 62 | 1 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 10 | U.S. Bank | CLO Global Business Tech - Business Ops Analyst | 62 | 82 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 11 | Fin | GTM Data Scientist | 58 | none found (check myvisajobs) | Nov 18 10:25 ET |
+| 12 | Ema | Software Engineer, Machine Learning | 57 | none found (check myvisajobs) | Nov 18 03:20 ET |
+| 13 | Path Robotics | Machine Learning Engineer, Robotics | 57 | none found (check myvisajobs) | Nov 18 08:43 ET |
+| 14 | Healthfirst | Data Engineer | 56 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 15 | PlayStation | ML Ops Engineer | 55 | none found (check myvisajobs) | Nov 18 05:04 ET |
+| 16 | Voya Financial | IM Entry Level Analyst Program-Jr. Portfolio Analyst | 55 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 17 | BTI360 | Data Scientist - Polygraph Required  | 55 | none found (check myvisajobs) | Nov 18 11:26 ET |
+| 18 | CVS Health | Data Engineer | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 19 | Mayo Clinic | Research Fellow - Quantitative Health Science - Ehlers lab | 54 | 26 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 20 | Vistra | Data Scientist | 52 | 8 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 21 | Mars | Dry Food Process Research Scientist | 50 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 22 | JP Morgan Chase | Data Scientist Associate | 50 | 1098 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 23 | Fifth Third Bank | Data Engineer I | 50 | 32 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 24 | Howard University | Research Assistant/ Recovery Guide | 50 | cap-exempt employer | Nov 18 (board gives the date only) |
+| 25 | Clemson University | Statistical and Research Analyst | 50 | cap-exempt employer | Nov 18 (board gives the date only) |
+| 26 | Rocket Companies | Data Scientist | 50 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 27 | Citi | Data Engineer | 46 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 28 | Regeneron Pharmaceuticals | Process Data Scientist | 45 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 29 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 30 | PricewaterhouseCoopers (PwC) | Junior Data Analyst (Automation and VBA Focus) | 44 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 31 | PennState University | Research Assistant - Fusco | 40 | cap-exempt employer | Nov 17 (board gives the date only) |
+| 32 | Manulife Financial | Data Engineer | 40 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 33 | Expedia Inc. | Machine Learning Scientist II - Agentic Experiences | 75 | 83 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 34 | Evolent | Senior Data Scientist (AI Evaluation & Improvement) | 75 | 2 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 35 | Lloyds Bank | Senior Data Scientist | 73 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 36 | Capital One | Senior Data Scientist | 72 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 37 | Exelixis | Senior Data Analyst - Compliance Operations | 67 | 12 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 38 | Capital One | Sr. Data Analyst - Retail Bank | 65 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 39 | Capital One | Senior Data Analyst - Enterprise Services | 64 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 40 | Thermo Fisher Scientific | Sr Pricing Analyst | 62 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 41 | Western Union | Senior Business Analyst, Compliance Systems and Analytics | 57 | 17 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 42 | Roche | Senior Real World Data Scientist | 55 | 7 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 43 | Micron Technology | Sr Data Scientist | 55 | 46 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
 
 ---
 
@@ -60,7 +65,22 @@ Responsible for the design, development, and communication of paid media analyti
 
 ---
 
-## 2. [MAYBE] Verisk | ML scientist - Atmospheric Sciences
+## 2. [MAYBE] Astronics | Data Analyst
+- Link: https://job-boards.greenhouse.io/astronicscorporation/jobs/4512808009
+- Location: Waukegan, Illinois, United States
+- Posted: Nov 18 13:51 ET
+- Scanner fit: ~78 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, data visualization, etl, excel, forecast, power bi, python, r, sql, statistic, tableau, data quality, git | Lacks: qlik  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Astronics Connectivity Systems and Certification (formerly Telefonix PDT and Astronics Armstrong Aerospace) serves as the experienced, global market leader for in-flight entertainment and connectivity (IFEC) solutions for aircraft. As a systems certification provider, Astronics CSC has worked on over 100 projects for industry partners to upgrade commercial and business aircraft with new passenger power systems, IFEC navigation, communication and flight safety systems. Additionally, Astronics CSC offers proven IFEC hardware systems, flexible design platforms, high customer satisfaction, and long-term relationships with industry leaders to help make the connected aircraft a reality. The company now employs over 300 employees and is a six-time recipient of Chicago's Best and Brightest Employers to Work For award. &nbsp; Summary The Data Analyst supports the PMO by turning structured and unstructured data into actionable insights that drive program decision-making. This role bridges the gap between technology teams, business stakeholders, and PMO leadership by translating data needs into technical requirements, building reliable data pipelines and models, and delivering clear, compelling visualizations, dashboards, and reports. The ideal candidate combines strong analytical rigor with the ability to communicate findings to both technical and non-technical audiences. &nbsp; Essential Duties and Responsibilities The essential duties and responsibilities include the following, other duties as may be required from time-to-time. &nbsp; Data Analysis &amp; Insight Generation Analyze structured and unstructured datasets to identify trends, patterns, and anomalies relevant to program and project performance. Develop metrics, KPIs, and reports that support program-level decision-making and executive reporting. Conduct ad hoc and recurring analyses to answer specific business or program questions. &nbsp; Requirements &amp; Stakeholder Collaboration Partner with the technology organization and business end users to understand data sources, definitions, and analytical needs. Translate business questions into clear technical and data requirements. Work closely with Program Managers to align analytics with project milestones, risks, budgets, and resource needs. &nbsp; Data Sourcing &amp; Management Partner with Program Managers, Program Administrators, and Data Management Specialists to identify, map, and capture data from internal systems and external sources. Ensure data quality, consistency, and integrity across reporting and analytical outputs. Support the design and maintenance of data structures, taxonomies, and documentation used across the PMO. &nbsp; Modeling &amp; Reporting Build and maintain statistical models to support ongoing monitoring and ad hoc deep-dive analyses. Validate model outputs and refine methodologies as data availability and business needs evolve. Data Visualization &amp; Storytelling Design and maintain dashboards, reports, and presentations using data visualization tools (e.g., Power BI, Tableau, or similar). Apply data storytelling techniques to make complex trends and patterns understandable and actionable for PMO leadership and stakeholders. Continuously improve visualization standards, templates, and self-service reporting capabilities. &nbsp; Information Architecture &amp; Knowledge Management Design, implement, and maintain the information architecture across Sharepoint, Microsoft Teams, network drives, and other collaboration platforms to ensure the information is intuitive, organized, and easily accessible. Eliminate redundant files, duplicate dashboards, obsolete documents, and disconnected repositories to create a single source of truth for program and operational information. Perform periodic audit of digital repositories to identify outdated, duplicate, or conflicting information and coordinate cleanup activities with content owners. Support the implementation and continuous improvement of Sharepoint, Microsoft Teams, Power BI, and other digital collaboration tools to improve organizational effectiveness. &nbsp; Cross-Functional Support &amp; Continuous Improvement Serve as a data resource within the PMO, supporting Program Managers, Program Administrators, and Data Management Specialists with data-driven insights for status reporting, forecasting, and risk/issue tracking. Contribute to process improvements related to data collection, reporting cadence, and analytical rigor across the PMO. &nbsp; &nbsp; Qualifications &nbsp; To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Required: Bachelor's degree in Data Analytics, Statistics, Business, Information Systems, or related field (or equivalent experience). 2–4+ years of experience in data analysis, business intelligence, or a related analytical role. Proficiency with SQL and at least one data visualization tool (Power BI, Tableau, Qlik, etc.). Experience working with both structured (databases, spreadsheets) and unstructured (text, logs, documents) data. Strong understanding of statistical concepts and basic modeling techniques. Excellent communication skills, with the ability to present data insights to non-technical audiences. Preferred: Experience supporting a PMO, program/project management function, or portfolio reporting. Familiarity with project management tools (e.g., MS Project, Jira, Smartsheet, ServiceNow). Experience with Python or R for data manipulation and statistical analysis. Understanding of data governance, data management principles, or ETL processes. Exposure to Agile/Waterfall program delivery frameworks. &nbsp; Work Environment&nbsp; The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job.
+
+---
+
+## 3. [MAYBE] Verisk | ML scientist - Atmospheric Sciences
 - Link: https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5118
 - Location: Boston, MA, United States US
 - Posted: Nov 18 (board gives the date only)
@@ -75,7 +95,7 @@ What if your machine learning expertise could change how the world prepares for 
 
 ---
 
-## 3. [MAYBE] Broadridge | Quality Analyst
+## 4. [MAYBE] Broadridge | Quality Analyst
 - Link: https://broadridge.wd5.myworkdayjobs.com/Careers/job/Coppell-TX/Quality-Analyst_JR1087374
 - Location: Coppell, TX
 - Posted: Nov 17 (board gives the date only)
@@ -90,7 +110,7 @@ At Broadridge, we've built a culture where the highest goal is to empower others
 
 ---
 
-## 4. [MAYBE] Airbus | Aeronautical Analyst - Navigation
+## 5. [MAYBE] Airbus | Aeronautical Analyst - Navigation
 - Link: https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Aeronautical-Analyst---Navigation_JR10459180
 - Location: Gdansk
 - Posted: Nov 17 (board gives the date only)
@@ -105,7 +125,7 @@ Job Description: Skywise is a leading digital services company, wholly owned by 
 
 ---
 
-## 5. [MAYBE] Genentech | Computational Methods Developer, Small Molecule Drug Discovery, AI for Drug Discovery
+## 6. [MAYBE] Genentech | Computational Methods Developer, Small Molecule Drug Discovery, AI for Drug Discovery
 - Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Computational-Methods-Developer--Small-Molecule-Drug-Discovery--AI-for-Drug-Discovery_202611-129632
 - Location: South San Francisco
 - Posted: Nov 17 (board gives the date only)
@@ -120,7 +140,7 @@ A healthier future. It’s what drives us to innovate. To continuously advance s
 
 ---
 
-## 6. [MAYBE] Labcorp | RCM Data Analyst I - Hybrid
+## 7. [MAYBE] Labcorp | RCM Data Analyst I - Hybrid
 - Link: https://labcorp.wd1.myworkdayjobs.com/external/job/Burlington-NC/RCM-Data-Analyst-I---Hybrid_2639189
 - Location: Burlington NC
 - Posted: Nov 17 (board gives the date only)
@@ -135,7 +155,7 @@ Labcorp is a global leader in laboratory services, providing the insights and an
 
 ---
 
-## 7. [MAYBE] Cresta | Applied Data Scientist 
+## 8. [MAYBE] Cresta | Applied Data Scientist 
 - Link: https://job-boards.greenhouse.io/cresta/jobs/5486727008
 - Location: United States (Remote)
 - Posted: Nov 18 12:29 ET
@@ -150,7 +170,7 @@ Cresta unlocks the true potential of the customer experience, turning every conv
 
 ---
 
-## 8. [MAYBE] Cleveland-Cliffs | Manufacturing Planning Analyst
+## 9. [MAYBE] Cleveland-Cliffs | Manufacturing Planning Analyst
 - Link: https://aksteel.wd1.myworkdayjobs.com/careers/job/Corporate-Headquarters/Manufacturing-Planning-Analyst_R14048
 - Location: Corporate Headquarters
 - Posted: Nov 17 (board gives the date only)
@@ -165,7 +185,7 @@ Location: Cleveland, OH Cleveland-Cliffs is seeking a Manufacturing Planning Ana
 
 ---
 
-## 9. [MAYBE] U.S. Bank | CLO Global Business Tech - Business Ops Analyst
+## 10. [MAYBE] U.S. Bank | CLO Global Business Tech - Business Ops Analyst
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/CLO-Global-Business-Tech---Business-Ops-Analyst_2026-0012211
 - Location: 3 Locations
 - Posted: Nov 18 (board gives the date only)
@@ -180,7 +200,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 10. [MAYBE] Fin | GTM Data Scientist
+## 11. [MAYBE] Fin | GTM Data Scientist
 - Link: https://job-boards.greenhouse.io/intercom/jobs/8374568
 - Location: San Francisco, California
 - Posted: Nov 18 10:25 ET
@@ -195,7 +215,7 @@ Fin , now part of Salesforce, is on a mission to help businesses provide perfect
 
 ---
 
-## 11. [MAYBE] Ema | Software Engineer, Machine Learning
+## 12. [MAYBE] Ema | Software Engineer, Machine Learning
 - Link: https://jobs.ashbyhq.com/ema/9728a171-9617-4533-9f03-10c14c3b6ca5
 - Location: Mountain View (Hybrid)
 - Posted: Nov 18 03:20 ET
@@ -281,7 +301,7 @@ Ema Unlimited
 
 ---
 
-## 12. [MAYBE] Path Robotics | Machine Learning Engineer, Robotics
+## 13. [MAYBE] Path Robotics | Machine Learning Engineer, Robotics
 - Link: https://boards.greenhouse.io/pathrobotics/jobs/8949716002?gh_jid=8949716002
 - Location: Columbus, Ohio or Remote
 - Posted: Nov 18 08:43 ET
@@ -296,7 +316,7 @@ Build the Path Forward At Path Robotics, we’re building the future of embodied
 
 ---
 
-## 13. [MAYBE] Healthfirst | Data Engineer
+## 14. [MAYBE] Healthfirst | Data Engineer
 - Link: https://healthfirst.wd1.myworkdayjobs.com/healthfirst/job/Remote---NY/Data-Engineer_R022686
 - Location: 2 Locations
 - Posted: Nov 18 (board gives the date only)
@@ -311,7 +331,7 @@ The Data Engineer is responsible for data acquisition strategies and integration
 
 ---
 
-## 14. [MAYBE] PlayStation | ML Ops Engineer
+## 15. [MAYBE] PlayStation | ML Ops Engineer
 - Link: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6240810004
 - Location: United States, San Diego, CA
 - Posted: Nov 18 05:04 ET
@@ -326,7 +346,7 @@ Why Sony Interactive Entertainment? Sony Interactive Entertainment isn’t just 
 
 ---
 
-## 15. [MAYBE] Voya Financial | IM Entry Level Analyst Program-Jr. Portfolio Analyst
+## 16. [MAYBE] Voya Financial | IM Entry Level Analyst Program-Jr. Portfolio Analyst
 - Link: https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/IM-Entry-Level-Analyst-Program-Jr-Portfolio-Analyst_JR0033433
 - Location: Atlanta, GA
 - Posted: Nov 17 (board gives the date only)
@@ -341,7 +361,7 @@ Together we fight for everyone’s opportunity for a better financial future. We
 
 ---
 
-## 16. [MAYBE] BTI360 | Data Scientist - Polygraph Required 
+## 17. [MAYBE] BTI360 | Data Scientist - Polygraph Required 
 - Link: https://job-boards.greenhouse.io/bti36021/jobs/8353101
 - Location: Tysons Corner, Virginia
 - Posted: Nov 18 11:26 ET
@@ -356,7 +376,7 @@ Together we fight for everyone’s opportunity for a better financial future. We
 
 ---
 
-## 17. [MAYBE] CVS Health | Data Engineer
+## 18. [MAYBE] CVS Health | Data Engineer
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Work-from-home/Data-Engineer_R1070871
 - Location: CA - Work from home
 - Posted: Nov 17 (board gives the date only)
@@ -371,7 +391,22 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 18. [MAYBE] Vistra | Data Scientist
+## 19. [MAYBE] Mayo Clinic | Research Fellow - Quantitative Health Science - Ehlers lab
+- Link: https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/395446
+- Location: Phoenix, AZ, United States US
+- Posted: Nov 18 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 26 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, statistic, publication, quantitative, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The ideal candidate will have demonstrated research experience in physical activity and quality of life outcomes among clinical and/or aging populations. Prior experience contributing to clinical or community-based physical activity and/or exercise research is preferred. Key qualifications include: Strong data management, processing, and statistical analysis skills Excellent organizational, time-management, and communication skills Ability to work effectively within an interdisciplinary research team Experience collaborating with multiple research partners Experience disseminating research findings through presentations and publications Commitment to developing as an independent scientist and research leader The successful candidate will play a primary role in data processing, analysis, and dissemination activities while working closely with faculty mentors and collaborators across a large, nationally distributed research team. Candidates should be highly motivated, detail-oriented, and capable of managing multiple projects in a collaborative research environment.  Must have a Ph.D., M.D., or equivalent doctoral degree in a field deemed relevant by the program. Research Fellow is appropriate for individuals who have completed no more than one prior postdoctoral fellowship, at Mayo Clinic or elsewhere. Why Mayo Clinic Mayo Clinic is top-ranked in more specialties than any other care provider according to U.S. News & World Report. As we work together to put the needs of the patient first, we are also dedicated to our employees, investing in competitive compensation and comprehensive benefit plans – to take care of you and your family, now and in the future. And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic. Benefits Highlights Medical: Multiple plan options. Dental: Delta Dental or reimbursement account for flexible coverage. Vision: Affordable plan with national network. Pre-Tax Savings: HSA and FSAs for eligible expenses. Retirement: Competitive retirement package to secure your future.
+
+---
+
+## 20. [MAYBE] Vistra | Data Scientist
 - Link: https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Data-Scientist_40016989-2
 - Location: Irving, Texas
 - Posted: Nov 17 (board gives the date only)
@@ -386,7 +421,7 @@ If you have what it takes to become part of the Vistra family and would like to 
 
 ---
 
-## 19. [MAYBE] Mars | Dry Food Process Research Scientist
+## 21. [MAYBE] Mars | Dry Food Process Research Scientist
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/FRA-Gard-Aimargues/Dry-Food-Process-Research-Scientist_R171894-1
 - Location: FRA-Gard-Aimargues
 - Posted: Nov 17 (board gives the date only)
@@ -401,7 +436,7 @@ Job Description: At Royal Canin R&D, the Research Team is responsible for long-t
 
 ---
 
-## 20. [MAYBE] JP Morgan Chase | Data Scientist Associate
+## 22. [MAYBE] JP Morgan Chase | Data Scientist Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810053
 - Location: Plano, TX, United States US
 - Posted: Nov 18 (board gives the date only)
@@ -416,7 +451,7 @@ Join a Payments Data and Analytics team that builds data products used to improv
 
 ---
 
-## 21. [MAYBE] Fifth Third Bank | Data Engineer I
+## 23. [MAYBE] Fifth Third Bank | Data Engineer I
 - Link: https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Data-Engineer-I_R74842-1
 - Location: Cincinnati, OH
 - Posted: Nov 18 (board gives the date only)
@@ -431,7 +466,7 @@ Make banking a Fifth Third better® We connect great people to great opportuniti
 
 ---
 
-## 22. [MAYBE] Howard University | Research Assistant/ Recovery Guide
+## 24. [MAYBE] Howard University | Research Assistant/ Recovery Guide
 - Link: https://howard.wd1.myworkdayjobs.com/HU/job/Seeley-G-Mudd-Building-College-of-Medicine/Research-Assistant--Recovery-Guide_JR108820
 - Location: Seeley G. Mudd Building (College of Medicine)
 - Posted: Nov 18 (board gives the date only)
@@ -446,7 +481,7 @@ The Talent Acquisition department hires qualified candidates to fill positions w
 
 ---
 
-## 23. [MAYBE] Clemson University | Statistical and Research Analyst
+## 25. [MAYBE] Clemson University | Statistical and Research Analyst
 - Link: https://clemson.wd12.myworkdayjobs.com/Clemson_Careers/job/CLEMSON-SC/Statistical-and-Research-Analyst_JR-11082
 - Location: CLEMSON, SC
 - Posted: Nov 18 (board gives the date only)
@@ -461,7 +496,22 @@ JOB SUMMARY: Performs research, data management and record-keeping activities. J
 
 ---
 
-## 24. [MAYBE] Citi | Data Engineer
+## 26. [MAYBE] Rocket Companies | Data Scientist
+- Link: https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Remote---Michigan/Data-Scientist_R-084225
+- Location: Remote - Michigan
+- Posted: Nov 18 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, data visualization, gcp, machine learning, python, regression, sql, statistic, git, research | Lacks: azure, c++, hadoop, java  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+As the Data Scientist, you’ll be responsible for performing exploratory data analysis, feature engineering and predictive modeling to provide actionable insights and strategic direction for business leaders. The Data Scientist delves into the recesses of large data sets of structured, semi-structured and unstructured data to discover hidden knowledge about our business and to develop methods to leverage that knowledge within our line of business. About the role Analyze, manipulate and process large sets of data Develop predictive/machine learning models from large sets of structured and unstructured data Identify methods that allow continuous and automated statistical testing to enhance the predictability of deployed models Apply feature selection algorithms to models predicting outcomes of interest Apply sampling techniques to determine groups to be surveyed Compare models using statistical performance metrics, such as loss functions or proportion of explained variance Create graphs, charts or other visualizations to convey the results of data analysis Deliver oral or written presentations of the results of mathematical modeling and data analysis to stakeholders Identify business problems or leader objectives that can be addressed through data analysis Identify relationships and trends or any factors that could affect the results of research Identify and propose solutions to business problems using the results of data analysis Test, validate and reformulate models to ensure accurate prediction of outcomes of interest Write new functions or applications to conduct analyses Partner with machine learning engineers on the deployment of applicable models for business projects Communicate analyses, conclusions and solutions clearly to all audiences Sequence the steps involved to deliver a working model, estimate the timelines for the completion of work and communicate this information to the project manager Advise project teams on application improvements that will result in enhanced predictive and prescriptive models Develop and evangelize best practices for statistical or behavioral models Drive the collection of new data and the refinement of existing data sources Collaborate with the engineering and product teams to develop and support our internal data platform to support ongoing analyses Mentor and train associate data scientists About you 3 years of experience working with large data sets in one or more of the following environments - Hadoop, AWS, Azure or GCP 3 years of experience with statistical and data mining tools and methods 3 years of experience with supervised models (e.g., regression, neural networks) and unsupervised techniques (clustering, PCA, SVMs) Experience formulating and shipping mixed-integer or linear programs for assignment or allocation problems in production (PuLP, CBC, OR-Tools, Gurobi, HiGHS), including objective and penalty design and solver diagnostics. Prior work on allocation, routing or matching problems with fairness or capacity objectives, in domains such as lead routing, dispatch, ad pacing or marketplace matching. 3 years of experience working with SQL 3 years of experience in Python and at least one strongly typed language (e.g., C++, Java, etc.) 3 years of experience with statistical packages 3 years of experience providing predictive and prescriptive analytics in a business setting Master’s degree in mathematics, statistics, computer science or a related field or equivalent experience Advanced understanding of data visualization libraries Advanced understanding of statistical methodologies for modeling and business analytics What you’ll get Our team members fuel our strategy, innovation and growth, so we ensure the health and well-being of not just you, but your family, too! We go above and beyond to give you the support you need on an individual level and offer all sorts of ways to help you live your best life. We are proud to offer eligible team members perks and health benefits that will help you have peace of mind. Simply put: We’ve got your back. Check out our full list of Benefits and Perks. About us Rocket is a Detroit-based company made up of businesses that provide simple, fast and trusted digital solutions for complex transactions. The name comes from our flagship business, now known as Rocket Mortgage®, which was founded in 1985. Today, we’re a publicly traded company involved in many different industries, including mortgages, fintech, real estate and more. We’re insistently different in how we look at the world and are committed to an inclusive workplace where every voice is heard. Apply today to join a team that offers career growth, amazing benefits and the chance to work with leading industry professionals. This job description is an outline of the primary responsibilities of this position and may be modified at the discretion of the company at any time. Decisions related to employment are not based on race, color, religion, national origin, sex, physical or mental disability, sexual orientation, gender identity or expression, age, military or veteran status or any other characteristic protected by state or federal law. The company provides
+
+---
+
+## 27. [MAYBE] Citi | Data Engineer
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Data-Engineer_261004570-1
 - Location: DLF CYBERCITY 12B
 - Posted: Nov 17 (board gives the date only)
@@ -476,7 +526,7 @@ We are seeking a motivated, detail-oriented Data Engineer to join our Data Engin
 
 ---
 
-## 25. [MAYBE] Regeneron Pharmaceuticals | Process Data Scientist
+## 28. [MAYBE] Regeneron Pharmaceuticals | Process Data Scientist
 - Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/Limerick/Process-Data-Scientist_R53165
 - Location: Limerick
 - Posted: Nov 17 (board gives the date only)
@@ -491,7 +541,7 @@ At Regeneron, we use science and innovation to develop life-changing medicines f
 
 ---
 
-## 26. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 29. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805154
 - Location: Plano, TX, United States US
 - Posted: Nov 18 (board gives the date only)
@@ -506,7 +556,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 27. [MAYBE] PricewaterhouseCoopers (PwC) | Junior Data Analyst (Automation and VBA Focus)
+## 30. [MAYBE] PricewaterhouseCoopers (PwC) | Junior Data Analyst (Automation and VBA Focus)
 - Link: https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Lviv/Junior-Data-Analyst--Automation-and-VBA-Focus-_774953WD
 - Location: Lviv
 - Posted: Nov 18 (board gives the date only)
@@ -521,7 +571,7 @@ Job Description & Summary PwC is a global network of more than 370,000 professio
 
 ---
 
-## 28. [MAYBE] PennState University | Research Assistant - Fusco
+## 31. [MAYBE] PennState University | Research Assistant - Fusco
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant---Fusco_REQ_0000084404-1
 - Location: Penn State University Park
 - Posted: Nov 17 (board gives the date only)
@@ -536,7 +586,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 29. [MAYBE] Manulife Financial | Data Engineer
+## 32. [MAYBE] Manulife Financial | Data Engineer
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Waterloo-Ontario/Data-Engineer_JR26070439
 - Location: 2 Locations
 - Posted: Nov 18 (board gives the date only)
@@ -551,7 +601,7 @@ Join us at Manulife and be part of a team that strives for excellence, where you
 
 ---
 
-## 30. [MAYBE] Expedia Inc. | Machine Learning Scientist II - Agentic Experiences
+## 33. [MAYBE] Expedia Inc. | Machine Learning Scientist II - Agentic Experiences
 - Link: https://expedia.wd108.myworkdayjobs.com/Search/job/Washington---Seattle-Campus/Machine-Learning-Scientist-II---Agentic-Experiences_R-109446
 - Location: 3 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -566,7 +616,7 @@ At Expedia Group, we help travelers explore the world, one journey at a time. As
 
 ---
 
-## 31. [MAYBE] Evolent | Senior Data Scientist (AI Evaluation & Improvement)
+## 34. [MAYBE] Evolent | Senior Data Scientist (AI Evaluation & Improvement)
 - Link: https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Senior-Data-Scientist--AI-Evaluation---Improvement-_JR-917050
 - Location: Work at Home
 - Posted: Nov 18 (board gives the date only)
@@ -581,7 +631,7 @@ Your Future Evolves Here Evolent partners with health plans and providers to ach
 
 ---
 
-## 32. [MAYBE] Lloyds Bank | Senior Data Scientist
+## 35. [MAYBE] Lloyds Bank | Senior Data Scientist
 - Link: https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Senior-Data-Scientist_155318
 - Location: Manchester
 - Posted: Nov 17 (board gives the date only)
@@ -596,7 +646,37 @@ End Date Tuesday 01 December 2026 Salary Range £72,702 - £80,780 We support fl
 
 ---
 
-## 33. [MAYBE] Capital One | Sr. Data Analyst - Retail Bank
+## 36. [MAYBE] Capital One | Senior Data Scientist
+- Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Scientist_R1006102-1
+- Location: 2 Locations
+- Posted: Nov 18 (board gives the date only)
+- Scanner fit: ~72 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 458 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, machine learning, python, r, spark, sql, statistic, time series, backtest, classification, credit, deep learning, quantitative, research | Lacks: scala  | Note: title says Senior/II: asks 2 years
+- Eligibility: OK | Basic Qualifications: Currently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date: A Bachelor's Degree in a qu
+
+### Job description
+
+Senior Data Scientist Data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making. As a Data Scientist at Capital One, you’ll be part of a team that’s leading the next wave of disruption at a whole new scale, using the latest in computing and machine learning technologies and operating across billions of customer records to unlock the big opportunities that help everyday people save money, time and agony in their financial lives. The Card DS team is working continuously to innovate the way we handle data to transform every corner of our business through analytics, infrastructure, valuations, and strategy. We build human-centric experiences for moments that matter throughout the customer journey, and we do this by harnessing data, technology, and talent to propel our business forward. To accomplish this goal, we design, build, and maintain the appropriate solutions we use across Card to make smart, informed decisions. We use the latest techniques in machine learning to build predictive models and utilize the advantages of large-scale data and cloud-based processing. Through these techniques, we extract relevant insights from data to tackle a huge variety of business problems. In this role you will: Partner with a cross-functional team of data scientists, software engineers, and product managers to deliver a product customers love Leverage a broad stack of technologies — Python, Conda, AWS, H2O, Spark, and more — to reveal the insights hidden within huge volumes of numeric and textual data Build machine learning models through all phases of development, from design through training, evaluation, validation, and implementation Flex your interpersonal skills to translate the complexity of your work into tangible business goals The Ideal candidate will be: Curious and creative. You thrive on bringing definition to big, undefined problems. You love asking questions, and you love pushing hard to find the answers. You’re not afraid to share a new idea. You communicate clearly and effectively to share your findings with non-technical audiences. Technical: You have hands-on experience developing data science solutions from concept to production using open source tools and modern cloud computing platforms. You are not afraid of petabytes of data. Statistically-minded. You have built models, validated them and backtested them. You know how to interpret a confusion matrix or a ROC curve. You have experience with clustering, classification, sentiment analysis, time series analysis and deep learning. Customer and product oriented. You share our passion for changing banking for good. This role is designated as a hybrid position. You are expected to adhere to Capital One's hybrid policy regarding required on-site presence at your designated office location. Basic Qualifications: Currently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date: A Bachelor's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) plus 2 years of experience performing data analytics A Master's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) or an MBA with a quantitative concentration Preferred Qualifications: Master’s Degree in “STEM” field (Science, Technology, Engineering, or Mathematics), or PhD in “STEM” field (Science, Technology, Engineering, or Mathematics) Experience working with AWS At least 2 years’ experience in Python, Scala, or R At least 2 years’ experience with machine learning At least 2 years’ experience with SQL Capital One will consider sponsoring a new qualified applicant for employment authorization for this position. The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked. McLean, VA: $135,600 - $154,800 for Sr Assoc, Data Science New York, NY: $148,000 - $168,900 for Sr Assoc, Data Science Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter. This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan. Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website . Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level. This role is expected to accept applications for a minimum of 5 business days. No agencies please. Capital One
+
+---
+
+## 37. [MAYBE] Exelixis | Senior Data Analyst - Compliance Operations
+- Link: https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Senior-Data-Analyst---Compliance-Operations_JR7232
+- Location: Alameda, CA
+- Posted: Nov 18 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 12 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, excel, classification, data quality, healthcare, reporting, risk, validation | Lacks: -  | Note: title says Senior/II: asks 2 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+SUMMARY/JOB PURPOSE The Senior Data Analyst - Compliance Operations is responsible for analyzing, interpreting, and governing compliance-related data to support regulatory reporting, risk monitoring, and business decision-making. This role partners with Compliance, Finance, Legal, and business stakeholders to identify trends, improve data quality, strengthen controls, and ensure accurate and timely reporting of compliance obligations. The Senior Data Analyst - Compliance Operations also drives process improvements and develops data-driven insights, dashboards, and analytics that enhance transparency, operational efficiency, and compliance program effectiveness. ESSENTIAL DUTIES/RESPONSIBILITIES Analyze, validate, and monitor compliance-related data to support regulatory reporting, transparency disclosures, audits, investigations, and ongoing compliance program activities. Ensure accurate collection, validation, reconciliation, and submission of reportable spend data. Prepare and support the submission of regulatory reporting obligations, ensuring data accuracy, completeness, and compliance with applicable laws and company policies. Collaborate with internal stakeholders and vendors to resolve data quality issues and reporting discrepancies. Develop dashboards, metrics, and management reporting to support compliance oversight. Conduct compliance control testing, bench testing, and monitoring activities to ensure regulatory requirements, company policies, and reporting obligations are effectively implemented and maintained. Drive compliance technology initiatives, including system enhancements, automation projects, and reporting tool implementations. Performs other duties as assigned Complies with all policies and standards SUPERVISORY RESPONSIBILITIES No supervisory responsibilities. EDUCATION/EXPERIENCE/KNOWLEDGE/SKILLS & ABILITIES Education BS/BA degree in related discipline and 4 years of related experience; or MS/MA degree in related discipline and 2 years of related experience; or Equivalent combination of education and/or relative experience Healthcare Compliance Certificate a plus Experience Experience in the pharmaceutical and biotech industries. Specific expertise in the best practices of healthcare compliance and auditing. Finance audit experience is preferred. Experience working with compliance systems, reporting tools, and data analytics platforms. Experience supporting Open Payments, state transparency reporting, or international disclosure programs. Knowledge, Skills and Abilities Required: Ability to analyze large data sets and communicate insights clearly to stakeholders Strong organizational (detail oriented), project management, and problem-solving skills Ability to handle multiple tasks, prioritize appropriately and adapt quickly to new situations, and offer creative solutions to challenging problems Strong computer skills (e.g., Microsoft Office Suite (Word, Excel, PowerPoint, etc.), Visio, Internet) Excellent verbal and written communication skills, must be an effective communicator with strong interpersonal skills Ability to work under pressure to meet specific deadlines Demonstrated dedication to quality and compliance. Ability to work responsibly and professionally, exercising good judgment Ability to take initiative by identifying opportunities and issues, acting on them independently, and following through to completion Familiarity with the legal principles of FDA advertising and promotion regulations, the False Claims Act, Anti-Kickback Statute, Physician Payments Sunshine Act (Open Payments), OIG guidance, and the PhRMA Code required. Travel Requirements 10% This position requires 5 - 10% travel. #LI-HG1 Location: Alameda, CA&#xa;&#xa;Range for this position: $115,000 - $145,000&#xa;&#xa;The base pay offered will take into account job-related knowledge, skills, experience and internal equity, among other factors. In addition to the base salary, as part of our Total Rewards program, Exelixis offers comprehensive employee benefits package, including a 401k plan with generous company contributions, group medical, dental and vision coverage, life and disability insurance, and flexible spending accounts. Employees are also eligible for a discretionary annual bonus program, or if field sales staff, a sales-based incentive plan. Exelixis also offers employees the opportunity to purchase company stock, and receive long-term incentives, 15 accrued vacation days in their first year, 17 paid holidays including a company-wide winter shutdown in December, and up to 10 sick days throughout the calendar year. Exelixis
+
+---
+
+## 38. [MAYBE] Capital One | Sr. Data Analyst - Retail Bank
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Data-Analyst---Retail-Bank_R247428-1
 - Location: 2 Locations
 - Posted: Nov 18 (board gives the date only)
@@ -611,7 +691,7 @@ Sr. Data Analyst - Retail Bank At Capital One, data is at the center of everythi
 
 ---
 
-## 34. [MAYBE] Capital One | Senior Data Analyst - Enterprise Services
+## 39. [MAYBE] Capital One | Senior Data Analyst - Enterprise Services
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Analyst---Enterprise-Services_R1000374-2
 - Location: 3 Locations
 - Posted: Nov 18 (board gives the date only)
@@ -626,7 +706,7 @@ Senior Data Analyst - Enterprise Services At Capital One, data is at the center 
 
 ---
 
-## 35. [MAYBE] Thermo Fisher Scientific | Sr Pricing Analyst
+## 40. [MAYBE] Thermo Fisher Scientific | Sr Pricing Analyst
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Sr-Pricing-Analyst_R-01365671
 - Location: Pittsburgh, Pennsylvania, USA
 - Posted: Nov 17 (board gives the date only)
@@ -641,7 +721,7 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 36. [MAYBE] Western Union | Senior Business Analyst, Compliance Systems and Analytics
+## 41. [MAYBE] Western Union | Senior Business Analyst, Compliance Systems and Analytics
 - Link: https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/LTU---Vilnius/Senior-Business-Analyst--Compliance-Systems-and-Analytics_JR0129985
 - Location: LTU - Vilnius
 - Posted: Nov 17 (board gives the date only)
@@ -656,7 +736,7 @@ Senior Business Analyst, Compliance Systems and Analytics – Vilnius, Lithuania
 
 ---
 
-## 37. [MAYBE] Roche | Senior Real World Data Scientist
+## 42. [MAYBE] Roche | Senior Real World Data Scientist
 - Link: https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Senior-Real-World-Data-Scientist_202610-127658-1
 - Location: 2 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -671,7 +751,7 @@ At Roche you can show up as yourself, embraced for the unique qualities you brin
 
 ---
 
-## 38. [MAYBE] Micron Technology | Sr Data Scientist
+## 43. [MAYBE] Micron Technology | Sr Data Scientist
 - Link: https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Sr-Data-Scientist_JR98989
 - Location: Boise, ID - ID1
 - Posted: Nov 18 (board gives the date only)
