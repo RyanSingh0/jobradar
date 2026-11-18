@@ -5,3 +5,4 @@ Found in your LinkedIn/HiringCafe/Glassdoor/Indeed/Jobright alert emails but not
 | Source | Company | Title | Location | Link |
 |---|---|---|---|---|
 | linkedin | Why Hiring | Junior Data Scientist | United States | https://www.linkedin.com/jobs/view/4489725575/ |
+| linkedin | Hewlett Packard Enterprise | Data Science Graduate | Fort Collins, CO | https://www.linkedin.com/jobs/view/4490613246/ |

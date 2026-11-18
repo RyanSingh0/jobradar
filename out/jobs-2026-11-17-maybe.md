@@ -20,81 +20,88 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 14 | DriveTime | Analyst, Performance Reporting | 67 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
 | 15 | Procter & Gamble (P&G) | Data Scientist (Entry-Level) | 67 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
 | 16 | Clera | Founding Engineer (AI/ML) | 65 | none found (check myvisajobs) | Nov 17 12:26 ET |
-| 17 | SouthState Bank | Compensation Analytics & Technology Coordinator | 64 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 18 | AllianceBernstein | Derivative Valuation Analyst | 62 | 24 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 19 | Centific | AI Research Engineer: Vision AI / VLM / Physical AI | 62 | 11 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 20 | Faculty AI | Data Scientist  | 61 | none found (check myvisajobs) | Nov 17 14:55 ET |
-| 21 | Verizon Communications | Forward Deployed AI Engineer | 59 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 22 | CNA Insurance | Business Intelligence Developer | 57 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 23 | Deutsche Bank | Structured Finance Investment Analyst (RMBS & CMBS) | 57 | 213 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 24 | City of New York | OEI Research Assistant, Bureau of Environmental Disease Prevention | 57 | none found (check myvisajobs) | Nov 17 06:13 ET |
-| 25 | Anglian Water | Data Engineer | 57 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 26 | Manulife Financial | Associate Data Scientist | 55 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 27 | Dell Technologies | Inside Product Specialist - Early Career | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 28 | Legal & General | Associate, Investment Analytics, L&G - Asset Management, America | 54 | none found (check myvisajobs) | Nov 16 18:23 ET |
-| 29 | Texas A&M University - College Station | Research Assistant | 54 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 30 | Texas A&M University System | Research Assistant | 54 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 31 | Boston Medical Center | Post Doc Research Fellow, Ophthalmology | 54 | 18 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 32 | SentiLink | Strategy & Analytics Associate | 54 | 4 in data/analytics/finance occupations | Nov 17 10:32 ET |
-| 33 | IBC Bank | Fraud Data Analyst | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 34 | UTHealth Houston | Research Scientist | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 35 | TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 36 | TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start | 52 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 37 | Atoms | AI Researcher - New Grad (PhD) | 52 | none found (check myvisajobs) | Nov 17 15:00 ET |
-| 38 | Avnet | Business Intelligence Analyst | 52 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 39 | Google | Research Scientist, Error Correction Experiments, Quantum AI | 50 | 1053 in data/analytics/finance occupations | Nov 17 03:09 ET |
-| 40 | Pernod Ricard créateurs de convivialité | Master Data Analyst | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 41 | Texas A&M AgriLife Research | Research Associate | 50 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 42 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 43 | PennState University | Research Assistant - Cattadori Lab | 50 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 44 | Loyola Marymount University | Research Scientist | 50 | cap-exempt employer | Nov 17 (board gives the date only) |
-| 45 | Atoms | Cloud Platform - ML Robotics Infra Engineer | 50 | none found (check myvisajobs) | Nov 17 13:11 ET |
-| 46 | JP Morgan Chase | Migration Data Analytics Associate | 50 | 1098 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 47 | Evolent | Full Stack AI Engineer (AI Service Engines & Integration) | 48 | 2 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 48 | Retell AI | Applied AI Engineer (Customer Facing), Spanish speaking | 48 | none found (check myvisajobs) | Nov 17 15:37 ET |
-| 49 | Abbott | Analyst, Global Pricing & Commercial Analytics | 48 | 14 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 50 | PAR Tech | Data Analyst | 48 | none found (check myvisajobs) | Nov 17 17:46 ET |
-| 51 | Shirley Ryan AbilityLab | Research Assistant - tiHUB | 47 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 52 | Lowe's | Data Scientist | 47 | 65 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 53 | University of Chicago | Research Professional | 47 | cap-exempt employer | Nov 17 (board gives the date only) |
-| 54 | Kemin | Job Title Research Associate | 45 | 2 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 55 | Pfizer | Associate, AI Engineering | 45 | 30 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 56 | Highmark Health | Data Engineer | 45 | 11 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 57 | WVUMedicine | Research Associate | 45 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 58 | Atoms | AI Researcher - New Grad (BS/MS) | 45 | none found (check myvisajobs) | Nov 17 15:08 ET |
-| 59 | IQVIA | Research Assistant | 45 | 95 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 60 | Nationwide Children's Hospital | Research Associate - RI Cardiovascular | 45 | 3 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 61 | CuspAI | Applied AI/ML Research Engineer (Generative Models) | 44 | none found (check myvisajobs) | Nov 17 10:35 ET |
-| 62 | Humana | Data Engineer | 44 | 72 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 63 | Gladstone Institutes | Research Associate I- Palop Lab | 44 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 64 | Toast | Data Engineer | 43 | 5 in data/analytics/finance occupations | Nov 17 15:59 ET |
-| 65 | Cencora | Contract Administration & Data Analytics Analyst | 42 | 1 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 66 | University of Louisville | Temporary Research Assistant (Part Time) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 67 | Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
-| 68 | ING | Data Analyst | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
-| 69 | Truist Bank | Institutional Investment Analyst I | 40 | 99 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 70 | UTHealth Houston | Patient Services Representative (Entry Level - PreDoc Dental Clinic) | 40 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 71 | Southern Company | Regulatory Strategy and Analytics Analyst | 40 | 7 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 72 | Equifax | Senior Financial BI & Big Data Quality Analyst (SQL) | 77 | 34 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 73 | The Home Depot | Sr. Data Analyst Labor | 75 | 27 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 74 | Hasbro | Senior Analyst, People Analytics (Temporary Assignment) | 72 | 2 in data/analytics/finance occupations | Nov 17 15:36 ET |
-| 75 | JP Morgan Chase | Senior Associate- Applied AI/ML | 71 | 1098 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 76 | Truist Bank | Data Scientist II (Compliance Testing) | 70 | 99 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 77 | U.S. Bank | Senior Quantitative Model Analyst - Counterparty Credit Risk Modeling | 70 | 82 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 78 | Cigna Group | Data Science Senior Advisor - EviCore - Remote | 69 | 40 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 79 | Target | Sr Applied Data Scientist - Personalization (applied ML, PyTorch, ML Ops) | 68 | 51 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 80 | AbbVie | Sr Scientist, Quantitative Bioimaging | 67 | 96 in data/analytics/finance occupations | Nov 17 15:48 ET |
-| 81 | Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design | 65 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 82 | Capital One | Senior Data Analyst - US Card | 64 | 458 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 83 | Natera | Research Associate 2 | 57 | 28 in data/analytics/finance occupations | Nov 16 18:51 ET |
-| 84 | GE Healthcare | Senior AI Engineer | 57 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 85 | Varian | Senior Research Scientist, Optimization Algorithms | 57 | 12 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
-| 86 | Humana | Senior Analytics Solutions Engineer | 56 | 72 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 87 | Johnson & Johnson | Senior Data Analyst, CX Insights | 56 | 11 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 88 | Kensho | Machine Learning Engineer II | 55 | 2 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 89 | S&P Global | Machine Learning Engineer II | 55 | 5 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 90 | JP Morgan Chase | Digital Channels Quant Analytics, Senior Associate | 55 | 1098 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 91 | JP Morgan Chase | Applied AI/ML Senior Associate - Predictive Science | 55 | 1098 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 17 | Mayo Clinic | Research Fellow - Adrenal and Endocrine Research | 65 | 26 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 18 | SouthState Bank | Compensation Analytics & Technology Coordinator | 64 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 19 | AllianceBernstein | Derivative Valuation Analyst | 62 | 24 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 20 | Centific | AI Research Engineer: Vision AI / VLM / Physical AI | 62 | 11 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 21 | 42dot | LLM Engineer (Data Generation) | 62 | none found (check myvisajobs) | Nov 17 19:34 ET |
+| 22 | Faculty AI | Data Scientist  | 61 | none found (check myvisajobs) | Nov 17 14:55 ET |
+| 23 | Verizon Communications | Forward Deployed AI Engineer | 59 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 24 | CNA Insurance | Business Intelligence Developer | 57 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 25 | Deutsche Bank | Structured Finance Investment Analyst (RMBS & CMBS) | 57 | 213 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 26 | City of New York | OEI Research Assistant, Bureau of Environmental Disease Prevention | 57 | none found (check myvisajobs) | Nov 17 06:13 ET |
+| 27 | Anglian Water | Data Engineer | 57 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 28 | Manulife Financial | Associate Data Scientist | 55 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 29 | Dell Technologies | Inside Product Specialist - Early Career | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 30 | Legal & General | Associate, Investment Analytics, L&G - Asset Management, America | 54 | none found (check myvisajobs) | Nov 16 18:23 ET |
+| 31 | Texas A&M University - College Station | Research Assistant | 54 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 32 | Texas A&M University System | Research Assistant | 54 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 33 | Boston Medical Center | Post Doc Research Fellow, Ophthalmology | 54 | 18 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 34 | SentiLink | Strategy & Analytics Associate | 54 | 4 in data/analytics/finance occupations | Nov 17 10:32 ET |
+| 35 | IBC Bank | Fraud Data Analyst | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 36 | UTHealth Houston | Research Scientist | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 37 | TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 38 | TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start | 52 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 39 | Atoms | AI Researcher - New Grad (PhD) | 52 | none found (check myvisajobs) | Nov 17 15:00 ET |
+| 40 | Avnet | Business Intelligence Analyst | 52 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 41 | Google | Research Scientist, Error Correction Experiments, Quantum AI | 50 | 1053 in data/analytics/finance occupations | Nov 17 03:09 ET |
+| 42 | Pernod Ricard créateurs de convivialité | Master Data Analyst | 50 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 43 | Texas A&M AgriLife Research | Research Associate | 50 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 44 | Texas A&M University System | Research Associate | 50 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 45 | PennState University | Research Assistant - Cattadori Lab | 50 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 46 | Loyola Marymount University | Research Scientist | 50 | cap-exempt employer | Nov 17 (board gives the date only) |
+| 47 | Atoms | Cloud Platform - ML Robotics Infra Engineer | 50 | none found (check myvisajobs) | Nov 17 13:11 ET |
+| 48 | JP Morgan Chase | Migration Data Analytics Associate | 50 | 1098 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 49 | Evolent | Full Stack AI Engineer (AI Service Engines & Integration) | 48 | 2 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 50 | Retell AI | Applied AI Engineer (Customer Facing), Spanish speaking | 48 | none found (check myvisajobs) | Nov 17 15:37 ET |
+| 51 | Abbott | Analyst, Global Pricing & Commercial Analytics | 48 | 14 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 52 | PAR Tech | Data Analyst | 48 | none found (check myvisajobs) | Nov 17 17:46 ET |
+| 53 | Shirley Ryan AbilityLab | Research Assistant - tiHUB | 47 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 54 | Lowe's | Data Scientist | 47 | 65 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 55 | University of Chicago | Research Professional | 47 | cap-exempt employer | Nov 17 (board gives the date only) |
+| 56 | Kemin | Job Title Research Associate | 45 | 2 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 57 | Pfizer | Associate, AI Engineering | 45 | 30 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 58 | Highmark Health | Data Engineer | 45 | 11 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 59 | WVUMedicine | Research Associate | 45 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 60 | Atoms | AI Researcher - New Grad (BS/MS) | 45 | none found (check myvisajobs) | Nov 17 15:08 ET |
+| 61 | IQVIA | Research Assistant | 45 | 95 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 62 | Nationwide Children's Hospital | Research Associate - RI Cardiovascular | 45 | 3 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 63 | IQVIA | Research Assistant | 45 | 95 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 64 | CuspAI | Applied AI/ML Research Engineer (Generative Models) | 44 | none found (check myvisajobs) | Nov 17 10:35 ET |
+| 65 | Humana | Data Engineer | 44 | 72 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 66 | Gladstone Institutes | Research Associate I- Palop Lab | 44 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 67 | Toast | Data Engineer | 43 | 5 in data/analytics/finance occupations | Nov 17 15:59 ET |
+| 68 | Cencora | Contract Administration & Data Analytics Analyst | 42 | 1 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 69 | University of Louisville | Temporary Research Assistant (Part Time) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 70 | Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab) | 40 | cap-exempt employer | Nov 16 (board gives the date only) |
+| 71 | ING | Data Analyst | 40 | none found (check myvisajobs) | Nov 16 (board gives the date only) |
+| 72 | Truist Bank | Institutional Investment Analyst I | 40 | 99 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 73 | UTHealth Houston | Patient Services Representative (Entry Level - PreDoc Dental Clinic) | 40 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 74 | Southern Company | Regulatory Strategy and Analytics Analyst | 40 | 7 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 75 | Benchling | Data Engineer | 40 | 1 in data/analytics/finance occupations | Nov 17 20:41 ET |
+| 76 | Equifax | Senior Financial BI & Big Data Quality Analyst (SQL) | 77 | 34 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 77 | The Home Depot | Sr. Data Analyst Labor | 75 | 27 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 78 | Hasbro | Senior Analyst, People Analytics (Temporary Assignment) | 72 | 2 in data/analytics/finance occupations | Nov 17 15:36 ET |
+| 79 | JP Morgan Chase | Senior Associate- Applied AI/ML | 71 | 1098 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 80 | Truist Bank | Data Scientist II (Compliance Testing) | 70 | 99 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 81 | U.S. Bank | Senior Quantitative Model Analyst - Counterparty Credit Risk Modeling | 70 | 82 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 82 | Cigna Group | Data Science Senior Advisor - EviCore - Remote | 69 | 40 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 83 | Target | Sr Applied Data Scientist - Personalization (applied ML, PyTorch, ML Ops) | 68 | 51 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 84 | AbbVie | Sr Scientist, Quantitative Bioimaging | 67 | 96 in data/analytics/finance occupations | Nov 17 15:48 ET |
+| 85 | Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design | 65 | 10 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 86 | Capital One | Senior Data Analyst - US Card | 64 | 458 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 87 | AbbVie | Associate Data Engineer II | 59 | 96 in data/analytics/finance occupations | Nov 17 21:44 ET |
+| 88 | Natera | Research Associate 2 | 57 | 28 in data/analytics/finance occupations | Nov 16 18:51 ET |
+| 89 | GE Healthcare | Senior AI Engineer | 57 | 4 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 90 | Varian | Senior Research Scientist, Optimization Algorithms | 57 | 12 in data/analytics/finance occupations | Nov 16 (board gives the date only) |
+| 91 | Humana | Senior Analytics Solutions Engineer | 56 | 72 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 92 | Johnson & Johnson | Senior Data Analyst, CX Insights | 56 | 11 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 93 | Kensho | Machine Learning Engineer II | 55 | 2 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 94 | S&P Global | Machine Learning Engineer II | 55 | 5 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 95 | JP Morgan Chase | Digital Channels Quant Analytics, Senior Associate | 55 | 1098 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 96 | JP Morgan Chase | Applied AI/ML Senior Associate - Predictive Science | 55 | 1098 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 97 | Natera | Sr Research Associate | 55 | 28 in data/analytics/finance occupations | Nov 17 21:36 ET |
+| 98 | Paypal Inc. | Sr Machine Learning Engineer | 55 | 188 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
 
 ---
 
@@ -428,7 +435,22 @@ On-site in San Francisco, California. The role works in person six days per week
 
 ---
 
-## 17. [MAYBE] SouthState Bank | Compensation Analytics & Technology Coordinator
+## 17. [MAYBE] Mayo Clinic | Research Fellow - Adrenal and Endocrine Research
+- Link: https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/395689
+- Location: Rochester, MN, United States US
+- Posted: Nov 18 (board gives the date only)
+- Scanner fit: ~65 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 26 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: excel, llm, statistic, data quality, git, portfolio, publication, research | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We are seeking a highly motivated Research Fellow to join our multidisciplinary clinical research program focused on adrenal and endocrine disorders. This is a full-time, 1–2-year fellowship intended for a physician pursuing a career in academic medicine and clinical investigation who wishes to develop expertise in prospective patient-oriented research and clinical trials. The Research Fellow will work closely with faculty investigators, research coordinators, biostatisticians, and multidisciplinary clinical and research teams and will participate in multiple ongoing prospective studies and clinical trials. The position provides hands-on experience across the clinical research continuum, including participant identification and recruitment, study conduct, data collection and interpretation, statistical collaboration, and dissemination of research findings. A major focus of the fellowship will be the development of the fellow as an independent clinical investigator through structured mentorship, an individualized development plan, and progressive responsibility for research projects. Responsibilities Screening and identifying potential research participants according to study eligibility criteria. Recruiting and interacting with participants throughout prospective studies and clinical trials. Participating in the informed consent and enrollment process and supporting study visits and longitudinal participant follow-up in accordance with study protocols. Working closely with investigators, research coordinators, and other study personnel to facilitate high-quality and timely study conduct. Reviewing clinical and research data and contributing to data quality, analysis, and interpretation. Collaborating with biostatisticians on study design, development of analytic approaches, interpretation of statistical analyses, and presentation of study results. Developing an understanding of study protocols, Good Clinical Practice principles, human-subjects protections, and institutional and regulatory requirements governing prospective research and clinical trials. Assisting with study documentation and regulatory activities as appropriate to the role. Participating in multidisciplinary research meetings and collaborating with clinical investigators, research staff, biostatisticians, and other collaborators. Contributing to study design, development of research questions, and interpretation of study findings. Preparing abstracts, scientific presentations, and manuscripts and contributing to publication of research findings in peer-reviewed journals. The successful candidate will be expected to demonstrate : Excellent interpersonal and communication skills, including the ability to communicate effectively and professionally with research participants, investigators, research staff, and multidisciplinary collaborators. Strong written and oral communication skills. Excellent organizational and time-management skills, with the ability to manage multiple concurrent studies, responsibilities, and deadlines. Strong attention to detail and commitment to accurate, high-quality research conduct and documentation. Ability to prioritize responsibilities, work independently, and follow through reliably on assigned tasks and study-related commitments. Initiative, intellectual curiosity, professionalism, and a strong interest in developing as a clinical investigator. Ability to work effectively and collaboratively within a multidisciplinary research environment. Flexibility and adaptability in responding to participant needs and evolving study priorities. Position Expectation and Schedule This is a full-time position. Typical work hours are generally 8:00 a.m. to 5:00 p.m., Monday through Friday. Because this position involves prospective, participant-centered clinical research, occasional responsibilities outside of standard working hours, including early mornings, evenings, or weekends, may be necessary to accommodate participant availability, protocol-specific study procedures, or other study-related needs. Flexibility and responsiveness to the needs of research participants and active study protocols are therefore important components of the position. Mentorship and Individualized Career Development Structured mentorship and academic development are central components of the fellowship. At the beginning of the fellowship, the Research Fellow and faculty mentor will establish an individualized development plan based on the fellow's prior experience, research interests, career goals, and areas for growth. The development plan will include defined goals and milestones for research skills, study responsibilities, scholarly productivity, presentations, publications, and professional development. Progress toward these milestones will be reviewed throughout the fellowship and the development plan will be updated as appropriate. The fellow will participate in dedicated mentorship meetings at least monthly to review progress, discuss active research projects, address challenges, establish upcoming priorities and milestones, and support the fellow's broader academic and career development. More frequent project-specific meetings will occur as needed. Individualized mentorship will include: Design and conduct of prospective clinical studies and clinical trials. Development of research questions and study protocols. Clinical research methodology and principles of rigorous patient-oriented investigation. Collaboration with biostatisticians, including development of analysis plans and interpretation of statistical results. Critical evaluation and interpretation of clinical research data. Scientific writing and manuscript preparation. Abstract development and submission. Preparation and delivery of oral and poster presentations at scientific meetings. Publication of research findings in peer-reviewed journals. Development of an academic portfolio and longer-term career goals in clinical investigation and academic medicine. The fellow will be expected to take increasing intellectual ownership and responsibility for research projects over the course of the fellowship, progressing from participation in study conduct to development of research questions, analysis and interpretation of findings, and dissemination through presentations and peer-reviewed publications. Opportunities for authorship and presentation at regional, national, and international scientific meetings will be based on the fellow's contributions to individual projects. Fellowship Environment The fellow will join a collaborative clinical research environment with access to prospective studies and clinical trials involving patients with adrenal and related endocrine disorders. The position offers substantial direct exposure to patient-oriented research and opportunities to work with multidisciplinary investigators, research coordinators, biostatisticians, and other collaborators. By completion of the 1–2-year fellowship, the goal is for the fel [...]
+
+---
+
+## 18. [MAYBE] SouthState Bank | Compensation Analytics & Technology Coordinator
 - Link: https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Compensation-Analytics---Technology-Coordinator_R-06321
 - Location: Remote Opportunity - VA, NC, SC, GA, FL, AL, TX, & CO
 - Posted: Nov 17 (board gives the date only)
@@ -443,7 +465,7 @@ The SouthState story is one of steady growth, deep community roots, and an unwav
 
 ---
 
-## 18. [MAYBE] AllianceBernstein | Derivative Valuation Analyst
+## 19. [MAYBE] AllianceBernstein | Derivative Valuation Analyst
 - Link: https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Derivative-Valuation-Analyst_R0019733-2
 - Location: Nashville, Tennessee
 - Posted: Nov 17 (board gives the date only)
@@ -458,7 +480,7 @@ Who You’ll Work With: AllianceBernstein is looking for a proactive, detail-ori
 
 ---
 
-## 19. [MAYBE] Centific | AI Research Engineer: Vision AI / VLM / Physical AI
+## 20. [MAYBE] Centific | AI Research Engineer: Vision AI / VLM / Physical AI
 - Link: https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Engineer--Vision-AI---VLM---Physical-AI_JR107045
 - Location: Remote Work( USA)
 - Posted: Nov 17 (board gives the date only)
@@ -473,7 +495,134 @@ About Centific Centific is a frontier AI data foundry that curates diverse, high
 
 ---
 
-## 20. [MAYBE] Faculty AI | Data Scientist 
+## 21. [MAYBE] 42dot | LLM Engineer (Data Generation)
+- Link: https://jobs.ashbyhq.com/42dot/0e5078ea-5516-4f3e-b2ec-751cbd607017
+- Location: Pangyo (Software Dream Center), South Korea South Korea remote
+- Posted: Nov 17 19:34 ET
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: llm, machine learning, nlp, python, spark, data quality, llm evaluation, pipeline, research, validation | Lacks: airflow  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+ABOUT THE TEAM & MISSION
+
+
+
+LLM Engineer (Data Generation)는 Data-Centric AI 관점에서 모델 성능 향상에 필요한 학습 데이터를 설계·생성·평가·개선하는 역할을 수행합니다. 
+
+모델의 성능 병목과 Failure case를 분석하여 데이터 요구사항을 정의하고, Instruction Data, Preference Data, Reasoning Data, Domain-specific Data 등 목적에 맞는 학습 데이터를 구축하며, Data Generation Pipeline, 학습 결과 기반 Data Evaluation, Data Curation을 통해 대규모 학습 데이터의 품질을 체계적으로 개선하고, 차세대 Generative AI 모델의 성능 향상에 기여합니다.
+
+
+
+
+
+
+
+RESPONSIBILITIES
+
+ - 모델 성능 개선을 위한 데이터 설계 및 생성
+   
+   - Research 및 Model Training 팀과 협업하여 모델의 성능 병목, Failure Case, 학습 목표를 분석하고 데이터 요구사항을 정의합니다.
+   
+   - Instruction Data, Preference Data, Reasoning Data, Domain-specific Data 등 목적에 맞는 학습 데이터를 설계·생성·정제합니다.
+   
+   - 생성된 데이터가 모델 성능에 미치는 영향을 실험적으로 분석하고, 결과를 바탕으로 데이터 생성 전략을 반복적으로 개선합니다.
+
+ - Data Generation Pipeline 구축
+   
+   - Synthetic Data를 포함한 학습 데이터 생성 자동화 파이프라인을 설계하고 운영합니다.
+   
+   - 대규모 데이터 생성 Workflow를 구축하여 안정적이고 효율적인 데이터 생산 환경을 제공합니다.
+   
+   - 생성 비용, 처리 속도 및 품질을 고려한 Pipeline을 지속적으로 최적화합니다.
+
+ - Data Quality 및 Evaluation
+   
+   - 데이터의 품질과 학습 효과를 정량적·정성적으로 평가하는 기준을 정의합니다.
+   
+   - LLM-as-a-Judge, Rule-based Validation, Human Feedback 등을 활용하여 데이터 품질을 검증합니다.
+   
+   - 데이터 품질 개선을 위한 Iterative Generation 및 Filtering 전략을 개발합니다.
+
+
+
+
+QUALIFICATIONS
+
+ - LLM, Machine Learning 또는 Data Generation 관련 업무 경력 3년 이상
+
+ - 딥러닝, 머신러닝 및 자연어처리에 대한 전반적인 이해
+
+ - 모델 학습 데이터의 구성, 전처리, 품질 평가 및 학습 반영 과정에 대한 이해
+
+ - Python 기반 데이터 처리 및 자동화 개발 역량
+
+ - 대규모 학습 데이터셋의 처리, 정제, 필터링 및 품질 관리 경험 또는 이에 준하는 역량
+
+ - LLM을 활용한 Synthetic Data 생성, Data Evaluation 또는 Data Curation 경험
+
+ - LLM API 및 Prompting/Generation Strategy에 대한 이해 또는 활용 경험
+
+ - 뛰어난 문제 해결 능력과 협업 및 커뮤니케이션 역량
+
+
+
+
+PREFERRED QUALIFICATIONS
+
+ - LLM Pre-training, Supervised Fine-tuning(SFT), Preference Optimization(DPO/RLHF/RLAIF) 등 LLM 대규모 학습 데이터 구축 경험
+
+ - LLM Evaluation Framework(OpenAI Evals, LM Evaluation Harness, DeepEval 등) 또는 자체 평가 시스템 구축 경험
+
+ - 멀티턴 대화, Tool Calling, Agent, Reasoning, Code Generation 등 고난도 LLM 데이터 설계 경험
+
+ - Python 기반 데이터 파이프라인(Airflow, Ray, Spark 등) 또는 대규모 데이터 처리 환경 구축 경험
+
+ - Generative AI, LLM, NLP 관련 오픈소스 프로젝트 기여 또는 논문·기술 발표 경험
+
+
+
+
+INTERVIEW PROCESS
+
+ - 서류 전형
+
+ - 코딩·과제 테스트 
+
+ - 1차 면접 (화상, 1시간 내외)
+
+ - 2차 면접 (대면 혹은 화상, 3시간 내외) 
+
+ - 처우 협의·입사
+
+
+
+
+ADDITIONAL INFORMATION
+
+ - 전형 절차는 일정 및 진행 상황에 따라 일부 변경될 수 있으며, 각 전형 결과는 등록하신 이메일로 개별 안내드립니다.
+
+ - 지원서 제출 시 주민등록번호, 가족관계, 혼인 여부, 연봉, 사진, 신체조건, 출신 지역 등 채용절차법상 요구 금지된 정보는 제외 부탁드립니다.
+
+ - 지원서 접수 중 오류가 발생하거나 기타 문의 사항이 있을 경우, recruit@42dot.ai로 문의해 주시기 바랍니다.
+
+ - 국가보훈대상자 및 취업보호 대상자는 관계법령에 따라 우대합니다.
+
+ - 장애인 고용 촉진 및 직업재활법에 따라 장애인 등록증 소지자를 우대합니다.
+
+ - 42dot은 의뢰하지 않은 서치펌의 이력서를 받지 않으며, 요청하지 않은 이력서에 대해 수수료를 지불하지 않습니다.
+
+ - 지원서 내용 중 허위 사실이 발견될 경우, 입사가 취소될 수 있습니다.
+
+ - 인터뷰 프로세스 종료 후 지원자의 동의하에 평판조회가 진행될 수 있습니다.
+
+ - 3개월의 수습기간이 적용될 수 있습니다.
+
+---
+
+## 22. [MAYBE] Faculty AI | Data Scientist 
 - Link: https://jobs.ashbyhq.com/faculty/0b6ad03f-8633-47ef-9dec-a8eb3cebf9b2
 - Location: London United Kingdom remote
 - Posted: Nov 17 14:55 ET
@@ -605,7 +754,7 @@ A note on AI: we're happy for you to use it for research and interview prep, but
 
 ---
 
-## 21. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
+## 23. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
 - Link: https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Forward-Deployed-AI-Engineer_R-1103685-1
 - Location: 5 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -620,7 +769,7 @@ When you join Verizon You want more out of a career. A place to share your ideas
 
 ---
 
-## 22. [MAYBE] CNA Insurance | Business Intelligence Developer
+## 24. [MAYBE] CNA Insurance | Business Intelligence Developer
 - Link: https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Scottsdale-AZ-USA/Business-Intelligence-Developer_R-7872
 - Location: 2 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -635,7 +784,7 @@ You have a clear vision of where your career can go. And we have the leadership 
 
 ---
 
-## 23. [MAYBE] Deutsche Bank | Structured Finance Investment Analyst (RMBS & CMBS)
+## 25. [MAYBE] Deutsche Bank | Structured Finance Investment Analyst (RMBS & CMBS)
 - Link: https://db.wd3.myworkdayjobs.com/DBWebsite/job/New-York-875-Third-Avenue/Structured-Finance-Analyst---RMBS---CMBS_R0445205-1
 - Location: New York, 875 Third Avenue
 - Posted: Nov 16 (board gives the date only)
@@ -650,7 +799,7 @@ Job Description: Employer: Deutsche Asset Management Title: Structured Finance I
 
 ---
 
-## 24. [MAYBE] City of New York | OEI Research Assistant, Bureau of Environmental Disease Prevention
+## 26. [MAYBE] City of New York | OEI Research Assistant, Bureau of Environmental Disease Prevention
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016898596
 - Location: New York City NY us
 - Posted: Nov 17 06:13 ET
@@ -665,7 +814,7 @@ The mission of the Bureau of Environmental Disease Prevention is to prevent envi
 
 ---
 
-## 25. [MAYBE] Anglian Water | Data Engineer
+## 27. [MAYBE] Anglian Water | Data Engineer
 - Link: https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Lincoln/Data-Engineer_R41065
 - Location: 2 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -680,7 +829,7 @@ Salary starting from £46k, salary dependant on skills and experience Permanent 
 
 ---
 
-## 26. [MAYBE] Manulife Financial | Associate Data Scientist
+## 28. [MAYBE] Manulife Financial | Associate Data Scientist
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Chengdu-Sichuan/Associate-Data-Scientist_JR26110217
 - Location: Chengdu, Sichuan
 - Posted: Nov 16 (board gives the date only)
@@ -695,7 +844,7 @@ Responsibilities: • Actively participates on cross-functional project teams de
 
 ---
 
-## 27. [MAYBE] Dell Technologies | Inside Product Specialist - Early Career
+## 29. [MAYBE] Dell Technologies | Inside Product Specialist - Early Career
 - Link: https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302716
 - Location: Round Rock, TX, United States US
 - Posted: Nov 17 (board gives the date only)
@@ -710,7 +859,7 @@ Position Overview We are seeking an enthusiastic and tech-savvy recent college g
 
 ---
 
-## 28. [MAYBE] Legal & General | Associate, Investment Analytics, L&G - Asset Management, America
+## 30. [MAYBE] Legal & General | Associate, Investment Analytics, L&G - Asset Management, America
 - Link: https://jobs.smartrecruiters.com/LegalAndGeneral/744000161933889
 - Location: Chicago IL us
 - Posted: Nov 16 18:23 ET
@@ -725,7 +874,7 @@ The LGIMA Investment Analytics team is responsible for providing market-leading 
 
 ---
 
-## 29. [MAYBE] Texas A&M University - College Station | Research Assistant
+## 31. [MAYBE] Texas A&M University - College Station | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098073-1
 - Location: College Station, TX
 - Posted: Nov 16 (board gives the date only)
@@ -740,7 +889,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 30. [MAYBE] Texas A&M University System | Research Assistant
+## 32. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098073
 - Location: College Station, TX
 - Posted: Nov 16 (board gives the date only)
@@ -755,7 +904,7 @@ Job Title Research Assistant Agency Texas A&M University Department Psychology P
 
 ---
 
-## 31. [MAYBE] Boston Medical Center | Post Doc Research Fellow, Ophthalmology
+## 33. [MAYBE] Boston Medical Center | Post Doc Research Fellow, Ophthalmology
 - Link: https://bmc.wd1.myworkdayjobs.com/BMC/job/Boston/Post-Doc-Research-Fellow--Ophthalmology_51389
 - Location: Boston
 - Posted: Nov 16 (board gives the date only)
@@ -770,7 +919,7 @@ Position : Post Doc Research Fellow Department : Ophthalmology Location: Boston,
 
 ---
 
-## 32. [MAYBE] SentiLink | Strategy & Analytics Associate
+## 34. [MAYBE] SentiLink | Strategy & Analytics Associate
 - Link: https://jobs.ashbyhq.com/sentilink/941419a2-277e-40da-bb94-40cd973107cd
 - Location: United States United States remote
 - Posted: Nov 17 10:32 ET
@@ -873,7 +1022,7 @@ CORPORATE VALUES:
 
 ---
 
-## 33. [MAYBE] IBC Bank | Fraud Data Analyst
+## 35. [MAYBE] IBC Bank | Fraud Data Analyst
 - Link: https://ibc.wd5.myworkdayjobs.com/ibc_careers/job/San-Antonio-TX/Fraud-Data-Analyst_R16374
 - Location: San Antonio, TX
 - Posted: Nov 17 (board gives the date only)
@@ -888,7 +1037,7 @@ IBC Bank successes are the result of an aggressive and innovative attitude. The 
 
 ---
 
-## 34. [MAYBE] UTHealth Houston | Research Scientist
+## 36. [MAYBE] UTHealth Houston | Research Scientist
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8485
 - Location: San Antonio, TX, United States US
 - Posted: Nov 17 (board gives the date only)
@@ -903,7 +1052,7 @@ The Greehey Children’s Cancer Research Institute (GCCRI) at the University of 
 
 ---
 
-## 35. [MAYBE] TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety
+## 37. [MAYBE] TikTok | Applied Research Scientist (Vision Language Models/LLM) - TikTok Trust and Safety
 - Link: https://lifeattiktok.com/search/7574962733457443125
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -937,7 +1086,7 @@ Preferred Qualifications
 
 ---
 
-## 36. [MAYBE] TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start
+## 38. [MAYBE] TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start
 - Link: https://lifeattiktok.com/search/7668663594419374341
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -974,7 +1123,7 @@ By submitting an application for this role, you accept and agree to our global a
 
 ---
 
-## 37. [MAYBE] Atoms | AI Researcher - New Grad (PhD)
+## 39. [MAYBE] Atoms | AI Researcher - New Grad (PhD)
 - Link: https://job-boards.greenhouse.io/cssmerge/jobs/8948819002
 - Location: San Francisco, CA
 - Posted: Nov 17 15:00 ET
@@ -989,7 +1138,7 @@ Who we are Atoms is building the machines that power the next era of progress. O
 
 ---
 
-## 38. [MAYBE] Avnet | Business Intelligence Analyst
+## 40. [MAYBE] Avnet | Business Intelligence Analyst
 - Link: https://avnet.wd1.myworkdayjobs.com/external/job/Lexington-Kentucky-United-States-Of-America/Business-Intelligence-Analyst_JR-024939-1
 - Location: Lexington, Kentucky, United States Of America
 - Posted: Nov 17 (board gives the date only)
@@ -1004,7 +1153,7 @@ Who We Are: At Avnet, relationships matter. We are a global, FORTUNE ® 500 tech
 
 ---
 
-## 39. [MAYBE] Google | Research Scientist, Error Correction Experiments, Quantum AI
+## 41. [MAYBE] Google | Research Scientist, Error Correction Experiments, Quantum AI
 - Link: https://www.google.com/about/careers/applications/jobs/results/141343429106770630
 - Location: Goleta, CA, USA
 - Posted: Nov 17 03:09 ET
@@ -1019,7 +1168,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 40. [MAYBE] Pernod Ricard créateurs de convivialité | Master Data Analyst
+## 42. [MAYBE] Pernod Ricard créateurs de convivialité | Master Data Analyst
 - Link: https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Dumbarton/Master-Data-Analyst_JR-055616-1
 - Location: Dumbarton
 - Posted: Nov 16 (board gives the date only)
@@ -1034,7 +1183,7 @@ Master Data Analyst Your Manager: Master Data Lead Team: Planning, Supply Chain 
 
 ---
 
-## 41. [MAYBE] Texas A&M AgriLife Research | Research Associate
+## 43. [MAYBE] Texas A&M AgriLife Research | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/Dallas-TX/Research-Associate_R-098870-1
 - Location: Dallas, TX
 - Posted: Nov 16 (board gives the date only)
@@ -1049,7 +1198,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Dalla
 
 ---
 
-## 42. [MAYBE] Texas A&M University System | Research Associate
+## 44. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Dallas-TX/Research-Associate_R-098870
 - Location: Dallas, TX
 - Posted: Nov 16 (board gives the date only)
@@ -1064,7 +1213,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Dalla
 
 ---
 
-## 43. [MAYBE] PennState University | Research Assistant - Cattadori Lab
+## 45. [MAYBE] PennState University | Research Assistant - Cattadori Lab
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant---Cattadori-Lab_REQ_0000084354-2
 - Location: Penn State University Park
 - Posted: Nov 16 (board gives the date only)
@@ -1079,7 +1228,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 44. [MAYBE] Loyola Marymount University | Research Scientist
+## 46. [MAYBE] Loyola Marymount University | Research Scientist
 - Link: https://lmu.wd1.myworkdayjobs.com/careers/job/Westchester-Campus/Research-Scientist_R16919
 - Location: Westchester Campus
 - Posted: Nov 17 (board gives the date only)
@@ -1094,7 +1243,7 @@ This position plays an integral role in advancing the research mission of HeadsU
 
 ---
 
-## 45. [MAYBE] Atoms | Cloud Platform - ML Robotics Infra Engineer
+## 47. [MAYBE] Atoms | Cloud Platform - ML Robotics Infra Engineer
 - Link: https://job-boards.greenhouse.io/cssmerge/jobs/8948543002
 - Location: Pittsburgh, PA
 - Posted: Nov 17 13:11 ET
@@ -1109,7 +1258,7 @@ Who we are &nbsp; Lab37 Robotics , is a technology company focused on the develo
 
 ---
 
-## 46. [MAYBE] JP Morgan Chase | Migration Data Analytics Associate
+## 48. [MAYBE] JP Morgan Chase | Migration Data Analytics Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807979
 - Location: Chicago, IL, United States US Tampa, FL, United States Plano, TX, United States
 - Posted: Nov 17 (board gives the date only)
@@ -1124,7 +1273,7 @@ Help teams make high-stakes migration decisions with clear, reliable analytics. 
 
 ---
 
-## 47. [MAYBE] Evolent | Full Stack AI Engineer (AI Service Engines & Integration)
+## 49. [MAYBE] Evolent | Full Stack AI Engineer (AI Service Engines & Integration)
 - Link: https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Full-Stack-AI-Engineer--AI-Service-Engines---Integration-_JR-916835
 - Location: Work at Home
 - Posted: Nov 17 (board gives the date only)
@@ -1139,7 +1288,7 @@ Your Future Evolves Here Evolent partners with health plans and providers to ach
 
 ---
 
-## 48. [MAYBE] Retell AI | Applied AI Engineer (Customer Facing), Spanish speaking
+## 50. [MAYBE] Retell AI | Applied AI Engineer (Customer Facing), Spanish speaking
 - Link: https://jobs.ashbyhq.com/retell-ai/1b10f02d-d474-4a67-85f4-8697a39a4e38
 - Location: San Francisco Bay Area United States
 - Posted: Nov 17 15:37 ET
@@ -1326,7 +1475,7 @@ Our compensation ranges reflect different scopes of responsibility and cash/equi
 
 ---
 
-## 49. [MAYBE] Abbott | Analyst, Global Pricing & Commercial Analytics
+## 51. [MAYBE] Abbott | Analyst, Global Pricing & Commercial Analytics
 - Link: https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Analyst--Global-Pricing---Commercial-Analytics_31164410-1
 - Location: United States - Illinois - Lake Forest
 - Posted: Nov 17 (board gives the date only)
@@ -1341,7 +1490,7 @@ Abbott is a global healthcare leader that helps people live more fully at all st
 
 ---
 
-## 50. [MAYBE] PAR Tech | Data Analyst
+## 52. [MAYBE] PAR Tech | Data Analyst
 - Link: https://jobs.ashbyhq.com/PAR%20Technology/4c0ba297-a1fb-4584-bbaa-19f18681f5a0
 - Location: Remote Canada Canada remote
 - Posted: Nov 17 17:46 ET
@@ -1462,7 +1611,7 @@ PAR is proud to provide equal employment opportunities (
 
 ---
 
-## 51. [MAYBE] Shirley Ryan AbilityLab | Research Assistant - tiHUB
+## 53. [MAYBE] Shirley Ryan AbilityLab | Research Assistant - tiHUB
 - Link: https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Research-Assistant---tiHUB_JR-1065777
 - Location: Chicago, IL
 - Posted: Nov 17 (board gives the date only)
@@ -1477,7 +1626,7 @@ Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilita
 
 ---
 
-## 52. [MAYBE] Lowe's | Data Scientist
+## 54. [MAYBE] Lowe's | Data Scientist
 - Link: https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Data-Scientist_JR-02706475
 - Location: Lowe's Charlotte Technology Hub 3505
 - Posted: Nov 17 (board gives the date only)
@@ -1492,7 +1641,7 @@ Innovate in Charlotte Thank you for dedicating your time and talent to Lowe’s.
 
 ---
 
-## 53. [MAYBE] University of Chicago | Research Professional
+## 55. [MAYBE] University of Chicago | Research Professional
 - Link: https://uchicago.wd5.myworkdayjobs.com/External/job/Lemont-IL/Research-Professional_JR35820
 - Location: Lemont, IL
 - Posted: Nov 17 (board gives the date only)
@@ -1507,7 +1656,7 @@ Department PME ChemMatCARS About the Department NSF’s ChemMatCARS, affiliated 
 
 ---
 
-## 54. [MAYBE] Kemin | Job Title Research Associate
+## 56. [MAYBE] Kemin | Job Title Research Associate
 - Link: https://careers-kemin.icims.com/jobs/12604/research-associate/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1522,7 +1671,7 @@ Research Associate in Parma | Careers at EMENA Region Please Enable Cookies to C
 
 ---
 
-## 55. [MAYBE] Pfizer | Associate, AI Engineering
+## 57. [MAYBE] Pfizer | Associate, AI Engineering
 - Link: https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-Kingdom---Walton-Oaks/Associate--AI-Engineering_4966818-2
 - Location: 2 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -1537,7 +1686,7 @@ This is an early-career engineering job where your work ends up in front of the 
 
 ---
 
-## 56. [MAYBE] Highmark Health | Data Engineer
+## 58. [MAYBE] Highmark Health | Data Engineer
 - Link: https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Data-Engineer_J291550
 - Location: 51 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -1552,7 +1701,7 @@ Company : Highmark Inc. Job Description : JOB SUMMARY This role is an integral m
 
 ---
 
-## 57. [MAYBE] WVUMedicine | Research Associate
+## 59. [MAYBE] WVUMedicine | Research Associate
 - Link: https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Health-Sciences-Center/Research-Associate_JR26-42177
 - Location: Health Sciences Center
 - Posted: Nov 17 (board gives the date only)
@@ -1567,7 +1716,7 @@ Welcome! We’re excited you’re considering an opportunity with us! To apply t
 
 ---
 
-## 58. [MAYBE] Atoms | AI Researcher - New Grad (BS/MS)
+## 60. [MAYBE] Atoms | AI Researcher - New Grad (BS/MS)
 - Link: https://job-boards.greenhouse.io/cssmerge/jobs/8948844002
 - Location: San Francisco, CA
 - Posted: Nov 17 15:08 ET
@@ -1582,7 +1731,7 @@ Who we are Atoms is building the machines that power the next era of progress. O
 
 ---
 
-## 59. [MAYBE] IQVIA | Research Assistant
+## 61. [MAYBE] IQVIA | Research Assistant
 - Link: https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Tempe-AZ-United-States-of-America/Research-Assistant_R1576942
 - Location: Tempe, AZ, United States of America
 - Posted: Nov 17 (board gives the date only)
@@ -1597,7 +1746,7 @@ This is an on-site position in Tempe, AZ. Job Overview This individual will play
 
 ---
 
-## 60. [MAYBE] Nationwide Children's Hospital | Research Associate - RI Cardiovascular
+## 62. [MAYBE] Nationwide Children's Hospital | Research Associate - RI Cardiovascular
 - Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Associate---RI-Cardiovascular_R-28957-1
 - Location: Main Campus, Columbus, OH
 - Posted: Nov 17 (board gives the date only)
@@ -1612,7 +1761,22 @@ Overview: Job Description Summary: Conducts independent research within a genera
 
 ---
 
-## 61. [MAYBE] CuspAI | Applied AI/ML Research Engineer (Generative Models)
+## 63. [MAYBE] IQVIA | Research Assistant
+- Link: https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Phoenix-AZ-United-States-of-America/Research-Assistant_R1576941
+- Location: Phoenix, AZ, United States of America
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 95 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: llm, fraud, healthcare, research | Lacks: -
+- Eligibility: CHECK | Comply with company and Sponsor policies, standard operating procedures (SOPs) and guidelines
+
+### Job description
+
+This is an on-site position in Phoenix, AZ. Job Overview This individual will play a key role in assisting in the conduct of clinical trial activities, in accordance with all applicable regulations governing the conduct of clinical trials. The primary skills include logical thinking, ability to prioritize, the ability to adapt quickly to changing business conditions, strong interpersonal and team building skills. Essential Functions • Develop strong working relationships and maintain effective communication with study team members • Develop strong working relationships with the investigators and office staff to build a foundation of trust and respect between the clinic and the research office • Assists with the screening, recruiting and enrollment of research subjects • Perform patient/research participant scheduling • Collect patient/research participant history • Data entry and management • Coordinate follow up care and laboratory procedures • Adhere to an IRB approved protocol • Assist in the informed consent process of research subjects • Support the safety of research subjects • Coordinate protocol related research procedures, study visits, and follow up care • Comply with company and Sponsor policies, standard operating procedures (SOPs) and guidelines • Schedule subject visits and procedures Qualifications • High School Diploma or equivalent Req • Bachelor's Degree Pref IQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com IQVIA is proud to be an
+
+---
+
+## 64. [MAYBE] CuspAI | Applied AI/ML Research Engineer (Generative Models)
 - Link: https://jobs.ashbyhq.com/cuspai/ea10b5f7-1672-4294-a9d4-602403e67a89
 - Location: Berlin, DE Germany remote
 - Posted: Nov 17 10:35 ET
@@ -1751,7 +1915,7 @@ CuspAI is an equal opportunities employer committed to building a diverse and in
 
 ---
 
-## 62. [MAYBE] Humana | Data Engineer
+## 65. [MAYBE] Humana | Data Engineer
 - Link: https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Data-Engineer_R-434927
 - Location: 11 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -1766,7 +1930,7 @@ Become a part of our caring community We are looking for a motivated and detail-
 
 ---
 
-## 63. [MAYBE] Gladstone Institutes | Research Associate I- Palop Lab
+## 66. [MAYBE] Gladstone Institutes | Research Associate I- Palop Lab
 - Link: https://gladstone.wd503.myworkdayjobs.com/careers/job/San-Francisco/Research-Associate-I--Palop-Lab_REQ-3971
 - Location: San Francisco
 - Posted: Nov 17 (board gives the date only)
@@ -1781,7 +1945,7 @@ Category: Science Lab/Area: Palop Lab Description: Who we are: At Gladstone Inst
 
 ---
 
-## 64. [MAYBE] Toast | Data Engineer
+## 67. [MAYBE] Toast | Data Engineer
 - Link: https://careers.toasttab.com/jobs?gh_jid=8359240
 - Location: Remote, US
 - Posted: Nov 17 15:59 ET
@@ -1796,7 +1960,7 @@ Toast creates technology to help restaurants and local businesses succeed in a d
 
 ---
 
-## 65. [MAYBE] Cencora | Contract Administration & Data Analytics Analyst
+## 68. [MAYBE] Cencora | Contract Administration & Data Analytics Analyst
 - Link: https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Ohio/Contract-Administration---Data-Analytics-Analyst_R2618060
 - Location: Remote, Ohio
 - Posted: Nov 16 (board gives the date only)
@@ -1811,7 +1975,7 @@ Our team members are at the heart of everything we do. At Cencora, we are united
 
 ---
 
-## 66. [MAYBE] University of Louisville | Temporary Research Assistant (Part Time)
+## 69. [MAYBE] University of Louisville | Temporary Research Assistant (Part Time)
 - Link: https://uofl.wd1.myworkdayjobs.com/UofLCareerSite/job/Belknap-Campus/Temporary-Research-Assistant--Part-Time-_R109732
 - Location: Belknap Campus
 - Posted: Nov 16 (board gives the date only)
@@ -1826,7 +1990,7 @@ Department: Early Childhood Research Center-JM Location: Belknap Campus Time Typ
 
 ---
 
-## 67. [MAYBE] Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab)
+## 70. [MAYBE] Seattle Childrens Hospital | Research Associate I - Bench (Kalia Lab)
 - Link: https://seattlechildrens.wd5.myworkdayjobs.com/External/job/Seattle-WA/Research-Associate-I---Bench--Kalia-Lab-_R264858
 - Location: Seattle, WA
 - Posted: Nov 16 (board gives the date only)
@@ -1841,7 +2005,7 @@ A Research Associate I-Bench position focusing on translational discoveries in T
 
 ---
 
-## 68. [MAYBE] ING | Data Analyst
+## 71. [MAYBE] ING | Data Analyst
 - Link: https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bratislava/Data-Analyst_REQ-10121029-1
 - Location: Bratislava
 - Posted: Nov 16 (board gives the date only)
@@ -1856,7 +2020,7 @@ The opportunity ING Wholesale Banking (WB) has been helping clients across the w
 
 ---
 
-## 69. [MAYBE] Truist Bank | Institutional Investment Analyst I
+## 72. [MAYBE] Truist Bank | Institutional Investment Analyst I
 - Link: https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Analyst-I_R0119462
 - Location: 3 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -1871,7 +2035,7 @@ The position is described below. If you want to apply, click the Apply Now butto
 
 ---
 
-## 70. [MAYBE] UTHealth Houston | Patient Services Representative (Entry Level - PreDoc Dental Clinic)
+## 73. [MAYBE] UTHealth Houston | Patient Services Representative (Entry Level - PreDoc Dental Clinic)
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8519
 - Location: San Antonio, TX, United States US
 - Posted: Nov 17 (board gives the date only)
@@ -1886,7 +2050,7 @@ Under direct supervision, responsible for providing customer service to patients
 
 ---
 
-## 71. [MAYBE] Southern Company | Regulatory Strategy and Analytics Analyst
+## 74. [MAYBE] Southern Company | Regulatory Strategy and Analytics Analyst
 - Link: https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22825
 - Location: Birmingham, AL, United States US
 - Posted: Nov 17 (board gives the date only)
@@ -1901,7 +2065,118 @@ Regulatory Strategy and Analytics Analyst Alabama Power Company - Regulatory Pol
 
 ---
 
-## 72. [MAYBE] Equifax | Senior Financial BI & Big Data Quality Analyst (SQL)
+## 75. [MAYBE] Benchling | Data Engineer
+- Link: https://jobs.ashbyhq.com/benchling/c97e5668-29ee-4810-b7cc-35331ac123f5
+- Location: San Francisco, CA United States remote
+- Posted: Nov 17 20:41 ET
+- Scanner fit: ~40 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, llm, python, sql, tableau, ai agent, data quality, pipeline, portfolio | Lacks: airflow, dbt, looker, salesforce, snowflake
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We are rebuilding biotech for the AI era.
+
+When a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades of R&D work into years. But that only happens when clean, structured scientific data and AI are built into how science gets done.
+
+Benchling is the AI platform for biotech R&D. Scientists use Benchling to design experiments, capture structured data, and run AI agents and models directly in their workflows. Over 200,000 scientists around the world trust Benchling to power their most important work, from academic labs to Sanofi, Moderna, and more than half of the world's top 50 biopharma.
+
+We’re building an AI scientist for our customers. We can’t do that if we haven’t built the muscle ourselves. AI fluency is the foundation we build on; it's core to how we work, and we're committed to helping every new hire integrate it into their day-to-day. As part of our interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about and use AI to drive impact in your role. Feel free to reference any tools, platforms, or workflows you use today.
+
+
+
+
+
+
+ROLE OVERVIEW
+
+Biotechnology is rewriting life as we know it, from the medicines we take, to the crops we grow, the materials we wear, and the household goods that we rely on every day. But moving at the new speed of science requires better technology. Benchling's mission is to unlock the power of biotechnology. The world's most innovative biotech companies use Benchling's R&D Cloud to power the development of breakthrough products and accelerate time to milestone and market. Come help us bring modern software to modern science.
+
+Benchling is building AI & Data Engineering (AIDE), a small, autonomous team within our Security & IT organization. AIDE owns two things: the internal AI capabilities and adoption so Benchlings can rapidly experiment and discover what works; and the source-of-truth data & analytics infrastructure the company depends on. AIDE’s data and analytics functions grew out of our former Data, Analytics & Science  (DAS) team, and this role carries forward DAS's original charter: building and running the data pipelines, warehouse, and analytics infrastructure that the entire company relies on for trustworthy answers.
+
+This is a data engineering role — we want someone who builds and operates reliable, production-grade data pipelines and warehouse infrastructure, not a data scientist focused on modeling or analysis.
+
+This role exists because AIDE's data function supports the whole company — GTM, Customer Success, Product, Finance, and beyond — not just one team, and the team needs to grow to support these initiatives as we expand the team’s scope and portfolio. You'll own core pipelines end to end (ingestion, transformation, warehouse, and the BI/analytics layer on top), partner with the rest of the data team on the team's data architecture, and help build the trusted data foundation that AIDE's AI-adoption and agentic AI work increasingly depends on.
+
+ 
+
+
+RESPONSIBILITIES
+
+ - Own core data pipelines end to end: Build and operate the ELT pipeline that moves data from Benchling's product, Salesforce, and third-party systems into Snowflake, modeled with dbt, and built to production standards — testing, monitoring, schema versioning — that hold up as usage scales. This is infrastructure the rest of the company builds on, not a one-off project.
+
+ - Build the data foundation for AIDE's AI initiatives: Partner with AIDE's AI engineering side to make governed, trustworthy data available for the agentic AI tooling and internal AI applications the team ships.
+
+ - Own data governance and pipeline health: Maintain Snowflake access controls (RBAC), monitor data quality, uphold PII-handling and data-access policy, and manage warehouse cost and performance as usage grows.
+
+ - Contribute to platform strategy: Weigh in on bigger structural decisions — warehouse architecture, semantic layer/metrics store design— alongside the rest of the data and AI engineering team.
+
+ 
+
+
+QUALIFICATIONS
+
+ - 3+ years of professional experience building and operating production data pipelines — ingestion, transformation, and modeling data into a cloud data warehouse.
+
+ - Strong SQL and Python skills; hands on experience with data modeling methodologies and tools, preferable with dbt.
+
+ - Experience applying software engineering practices to data systems — version control, code review, CI/CD, automated testing — and comfort working with cloud infrastructure (AWS or similar) supporting production pipelines.
+
+ - Experience with Snowflake or a comparable modern cloud data warehouse in production.
+
+ - Comfort with orchestration tooling (Airflow or similar) for scheduled data jobs.
+
+ - Track record supporting many stakeholders across departments such as Sales, CS, Product, Finance, rather than a single internal customer.
+
+ - Understanding of data privacy, governance, quality, and testing frameworks and best practices.
+
+ - Strong communication skills; comfortable translating ambiguous requests from non-technical stakeholders into a scoped, buildable data solution.
+
+ - Comfortable in a small, fast-moving, still-forming team — AIDE only stood up in its current form in mid-2026 and is actively defining its own processes.
+
+ - Interest in learning more about life science (prior knowledge is not required).
+
+
+
+NICE TO HAVE
+
+ - Familiarity with product behavioral data and a modern BI tool (Sigma, Omni, Looker, Tableau) deployed in a self-service model.
+
+ - Experience with product/usage analytics instrumentation and event-taxonomy governance.
+
+ - Familiarity with GTM analytics tools such as Salesforce.
+
+ - Exposure to AI-usage telemetry, LLM observability data, or supporting AI/ML tooling with curated data.
+
+ - Background in enterprise SaaS, life sciences, or biotech.
+
+ - Experience building or maintaining a metrics layer.
+
+ 
+
+ 
+
+
+HOW WE WORK
+
+We offer a flexible hybrid work arrangement that prioritizes in-office collaboration. Employees are expected to be on-site 3 days per week (Monday, Tuesday, and Thursday).
+
+
+
+#LI-Hybrid 
+
+#BI-Hybrid
+
+#LI-CG1
+
+Benchling welcomes everyone.
+
+We believe diversity enriches our team so we hire people with a wide range of identities, backgrounds, and experiences.
+
+---
+
+## 76. [MAYBE] Equifax | Senior Financial BI & Big Data Quality Analyst (SQL)
 - Link: https://equifax.wd5.myworkdayjobs.com/external/job/CRI-Sabana/Senior-Financial-Business-Intelligence-Analyst_J00179273-1
 - Location: CRI-Sabana
 - Posted: Nov 17 (board gives the date only)
@@ -1916,7 +2191,7 @@ The Financial Business Intelligence (BI) Data Quality Analyst is responsible for
 
 ---
 
-## 73. [MAYBE] The Home Depot | Sr. Data Analyst Labor
+## 77. [MAYBE] The Home Depot | Sr. Data Analyst Labor
 - Link: https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Data-Analyst-Labor_Req198996
 - Location: STORE SUPPORT CENTER, ATLANTA - 9090
 - Posted: Nov 17 (board gives the date only)
@@ -1931,7 +2206,7 @@ With a career at The Home Depot, you can be yourself and also be part of somethi
 
 ---
 
-## 74. [MAYBE] Hasbro | Senior Analyst, People Analytics (Temporary Assignment)
+## 78. [MAYBE] Hasbro | Senior Analyst, People Analytics (Temporary Assignment)
 - Link: https://job-boards.greenhouse.io/hasbro/jobs/4511241009
 - Location: Boston, Massachusetts, United States
 - Posted: Nov 17 15:36 ET
@@ -1946,7 +2221,7 @@ We&nbsp;take play seriously. We’re looking for curious adventurers ready to fi
 
 ---
 
-## 75. [MAYBE] JP Morgan Chase | Senior Associate- Applied AI/ML
+## 79. [MAYBE] JP Morgan Chase | Senior Associate- Applied AI/ML
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808835
 - Location: Jersey City, NJ, United States US New York, NY, United States
 - Posted: Nov 17 (board gives the date only)
@@ -1961,7 +2236,7 @@ Job Responsibilities Develop advanced agentic AI solutions across NLP, speech an
 
 ---
 
-## 76. [MAYBE] Truist Bank | Data Scientist II (Compliance Testing)
+## 80. [MAYBE] Truist Bank | Data Scientist II (Compliance Testing)
 - Link: https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Data-Scientist-II--Compliance-Testing-_R0121704
 - Location: 4 Locations
 - Posted: Nov 16 (board gives the date only)
@@ -1976,7 +2251,7 @@ The position is described below. If you want to apply, click the Apply Now butto
 
 ---
 
-## 77. [MAYBE] U.S. Bank | Senior Quantitative Model Analyst - Counterparty Credit Risk Modeling
+## 81. [MAYBE] U.S. Bank | Senior Quantitative Model Analyst - Counterparty Credit Risk Modeling
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Senior-Quantitative-Model-Analyst---Counterparty-Credit-Risk-Modeling_2026-0029396
 - Location: 4 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -1991,7 +2266,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 78. [MAYBE] Cigna Group | Data Science Senior Advisor - EviCore - Remote
+## 82. [MAYBE] Cigna Group | Data Science Senior Advisor - EviCore - Remote
 - Link: https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Data-Science-Senior-Advisor---EviCore---Remote_26014039
 - Location: United States Work at Home
 - Posted: Nov 17 (board gives the date only)
@@ -2006,7 +2281,7 @@ We are seeking a Senior Machine Learning Engineer / Applied Research Scientist t
 
 ---
 
-## 79. [MAYBE] Target | Sr Applied Data Scientist - Personalization (applied ML, PyTorch, ML Ops)
+## 83. [MAYBE] Target | Sr Applied Data Scientist - Personalization (applied ML, PyTorch, ML Ops)
 - Link: https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Applied-Data-Scientist---Item-Recommendations--applied-ML--PyTorch--ML-Ops-_R0000441173
 - Location: 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445
 - Posted: Nov 17 (board gives the date only)
@@ -2021,7 +2296,7 @@ The pay range is $98,000.00 - $176,000.00 Pay is based on several factors which 
 
 ---
 
-## 80. [MAYBE] AbbVie | Sr Scientist, Quantitative Bioimaging
+## 84. [MAYBE] AbbVie | Sr Scientist, Quantitative Bioimaging
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990016919816
 - Location: Worcester MA us
 - Posted: Nov 17 15:48 ET
@@ -2036,7 +2311,7 @@ We are seeking a Senior Scientist to advance quantitative bioimaging capabilitie
 
 ---
 
-## 81. [MAYBE] Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design
+## 85. [MAYBE] Moderna | Senior Scientist, Machine Learning and Algorithm Development for RNA Design
 - Link: https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Senior-Scientist--Machine-Learning-and-Algorithm-Development-for-RNA-Design_R20182
 - Location: see posting
 - Posted: Nov 16 (board gives the date only)
@@ -2051,7 +2326,7 @@ The Role Moderna is seeking a computational scientist to develop artificial inte
 
 ---
 
-## 82. [MAYBE] Capital One | Senior Data Analyst - US Card
+## 86. [MAYBE] Capital One | Senior Data Analyst - US Card
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Analyst---US-Card_R245027-1
 - Location: 2 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -2066,7 +2341,22 @@ Senior Data Analyst - US Card At Capital One, data is at the center of everythin
 
 ---
 
-## 83. [MAYBE] Natera | Research Associate 2
+## 87. [MAYBE] AbbVie | Associate Data Engineer II
+- Link: https://jobs.smartrecruiters.com/AbbVie/3743990016926506
+- Location: Mettawa IL us
+- Posted: Nov 17 21:44 ET
+- Scanner fit: ~59 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 96 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: data visualization, etl, machine learning, python, r, sql, pipeline | Lacks: java  | Note: title says Senior/II: asks 0 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The Associate Data Engineer II will build, maintain, and optimize data infrastructure - like databases and data pipelines - that address cross-functional critical business needs. This role is expected to improve existing methods and processes by using various languages to pull and manipulate data, develop and maintain ETL pipelines, implement quality control and monitoring processes to maintain accurate data flows, maintain comprehensive documentation of process designs, test results, and pipeline configurations, etc. This hire is expected to demonstrate proficiency in information technology engineering, including data warehousing. Responsibilities Independently design and develop data solutions to address business challenges. Demonstrate proficiency across a range of technologies related to programming languages, data integration, data warehousing, data visualization and data analysis. Responsible for building, maintaining, and optimizing data infrastructure. Ensure data is collected, processed, and stored efficiently and securely. Integrate different data sources and create the foundations on which analytics and data science can operate. Understand the broad objectives of projects as well as position's role in achieving objectives; modify approach when required. Escalates issues to ensure execution success and keeps stakeholders informed through effective verbal and written communication. Learn, understand and master new methods and technologies, and act as a resource or mentor for others. Produces and maintains required technical documentation associated with work products. Adhere to corporate standards regarding applicable Corporate and Divisional Policies, including code of conduct, safety, GxP compliance, data security, and the software development lifecycle. Required Qualifications Bachelor’s Degree - preferably in Computer Science or Data Science - plus 2 years of experience, Master’s degree with 0 years of experience. Programming skills in Java, Python, R, or SQL. Prior experience with data engineering. Preferred Qualifications Experience interacting with APIs to extract data. Hands-on experience using large language models and machine learning algorithms. Demonstrated experience applying AI/ML in clinical or pharmaceutical contexts. Applicable only to applicants applying to a position in any location with pay disclosure requirements under state or local law: ​ The compensation range described below is the range of possible base pay compensation that the Company believes in good faith it will pay for this role at the time of this posting based on the job grade for this position. Individual compensation paid within this range will depend on many factors including geographic location, and we may ultimately pay more or less than the posted range. This range may be modified in the future. ​ We offer a comprehensive package of benefits including paid time off (vacation, holidays, sick), medical/dental/vision insurance and 401(k) to eligible employees.​ This job is eligible to participate in our short-term incentive programs. ​ Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, incentive, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole and absolute discretion unless and until paid and may be modified at the Company’s sole and absolute discretion, consistent with applicable law. ​ AbbVie
+
+---
+
+## 88. [MAYBE] Natera | Research Associate 2
 - Link: https://job-boards.greenhouse.io/natera/jobs/6250593004
 - Location: Boulder, CO
 - Posted: Nov 16 18:51 ET
@@ -2081,7 +2371,7 @@ LOCATION : On-Site in Boulder, CO (Foresight Dx business unit, a Natera company)
 
 ---
 
-## 84. [MAYBE] GE Healthcare | Senior AI Engineer
+## 89. [MAYBE] GE Healthcare | Senior AI Engineer
 - Link: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Staff-Machine-Learning-Engineer_R4042375-1
 - Location: Haifa HEALTHCARE HA IL 2
 - Posted: Nov 16 (board gives the date only)
@@ -2096,7 +2386,7 @@ Job Description Summary The Senior AI Engineer is a senior technical leader resp
 
 ---
 
-## 85. [MAYBE] Varian | Senior Research Scientist, Optimization Algorithms
+## 90. [MAYBE] Varian | Senior Research Scientist, Optimization Algorithms
 - Link: https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HEL-AA/Senior-Research-Scientist--Optimization-Algorithms_R-31898-1
 - Location: HEL AA
 - Posted: Nov 16 (board gives the date only)
@@ -2111,7 +2401,7 @@ Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sus
 
 ---
 
-## 86. [MAYBE] Humana | Senior Analytics Solutions Engineer
+## 91. [MAYBE] Humana | Senior Analytics Solutions Engineer
 - Link: https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Analytics-Solutions-Engineer_R-433143
 - Location: Remote Nationwide
 - Posted: Nov 17 (board gives the date only)
@@ -2126,7 +2416,7 @@ Become a part of our caring community Are you passionate about solving complex h
 
 ---
 
-## 87. [MAYBE] Johnson & Johnson | Senior Data Analyst, CX Insights
+## 92. [MAYBE] Johnson & Johnson | Senior Data Analyst, CX Insights
 - Link: https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Senior-Data-Analyst--CX-Insights_R-099797
 - Location: Jacksonville, Florida, United States of America
 - Posted: Nov 17 (board gives the date only)
@@ -2141,7 +2431,7 @@ At Johnson & Johnson, we believe health is everything. Our strength in healthcar
 
 ---
 
-## 88. [MAYBE] Kensho | Machine Learning Engineer II
+## 93. [MAYBE] Kensho | Machine Learning Engineer II
 - Link: https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer-II_332921-1
 - Location: 2 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -2156,7 +2446,7 @@ Kensho is S&P Global’s hub for AI innovation and transformation. With expertis
 
 ---
 
-## 89. [MAYBE] S&P Global | Machine Learning Engineer II
+## 94. [MAYBE] S&P Global | Machine Learning Engineer II
 - Link: https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer-II_332921-2
 - Location: 2 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -2171,7 +2461,7 @@ Kensho is S&P Global’s hub for AI innovation and transformation. With expertis
 
 ---
 
-## 90. [MAYBE] JP Morgan Chase | Digital Channels Quant Analytics, Senior Associate
+## 95. [MAYBE] JP Morgan Chase | Digital Channels Quant Analytics, Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807334
 - Location: Wilmington, DE, United States US Jersey City, NJ, United States Plano, TX, United States Brooklyn, NY, United States
 - Posted: Nov 17 (board gives the date only)
@@ -2186,7 +2476,7 @@ Job Summary: As a Quant Analytics Senior Associate on the Digital Analytics team
 
 ---
 
-## 91. [MAYBE] JP Morgan Chase | Applied AI/ML Senior Associate - Predictive Science
+## 96. [MAYBE] JP Morgan Chase | Applied AI/ML Senior Associate - Predictive Science
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791826
 - Location: Plano, TX, United States US
 - Posted: Nov 17 (board gives the date only)
@@ -2198,4 +2488,34 @@ Job Summary: As a Quant Analytics Senior Associate on the Digital Analytics team
 ### Job description
 
 As an Applied AI/ML Senior Associate within the Commercial & Investment Bank technology team, you will build and fine-tune language models (including LLMs) that detect and categorize complaints and sentiment across client interactions (calls, chats, emails, surveys). You’ll develop complaint taxonomies and multi-label classifiers, build training/validation/monitoring pipelines, deploy models with MLOps/data engineering partners, and ensure solutions meet privacy, regulatory, and model-risk standards. Job responsibilities • Build and fine-tune ML/NLP models (including LLMs) to detect and categorize complaints and sentiment within client interactions (calls, chats, emails, surveys) and develop taxonomies and multi-label classification systems for complaint types, severity, and root cause • Evaluate, fine-tune, and deploy pre-trained language models; conduct prompt engineering and model evaluation as needed along with build data pipelines for training, validation, and continuous model monitoring • Analyze model outputs to identify drift, bias, or degradation, and implement retraining strategies • Ensure models meet regulatory, privacy, and model-risk governance standards • Collaborate with data engineers and MLOps teams to productionize models at scale • Present findings and model performance metrics to technical and non-technical stakeholders Required qualifications, capabilities, and skills • Bachelor's or Master's degree in Computer Science, Data Science, Machine Learning, or related field and 3+ years of experience building and deploying ML/NLP models in production • Strong Python skills and experience with ML frameworks (PyTorch, TensorFlow, Hugging Face Transformers) with hands-on experience fine-tuning or working with large language models • Experience with text classification, NER, sentiment analysis, or topic modeling • Familiarity with cloud ML platforms (AWS SageMaker, Azure ML, or similar) • Solid understanding of the ML lifecycle: data prep, training, evaluation, deployment, monitoring • Strong communication skills and ability to work cross-functionally Preferred qualifications, capabilities, and skills Familiarity with model risk management and regulatory requirements Experience with vector databases, retrieval-augmented generation (RAG), or LLM fine-tuning techniques (LoRA, PEFT) Knowledge of MLOps tools (MLflow, Kubeflow, Airflow) Exposure to text classification, NER, sentiment analysis, and cloud ML platforms preferred.   JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
+
+---
+
+## 97. [MAYBE] Natera | Sr Research Associate
+- Link: https://job-boards.greenhouse.io/natera/jobs/6260842004
+- Location: San Carlos, CA
+- Posted: Nov 17 21:36 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 28 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, r, statistic, fraud, research | Lacks: -  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+POSITION SUMMARY: The Senior Research Associate performs research and/or development tasks in collaboration with others.&nbsp; Makes detailed observations, analyzes data, and interprets results.&nbsp; Investigates creates and develops new methods and technologies for project advancement.&nbsp; Maintains a high level of professional expertise through familiarity with scientific literature.&nbsp; &nbsp; &nbsp; PRIMARY RESPONSIBILITIES: Design, plan, and perform experiments geared towards the development of non-invasive prenatal tests and cancer detection tests. Autonomously and accurately plan and execute complex laboratory experiments Analyze data using advanced analytical tools Keep a detailed laboratory notebook; write protocols and experimental plans, and document results and scientific interpretations Contribute insight toward experimental findings and troubleshoot laboratory processes and protocols Communicate and discuss results with a multidisciplinary team including biologists, bioinformaticians, statisticians, software engineers, and managers Summarize work in research reports and laboratory meeting presentations Learn and understand the science behind ongoing research projects while simultaneously completing increasingly complex tasks. This role will have occasional access to PHI both in paper and electronic form and have occasional access to various technologies to access PHI (paper and electronic) in order to perform the job. The employee must complete training relating to HIPAA/PHI privacy, General Policies and Procedure Compliance training and security training as soon as possible but not later than the first 30 days of hire. Must maintain a current status on Natera training requirements. &nbsp; QUALIFICATIONS: B.S. degree in molecular biology, related field, or equivalent. Minimum of 3 - 4 years of industry experience in an assay development department. &nbsp; KNOWLEDGE, SKILLS, AND ABILITIES: Extensive hands-on experience with nucleic acid techniques, including DNA manipulation, PCR, qPCR, DNA quantification, and analysis using LabChip and BioAnalyzer. Experience with Next Generation Sequencing (NGS) techniques and protocols. Knowledge and experience in target enrichment, cfDNA/RNA, and NGS data analysis. Automation skill set is a must, including experience with developing or executing assays on automated liquid handling platforms. Exceptional communication, organizational, analytical, and problem-solving skills. Demonstrated success in both collaborative and individual projects. Proficiency in data analysis using Excel or similar software; working knowledge of R or JMP is a plus. Experience with reagent quality control (QC) is a plus. Self-driven and strong team player with proven track record Compensation &amp; Total Rewards&nbsp; This range reflects a good-faith estimate of the base pay we reasonably expect to offer at the time of&nbsp; hire. Final compensation will vary based on experience, qualifications, and skills considerations. This position&nbsp;is also eligible for additional compensation and benefits through&nbsp;Natera’s robust Total Rewards program, including: Comprehensive health benefits (medical, dental, vision) 401(k) with company match Generous paid time off and company holidays Additional wellness and work-life benefits Compensation Range $108,600 &mdash; $135,700 USD OUR OPPORTUNITY Natera™ is a global leader in cell-free DNA (cfDNA) testing, dedicated to oncology, women’s health, and organ health. Our aim is to make personalized genetic testing and diagnostics part of the standard of care to protect health and enable earlier and more targeted interventions that lead to longer, healthier lives. The Natera team consists of highly dedicated statisticians, geneticists, doctors, laboratory scientists, business professionals, software engineers and many other professionals from world-class institutions, who care deeply for our work and each other. When you join Natera, you’ll work hard and grow quickly. Working alongside the elite of the industry, you’ll be stretched and challenged, and take pride in being part of a company that is changing the landscape of genetic disease management. WHAT WE OFFER Competitive Benefits - Employee benefits include comprehensive medical, dental, vision, life and disability plans for eligible employees and their dependents. Additionally, Natera employees and their immediate families receive free testing in addition to fertility care benefits. Other benefits include pregnancy and baby bonding leave, 401k benefits, commuter benefits and much more. We also offer a generous employee referral program! For more information, visit www.natera.com . Natera is proud to be an
+
+---
+
+## 98. [MAYBE] Paypal Inc. | Sr Machine Learning Engineer
+- Link: https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0139028
+- Location: San Jose, California, United States of America
+- Posted: Nov 17 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 188 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, gcp, machine learning, pytorch, scikit, tensorflow, credit, data quality, fraud, healthcare, pipeline, risk | Lacks: azure, scala  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The Company PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. We operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers. We offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such as gift cards, and eligible credit card rewards. Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to each other. We offer merchants an end-to-end payments solution that provides authorization and settlement capabilities, as well as instant access to funds and payouts. We also help merchants connect with their customers, process exchanges and returns, and manage risk. We enable consumers to engage in cross-border shopping and merchants to extend their global reach while reducing the complexity and friction involved in enabling cross-border trade. Our beliefs are the foundation for how we conduct business every day. We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities. Job Summary: This job will design, develop, and implement machine learning models and algorithms to solve complex problems. You will work closely with data scientists, software engineers, and product teams to enhance services through innovative AI/ML solutions. Your role will involve building scalable ML pipelines, ensuring data quality, and deploying models into production environments to drive business insights and improve customer experiences. Job Description: Essential Responsibilities: Develop and optimize machine learning models for various applications. Preprocess and analyze large datasets to extract meaningful insights. Deploy ML solutions into production environments using appropriate tools and frameworks. Collaborate with cross-functional teams to integrate ML models into products and services. Monitor and evaluate the performance of deployed models. Minimum Qualifications: 3+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Experience with ML frameworks like TensorFlow, PyTorch, or scikit-learn. Familiarity with cloud platforms (AWS, Azure, GCP) and tools for data processing and model deployment. Several years of experience in designing, implementing, and deploying machine learning models. Additional Responsibilities & Preferred Qualifications : Subsidiary: PayPal Travel Percent: 0 - The base pay for this role will depend on where you work and the relevant experience and expertise you bring. The expected range of pay for this role by location is:&#xa; Primary Location | Pay Range: San Jose, California: ($159,500.00 - $236,500.00 Annually)&#xa; Additional Location(s) | Pay Range: No other locations are assigned to this requisition currently.&#xa;&#xa;Additional compensation for this role may include an annual performance bonus, equity, or other incentive compensation, as applicable. PayPal does not charge candidates any fees for courses, applications, resume reviews, interviews, background checks, or onboarding. When making an application directly, we will never ask you to share passwords, one-time passcodes (OTP), or verification codes. Any such request is a red flag and likely part of a scam. All communication regarding your application will come from official PayPal email domains. If you suspect fraudulent activity, please report it immediately. To learn more about how to identify and avoid recruitment fraud please visit https://careers.pypl.com/contact-us . For the majority of employees, PayPal's balanced hybrid work model offers 3 days in the office for effective in-person collaboration and 2 days at your choice of either the PayPal office or your home workspace, ensuring that you equally have the benefits and conveniences of both locations. Our Benefits: At PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset-you. That’s why we offer comprehensive, choice-based programs, to support all aspects of personal wellbeing—physical, emotional, and financial—delivering meaningful value where it matters most. We strive to create a flexible, balanced work culture with a holistic approach to benefits, including generous paid time off, healthcare coverage for you and your family, and resources to create financial security and support your mental health. Who We Are: Click Here to learn more about our culture and community. Commitment to Diversity and Inclusion PayPal provides equal employment opportunity (
 
