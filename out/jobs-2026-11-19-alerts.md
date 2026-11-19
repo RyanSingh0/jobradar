@@ -5,3 +5,4 @@ Found in your LinkedIn/HiringCafe/Glassdoor/Indeed/Jobright alert emails but not
 | Source | Company | Title | Location | Link |
 |---|---|---|---|---|
 | linkedin | George Mason University | Research Scientist | Fairfax, VA | https://www.linkedin.com/jobs/view/4492220606/ |
+| linkedin | BIG HAPPY | Data Analyst | New York, NY | https://www.linkedin.com/jobs/view/4492251775/ |
