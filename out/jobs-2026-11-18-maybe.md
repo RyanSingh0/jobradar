@@ -31,40 +31,44 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 25 | Voya Financial | IM Entry Level Analyst Program-Jr. Portfolio Analyst | 55 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
 | 26 | BTI360 | Data Scientist - Polygraph Required  | 55 | none found (check myvisajobs) | Nov 18 11:26 ET |
 | 27 | Steampunk | Job Title Data Scientist | 55 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 28 | CVS Health | Data Engineer | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 29 | Mayo Clinic | Research Fellow - Quantitative Health Science - Ehlers lab | 54 | 26 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 30 | Vistra | Data Scientist | 52 | 8 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 31 | Mars | Dry Food Process Research Scientist | 50 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 32 | JP Morgan Chase | Data Scientist Associate | 50 | 1098 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 33 | Fifth Third Bank | Data Engineer I | 50 | 32 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 34 | Howard University | Research Assistant/ Recovery Guide | 50 | cap-exempt employer | Nov 18 (board gives the date only) |
-| 35 | Clemson University | Statistical and Research Analyst | 50 | cap-exempt employer | Nov 18 (board gives the date only) |
-| 36 | Rocket Companies | Data Scientist | 50 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 37 | NVIDIA | Data Analytics Security Administrator | 50 | 78 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 38 | University of Miami | Research Associate 1 | 50 | cap-exempt employer | Nov 18 (board gives the date only) |
-| 39 | Citi | Data Engineer | 46 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
-| 40 | Regeneron Pharmaceuticals | Process Data Scientist | 45 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 41 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 42 | PricewaterhouseCoopers (PwC) | Junior Data Analyst (Automation and VBA Focus) | 44 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 43 | PennState University | Research Assistant - Fusco | 40 | cap-exempt employer | Nov 17 (board gives the date only) |
-| 44 | Manulife Financial | Data Engineer | 40 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 45 | GenScript | Research Associate | 40 | 5 in data/analytics/finance occupations | Nov 18 14:15 ET |
-| 46 | UTHealth Houston | Research Assistant (Part-Time) | 40 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 47 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 48 | Crest Industries | Data Engineer I | 40 | none found (check myvisajobs) | Nov 18 15:48 ET |
-| 49 | United Wholesale Mortgage | Title Servicing - Investor Reporting Analyst | 40 | 16 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 50 | Expedia Inc. | Machine Learning Scientist II - Agentic Experiences | 75 | 83 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 51 | Evolent | Senior Data Scientist (AI Evaluation & Improvement) | 75 | 2 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 52 | Lloyds Bank | Senior Data Scientist | 73 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 53 | Capital One | Senior Data Scientist | 72 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 54 | Exelixis | Senior Data Analyst - Compliance Operations | 67 | 12 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 55 | Capital One | Sr. Data Analyst - Retail Bank | 65 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 56 | Capital One | Senior Data Analyst - Enterprise Services | 64 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 57 | Thermo Fisher Scientific | Sr Pricing Analyst | 62 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 58 | Western Union | Senior Business Analyst, Compliance Systems and Analytics | 57 | 17 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 59 | Roche | Senior Real World Data Scientist | 55 | 7 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
-| 60 | Micron Technology | Sr Data Scientist | 55 | 46 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 61 | Paypal Inc. | Sr Analyst, Data Analytics | 55 | 188 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 28 | Upstart | Fraud Analyst, Secured Lending | 55 | 23 in data/analytics/finance occupations | Nov 18 21:44 ET |
+| 29 | CVS Health | Data Engineer | 54 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 30 | Mayo Clinic | Research Fellow - Quantitative Health Science - Ehlers lab | 54 | 26 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 31 | Turner & Townsend | Business Intelligence Analyst | 54 | 3 in data/analytics/finance occupations | Nov 18 20:29 ET |
+| 32 | Vistra | Data Scientist | 52 | 8 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 33 | Mars | Dry Food Process Research Scientist | 50 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 34 | JP Morgan Chase | Data Scientist Associate | 50 | 1098 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 35 | Fifth Third Bank | Data Engineer I | 50 | 32 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 36 | Howard University | Research Assistant/ Recovery Guide | 50 | cap-exempt employer | Nov 18 (board gives the date only) |
+| 37 | Clemson University | Statistical and Research Analyst | 50 | cap-exempt employer | Nov 18 (board gives the date only) |
+| 38 | Rocket Companies | Data Scientist | 50 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 39 | NVIDIA | Data Analytics Security Administrator | 50 | 78 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 40 | University of Miami | Research Associate 1 | 50 | cap-exempt employer | Nov 18 (board gives the date only) |
+| 41 | Citi | Data Engineer | 46 | none found (check myvisajobs) | Nov 17 (board gives the date only) |
+| 42 | Regeneron Pharmaceuticals | Process Data Scientist | 45 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 43 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 44 | Regeneron Pharmaceuticals | Process Development Associate, Analytics | 45 | 42 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 45 | PricewaterhouseCoopers (PwC) | Junior Data Analyst (Automation and VBA Focus) | 44 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 46 | PennState University | Research Assistant - Fusco | 40 | cap-exempt employer | Nov 17 (board gives the date only) |
+| 47 | Manulife Financial | Data Engineer | 40 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 48 | GenScript | Research Associate | 40 | 5 in data/analytics/finance occupations | Nov 18 14:15 ET |
+| 49 | UTHealth Houston | Research Assistant (Part-Time) | 40 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 50 | UTHealth Houston | Research Assistant | 40 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 51 | Crest Industries | Data Engineer I | 40 | none found (check myvisajobs) | Nov 18 15:48 ET |
+| 52 | United Wholesale Mortgage | Title Servicing - Investor Reporting Analyst | 40 | 16 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 53 | Expedia Inc. | Machine Learning Scientist II - Agentic Experiences | 75 | 83 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 54 | Evolent | Senior Data Scientist (AI Evaluation & Improvement) | 75 | 2 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 55 | Lloyds Bank | Senior Data Scientist | 73 | 4 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 56 | Capital One | Senior Data Scientist | 72 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 57 | Exelixis | Senior Data Analyst - Compliance Operations | 67 | 12 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 58 | Capital One | Sr. Data Analyst - Retail Bank | 65 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 59 | Capital One | Senior Data Analyst - Enterprise Services | 64 | 458 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 60 | Thermo Fisher Scientific | Sr Pricing Analyst | 62 | 42 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 61 | Dataminr | Senior Research Scientist | 62 | 1 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 62 | Western Union | Senior Business Analyst, Compliance Systems and Analytics | 57 | 17 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 63 | Roche | Senior Real World Data Scientist | 55 | 7 in data/analytics/finance occupations | Nov 17 (board gives the date only) |
+| 64 | Micron Technology | Sr Data Scientist | 55 | 46 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 65 | Paypal Inc. | Sr Analyst, Data Analytics | 55 | 188 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
 
 ---
 
@@ -650,7 +654,22 @@ Data Scientist in McLean, Virginia Please Enable Cookies to Continue Please enab
 
 ---
 
-## 28. [MAYBE] CVS Health | Data Engineer
+## 28. [MAYBE] Upstart | Fraud Analyst, Secured Lending
+- Link: https://careers.upstart.com/jobs?gh_jid=8401278
+- Location: United States | Remote
+- Posted: Nov 18 21:44 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 23 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: spark, classification, credit, fraud, git, reporting, risk | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with banks and credit unions to expand access to affordable credit through technology that’s both radically intelligent and deeply human. Our platform runs over one million predictions per borrower using more than 3,000 signals, powering smarter, fairer decisions for millions of customers. But the numbers only hint at the impact. Every idea, every voice, and every contribution moves us closer to a world where credit never stands between people and their financial progress. We’re proudly digital-first, giving most Upstarters the flexibility to do their best work from wherever they thrive, alongside teammates across 80+ cities in the US and Canada. Digital-first doesn’t mean distant. We’re intentional about in-person connection through team onsites, planning sessions, and moments that spark creativity and trust. And whether you choose to work primarily from home or collaborate in-person from one of our offices in Columbus, Austin, the Bay Area, or New York City, you’ll have the support to work in the way that works best for you. If you’re energized by tackling meaningful problems, excited to innovate with purpose, and motivated by work that truly matters, we’d love to hear from you. The Team:&nbsp; Upstart's Secured Lending Fraud Oversight function is the Bank's first-line fraud detection, investigation, and monitoring across the HELOC and Auto Lending business lines. As a business unit function, the team owns fraud risk identification, investigation of suspected fraudulent activity, referral package preparation, and fraud trend analysis and reporting. The fraud function operates with direct access to loan files, origination data, and dealer and channel relationships — enabling the depth and speed of investigation that the Bank's fraud risk profile demands. The team works in close coordination with the Secured Lending Quality Control function: QC analysts escalate fraud indicators identified during file reviews, and fraud analysts provide fraud-focused review support during lower-volume periods, consistent with a documented cross-utilization protocol and independence safeguards. As a Fraud Analyst, you will own day-to-day fraud detection and investigation for your assigned product line(s). You will investigate suspected fraud across the entire loan life cycle from application through loan servicing; identify and document emerging typologies and fraud patterns; prepare escalation and SAR referral packages for review; and partner with Operations, Risk, Compliance, and Legal to strengthen fraud controls across the business.&nbsp; This is an opportunity for an experienced fraud professional who is energized by building investigation programs in a fast-paced, technology-driven lending environment — and who wants to operate at the intersection of fraud, compliance, and AI-powered risk controls. How you’ll make an impact Own first-line fraud detection and investigation across your assigned secured lending product line(s), monitoring for suspicious activity and fraud indicators across application, origination, and servicing Investigate key fraud risks and emerging typologies, including application fraud, identity fraud (true-name and synthetic), income and employment misrepresentation, collateral fraud, and Auto dealer-related fraud patterns&nbsp; Investigate product specific fraud typologies including occupancy misrepresentation, valuation inflation, and undisclosed liabilities or loan stacking Prepare comprehensive fraud escalation and SAR referral packages for review — documenting facts, evidence, typology, and recommendations Conduct early payment default (EPD) fraud file reviews — performing fraud indicator review on loans reaching 60+ days past due within 90 days of origination Monitor and analyze fraud trends across origination channels, including application fraud rates, dealer-level fraud indicators, geographic concentrations, synthetic identity patterns, and channel-level risk signals; producing fraud metrics and trend reporting Maintain dealer fraud scorecards (Auto) and channel-level fraud indicator tracking, including pattern-based referrals and dealer suspension triggers in coordination with Vendor Management and dealer oversight functions Integrate closely with the Secured Lending QC team — triage fraud-related alerts surfaced by the QC Engine's daily monitoring output; provide typology and red flag feedback to improve detection rules and origination controls Coordinate across Operations, Compliance, Legal, and Risk on fraud control enhancements, law enforcement information requests, and regulatory response support Proactively identify regulatory risks related to fraud in your product line(s) and adjacent areas, including obligations under OCC Bulletin 2019-37, FFIEC BSA/AML Manual, Red Flags Rule (12 CFR Part 41, Subpart J), 12 CFR 21.11, and product-specific fraud risk requirements Support examination readiness by maintaining audit-ready fraud investigation case records, typology documentation, and program evidence aligned with OCC, FDIC, and CFPB expectations Minimum Qualifications&nbsp; 3+ years of experience in fraud investigation, fraud analytics, or financial crimes within consumer lending, banking, or a regulated financial institution Bachelor's degree or equivalent practical experience Experience investigating consumer lending fraud — including application fraud, identity fraud, income/employment misrepresentation, and collateral fraud Experience preparing fraud investigation case documentation — fact and evidence assembly, typology analysis, and written escalation packages for compliance or legal review Familiarity with SAR referral processes, 12 CFR 21.11 SAR thresholds and timelines Working knowledge of BSA/AML program requirements applicable to consumer lending, including CIP/CDD, OFAC screening, suspicious activity monitoring, and Red Flags Rule obligations Working knowledge of OCC enterprise fraud risk management and FFIEC BSA/AML Manual requirements relevant to fraud investigation and suspicious activity reporting Experience with fraud trend analysis — application fraud rate monitoring, typology identification, channel and geographic concentration analysis Ability to manage own workload, meet deadlines, and proactively communicate risk to timelines with minimal supervision Strong cross-functional collaboration skills — able to work effectively with Operations, Compliance, Legal, and Risk on fraud escalation and control improvement initiatives Preferred Qualifications Experience investigating dealer channel fraud, including power booking, ghost down payments, straw purchases, VIN cloning, title was [...]
+
+---
+
+## 29. [MAYBE] CVS Health | Data Engineer
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Work-from-home/Data-Engineer_R1070871
 - Location: CA - Work from home
 - Posted: Nov 17 (board gives the date only)
@@ -665,7 +684,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 29. [MAYBE] Mayo Clinic | Research Fellow - Quantitative Health Science - Ehlers lab
+## 30. [MAYBE] Mayo Clinic | Research Fellow - Quantitative Health Science - Ehlers lab
 - Link: https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/395446
 - Location: Phoenix, AZ, United States US
 - Posted: Nov 18 (board gives the date only)
@@ -680,7 +699,22 @@ The ideal candidate will have demonstrated research experience in physical activ
 
 ---
 
-## 30. [MAYBE] Vistra | Data Scientist
+## 31. [MAYBE] Turner & Townsend | Business Intelligence Analyst
+- Link: https://jobs.smartrecruiters.com/TurnerTownsend/744000162425309
+- Location: USA wide us remote
+- Posted: Nov 18 20:29 ET
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, etl, power bi, reporting | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About the role Our Technology Division is a highly successful and growing business unit, and as a result we are seeking to recruit a high performing Business Intelligence Analyst to enjoy a long term, successful career as we continue to be appointed on some of the US' most prestigious projects. We are currently seeking to recruit a Business Intelligence Analyst to join our Technology team. This role is varied and challenging and will involve working with internal and Client teams. Initiative and problem-solving skills are a must, as are strong interpersonal and communication skills. Possessing experience in providing a high level and quality reporting service, interpret management information requirements and propose and create mockup dashboard visualizations, understand BI and ETL concepts. What you'll do Developing MI/BI strategy. Developing and/or implementing Master Data Strategy. Project definition, scope and requirements gathering. Change management. Analysing business processes, technology and use cases Data modelling techniques. Developing and implementing technology plans. Commercial awareness. Stakeholder management. Power BI or other reporting tools. Familiar with ETL and data architecture. Problem-solving skills. Analytical skills. *SOX control responsibilities may be part of this role, which are to be adhered to where applicable. *On-site presence and requirements may change depending on our client's needs* Our inspired people share our vision and mission. We provide a great place to work, where each person has the opportunity and voice to affect change. We want our people to succeed both in work and life. To support this, we promote a healthy, productive, and flexible working environment that respects work-life balance. Turner & Townsend
+
+---
+
+## 32. [MAYBE] Vistra | Data Scientist
 - Link: https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Data-Scientist_40016989-2
 - Location: Irving, Texas
 - Posted: Nov 17 (board gives the date only)
@@ -695,7 +729,7 @@ If you have what it takes to become part of the Vistra family and would like to 
 
 ---
 
-## 31. [MAYBE] Mars | Dry Food Process Research Scientist
+## 33. [MAYBE] Mars | Dry Food Process Research Scientist
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/FRA-Gard-Aimargues/Dry-Food-Process-Research-Scientist_R171894-1
 - Location: FRA-Gard-Aimargues
 - Posted: Nov 17 (board gives the date only)
@@ -710,7 +744,7 @@ Job Description: At Royal Canin R&D, the Research Team is responsible for long-t
 
 ---
 
-## 32. [MAYBE] JP Morgan Chase | Data Scientist Associate
+## 34. [MAYBE] JP Morgan Chase | Data Scientist Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810053
 - Location: Plano, TX, United States US
 - Posted: Nov 18 (board gives the date only)
@@ -725,7 +759,7 @@ Join a Payments Data and Analytics team that builds data products used to improv
 
 ---
 
-## 33. [MAYBE] Fifth Third Bank | Data Engineer I
+## 35. [MAYBE] Fifth Third Bank | Data Engineer I
 - Link: https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Data-Engineer-I_R74842-1
 - Location: Cincinnati, OH
 - Posted: Nov 18 (board gives the date only)
@@ -740,7 +774,7 @@ Make banking a Fifth Third better® We connect great people to great opportuniti
 
 ---
 
-## 34. [MAYBE] Howard University | Research Assistant/ Recovery Guide
+## 36. [MAYBE] Howard University | Research Assistant/ Recovery Guide
 - Link: https://howard.wd1.myworkdayjobs.com/HU/job/Seeley-G-Mudd-Building-College-of-Medicine/Research-Assistant--Recovery-Guide_JR108820
 - Location: Seeley G. Mudd Building (College of Medicine)
 - Posted: Nov 18 (board gives the date only)
@@ -755,7 +789,7 @@ The Talent Acquisition department hires qualified candidates to fill positions w
 
 ---
 
-## 35. [MAYBE] Clemson University | Statistical and Research Analyst
+## 37. [MAYBE] Clemson University | Statistical and Research Analyst
 - Link: https://clemson.wd12.myworkdayjobs.com/Clemson_Careers/job/CLEMSON-SC/Statistical-and-Research-Analyst_JR-11082
 - Location: CLEMSON, SC
 - Posted: Nov 18 (board gives the date only)
@@ -770,7 +804,7 @@ JOB SUMMARY: Performs research, data management and record-keeping activities. J
 
 ---
 
-## 36. [MAYBE] Rocket Companies | Data Scientist
+## 38. [MAYBE] Rocket Companies | Data Scientist
 - Link: https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Remote---Michigan/Data-Scientist_R-084225
 - Location: Remote - Michigan
 - Posted: Nov 18 (board gives the date only)
@@ -785,7 +819,7 @@ As the Data Scientist, you’ll be responsible for performing exploratory data a
 
 ---
 
-## 37. [MAYBE] NVIDIA | Data Analytics Security Administrator
+## 39. [MAYBE] NVIDIA | Data Analytics Security Administrator
 - Link: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Analytics-Security-Administrator_JR2029815
 - Location: US, CA, Santa Clara
 - Posted: Nov 18 (board gives the date only)
@@ -800,7 +834,7 @@ NVIDIA has been transforming computer graphics, PC gaming, and accelerated compu
 
 ---
 
-## 38. [MAYBE] University of Miami | Research Associate 1
+## 40. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-Beach-FL/Research-Associate-1_R100100458
 - Location: Miami Beach, FL
 - Posted: Nov 18 (board gives the date only)
@@ -815,7 +849,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 39. [MAYBE] Citi | Data Engineer
+## 41. [MAYBE] Citi | Data Engineer
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Data-Engineer_261004570-1
 - Location: DLF CYBERCITY 12B
 - Posted: Nov 17 (board gives the date only)
@@ -830,7 +864,7 @@ We are seeking a motivated, detail-oriented Data Engineer to join our Data Engin
 
 ---
 
-## 40. [MAYBE] Regeneron Pharmaceuticals | Process Data Scientist
+## 42. [MAYBE] Regeneron Pharmaceuticals | Process Data Scientist
 - Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/Limerick/Process-Data-Scientist_R53165
 - Location: Limerick
 - Posted: Nov 17 (board gives the date only)
@@ -845,7 +879,7 @@ At Regeneron, we use science and innovation to develop life-changing medicines f
 
 ---
 
-## 41. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 43. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805154
 - Location: Plano, TX, United States US
 - Posted: Nov 18 (board gives the date only)
@@ -860,7 +894,22 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 42. [MAYBE] PricewaterhouseCoopers (PwC) | Junior Data Analyst (Automation and VBA Focus)
+## 44. [MAYBE] Regeneron Pharmaceuticals | Process Development Associate, Analytics
+- Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Process-Development-Associate--Analytics_R53095
+- Location: TARRYTOWN
+- Posted: Nov 18 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 42 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, statistic, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At Regeneron, we use science and innovation to develop life-changing medicines for people with serious diseases. We are seeking a Scientist or Engineer to join our Preclinical Manufacturing & Process Development. Analytics group, supporting analytical characterization of biopharmaceuticals in a fast-paced, high-throughput laboratory setting. In this role, you will conduct analytical experiments that support manufacturing process development and research activities while collaborating with multi-functional groups across Preclinical Manufacturing and Process Development. This position offers the opportunity to contribute to a fast-growing, science-driven organization making a meaningful difference to patients worldwide. When & where: Location: Tarrytown, NY What you’ll do: Conduct high-throughput biophysical/biochemical analysis of samples generated during manufacturing process development and research projects Conduct experiments to further statistical understanding of assay performance and interpret results in collaboration with multi-functional groups Deliver written and oral communications as a representative of the Preclinical Manufacturing and Process Development Analytics group across a wide variety of internal projects Collaborate with team members and your supervisor to develop novel analytical assays and investigate new analytical technologies Contribute to continuous improvement efforts that increase efficiency and throughput within the Preclinical Manufacturing and Process Development Analytics group Let’s find out if we’re a fit: Bachelor's degree with 0-3 years of relevant experience Solid understanding of modern methods of protein research, such as liquid chromatography, capillary electrophoresis, and immunoassays Curious about high-throughput analytical methodologies and how they're applied in biopharmaceutical manufacturing process development Comfortable working in a fast-paced, high-throughput laboratory environment Thrive today. Grow tomorrow. Student Loan Paydown program & Tuition Reimbursement Family Care Benefits Relocation Assistance Inclusion, Culture and Well-Being programs (including physical & mental health) #PMPD #PAPD Does this sound like you? Apply now to take your first step towards living the Regeneron Way! We are committed to building a workplace with an inclusive culture. Regeneron
+
+---
+
+## 45. [MAYBE] PricewaterhouseCoopers (PwC) | Junior Data Analyst (Automation and VBA Focus)
 - Link: https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Lviv/Junior-Data-Analyst--Automation-and-VBA-Focus-_774953WD
 - Location: Lviv
 - Posted: Nov 18 (board gives the date only)
@@ -875,7 +924,7 @@ Job Description & Summary PwC is a global network of more than 370,000 professio
 
 ---
 
-## 43. [MAYBE] PennState University | Research Assistant - Fusco
+## 46. [MAYBE] PennState University | Research Assistant - Fusco
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant---Fusco_REQ_0000084404-1
 - Location: Penn State University Park
 - Posted: Nov 17 (board gives the date only)
@@ -890,7 +939,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 44. [MAYBE] Manulife Financial | Data Engineer
+## 47. [MAYBE] Manulife Financial | Data Engineer
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Waterloo-Ontario/Data-Engineer_JR26070439
 - Location: 2 Locations
 - Posted: Nov 18 (board gives the date only)
@@ -905,7 +954,7 @@ Join us at Manulife and be part of a team that strives for excellence, where you
 
 ---
 
-## 45. [MAYBE] GenScript | Research Associate
+## 48. [MAYBE] GenScript | Research Associate
 - Link: https://job-boards.greenhouse.io/genscript/jobs/5300904007
 - Location: Seattle, Washington, United States
 - Posted: Nov 18 14:15 ET
@@ -920,7 +969,7 @@ About GenScript Founded in 2002 in New Jersey, GenScript Biotech Corporation acc
 
 ---
 
-## 46. [MAYBE] UTHealth Houston | Research Assistant (Part-Time)
+## 49. [MAYBE] UTHealth Houston | Research Assistant (Part-Time)
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8306
 - Location: San Antonio, TX, United States US
 - Posted: Nov 18 (board gives the date only)
@@ -935,7 +984,7 @@ Under general supervision, provides routine technical assistance in performing a
 
 ---
 
-## 47. [MAYBE] UTHealth Houston | Research Assistant
+## 50. [MAYBE] UTHealth Houston | Research Assistant
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8316
 - Location: San Antonio, TX, United States US
 - Posted: Nov 18 (board gives the date only)
@@ -950,7 +999,7 @@ Under general supervision, provides routine technical assistance in performing a
 
 ---
 
-## 48. [MAYBE] Crest Industries | Data Engineer I
+## 51. [MAYBE] Crest Industries | Data Engineer I
 - Link: https://jobs.lever.co/crestoperations/29980a5d-fc0f-4606-b69f-ba18e32edfde
 - Location: Ruston, Louisiana Ruston, Louisiana US
 - Posted: Nov 18 15:48 ET
@@ -969,7 +1018,7 @@ DIS-TRAN Steel is an affirmative action and
 
 ---
 
-## 49. [MAYBE] United Wholesale Mortgage | Title Servicing - Investor Reporting Analyst
+## 52. [MAYBE] United Wholesale Mortgage | Title Servicing - Investor Reporting Analyst
 - Link: https://careers-uwmcareers.icims.com/jobs/15781/servicing---investor-reporting-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -984,7 +1033,7 @@ Servicing - Investor Reporting Analyst in Pontiac, Michigan | Careers at United 
 
 ---
 
-## 50. [MAYBE] Expedia Inc. | Machine Learning Scientist II - Agentic Experiences
+## 53. [MAYBE] Expedia Inc. | Machine Learning Scientist II - Agentic Experiences
 - Link: https://expedia.wd108.myworkdayjobs.com/Search/job/Washington---Seattle-Campus/Machine-Learning-Scientist-II---Agentic-Experiences_R-109446
 - Location: 3 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -999,7 +1048,7 @@ At Expedia Group, we help travelers explore the world, one journey at a time. As
 
 ---
 
-## 51. [MAYBE] Evolent | Senior Data Scientist (AI Evaluation & Improvement)
+## 54. [MAYBE] Evolent | Senior Data Scientist (AI Evaluation & Improvement)
 - Link: https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Senior-Data-Scientist--AI-Evaluation---Improvement-_JR-917050
 - Location: Work at Home
 - Posted: Nov 18 (board gives the date only)
@@ -1014,7 +1063,7 @@ Your Future Evolves Here Evolent partners with health plans and providers to ach
 
 ---
 
-## 52. [MAYBE] Lloyds Bank | Senior Data Scientist
+## 55. [MAYBE] Lloyds Bank | Senior Data Scientist
 - Link: https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Senior-Data-Scientist_155318
 - Location: Manchester
 - Posted: Nov 17 (board gives the date only)
@@ -1029,7 +1078,7 @@ End Date Tuesday 01 December 2026 Salary Range £72,702 - £80,780 We support fl
 
 ---
 
-## 53. [MAYBE] Capital One | Senior Data Scientist
+## 56. [MAYBE] Capital One | Senior Data Scientist
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Scientist_R1006102-1
 - Location: 2 Locations
 - Posted: Nov 18 (board gives the date only)
@@ -1044,7 +1093,7 @@ Senior Data Scientist Data is at the center of everything we do. As a startup, w
 
 ---
 
-## 54. [MAYBE] Exelixis | Senior Data Analyst - Compliance Operations
+## 57. [MAYBE] Exelixis | Senior Data Analyst - Compliance Operations
 - Link: https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Senior-Data-Analyst---Compliance-Operations_JR7232
 - Location: Alameda, CA
 - Posted: Nov 18 (board gives the date only)
@@ -1059,7 +1108,7 @@ SUMMARY/JOB PURPOSE The Senior Data Analyst - Compliance Operations is responsib
 
 ---
 
-## 55. [MAYBE] Capital One | Sr. Data Analyst - Retail Bank
+## 58. [MAYBE] Capital One | Sr. Data Analyst - Retail Bank
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Data-Analyst---Retail-Bank_R247428-1
 - Location: 2 Locations
 - Posted: Nov 18 (board gives the date only)
@@ -1074,7 +1123,7 @@ Sr. Data Analyst - Retail Bank At Capital One, data is at the center of everythi
 
 ---
 
-## 56. [MAYBE] Capital One | Senior Data Analyst - Enterprise Services
+## 59. [MAYBE] Capital One | Senior Data Analyst - Enterprise Services
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Data-Analyst---Enterprise-Services_R1000374-2
 - Location: 3 Locations
 - Posted: Nov 18 (board gives the date only)
@@ -1089,7 +1138,7 @@ Senior Data Analyst - Enterprise Services At Capital One, data is at the center 
 
 ---
 
-## 57. [MAYBE] Thermo Fisher Scientific | Sr Pricing Analyst
+## 60. [MAYBE] Thermo Fisher Scientific | Sr Pricing Analyst
 - Link: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Sr-Pricing-Analyst_R-01365671
 - Location: Pittsburgh, Pennsylvania, USA
 - Posted: Nov 17 (board gives the date only)
@@ -1104,7 +1153,22 @@ Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description
 
 ---
 
-## 58. [MAYBE] Western Union | Senior Business Analyst, Compliance Systems and Analytics
+## 61. [MAYBE] Dataminr | Senior Research Scientist
+- Link: https://dataminr.wd12.myworkdayjobs.com/Dataminr/job/New-York-NY/Senior-Research-Scientist_JR2128-1
+- Location: 2 Locations
+- Posted: Nov 18 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: llm, python, pytorch, git, publication, research, risk | Lacks: -  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Who we are: Dataminr is the global leader in AI-powered real-time event, threat & risk intelligence, and the pioneer of Autonomous Real-Time Intelligence (ARI) . Our mission-critical platform delivers the earliest warning on breaking events and emerging risks across physical, digital, and cyber domains, so people can act quickly with confidence. We didn’t join the AI wave. We built it. Founded in 2009, Dataminr is trusted by more than two-thirds of the Fortune 50, half of the Fortune 100, 100+ U.S. government agencies, and 20+ international governments to protect people, assets, and operations. Join our mission-driven team of 700+ builders, creators, and visionaries across nine global offices, united by a passion to use AI for the greater good. About the opportunity: As a Senior Research Scientist at Dataminr, you will tackle some of the toughest AI problems in real time threat and risk intelligence, advancing the state of the art in large language models, generative AI, and agentic systems while seeing your work go straight into products. You will train and adapt LLMs, build multimodal and agentic systems that reason over live global data, and develop innovative solutions that surface the insights that matter most. You will do it alongside a collaborative team that cares about meaningful work. This is a hybrid role based in our New York City or Arlington, VA office. Key responsibilities Build and deploy AI models that decide within seconds whether a burst of posts across 150 languages signals a real event, and push the state of the art in real time AI on live global data at massive scale. Advance multimodal and LLM research by creating systems that can verify a video from an unfolding crisis and agents that keep a brief accurate as facts change minute by minute. Take your research from experiment to production, shipping models into Dataminr products used by organizations around the world. See your work shape how teams everywhere respond to critical events as they unfold, where rigor, speed, and good judgment all matter. Partner with a diverse, interdisciplinary group of engineers, product experts, and domain specialists to deliver value for existing and new customers. Share your work with the wider community through publications in top tier venues, program committee service, and AI for Good collaborations with nonprofit organizations. What you bring Ph.D. in Computer Science or a related field, with real depth in one or more areas such as LLM training and adaptation, distillation, evaluation and benchmarking, agentic systems, retrieval and grounding, search, recommendation, multimodal models, or temporal and streaming reasoning. Track record of research that others build on, shown through publications at venues like NeurIPS, ICML, ICLR, ACL, AAAI, COLM, or CVPR. Hands-on experience training and adapting models at scale, backed by strong Python and PyTorch fundamentals. Comfort with modern training and inference tooling such as vLLM and Langfuse, so you can move from idea to a working system quickly. Independence to design experiments, chart your own path, and show progress through principled, well-chosen metrics. Fluency with AI coding and research agents, and a habit of using them to speed up your own work. Ability to own research projects from first idea to shipped result, and to bring teammates along as you go. Leadership streak that shows up as cross-functional technical guidance and mentorship, helping other scientists grow and do their best work. #LI-Hybrid #LI-BM We offer a competitive benefits package aimed at keeping you healthy and happy: Comprehensive medical, dental and vision insurance plan options for employees, domestic partners and their dependents Generous PTO / flexible sick days Paid parental leave and family forming benefits Mental health benefits and support Company equity (RSUs) Join our global team: At Dataminr, we serve a global community made up of many cultures and strive to reflect the diversity of the world in which we live. At Dataminr we actively condemn racism and discrimination in any form. We believe our differences give us strength. Our employees are empowered to be their best, authentic selves through various opportunities, such as our robust employee resource group (ERG) network, learning and development funds, and more. Dataminr
+
+---
+
+## 62. [MAYBE] Western Union | Senior Business Analyst, Compliance Systems and Analytics
 - Link: https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/LTU---Vilnius/Senior-Business-Analyst--Compliance-Systems-and-Analytics_JR0129985
 - Location: LTU - Vilnius
 - Posted: Nov 17 (board gives the date only)
@@ -1119,7 +1183,7 @@ Senior Business Analyst, Compliance Systems and Analytics – Vilnius, Lithuania
 
 ---
 
-## 59. [MAYBE] Roche | Senior Real World Data Scientist
+## 63. [MAYBE] Roche | Senior Real World Data Scientist
 - Link: https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Senior-Real-World-Data-Scientist_202610-127658-1
 - Location: 2 Locations
 - Posted: Nov 17 (board gives the date only)
@@ -1134,7 +1198,7 @@ At Roche you can show up as yourself, embraced for the unique qualities you brin
 
 ---
 
-## 60. [MAYBE] Micron Technology | Sr Data Scientist
+## 64. [MAYBE] Micron Technology | Sr Data Scientist
 - Link: https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Sr-Data-Scientist_JR98989
 - Location: Boise, ID - ID1
 - Posted: Nov 18 (board gives the date only)
@@ -1149,7 +1213,7 @@ Our vision is to transform how the world uses information to enrich life for all
 
 ---
 
-## 61. [MAYBE] Paypal Inc. | Sr Analyst, Data Analytics
+## 65. [MAYBE] Paypal Inc. | Sr Analyst, Data Analytics
 - Link: https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Analyst--Data-Analytics_R0139103-1
 - Location: San Jose, California, United States of America
 - Posted: Nov 18 (board gives the date only)
