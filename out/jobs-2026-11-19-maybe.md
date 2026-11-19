@@ -8,9 +8,10 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 2 | Google | Engineering Analyst, Enterprise Payments | 69 | 1053 in data/analytics/finance occupations | Nov 19 05:10 ET |
 | 3 | Google | Engineering Analyst, Trust and Safety, Payments | 68 | 1053 in data/analytics/finance occupations | Nov 19 05:10 ET |
 | 4 | Amentum | Data Engineer | 57 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 5 | RingCentral | Senior Agentic AI Engineer | 57 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 6 | Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology | 55 | cap-exempt employer | Nov 18 (board gives the date only) |
-| 7 | Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business | 55 | 1053 in data/analytics/finance occupations | Nov 19 04:07 ET |
+| 5 | ElevenLabs | Data Scientist - Product Analytics | 53 | none found (check myvisajobs) | Nov 19 08:59 ET |
+| 6 | RingCentral | Senior Agentic AI Engineer | 57 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 7 | Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology | 55 | cap-exempt employer | Nov 18 (board gives the date only) |
+| 8 | Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business | 55 | 1053 in data/analytics/finance occupations | Nov 19 04:07 ET |
 
 ---
 
@@ -74,7 +75,127 @@ Are you passionate about human space exploration, understanding the origins of t
 
 ---
 
-## 5. [MAYBE] RingCentral | Senior Agentic AI Engineer
+## 5. [MAYBE] ElevenLabs | Data Scientist - Product Analytics
+- Link: https://jobs.ashbyhq.com/ElevenLabs/41b892ba-b530-44cb-9ae1-178908fc324c
+- Location: United Kingdom United Kingdom Spain Hungary Bulgaria Germany Poland Italy France remote
+- Posted: Nov 19 08:59 ET
+- Scanner fit: ~53 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: a/b test, excel, python, sql, kpi, research | Lacks: dbt  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+ABOUT ELEVENLABS
+
+ElevenLabs is an AI research and product company transforming how we interact with technology.
+
+We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.
+
+We have expanded from voice into three main platforms:
+
+ - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.
+
+ - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.
+
+ - ElevenAPI gives developers access to our leading AI audio foundational models.
+
+Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.
+
+
+
+
+HOW WE WORK
+
+ - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.
+
+ - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.
+
+ - AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations.
+
+ - Excellence everywhere: Everything we do should match the quality of our AI models.
+
+ - Global team: We prioritize your talent, not your location.
+
+
+
+
+WHAT WE OFFER
+
+ - Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible.
+
+ - Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities.
+
+ - Learning & development: ElevenLabs proactively supports professional development through an annual discretionary stipend.
+
+ - Social travel: We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.
+
+ - Annual team offsite: Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún
+
+ - Co-working: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.
+
+About the role
+
+We're looking for a Data Scientist - Product Analytics to join our Growth Data team. You'll own the analysis behind how people discover, adopt and stick with ElevenLabs' products, partnering closely with Product, Growth and the central Data team's certified metrics layer.
+
+ - Define and own product health metrics: activation, feature adoption, retention and engagement across ElevenCreative, ElevenAgents and ElevenAPI.
+
+ - Design, analyse and communicate the results of product experiments (A/B tests, feature launches, onboarding changes).
+
+ - Partner with Analytics Engineering on the certified product KPI layer in dbt, and with Product on turning ambiguous questions into trusted analysis.
+
+ - Work alongside fellow Growth data scientists on marketing- and revenue-adjacent questions that touch the product funnel.
+
+
+
+Requirements
+
+Demonstrated experience as a data scientist embedded with a product or growth team, ideally at a product-led company.
+
+ - Strong SQL and Python, with hands-on experience in experimentation (A/B testing) and product analytics.
+
+ - Ability to translate ambiguous product questions into clear, reusable analysis and defensible metrics.
+
+ - Comfort working directly with Product and Growth stakeholders, and pushing back on ill-defined asks.
+
+ - Structured thinker who can move fast without sacrificing rigour.
+
+
+
+Bonus
+
+ - Experience with activation / retention modelling or lifecycle analytics at a consumer or prosumer product.
+
+ - Experience with dbt or a modern warehouse, partnering directly with analytics engineers.
+
+ - Experience using AI tools or agents to speed up analysis or enable self-serve data access.
+
+
+
+Growth potential
+
+We believe in hiring the best talent in the world to make an impact in the right role at the right time. At ElevenLabs, strong performance creates opportunities for growth. Here are some of the career paths you can expect after excelling in this role:
+
+ - Grow into a Senior or Staff Product Data Scientist role as the Growth Data team scales.
+
+ - Expand scope across additional product lines (ElevenAgents, ElevenAPI).
+
+ - Path into a Growth Data Science lead or broader data leadership track.
+
+
+
+
+LOCATION
+
+This role is remote-first, so it can be executed from anywhere in Europe, with the ability to operate in GMT and GMT+1 timezones. If you prefer, you can work from our offices in London and Warsaw.
+
+
+
+#LI-Remote
+
+---
+
+## 6. [MAYBE] RingCentral | Senior Agentic AI Engineer
 - Link: https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Bulgaria/Senior-Agentic-AI-Engineer_R078150
 - Location: Bulgaria
 - Posted: Nov 18 (board gives the date only)
@@ -89,7 +210,7 @@ Say hello to opportunities. It’s not everyday that you consider starting a new
 
 ---
 
-## 6. [MAYBE] Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology
+## 7. [MAYBE] Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Remote/C-BRAIN-Senior-Applied-Scientist--Remote----Neurology_JR98761
 - Location: Remote
 - Posted: Nov 18 (board gives the date only)
@@ -104,7 +225,7 @@ Location Remote, US&#xa;&#xa; Scheduled Hours 40 Position Summary The Consortium
 
 ---
 
-## 7. [MAYBE] Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business
+## 8. [MAYBE] Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business
 - Link: https://www.google.com/about/careers/applications/jobs/results/91792511671902918
 - Location: New York, NY, USA ; Chicago, IL, USA ; Mountain View, CA, USA ; Los Angeles, CA, USA ; San Bruno, CA, USA
 - Posted: Nov 19 04:07 ET
