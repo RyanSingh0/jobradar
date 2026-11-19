@@ -4,50 +4,68 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | VSP Vision | Business Data Analyst | 77 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 2 | Brown & Brown Insurance | Data Quality & Governance Coordinator | 71 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 3 | Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management | 70 | 163 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 4 | Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management | 70 | 163 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 5 | Google | Engineering Analyst, Enterprise Payments | 69 | 1053 in data/analytics/finance occupations | Nov 19 05:10 ET |
-| 6 | Google | Engineering Analyst, Trust and Safety, Payments | 68 | 1053 in data/analytics/finance occupations | Nov 19 05:10 ET |
-| 7 | TD Synnex | Cloud Billing Analyst - CCA | 62 | 2 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 8 | Zillow | Resource Planning Analyst | 62 | 47 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 9 | Amentum | Data Engineer | 57 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 10 | Clairo | Imaging Research Associate I | 57 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 11 | Profound Medical | Data Scientist | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 12 | Turner & Townsend | Business Intelligence Analyst | 54 | 3 in data/analytics/finance occupations | Nov 19 12:41 ET |
-| 13 | University of Texas - Austin | Research Scientist - Arts, Humanities, and Ethics | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 14 | Goldbelt | Job Posting Title Preclinical Laboratory Research Assistant | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 15 | ElevenLabs | Data Scientist - Product Analytics | 53 | none found (check myvisajobs) | Nov 19 08:59 ET |
-| 16 | Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376 | 52 | 772 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 17 | Dell Technologies | Consultant, Data Engineering | 52 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 18 | Hitachi | Continuous Improvement Specialist – Digitalization and Analytics | 50 | 2 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 19 | PURE Insurance | Product Analyst | 50 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 20 | Affirm | Capital Markets Specialist I (2027 Early Career Program) | 50 | 32 in data/analytics/finance occupations | Nov 19 14:47 ET |
-| 21 | PennState University | Part-Time Research Assistant – Penn State Research Kitchen  | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 22 | University of Miami | Research Associate 1 | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 23 | Mount Sinai Health System (Icahn School of Medicine) | Research Assistant I-Psychiatry | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 24 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 19 11:30 ET |
-| 25 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 26 | Nationwide Children's Hospital | Research Associate- Research Translational Brigstock | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 27 | Nationwide Children's Hospital | Research Associate | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 28 | SiTime | Data Analyst | 44 | 1 in data/analytics/finance occupations | Nov 19 12:37 ET |
-| 29 | SiTime | Data Engineer | 10057 | 40 | 1 in data/analytics/finance occupations | Nov 19 12:27 ET |
-| 30 | ISS | Institutional Shareholder Services | Custom Research Analyst (Temporary) | 40 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 31 | TransUnion | Senior Analysts, Data Science & Analytics | 81 | 66 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 32 | 7-Eleven | Fuel Pricing Analyst II | 68 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 33 | Seattle Childrens Hospital | Senior Data Analyst - Patient Access/Strategy & Business Development | 60 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 34 | Merck | Senior Scientist, Biostatistics, CMC Statistics | 59 | 71 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 35 | RingCentral | Senior Agentic AI Engineer | 57 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 36 | Amazon | Senior Economist, Pricing Science  | 57 | 3890 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 37 | Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology | 55 | cap-exempt employer | Nov 18 (board gives the date only) |
-| 38 | Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business | 55 | 1053 in data/analytics/finance occupations | Nov 19 04:07 ET |
-| 39 | Protiviti | Senior Legal Data Engineer | 55 | 4 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 40 | JP Morgan Chase | Data Science Senior Associate - Wealth Management | 55 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 1 | AffirmedRx | Data Scientist  | 81 | none found (check myvisajobs) | Nov 19 16:09 ET |
+| 2 | VSP Vision | Business Data Analyst | 77 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 3 | Brown & Brown Insurance | Data Quality & Governance Coordinator | 71 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 4 | Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management | 70 | 163 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 5 | Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management | 70 | 163 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 6 | Google | Engineering Analyst, Enterprise Payments | 69 | 1053 in data/analytics/finance occupations | Nov 19 05:10 ET |
+| 7 | Google | Engineering Analyst, Trust and Safety, Payments | 68 | 1053 in data/analytics/finance occupations | Nov 19 05:10 ET |
+| 8 | TD Synnex | Cloud Billing Analyst - CCA | 62 | 2 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 9 | Zillow | Resource Planning Analyst | 62 | 47 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 10 | Amentum | Data Engineer | 57 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 11 | Clairo | Imaging Research Associate I | 57 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 12 | Profound Medical | Data Scientist | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 13 | Turner & Townsend | Business Intelligence Analyst | 54 | 3 in data/analytics/finance occupations | Nov 19 12:41 ET |
+| 14 | University of Texas - Austin | Research Scientist - Arts, Humanities, and Ethics | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 15 | Goldbelt | Job Posting Title Preclinical Laboratory Research Assistant | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 16 | ElevenLabs | Data Scientist - Product Analytics | 53 | none found (check myvisajobs) | Nov 19 08:59 ET |
+| 17 | Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376 | 52 | 772 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 18 | Dell Technologies | Consultant, Data Engineering | 52 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 19 | Hitachi | Continuous Improvement Specialist – Digitalization and Analytics | 50 | 2 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 20 | PURE Insurance | Product Analyst | 50 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 21 | Affirm | Capital Markets Specialist I (2027 Early Career Program) | 50 | 32 in data/analytics/finance occupations | Nov 19 14:47 ET |
+| 22 | PennState University | Part-Time Research Assistant – Penn State Research Kitchen  | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 23 | University of Miami | Research Associate 1 | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 24 | Mount Sinai Health System (Icahn School of Medicine) | Research Assistant I-Psychiatry | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 25 | Mount Sinai Health System (Icahn School of Medicine) | Research Assistant I - Neurosciences | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 26 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 19 11:30 ET |
+| 27 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 28 | Nationwide Children's Hospital | Research Associate- Research Translational Brigstock | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 29 | Nationwide Children's Hospital | Research Associate | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 30 | SiTime | Data Analyst | 44 | 1 in data/analytics/finance occupations | Nov 19 12:37 ET |
+| 31 | SiTime | Data Engineer | 10057 | 40 | 1 in data/analytics/finance occupations | Nov 19 12:27 ET |
+| 32 | ISS | Institutional Shareholder Services | Custom Research Analyst (Temporary) | 40 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 33 | TransUnion | Senior Analysts, Data Science & Analytics | 81 | 66 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 34 | 7-Eleven | Fuel Pricing Analyst II | 68 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 35 | Seattle Childrens Hospital | Senior Data Analyst - Patient Access/Strategy & Business Development | 60 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 36 | Merck | Senior Scientist, Biostatistics, CMC Statistics | 59 | 71 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 37 | Horizon media | Senior Analyst, Business Intelligence | 58 | 12 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 38 | RingCentral | Senior Agentic AI Engineer | 57 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 39 | Amazon | Senior Economist, Pricing Science  | 57 | 3890 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 40 | Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology | 55 | cap-exempt employer | Nov 18 (board gives the date only) |
+| 41 | Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business | 55 | 1053 in data/analytics/finance occupations | Nov 19 04:07 ET |
+| 42 | Protiviti | Senior Legal Data Engineer | 55 | 4 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 43 | JP Morgan Chase | Data Science Senior Associate - Wealth Management | 55 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] VSP Vision | Business Data Analyst
+## 1. [MAYBE] AffirmedRx | Data Scientist 
+- Link: https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5489923008
+- Location: Remote
+- Posted: Nov 19 16:09 ET
+- Scanner fit: ~81 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, forecast, llm, machine learning, nlp, pandas, python, sql, statistic, data quality, healthcare, pipeline, quantitative, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+AffirmedRx is on a mission to improve health care outcomes by bringing clarity, integrity, and trust to pharmacy benefit management. We are committed to making pharmacy benefits easy to understand, straightforward to access and always in the best interest of employers and the lives they impact. We accomplish this by bringing total clarity to business practices, leading with clinical approaches, and utilizing state-of-the-art technology. Join us in improving health care outcomes for all!&nbsp; We promise to do what’s right, always. Position Summary: The Data Scientist (AI/ML) designs, builds, and validates the advanced analytics that turn pharmacy, claims, clinical, and member data into decisions. This is a hands-on modeling role: the person owns machine learning models end to end, applies AI and natural language processing to unstructured clinical and member data, resolves member identity across fragmented data sources, and packages results into tools and dashboards the business can use. The role sits at the intersection of data science, clinical/pharmacy reporting, and applied AI, and partners closely with data engineering, clinical, reporting, and client-success teams. What you will do: &nbsp; Machine Learning and Predictive Modeling: Build predictive and prescriptive ML models for pharmacy cost and risk (e.g., forecasting second-year member spend), including feature engineering, model selection, and explainability analysis (e.g., SHAP-based feature attribution) Develop member-level risk and comorbidity scoring, mapping drug identifiers (NDC → ATC) to clinical conditions and severity weights, and validating outputs against edge cases Apply ML to automate high-effort clinical operations processes (e.g., prior-authorization override automation), moving manual workflows into rules-based and model-driven pipelines Applied AI and Natural Language Processing:&nbsp; Use AI/NLP to analyze unstructured member and clinical text — sentiment analysis, topic modeling, and tokenization of open-ended survey and feedback data Apply AI tooling (LLMs / copilots and internal AI services) to automate clinical policy and documentation workflows, including prompt design, output validation, and controls against hallucination and format drift Contribute to the organization’s broader AI direction: evaluating models, defining evaluation/answer-key datasets, and building drift and validation checks for AI outputs Member Identity Resolution and Data Quality:&nbsp; &nbsp; Design and maintain probabilistic (fuzzy) matching logic to assign and reconcile unique member identifiers across carriers and source systems, including collision handling, cluster analysis, and audit/logging frameworks Monitor and improve match rates, investigate false positives and fragmentation, and document data lineage and safeguards against duplicates Clinical and Pharmacy Analytics: Produce clinical and pharmacy analytics such as medication adherence and persistence (drug-, class-, and NDC-level), aligned to compliance requirements (e.g., URAC / PQA measures) QA and validate reporting products (e.g., pharmacy trend dashboards, PMPM metrics), reconciling data-point discrepancies across source systems &nbsp; Analytical Tooling and Delivery: Build analytical tools and prototypes (e.g., formulary/tier decision tools and cost-comparison tools), including lightweight front ends (e.g., Streamlit) for sales, clinical, and pricing use Deliver validated datasets and tables into the data warehouse in partnership with data engineering, and support the transition of prototypes into production &nbsp; Validation, Documentation, and Collaboration: Own QA and validation for analytical outputs, including auditing of claims files and validation of model results before release Document models, logic, data sources, schedules, and troubleshooting steps to make work reproducible and auditable Collaborate across clinical, reporting, pricing, client-success, and engineering stakeholders to gather requirements and translate them into analytical specifications What you need: Complete the Aptive Index Assessment by using this link: https://assessment.aptiveindex.com/s/6qGr5DbJ7gES Degree in a quantitative field (data science, statistics, computer science, applied math) or equivalent experience 2–3 years of experience using Python and SQL for data analysis, machine learning, NLP, data quality, and record-matching solutions. Data modeling experience in PBM and/or healthcare industry in general preferred Strong Python for data science and ML (e.g., pandas plus a modeling stack), and proficiency in SQL Demonstrated experience building and validating ML models, including feature engineering and model explainability Experience with NLP techniques (sentiment analysis, topic modeling) and with applying AI/LLM tooling to real workflows, including output validation Experience with entity resolution / probabilistic record matching and data-quality analysis Comfort working with a modern cloud data warehouse and data lake, and partnering with data engineering on production hand-off Healthcare, pharmacy benefit management (PBM), or claims-data experience Familiarity with pharmacy data concepts (NDC, GPI, ATC, formulary tiers, prior authorization, rebates) Experience with compliance-driven reporting (e.g., URAC / PQA measures) Experience building analytical front ends or dashboards (e.g., Streamlit, BI tools) for non-technical stakeholders Willingness and ability to travel (10%-20%) What you get: To impact industry change in the pharmacy benefits management space, while delivering the highest quality patient outcomes To work in a culture where people thrive because when OUR team thrives, OUR business thrives Competitive compensation, including health, dental, vision and other benefits Note:&nbsp; AffirmedRx is committed to providing equal employment opportunities to all employees and applicants for employment. Remote employees are expected to maintain a professional work environment free of distractions to ensure optimal performance and collaboration. &nbsp;
+
+---
+
+## 2. [MAYBE] VSP Vision | Business Data Analyst
 - Link: https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Business-Data-Analyst_R-10159-1
 - Location: Remote US
 - Posted: Nov 19 (board gives the date only)
@@ -62,7 +80,7 @@ The Business Data Analyst supports a business team’s ability to leverage data 
 
 ---
 
-## 2. [MAYBE] Brown & Brown Insurance | Data Quality & Governance Coordinator
+## 3. [MAYBE] Brown & Brown Insurance | Data Quality & Governance Coordinator
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---Maryland/Application-Support-Specialist_R26_0000003198-1
 - Location: Remote - Maryland
 - Posted: Nov 18 (board gives the date only)
@@ -77,7 +95,7 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 3. [MAYBE] Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management
+## 4. [MAYBE] Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management
 - Link: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Corporate-Banking-Analyst---Fund-Finance-Portfolio-Management_R-588516
 - Location: NEW YORK, NY
 - Posted: Nov 18 (board gives the date only)
@@ -92,7 +110,7 @@ Corporate & Investment Banking (“CIB”) delivers a comprehensive suite of cap
 
 ---
 
-## 4. [MAYBE] Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management
+## 5. [MAYBE] Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management
 - Link: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Corporate-Banking-Analyst---Fund-Finance-Portfolio-Management_R-585144
 - Location: CHARLOTTE, NC
 - Posted: Nov 19 (board gives the date only)
@@ -107,7 +125,7 @@ Corporate & Investment Banking (“CIB”) delivers a comprehensive suite of cap
 
 ---
 
-## 5. [MAYBE] Google | Engineering Analyst, Enterprise Payments
+## 6. [MAYBE] Google | Engineering Analyst, Enterprise Payments
 - Link: https://www.google.com/about/careers/applications/jobs/results/103582025100731078
 - Location: Seattle, WA, USA
 - Posted: Nov 19 05:10 ET
@@ -122,7 +140,7 @@ On this team, you're a big-picture thinker and strategic leader. You will work g
 
 ---
 
-## 6. [MAYBE] Google | Engineering Analyst, Trust and Safety, Payments
+## 7. [MAYBE] Google | Engineering Analyst, Trust and Safety, Payments
 - Link: https://www.google.com/about/careers/applications/jobs/results/118661277319865030
 - Location: Seattle, WA, USA
 - Posted: Nov 19 05:10 ET
@@ -137,7 +155,7 @@ Trust and Safety team members are tasked with identifying and taking on the bigg
 
 ---
 
-## 7. [MAYBE] TD Synnex | Cloud Billing Analyst - CCA
+## 8. [MAYBE] TD Synnex | Cloud Billing Analyst - CCA
 - Link: https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Miramar-Florida-United-States/Cloud-Billing-Analyst---CCA_R58116
 - Location: Miramar, Florida, United States
 - Posted: Nov 18 (board gives the date only)
@@ -152,7 +170,7 @@ Job Description: The Cloud Billing Operations team is responsible for managing a
 
 ---
 
-## 8. [MAYBE] Zillow | Resource Planning Analyst
+## 9. [MAYBE] Zillow | Resource Planning Analyst
 - Link: https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Resource-Planning-Analyst_P751644-2
 - Location: Remote-USA
 - Posted: Nov 19 (board gives the date only)
@@ -167,7 +185,7 @@ About the team The Workforce Management team helps power a consistent, high-qual
 
 ---
 
-## 9. [MAYBE] Amentum | Data Engineer
+## 10. [MAYBE] Amentum | Data Engineer
 - Link: https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/Data-Engineer_R0173157-11
 - Location: US-TX-Houston
 - Posted: Nov 18 (board gives the date only)
@@ -182,7 +200,7 @@ Are you passionate about human space exploration, understanding the origins of t
 
 ---
 
-## 10. [MAYBE] Clairo | Imaging Research Associate I
+## 11. [MAYBE] Clairo | Imaging Research Associate I
 - Link: https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/United-States-Remote/Imaging-Research-Associate_R15448
 - Location: United States Remote
 - Posted: Nov 19 (board gives the date only)
@@ -197,7 +215,7 @@ At Clario, a part of Thermo Fisher Scientific, the Imaging Research Associate I 
 
 ---
 
-## 11. [MAYBE] Profound Medical | Data Scientist
+## 12. [MAYBE] Profound Medical | Data Scientist
 - Link: https://profoundmedical.bamboohr.com/careers/366
 - Location: Mississauga Ontario
 - Posted: new since the previous sweep (board shows no date)
@@ -212,7 +230,7 @@ Our mission is to Profoundly change the standard of care by creating a tomorrow 
 
 ---
 
-## 12. [MAYBE] Turner & Townsend | Business Intelligence Analyst
+## 13. [MAYBE] Turner & Townsend | Business Intelligence Analyst
 - Link: https://jobs.smartrecruiters.com/TurnerTownsend/744000162572634
 - Location: USA wide us remote
 - Posted: Nov 19 12:41 ET
@@ -227,7 +245,7 @@ About the role Our Technology Division is a highly successful and growing busine
 
 ---
 
-## 13. [MAYBE] University of Texas - Austin | Research Scientist - Arts, Humanities, and Ethics
+## 14. [MAYBE] University of Texas - Austin | Research Scientist - Arts, Humanities, and Ethics
 - Link: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Research-Scientist---Arts--Humanities--and-Ethics_R_00050089
 - Location: UT MAIN CAMPUS
 - Posted: Nov 19 (board gives the date only)
@@ -242,7 +260,7 @@ Job Posting Title: Research Scientist - Arts, Humanities, and Ethics ---- Hiring
 
 ---
 
-## 14. [MAYBE] Goldbelt | Job Posting Title Preclinical Laboratory Research Assistant
+## 15. [MAYBE] Goldbelt | Job Posting Title Preclinical Laboratory Research Assistant
 - Link: https://careers-goldbeltapex.icims.com/jobs/21268/preclinical-laboratory-research-assistant/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -257,7 +275,7 @@ Preclinical Laboratory Research Assistant in Silver Spring, Maryland | Careers a
 
 ---
 
-## 15. [MAYBE] ElevenLabs | Data Scientist - Product Analytics
+## 16. [MAYBE] ElevenLabs | Data Scientist - Product Analytics
 - Link: https://jobs.ashbyhq.com/ElevenLabs/41b892ba-b530-44cb-9ae1-178908fc324c
 - Location: United Kingdom United Kingdom Spain Hungary Bulgaria Germany Poland Italy France remote
 - Posted: Nov 19 08:59 ET
@@ -377,7 +395,7 @@ This role is remote-first, so it can be executed from anywhere in Europe, with t
 
 ---
 
-## 16. [MAYBE] Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376
+## 17. [MAYBE] Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376
 - Link: https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189471
 - Location: Dallas, TX, United States US
 - Posted: Nov 19 (board gives the date only)
@@ -392,7 +410,7 @@ Job Duties: Associate, Data Analytics & Reporting with Goldman Sachs Services LL
 
 ---
 
-## 17. [MAYBE] Dell Technologies | Consultant, Data Engineering
+## 18. [MAYBE] Dell Technologies | Consultant, Data Engineering
 - Link: https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300054
 - Location: TX, United States US
 - Posted: Nov 19 (board gives the date only)
@@ -407,7 +425,7 @@ SUMMARY Build the data foundation that grounds AI agents on facts they can trust
 
 ---
 
-## 18. [MAYBE] Hitachi | Continuous Improvement Specialist – Digitalization and Analytics
+## 19. [MAYBE] Hitachi | Continuous Improvement Specialist – Digitalization and Analytics
 - Link: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Richland-Mississippi-United-States/Continuous-Improvement-Specialist---Digitalization-and-Analytics_R0152362
 - Location: Richland, Mississippi, United States
 - Posted: Nov 19 (board gives the date only)
@@ -422,7 +440,7 @@ Location: Richland, Mississippi, United States Job ID: R0152362 Date Posted: 202
 
 ---
 
-## 19. [MAYBE] PURE Insurance | Product Analyst
+## 20. [MAYBE] PURE Insurance | Product Analyst
 - Link: https://pureinsurance.wd5.myworkdayjobs.com/pure/job/White-Plains/Product-Analyst_R2817
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -437,7 +455,7 @@ About the role. The State Management Product Analyst is an entry level member of
 
 ---
 
-## 20. [MAYBE] Affirm | Capital Markets Specialist I (2027 Early Career Program)
+## 21. [MAYBE] Affirm | Capital Markets Specialist I (2027 Early Career Program)
 - Link: https://job-boards.greenhouse.io/affirm/jobs/8205833003
 - Location: New York, New York, United States
 - Posted: Nov 19 14:47 ET
@@ -452,7 +470,7 @@ At Affirm, we exist for the moments that matter—giving people a clear, predict
 
 ---
 
-## 21. [MAYBE] PennState University | Part-Time Research Assistant – Penn State Research Kitchen 
+## 22. [MAYBE] PennState University | Part-Time Research Assistant – Penn State Research Kitchen 
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Penn-State-Research-Kitchen-_REQ_0000084467-1
 - Location: Penn State University Park
 - Posted: Nov 19 (board gives the date only)
@@ -467,7 +485,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 22. [MAYBE] University of Miami | Research Associate 1
+## 23. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100102985
 - Location: Miami, FL
 - Posted: Nov 19 (board gives the date only)
@@ -482,7 +500,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 23. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Research Assistant I-Psychiatry
+## 24. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Research Assistant I-Psychiatry
 - Link: https://ejis.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3044679
 - Location: United States US
 - Posted: Nov 19 (board gives the date only)
@@ -497,7 +515,22 @@ Under direct supervision, provides support services for research projects. Respo
 
 ---
 
-## 24. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
+## 25. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Research Assistant I - Neurosciences
+- Link: https://ejis.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3044669
+- Location: United States US
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: aws, excel, healthcare, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Under direct supervision, provides support services for research projects. Conduct alcohol-related behavioral experiments using mouse models, including operant self-administration and other drinking paradigms. Maintain and manage mouse colonies. Perform stereotaxic surgeries and related experimental procedures. Monitor animals throughout behavioral studies. Collect brain tissue for downstream molecular and cellular analyses.. Performs other related duties HS/GED; Bachelor's or Master's degree in science or related field highly preferred No experience required; 1 year experience highly preferred Highly Preferred: Experience conducting behavioral experiments in mice, including mouse handling and behavioral testing Hands-on experience working with laboratory mice, including mouse handling, colony management, and behavioral assessments. Experience with rodent behavioral paradigms; experience with alcohol or drug self-administration is particularly desirable. Strength through Unity and Inclusion The Mount Sinai Health System is committed to fostering an environment where everyone can contribute to excellence. We share a common dedication to delivering outstanding patient care. When you join us, you become part of Mount Sinai’s unparalleled legacy of achievement, education, and innovation as we work together to transform healthcare. We encourage all team members to actively participate in creating a culture that ensures fair access to opportunities, promotes inclusive practices, and supports the success of every individual. At Mount Sinai, our leaders are committed to fostering a workplace where all employees feel valued, respected, and empowered to grow. We strive to create an environment where collaboration, fairness, and continuous learning drive positive change, improving the well-being of our staff, patients, and organization. Our leaders are expected to challenge outdated practices, promote a culture of respect, and work toward meaningful improvements that enhance patient care and workplace experiences. We are dedicated to building a supportive and welcoming environment where everyone has the opportunity to thrive and advance professionally. Explore this opportunity and be part of the next chapter in our history. About the Mount Sinai Health System Mount Sinai Health System is one of the nation’s leading integrated academic health systems and one of the largest in the New York metropolitan area. Its comprehensive system includes seven hospitals, more than 400 outpatient practices, over 600 research and clinical laboratories, the Icahn School of Medicine at Mount Sinai, the Graduate School of Biomedical Sciences, and the Mount Sinai Phillips School of Nursing. Together, the Health System comprises approximately 48,000 employees, more than 9,000 physicians, and 8,600 nurses. As a leading learning health system, Mount Sinai combines clinical expertise with scientific discovery to improve patient care while training the next generation of health care and biomedical leaders. The Health System provides care across every stage of life, from prenatal care through geriatrics, while advancing personalized medicine through artificial intelligence, data science, and biomedical research. Mount Sinai is consistently recognized among the nation’s leading academic health systems for patient care, research, and education. The Mount Sinai Hospital is ranked No. 1 in New York by Newsweek® and No. 7 in the U.S. on the magazine’s 2026 World’s Best Hospitals list and No. 3 in the world in its World’s Best Smart Hospitals list. The Icahn School of Medicine at Mount Sinai ranks No. 9 among U.S. medical schools and No. 1 among freestanding medical schools for National Institutes of Health grant funding, reflecting the strength of its scientific enterprise and leadership in biomedical research.
+
+---
+
+## 26. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990016967787
 - Location: Irvine CA us
 - Posted: Nov 19 11:30 ET
@@ -512,7 +545,7 @@ The Statistical Analyst is an integral role in the research and development of n
 
 ---
 
-## 25. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 27. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802326
 - Location: Tampa, FL, United States US
 - Posted: Nov 19 (board gives the date only)
@@ -527,7 +560,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 26. [MAYBE] Nationwide Children's Hospital | Research Associate- Research Translational Brigstock
+## 28. [MAYBE] Nationwide Children's Hospital | Research Associate- Research Translational Brigstock
 - Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Associate--Research-Translational-Brigstock_R-28994-1
 - Location: Main Campus, Columbus, OH
 - Posted: Nov 19 (board gives the date only)
@@ -542,7 +575,7 @@ Overview: Job Description Summary: Conducts independent research within a genera
 
 ---
 
-## 27. [MAYBE] Nationwide Children's Hospital | Research Associate
+## 29. [MAYBE] Nationwide Children's Hospital | Research Associate
 - Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Associate_R-28999-1
 - Location: Main Campus, Columbus, OH
 - Posted: Nov 19 (board gives the date only)
@@ -557,7 +590,7 @@ Overview: Job Description Summary: Conducts independent research within a genera
 
 ---
 
-## 28. [MAYBE] SiTime | Data Analyst
+## 30. [MAYBE] SiTime | Data Analyst
 - Link: https://job-boards.greenhouse.io/sitimecorporation/jobs/4511829009
 - Location: California, Santa Clara
 - Posted: Nov 19 12:37 ET
@@ -572,7 +605,7 @@ About SiTime SiTime is the Precision Timing company. Timing is the heartbeat of 
 
 ---
 
-## 29. [MAYBE] SiTime | Data Engineer | 10057
+## 31. [MAYBE] SiTime | Data Engineer | 10057
 - Link: https://job-boards.greenhouse.io/sitimecorporation/jobs/4509850009
 - Location: United States
 - Posted: Nov 19 12:27 ET
@@ -587,7 +620,7 @@ About SiTime SiTime is the Precision Timing company. Timing is the heartbeat of 
 
 ---
 
-## 30. [MAYBE] ISS | Institutional Shareholder Services | Custom Research Analyst (Temporary)
+## 32. [MAYBE] ISS | Institutional Shareholder Services | Custom Research Analyst (Temporary)
 - Link: https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Washington-DC-US/Custom-Temporary-Research-Analyst_JR_10536
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -602,7 +635,7 @@ ISS Stoxx is hiring! Advance your career with the leading provider of corporate 
 
 ---
 
-## 31. [MAYBE] TransUnion | Senior Analysts, Data Science & Analytics
+## 33. [MAYBE] TransUnion | Senior Analysts, Data Science & Analytics
 - Link: https://transunion.wd5.myworkdayjobs.com/TransUnion/job/White-Plains-New-York/Senior-Analysts--Data-Science---Analytics_19043456
 - Location: White Plains, New York
 - Posted: Nov 19 (board gives the date only)
@@ -617,7 +650,7 @@ TransUnion's Job Applicant Privacy Notice Personal Information We Collect Your P
 
 ---
 
-## 32. [MAYBE] 7-Eleven | Fuel Pricing Analyst II
+## 34. [MAYBE] 7-Eleven | Fuel Pricing Analyst II
 - Link: https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Fuel-Pricing-Analyst_R26_5191
 - Location: see posting
 - Posted: Nov 18 (board gives the date only)
@@ -632,7 +665,7 @@ TransUnion's Job Applicant Privacy Notice Personal Information We Collect Your P
 
 ---
 
-## 33. [MAYBE] Seattle Childrens Hospital | Senior Data Analyst - Patient Access/Strategy & Business Development
+## 35. [MAYBE] Seattle Childrens Hospital | Senior Data Analyst - Patient Access/Strategy & Business Development
 - Link: https://seattlechildrens.wd5.myworkdayjobs.com/External/job/Leven-Building/Senior-Data-Analyst---Patient-Access-Strategy---Business-Development_R265431
 - Location: Leven Building
 - Posted: Nov 19 (board gives the date only)
@@ -647,7 +680,7 @@ Note: This is a hybrid position in Seattle, WA. We are hiring for two Senior Dat
 
 ---
 
-## 34. [MAYBE] Merck | Senior Scientist, Biostatistics, CMC Statistics
+## 36. [MAYBE] Merck | Senior Scientist, Biostatistics, CMC Statistics
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-Scientist--Biostatistics--CMC-Statistics_R427159-1
 - Location: USA - New Jersey - Rahway
 - Posted: Nov 19 (board gives the date only)
@@ -662,7 +695,22 @@ Job Description This job description outlines the responsibilities, primary acti
 
 ---
 
-## 35. [MAYBE] RingCentral | Senior Agentic AI Engineer
+## 37. [MAYBE] Horizon media | Senior Analyst, Business Intelligence
+- Link: https://horizonmedia.wd1.myworkdayjobs.com/CareerOpportunities/job/New-York-New-York/Senior-Analyst--Business-Intelligence_R0017790
+- Location: New York, New York
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~58 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 12 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: bigquery, dashboard, data visualization, python, spark, sql, statistic, tableau, data quality, git, kpi, portfolio, reporting | Lacks: dbt, looker, snowflake  | Note: title says Senior/II: asks 1 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Description Who We Are Horizon Next is one of the industry's most innovative and data-driven marketing organizations and sits at the intersection of three constantly changing landscapes: people, data, and media. Our business provides strategic leadership to accelerate growth for our clients through brand strategy, media planning and investment, and best in class analytics across all channels. As the leader in innovative business solutions, we are always pushing ourselves to understand what’s next: our next innovation, our next advancement in analytics, the market’s next media evolution, and your next breakthrough idea. Horizon Next operates with the single goal that tomorrow must outperform today. At Horizon, we understand the value that different perspectives can bring to our clients and culture, so we strive for an environment where our employees feel welcomed, safe and empowered. We value YOU and believe that your authentic voice and unique perspective allows us to create a more rewarding culture, and experience, together. Our simple recipe for success? We hire talented people (thinkers, doers, dreamers, makers), challenge them and give them every opportunity to grow. Job Summary The Senior Analyst, Business Intelligence will empower team members across Horizon Next with increased access to the data. They will ensure both technical and non-technical team members have access to the data they need to inform their decision-making processes. The Senior Analyst contribute to the BI team goal of creating data products and solutions that scale across our portfolio of clients. What You’ll Do 70% - Develop and enhance the data and analytics capabilities of Horizon Next Lead and own data modeling and reporting efforts for individual clients to ensure internal and client teams have the data they need to plan and optimize their media campaigns Partner with senior BI team members on cross-client data modeling and reporting efforts to make data as accessible as possible throughout Horizon Next Bring together disparate data sources by building data models that can be used by both technical and non-technical stakeholders Create and maintain automated data tests to ensure high data quality across all data models Collaborate with Data Engineering team members to bring new data sources into our data warehouse and add them into new data models Build and prototype new data products that can increase the BI team’s offerings and capabilities Build data visualizations and dashboards to surface trends and insights to business teams and clients Mentor and level up the skills of your teammates through collaboration and by sharing your expertise 30% - Drive education and adoption of data products across teams Act as a liaison between the Horizon Next Analytics team and other internal teams on matters related to data sources, data access, and reporting availability Educate non-technical team members on our data products and how best to use data to inform their decision-making process Work with Horizon Next clients to understand their data and create meaningful KPIs for media campaigns Who You Are You have experience in the media, advertising, or direct-response industries You have a background in data or analytics but are more interested in building processes, automation, and tooling than providing insights and recommendations You have a history of automating and improving processes to reduce time spent on manual work You have a strong background in SQL and some experience with Python in a work environment You have a proven history of working effectively with both business and engineering/technical teams Preferred Skills & Experience Required Undergraduate degrees in Mathematics, Statistics, or comparable experience 2-4 years of experience in analytics, business intelligence, or a similar field 2-3 years of experience in media, advertising, or similar industry 2-3 years using SQL in a work environment 1-2 years of experience using Python or a similar programming language in a work environment 1-2 years of experience with a cloud data warehouse like Amazon Redshift, Google BigQuery, or Snowflake Preferred Experience with Git or a similar version control system Experience with a query engine like Presto, Hive, or Spark SQL Experience with BI or dashboard tools like Tableau, Looker, or Domo Experience with dbt (data build tool) #LI-TV1 #LI-HYBRID #LI-HN Horizon Media is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Salary Range $95,000.00 - $115,000.00 A successful applicant’s actual base salary may vary based on factors such as individual’s skill sets, experience, training, education, licensure/certifications, and qualifications for the role. As an organization, we take an aptitude and competency-based hiring approach. We provide a competitive total rewards package including a discretionary bonus and a variety of benefits including health insurance coverage, life and disability insurance, retirement savings plans, company paid holidays and unlimited paid time off (PTO), mental health and wellness resources, pet insurance, childcare resources, identity theft insurance, fertility assistance programs, and fitness reimbursement.
+
+---
+
+## 38. [MAYBE] RingCentral | Senior Agentic AI Engineer
 - Link: https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Bulgaria/Senior-Agentic-AI-Engineer_R078150
 - Location: Bulgaria
 - Posted: Nov 18 (board gives the date only)
@@ -677,7 +725,7 @@ Say hello to opportunities. It’s not everyday that you consider starting a new
 
 ---
 
-## 36. [MAYBE] Amazon | Senior Economist, Pricing Science 
+## 39. [MAYBE] Amazon | Senior Economist, Pricing Science 
 - Link: https://www.amazon.jobs/en/jobs/10609671/senior-economist-pricing-science
 - Location: Seattle, Washington, USA
 - Posted: Nov 19 (board gives the date only)
@@ -692,7 +740,7 @@ Are you excited about using economic reasoning to shape decisions that affect mi
 
 ---
 
-## 37. [MAYBE] Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology
+## 40. [MAYBE] Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Remote/C-BRAIN-Senior-Applied-Scientist--Remote----Neurology_JR98761
 - Location: Remote
 - Posted: Nov 18 (board gives the date only)
@@ -707,7 +755,7 @@ Location Remote, US&#xa;&#xa; Scheduled Hours 40 Position Summary The Consortium
 
 ---
 
-## 38. [MAYBE] Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business
+## 41. [MAYBE] Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business
 - Link: https://www.google.com/about/careers/applications/jobs/results/91792511671902918
 - Location: New York, NY, USA ; Chicago, IL, USA ; Mountain View, CA, USA ; Los Angeles, CA, USA ; San Bruno, CA, USA
 - Posted: Nov 19 04:07 ET
@@ -722,7 +770,7 @@ Much of the organization's most valuable signal sits in high-volume unstructured
 
 ---
 
-## 39. [MAYBE] Protiviti | Senior Legal Data Engineer
+## 42. [MAYBE] Protiviti | Senior Legal Data Engineer
 - Link: https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/HOUSTON/Senior-Legal-Data-Engineer_JR-262284
 - Location: HOUSTON
 - Posted: Nov 18 (board gives the date only)
@@ -737,7 +785,7 @@ JOB REQUISITION Senior Legal Data Engineer LOCATION HOUSTON ADDITIONAL LOCATION(
 
 ---
 
-## 40. [MAYBE] JP Morgan Chase | Data Science Senior Associate - Wealth Management
+## 43. [MAYBE] JP Morgan Chase | Data Science Senior Associate - Wealth Management
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789997
 - Location: New York, NY, United States US
 - Posted: Nov 19 (board gives the date only)
