@@ -15,25 +15,30 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 9 | Clairo | Imaging Research Associate I | 57 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
 | 10 | Profound Medical | Data Scientist | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
 | 11 | Turner & Townsend | Business Intelligence Analyst | 54 | 3 in data/analytics/finance occupations | Nov 19 12:41 ET |
-| 12 | ElevenLabs | Data Scientist - Product Analytics | 53 | none found (check myvisajobs) | Nov 19 08:59 ET |
-| 13 | Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376 | 52 | 772 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 14 | Hitachi | Continuous Improvement Specialist – Digitalization and Analytics | 50 | 2 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 15 | PURE Insurance | Product Analyst | 50 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 16 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 19 11:30 ET |
-| 17 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 18 | Nationwide Children's Hospital | Research Associate- Research Translational Brigstock | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 19 | Nationwide Children's Hospital | Research Associate | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 20 | SiTime | Data Analyst | 44 | 1 in data/analytics/finance occupations | Nov 19 12:37 ET |
-| 21 | SiTime | Data Engineer | 10057 | 40 | 1 in data/analytics/finance occupations | Nov 19 12:27 ET |
-| 22 | ISS | Institutional Shareholder Services | Custom Research Analyst (Temporary) | 40 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 23 | TransUnion | Senior Analysts, Data Science & Analytics | 81 | 66 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 24 | 7-Eleven | Fuel Pricing Analyst II | 68 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 25 | RingCentral | Senior Agentic AI Engineer | 57 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 26 | Amazon | Senior Economist, Pricing Science  | 57 | 3890 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 27 | Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology | 55 | cap-exempt employer | Nov 18 (board gives the date only) |
-| 28 | Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business | 55 | 1053 in data/analytics/finance occupations | Nov 19 04:07 ET |
-| 29 | Protiviti | Senior Legal Data Engineer | 55 | 4 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 30 | JP Morgan Chase | Data Science Senior Associate - Wealth Management | 55 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 12 | University of Texas - Austin | Research Scientist - Arts, Humanities, and Ethics | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 13 | ElevenLabs | Data Scientist - Product Analytics | 53 | none found (check myvisajobs) | Nov 19 08:59 ET |
+| 14 | Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376 | 52 | 772 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 15 | Dell Technologies | Consultant, Data Engineering | 52 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 16 | Hitachi | Continuous Improvement Specialist – Digitalization and Analytics | 50 | 2 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 17 | PURE Insurance | Product Analyst | 50 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 18 | Affirm | Capital Markets Specialist I (2027 Early Career Program) | 50 | 32 in data/analytics/finance occupations | Nov 19 14:47 ET |
+| 19 | PennState University | Part-Time Research Assistant – Penn State Research Kitchen  | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 20 | University of Miami | Research Associate 1 | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 21 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 19 11:30 ET |
+| 22 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 23 | Nationwide Children's Hospital | Research Associate- Research Translational Brigstock | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 24 | Nationwide Children's Hospital | Research Associate | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 25 | SiTime | Data Analyst | 44 | 1 in data/analytics/finance occupations | Nov 19 12:37 ET |
+| 26 | SiTime | Data Engineer | 10057 | 40 | 1 in data/analytics/finance occupations | Nov 19 12:27 ET |
+| 27 | ISS | Institutional Shareholder Services | Custom Research Analyst (Temporary) | 40 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 28 | TransUnion | Senior Analysts, Data Science & Analytics | 81 | 66 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 29 | 7-Eleven | Fuel Pricing Analyst II | 68 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 30 | RingCentral | Senior Agentic AI Engineer | 57 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 31 | Amazon | Senior Economist, Pricing Science  | 57 | 3890 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 32 | Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology | 55 | cap-exempt employer | Nov 18 (board gives the date only) |
+| 33 | Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business | 55 | 1053 in data/analytics/finance occupations | Nov 19 04:07 ET |
+| 34 | Protiviti | Senior Legal Data Engineer | 55 | 4 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 35 | JP Morgan Chase | Data Science Senior Associate - Wealth Management | 55 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
 
 ---
 
@@ -202,7 +207,22 @@ About the role Our Technology Division is a highly successful and growing busine
 
 ---
 
-## 12. [MAYBE] ElevenLabs | Data Scientist - Product Analytics
+## 12. [MAYBE] University of Texas - Austin | Research Scientist - Arts, Humanities, and Ethics
+- Link: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Research-Scientist---Arts--Humanities--and-Ethics_R_00050089
+- Location: UT MAIN CAMPUS
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time (20 h/week stated)
+- Title scope: core | Has: aws, statistic, healthcare, reporting, research | Lacks: -
+- Eligibility: CHECK | Experience contributing to grant proposals, sponsored-project development, or other external funding activities. / ---- E-Verify: The University of Texas at Austin use E-Verify to check the work authorization of all new hires effective May 2015.
+
+### Job description
+
+Job Posting Title: Research Scientist - Arts, Humanities, and Ethics ---- Hiring Department: School of Social Work ---- Position Open To: All Applicants ---- Weekly Scheduled Hours: 40 ---- FLSA Status: Exempt from FLSA ---- Earliest Start Date: Dec 01, 2026 ---- Position Duration: Expected to Continue ---- Location: UT MAIN CAMPUS ---- Job Details: General Notes About UT Austin The University of Texas at Austin, founded in 1883, ranks among the nation’s leading public research universities. The university advances knowledge, creativity, and positive social impact through teaching, research, and service. About UT Social Work For more than 75 years, the School of Social Work at The University of Texas at Austin has prepared leaders and change-makers committed to advancing society through innovative teaching, impactful scholarship, and compassionate service. UT Social Work is recognized for interdisciplinary approaches to social work education, research, and community engagement. This job description may not include every duty or responsibility assigned to the position. Candidates who meet most, but not all, qualifications are encouraged to apply. Purpose The Research Scientist provides research, programmatic, and partnership leadership for the Arts & Humanities Program area within the Moritz Center. Working closely with Center leadership and key collaborators, the position will ensure the program’s strategic direction, develop and support interdisciplinary projects, strengthen relationships with other UT schools and departments, and expand the resources and community needed to sustain the work. This is a one-year, contract-funded position with anticipated, but not guaranteed, renewal subject to continued funding. Responsibilities Arts & Humanities Domain Development and Strategic Leadership Partner with School and Moritz Center leadership to manage and direct the Arts & Humanities Program. Help establish priorities, goals, operating plans, and measures of success for the program. Work closely with designated collaborators to coordinate and advance domain priorities. Research, Projects, and Scholarly Dissemination Develop, coordinate, and support research, programming, and special projects within the Arts & Humanities Program. Contribute to manuscript and report development that communicates the activities, findings, and outcomes of the program. Translate project work into scholarly, institutional, donor-facing, and public-facing materials, as appropriate. Interdisciplinary Partnerships and Engagement With leadership, support and advance collaborative work with Dell Medical School and the Hogg Foundation for Mental Health. Serve as a connector for faculty, researchers, students, and other partners across UT Austin who have an interest in the Moritz Center and the Arts & Humanities Program. Build relationships that create opportunities for interdisciplinary research, learning, and programming. External Funding and Program Sustainability Identify and pursue external funding opportunities to support awards, research, and programming related to the Arts & Humanities Program. Lead proposal development, including concept development, project narratives, supporting materials, and coordination with internal partners. Support the development of sustainable funding strategies for the program’s long-term work. Development and Donor Engagement In partnership with leadership and Development, support donor engagement and development opportunities aligned with the Arts & Humanities Program. Help prepare project concepts, impact information, and other materials that communicate the program’s priorities and accomplishments to prospective supporters. Perform other related duties as assigned. Required Qualifications Masters degree in social work, humanities, arts, ethics, public health, health sciences, education, or a related field, or a doctoral degree with substantial relevant research experience. Demonstrated experience developing and/or supporting interdisciplinary research, academic programming, or mission-driven initiatives. Experience contributing to grant proposals, sponsored-project development, or other external funding activities. Strong scholarly and professional writing skills, including experience preparing manuscripts, reports, proposals, or comparable products. Demonstrated ability to build collaborative relationships with faculty, students, institutional leaders, and external partners. Strong project management, organizational, and communication skills, with the ability to work independently and manage multiple priorities. Equivalent combinations of relevant education and experience may be substituted as appropriate. Preferred Qualifications Doctoral degree in social work, humanities, arts, ethics, public health, health sciences, education, or a related field, or a doctoral degree with substantial relevant research experience. Experience working at the intersection of arts, humanities, ethics, health, mental health, or social work. Experience in a university, academic research center, healthcare, foundation, or nonprofit setting. Record of interdisciplinary collaboration across academic or organizational units. Experience securing or administering grant, foundation, or philanthropic support. Experience engaging faculty and students in research, programming, or scholarly communities. Familiarity with development, donor engagement, or advancement activities in higher education. Salary Range $90,000 (+ depending on experience) Working Conditions Standard office conditions, with regular collaboration with School and Center leadership, faculty, staff, students, and external partners. This position is based in Austin, Texas. On-site or hybrid work may be available based on business needs and School approval. Occasional travel and evening or weekend work may be required for programs, events, or partner activities. Work Shift Monday through Friday during standard business hours. Hours and days may vary based on business needs. Required Materials Resume or curriculum vitae. Letter of interest describing relevant experience and interest in the position. 3 professional references with contact information; at least one should be a current or former supervisor. ---- Employment Eligibility: Regular staff who have been employed in their current position for the last six continuous months are eligible for openings being recruited for through University-Wide or Open Recruiting, to include both promotional opportunities and lateral transfers. Staff who are promotion/transfer eligible may apply for positions without supervisor approval. ---- Retirement Plan Eligibility: The retirement plan for this position is Teacher Retirement System of Texas (TRS), subject to the position being at least 20 hours per week and at least 135 days in length. This position has the option to elect the Optional Retirement Program (ORP) instead of TRS, subject to the position being 40 hours per week and at least [...]
+
+---
+
+## 13. [MAYBE] ElevenLabs | Data Scientist - Product Analytics
 - Link: https://jobs.ashbyhq.com/ElevenLabs/41b892ba-b530-44cb-9ae1-178908fc324c
 - Location: United Kingdom United Kingdom Spain Hungary Bulgaria Germany Poland Italy France remote
 - Posted: Nov 19 08:59 ET
@@ -322,7 +342,7 @@ This role is remote-first, so it can be executed from anywhere in Europe, with t
 
 ---
 
-## 13. [MAYBE] Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376
+## 14. [MAYBE] Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376
 - Link: https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189471
 - Location: Dallas, TX, United States US
 - Posted: Nov 19 (board gives the date only)
@@ -337,7 +357,22 @@ Job Duties: Associate, Data Analytics & Reporting with Goldman Sachs Services LL
 
 ---
 
-## 14. [MAYBE] Hitachi | Continuous Improvement Specialist – Digitalization and Analytics
+## 15. [MAYBE] Dell Technologies | Consultant, Data Engineering
+- Link: https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300054
+- Location: TX, United States US
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~52 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, etl, llm, nlp, python, spark, sql, ai agent, pipeline | Lacks: airflow, databricks, java  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+SUMMARY Build the data foundation that grounds AI agents on facts they can trust. You turn raw, messy, multi-source data — structured feeds and unstructured content alike — into canonical, provenance-tagged, SLA-fresh Gold data that the Knowledge & Intelligence layer serves. Working with business leaders and internal customers, you set the design standards and assurance processes that keep the pipeline compatible, operable, and traceable end to end. This is hands-on data engineering where correctness and lineage aren't nice-to-haves — they're the product. You develop fundamentally new approaches to pull meaning out of data, and every record you land answers the question “where did this come from, and can we trust it?” What You'll Own The medallion pipeline. Take landed data through Bronze → Silver → Gold — conforming structured sources and extracted content to Gold within its freshness SLA, with traceable lineage at every hop. Entity resolution. Own the resolve gate that turns many sources into one canonical identity — the join everything downstream depends on. Model-based extraction lanes. Build the NLP- and LLM-assisted lanes that pull structure out of unstructured content across many content types — HTML, PDF, DAM assets, and more — tagged as evidence, not fact. Provenance and trust. Tag provenance and trust tier on every record. Quarantine what fails the gate with its reason attached, rather than silently dropping it. Performance at scale. Keep high-volume data in the lakehouse — and the served layer — lean and fast. Why This Role? You own the layer everything else is built on. If the grounded facts are right, every agent that reads them is more trustworthy; if they're wrong, nothing downstream can save it — so this is where the leverage really is. Genuinely hard, genuinely new work: production-grade extraction from unstructured content, resolution at scale, and lineage you can defend — not another ETL backlog. A pod where provenance and trust are first-class engineering concerns, with the mandate to build the gates that enforce them. Essential Requirements: Lakehouse platforms — Databricks, IOMETE, or similar. In-depth Spark — massive-volume data processing and fine-tuning. PySpark, Java, and Python. Table formats — in-depth knowledge of Iceberg, Delta Lake, or similar. Advanced querying on RDBMS — complex data retrieval across Teradata, Oracle, SingleStore, and SQL Server. Deep understanding of data integrity and consistency. Workflow frameworks — Airflow, AWS Step Functions, or similar. Chunking, embeddings, and vector databases. S3-compatible storage. MongoDB — nice to have. Compensation Dell is committed to fair and equitable compensation practices. The salary range for this position is USD $187,850 - USD $243,100 Benefits and Perks of working at Dell Technologies Your life. Your health. Supported by your benefits. You can explore the overall benefits experience that awaits you as a Dell Technologies team member — right now at MyWellatDell.com
+
+---
+
+## 16. [MAYBE] Hitachi | Continuous Improvement Specialist – Digitalization and Analytics
 - Link: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Richland-Mississippi-United-States/Continuous-Improvement-Specialist---Digitalization-and-Analytics_R0152362
 - Location: Richland, Mississippi, United States
 - Posted: Nov 19 (board gives the date only)
@@ -352,7 +387,7 @@ Location: Richland, Mississippi, United States Job ID: R0152362 Date Posted: 202
 
 ---
 
-## 15. [MAYBE] PURE Insurance | Product Analyst
+## 17. [MAYBE] PURE Insurance | Product Analyst
 - Link: https://pureinsurance.wd5.myworkdayjobs.com/pure/job/White-Plains/Product-Analyst_R2817
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -367,7 +402,52 @@ About the role. The State Management Product Analyst is an entry level member of
 
 ---
 
-## 16. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
+## 18. [MAYBE] Affirm | Capital Markets Specialist I (2027 Early Career Program)
+- Link: https://job-boards.greenhouse.io/affirm/jobs/8205833003
+- Location: New York, New York, United States
+- Posted: Nov 19 14:47 ET
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 32 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, python, sql, credit, risk, trading | Lacks: scala  | Note: early-talent program
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. About Affirm’s Early Career Program&nbsp; Affirm’s Early Career Program (ECP) brings together interns and new graduates across Engineering, Business, and Risk &amp; Analytics. You’ll do meaningful work alongside your team while becoming part of a community of peers who are learning and growing together. Through our structured one-year program, you’ll get dedicated onboarding, mentorship, and professional development to help support your growth and confidence. And with our hybrid-office approach, you’ll have opportunities to connect in person, collaborate with your team, and build relationships across Affirm. About the Capital team&nbsp; The Capital team manages the financial foundation that supports Affirm’s lending and innovation. We lead the funding, liquidity, and risk management strategy across capital markets, treasury, deal structuring, analytics, and bank partnerships. The team secures efficient funding while supporting sustainable business growth. We balance cost, flexibility, and risk to ensure Affirm’s financial resilience through all economic cycles. By optimizing capital structure and managing liquidity, we help build a scalable and resilient financial platform. About the role We're looking for an outstanding team member to join Affirm’s Capital Markets team! Affirm Capital is responsible for raising the capital that funds our originations, a critical part of Affirm’s revenue strategy. As a Capital Markets Specialist I, you will own a significant portion of the platform’s day-to-day capital activities, which drive Affirm’s ability to scale its consumer point-of-sale lending business globally. This is a complex role that is essential to the functioning of a consumer finance and payments platform. The ideal team member will have a strong desire to grow their knowledge in structured debt finance or debt capital markets; strong technical and interpersonal skills; and the desire to work closely with both internal and external stakeholders. What you’ll do Manage and execute the Capital Markets team’s work streams, with an initial focus on operations, which requires frequent collaboration with numerous internal and external counterparts Actively work on Affirm’s existing and prospective capital transactions including; asset-backed securities (‘ABS’), whole loan sales (‘forward flow’), warehouse / debt financing structures and international funding facilities (Canada, UK and beyond)! You will assist in structuring, negotiating, and executing our transactions with the goal of growing into a deal leadership role over time Take charge of cross-functional communication with Engineering, Product, Commercial, and Credit/Risk teams to drive scale for Affirm’s capital platform and funding strategy Build and manage relationships with existing and potential investors Develop a strong understanding of Affirm’s business from a unique perspective and learn how Capital Markets fits into broader corporate initiatives What we look for On track to graduate in Spring 2027 with a degree in Finance, Economics, or a related field Interest in structured finance, private credit, debt capital markets, investment banking, fixed income sales &amp; trading, or another credit-oriented role Financial modeling and transaction management experience, along with an understanding of fixed income principles Exceptional communication skills and ability to manage relationships with internal and external stakeholders Experience with Excel; SQL and&nbsp; Python a plus High level of humility, accountability and a strong desire to learn and grow Excellent analytical skills and attention to detail Clear alignment with Affirm’s core values Base Pay Grade - H Equity Grade - 2 Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.&nbsp; Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.) For incentive-based roles, the range provided is the role’s On Target Earnings ("OTE") range, which includes the annual base pay and the incentive target.&nbsp; NY On Target Earnings per year: $125,000 - $187,500 Remote-first with flexibility built in Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience. Benefits designed for you Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights: Health coverage at no cost: We cover 100% of premiums for employees and their dependents. Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you. Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to. Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount. We’re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we’re happy to help. For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law. By clicking "Submit Application," you acknowledge that you have read Affirm's&nbsp; Global Candidate Privacy Notice and consent to the use of your personal information as described.
+
+---
+
+## 19. [MAYBE] PennState University | Part-Time Research Assistant – Penn State Research Kitchen 
+- Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Penn-State-Research-Kitchen-_REQ_0000084467-1
+- Location: Penn State University Park
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: part-time (20 h/week stated)
+- Title scope: core | Has: excel, statistic, reporting, research | Lacks: -  | Note: part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process . Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday. If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants . Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants . JOB DESCRIPTION AND POSITION REQUIREMENTS The Penn State Research Kitchen is seeking part-time employees to join our highly productive team. The Kitchen produces tightly controlled meals and diets for research studies conducted at Penn State. The position involves preparing, cooking, and packing research meals and snacks according to standard protocols and recipes. In addition, the position involves engaging with research participants to provide instructions and assess adherence to the research protocol, research-related administrative tasks, and data entry. We seek candidates who are proactive, task-oriented, attentive to detail, and have excellent communication and organizational skills. Prior experiences in commercial kitchens, hospitality, or customer service a plus, but a positive attitude, love of food and a willingness to learn and work as an individual or as part of a team depending on the task is the main requirement. Applicants must be willing to undertake training in human subjects research (training will be provided). The successful candidate will be available to work for at least 20 hours per week year-round. Typical hours will be Monday to Friday 7:30 am to 11:30 am. This is an in-person job in State College, Pennsylvania with competitive wages starting at $18.00/hour. Applicants must submit a resume and a short note indicating your interest in the position and confirming your availability for the required weekday schedule. BACKGROUND CHECKS/CLEARANCES Employment with the University will require successful completion of background check(s) in accordance with University policies. CAMPUS SECURITY CRIME STATISTICS Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here .
+
+---
+
+## 20. [MAYBE] University of Miami | Research Associate 1
+- Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100102985
+- Location: Miami, FL
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, statistic, publication, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Current Employees: If you are a current Staff, Faculty or Temporary employee at the University of Miami, please click here to log in to Workday to use the internal application process. To learn how to apply for a faculty or staff position, please review this tip sheet . The University of Miami/UHealth Department of Pediatrics has an exciting opportunity for a full time Research Associate to work in Miami, FL. This position works in conjunction with and under the direct supervision of the UMTCIT Program Coordinator. This individual must possess excellent computer and organizational skills, and be capable of handling a large number of detailed activities, both routine and non-routine, in a prompt and efficient manner. This position has access to confidential information and abides by established guidelines regarding dissemination of information. Responsibilities require skills in data entry, data management, word processing, correspondence, maintenance of records, and interaction with other team members, the University, other agencies and the public. This individual must be flexible and willing to provide support at all times. This position requires strong individual initiative. Core responsibilities: Understands and interprets research protocols and procedures. Participates in the publication of significant results. Maintains an overview of relevant research findings. Ensures all research is undertaken according to good research practice. Keeps abreast of current publications relative to methods, techniques, and developments within the area of research. Collects, prepares, analyzes, dissects, and evaluates specimens or tissue cultures. Operates and maintains laboratory equipment. Performs a variety of routine assays, tests, and studies. Performs calculations to complete research test results, collects data, and performs statistical analysis of laboratory results. Adheres to University and unit-level policies and procedures and safeguards University assets. Department Specific Functions: Duties and Responsibilities – shall include, but are not limited to, the following: 85% of the time involved in data management: Transcribes and de-identifies bilingual information from parent and teacher focus groups Submits de-identified transcripts and data via secure cloud storage sharing to the External Program Evaluator Scores all bilingual assessment measures Enters UMTCIT related data into appropriate databases (Children's Trust, SPSS) and maintains and organizes relevant databases Collects and organizes data from UMTCIT assessors and coaches Provides UMTCIT assessors and coaches with appropriate forms that need to be completed for data management Assists in the preparation of relevant grant reports 15% of the time involved in preparing program materials and coordinating program activities: Assists with coordination and scheduling of training workshops, assessment sessions, and coaching sessions Provides friendly, efficient, and professional telephone, email, and office contact with UMTCIT team members and school personnel as needed Duplicates teacher handouts, workshop materials, data/coding sheets Prepares assessment packets containing appropriate measures Participates in staff development and in-service training Other duties as assigned by the UMTCIT Program Coordinator This list of duties and responsibilities is not intended to be all-inclusive and may be expanded to include other duties or responsibilities as necessary. Core Qualifications: Bachelor’s degree in relevant field required Research and data management experience preferred. May require specific word processing/software skills at an advanced level. Bilingual fluency in English and Spanish preferred (reading, writing, speaking) The University of Miami offers competitive salaries and a comprehensive benefits package including medical, dental, tuition remission and more. UHealth-University of Miami Health System, South Florida's only university-based health system, provides leading-edge patient care powered by the ground breaking research and medical education at the Miller School of Medicine. As an academic medical center, we are proud to serve South Florida, Latin America and the Caribbean. Our physicians represent more than 100 specialties and sub-specialties, and have more than one million patient encounters each year. Our tradition of excellence has earned worldwide recognition for outstanding teaching, research and patient care. We're the challenge you've been looking for. The University of Miami
+
+---
+
+## 21. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990016967787
 - Location: Irvine CA us
 - Posted: Nov 19 11:30 ET
@@ -382,7 +462,7 @@ The Statistical Analyst is an integral role in the research and development of n
 
 ---
 
-## 17. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 22. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802326
 - Location: Tampa, FL, United States US
 - Posted: Nov 19 (board gives the date only)
@@ -397,7 +477,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 18. [MAYBE] Nationwide Children's Hospital | Research Associate- Research Translational Brigstock
+## 23. [MAYBE] Nationwide Children's Hospital | Research Associate- Research Translational Brigstock
 - Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Associate--Research-Translational-Brigstock_R-28994-1
 - Location: Main Campus, Columbus, OH
 - Posted: Nov 19 (board gives the date only)
@@ -412,7 +492,7 @@ Overview: Job Description Summary: Conducts independent research within a genera
 
 ---
 
-## 19. [MAYBE] Nationwide Children's Hospital | Research Associate
+## 24. [MAYBE] Nationwide Children's Hospital | Research Associate
 - Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Associate_R-28999-1
 - Location: Main Campus, Columbus, OH
 - Posted: Nov 19 (board gives the date only)
@@ -427,7 +507,7 @@ Overview: Job Description Summary: Conducts independent research within a genera
 
 ---
 
-## 20. [MAYBE] SiTime | Data Analyst
+## 25. [MAYBE] SiTime | Data Analyst
 - Link: https://job-boards.greenhouse.io/sitimecorporation/jobs/4511829009
 - Location: California, Santa Clara
 - Posted: Nov 19 12:37 ET
@@ -442,7 +522,7 @@ About SiTime SiTime is the Precision Timing company. Timing is the heartbeat of 
 
 ---
 
-## 21. [MAYBE] SiTime | Data Engineer | 10057
+## 26. [MAYBE] SiTime | Data Engineer | 10057
 - Link: https://job-boards.greenhouse.io/sitimecorporation/jobs/4509850009
 - Location: United States
 - Posted: Nov 19 12:27 ET
@@ -457,7 +537,7 @@ About SiTime SiTime is the Precision Timing company. Timing is the heartbeat of 
 
 ---
 
-## 22. [MAYBE] ISS | Institutional Shareholder Services | Custom Research Analyst (Temporary)
+## 27. [MAYBE] ISS | Institutional Shareholder Services | Custom Research Analyst (Temporary)
 - Link: https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Washington-DC-US/Custom-Temporary-Research-Analyst_JR_10536
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -472,7 +552,7 @@ ISS Stoxx is hiring! Advance your career with the leading provider of corporate 
 
 ---
 
-## 23. [MAYBE] TransUnion | Senior Analysts, Data Science & Analytics
+## 28. [MAYBE] TransUnion | Senior Analysts, Data Science & Analytics
 - Link: https://transunion.wd5.myworkdayjobs.com/TransUnion/job/White-Plains-New-York/Senior-Analysts--Data-Science---Analytics_19043456
 - Location: White Plains, New York
 - Posted: Nov 19 (board gives the date only)
@@ -487,7 +567,7 @@ TransUnion's Job Applicant Privacy Notice Personal Information We Collect Your P
 
 ---
 
-## 24. [MAYBE] 7-Eleven | Fuel Pricing Analyst II
+## 29. [MAYBE] 7-Eleven | Fuel Pricing Analyst II
 - Link: https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Fuel-Pricing-Analyst_R26_5191
 - Location: see posting
 - Posted: Nov 18 (board gives the date only)
@@ -502,7 +582,7 @@ TransUnion's Job Applicant Privacy Notice Personal Information We Collect Your P
 
 ---
 
-## 25. [MAYBE] RingCentral | Senior Agentic AI Engineer
+## 30. [MAYBE] RingCentral | Senior Agentic AI Engineer
 - Link: https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Bulgaria/Senior-Agentic-AI-Engineer_R078150
 - Location: Bulgaria
 - Posted: Nov 18 (board gives the date only)
@@ -517,7 +597,7 @@ Say hello to opportunities. It’s not everyday that you consider starting a new
 
 ---
 
-## 26. [MAYBE] Amazon | Senior Economist, Pricing Science 
+## 31. [MAYBE] Amazon | Senior Economist, Pricing Science 
 - Link: https://www.amazon.jobs/en/jobs/10609671/senior-economist-pricing-science
 - Location: Seattle, Washington, USA
 - Posted: Nov 19 (board gives the date only)
@@ -532,7 +612,7 @@ Are you excited about using economic reasoning to shape decisions that affect mi
 
 ---
 
-## 27. [MAYBE] Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology
+## 32. [MAYBE] Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Remote/C-BRAIN-Senior-Applied-Scientist--Remote----Neurology_JR98761
 - Location: Remote
 - Posted: Nov 18 (board gives the date only)
@@ -547,7 +627,7 @@ Location Remote, US&#xa;&#xa; Scheduled Hours 40 Position Summary The Consortium
 
 ---
 
-## 28. [MAYBE] Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business
+## 33. [MAYBE] Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business
 - Link: https://www.google.com/about/careers/applications/jobs/results/91792511671902918
 - Location: New York, NY, USA ; Chicago, IL, USA ; Mountain View, CA, USA ; Los Angeles, CA, USA ; San Bruno, CA, USA
 - Posted: Nov 19 04:07 ET
@@ -562,7 +642,7 @@ Much of the organization's most valuable signal sits in high-volume unstructured
 
 ---
 
-## 29. [MAYBE] Protiviti | Senior Legal Data Engineer
+## 34. [MAYBE] Protiviti | Senior Legal Data Engineer
 - Link: https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/HOUSTON/Senior-Legal-Data-Engineer_JR-262284
 - Location: HOUSTON
 - Posted: Nov 18 (board gives the date only)
@@ -577,7 +657,7 @@ JOB REQUISITION Senior Legal Data Engineer LOCATION HOUSTON ADDITIONAL LOCATION(
 
 ---
 
-## 30. [MAYBE] JP Morgan Chase | Data Science Senior Associate - Wealth Management
+## 35. [MAYBE] JP Morgan Chase | Data Science Senior Associate - Wealth Management
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789997
 - Location: New York, NY, United States US
 - Posted: Nov 19 (board gives the date only)
