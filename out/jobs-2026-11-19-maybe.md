@@ -11,34 +11,39 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 5 | Google | Engineering Analyst, Enterprise Payments | 69 | 1053 in data/analytics/finance occupations | Nov 19 05:10 ET |
 | 6 | Google | Engineering Analyst, Trust and Safety, Payments | 68 | 1053 in data/analytics/finance occupations | Nov 19 05:10 ET |
 | 7 | TD Synnex | Cloud Billing Analyst - CCA | 62 | 2 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 8 | Amentum | Data Engineer | 57 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 9 | Clairo | Imaging Research Associate I | 57 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 10 | Profound Medical | Data Scientist | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 11 | Turner & Townsend | Business Intelligence Analyst | 54 | 3 in data/analytics/finance occupations | Nov 19 12:41 ET |
-| 12 | University of Texas - Austin | Research Scientist - Arts, Humanities, and Ethics | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 13 | ElevenLabs | Data Scientist - Product Analytics | 53 | none found (check myvisajobs) | Nov 19 08:59 ET |
-| 14 | Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376 | 52 | 772 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 15 | Dell Technologies | Consultant, Data Engineering | 52 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 16 | Hitachi | Continuous Improvement Specialist – Digitalization and Analytics | 50 | 2 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 17 | PURE Insurance | Product Analyst | 50 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 18 | Affirm | Capital Markets Specialist I (2027 Early Career Program) | 50 | 32 in data/analytics/finance occupations | Nov 19 14:47 ET |
-| 19 | PennState University | Part-Time Research Assistant – Penn State Research Kitchen  | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 20 | University of Miami | Research Associate 1 | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 21 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 19 11:30 ET |
-| 22 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 23 | Nationwide Children's Hospital | Research Associate- Research Translational Brigstock | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 24 | Nationwide Children's Hospital | Research Associate | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 25 | SiTime | Data Analyst | 44 | 1 in data/analytics/finance occupations | Nov 19 12:37 ET |
-| 26 | SiTime | Data Engineer | 10057 | 40 | 1 in data/analytics/finance occupations | Nov 19 12:27 ET |
-| 27 | ISS | Institutional Shareholder Services | Custom Research Analyst (Temporary) | 40 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 28 | TransUnion | Senior Analysts, Data Science & Analytics | 81 | 66 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 29 | 7-Eleven | Fuel Pricing Analyst II | 68 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 30 | RingCentral | Senior Agentic AI Engineer | 57 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 31 | Amazon | Senior Economist, Pricing Science  | 57 | 3890 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 32 | Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology | 55 | cap-exempt employer | Nov 18 (board gives the date only) |
-| 33 | Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business | 55 | 1053 in data/analytics/finance occupations | Nov 19 04:07 ET |
-| 34 | Protiviti | Senior Legal Data Engineer | 55 | 4 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 35 | JP Morgan Chase | Data Science Senior Associate - Wealth Management | 55 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 8 | Zillow | Resource Planning Analyst | 62 | 47 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 9 | Amentum | Data Engineer | 57 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 10 | Clairo | Imaging Research Associate I | 57 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 11 | Profound Medical | Data Scientist | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 12 | Turner & Townsend | Business Intelligence Analyst | 54 | 3 in data/analytics/finance occupations | Nov 19 12:41 ET |
+| 13 | University of Texas - Austin | Research Scientist - Arts, Humanities, and Ethics | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 14 | Goldbelt | Job Posting Title Preclinical Laboratory Research Assistant | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 15 | ElevenLabs | Data Scientist - Product Analytics | 53 | none found (check myvisajobs) | Nov 19 08:59 ET |
+| 16 | Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376 | 52 | 772 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 17 | Dell Technologies | Consultant, Data Engineering | 52 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 18 | Hitachi | Continuous Improvement Specialist – Digitalization and Analytics | 50 | 2 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 19 | PURE Insurance | Product Analyst | 50 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 20 | Affirm | Capital Markets Specialist I (2027 Early Career Program) | 50 | 32 in data/analytics/finance occupations | Nov 19 14:47 ET |
+| 21 | PennState University | Part-Time Research Assistant – Penn State Research Kitchen  | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 22 | University of Miami | Research Associate 1 | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 23 | Mount Sinai Health System (Icahn School of Medicine) | Research Assistant I-Psychiatry | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 24 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 19 11:30 ET |
+| 25 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 26 | Nationwide Children's Hospital | Research Associate- Research Translational Brigstock | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 27 | Nationwide Children's Hospital | Research Associate | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 28 | SiTime | Data Analyst | 44 | 1 in data/analytics/finance occupations | Nov 19 12:37 ET |
+| 29 | SiTime | Data Engineer | 10057 | 40 | 1 in data/analytics/finance occupations | Nov 19 12:27 ET |
+| 30 | ISS | Institutional Shareholder Services | Custom Research Analyst (Temporary) | 40 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 31 | TransUnion | Senior Analysts, Data Science & Analytics | 81 | 66 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 32 | 7-Eleven | Fuel Pricing Analyst II | 68 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 33 | Seattle Childrens Hospital | Senior Data Analyst - Patient Access/Strategy & Business Development | 60 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 34 | Merck | Senior Scientist, Biostatistics, CMC Statistics | 59 | 71 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 35 | RingCentral | Senior Agentic AI Engineer | 57 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 36 | Amazon | Senior Economist, Pricing Science  | 57 | 3890 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 37 | Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology | 55 | cap-exempt employer | Nov 18 (board gives the date only) |
+| 38 | Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business | 55 | 1053 in data/analytics/finance occupations | Nov 19 04:07 ET |
+| 39 | Protiviti | Senior Legal Data Engineer | 55 | 4 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 40 | JP Morgan Chase | Data Science Senior Associate - Wealth Management | 55 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
 
 ---
 
@@ -147,7 +152,22 @@ Job Description: The Cloud Billing Operations team is responsible for managing a
 
 ---
 
-## 8. [MAYBE] Amentum | Data Engineer
+## 8. [MAYBE] Zillow | Resource Planning Analyst
+- Link: https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Resource-Planning-Analyst_P751644-2
+- Location: Remote-USA
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 47 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, excel, forecast, statistic, data quality, risk | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About the team The Workforce Management team helps power a consistent, high-quality experience across Zillow’s contact center operations. We partner closely with customer-facing teams and operational leaders to align staffing, scheduling, and real-time performance with customer needs and business goals. As part of Business Operations, this team uses data and collaboration to support efficient operations and help teams deliver great service every day. About the role The Specialist I, Workforce Management supports effective contact center staffing and performance by maintaining schedules, monitoring real-time volume and service levels, and providing data-driven insights to help leaders meet operational targets and deliver a consistent customer experience. You will get to ● Monitor real-time contact volumes, queues, and schedule adherence, and recommend intraday staffing adjustments to help teams meet service level and response time targets. ● Analyze daily and intraday forecast-to-actual performance, identify trends and variances, and summarize risks and opportunities for workforce performance to supervisors and managers. ● Build, maintain, and adjust schedules, shift bids, and off-phone activities (such as training, meetings, and projects) to align staffing with forecasted demand while supporting team member availability constraints. ● Administer workforce management tools and related reports, ensuring data quality, accurate configuration of skills and queues, and timely distribution of performance and staffing metrics. ● Partner with operations, training, and support teams to coordinate staffing plans for new initiatives, system or process changes, and special events, and document related procedures and playbooks. This role has been categorized as a Remote position. “Remote” employees do not have a permanent corporate office workplace and, instead, work from a physical location of their choice, which must be identified to the Company. U.S. employees may live in any of the 50 United States, with limited exceptions. In California, Connecticut, Maryland, Massachusetts, New Jersey, New York, Washington state, and Washington DC the standard base pay range for this role is $30.20 - $48.20 hourly. This base pay range is specific to these locations and may not be applicable to other locations.&#xa;&#xa;In Colorado, Hawaii, Illinois, Maine, Minnesota, Nevada, Ohio, Rhode Island, Vermont, and Virginia the standard base pay range for this role is $28.60 - $45.80 hourly. The base pay range is specific to these locations and may not be applicable to other locations. In addition to a competitive base salary this position is also eligible for equity awards based on factors such as experience, performance and location. Actual amounts will vary depending on experience, performance and location. Employees in this role will not be paid below the salary threshold for exempt employees in the state where they reside. Who you are ● Bachelor’s degree in Business, Mathematics, Statistics, Operations Management, or a related field. ● 2+ years of experience in workforce management, resource planning, or real-time contact center operations. ● Experience using workforce management or contact center planning tools and generating schedules, forecasts, or performance reports. ● Experience analyzing operational data (e.g., volumes, handle times, shrinkage, staffing) and summarizing insights for non-technical stakeholders. ● Or an equivalent combination of education and experience. Get to know us At Zillow, we’re reimagining how people move—through the real estate market and through their careers. As the most-visited real estate platform in the U.S., we help people navigate buying, selling, financing and renting with greater ease and confidence. Whether you're working in tech, sales, operations, or design, you’ll be part of a company reshaping an industry and helping more people make home a reality. How we work is a key part of that transformation. Through Cloud HQ, our strategic approach to distributed work, most employees have the flexibility to work from wherever they’re most productive—enabling us to move fast, stay connected and deliver on our people promise. Zillow is honored to be recognized among the best workplaces in the U.S. Zillow was named one of FORTUNE 100 Best Companies to Work For® in 2026, and included on TIME’s America’s Best Companies 2026 list , reflecting our commitment to creating an innovative, inclusive, and engaging culture where employees are empowered to grow. No matter where you sit in the organization, your work will help drive innovation, support our customers, and move the industry—and your career—forward, together. Zillow Group
+
+---
+
+## 9. [MAYBE] Amentum | Data Engineer
 - Link: https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/Data-Engineer_R0173157-11
 - Location: US-TX-Houston
 - Posted: Nov 18 (board gives the date only)
@@ -162,7 +182,7 @@ Are you passionate about human space exploration, understanding the origins of t
 
 ---
 
-## 9. [MAYBE] Clairo | Imaging Research Associate I
+## 10. [MAYBE] Clairo | Imaging Research Associate I
 - Link: https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/United-States-Remote/Imaging-Research-Associate_R15448
 - Location: United States Remote
 - Posted: Nov 19 (board gives the date only)
@@ -177,7 +197,7 @@ At Clario, a part of Thermo Fisher Scientific, the Imaging Research Associate I 
 
 ---
 
-## 10. [MAYBE] Profound Medical | Data Scientist
+## 11. [MAYBE] Profound Medical | Data Scientist
 - Link: https://profoundmedical.bamboohr.com/careers/366
 - Location: Mississauga Ontario
 - Posted: new since the previous sweep (board shows no date)
@@ -192,7 +212,7 @@ Our mission is to Profoundly change the standard of care by creating a tomorrow 
 
 ---
 
-## 11. [MAYBE] Turner & Townsend | Business Intelligence Analyst
+## 12. [MAYBE] Turner & Townsend | Business Intelligence Analyst
 - Link: https://jobs.smartrecruiters.com/TurnerTownsend/744000162572634
 - Location: USA wide us remote
 - Posted: Nov 19 12:41 ET
@@ -207,7 +227,7 @@ About the role Our Technology Division is a highly successful and growing busine
 
 ---
 
-## 12. [MAYBE] University of Texas - Austin | Research Scientist - Arts, Humanities, and Ethics
+## 13. [MAYBE] University of Texas - Austin | Research Scientist - Arts, Humanities, and Ethics
 - Link: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Research-Scientist---Arts--Humanities--and-Ethics_R_00050089
 - Location: UT MAIN CAMPUS
 - Posted: Nov 19 (board gives the date only)
@@ -222,7 +242,22 @@ Job Posting Title: Research Scientist - Arts, Humanities, and Ethics ---- Hiring
 
 ---
 
-## 13. [MAYBE] ElevenLabs | Data Scientist - Product Analytics
+## 14. [MAYBE] Goldbelt | Job Posting Title Preclinical Laboratory Research Assistant
+- Link: https://careers-goldbeltapex.icims.com/jobs/21268/preclinical-laboratory-research-assistant/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~54 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, statistic, healthcare, quantitative, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Preclinical Laboratory Research Assistant in Silver Spring, Maryland | Careers at Silver Spring, MD Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Returning Candidate? Log back in! Preclinical Laboratory Research Assistant Job Locations US-MD-Silver Spring Posted Date 29 minutes ago (11/19/2026 3:41 PM) Requisition ID 2026-21268 # of Openings 1 Category (Portal Searching) Health Services Overview Goldbelt Apex, a part of the Healthcare Technology Transformation Group, is a data-focused company dedicated to process and quality in every aspect. As experts in healthcare IT experts, Apex is committed to building systems for healthcare organizations to seamlessly communicate and exchange data across different systems and devices. Summary: We are seeking a Preclinical Laboratory Research Assistant that will engage in preclinical laboratory research, encompassing all aspects of original scientific research. This includes assessing behavior, pathophysiology, molecular mechanisms, and laboratory maintenance. The role involves integrating existing scientific literature, applying appropriate research methods, data collection, data management, and statistical data analysis. Responsibilities Essential Job Functions: Develop research proposals aligned with the military medical mission of Blast-Induced Neurotrauma research Prepare written animal use and/or human subject protocols for research objectives Navigate the WRAIR Institutional Animal Care and Use Committee (IACUC) and Human Use Review Committee (HURC) to obtain protocol approvals Conduct literature reviews and develop summary reports relevant to ongoing research in blast TBI and polytrauma Coordinate research projects, including experiment design, direction of research staff, and collaboration with other researchers Provide subject matter expertise in traumatic brain injury and polytrauma Perform routine and specialized surgical procedures on animal subjects Evaluate neuroprotective pharmacological therapies using various outcome measures Perform quantitative analytical assessments of molecular and cellular responses to stressors and injuries Qualifications Necessary Skills and Knowledge: Strong understanding of neurobehavioral and physiological assessments Proficiency in various surgical and experimental techniques Excellent literature review and scientific writing skills Ability to coordinate and lead research projects Strong analytical and problem-solving skills Effective communication and collaboration abilities Minimum Qualifications: Bachelor’s degree in Neuroscience, Biology, or a related field At least 3-5 years of experience in preclinical laboratory research Ability to work in a laboratory environment with animal subjects Experience with animal handling, aseptic procedures, and surgical techniques Proficiency in data collection, management, and statistical analysis Experience in developing research proposals and navigating research protocol approval processes Must be able to obtain government CAC Preferred Qualifications: Master or Ph.D. in Neuroscience, Biology or related field is preferred Familiarity with military medical research objectives is a plus Pay and Benefits The salary range for this position is $75,000 to $85,000 annually. At Goldbelt, we value and reward our team's dedication and hard work. We provide a competitive base salary commensurate with your qualifications and experience. As an employee, you'll enjoy a comprehensive benefits package, including medical, dental, and vision insurance, a 401(k) plan with company matching, tax-deferred savings options, supplementary benefits, paid time off, and professional development opportunities. Options Apply for this job online Apply Share Email this job to a friend Refer Sorry the Share function is not working properly at this moment. Please refresh the page and try again later. Share on your newsfeed Application FAQs Software Powered by ICIMS www.icims.com
+
+---
+
+## 15. [MAYBE] ElevenLabs | Data Scientist - Product Analytics
 - Link: https://jobs.ashbyhq.com/ElevenLabs/41b892ba-b530-44cb-9ae1-178908fc324c
 - Location: United Kingdom United Kingdom Spain Hungary Bulgaria Germany Poland Italy France remote
 - Posted: Nov 19 08:59 ET
@@ -342,7 +377,7 @@ This role is remote-first, so it can be executed from anywhere in Europe, with t
 
 ---
 
-## 14. [MAYBE] Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376
+## 16. [MAYBE] Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376
 - Link: https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189471
 - Location: Dallas, TX, United States US
 - Posted: Nov 19 (board gives the date only)
@@ -357,7 +392,7 @@ Job Duties: Associate, Data Analytics & Reporting with Goldman Sachs Services LL
 
 ---
 
-## 15. [MAYBE] Dell Technologies | Consultant, Data Engineering
+## 17. [MAYBE] Dell Technologies | Consultant, Data Engineering
 - Link: https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300054
 - Location: TX, United States US
 - Posted: Nov 19 (board gives the date only)
@@ -372,7 +407,7 @@ SUMMARY Build the data foundation that grounds AI agents on facts they can trust
 
 ---
 
-## 16. [MAYBE] Hitachi | Continuous Improvement Specialist – Digitalization and Analytics
+## 18. [MAYBE] Hitachi | Continuous Improvement Specialist – Digitalization and Analytics
 - Link: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Richland-Mississippi-United-States/Continuous-Improvement-Specialist---Digitalization-and-Analytics_R0152362
 - Location: Richland, Mississippi, United States
 - Posted: Nov 19 (board gives the date only)
@@ -387,7 +422,7 @@ Location: Richland, Mississippi, United States Job ID: R0152362 Date Posted: 202
 
 ---
 
-## 17. [MAYBE] PURE Insurance | Product Analyst
+## 19. [MAYBE] PURE Insurance | Product Analyst
 - Link: https://pureinsurance.wd5.myworkdayjobs.com/pure/job/White-Plains/Product-Analyst_R2817
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -402,7 +437,7 @@ About the role. The State Management Product Analyst is an entry level member of
 
 ---
 
-## 18. [MAYBE] Affirm | Capital Markets Specialist I (2027 Early Career Program)
+## 20. [MAYBE] Affirm | Capital Markets Specialist I (2027 Early Career Program)
 - Link: https://job-boards.greenhouse.io/affirm/jobs/8205833003
 - Location: New York, New York, United States
 - Posted: Nov 19 14:47 ET
@@ -417,7 +452,7 @@ At Affirm, we exist for the moments that matter—giving people a clear, predict
 
 ---
 
-## 19. [MAYBE] PennState University | Part-Time Research Assistant – Penn State Research Kitchen 
+## 21. [MAYBE] PennState University | Part-Time Research Assistant – Penn State Research Kitchen 
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Penn-State-Research-Kitchen-_REQ_0000084467-1
 - Location: Penn State University Park
 - Posted: Nov 19 (board gives the date only)
@@ -432,7 +467,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 20. [MAYBE] University of Miami | Research Associate 1
+## 22. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100102985
 - Location: Miami, FL
 - Posted: Nov 19 (board gives the date only)
@@ -447,7 +482,22 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 21. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
+## 23. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Research Assistant I-Psychiatry
+- Link: https://ejis.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3044679
+- Location: United States US
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: aws, excel, healthcare, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Under direct supervision, provides support services for research projects. Responsible for setup of lab experiments. Maintains inventory of all research supplies; prepares purchase orders for reagents and supplies. Performs routine maintenance of equipment. Washes and sterilizes glassware May prepare specimens and/or simple solutions. Performs other related duties HS/GED Compensation Statement The Mount Sinai Health System (MSHS) provides salary ranges that comply with the New York City Law on Salary Transparency in Job Advertisements. The salary range for the role is $17.00 - $22.00 Hourly. Actual salaries depend on a variety of factors, including experience, education, and operational need. The salary range or contractual rate listed does not include bonuses/incentive, differential pay or other forms of compensation or benefits. Non-Bargaining Unit, 859 - Psychiatry - ISM, Icahn School of Medicine Strength through Unity and Inclusion The Mount Sinai Health System is committed to fostering an environment where everyone can contribute to excellence. We share a common dedication to delivering outstanding patient care. When you join us, you become part of Mount Sinai’s unparalleled legacy of achievement, education, and innovation as we work together to transform healthcare. We encourage all team members to actively participate in creating a culture that ensures fair access to opportunities, promotes inclusive practices, and supports the success of every individual. At Mount Sinai, our leaders are committed to fostering a workplace where all employees feel valued, respected, and empowered to grow. We strive to create an environment where collaboration, fairness, and continuous learning drive positive change, improving the well-being of our staff, patients, and organization. Our leaders are expected to challenge outdated practices, promote a culture of respect, and work toward meaningful improvements that enhance patient care and workplace experiences. We are dedicated to building a supportive and welcoming environment where everyone has the opportunity to thrive and advance professionally. Explore this opportunity and be part of the next chapter in our history. About the Mount Sinai Health System Mount Sinai Health System is one of the nation’s leading integrated academic health systems and one of the largest in the New York metropolitan area. Its comprehensive system includes seven hospitals, more than 400 outpatient practices, over 600 research and clinical laboratories, the Icahn School of Medicine at Mount Sinai, the Graduate School of Biomedical Sciences, and the Mount Sinai Phillips School of Nursing. Together, the Health System comprises approximately 48,000 employees, more than 9,000 physicians, and 8,600 nurses. As a leading learning health system, Mount Sinai combines clinical expertise with scientific discovery to improve patient care while training the next generation of health care and biomedical leaders. The Health System provides care across every stage of life, from prenatal care through geriatrics, while advancing personalized medicine through artificial intelligence, data science, and biomedical research. Mount Sinai is consistently recognized among the nation’s leading academic health systems for patient care, research, and education. The Mount Sinai Hospital is ranked No. 1 in New York by Newsweek® and No. 7 in the U.S. on the magazine’s 2026 World’s Best Hospitals list and No. 3 in the world in its World’s Best Smart Hospitals list. The Icahn School of Medicine at Mount Sinai ranks No. 9 among U.S. medical schools and No. 1 among freestanding medical schools for National Institutes of Health grant funding, reflecting the strength of its scientific enterprise and leadership in biomedical research.
+
+---
+
+## 24. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990016967787
 - Location: Irvine CA us
 - Posted: Nov 19 11:30 ET
@@ -462,7 +512,7 @@ The Statistical Analyst is an integral role in the research and development of n
 
 ---
 
-## 22. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 25. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802326
 - Location: Tampa, FL, United States US
 - Posted: Nov 19 (board gives the date only)
@@ -477,7 +527,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 23. [MAYBE] Nationwide Children's Hospital | Research Associate- Research Translational Brigstock
+## 26. [MAYBE] Nationwide Children's Hospital | Research Associate- Research Translational Brigstock
 - Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Associate--Research-Translational-Brigstock_R-28994-1
 - Location: Main Campus, Columbus, OH
 - Posted: Nov 19 (board gives the date only)
@@ -492,7 +542,7 @@ Overview: Job Description Summary: Conducts independent research within a genera
 
 ---
 
-## 24. [MAYBE] Nationwide Children's Hospital | Research Associate
+## 27. [MAYBE] Nationwide Children's Hospital | Research Associate
 - Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Associate_R-28999-1
 - Location: Main Campus, Columbus, OH
 - Posted: Nov 19 (board gives the date only)
@@ -507,7 +557,7 @@ Overview: Job Description Summary: Conducts independent research within a genera
 
 ---
 
-## 25. [MAYBE] SiTime | Data Analyst
+## 28. [MAYBE] SiTime | Data Analyst
 - Link: https://job-boards.greenhouse.io/sitimecorporation/jobs/4511829009
 - Location: California, Santa Clara
 - Posted: Nov 19 12:37 ET
@@ -522,7 +572,7 @@ About SiTime SiTime is the Precision Timing company. Timing is the heartbeat of 
 
 ---
 
-## 26. [MAYBE] SiTime | Data Engineer | 10057
+## 29. [MAYBE] SiTime | Data Engineer | 10057
 - Link: https://job-boards.greenhouse.io/sitimecorporation/jobs/4509850009
 - Location: United States
 - Posted: Nov 19 12:27 ET
@@ -537,7 +587,7 @@ About SiTime SiTime is the Precision Timing company. Timing is the heartbeat of 
 
 ---
 
-## 27. [MAYBE] ISS | Institutional Shareholder Services | Custom Research Analyst (Temporary)
+## 30. [MAYBE] ISS | Institutional Shareholder Services | Custom Research Analyst (Temporary)
 - Link: https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Washington-DC-US/Custom-Temporary-Research-Analyst_JR_10536
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -552,7 +602,7 @@ ISS Stoxx is hiring! Advance your career with the leading provider of corporate 
 
 ---
 
-## 28. [MAYBE] TransUnion | Senior Analysts, Data Science & Analytics
+## 31. [MAYBE] TransUnion | Senior Analysts, Data Science & Analytics
 - Link: https://transunion.wd5.myworkdayjobs.com/TransUnion/job/White-Plains-New-York/Senior-Analysts--Data-Science---Analytics_19043456
 - Location: White Plains, New York
 - Posted: Nov 19 (board gives the date only)
@@ -567,7 +617,7 @@ TransUnion's Job Applicant Privacy Notice Personal Information We Collect Your P
 
 ---
 
-## 29. [MAYBE] 7-Eleven | Fuel Pricing Analyst II
+## 32. [MAYBE] 7-Eleven | Fuel Pricing Analyst II
 - Link: https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Fuel-Pricing-Analyst_R26_5191
 - Location: see posting
 - Posted: Nov 18 (board gives the date only)
@@ -582,7 +632,37 @@ TransUnion's Job Applicant Privacy Notice Personal Information We Collect Your P
 
 ---
 
-## 30. [MAYBE] RingCentral | Senior Agentic AI Engineer
+## 33. [MAYBE] Seattle Childrens Hospital | Senior Data Analyst - Patient Access/Strategy & Business Development
+- Link: https://seattlechildrens.wd5.myworkdayjobs.com/External/job/Leven-Building/Senior-Data-Analyst---Patient-Access-Strategy---Business-Development_R265431
+- Location: Leven Building
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~60 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, statistic, healthcare, quantitative, research | Lacks: -  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Note: This is a hybrid position in Seattle, WA. We are hiring for two Senior Data Analyst roles (1 in Patient Access & 1 in Strategy and Business Development). Supports the Hospital and Enterprise Analytics' vision, mission, and strategic initiatives by using technical expertise to design, create and develop analytical solutions and by providing internal consultation and project management. The incumbent provides leadership in the facilitating and gathering business requirements, and provides knowledge in business/clinical processes, analytical expertise, technical programming skills, and substantial leadership skills in working with key stakeholders, end users and project team members. This position identifies and resolves issues throughout the development of analytical solutions, and is accountable for identifying opportunities for continuous improvement in workflow processes in the implementation of these solutions. Primary responsibility is the design, creation and deployment of analytical solutions for Executive leadership and other key stakeholders within the SCH organization. The incumbent is responsible for frequently taking a formal or an informal lead on project tasks, and leads efforts to design and implement analytic solutions, including reports, dashboards, and views from a wide range of existing data sources, and provides leadership in evaluating and optimizing these solutions. The incumbent also assures integrity of the data for current and future use in strategic initiatives, continuous quality improvement efforts and hospital goals, and for insuring the sustainability and adaptability of all developed solutions. Required Education and Experience Bachelor's Degree in Health Science, Computer Science, Math, Business or related field, or equivalent combination of education and experience/technical training that demonstrates analytical and technical competency. Minimum five (5) years experience in progressively more responsible work as a data analyst, developer or equivalent. Experience with Cerner, Epic or similar software product. Required Credentials N/A. Preferred Experience with Epic. At least three (3) years managing medium to large projects using standard project management skills, tools and methodologies. Experience working as a data analyst within a healthcare setting. Experience with clinical, hospital and/or financial applications and/or systems. Experience working with clinicians on pathways, order sets or similar tools. Experience working with the development life cycle. Uses reasonable and basic statistical analyses to make comparisons and detect trends. Utilizes established data analysis models and tools for analyzing qualitative or quantitative data. Applies fundamental statistical methods to identify correlations and causal relationships. Compensation Range $121,134.00 - $181,700.00 per year Salary Information This compensation range was calculated based on full-time employment (2080 hours worked per calendar year). Offers are determined by multiple factors including equity, skills, experience, and expertise, and may vary within the range provided. Disclaimer for Out of State Applicants This compensation range is specific to Seattle, positions located outside of Seattle may be compensated differently depending on various factors . Benefits Information Seattle Children’s offers a generous benefit package, including medical, dental, and vision plans, 403(b), life insurance, paid time off, tuition reimbursement, and more. Additional details on our benefits can be found on our website www.seattlechildrens.org/careers/benefits . About Us Hope. Care. Cure. These three simple words capture what we do at Seattle Children’s – to help every child live the healthiest and most fulfilling life possible. Are you ready to engage with a mission-driven organization that is life-changing to many, and touches the hearts of all? #HOPECARECURE Our founding promise to the community is as valid today as it was over a century ago: we will care for all children in our region, regardless of the families’ ability to pay. Together, we deliver superior patient care, advance new discoveries and treatments through pediatric research, and serve as the pediatric and adolescent, academic medical center for Washington, Alaska, Montana and Idaho – the largest region of any children’s hospital in the country. U.S. News & World Report consistently ranks Seattle Children’s among the nation’s best children’s hospitals. For more than a decade, Seattle Children’s has been nationally recognized in key specialty areas. We are honored to be one of the nation’s very best places to care for children and the top-ranked pediatric hospital in Washington and the Pacific Northwest. As a Magnet designated institution, we recognize the importance of hiring and developing great talent to provide best-in-class care to the patients and families we serve. Our organizational DNA takes form in our core values: Compassion, Excellence, Integrity, Collaboration, Equity and Innovation. Whether it’s delivering frontline care to our patients in a kind and caring manner, practicing the highest standards of quality and safety, or being relentlessly curious as we work towards eradicating childhood diseases, these values are the fabric of our culture and community. The future starts here. Our Commitment Seattle Children’s welcomes people of all experiences, backgrounds, and thoughts as this is what drives our spirit of inquiry and allows us to better connect with our patients and families. Our organization recruits, employs, trains, compensates, and promotes based on merit without regard to race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. The people who work at Seattle Children’s are members of a community that seeks to respect and celebrate all the qualities that make each of us unique. Each of us is empowered to be ourselves. Seattle Children’s is proud to be an Equal Opportunity Workplace and Affirmative Action Employer.
+
+---
+
+## 34. [MAYBE] Merck | Senior Scientist, Biostatistics, CMC Statistics
+- Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-Scientist--Biostatistics--CMC-Statistics_R427159-1
+- Location: USA - New Jersey - Rahway
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~59 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 71 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, python, r, statistic, git, healthcare, reporting, research, validation | Lacks: sas  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: CHECK | Employee Status: Regular Relocation: Domestic VISA Sponsorship: Yes Travel Requirements: 10% Flexible Work Arrangements: Hybrid Shift: Not Indicated Valid Driving License: No Hazardous Material(s): n/a Job Posting End Da
+
+### Job description
+
+Job Description This job description outlines the responsibilities, primary activities, educational requirements, and skills needed for a biostatistical leadership role in drug development, particularly within Chemistry, Manufacturing, and Controls (CMC) Statistics for biologics. Responsibilities: Provides biostatistical leadership and support for drug development projects in CMC Statistics. Interacts with our company's analytical, formulation, project management, regulatory, statistical programming, and manufacturing functions. Serves as the statistical lead on project teams, independently managing multiple projects and providing statistical support for scientific protocols. Represents the statistical function on cross-functional project teams and contributes to department and therapeutic area goals. Participates in professional societies, technical associations, and national standards committees. Primary Activities: Serves as the statistical representative and lead on cross-functional teams for the strategic planning and execution of product development activities. Contributes to individual protocols, develops data analysis plans, and independently determines appropriate statistical methodologies for the analysis of CMC-related studies. Evaluates the appropriateness of available software for planned analyses and assesses the need for potential development or implementation of novel statistical methodologies. Prepares oral and written reports to effectively communicate results to project teams, management, regulatory agencies, and individual scientists. Conducts research on innovative statistical methods and applications. May provide mentoring and guidance to junior staff on functional activities. Education and Minimum Requirements: Candidates should hold a PhD in statistics, biostatistics, epidemiology, or a related field. Alternatively, a Master’s degree in statistics, biostatistics, epidemiology, or a related field with at least three years of relevant experience is acceptable. Required Skills and Experience: Knowledge of statistical analysis methodologies and experimental designs for analytical method validation, bridging, and robustness studies for potency, purity, and impurity assays. Familiarity with mixed models, design of experiments, and longitudinal data analysis. Proficiency in statistical software such as JMP, SAS, and/or R is required. Experience supporting automated statistical analyses and report generation using AI and Python is desirable. Must demonstrate the ability to learn, take initiative, stay motivated, and maintain a consistent focus on detail and execution. Ability to work independently. Good oral and written communication skills, with the ability to work effectively with personnel from diverse functional backgrounds. Preferred Skills and Experience: An understanding of disease biology and the drug discovery and development process is preferred for this position. BARDS2020 #EligibleforERP Required Skills: Biostatistics, CMC Development, Data Management, Data Science, Drug Development, Epidemiology, Longitudinal Data Analysis, Mentorship, Results Reporting, Scientific Modeling, Statistical Analysis, Statistical Programming, Statistics, Working Independently, Written Communication Preferred Skills: Current Employees apply HERE Current Contingent Workers apply HERE US and Puerto Rico Residents Only: Our company is committed to inclusion, ensuring that candidates can engage in a hiring process that exhibits their true capabilities. Please click here if you need an accommodation during the application or hiring process. As an Equal Employment Opportunity Employer, we provide equal opportunities to all employees and applicants for employment and prohibit discrimination on the basis of race, color, age, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or other applicable legally protected characteristics. As a federal contractor, we comply with all affirmative action requirements for protected veterans and individuals with disabilities. For more information about personal rights under the U.S. Equal Opportunity Employment laws, visit: EEOC
+
+---
+
+## 35. [MAYBE] RingCentral | Senior Agentic AI Engineer
 - Link: https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Bulgaria/Senior-Agentic-AI-Engineer_R078150
 - Location: Bulgaria
 - Posted: Nov 18 (board gives the date only)
@@ -597,7 +677,7 @@ Say hello to opportunities. It’s not everyday that you consider starting a new
 
 ---
 
-## 31. [MAYBE] Amazon | Senior Economist, Pricing Science 
+## 36. [MAYBE] Amazon | Senior Economist, Pricing Science 
 - Link: https://www.amazon.jobs/en/jobs/10609671/senior-economist-pricing-science
 - Location: Seattle, Washington, USA
 - Posted: Nov 19 (board gives the date only)
@@ -612,7 +692,7 @@ Are you excited about using economic reasoning to shape decisions that affect mi
 
 ---
 
-## 32. [MAYBE] Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology
+## 37. [MAYBE] Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Remote/C-BRAIN-Senior-Applied-Scientist--Remote----Neurology_JR98761
 - Location: Remote
 - Posted: Nov 18 (board gives the date only)
@@ -627,7 +707,7 @@ Location Remote, US&#xa;&#xa; Scheduled Hours 40 Position Summary The Consortium
 
 ---
 
-## 33. [MAYBE] Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business
+## 38. [MAYBE] Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business
 - Link: https://www.google.com/about/careers/applications/jobs/results/91792511671902918
 - Location: New York, NY, USA ; Chicago, IL, USA ; Mountain View, CA, USA ; Los Angeles, CA, USA ; San Bruno, CA, USA
 - Posted: Nov 19 04:07 ET
@@ -642,7 +722,7 @@ Much of the organization's most valuable signal sits in high-volume unstructured
 
 ---
 
-## 34. [MAYBE] Protiviti | Senior Legal Data Engineer
+## 39. [MAYBE] Protiviti | Senior Legal Data Engineer
 - Link: https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/HOUSTON/Senior-Legal-Data-Engineer_JR-262284
 - Location: HOUSTON
 - Posted: Nov 18 (board gives the date only)
@@ -657,7 +737,7 @@ JOB REQUISITION Senior Legal Data Engineer LOCATION HOUSTON ADDITIONAL LOCATION(
 
 ---
 
-## 35. [MAYBE] JP Morgan Chase | Data Science Senior Associate - Wealth Management
+## 40. [MAYBE] JP Morgan Chase | Data Science Senior Associate - Wealth Management
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789997
 - Location: New York, NY, United States US
 - Posted: Nov 19 (board gives the date only)
