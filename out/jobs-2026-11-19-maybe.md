@@ -6,18 +6,22 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 |---|---|---|---|---|---|
 | 1 | Brown & Brown Insurance | Data Quality & Governance Coordinator | 71 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
 | 2 | Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management | 70 | 163 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 3 | Google | Engineering Analyst, Enterprise Payments | 69 | 1053 in data/analytics/finance occupations | Nov 19 05:10 ET |
-| 4 | Google | Engineering Analyst, Trust and Safety, Payments | 68 | 1053 in data/analytics/finance occupations | Nov 19 05:10 ET |
-| 5 | TD Synnex | Cloud Billing Analyst - CCA | 62 | 2 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 6 | Amentum | Data Engineer | 57 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 7 | Profound Medical | Data Scientist | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 8 | ElevenLabs | Data Scientist - Product Analytics | 53 | none found (check myvisajobs) | Nov 19 08:59 ET |
-| 9 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 10 | 7-Eleven | Fuel Pricing Analyst II | 68 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 11 | RingCentral | Senior Agentic AI Engineer | 57 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 12 | Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology | 55 | cap-exempt employer | Nov 18 (board gives the date only) |
-| 13 | Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business | 55 | 1053 in data/analytics/finance occupations | Nov 19 04:07 ET |
-| 14 | Protiviti | Senior Legal Data Engineer | 55 | 4 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 3 | Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management | 70 | 163 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 4 | Google | Engineering Analyst, Enterprise Payments | 69 | 1053 in data/analytics/finance occupations | Nov 19 05:10 ET |
+| 5 | Google | Engineering Analyst, Trust and Safety, Payments | 68 | 1053 in data/analytics/finance occupations | Nov 19 05:10 ET |
+| 6 | TD Synnex | Cloud Billing Analyst - CCA | 62 | 2 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 7 | Amentum | Data Engineer | 57 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 8 | Profound Medical | Data Scientist | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 9 | ElevenLabs | Data Scientist - Product Analytics | 53 | none found (check myvisajobs) | Nov 19 08:59 ET |
+| 10 | Hitachi | Continuous Improvement Specialist – Digitalization and Analytics | 50 | 2 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 11 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 19 11:30 ET |
+| 12 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 13 | Nationwide Children's Hospital | Research Associate- Research Translational Brigstock | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 14 | 7-Eleven | Fuel Pricing Analyst II | 68 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 15 | RingCentral | Senior Agentic AI Engineer | 57 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 16 | Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology | 55 | cap-exempt employer | Nov 18 (board gives the date only) |
+| 17 | Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business | 55 | 1053 in data/analytics/finance occupations | Nov 19 04:07 ET |
+| 18 | Protiviti | Senior Legal Data Engineer | 55 | 4 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
 
 ---
 
@@ -51,7 +55,22 @@ Corporate & Investment Banking (“CIB”) delivers a comprehensive suite of cap
 
 ---
 
-## 3. [MAYBE] Google | Engineering Analyst, Enterprise Payments
+## 3. [MAYBE] Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management
+- Link: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Corporate-Banking-Analyst---Fund-Finance-Portfolio-Management_R-585144
+- Location: CHARLOTTE, NC
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~70 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 163 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, excel, power bi, credit, data quality, portfolio, reporting, research, risk, trading, validation | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Corporate & Investment Banking (“CIB”) delivers a comprehensive suite of capital markets, banking, and financial products and services. A trusted partner to our clients, we provide corporate and transactional banking; commercial real estate lending and servicing; investment banking; equity; and fixed income solutions including sales, trading, and research capabilities to corporate, commercial real estate, government, and institutional clients across the globe. Learn more about our career areas and lines of business at wellsfargojobs.com. About this role: Wells Fargo’s Fund Finance Group (FFG) is seeking an Analyst to join its Portfolio Management team, supporting the management and oversight of a diverse portfolio spanning subscription facilities, net asset value (NAV) financing, and structured products. The Analyst will play an important role in the ongoing management of the portfolio, with exposure to collateral analysis, credit and covenant monitoring, ad-hoc projects, portfolio data and reporting, and transaction-specific surveillance. This position provides an opportunity to develop a strong foundation in fund finance and portfolio management while helping enhance the processes, data, technology, and automation capabilities used to manage a growing and increasingly sophisticated portfolio. In this role, you will: Manage portfolio data intake and controls: Coordinate the collection, entry, and validation of facility, collateral, and reporting information; partner with support teams on processing, reconcile key data, and ensure high data integrity Support collateral underwriting and oversight: Support collateral scoring and underwriting, ongoing borrower and collateral risk ratings, and performance monitoring; oversee borrowing base and covenant reporting processes Transaction-specific surveillance: Track outstanding requirements and ensure new and amended facilities are accurately incorporated into portfolio systems and ongoing monitoring processes Deliver portfolio surveillance and reporting: Prepare and validate recurring and ad hoc outputs, including management reporting, internal and external exam materials, collateral and credit quality surveillance, stress loss analysis, and securitization reporting Coordinate portfolio workflows: Partner with India-based support teams and internal stakeholders to manage reporting calendars, track required deliverables, and review completed work Support newer and more complex transactions: Take a more direct role in transaction-specific monitoring, collateral tracking, and reporting while helping establish repeatable processes as these products develop Improve processes and infrastructure: Refine procedures, strengthen controls and data quality, and identify practical applications for automation and artificial intelligence Required Qualifications: 6+ months of Corporate Banking Relationship Management experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education Desired Qualifications: Experience in fund finance, portfolio monitoring, collateral management, credit operations, securitizations, or related financial services activities. Strong organizational skills and attention to detail, with the ability to manage recurring deadlines and coordinate activities across teams. Strong Microsoft Excel skills, including organizing, reconciling, and reviewing data; experience with Power BI, automation, or AI-enabled tools is a plus. Ability to translate transaction requirements into practical monitoring, reporting, and escalation processes. Clear communication skills, sound judgment, and a proactive approach to resolving issues and improving execution. Job Expectations: Registration for FINRA Series 63 (or 66) must be completed within 90 days of hire date if it is not available for transfer upon hire Registration for FINRA Series 79 must be completed within 90 days of hire date if it is not available for transfer upon hire Registration for Securities Industry Essentials (SIE) exam must be completed within 90 days of hire date if it is not available for transfer upon hire This position is subject to FINRA Background Screening Requirements, including successful completion and clearing of a background check. Internal transfers are subject to compliance with 17 CFR 240.17f-2 of the Securities Exchange Act of 1934 and FINRA Bylaws, Article III, Section 3, which states that Associated Persons should not be subject to statutory disqualification. Successful candidates must also meet ongoing regulatory requirements including additional screening and are required to report certain incidents Posting Locations: 550 S Tryon St. - Charlotte, North Carolina 28202 Pay Range - $100,000 - $110,000 Pay Range Reflected is the base pay range offered for this position. Pay may vary depending on factors including but not limited to demonstrated examples of prior performance, skills, experience, or work location. Employees may also be eligible for incentive opportunities.&#xa;$87,000.00 - $140,000.00 Benefits Wells Fargo provides eligible employees with a comprehensive set of benefits, many of which are listed below. Visit Benefits - Wells Fargo Jobs for an overview of the following benefit plans and programs offered to employees. Health benefits 401(k) Plan Paid time off Disability benefits Life insurance, critical illness insurance, and accident insurance Parental leave Critical caregiving leave Discounts and savings Commuter benefits Tuition reimbursement Scholarships for dependent children Adoption reimbursement Posting End Date: 22 Nov 2026 * Job posting may come down early due to volume of applicants. We Value Equal Opportunity Wells Fargo
+
+---
+
+## 4. [MAYBE] Google | Engineering Analyst, Enterprise Payments
 - Link: https://www.google.com/about/careers/applications/jobs/results/103582025100731078
 - Location: Seattle, WA, USA
 - Posted: Nov 19 05:10 ET
@@ -66,7 +85,7 @@ On this team, you're a big-picture thinker and strategic leader. You will work g
 
 ---
 
-## 4. [MAYBE] Google | Engineering Analyst, Trust and Safety, Payments
+## 5. [MAYBE] Google | Engineering Analyst, Trust and Safety, Payments
 - Link: https://www.google.com/about/careers/applications/jobs/results/118661277319865030
 - Location: Seattle, WA, USA
 - Posted: Nov 19 05:10 ET
@@ -81,7 +100,7 @@ Trust and Safety team members are tasked with identifying and taking on the bigg
 
 ---
 
-## 5. [MAYBE] TD Synnex | Cloud Billing Analyst - CCA
+## 6. [MAYBE] TD Synnex | Cloud Billing Analyst - CCA
 - Link: https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Miramar-Florida-United-States/Cloud-Billing-Analyst---CCA_R58116
 - Location: Miramar, Florida, United States
 - Posted: Nov 18 (board gives the date only)
@@ -96,7 +115,7 @@ Job Description: The Cloud Billing Operations team is responsible for managing a
 
 ---
 
-## 6. [MAYBE] Amentum | Data Engineer
+## 7. [MAYBE] Amentum | Data Engineer
 - Link: https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/Data-Engineer_R0173157-11
 - Location: US-TX-Houston
 - Posted: Nov 18 (board gives the date only)
@@ -111,7 +130,7 @@ Are you passionate about human space exploration, understanding the origins of t
 
 ---
 
-## 7. [MAYBE] Profound Medical | Data Scientist
+## 8. [MAYBE] Profound Medical | Data Scientist
 - Link: https://profoundmedical.bamboohr.com/careers/366
 - Location: Mississauga Ontario
 - Posted: new since the previous sweep (board shows no date)
@@ -126,7 +145,7 @@ Our mission is to Profoundly change the standard of care by creating a tomorrow 
 
 ---
 
-## 8. [MAYBE] ElevenLabs | Data Scientist - Product Analytics
+## 9. [MAYBE] ElevenLabs | Data Scientist - Product Analytics
 - Link: https://jobs.ashbyhq.com/ElevenLabs/41b892ba-b530-44cb-9ae1-178908fc324c
 - Location: United Kingdom United Kingdom Spain Hungary Bulgaria Germany Poland Italy France remote
 - Posted: Nov 19 08:59 ET
@@ -246,7 +265,37 @@ This role is remote-first, so it can be executed from anywhere in Europe, with t
 
 ---
 
-## 9. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 10. [MAYBE] Hitachi | Continuous Improvement Specialist – Digitalization and Analytics
+- Link: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Richland-Mississippi-United-States/Continuous-Improvement-Specialist---Digitalization-and-Analytics_R0152362
+- Location: Richland, Mississippi, United States
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, power bi, git, kpi, pipeline, portfolio, reporting | Lacks: sap
+- Eligibility: CHECK | Your Background Candidate must already have work authorization that would permit them to work for Hitachi Energy in the United States.
+
+### Job description
+
+Location: Richland, Mississippi, United States Job ID: R0152362 Date Posted: 2026-11-19 Company Name: HITACHI ENERGY USA INC Profession (Job Category): Quality Management Job Schedule: Full time Remote: No Job Description: The Opportunity Hitachi Energy is seeking a Continuous Improvement Specialist focused on digitalization and data at our Richland, Mississippi facility. Reporting to the NAM HUB Business Unit Continuous Improvement Manager, you will help establish and maintain a continuous improvement culture focused on safety, customer and quality, delivery, inventory, and cost. You will deploy Lean Six Sigma practices, support process digitalization, improve SAP utilization, and use data to create visibility into performance and improvement progress. Working with stakeholders across the organization, you will support operational improvement projects, develop a pipeline of Kaizen initiatives, build continuous improvement capabilities, and promote standardized processes and best-practice sharing across the Hitachi and Hitachi Energy network. This is an on-site position located at Hitachi Energy's Richland, Mississippi, manufacturing facility. How You’ll Make an Impact Deploy the Hub and Global Product Group continuous improvement strategy using Lean Six Sigma methodology. Partner with stakeholders to understand business priorities, identify improvement opportunities, and secure the resources needed to execute improvement actions. Develop capabilities in process digitalization, SAP utilization, and data reporting within the unit. Support major projects that improve operational performance and develop a pipeline of Kaizen initiatives that deliver business results. Provide visibility into the improvement portfolio by tracking KPIs, progress, delivered value, and operational cost reductions. Train, coach, and mentor team members to build continuous improvement skills and transfer knowledge across the CI community. Promote behavioral change and cultural transformation through hands-on Gemba practices. Collaborate with CI teams across Hitachi and Hitachi Energy to standardize processes and share best practices. Responsible to ensure compliance with applicable external and internal regulations, procedures, and guidelines. Your Background Candidate must already have work authorization that would permit them to work for Hitachi Energy in the United States. High school diploma or GED is required; a bachelor’s degree in an engineering-related field is preferred. Five to ten years of experience in a lean manufacturing environment is required. In-depth knowledge of Lean and Six Sigma methods, including root cause investigation, Ishikawa or fishbone diagrams, and the 5 Whys, along with experience running Kaizen events, is required. Working knowledge of SAP and Power BI is a plus. Experience working in an international team and managing change through a dotted-line organization, with a solution-oriented approach to project challenges. More About Us You’ll have opportunities to grow your capabilities while contributing to meaningful improvements across our operations. Opportunities to work on innovative technologies shaping the future of energy A collaborative environment with experienced professionals Access to learning platforms and career development programs Attractive health and retirement benefits Paid leave and flexible work arrangements Equal Employment Opportunity (
+
+---
+
+## 11. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
+- Link: https://jobs.smartrecruiters.com/AbbVie/3743990016967787
+- Location: Irvine CA us
+- Posted: Nov 19 11:30 ET
+- Scanner fit: ~47 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 96 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: data visualization, statistic, quantitative, reporting, research, validation | Lacks: sas
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The Statistical Analyst is an integral role in the research and development of new pharmaceutical products. The primary responsibilities for this role include the analysis and reporting of clinical trial data without supervision for routine activities and with supervision for more complex activities. The Statistical Analyst interfaces with Statistics, Clinical Data Strategy & Operations and Development Operations. Responsibilities: Leads the statistical programming activities for routine studies. Create documentation for regulatory filings including reviewers guides and data definition documents Participate in the development of standard SAS Macros, as well as, presenting information on existing Macros Produce dynamic and static data visualizations to communicate quantitative analyses. Develop SAS programs for the creation of ADaM data sets following CDISC standards. Develop SAS programs for the creation of Tables, Listings and Figures. Validation of ADaM data sets. Validation of Tables, Listings and Figures. Create specifications for the structure of ADaM data sets for individual studies and integrated data Minimum Qualifications: MS in Statistics, Computer Science or a related field with 2+ years of relevant experience. OR BS in Statistics, Computer Science or a related field with 4+ years of relevant experience. Experience in pharmaceutical clinical trials Demonstrated practical understanding of SAS programming related to drug development. Experience creating and reviewing ADaM datasets for analysis Preferred Qualifications: Demonstrated ability to support efficacy analyses across clinical development phases and therapeutic areas. Other Required Skills: Ability to communicate clearly both oral and written. Basic understanding of CDISC Standards. Basic understanding of the drug development process. ​Applicable only to applicants applying to a position in any location with pay disclosure requirements under state or local law: ​ The compensation range described below is the range of possible base pay compensation that the Company believes in good faith it will pay for this role at the time of this posting based on the job grade for this position. Individual compensation paid within this range will depend on many factors including geographic location, and we may ultimately pay more or less than the posted range. This range may be modified in the future. ​ We offer a comprehensive package of benefits including paid time off (vacation, holidays, sick), medical/dental/vision insurance and 401(k) to eligible employees.​ This job is eligible to participate in our short-term incentive programs. ​ Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, incentive, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole and absolute discretion unless and until paid and may be modified at the Company’s sole and absolute discretion, consistent with applicable law. ​ AbbVie
+
+---
+
+## 12. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802326
 - Location: Tampa, FL, United States US
 - Posted: Nov 19 (board gives the date only)
@@ -261,7 +310,22 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 10. [MAYBE] 7-Eleven | Fuel Pricing Analyst II
+## 13. [MAYBE] Nationwide Children's Hospital | Research Associate- Research Translational Brigstock
+- Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Associate--Research-Translational-Brigstock_R-28994-1
+- Location: Main Campus, Columbus, OH
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: statistic, classification, publication, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Overview: Job Description Summary: Conducts independent research within a general area in conjunction with a Principal Investigator (PI). Manages basic and complex projects ensuring timelines, deliverables, and expectations are met. Job Description: Essential Functions: Conducts independent research studies and laboratory analysis in conjunction with PI. Organizes research experiments, appropriately arranges subjects, and maintains records. Collects experimental data, conducts analysis in accordance with statistical procedures, and retains accurate logs of methods, results, and conclusions. Prepares reports, including graphs, tables, and photographs, of the results for PI review. Collaborates with other researchers doing similar studies. Serves as an experienced resource for other Investigators and mentors less experienced research staff. Observes difficulties encountered in set up and conduction. Assists the PI with the preparation of scientific publications and grant proposals. Attends scientific conferences and gives scientific presentations. Orders and maintains inventory, ensures equipment is in working order, and prepares budget proposals for equipment and supplies required to conduct research. Monitors study expenditures to assure that budgetary constraints are followed and that research studies are conducted within budget. Assists with preparing research budgets and prepares budget proposals for future research projects. Education Requirement: Bachelor's Degree in relevant field, required. Master's Degree, preferred. Skills: Ability to use research methods in generating and collecting data and analyzing the data for report preparation. Ability to develop complex position papers and reports and help in preparation of research grant proposals and scientific publications. Effective computer skills. Experience: One year of post-degree research experience, or a Master's Degree, required. Physical Requirements: OCCASIONALLY: Bend/twist, Climb stairs/ladder, Lifting / Carrying: 11-20 lbs, Pushing / Pulling: 26-40 lbs FREQUENTLY: Biohazard waste, Blood and/or Bodily Fluids, Chemicals/Medications, Cold Temperatures, Communicable Diseases and/or Pathogens, Electricity, Fume /Gases /Vapors, Hot Temperatures, Lifting / Carrying: 0-10 lbs, Pushing / Pulling: 0-25 lbs, Standing, Walking CONTINUOUSLY: Audible speech, Color vision, Computer skills, Decision Making, Depth perception, Flexing/extending of neck, Hand use: grasping, gripping, turning, Hearing acuity, Interpreting Data, Peripheral vision, Problem solving, Reaching above shoulder, Repetitive hand/arm use, Seeing – Far/near, Sitting, Squat/kneel "The above list of duties is intended to describe the general nature and level of work performed by individuals assigned to this classification. It is not to be construed as an exhaustive list of duties performed by the individuals so classified, nor is it intended to limit or modify the right of any supervisor to assign, direct, and control the work of employees under their supervision. EOE M/F/Disability/Vet"
+
+---
+
+## 14. [MAYBE] 7-Eleven | Fuel Pricing Analyst II
 - Link: https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Fuel-Pricing-Analyst_R26_5191
 - Location: see posting
 - Posted: Nov 18 (board gives the date only)
@@ -276,7 +340,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 11. [MAYBE] RingCentral | Senior Agentic AI Engineer
+## 15. [MAYBE] RingCentral | Senior Agentic AI Engineer
 - Link: https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Bulgaria/Senior-Agentic-AI-Engineer_R078150
 - Location: Bulgaria
 - Posted: Nov 18 (board gives the date only)
@@ -291,7 +355,7 @@ Say hello to opportunities. It’s not everyday that you consider starting a new
 
 ---
 
-## 12. [MAYBE] Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology
+## 16. [MAYBE] Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Remote/C-BRAIN-Senior-Applied-Scientist--Remote----Neurology_JR98761
 - Location: Remote
 - Posted: Nov 18 (board gives the date only)
@@ -306,7 +370,7 @@ Location Remote, US&#xa;&#xa; Scheduled Hours 40 Position Summary The Consortium
 
 ---
 
-## 13. [MAYBE] Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business
+## 17. [MAYBE] Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business
 - Link: https://www.google.com/about/careers/applications/jobs/results/91792511671902918
 - Location: New York, NY, USA ; Chicago, IL, USA ; Mountain View, CA, USA ; Los Angeles, CA, USA ; San Bruno, CA, USA
 - Posted: Nov 19 04:07 ET
@@ -321,7 +385,7 @@ Much of the organization's most valuable signal sits in high-volume unstructured
 
 ---
 
-## 14. [MAYBE] Protiviti | Senior Legal Data Engineer
+## 18. [MAYBE] Protiviti | Senior Legal Data Engineer
 - Link: https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/HOUSTON/Senior-Legal-Data-Engineer_JR-262284
 - Location: HOUSTON
 - Posted: Nov 18 (board gives the date only)
