@@ -4,28 +4,50 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | Brown & Brown Insurance | Data Quality & Governance Coordinator | 71 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 2 | Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management | 70 | 163 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 3 | Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management | 70 | 163 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 4 | Google | Engineering Analyst, Enterprise Payments | 69 | 1053 in data/analytics/finance occupations | Nov 19 05:10 ET |
-| 5 | Google | Engineering Analyst, Trust and Safety, Payments | 68 | 1053 in data/analytics/finance occupations | Nov 19 05:10 ET |
-| 6 | TD Synnex | Cloud Billing Analyst - CCA | 62 | 2 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 7 | Amentum | Data Engineer | 57 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
-| 8 | Profound Medical | Data Scientist | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 9 | ElevenLabs | Data Scientist - Product Analytics | 53 | none found (check myvisajobs) | Nov 19 08:59 ET |
-| 10 | Hitachi | Continuous Improvement Specialist – Digitalization and Analytics | 50 | 2 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 11 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 19 11:30 ET |
-| 12 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 13 | Nationwide Children's Hospital | Research Associate- Research Translational Brigstock | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 14 | 7-Eleven | Fuel Pricing Analyst II | 68 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 15 | RingCentral | Senior Agentic AI Engineer | 57 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 16 | Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology | 55 | cap-exempt employer | Nov 18 (board gives the date only) |
-| 17 | Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business | 55 | 1053 in data/analytics/finance occupations | Nov 19 04:07 ET |
-| 18 | Protiviti | Senior Legal Data Engineer | 55 | 4 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 1 | VSP Vision | Business Data Analyst | 77 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 2 | Brown & Brown Insurance | Data Quality & Governance Coordinator | 71 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 3 | Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management | 70 | 163 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 4 | Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management | 70 | 163 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 5 | Google | Engineering Analyst, Enterprise Payments | 69 | 1053 in data/analytics/finance occupations | Nov 19 05:10 ET |
+| 6 | Google | Engineering Analyst, Trust and Safety, Payments | 68 | 1053 in data/analytics/finance occupations | Nov 19 05:10 ET |
+| 7 | TD Synnex | Cloud Billing Analyst - CCA | 62 | 2 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 8 | Amentum | Data Engineer | 57 | none found (check myvisajobs) | Nov 18 (board gives the date only) |
+| 9 | Clairo | Imaging Research Associate I | 57 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 10 | Profound Medical | Data Scientist | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 11 | Turner & Townsend | Business Intelligence Analyst | 54 | 3 in data/analytics/finance occupations | Nov 19 12:41 ET |
+| 12 | ElevenLabs | Data Scientist - Product Analytics | 53 | none found (check myvisajobs) | Nov 19 08:59 ET |
+| 13 | Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376 | 52 | 772 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 14 | Hitachi | Continuous Improvement Specialist – Digitalization and Analytics | 50 | 2 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 15 | PURE Insurance | Product Analyst | 50 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 16 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 19 11:30 ET |
+| 17 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 18 | Nationwide Children's Hospital | Research Associate- Research Translational Brigstock | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 19 | SiTime | Data Analyst | 44 | 1 in data/analytics/finance occupations | Nov 19 12:37 ET |
+| 20 | SiTime | Data Engineer | 10057 | 40 | 1 in data/analytics/finance occupations | Nov 19 12:27 ET |
+| 21 | 7-Eleven | Fuel Pricing Analyst II | 68 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 22 | RingCentral | Senior Agentic AI Engineer | 57 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 23 | Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology | 55 | cap-exempt employer | Nov 18 (board gives the date only) |
+| 24 | Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business | 55 | 1053 in data/analytics/finance occupations | Nov 19 04:07 ET |
+| 25 | Protiviti | Senior Legal Data Engineer | 55 | 4 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] Brown & Brown Insurance | Data Quality & Governance Coordinator
+## 1. [MAYBE] VSP Vision | Business Data Analyst
+- Link: https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Business-Data-Analyst_R-10159-1
+- Location: Remote US
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~77 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, data visualization, excel, power bi, sql, statistic, tableau, data quality, fraud, kpi, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The Business Data Analyst supports a business team’s ability to leverage data in support of business monitoring and decision management. Applies a range of analytics and data management techniques to generate accurate data and relevant insights, including the creation of visualizations and dashboards to optimize business decisions and outcomes. Engage with business teams to clarify needs and define business requirements for data analysis in support of business optimization and decision-making Perform data exploration and analysis to identify and interpret trends and patterns in datasets Create dashboards, visualizations, and reports to support business performance monitoring to support stakeholders’ ability to be data-driven Work collaboratively with the enterprise analytics & information management team to articulate business needs Contribute to data inventory and stewardship efforts, including contributions to metadata management, data profiling, data quality remediation, and data cleansing Perform research within the business area to determine the appropriate definition and logic for cataloging and modeling data within the analytics ecosystem Perform user acceptance testing to confirm data output and capabilities meet business expectations and align to business processes Troubleshoot data discrepancies and inconsistencies and partner with the enterprise analytics & Information management team to detect issues and automate resolutions Maintain high standards and adhere to all enterprise policies and guidelines regarding data security and privacy, data management, data quality, and data governance; regards data as an enterprise asset that is to be protected and used both strategically and appropriately Job Specifications Typically has the following skills or abilities: Bachelor’s degree in statistics, analytics, mathematics, economics, computer science, or related functional area; or equivalent experience 2+ years of demonstrated data analytics experience including experience querying and analyzing operational and/or financial data, generating insights and communicating those effectively with colleagues and leaders Experience building data queries using SQL in order to join, filter, cleanse, and aggregate data; understanding of how GUI-driven applications apply SQL concepts to do the same Experience creating data visualizations/dashboards that highlight trends and patterns with the ability to monitor business performance against KPIs Experience using data exploration and analysis platforms such as Cognos Analytics, Tableau, Power BI, or similar Familiarity with data modeling concepts and relational database structures Ability to analyze and document business requirements, inclusive of needs and expectations Effective written and verbal communication, presentation, and analytical skills Expert-level skills in Excel For roles that are remote (i.e., Work From Home (WFH)) or hybrid (i.e., partial onsite at a VSP location and WFH), must demonstrate a high level of engagement in virtual environments, including maintaining camera presence during meetings to support effective communication and team alignment #LI-VISIONCARE Compensation range for the role is listed below. Applicable salary ranges may differ across markets. Actual pay will be determined based on experience and other job-related factors permitted by law. As a part of the compensation package, this role may include eligible bonuses and commissions. For more information regarding VSP Vision benefits, please click here . Salary Ranges: $58,656.00 - $92,328.00 VSP Vision
+
+---
+
+## 2. [MAYBE] Brown & Brown Insurance | Data Quality & Governance Coordinator
 - Link: https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---Maryland/Application-Support-Specialist_R26_0000003198-1
 - Location: Remote - Maryland
 - Posted: Nov 18 (board gives the date only)
@@ -40,7 +62,7 @@ Built on meritocracy, our unique company culture rewards self-starters and those
 
 ---
 
-## 2. [MAYBE] Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management
+## 3. [MAYBE] Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management
 - Link: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Corporate-Banking-Analyst---Fund-Finance-Portfolio-Management_R-588516
 - Location: NEW YORK, NY
 - Posted: Nov 18 (board gives the date only)
@@ -55,7 +77,7 @@ Corporate & Investment Banking (“CIB”) delivers a comprehensive suite of cap
 
 ---
 
-## 3. [MAYBE] Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management
+## 4. [MAYBE] Wells Fargo | Corporate Banking Analyst - Fund Finance Portfolio Management
 - Link: https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Corporate-Banking-Analyst---Fund-Finance-Portfolio-Management_R-585144
 - Location: CHARLOTTE, NC
 - Posted: Nov 19 (board gives the date only)
@@ -70,7 +92,7 @@ Corporate & Investment Banking (“CIB”) delivers a comprehensive suite of cap
 
 ---
 
-## 4. [MAYBE] Google | Engineering Analyst, Enterprise Payments
+## 5. [MAYBE] Google | Engineering Analyst, Enterprise Payments
 - Link: https://www.google.com/about/careers/applications/jobs/results/103582025100731078
 - Location: Seattle, WA, USA
 - Posted: Nov 19 05:10 ET
@@ -85,7 +107,7 @@ On this team, you're a big-picture thinker and strategic leader. You will work g
 
 ---
 
-## 5. [MAYBE] Google | Engineering Analyst, Trust and Safety, Payments
+## 6. [MAYBE] Google | Engineering Analyst, Trust and Safety, Payments
 - Link: https://www.google.com/about/careers/applications/jobs/results/118661277319865030
 - Location: Seattle, WA, USA
 - Posted: Nov 19 05:10 ET
@@ -100,7 +122,7 @@ Trust and Safety team members are tasked with identifying and taking on the bigg
 
 ---
 
-## 6. [MAYBE] TD Synnex | Cloud Billing Analyst - CCA
+## 7. [MAYBE] TD Synnex | Cloud Billing Analyst - CCA
 - Link: https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Miramar-Florida-United-States/Cloud-Billing-Analyst---CCA_R58116
 - Location: Miramar, Florida, United States
 - Posted: Nov 18 (board gives the date only)
@@ -115,7 +137,7 @@ Job Description: The Cloud Billing Operations team is responsible for managing a
 
 ---
 
-## 7. [MAYBE] Amentum | Data Engineer
+## 8. [MAYBE] Amentum | Data Engineer
 - Link: https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/Data-Engineer_R0173157-11
 - Location: US-TX-Houston
 - Posted: Nov 18 (board gives the date only)
@@ -130,7 +152,22 @@ Are you passionate about human space exploration, understanding the origins of t
 
 ---
 
-## 8. [MAYBE] Profound Medical | Data Scientist
+## 9. [MAYBE] Clairo | Imaging Research Associate I
+- Link: https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/United-States-Remote/Imaging-Research-Associate_R15448
+- Location: United States Remote
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, gcp, r, calibration, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | This role works closely with clinical sites, project teams, and sponsors throughout the study lifecycle, from study start-up through closeout. / Serve as a point of contact for clinical sites, sponsors, clients, and internal study teams, responding to inquiries professionally and supporting the resolution of operational issues.
+
+### Job description
+
+At Clario, a part of Thermo Fisher Scientific, the Imaging Research Associate I supports the successful delivery of clinical imaging studies by coordinating site activities, maintaining study data, and helping ensure high-quality, timely deliverables. This role works closely with clinical sites, project teams, and sponsors throughout the study lifecycle, from study start-up through closeout. What We Offe r Competitive compensation Medical, dental, and vision coverage Tuition reimbursement Employee assistance and wellness programs Life and disability insurance What You’ll Be Doing Coordinate site and study activities from start-up through study closeout, including preparation of study materials, site qualification documentation, site training, and ongoing site communications. Review, process, track, and monitor study-related data received from clinical sites; identify discrepancies, generate and resolve data queries, and support accurate and timely data flow. Perform Image Quality Control (IQC) activities, including baseline, ongoing, interim, and end-of-study data review; phantom data analysis and entry; cross-calibration coordination; and machine equivalence processing. Maintain accurate study, IQC, and scanner information in applicable tracking systems and databases, including machine-change documentation and site contact information. Monitor IQC submissions and project tracking, communicate progress and outstanding items, identify site or data trends, and escalate issues to the appropriate project team members. Prepare and distribute study documentation and reports, including site and patient reports, subject data reports, BMD Scan Review Forms, and weekly or monthly project tracking reports. Support Project Managers with project administration, including reviewing protocol documents, maintaining internal study data, participating in project meetings and training calls, and tracking project timelines. Serve as a point of contact for clinical sites, sponsors, clients, and internal study teams, responding to inquiries professionally and supporting the resolution of operational issues. Follow applicable Standard Operating Procedures (SOPs), study protocols, quality requirements, and departmental standards while maintaining current technical and clinical research knowledge. What We Look Fo r High school diploma or equivalent required; Associate or Bachelor’s degree in bioscience, computer science, information technology, or a related field preferred. Working knowledge of PC-based systems and commonly used business software, including email, word processing, Microsoft Excel, and databases. Familiarity with network navigation, file management, and standard file-saving conventions. Knowledge of clinical research, the drug development or clinical trial process, Good Clinical Practice (GCP), or experience in a pharmaceutical or related environment is preferred. Excellent attention to detail with strong documentation, organizational, written communication, and verbal communication skills. Ability to manage changing priorities, meet deadlines, and work effectively both independently and collaboratively with minimal supervision. Self-motivated, goal-oriented, and committed to maintaining a professional and positive approach when working with internal and external stakeholders. At Clario, a part of Thermo Fisher Scientific, a part of Thermo Fisher Scientific, our purpose is to transform lives by unlocking better evidence. It’s a cause that unites and inspires us. It’s why we come to work—and how we empower our people to make a positive impact every day. Whether you're advancing clinical science, building innovative technology, or supporting our global teams, your work helps bring life-changing therapies to patients faster. Clario, a part of Thermo Fisher Scientific
+
+---
+
+## 10. [MAYBE] Profound Medical | Data Scientist
 - Link: https://profoundmedical.bamboohr.com/careers/366
 - Location: Mississauga Ontario
 - Posted: new since the previous sweep (board shows no date)
@@ -145,7 +182,22 @@ Our mission is to Profoundly change the standard of care by creating a tomorrow 
 
 ---
 
-## 9. [MAYBE] ElevenLabs | Data Scientist - Product Analytics
+## 11. [MAYBE] Turner & Townsend | Business Intelligence Analyst
+- Link: https://jobs.smartrecruiters.com/TurnerTownsend/744000162572634
+- Location: USA wide us remote
+- Posted: Nov 19 12:41 ET
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, etl, power bi, reporting | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About the role Our Technology Division is a highly successful and growing business unit, and as a result we are seeking to recruit a high performing Business Intelligence Analyst to enjoy a long term, successful career as we continue to be appointed on some of the US' most prestigious projects. We are currently seeking to recruit a Business Intelligence Analyst to join our Technology team. This role is varied and challenging and will involve working with internal and Client teams. Initiative and problem-solving skills are a must, as are strong interpersonal and communication skills. Possessing experience in providing a high level and quality reporting service, interpret management information requirements and propose and create mockup dashboard visualizations, understand BI and ETL concepts. What you'll do Developing MI/BI strategy. Developing and/or implementing Master Data Strategy. Project definition, scope and requirements gathering. Change management. Analysing business processes, technology and use cases Data modelling techniques. Developing and implementing technology plans. Commercial awareness. Stakeholder management. Power BI or other reporting tools. Familiar with ETL and data architecture. Problem-solving skills. Analytical skills. *SOX control responsibilities may be part of this role, which are to be adhered to where applicable. *On-site presence and requirements may change depending on our client's needs* Our inspired people share our vision and mission. We provide a great place to work, where each person has the opportunity and voice to affect change. We want our people to succeed both in work and life. To support this, we promote a healthy, productive, and flexible working environment that respects work-life balance. Turner & Townsend
+
+---
+
+## 12. [MAYBE] ElevenLabs | Data Scientist - Product Analytics
 - Link: https://jobs.ashbyhq.com/ElevenLabs/41b892ba-b530-44cb-9ae1-178908fc324c
 - Location: United Kingdom United Kingdom Spain Hungary Bulgaria Germany Poland Italy France remote
 - Posted: Nov 19 08:59 ET
@@ -265,7 +317,22 @@ This role is remote-first, so it can be executed from anywhere in Europe, with t
 
 ---
 
-## 10. [MAYBE] Hitachi | Continuous Improvement Specialist – Digitalization and Analytics
+## 13. [MAYBE] Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376
+- Link: https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189471
+- Location: Dallas, TX, United States US
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~52 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 772 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, etl, excel, power bi, sql, statistic, tableau, reporting, research | Lacks: alteryx, sap, snowflake
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Duties: Associate, Data Analytics & Reporting with Goldman Sachs Services LLC in Dallas, Texas. Provide end-to-end data analytics and reporting support to the Firm’s global headcount and talent processes, including project planning, requirement gathering, report build, data governance, and quality control. Leverage advanced knowledge of overall suite of Business Intelligence (BI) tools including SQL, Tableau, Alteryx, and SAP Business Objects. Understand and analyze internal client needs to build and enhance reports, identify areas for automation and process improvement, and recommend technology solutions. Build complex data workflows to eliminate complicated manual processes in headcount and talent organization using Alteryx. Design and build ETL processes, integrating data from sources such as Relational (IQ) or No-SQL Databases, analytical databases like Snowflake or other cloud platforms. Generate analysis and visualization using Tableau to assist with real time reporting and analysis and manage Tableau dashboard’s health, maintenance and expansion. Liaise between business stakeholders and product & technology teams to provide operational efficiency through data source design to facilitate report automation. Participate in design and User Acceptance Testing of new technology driven product. Job Requirements: Master’s degree (U.S. or foreign equivalent) in Computer Science, Business Analytics, Data Architecture/Management, Information Technology/Science, or related field with one (1) year of experience in the job offered or in a related role OR Bachelor’s degree (U.S. or foreign equivalent) in Computer Science, Business Analytics, Data Architecture/Management, Information Technology/Science, or related field with three (3) years of experience in the job offered or in a related role. Prior work experience must include one (1) year (with a Master’s degree) OR three (3) years (with a Bachelor’s degree) with: using advanced visualization tools, including Tableau or Power BI, to effectively provide insights from very large datasets; building automated logic-based workflows in Alteryx or similar ETL (Extract, Transform, Load) tools to transform and integrate data; using advanced Excel tools, including complex formulas, pivot tables, macros, and advanced modeling techniques; working on advanced research design, analytics, or decision science, utilizing statistical techniques, data mining or statistical modeling skills; mining through large unstructured datasets, analyzing them and presenting results that deliver clear insights or story; and using relational database systems to write and modify SQL queries and extract existing data to calculate and format into ad-hoc metrics. ©The Goldman Sachs Group, Inc., 2026. All rights reserved. Goldman Sachs
+
+---
+
+## 14. [MAYBE] Hitachi | Continuous Improvement Specialist – Digitalization and Analytics
 - Link: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Richland-Mississippi-United-States/Continuous-Improvement-Specialist---Digitalization-and-Analytics_R0152362
 - Location: Richland, Mississippi, United States
 - Posted: Nov 19 (board gives the date only)
@@ -280,7 +347,22 @@ Location: Richland, Mississippi, United States Job ID: R0152362 Date Posted: 202
 
 ---
 
-## 11. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
+## 15. [MAYBE] PURE Insurance | Product Analyst
+- Link: https://pureinsurance.wd5.myworkdayjobs.com/pure/job/White-Plains/Product-Analyst_R2817
+- Location: 2 Locations
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: python, sql, statistic, quantitative, research, risk | Lacks: actuar  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About the role. The State Management Product Analyst is an entry level member of the Product Management team and will be based out of our White Plains, NY office or our Chicago, IL office. We are seeking an intelligent, data-minded individual with strong quantitative and analytic skills to assist in the successful implementation of high net worth property and casualty (P&C) insurance products and rates in support of our sustainable growth objectives. What you’ll do. Support the execution of sustainable growth strategies in states by implementing, maintaining and monitoring the respective P&C insurance products. Execute rate reviews and workflows with guidance that achieve target growth and underwriting margin objectives with a focus on member experience. This includes learning to develop rate proposals, state filings for regulatory support, technology specifications, and internal and external communications for all rate and product filings with direction. Assist in cross-functional collaboration with Underwriting, Claims, Marketing, Field Sales and all other stakeholders to successfully and efficiently deliver enhancements to the product suite Support the collaboration with the Actuarial Pricing, Data & Analytics, and Product Development departments in the development of different models using internal and external data to inform product pricing and risk selection decisions Aid in internal and external research to identify emerging trends, member needs and review competitor offerings to inform product innovation Support with direction drafting system requirements and completing user acceptance testing to ensure rate changes and product implementations are delivered as designed with high level of quality Understand and begin to consider the comprehensive member and broker experiences for any touchpoint in the design of given product What you'll need. Bachelor’s degree required, preferably in an analytical field of study including but not limited to Economics, Finance, Actuarial Science, Math, Statistics, and Risk Management Proficiency in SQL, Python, and experience working with data warehouses preferred Strong critical and analytical thinking, quantitative and problem-solving skills with the ability to make data-based decisions Experience using software to extract, organize, and analyze data High degree of personal organization, time management skills, and attention to detai. Strong oral and written communication skills Strong relationship building, collaboration, and influencing skills Demonstrated level of curiosity and a growth mindset Highest level of integrity and honesty ‌ What We Do We're a member-owned property and casualty insurer designed exclusively for financially successful families and driven by a purpose of doing what is right for our members. We provide exceptional service, hospitality and care, we partner with our members to help prevent losses and we create smart insurance solutions at fair prices. We aim for our members to love their insurance . It is our mission is to create a membership experience so compelling that ​our members never want to leave. Who We Are We want to be transparent about what we expect from each other. From PURE, you can expect: Opportunities to stretch and grow: your professional and personal development matters to us. We’re committed to providing experiences through on-the-job learning and professional development that increase your impact and rewards. Clarity and kindness: you can rely on us to be open, honest and supportive, offering clarity on what success looks like. Support in good times and bad: we believe in showing up for each other consistently, not only when it’s easy. You can expect a thoughtful partner, even when we disagree. A community that cares: we are committed to sustaining a community in which each person feels cared for as an individual. We lift each other up, celebrate wins together and support one another through challenges in work and life. Who You Are All of the strongest relationships are a partnership- a two way street. So here’s what we ask of you: Aim to bring your best every day: you’re here because you want to be part of a team that makes a real impact and aims high. Be a student and a teacher: share your knowledge and talents and be willing to listen and learn from those around you. Get comfortable being uncomfortable: we face tough moments and obstacles with a “courage over comfort” approach and a positive, solutions-oriented mindset. Be a culture builder: building a positive culture is everyone's responsibility, based on care, respect and openness to diverse perspectives. The base salary for this role can range from $55,000 to $70,000 based on a full-time work schedule. An individual’s ultimate compensation will vary depending on job-related skills and experience, geographic location, alignment with market data, and equity among other team members with comparable experience. ‌ Want to Learn More? [ Our Values ] [ Our Benefits ] [ Our Community Impact ] [ Our Leadership ]
+
+---
+
+## 16. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990016967787
 - Location: Irvine CA us
 - Posted: Nov 19 11:30 ET
@@ -295,7 +377,7 @@ The Statistical Analyst is an integral role in the research and development of n
 
 ---
 
-## 12. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 17. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802326
 - Location: Tampa, FL, United States US
 - Posted: Nov 19 (board gives the date only)
@@ -310,7 +392,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 13. [MAYBE] Nationwide Children's Hospital | Research Associate- Research Translational Brigstock
+## 18. [MAYBE] Nationwide Children's Hospital | Research Associate- Research Translational Brigstock
 - Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Associate--Research-Translational-Brigstock_R-28994-1
 - Location: Main Campus, Columbus, OH
 - Posted: Nov 19 (board gives the date only)
@@ -325,7 +407,37 @@ Overview: Job Description Summary: Conducts independent research within a genera
 
 ---
 
-## 14. [MAYBE] 7-Eleven | Fuel Pricing Analyst II
+## 19. [MAYBE] SiTime | Data Analyst
+- Link: https://job-boards.greenhouse.io/sitimecorporation/jobs/4511829009
+- Location: California, Santa Clara
+- Posted: Nov 19 12:37 ET
+- Scanner fit: ~44 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, power bi, sql, data quality, git, kpi, reporting | Lacks: salesforce, scala, snowflake
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About SiTime SiTime is the Precision Timing company. Timing is the heartbeat of all electronics, ensuring performance, resilience and scalability. For decades, quartz devices, non-silicon technology, have kept systems in sync, but they struggle in harsher, more demanding environments. MEMS-based Precision Timing delivers greater accuracy, smaller size and resilience. Today, MEMS timing powers over 400 applications, including high-growth ones in AI datacenters, automated driving, industrial and humanoid robots, wearables and IoT. Our semiconductor MEMS programmable solutions offer a rich feature set that enables customers to differentiate their products with higher performance, smaller size, lower power, and better reliability. With more than 4 billion devices shipped, SiTime is changing the timing industry. For more information, visit: www.sitime.com . Job Summary The Data Analyst will turn SiTime’s growing enterprise data assets into clear, trusted insights that help teams make better business decisions. This role will work extensively with Snowflake, Power BI, Microsoft Fabric, and SQL, using governed data from systems such as Salesforce, Oracle, Jira, PLM, TPD, and other enterprise platforms. The analyst will build reports, dashboards, semantic models, and analytical solutions supporting areas including Sales, Finance, Business Units, HR, Engineering, and Digital Marketing. As SiTime expands its enterprise data platform and AI capabilities through 2026 and 2027, this role will also help establish reusable metrics, improve data quality, identify trends and opportunities, and enable responsible AI-driven analytics. &nbsp; We value diverse experiences, perspectives, and career paths, and welcome candidates who are excited to contribute to our mission. &nbsp; Responsibilities: Develop and maintain Power BI dashboards, reports, semantic models, and analytical solutions using Snowflake and other governed enterprise data sources. Translate business requirements into clear metrics, visualizations, and insights that support decision-making across Sales, Finance, Business Units, HR, Engineering, Digital Marketing, and other functions. Analyze complex datasets using SQL, Power BI, and related analytical tools to identify trends, opportunities, anomalies, and data-quality issues. Validate and reconcile data across systems including Salesforce, Oracle, Jira, PLM, TPD, and other enterprise sources while helping establish consistent business definitions and trusted KPIs. Partner with business stakeholders, data engineers, and other analysts to develop reusable data and reporting solutions rather than one-off analyses. Support SiTime’s continued expansion of governed self-service analytics, reusable semantic models, new enterprise data products, and AI-driven insights. It is not necessary to meet all job requirements to be a qualified candidate for the position.&nbsp; Qualifications &amp; Requirements:&nbsp;&nbsp; Bachelor’s degree in Data Analytics, Business Analytics, Information Systems, Computer Science, Finance, Engineering, or a related field, or equivalent practical experience, with experience analyzing business data and developing reports or dashboards. Strong SQL and analytical skills, with hands-on experience using Power BI or a comparable business intelligence platform. Experience with Snowflake, Microsoft Fabric, DAX, Power Query, Excel, semantic modeling, dimensional data models, Salesforce data, or other enterprise data platforms is strongly preferred. Ability to understand business requirements, validate data, troubleshoot discrepancies, and communicate findings clearly to both technical and non-technical audiences. English proficiency is required, including the ability to effectively communicate, collaborate, and perform job responsibilities in a professional business environment. Desired Characteristics &amp; Attributes: Curious and analytical, with strong attention to detail and a practical problem-solving mindset. Comfortable investigating unfamiliar data, tracing discrepancies back to their source, challenging inconsistent definitions, and translating complex information into clear business insights. Collaborative and self-directed, with an interest in modern analytics, automation, and AI-assisted analysis. Able to work effectively with both technical and business teams and motivated by creating reusable, governed solutions that improve how people across the company access and use data. Compensation: &nbsp; At SiTime, we believe great work deserves great rewards. We offer a comprehensive and highly competitive compensation package designed to attract top talent. In addition to base salary, this role is eligible for a quarterly bonus tied to the achievement of innovation goals—reflecting our commitment to recognizing meaningful impact. We also offer equity grants, providing a meaningful opportunity to share in the company’s future growth and success. Benefits offered: 401k plan, health and wellness that includes medical, dental, vision, life, parental leave, legal services, and time off plans. SiTime
+
+---
+
+## 20. [MAYBE] SiTime | Data Engineer | 10057
+- Link: https://job-boards.greenhouse.io/sitimecorporation/jobs/4509850009
+- Location: United States
+- Posted: Nov 19 12:27 ET
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: etl, power bi, python, sql, data quality, git, pipeline, reporting | Lacks: airflow, salesforce, scala, snowflake
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About SiTime SiTime is the Precision Timing company. Timing is the heartbeat of all electronics, ensuring performance, resilience and scalability. For decades, quartz devices, non-silicon technology, have kept systems in sync, but they struggle in harsher, more demanding environments. MEMS-based Precision Timing delivers greater accuracy, smaller size and resilience. Today, MEMS timing powers over 400 applications, including high-growth ones in AI datacenters, automated driving, industrial and humanoid robots, wearables and IoT. Our semiconductor MEMS programmable solutions offer a rich feature set that enables customers to differentiate their products with higher performance, smaller size, lower power, and better reliability. With more than 4 billion devices shipped, SiTime is changing the timing industry. For more information, visit: www.sitime.com . Job Summary The Data Engineer will design, build, and maintain the data pipelines, models, and platform components that power SiTime’s enterprise analytics and reporting environment. This role will work primarily with Snowflake, Fivetran, Airflow, APIs, Python, SQL, Microsoft Fabric, and Power BI, supporting SiTime’s strategy of creating a single governed data platform with reusable, high-quality enterprise data products. The engineer will help expand integrations across systems such as Oracle, Salesforce, Jira, and many others, while working with our partners acorss the company to improve automation, data quality, observability, performance, and scalability. We value diverse experiences, perspectives, and career paths, and welcome candidates who are excited to contribute to our mission. &nbsp;Responsibilities: Design, develop, and maintain reliable data pipelines and integrations using Snowflake, SQL, Python, Fivetran, Airflow, APIs, and other enterprise integration patterns, bringing data from systems including Oracle, Salesforce, Jira, marketing platforms, and approved file-based sources into SiTime’s governed data platform. Build and maintain scalable Snowflake data models and reusable enterprise data products, including ingestion, staging, transformation, data quality, historical tracking, and curated reporting layers that support Power BI semantic models, applications, AI use cases, and controlled data consumption. Partner with business intelligence developers, analysts, application teams, and business stakeholders to deliver new data capabilities across Finance, Sales, HR, Engineering, Digital Marketing, and other business domains, while continuously improving orchestration, deployment, monitoring, security, performance, and data governance. It is not necessary to meet all job requirements to be a qualified candidate for the position.&nbsp; Qualifications &amp; Requirements:&nbsp;&nbsp; Bachelor’s degree in Computer Science, Data Engineering, Information Systems, Engineering, or a related technical field, or equivalent practical experience, with hands-on experience building production data pipelines and analytical data models using SQL and Python. Experience with cloud data platforms such as Snowflake and orchestration or integration technologies such as Airflow, Fivetran, REST APIs, or comparable tools is strongly preferred. Strong understanding of modern data engineering practices, including ELT/ETL architecture, dimensional and analytical data modeling, data quality, orchestration, incremental processing, performance optimization, security, source control, CI/CD, monitoring, and troubleshooting. Experience supporting downstream analytics through Microsoft Fabric, Power BI semantic models, or comparable BI platforms is a plus. English proficiency is required, including the ability to effectively communicate, collaborate, and perform job responsibilities in a professional business environment. Desired Characteristics &amp; Attributes: A practical engineering mindset with strong ownership and problem-solving skills. Comfortable working across unfamiliar source systems, tracing data issues from source through transformation and consumption, and balancing short-term delivery requirements with scalable long-term architecture. Curious and collaborative, with an interest in automation, AI-assisted development, and continuously improving how data engineering is delivered. Able to work effectively with both technical and business teams and motivated by building reusable solutions rather than one-off pipelines or report-specific data processing. Compensation: &nbsp; At SiTime, we believe great work deserves great rewards. We offer a comprehensive and highly competitive compensation package designed to attract top talent. In addition to base salary, this role is eligible for a quarterly bonus tied to the achievement of innovation goals—reflecting our commitment to recognizing meaningful impact. We also offer equity grants, providing a meaningful opportunity to share in the company’s future growth and success. Benefits offered: 401k plan, health and wellness that includes medical, dental, vision, life, parental leave, legal services, and time off plans. SiTime
+
+---
+
+## 21. [MAYBE] 7-Eleven | Fuel Pricing Analyst II
 - Link: https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Fuel-Pricing-Analyst_R26_5191
 - Location: see posting
 - Posted: Nov 18 (board gives the date only)
@@ -340,7 +452,7 @@ Overview: Job Description Summary: Conducts independent research within a genera
 
 ---
 
-## 15. [MAYBE] RingCentral | Senior Agentic AI Engineer
+## 22. [MAYBE] RingCentral | Senior Agentic AI Engineer
 - Link: https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Bulgaria/Senior-Agentic-AI-Engineer_R078150
 - Location: Bulgaria
 - Posted: Nov 18 (board gives the date only)
@@ -355,7 +467,7 @@ Say hello to opportunities. It’s not everyday that you consider starting a new
 
 ---
 
-## 16. [MAYBE] Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology
+## 23. [MAYBE] Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Remote/C-BRAIN-Senior-Applied-Scientist--Remote----Neurology_JR98761
 - Location: Remote
 - Posted: Nov 18 (board gives the date only)
@@ -370,7 +482,7 @@ Location Remote, US&#xa;&#xa; Scheduled Hours 40 Position Summary The Consortium
 
 ---
 
-## 17. [MAYBE] Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business
+## 24. [MAYBE] Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business
 - Link: https://www.google.com/about/careers/applications/jobs/results/91792511671902918
 - Location: New York, NY, USA ; Chicago, IL, USA ; Mountain View, CA, USA ; Los Angeles, CA, USA ; San Bruno, CA, USA
 - Posted: Nov 19 04:07 ET
@@ -385,7 +497,7 @@ Much of the organization's most valuable signal sits in high-volume unstructured
 
 ---
 
-## 18. [MAYBE] Protiviti | Senior Legal Data Engineer
+## 25. [MAYBE] Protiviti | Senior Legal Data Engineer
 - Link: https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/HOUSTON/Senior-Legal-Data-Engineer_JR-262284
 - Location: HOUSTON
 - Posted: Nov 18 (board gives the date only)
