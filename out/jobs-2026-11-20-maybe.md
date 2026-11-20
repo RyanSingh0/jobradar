@@ -5,54 +5,61 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | City of New York | Data Analytics & Automation Specialist | 78 | none found (check myvisajobs) | Nov 20 06:32 ET |
-| 2 | Salt Lake County | Internal Job Title Opioid Settlement Funds Performance & Data Analyst | 76 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 3 | CCC Intelligent Solutions | Financial Intelligence Analyst | 74 | 14 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 4 | Endeavor Air | Requisition Title Analytics Engineer | 74 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 5 | Hitachi | AI Data & Security Governance Engineer (MAD-BS-OR) | 71 | 2 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 6 | Community Health Systems | Strategy Analyst | 70 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 7 | Rice University | Stewardship Data Specialist | 69 | cap-exempt employer | Nov 20 (board gives the date only) |
-| 8 | Globus Medical | Pricing Analyst | 68 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 9 | City of New York | Junior Data Analytics & Automation Specialist | 67 | none found (check myvisajobs) | Nov 20 06:32 ET |
-| 10 | American Bureau of Shipping | Finance Analyst, Government Projects | 67 | 2 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 11 | PricewaterhouseCoopers (PwC) | Finance Data, Analytics & AI - Experienced Associate | 67 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 12 | Blackhawk Network Holdings | Title Financial Analyst I (Hybrid - Coppell, TX) | 65 | 3 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 13 | iHeartMedia | Finance Analyst, Corporate | 65 | 5 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 14 | TribalScale | AI Engineer - Agent Infrastructure & AI Workflow | 65 | none found (check myvisajobs) | Nov 20 12:11 ET |
-| 15 | Bank of Montreal | Analyst, Global Markets Corporate Banking | 65 | 4 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 16 | Whataburger | Accounting Data Analyst | 59 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 17 | City of New York | Data Engineer | 58 | none found (check myvisajobs) | Nov 20 06:22 ET |
-| 18 | City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics | 57 | none found (check myvisajobs) | Nov 20 06:22 ET |
-| 19 | Highmark Health | Associate Strategy Analyst | 57 | 11 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 20 | AES | Data Analyst, Training Operations | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 21 | Baird | Statements & Investor Reporting Analyst | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 22 | University of Chicago | Research Analyst | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 23 | Texas A&M University - College Station | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
-| 24 | Texas A&M University System | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
-| 25 | Knowledge Services | Job Title Remote Research Analyst - Survey & Data Collection (Contract) | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 26 | Axos Bank | JBATA - Data Engineer | 54 | 6 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 27 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 28 | Berkshire Hathaway Energy | Mgr, Data Science | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 29 | CVS Health | Software Development - Data Engineer | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 30 | Invesco | Business Risk Analyst | 50 | 28 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 31 | Goodlord | Operations & Risk Analyst | 50 | none found (check myvisajobs) | Nov 20 12:34 ET |
-| 32 | Barclays | Business Intelligence Developer | 48 | 142 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 33 | Blue Sky Innovators | AI Engineering Advisor | 48 | none found (check myvisajobs) | Nov 20 12:33 ET |
-| 34 | Verizon Communications | Forward Deployed AI Engineer | 47 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 35 | The New School | Research Associate Fall 2027 | 45 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 36 | Capital Group | Investment Content & Marketing Analyst | 45 | 458 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 37 | JP Morgan Chase | 2027 Applied Research Associate - Summer Associate | 44 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 38 | Cartesian | Machine Learning Scientist | 44 | none found (check myvisajobs) | Nov 20 11:17 ET |
-| 39 | Dayton Freight Lines | Title Pricing Analyst | 40 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 40 | Amgen | Sr Data Scientist | 66 | 112 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 41 | Regeneron Pharmaceuticals | AI Engineer II | 66 | 42 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 42 | Jerry | Senior Associate, Business Operations & Analytics | 60 | 3 in data/analytics/finance occupations | Nov 20 12:38 ET |
-| 43 | Hinge Health | AI Engineer II | 58 | 5 in data/analytics/finance occupations | Nov 20 13:20 ET |
-| 44 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
-| 45 | McKesson | Sr Associate, Data Engineering | 55 | 38 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 46 | Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | 55 | 51 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 47 | Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS) | 55 | 28 in data/analytics/finance occupations | Nov 20 14:03 ET |
-| 48 | DaVita | Customer Experience Reporting and Analytics Senior Developer | 55 | 9 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 49 | Paypal Inc. | Sr. Machine Learning Engineer | 55 | 188 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 2 | Fidelity National Information Services | Data Scientist | 77 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 3 | Salt Lake County | Internal Job Title Opioid Settlement Funds Performance & Data Analyst | 76 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 4 | UHIN | Health Data Analyst | 76 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 5 | CCC Intelligent Solutions | Financial Intelligence Analyst | 74 | 14 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 6 | Endeavor Air | Requisition Title Analytics Engineer | 74 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 7 | Hitachi | AI Data & Security Governance Engineer (MAD-BS-OR) | 71 | 2 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 8 | Community Health Systems | Strategy Analyst | 70 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 9 | Rice University | Stewardship Data Specialist | 69 | cap-exempt employer | Nov 20 (board gives the date only) |
+| 10 | Globus Medical | Pricing Analyst | 68 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 11 | City of New York | Junior Data Analytics & Automation Specialist | 67 | none found (check myvisajobs) | Nov 20 06:32 ET |
+| 12 | American Bureau of Shipping | Finance Analyst, Government Projects | 67 | 2 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 13 | PricewaterhouseCoopers (PwC) | Finance Data, Analytics & AI - Experienced Associate | 67 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 14 | RADAR | Data Scientist  | 67 | none found (check myvisajobs) | Nov 20 15:41 ET |
+| 15 | Blackhawk Network Holdings | Title Financial Analyst I (Hybrid - Coppell, TX) | 65 | 3 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 16 | iHeartMedia | Finance Analyst, Corporate | 65 | 5 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 17 | TribalScale | AI Engineer - Agent Infrastructure & AI Workflow | 65 | none found (check myvisajobs) | Nov 20 12:11 ET |
+| 18 | Bank of Montreal | Analyst, Global Markets Corporate Banking | 65 | 4 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 19 | Whataburger | Accounting Data Analyst | 59 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 20 | City of New York | Data Engineer | 58 | none found (check myvisajobs) | Nov 20 06:22 ET |
+| 21 | City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics | 57 | none found (check myvisajobs) | Nov 20 06:22 ET |
+| 22 | Highmark Health | Associate Strategy Analyst | 57 | 11 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 23 | AES | Data Analyst, Training Operations | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 24 | Baird | Statements & Investor Reporting Analyst | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 25 | University of Chicago | Research Analyst | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 26 | Texas A&M University - College Station | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
+| 27 | Texas A&M University System | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
+| 28 | Knowledge Services | Job Title Remote Research Analyst - Survey & Data Collection (Contract) | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 29 | Axos Bank | JBATA - Data Engineer | 54 | 6 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 30 | HCSC | Quality and Reporting Analyst | 54 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 31 | National Laboratory of the Rockies | ML and Optimization Engineer | 54 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 32 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 33 | Berkshire Hathaway Energy | Mgr, Data Science | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 34 | CVS Health | Software Development - Data Engineer | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 35 | Invesco | Business Risk Analyst | 50 | 28 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 36 | Goodlord | Operations & Risk Analyst | 50 | none found (check myvisajobs) | Nov 20 12:34 ET |
+| 37 | Barclays | Business Intelligence Developer | 48 | 142 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 38 | Blue Sky Innovators | AI Engineering Advisor | 48 | none found (check myvisajobs) | Nov 20 12:33 ET |
+| 39 | Verizon Communications | Forward Deployed AI Engineer | 47 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 40 | The New School | Research Associate Fall 2027 | 45 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 41 | Capital Group | Investment Content & Marketing Analyst | 45 | 458 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 42 | JP Morgan Chase | 2027 Applied Research Associate - Summer Associate | 44 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 43 | Cartesian | Machine Learning Scientist | 44 | none found (check myvisajobs) | Nov 20 11:17 ET |
+| 44 | RADAR | Data Engineer | 41 | none found (check myvisajobs) | Nov 20 15:40 ET |
+| 45 | Dayton Freight Lines | Title Pricing Analyst | 40 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 46 | ISS | Institutional Shareholder Services | Custom Research Analyst- Corporate Governance (Temporary) | 40 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 47 | Amgen | Sr Data Scientist | 66 | 112 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 48 | Regeneron Pharmaceuticals | AI Engineer II | 66 | 42 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 49 | Jerry | Senior Associate, Business Operations & Analytics | 60 | 3 in data/analytics/finance occupations | Nov 20 12:38 ET |
+| 50 | Hinge Health | AI Engineer II | 58 | 5 in data/analytics/finance occupations | Nov 20 13:20 ET |
+| 51 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
+| 52 | McKesson | Sr Associate, Data Engineering | 55 | 38 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 53 | Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | 55 | 51 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 54 | Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS) | 55 | 28 in data/analytics/finance occupations | Nov 20 14:03 ET |
+| 55 | DaVita | Customer Experience Reporting and Analytics Senior Developer | 55 | 9 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 56 | Paypal Inc. | Sr. Machine Learning Engineer | 55 | 188 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
 
 ---
 
@@ -71,7 +78,22 @@ Hours: Full-Time – 35 Hours Work Location: 30-30 Thomson Avenue, LIC, NY 11101
 
 ---
 
-## 2. [MAYBE] Salt Lake County | Internal Job Title Opioid Settlement Funds Performance & Data Analyst
+## 2. [MAYBE] Fidelity National Information Services | Data Scientist
+- Link: https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-ATL-201-STE-900/Data-Scientist_JR0308876-1
+- Location: 3 Locations
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~77 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, data visualization, hypothesis test, machine learning, nlp, pandas, python, scikit, spark, sql, statistic, tableau, fraud, portfolio | Lacks: databricks  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Description Are you curious, motivated, and forward-thinking? At FIS you’ll have the opportunity to work on some of the most challenging and relevant issues in financial services and technology. Our talented people empower us, and we believe in being part of a team that is open, collaborative, entrepreneurial, passionate and above all fun. About the role: As a key member of the Data Science team, the data scientist will deploy data-driven exploratory analysis as well as predictive models and AI solutions to solve business problems across the financial services industry, particularly in Risk, Fraud, Marketing, and Portfolio Management. Following the machine learning lifecycle, the data scientist should be able to convert the results into actionable product recommendations to present internally and externally. What you'll be doing: Participate in the design, development, validation, deployment, and monitoring of advanced analytics, machine learning, and AI solutions that drive measurable business outcomes. Leverage expertise in data structures and algorithms to analyze and prepare data for modeling, assembling datasets from both standard and novel data sources and incorporate them into end-to-end analytical solutions. Apply advanced machine learning, predictive analytics, natural language processing (NLP), and emerging AI techniques (GenAI, Agentic etc.) to solve complex business problems across the payments and financial services ecosystem. Design and execute experiments, hypothesis testing frameworks, and statistical analyses to evaluate business strategies, product enhancements, and operational improvements. Establish and promote best practices in data science, machine learning, feature engineering, experimentation, model governance, and MLOps throughout the organization. Stay current on industry trends in machine learning, AI, Generative AI, and financial services analytics; bring relevant innovations to the team. What you bring: Master's degree or higher in Mathematics, Computer Science, Engineering, Operations Research, Statistics, or a related quantitative discipline. 1-3 years of experience developing and deploying end-to-end machine learning, predictive analytics, and data science solutions within the Payments, Banking, or Financial Services industry. Strong proficiency in Python and SQL; experience with big data technologies such as Spark, PySpark, a plus. Hands-on experience with data wrangling, feature engineering, and model development using libraries such as Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, or Plotly. Demonstrated experience building and deploying machine learning models in a production or near-production environment. Proficiency with data visualization and business intelligence tools (e.g., Tableau or equivalent). Strong analytical thinking and problem-solving skills; ability to translate ambiguous business problems into rigorous analytical frameworks. Ability to work collaboratively across product, engineering, and business teams. Nice to have: Experience within the Payments, Banking, or Financial Services industry. Hands-on experience with the Databricks platform, including MLflow, Model Registry, collaborative notebooks, and MLOps workflows. Experience deploying cloud-native machine learning solutions, particularly within AWS environments. Familiarity with emerging advancements in Transformer Models and Agentic AI technologies. Knowledge of model governance, regulatory compliance, and MLOps best practices within regulated financial services environments. What we offer you: A career at FIS is more than just a job. It’s the chance to shape the future of fintech. At FIS, we offer you: A voice in the future of fintech Always-on learning and development Collaborative work environment Opportunities to give back Competitive salary and benefits Privacy Statement FIS is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. For specific information on how FIS protects personal information online, please see the Online Privacy Notice . EEOC Statement FIS
+
+---
+
+## 3. [MAYBE] Salt Lake County | Internal Job Title Opioid Settlement Funds Performance & Data Analyst
 - Link: https://careers-slco.icims.com/jobs/42899/opioid-settlement-funds-performance-%26-data-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -86,7 +108,22 @@ Opioid Settlement Funds Performance & Data Analyst in SALT LAKE CITY, Utah | Car
 
 ---
 
-## 3. [MAYBE] CCC Intelligent Solutions | Financial Intelligence Analyst
+## 4. [MAYBE] UHIN | Health Data Analyst
+- Link: https://ats.rippling.com/uhin-careers/jobs/f469ae2d-8358-4121-bf5c-9ababd73fcd7
+- Location: Remote (Utah, US) United States
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~76 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: bigquery, dashboard, data visualization, machine learning, nlp, power bi, python, r, sql, statistic, tableau, data cleaning, data quality, healthcare | Lacks: java  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Health Data Analyst Health Data Analyst About UHIN What if you could use your talent to have a positive impact on healthcare? As a nonprofit, Utah Health Information Network, UHIN for short is a health information technology (HIT) company that is making a difference by breaking down the barriers & inefficiencies that exist in healthcare. We offer affordable technology products that allows providers, payers, and patients to securely run their business, take care of patients, and improve affordability. Why work here? We are an innovative organization recognized for being one of the nation’s leaders in standardized information exchange. So how do we do it? It’s no secret, we owe the past 30 years of our success to our outstanding and talented team members. How is Our Technology Used? We aggregate, transform, and exchange large amounts of healthcare data. Our data significantly helps the biggest healthcare organizations in the world make decisions. Additional Information Occasional Travel requirements to UT or conferences. The position has remote and flex-work policies. Disability accommodations. We are technologists and innovators committed to the pursuit of equitable healthcare. But health equity is not possible without representation. Our commitment to diversity goes beyond demographics or checking boxes. Our people must reflect the diverse identities, experiences and backgrounds of the communities and customers we serve – because that’s what our society, colleagues and communities deserve. This position may be exposed to PHI on a regular basis; however, only accesses the minimum necessary for completing tasks. In doing so, this position must comply with all UHIN Policies and Procedures with specific regard to PHI Privacy and Security sections and maintain confidentiality regarding the information being processed, stored, or accessed by the network. Job Summary The Health Data Analyst is responsible for assessing and improving health data quality, performing advanced statistical analyses, and designing interactive reporting and visualization tools. Operating at the intersection of public health surveillance, clinical data, and claims databases, this role extracts complex datasets to support chronic disease monitoring, quality metrics, and population health initiatives. The position supports UHIN’s transition toward a data-driven culture by delivering actionable insights, advancing data governance, and maintaining strict regulatory compliance. Qualifications - Education, Experience and Skills Required qualifications : Education & Experience: Bachelor’s degree in Healthcare Informatics, Epidemiology, Public Health, Data Analytics, Statistics, or a related field (or equivalent practical experience). Minimum 2–4 years of experience extracting, analyzing, interpreting, and reporting on complex healthcare and public health data. Demonstrated experience working with both healthcare claims and clinical datasets. Domain & Analytical Expertise: Hands-on experience with public health surveillance, chronic disease reporting, and population-level health analytics. Proven track record assessing health data quality, accuracy, completeness, and timeliness across disparate internal and external systems. Technical & Software Proficiency: Advanced SQL query development for complex data extraction, aggregation, and manipulation. Experience with Python (including data visualization and statistical libraries). Experience designing, developing, and maintaining interactive dashboards using Business Intelligence tools (e.g., Tableau, Power BI). Skills, Knowledge, and Abilities: Technical & Data Mastery: Proficiency in writing optimized SQL queries, utilizing Python/R libraries, building BI dashboards, applying statistical and research methods, and analyzing both structured and unstructured quantitative and qualitative data. Analytical & Critical Thinking: Ability to identify complex problems, weigh pros/cons (cost/benefit), perform quantitative and qualitative analyses, evaluate system performance metrics, and draw logical, data-backed conclusions. Communication & Stakeholder Engagement: Exceptional verbal and written communication skills to interpret and translate complex data findings into clear, non-technical actionable recommendations for medical directors, clinicians, public health partners, and executive leadership teams. Data Governance & Security: In-depth knowledge of HIPAA regulations and internal data governance policies, maintaining absolute confidentiality, privacy, and security across all data operations. Organization & Collaboration: Strong time management, self-initiative, and prioritization skills, with a demonstrated ability to lead meetings, manage projects, and collaborate effectively across teams and external stakeholders. Preferred qualifications : Master’s degree with specialized training in research methods and statistical analysis in a healthcare or public health domain (e.g., Informatics, Epidemiology). Public health epidemiological experience. Experience with machine learning algorithms, predictive analytics, and Natural Language Processing (NLP) for unstructured healthcare data. Familiarity with additional programming languages and tools: R, JavaScript, Google BigQuery, and healthcare industry data standards. PHYSICAL or MENTAL DEMANDS The physical demands described here are representatives of those that must be met by an employee to successfully perform the essential functions of this job.
+
+---
+
+## 5. [MAYBE] CCC Intelligent Solutions | Financial Intelligence Analyst
 - Link: https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Financial-Intelligence-Analyst_0014859
 - Location: Chicago (Green St), IL
 - Posted: Nov 20 (board gives the date only)
@@ -101,7 +138,7 @@ Salary range is: $78,555.51 - $80,000.00 This position is bonus and/or commissio
 
 ---
 
-## 4. [MAYBE] Endeavor Air | Requisition Title Analytics Engineer
+## 6. [MAYBE] Endeavor Air | Requisition Title Analytics Engineer
 - Link: https://careers-endeavorair.icims.com/jobs/5774/analytics-engineer/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -116,7 +153,7 @@ Analytics Engineer in Minneapolis, Minnesota | Careers at MSP HDQ Please Enable 
 
 ---
 
-## 5. [MAYBE] Hitachi | AI Data & Security Governance Engineer (MAD-BS-OR)
+## 7. [MAYBE] Hitachi | AI Data & Security Governance Engineer (MAD-BS-OR)
 - Link: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HTA-NCP-Hillsboro-OR/AI-Data---Security-Governance-Engineer--MAD-BS-OR-_R0144180
 - Location: (HTA) NCP (Hillsboro, OR)
 - Posted: Nov 20 (board gives the date only)
@@ -131,7 +168,7 @@ Location: (HTA) NCP (Hillsboro, OR) Job ID: R0144180 Date Posted: 2026-09-16 Com
 
 ---
 
-## 6. [MAYBE] Community Health Systems | Strategy Analyst
+## 8. [MAYBE] Community Health Systems | Strategy Analyst
 - Link: https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/171413
 - Location: Franklin, TN, United States US
 - Posted: Nov 20 (board gives the date only)
@@ -146,7 +183,7 @@ Job Summary The Strategy Analyst supports executive and health system leadership
 
 ---
 
-## 7. [MAYBE] Rice University | Stewardship Data Specialist
+## 9. [MAYBE] Rice University | Stewardship Data Specialist
 - Link: https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6413
 - Location: Houston, TX, United States US
 - Posted: Nov 20 (board gives the date only)
@@ -161,7 +198,7 @@ Position Summary: The Stewardship Data Specialist, reporting to the Director of 
 
 ---
 
-## 8. [MAYBE] Globus Medical | Pricing Analyst
+## 10. [MAYBE] Globus Medical | Pricing Analyst
 - Link: https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Pennsylvania---Collegeville/Pricing-Analyst_JR108386
 - Location: Pennsylvania - Collegeville
 - Posted: Nov 20 (board gives the date only)
@@ -176,7 +213,7 @@ At Globus Medical, we move with a sense of urgency to deliver innovations that i
 
 ---
 
-## 9. [MAYBE] City of New York | Junior Data Analytics & Automation Specialist
+## 11. [MAYBE] City of New York | Junior Data Analytics & Automation Specialist
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016990286
 - Location: New York City NY us
 - Posted: Nov 20 06:32 ET
@@ -191,7 +228,7 @@ Hours: Full-Time Position – 35 Hours Work Location: 30-30 Thomson Avenue, LIC,
 
 ---
 
-## 10. [MAYBE] American Bureau of Shipping | Finance Analyst, Government Projects
+## 12. [MAYBE] American Bureau of Shipping | Finance Analyst, Government Projects
 - Link: https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5042
 - Location: Houston, TX, United States US
 - Posted: Nov 20 (board gives the date only)
@@ -206,7 +243,7 @@ The Finance Analyst, Government Projects, reporting to the Financial Performance
 
 ---
 
-## 11. [MAYBE] PricewaterhouseCoopers (PwC) | Finance Data, Analytics & AI - Experienced Associate
+## 13. [MAYBE] PricewaterhouseCoopers (PwC) | Finance Data, Analytics & AI - Experienced Associate
 - Link: https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/TX-Dallas/Finance-Data--Analytics---AI---Experienced-Associate_775465WD
 - Location: 39 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -221,7 +258,22 @@ Industry/Sector Not Applicable Specialism Finance Management Level Associate Job
 
 ---
 
-## 12. [MAYBE] Blackhawk Network Holdings | Title Financial Analyst I (Hybrid - Coppell, TX)
+## 14. [MAYBE] RADAR | Data Scientist 
+- Link: https://job-boards.greenhouse.io/radar/jobs/8384264
+- Location: Sunnyvale, CA
+- Posted: Nov 20 15:41 ET
+- Scanner fit: ~67 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: bigquery, dashboard, gcp, hypothesis test, machine learning, pandas, probability, python, pytorch, scikit, spark, sql, statistic, data quality | Lacks: airflow, kafka, looker  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+ABOUT US E-commerce got real-time data infrastructure decades ago. Physical stores still have not. RADAR is changing that. RADAR is building the data infrastructure layer for the physical world, starting with retail. Our hardware-enabled SaaS platform uses proprietary overhead sensors, software, and AI-powered analytics to locate every product in a store, continuously, down to the fixture. We are deployed across 1,500+ stores with retailers including American Eagle Outfitters and Old Navy, processing tens of billions of real-world events every day, delivering 99%+ accuracy in complex, noisy environments - at fleet scale. RADAR is one of the best-funded companies in retail technology, backed by a recent Series B financing at a $1 billion valuation. Inventory accuracy is only the beginning. We believe RADAR can become foundational infrastructure for the physical economy, powering new AI-driven commerce experiences across retail and beyond. Join us if you want to work on a large, unsolved, technically challenging problem with an ambitious team building category-defining technology. OUR VALUES Mission-Driven: We're transforming retail with cutting-edge technology and building something that truly matters. Collaborative Team: We thrive on curiosity, shared goals, and solving complex problems together. High Impact: You’ll make meaningful contributions from day one and help shape the future of our product and company. Clear Communication: We value honesty, humility, and respectful dialogue—everyone’s voice matters. Balanced Lives: We work hard, but not at the expense of well-being. We respect time, boundaries, and life outside of work. Diverse Perspectives: We believe better ideas come from diverse backgrounds, experiences, and viewpoints. Empathy-Driven Design: We build with deep respect for our end users, listening closely to their feedback and needs. ABOUT THE JOB We are looking for a Data Scientist to help grow our analytics and Machine Learning capabilities at RADAR. You’ll work closely with research, data engineering, ML Engineering, product, and customer success to turn raw RFID and location data into actionable insights, real-time alerts, models, and product features that retailers rely on every day. Responsibilities: Build batch and real-time pipelines that turn raw RFID and location data into actionable insights, alerts, and notifications for retail partners, in partnership with Data Engineering Define the metrics, business rules, and detection logic that surface what matters, and deliver it through dashboards and data products in Looker Develop, deploy, and monitor machine learning models where they add value, from feature engineering through production Collaborate with research to improve RFID-based positioning algorithms and modeling approaches Design experiments and dig into data to find root causes, validate improvements, and guide decisions with statistical rigor Partner with product, engineering, and customer success to turn requirements into data-driven features ABOUT YOU Required : Master’s degree in a relevant field (e.g., Data Science, Computer Science, Statistics, Engineering), or a Bachelor’s degree with equivalent practical experience 2–5 years of experience in a data science, analytics, or applied machine learning role Strong proficiency in Python (NumPy, Pandas, SciPy, scikit-learn, PyTorch, etc.) and SQL for data exploration, transformation, and feature development Experience building pipelines, dashboards, or alerting solutions that turn raw data into actionable outputs Hands-on experience with classical machine learning, plus working experience with deep learning Solid foundation in statistics and probability, including experiment design and hypothesis testing Clear communication skills, including explaining technical results to non-technical partners Preferred: Experience with retail analytics (e.g., inventory, merchandising, store operations, or supply chain data) Experience with the GCP data and ML stack (BigQuery, Dataflow, Vertex AI, Pub/Sub) Experience with streaming data and real-time processing (e.g., Apache Beam, Kafka, Spark Structured Streaming) Experience orchestrating pipelines with Airflow and/or Kubeflow Pipelines Familiarity with Looker or similar BI tools WHAT YOU'LL DO In your first 30 days, you will: Onboard to our data and ML ecosystem, including BigQuery, Dataflow, Airflow, Vertex AI, and Looker Learn our RFID analytics platform, data models, and how raw data becomes the insights and alerts retailers use Meet your partners in research, data engineering, ml engineering, product, and customer success, and understand current priorities Ship your first contributions, such as fixing a data issue, improving a dashboard, or refining alert logic In your first 60 days, you will: Take ownership of well-scoped work, such as a pipeline, dashboard, alert, or model component, with guidance Build or improve a real-time alert, notification, or dashboard that turns RFID data into action for retailers Run an analysis or experiment that informs a product or system decision, and present the results Contribute to feature engineering or model improvements in an existing ML pipeline In your first 90 days, you will: Independently deliver an end-to-end solution, from requirements through production, whether it’s analytics, alerting, or ML Identify and drive improvements in data quality, insight accuracy, or model performance Work with product and customer success to shape new data-driven features based on retailer needs Contribute to the team’s best practices for analysis, experimentation, and pipeline development At RADAR, your base pay is one part of your total compensation package. The expected base salary range for this position is $130,000 - $190,000. Individual pay is determined by work location and additional factors,&nbsp; including job-related skills, experience and relevant education or training. You will also be eligible to receive other benefits including: equity, comprehensive medical and dental coverage, life and disability benefits, 401k plan,&nbsp; flexible time off, and paid parental leave. The pay range listed for this position is a good faith and reasonable estimate of the range of possible base compensation at the time of posting.&nbsp; Research has shown that women &amp; underrepresented minorities are more likely to read lists of requirements and consider themselves unqualified if they don't meet every single one. This list represents what we're ideally looking for, but everyone has unique strengths &amp; weaknesses, and we hire for strength &amp; potential, not lack of weakness.
+
+---
+
+## 15. [MAYBE] Blackhawk Network Holdings | Title Financial Analyst I (Hybrid - Coppell, TX)
 - Link: https://careers-blackhawknetwork.icims.com/jobs/27400/financial-analyst-i-%28hybrid---coppell%2c-tx%29/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -236,7 +288,7 @@ Financial Analyst I (Hybrid - Coppell, TX) in Coppell, Texas | Careers at Blackh
 
 ---
 
-## 13. [MAYBE] iHeartMedia | Finance Analyst, Corporate
+## 16. [MAYBE] iHeartMedia | Finance Analyst, Corporate
 - Link: https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/New-York-NY-55th-St/Finance-Analyst--Corporate_Req39800-1
 - Location: New York, NY (55th St)
 - Posted: Nov 20 (board gives the date only)
@@ -251,7 +303,7 @@ iHeartMedia Current employees and contingent workers click here to apply and sea
 
 ---
 
-## 14. [MAYBE] TribalScale | AI Engineer - Agent Infrastructure & AI Workflow
+## 17. [MAYBE] TribalScale | AI Engineer - Agent Infrastructure & AI Workflow
 - Link: https://job-boards.greenhouse.io/tribalscale/jobs/4731215006
 - Location: Remote USA
 - Posted: Nov 20 12:11 ET
@@ -266,7 +318,7 @@ Shape the Future with TribalScale TribalScale is a digital innovation firm that 
 
 ---
 
-## 15. [MAYBE] Bank of Montreal | Analyst, Global Markets Corporate Banking
+## 18. [MAYBE] Bank of Montreal | Analyst, Global Markets Corporate Banking
 - Link: https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Analyst--Global-Markets-Corporate-Banking_R260027631
 - Location: New York, NY, USA
 - Posted: Nov 20 (board gives the date only)
@@ -281,7 +333,7 @@ Application Deadline: 01/30/2027 Address: 151 W 42nd Street Job Family Group: Ca
 
 ---
 
-## 16. [MAYBE] Whataburger | Accounting Data Analyst
+## 19. [MAYBE] Whataburger | Accounting Data Analyst
 - Link: https://whataburger.wd5.myworkdayjobs.com/WAB_CAREERS/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/General-Accountant_JR10014086
 - Location: 300 Concord Plaza Dr San Antonio TX 78216-6903
 - Posted: Nov 19 (board gives the date only)
@@ -296,7 +348,7 @@ Welcome to Whataburger Careers! Our Flavor — Why Whataburger Whataburger isn�
 
 ---
 
-## 17. [MAYBE] City of New York | Data Engineer
+## 20. [MAYBE] City of New York | Data Engineer
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016990106
 - Location: New York City NY us
 - Posted: Nov 20 06:22 ET
@@ -311,7 +363,7 @@ The New York City Department of Sanitation (DSNY) keeps New York City healthy, s
 
 ---
 
-## 18. [MAYBE] City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics
+## 21. [MAYBE] City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016989754
 - Location: New York City NY us
 - Posted: Nov 20 06:22 ET
@@ -326,7 +378,7 @@ About the Agency: The Department of Housing Preservation and Development (HPD) o
 
 ---
 
-## 19. [MAYBE] Highmark Health | Associate Strategy Analyst
+## 22. [MAYBE] Highmark Health | Associate Strategy Analyst
 - Link: https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Strategy-Analyst_J291247
 - Location: 51 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -341,7 +393,7 @@ Company : enGen Job Description : JOB SUMMARY This job supports the leadership o
 
 ---
 
-## 20. [MAYBE] AES | Data Analyst, Training Operations
+## 23. [MAYBE] AES | Data Analyst, Training Operations
 - Link: https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Salt-Lake-City-UT/Data-Analyst--Training-Operations_R1065569
 - Location: 3 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -356,7 +408,7 @@ Are you ready to be part of a company that's not just talking about the future, 
 
 ---
 
-## 21. [MAYBE] Baird | Statements & Investor Reporting Analyst
+## 24. [MAYBE] Baird | Statements & Investor Reporting Analyst
 - Link: https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Statements---Investor-Reporting-Analyst_R2026953-2
 - Location: WI-Milwaukee
 - Posted: Nov 20 (board gives the date only)
@@ -371,7 +423,7 @@ About The Role: The Statements & Investor Reporting Analyst plays an important r
 
 ---
 
-## 22. [MAYBE] University of Chicago | Research Analyst
+## 25. [MAYBE] University of Chicago | Research Analyst
 - Link: https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Analyst_JR35773
 - Location: Chicago, IL
 - Posted: Nov 19 (board gives the date only)
@@ -386,7 +438,7 @@ Department BSD PSY - Lyons Lab About the Department The Department of Psychiatry
 
 ---
 
-## 23. [MAYBE] Texas A&M University - College Station | Research Assistant
+## 26. [MAYBE] Texas A&M University - College Station | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098922-1
 - Location: College Station, TX
 - Posted: Nov 20 (board gives the date only)
@@ -401,7 +453,7 @@ Job Title Research Assistant Agency Texas A&M University Department Biology Prop
 
 ---
 
-## 24. [MAYBE] Texas A&M University System | Research Assistant
+## 27. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098922
 - Location: College Station, TX
 - Posted: Nov 20 (board gives the date only)
@@ -416,7 +468,7 @@ Job Title Research Assistant Agency Texas A&M University Department Biology Prop
 
 ---
 
-## 25. [MAYBE] Knowledge Services | Job Title Remote Research Analyst - Survey & Data Collection (Contract)
+## 28. [MAYBE] Knowledge Services | Job Title Remote Research Analyst - Survey & Data Collection (Contract)
 - Link: https://careers-knowledgeservices.icims.com/jobs/31831/remote-research-analyst---survey-%26-data-collection-%28contract%29/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -431,7 +483,7 @@ Remote Research Analyst - Survey & Data Collection (Contract) in Remote Please E
 
 ---
 
-## 26. [MAYBE] Axos Bank | JBATA - Data Engineer
+## 29. [MAYBE] Axos Bank | JBATA - Data Engineer
 - Link: https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---Data-Engineer_JR5390
 - Location: HQ - San Diego, CA
 - Posted: Nov 20 (board gives the date only)
@@ -446,7 +498,37 @@ Axos Bank Target Range: $30.00 /Hr. - $30.00 /Hr. Actual starting pay will vary 
 
 ---
 
-## 27. [MAYBE] Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027
+## 30. [MAYBE] HCSC | Quality and Reporting Analyst
+- Link: https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/National-Remote/Quality-and-Reporting-Analyst_R0056506
+- Location: National Remote
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, forecast, credit, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At HCSC, our employees are the cornerstone of our business and the foundation to our success. We empower employees with curated development plans that foster growth and promote rewarding, fulfilling careers. Join HCSC and be part of a purpose-driven company that will invest in your professional development. Job Summary This position is responsible for auditing operations compliance with accreditation and regulatory requirements in assigned areas. Ensuring compliance with Plan, BCBSA, NCQA and State and Federal requirements. Researching and reporting monthly on trends. This will include monthly documented summaries, receipts, and how these impact accreditation requirements. Recommending and implementing technical solutions and communicating to the management team of the need/gap. Gathering data, analyzing data, and preparing reports including disseminating information from various sources and systems. Supporting projects and initiatives and resolving issues by working with staff within the department or across departments. Required Job Qualifications: Bachelor degree and 2 years of insurance experience OR 6 years’ insurance experience. Knowledge of health care regulatory and legislative process; experience reading and interpreting legislation. Knowledge or experience reviewing accreditation standards and evaluating level of compliance, identifying challenges and proposing solutions Knowledge or experience monitoring compliance and managing evidence documents. Experience preparing monthly reports and forecasting. Research skills. Analytical skills. Detail orientation and organizational skills; experience meeting deadlines on time. Ability and willingness to travel, including overnight stays. Clear and concise verbal and written communication skills. PC proficiency to include Word, Access, Excel and Cognos. Preferred Job Qualifications: Audit experience. Knowledge of Accreditation (i.e. NCQA, URAC, etc.) Strong Presentation skills (PowerPoint, Excel, Word) Analytical and research skills. This is a remote role. #LI-MM Are you being referred to one of our roles? If so, ask your connection at HCSC about our Employee Referral process! Pay Transparency Statement: At Health Care Service Corporation, you will be part of an organization committed to offering meaningful benefits to our employees to support their life outside of work. From health and wellness benefits, 401(k) savings plan, pension plan, paid time off, paid parental leave, disability insurance, supplemental life insurance, employee assistance program, paid holidays, tuition reimbursement, plus other incentives, we offer a robust total rewards package for employees. Learn more about our benefit offerings by visiting https://careers.hcsc.com/totalrewards . The compensation offered will vary depending on your job-related skills, education, knowledge, and experience. This role aligns with an annual incentive bonus plan subject to the terms and the conditions of the plan. This position may be performed remotely from anywhere within the continental United States, excluding California, New York, Alaska, and Hawaii . HCSC Employment Statement:
+
+---
+
+## 31. [MAYBE] National Laboratory of the Rockies | ML and Optimization Engineer
+- Link: https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/ML-and-Optimization-Engineer_R14323
+- Location: 2 Locations
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time (40 h/week stated)
+- Title scope: core | Has: aws, excel, python, pytorch, tensorflow, deep learning, publication, quantitative, research | Lacks: c++, java  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | Demonstrated experience in a research lab environment including technical publication experience, experience in writing proposals, ability to context shift and be able to support multiple projects at once, experience sup
+
+### Job description
+
+Posting Title ML and Optimization Engineer . Location CO - Golden . Position Type Limited Term (Fixed Term) . Hours Per Week 40 . Working at NLR NLR is located at the foothills of the Rocky Mountains in Golden, Colorado is the nation's primary laboratory for energy systems research and development. Join the National Laboratory of the Rockies (NLR), where world-class scientists, engineers, and experts are accelerating energy innovation through breakthrough research and systems integration. From our mission to our collaborative culture, NLR stands out in the research community for its commitment to an affordable and secure energy future. Spanning foundational science to applied systems engineering and analysis, we focus on solving complex challenges to deliver advanced, secure, reliable, and cost-effective energy solutions. Our work helps strengthen U.S. industries, support job creation, and promote national economic growth. At NLR, you'll find a mission-driven environment supported by state-of-the-art facilities, multidisciplinary research teams, and strong collaborations with industry, academia, and other national laboratories. We offer robust professional development opportunities, and a competitive benefits package designed to support your career and well-being. Job Description The National Laboratory of the Rockies (NLR) is seeking an accomplished full-time software engineer with experience in Superintelligence (SI), optimization, applied mathematics, and high-performance computing within the Computational Science Center (CSC) with a focus on advancing energy innovation by supporting world class research and leadership in computational science. In the CSC, we integrate discovery science, engineering, and mission delivery to translate breakthrough research into operational capabilities, with core strengths in high‑performance computing, SI/ML, modeling and simulation, and visualization. We steward state‑of‑the‑art supercomputing and data facilities, secure research environments (including classified spaces), and specialized testbeds that enable end‑to‑end development and red‑team evaluation. NLR collaborates across DOE program offices and with the defense and intelligence communities, other federal agencies, universities, and industry through public–private partnerships and technology transition pathways, while fostering a culture of scientific excellence, operational rigor, and responsible research. In this position you will design, develop, and rigorously test software applications and components, utilizing best practices and cutting-edge technologies to pave the way for innovative, collaborative, and hybrid computing solutions supporting NLR’s mission critical research projects. Candidates will work across the full research-to-implementation stack including designing and evaluating SI models, translating findings into production-ready systems, and occasionally diving into the quantitative underpinnings that make intelligent systems behave reliably in constrained, real-world settings. This isn't a role where SI and optimization live in separate silos. Candidates are expected to reason across both. Strong software engineering fundamentals are the foundation. Beyond that, candidates should have meaningful experience with modern SI/ML such as deep learning, probabilistic modeling, large-scale inference, foundation models, and applied SI in a specific domain. Candidates understand the difference between a benchmark result and a deployed system, and know how to close that gap. On the optimization side, candidates are expected to be comfortable with formulating and reasoning about constrained optimization problems. Candidates should possess a willingness to go deep when the work demands it. Candidates should have a strong technical background, good work ethic, experience in leadership and mentorship, and be comfortable to quickly learn and apply new technologies, as the role will include self-starting and performing technical tasks independently. The role also requires collaboration and effective communication with peers, mentors, and team members. The successful candidate will not shy away from tackling challenges, but rather, demonstrate eagerness to engineer creative solutions. In this vein, the candidate should have a high degree of curiosity, excitement to work on a team, and ability to adapt to needs of different projects and challenges by gaining and utilizing new skills in support of research goals. . Basic Qualifications Professional Level III - Relevant Bachelor's Degree and 5 or more years of experience or equivalent relevant education/experience. Or, relevant Master's Degree and 3 or more years of experience or equivalent relevant education/experience. Or, relevant PhD or equivalent relevant education/experience. Professional Level II - Relevant Bachelor's Degree and 2 or more years of experience or equivalent relevant education/experience. Or, relevant Master's Degree or equivalent relevant education/experience. * Must meet educational requirements prior to employment start date. Additional Required Qualifications Demonstrated experience with pytorch and tensorflow. Demonstrated experience writing clean, efficient, and maintainable code, adhering to coding standards and guidelines. Demonstrated experience designing, developing, and testing software applications and components using best practices and modern technologies. Demonstrated knowledge in Python and at least one other major programming language, such as JavaScript/TypeScript,, Java, or C/C++. Ability to communicate complex technical documentation of software architecture, design decisions, and technical specifications with precision and clarity, providing valuable insights for team collaboration and future reference. Effective communication skills to participate in code reviews, provide constructive feedback to ensure code quality and consistency across the team. Openness to alternative methods and willingness to adjust plans as circumstances evolve. Works effectively with others toward a common goal, valuing differing perspectives and contributions. Demonstrated experience in a research lab environment including technical publication experience, experience in writing proposals, ability to context shift and be able to support multiple projects at once, experience supporting junior-level researchers and developers Preferred Qualifications First-author publication(s) Open-source software release(s) Ability to obtain a clearance . Job Application Submission Window The anticipated closing window for application submission is up to 30 days and may be extended as needed. Annual Salary Range (based on full-time 40 hours per week) Job Profile: IT Professional III / Annual Salary Range: $100,400 - $180,700 Job Profile: IT Professional II / Annual Salary Range: $83,600 - $150,500 NLR takes into consideration a candidate’s education, training, and experience, expected quality and quantity of work, required tra [...]
+
+---
+
+## 32. [MAYBE] Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2027_25928747
 - Location: New York New York United States
 - Posted: Nov 20 (board gives the date only)
@@ -461,7 +543,7 @@ NAM Quantitative Analysis, Summer Analyst Program – New York (North America - 
 
 ---
 
-## 28. [MAYBE] Berkshire Hathaway Energy | Mgr, Data Science
+## 33. [MAYBE] Berkshire Hathaway Energy | Mgr, Data Science
 - Link: https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006112
 - Location: Des Moines, IA, United States US Reno, NV, United States Las Vegas, NV, United States
 - Posted: Nov 20 (board gives the date only)
@@ -476,7 +558,7 @@ We are seeking an experienced and strategic Manager, Data Science to lead our Da
 
 ---
 
-## 29. [MAYBE] CVS Health | Software Development - Data Engineer
+## 34. [MAYBE] CVS Health | Software Development - Data Engineer
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Software-Development---Data-Engineer_R1108425-1
 - Location: CT - Hartford
 - Posted: Nov 20 (board gives the date only)
@@ -491,7 +573,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 30. [MAYBE] Invesco | Business Risk Analyst
+## 35. [MAYBE] Invesco | Business Risk Analyst
 - Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Business-Risk-Analyst_R-16028
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -506,7 +588,7 @@ About Invesco As one of the world’s leading independent global investment firm
 
 ---
 
-## 31. [MAYBE] Goodlord | Operations & Risk Analyst
+## 36. [MAYBE] Goodlord | Operations & Risk Analyst
 - Link: https://jobs.ashbyhq.com/goodlord/65494990-bb13-45b4-b7e4-d642815132c0
 - Location: England United Kingdom remote
 - Posted: Nov 20 12:34 ET
@@ -613,7 +695,7 @@ Goodlord wants applicants from all backgrounds and walks of life;
 
 ---
 
-## 32. [MAYBE] Barclays | Business Intelligence Developer
+## 37. [MAYBE] Barclays | Business Intelligence Developer
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Business-Intelligence-Developer_JR-0000139295
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -628,7 +710,7 @@ Job Description Purpose of the role To support the bank's decision-making proces
 
 ---
 
-## 33. [MAYBE] Blue Sky Innovators | AI Engineering Advisor
+## 38. [MAYBE] Blue Sky Innovators | AI Engineering Advisor
 - Link: https://job-boards.greenhouse.io/blueskyinnovators/jobs/5490916008
 - Location: Chantilly, VA
 - Posted: Nov 20 12:33 ET
@@ -643,7 +725,7 @@ Blue Sky Innovators is seeking an AI Engineering Advisor to join our team in Cha
 
 ---
 
-## 34. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
+## 39. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
 - Link: https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Forward-Deployed-AI-Engineer_R-1102337-1
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -658,7 +740,7 @@ When you join Verizon You want more out of a career. A place to share your ideas
 
 ---
 
-## 35. [MAYBE] The New School | Research Associate Fall 2027
+## 40. [MAYBE] The New School | Research Associate Fall 2027
 - Link: https://newschool.wd1.myworkdayjobs.com/external/job/B---65-West-11th-Street/Research-Associate-Fall-2027_JR110154
 - Location: B - 65 West 11th Street
 - Posted: Nov 19 (board gives the date only)
@@ -673,7 +755,7 @@ The Research Associate will support faculty research on twentieth-century United
 
 ---
 
-## 36. [MAYBE] Capital Group | Investment Content & Marketing Analyst
+## 41. [MAYBE] Capital Group | Investment Content & Marketing Analyst
 - Link: https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/Investment-Content---Marketing-Analyst_JR7786-1
 - Location: Los Angeles
 - Posted: Nov 20 (board gives the date only)
@@ -688,7 +770,7 @@ Discover your potential. Build your legacy. Go the distance with Capital Group A
 
 ---
 
-## 37. [MAYBE] JP Morgan Chase | 2027 Applied Research Associate - Summer Associate
+## 42. [MAYBE] JP Morgan Chase | 2027 Applied Research Associate - Summer Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809359
 - Location: New York, NY, United States US
 - Posted: Nov 20 (board gives the date only)
@@ -703,7 +785,7 @@ Our firm is seeking a junior or senior researcher and thought leader to perform 
 
 ---
 
-## 38. [MAYBE] Cartesian | Machine Learning Scientist
+## 43. [MAYBE] Cartesian | Machine Learning Scientist
 - Link: https://job-boards.greenhouse.io/cartesiansystems/jobs/4516933009
 - Location: Cambridge, MA
 - Posted: Nov 20 11:17 ET
@@ -718,7 +800,22 @@ About the Company Cartesian &nbsp; is building spatial intelligence for indoor e
 
 ---
 
-## 39. [MAYBE] Dayton Freight Lines | Title Pricing Analyst
+## 44. [MAYBE] RADAR | Data Engineer
+- Link: https://job-boards.greenhouse.io/radar/jobs/8384252
+- Location: Sunnyvale, CA
+- Posted: Nov 20 15:40 ET
+- Scanner fit: ~41 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: bigquery, dashboard, machine learning, python, sql, tableau, data quality, docker, git, pipeline, research | Lacks: airflow, databricks, dbt, kafka, looker, snowflake  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+ABOUT US E-commerce got real-time data infrastructure decades ago. Physical stores still have not. RADAR is changing that. RADAR is building the data infrastructure layer for the physical world, starting with retail. Our hardware-enabled SaaS platform uses proprietary overhead sensors, software, and AI-powered analytics to locate every product in a store, continuously, down to the fixture. We are deployed across 1,500+ stores with retailers including American Eagle Outfitters and Old Navy, processing tens of billions of real-world events every day, delivering 99%+ accuracy in complex, noisy environments - at fleet scale. RADAR is one of the best-funded companies in retail technology, backed by a recent Series B financing at a $1 billion valuation. Inventory accuracy is only the beginning. We believe RADAR can become foundational infrastructure for the physical economy, powering new AI-driven commerce experiences across retail and beyond. Join us if you want to work on a large, unsolved, technically challenging problem with an ambitious team building category-defining technology. OUR VALUES Mission-Driven: We're transforming retail with cutting-edge technology and building something that truly matters. Collaborative Team: We thrive on curiosity, shared goals, and solving complex problems together. High Impact: You’ll make meaningful contributions from day one and help shape the future of our product and company. Clear Communication: We value honesty, humility, and respectful dialogue—everyone’s voice matters. Balanced Lives: We work hard, but not at the expense of well-being. We respect time, boundaries, and life outside of work. Diverse Perspectives: We believe better ideas come from diverse backgrounds, experiences, and viewpoints. Empathy-Driven Design: We build with deep respect for our end users, listening closely to their feedback and needs. ABOUT THE JOB We are looking for a Data Engineer to help build and develop our analytics, Machine Learning and AI capabilities at RADAR. You’ll work alongside senior engineers and collaborate with teams across the company, from product and customer success to engineering, data science and research. Responsibilities: Build and maintain reliable batch and streaming data pipelines with dbt, Airflow, Beam, and Python. This includes adding the data quality checks, tests, monitoring, and error handling that keep them trustworthy. Help design and implement data models that support analytics and ML use cases. Write and optimize SQL (including CTEs and window functions) and contribute to streaming pipelines. Work with data science, engineering, and product to understand data needs and help deliver solutions. Contribute to RADAR’s data product offering, which turns our real-time inventory and location data into actionable insights for retail partners. You’ll also build dashboards and visualizations (e.g. Looker). Take part in code reviews and design discussions, and follow and help improve team standards for pipeline quality and reliability. Learn the data platform’s architecture and bring ideas for improvement as you grow. ABOUT YOU Required : 1–4 years of experience in a Data Engineering, Analytics Engineering, or related role (internships, co-ops, or substantial project work count toward the lower end). Proficiency in SQL and Python for data manipulation. Exposure to building or maintaining data pipelines with orchestration and transformation tools (Airflow, Dagster, dbt). Understanding of core data concepts such as data modeling, partitioning, and query performance, plus an eagerness to go deeper. Experience writing tests or data quality checks, or a strong interest in learning to. Experience creating analytics solutions with visualization tools such as Looker or Tableau. Familiarity with version control (Git). Curiosity, a willingness to ask questions, and comfort working with ambiguity alongside more senior teammates. Preferred: Experience with a streaming framework (Apache Beam, Kafka Streams, Flink, or similar). Experience with modern data warehouses such as BigQuery, Snowflake, or Databricks. Experience with visualization tools such as Looker or Tableau. Exposure to pipelines that support ML model training or serving. Familiarity with containerization tools such as Docker. Bachelor’s or Master’s degree in a relevant field, or equivalent practical experience. WHAT YOU'LL DO In your first 30 days, you will: Complete onboarding, security, and compliance training, and get to know RADAR’s mission, stack, and values. Meet your team and key partners in data science, engineering, and product. Get your development environment set up and learn RADAR’s data architecture, including BigQuery tables and batch and streaming pipelines. Ship your first contributions, such as a bug fix, a new data quality check, or a small pipeline enhancement, with support from a teammate. In your first 60 days, you will: Take on well-scoped tasks on an active pipeline or data model and deliver them with increasing independence. Add tests, data quality checks, and monitoring to the pipelines you work on. Build or improve a Looker dashboard or dataset that a stakeholder actively uses. Take part in code reviews, both giving and receiving feedback, and get comfortable with the team’s standards and workflows. In your first 90 days, you will: Own a small component of the data platform, such as a pipeline, data model, or dataset, and become a reliable point of contact for it. Deliver a project end-to-end with guidance, from understanding the requirement to shipping and monitoring it. Contribute to RADAR’s data product offering, helping turn real-time inventory and location data into insights partners can act on. Share at least one observation or idea for improving the team’s pipelines, tooling, or processes. At RADAR, your base pay is one part of your total compensation package. The expected base salary range for this position is $100,000 - $170,000. Individual pay is determined by work location and additional factors,&nbsp; including job-related skills, experience and relevant education or training. You will also be eligible to receive other benefits including: equity, comprehensive medical and dental coverage, life and disability benefits, 401k plan,&nbsp; flexible time off, and paid parental leave. The pay range listed for this position is a good faith and reasonable estimate of the range of possible base compensation at the time of posting.&nbsp; Research has shown that women &amp; underrepresented minorities are more likely to read lists of requirements and consider themselves unqualified if they don't meet every single one. This list represents what we're ideally looking for, but everyone has unique strengths &amp; weaknesses, and we hire for strength &amp; potential, not lack of weakness.
+
+---
+
+## 45. [MAYBE] Dayton Freight Lines | Title Pricing Analyst
 - Link: https://careers-daytonfreight.icims.com/jobs/18734/pricing-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -733,7 +830,22 @@ Pricing Analyst in Dayton, Ohio | Careers at Corporate Please Enable Cookies to 
 
 ---
 
-## 40. [MAYBE] Amgen | Sr Data Scientist
+## 46. [MAYBE] ISS | Institutional Shareholder Services | Custom Research Analyst- Corporate Governance (Temporary)
+- Link: https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Norman-OK-US/Custom-Research-Analyst--Temporary-_JR_10542
+- Location: Norman, OK, US
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: temporary/contract
+- Title scope: core | Has: excel, research, risk | Lacks: -  | Note: no H-1B filings found for this employer temporary or contract: confirm it is W-2 with an E-Verify employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+ISS Stoxx is hiring! Advance your career with the leading provider of corporate governance and responsible investment solutions. ISS Stoxx empowers investors and companies to build sustainable financial and social value by providing high-quality data, analytics, and insight. Our clients rely on ISS Stoxx’s expertise and capital stewardship to help them make informed investment decisions, and our people are equally passionate about positively impacting the communities where we live and work. If you want to be a part of an exciting work culture that values innovation, collaboration, and provides you with the support you need to make a difference, we’d love to hear from you! We are hiring a few Temporary Research Analysts in Norman, OK. for a term starting in mid-January 2027 and ending in June 2027 (start and end dates may fluctuate). This is a unique opportunity to join our leading Custom Research team with the potential to advance towards a full-time role. This is an hourly paid position that requires potential overtime, including weekends and during peak weeks (generally late March – early-June). Interviews for this position will begin in November. The Temporary Research Analyst works as a member of a regional team to help clients develop and/or implement customized guidelines that reflect the clients' unique corporate governance philosophy. The Custom Research team provides clients with customized vote recommendations based on their respective proxy voting guidelines, keeps clients informed of new trends and emerging proposals that have gained traction in the investment community, and builds a variety of tailored reports. What You'll Do: Complete basic and advanced analytical governance research of specific meetings and companies Distill financial and corporate governance information and issue proxy vote recommendations based on client specific policy guidelines Research policy-related issues and support staff in their completion of such projects Identify process improvement opportunities and opportunities to enhance the department's service offering Assist the team with supervision of projects/tasks from time to time as needed Manage work allocation and maintain timeliness of client deliverables What We Need from You: Bachelor´s degree and/or Master's degree in finance, economics, law, or similar discipline Experience in a related field such as finance, research, or law is a plus Ability to make a commitment to working the duration of the assignment Ability to exercise superior judgment Organizational skills, attention to detail, a dedicated work ethic, and the ability multi-task in a high-pressure, fast-paced environment Work effectively with clients and colleagues at various levels across staff and function lines Experience providing innovative solutions to processes and problems Excellent writing and research abilities, proofreading skills, and well-developed oral and written communication skills Strong computer literacy with previous experience Knowledge of MS Office and Excel a plus Preferred familiarity with corporate governance issues, corporate transactions, capital markets, and SEC filings Preferred knowledge or competency in corporate governance Solid understanding of business technology and experience working with technology in an operational context strongly desired Additional Information Work Schedule : This role is fully onsite with five days in-office each week. Peak Season : During peak season (late March – early June), overtime may be requested, which can include evenings or weekends. Payroll and Benefits : The payroll provider for this position is through a third party, so ISS STOXX benefits are not applicable. Benefits may be available through the third-party provider after an eligibility period; please inquire for more details. #LI-MK1 #EntryLevel #Analyst #LI-onsite What You Can Expect from Us Our people are the moving force behind our work. We are committed to building a culture that values diverse skills, perspectives, and experiences. If you have the skills, passion, and drive to help us bring clarity and transparency to capital markets, we want to work with you. Together, we can grow your career in an environment that fuels creativity, drives innovation, and has real impact. About ISS STOXX ISS STOXX delivers world-class research, data, and technology solutions that empower capital market participants to pursue their visions with confidence. Our expertise spans indices, corporate governance, sustainability, cyber risk, and fund intelligence, giving clients the tools they need to uncover opportunities, manage risks, and navigate evolving regulations. We are made up of 4,000 professionals operating across 20 countries and serving approximately 5,000 clients, including many of the world’s leading institutional investors. Our scale and reach give us deep market knowledge, while our innovative methodologies allow us to offer our clients tailored insights that drive impact and success. ISS STOXX
+
+---
+
+## 47. [MAYBE] Amgen | Sr Data Scientist
 - Link: https://amgen.wd1.myworkdayjobs.com/careers/job/US---IL---Deerfield/Sr-Data-Scientist_R-256842
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -748,7 +860,7 @@ Career Category Sales & Marketing Operations Job Description Join Amgen’s Miss
 
 ---
 
-## 41. [MAYBE] Regeneron Pharmaceuticals | AI Engineer II
+## 48. [MAYBE] Regeneron Pharmaceuticals | AI Engineer II
 - Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/AI-Engineer-II_R53257
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -763,7 +875,7 @@ At Regeneron Enterprise Data & AI, we evaluate frontier AI and bring it to resea
 
 ---
 
-## 42. [MAYBE] Jerry | Senior Associate, Business Operations & Analytics
+## 49. [MAYBE] Jerry | Senior Associate, Business Operations & Analytics
 - Link: https://jobs.ashbyhq.com/Jerry.ai/fddfb7e5-aabc-43b8-85da-b443000fe706
 - Location: New York, New York United States Chicago, Illinois Boston, Massachusetts San Francisco Bay Area remote
 - Posted: Nov 20 12:38 ET
@@ -885,7 +997,7 @@ Jerry.ai is committed to providing
 
 ---
 
-## 43. [MAYBE] Hinge Health | AI Engineer II
+## 50. [MAYBE] Hinge Health | AI Engineer II
 - Link: https://jobs.ashbyhq.com/hinge-health/7564ec75-617b-4065-8da6-72210460a6ef
 - Location: San Francisco-HQ US remote
 - Posted: Nov 20 13:20 ET
@@ -1023,7 +1135,7 @@ Hinge Health
 
 ---
 
-## 44. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
+## 51. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
 - Link: https://www.google.com/about/careers/applications/jobs/results/98133257790333638
 - Location: Mountain View, CA, USA ; New York, NY, USA
 - Posted: Nov 20 03:06 ET
@@ -1038,7 +1150,7 @@ Our mission is to bring new users to vertical and international experiences and 
 
 ---
 
-## 45. [MAYBE] McKesson | Sr Associate, Data Engineering
+## 52. [MAYBE] McKesson | Sr Associate, Data Engineering
 - Link: https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Sr-Associate--Data-Engineering_JR0157360
 - Location: Cork
 - Posted: Nov 19 (board gives the date only)
@@ -1053,7 +1165,7 @@ McKesson is an impact-driven, Fortune 10 company that touches virtually every as
 
 ---
 
-## 46. [MAYBE] Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing)
+## 53. [MAYBE] Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing)
 - Link: https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Applied-Data-Scientist---1-1-Personalization--Audience-and-Experimentation--applied-ML--PyToch--A-B-testing-_R0000454434
 - Location: 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445
 - Posted: Nov 19 (board gives the date only)
@@ -1068,7 +1180,7 @@ The pay range is $98,000.00 - $176,000.00 Pay is based on several factors which 
 
 ---
 
-## 47. [MAYBE] Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS)
+## 54. [MAYBE] Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS)
 - Link: https://job-boards.greenhouse.io/natera/jobs/6189378004
 - Location: US Remote
 - Posted: Nov 20 14:03 ET
@@ -1083,7 +1195,7 @@ Important: this position will work on the Weekend Shift team, with the following
 
 ---
 
-## 48. [MAYBE] DaVita | Customer Experience Reporting and Analytics Senior Developer
+## 55. [MAYBE] DaVita | Customer Experience Reporting and Analytics Senior Developer
 - Link: https://davita.wd1.myworkdayjobs.com/DKC_External/job/01699---IT-Malvern-Remote/Customer-Experience-Reporting-and-Analytics-Senior-Developer_R0487026
 - Location: 01699 - IT Malvern-Remote
 - Posted: Nov 20 (board gives the date only)
@@ -1098,7 +1210,7 @@ Posting Date 11/20/2026&#xa;1300 Morris DrSte 100, Chesterbrook, Pennsylvania, 1
 
 ---
 
-## 49. [MAYBE] Paypal Inc. | Sr. Machine Learning Engineer
+## 56. [MAYBE] Paypal Inc. | Sr. Machine Learning Engineer
 - Link: https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0139039-1
 - Location: San Jose, California, United States of America
 - Posted: Nov 20 (board gives the date only)
