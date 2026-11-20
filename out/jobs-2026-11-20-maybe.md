@@ -5,22 +5,31 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | City of New York | Data Analytics & Automation Specialist | 78 | none found (check myvisajobs) | Nov 20 06:32 ET |
-| 2 | Community Health Systems | Strategy Analyst | 70 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 3 | Rice University | Stewardship Data Specialist | 69 | cap-exempt employer | Nov 20 (board gives the date only) |
-| 4 | City of New York | Junior Data Analytics & Automation Specialist | 67 | none found (check myvisajobs) | Nov 20 06:32 ET |
-| 5 | Whataburger | Accounting Data Analyst | 59 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 6 | City of New York | Data Engineer | 58 | none found (check myvisajobs) | Nov 20 06:22 ET |
-| 7 | City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics | 57 | none found (check myvisajobs) | Nov 20 06:22 ET |
-| 8 | Highmark Health | Associate Strategy Analyst | 57 | 11 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 9 | University of Chicago | Research Analyst | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 10 | Invesco | Business Risk Analyst | 50 | 28 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 11 | Barclays | Business Intelligence Developer | 48 | 142 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 12 | Verizon Communications | Forward Deployed AI Engineer | 47 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 13 | The New School | Research Associate Fall 2027 | 45 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 14 | JP Morgan Chase | 2027 Applied Research Associate - Summer Associate | 44 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 15 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
-| 16 | McKesson | Sr Associate, Data Engineering | 55 | 38 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 17 | Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | 55 | 51 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 2 | CCC Intelligent Solutions | Financial Intelligence Analyst | 74 | 14 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 3 | Hitachi | AI Data & Security Governance Engineer (MAD-BS-OR) | 71 | 2 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 4 | Community Health Systems | Strategy Analyst | 70 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 5 | Rice University | Stewardship Data Specialist | 69 | cap-exempt employer | Nov 20 (board gives the date only) |
+| 6 | Globus Medical | Pricing Analyst | 68 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 7 | City of New York | Junior Data Analytics & Automation Specialist | 67 | none found (check myvisajobs) | Nov 20 06:32 ET |
+| 8 | Blackhawk Network Holdings | Title Financial Analyst I (Hybrid - Coppell, TX) | 65 | 3 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 9 | iHeartMedia | Finance Analyst, Corporate | 65 | 5 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 10 | Whataburger | Accounting Data Analyst | 59 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 11 | City of New York | Data Engineer | 58 | none found (check myvisajobs) | Nov 20 06:22 ET |
+| 12 | City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics | 57 | none found (check myvisajobs) | Nov 20 06:22 ET |
+| 13 | Highmark Health | Associate Strategy Analyst | 57 | 11 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 14 | University of Chicago | Research Analyst | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 15 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 16 | Invesco | Business Risk Analyst | 50 | 28 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 17 | Barclays | Business Intelligence Developer | 48 | 142 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 18 | Verizon Communications | Forward Deployed AI Engineer | 47 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 19 | The New School | Research Associate Fall 2027 | 45 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 20 | JP Morgan Chase | 2027 Applied Research Associate - Summer Associate | 44 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 21 | Cartesian | Machine Learning Scientist | 44 | none found (check myvisajobs) | Nov 20 11:17 ET |
+| 22 | Amgen | Sr Data Scientist | 66 | 112 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 23 | Regeneron Pharmaceuticals | AI Engineer II | 66 | 42 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 24 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
+| 25 | McKesson | Sr Associate, Data Engineering | 55 | 38 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 26 | Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | 55 | 51 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
 
 ---
 
@@ -39,7 +48,37 @@ Hours: Full-Time – 35 Hours Work Location: 30-30 Thomson Avenue, LIC, NY 11101
 
 ---
 
-## 2. [MAYBE] Community Health Systems | Strategy Analyst
+## 2. [MAYBE] CCC Intelligent Solutions | Financial Intelligence Analyst
+- Link: https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Financial-Intelligence-Analyst_0014859
+- Location: Chicago (Green St), IL
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~74 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 14 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, excel, power bi, python, sql, statistic, tableau, data quality, quantitative, reporting | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Salary range is: $78,555.51 - $80,000.00 This position is bonus and/or commission eligible. CCC Intelligent Solutions Inc. (CCC) is a leading cloud platform for the multi-trillion-dollar insurance economy , creating intelligent experiences for insurers, repairers, automakers, part suppliers, and more. At CCC, we’re making life just work by empowering more than 35,000 businesses with industry-leading technology to get drivers back on the road and to health quickly and seamlessly. We’re pushing boundaries with innovative AI solutions that simplify and enhance the claims and repair journey. Through purposeful innovation and the strength of its connections, CCC technologies empower the people and industry relied upon to keep lives moving forward when it matters most. Learn more about CCC at www.cccis.com . The Role CCC's Financial Intelligence team is hiring an Analyst. This team builds the reporting, data, and systems layer that Finance and executive leadership run on including dashboards, Board & IR materials, and finance process automation. This is a role for someone analytical and driven who wants to understand how a large SaaS business works. You will see revenue, expense, headcount, and operations across every segment of the company. You will work with Finance, Accounting, and Operations leadership regularly. Key Responsibilities: Develop working fluency in our finance and data stack: Workday, Adaptive Planning, Essbase, Power BI, and Microsoft Fabric Maintain and improve the reports and dashboards used by Finance, executive leadership, including data quality and dimension governance across our financial systems Perform ad-hoc corporate analysis for senior leadership; investigate the question behind the question, get to an answer, and explain it clearly Support the preparation of Monthly Operating Review, B oard reporting , and investor relations materials through data analysis and visualization Identify and reconcile inconsistencies across source systems and recommend structural fixes rather than one-time patches Partner with FP&A, Accounting, and Operations to find manual processes and automate them, reducing cycle time and error rates Build reusable tools, queries, and documentation . Requirements: Bachelor's degree in a quantitative or analytical discipline. We do not require a specific major. Finance, Accounting, Economics, Data Science, Statistics, Mathematics, Computer Science, Industrial Engineering, Information Systems, and Business Analytics are all common backgrounds here 0–3 years of experience in an analytical role. Strong candidates come from finance, consulting, operations, data analytics, or business intelligence Strong Excel skills and comfort working with large, imperfect datasets Ability to read a P&L and reason about what drives the numbers. Deep accounting knowledge is not required Clear written and verbal communication, including the ability to explain an analysis to someone who did not do it SQL, Python, Power BI, or Tableau exposure is a plus, not a requirement Experience with Workday, Adaptive Planning, Essbase, or similar enterprise finance systems is a plus, not a requirement What We're Looking For Logical and structured thinking with comfortability in ambiguous question s and asks . A critical thinker who questions all outputs and how a number came to be. A strong d rive and individual ownership Interest in how a business operates end to end Why This Role Most entry-level finance roles give you one slice of the company. This one gives you the whole picture - every segment, every cost center, the revenue model, and the systems underneath all of it. You will have team members mentor you directly on the day-to-day, on a team with direct visibility to the CFO. The people who do this well develop a rare combination: they understand the business and they can build the tools that run it. Interview Policy & Privacy Notice: A video interview is required for this position. Video interviews are transcribed. Transcriptions are retained and may be reviewed by CCC and our recruiters. Candidates are not permitted to use generative AI or automated assistance during the interviews unless explicitly allowed by the interview team for a specific exercise. Our Job Applicant Privacy Notice is available HERE . About CCC's Commitment to Employees: CCC Intelligent Solutions understands that our employees play an integral role in our vision to shape a world where life just works. Our team is defined by our values of Integrity, Customer-Focus, Innovation, Inclusion & Diversity, Tenacity, and Connection. Through diverse perspectives, purposeful innovation, and the strength of connections, our technologies empower the people and industry relied upon to keep lives moving forward when it matters most. At CCC, together everyone can thrive as we innovate and collaborate, creating employee experiences that just work. We are committed to providing opportunities for our people to make real-life impacts, advance in their careers, and contribute to CCC’s success. CCC offers competitive compensation and benefits to support you and your families, including: 401K Match Paid time off Annual Incentive Plan Performance Bonus Comprehensive health insurance Adoption Assistance Tuition Reimbursement Wellness Programs Stock Purchase Plan options Employee Resource Groups For more information about our benefits, please check out our careers site . Here, you belong. You are seen, valued, and respected. We celebrate you for who you are and all you bring. Every voice is heard and is important to our success. You can hear what employees have to say about our culture here If you require
+
+---
+
+## 3. [MAYBE] Hitachi | AI Data & Security Governance Engineer (MAD-BS-OR)
+- Link: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HTA-NCP-Hillsboro-OR/AI-Data---Security-Governance-Engineer--MAD-BS-OR-_R0144180
+- Location: (HTA) NCP (Hillsboro, OR)
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~71 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, dashboard, llm, machine learning, python, sql, git, pipeline, reporting | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Location: (HTA) NCP (Hillsboro, OR) Job ID: R0144180 Date Posted: 2026-09-16 Company Name: HITACHI HIGH-TECH AMERICA, INC. Profession (Job Category): IT, Telecom & Internet Job Schedule: Full time Remote: No Job Description: POSITION: AI Data & Security Governance Engineer DIVISION: Metrology and Analysis Systems Division (MAD) COMPANY: Hitachi High-Tech America, Inc. (“HTA”) LOCATION: Hillsboro, OR TRAVEL: Up to 25% (domestically and internationally) REMOTE WORK: Hybrid (+50% Onsite) – Onsite 60% / Remote 40% EXPECTED PAY RANGE: $134,476 - $184,905 annually This pay range is for the position’s base pay only. This position may be eligible for other compensation including incentive pay and/or allowances. Candidates will receive additional information during the interview and selection process. POSITION SUMMARY As an AI Data & Security Governance Engineer (AIE) at HTA, you will build the technical guardrails that allow our distributed engineering and data science teams to innovate safely. Instead of just writing policies, the AIE will implement ‘governance as code.’ The AIE will design and deploy automated security controls, manage data access infrastructure, and integrate model evaluation and security checks directly into our CI/CD pipelines. The AIE will work closely with HTA divisions to ensure that our data storage, LLM deployments, and application architecture remain secure, compliant, and highly performant. PRIMARY RESPONSIBILITIES Data Security, Access & Infrastructure Security Automated Access Controls: Design, implement, and maintain granular Role-Based Access Control (RBAC) and identity management across our cloud infrastructure and internal tools Data Protection Pipelines: Build automated data masking, anonymization, and encryption mechanisms into data ingestion and processing pipelines Infrastructure Security: Secure distributed storage solutions and ensure secure configurations across compute instances and databases Cloud IAM hardening, secret management (e.g., HashiCorp Vault, AWS Secrets Manager), and zero-trust data access patterns Secure vector database architecture (e.g., Milvus, Pinecone, pgvector) with tenant isolation and metadata-level filtering AI/MLSecOps & Guardrail Implementation Generative AI Security: Engineer and deploy technical safeguards for large language models (e.g., Llama or similar architecture), including input/output filtering to prevent prompt injection and data leakage CI/CD Integration: Integrate automated security scanning, fairness/bias testing, and model performance evaluations directly into standard CI/CD deployment manuals Model Monitoring: Build telemetry and alerting systems to track model drift, anomalous API usage, and compliance adherence in real-time Data Governance Infrastructure Metadata & Lineage: Develop automated processes to extract and catalog metadata, ensuring end-to-end data lineage is tracked programmatically Audit Automation: Build automated reporting scripts and dashboards to provide continuous visibility into data access logs and model compliance for security audits Other duties as assigned EDUCATION, LICENSES, and/or CERTIFICATION REQUIREMENTS Master’s degree in Computer Security, AI Engineering/Governance, Software Engineering, or related field or equivalent combination of education and experience EXPERIENCE and TRAVEL REQUIREMENTS Technical Experience Minimum of five (5) years of software, data, or security engineering experience Minimum of five (5) years of experience of programming proficiency in Python, SQL, Bash, Go, or similar languages used in data and infrastructure engineering Minimum of five (5) years of experience with AI/ML Ops deploying and securing machine learning models (including generative AI/LLMs) in production environments Minimum of five (5) years of experience with DevOps & Automation CI/CD pipelines, Git workflows (e.g., monorepo architecture), and infrastructure-as-code tools Minimum of five (5) years of experience in Governance platforms such as Collibra, Immuta, Privacera etc. Minimum of five (5) years of experience with frameworks and audits such as NIST AI RMF, ISO 42001, OWASP LLM Top 10 Domain Expertise Minimum of one (1) year of hands-on experience implementing AI guardrails and moderation pipelines (e.g., NeMo Guardrails, Llama Guard, Guardrails AI) Minimum of one (1) year of experience in AI red teaming, adversarial robustness testing, and hallucination/bias monitoring Deep understanding of data security principles (encryption, IAM, secure network architecture) Familiarity with cloud platforms and distributed storage architecture Knowledge of AI vulnerabilities (e.g., OWASP Top 10 for LLMs) and mitigation strategies Preferred Qualifications Minimum of five (5) years of experience working with distributed teams across multiple geographic regions Familiarity with compliance frameworks (GDPR, CCPA) and translating them into technical requirement 25% travel (international and domestic) SKILLS and ABILITIES REQUIREMENTS / SAFETY REQUIREMENTS Ability to work under pressure and with aggressive release timelines Ability to work in a challenging, small team environment (less than 10 members) Ability to prioritize and multitask between multiple responsibilities Must have strong problem-solving skills Demonstrate strong work ethics Demonstrate strong verbal and written communication skills with people at all levels within the organization and outside of the company Ability to quickly transport from location to location (i.e., air, car, etc.) Must comply with all corporate safety requirements and directives Expected to use Personal Protective Equipment (PPE) when required Follow all equipment-specific safety protocols
+
+---
+
+## 4. [MAYBE] Community Health Systems | Strategy Analyst
 - Link: https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/171413
 - Location: Franklin, TN, United States US
 - Posted: Nov 20 (board gives the date only)
@@ -54,7 +93,7 @@ Job Summary The Strategy Analyst supports executive and health system leadership
 
 ---
 
-## 3. [MAYBE] Rice University | Stewardship Data Specialist
+## 5. [MAYBE] Rice University | Stewardship Data Specialist
 - Link: https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6413
 - Location: Houston, TX, United States US
 - Posted: Nov 20 (board gives the date only)
@@ -69,7 +108,22 @@ Position Summary: The Stewardship Data Specialist, reporting to the Director of 
 
 ---
 
-## 4. [MAYBE] City of New York | Junior Data Analytics & Automation Specialist
+## 6. [MAYBE] Globus Medical | Pricing Analyst
+- Link: https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Pennsylvania---Collegeville/Pricing-Analyst_JR108386
+- Location: Pennsylvania - Collegeville
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~68 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, python, r, sql, healthcare, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At Globus Medical, we move with a sense of urgency to deliver innovations that improve the quality of life of patients with musculoskeletal disorders. Our team is inspired by the needs of these patients, and the surgeons and healthcare providers who treat them. We embrace a culture of exceptional response by partnering with researchers and educators to transform clinical insights into tangible solutions. Our solutions improve the techniques and outcomes of surgery so patients can resume their lives as quickly as possible. Position Summary : The Pricing Analyst will work in a fast-paced, team-oriented environment, and will be responsible for all aspects of assigned regional healthcare account pricing. The position will support assigned regional field sales Vice President, Area Directors, and sales representatives, and partner closely with internal departments to support the sales teams by providing accurate and timely pricing assistance. Essential Functions : Partners with the Area Director of Corporate Accounts and Contract Administrator to ensure timely submission of all Requests for Pricing (RFPs) within assigned territory Reviews price files before sending to hospital and/or Contract Administrator for inclusion in RFPs and Agreements Coordinates new contract execution with the Contract Administration team to ensure all pricing parameters are correctly entered in Globus’ ERP system; including shipping, invoicing, and group parameters Supports field sales in providing pricing and account data analyses; and accurate reporting and discrepancy resolution, works with department such as Accounts Receivable and Customer Service Coordinates with sales field to prepare pricing analyses for executive management review Performs duties in an efficient, analytical manner while maintaining a high level of relationship management, confidentiality and professional interaction with internal and external customers Identifies where efficiencies can be gained and lead Continuous Process Improvement Projects to realize them Adheres to the letter and spirit of the company Code of Conduct, the AdvaMed Code, MedTech Code, and all other company policies. Ensures Compliance with applicable governmental laws, rules, and regulations, both in the United States and internationally, by completing introductory and annual training and maintaining knowledge of compliance as it applies to your role Represents the company in a professional manner and uphold the highest standards of ethical business practices and socially responsible conduct in all interactions with other employees, customers, suppliers, and other third parties
+
+---
+
+## 7. [MAYBE] City of New York | Junior Data Analytics & Automation Specialist
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016990286
 - Location: New York City NY us
 - Posted: Nov 20 06:32 ET
@@ -84,7 +138,37 @@ Hours: Full-Time Position – 35 Hours Work Location: 30-30 Thomson Avenue, LIC,
 
 ---
 
-## 5. [MAYBE] Whataburger | Accounting Data Analyst
+## 8. [MAYBE] Blackhawk Network Holdings | Title Financial Analyst I (Hybrid - Coppell, TX)
+- Link: https://careers-blackhawknetwork.icims.com/jobs/27400/financial-analyst-i-%28hybrid---coppell%2c-tx%29/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~65 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, excel, forecast, power bi, kpi, reporting, risk | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Financial Analyst I (Hybrid - Coppell, TX) in Coppell, Texas | Careers at Blackhawk Network - Coppell, TX Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log back in! Financial Analyst I (Hybrid - Coppell, TX) ID 2026-27400 Category Accounting & Finance Position Type Full Time Location : Location US-TX-Coppell About Blackhawk Network: Today, through BHN’s single global platform, businesses of all kinds can tap into the world’s largest network of branded payment solutions. BHN helps businesses grow revenue, increase loyalty, motivate and reward their teams, disburse funds and engage consumers. Branded payment solutions include the issuance and distribution of gift cards, egifts, corporate payouts and rewards, along with the technology to deliver these products in seamless, integrated ways. BHN’s network spans the globe with more than 400,000 consumer touchpoints. Learn more at BHN.com. Hybrid flexibility: At Blackhawk Network, you’ll enjoy the best of both worlds—focused remote work plus in-person collaboration at our Coppell, TX office. This rhythm gives you the tools, connection, and autonomy you need to make a real impact. Considering local candidates only for this role. Overview: We are looking for a motivated and analytical individual to join our team as a Financial Analyst I. In this role, you’ll work closely with Finance, Accounting, and cross-functional business partners to monitor financial performance, support financial planning and revenue management, and provide insights that inform strategic and operational decisions. The ideal candidate is detail-oriented, eager to learn, and committed to accuracy, teamwork, and continuous improvement. They thrive in a fast-paced environment and are excited to develop their finance skills while contributing to the success of the business. The position will report to the Finance Director. Recent graduates and early-career professionals are encouraged to apply. Responsibilities: The key responsibilities in this role include: Conduct financial analysis, forecasting, and variance reporting on a weekly, monthly, and quarterly basis to support business planning and decision-making. Support Revenue business channels by monitoring client results, analyzing variances, and identifying trends and opportunities to improve financial performance. Partner with sales leaders and cross-functional business teams to understand revenue trends, investigate variances, and support client/product level reporting. Build and maintain financial models to support forecasting and evaluate business performance. Partner with Finance and Accounting teams to gather data, prepare reports, and communicate financial insights to management. Monitor key financial metrics and KPIs to identify trends, risks, and opportunities. Support the annual budgeting process and ongoing forecast cycles to help the business achieve its financial targets. Utilize Oracle, Power BI, and other finance systems to analyze data and support financial reporting. Identify opportunities to improve financial reporting and planning processes, including the use of AI and automation to enhance efficiency and accuracy. Perform ad hoc financial and operational analyses to support business needs and strategic initiatives. We operate as One Team , whilst we have our individual responsibilities, we are also flexible and support each team as and when the need arises. Qualifications: Bachelor’s degree in Finance, Accounting, Economics, or a related field. Relevant experience in financial analysis, finance internships, or related academic coursework and projects. Proficiency in Microsoft Excel and strong analytical and problem-solving skills. Strong attention to detail and a commitment to accuracy. Ability to work independently and collaboratively in a fast-paced environment. Strong written and verbal communication skills. A proactive, hands-on approach with a willingness to learn and continuously improve. Experience with Oracle, Power BI, or other financial reporting and analysis systems is a plus. We seek candidates who not only demonstrate curiosity and adaptability in emerging technologies but have also successfully implemented and utilized AI tools to enhance their work, improve processes, or deliver measurable results. Our teams embrace continuous learning and the thoughtful integration of AI to create meaningful impact – for our employees and the future of work. Employment is contingent upon the successful completion of a background check and drug screen. Benefits: Salary Range for all U.S. Residents (excluding Alaska, California, North Dakota, South Dakota): $48,840.00 to $63,500.00 Pay is based on several factors including but not limited to education, work experience, certifications, etc. In addition to your salary, Blackhawk Network offers benefits including 401k with employer match, medical, dental, vision, 12 paid holidays throughout the year, sick pay accrual according to state law, parental leave, life insurance, disability insurance, accident and illness insurance, health and dependent care flexible spending accounts, wellness benefits, and flexible time off for all full-time employees.
+
+---
+
+## 9. [MAYBE] iHeartMedia | Finance Analyst, Corporate
+- Link: https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/New-York-NY-55th-St/Finance-Analyst--Corporate_Req39800-1
+- Location: New York, NY (55th St)
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~65 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 5 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: excel, forecast, power bi, sql, classification, git, reporting | Lacks: -  | Note: broad title
+- Eligibility: CHECK | $68,000 - $85,000 What You'll Bring: ‎ Required Respect for others and a strong belief that others should do this in return Accountability for own work and desire to provide guidance to new team members Ability to contri
+
+### Job description
+
+iHeartMedia Current employees and contingent workers click here to apply and search by the Job Posting Title. The audio revolution is here – and iHeart is leading it! iHeartMedia, the number one audio company in America , reaches 90% of Americans every month -- a monthly audience that’s twice the size of any other audio company – almost three times the size of the largest TV network – and almost 4 times the size of the largest ad-supported music streaming service. Because we reach almost every community in America, we’re committed to providing a range of programming that reflects the diversity of the many communities we serve – and our company reflects that same kind of diversity. Our company values stress collaboration, curiosity, welcoming dissent, accepting mistakes in the pursuit of new ideas, and respect for everyone. Only one company in America has the #1 position in everything audio: iHeartMedia! If you’re excited about this role but don’t feel your experience aligns perfectly with the job description, we encourage you to apply anyway. At iHeartMedia we are dedicated to building a diverse, inclusive, and authentic workplace and are looking for teammates passionate about what we do! What We Need: The Financial Analyst, Corporate FP&A supports the company's enterprise-wide financial planning process including monthly actuals, budget, forecast, and Long-Range Forecast. This role partners closely with segment finance teams to consolidate results, analyze variances and margin trends, and prepare accurate, well-supported reporting for senior finance leadership What You'll Do: Support the preparation and maintenance of the consolidated Income Statement, Cash Flow, and related schedules across Actual, Budget, Forecast, and Long Range Forecast (LRF) scenarios. Partner with segment FP&A teams across the Multiplatform Group, Digital Audio Group, and Audio & Media Services to consolidate monthly and quarterly results and prepare Budget-vs-Forecast-vs-Actual variance analysis. Build and maintain detailed revenue and expense models, including revenue trends, seasonal patterns, and other key business drivers. Analyze consolidated and segment-level Adjusted EBITDA margins; investigate and clearly explain movement in cost of sales and operating expense trends. Perform detail-level audits of financial models to confirm formula integrity and consistency before models are used for internal or external reporting. Assist with the annual budget and periodic reforecast cycles, including templates, timelines, and consolidation across business units. Identify and help implement opportunities to streamline and automate recurring reporting processes. What You'll Need: Bachelor's degree in Finance, Accounting, Economics, or a related field. 1–3 years of experience in FP&A, corporate finance, investment banking, transaction advisory, or public accounting. Advanced Microsoft Excel skills (complex formulas, financial modeling, pivot tables) and strong PowerPoint proficiency. Excellent analytical and organizational skills with a high degree of accuracy and attention to detail. Strong written and verbal communication skills, with the ability to present financial information clearly to non-finance audiences. Ability to manage multiple deadlines and shifting priorities in a fast-paced, deadline-driven environment. Experience with Workday ERP and/or SQL or Power BI is preferred. Experience in media, advertising, broadcasting, or another advertising revenue driven industry is preferred. Compensation: Salary to be determined by multiple factors including but not limited to relevant experience, knowledge, skills, other job-related qualifications, and alignment with market data. $68,000 - $85,000 What You'll Bring: ‎ Required Respect for others and a strong belief that others should do this in return Accountability for own work and desire to provide guidance to new team members Ability to contribute to several projects at the same time under a moderate level of direction Application of objective judgement, technical skills and prior experience to solve business problems Strong written and verbal communication skills, including a knack for explaining complex information in a straightforward manner Desire for continued knowledge sharing and learning Understanding of impact of own decisions ‎ Location: New York, NY: 125 West 55th Street, 10019 Position Type: Regular Time Type: Full time Pay Type: Salaried Benefits: iHeartMedia’s benefits offering is flexible and offers a variety of choices to meet the diverse needs of our changing workforce, including the following: Employer sponsored medical, dental and vision with a variety of coverage options Company provided and supplemental life insurance Paid vacation and sick time Paid company holidays A Spirit day to encourage and allow our employees to more easily volunteer in their community A 401K plan Employee Assistance Program (EAP) at no cost – services include telephonic counseling sessions, consultation on legal and financial matters, emotional well-being, family and caregiving ​A range of additional voluntary programs, such as spending accounts, student loan refinancing, accident insurance and more! We are accepting applications for this role on an ongoing basis. The Company
+
+---
+
+## 10. [MAYBE] Whataburger | Accounting Data Analyst
 - Link: https://whataburger.wd5.myworkdayjobs.com/WAB_CAREERS/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/General-Accountant_JR10014086
 - Location: 300 Concord Plaza Dr San Antonio TX 78216-6903
 - Posted: Nov 19 (board gives the date only)
@@ -99,7 +183,7 @@ Welcome to Whataburger Careers! Our Flavor — Why Whataburger Whataburger isn�
 
 ---
 
-## 6. [MAYBE] City of New York | Data Engineer
+## 11. [MAYBE] City of New York | Data Engineer
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016990106
 - Location: New York City NY us
 - Posted: Nov 20 06:22 ET
@@ -114,7 +198,7 @@ The New York City Department of Sanitation (DSNY) keeps New York City healthy, s
 
 ---
 
-## 7. [MAYBE] City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics
+## 12. [MAYBE] City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016989754
 - Location: New York City NY us
 - Posted: Nov 20 06:22 ET
@@ -129,7 +213,7 @@ About the Agency: The Department of Housing Preservation and Development (HPD) o
 
 ---
 
-## 8. [MAYBE] Highmark Health | Associate Strategy Analyst
+## 13. [MAYBE] Highmark Health | Associate Strategy Analyst
 - Link: https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Strategy-Analyst_J291247
 - Location: 51 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -144,7 +228,7 @@ Company : enGen Job Description : JOB SUMMARY This job supports the leadership o
 
 ---
 
-## 9. [MAYBE] University of Chicago | Research Analyst
+## 14. [MAYBE] University of Chicago | Research Analyst
 - Link: https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Analyst_JR35773
 - Location: Chicago, IL
 - Posted: Nov 19 (board gives the date only)
@@ -159,7 +243,22 @@ Department BSD PSY - Lyons Lab About the Department The Department of Psychiatry
 
 ---
 
-## 10. [MAYBE] Invesco | Business Risk Analyst
+## 15. [MAYBE] Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027
+- Link: https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2027_25928747
+- Location: New York New York United States
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~52 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, machine learning, python, statistic, derivatives, git, quantitative, risk, trading | Lacks: c++, java  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+NAM Quantitative Analysis, Summer Analyst Program – New York (North America - 2027) You're the brains behind our work. Are you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth, it is not a question of if, but when. Citi is looking for Summer Analysts to join the Citi Markets – Quantitative Analysis (MQA) team in New York City. As part of Markets, your work can make an immediate impact. From derivatives modeling to algorithmic execution, you will build innovative solutions to the most complex financial problems facing our trading businesses and our clients. Our Markets Analyst Program is unlike any other on Wall Street. It is a highly competitive and selective program that gives you the opportunity to combine traditional financial engineering principles with the latest machine learning and data science techniques to design and develop the quantitative solutions and analytics that support diverse investment and transaction strategies across Markets. We provide you with the knowledge and skills you need to succeed. All Summer Analysts participate in a week-long comprehensive training program during the first week of the Summer Program. The training program is taught by skilled external consultants along with selected professionals with industry and product expertise. Our training program is designed to cover all fundamental aspects of the Markets Summer Analyst role. Your time here will look something like this. Summer Analysts will be placed on a quantitative modeling desk and assigned a summer project designed to highlight the importance of quantitative methods as financial products and trading strategies become increasingly sophisticated. At the conclusion of the Summer Program, Summer Analysts will present their results to senior leadership. We offer weekly speaker events with product heads throughout the summer that will give you a deeper understanding of the Markets industry. As a Summer Analyst, you will also participate in a business wide Data Science competition. You will also attend various networking events that will give you exposure to both junior and senior level professionals. In addition, Summer Analysts will shadow multiple quantitative trading and structuring desks throughout the summer. In these rotations, Summer Analysts will have the opportunity to learn from these professionals as they make markets for our institutional client base while actively monitoring and hedging their risk. We want to hear from you if... · You are obtaining a Bachelor’s or Master’s degree (graduating in Fall 2027 or Spring 2028) and majoring in Quantitative Finance, Computer Science, Engineering, Mathematics, and/or a closely related field · You are excited to work in our New York office · You currently maintain a GPA of 3.3 or above · You have excellent mathematical skills, specifically as it relates to Data Analysis and Statistical Modeling · You have excellent programming skills in C++, Python or Java · You have experience designing, developing, and implementing artificial intelligence models and machine learning algorithms · You are creative in solving problems and are intellectually curious · You are enthusiastic, quick-thinking and able to juggle multiple tasks simultaneously · You are confident, comfortable and articulate in oral and written communication Who we think will be a great fit... You are interested in Markets, and you’re determined to succeed in the field. As industries all over the globe continue to restructure and grow, we are hiring professionals who have a global perspective on the markets and want to make an impact. We value diversity and so do you. We’ll be looking for talented people from a variety of universities. Region: North America Category: Markets Level: Full Time Analyst Salary: $110k ------------------------------------------------------ Job Family Group: Institutional Trading ------------------------------------------------------ Job Family: Trading ------------------------------------------------------ Time Type: Full time ------------------------------------------------------ Primary Location: New York New York United States ------------------------------------------------------ Primary Location Full Time Salary Range: $80,000.00 - $115,000.00 In addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards. Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs. Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays. For additional information regarding Citi employee benefits, please visit citibenefits.com. Available offerings may vary by jurisdiction, job level, and date of hire. ------------------------------------------------------ Most Relevant Skills Please see the requirements listed above. ------------------------------------------------------ Other Relevant Skills For complementary skills, please see above and/or contact the recruiter. ------------------------------------------------------ Anticipated Posting Close Date: ------------------------------------------------------ Automated Processing and AI We use automated processing, including artificial intelligence, for our legitimate business interests (or our reasonable and appropriate business purposes) to identify and align the candidate's skills and abilities with a specific job opening. Additionally, if you so choose, or consent, we can match your skills and abilities to other suitable roles at Citi. Importantly, all our hiring processes and decisions, including determining your suitability for a role, are conducted, checked, and decided by individuals. Our automated processing and AI do not involve relying on automatic or autonomous decision-making. Please refer to any Jurisdictional Considerations, with specific provisions for your country (where relevant) for further details. Illinois residents – AI Notice and Right ------------------------------------------------------ Citi
+
+---
+
+## 16. [MAYBE] Invesco | Business Risk Analyst
 - Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Business-Risk-Analyst_R-16028
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -174,7 +273,7 @@ About Invesco As one of the world’s leading independent global investment firm
 
 ---
 
-## 11. [MAYBE] Barclays | Business Intelligence Developer
+## 17. [MAYBE] Barclays | Business Intelligence Developer
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Business-Intelligence-Developer_JR-0000139295
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -189,7 +288,7 @@ Job Description Purpose of the role To support the bank's decision-making proces
 
 ---
 
-## 12. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
+## 18. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
 - Link: https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Forward-Deployed-AI-Engineer_R-1102337-1
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -204,7 +303,7 @@ When you join Verizon You want more out of a career. A place to share your ideas
 
 ---
 
-## 13. [MAYBE] The New School | Research Associate Fall 2027
+## 19. [MAYBE] The New School | Research Associate Fall 2027
 - Link: https://newschool.wd1.myworkdayjobs.com/external/job/B---65-West-11th-Street/Research-Associate-Fall-2027_JR110154
 - Location: B - 65 West 11th Street
 - Posted: Nov 19 (board gives the date only)
@@ -219,7 +318,7 @@ The Research Associate will support faculty research on twentieth-century United
 
 ---
 
-## 14. [MAYBE] JP Morgan Chase | 2027 Applied Research Associate - Summer Associate
+## 20. [MAYBE] JP Morgan Chase | 2027 Applied Research Associate - Summer Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809359
 - Location: New York, NY, United States US
 - Posted: Nov 20 (board gives the date only)
@@ -234,7 +333,52 @@ Our firm is seeking a junior or senior researcher and thought leader to perform 
 
 ---
 
-## 15. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
+## 21. [MAYBE] Cartesian | Machine Learning Scientist
+- Link: https://job-boards.greenhouse.io/cartesiansystems/jobs/4516933009
+- Location: Cambridge, MA
+- Posted: Nov 20 11:17 ET
+- Scanner fit: ~44 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, machine learning, pipeline, publication, research | Lacks: scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About the Company Cartesian &nbsp; is building spatial intelligence for indoor environments to drive operational efficiency. We’re tackling one of the biggest challenges in the $35T global retail industry: in-store inventory visibility. Our platform delivers accurate indoor positioning and actionable product location insights, helping retailers streamline operations, optimize workflows, and reduce inefficiencies. By fusing wireless signals and mobile computer vision, we provide a uniquely scalable and infrastructure-free solution already deployed by international fashion brands. Founded by an MIT engineering professor and alum behind the award-winning, patented core technologies, Cartesian spun out in 2023. Originally backed by the prestigious SBIR Award from the US National Science Foundation, we've bootstrapped to a live product that's now deployed in over a dozen countries and have been aggressively scaling in the market. About the Role We’re looking for a highly motivated, product-oriented Machine Learning Scientist to join our core R&amp;D team at a pivotal moment in our growth. You'll have a direct impact on key positioning algorithms &amp; models, take ownership of new features, and help shape the technical roadmap of a category-defining product. We move fast, care deeply about quality, and value people who take initiative and crave real-world impact.&nbsp; You’ll be joining us in-person in the heart of Kendall Square, Cambridge, next to MIT and the Charles River. &nbsp; Responsibilities Design, develop, and deploy ML models for indoor positioning and perception. Optimize model architectures for performance and efficiency. Develop tools and datasets to benchmark performance in the real world and at scale. Translate research into production pipelines. Collaborate with engineering and product to ship features to enterprise customers. &nbsp; Qualifications PhD in computer science, electrical engineering, or related field. Deep understanding and hands-on experience in machine learning models for time-series data, including both transformer-based architectures and probabilistic models (e.g., state estimation).&nbsp; Publications in top-tier ML, vision, or systems venues (e.g., ACL, NeurIPS, CVPR, ECCV, ICCV, MobiCom, MobiSys, MLSys, ICASSP, ICML, ICRL, ICRA, IROS). Ability to write high-quality production code.&nbsp; Excellent communication skills and ability to collaborate across disciplines.&nbsp; Thrive in fast-paced, dynamic environments and take pride in producing high-quality work.&nbsp; &nbsp; Nice to have Past startup experience Industry experience in applied software or ML engineering. Familiarity with cloud-based model training and inference. Experience in optimizing and deploying ML models in mobile environments. Background in wireless localization or radar signal processing Experience with computer vision or multi-sensor fusion techniques (e.g., 2D/3D perception, pose estimation, tracking, SLAM).
+
+---
+
+## 22. [MAYBE] Amgen | Sr Data Scientist
+- Link: https://amgen.wd1.myworkdayjobs.com/careers/job/US---IL---Deerfield/Sr-Data-Scientist_R-256842
+- Location: 2 Locations
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~66 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 112 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: machine learning, pandas, python, pytorch, scikit, spark, sql, statistic, tensorflow, git, healthcare, pipeline, quantitative, research | Lacks: databricks, scala  | Note: title says Senior/II: asks 2 years
+- Eligibility: CHECK | Sponsorship for this role is not guaranteed.
+
+### Job description
+
+Career Category Sales & Marketing Operations Job Description Join Amgen’s Mission of Serving Patients At Amgen, if you feel like you’re part of something bigger, it’s because you are. Our shared mission—to serve patients living with serious illnesses—drives all that we do. Since 1980, we’ve helped pioneer the world of biotech in our fight against the world’s toughest diseases. With our focus on four therapeutic areas –Oncology, Inflammation, General Medicine, and Rare Disease– we reach millions of patients each year. Amgen is advancing a broad and deep pipeline of medicines to treat cancer, heart disease, inflammatory conditions, rare diseases, and obesity and obesity-related conditions. As a member of the Amgen team, you’ll help make a lasting impact on the lives of patients as we research, manufacture, and deliver innovative medicines to help people live longer, fuller happier lives. Our award-winning culture is collaborative, innovative, and science based. If you have a passion for challenges and the opportunities that lay within them, you’ll thrive as part of the Amgen team. Join us and transform the lives of patients while transforming your career. Sr Data Scientist (GCCI) Sr Data Scientist *Flexible Commuter role to Deerfield, IL site. You will work on-site a minimum of 2 days a week. What you will do Let’s do this. Let’s change the world. In this vital role as part of the Data Sciences team in Global Customer Capabilities & Innovation, the Senior Data Scientist will partner with commercial insights and analytics, brand teams, sales operations, data teams, external vendor partners, media agencies, service owners, and IS partners to develop advanced analytics and data science solutions that address complex business problems across multiple therapeutic areas and commercial functions. This individual will independently lead analytical workstreams, apply deep technical expertise to large and complex healthcare datasets, develop and productionize machine learning and AI solutions, and translate sophisticated analyses into clear, actionable business recommendations. The Senior Data Scientist will also contribute technical leadership, methodological standards, and mentorship across the team. Specific roles and responsibilities could include: · Leading the development and application of data science, machine learning, and artificial intelligence capabilities across Amgen’s commercial organization. · Translating complex business, medical, or scientific questions into analytical frameworks and defining appropriate solutions, success measures, delivery plans, and business impact. · Identifying high-value business opportunities and independently recommending fit-for-purpose analytical, statistical, machine learning, or AI approaches. · Designing, building, validating, and deploying high-performance algorithms, predictive models, prototypes, and production-ready analytical solutions using Python, SQL, and PySpark, with a focus on performance, interpretability, scalability, and actionability. · Applying advanced measurement and experimentation approaches, including test/control design, causal inference, attribution, and other methods, to quantify business and promotional impact where appropriate. · Partnering cross-functionally with stakeholders to align on methodology, data requirements, assumptions, limitations, and interpretation of results. · Providing technical leadership and mentorship, contributing reusable methodologies and best practices, and staying current with developments in data science, machine learning, AI, and industry analytics. · Communicating complex analytical findings and recommendations clearly to technical, scientific, medical, commercial, and executive stakeholders through compelling storytelling and presentations. · Ensuring analytical solutions comply with applicable regulatory, security, privacy, data governance, and documentation requirements. What we expect of you We are all different, yet we all use our unique contributions to serve patients. The collaborative and analytically driven professional we seek is a Senior Data Scientist with these qualifications. Basic Qualifications: Doctorate degree OR Master’s degree and 2 years of Data Science or related quantitative experience OR Bachelor’s degree and 4 years of Data Science or related quantitative experience OR Associate’s degree and 8 years of Data Science or related quantitative experience OR High school diploma / GED and 10 years of Data Science or related quantitative experience Preferred Qualifications: Demonstrated experience independently leading end-to-end data science or advanced analytics projects and delivering measurable business value Strong programming skills in Python, SQL and PySpark Strong experience designing, evaluating, and applying supervised and unsupervised machine learning models, with familiarity with libraries and frameworks such as Pandas, scikit-learn, TensorFlow, NumPy, PyTorch, Spark, or equivalent tools Experience working with large, complex datasets and modern data platforms, including distributed computing, cloud environments, Databricks/Spark, and source control technologies such as Git Strong statistical, analytical, and problem-solving skills, with the ability to select appropriate methodologies and communicate assumptions and limitations Ability to manage multiple complex analytical workstreams, prioritize effectively, and operate independently in an ambiguous, fast-paced environment Demonstrated ability to collaborate with and influence cross-functional business and technical partners and drive analytical projects from problem definition through implementation and adoption Strong communication and storytelling skills, with the ability to translate complex technical analyses into clear, precise, and actionable recommendations for business stakeholders Experience with commercial measurement approaches such as experimentation, test/control design, causal inference, attribution, marketing effectiveness, or related impact measurement methods Preferred experience with transformer-based modeling and/or other advanced machine learning approaches; practical experience with AI/GenAI use cases or strong knowledge of emerging AI capabilities is highly valued Biotech/pharmaceutical or healthcare industry experience, including familiarity with healthcare data such as claims, patient, HCP, sales, or promotional data, is a plus What you can expect of us As we work to develop treatments that take care of others, we also work to care for your professional and personal growth and well-being. From our competitive benefits to our collaborative culture, we’ll support your journey every step of the way. The expected annual salary range for this role in the U.S. (excluding Puerto Rico) is posted. Actual salary will vary based on several factors including but not limited to, relevant skills, experience, and qualifications. In addition to the base salary, Amgen offers a Total Rewards [...]
+
+---
+
+## 23. [MAYBE] Regeneron Pharmaceuticals | AI Engineer II
+- Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/AI-Engineer-II_R53257
+- Location: 2 Locations
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~66 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 42 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, gcp, llm, machine learning, pandas, python, pytorch, scikit, sql, statistic, deep learning, docker, git, healthcare | Lacks: azure, databricks, snowflake  | Note: title says Senior/II: asks 1 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At Regeneron Enterprise Data & AI, we evaluate frontier AI and bring it to research and the enterprise. We are seeking an AI Engineer to work directly with scientists and research teams to build AI systems that accelerate scientific discovery. You will apply scientific machine learning to problems in drug discovery and development, and support AI needs across the enterprise. You will bring a scientific mindset, curiosity and a willingness to learn. Working alongside applied ML scientists, engineers, data scientists and partner teams across the company, you will help build, evaluate and improve AI systems that solve real business and scientific problems. This is an opportunity to grow with a team that is shaping how AI is used across the Regeneron enterprise. WHEN & WHERE Location: Tarrytown or Sleepy Hollow Work model/ flexibility: 4 days a week on-site DISCOVER YOUR ROLE Build knowledge graphs and the data pipelines that support them. Develop LLM-based applications, including retrieval and content generation tools. Evaluate and benchmark models and AI systems. Assess emerging AI models for structural biology and biomolecular design, as well as foundation models for DNA, single-cell and bulk RNA, and proteomics data, comparing their performance and fit for our scientific use cases. Contribute to human-in-the-loop feedback and reinforcement learning approaches. Write clean, tested and reproducible code, and communicate results clearly. Help develop, implement and test AI solutions following project requirements and industry best practices, and document your work clearly. Participate in technical and scientific demos, presentations and project reviews. Learn and apply responsible AI principles, data privacy controls and AI decision frameworks, and support audits and documentation. Build your technical skills through training and hands-on experience and contribute to the growth of the team. THE ROLE REQUIRES MS in computer science, machine learning, statistics, applied mathematics or a related quantitative field. Degrees in computational biology or bioinformatics are also welcome with strong machine learning coursework or experience. 1+ years of experience building software, data or machine learning systems, including internships, co-ops or applied research. Strong Python skills and experience with PyTorch, scikit-learn, pandas and NumPy. Working knowledge of software engineering practices, including Git, testing and code review. Good understanding of machine learning and deep learning fundamentals, including different architectures. Good understanding of deep generative and probabilistic modeling. Experience working with biological or biomedical data. Ability to communicate technical findings clearly to scientists and non-technical partners. Strong ownership, scientific curiosity and drive to learn in a fast-moving field. NICE TO HAVE Familiarity with AI models for biological data, such as structure, DNA sequence, transcriptomic or proteomic models. Experience with LLMs, retrieval-augmented generation or agentic workflows. Experience with knowledge graphs. Experience with reinforcement learning. Experience with model evaluation and benchmarking, including choosing appropriate metrics and designing fair comparisons. Familiarity with SQL, Docker and cloud platforms (AWS, Azure or GCP). Familiarity with Databricks, Snowflake or MLOps practices (CI/CD, MLflow). Training or research experience in biology, chemistry, neuroscience, genomics or medicine. Experience in pharmaceutical, biotechnology, healthcare or other regulated industries. Research experience, peer-reviewed publications, open-source contributions or a portfolio of research software in applied AI or ML. Does this sound like you? Apply now to take your first step towards living the Regeneron Way! We are committed to building a workplace with an inclusive culture. Regeneron
+
+---
+
+## 24. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
 - Link: https://www.google.com/about/careers/applications/jobs/results/98133257790333638
 - Location: Mountain View, CA, USA ; New York, NY, USA
 - Posted: Nov 20 03:06 ET
@@ -249,7 +393,7 @@ Our mission is to bring new users to vertical and international experiences and 
 
 ---
 
-## 16. [MAYBE] McKesson | Sr Associate, Data Engineering
+## 25. [MAYBE] McKesson | Sr Associate, Data Engineering
 - Link: https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Sr-Associate--Data-Engineering_JR0157360
 - Location: Cork
 - Posted: Nov 19 (board gives the date only)
@@ -264,7 +408,7 @@ McKesson is an impact-driven, Fortune 10 company that touches virtually every as
 
 ---
 
-## 17. [MAYBE] Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing)
+## 26. [MAYBE] Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing)
 - Link: https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Applied-Data-Scientist---1-1-Personalization--Audience-and-Experimentation--applied-ML--PyToch--A-B-testing-_R0000454434
 - Location: 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445
 - Posted: Nov 19 (board gives the date only)
