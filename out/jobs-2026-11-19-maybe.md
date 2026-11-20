@@ -24,36 +24,43 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 18 | Goldbelt | Job Posting Title Preclinical Laboratory Research Assistant | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
 | 19 | Simmons Bank | Loan Portfolio Analyst I | 54 | 2 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
 | 20 | ElevenLabs | Data Scientist - Product Analytics | 53 | none found (check myvisajobs) | Nov 19 08:59 ET |
-| 21 | Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376 | 52 | 772 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 22 | Dell Technologies | Consultant, Data Engineering | 52 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 23 | Hitachi | Continuous Improvement Specialist – Digitalization and Analytics | 50 | 2 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 24 | PURE Insurance | Product Analyst | 50 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 25 | Affirm | Capital Markets Specialist I (2027 Early Career Program) | 50 | 32 in data/analytics/finance occupations | Nov 19 14:47 ET |
-| 26 | PennState University | Part-Time Research Assistant – Penn State Research Kitchen  | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 27 | University of Miami | Research Associate 1 | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 28 | Mount Sinai Health System (Icahn School of Medicine) | Research Assistant I-Psychiatry | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 29 | Mount Sinai Health System (Icahn School of Medicine) | Research Assistant I - Neurosciences | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 30 | University of Texas - Austin | Laboratory Research Assistant I | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 31 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 19 11:30 ET |
-| 32 | Cybernetic Labs | Applied AI Engineer | 47 | none found (check myvisajobs) | Nov 19 17:06 ET |
-| 33 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 34 | Nationwide Children's Hospital | Research Associate- Research Translational Brigstock | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 35 | Nationwide Children's Hospital | Research Associate | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 36 | SiTime | Data Analyst | 44 | 1 in data/analytics/finance occupations | Nov 19 12:37 ET |
-| 37 | SiTime | Data Engineer | 10057 | 40 | 1 in data/analytics/finance occupations | Nov 19 12:27 ET |
-| 38 | ISS | Institutional Shareholder Services | Custom Research Analyst (Temporary) | 40 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 39 | TransUnion | Senior Analysts, Data Science & Analytics | 81 | 66 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 40 | 7-Eleven | Fuel Pricing Analyst II | 68 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 41 | Seattle Childrens Hospital | Senior Data Analyst - Patient Access/Strategy & Business Development | 60 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 42 | Merck | Senior Scientist, Biostatistics, CMC Statistics | 59 | 71 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 43 | Horizon media | Senior Analyst, Business Intelligence | 58 | 12 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 44 | RingCentral | Senior Agentic AI Engineer | 57 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 45 | Amazon | Senior Economist, Pricing Science  | 57 | 3890 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 46 | JP Morgan Chase | Trust & Safety - Fraud Strategy Analyst- Senior  Associate | 57 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 47 | Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology | 55 | cap-exempt employer | Nov 18 (board gives the date only) |
-| 48 | Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business | 55 | 1053 in data/analytics/finance occupations | Nov 19 04:07 ET |
-| 49 | Protiviti | Senior Legal Data Engineer | 55 | 4 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
-| 50 | JP Morgan Chase | Data Science Senior Associate - Wealth Management | 55 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 21 | Base Power | Growth Analytics | 53 | 1 in data/analytics/finance occupations | Nov 19 18:12 ET |
+| 22 | Manulife Financial | HR Reporting Analyst | 53 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 23 | Neuberger Berman | Portfolio Analyst | 53 | 24 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 24 | Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376 | 52 | 772 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 25 | Dell Technologies | Consultant, Data Engineering | 52 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 26 | Hitachi | Continuous Improvement Specialist – Digitalization and Analytics | 50 | 2 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 27 | PURE Insurance | Product Analyst | 50 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 28 | Affirm | Capital Markets Specialist I (2027 Early Career Program) | 50 | 32 in data/analytics/finance occupations | Nov 19 14:47 ET |
+| 29 | PennState University | Part-Time Research Assistant – Penn State Research Kitchen  | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 30 | University of Miami | Research Associate 1 | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 31 | Mount Sinai Health System (Icahn School of Medicine) | Research Assistant I-Psychiatry | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 32 | Mount Sinai Health System (Icahn School of Medicine) | Research Assistant I - Neurosciences | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 33 | University of Texas - Austin | Laboratory Research Assistant I | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 34 | Cambium Learning Group | Statistical Analyst | 50 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 35 | University of Miami | Research Associate 1 | 50 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 36 | AbbVie | Statistical Analyst - ADaM Programming (Hybrid) | 47 | 96 in data/analytics/finance occupations | Nov 19 11:30 ET |
+| 37 | Cybernetic Labs | Applied AI Engineer | 47 | none found (check myvisajobs) | Nov 19 17:06 ET |
+| 38 | JP Morgan Chase | Fraud Analyst | 45 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 39 | Nationwide Children's Hospital | Research Associate- Research Translational Brigstock | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 40 | Nationwide Children's Hospital | Research Associate | 45 | 3 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 41 | SiTime | Data Analyst | 44 | 1 in data/analytics/finance occupations | Nov 19 12:37 ET |
+| 42 | SiTime | Data Engineer | 10057 | 40 | 1 in data/analytics/finance occupations | Nov 19 12:27 ET |
+| 43 | ISS | Institutional Shareholder Services | Custom Research Analyst (Temporary) | 40 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 44 | TransUnion | Senior Analysts, Data Science & Analytics | 81 | 66 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 45 | 7-Eleven | Fuel Pricing Analyst II | 68 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 46 | Seattle Childrens Hospital | Senior Data Analyst - Patient Access/Strategy & Business Development | 60 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 47 | Merck | Senior Scientist, Biostatistics, CMC Statistics | 59 | 71 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 48 | Horizon media | Senior Analyst, Business Intelligence | 58 | 12 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 49 | RingCentral | Senior Agentic AI Engineer | 57 | 14 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 50 | Amazon | Senior Economist, Pricing Science  | 57 | 3890 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 51 | JP Morgan Chase | Trust & Safety - Fraud Strategy Analyst- Senior  Associate | 57 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 52 | Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology | 55 | cap-exempt employer | Nov 18 (board gives the date only) |
+| 53 | Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business | 55 | 1053 in data/analytics/finance occupations | Nov 19 04:07 ET |
+| 54 | Protiviti | Senior Legal Data Engineer | 55 | 4 in data/analytics/finance occupations | Nov 18 (board gives the date only) |
+| 55 | JP Morgan Chase | Data Science Senior Associate - Wealth Management | 55 | 1098 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 56 | Roku Inc. | Senior Data Scientist  | 55 | 15 in data/analytics/finance occupations | Nov 19 19:18 ET |
+| 57 | Methodist Le Bonheur | Sr. Epic Data Analyst- Revenue Data Model | 55 | 2 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
 
 ---
 
@@ -462,7 +469,149 @@ This role is remote-first, so it can be executed from anywhere in Europe, with t
 
 ---
 
-## 21. [MAYBE] Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376
+## 21. [MAYBE] Base Power | Growth Analytics
+- Link: https://jobs.ashbyhq.com/base-power/98b0633f-8332-43c2-b8ff-9613800f00e0
+- Location: Austin, TX United States
+- Posted: Nov 19 18:12 ET
+- Scanner fit: ~53 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: bigquery, dashboard, excel, sql, reporting, segmentation | Lacks: scala
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+ABOUT BASE
+
+Base is America’s next-generation power company. We’re rebuilding the foundation of modern civilization–electricity–by deploying a vast network of distributed batteries that is transforming today’s fragile, centralized grid into a resilient and abundant system. We are engineers, operators, and creatives solving some of the most complex, interdisciplinary challenges of our time.
+
+
+
+
+ABOUT THE ROLE
+
+Base is looking for an excellent operator to help scale the systems behind our customer acquisition engine.
+
+This role is responsible for increasing the speed, intelligence, and effectiveness of how our customer acquisition team operates. You will drive experimentation, while building the systems, automation, and infrastructure that make that experimentation scalable.
+
+The ideal candidate is highly resourceful, systems-oriented, technically curious, and obsessed with finding leverage. You should be equally comfortable thinking strategically, digging through data, building workflows, launching experiments, and executing quickly in ambiguous environments.
+
+ 
+
+
+WHAT YOU'LL DO
+
+ - Build systems, workflows, and dashboards that improve the speed and effectiveness of the customer acquisition team.
+
+ - Drive experimentation across customer acquisition initiatives.
+
+ - Build operational infrastructure that improves measurement, reporting, attribution, funnel visibility, and experimentation velocity.
+
+ - Partner closely with Product, Engineering, Data, Sales, and Member Experience teams to improve systems across the funnel.
+   
+    
+
+
+WHAT YOU'LL BRING
+
+ - 1+ years of experience working in a fast-paced environment.
+
+ - You are highly execution-oriented and naturally default toward building, shipping, and improving systems.
+
+ - You’ve built workflows, operational systems, or experimentation frameworks that drove measurable business outcomes.
+
+ - Strong systems thinking: you instinctively identify bottlenecks, friction, and opportunities for operational leverage.
+
+ - Analytical ability and comfort working with data, funnels, attribution, experimentation, and customer behavior.
+
+ - Ability to operate independently and execute quickly in ambiguous, fast-moving environments.
+
+ - Strong judgment and a bias toward action.
+
+ - High ownership and accountability.
+   
+    
+
+
+PREFERRED SKILLS
+
+ - Experience working large data sets in BigQuery (or similar data warehouses).
+
+ - AI workflows, operational automation, or internal tooling that improved execution or business performance.
+
+ - Strong analytics fluency, including SQL and product analytics platforms such as PostHog, Amplitude, or Mixpanel.
+
+ - Experience with experimentation frameworks, funnel analysis, segmentation, and attribution systems.
+
+ - Experience operating in high-growth startup environments.
+
+
+
+
+ABOUT THE TEAM
+
+The Growth team at Base is lean, high-ownership, and results-driven. We operate with clear accountability, tight feedback loops, and a strong bias towards action. Marketing works closely with design, sales, and product to build scalable systems that support the rapid buildout of America's next-generation power company.
+
+
+
+Please note: Base is a startup, which means priorities shift and evolve quickly. Your role may expand or change based on the needs of the business at any given time, so the responsibilities listed may not be exhaustive.
+
+
+
+
+OUR VALUES
+
+ - First Principles Thinking: Question assumptions. Principles > rules.
+
+ - Operate at Base Pace: Focus on what matters, act quickly, and learn by doing.
+
+ - Give & Get Feedback: Be direct, be humble, and maintain a growth mindset.
+
+ - Everyone’s an Owner: Follow through on commitments and own results.
+
+ - Strong Opinions, Loosely Held: Drive clarity and make calls with imperfect information.
+
+ - Committed to the Mission: Rebuilding the grid is a big challenge. We work hard because we care deeply about the impact we’re creating. We work in-person. It’s not a 9-to-5. We are all-in.
+
+ - Fun & Optimism Coexist with Grit: Collaboration and celebration coincide with the intensity of building real things.
+   
+   
+
+
+DO THE BEST WORK OF YOUR LIFE AT BASE.
+
+---
+
+## 22. [MAYBE] Manulife Financial | HR Reporting Analyst
+- Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/HR-Reporting-Analyst_JR26080012
+- Location: Quezon City
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~53 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, power bi, data quality, reporting, risk, validation | Lacks: salesforce  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We’re looking for an HR Reporting Analyst to join our Human Resources team at MBPS. In this role, you’ll support the reporting and analytics needs of our global organization across multiple HR systems, including Workday and Power BI. This role works with data all day, every day and is well suited for someone who enjoys deep focus, analytical problem‑solving, and turning complex information into clear insights. It requires sound judgment, strong curiosity, and consistent attention to detail—balanced with the ability to step back and connect the data to the broader business story. Position Responsibilities: Deliver global HR reporting and analytics using Workday and Power BI, providing recurring and ad hoc insights aligned with defined SLAs. Intake, prioritize, and manage a high volume of reporting requests across multiple workstreams, ensuring accuracy, timeliness, and data quality. Partner with stakeholders to clarify requirements, challenge assumptions, and translate business questions into meaningful, actionable insights. Analyze data beyond standard outputs to identify trends, inconsistencies, risks, and downstream impacts on decision‑making. Proactively monitor, reconcile, and maintain data integrity across HR systems and reporting solutions; flag issues early and drive them to resolution. Communicate findings, assumptions, and implications clearly, and collaborate with HR systems and data teams to continuously improve reporting capabilities. Required Qualifications: Advanced Microsoft Excel skills (e.g., complex formulas, pivot tables, data validation, and working with large datasets). Strong analytical thinking with the ability to connect insights to business implications and anticipate follow‑up questions. Demonstrated ability to identify issues early, assess risk, and think through downstream impacts. High attention to detail while maintaining a clear understanding of the broader business context. Ability to manage multiple priorities, pivot quickly, and communicate data, risks, and outcomes clearly in a fast‑paced, deadline‑driven environment. Preferred Qualifications: 2+ years of experience supporting HR systems (e.g., Workday, Salesforce, ServiceNow) or equivalent analytical/reporting experience. Hands‑on experience running, maintaining, or scheduling reports in Workday. Experience with Power BI (or Power Platform tools) for analytics, reporting, or visualization. Experience supporting global or enterprise‑level reporting and cross‑functional stakeholders. Familiarity with data quality practices, reporting controls, and/or governance is an advantage. When you join our team: We’ll empower you to learn and grow the career you want. We’ll recognize and support you in a flexible environment where well-being and inclusion are more than just words. As part of our global team, we’ll support you in shaping the future you want to see. About Manulife and John Hancock Manulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. To learn more about us, visit https://www.manulife.com/en/about/our-story.html . Manulife
+
+---
+
+## 23. [MAYBE] Neuberger Berman | Portfolio Analyst
+- Link: https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Portfolio-Analyst_R0012852-1
+- Location: New York, NY
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~53 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 24 in data/analytics/finance occupations
+- Type: full-time (40 h/week stated)
+- Title scope: core | Has: aws, dashboard, etl, python, sql, backtest, pipeline, portfolio, quantitative, reporting, research, risk | Lacks: azure, scala, snowflake
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+EMPLOYER : Neuberger Berman Group LLC TITLE : Senior Portfolio Analyst LOCATION : New York, NY (A hybrid work schedule may be permitted within a commutable distance from the worksite, in accordance with company policies.) DUTIES : Build and maintain quantitative models that help to explain the performance and fundamentals of the portfolio versus the overall market or benchmarks. Research projects that would enhance the team’s knowledge about industries and company fundamentals. Aggregate/analyze holdings information as inputs into optimal portfolio construction and risk management. Automate internal processes (stock screens, marketing, administrative), perform performance analysis, and create proprietary analyses in support of marketing materials. Explore, build and maintain internal data warehouse and data pipeline for the team to conduct complex data analysis, fundamental analysis on stock and portfolio level, and speak to insights. Help with producing and publishing marketing materials for existing and prospective clients (quarterly reporting, market research, White Papers). Help streamline, automate the process of producing and publishing marketing materials from gathering, calculating and analyzing data. Participate in investment meetings with current holdings and prospects. Strengthen and improve existing processes around ESG information and broker use. REQTS : Must have a Master’s degree or foreign equivalent in Financial Engineering, Data Science, Computer Science, or a related field plus three (3) years of experience in the position offered, as a Portfolio Analyst or a related position. Must have three (3) years of experience with all of the following: Performing financial statement, economic, and in-depth market data analyses, and developing financial models and analytics to support Portfolio Managers; Performing and customizing portfolio performance contribution and attribution analysis utilizing Brinson-based methodologies to help identify drivers of portfolio performance; Conducting competitive analysis and portfolio valuation analysis for small cap equity portfolios, indexes, and peer groups using fundamental and consensus data from FactSet and Capital IQ, including evaluating data methodologies and coverage differences of vendor-provided datasets; Utilizing Python, SQL, and front-end dashboard tool (Python Dash) to develop interactive dashboards and centralized portfolio monitoring tools which support scalable investment analysis and workflow management; Developing, optimizing, and maintaining scalable data warehouse solutions and automated ETL pipelines to facilitate complex data analysis, including in Snowflake and Azure DevOps environments, and version control systems; Evaluating and integrating external investment and market datasets through API-driven workflows to support portfolio analytics and improve research workflows; Performing, customizing and enhancing multi-factor equity risk models, including Aladdin and Bloomberg MAC3, to evaluate portfolio risk exposures, identify sources of risk, and conduct return attribution analyses; and Developing and implementing customized equity-factor analytical model and backtesting methodologies to evaluate factor effectiveness and performance. HOURS : Full-Time; Mon-Fri (40 hrs/week) SALARY : $129,000 - $200,000 per year TO APPLY : Applicants should click Apply here or email resume to Neuberger Berman Recruiting team at nbcareers@nb.com and reference Job # R0012852 in the subject line. EOE/M/F/D/V. #LI-DNI Compensation Details The salary range for this role is $129,000-$200,000. This is the lowest to highest salary we in good faith believe we would pay for this role at the time of this posting. This range is only applicable for jobs to be performed in the job posting location. An employee’s pay position within the salary range will be based on several factors including, but limited to, relevant education, qualifications, certifications, experience, skills, seniority, geographic location, business sector, performance, shift, travel requirements, sales or revenue-based metrics, market benchmarking data, any collective bargaining agreements, and business or organizational needs. This job is also eligible for a discretionary bonus, which, along with base salary and retirement contributions, is part of our total comprehensive package. We offer a comprehensive package of benefits including paid time off, medical/dental/vision insurance, retirement, life insurance and other benefits to eligible employees. Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, production, or any other form of compensation that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law. Neuberger
+
+---
+
+## 24. [MAYBE] Goldman Sachs | HCM–Dallas-Associate, Data Analytics & Reporting-10327376
 - Link: https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189471
 - Location: Dallas, TX, United States US
 - Posted: Nov 19 (board gives the date only)
@@ -477,7 +626,7 @@ Job Duties: Associate, Data Analytics & Reporting with Goldman Sachs Services LL
 
 ---
 
-## 22. [MAYBE] Dell Technologies | Consultant, Data Engineering
+## 25. [MAYBE] Dell Technologies | Consultant, Data Engineering
 - Link: https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300054
 - Location: TX, United States US
 - Posted: Nov 19 (board gives the date only)
@@ -492,7 +641,7 @@ SUMMARY Build the data foundation that grounds AI agents on facts they can trust
 
 ---
 
-## 23. [MAYBE] Hitachi | Continuous Improvement Specialist – Digitalization and Analytics
+## 26. [MAYBE] Hitachi | Continuous Improvement Specialist – Digitalization and Analytics
 - Link: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Richland-Mississippi-United-States/Continuous-Improvement-Specialist---Digitalization-and-Analytics_R0152362
 - Location: Richland, Mississippi, United States
 - Posted: Nov 19 (board gives the date only)
@@ -507,7 +656,7 @@ Location: Richland, Mississippi, United States Job ID: R0152362 Date Posted: 202
 
 ---
 
-## 24. [MAYBE] PURE Insurance | Product Analyst
+## 27. [MAYBE] PURE Insurance | Product Analyst
 - Link: https://pureinsurance.wd5.myworkdayjobs.com/pure/job/White-Plains/Product-Analyst_R2817
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -522,7 +671,7 @@ About the role. The State Management Product Analyst is an entry level member of
 
 ---
 
-## 25. [MAYBE] Affirm | Capital Markets Specialist I (2027 Early Career Program)
+## 28. [MAYBE] Affirm | Capital Markets Specialist I (2027 Early Career Program)
 - Link: https://job-boards.greenhouse.io/affirm/jobs/8205833003
 - Location: New York, New York, United States
 - Posted: Nov 19 14:47 ET
@@ -537,7 +686,7 @@ At Affirm, we exist for the moments that matter—giving people a clear, predict
 
 ---
 
-## 26. [MAYBE] PennState University | Part-Time Research Assistant – Penn State Research Kitchen 
+## 29. [MAYBE] PennState University | Part-Time Research Assistant – Penn State Research Kitchen 
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Penn-State-Research-Kitchen-_REQ_0000084467-1
 - Location: Penn State University Park
 - Posted: Nov 19 (board gives the date only)
@@ -552,7 +701,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 27. [MAYBE] University of Miami | Research Associate 1
+## 30. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100102985
 - Location: Miami, FL
 - Posted: Nov 19 (board gives the date only)
@@ -567,7 +716,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 28. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Research Assistant I-Psychiatry
+## 31. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Research Assistant I-Psychiatry
 - Link: https://ejis.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3044679
 - Location: United States US
 - Posted: Nov 19 (board gives the date only)
@@ -582,7 +731,7 @@ Under direct supervision, provides support services for research projects. Respo
 
 ---
 
-## 29. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Research Assistant I - Neurosciences
+## 32. [MAYBE] Mount Sinai Health System (Icahn School of Medicine) | Research Assistant I - Neurosciences
 - Link: https://ejis.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3044669
 - Location: United States US
 - Posted: Nov 19 (board gives the date only)
@@ -597,7 +746,7 @@ Under direct supervision, provides support services for research projects. Condu
 
 ---
 
-## 30. [MAYBE] University of Texas - Austin | Laboratory Research Assistant I
+## 33. [MAYBE] University of Texas - Austin | Laboratory Research Assistant I
 - Link: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Laboratory-Research-Assistant-I_R_00050081
 - Location: AUSTIN, TX
 - Posted: Nov 19 (board gives the date only)
@@ -612,7 +761,37 @@ Job Posting Title: Laboratory Research Assistant I ---- Hiring Department: Molec
 
 ---
 
-## 31. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
+## 34. [MAYBE] Cambium Learning Group | Statistical Analyst
+- Link: https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Statistical-Analyst_REQ-4701
+- Location: Remote
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: r, statistic, git, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Statistical Analyst Job Location: Remote, US. Must live and reside within the United States. Job Overview: The Statistical Analyst will partner and support our Psychometrician team using specifications to build, maintain, and execute programs and tools to perform psychometric analysis, scoring, and technical reporting using large datasets from large-scale assessments. This position requires proficiency and experience in working in a large-scale assessment environment where quality assurance, complex data sets, timely execution of tasks, and documentation of code are expected competencies. Job Responsibilities: Maintains, updates, and operates existing code and develops new code as needed, following good practices for documentation and organization. Works closely with the Psychometric Infrastructure team to develop and maintain R packages used by the Psychometric team and other related projects from specifications. Develops R programs that are maintainable, testable and follow best practices. Applies given formulas to obtain required statistics for various types of psychometric data. Maintains written documentation of all programming procedures and file structures for each project. Assists with QC of data analysis results, applying prescribed criteria, and reporting questionable results. Communicates concerns/insights to the project psychometrician. Job Requirements: Advanced degree in statistics, mathematics, or a related field. 1+ years of statistical analysis experience. 1 year of psychometric programming experience with a testing company is preferred. Proficiency in R, including writing your own functions. Experience with git and R package tools (e.g., devtools) is preferred. Experience with Winsteps and/or IRTPRO is preferred Experience with R Markdown a plus. Must be willing to continuously update knowledge and skills using new software applications available for test data analysis and efficiency enhancement. . To learn more about our organization and the exciting work we do, visit https://www.cambiumassessment.com/ Remote First Work Environment Our Remote First approach gives employees the flexibility and trust they need to effectively balance work with life. It creates a culture in which all employees are valued and where success is measured in results. It allows us to work collaboratively, inclusively and for greater positive impact, regardless of our individual locations. If you will be working remotely, either occasionally or on a permanent basis, you must have a reliable internet connection through a cable or fiber-optic broadband service with minimum speeds of 10 Mbps download and 5 Mbps upload. The successful candidate will be expected to actively participate in video-based interviews during the recruiting process and ongoing virtual meetings with their camera on, as part of their role. To maintain confidentiality and ensure a fair evaluation process, the use of note-taking tools, reference materials, or AI-powered tools (including generative AI, language models, or similar technologies) during interviews or other selection activities is prohibited unless prior written approval has been obtained from the People Experience team. If you require an exception for medical, accessibility, or other reasons, please contact your Talent Acquisition team member to discuss accommodations in advance. As part of our Remote-First benefits, Cambium offers reimbursement to help cover the cost of setting up your home or remote office. An
+
+---
+
+## 35. [MAYBE] University of Miami | Research Associate 1
+- Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Coral-Gables-FL/Research-Associate-1_R100102973
+- Location: Coral Gables, FL
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, statistic, publication, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Current Employees: If you are a current Staff, Faculty or Temporary employee at the University of Miami, please click here to log in to Workday to use the internal application process. To learn how to apply for a faculty or staff position, please review this tip sheet . The University of Miami, College of Arts and Sciences has an exciting opportunity for a full time Research Associate to work in Coral Gables, FL. The Research Associate 1 supports research activities for the assigned division by conducting laboratory experiments on assigned research projects. Moreover, the incumbent operates with the goal of advancing his/her expertise through continued education, training, and research. Core responsibilities: Understands and interprets research protocols and procedures. Participates in the publication of significant results. Maintains an overview of relevant research findings. Ensures all research is undertaken according to good research practice. Keeps abreast of current publications relative to methods, techniques, and developments within the area of research. Collects, prepares, analyzes, dissects, and evaluates specimens or tissue cultures. Operates and maintains laboratory equipment. Performs a variety of routine assays, tests, and studies. Performs calculations to complete research test results, collects data, and performs statistical analysis of laboratory results. Adheres to University and unit-level policies and procedures and safeguards University assets. This list of duties and responsibilities is not intended to be all-inclusive and may be expanded to include other duties or responsibilities as necessary. Core Qualifications: Bachelor’s degree in relevant field required No previous experience required Learning Agility: Ability to learn new procedures, technologies, and protocols, and adapt to changing priorities and work demands. Teamwork: Ability to work collaboratively with others and contribute to a team environment. Technical Proficiency: Skilled in using office software, technology, and relevant computer applications. Communication: Strong and clear written and verbal communication skills for interacting with colleagues and stakeholders. The University of Miami is recognized as one of the nation’s premier research institutions and academic health systems and is among the largest employers in South Florida. With more than 20,000 faculty and staff, the University is committed to excellence and guided by a mission to positively impact the lives of students, patients, and communities locally and globally. We are dedicated to fostering a culture where every individual feels valued and empowered to contribute meaningfully. United by shared values, the University community works together to build an environment defined by purpose, collaboration, and service. The University of Miami
+
+---
+
+## 36. [MAYBE] AbbVie | Statistical Analyst - ADaM Programming (Hybrid)
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990016967787
 - Location: Irvine CA us
 - Posted: Nov 19 11:30 ET
@@ -627,7 +806,7 @@ The Statistical Analyst is an integral role in the research and development of n
 
 ---
 
-## 32. [MAYBE] Cybernetic Labs | Applied AI Engineer
+## 37. [MAYBE] Cybernetic Labs | Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/netic/bb664b2a-d4a2-4c58-99c8-107cddcafde2
 - Location: San Francisco United States New York
 - Posted: Nov 19 17:06 ET
@@ -694,7 +873,7 @@ Our values
 
 ---
 
-## 33. [MAYBE] JP Morgan Chase | Fraud Analyst
+## 38. [MAYBE] JP Morgan Chase | Fraud Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802326
 - Location: Tampa, FL, United States US
 - Posted: Nov 19 (board gives the date only)
@@ -709,7 +888,7 @@ Do you enjoy speaking with clients while using your detective skills to research
 
 ---
 
-## 34. [MAYBE] Nationwide Children's Hospital | Research Associate- Research Translational Brigstock
+## 39. [MAYBE] Nationwide Children's Hospital | Research Associate- Research Translational Brigstock
 - Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Associate--Research-Translational-Brigstock_R-28994-1
 - Location: Main Campus, Columbus, OH
 - Posted: Nov 19 (board gives the date only)
@@ -724,7 +903,7 @@ Overview: Job Description Summary: Conducts independent research within a genera
 
 ---
 
-## 35. [MAYBE] Nationwide Children's Hospital | Research Associate
+## 40. [MAYBE] Nationwide Children's Hospital | Research Associate
 - Link: https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Research-Associate_R-28999-1
 - Location: Main Campus, Columbus, OH
 - Posted: Nov 19 (board gives the date only)
@@ -739,7 +918,7 @@ Overview: Job Description Summary: Conducts independent research within a genera
 
 ---
 
-## 36. [MAYBE] SiTime | Data Analyst
+## 41. [MAYBE] SiTime | Data Analyst
 - Link: https://job-boards.greenhouse.io/sitimecorporation/jobs/4511829009
 - Location: California, Santa Clara
 - Posted: Nov 19 12:37 ET
@@ -754,7 +933,7 @@ About SiTime SiTime is the Precision Timing company. Timing is the heartbeat of 
 
 ---
 
-## 37. [MAYBE] SiTime | Data Engineer | 10057
+## 42. [MAYBE] SiTime | Data Engineer | 10057
 - Link: https://job-boards.greenhouse.io/sitimecorporation/jobs/4509850009
 - Location: United States
 - Posted: Nov 19 12:27 ET
@@ -769,7 +948,7 @@ About SiTime SiTime is the Precision Timing company. Timing is the heartbeat of 
 
 ---
 
-## 38. [MAYBE] ISS | Institutional Shareholder Services | Custom Research Analyst (Temporary)
+## 43. [MAYBE] ISS | Institutional Shareholder Services | Custom Research Analyst (Temporary)
 - Link: https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Washington-DC-US/Custom-Temporary-Research-Analyst_JR_10536
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -784,7 +963,7 @@ ISS Stoxx is hiring! Advance your career with the leading provider of corporate 
 
 ---
 
-## 39. [MAYBE] TransUnion | Senior Analysts, Data Science & Analytics
+## 44. [MAYBE] TransUnion | Senior Analysts, Data Science & Analytics
 - Link: https://transunion.wd5.myworkdayjobs.com/TransUnion/job/White-Plains-New-York/Senior-Analysts--Data-Science---Analytics_19043456
 - Location: White Plains, New York
 - Posted: Nov 19 (board gives the date only)
@@ -799,7 +978,7 @@ TransUnion's Job Applicant Privacy Notice Personal Information We Collect Your P
 
 ---
 
-## 40. [MAYBE] 7-Eleven | Fuel Pricing Analyst II
+## 45. [MAYBE] 7-Eleven | Fuel Pricing Analyst II
 - Link: https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Fuel-Pricing-Analyst_R26_5191
 - Location: see posting
 - Posted: Nov 18 (board gives the date only)
@@ -814,7 +993,7 @@ TransUnion's Job Applicant Privacy Notice Personal Information We Collect Your P
 
 ---
 
-## 41. [MAYBE] Seattle Childrens Hospital | Senior Data Analyst - Patient Access/Strategy & Business Development
+## 46. [MAYBE] Seattle Childrens Hospital | Senior Data Analyst - Patient Access/Strategy & Business Development
 - Link: https://seattlechildrens.wd5.myworkdayjobs.com/External/job/Leven-Building/Senior-Data-Analyst---Patient-Access-Strategy---Business-Development_R265431
 - Location: Leven Building
 - Posted: Nov 19 (board gives the date only)
@@ -829,7 +1008,7 @@ Note: This is a hybrid position in Seattle, WA. We are hiring for two Senior Dat
 
 ---
 
-## 42. [MAYBE] Merck | Senior Scientist, Biostatistics, CMC Statistics
+## 47. [MAYBE] Merck | Senior Scientist, Biostatistics, CMC Statistics
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Senior-Scientist--Biostatistics--CMC-Statistics_R427159-1
 - Location: USA - New Jersey - Rahway
 - Posted: Nov 19 (board gives the date only)
@@ -844,7 +1023,7 @@ Job Description This job description outlines the responsibilities, primary acti
 
 ---
 
-## 43. [MAYBE] Horizon media | Senior Analyst, Business Intelligence
+## 48. [MAYBE] Horizon media | Senior Analyst, Business Intelligence
 - Link: https://horizonmedia.wd1.myworkdayjobs.com/CareerOpportunities/job/New-York-New-York/Senior-Analyst--Business-Intelligence_R0017790
 - Location: New York, New York
 - Posted: Nov 19 (board gives the date only)
@@ -859,7 +1038,7 @@ Job Description Who We Are Horizon Next is one of the industry's most innovative
 
 ---
 
-## 44. [MAYBE] RingCentral | Senior Agentic AI Engineer
+## 49. [MAYBE] RingCentral | Senior Agentic AI Engineer
 - Link: https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Bulgaria/Senior-Agentic-AI-Engineer_R078150
 - Location: Bulgaria
 - Posted: Nov 18 (board gives the date only)
@@ -874,7 +1053,7 @@ Say hello to opportunities. It’s not everyday that you consider starting a new
 
 ---
 
-## 45. [MAYBE] Amazon | Senior Economist, Pricing Science 
+## 50. [MAYBE] Amazon | Senior Economist, Pricing Science 
 - Link: https://www.amazon.jobs/en/jobs/10609671/senior-economist-pricing-science
 - Location: Seattle, Washington, USA
 - Posted: Nov 19 (board gives the date only)
@@ -889,7 +1068,7 @@ Are you excited about using economic reasoning to shape decisions that affect mi
 
 ---
 
-## 46. [MAYBE] JP Morgan Chase | Trust & Safety - Fraud Strategy Analyst- Senior  Associate
+## 51. [MAYBE] JP Morgan Chase | Trust & Safety - Fraud Strategy Analyst- Senior  Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799122
 - Location: Plano, TX, United States US Palo Alto, CA, United States Chicago, IL, United States
 - Posted: Nov 19 (board gives the date only)
@@ -904,7 +1083,7 @@ As a Trust & Safety -Fraud Strategy Analyst-Senior Associate within the Fraud St
 
 ---
 
-## 47. [MAYBE] Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology
+## 52. [MAYBE] Washington University in St. Louis | C-BRAIN Senior Applied Scientist (Remote) - Neurology
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Remote/C-BRAIN-Senior-Applied-Scientist--Remote----Neurology_JR98761
 - Location: Remote
 - Posted: Nov 18 (board gives the date only)
@@ -919,7 +1098,7 @@ Location Remote, US&#xa;&#xa; Scheduled Hours 40 Position Summary The Consortium
 
 ---
 
-## 48. [MAYBE] Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business
+## 53. [MAYBE] Google | Senior Data Engineer, Taxonomy, AI Data Modeling, MLOps, YouTube Business
 - Link: https://www.google.com/about/careers/applications/jobs/results/91792511671902918
 - Location: New York, NY, USA ; Chicago, IL, USA ; Mountain View, CA, USA ; Los Angeles, CA, USA ; San Bruno, CA, USA
 - Posted: Nov 19 04:07 ET
@@ -934,7 +1113,7 @@ Much of the organization's most valuable signal sits in high-volume unstructured
 
 ---
 
-## 49. [MAYBE] Protiviti | Senior Legal Data Engineer
+## 54. [MAYBE] Protiviti | Senior Legal Data Engineer
 - Link: https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/HOUSTON/Senior-Legal-Data-Engineer_JR-262284
 - Location: HOUSTON
 - Posted: Nov 18 (board gives the date only)
@@ -949,7 +1128,7 @@ JOB REQUISITION Senior Legal Data Engineer LOCATION HOUSTON ADDITIONAL LOCATION(
 
 ---
 
-## 50. [MAYBE] JP Morgan Chase | Data Science Senior Associate - Wealth Management
+## 55. [MAYBE] JP Morgan Chase | Data Science Senior Associate - Wealth Management
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789997
 - Location: New York, NY, United States US
 - Posted: Nov 19 (board gives the date only)
@@ -961,4 +1140,34 @@ JOB REQUISITION Senior Legal Data Engineer LOCATION HOUSTON ADDITIONAL LOCATION(
 ### Job description
 
 Bring your analytical expertise to a team that turns complex data into clear, business-ready decisions. You will help shape how advisors are supported across markets and branches by delivering insights that leaders can act on. Join us to grow your career while solving meaningful, real-world problems at scale. As a Data Scientist, Senior Associate at JPMorganChase within the Advisor Experience Data Science team in United States Wealth Management, you will blend expertise in geospatial data, financial products and markets, statistics, and advanced analytics to inform strategic decision-making. You will partner across functions to frame ambiguous questions, build thoughtful analyses, and communicate insights through clear narratives and practical recommendations. You will help optimize how advisors are distributed across retail branches and how in-person and remote coverage is staffed across the footprint. Job responsibilities Perform analyses to optimize distribution of advisors across retail branches in United States Wealth Management Integrate customer behavior and channel usage across markets and branch locations to inform staffing decisions Build and maintain self-service tools that deliver timely insights to decision-makers Serve as the team’s geospatial subject matter expert and connect spatial insights to product, field, and performance analytics Translate complex analytical results into clear narratives and practical recommendations for audiences at multiple levels Required qualifications, capabilities, and skills 3+ years of experience in an analytical role involving geospatial or location-based data Experience with geospatial data workflows, including creating and processing spatial datasets and publishing them to a cloud environment Experience developing or supporting web-based mapping applications that inform location strategy Bachelor’s degree in a related field such as mathematics, statistics, engineering, computer science, or another applicable science, technology, engineering, or mathematics discipline Strong business acumen and critical-thinking skills, with the ability to translate ambiguous questions into well-defined analytical problems and success measures Hands-on experience using SQL to assemble, organize, and analyze structured datasets Experience applying statistical and quantitative methods to business problems (for example, decision trees, regression, behavioral analytics, lookalike modeling, or string-similarity methods) and selecting an approach suited to the problem Strong attention to detail and commitment to quality in analytical deliverables Ability to learn new theory and new technology in a fast-moving environment Hands-on experience with ArcGIS or CARTO, including geocoding and spatial analysis Preferred qualifications, capabilities, and skills Master’s degree or doctorate in a quantitative field Hands-on experience using Python and/or R for data preparation, analysis, or modeling Knowledge of, or demonstrable interest in, financial securities and markets Interest in working across geospatial analytics as well as broader analytics, statistics, and machine-learning problems   Chase is a leading financial services firm, helping nearly half of America’s households and small businesses achieve their financial goals through a broad range of financial products. Our mission is to create engaged, lifelong relationships and put our customers at the heart of everything we do. We also help small businesses, nonprofits and cities grow, delivering solutions to solve all their financial needs. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
+
+---
+
+## 56. [MAYBE] Roku Inc. | Senior Data Scientist 
+- Link: https://www.weareroku.com/jobs/8404549?gh_jid=8404549
+- Location: Santa Monica, California
+- Posted: Nov 19 19:18 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 15 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: a/b test, dashboard, data visualization, excel, hypothesis test, python, r, sql, statistic, tableau, healthcare, pipeline, reporting | Lacks: airflow, looker  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Teamwork makes the stream work. &nbsp; Roku is changing how the world watches TV Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers to the content they love, enable content publishers to build and monetize large audiences, and provide advertisers unique capabilities to engage consumers. From your first day at Roku, you'll make a valuable - and valued - contribution. We're a fast-growing public company where no one is a bystander. We offer you the opportunity to delight millions of TV streamers around the world while gaining meaningful experience across a variety of disciplines. &nbsp; What you'll be doing Develop data visualizations and self-serve dashboards that illustrate complex platform phenomena using Looker and Tableau. Build dashboards and ensure their performance through maintaining data pipelines, translate answers to strategic questions into data visualizations. Develop and maintain data processing and reporting pipelines using Airflow, SQL, and Python. Build data processing pipelines to process upstream data to facilitate business facing reporting needs. Write SQL queries to process data catalogue and develop Python code to manage Airflow DAGs. Conduct statistical analyses to understand the results and provide recommendations from A/B tests. Conduct rigorous analyses using tools SQL, R, Python, and Excel to identify areas of opportunity for the business and understand user behavior. Develop A/B test designs, factoring statistical power, testing capabilities/limitations, and decisioning needs. Conduct analysis in spreadsheet tools and document test results. Translate business needs into actionable analytics questions and datasets of key metrics. Conduct statistical analysis of user behaviors to drive marketing efforts. Explore the immense data catalogue at Roku to generate appropriate and actionable proxies for difficult to measure concepts/behaviors. Develop log, fact, dim and agg tables. Work cross-functionally, including with Data Engineers to identify database gaps. You are required to have Master’s degree or foreign equivalent in Data Science, Analytics or related field. Will also accept a Bachelor’s degree or foreign equivalent in Data Science, Analytics or related field plus 3 years experience in position or related occupation. Must have prior experience, internship, coursework or project background in the following: SQL and Big Data Processing and Analysis Coding in R or Python A/B Test Design and Analysis Hypothesis testing and Statistical Analysis Data visualization and data storytelling including Tableau and Looker Up to one day per week telecommuting may be permitted. For California Only - The annual salary for this position is between $148,750 - $208,250. Compensation packages are based on factors unique to each candidate, including but not limited to skill set, certifications, and specific geographical location. This role is eligible for health insurance, equity awards, life insurance, disability benefits, parental leave, wellness benefits, and paid time off. #LI-DNI What's Roku's approach to hybrid working? Roku fosters an inclusive and collaborative environment where teams generally work in the office Monday through Thursday. Fridays are generally flexible for remote work, except for employees whose specific roles or assigned office location require five days' a week attendance. &nbsp; What are some of the benefits? Roku is committed to offering a diverse range of benefits as part of our compensation package to support our employees and their families. Our comprehensive benefits include global access to mental health and financial wellness support and resources. Local benefits include statutory and voluntary benefits which may include healthcare (medical, dental, and vision), life, accident, disability, commuter, and retirement options (401(k)/pension). Employees are supported in taking time off, in accordance with local leave policies and other personal needs to support their evolving work and life needs. It's important to note that not every benefit is available in all locations or for every role. For details specific to your location, please consult with your recruiter. &nbsp; Accommodations Roku welcomes applicants of all backgrounds and provides
+
+---
+
+## 57. [MAYBE] Methodist Le Bonheur | Sr. Epic Data Analyst- Revenue Data Model
+- Link: https://methodisthealth.wd5.myworkdayjobs.com/MLH/job/Remote-Associate---Tennessee/Sr-Epic-Data-Analyst_R-21995-1
+- Location: Remote Associate - Tennessee
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, sql, statistic, healthcare, research | Lacks: -  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+If you are looking to make an impact on a meaningful scale, come join us as we embrace the Power of One! We strive to be an employer of choice and establish a reputation for being a talent rich organization where Associates can grow their career caring for others. For over a century, we’ve served the health care needs of the people of Memphis and the Mid-South. From a senior position, and under very limited supervision, the Healthcare Information Data Scientist Sr independtly functions in an expert capacity producing innovative solutions driven by exploratory data analysis from complex and high-dimensional databases. The incumbent uses a flexible, analytical approach to design, configure, develop, and evaluate predictive models and advanced algorithms that lead to optimal value extraction from the data. Effectively communicates information in a way that is easy to understand for the intended audience, both technical and non-technical. Other responsibilities include documentation, training other analysts and super users, and coordination of hardware installation and support. Takes initiative and exercises independent judgment to resolve urgent problems. Acts with broad authority when necessary to resolve emergencies.Models appropriate behavior as exemplified in MLH Mission, Vision and Values. Working at MLH means carrying the mission forward of caring for our community and impacting the lives of patients in every way through compassion, a deliberate focus on service expectations and a consistent thriving for excellence. A Brief Overview From a senior position, and under very limited supervision, the Healthcare Information Data Scientist Sr independtly functions in an expert capacity producing innovative solutions driven by exploratory data analysis from complex and high-dimensional databases. The incumbent uses a flexible, analytical approach to design, configure, develop, and evaluate predictive models and advanced algorithms that lead to optimal value extraction from the data. Effectively communicates information in a way that is easy to understand for the intended audience, both technical and non-technical. Other responsibilities include documentation, training other analysts and super users, and coordination of hardware installation and support. Takes initiative and exercises independent judgment to resolve urgent problems. Acts with broad authority when necessary to resolve emergencies.Models appropriate behavior as exemplified in MLH Mission, Vision and Values. What you will do Analyzes problems and develops solutions involving computer software programs and applications by designing programs or queries to retrieve complex data from databases in one or more programming languages. Applies theoretical expertise and innovation to create or apply new technology. Supports EHR and other clinical or business information system database application build and maintenance. Supports EHR and other clinical or business information system application configuration such as building worklists, Boolean rules, populating masterfiles, CDM, adapting vendor model clinical documentation tools to meet MLH needs, etc. Supports EHR and other clinical or business information system report build and distribution configuration. Completes assigned tasks in project and/or tracking system; Ensures task assignment completion is documented as soon as the task is completed to prevent delays in a project or assignment. Documents and maintains application design and build documents, including Visio workflow diagrams, build trackers and IT Service Management. Participates in interface planning, design, and testing. Contributes to test script creation and perform testing tasks as assigned or needed. Participates in activities related to project pre-work, configuration, testing, training, activation, and post-live support and stabilization From a senior perspective, identifies and plans for current and future customer requirements. Analyzes complex business and technical problems. Leads Operational Workgroups and documents work completed and next steps, as assigned. Compiles and assesses user feedback, gathers requirements for application configuration, and reviews application build. Documents and communicates decisions, tasks/assignments, and deadlines. Guides workflow design, building and testing systems, and analyzing other technical issues associated. Works with training team to develop training materials. Supports cutover and activation activities for the functional area. Reviews the status of projects and issues on an ongoing basis with leaders. Implements approved changes to the system. Prior to implementing changes, notifies manager or director of concerns related to approved changes based on knowledge of application and workflow. Serves as a liaison between end users' workflow needs and vendor implementation staff Works with vendor representatives, MLH’s clinical and business leaders, and end users to ensure the system meets MLH’s clinical and business needs in regards to the project deliverables and timeline. Maintains regular communication with vendor representatives, including participating in project team meetings. Troubleshoots problems and responds to questions. Develops, conducts, and/or coordinates information technology and/or information management training programs for clinical departments, medical staff, students and others as required. Coordinates new services requests - network, hardware and software for assigned departments. Primary support contact for application end users. Provides after hours support through on call duties for critical systems. Pro-actively reviews, recommends and implements data security, integrity, backup and recovery procedures. Stays current on emerging information technology relevant to assigned clinical and/or business areas. Responds on a 7/24 on-call basis to application and Customer problems; ensures that any problem within his/her ability to correct is addressed in a timely and professional manner. Education Qualifications Associates Degree Business Administration/Management Required - Bachelor's Degree Computer sciences Preferred - Bachelor's Degree Data Science Experience Qualifications Required - 3-5 years Computer programming Skills and Abilities Good balance of operational experience, project management skills, and organizational skills. Knowledgeable about MLH’s policies, procedures, and clinical/business operations Demonstrated knowledge in the following: software business intelligence, data analysis data mining, compiler/decompiler, user interface, enterprise application integration, operation job scheduling and server and network monitoring. Knowledge of design techniques, tools, and principles involved in the production of precision data models, queries, and programs. Advance knowledge of SQL and relational database management systems. Demonstrated knowledge of programming, data modeling, simulation, as well as statistics and mathematics. [...]
 
