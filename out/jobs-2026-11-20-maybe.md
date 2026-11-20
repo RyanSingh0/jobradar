@@ -21,21 +21,24 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 15 | AES | Data Analyst, Training Operations | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
 | 16 | Baird | Statements & Investor Reporting Analyst | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
 | 17 | University of Chicago | Research Analyst | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 18 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 19 | Invesco | Business Risk Analyst | 50 | 28 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 20 | Goodlord | Operations & Risk Analyst | 50 | none found (check myvisajobs) | Nov 20 12:34 ET |
-| 21 | Barclays | Business Intelligence Developer | 48 | 142 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 22 | Blue Sky Innovators | AI Engineering Advisor | 48 | none found (check myvisajobs) | Nov 20 12:33 ET |
-| 23 | Verizon Communications | Forward Deployed AI Engineer | 47 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 24 | The New School | Research Associate Fall 2027 | 45 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 25 | JP Morgan Chase | 2027 Applied Research Associate - Summer Associate | 44 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 26 | Cartesian | Machine Learning Scientist | 44 | none found (check myvisajobs) | Nov 20 11:17 ET |
-| 27 | Amgen | Sr Data Scientist | 66 | 112 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 28 | Regeneron Pharmaceuticals | AI Engineer II | 66 | 42 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 29 | Jerry | Senior Associate, Business Operations & Analytics | 60 | 3 in data/analytics/finance occupations | Nov 20 12:38 ET |
-| 30 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
-| 31 | McKesson | Sr Associate, Data Engineering | 55 | 38 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 32 | Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | 55 | 51 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 18 | Texas A&M University - College Station | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
+| 19 | Texas A&M University System | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
+| 20 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 21 | Berkshire Hathaway Energy | Mgr, Data Science | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 22 | Invesco | Business Risk Analyst | 50 | 28 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 23 | Goodlord | Operations & Risk Analyst | 50 | none found (check myvisajobs) | Nov 20 12:34 ET |
+| 24 | Barclays | Business Intelligence Developer | 48 | 142 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 25 | Blue Sky Innovators | AI Engineering Advisor | 48 | none found (check myvisajobs) | Nov 20 12:33 ET |
+| 26 | Verizon Communications | Forward Deployed AI Engineer | 47 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 27 | The New School | Research Associate Fall 2027 | 45 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 28 | JP Morgan Chase | 2027 Applied Research Associate - Summer Associate | 44 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 29 | Cartesian | Machine Learning Scientist | 44 | none found (check myvisajobs) | Nov 20 11:17 ET |
+| 30 | Amgen | Sr Data Scientist | 66 | 112 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 31 | Regeneron Pharmaceuticals | AI Engineer II | 66 | 42 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 32 | Jerry | Senior Associate, Business Operations & Analytics | 60 | 3 in data/analytics/finance occupations | Nov 20 12:38 ET |
+| 33 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
+| 34 | McKesson | Sr Associate, Data Engineering | 55 | 38 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 35 | Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | 55 | 51 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
 
 ---
 
@@ -294,7 +297,37 @@ Department BSD PSY - Lyons Lab About the Department The Department of Psychiatry
 
 ---
 
-## 18. [MAYBE] Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027
+## 18. [MAYBE] Texas A&M University - College Station | Research Assistant
+- Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098922-1
+- Location: College Station, TX
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, llm, r, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Title Research Assistant Agency Texas A&M University Department Biology Proposed Minimum Salary Commensurate Job Location College Station, Texas Job Type Staff Job Description Here’s a Glimpse of the Job The Research Assistant provides skilled technical support in research. The selected candidate will assist with phases of research projects, including developing and troubleshooting research protocols, performing research experiments and supporting lab and field personnel both on campus and in the field. Opportunities to Contribute Assist in animal husbandry of diverse marine invertebrates, including water quality testing and manipulation of water chemistry parameters. Establish and maintain marine bacterial and algal cultures using standard microbiology techniques. Provide expertise on experiments utilizing minarine pathogens for invertebrate host infection. Develop and document protocols for new research techniques, including host innate immune assays. Conduct occasional fieldwork to procure specimens and support lab research aims. Use standard microbiology techniques to safely culture bacteria following NIH guidelines. Carry out routine laboratory protocols to support projects in the lab, including nucleic acid extractions, PCR, gel electrophoresis. Monitor lab supplies and organization while maintaining and documenting lab cleanliness and safety standards. Participate in professional development to learn basic molecular lab skills. Qualifications Bachelor’s degree in biology, microbiology, evolution, or equivalent. A well-qualified candidate may also possess: Experience and knowledge of culturing marine Vibrio species. Experience in a molecular genetics laboratory, including nucleic acid extractions, PCR troubleshooting, primer design, etc. Data analysis in R and interpretation skills. Experience conducting routine water quality tests using laboratory equipment and manipulate water chemistry parameters in appropriate ways. Experience in monitoring animal health and behavior, identifying health problems and conducting treatments. Experience culturing and maintaining marine microbes for host infection experiments. Standard microbiological techniques. Marine invertebrate husbandry experience. Experience troubleshooting lab protocols. Outstanding observation skills and ability to pay attention to detail. Good working knowledge of MS Office suite and familiarity with R/Rstudio. A practical understanding and application of health and safety in the workplace. The ability to work independently and with minimal supervision using a systematic, orderly, and responsible approach to routine duties, security, storage, and record keeping. Able to carefully monitor equipment, anticipate, recognize, and resolve problems at an early stage and, where necessary, respond effectively under pressure. Able to use hand tools to carry out aquarium maintenance. Excellent teamwork and good interpersonal skills . Need to be able to lift 50 pounds. Salary: Compensation will be commensurate based on the selected candidate’s education and experience. Special Note: Due to this position’s salary having all or a portion of it being funded by grants or contracts, the continuing salary and overall employment is contingent upon availability of these funds in the future. Schedule: Ability to travel for field work. What You Need to Do: Select the Apply button to begin your application. Submitting a cover letter and resume is strongly recommended and will help us with the review process. You may upload these documents on the application under CV/Resume. Why Texas A&M University? Texas A&M University is committed to enriching the learning and working environment by promoting a culture that respects all perspectives, talents & lived experiences. Embracing varying opinions and perspectives strengthens our core values which are: Respect, Excellence, Leadership, Loyalty, Integrity, and Selfless Service. The Department of Biology at Texas A&M University is responsible for research and teaching within the vast disciplines of the biological sciences, from molecular cell biology to ecology and evolutionary biology. Our faculty perform cutting-edge research in a wide array of biological sciences in the laboratory and in the field. Our graduate research programs prepare scientists for careers in academia, industry and government and enhance our understanding of the central role of biological systems in the global environment. Our undergraduate students gain a firm foundation in modern biological sciences to prepare them for a multitude of careers that depend on a solid understanding of biology. To learn more, please visit us at https://www.bio.tamu.edu/. We are a prestigious university with strong traditions, Core Values, and a community of caring and collaboration. Amenities associated with a major university, such as sporting and cultural events, state-of-the-art recreation facilities, the Bush Library and Museum, and much more await you. Experience all that a big city has to offer but with a reasonable cost-of-living and no long commutes. Medical, prescription drug, dental, vision, life and AD&D, flexible spending accounts , and long-term disability insurance with Texas A&M contributing to employee health and basic life premiums. 12-15 days of annual paid holidays. Up to eight hours of paid sick leave and at least eight hours of paid vacation each month. Automatic enrollment in the Teacher Retirement System of Texas Health and Wellness: Free exercise programs and release time Professional Development: All employees have access to free LinkedIn Learning training, webinars, and limited financial support to attend conferences, workshops, and more. Educational release time and tuition assistance for completing a degree while a Texas A&M employee. Living Well, a program at Texas A&M that has been built by employees, for employees. Instructions to Applicants: Applications received by Texas A&M University must either have all job application data entered, or a resume attached. Failure to provide all job application data or a complete resume could result in an invalid submission and a rejected application. We encourage all applicants to upload a resume or use a LinkedIn profile to prepopulate the online application. All positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check. Equal Opportunity/Veterans/Disability Employer.
+
+---
+
+## 19. [MAYBE] Texas A&M University System | Research Assistant
+- Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098922
+- Location: College Station, TX
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, llm, r, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Title Research Assistant Agency Texas A&M University Department Biology Proposed Minimum Salary Commensurate Job Location College Station, Texas Job Type Staff Job Description Here’s a Glimpse of the Job The Research Assistant provides skilled technical support in research. The selected candidate will assist with phases of research projects, including developing and troubleshooting research protocols, performing research experiments and supporting lab and field personnel both on campus and in the field. Opportunities to Contribute Assist in animal husbandry of diverse marine invertebrates, including water quality testing and manipulation of water chemistry parameters. Establish and maintain marine bacterial and algal cultures using standard microbiology techniques. Provide expertise on experiments utilizing minarine pathogens for invertebrate host infection. Develop and document protocols for new research techniques, including host innate immune assays. Conduct occasional fieldwork to procure specimens and support lab research aims. Use standard microbiology techniques to safely culture bacteria following NIH guidelines. Carry out routine laboratory protocols to support projects in the lab, including nucleic acid extractions, PCR, gel electrophoresis. Monitor lab supplies and organization while maintaining and documenting lab cleanliness and safety standards. Participate in professional development to learn basic molecular lab skills. Qualifications Bachelor’s degree in biology, microbiology, evolution, or equivalent. A well-qualified candidate may also possess: Experience and knowledge of culturing marine Vibrio species. Experience in a molecular genetics laboratory, including nucleic acid extractions, PCR troubleshooting, primer design, etc. Data analysis in R and interpretation skills. Experience conducting routine water quality tests using laboratory equipment and manipulate water chemistry parameters in appropriate ways. Experience in monitoring animal health and behavior, identifying health problems and conducting treatments. Experience culturing and maintaining marine microbes for host infection experiments. Standard microbiological techniques. Marine invertebrate husbandry experience. Experience troubleshooting lab protocols. Outstanding observation skills and ability to pay attention to detail. Good working knowledge of MS Office suite and familiarity with R/Rstudio. A practical understanding and application of health and safety in the workplace. The ability to work independently and with minimal supervision using a systematic, orderly, and responsible approach to routine duties, security, storage, and record keeping. Able to carefully monitor equipment, anticipate, recognize, and resolve problems at an early stage and, where necessary, respond effectively under pressure. Able to use hand tools to carry out aquarium maintenance. Excellent teamwork and good interpersonal skills . Need to be able to lift 50 pounds. Salary: Compensation will be commensurate based on the selected candidate’s education and experience. Special Note: Due to this position’s salary having all or a portion of it being funded by grants or contracts, the continuing salary and overall employment is contingent upon availability of these funds in the future. Schedule: Ability to travel for field work. What You Need to Do: Select the Apply button to begin your application. Submitting a cover letter and resume is strongly recommended and will help us with the review process. You may upload these documents on the application under CV/Resume. Why Texas A&M University? Texas A&M University is committed to enriching the learning and working environment by promoting a culture that respects all perspectives, talents & lived experiences. Embracing varying opinions and perspectives strengthens our core values which are: Respect, Excellence, Leadership, Loyalty, Integrity, and Selfless Service. The Department of Biology at Texas A&M University is responsible for research and teaching within the vast disciplines of the biological sciences, from molecular cell biology to ecology and evolutionary biology. Our faculty perform cutting-edge research in a wide array of biological sciences in the laboratory and in the field. Our graduate research programs prepare scientists for careers in academia, industry and government and enhance our understanding of the central role of biological systems in the global environment. Our undergraduate students gain a firm foundation in modern biological sciences to prepare them for a multitude of careers that depend on a solid understanding of biology. To learn more, please visit us at https://www.bio.tamu.edu/. We are a prestigious university with strong traditions, Core Values, and a community of caring and collaboration. Amenities associated with a major university, such as sporting and cultural events, state-of-the-art recreation facilities, the Bush Library and Museum, and much more await you. Experience all that a big city has to offer but with a reasonable cost-of-living and no long commutes. Medical, prescription drug, dental, vision, life and AD&D, flexible spending accounts , and long-term disability insurance with Texas A&M contributing to employee health and basic life premiums. 12-15 days of annual paid holidays. Up to eight hours of paid sick leave and at least eight hours of paid vacation each month. Automatic enrollment in the Teacher Retirement System of Texas Health and Wellness: Free exercise programs and release time Professional Development: All employees have access to free LinkedIn Learning training, webinars, and limited financial support to attend conferences, workshops, and more. Educational release time and tuition assistance for completing a degree while a Texas A&M employee. Living Well, a program at Texas A&M that has been built by employees, for employees. Instructions to Applicants: Applications received by Texas A&M University must either have all job application data entered, or a resume attached. Failure to provide all job application data or a complete resume could result in an invalid submission and a rejected application. We encourage all applicants to upload a resume or use a LinkedIn profile to prepopulate the online application. All positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check. Equal Opportunity/Veterans/Disability Employer.
+
+---
+
+## 20. [MAYBE] Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2027_25928747
 - Location: New York New York United States
 - Posted: Nov 20 (board gives the date only)
@@ -309,7 +342,22 @@ NAM Quantitative Analysis, Summer Analyst Program – New York (North America - 
 
 ---
 
-## 19. [MAYBE] Invesco | Business Risk Analyst
+## 21. [MAYBE] Berkshire Hathaway Energy | Mgr, Data Science
+- Link: https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006112
+- Location: Des Moines, IA, United States US Reno, NV, United States Las Vegas, NV, United States
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~52 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, forecast, machine learning, python, sql, statistic, ai agent, git, portfolio, risk | Lacks: azure, databricks, scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We are seeking an experienced and strategic Manager, Data Science to lead our Data Science and Artificial Intelligence capabilities within the Data & Analytics organization. This role will lead a team of data scientists and AI professionals responsible for developing and scaling advanced analytics, machine learning, optimization, and generative AI solutions across the enterprise. The Manager, Data Science will partner with leaders and subject matter experts across electric and gas operations, generation, transmission, distribution, customer operations, supply chain, market operations, and corporate functions to identify high-value opportunities where data and AI can improve business outcomes. This role combines people leadership, technical direction, portfolio management, and business partnership. The manager will establish priorities, develop talent, provide technical oversight, and ensure solutions are secure, scalable, governed, and aligned with organizational objectives. The role will also help shape the organization's broader AI strategy and accelerate responsible adoption of AI across the enterprise. Lead and develop the Data Science team, including hiring, coaching, mentoring, performance management, career development, workload planning, and building the technical capabilities required to meet evolving business needs. • Establish the team's strategy, priorities, roadmap, delivery standards, and operating model in alignment with Data & Analytics and enterprise objectives. • Build and manage a portfolio of data science and AI initiatives, balancing business value, technical feasibility, risk, resource capacity, and time to value. • Translate business opportunities into measurable outcomes and success criteria, including model accuracy, operational improvements, financial value, reliability measures, adoption, and other relevant business indicators. • Provide technical leadership and oversight for machine learning, forecasting, optimization, natural language processing, computer vision, and generative AI solutions. • Guide solution design and implementation using Microsoft Azure technologies, including Azure Machine Learning, Azure Databricks, Azure AI Foundry, Azure OpenAI Service, Azure Data Factory, Azure DevOps, and related cloud services. • Establish standards for the full lifecycle of machine learning and AI solutions, including experimentation, model development, testing, deployment, monitoring, retraining, version control, and retirement. • Guide the development of generative AI solutions, including retrieval-augmented generation, enterprise search, AI agents and assistants, grounding with authoritative business data, evaluation, monitoring, and appropriate safeguards. • Ensuring AI solutions incorporate security, privacy, explainability, human oversight, appropriate access controls, and responsible AI principles. • Partner with data engineering, architecture, cybersecurity, application development, and infrastructure teams to create scalable production solutions and reusable enterprise capabilities. • Establish meaningful performance measures and dashboards to demonstrate the business value, adoption, reliability, and operational performance of deployed data science and AI solutions. • Communicate complex analytical and AI concepts in clear business language to executives, operational leaders, technology teams, and other stakeholders. • Build strong partnerships across the enterprise and serve as a trusted advisor on the appropriate application of data science, machine learning, and AI. • Evaluate emerging AI and data science technologies and determine where they can create practical business value while managing technical, operational, financial, and regulatory risks. • Manage internal resources, external partners, and vendors as appropriate, ensuring clear accountability for scope, quality, architecture, security, and delivery outcomes. • Ensure solutions comply with applicable utility industry regulatory, cybersecurity, privacy, record-management, and internal control requirements, including NERC CIP, SOX, and requirements governing sensitive or personally identifiable information where applicable. • Partner with Cybersecurity, Legal, Risk, Compliance, and other appropriate functions to complete required reviews and incorporate auditability, explainability, human oversight, and risk controls into AI solutions. • Promote a culture of innovation, experimentation, continuous learning, collaboration, and responsible use of data and AI. • Bachelor's degree in Data Science, Computer Science, Engineering, Mathematics, Statistics, Information Systems, or a related field, or an equivalent combination of education and relevant professional experience. • Ten or more years of progressive experience in data science, machine learning, advanced analytics, artificial intelligence, or a related technical field, with demonstrated experience leading teams, technical programs, or complex initiatives. • Demonstrated ability to lead, mentor, and develop data scientists, machine learning engineers, AI engineers, or other technical professionals. • Strong understanding of machine learning, statistical modeling, forecasting, optimization, natural language processing, generative AI, and modern AI solution architectures. • Experience delivering data science or AI solutions from business problem definition through production deployment, adoption, monitoring, and ongoing improvement. • Strong understanding of Python, SQL, Git, modern software development practices, and working with large-scale enterprise datasets. • Experience with machine learning operations and AI lifecycle management, including automated deployment, testing, model monitoring, model evaluation, drift detection, and governance. • Strong leadership, communication, prioritization, problem-solving, and stakeholder-management skills. • Ability to manage multiple initiatives and competing priorities while maintaining focus on measurable business outcomes and delivery quality. MidAmerican Energy Company, a Midwest utility, provides regulated electric and natural gas service to more than 1.6 million customers in Illinois, Iowa, Nebraska and South Dakota. The company owns and operates a portfolio of power-generating assets, approximately 61% of which is wind generation.
+
+---
+
+## 22. [MAYBE] Invesco | Business Risk Analyst
 - Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Business-Risk-Analyst_R-16028
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -324,7 +372,7 @@ About Invesco As one of the world’s leading independent global investment firm
 
 ---
 
-## 20. [MAYBE] Goodlord | Operations & Risk Analyst
+## 23. [MAYBE] Goodlord | Operations & Risk Analyst
 - Link: https://jobs.ashbyhq.com/goodlord/65494990-bb13-45b4-b7e4-d642815132c0
 - Location: England United Kingdom remote
 - Posted: Nov 20 12:34 ET
@@ -431,7 +479,7 @@ Goodlord wants applicants from all backgrounds and walks of life;
 
 ---
 
-## 21. [MAYBE] Barclays | Business Intelligence Developer
+## 24. [MAYBE] Barclays | Business Intelligence Developer
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Business-Intelligence-Developer_JR-0000139295
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -446,7 +494,7 @@ Job Description Purpose of the role To support the bank's decision-making proces
 
 ---
 
-## 22. [MAYBE] Blue Sky Innovators | AI Engineering Advisor
+## 25. [MAYBE] Blue Sky Innovators | AI Engineering Advisor
 - Link: https://job-boards.greenhouse.io/blueskyinnovators/jobs/5490916008
 - Location: Chantilly, VA
 - Posted: Nov 20 12:33 ET
@@ -461,7 +509,7 @@ Blue Sky Innovators is seeking an AI Engineering Advisor to join our team in Cha
 
 ---
 
-## 23. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
+## 26. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
 - Link: https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Forward-Deployed-AI-Engineer_R-1102337-1
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -476,7 +524,7 @@ When you join Verizon You want more out of a career. A place to share your ideas
 
 ---
 
-## 24. [MAYBE] The New School | Research Associate Fall 2027
+## 27. [MAYBE] The New School | Research Associate Fall 2027
 - Link: https://newschool.wd1.myworkdayjobs.com/external/job/B---65-West-11th-Street/Research-Associate-Fall-2027_JR110154
 - Location: B - 65 West 11th Street
 - Posted: Nov 19 (board gives the date only)
@@ -491,7 +539,7 @@ The Research Associate will support faculty research on twentieth-century United
 
 ---
 
-## 25. [MAYBE] JP Morgan Chase | 2027 Applied Research Associate - Summer Associate
+## 28. [MAYBE] JP Morgan Chase | 2027 Applied Research Associate - Summer Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809359
 - Location: New York, NY, United States US
 - Posted: Nov 20 (board gives the date only)
@@ -506,7 +554,7 @@ Our firm is seeking a junior or senior researcher and thought leader to perform 
 
 ---
 
-## 26. [MAYBE] Cartesian | Machine Learning Scientist
+## 29. [MAYBE] Cartesian | Machine Learning Scientist
 - Link: https://job-boards.greenhouse.io/cartesiansystems/jobs/4516933009
 - Location: Cambridge, MA
 - Posted: Nov 20 11:17 ET
@@ -521,7 +569,7 @@ About the Company Cartesian &nbsp; is building spatial intelligence for indoor e
 
 ---
 
-## 27. [MAYBE] Amgen | Sr Data Scientist
+## 30. [MAYBE] Amgen | Sr Data Scientist
 - Link: https://amgen.wd1.myworkdayjobs.com/careers/job/US---IL---Deerfield/Sr-Data-Scientist_R-256842
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -536,7 +584,7 @@ Career Category Sales & Marketing Operations Job Description Join Amgen’s Miss
 
 ---
 
-## 28. [MAYBE] Regeneron Pharmaceuticals | AI Engineer II
+## 31. [MAYBE] Regeneron Pharmaceuticals | AI Engineer II
 - Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/AI-Engineer-II_R53257
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -551,7 +599,7 @@ At Regeneron Enterprise Data & AI, we evaluate frontier AI and bring it to resea
 
 ---
 
-## 29. [MAYBE] Jerry | Senior Associate, Business Operations & Analytics
+## 32. [MAYBE] Jerry | Senior Associate, Business Operations & Analytics
 - Link: https://jobs.ashbyhq.com/Jerry.ai/fddfb7e5-aabc-43b8-85da-b443000fe706
 - Location: New York, New York United States Chicago, Illinois Boston, Massachusetts San Francisco Bay Area remote
 - Posted: Nov 20 12:38 ET
@@ -673,7 +721,7 @@ Jerry.ai is committed to providing
 
 ---
 
-## 30. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
+## 33. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
 - Link: https://www.google.com/about/careers/applications/jobs/results/98133257790333638
 - Location: Mountain View, CA, USA ; New York, NY, USA
 - Posted: Nov 20 03:06 ET
@@ -688,7 +736,7 @@ Our mission is to bring new users to vertical and international experiences and 
 
 ---
 
-## 31. [MAYBE] McKesson | Sr Associate, Data Engineering
+## 34. [MAYBE] McKesson | Sr Associate, Data Engineering
 - Link: https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Sr-Associate--Data-Engineering_JR0157360
 - Location: Cork
 - Posted: Nov 19 (board gives the date only)
@@ -703,7 +751,7 @@ McKesson is an impact-driven, Fortune 10 company that touches virtually every as
 
 ---
 
-## 32. [MAYBE] Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing)
+## 35. [MAYBE] Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing)
 - Link: https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Applied-Data-Scientist---1-1-Personalization--Audience-and-Experimentation--applied-ML--PyToch--A-B-testing-_R0000454434
 - Location: 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445
 - Posted: Nov 19 (board gives the date only)
