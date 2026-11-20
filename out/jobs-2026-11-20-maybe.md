@@ -18,48 +18,57 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 12 | American Bureau of Shipping | Finance Analyst, Government Projects | 67 | 2 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
 | 13 | PricewaterhouseCoopers (PwC) | Finance Data, Analytics & AI - Experienced Associate | 67 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
 | 14 | RADAR | Data Scientist  | 67 | none found (check myvisajobs) | Nov 20 15:41 ET |
-| 15 | Blackhawk Network Holdings | Title Financial Analyst I (Hybrid - Coppell, TX) | 65 | 3 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 16 | iHeartMedia | Finance Analyst, Corporate | 65 | 5 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 17 | TribalScale | AI Engineer - Agent Infrastructure & AI Workflow | 65 | none found (check myvisajobs) | Nov 20 12:11 ET |
-| 18 | Bank of Montreal | Analyst, Global Markets Corporate Banking | 65 | 4 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 19 | Whataburger | Accounting Data Analyst | 59 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 20 | City of New York | Data Engineer | 58 | none found (check myvisajobs) | Nov 20 06:22 ET |
-| 21 | City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics | 57 | none found (check myvisajobs) | Nov 20 06:22 ET |
-| 22 | Highmark Health | Associate Strategy Analyst | 57 | 11 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 23 | AES | Data Analyst, Training Operations | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 24 | Baird | Statements & Investor Reporting Analyst | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 25 | University of Chicago | Research Analyst | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 26 | Texas A&M University - College Station | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
-| 27 | Texas A&M University System | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
-| 28 | Knowledge Services | Job Title Remote Research Analyst - Survey & Data Collection (Contract) | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 29 | Axos Bank | JBATA - Data Engineer | 54 | 6 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 30 | HCSC | Quality and Reporting Analyst | 54 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 31 | National Laboratory of the Rockies | ML and Optimization Engineer | 54 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 32 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 33 | Berkshire Hathaway Energy | Mgr, Data Science | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 34 | CVS Health | Software Development - Data Engineer | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 35 | Invesco | Business Risk Analyst | 50 | 28 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 36 | Goodlord | Operations & Risk Analyst | 50 | none found (check myvisajobs) | Nov 20 12:34 ET |
-| 37 | Barclays | Business Intelligence Developer | 48 | 142 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 38 | Blue Sky Innovators | AI Engineering Advisor | 48 | none found (check myvisajobs) | Nov 20 12:33 ET |
-| 39 | Verizon Communications | Forward Deployed AI Engineer | 47 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 40 | The New School | Research Associate Fall 2027 | 45 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 41 | Capital Group | Investment Content & Marketing Analyst | 45 | 458 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 42 | JP Morgan Chase | 2027 Applied Research Associate - Summer Associate | 44 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 43 | Cartesian | Machine Learning Scientist | 44 | none found (check myvisajobs) | Nov 20 11:17 ET |
-| 44 | RADAR | Data Engineer | 41 | none found (check myvisajobs) | Nov 20 15:40 ET |
-| 45 | Dayton Freight Lines | Title Pricing Analyst | 40 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 46 | ISS | Institutional Shareholder Services | Custom Research Analyst- Corporate Governance (Temporary) | 40 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 47 | Amgen | Sr Data Scientist | 66 | 112 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 48 | Regeneron Pharmaceuticals | AI Engineer II | 66 | 42 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 49 | Jerry | Senior Associate, Business Operations & Analytics | 60 | 3 in data/analytics/finance occupations | Nov 20 12:38 ET |
-| 50 | Hinge Health | AI Engineer II | 58 | 5 in data/analytics/finance occupations | Nov 20 13:20 ET |
-| 51 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
-| 52 | McKesson | Sr Associate, Data Engineering | 55 | 38 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 53 | Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | 55 | 51 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 54 | Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS) | 55 | 28 in data/analytics/finance occupations | Nov 20 14:03 ET |
-| 55 | DaVita | Customer Experience Reporting and Analytics Senior Developer | 55 | 9 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 56 | Paypal Inc. | Sr. Machine Learning Engineer | 55 | 188 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 15 | U.S. Bank | Ascent Investment Reporting Analyst | 67 | 82 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 16 | Blackhawk Network Holdings | Title Financial Analyst I (Hybrid - Coppell, TX) | 65 | 3 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 17 | iHeartMedia | Finance Analyst, Corporate | 65 | 5 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 18 | TribalScale | AI Engineer - Agent Infrastructure & AI Workflow | 65 | none found (check myvisajobs) | Nov 20 12:11 ET |
+| 19 | Bank of Montreal | Analyst, Global Markets Corporate Banking | 65 | 4 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 20 | Whataburger | Accounting Data Analyst | 59 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 21 | City of New York | Data Engineer | 58 | none found (check myvisajobs) | Nov 20 06:22 ET |
+| 22 | City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics | 57 | none found (check myvisajobs) | Nov 20 06:22 ET |
+| 23 | Highmark Health | Associate Strategy Analyst | 57 | 11 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 24 | AES | Data Analyst, Training Operations | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 25 | Baird | Statements & Investor Reporting Analyst | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 26 | Applied Intuition | Capacity Planning and Analytics Coordinator | 55 | 2 in data/analytics/finance occupations | Nov 20 16:33 ET |
+| 27 | University of Chicago | Research Analyst | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 28 | Texas A&M University - College Station | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
+| 29 | Texas A&M University System | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
+| 30 | Knowledge Services | Job Title Remote Research Analyst - Survey & Data Collection (Contract) | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 31 | Axos Bank | JBATA - Data Engineer | 54 | 6 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 32 | HCSC | Quality and Reporting Analyst | 54 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 33 | National Laboratory of the Rockies | ML and Optimization Engineer | 54 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 34 | Cushman & Wakefield | Research Analyst | 54 | 2 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 35 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 36 | Berkshire Hathaway Energy | Mgr, Data Science | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 37 | CVS Health | Software Development - Data Engineer | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 38 | Mercury Insurance | Title AI Engineer I | 52 | 5 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 39 | Invesco | Business Risk Analyst | 50 | 28 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 40 | Goodlord | Operations & Risk Analyst | 50 | none found (check myvisajobs) | Nov 20 12:34 ET |
+| 41 | Barclays | Business Intelligence Developer | 48 | 142 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 42 | Blue Sky Innovators | AI Engineering Advisor | 48 | none found (check myvisajobs) | Nov 20 12:33 ET |
+| 43 | Berkshire Hathaway Energy | Data Engineer | 48 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 44 | Northwestern Mutual | Investment Analytics Associate | 48 | 20 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 45 | Verizon Communications | Forward Deployed AI Engineer | 47 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 46 | The New School | Research Associate Fall 2027 | 45 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 47 | Capital Group | Investment Content & Marketing Analyst | 45 | 458 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 48 | UTHealth Houston | Research Associate | 45 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 49 | JP Morgan Chase | 2027 Applied Research Associate - Summer Associate | 44 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 50 | Cartesian | Machine Learning Scientist | 44 | none found (check myvisajobs) | Nov 20 11:17 ET |
+| 51 | bet365 | Data Engineer (EDW) | 42 | none found (check myvisajobs) | Nov 20 16:53 ET |
+| 52 | RADAR | Data Engineer | 41 | none found (check myvisajobs) | Nov 20 15:40 ET |
+| 53 | Dayton Freight Lines | Title Pricing Analyst | 40 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 54 | ISS | Institutional Shareholder Services | Custom Research Analyst- Corporate Governance (Temporary) | 40 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 55 | LPL Financial Holdings | Senior Full Stack AI/ML Engineer | 71 | 7 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 56 | Amgen | Sr Data Scientist | 66 | 112 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 57 | Regeneron Pharmaceuticals | AI Engineer II | 66 | 42 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 58 | Jerry | Senior Associate, Business Operations & Analytics | 60 | 3 in data/analytics/finance occupations | Nov 20 12:38 ET |
+| 59 | Hinge Health | AI Engineer II | 58 | 5 in data/analytics/finance occupations | Nov 20 13:20 ET |
+| 60 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
+| 61 | McKesson | Sr Associate, Data Engineering | 55 | 38 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 62 | Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | 55 | 51 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 63 | Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS) | 55 | 28 in data/analytics/finance occupations | Nov 20 14:03 ET |
+| 64 | DaVita | Customer Experience Reporting and Analytics Senior Developer | 55 | 9 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 65 | Paypal Inc. | Sr. Machine Learning Engineer | 55 | 188 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
 
 ---
 
@@ -273,7 +282,22 @@ ABOUT US E-commerce got real-time data infrastructure decades ago. Physical stor
 
 ---
 
-## 15. [MAYBE] Blackhawk Network Holdings | Title Financial Analyst I (Hybrid - Coppell, TX)
+## 15. [MAYBE] U.S. Bank | Ascent Investment Reporting Analyst
+- Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Ascent-Investment-Reporting-Analyst_2026-0033944-1
+- Location: Minneapolis, MN
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 82 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, classification, data quality, healthcare, portfolio, reporting, research, risk, validation | Lacks: -
+- Eligibility: CHECK | Citizenship and Immigration Services.
+
+### Job description
+
+At U.S. Bank, we’re on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and discover what you excel at—all from Day One. Job Description Ascent Private Capital Management of U.S. Bank provides tailored wealth management and family office services to ultra-high-net-worth (UHNW) clients and families, combining a boutique service experience with the resources of U.S. Bank. Ascent is seeking an experienced Investment Reporting Analyst to directly collaborate with and support client teams in the development and delivery of accurate, timely alternative investment reporting for UHNW and HNW clients. The role supports the onboarding, reporting, and ongoing service of complex investment portfolios, with an initial emphasis on private capital asset onboarding and reporting and broader responsibility for alternative investment data, analytics, and related business initiatives. Working closely with client teams and investment, operations, technology, and reporting partners, the analyst will onboard investment information, validate and reconcile data, and establish and maintain reporting structures to support client reporting needs. The ideal candidate combines a strong understanding of alternative investments, investment reporting, and wealth management with exceptional analytical and problem-solving skills. This individual should be comfortable working with complex investment data, investigating discrepancies, and managing detailed processes from initial onboarding through ongoing reporting and maintenance. Experience with an investment data and reporting platform is preferred. In-office requirement: This position requires working in the Minneapolis office a minimum of three days per week. Key Responsibilities Investment Onboarding & Data Management · Support the onboarding of complex investment relationships and alternative investments into Ascent's reporting environment. · Gather, review, organize, and validate account, investment, position, transaction, valuation, and performance information required for onboarding and reporting. · Establish and maintain portfolio structures, investment classifications, ownership relationships, and other reporting attributes. · Perform detailed data validation and reconciliation to ensure investments are represented accurately prior to reporting. · Identify missing, incomplete, or inconsistent information and work collaboratively with internal partners to resolve issues. · Maintain accurate investment and reporting data as portfolios evolve following initial onboarding. Alternative Investment Reporting · Support reporting for alternative investments, including private capital, hedge funds, and other alternative investments within the reporting scope. · Apply an understanding of alternative investment structures and activity when reviewing investment data and reporting. · Prepare, review, and validate investment reporting for internal and client-facing use. · Investigate reporting discrepancies and determine whether issues originate from source data, investment setup, classifications, calculations, or reporting configurations. · Ensure recurring reporting is completed accurately and in accordance with established requirements and timelines. Investment Reporting Systems · Use investment reporting tools to support investment onboarding, data management, reconciliation, analysis, and reporting. · Maintain portfolio hierarchies, investment attributes, ownership relationships, and reporting configurations. · Validate investment and performance data and research exceptions that may affect reporting accuracy. · Develop deep expertise in reporting platforms and use that knowledge to improve reporting quality and supporting processes. Ongoing Reporting & Operational Support · Execute recurring investment reporting, reconciliation, and data-management processes following initial onboarding. · Monitor data quality and proactively investigate exceptions that could affect reporting accuracy. · Reconcile information across source systems and reporting platforms. · Maintain documentation, procedures, controls, and quality-assurance processes supporting recurring reporting activities. · Identify opportunities to standardize and improve reporting and operational processes. · Research and respond to questions regarding investment data, portfolio structures, and reporting results. Analysis & Business Partnership · Analyze complex investment and reporting data to identify discrepancies, trends, and data-quality concerns. · Translate detailed investment information and analysis into clear findings for business and investment partners. · Collaborate effectively across investment, operations, technology, and business teams. · Manage multiple priorities and workstreams while maintaining a high level of accuracy and attention to detail. · Clearly communicate issues, dependencies, risks, and required actions to stakeholders. Basic Qualifications · Bachelor's degree, or equivalent work experience. · Three to four years of relevant experience in investment reporting, investment operations, wealth management, financial analysis, data analysis, or related field. · Experience working with alternative investments, such as private capital/private equity, hedge funds, or similar investment structures. · Understanding of investment concepts, financial markets, portfolio structures, and investment reporting. · Strong analytical and problem-solving skills, including the ability to research and reconcile complex data. · Experience working with detailed datasets and performing data validation and reconciliation. · Proficiency with Microsoft Excel. · Strong written and verbal communication skills. · Strong organizational skills and demonstrated attention to detail. Preferred Skills/Experience · Experience with investment reporting, onboarding, data management, reconciliation, analysis, or reporting. · Experience supporting ultra-high-net-worth, family office, private wealth, or institutional investment portfolios. · Direct experience with private capital and other illiquid or alternative investment reporting. · Knowledge of investment vehicles such as partnerships, private funds, hedge funds, separately managed accounts, mutual funds, ETFs, equities, and fixed-income investments. · Experience working with investment statements, valuations, capital activity, and investment-level reporting information. · Advanced Microsoft Excel skills and experience using analytical or reporting tools to investigate and reconcile investment information. · Experience developing and mainta [...]
+
+---
+
+## 16. [MAYBE] Blackhawk Network Holdings | Title Financial Analyst I (Hybrid - Coppell, TX)
 - Link: https://careers-blackhawknetwork.icims.com/jobs/27400/financial-analyst-i-%28hybrid---coppell%2c-tx%29/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -288,7 +312,7 @@ Financial Analyst I (Hybrid - Coppell, TX) in Coppell, Texas | Careers at Blackh
 
 ---
 
-## 16. [MAYBE] iHeartMedia | Finance Analyst, Corporate
+## 17. [MAYBE] iHeartMedia | Finance Analyst, Corporate
 - Link: https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/New-York-NY-55th-St/Finance-Analyst--Corporate_Req39800-1
 - Location: New York, NY (55th St)
 - Posted: Nov 20 (board gives the date only)
@@ -303,7 +327,7 @@ iHeartMedia Current employees and contingent workers click here to apply and sea
 
 ---
 
-## 17. [MAYBE] TribalScale | AI Engineer - Agent Infrastructure & AI Workflow
+## 18. [MAYBE] TribalScale | AI Engineer - Agent Infrastructure & AI Workflow
 - Link: https://job-boards.greenhouse.io/tribalscale/jobs/4731215006
 - Location: Remote USA
 - Posted: Nov 20 12:11 ET
@@ -318,7 +342,7 @@ Shape the Future with TribalScale TribalScale is a digital innovation firm that 
 
 ---
 
-## 18. [MAYBE] Bank of Montreal | Analyst, Global Markets Corporate Banking
+## 19. [MAYBE] Bank of Montreal | Analyst, Global Markets Corporate Banking
 - Link: https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Analyst--Global-Markets-Corporate-Banking_R260027631
 - Location: New York, NY, USA
 - Posted: Nov 20 (board gives the date only)
@@ -333,7 +357,7 @@ Application Deadline: 01/30/2027 Address: 151 W 42nd Street Job Family Group: Ca
 
 ---
 
-## 19. [MAYBE] Whataburger | Accounting Data Analyst
+## 20. [MAYBE] Whataburger | Accounting Data Analyst
 - Link: https://whataburger.wd5.myworkdayjobs.com/WAB_CAREERS/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/General-Accountant_JR10014086
 - Location: 300 Concord Plaza Dr San Antonio TX 78216-6903
 - Posted: Nov 19 (board gives the date only)
@@ -348,7 +372,7 @@ Welcome to Whataburger Careers! Our Flavor — Why Whataburger Whataburger isn�
 
 ---
 
-## 20. [MAYBE] City of New York | Data Engineer
+## 21. [MAYBE] City of New York | Data Engineer
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016990106
 - Location: New York City NY us
 - Posted: Nov 20 06:22 ET
@@ -363,7 +387,7 @@ The New York City Department of Sanitation (DSNY) keeps New York City healthy, s
 
 ---
 
-## 21. [MAYBE] City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics
+## 22. [MAYBE] City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016989754
 - Location: New York City NY us
 - Posted: Nov 20 06:22 ET
@@ -378,7 +402,7 @@ About the Agency: The Department of Housing Preservation and Development (HPD) o
 
 ---
 
-## 22. [MAYBE] Highmark Health | Associate Strategy Analyst
+## 23. [MAYBE] Highmark Health | Associate Strategy Analyst
 - Link: https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Strategy-Analyst_J291247
 - Location: 51 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -393,7 +417,7 @@ Company : enGen Job Description : JOB SUMMARY This job supports the leadership o
 
 ---
 
-## 23. [MAYBE] AES | Data Analyst, Training Operations
+## 24. [MAYBE] AES | Data Analyst, Training Operations
 - Link: https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Salt-Lake-City-UT/Data-Analyst--Training-Operations_R1065569
 - Location: 3 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -408,7 +432,7 @@ Are you ready to be part of a company that's not just talking about the future, 
 
 ---
 
-## 24. [MAYBE] Baird | Statements & Investor Reporting Analyst
+## 25. [MAYBE] Baird | Statements & Investor Reporting Analyst
 - Link: https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Statements---Investor-Reporting-Analyst_R2026953-2
 - Location: WI-Milwaukee
 - Posted: Nov 20 (board gives the date only)
@@ -423,7 +447,94 @@ About The Role: The Statements & Investor Reporting Analyst plays an important r
 
 ---
 
-## 25. [MAYBE] University of Chicago | Research Analyst
+## 26. [MAYBE] Applied Intuition | Capacity Planning and Analytics Coordinator
+- Link: https://jobs.ashbyhq.com/applied/c490ee87-d220-4971-be06-f75729d06099
+- Location: Sunnyvale United States
+- Posted: Nov 20 16:33 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, excel, forecast, git, portfolio, reporting | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company’s solutions to deliver physical intelligence. Applied Intuition is headquartered in Sunnyvale, California, with offices in Washington, D.C.; San Diego; Ft. Walton Beach, Florida; Ann Arbor, Michigan; London; Stuttgart; Munich; Stockholm; Bangalore; Seoul; and Tokyo. Learn more at applied.co http://applied.co.
+
+We are an in-office company, and our expectation is that full-time employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home before heading to the office, or leaving earlier when needed to accommodate family commitments. This in-office expectation does not apply to contractor positions
+
+
+ABOUT APPLIED INTUITION
+
+Applied Intuition builds the software that powers intelligent vehicles and machines. As we grow globally, our Places team makes sure our offices, labs, and garages have the space, capacity, and setup our people need to do their best work.
+
+
+
+
+THE ROLE
+
+The Coordinator, Space Planning & Analytics supports Applied Intuition’s global growth by managing workplace capacity, occupancy data, and space utilization across our offices, labs, and garages. You’ll build capacity forecasts and reporting dashboards, keep seating and space records accurate, coordinate employee moves, adds, and changes (MAC), and oversee furniture inventory and procurement.
+
+You’ll work closely with Real Estate, Finance, People, IT, and regional workplace teams to turn business growth forecasts into actionable space plans. Your insights will help us optimize utilization, anticipate future needs, and make informed real estate decisions. Your impact will show up in better data accuracy, greater operational efficiency, and lower costs, and in our ability to support growth before capacity becomes a constraint.
+
+
+
+
+WHAT YOU’LL DO
+
+ - Own global space planning data, including seating and space records, to keep them accurate and current
+
+ - Develop capacity forecasts and occupancy analytics that translate headcount growth into space needs
+
+ - Build and maintain reporting dashboards on space utilization across the portfolio
+
+ - Identify capacity constraints early and recommend solutions
+
+ - Coordinate employee moves, adds, and changes (MAC) and seating assignments
+
+ - Manage furniture inventory and procurement, including vendor activities
+
+ - Partner with Finance, People, Real Estate, IT, and regional workplace teams to align space with business needs
+
+ - Present clear reports and recommendations to leadership to support strategic real estate decisions
+   
+   
+
+
+WHAT YOU BRING
+
+ - 3–5 years in space planning, workplace operations, occupancy analytics, facilities management, or corporate real estate
+
+ - Advanced Excel or Google Sheets skills, including pivot tables, data modeling, forecasting, and dashboard development
+
+ - Experience managing seating capacity, occupancy data, headcount forecasts, space utilization, and MAC
+
+ - Experience with OfficeSpace, IWMS, CAFM, or comparable workplace management systems
+
+ - Ability to coordinate relocations, furniture inventory, procurement, and vendors while juggling competing priorities
+
+ - Experience partnering with Finance, People, IT, and Workplace teams
+
+ - Skill at turning complex data into clear reports, actionable recommendations, and leadership presentations
+
+ - Strong attention to detail, analytical problem-solving, organization, and accountability
+
+ - Ability to work independently in a fast-paced, high-growth environment
+
+Education: Bachelor’s degree in Business Administration, Real Estate, Facilities Management, Data Analytics, or a related field, or equivalent practical experience.
+
+
+
+Compensation at Applied Intuition for eligible roles includes base salary, equity, and benefits. Base salary is a single component of the total compensation package, which may also include equity in the form of options and/or restricted stock units, comprehensive health, dental, vision, life and disability insurance coverage, 401k retirement benefits with employer match, learning and wellness stipends, and paid time off. Note that benefits are subject to change and may vary based on jurisdiction of employment.
+
+Applied Intuition pay ranges reflect the minimum and maximum intended target base salary for new hire salaries for the position. The actual base salary offered to a successful candidate will additionally be influenced by a variety of factors including experience, credentials & certifications, educational attainment, skill level requirements, interview performance, and the level and scope of the position.
+
+Don’t meet every single requirement? If you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.
+
+Applied Intuition
+
+---
+
+## 27. [MAYBE] University of Chicago | Research Analyst
 - Link: https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Analyst_JR35773
 - Location: Chicago, IL
 - Posted: Nov 19 (board gives the date only)
@@ -438,7 +549,7 @@ Department BSD PSY - Lyons Lab About the Department The Department of Psychiatry
 
 ---
 
-## 26. [MAYBE] Texas A&M University - College Station | Research Assistant
+## 28. [MAYBE] Texas A&M University - College Station | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098922-1
 - Location: College Station, TX
 - Posted: Nov 20 (board gives the date only)
@@ -453,7 +564,7 @@ Job Title Research Assistant Agency Texas A&M University Department Biology Prop
 
 ---
 
-## 27. [MAYBE] Texas A&M University System | Research Assistant
+## 29. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098922
 - Location: College Station, TX
 - Posted: Nov 20 (board gives the date only)
@@ -468,7 +579,7 @@ Job Title Research Assistant Agency Texas A&M University Department Biology Prop
 
 ---
 
-## 28. [MAYBE] Knowledge Services | Job Title Remote Research Analyst - Survey & Data Collection (Contract)
+## 30. [MAYBE] Knowledge Services | Job Title Remote Research Analyst - Survey & Data Collection (Contract)
 - Link: https://careers-knowledgeservices.icims.com/jobs/31831/remote-research-analyst---survey-%26-data-collection-%28contract%29/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -483,7 +594,7 @@ Remote Research Analyst - Survey & Data Collection (Contract) in Remote Please E
 
 ---
 
-## 29. [MAYBE] Axos Bank | JBATA - Data Engineer
+## 31. [MAYBE] Axos Bank | JBATA - Data Engineer
 - Link: https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---Data-Engineer_JR5390
 - Location: HQ - San Diego, CA
 - Posted: Nov 20 (board gives the date only)
@@ -498,7 +609,7 @@ Axos Bank Target Range: $30.00 /Hr. - $30.00 /Hr. Actual starting pay will vary 
 
 ---
 
-## 30. [MAYBE] HCSC | Quality and Reporting Analyst
+## 32. [MAYBE] HCSC | Quality and Reporting Analyst
 - Link: https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/National-Remote/Quality-and-Reporting-Analyst_R0056506
 - Location: National Remote
 - Posted: Nov 20 (board gives the date only)
@@ -513,7 +624,7 @@ At HCSC, our employees are the cornerstone of our business and the foundation to
 
 ---
 
-## 31. [MAYBE] National Laboratory of the Rockies | ML and Optimization Engineer
+## 33. [MAYBE] National Laboratory of the Rockies | ML and Optimization Engineer
 - Link: https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/ML-and-Optimization-Engineer_R14323
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -528,7 +639,22 @@ Posting Title ML and Optimization Engineer . Location CO - Golden . Position Typ
 
 ---
 
-## 32. [MAYBE] Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027
+## 34. [MAYBE] Cushman & Wakefield | Research Analyst
+- Link: https://cw.wd1.myworkdayjobs.com/external/job/San-Francisco-California-USA/Research-Analyst_R343118
+- Location: San Francisco, California, USA
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, forecast, statistic, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Title Research Analyst Job Description Summary The Analyst reports to the local Manager. The Analyst is responsible for supporting the development of local research output and thought leadership. Specifically, this position provides support for gathering and analyzing local market data and interpreting this information to identify trends in the market. Output of the analysis is used to produce research deliverables to be included in pitch and/or proposal materials and reflects various market dynamics. The Analyst is also accountable for accurate and proactive maintenance of proprietary and third-party databases with local market data, as well as pulling data from said systems to support thought leadership and forecast development. This position is not specific to a service line but may specialize by property type. Job Description Responsibilities: Gather, analyze, interpret, and present real estate trends and information for business development opportunities, client support, and internal analysis for the office and industrial markets Compile and distribute research in the form of narratives, graphics, data summaries, etc. for internal (Brokers, Property Managers, Marketing) Analyze market statistics, generate market reports and/or collateral material based on statistical analysis conducted Interface with national research resources to produce standardized market reports and customized client research Educate internal clients on available research tools and resources Develop and maintain a proprietary commercial real estate database ensuring consistently accurate and current data Create and analyze spreadsheets utilizing data needed to generate graphs, tables, and written analysis and make recommendations to the Director of Research Generate statistics, tables, and graphs used in quarterly market and statistical reports Create quarterly market reports to include written analysis explaining statistics and market activity, which may include drafting quarterly write-up Compile statistical data specific to client or service line by translating and converting data to graphs/tables/charts Qualifications: Bachelor's Degree; Industry related field of study preferred PowerBI Skills are a plus. 1+ years of real estate research or related business experience Or any similar combination of education and experience Experience in data entry/data management Proficient in Microsoft Office Suite Strong data software applications skills Demonstrated ability to work independently to meet goals and objectives Proven record of providing excellent internal and external customer service Excellent verbal and written communication skills Effective listening and critical thinking skills Cushman & Wakefield also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health, vision, and dental insurance, flexible spending accounts, health savings accounts, retirement savings plans, life, and disability insurance programs, and paid and unpaid time away from work. In addition to a comprehensive benefits package, Cushman and Wakefield provide eligible employees with competitive pay, which may vary depending on eligibility factors such as geographic location, date of hire, total hours worked, job type, business line, and applicability of collective bargaining agreements. The compensation that will be offered to the successful candidate will depend on factors such as whether the position is covered by a collective bargaining agreement, the geographic area in which the work will be performed, market pay rates in that area, and the candidate’s experience and qualifications. The company will not pay less than minimum wage for this role. The compensation for the position is: $ 73,100.00 - $86,000.00 Cushman & Wakefield
+
+---
+
+## 35. [MAYBE] Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2027_25928747
 - Location: New York New York United States
 - Posted: Nov 20 (board gives the date only)
@@ -543,7 +669,7 @@ NAM Quantitative Analysis, Summer Analyst Program – New York (North America - 
 
 ---
 
-## 33. [MAYBE] Berkshire Hathaway Energy | Mgr, Data Science
+## 36. [MAYBE] Berkshire Hathaway Energy | Mgr, Data Science
 - Link: https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006112
 - Location: Des Moines, IA, United States US Reno, NV, United States Las Vegas, NV, United States
 - Posted: Nov 20 (board gives the date only)
@@ -558,7 +684,7 @@ We are seeking an experienced and strategic Manager, Data Science to lead our Da
 
 ---
 
-## 34. [MAYBE] CVS Health | Software Development - Data Engineer
+## 37. [MAYBE] CVS Health | Software Development - Data Engineer
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Software-Development---Data-Engineer_R1108425-1
 - Location: CT - Hartford
 - Posted: Nov 20 (board gives the date only)
@@ -573,7 +699,22 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 35. [MAYBE] Invesco | Business Risk Analyst
+## 38. [MAYBE] Mercury Insurance | Title AI Engineer I
+- Link: https://careers-mercuryinsurance.icims.com/jobs/7485/ai-engineer-i/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~52 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 5 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: llm, python, regression, sql, ai agent, git, pipeline, quantitative, risk | Lacks: dbt, java
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+AI Engineer I in California | Careers at Remote-CA Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Current Team Member? Please apply via our internal job portal: employees-mercuryinsurance.icims.com Returning Candidates Login AI Engineer I Location US-CA- ID 2026-7485 # of Openings 1 Job Family Data Position Type Remote Overview Join an amazing team that is consistently recognized for our achievements and culture, including our most recent Forbes award of being one of America's Best Midsize Employers for 2026! Position Summary : We're hiring an Artificial Intelligence (AI) Engineer I to help build and maintain our metric intelligence platform: the agents, skills, and backend services that turn governed business metrics into automated analysis for teams across the company. This position is part of the Enterprise Data Services Division--we own the company's metric definitions, the semantic layer that serves them, and an AI-powered analytics platform built on top. Metric logic lives in version-controlled code; agents and applications read from it rather than reinventing it. This is an engineering role, not a prompt-writing role. Most of the platform's skills are deterministic Python, with AI agents orchestrating them. You'll spend more time making things correct, tested, and reliable than making them clever. Geo-Salary Information An in-person interview may be required during the hiring process State specific pay scales for this role are as follows: $83,670.00 to $161,815.00 (NJ, NY, WA, HI, AK, MD, CT, RI, MA) $76,064 to $147,104 (NV, OR, AZ, CO, WY, TX, ND, MN, MO, IL, WI, FL, GA, MI, OH, VA, PA, DE, VT, NH, ME) $68,457 to $132,394 (UT, ID, MT, NM, SD, NE, KS, OK, IA, AR, LA, MS, AL, TN, KY, IN, SC, NC, WV) In CA: Typical hiring range is $98,194 - $153,428 The expected base salary for this position will vary depending on a number of factors, including relevant experience, skills and location. Responsibilities Essential Job Functions: Agents and skills management Build, test, and maintain the Python skills and AI agents that run on the platform. Keep a clean skills catalog: versioning, documentation, ownership, and retiring skills that are no longer used. Build evaluation and regression checks (test sets, validators, output-format rules) so agent quality is consistent from run to run. Monitor agent usage, cost, and failures, and fix the root cause rather than the symptom. Platform backend maintenance Maintain the platform's agent runtime, built on a TypeScript agent framework (Mastra): agent workflows, tool definitions, memory, and model configuration. Maintain MCP (Model Context Protocol) servers and connectors that link agents to the warehouse, semantic layer, BI tools, and other company systems. Keep the platform's API services, scheduled jobs, and data pipelines healthy; handle framework, SDK, and model version upgrades. Triage and resolve failed jobs, broken connectors, data-quality alerts, and user-reported issues. Improve CI/CD, logging, and monitoring so problems surface before users find them. Write runbooks so any teammate can operate the platform. Data foundation (working knowledge) Understand how the gold data layer and semantic models feed the platform, and make small, reviewed changes to them. Work with the metric tree, the map of how business metrics drive each other, to connect new metrics and their relationships to the platform. Trace a number from the platform back to its source data when something looks wrong. Qualifications Education: Minimum Bachelor’s degree in a relevant quantitative, technical, engineering, or business-related field, or equivalent combination of education and experience. Preferred Masters Degree in a quantitative field CS, engineering, math, or stats degree preferred Experience: Minimum Typically requires 2 years of relevant experience in AI native analytics Preferred Experience with native AI implementations in Insurance industry Knowledge and Skills: Programming Python: writes, tests, and debugs modular code independently. Deterministic Python TypeScript/JavaScript: can read and change an existing backend codebase. Mastra is TS-based, so this is required. SQL: joins, aggregations, and window functions against a warehouse; can sanity-check a metric's output. LLM and agent fundamentals Has built at least one working LLM application end to end, such as a tool-calling agent, a RAG app, or an MCP server. A shipped side project counts. Understands prompts versus tools versus retrieval, context limits, and why agent output is nondeterministic. Has an instinct for evaluation: tests agent output against expected answers instead of eyeballing it. Engineering hygiene Daily use of Git and GitHub: branches, PRs, code review Works with REST or JSON APIs and reads API documentation without direct supervision Data and domain basics (concepts only) Understands what a semantic layer, dimension, and metric are, and how they differ from raw tables Can read a dbt model and YAML config and follow the lineage About the Company Why choose a career at Mercury? At Mercury, we have been guided by our purpose to help people reduce risk and overcome unexpected events for more than 60 years. We are one team with a common goal to help others. Everyone needs insurance and we can’t imagine a world without it. Our team will encourage you to grow, make time to have fun, and work together to make great things happen. We embrace the strengths and values of each team member. We believe in having diverse perspectives where everyone is included, to serve customers from all walks of life. We care about our people, and we mean it. We reward our talented professionals with a competitive salary, bonus potential, and a variety of benefits to help our team members reach their health, retirement, and professional goals. Learn more about us here: https://www.mercuryinsurance.com/about/careers #LI-DS1 #LI-Remote Perks and Benefits We offer many great benefits, including: Competitive compensation Flexibility to work from anywhere in the United States for most positions Paid time off (vacation time, sick time, 9 paid Company holidays, volunteer hours) Incentive bonus programs (potential for holiday bonus, referral bonus, and performance-based bonus) Medical, dental, vision, life, and pet insurance 401 (k) retirement savings plan with company match Engaging work environment Promotional opportunities Education assistance Professional and personal development opportunities Company recognition program Health and wellbeing resources, including free mental wellbeing therapy/coaching sessions, child and eldercare resources, and more Mercury Insurance
+
+---
+
+## 39. [MAYBE] Invesco | Business Risk Analyst
 - Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Business-Risk-Analyst_R-16028
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -588,7 +729,7 @@ About Invesco As one of the world’s leading independent global investment firm
 
 ---
 
-## 36. [MAYBE] Goodlord | Operations & Risk Analyst
+## 40. [MAYBE] Goodlord | Operations & Risk Analyst
 - Link: https://jobs.ashbyhq.com/goodlord/65494990-bb13-45b4-b7e4-d642815132c0
 - Location: England United Kingdom remote
 - Posted: Nov 20 12:34 ET
@@ -695,7 +836,7 @@ Goodlord wants applicants from all backgrounds and walks of life;
 
 ---
 
-## 37. [MAYBE] Barclays | Business Intelligence Developer
+## 41. [MAYBE] Barclays | Business Intelligence Developer
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Business-Intelligence-Developer_JR-0000139295
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -710,7 +851,7 @@ Job Description Purpose of the role To support the bank's decision-making proces
 
 ---
 
-## 38. [MAYBE] Blue Sky Innovators | AI Engineering Advisor
+## 42. [MAYBE] Blue Sky Innovators | AI Engineering Advisor
 - Link: https://job-boards.greenhouse.io/blueskyinnovators/jobs/5490916008
 - Location: Chantilly, VA
 - Posted: Nov 20 12:33 ET
@@ -725,7 +866,37 @@ Blue Sky Innovators is seeking an AI Engineering Advisor to join our team in Cha
 
 ---
 
-## 39. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
+## 43. [MAYBE] Berkshire Hathaway Energy | Data Engineer
+- Link: https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006103
+- Location: Des Moines, IA, United States US Urbandale, IA, United States
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~48 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, python, spark, sql, lambda, portfolio, research | Lacks: azure, databricks  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Data Engineer Des Moines, IA, United States Urbandale, IA, United States JOB DESCRIPTION & RESPONSIBILITIES Data Engineer: Designs, codes, tests documents, implements and maintains database utilities. Performs top expert-level database analysis and design reviews. Research and fact-finding to develop or modify database structures. Works with vendors to review quality, adaptability and compatibility of their products. Provides support for vendor-developed database implementation and periodic maintenance releases as required. Provides technical input to assist in development of project planning; provides actionable recommendations for improvements in application performance after analyzing underlying database-related infrastructure components. Maintains RDBMS software at appropriate vendor-supported levels. Rotating 24/7 call schedule and night / weekend work required periodically for patching activities or similar.  Bachelor’s degree or foreign equivalent in Computer Science, Information Technology or related field 2 years of experience with: Azure Data Factory; Azure Databricks; Azure Functions; Azure DevOps; Azure SQL; SQL Server; Python; SQL; AWS Lambda; AWS EMR Cluster; Database Upgrade/Migration; FastAPI; RestAPI’s; PySpark. MidAmerican Energy Company, a Midwest utility, provides regulated electric and natural gas service to more than 1.6 million customers in Illinois, Iowa, Nebraska and South Dakota. The company owns and operates a portfolio of power-generating assets, approximately 61% of which is wind generation.
+
+---
+
+## 44. [MAYBE] Northwestern Mutual | Investment Analytics Associate
+- Link: https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Process-Analyst_JR-45599-1
+- Location: Milwaukee, WI Corporate
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~48 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 20 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, power bi, statistic, portfolio, quantitative, reporting, risk, validation | Lacks: scala, snowflake
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About the Job Northwestern Mutual Capital (NMC) seeks an Investment Analytics Associate to improve how investment processes, data, and technology support front-office decision-making. The role spans NMC's investment transaction lifecycle, including deal sourcing, due diligence, underwriting, valuation, portfolio monitoring, performance analysis, and reporting. This is an role for a professional who can combine investment understanding with structured problem-solving, quantitative analysis, and process design. You will work directly with investment professionals and technology partners to diagnose complex workflow challenges, define practical solutions, and help translate promising ideas into durable operating improvements. The strongest candidates will bring credibility with investment stakeholders, comfort working through ambiguity, and a demonstrated ability to influence change without relying on formal authority. You will work on problems that often cross organizational, process, data, and technology boundaries. Requirements may be incomplete, stakeholder needs may differ, and the best solution may require both near-term pragmatism and a longer-term operating vision. Success requires investment context, structured analysis, sound judgment, and persistence through implementation. What You'll Do: Work across the investment lifecycle and gain a broad view of how investment decisions, data, systems, and operating processes connect. Partner directly with investment professionals to solve high-value problems rather than focusing only on documentation or administration. Shape analytical tools, workflows, and data products that can improve decision quality, execution speed, transparency, and control. Operate at the intersection of investments, analytics, technology, and change management. Take ownership of complex initiatives from problem definition through implementation and adoption. Map and assess end-to-end front-office processes across deal sourcing, underwriting, approval, closing, valuation, portfolio monitoring, and investment decision-making. Lead structured discovery with deal teams to identify manual bottlenecks, redundant steps, unclear ownership, data gaps, control risks, and underused system capabilities. Translate investment and business needs into clear process, data, analytical, and technology requirements. Design future-state workflows that simplify work, strengthen controls, improve data capture, and create scalable operating practices. Develop and prioritize improvement roadmaps with defined objectives, milestones, dependencies, resource needs, risks, and expected business impact. Evaluate how front-office platforms and analytical tools, including eFront, Snowflake, Power BI, and AI-enabled capabilities, can better support investment workflows. Build business cases that quantify effort, risk reduction, capacity benefits, and expected value to support prioritization and leadership decisions. Define and refine investment metrics, analytical views, and decision-support tools in partnership with investment professionals. Build or guide the development of Power BI dashboards and analytical outputs that support portfolio management and senior leadership. Support eFront configuration, data validation, troubleshooting, user enablement, and adoption of consistent practices. Contribute to the design of reliable, well-governed, AI-ready investment datasets. Create clear process maps, operating procedures, analytical documentation, and implementation plans. Drive adoption by facilitating decisions, resolving ambiguity, communicating changes, and reinforcing new ways of working. What You'll Bring to the Role: A bachelor's or master's degree in finance, economics, statistics, data science, computer science, financial engineering, or a related field, or an equivalent combination of education and relevant experience. Two or more years of experience in an investment, quantitative, analytics, business analysis, process improvement, or related role. Demonstrated experience analyzing and improving business processes within investment management, asset management, financial services, or another analytically complex environment. Working knowledge of investment workflows and the ability to engage credibly with investment professionals. A track record of identifying operational challenges and translating findings into practical, measurable improvements. Strong facilitation and stakeholder-management skills, including the ability to lead discovery sessions, surface competing needs, and build alignment. Ability to structure ambiguous problems, evaluate alternatives, and make clear recommendations supported by evidence. Ability to build business cases and communicate tradeoffs involving effort, risk, control, capacity, and expected value. Strong written and verbal communication skills, including the ability to present recommendations and roadmaps to technical, investment, and senior leadership audiences. Skills You Will Have: Adaptive Communication: Formulates strategies to be used to convey complex information about services, products, systems, or processes to targeted audiences; communicates and liaises between technical and non-technical audiences. Attention to Detail: Focuses on specific details to spot and correct errors in advance of them being found and surpass quality expectations. Performs work with thorough proofreading for presentation, content, accuracy, and overall quality. Financial Market Monitoring: Consistently tracks and analyzes financial market data and news, evaluates trends and events that may impact investment portfolios or financial decisions, and makes informed decisions based on this information. Stays up to date on economic indicators, market news, and global events, and understands how they relate to investment opportunities and risks. Industry Knowledge: Demonstrates extensive knowledge of common practices, regulatory considerations, market trends and the competitive landscape within a particular industry / sector to better understand and address unique client requirements, challenges, and context. Risk Evaluation: Assesses the significance of identified risks, makes judgments about the significance of the risk in relation to the organization's objectives and assesses whether the risk is acceptable or not. Considers factors such as the organization's risk appetite, risk tolerance, and risk management resources to help decision-makers determine which risks require further action and which can be accepted or tolerated. Compensation Range: Pay Range - Start: $89,360.00 Pay Range - End: $134,040.00 Geographic Specific Pay Structure: Structure 110: Structure 115: We believe in fairness and transparency. It’s why we share the salary range for most of our roles. However, final salaries are based on a number of factors, including the skills and experience of the candidate; the current market; location of the candidate; and other factors uncovered in the hirin [...]
+
+---
+
+## 45. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
 - Link: https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Forward-Deployed-AI-Engineer_R-1102337-1
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -740,7 +911,7 @@ When you join Verizon You want more out of a career. A place to share your ideas
 
 ---
 
-## 40. [MAYBE] The New School | Research Associate Fall 2027
+## 46. [MAYBE] The New School | Research Associate Fall 2027
 - Link: https://newschool.wd1.myworkdayjobs.com/external/job/B---65-West-11th-Street/Research-Associate-Fall-2027_JR110154
 - Location: B - 65 West 11th Street
 - Posted: Nov 19 (board gives the date only)
@@ -755,7 +926,7 @@ The Research Associate will support faculty research on twentieth-century United
 
 ---
 
-## 41. [MAYBE] Capital Group | Investment Content & Marketing Analyst
+## 47. [MAYBE] Capital Group | Investment Content & Marketing Analyst
 - Link: https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/Investment-Content---Marketing-Analyst_JR7786-1
 - Location: Los Angeles
 - Posted: Nov 20 (board gives the date only)
@@ -770,7 +941,22 @@ Discover your potential. Build your legacy. Go the distance with Capital Group A
 
 ---
 
-## 42. [MAYBE] JP Morgan Chase | 2027 Applied Research Associate - Summer Associate
+## 48. [MAYBE] UTHealth Houston | Research Associate
+- Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8304
+- Location: San Antonio, TX, United States US
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time (20 h/week stated)
+- Title scope: core | Has: excel, healthcare, publication, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Under general supervision, responsible for performing technical or narrative research by designing, modifying and collaborating with primary investigator regarding protocol and methodology of research topics. Plans, designs and implements research experiments according to established protocols to assure high quality scientific results in support of project goals. Conducts experiments and studies and assesses outcome; adapts continued studies based on the organization of findings. Presents data in organized, readable formats including written reports and graphical summaries, account for relevant supplies and ordering them as needed and other activities related to each project. Conducts library and topical research pertinent to projects. Writes and prepares final papers to support findings; submits evidence for publication. Assures compliance with institutional policies, rules and regulations to meet federal, state and local standards and codes pertaining to safety and ethics. Performs all other duties as assigned. Knowledge of molecular biology techniques, with an emphasis on protein expression and purification from a variety of recombinant sources is required. Experience with membrane protein expression and purification is preferred. Experience with sample preparation for structural biology techniques, including cryo-electron microscopy (single-particle analysis and/or tomography) and X-ray crystallography, is preferred but not required. Experience with laser operation, alignment, and safety is preferred but not required. Comfortable with the changes associated with evolving research requirements and the need to learn and troubleshoot new approaches to solve key problems. Demonstrated ability to organize and coordinate work within schedule constraints and handle emergent requirements in a timely manner. Demonstrated ability to monitor important and complex projects concurrently. Knowledge of Microsoft Word, Excel, PowerPoint, and Lotus Notes/other email software. Demonstrated ability to effectively communicate verbally and in writing, to include writing and preparing memorandums, letters, and other official correspondence. Education: Bachelor's Degree in a specialized field of study is required. Experience: Four (4) years of experience is required. The University of Texas at San Antonio (UT San Antonio) is a nationally recognized, top-tier public research university that unites the power of higher education, biomedical discovery and healthcare within one visionary institution. As the third-largest research university in Texas and a Carnegie R1-designated institution, UT San Antonio is a model of access and excellence — advancing knowledge, social mobility and public health across South Texas and beyond. UT San Antonio serves approximately 42,000 students in 320 academic programs spanning science, engineering, medicine, health, liberal arts, AI, cybersecurity, business, education and more. With 17,000 faculty and staff, UT San Antonio has been recognized by Forbes as one of America’s Best Employers for Company Culture . Benefits Overview UT Health San Antonio offers an excellent benefits package for its employees. Employees who work at least 20 hours a week, with an appointment of at least 4.5 months, are eligible for benefits. Medical - UT SELECT Medical insurance is offered free for employees and administered by Blue Cross and Blue Shield of Texas. Family members can be added to the plan through payroll deduction. Employees and their dependents can also receive discounted copays and coinsurance when using UT Health Physicians, a network of 800 premier physicians including more than 100 specialists. Employees receive $50,000 of group term life insurance and $50,000 of basic accidental death and dismemberment insurance for free, with options to purchase additional employee and dependent coverage for both at group rates. Dental - Three dental insurance plan options are available for employees and their families through Delta Dental Insurance Company, two PPOs and one dental HMO plan. Both PPO plans allow employees to choose any licensed dentist. Vision - Fully insured Vision Care benefits are offered by Superior Vision Services. Two vision plan options that offer either standard or enhanced vision benefits. Disability - Employees can enroll in the Disability Insurance which provides income if a non-work related illness or injury prevents you from working. FSAs - Employees can enroll in flexible spending accounts (FSAs) to set aside money from earnings before taxes for qualifying dependent day care expenses or out-of-pocket health care expenses. Retirement - Employees are eligible for either the Teacher Retirement System (TRS) or the Optional Retirement Plan (ORP). TRS is a defined benefit retirement plan which UT Health matches employee contributions. ORP is for eligible faculty staff employees. Voluntary retirement programs are also available to invest before- or after-tax dollars with the choice of five quality retirement plan providers. Time Off - A generous leave program offers multiple paid leave options: Front-loaded Paid Time Off: 128 to 208 hours (16 to 26 days) of Paid Time Off based on years of service, given at the start of each fiscal year. PTO may be prorated in year one based on date of hire. Extended Illness Bank: 8 hours (1 day) accrued per month which can be used for illness or injury after one day of Paid Time Off is taken. Paid Family Leave: Up to 240 hours (6 weeks) to care for a spouse, child, or parent after 6 months of consecutive employment. Holidays: 12 set paid holidays each year. Discounts - Employees enjoy a range of discounts on services, tickets, and gym membership.
+
+---
+
+## 49. [MAYBE] JP Morgan Chase | 2027 Applied Research Associate - Summer Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809359
 - Location: New York, NY, United States US
 - Posted: Nov 20 (board gives the date only)
@@ -785,7 +971,7 @@ Our firm is seeking a junior or senior researcher and thought leader to perform 
 
 ---
 
-## 43. [MAYBE] Cartesian | Machine Learning Scientist
+## 50. [MAYBE] Cartesian | Machine Learning Scientist
 - Link: https://job-boards.greenhouse.io/cartesiansystems/jobs/4516933009
 - Location: Cambridge, MA
 - Posted: Nov 20 11:17 ET
@@ -800,7 +986,22 @@ About the Company Cartesian &nbsp; is building spatial intelligence for indoor e
 
 ---
 
-## 44. [MAYBE] RADAR | Data Engineer
+## 51. [MAYBE] bet365 | Data Engineer (EDW)
+- Link: https://jobs.smartrecruiters.com/Bet3651/744000162826949
+- Location: Denver Colorado us
+- Posted: Nov 20 16:53 ET
+- Scanner fit: ~42 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, bigquery, machine learning, sql, data quality, git, pipeline | Lacks: airflow, dbt, scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Our AI & Automation department transforms complex data into intelligent, scalable solutions. Operating across an expansive technical landscape, the team builds robust infrastructure that supports regulatory compliance and drives process efficiency. By leveraging advanced cloud technologies and machine learning, the department maintains data integrity while exploring new ways to optimize performance across our global platforms. In this role, you'll help build and maintain data pipelines that move data from our data lake into a new cloud-based Enterprise Data Warehouse (EDW). With the core architecture and data models established, you'll focus on developing and enhancing pipelines that load fact and dimension tables, while contributing to automation and data quality improvements alongside talented teammates. The listed salary for this position is $90,000-$120,000 annually. Strong SQL skills, with experience developing efficient and maintainable queries for analytical and data warehouse use cases Practical experience with cloud data platforms, particularly Google BigQuery, alongside building, maintaining, and troubleshooting data pipelines using Apache Airflow or similar tools Proven ability to load, transform, and model data for cloud-based data warehouses, including fact and dimension tables, with exposure to dbt or Dataform Solid understanding of data engineering principles, including data quality, testing, monitoring, performance, and reliability Demonstrated experience using Git for source control and collaborating in a shared repository with multiple developers Applied understanding of CI/CD processes, peer reviews, and development standards for controlled testing and deployment Background working in an agile environment, contributing to technical discussions, planning, and delivery Aptitude for using AI tools responsibly to support development activities, including code generation, refinement, troubleshooting, and documentation Develop, maintain, and enhance reliable data pipelines that ingest data from the data lake into the cloud-based Enterprise Data Warehouse (EDW) Build and support the loading of fact and dimension tables, applying established architecture, data models, and development standards Write efficient SQL and transformation logic while applying best practices for data quality, testing, performance, monitoring, error handling, and reliability Work collaboratively in a shared source-controlled repository with a team of developers, contributing to peer reviews, CI/CD processes, and the controlled deployment of data solutions Investigate and resolve pipeline and data quality issues, contributing to automation, technical documentation, and continuous EDW improvements Collaborate with engineers, analysts, and stakeholders in an agile environment, using AI tools responsibly to support development, troubleshooting, documentation, and solution design bet365 provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.
+
+---
+
+## 52. [MAYBE] RADAR | Data Engineer
 - Link: https://job-boards.greenhouse.io/radar/jobs/8384252
 - Location: Sunnyvale, CA
 - Posted: Nov 20 15:40 ET
@@ -815,7 +1016,7 @@ ABOUT US E-commerce got real-time data infrastructure decades ago. Physical stor
 
 ---
 
-## 45. [MAYBE] Dayton Freight Lines | Title Pricing Analyst
+## 53. [MAYBE] Dayton Freight Lines | Title Pricing Analyst
 - Link: https://careers-daytonfreight.icims.com/jobs/18734/pricing-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -830,7 +1031,7 @@ Pricing Analyst in Dayton, Ohio | Careers at Corporate Please Enable Cookies to 
 
 ---
 
-## 46. [MAYBE] ISS | Institutional Shareholder Services | Custom Research Analyst- Corporate Governance (Temporary)
+## 54. [MAYBE] ISS | Institutional Shareholder Services | Custom Research Analyst- Corporate Governance (Temporary)
 - Link: https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Norman-OK-US/Custom-Research-Analyst--Temporary-_JR_10542
 - Location: Norman, OK, US
 - Posted: Nov 20 (board gives the date only)
@@ -845,7 +1046,22 @@ ISS Stoxx is hiring! Advance your career with the leading provider of corporate 
 
 ---
 
-## 47. [MAYBE] Amgen | Sr Data Scientist
+## 55. [MAYBE] LPL Financial Holdings | Senior Full Stack AI/ML Engineer
+- Link: https://lplfinancial.wd1.myworkdayjobs.com/External/job/Austin-TX/Senior-Full-Stack-AI-ML-Engineer_R-054715-1
+- Location: 2 Locations
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~71 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 7 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, llm, machine learning, pandas, postgres, python, pytorch, scikit, sql, tensorflow, ai agent, credit, docker | Lacks: java, scala  | Note: title says Senior/II: asks 2 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Where Ambition Meets Innovation Build a career that matches all your initiative with an impressive dose of innovation. From cutting-edge resources and a collaborative environment to the freedom to make an impact and more, you’ll find the ingredients you need at LPL Financial to shape your success while helping clients pursue their financial goals. Job Overview: The Senior Full Stack AI/ML Engineer is responsible for designing, developing, deploying, and supporting cloud-native applications that incorporate AI/ML and Generative AI capabilities. This role combines full-stack engineering expertise with hands-on experience integrating large language models, Retrieval-Augmented Generation (RAG), AI agents, Model Context Protocol (MCP) services, and enterprise APIs. The individual will partner with Product, Architecture, Data, Security, and Engineering teams to deliver scalable, secure, and production-ready solutions that accelerate responsible AI adoption across the enterprise. Responsibilities: Design, develop, test, deploy, and support enterprise full-stack applications incorporating AI/ML, Generative AI, and cloud-native capabilities. Build scalable backend services, microservices, REST APIs, and automation solutions using Java, Spring Boot, Python, Node.js, TypeScript, and related technologies. Develop and integrate Generative AI solutions using Amazon Bedrock, foundation models, large language models, prompt engineering, tool calling, structured outputs, and model evaluation techniques. Design and implement Retrieval-Augmented Generation (RAG) solutions, including document ingestion, embeddings, vector search, context construction, and grounded response generation. Develop AI agents and agentic workflows that securely interact with enterprise applications, data sources, services, and approved business processes. Create MCP servers, MCP tools, and API-first automation components that enable secure interaction between AI agents and enterprise systems. Implement authentication, authorization, secrets management, audit controls, human approval workflows, and other security safeguards for AI-enabled applications. Design and deploy cloud-native applications and AI workloads using AWS, Amazon EKS, Docker, Kubernetes, and related cloud services. Develop Infrastructure as Code solutions using Terraform to provision and manage cloud infrastructure across environments. Build and maintain CI/CD pipelines supporting applications, AI services, infrastructure, and automation components. Implement observability capabilities through logging, tracing, metrics, dashboards, monitoring, and alerting. Evaluate AI solutions for accuracy, groundedness, latency, reliability, scalability, security, and cost efficiency. Apply Responsible AI principles and technical safeguards to mitigate risks such as prompt injection, data exposure, hallucinations, and unintended automated actions. Develop automated unit, integration, API, contract, and end-to-end testing solutions to improve quality and production readiness. Participate in architecture reviews, code reviews, technical design discussions, Agile ceremonies, and production support activities. Collaborate with Product, Architecture, AI/ML Engineering, Data Engineering, Security, Infrastructure, and application teams to translate business requirements into scalable technical solutions. Develop prototypes and proof-of-concepts to evaluate emerging AI/ML, Generative AI, agentic AI, MCP, and cloud-native technologies. Establish reusable software components, engineering patterns, APIs, AI integrations, and automation capabilities that accelerate enterprise AI adoption. What Are We Looking For? We’re looking for strong collaborators who deliver exceptional client experiences and thrive in fast-paced, team-oriented environments. Our ideal candidates pursue greatness , act with integrity , are driven to help our clients succeed , and continuously seek opportunities to improve processes and outcomes. We value individuals who contribute to a culture where we win together and create and share joy in our work. Requirements: 5+ years of software engineering experience designing, developing, testing, deploying, and supporting enterprise applications or distributed systems. 5+ years of full-stack development experience using Java, Spring Boot, Python, Node.js, TypeScript/JavaScript, REST APIs, and microservices. 3+ years of cloud-native delopment experience on AWS, including services such as EKS, S3, API Gateway, Lambda, IAM, CloudWatch, and Secrets Manager. 2+ years of hands-on experience developing Generative AI solutions, including large language model integration and implementation of RAG, AI agents, MCP, or similar AI orchestration patterns. Experience deploying and operating production applications using Docker, Kubernetes, Infrastructure as Code, CI/CD pipelines, automated testing, security controls, and observability practices. Core Competencies: Full-stack software engineering and object-oriented development. Generative AI, LLMs, RAG, embeddings, vector search, and AI agent architecture. Model Context Protocol (MCP), tool/function calling, API-first automation, and agentic workflow design. AWS cloud-native application architecture and Amazon Bedrock. Java, Spring Boot, Python, Node.js, TypeScript, APIs, microservices, and distributed systems. Docker, Kubernetes/EKS, Terraform, Infrastructure as Code, DevOps, and CI/CD. Application, API, and AI security, including authentication, authorization, secrets management, and enterprise guardrails. Responsible AI, observability, production readiness, reliability, and automated testing. Technical analysis, troubleshooting, and complex problem solving. Communication and cross-functional collaboration. Preferences: Experience with AI orchestration frameworks such as LangChain, LlamaIndex, or similar technologies. Experience with vector databases, semantic search, embeddings, and retrieval optimization. Experience with relational and NoSQL technologies, including PostgreSQL, Microsoft SQL Server, DynamoDB, and Redis. Experience developing machine learning solutions using Pandas, NumPy, scikit-learn, PyTorch, or TensorFlow. Experience designing event-driven architectures, asynchronous processing solutions, or enterprise integration patterns. Experience evaluating LLMs and AI applications for accuracy, relevancy, groundedness, latency, security, scalability, and cost. Experience implementing Responsible AI controls, AI security practices, human-in-the-loop workflows, and AI governance processes. Experience within Financial Services, Wealth Management, Banking, FinTech, or other regulated technology environments. Pay Range: $96,000.00 - $160,000.00 Actual base salary varies based on factors, including but not limited to, relevant skill, prior experience, education, base salary of internal peers, demonstrated performance, and geographic location. Additionally, LPL Total Rewards package is highly competitive, designed t [...]
+
+---
+
+## 56. [MAYBE] Amgen | Sr Data Scientist
 - Link: https://amgen.wd1.myworkdayjobs.com/careers/job/US---IL---Deerfield/Sr-Data-Scientist_R-256842
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -860,7 +1076,7 @@ Career Category Sales & Marketing Operations Job Description Join Amgen’s Miss
 
 ---
 
-## 48. [MAYBE] Regeneron Pharmaceuticals | AI Engineer II
+## 57. [MAYBE] Regeneron Pharmaceuticals | AI Engineer II
 - Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/AI-Engineer-II_R53257
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -875,7 +1091,7 @@ At Regeneron Enterprise Data & AI, we evaluate frontier AI and bring it to resea
 
 ---
 
-## 49. [MAYBE] Jerry | Senior Associate, Business Operations & Analytics
+## 58. [MAYBE] Jerry | Senior Associate, Business Operations & Analytics
 - Link: https://jobs.ashbyhq.com/Jerry.ai/fddfb7e5-aabc-43b8-85da-b443000fe706
 - Location: New York, New York United States Chicago, Illinois Boston, Massachusetts San Francisco Bay Area remote
 - Posted: Nov 20 12:38 ET
@@ -997,7 +1213,7 @@ Jerry.ai is committed to providing
 
 ---
 
-## 50. [MAYBE] Hinge Health | AI Engineer II
+## 59. [MAYBE] Hinge Health | AI Engineer II
 - Link: https://jobs.ashbyhq.com/hinge-health/7564ec75-617b-4065-8da6-72210460a6ef
 - Location: San Francisco-HQ US remote
 - Posted: Nov 20 13:20 ET
@@ -1135,7 +1351,7 @@ Hinge Health
 
 ---
 
-## 51. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
+## 60. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
 - Link: https://www.google.com/about/careers/applications/jobs/results/98133257790333638
 - Location: Mountain View, CA, USA ; New York, NY, USA
 - Posted: Nov 20 03:06 ET
@@ -1150,7 +1366,7 @@ Our mission is to bring new users to vertical and international experiences and 
 
 ---
 
-## 52. [MAYBE] McKesson | Sr Associate, Data Engineering
+## 61. [MAYBE] McKesson | Sr Associate, Data Engineering
 - Link: https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Sr-Associate--Data-Engineering_JR0157360
 - Location: Cork
 - Posted: Nov 19 (board gives the date only)
@@ -1165,7 +1381,7 @@ McKesson is an impact-driven, Fortune 10 company that touches virtually every as
 
 ---
 
-## 53. [MAYBE] Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing)
+## 62. [MAYBE] Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing)
 - Link: https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Applied-Data-Scientist---1-1-Personalization--Audience-and-Experimentation--applied-ML--PyToch--A-B-testing-_R0000454434
 - Location: 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445
 - Posted: Nov 19 (board gives the date only)
@@ -1180,7 +1396,7 @@ The pay range is $98,000.00 - $176,000.00 Pay is based on several factors which 
 
 ---
 
-## 54. [MAYBE] Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS)
+## 63. [MAYBE] Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS)
 - Link: https://job-boards.greenhouse.io/natera/jobs/6189378004
 - Location: US Remote
 - Posted: Nov 20 14:03 ET
@@ -1195,7 +1411,7 @@ Important: this position will work on the Weekend Shift team, with the following
 
 ---
 
-## 55. [MAYBE] DaVita | Customer Experience Reporting and Analytics Senior Developer
+## 64. [MAYBE] DaVita | Customer Experience Reporting and Analytics Senior Developer
 - Link: https://davita.wd1.myworkdayjobs.com/DKC_External/job/01699---IT-Malvern-Remote/Customer-Experience-Reporting-and-Analytics-Senior-Developer_R0487026
 - Location: 01699 - IT Malvern-Remote
 - Posted: Nov 20 (board gives the date only)
@@ -1210,7 +1426,7 @@ Posting Date 11/20/2026&#xa;1300 Morris DrSte 100, Chesterbrook, Pennsylvania, 1
 
 ---
 
-## 56. [MAYBE] Paypal Inc. | Sr. Machine Learning Engineer
+## 65. [MAYBE] Paypal Inc. | Sr. Machine Learning Engineer
 - Link: https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0139039-1
 - Location: San Jose, California, United States of America
 - Posted: Nov 20 (board gives the date only)
