@@ -5,10 +5,12 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | City of New York | Data Analytics & Automation Specialist | 78 | none found (check myvisajobs) | Nov 20 06:32 ET |
-| 2 | City of New York | Junior Data Analytics & Automation Specialist | 67 | none found (check myvisajobs) | Nov 20 06:32 ET |
-| 3 | City of New York | Data Engineer | 58 | none found (check myvisajobs) | Nov 20 06:22 ET |
-| 4 | City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics | 57 | none found (check myvisajobs) | Nov 20 06:22 ET |
-| 5 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
+| 2 | Community Health Systems | Strategy Analyst | 70 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 3 | City of New York | Junior Data Analytics & Automation Specialist | 67 | none found (check myvisajobs) | Nov 20 06:32 ET |
+| 4 | City of New York | Data Engineer | 58 | none found (check myvisajobs) | Nov 20 06:22 ET |
+| 5 | City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics | 57 | none found (check myvisajobs) | Nov 20 06:22 ET |
+| 6 | Highmark Health | Associate Strategy Analyst | 57 | 11 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 7 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
 
 ---
 
@@ -27,7 +29,22 @@ Hours: Full-Time – 35 Hours Work Location: 30-30 Thomson Avenue, LIC, NY 11101
 
 ---
 
-## 2. [MAYBE] City of New York | Junior Data Analytics & Automation Specialist
+## 2. [MAYBE] Community Health Systems | Strategy Analyst
+- Link: https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/171413
+- Location: Franklin, TN, United States US
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~70 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: data visualization, excel, forecast, power bi, statistic, tableau, healthcare, quantitative | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Summary The Strategy Analyst supports executive and health system leadership across the enterprise by translating complex internal, market, and industry datasets into actionable strategic insights. Operating within the Business Development department, this role focuses on evaluating market share dynamics, optimizing ambulatory and inpatient access points, supporting service line planning, and supporting enterprise capacity planning. The ideal candidate combines strong quantitative modeling skills with healthcare domain fluency to inform capital allocation, network expansion, and long-term strategic planning. Essential Functions Market Share & Competitive Intelligence: Analyze external claims, state inpatient/outpatient discharge databases, and demographic data to evaluate market share trends, competitor positioning, migration patterns, and whitespace opportunities across primary and secondary service areas. Service Line Analytics: Partner with service line executives and physician leaders to assess clinical program performance, volume trajectories, payer mix shifts, contribution margins, and downstream referral patterns. Access Point & Network Optimization: Conduct geospatial and catchment area analyses to evaluate ambulatory footprint performance, site-of-care shifts, clinic utilization, and optimal locations for new facilities or service expansions. Capacity Planning & Demand Forecasting: Build quantitative models to project inpatient bed demand, procedural room utilization, and ambulatory capacity constraints based on population health trends, clinical acuity, and operational throughput. Executive Decision Support: Synthesize multi-source findings into clear, executive-ready presentations and business cases that guide strategic planning, partnership evaluations, and capital investments. ***Hybrid in Franklin, TN strongly preferred. Fully remote considered for standout candidates with exceptional experience*** Qualifications Education: Bachelor’s degree in Healthcare Administration, Economics, Data Science, Finance, Statistics, Public Health, or a related quantitative field required; Master’s degree (MHA, MPH, MBA, or MS in Analytics) is strongly preferred. Experience: Minimum of 2–4 years of experience in healthcare strategy, management consulting, decision support, or quantitative analytics. Direct experience working within a hospital, multi-hospital health system, payer, or healthcare consulting environment strongly preferred. Technical Background: Experience working with large-scale healthcare datasets (e.g., Epic/Cerner EHR extracts, Cost Accounting/Decision Support systems, state/all-payer claims data, CMS datasets, or syndicated market intelligence platforms such as Sg2, Advisory Board, or Claritas). Knowledge, Skills, and Abilities (KSAs) Healthcare Domain Knowledge: Understanding of hospital and ambulatory operations, healthcare reimbursement models, service line economics (e.g., DRGs, APCs, RVUs), and competitive market dynamics. Analytical & Data Visualization Skills: Proficiency in Excel for complex data analysis and financial/volume modeling; demonstrated ability to build intuitive visuals in Tableau, Power BI, or Excel. Strategic Communication: Proficiency in Microsoft PowerPoint to design clean, structured, executive-ready slide decks. Ability to distill technical analyses into concise business narratives for executives, clinical leaders, and other non-technical stakeholders. Project Management & Collaboration: Self-directed with strong organizational skills to manage multiple competing strategic initiatives simultaneously while maintaining rigorous attention to analytical accuracy.
+
+---
+
+## 3. [MAYBE] City of New York | Junior Data Analytics & Automation Specialist
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016990286
 - Location: New York City NY us
 - Posted: Nov 20 06:32 ET
@@ -42,7 +59,7 @@ Hours: Full-Time Position – 35 Hours Work Location: 30-30 Thomson Avenue, LIC,
 
 ---
 
-## 3. [MAYBE] City of New York | Data Engineer
+## 4. [MAYBE] City of New York | Data Engineer
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016990106
 - Location: New York City NY us
 - Posted: Nov 20 06:22 ET
@@ -57,7 +74,7 @@ The New York City Department of Sanitation (DSNY) keeps New York City healthy, s
 
 ---
 
-## 4. [MAYBE] City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics
+## 5. [MAYBE] City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016989754
 - Location: New York City NY us
 - Posted: Nov 20 06:22 ET
@@ -72,7 +89,22 @@ About the Agency: The Department of Housing Preservation and Development (HPD) o
 
 ---
 
-## 5. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
+## 6. [MAYBE] Highmark Health | Associate Strategy Analyst
+- Link: https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Strategy-Analyst_J291247
+- Location: 51 Locations
+- Posted: Nov 19 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 11 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, forecast, healthcare, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Company : enGen Job Description : JOB SUMMARY This job supports the leadership of Highmark, or its affiliates, with a range of strategy activities essential to membership and margin goals. Strategy Analysts provide analytical/strategic-thinking and leadership support that enables project teams to: 1) isolate business issues; 2) help design and execute analytics for studying business issues (market research, scenario planning, forecasting, market share, profitability, etc.); 3) develop technical content (competitive intelligence, market trend analysis); 4) support development of formal recommendations to Senior Levels leadership; 5) help create document components (go-to-market or operational strategies, etc.) that inform critical strategic issues and decisions. ESSENTIAL RESPONSIBILITIES Work with business/market owners to identify key business issues, articulate problem, apply right analytical framework, develop solution and recommendations, represent findings to stakeholders and own the outcome. Under the guidance of Strategy Consultants and Leadership, participate in & lead small to medium sized strategy projects/ work streams with the help of internal or external strategy consulting resources. Serve as subject matter expert (resource) to staff and stakeholders on membership, growth and operational strategy issues. Provide periodic informal work guidance/direction to other team members; Provide performance input and recommendations to management for development/ training plans. May have supervisory responsibilities on a project basis. Apply a broad knowledge of concepts and principles to develop analytical frameworks, approach and methodology best practices to analyze complex strategy issues, often applying ingenuity and originality to develop unique solutions. Other duties as assigned or requested. EDUCATION: Required Bachelor's degree in Business, Economics, Engineering, or Life Sciences or closely related discipline Substitutions None Preferred Master’s Degree in Business, Health or Economics or other related degree EXPERIENCE Required 0 - 3 years progressive experience that should be with strategy/ management consulting firms or internal strategy groups of healthcare and related companies Preferred Health Insurance operations and technology experience Operational improvement experience LICENSES OR CERTIFICATION Required None Preferred Process Improvement certification (i.e. Lean, Six Sigma or Kaizan) SKILLS Broad application of principles, theories, and concepts in strategic thinking, plus working knowledge of other related fields Strong PC application Skills (MS Office including PowerPoint and Excel) Knowledge of national and regional healthcare industry trends and challenges Strong written and oral communication skills, and attention to details Language (Other than English): None Travel Requirement: 0% - 25% PHYSICAL, MENTAL DEMANDS and WORKING CONDITIONS Position Type Office-based Teaches / trains others regularly Occasionally Travel regularly from the office to various work sites or from site-to-site Rarely Works primarily out-of-the office selling products/services (sales employees) Never Physical work site required Yes Lifting: up to 10 pounds Constantly Lifting: 10 to 25 pounds Occasionally Lifting: 25 to 50 pounds Rarely Disclaimer: The job description has been designed to indicate the general nature and essential duties and responsibilities of work performed by employees within this job title. It may not contain a comprehensive inventory of all duties, responsibilities, and qualifications required of employees to do this job. Compliance Requirement : This job adheres to the ethical and legal standards and behavioral expectations as set forth in the code of business conduct and company policies. As a component of job responsibilities, employees may have access to covered information, cardholder data, or other confidential customer information that must be protected at all times. In connection with this, all employees must comply with both the Health Insurance Portability Accountability Act of 1996 (HIPAA) as described in the Notice of Privacy Practices and Privacy Policies and Procedures as well as all data security guidelines established within the Company’s Handbook of Privacy Policies and Practices and Information Security Policy. Furthermore, it is every employee’s responsibility to comply with the company’s Code of Business Conduct. This includes but is not limited to adherence to applicable federal and state laws, rules, and regulations as well as company policies and training requirements. Pay Range Minimum: $72,700.00 Pay Range Maximum: $118,900.00 Base pay is determined by a variety of factors including a candidate’s qualifications, experience, and expected contributions, as well as internal peer equity, market, and business considerations. The displayed salary range does not reflect any geographic differential Highmark may apply for certain locations based upon comparative markets. Highmark Health and its affiliates prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities and prohibit discrimination against all individuals based on any category protected by applicable federal, state, or local law. California Consumer Privacy Act Employees, Contractors, and Applicants Notice
+
+---
+
+## 7. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
 - Link: https://www.google.com/about/careers/applications/jobs/results/98133257790333638
 - Location: Mountain View, CA, USA ; New York, NY, USA
 - Posted: Nov 20 03:06 ET
