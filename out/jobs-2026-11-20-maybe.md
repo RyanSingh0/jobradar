@@ -5,40 +5,47 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | City of New York | Data Analytics & Automation Specialist | 78 | none found (check myvisajobs) | Nov 20 06:32 ET |
-| 2 | CCC Intelligent Solutions | Financial Intelligence Analyst | 74 | 14 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 3 | Hitachi | AI Data & Security Governance Engineer (MAD-BS-OR) | 71 | 2 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 4 | Community Health Systems | Strategy Analyst | 70 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 5 | Rice University | Stewardship Data Specialist | 69 | cap-exempt employer | Nov 20 (board gives the date only) |
-| 6 | Globus Medical | Pricing Analyst | 68 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 7 | City of New York | Junior Data Analytics & Automation Specialist | 67 | none found (check myvisajobs) | Nov 20 06:32 ET |
-| 8 | Blackhawk Network Holdings | Title Financial Analyst I (Hybrid - Coppell, TX) | 65 | 3 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 9 | iHeartMedia | Finance Analyst, Corporate | 65 | 5 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 10 | TribalScale | AI Engineer - Agent Infrastructure & AI Workflow | 65 | none found (check myvisajobs) | Nov 20 12:11 ET |
-| 11 | Whataburger | Accounting Data Analyst | 59 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 12 | City of New York | Data Engineer | 58 | none found (check myvisajobs) | Nov 20 06:22 ET |
-| 13 | City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics | 57 | none found (check myvisajobs) | Nov 20 06:22 ET |
-| 14 | Highmark Health | Associate Strategy Analyst | 57 | 11 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 15 | AES | Data Analyst, Training Operations | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 16 | Baird | Statements & Investor Reporting Analyst | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 17 | University of Chicago | Research Analyst | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 18 | Texas A&M University - College Station | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
-| 19 | Texas A&M University System | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
-| 20 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 21 | Berkshire Hathaway Energy | Mgr, Data Science | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 22 | Invesco | Business Risk Analyst | 50 | 28 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 23 | Goodlord | Operations & Risk Analyst | 50 | none found (check myvisajobs) | Nov 20 12:34 ET |
-| 24 | Barclays | Business Intelligence Developer | 48 | 142 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 25 | Blue Sky Innovators | AI Engineering Advisor | 48 | none found (check myvisajobs) | Nov 20 12:33 ET |
-| 26 | Verizon Communications | Forward Deployed AI Engineer | 47 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 27 | The New School | Research Associate Fall 2027 | 45 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 28 | JP Morgan Chase | 2027 Applied Research Associate - Summer Associate | 44 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 29 | Cartesian | Machine Learning Scientist | 44 | none found (check myvisajobs) | Nov 20 11:17 ET |
-| 30 | Amgen | Sr Data Scientist | 66 | 112 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 31 | Regeneron Pharmaceuticals | AI Engineer II | 66 | 42 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 32 | Jerry | Senior Associate, Business Operations & Analytics | 60 | 3 in data/analytics/finance occupations | Nov 20 12:38 ET |
-| 33 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
-| 34 | McKesson | Sr Associate, Data Engineering | 55 | 38 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 35 | Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | 55 | 51 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 2 | Salt Lake County | Internal Job Title Opioid Settlement Funds Performance & Data Analyst | 76 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 3 | CCC Intelligent Solutions | Financial Intelligence Analyst | 74 | 14 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 4 | Hitachi | AI Data & Security Governance Engineer (MAD-BS-OR) | 71 | 2 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 5 | Community Health Systems | Strategy Analyst | 70 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 6 | Rice University | Stewardship Data Specialist | 69 | cap-exempt employer | Nov 20 (board gives the date only) |
+| 7 | Globus Medical | Pricing Analyst | 68 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 8 | City of New York | Junior Data Analytics & Automation Specialist | 67 | none found (check myvisajobs) | Nov 20 06:32 ET |
+| 9 | American Bureau of Shipping | Finance Analyst, Government Projects | 67 | 2 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 10 | PricewaterhouseCoopers (PwC) | Finance Data, Analytics & AI - Experienced Associate | 67 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 11 | Blackhawk Network Holdings | Title Financial Analyst I (Hybrid - Coppell, TX) | 65 | 3 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 12 | iHeartMedia | Finance Analyst, Corporate | 65 | 5 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 13 | TribalScale | AI Engineer - Agent Infrastructure & AI Workflow | 65 | none found (check myvisajobs) | Nov 20 12:11 ET |
+| 14 | Whataburger | Accounting Data Analyst | 59 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 15 | City of New York | Data Engineer | 58 | none found (check myvisajobs) | Nov 20 06:22 ET |
+| 16 | City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics | 57 | none found (check myvisajobs) | Nov 20 06:22 ET |
+| 17 | Highmark Health | Associate Strategy Analyst | 57 | 11 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 18 | AES | Data Analyst, Training Operations | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 19 | Baird | Statements & Investor Reporting Analyst | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 20 | University of Chicago | Research Analyst | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 21 | Texas A&M University - College Station | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
+| 22 | Texas A&M University System | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
+| 23 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 24 | Berkshire Hathaway Energy | Mgr, Data Science | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 25 | CVS Health | Software Development - Data Engineer | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 26 | Invesco | Business Risk Analyst | 50 | 28 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 27 | Goodlord | Operations & Risk Analyst | 50 | none found (check myvisajobs) | Nov 20 12:34 ET |
+| 28 | Barclays | Business Intelligence Developer | 48 | 142 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 29 | Blue Sky Innovators | AI Engineering Advisor | 48 | none found (check myvisajobs) | Nov 20 12:33 ET |
+| 30 | Verizon Communications | Forward Deployed AI Engineer | 47 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 31 | The New School | Research Associate Fall 2027 | 45 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 32 | JP Morgan Chase | 2027 Applied Research Associate - Summer Associate | 44 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 33 | Cartesian | Machine Learning Scientist | 44 | none found (check myvisajobs) | Nov 20 11:17 ET |
+| 34 | Dayton Freight Lines | Title Pricing Analyst | 40 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 35 | Amgen | Sr Data Scientist | 66 | 112 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 36 | Regeneron Pharmaceuticals | AI Engineer II | 66 | 42 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 37 | Jerry | Senior Associate, Business Operations & Analytics | 60 | 3 in data/analytics/finance occupations | Nov 20 12:38 ET |
+| 38 | Hinge Health | AI Engineer II | 58 | 5 in data/analytics/finance occupations | Nov 20 13:20 ET |
+| 39 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
+| 40 | McKesson | Sr Associate, Data Engineering | 55 | 38 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 41 | Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | 55 | 51 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 42 | Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS) | 55 | 28 in data/analytics/finance occupations | Nov 20 14:03 ET |
 
 ---
 
@@ -57,7 +64,22 @@ Hours: Full-Time – 35 Hours Work Location: 30-30 Thomson Avenue, LIC, NY 11101
 
 ---
 
-## 2. [MAYBE] CCC Intelligent Solutions | Financial Intelligence Analyst
+## 2. [MAYBE] Salt Lake County | Internal Job Title Opioid Settlement Funds Performance & Data Analyst
+- Link: https://careers-slco.icims.com/jobs/42899/opioid-settlement-funds-performance-%26-data-analyst/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~76 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, data visualization, excel, llm, sql, credit, data cleaning, data quality, portfolio, quantitative, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Opioid Settlement Funds Performance & Data Analyst in SALT LAKE CITY, Utah | Careers at HEALTH - ADMINISTRATION Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log back in! Opioid Settlement Funds Performance & Data Analyst Job Locations US-UT-SALT LAKE CITY Requisition ID 2026-42899 # of Openings 1 Posted Date 49 minutes ago (11/20/2026 1:21 PM) Department Health Department Location : Location US-UT-SALT LAKE CITY Location : Address 2001 S STATE ST Location : Postal Code 84190-2150 Position Type Regular Full-Time (Merit) Post End Date 11/30/2026 Grade 016 Minimum Pay $70,503.00/year Maximum Pay $88,129.00/year Job Description Salt Lake County…A career with a purpose in the community you love! Salt Lake County invites you to explore our exciting career opportunities. We seek highly enthusiastic individuals to enrich our County with your experience and talent. If you enjoy working in a team environment that is committed to changing the lives of its community, please keep reading. What it is like to work here: At Salt Lake County our culture is woven into all aspects of our work and our employees’ lives, from the way we treat each other to the way we support the community. To promote and foster a fun and healthy work environment, we appreciate employees through great benefits, a healthy work life balance and room to grow and develop. Surround yourself with: Peers who are motivated to make a difference in the lives of those we serve. We serve Salt Lake County and envision a safe and beautiful place for all to live, work and have fun. Salt Lake County is about connecting people and championing our community. Community is more than a place….its our heart and service that bring us together. We encourage a work life balance: Working for Salt Lake County is more than just a paycheck. A career with /Salt Lake County includes several benefits and perks. We support our employees with 12 Holidays, up to 24 vacation days, 12 sick days and one personal day every year. Additional Benefits include: Retirement options for hybrid pension/401(k) or 401(k) only with a 10% contribution Medical coverage including a 100% county paid premium option-Dental and Vision coverage including coverage for adult designees Health Savings account with a county contribution up to $1200/year, Flexible Spending Account 100% county-paid Long-Term Disability and Short-Term Disability option Professional Development including professional membership fees paid Tuition Reimbursement Plus: Onsite medical clinic and gym; pet insurance auto and home insurance and discounts at County facilities. For Benefits information Click HERE To estimate how much your pay and benefits could be worth use our Total Rewards Estimator Join the SLCo Health Department* as the Performance & Data Analyst responsible for leading the Salt Lake County Opioid Settlement Fund (OSF) performance management. Earlier this year, the Salt Lake County Council approved a five-year plan, which is multi-faceted and data-informed to reduce opioid misuse, overdoses and overdose deaths. The plan focuses on prevention, treatment, and the intersection of OUD and those in the criminal justice system. In this role, you will ensure that settlement resources are invested strategically and responsibly and enhance community impact. JOB SUMMARY Drives innovation, goals and metrics for performance management, collaborates with Information Technology (IT) to design and support data collection and management solutions using approved County platforms and standards. Conducts quantitative and qualitative research. Ensures all data access, handling, and reporting activities comply with County IT policies, security standards, and applicable federal and state regulations. This position serves within the Human Services executive team as a flexible, departmentwide resource, working across divisions and County departments to implement the OSF Plan. The role blends program administration, data analytics, stakeholder coordination, and contract management to support high impact, evidence-based initiatives. The Performance & Data Analyst will help analyze how the OSF projects and dollars impact the opioid epidemic and the broader community as well as develop the data metrics and visualizations that inform policy maker s , including the use of performance-based budgeting. This position will be required to work closely with the OSF Project Manager, and should have strong understanding of performance management, the ability to maintain data collection and management systems, skills to conduct quantitative and qualitative research, attention to detail, the ability to work in evolving circumstances, an understanding of public health and social services system, and the ability to communicate effectively with county leadership and a broad spectrum of stakeholders. The Salt Lake County Department of Human Services brings together seven service areas—Aging & Adult Services, Behavioral Health Services, Criminal Justice Services, the Health Department, Indigent Legal Defense, USU Extension Services, and Youth Services—to advance the well‑being, stability, and resilience of individuals, families, and communities. Operating at the intersection of public policy, direct service delivery, and community partnership, the Department addresses complex, overlapping challenges including criminal justice involvement, substance misuse, mental health, and public health. MINIMUM QUALIFICATIONS Bachelor's degree from an accredited college or university in Data Analytics, Information Science, Economics, Sociology, Business Administration, Public Administration, Public Policy, or related field plus four (4) years of related experience; OR an equivalent combination of related education and experience. Due to the nature of this position, the successful applicant must pass a required background check through fingerprinting and enrollment in the continuous RAP Back (Record of Arrest and Prosecution Back) program in accordance with current County Human Resources policy requirements. ESSENTIAL FUNCTIONS Designs, develops, and maintains data products including reports, dashboards, visualizations, presentations, and data narratives for internal management and public reporting in alignment with County data standards and approved analytics platforms. Collaborates with IT staff to design, enhance data solutions, analytical tools, and reporting infrastructure. Supports the agency in collecting, managing, analyzing, interpreting, and reporting performance and operational data to inform program and policy decisions subject to IT data access controls and governance processes. Provides training, technical assistance, and feedback to staff on the use of data tools, analytic methods, and reporting standards consistent with County-approved tools and practices. Advises [...]
+
+---
+
+## 3. [MAYBE] CCC Intelligent Solutions | Financial Intelligence Analyst
 - Link: https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Financial-Intelligence-Analyst_0014859
 - Location: Chicago (Green St), IL
 - Posted: Nov 20 (board gives the date only)
@@ -72,7 +94,7 @@ Salary range is: $78,555.51 - $80,000.00 This position is bonus and/or commissio
 
 ---
 
-## 3. [MAYBE] Hitachi | AI Data & Security Governance Engineer (MAD-BS-OR)
+## 4. [MAYBE] Hitachi | AI Data & Security Governance Engineer (MAD-BS-OR)
 - Link: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HTA-NCP-Hillsboro-OR/AI-Data---Security-Governance-Engineer--MAD-BS-OR-_R0144180
 - Location: (HTA) NCP (Hillsboro, OR)
 - Posted: Nov 20 (board gives the date only)
@@ -87,7 +109,7 @@ Location: (HTA) NCP (Hillsboro, OR) Job ID: R0144180 Date Posted: 2026-09-16 Com
 
 ---
 
-## 4. [MAYBE] Community Health Systems | Strategy Analyst
+## 5. [MAYBE] Community Health Systems | Strategy Analyst
 - Link: https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/171413
 - Location: Franklin, TN, United States US
 - Posted: Nov 20 (board gives the date only)
@@ -102,7 +124,7 @@ Job Summary The Strategy Analyst supports executive and health system leadership
 
 ---
 
-## 5. [MAYBE] Rice University | Stewardship Data Specialist
+## 6. [MAYBE] Rice University | Stewardship Data Specialist
 - Link: https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6413
 - Location: Houston, TX, United States US
 - Posted: Nov 20 (board gives the date only)
@@ -117,7 +139,7 @@ Position Summary: The Stewardship Data Specialist, reporting to the Director of 
 
 ---
 
-## 6. [MAYBE] Globus Medical | Pricing Analyst
+## 7. [MAYBE] Globus Medical | Pricing Analyst
 - Link: https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Pennsylvania---Collegeville/Pricing-Analyst_JR108386
 - Location: Pennsylvania - Collegeville
 - Posted: Nov 20 (board gives the date only)
@@ -132,7 +154,7 @@ At Globus Medical, we move with a sense of urgency to deliver innovations that i
 
 ---
 
-## 7. [MAYBE] City of New York | Junior Data Analytics & Automation Specialist
+## 8. [MAYBE] City of New York | Junior Data Analytics & Automation Specialist
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016990286
 - Location: New York City NY us
 - Posted: Nov 20 06:32 ET
@@ -147,7 +169,37 @@ Hours: Full-Time Position – 35 Hours Work Location: 30-30 Thomson Avenue, LIC,
 
 ---
 
-## 8. [MAYBE] Blackhawk Network Holdings | Title Financial Analyst I (Hybrid - Coppell, TX)
+## 9. [MAYBE] American Bureau of Shipping | Finance Analyst, Government Projects
+- Link: https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5042
+- Location: Houston, TX, United States US
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, excel, forecast, power bi, classification, kpi, portfolio, reporting | Lacks: -  | Note: broad title
+- Eligibility: CHECK | Citizenship, and possession of a valid state driver's license.
+
+### Job description
+
+The Finance Analyst, Government Projects, reporting to the Financial Performance Manager for Government Support, ensures continuous oversight of budgeting, forecasting, financial status, and resource planning for all projects and programs. Acting as a Business Partner to Program/Project Managers and key stakeholders, this role supports and challenges business needs to optimize financial performance. The Finance Analyst, Government Projects uses various tools and systems to prepare detailed financial reports and collaborates closely with colleagues to maintain financial health. Strong analytical skills and proficiency in financial software are essential for success in this role. What You Will Do Assist in the proactive development and maintenance of Business Intelligence tools to provide Project and Finance related KPIs to key company stakeholders using tools such as Excel Power Query, Power Pivot, and Power BI linked to ERP and FP&A Systems. A passion and ability to be able to solve business needs and problems with data driven solutions. Responsible for end-to-end project support from contract award to project completion to include project setup in the ERP system, input of budget baseline, customer scheduling and invoicing, monitoring execution performance, and monthly forecast updates for all revenue and costs. Responsible for communication and coordination with the project execution team and key stakeholders such as the Project Management Office. On a monthly basis and within the monthly close schedule, support monthly billing and invoicing requirements, performing analysis to ensure that contracts are within negotiated value and government guidelines, reviewing labor and expense inputs, maintaining revenue and cost plans for monthly forecasts, and preparing month-end reports. Assist in the rollup of all financial reports for the Government Portfolio. Produce high-quality related products supporting the projects. Support program/project reviews with company stakeholders. What You Will Need: Education & Experience BS in Business related field. Knowledge, Skills & Abilities Possession of a current passport with a minimum of eight (8) months remaining until the expiration date. Willingness and capability to travel, CONUS approximately 10% of the time. Accepts ownership and responsibility; sense of urgency to solve problems and meet schedules, commitment to accuracy and thoroughness. Ability to work independently, specifically in a remote environment. Communicates effectively and diplomatically with a diverse group of people through all levels of the organization. Takes direction willingly, training seriously, and applies concepts/skills to the job. Experience with planning, monitoring, and measuring performance of projects. Experience with Power BI report development. Advanced computer skills with Microsoft Excel – Competent in advanced formulas and functions. Conditionals (IF, AND, OR…) Math (SUM, AVERAGE, SUMIFS, COUNTIFS …) Lookup (VLOOKUP, HLOOKUP, XLOOKUP …) Date (EOMONTH, DATEDIF, YEAR, MONTH, DAY, NETWORKDAYS …) Conditional Formatting Pivot Tables and Charts BONUS: Dynamic Array Formulas, PowerPivot Reporting Relationships: This role will report to a senior level of management and have no direct reports. Work Environment: Possession of a current passport with a minimum of 8 months remaining until the expiration date. Willingness and capability to travel domestically approximately 10% of the time. Telecommunication is authorized for this role. Commitment to maintaining a drug-free work environment, U.S. Citizenship, and possession of a valid state driver's license.   We set out more than 160 years ago to promote the security of life and property at sea and preserve the natural environment. Today, we remain true to our mission and continue to support organizations facing a rapidly evolving seascape of challenging regulations and new technologies. Through it all, we are anchored by a vision and mission that help our clients find clarity in uncertain times. ABS is a global leader in marine and offshore classification and other innovative safety, quality, and environmental services. We’re at the forefront of supporting the global energy transition at sea, the application of remote and autonomous marine systems, cutting-edge technical solutions, and many more exciting advancements. Our commitment to safety, reliability, and efficiency is ever-present, guiding our clients to safer and more efficient operations. About Our Benefits ABS Bureau proudly offers a variety of industry-leading benefits designed to enhance the life and well-being of our employees and their families. These benefits include, but are not limited to, medical insurance (PPO and HD), dental and vision insurance, Health Savings Account (HSA), Flexible Savings Account (FSA), life insurance, accidental death and dismemberment insurance, disability leave programs, parental leave program, paid holidays, and paid vacation time. The Company provides an Employee Assistance Plan (EAP) that offers support in personal wellness, including work-life services. ABS Bureau also offers a 401K plan with a generous company match, subject to plan requirements. Equal Opportunity ABS Bureau is committed to the equal employment opportunity of its employees and prohibits discrimination against any employee or qualified applicant based on race, color, creed, religion, national origin, sex, gender identity, age, disability, marital status, sexual orientation, citizenship status or veteran status, or other non-work-related characteristics that may be protected under the law of the Federal Government or specific state employment laws. Notice ABS and Affiliated Companies (ABS) will not pay a fee to any third-party agency without a valid ABS Master Service Agreement (MSA) authorized and signed by Human Resources. Any resume, CV, application, or other forms of candidate submission provided to any employee of ABS without a valid MSA on file will be considered property of ABS, and no fee will be paid. Other This job description is not intended, and should not be construed, to be an all-inclusive list of responsibilities, skills, efforts or working conditions associated with the job of the incumbent. It is intended to be an accurate reflection of the principal job elements essential for making a fair decision regarding the pay structure of the job. #ogjs
+
+---
+
+## 10. [MAYBE] PricewaterhouseCoopers (PwC) | Finance Data, Analytics & AI - Experienced Associate
+- Link: https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/TX-Dallas/Finance-Data--Analytics---AI---Experienced-Associate_775465WD
+- Location: 39 Locations
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, data visualization, forecast, data quality, git, reporting, risk | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | PwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lotte
+
+### Job description
+
+Industry/Sector Not Applicable Specialism Finance Management Level Associate Job Description & Summary The Opportunity As a Finance Data, Analytics & AI - Experienced Associate, you will help clients turn financial data into actionable insights within our Advisory practice. In this client-facing role, you will contribute to finance technology projects that connect planning, budgeting, forecasting, and management reporting with data analytics and AI. You will support the design and implementation of applications such as OneStream, Anaplan, and Tagetik, helping clients improve financial modeling, close and consolidation processes, and visibility into performance. Through analysis and data visualization, you will help finance teams understand trends, make informed decisions, and identify ways to streamline processes. As an Associate, you will develop your technical skills while contributing reliable work across client engagements with different needs and priorities. You will take ownership of your assignments, ask questions when requirements are unclear, and use feedback to refine your approach. By listening to clients and colleagues and respecting different perspectives, you will build relationships and contribute to an inclusive team. As you explore digital and AI tools, you will assess their outputs with human judgment, apply professional standards and independence requirements, and deepen your understanding of how your work supports broader business goals. Responsibilities - Supporting client teams in configuring OneStream, Anaplan, and Tagetik applications for financial planning, budgeting, forecasting, consolidation, and management reporting - Gathering financial and operational data from multiple sources, checking data quality, and identifying patterns that inform business decisions - Building financial models that connect budget assumptions, expense trends, and operational measures to support forecasts and resource allocation - Developing dashboards with data visualization software to communicate financial results, process measures, and emerging trends to client stakeholders - Contributing to close, consolidation, and reporting workflows by connecting data across financial management applications and documenting repeatable processes - Reviewing financial statements and performance data to identify cost reduction opportunities and potential improvements to planning and reporting processes - Testing application performance and reviewing AI-assisted analysis with human judgment, documenting limitations and raising questions about unclear outputs or assumptions - Collaborating with colleagues and client contacts through active listening and constructive feedback while taking ownership of assigned tasks and developing technical skills What You Must Have - At least a Bachelor's degree - At least 1 year of experience What Sets You Apart - Preference for at least one of the following fields of study: Accounting, Analytics/Data Science, Business Administration/Management, Computer Science/Information Systems, Finance, Risk Management/Insurance - Prior professional industry or sector experience (i.e., Banking & Capital Markets, Industrials, or Consumer Packaged Goods) is preferred - Configuring OneStream, Anaplan, or Tagetik for budgeting, forecasting, or management reporting - Building financial models and analyzing financial data for planning decisions - Creating data visualizations for communicating financial trends and performance to teams - Using AI tools for financial analysis while validating outputs through human judgment - Collaborating with teammates on process improvements in financial reporting and consolidation Travel Requirements Up to 60% Job Posting End Date The salary range for this position is: $63,000 - $140,000. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. All hired individuals are eligible for an annual discretionary bonus. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits-at-a-glance As PwC
+
+---
+
+## 11. [MAYBE] Blackhawk Network Holdings | Title Financial Analyst I (Hybrid - Coppell, TX)
 - Link: https://careers-blackhawknetwork.icims.com/jobs/27400/financial-analyst-i-%28hybrid---coppell%2c-tx%29/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -162,7 +214,7 @@ Financial Analyst I (Hybrid - Coppell, TX) in Coppell, Texas | Careers at Blackh
 
 ---
 
-## 9. [MAYBE] iHeartMedia | Finance Analyst, Corporate
+## 12. [MAYBE] iHeartMedia | Finance Analyst, Corporate
 - Link: https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/New-York-NY-55th-St/Finance-Analyst--Corporate_Req39800-1
 - Location: New York, NY (55th St)
 - Posted: Nov 20 (board gives the date only)
@@ -177,7 +229,7 @@ iHeartMedia Current employees and contingent workers click here to apply and sea
 
 ---
 
-## 10. [MAYBE] TribalScale | AI Engineer - Agent Infrastructure & AI Workflow
+## 13. [MAYBE] TribalScale | AI Engineer - Agent Infrastructure & AI Workflow
 - Link: https://job-boards.greenhouse.io/tribalscale/jobs/4731215006
 - Location: Remote USA
 - Posted: Nov 20 12:11 ET
@@ -192,7 +244,7 @@ Shape the Future with TribalScale TribalScale is a digital innovation firm that 
 
 ---
 
-## 11. [MAYBE] Whataburger | Accounting Data Analyst
+## 14. [MAYBE] Whataburger | Accounting Data Analyst
 - Link: https://whataburger.wd5.myworkdayjobs.com/WAB_CAREERS/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/General-Accountant_JR10014086
 - Location: 300 Concord Plaza Dr San Antonio TX 78216-6903
 - Posted: Nov 19 (board gives the date only)
@@ -207,7 +259,7 @@ Welcome to Whataburger Careers! Our Flavor — Why Whataburger Whataburger isn�
 
 ---
 
-## 12. [MAYBE] City of New York | Data Engineer
+## 15. [MAYBE] City of New York | Data Engineer
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016990106
 - Location: New York City NY us
 - Posted: Nov 20 06:22 ET
@@ -222,7 +274,7 @@ The New York City Department of Sanitation (DSNY) keeps New York City healthy, s
 
 ---
 
-## 13. [MAYBE] City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics
+## 16. [MAYBE] City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016989754
 - Location: New York City NY us
 - Posted: Nov 20 06:22 ET
@@ -237,7 +289,7 @@ About the Agency: The Department of Housing Preservation and Development (HPD) o
 
 ---
 
-## 14. [MAYBE] Highmark Health | Associate Strategy Analyst
+## 17. [MAYBE] Highmark Health | Associate Strategy Analyst
 - Link: https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Strategy-Analyst_J291247
 - Location: 51 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -252,7 +304,7 @@ Company : enGen Job Description : JOB SUMMARY This job supports the leadership o
 
 ---
 
-## 15. [MAYBE] AES | Data Analyst, Training Operations
+## 18. [MAYBE] AES | Data Analyst, Training Operations
 - Link: https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Salt-Lake-City-UT/Data-Analyst--Training-Operations_R1065569
 - Location: 3 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -267,7 +319,7 @@ Are you ready to be part of a company that's not just talking about the future, 
 
 ---
 
-## 16. [MAYBE] Baird | Statements & Investor Reporting Analyst
+## 19. [MAYBE] Baird | Statements & Investor Reporting Analyst
 - Link: https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Statements---Investor-Reporting-Analyst_R2026953-2
 - Location: WI-Milwaukee
 - Posted: Nov 20 (board gives the date only)
@@ -282,7 +334,7 @@ About The Role: The Statements & Investor Reporting Analyst plays an important r
 
 ---
 
-## 17. [MAYBE] University of Chicago | Research Analyst
+## 20. [MAYBE] University of Chicago | Research Analyst
 - Link: https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Analyst_JR35773
 - Location: Chicago, IL
 - Posted: Nov 19 (board gives the date only)
@@ -297,7 +349,7 @@ Department BSD PSY - Lyons Lab About the Department The Department of Psychiatry
 
 ---
 
-## 18. [MAYBE] Texas A&M University - College Station | Research Assistant
+## 21. [MAYBE] Texas A&M University - College Station | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098922-1
 - Location: College Station, TX
 - Posted: Nov 20 (board gives the date only)
@@ -312,7 +364,7 @@ Job Title Research Assistant Agency Texas A&M University Department Biology Prop
 
 ---
 
-## 19. [MAYBE] Texas A&M University System | Research Assistant
+## 22. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098922
 - Location: College Station, TX
 - Posted: Nov 20 (board gives the date only)
@@ -327,7 +379,7 @@ Job Title Research Assistant Agency Texas A&M University Department Biology Prop
 
 ---
 
-## 20. [MAYBE] Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027
+## 23. [MAYBE] Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2027_25928747
 - Location: New York New York United States
 - Posted: Nov 20 (board gives the date only)
@@ -342,7 +394,7 @@ NAM Quantitative Analysis, Summer Analyst Program – New York (North America - 
 
 ---
 
-## 21. [MAYBE] Berkshire Hathaway Energy | Mgr, Data Science
+## 24. [MAYBE] Berkshire Hathaway Energy | Mgr, Data Science
 - Link: https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006112
 - Location: Des Moines, IA, United States US Reno, NV, United States Las Vegas, NV, United States
 - Posted: Nov 20 (board gives the date only)
@@ -357,7 +409,22 @@ We are seeking an experienced and strategic Manager, Data Science to lead our Da
 
 ---
 
-## 22. [MAYBE] Invesco | Business Risk Analyst
+## 25. [MAYBE] CVS Health | Software Development - Data Engineer
+- Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Software-Development---Data-Engineer_R1108425-1
+- Location: CT - Hartford
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~52 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, bigquery, data visualization, etl, gcp, power bi, tableau, healthcare, pipeline | Lacks: kafka, looker, scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time. Position Summary We are seeking a highly skilled Software Development Engineer/ Data Engineering resource to serve as the engineer for enterprise data platforms supporting AI-driven insights, customer contact center. This role requires strong knowledge of Extraction Transformation and Loading (ETL) processes, combined with strong technical leadership, data architecture ownership, and cross-team collaboration. You will partner closely with architects, product owners, and business stakeholders to deliver scalable, secure, and high-performance data solutions in a regulated healthcare environment. Work Environment and Flexibility This is a hybrid/remote position. The successful candidate must be able to commute to the primary office location in Hartford, CT with an expectancy of being in the office a minimum of three (3) days per week for team meetings, planning sessions, and operational oversight. Key Responsibilities Partner with product and business stakeholders to understand business requirements. Examine data to find significant customer insights and potential uses for the information. Build automated data pipelines to support near real-time insights for operations and executive leadership. Design, develop, and optimize scalable GCP BigQuery and Dataiku data pipelines, workflows, and analytical data models that support AI Assistant, operational analytics, and enterprise healthcare data initiatives. Implement incremental load strategies using event timestamps to efficiently process changing datasets. Required Qualifications 3+ years of professional software/data engineering experience with strong hands-on experience in dealing with Data Visualization, Business Intelligence, and Information Systems. 3+ years building and managing large-scale data pipelines (batch + streaming). 3+ years experience working in Agile/Scrum environments. 3+ years of data architecture, data modeling, and distributed systems. Preferred Qualifications 1+ year of experience working within healthcare or insurance industry. Experience working on large-scale analytics or AI-driven platforms. Experience with visualization tools such as Looker, Tableau, or Power BI. Familiarity with data governance tools and frameworks (Data Catalog, lineage, quality frameworks). Exposure to streaming technologies (Kafka, Pub/Sub). Education Bachelor’s degree or equivalent experience (HS diploma + 4 years relevant experience) Anticipated Weekly Hours 40 Time Type Full time Pay Range The typical pay range for this role is: $79,310.00 - $158,620.00 This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. Our people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong. Great benefits for great people We take pride in offering a comprehensive and competitive mix of pay and benefits that reflects our commitment to our colleagues and their families. This full‑time position is eligible for a comprehensive benefits package designed to support the physical, emotional, and financial well‑being of colleagues and their families. The benefits for this position include medical, dental, and vision coverage, paid time off, retirement savings options, wellness programs, and other resources, based on eligibility. Additional details about available benefits are provided during the application process and on Benefits Moments . We anticipate the application window for this opening will close on: 11/26/2026 Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.
+
+---
+
+## 26. [MAYBE] Invesco | Business Risk Analyst
 - Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Business-Risk-Analyst_R-16028
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -372,7 +439,7 @@ About Invesco As one of the world’s leading independent global investment firm
 
 ---
 
-## 23. [MAYBE] Goodlord | Operations & Risk Analyst
+## 27. [MAYBE] Goodlord | Operations & Risk Analyst
 - Link: https://jobs.ashbyhq.com/goodlord/65494990-bb13-45b4-b7e4-d642815132c0
 - Location: England United Kingdom remote
 - Posted: Nov 20 12:34 ET
@@ -479,7 +546,7 @@ Goodlord wants applicants from all backgrounds and walks of life;
 
 ---
 
-## 24. [MAYBE] Barclays | Business Intelligence Developer
+## 28. [MAYBE] Barclays | Business Intelligence Developer
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Business-Intelligence-Developer_JR-0000139295
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -494,7 +561,7 @@ Job Description Purpose of the role To support the bank's decision-making proces
 
 ---
 
-## 25. [MAYBE] Blue Sky Innovators | AI Engineering Advisor
+## 29. [MAYBE] Blue Sky Innovators | AI Engineering Advisor
 - Link: https://job-boards.greenhouse.io/blueskyinnovators/jobs/5490916008
 - Location: Chantilly, VA
 - Posted: Nov 20 12:33 ET
@@ -509,7 +576,7 @@ Blue Sky Innovators is seeking an AI Engineering Advisor to join our team in Cha
 
 ---
 
-## 26. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
+## 30. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
 - Link: https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Forward-Deployed-AI-Engineer_R-1102337-1
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -524,7 +591,7 @@ When you join Verizon You want more out of a career. A place to share your ideas
 
 ---
 
-## 27. [MAYBE] The New School | Research Associate Fall 2027
+## 31. [MAYBE] The New School | Research Associate Fall 2027
 - Link: https://newschool.wd1.myworkdayjobs.com/external/job/B---65-West-11th-Street/Research-Associate-Fall-2027_JR110154
 - Location: B - 65 West 11th Street
 - Posted: Nov 19 (board gives the date only)
@@ -539,7 +606,7 @@ The Research Associate will support faculty research on twentieth-century United
 
 ---
 
-## 28. [MAYBE] JP Morgan Chase | 2027 Applied Research Associate - Summer Associate
+## 32. [MAYBE] JP Morgan Chase | 2027 Applied Research Associate - Summer Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809359
 - Location: New York, NY, United States US
 - Posted: Nov 20 (board gives the date only)
@@ -554,7 +621,7 @@ Our firm is seeking a junior or senior researcher and thought leader to perform 
 
 ---
 
-## 29. [MAYBE] Cartesian | Machine Learning Scientist
+## 33. [MAYBE] Cartesian | Machine Learning Scientist
 - Link: https://job-boards.greenhouse.io/cartesiansystems/jobs/4516933009
 - Location: Cambridge, MA
 - Posted: Nov 20 11:17 ET
@@ -569,7 +636,22 @@ About the Company Cartesian &nbsp; is building spatial intelligence for indoor e
 
 ---
 
-## 30. [MAYBE] Amgen | Sr Data Scientist
+## 34. [MAYBE] Dayton Freight Lines | Title Pricing Analyst
+- Link: https://careers-daytonfreight.icims.com/jobs/18734/pricing-analyst/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, credit, publication | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Pricing Analyst in Dayton, Ohio | Careers at Corporate Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Already Registered? Log back in! Pricing Analyst Job Locations US-OH-Dayton Category Pricing Overview Pricing Analysts are responsible for determining profitability of existing accounts and proposing new pricing on accounts by analyzing a number of factors to determine cost and establish pricing necessary to attain proper contribution. Responsibilities Analyze Pricing Request- approving if profitable, denying if unprofitable Perform 90 day audits of accounts Manage/review expiring tariffs Perform Account Manager and terminal profitability reports Perform competitive rate comparisons Knowledge of Transportation contracts Respond to inquiries on quote requests, courtesy invoice reductions and tariff/contract publications brought forth by internal and external customers Determine profitability of existing accounts and proposed new pricing on accounts by Review contract verbiage for submissions that may not be to our favor and forward to Legal with any inquiry Report data on pricings approved/profiles submitted Acquire credit scores on necessary Customers Calculate costs of volume shipments to ascertain needed revenue for proper contribution on volume quotes Work closely with Account Managers, Service Center Managers, Regional Sales Directors and other Management and internal departments Understand rate structure, discount, FAK, minimum floor charges, accessorials, fuel surcharges, loading/unloading allowances, rebates, etc. and how it affects profitability Authority to formulate, affect, interpret, or implement Pricing management policies or operating practices Carries out major Pricing assignments in conducting the operations of the business Authority to negotiate and bind the company on significant Pricing matters Provide consultation or expert Pricing advice to management Track assigned Service Center performance and adjust goals for better performance Assist in covering responses sent to the Pricing group email group as needed Assist fellow Pricing team members on projects and/or backlog as needed Complete special projects issued by Management as needed Continuously improve processes Qualifications Excellent written and oral communication skills Can work in a fast paced environment Basic math skills Fluent in English Benefits Stable and growing organization Competitive weekly pay Professional, positive and people-centered work environment Fast-paced work environment Comprehensive benefits package: Health, Dental, Vision, AD&D, 401(k), etc. Paid holidays (8); paid vacation and personal days Options Click here to apply for this job Apply Email this job to a friend Refer Sorry the Share function is not working properly at this moment. Please refresh the page and try again later. Application FAQs Software Powered by ICIMS www.icims.com
+
+---
+
+## 35. [MAYBE] Amgen | Sr Data Scientist
 - Link: https://amgen.wd1.myworkdayjobs.com/careers/job/US---IL---Deerfield/Sr-Data-Scientist_R-256842
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -584,7 +666,7 @@ Career Category Sales & Marketing Operations Job Description Join Amgen’s Miss
 
 ---
 
-## 31. [MAYBE] Regeneron Pharmaceuticals | AI Engineer II
+## 36. [MAYBE] Regeneron Pharmaceuticals | AI Engineer II
 - Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/AI-Engineer-II_R53257
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -599,7 +681,7 @@ At Regeneron Enterprise Data & AI, we evaluate frontier AI and bring it to resea
 
 ---
 
-## 32. [MAYBE] Jerry | Senior Associate, Business Operations & Analytics
+## 37. [MAYBE] Jerry | Senior Associate, Business Operations & Analytics
 - Link: https://jobs.ashbyhq.com/Jerry.ai/fddfb7e5-aabc-43b8-85da-b443000fe706
 - Location: New York, New York United States Chicago, Illinois Boston, Massachusetts San Francisco Bay Area remote
 - Posted: Nov 20 12:38 ET
@@ -721,7 +803,145 @@ Jerry.ai is committed to providing
 
 ---
 
-## 33. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
+## 38. [MAYBE] Hinge Health | AI Engineer II
+- Link: https://jobs.ashbyhq.com/hinge-health/7564ec75-617b-4065-8da6-72210460a6ef
+- Location: San Francisco-HQ US remote
+- Posted: Nov 20 13:20 ET
+- Scanner fit: ~58 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 5 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, llm, machine learning, postgres, python, sql, docker, fraud, git, healthcare, kubernetes, research, risk | Lacks: airflow, java, kafka  | Note: title says Senior/II: asks 2 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+THE OPPORTUNITY
+
+Join the Proactive Communications & Notifications team as we build the systems that help Hinge Health determine what message a member receives, when they receive it, and which channel is most helpful. Our work brings together distributed backend services, data flows, and machine learning and AI capabilities to make member communication more relevant, timely, and actionable.
+
+As an AI Engineer, you’ll build and operate the backend systems that bring AI-powered product capabilities to members. You’ll partner with senior engineers, ML Scientists, Data Engineering, Product, and other software engineers to design APIs, services, workflows, and data flows that are reliable in production.
+
+This role is a strong fit for a backend-leaning software engineer who wants to apply distributed-systems skills to AI products. You’ll help integrate, deploy, and operate models and AI services within product systems; model training and research are not the primary focus. MLOps experience is valuable, but the core expectation is strong software engineering, production execution, and operational ownership.
+
+
+
+
+WHAT YOU’LL ACCOMPLISH
+
+
+
+
+IN YOUR FIRST 3 MONTHS
+
+ - Learn the Proactive Communications & Notifications domain, service architecture, operational practices, and member-impact goals.
+
+ - Ship well-scoped improvements to APIs, services, asynchronous jobs, or workflows with guidance from senior engineers.
+
+ - Build familiarity with the team’s testing, observability, deployment, and incident-response practices; participate in on-call or incident support as appropriate.
+
+
+IN YOUR FIRST 6 MONTHS
+
+ - Own a medium-sized feature from planning through implementation, testing, rollout, and follow-up with minimal support.
+
+ - Integrate an ML- or AI-backed capability into a product workflow through clear interfaces, reliable data flows, and appropriate failure handling.
+
+ - Improve the correctness and operability of distributed systems by applying patterns such as retries, idempotency, versioning, graceful degradation, dashboards, and structured logging.
+
+
+IN YOUR FIRST YEAR
+
+ - Deliver multiple production initiatives that improve the relevance, timeliness, reliability, or maintainability of member communications.
+
+ - Trace and resolve issues across APIs, services, queues, databases, model-backed components, and data dependencies, raising risks and decisions early.
+
+ - Help strengthen the team through thoughtful code reviews, design documentation, pairing, onboarding support, and contributions to engineering practices.
+
+
+WHO YOU ARE
+
+ - You are a backend-minded software engineer who enjoys building reliable systems and learning how they behave in production.
+
+ - You can take a well-scoped problem from design through launch, break work into incremental changes, and ask for direction when complexity or ambiguity increases.
+
+ - You demonstrate effective communication through clear design notes, concise status updates, thoughtful code reviews, and early escalation of risks.
+
+ - You are a learn-it-all who welcomes feedback, builds depth in your primary technologies, and develops the judgment to make sound tradeoffs.
+
+ - You practice accountability by owning the quality, reliability, and follow-through of the systems you build.
+
+ - You lead at all levels: you are hands-on in the details, contribute to a positive team culture, and help teammates succeed through collaboration and knowledge sharing.
+
+
+BASIC QUALIFICATIONS
+
+ - 2+ years of non-internship, full-time professional software engineering experience.
+
+ - Experience building and operating backend services or distributed systems in production, including APIs, asynchronous processing, event-driven systems, workflows, or data-intensive services.
+
+ - Professional experience with at least one production programming language such as Python, TypeScript/JavaScript, Go, Java, Kotlin, or a comparable language, plus experience with software testing, observability, deployment, or production support.
+
+
+PREFERRED QUALIFICATIONS
+
+ - Experience integrating ML- or AI-backed services into production products.
+
+ - Experience with AWS or another cloud platform and technologies such as Docker, Kafka, PostgreSQL, or equivalent systems.
+
+ - Experience with asynchronous processing, workflow orchestration, event-driven systems, or long-running state.
+
+ - Familiarity with CI/CD, service monitoring, model deployment, inference, or model versioning.
+
+ - Experience with Temporal, Step Functions, Kubernetes, Airflow, or comparable systems.
+
+ - Experience with generative AI, LLMs, retrieval, agents, or evaluation systems.
+
+ - Experience working in healthcare, digital health, fintech, or another regulated or data-sensitive domain.
+
+
+HINGE HEALTH HYBRID MODEL
+
+This is a hybrid role based in the San Francisco office, requiring in-person attendance three days per week for a full 8-hour business day. On remote days, employees are expected to work during core business hours with flexibility. The office is part of a dog-friendly workplace program.
+
+
+
+
+ABOUT HINGE HEALTH
+
+At Hinge Health, we’re using technology to scale and automate the delivery of healthcare – starting with musculoskeletal (MSK) conditions, which affect over 1.7 billion people worldwide.
+
+With an AI-powered human-centered care model, Hinge Health leverages cutting-edge technology to improve outcomes, experiences and costs to help people move beyond their pain.
+
+The platform addresses a broad spectrum of MSK care – from acute injury, to chronic pain, to post-surgical rehabilitation – through personalized, evidence-based care.
+
+As the preferred partner to 60+ health plans, PBMs and other ecosystem partners, Hinge Health is available to over 20 million people across more than 2,800 employers.
+
+The company is headquartered in San Francisco with additional offices in Montreal and Bangalore.
+
+Learn more at  http://www.hingehealth.comhingehealth.com http://hingehealth.com.
+
+
+
+
+WHAT YOU’LL LOVE ABOUT US
+
+ - Inclusive healthcare and benefits: On top of comprehensive medical, dental, and vision coverage, we offer employees and their family members help with gender-affirming care, tools for family and fertility planning, and travel reimbursements if healthcare isn’t available where you live.
+
+ - Planning for the future: Start saving for the future with our traditional or Roth 401k retirement plan options, which include a 2% company match.
+
+ - Modern life stipends: Manage your own learning and development.
+
+ - Grow with us: Grow with us through discounted company stock through our ESPP with easy payroll deductions.
+
+
+
+
+CULTURE & ENGAGEMENT
+
+Hinge Health
+
+---
+
+## 39. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
 - Link: https://www.google.com/about/careers/applications/jobs/results/98133257790333638
 - Location: Mountain View, CA, USA ; New York, NY, USA
 - Posted: Nov 20 03:06 ET
@@ -736,7 +956,7 @@ Our mission is to bring new users to vertical and international experiences and 
 
 ---
 
-## 34. [MAYBE] McKesson | Sr Associate, Data Engineering
+## 40. [MAYBE] McKesson | Sr Associate, Data Engineering
 - Link: https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Sr-Associate--Data-Engineering_JR0157360
 - Location: Cork
 - Posted: Nov 19 (board gives the date only)
@@ -751,7 +971,7 @@ McKesson is an impact-driven, Fortune 10 company that touches virtually every as
 
 ---
 
-## 35. [MAYBE] Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing)
+## 41. [MAYBE] Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing)
 - Link: https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Applied-Data-Scientist---1-1-Personalization--Audience-and-Experimentation--applied-ML--PyToch--A-B-testing-_R0000454434
 - Location: 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445
 - Posted: Nov 19 (board gives the date only)
@@ -763,4 +983,19 @@ McKesson is an impact-driven, Fortune 10 company that touches virtually every as
 ### Job description
 
 The pay range is $98,000.00 - $176,000.00 Pay is based on several factors which vary based on position. These include labor markets and in some instances may include education, work experience and certifications. In addition to your pay, Target cares about and invests in you as a team member, so that you can take care of yourself and your family. Target offers eligible team members and their dependents comprehensive health benefits and programs, which may include medical, vision, dental, life insurance and more, to help you and your family take care of your whole selves. Other benefits for eligible team members include 401(k), employee discount, short term disability, long term disability, paid sick leave, paid national holidays, and paid vacation. Find competitive benefits from financial and education to well-being and beyond at https://corporate.target.com/careers/benefits . JOIN TARGET AS A SR DATA SCIENTIST – 1:1 PERSONALIZATION, AUDIENCE and EXPERIMENTATION About Us: Working at Target means helping all families discover the joy of everyday life. We bring that vision to life through our values and culture. Learn more about Target here . A role with Target Data Sciences means the chance to help develop and manage state of the art predictive algorithms that use data at scale to automate and optimize decisions at scale. Whether you join our Applied Data Sciences or Machine Learning teams, you’ll be challenged to harness Target’s impressive data breadth to build the algorithms that power solutions our partners in Digital Marketing, Supply Chain Optimization, Advanced AI, Search and Personalization rely on. Every Scientist on Target’s Data Sciences team can expect modeling and data science, software/product development of highly performant code for model performance at scale. As a Sr Data Scientist you will support the development of machine learning models that power one-to-one personalization at scale. In this role, you will design, build, and deploy advanced models that deliver highly relevant, individualized experiences across marketing and digital channels. You will collaborate with cross-functional partners in product, engineering, marketing, and analytics to define strategy, lead experimentation, and ensure that personalization drives measurable impact for our guests and business. Responsibilities: Model Development: Design, build, and optimize ML models for one-to-one personalization, including recommendation systems, ranking models, customer propensity models, and reinforcement learning approaches Experimentation & Measurement: Develop testing frameworks (A/B, multi-armed bandits, causal inference) to rigorously measure the impact of personalization initiatives within marketing optimization Collaboration: Partner closely with product managers, engineers, and business stakeholders to translate business problems into data science solutions Scalability & Deployment: Ensure models are production-ready, scalable, and integrated into digital platforms with high reliability and performance Innovation: Stay current on advances in ML/AI (deep learning, embeddings, transformers, large language models, reinforcement learning) and evaluate their application for personalization use cases Core responsibilities of this job are articulated within this job description. Job duties may change at any time due to business needs. About you: 4-year degree in quantitative disciplines (Science, Technology, Engineering, Mathematics, Statistics) or equivalent industry experience 3+ years of applied data sciences experience, end to end with digital marketing and measurement teams Experience with statistical tools of A/B testing both at the customer level as well as matched–market testing Strong hands-on experience in personalization/recommendations, applied ML, NLP, and deep learning Experience with real-time systems, online learning, and recommendation algorithms at scale Demonstrated proficiency in Python, SQL, and modern ML libraries such as TensorFlow, PyTorch, Scikit-learn Experience with large-scale data platforms – GCP Vertex AI, Spark, Databricks, Snowflake, etc. Proven track record of building and deploying applied ML models in production environments Extensive problem-solving skills: develop creative and innovative solution to help solve real-world business problems using data sciences approaches Motivated, team player with ability to collaborate effectively across global team Excellent communication skills with the ability to clearly tell data driven stories through appropriate visualizations, graphs, and narratives This position will operate as a Hybrid/Flex for Your Day work arrangement based on Target’s needs. A Hybrid/Flex for Your Day work arrangement means the team member’s core role will need to be performed both onsite at the Target HQ MN location the role is assigned to and virtually, depending upon what your role, team and tasks require for that day. Work duties cannot be performed outside of the country of the primary work location, unless otherwise prescribed by Target. Click here if you are curious to learn more about Minnesota. Benefits Eligibility Please paste this url into your preferred browser to learn about benefits eligibility for this role: https://tgt.biz/BenefitsForYou_D Americans with Disabilities Act (ADA) In compliance with state and federal laws, Target will make
+
+---
+
+## 42. [MAYBE] Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS)
+- Link: https://job-boards.greenhouse.io/natera/jobs/6189378004
+- Location: US Remote
+- Posted: Nov 20 14:03 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 28 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, hypothesis test, python, regression, sql, statistic, time series, fraud, git, healthcare, research | Lacks: scala, snowflake  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Important: this position will work on the Weekend Shift team, with the following rotation schedules: Tuesday-to-Saturday (including Tue, Wed, Thur, Fri, and Sat), 9AM-to-5PM. Sunday-to-Thursday (including Sun, Mon, Tue, Wed, and Thur), 9AM-to-5PM. This position will rotate through the above work schedules quarterly, i.e., work in one rotation schedule for 3 calendar months, and then move to the other rotation schedule for another 3 calendar months. This is an exciting opportunity in our Data Science Production Engineering (DSPE) department at Natera (a global leader in precision medicine and genomics testing), to provide critical data analytics support for our lab production operations.&nbsp; As a Senior Data Analyst for Lab Production Support in our DSPE Extended-Hours Support (ExHS) team, you will work in the Weekend Shift team (following the above two rotation schedules).&nbsp; You will have the opportunity to apply innovative data analytics solutions, directly support the most cutting-edge medical diagnostics and genomics applications, and make real &amp; immediate impact to patients and healthcare providers, by providing timely &amp; accurate data analysis support to Natera's production laboratories, as well as for other key business needs.&nbsp; PRIMARY RESPONSIBILITIES: Technical Execution and Infrastructure Deliver timely data support to Lab Operations teams, unblock production issues, and improve patient results turnaround times. Apply statistical techniques to analyze complex datasets, diagnose operational issues, and support data-driven decision-making. Perform exploratory data analysis, identify trends, and work with stakeholders to interpret findings and drive continuous improvement. Design and implement automated solutions for recurring data analysis and production support workflows, improving operational efficiency and scalability. Extract, transform, and analyze data to generate actionable insights that support lab production operations and business decisions. Document analytical processes, best practices, and insights to ensure consistency and knowledge transfer across teams. Process Improvement Develop and optimize solutions for efficient data retrieval and scalable performance on large and/or complex datasets. Learn and acquire operational efficiencies on new technologies and solutions developed by other DSPE teams. Train and coach junior team members on new technologies, procedures, and guidelines/best practices. Cross-Functional Collaboration Collaborate with Lab Operations and Product teams to identify process issues, assist with root cause analysis, and provide product support. Represent the Data Science Production Engineering (DSPE) team in stakeholder meetings. Effectively and correctly escalate encountered issues to other DSPE teams. QUALIFICATIONS: Masters degree in Statistics, Mathematics, Computer Science, Bioinformatics, Operational Research, or other related fields.&nbsp; Minimum 3 years of relevant industry experience. Minimum 3 years of experience working in a highly regulated environment (e.g., CLIA and/or FDA compliant settings). Minimum 3 years of hands-on experience in data analysis, extraction, querying in production support roles. KNOWLEDGE, SKILLS, AND ABILITIES: Working knowledge of the business processes and requirements of diagnostic laboratories.&nbsp; Knowledge of molecular biology, genetics, genomics, and/or bioinformatics is a plus.&nbsp; Proficient in data analysis and statistical techniques. Proficient in Python and SQL development. Working knowledge of Snowflake platform and cloud technologies. Strong understanding of statistical concepts such as hypothesis testing, central limit theorem, time series analysis, anomaly detection, and regression modeling. Good documentation practices and coding style. Strong verbal and written communication skills, with the ability to present technical findings to both technical and non-technical audiences. Experience using version control systems such as GitHub or GitLab for managing code and collaboration. Ability to work collaboratively in a cross-functional team environment. Strong interpersonal skills. Strong integrity. The pay range is listed and actual compensation packages are based on a wide array of factors unique to each candidate, including but not limited to skill set, years &amp; depth of experience, certifications and specific office location. This may differ in other locations due to cost of labor considerations. Remote USA $113,600 &mdash; $142,000 USD OUR OPPORTUNITY Natera™ is a global leader in cell-free DNA (cfDNA) testing, dedicated to oncology, women’s health, and organ health. Our aim is to make personalized genetic testing and diagnostics part of the standard of care to protect health and enable earlier and more targeted interventions that lead to longer, healthier lives. The Natera team consists of highly dedicated statisticians, geneticists, doctors, laboratory scientists, business professionals, software engineers and many other professionals from world-class institutions, who care deeply for our work and each other. When you join Natera, you’ll work hard and grow quickly. Working alongside the elite of the industry, you’ll be stretched and challenged, and take pride in being part of a company that is changing the landscape of genetic disease management. WHAT WE OFFER Competitive Benefits - Employee benefits include comprehensive medical, dental, vision, life and disability plans for eligible employees and their dependents. Additionally, Natera employees and their immediate families receive free testing in addition to fertility care benefits. Other benefits include pregnancy and baby bonding leave, 401k benefits, commuter benefits and much more. We also offer a generous employee referral program! For more information, visit www.natera.com . Natera is proud to be an
 
