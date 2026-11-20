@@ -58,17 +58,19 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 52 | RADAR | Data Engineer | 41 | none found (check myvisajobs) | Nov 20 15:40 ET |
 | 53 | Dayton Freight Lines | Title Pricing Analyst | 40 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
 | 54 | ISS | Institutional Shareholder Services | Custom Research Analyst- Corporate Governance (Temporary) | 40 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 55 | LPL Financial Holdings | Senior Full Stack AI/ML Engineer | 71 | 7 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 56 | Amgen | Sr Data Scientist | 66 | 112 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 57 | Regeneron Pharmaceuticals | AI Engineer II | 66 | 42 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 58 | Jerry | Senior Associate, Business Operations & Analytics | 60 | 3 in data/analytics/finance occupations | Nov 20 12:38 ET |
-| 59 | Hinge Health | AI Engineer II | 58 | 5 in data/analytics/finance occupations | Nov 20 13:20 ET |
-| 60 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
-| 61 | McKesson | Sr Associate, Data Engineering | 55 | 38 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 62 | Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | 55 | 51 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 63 | Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS) | 55 | 28 in data/analytics/finance occupations | Nov 20 14:03 ET |
-| 64 | DaVita | Customer Experience Reporting and Analytics Senior Developer | 55 | 9 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 65 | Paypal Inc. | Sr. Machine Learning Engineer | 55 | 188 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 55 | Dallas College | Senior HR Data Analyst | 78 | cap-exempt employer | Nov 20 (board gives the date only) |
+| 56 | LPL Financial Holdings | Senior Full Stack AI/ML Engineer | 71 | 7 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 57 | Amgen | Sr Data Scientist | 66 | 112 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 58 | Regeneron Pharmaceuticals | AI Engineer II | 66 | 42 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 59 | Jerry | Senior Associate, Business Operations & Analytics | 60 | 3 in data/analytics/finance occupations | Nov 20 12:38 ET |
+| 60 | Hinge Health | AI Engineer II | 58 | 5 in data/analytics/finance occupations | Nov 20 13:20 ET |
+| 61 | JP Morgan Chase | Trust & Safety - Fraud Strategy Analyst- Senior  Associate | 57 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 62 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
+| 63 | McKesson | Sr Associate, Data Engineering | 55 | 38 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 64 | Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | 55 | 51 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 65 | Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS) | 55 | 28 in data/analytics/finance occupations | Nov 20 14:03 ET |
+| 66 | DaVita | Customer Experience Reporting and Analytics Senior Developer | 55 | 9 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 67 | Paypal Inc. | Sr. Machine Learning Engineer | 55 | 188 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
 
 ---
 
@@ -1046,7 +1048,22 @@ ISS Stoxx is hiring! Advance your career with the leading provider of corporate 
 
 ---
 
-## 55. [MAYBE] LPL Financial Holdings | Senior Full Stack AI/ML Engineer
+## 55. [MAYBE] Dallas College | Senior HR Data Analyst
+- Link: https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/Richland-Campus/Senior-HR-Data-Analyst_R14785
+- Location: Richland Campus
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~78 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, excel, power bi, regression, sql, statistic, tableau, data quality, kpi, reporting, risk, validation | Lacks: -  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Applications must be submitted no later than 11:59 p.m. CT on the day before the listed closing date. Weekly Work Hours 40 Compensation Range Staff Range N09 Salary Minimum $100,636.00 Annually FLSA United States of America (Exempt) Work Location All positions are considered on-site roles. After six months of employment, some positions may be eligible to apply for a hybrid work arrangement based on job responsibilities, operational needs, supervisor approval, and Dallas College policy. Academic (Faculty) positions require an on-campus presence, even when teaching online courses, in accordance with state law. Position Type Staff Position / Job Summary The Senior, HR Data Analyst supports the mission and strategic goals of Dallas College by transforming workforce data into accurate, actionable insights for leaders across Human Resources and the College. This role leads complex reporting and analytics, develops and governs Workday HCM modules, reports and dashboards, and strengthens data quality, security, and compliance. The position partners with HR, Finance, Information Technology, and departmental leaders to inform workforce planning, improve employee programs, and advance the College's commitment to transforming lives and communities through higher education. Essential Duties & Responsibilities Lead the design, development, testing, documentation, and maintenance of complex Workday HCM reports, dashboards, calculated fields, and data extracts that support operational and strategic workforce decisions. Analyze workforce trends and drivers across headcount, staffing, turnover, retention, vacancies, compensation, employee movement, time and absence, and other HR measures; translate findings into clear recommendations for leaders. Build and maintain executive-ready dashboards, scorecards, and recurring reports with consistent metric definitions, effective visualizations, and concise narratives tailored to the audience. Establish and execute data-validation and reconciliation controls; investigate discrepancies across Workday and connected systems and coordinate resolution with HR functional owners, Finance, Information Technology, and other partners. Partner with HR leaders and stakeholders to define business questions, reporting requirements, acceptance criteria, and delivery priorities; manage complex analytics requests from intake through deployment and ongoing support. Apply role-based access, privacy, records-retention, and data-governance requirements to HR reporting; handle sensitive employee information with discretion and support audit and compliance requests. Develop reporting standards, data dictionaries, process documentation, and user guidance; coach analysts and report consumers on self-service reporting, metric interpretation, and responsible use of workforce data. Evaluate reporting processes and system capabilities, recommend improvements, and support Workday releases, regression testing, and HR technology initiatives that increase accuracy, efficiency, and usability. Required Dallas College Professional Development Hours per Academic Year. All employees are required to complete a minimum of 19 hours. People leaders are required an additional 16 hours of leadership development. Perform other duties not listed as assigned. Minimum and Preferred - Education, Experience, and/or Certifications Bachelor's degree in computer information systems, human resources, business analytics, data analytics, information systems, statistics, business administration, or a closely related field. Three (3) years of HRIS Analyst experience and three (3) to five (5) years of Workday experience, including complex report development, calculated fields, dashboards, data extracts, data validation, and security-aware handling of employee data. Significant experience with Workday HCM reporting and security, including support for HR business processes, complex HR databases, system enhancements, interfaces, testing, and troubleshooting. Experience with Microsoft Excel and Power BI, Tableau, or comparable tools, including advanced formulas, pivot tables, data modeling, data transformation, and dashboard development. Experience working with underserved and marginalized communities and demonstrated ability to work effectively with employees, stakeholders, diverse communities, and cross-functional teams. Other Preferred Qualifications for Role (not mandatory, but advantageous) Master's degree in human resources, analytics, information systems, statistics, business administration, or a closely related field. Experience supporting Workday HCM in a higher education, public sector, or similarly complex multi-entity environment. Experience with Workday Prism Analytics, Discovery Boards, Worksheets, People Analytics, integrations, data extracts, data conversions, and third-party interfaces. Working knowledge of SQL, relational databases, and statistical methods applied to workforce questions. Workday Reporting Pro, Workday HCM Core, Workday Prism, or other relevant Workday Pro certification. *** Will be subject to a criminal background check. Some positions may be subject to a fingerprint check. *** Knowledge, Skills, and Abilities Advanced knowledge of HR data structures, workforce metrics, HR business processes, reporting methodologies, data governance, data architecture, and quality-assurance practices. Advanced skills across Workday HCM reporting and security concepts, including business objects, data sources, calculated fields, prompts, filters, matrix and composite reports, dashboards, scheduled outputs, business processes, and role-based access. Ability to perform system audits, reconcile data across platforms, monitor security settings, troubleshoot HRIS issues, and recommend corrective solutions that support compliance and data integrity. Ability to analyze large and complex data sets, aggregate data from multiple HRIS tools, identify trends, anomalies, risks, and interdependencies, test assumptions, and communicate defensible conclusions. Ability to translate ambiguous business needs into technical and analytical requirements through requirements gathering, process mapping, gap analysis, solution design, acceptance criteria, and delivery planning. Strong proficiency with Microsoft Excel, Power BI, Tableau, SQL, and relational databases, with the ability to develop accessible, decision-focused reports, dashboards, KPIs, and data visualizations. Knowledge of system interfaces, data mapping, data conversions, user acceptance testing, regression testing, SDLC, DevOps, Agile methods, and Workday release and enhancement practices. Knowledge of employee-data privacy, ethical analytics, access controls, records retention, applicable institutional policies, and legal and compliance requirements. Strong relationship-management, customer-service, consultation, negotiation, written, verbal, and presentation skills, with the ability to engage senior leaders, cross-functional SMEs, vendors, and no [...]
+
+---
+
+## 56. [MAYBE] LPL Financial Holdings | Senior Full Stack AI/ML Engineer
 - Link: https://lplfinancial.wd1.myworkdayjobs.com/External/job/Austin-TX/Senior-Full-Stack-AI-ML-Engineer_R-054715-1
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -1061,7 +1078,7 @@ Where Ambition Meets Innovation Build a career that matches all your initiative 
 
 ---
 
-## 56. [MAYBE] Amgen | Sr Data Scientist
+## 57. [MAYBE] Amgen | Sr Data Scientist
 - Link: https://amgen.wd1.myworkdayjobs.com/careers/job/US---IL---Deerfield/Sr-Data-Scientist_R-256842
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -1076,7 +1093,7 @@ Career Category Sales & Marketing Operations Job Description Join Amgen’s Miss
 
 ---
 
-## 57. [MAYBE] Regeneron Pharmaceuticals | AI Engineer II
+## 58. [MAYBE] Regeneron Pharmaceuticals | AI Engineer II
 - Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/AI-Engineer-II_R53257
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -1091,7 +1108,7 @@ At Regeneron Enterprise Data & AI, we evaluate frontier AI and bring it to resea
 
 ---
 
-## 58. [MAYBE] Jerry | Senior Associate, Business Operations & Analytics
+## 59. [MAYBE] Jerry | Senior Associate, Business Operations & Analytics
 - Link: https://jobs.ashbyhq.com/Jerry.ai/fddfb7e5-aabc-43b8-85da-b443000fe706
 - Location: New York, New York United States Chicago, Illinois Boston, Massachusetts San Francisco Bay Area remote
 - Posted: Nov 20 12:38 ET
@@ -1213,7 +1230,7 @@ Jerry.ai is committed to providing
 
 ---
 
-## 59. [MAYBE] Hinge Health | AI Engineer II
+## 60. [MAYBE] Hinge Health | AI Engineer II
 - Link: https://jobs.ashbyhq.com/hinge-health/7564ec75-617b-4065-8da6-72210460a6ef
 - Location: San Francisco-HQ US remote
 - Posted: Nov 20 13:20 ET
@@ -1351,7 +1368,22 @@ Hinge Health
 
 ---
 
-## 60. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
+## 61. [MAYBE] JP Morgan Chase | Trust & Safety - Fraud Strategy Analyst- Senior  Associate
+- Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811164
+- Location: Palo Alto, CA, United States US Chicago, IL, United States Plano, TX, United States
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: econometric, excel, sql, statistic, fraud, portfolio, quantitative, risk | Lacks: sas  | Note: title says Senior/II: asks 2 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The Trust & Safety (T&S) Fraud Risk Management organization protects Merchant Services (MS) from fraud and compliance-related losses by providing detection tooling and operating strategy. The Fraud Strategy team serves as the end-to-end operating partner for the MS business: managing fraud rules and loss prevention with business growth, and owning the full fraud lifecycle — onboarding strategy, monitoring, loss analysis, controls, and product launch governance — while embedding fraud considerations early in product design and execution. As a Trust & Safety -Fraud Strategy Analyst-Senior Associate within the Fraud Strategy team, you will play a critical role in identifying and mitigating fraud risks, leveraging your analytical expertise to promote impactful strategies and deliver end-to-end solutions . Job Responsibilities Develop and maintain analytics to provide management with comprehensive insight into emerging fraud trends and account quality. Analyze key performance metrics and profitability drivers to deliver insights across the full account lifecycle. Gain a deep understanding of operational processes (e.g., manual underwriting, portfolio management, collections) to inform performance drivers. Conduct ad hoc analytics and participate in strategic projects representing the Embedded Finance and Solution organization. Collaborate with cross-functional teams to support solution development and implementation. Present findings and recommendations to stakeholders to inform business decisions. Required Qualifications, Capabilities, and Skills Bachelor’s degree in finance, economics, or a quantitative field. Minimum 2 years of quantitative experience required in strategy, analytics, or related areas. Background in statistics, econometrics, or other quantitative disciplines. Advanced proficiency in SAS, SQL, and spreadsheet tools. Ability to query large datasets and transform raw data into actionable management information. Familiarity with analytic techniques relevant to embedded finance and solutions. Strong analytical and problem-solving abilities. Excellent written and oral communication skills. Experience delivering recommendations to management. Preferred Qualifications, Capabilities, and Skills Master’s degree in a quantitative field or e xperience in Risk Management, Fraud Strategy, or analytics within financial services preferred. “This position is subject to Section 19 of the Federal Deposit Insurance Act. As such, an employment offer for this position is contingent on JPMorganChase’s review of criminal conviction history, including pretrial diversions or program entries.”   JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
+
+---
+
+## 62. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
 - Link: https://www.google.com/about/careers/applications/jobs/results/98133257790333638
 - Location: Mountain View, CA, USA ; New York, NY, USA
 - Posted: Nov 20 03:06 ET
@@ -1366,7 +1398,7 @@ Our mission is to bring new users to vertical and international experiences and 
 
 ---
 
-## 61. [MAYBE] McKesson | Sr Associate, Data Engineering
+## 63. [MAYBE] McKesson | Sr Associate, Data Engineering
 - Link: https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Sr-Associate--Data-Engineering_JR0157360
 - Location: Cork
 - Posted: Nov 19 (board gives the date only)
@@ -1381,7 +1413,7 @@ McKesson is an impact-driven, Fortune 10 company that touches virtually every as
 
 ---
 
-## 62. [MAYBE] Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing)
+## 64. [MAYBE] Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing)
 - Link: https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Applied-Data-Scientist---1-1-Personalization--Audience-and-Experimentation--applied-ML--PyToch--A-B-testing-_R0000454434
 - Location: 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445
 - Posted: Nov 19 (board gives the date only)
@@ -1396,7 +1428,7 @@ The pay range is $98,000.00 - $176,000.00 Pay is based on several factors which 
 
 ---
 
-## 63. [MAYBE] Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS)
+## 65. [MAYBE] Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS)
 - Link: https://job-boards.greenhouse.io/natera/jobs/6189378004
 - Location: US Remote
 - Posted: Nov 20 14:03 ET
@@ -1411,7 +1443,7 @@ Important: this position will work on the Weekend Shift team, with the following
 
 ---
 
-## 64. [MAYBE] DaVita | Customer Experience Reporting and Analytics Senior Developer
+## 66. [MAYBE] DaVita | Customer Experience Reporting and Analytics Senior Developer
 - Link: https://davita.wd1.myworkdayjobs.com/DKC_External/job/01699---IT-Malvern-Remote/Customer-Experience-Reporting-and-Analytics-Senior-Developer_R0487026
 - Location: 01699 - IT Malvern-Remote
 - Posted: Nov 20 (board gives the date only)
@@ -1426,7 +1458,7 @@ Posting Date 11/20/2026&#xa;1300 Morris DrSte 100, Chesterbrook, Pennsylvania, 1
 
 ---
 
-## 65. [MAYBE] Paypal Inc. | Sr. Machine Learning Engineer
+## 67. [MAYBE] Paypal Inc. | Sr. Machine Learning Engineer
 - Link: https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0139039-1
 - Location: San Jose, California, United States of America
 - Posted: Nov 20 (board gives the date only)
