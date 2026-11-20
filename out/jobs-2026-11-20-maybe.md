@@ -13,23 +13,29 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 7 | City of New York | Junior Data Analytics & Automation Specialist | 67 | none found (check myvisajobs) | Nov 20 06:32 ET |
 | 8 | Blackhawk Network Holdings | Title Financial Analyst I (Hybrid - Coppell, TX) | 65 | 3 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
 | 9 | iHeartMedia | Finance Analyst, Corporate | 65 | 5 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 10 | Whataburger | Accounting Data Analyst | 59 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 11 | City of New York | Data Engineer | 58 | none found (check myvisajobs) | Nov 20 06:22 ET |
-| 12 | City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics | 57 | none found (check myvisajobs) | Nov 20 06:22 ET |
-| 13 | Highmark Health | Associate Strategy Analyst | 57 | 11 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 14 | University of Chicago | Research Analyst | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 15 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 16 | Invesco | Business Risk Analyst | 50 | 28 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 17 | Barclays | Business Intelligence Developer | 48 | 142 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 18 | Verizon Communications | Forward Deployed AI Engineer | 47 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 19 | The New School | Research Associate Fall 2027 | 45 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 20 | JP Morgan Chase | 2027 Applied Research Associate - Summer Associate | 44 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 21 | Cartesian | Machine Learning Scientist | 44 | none found (check myvisajobs) | Nov 20 11:17 ET |
-| 22 | Amgen | Sr Data Scientist | 66 | 112 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 23 | Regeneron Pharmaceuticals | AI Engineer II | 66 | 42 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 24 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
-| 25 | McKesson | Sr Associate, Data Engineering | 55 | 38 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 26 | Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | 55 | 51 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 10 | TribalScale | AI Engineer - Agent Infrastructure & AI Workflow | 65 | none found (check myvisajobs) | Nov 20 12:11 ET |
+| 11 | Whataburger | Accounting Data Analyst | 59 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 12 | City of New York | Data Engineer | 58 | none found (check myvisajobs) | Nov 20 06:22 ET |
+| 13 | City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics | 57 | none found (check myvisajobs) | Nov 20 06:22 ET |
+| 14 | Highmark Health | Associate Strategy Analyst | 57 | 11 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 15 | AES | Data Analyst, Training Operations | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 16 | Baird | Statements & Investor Reporting Analyst | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 17 | University of Chicago | Research Analyst | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 18 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 19 | Invesco | Business Risk Analyst | 50 | 28 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 20 | Goodlord | Operations & Risk Analyst | 50 | none found (check myvisajobs) | Nov 20 12:34 ET |
+| 21 | Barclays | Business Intelligence Developer | 48 | 142 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 22 | Blue Sky Innovators | AI Engineering Advisor | 48 | none found (check myvisajobs) | Nov 20 12:33 ET |
+| 23 | Verizon Communications | Forward Deployed AI Engineer | 47 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 24 | The New School | Research Associate Fall 2027 | 45 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 25 | JP Morgan Chase | 2027 Applied Research Associate - Summer Associate | 44 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 26 | Cartesian | Machine Learning Scientist | 44 | none found (check myvisajobs) | Nov 20 11:17 ET |
+| 27 | Amgen | Sr Data Scientist | 66 | 112 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 28 | Regeneron Pharmaceuticals | AI Engineer II | 66 | 42 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 29 | Jerry | Senior Associate, Business Operations & Analytics | 60 | 3 in data/analytics/finance occupations | Nov 20 12:38 ET |
+| 30 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
+| 31 | McKesson | Sr Associate, Data Engineering | 55 | 38 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 32 | Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | 55 | 51 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
 
 ---
 
@@ -168,7 +174,22 @@ iHeartMedia Current employees and contingent workers click here to apply and sea
 
 ---
 
-## 10. [MAYBE] Whataburger | Accounting Data Analyst
+## 10. [MAYBE] TribalScale | AI Engineer - Agent Infrastructure & AI Workflow
+- Link: https://job-boards.greenhouse.io/tribalscale/jobs/4731215006
+- Location: Remote USA
+- Posted: Nov 20 12:11 ET
+- Scanner fit: ~65 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, excel, llm, regression, ai agent, git, kubernetes, lambda, llm evaluation, pipeline, risk | Lacks: scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Shape the Future with TribalScale TribalScale is a digital innovation firm that helps organizations adapt and thrive in a rapidly changing world. We partner with clients to build transformative digital products, modernize technology platforms, and apply emerging technologies—including artificial intelligence—to meaningful business challenges. Our teams work closely with clients from strategy through execution. We value curiosity, ownership, practical innovation, and people who are comfortable turning ambiguity into action. Our Digital Expertise Transformation Experts: We transform traditional business models into agile, AI-powered ecosystems. Strategic Visionaries: We navigate the uncharted waters of technological evolution. Product Virtuosos: We orchestrate the creation of world-class digital solutions. Code Optimizers: We leverage AI to refine and perfect digital systems. Our Technological Toolkit Mobile &amp; Web Development: (iOS, Android, React Native, React, Node.js) Voice-Activated Platforms: (Amazon Alexa, Google Home) Connected Ecosystems: (Cars and Homes) Streaming Platforms: (Roku, Fire TV, Android TV, tvOS) The TribalScale Professional You thrive in challenging environments where innovation is key. Your passion for technology is matched only by your drive to redefine its limits. You seek more than a job; you seek a calling—a chance to make a lasting impact on the digital landscape. The Opportunity We are looking for a talented and driven developer to join a client of TribalScale's team and build the shared, cloud native agent infrastructure on AWS that our AI-assisted modeling pipeline and our internal AI-enabled development workflow run on. A client of TribalScale, builds virtual Arm devices: phones, IoT boards and automotive controllers that run real, unmodified firmware on a client of TribalScale’s CHARM hypervisor. Atlas is our product for virtual IoT, automotive and embedded hardware. Today each new device model takes a team of modeling engineers weeks of reading reference manuals and hand-writing peripheral models. We are building an AI-assisted modeling pipeline that collects vendor documentation, extracts per-peripheral specifications, generates register and system definitions, synthesizes behavioral C code, and validates the result by booting vendor firmware. We use it on our own bring-ups first, then hand it to Atlas partners so they can build and validate their own models. This role sits on our AI &amp; SDLC Platform team, which supplies agent infrastructure and AI platform support to the delivery teams. Model Delivery owns the modeling backlog and its outcomes. You own the substrate that pipeline runs on: job orchestration, multi-model inference, evaluation hooks, observability and secure deployment. Your work takes the pipeline from an engineer-run prototype to a reliable, measured service. You apply the same infrastructure to replace parts of our internal software development process with AI-enabled workflows. &nbsp; What You’ll Do Design and implement orchestration for long-running agent pipelines on AWS: job orchestration, artifact and manifest generation, checkpointing, retries, and prompt and model versioning. Run multi-model inference across Amazon Bedrock and self-hosted models, with routing, an independent judge model, semantic caching and token-cost and latency controls.&nbsp; Provide shared evaluation and tracing hooks so Model Delivery can measure each pipeline stage and compare models, prompts and pipeline versions.&nbsp; Build and operate the internal AI gateway, agent runtime and tool integrations that engineers use in the AI enabled SDLC: code review, ticket-to-merge-request workflows and knowledge retrieval. Develop and maintain CI/CD pipelines and infrastructure as code (Terraform or CDK) with secure secrets management and least-privilege access. Instrument agents and pipelines (success rate, cost, latency, failure modes) and maintain dashboards, alerts and runbooks.&nbsp; Work with the product teams that own customer-facing MCP and API surfaces so internal agent tools and product interfaces stay consistent.&nbsp; What You Bring Hands-on experience with AWS services including Bedrock, Lambda, ECS or EKS, S3 and Step Functions.&nbsp; Experience with GenAI infrastructure: LLM integration, agent frameworks, MCP, semantic caching and LLM evaluation.&nbsp; Familiarity with Amazon EKS and Kubernetes-based deployments.&nbsp; Familiarity with GitHub/GitLab workflows, secrets management and secure deployment practices. •&nbsp;&nbsp; Knowledge of observability tools like Datadog and log aggregation strategies.&nbsp; Ability to write clean, maintainable code and contribute to shared documentation and best practices. Experience collaborating directly with customers, stakeholders, or cross-functional delivery teams. Excellent written and verbal communication skills, including the ability to explain AI-system behavior, limitations, risks, and technical trade-offs clearly. Comfort working in fast-moving environments where requirements and technical constraints continue to evolve. A high degree of ownership, curiosity, empathy, and bias toward action. Ability to travel occasionally for client workshops or on-site delivery, where required. We recognize that strong candidates may not meet every qualification listed. If this role excites you and your experience is adjacent to what we have described, we encourage you to apply. &nbsp; Nice to Have Experience with Agentic AI Frameworks: Hands-on experience with LangChain, LangGraph, CrewAI, AutoGen, or similar frameworks for building and orchestrating AI agents. Advanced AWS Experience: Experience optimizing AI workloads using Amazon Bedrock, SageMaker, or other AWS AI/ML services. Multi-Model LLM Experience: Experience integrating and managing multiple LLM providers, including OpenAI, Anthropic Claude, and open-source models. AI-Assisted Development Tools: Familiarity with Claude Code, Cursor, GitHub Copilot, or similar AI-powered development tools. LLM Evaluation &amp; Observability: Experience with tools such as LangSmith, Langfuse, Arize Phoenix, or similar platforms for monitoring and evaluating AI systems. Embedded Systems &amp; Virtualization: Exposure to Arm architectures, firmware development, IoT devices, hypervisors, or hardware virtualization. Model Context Protocol (MCP): Experience building MCP servers, integrating external tools, or developing reusable agent tooling. Infrastructure Scalability: Experience with distributed systems, Kubernetes, container orchestration, and scaling production AI workloads. AI Workflow Automation: Experience automating software development processes, including code generation, automated testing, code reviews, and CI/CD workflows. Open-Source Contributions: Contributions to open-source AI frameworks, developer tools, or cloud infrastructure projects. What Success Looks Like In your first few months, you will have built trusted relationships with client an [...]
+
+---
+
+## 11. [MAYBE] Whataburger | Accounting Data Analyst
 - Link: https://whataburger.wd5.myworkdayjobs.com/WAB_CAREERS/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/General-Accountant_JR10014086
 - Location: 300 Concord Plaza Dr San Antonio TX 78216-6903
 - Posted: Nov 19 (board gives the date only)
@@ -183,7 +204,7 @@ Welcome to Whataburger Careers! Our Flavor — Why Whataburger Whataburger isn�
 
 ---
 
-## 11. [MAYBE] City of New York | Data Engineer
+## 12. [MAYBE] City of New York | Data Engineer
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016990106
 - Location: New York City NY us
 - Posted: Nov 20 06:22 ET
@@ -198,7 +219,7 @@ The New York City Department of Sanitation (DSNY) keeps New York City healthy, s
 
 ---
 
-## 12. [MAYBE] City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics
+## 13. [MAYBE] City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016989754
 - Location: New York City NY us
 - Posted: Nov 20 06:22 ET
@@ -213,7 +234,7 @@ About the Agency: The Department of Housing Preservation and Development (HPD) o
 
 ---
 
-## 13. [MAYBE] Highmark Health | Associate Strategy Analyst
+## 14. [MAYBE] Highmark Health | Associate Strategy Analyst
 - Link: https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Strategy-Analyst_J291247
 - Location: 51 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -228,7 +249,37 @@ Company : enGen Job Description : JOB SUMMARY This job supports the leadership o
 
 ---
 
-## 14. [MAYBE] University of Chicago | Research Analyst
+## 15. [MAYBE] AES | Data Analyst, Training Operations
+- Link: https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Salt-Lake-City-UT/Data-Analyst--Training-Operations_R1065569
+- Location: 3 Locations
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, etl, llm, power bi, git, reporting, validation | Lacks: sap  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | E-Verify Notice: AES will provide the Social Security Administration (SSA) and if necessary, the Department of Homeland Security (DHS) with information from each new employee's I-9 to confirm work authorization.
+
+### Job description
+
+Are you ready to be part of a company that's not just talking about the future, but actively shaping it? Join The AES Corporation, the largest US-based global power company with a team of 8,300 employees across 12 countries. AES has been ranked #1 by BloombergNEF in renewable energy sales to corporations in the US and Americas for five consecutive years, providing electricity for millions of people worldwide. We are proud to foster a strong workplace culture, earning prominent positions in Great Place to Work™ rankings across the markets where we operate. AES was also named one of the World’s Most Ethical Companies for the 13th consecutive year in 2026, highlighting our dedication to integrity, transparency, and responsible business practices. Our spirit of innovation continues to earn industry recognition. AES is the only seven-time winner of the Edison Electric Institute’s Edison Awards in the twenty-first century, a distinction honoring global leadership in advancing the electric power industry. If you're ready to be part of a company that's not just adapting to change, but driving it, AES is the place for you. We're not just building a more sustainable future , we're powering it. Apply now and energize your career with a true leader in global energy. AES Clean Energy (ACE) O&M group is seeking a Data Analyst for Training Operations to support the development and management of renewable energy technical training programs for field operations. This individual will support the Senior Manager of Technical Training in executing the Training Team’s objectives and vision by modernizing and operating the digital toolkit used to manage technical training programs . This role will strengthen the Technical Training Team’s ability to manage its operational data more effectively while supporting program growth. This will include gathering and integrating data inputs from multiple platforms, creating useful tools for the team to manage data and operate the program, and producing appropriate outputs such as user interfaces and reporting to AES global systems. This position requires a hands-on systems builder with data rigor, operational insight and judgment, and user empathy . This position is for someone who can connect systems and people, not just produce reports. Candidates should bring expertise in digital modernization, data analytics and database management, user interface and user experience (UI/UX), and a detail-driven personality with a strong process mindset. The strongest candidate will have the ability to turn training requirements and user needs, especially internal Training Team needs, into practical digital tools and systems. Job Qualifications Core technical skills · Google Big Query for data querying, transformation, and analysis · Data modeling, data-quality management, and validation · Power BI dashboard development; ideally Power Query and DAX · SharePoint and Microsoft 365 workflow/tool development · Integrating data from HRIS, LMS, ERP, CMMS, vendors, and spreadsheets · Data reconciliation, validation, exception handling, and troubleshooting · Workflow automation—Power Automate, APIs, ETL tools, or comparable technologies · Basic UI/UX skills for technician, supervisor, and administrator tools · Understanding of access controls and responsible handling of employee data · Strong attention to detail and process discipline · Comfort owning work independently while escalating appropriately Relevant experience · Business intelligence, data analysis, or database administration · HRIS/LMS integrations and reporting · Operational workflow or low-code application development · Data governance and master-data management · Preferred experience with Workday, SAP, CMMS platforms, or technical training is preferred · Preferred education: · Information systems · Data analytics or computer science · Business operations Duties of the Data Analyst for Training Operations General Training Data and Operating Tools · Map current data processes for training operations. · Work closely with Sr. Manager of Technical Training to identify where modernization of current systems is most impactful for scaling. · Work closely with Sr. Manager of Technical Training to increase Training Program data visibility for Training Program management. · Designing and managing integrated data solutions that support training workflows, reporting, and automation. · Identify all data sources which may include, but are not limited to: training program logic; up-to-date personnel data from AES global systems; internal and external training offerings and enrollments; progress and completion reports from external training vendors; SAP and CMMS work data; and in-person field training. · Identify all data outputs which may include, but are not limited to: trainee user interfaces for training progress and opportunities; technician supervisor interfaces for team training progress, enrollments, and requests for new training; enrollment data for external training vendors; tracking and completion data for AES global systems. · Design and build smart digital tools to operate training from enrollment through completion, possibly including a local operational database and the user interfaces, dashboards, and processes connected to it. · Collaborate with Training Team members to bring together training information from multiple sources (including employee data, enrollments, training records, field work data, and field training results) in a useful format for training program operations. · Map and integrate the rules that make the training program operate in the system. These rules include prerequisites, required training, eligibility for the next training, program progression, and future requirements. · Collaborate with the Training Program Specialist to maintain accurate enrollment, progress, and completion information while training is underway, and to maintain reliable sources of information for day-to-day training management. · Create practical processes for checking and correcting data when sources do not match or are outdated. · Troubleshoot problems across training-data processes proactively. · Work with Digital Analytics and other AES teams to select appropriate digital tools, connect approved systems, and complete technical work that requires support beyond the Training Team. · Ensure training information is accurate, usable, timely, and aligned with operational needs. · Build tools and data processes that can be used for scaling to future training programs. Tools for Target Audience and Training Team · Map interaction processes between stakeholders and the Training Team. · Build internal tools for Technical Training Team to manage enrollments, completions, upcoming training, prerequisites, eligibility, vendor reporting, and completion reporting. · Build and maintain appropriate dashboards for Target Audience to be empowered and accountable for their training progress. · Support team work to identify what in [...]
+
+---
+
+## 16. [MAYBE] Baird | Statements & Investor Reporting Analyst
+- Link: https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Statements---Investor-Reporting-Analyst_R2026953-2
+- Location: WI-Milwaukee
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, sql, reporting, research, risk, validation | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About The Role: The Statements & Investor Reporting Analyst plays an important role in supporting the accurate and timely delivery of client-facing communications and regulatory materials across Baird’s Private Wealth Management and broader business lines. This role is responsible for overseeing assigned reporting deliverables related to client statements, trade confirmations, proxy materials, prospectus documents, data feeds, and pricing support, while applying analytical thinking and process knowledge to ensure quality, resolve issues, and strengthen operational effectiveness. Working from our Milwaukee headquarters in a collaborative team environment, this role partners closely with Operations, Technology, Compliance, and vendor partners to manage reporting-related activities, support audits and controls, and lead smaller projects and process improvements that enhance the client experience and support regulatory compliance. The Impact You’ll Make Own assigned reporting deliverables related to statements, confirmations, proxy materials, prospectus documents, and related investor reporting outputs, ensuring accuracy, completeness, and timely delivery Analyze reporting workflows, data feeds, and pricing-related information to identify issues, determine root causes, and coordinate resolution Serve as a key point of contact for assigned processes, deliverables, platforms, or vendor-supported activities Lead smaller projects and support implementation efforts related to reporting enhancements, workflow updates, or control improvements Support and help coordinate audits, compliance reviews, control activities, and procedural documentation related to investor reporting processes Monitor reporting trends, exceptions, and operational risks, and recommend improvements to strengthen quality and efficiency Partner with internal stakeholders and external vendors to resolve issues, manage process changes, and maintain reliable reporting operations Participate in testing, validation, and implementation support for system, file, or reporting changes Provide guidance and support to specialists and senior specialists on day-to-day questions, exceptions, and process execution Contribute to a strong control environment by identifying gaps, documenting findings, and helping implement process improvements What You’ll Bring to Baird Minimum of 3+ years of relevant experience in financial services, operations, or a related environment, or equivalent combination of education and experience Bachelor’s degree in Finance, Business, Accounting, or a related field, or equivalent combination of education and experience FINRA Series SIE & Series 99 within 12 months of hire Strong analytical and problem-solving skills, with the ability to evaluate reporting issues, research root causes, and recommend solutions Working knowledge of financial services operations, reporting workflows, data feeds, and client communication processes Ability to manage assigned deliverables and balance day-to-day responsibilities with project and audit-related work Experience supporting audits, controls, procedural documentation, or process reviews Ability to identify opportunities for process improvement and contribute to workflow or control enhancements Strong attention to detail and commitment to accuracy in deadline-driven environments Effective communication and collaboration skills across Operations, Technology, Compliance, and external partners Proficiency in Microsoft Excel and familiarity with reporting systems, vendor platforms, or data-driven processes Experience with SQL Server a plus Ability to exercise sound judgment and make informed decisions within established guidelines Demonstrated ability to work independently while contributing effectively in a team-based environment #LI-CM1 Baird is committed to diversity and provides employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, pregnancy, citizenship, national origin, age, disability, military service, veteran status, sexual orientation, gender identity or expression, genetic information, or any other status protected by law.
+
+---
+
+## 17. [MAYBE] University of Chicago | Research Analyst
 - Link: https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Analyst_JR35773
 - Location: Chicago, IL
 - Posted: Nov 19 (board gives the date only)
@@ -243,7 +294,7 @@ Department BSD PSY - Lyons Lab About the Department The Department of Psychiatry
 
 ---
 
-## 15. [MAYBE] Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027
+## 18. [MAYBE] Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2027_25928747
 - Location: New York New York United States
 - Posted: Nov 20 (board gives the date only)
@@ -258,7 +309,7 @@ NAM Quantitative Analysis, Summer Analyst Program – New York (North America - 
 
 ---
 
-## 16. [MAYBE] Invesco | Business Risk Analyst
+## 19. [MAYBE] Invesco | Business Risk Analyst
 - Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Business-Risk-Analyst_R-16028
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -273,7 +324,114 @@ About Invesco As one of the world’s leading independent global investment firm
 
 ---
 
-## 17. [MAYBE] Barclays | Business Intelligence Developer
+## 20. [MAYBE] Goodlord | Operations & Risk Analyst
+- Link: https://jobs.ashbyhq.com/goodlord/65494990-bb13-45b4-b7e4-d642815132c0
+- Location: England United Kingdom remote
+- Posted: Nov 20 12:34 ET
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: sql, fraud, git, reporting, risk | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+📍PRIMARILY REMOTE - WITH PAID TRAVEL TO ANY OF OUR OFFICES (LONDON, SHEFFIELD OR LINCOLN) TWICE A MONTH.
+
+Please note, you must be currently residing in the UK to be considered for this role.
+
+
+
+ 
+
+
+OUR MISSION:
+
+Two in five people in the UK rent their homes. Our mission? To be the gold standard platform for renting. 
+
+We started Goodlord because we wanted to make renting simple and transparent for everyone involved: the agent, the landlord, and the tenant. We knew Generation Rent would lead to more tenants, with higher digital expectations and we were confident we could provide a solution 
+
+Like all scale-ups it’s been a bit of a rollercoaster journey, but we’re now stronger than ever, with around 3,000 letting agents using the platform, exciting and varied products and 320+ Goodlordians across the group supporting the mission! 
+
+
+
+
+
+THE OPPORTUNITY: 
+
+We're looking for someone who loves digging into data, spotting trends and turning insights into meaningful improvements. Sitting within our Referencing team, you'll analyse performance, customer trends and risk indicators to help us understand what's working, where things could be better and how we can make smarter decisions.
+
+You'll work closely with teams across Referencing, Insurance, Compliance, Operations and Product, using tools like SQL and Google Sheets to investigate challenges, uncover opportunities and make recommendations that have a real impact.
+
+This is more than just reporting numbers. We're looking for someone who is naturally curious, takes ownership of their analysis and isn't afraid to challenge the status quo or bring forward ideas. You'll play an important part in improving our processes, strengthening controls and enhancing the customer experience.
+
+In a nutshell, you'll be:
+
+ - Analysing data to spot trends, risks and opportunities across Referencing.
+
+ - Investigating the root causes behind issues, including fraud, insurance claims and customer experience.
+
+ - Building reports that help teams understand performance and make informed decisions.
+
+ - Turning complex data into clear, actionable recommendations.
+
+ - Working with stakeholders across the business to drive improvements.
+
+ - Taking a proactive approach to identifying problems and finding better ways of working.
+   
+   
+   
+
+
+WHAT WE NEED FROM YOU: 
+
+You should apply if you have:
+
+ - Experience in an analytical role, ideally involving operational, risk or customer data
+
+ - Strong Google Sheets skills, and confidence working with SQL
+
+ - A track record of turning data into clear insight and going a step further to recommend action
+
+ - Comfortable working independently, prioritising your own work, and knowing when to escalate or flag something
+
+ - Confident engaging with stakeholders across different teams and functions, and can adapt how you communicate depending on the audience
+
+ - A naturally curious mindset - you ask why something is happening, not just what happened
+
+ - Strong attention to detail and comfort working with large, often messy datasets
+
+ - Structured thinking, able to break down ambiguous problems into something workable
+
+
+WHY YOU'LL LOVE BEING A GOODLORDIAN
+
+Aside from the role, the people, our culture and our mission, we have some other things that make Goodlord a pretty awesome place to be. Here’s a few favourites amongst Goodlordians (check out our careers page for more info).
+
+ - Grow with Goodlord: your development is important to us, that’s why we are Great Place to Work - certified https://www.greatplacetowork.co.uk/certified-company/1558877. Have a goal in mind? Share it with us so we can use some of our annual development fund to support it. We guarantee you’ll learn loads and develop both personally and professionally!
+
+ - Your well-being matters: bi-weekly coaching with Sanctus to provide Goodlordians with a safe place to talk and support your mental health
+
+ - 25 days holiday (plus UK Bank holidays) plus 1 day per full holiday year up to 32 days: We believe regular breaks are essential for well-being and we encourage (some may say expect!) all Goodlordians to take full advantage of their annual leave entitlement.
+
+ - Supporting your family: we offer Goodlordians of all genders a generous 3 months of fully-paid time off to look after their new arrivals
+
+ - Our team: we’re an energetic, sociable, and talented bunch who are super passionate about what we do and determined to make a difference. We’re all in it together, we learn from each other, we’re genuine and we don’t have time for politics
+
+
+
+
+WHAT’S NEXT?
+
+If you’re ready to help us on our mission to be the gold standard platform for renting, then click apply (2-3 minutes)!
+
+A full job spec is available on request.
+
+
+Goodlord wants applicants from all backgrounds and walks of life;
+
+---
+
+## 21. [MAYBE] Barclays | Business Intelligence Developer
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Business-Intelligence-Developer_JR-0000139295
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -288,7 +446,22 @@ Job Description Purpose of the role To support the bank's decision-making proces
 
 ---
 
-## 18. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
+## 22. [MAYBE] Blue Sky Innovators | AI Engineering Advisor
+- Link: https://job-boards.greenhouse.io/blueskyinnovators/jobs/5490916008
+- Location: Chantilly, VA
+- Posted: Nov 20 12:33 ET
+- Scanner fit: ~48 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, gcp, machine learning, probability, statistic, risk | Lacks: azure, scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Blue Sky Innovators is seeking an AI Engineering Advisor to join our team in Chantilly, VA. The AI Engineering Advisor will be expected to perform the following: Lead AI/ML innovation initiatives focused on automation, predictive modeling, and advanced data analysis using agentic coding. Navigate AI provider consoles to discover, configure, and adapt commercially available agentic coding tools to the customer's secure environment. Define AI requirements, lead AI requirements reviews, and conduct performance testing for agentic coding integrations. Analyze AI service billing and costs to determine risks, issues, and opportunities for optimization within the customer space. The candidate is considered an emerging authority, who applies extensive technical expertise, develops technical solutions to complex problems, and exercises considerable latitude in determining objectives and approaches to assignment. The Advisor is expected to apply knowledge of experimental methodologies, statistics, optimization, probability theory and machine learning using code for tool building, statistical analysis and modeling, using both general purpose software and statistical languages. Required Qualifications: Must possess and be able to maintain a TS/SCI with Polygraph. Bachelor's degree with 8-10 years of relevant experience; OR a Master's degree with 6-8 years of experience; OR PhD with 3-5 years of experience.&nbsp; Proven experience assessing industry approaches for technical viability and cost-efficiency. Hands-on experience deploying scalable AI solutions and adapting agentic coding tools into enterprise systems. Preferred Qualifications: Associate-level certifications (e.g., AWS Machine Learning Engineer Associate, Azure AI Engineer Associate, GCP AI Engineer, or Udemy CAEGP). Why Blue Sky Innovators? At Blue Sky, you’ll operate at the highest levels, helping shape policy that protects the nation’s most critical technologies—while working alongside a team of experienced professionals committed to mission impact. Salary range for the position is $120,000 - $220,000 per year. Specific compensation will be determined by several factors including experience, education, skills, and knowledge. We also offer medical/dental/vision benefits and 401k contribution. Blue Sky Innovators, Inc.
+
+---
+
+## 23. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
 - Link: https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Forward-Deployed-AI-Engineer_R-1102337-1
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -303,7 +476,7 @@ When you join Verizon You want more out of a career. A place to share your ideas
 
 ---
 
-## 19. [MAYBE] The New School | Research Associate Fall 2027
+## 24. [MAYBE] The New School | Research Associate Fall 2027
 - Link: https://newschool.wd1.myworkdayjobs.com/external/job/B---65-West-11th-Street/Research-Associate-Fall-2027_JR110154
 - Location: B - 65 West 11th Street
 - Posted: Nov 19 (board gives the date only)
@@ -318,7 +491,7 @@ The Research Associate will support faculty research on twentieth-century United
 
 ---
 
-## 20. [MAYBE] JP Morgan Chase | 2027 Applied Research Associate - Summer Associate
+## 25. [MAYBE] JP Morgan Chase | 2027 Applied Research Associate - Summer Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809359
 - Location: New York, NY, United States US
 - Posted: Nov 20 (board gives the date only)
@@ -333,7 +506,7 @@ Our firm is seeking a junior or senior researcher and thought leader to perform 
 
 ---
 
-## 21. [MAYBE] Cartesian | Machine Learning Scientist
+## 26. [MAYBE] Cartesian | Machine Learning Scientist
 - Link: https://job-boards.greenhouse.io/cartesiansystems/jobs/4516933009
 - Location: Cambridge, MA
 - Posted: Nov 20 11:17 ET
@@ -348,7 +521,7 @@ About the Company Cartesian &nbsp; is building spatial intelligence for indoor e
 
 ---
 
-## 22. [MAYBE] Amgen | Sr Data Scientist
+## 27. [MAYBE] Amgen | Sr Data Scientist
 - Link: https://amgen.wd1.myworkdayjobs.com/careers/job/US---IL---Deerfield/Sr-Data-Scientist_R-256842
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -363,7 +536,7 @@ Career Category Sales & Marketing Operations Job Description Join Amgen’s Miss
 
 ---
 
-## 23. [MAYBE] Regeneron Pharmaceuticals | AI Engineer II
+## 28. [MAYBE] Regeneron Pharmaceuticals | AI Engineer II
 - Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/AI-Engineer-II_R53257
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -378,7 +551,129 @@ At Regeneron Enterprise Data & AI, we evaluate frontier AI and bring it to resea
 
 ---
 
-## 24. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
+## 29. [MAYBE] Jerry | Senior Associate, Business Operations & Analytics
+- Link: https://jobs.ashbyhq.com/Jerry.ai/fddfb7e5-aabc-43b8-85da-b443000fe706
+- Location: New York, New York United States Chicago, Illinois Boston, Massachusetts San Francisco Bay Area remote
+- Posted: Nov 20 12:38 ET
+- Scanner fit: ~60 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, python, sql, git | Lacks: -  | Note: title says Senior/II: asks 2 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About us:
+
+Jerry.ai http://Jerry.ai is a Series C, YC-backed tech startup with 5M+ customers and $240M in funding. Founded in 2017, product launched in 2019, and achieved profitability in 2024.
+
+ 
+
+Why we exist:
+
+Your car, home, and motorcycle aren't just purchases, they're the physical embodiment of the life you've worked hard to build. Yet the experience of owning them is stuck in the 90s. Every step of the journey — buying, insuring, maintaining, repairing, selling — is fragmented, complicated, and expensive.
+
+ 
+
+Imagine having a trusted friend in your pocket who takes care of everything: they find you the right car or home at the right price, lock in the best insurance rate without you lifting a finger, remind you before that service appointment turns into an expensive repair, and help you sell at the best price when the time is right. That friend is Jerry.
+
+ 
+
+We are building the first AI-powered advisor to manage all your physical assets. We started with your car in 2019, now we’re expanding into new verticals (e.g. home, motorcycle, RV, boat).
+
+ 
+
+Why We’re Hiring
+
+Our Business Operations & Analytics  team has been a force multiplier and accelerant to our business that has helped us reach these pivotal milestones in spite of headwinds and within a highly competitive market. They are a team of former McKinsey, BCG and Bain consultants who drive data & insights, and inform decision-making across every corner of our business. They are analytical powerhouses and first principles problem solvers who push forward our most important initiatives across product, growth, tech, and operations.
+
+ 
+
+Every business unit has a Business Operations & Analytics team member embedded within it  —  someone who doesn't just run analyses and build dashboards, but shapes what questions we should ask, what data to pull, what conclusions to draw, what decisions to make, and then drives our teams towards our next goal: go from 5M to 50M customers and become a $10B business in the next 4 years. 
+
+ 
+
+As our business continues to expand, there is growing demand for more Business Operations & Analytics team members. We are hiring 2-3 people to drive impact in these areas:
+
+ - Growth Marketing 
+
+ - Product Development
+
+ - Strategic Partnerships 
+
+ 
+
+On leveling: You may see job ads for this role at different job levels. Our priority is finding the right people, we can be flexible with job title/leveling.
+
+ 
+
+Why You Will (Or Won't) Like Working Here
+
+ - No slides: If you've worked in consulting, you know what it feels like to be up at 3am reformatting a deck. That doesn't exist here. The only work that gets done at Jerry is work that will materially change the trajectory of our business — an important product, a new growth channel, a key metric, a critical partner relationship, etc. 
+
+ - No corporate fluff: The Business Operations & Analytics team is 14 insatiable learners who care deeply about solving difficult problems and making a tangible impact. Every person owns a critical domain. There is no bloat, unnecessary meetings, or waiting for approvals. 
+
+ - Hands-on: This is not a pure strategy role, you will also own execution. Your day-to-day will be surfacing analytical insights, driving decisions, and seeing them through end-to-end. 
+
+ 
+
+What You'll Own
+
+You'll sit on our central Business Operations & Analytics team but you’ll be embedded in one of Jerry's core business areas — growth, product, AI and automation, strategic partnerships — and own the analytical function for that business unit end-to-end.
+
+ - Define the right problems: Before any analysis, understand what business question it's answering and what decision it will inform. Push back if the question is flawed.
+
+ - Data and insights: Define metrics, build reports, run analyses, design experiments, and surface data insights that move your team's key metrics.
+
+ - Drive outcomes: Bring recommendations to your counterparts in product, growth, finance or operations, tell them what's happening and why, and what next steps should be.
+
+ 
+
+Who You Are
+
+ - First principles thinker: You break ambiguous problems into clear hypotheses before touching data. You're analytically strong (comfortable with SQL or Python) but your instinct is to ask "what are we trying to solve here?" before jumping to "what should I build?" 
+
+ - Direct communicator: You can walk a skeptical stakeholder through a complex finding and get buy-in quickly. You write clearly, speak precisely, and don't bury the lede.
+
+ - Owner: You act like your name is on the door. If something is broken, you feel responsible for fixing it, even if it’s outside of your swim lane.
+
+ 
+
+What You'll Bring
+
+ - 2+ years of experience at a consulting firm, investment bank, or high-growth technology company.
+
+ - Strong analytical skills; ability to pull, structure, and interpret data independently.
+
+ - Track record of owning ambiguous problems and delivering impact.
+
+ - Clear, persuasive communicator who can influence decisions at the leadership level.
+
+ 
+
+Our Tools
+
+SQL (Clickhouse), Metabase, Python, Jupyter Hub, GitHub.
+
+ 
+ 
+
+While we appreciate your interest and application, due to the volume of applications we receive, only applicants under consideration will be contacted.
+
+
+
+Please note: Jerry.ai http://Jerry.ai is only able to hire full-time salaried employees who currently reside in AZ, CA, CO, FL, GA, IL, MA, NC, NJ, NV, NY, OR, TN, TX, UT, VA, or Ontario, Canada, and full-time hourly employees who currently reside in AZ, FL, GA, NV, NY, NC, TN, TX, UT, or VA. Unfortunately, we cannot accept applications from candidates residing elsewhere at this time.
+
+
+
+Jerry.ai is proud to be an Equal Employment Opportunity employer. We prohibit discrimination based on race, religion, color, national origin, sex, pregnancy, reproductive health decisions or related medical conditions, sexual orientation, gender identity, gender expression, age, veteran status, disability, genetic information, or other characteristics protected by applicable local, state or federal laws. 
+
+
+
+Jerry.ai is committed to providing
+
+---
+
+## 30. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
 - Link: https://www.google.com/about/careers/applications/jobs/results/98133257790333638
 - Location: Mountain View, CA, USA ; New York, NY, USA
 - Posted: Nov 20 03:06 ET
@@ -393,7 +688,7 @@ Our mission is to bring new users to vertical and international experiences and 
 
 ---
 
-## 25. [MAYBE] McKesson | Sr Associate, Data Engineering
+## 31. [MAYBE] McKesson | Sr Associate, Data Engineering
 - Link: https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Sr-Associate--Data-Engineering_JR0157360
 - Location: Cork
 - Posted: Nov 19 (board gives the date only)
@@ -408,7 +703,7 @@ McKesson is an impact-driven, Fortune 10 company that touches virtually every as
 
 ---
 
-## 26. [MAYBE] Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing)
+## 32. [MAYBE] Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing)
 - Link: https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Applied-Data-Scientist---1-1-Personalization--Audience-and-Experimentation--applied-ML--PyToch--A-B-testing-_R0000454434
 - Location: 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445
 - Posted: Nov 19 (board gives the date only)
