@@ -1,310 +1,247 @@
-# Sweep 2026-11-21 03:12 ET: 4598 boards, 5 new matches, 1 kept, 1576 board errors, 129s
+# Sweep 2026-11-21 13:38 ET: 4598 boards, 25 new matches, 9 kept, 217 board errors, 114s
 
-Alert inbox: no new relevant alert postings
-- [MAYBE] Medical College of Wisconsin | Financial Associate - Biomedical Engineering and Data Science Institute | fit~60 | https://mcw.wd503.myworkdayjobs.com/ExternalCareers/job/Milwaukee-WI/Financial-Associate---Biomedical-Engineering-and-Data-Science-Institute_JR104371
-- [LOW] Capital One | Sr. Business Analyst | fit~62 | https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Sr-Business-Analyst_R248897 | senior title below the bar
-- [LOW] Jerry | Legal Analyst, Operations & Automation (Remote) | fit~45 | https://jobs.ashbyhq.com/Jerry.ai/aaa36f58-a571-49da-8ce6-20a3bda45c3c
-- [SKIP] Ford Motor Company | Senior Financial Analyst | fit~- | https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74187 | eligibility: "Visa sponsorship is not available for this position."
-- [SKIP] Medical College of Wisconsin | Business Operations Coordinator - Data Science Institute | fit~- | https://mcw.wd503.myworkdayjobs.com/ExternalCareers/job/Milwaukee-WI/Business-Operations-Coordinator---Data-Science-Institute_JR104304-1 | asks 4+ years
+Coverage audit (7 days): JobRadar had 0/19 = 0% of relevant alert postings; median lead - min vs the alert email. This sweep: 2 relevant alert postings, 2 not on JobRadar boards.
+- [HOT] Hitachi | Data Scientist I (MAD-BS-OR) | fit~79 | https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HTA-NCP-Hillsboro-OR/Data-Scientist-I-or-II--MAD-BS-OR-_R0128931
+- [HOT] University of Pennsylvania | Risk Data Analyst, Office of Risk Management & Insurance | fit~61 | https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/FMC-Tower/Risk-Data-Analyst--Office-of-Risk-Management---Insurance_JR00130620-1
+- [MAYBE] GlobalFoundries | Business Finance Analyst, R&D (2027 New College Graduate) | fit~71 | https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Business-Finance-Analyst--R-D--2027-New-College-Graduate-_JR-2604448 | broad title
+- [MAYBE] City of New York | Data Analyst, Bureau of Mental Health | fit~70 | https://jobs.smartrecruiters.com/cityofnewyork/3743990017021696 | no H-1B filings found for this employer
+- [MAYBE] City of New York | COORDINATED ENTRY RESEARCH ANALYST | fit~62 | https://jobs.smartrecruiters.com/cityofnewyork/3743990017021786 | no H-1B filings found for this employer
+- [MAYBE] Baxter International | Specialist, Data & Analytics | fit~55 | https://baxter.wd1.myworkdayjobs.com/baxter/job/Guadalajara-Jalisco/Spec--IT_JR-211468 | no H-1B filings found for this employer
+- [MAYBE] Harvey | Creative AI Engineer | fit~50 | https://jobs.ashbyhq.com/harvey/a42047fc-fbd1-4e14-bf10-15207ae2d060
+- [MAYBE] Inova | Clinical Data Insights Analyst | fit~50 | https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/693208
+- [MAYBE] City of New York | CITY RESEARCH SCIENTIST | fit~45 | https://jobs.smartrecruiters.com/cityofnewyork/3743990017021676 | no H-1B filings found for this employer
+- [LOW] City of New York | Senior Claiming & Revenue Analyst | fit~70 | https://jobs.smartrecruiters.com/cityofnewyork/3743990017021836 | senior title below the bar
+- [LOW] Medtronic | Senior Financial Analyst | fit~68 | https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Senior-Financial-Analyst_R80861-1 | senior title below the bar
+- [LOW] City of New York | Administrative Budget Analyst | fit~60 | https://jobs.smartrecruiters.com/cityofnewyork/3743990017021876
+- [LOW] Sony Pictures Entertainment | Analyst, Data Management | fit~55 | https://spe.wd1.myworkdayjobs.com/SonyPicturesEntertainment/job/Culver-City-California/Analyst--Data-Management_JR115238
+- [LOW] City of New York | Business Analyst | fit~40 | https://jobs.smartrecruiters.com/cityofnewyork/3743990017021946
+- [LOW] City of New York | Sr Systems Analyst | fit~0 | https://jobs.smartrecruiters.com/cityofnewyork/3743990017022046 | senior title below the bar
+- [SKIP] Clera | Mid-Level AI Engineer | fit~- | https://jobs.ashbyhq.com/Clera/5fdb38a1-7f61-4afb-80ed-481afc7938f4 | eligibility: "Visa sponsorship is not available."
+- [SKIP] City of New York | Payment Analyst | fit~- | https://jobs.smartrecruiters.com/cityofnewyork/3743990017022106 | eligibility: "The City of New York may be able to provide assistance with employment-based visa sponsorship, but OCME cannot guarantee sponsorship for international employees for visa applications, extensions, or status changes, inclu"
+- [SKIP] AeroVironment | Intelligence Analyst I | fit~- | https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Intelligence-Analyst-I_9454 | eligibility: "ITAR Requirement: This position requires access to information that is subject to compliance with the International Traffic Arms Regulations (“ITAR”) and/or the Export Administration Regulations (“EAR”)."
+- [SKIP] Boeing | Senior Test & Evaluation Engineer (Flight/Mission/System Test) | fit~- | https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Edwards-AFB-CA/Senior-Test---Evaluation-Engineer--Flight-Mission-System-Test-_JR2026527099 | eligibility: "Citizenship Required)."
+- [SKIP] ICF International | Energy Analyst (Interconnection & Transmission) - US Remote | fit~- | https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Energy-Consultant-for-Interconnection_R2602930 | eligibility: "This position is not eligible for new H-1B visa sponsorship by ICF."
+- [SKIP] NVIDIA | Senior Technical Trainer and Content Developer, AI Compute Systems | fit~- | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Technical-Trainer-and-Content-Developer--AI-Compute-Systems_JR2030101 | asks 8+ years
+- [SKIP] NVIDIA | Senior System Software Engineer - AI Factory Automation | fit~- | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AI-Factory-Automation_JR2029917-1 | asks 5+ years
+- [SKIP] The Home Depot | Senior Analyst - Financial Benefits | fit~- | https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/CUMBERLAND-PKWY-OFFICE---1147/Senior-Analyst---Financial-Benefits_Req199697 | asks 4+ years
+- [SKIP] U.S. Bank | Senior AI Security Data and Knowledge Engineer | fit~- | https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Senior-AI-Security-Data-and-Knowledge-Engineer_2026-0035448 | asks 10+ years
+- [SKIP] Woodward Governor | Government Proposal Financial Analyst (Level II and Senior) | fit~- | https://woodward.wd5.myworkdayjobs.com/woodward/job/Spartanburg-SC-US/Government-Proposal-Financial-Analyst--Level-II-and-Senior-_JR114634 | eligibility: "This position requires use of information which is subject to the International Traffic in Arms Regulations (ITAR) and/or the Export Administration Regulations (EAR)."
 
 ## Board errors
-- 2020 Companies (workday:2020companies.wd1:external_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- 23andMe (workday:23andme.wd5:23): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AAA Club Alliance (workday:aaaie.wd1:csaacareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AAA Club Alliance (workday:ace.wd5:careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AAA Mountainwest Group (workday:ncnu.wd1:aaa_ncnu_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- ABB (workday:abb.wd3:external_career_page): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- ABC Supply (workday:abcsupply.wd1:abcsupplycareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AES (workday:aes.wd1:AES_US): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AES (workday:aes.wd1:aes_clean_energy): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
 - AI Fund (lever:aifund:): HTTPError HTTP Error 404: Not Found
-- AIG (workday:aig.wd1:aig): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AIG (workday:aig.wd1:early_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- ALFA LAVAL (workday:alfalaval.wd3:Alfa_Laval_jobs): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AMA (workday:albertamotorassociation.wd3:ama): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AMN Healthcare (workday:amn.wd1:amn_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- APM Terminals (workday:maersk.wd3:APMT_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- ARRAY Technologies (workday:arraytechinc.wd5:Array_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- ASM Global (workday:asmglobal.wd1:careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- ASML (workday:asml.wd3:asmlext1): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AT&T (workday:att.wd1:ATTGeneral): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AT&T (workday:att.wd1:attcollege): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- ATC (workday:atcllc.wd5:atcllc): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AVEVA (workday:aveva.wd3:AVEVA_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AWE (workday:awepeople.wd3:Grad_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Abbott (workday:abbott.wd5:abbottcareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Abbott (workday:abbott.wd5:abbottcareers2): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Academy Sports + Outdoors (workday:academy.wd1:careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Accuray (workday:accuray.wd5:external): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Ace Hardware (workday:acehardware.wd1:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - AcreTrader (rippling:acretrader-jobs:): HTTPError HTTP Error 404: Not Found
-- Acrisure (workday:acrisure.wd1:Acrisure): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Acuity International (workday:acuityinternational.wd5:external): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Acxiom (workday:acxiomllc.wd5:AcxiomUSA): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Aderant (workday:aderant.wd5:Aderant_External_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Adient (workday:adient.wd3:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Adobe (workday:adobe.wd5:external_experienced): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Adtran (workday:adtran.wd3:adtran): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Advance Auto Parts (workday:advanceauto.wd5:advanceexternalcareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - Advocate Health Care (workday:aah.wd5:External): HTTPError HTTP Error 410: Gone
-- Aegon Asset Management (workday:transamerica.wd5:AEGONAM): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Aegon Asset Management (workday:transamerica.wd5:AUK_JobSite): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AeroVironment (workday:avav.wd1:avav): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - Age of Learning (lever:aofl:): HTTPError HTTP Error 404: Not Found
-- Agilent Technologies (workday:agilent.wd5:Agilent_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Agilent Technologies (workday:agilent.wd5:Agilent_Student_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Agiliti (workday:agiliti.wd5:careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Air Liquide (workday:airliquidehr.wd3:AirLiquideExternalCareer): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Air Products (workday:airproducts.wd5:AP0001): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Airbus (workday:ag.wd3:Airbus): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - Aircall (lever:aircall:): HTTPError HTTP Error 404: Not Found
-- Airgas (workday:airliquidehr.wd3:airgasexternalcareer): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Albany Medical College (workday:albanymed.wd5:albany_med): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Albemarle (workday:albemarle.wd5:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Alcoa (workday:alcoa.wd5:Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Alcon (workday:alcon.wd5:careers_alcon): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Alegeus (workday:alegeus.wd1:Alegeus_External_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Alexion (workday:astrazeneca.wd3:alexion): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Alfa Financial Software (workday:alfa.wd3:alfa): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Alkegen (workday:alkegen.wd5:alkegen): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Allegion (workday:allegion.wd5:careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Allegro MicroSystems (workday:allegromicro.wd5:allegrocareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AllianceBernstein (workday:abglobal.wd1:abcampuscareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AllianceBernstein (workday:abglobal.wd1:alliancebernsteincareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Alliant Energy (workday:alliantenergy.wd1:alliant): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Alliaxis (workday:aliaxis.wd3:aliaxis): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Allina Health (workday:allina.wd5:external): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Allison Transmission (workday:allisontransmission.wd1:ATI-External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Allstate Insurance Company (workday:allstate.wd5:allstate_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Allstate Insurance Company (workday:allstate.wd5:sourcing_event): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Ally Bank (workday:ally.wd1:ALLY): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - Alma (greenhouse:alma:): HTTPError HTTP Error 404: Not Found
-- Alston & Bird Law Firm (workday:alston.wd1:ExternalCareer): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AltaGas (workday:wgl.wd5:altagas): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Altasciences (workday:altasciences.wd1:Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Altera Corporation (workday:altera.wd1:altera): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Always Compassionate Home Care (workday:alwayscompassionate.wd1:achomecare): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Amcor (workday:amcor.wd5:amcor_external_career_site): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Amentum (workday:pae.wd1:amentum_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Ameren (workday:ameren.wd1:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Ameresco (workday:ameresco.wd5:Ameresco): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- American Bankers Association (workday:aba.wd1:aba): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- American Cancer Society (workday:acs.wd5:acscareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- American Cancer Society Cancer Action Network (workday:acs.wd5:acscan): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- American Century Investments (workday:americancentury.wd5:AmericanCenturyInvestments): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- American Electric Power (workday:aep.wd1:AEPCareerSite): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- American Family Insurance Group (workday:amfam.wd1:AmFamGroupInternCareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- American Family Insurance Group (workday:amfam.wd1:Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- American Fidelity (workday:americanfidelity.wd5:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- American Red Cross (workday:americanredcross.wd1:american_red_cross_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- American University (workday:american.wd1:au): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Ameriprise Financial (workday:ameriprise.wd5:Ameriprise): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - Amerisure (workday:osv-amerisure.wd5:Amerisure): HTTPError HTTP Error 422: Unprocessable Entity
-- Amgen (workday:amgen.wd1:careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - Amigo AI (ashby:amigo:): HTTPError HTTP Error 404: Not Found
-- Amplify (workday:amplify.wd1:Amplify_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Amynta Group (workday:amynta.wd5:global): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Analog Devices (workday:analogdevices.wd1:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Anglian Water (workday:awg.wd3:AW): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Anglian Water (workday:awg.wd3:broadbean_external): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Anheuser-Busch (workday:abinbev.wd1:USA): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Ankura Consulting Group (workday:ankura.wd5:ankura): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Ann & Robert H. Lurie Children’s Hospital of Chicago (workday:luriechildrens.wd1:externalportal): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Antares Capital (workday:antares.wd5:antares): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Amplify (workday:amplify.wd1:Amplify_Careers): HTTPError HTTP Error 403: Forbidden
 - Antech Diagnostics (workday:vca.wd1:antechcareers): HTTPError HTTP Error 422: Unprocessable Entity
-- Apex Fintech Solutions (workday:peak6group.wd1:apexfintechsolutions): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Apollo Global (workday:athene.wd5:Apollo_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Apple Bank (workday:applebank.wd5:applebankcareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Applied Information Sciences (workday:appliedis.wd5:ais_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - Applied Intuition (greenhouse:appliedintuition:): HTTPError HTTP Error 404: Not Found
-- Applied Materials (workday:amat.wd1:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - Aprio (lever:aprio:): HTTPError HTTP Error 404: Not Found
-- Aptiv (workday:aptiv.wd5:aptiv_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Aramsco (workday:aramsco.wd1:aramscocareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Arbella (workday:arbella.wd5:Arbella): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - Arch (ashby:arch.co:): HTTPError HTTP Error 404: Not Found
-- Arch Capital Group (workday:archgroup.wd1:careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Arctic Wolf (workday:arcticwolf.wd1:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Ares Management (workday:aresmgmt.wd1:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Argo Group (workday:brookfield.wd5:bpandc): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Argonne National Laboratory (workday:argonne.wd1:Argonne_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Argonne National Laboratory (workday:argonne.wd1:EDU_PUB): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AriensCo (workday:arienscompany.wd5:external): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - Arine (greenhouse:arine:): HTTPError HTTP Error 404: Not Found
-- Aristocrat Leisure (workday:aristocrat.wd3:aristocratexternalcareerssite): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Arizona State University (workday:asu.wd1:ASUStaffCareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Arizona State University (workday:asuep.wd5:ASUEP): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Arizona State University (workday:asuep.wd5:ASUFoundation): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Arkansas Blue Cross (workday:arkbluecross.wd1:abcbs_external_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Arkansas Children's (workday:archildrens.wd1:external_career_site): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Arrow Electronics (workday:arrow.wd1:ac): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Arrowstreet Capital (workday:arrowstreetcapital.wd5:Campus_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Ascend Performance Materials (workday:ascendperformancematerials.wd1:ascend): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Ascensus (workday:ascensushr.wd1:ascensuscareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Aspen Dental (workday:aspendental.wd1:careers_aspen_dental): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AspenTech (workday:aspentech.wd5:aspentech): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AssetMark (workday:assetmark.wd5:AssetMark_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AssetWorks (workday:volarisgroup.wd3:AssetWorks): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AssetWorks (workday:volarisgroup.wd3:GoAssetWorks): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Associated Bank (workday:associatedbank.wd1:external_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Association of American Medical Colleges (workday:aamc.wd5:aamc): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Assurant (workday:assurant.wd1:Assurant_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Assurant (workday:assurant.wd1:External_Limited_Posting): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AstraZeneca (workday:astrazeneca.wd3:Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Astreya (workday:astreya.wd5:life-at-astreya-opportunities): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Asurion (workday:asurion.wd5:asurioncareers_us): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Athena Health (workday:athenahealth.wd1:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Athene (workday:athene.wd5:athene_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AtkinsRéalis (workday:slihrms.wd3:careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - Atlas Energy Solutions (greenhouse:atlassand:): HTTPError HTTP Error 404: Not Found
 - Atomic Semi (ashby:atomicsemi:): HTTPError HTTP Error 404: Not Found
-- Atrium Hospitality (workday:atriumhospitality.wd5:atriumhospitality): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Augusta National Golf Club (workday:angc.wd5:ANGC): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Austal USA (workday:austalusa.wd1:austal): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Austin Community College District (workday:austincc.wd1:external): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Auto Club Group (workday:acg.wd1:Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Auto-Owners Insurance (workday:aoins.wd5:AutoOwners): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- AutoNation (workday:autonation.wd5:Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Autodesk (workday:autodesk.wd1:Ext): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Autodesk (workday:autodesk.wd1:uni): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - Autoroboto (lever:autoroboto:): HTTPError HTTP Error 404: Not Found
-- Autostore (workday:autostore.wd3:autostore): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Availity (workday:availity.wd1:availity_careers_us): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Aviagen (workday:aviagen.wd1:aviagen-careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - AvicenaTech (rippling:general:): HTTPError HTTP Error 404: Not Found
-- Avis Budget Group (workday:avisbudget.wd1:abg_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Aviva (workday:aviva.wd1:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Aviva Investors (workday:aviva.wd1:Aviva_Investors_External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Avnet (workday:avnet.wd1:external): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Axalta (workday:axalta.wd1:axalta): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Axcelis Technologies Inc. (workday:axcelis.wd1:axcelis): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Axiom Space (workday:axiomspace.wd5:External_Career_Site): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Axis Capital (workday:axiscapital.wd1:axiscareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Axis Communications AB (workday:axis.wd3:external_career_site): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Axos Bank (workday:axos.wd5:Axos): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Azenta (workday:azenta.wd1:AzentaJobs): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- BCBST (workday:bcbst.wd1:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- BDO Canada (workday:bdo.wd3:BDO): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- BECU (workday:becu.wd1:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- BJ's Wholesale Club (workday:bjswholesaleclub.wd1:BJsCareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- BP (workday:bpinternational.wd3:bpCareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- BP (workday:bpinternational.wd3:bpEarlyCareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- BRG (workday:thinkbrg.wd5:BRG_External_Career_Site): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Bacardi (workday:bacardi.wd3:Jobs_Bacardi): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Badger Meter (workday:badgermeter.wd5:US_CareerSite): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - Bain Capital (ashby:bain-capital:): HTTPError HTTP Error 404: Not Found
-- Bain Capital (workday:baincapital.wd1:External_Public): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Baird (workday:baird.wd1:careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Baker Hughes (workday:bakerhughes.wd5:BakerHughes): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Baker Tilly (workday:bakertilly.wd5:BTCareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Baldwin Group (workday:baldwin.wd1:Baldwin): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Banco Bilbao Vizcaya Argentaria (workday:bbva.wd3:BBVA): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Bank of America (workday:ghr.wd1:lateral-emea): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Bank of America (workday:ghr.wd1:us-emplsv): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Bank of Montreal (workday:bmo.wd3:Campus): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Bank of Montreal (workday:bmo.wd3:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Bank of Montreal (workday:bmo.wd3:Privileged): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Baptist Health (workday:bhs.wd1:careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Barclays (workday:barclays.wd3:External_Career_Site_Barclays): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Barnard College (workday:barnard.wd1:Staff): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Barr (workday:barr.wd1:barrcareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Barry-Wehmiller (workday:barrywehmiller.wd1:BWCareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Barry-Wehmiller (workday:barrywehmiller.wd1:BWConfidential): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Bass Pro Shops (workday:basspro.wd1:careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Baxter International (workday:baxter.wd1:baxter): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- BeOne (workday:beigene.wd5:beigene): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - Beacon Software (ashby:beaconsoftware:): HTTPError HTTP Error 404: Not Found
-- Becton Dickinson (workday:bdx.wd1:EXTERNAL_CAREER_SITE_USA): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Becton Dickinson (workday:bdx.wd1:US_EARLY_TALENT_SITE): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Belk (workday:belk.wd1:careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Belk (workday:belk.wd1:careers-collegecampus): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Benefis Health System (workday:benefis.wd1:bhs): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Best Buy (workday:bestbuycanada.wd3:BestBuyCA_Career): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - Best Egg (lever:bestegg:): HTTPError HTTP Error 404: Not Found
-- BetMGM (workday:betmgminc.wd5:BetMGM): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Beth Israel Lahey Health (workday:bilh.wd1:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Betway (workday:myhcm.wd3:Betway): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- BiblioCommons (workday:volarisgroup.wd3:BiblioCommons): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Bio-Techne (workday:biotechne.wd5:Biotechne): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Biogen (workday:biibhr.wd3:external): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Bird Construction (workday:bird.wd3:BirdConstructionCareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- BlackRock (workday:blackrock.wd1:BlackRock_Early_Careers_Program): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- BlackRock (workday:blackrock.wd1:BlackRock_Professional): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Blackberry (workday:bb.wd3:QNX): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Blackberry (workday:bb.wd3:Student): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Blackberry (workday:bb.wd3:blackberry): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Blackstone (workday:blackstone.wd1:Blackstone_Campus_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Blackstone (workday:blackstone.wd1:bx_external_site): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Bloom Energy (workday:bloomenergy.wd1:bloomenergycareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Bloomberg Industry Group (workday:bloomberg.wd1:Bloombergindustrygroup_External_Career_Site): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Blue Cross Blue Shield (workday:bcbsa.wd1:careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Blue Cross Blue Shield of Arizona (workday:bcbsaz.wd1:bcbsazcareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Blue Cross and Blue Shield of Kansas (workday:bcbsks.wd1:External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Blue Cross and Blue Shield of Louisiana (workday:bcbsla.wd1:external): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Blue Cross and Blue Shield of Rhode Island (workday:bcbsri.wd1:BCBSRICareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Blue Cross of Idaho (workday:bcidaho.wd5:BCI): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Blue Nile (workday:signetjewelers.wd1:bluenile): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Blue Origin (workday:blueorigin.wd5:blueorigin): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Blue Yonder (workday:jda.wd5:JDA_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- BlueCross BlueShield of Nebraska (workday:nebraskablue.wd1:BCBSNE): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- BlueScope (workday:bluescopenac.wd5:BNACareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Boar’s Head Brand (workday:boarshead.wd1:BHC): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Bob's Discount Furniture (workday:bobsdf.wd1:bobs_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Boeing (workday:boeing.wd1:external_subsidiary): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Bonterra (workday:bonterra.wd1:bonterratech): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Booz Allen (workday:bah.wd1:Confidential): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Booz Allen (workday:bah.wd1:bah_jobs): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- BorgWarner (workday:borgwarner.wd5:BorgWarner_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Boston Dynamics (workday:bostondynamics.wd1:Boston_Dynamics): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Boston Medical Center (workday:bmc.wd1:BMC): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Boys Town (workday:boystown.wd1:boystowncareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Brandeis University (workday:brandeis.wd5:Jobs): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Braun Intertec (workday:braunintertec.wd5:brauninterteccareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Bread Financial (workday:alliancedata.wd5:breadfinancial_us): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Boar’s Head Brand (workday:boarshead.wd1:BHC): HTTPError HTTP Error 403: Forbidden
 - Breeze Airways (greenhouse:breezeairways:): HTTPError HTTP Error 404: Not Found
-- Brevan Howard (workday:brevanhoward.wd3:BH_ExternalCareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Brigham Young University (workday:byu.wd1:byu-careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Brink (workday:brinks.wd5:brinkscareersus): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Bristol Myers Squibb (workday:bristolmyerssquibb.wd5:bms): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Broadcom Limited (workday:broadcom.wd1:external_career): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Broadridge (workday:broadridge.wd5:Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Broadview Federal Credit Union (workday:broadviewfcu.wd1:broadviewfcucareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Brock University (workday:brocku.wd3:brocku_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Brookfield (workday:brookfield.wd5:brookfield): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Brookhaven Lab (workday:bnl.wd1:externa): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Brooks Automation (workday:brooksauto.wd1:Brooks_External_Site): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Brown & Brown Insurance (workday:bbinsurance.wd1:careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Brown Brothers Harriman (workday:bbh.wd5:BBH): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Brown University (workday:brown.wd5:staff-careers-brown): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Bupa (workday:bupa.wd3:ext_career): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Burlington Stores (workday:burlington.wd5:BurlingtonCareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Brink (workday:brinks.wd5:brinkscareersus): HTTPError HTTP Error 404: Not Found
 - Busuu (workday:osv-chegg.wd5:Busuu): HTTPError HTTP Error 422: Unprocessable Entity
 - Buyers Edge Platform (greenhouse:buyersedgeplatformrecruiting:): HTTPError HTTP Error 404: Not Found
 - C Spire (workday:cspire-telapex.wd12:external-careers): HTTPError HTTP Error 422: Unprocessable Entity
-- C&S Wholesale Grocers (workday:cswg.wd1:cs_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- C.H. Robinson (workday:chrobinson.wd5:CHRobinson): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CACI (workday:caci.wd1:external): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CAE (workday:cae.wd3:career): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CAI (workday:cai.wd5:computer_aid): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - CALSTART (lever:calstart:): HTTPError HTTP Error 404: Not Found
-- CCC Intelligent Solutions (workday:cccis.wd1:broadbean_external): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CDK Global (workday:cdk.wd1:CDK): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CDW Corporation (workday:cdw.wd5:careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - CFA Institute (workday:osv-cfainstitute.wd5:Careers): HTTPError HTTP Error 422: Unprocessable Entity
-- CHEP (workday:brambles.wd5:Brambles_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CIBC (workday:cibc.wd3:campus): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CLEAResult (workday:clearesult.wd1:CLEAResult_External_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CMC Markets (workday:cmcmarkets.wd3:CMC_Markets_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CME Group (workday:cmegroup.wd1:cme_careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CNA Insurance (workday:cna.wd1:CNA_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CNM Central New Mexico Community College (workday:chess.wd1:CNMJOBS): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CNO Financial Group (workday:cnoinc.wd5:Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- COUNTRY Financial (workday:countryfinancial.wd5:COUNTRYCorporateExternal): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- COUNTRY Financial (workday:countryfinancial.wd5:COUNTRYCorporateInternships): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CSA Group (workday:csagroup.wd3:csagroup): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CSAA Insurance Group (workday:aaaie.wd1:CSAACareers2): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CSI (workday:csiweb.wd1:CSI_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CSL (workday:csl.wd1:CSL_External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
 - CTI (greenhouse:cti:): HTTPError HTTP Error 404: Not Found
-- CVS Health (workday:cvshealth.wd1:CVS_Health_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- CWS (workday:cws.wd3:cws_jobs): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Cambia Health Solutions (workday:cambiahealth.wd1:External): HTTPError HTTP Error 422: Unprocessable Entity
+- Capital Rx (greenhouse:capitalrx:): HTTPError HTTP Error 404: Not Found
+- Carnegie Mellon University (workday:cmu.wd5:cmu): HTTPError HTTP Error 422: Unprocessable Entity
+- Castleton Commodities International (workday:osv-cci.wd1:CCICareers): HTTPError HTTP Error 422: Unprocessable Entity
+- Cerebras (greenhouse:embed:): HTTPError HTTP Error 404: Not Found
+- CesiumAstro (lever:cesiumastro:): HTTPError HTTP Error 404: Not Found
+- Chainlink Labs (ashby:chainlink-labs:): HTTPError HTTP Error 404: Not Found
+- Chegg (workday:osv-chegg.wd5:Chegg): HTTPError HTTP Error 422: Unprocessable Entity
+- Cherry Technologies (ashby:withcherry:): HTTPError HTTP Error 404: Not Found
+- CliftonLarsonAllen (workday:cliftonlarsonallen.wd1:CLA): HTTPError HTTP Error 422: Unprocessable Entity
+- ClimateAI (greenhouse:climateai:): HTTPError HTTP Error 404: Not Found
+- Color (lever:color:): HTTPError HTTP Error 404: Not Found
+- Comcast (workday:comcast.wd5:Comcast_Careers): HTTPError HTTP Error 422: Unprocessable Entity
+- Conde Nast (workday:condenast.wd5:CondeCareers): HTTPError HTTP Error 422: Unprocessable Entity
+- Cystic Fibrosis Foundation (workday:cff.wd1:explore-career-opportunities): HTTPError HTTP Error 422: Unprocessable Entity
+- DESIGNME Hair (greenhouse:designmehair:): HTTPError HTTP Error 404: Not Found
+- DebtBook (greenhouse:debtbook:): HTTPError HTTP Error 404: Not Found
+- Dell Technologies (workday:dell.wd1:External): HTTPError HTTP Error 422: Unprocessable Entity
+- Dusty Robotics (greenhouse:dustyrobotics:): HTTPError HTTP Error 404: Not Found
+- EPRI (workday:vhr-epri.wd1:epricareers): HTTPError HTTP Error 422: Unprocessable Entity
+- Egra (ashby:egra:): HTTPError HTTP Error 404: Not Found
+- Elevation Capital (rippling:elevationcapital:): HTTPError HTTP Error 404: Not Found
+- Energy Vault (lever:energyvault:): HTTPError HTTP Error 404: Not Found
+- Enterprise Bank & Trust (workday:osv-enterprise.wd1:EnterpriseBankTrust_Jobs): HTTPError HTTP Error 422: Unprocessable Entity
+- Environmental Defense Fund (workday:osv-edf.wd5:Confidential): HTTPError HTTP Error 422: Unprocessable Entity
+- EvenUp (ashby:evenup:): HTTPError HTTP Error 404: Not Found
+- Exploration Technology Corp. (rippling:etg:): HTTPError HTTP Error 404: Not Found
+- FanThreeSixty (workday:osv-tifec.wd5:fanthreesixty): HTTPError HTTP Error 422: Unprocessable Entity
+- Farcast (lever:farcast:): HTTPError HTTP Error 404: Not Found
+- Firetiger (ashby:firetiger:): HTTPError HTTP Error 404: Not Found
+- Fireworks AI (greenhouse:fireworksai:): HTTPError HTTP Error 404: Not Found
+- Forerunner (greenhouse:forerunner:): HTTPError HTTP Error 404: Not Found
+- Fractional AI (ashby:fractional-ai:): HTTPError HTTP Error 404: Not Found
+- Fragomen (workday:fragomen.wd1:FragomenCareers): HTTPError HTTP Error 422: Unprocessable Entity
+- Fundamental Research Labs (ashby:fundamentalresearchlabs:): HTTPError HTTP Error 404: Not Found
+- Gap Inc. (workday:gapinc.wd1:gapconfidential): HTTPError HTTP Error 404: Not Found
+- Genesis Therapeutics (ashby:genesis-therapeutics:): HTTPError HTTP Error 404: Not Found
+- Gensler (workday:gensler.wd1:genslercareers): HTTPError HTTP Error 401: Unauthorized
+- Gitar Inc. (rippling:gitar-careers:): HTTPError HTTP Error 404: Not Found
+- GlossGenius (greenhouse:glossgenius:): HTTPError HTTP Error 404: Not Found
+- Greenheck Group (workday:greenheckgroup.wd5:external): JSONDecodeError Expecting value: line 1 column 1 (char 0)
+- Grid (lever:grid:): HTTPError HTTP Error 404: Not Found
+- Harness (rippling:harness-careers:): HTTPError HTTP Error 404: Not Found
+- Hiive (ashby:hiive:): HTTPError HTTP Error 404: Not Found
+- Hilbert (ashby:hilberts:): HTTPError HTTP Error 404: Not Found
+- Hitachi (workday:gtsgbu.wd3:Careers): HTTPError HTTP Error 403: Forbidden
+- Hy-Vee (workday:hyvee.wd1:HyVeeCareers): HTTPError HTTP Error 429: Too Many Requests
+- IDEXX (workday:idexx.wd1:IDEXX): HTTPError HTTP Error 422: Unprocessable Entity
+- Inductive Automation (lever:inductiveautomation:): HTTPError HTTP Error 404: Not Found
+- Insmed (workday:insmed.wd5:EXTERNAL): HTTPError HTTP Error 422: Unprocessable Entity
+- Inspiration Commerce Group (ashby:inspiration-commerce-group:): HTTPError HTTP Error 404: Not Found
+- Instabase (greenhouse:instabase:): HTTPError HTTP Error 404: Not Found
+- Interactive Brokers Group (greenhouse:ibkr:): HTTPError HTTP Error 404: Not Found
+- Jones Lang LaSalle (JLL) (workday:jll.wd1:jllcareers): HTTPError HTTP Error 429: Too Many Requests
+- Klarity (ashby:klarity-ai:): HTTPError HTTP Error 404: Not Found
+- Kohl's (workday:kohls.wd1:kohlscareers): HTTPError HTTP Error 422: Unprocessable Entity
+- LVT (greenhouse:liveviewtechnologiesinc:): HTTPError HTTP Error 404: Not Found
+- Labcorp (workday:labcorp.wd1:external): HTTPError HTTP Error 429: Too Many Requests
+- Latitude.io (ashby:latitude:): HTTPError HTTP Error 404: Not Found
+- Legrand (icims:jobs-legrand.icims.com:): HTTPError HTTP Error 404: Not Found
+- Legrand (workday:milestone.wd1:Milestone_External): HTTPError HTTP Error 422: Unprocessable Entity
+- LendingClub (workday:lendingclub.wd1:external): HTTPError HTTP Error 401: Unauthorized
+- Levels Technologies (ashby:levels:): HTTPError HTTP Error 404: Not Found
+- Lilly USA (workday:lilly.wd5:CMP): HTTPError HTTP Error 422: Unprocessable Entity
+- Lilly USA (workday:lilly.wd5:LLY): HTTPError HTTP Error 422: Unprocessable Entity
+- Lindy (ashby:lindy:): HTTPError HTTP Error 404: Not Found
+- Lithia Motors (workday:lithia.wd5:LithiaCareers): HTTPError HTTP Error 422: Unprocessable Entity
+- LiveRamp (workday:liveramp.wd5:LiveRampCareers): HTTPError HTTP Error 403: Forbidden
+- Loop (greenhouse:loop:): HTTPError HTTP Error 404: Not Found
+- Lynk (ashby:Lynk:): HTTPError HTTP Error 404: Not Found
+- MARA (greenhouse:mara:): HTTPError HTTP Error 404: Not Found
+- MKS Instruments (workday:mksinst.wd1:MKSCareersUniversity): HTTPError HTTP Error 429: Too Many Requests
+- Mach Industries (ashby:mach:): HTTPError HTTP Error 404: Not Found
+- Machina Labs (lever:machinalabs:): HTTPError HTTP Error 404: Not Found
+- Magnite (workday:osv-rubicon.wd5:MagniteCareers): HTTPError HTTP Error 422: Unprocessable Entity
+- MaintainX (greenhouse:maintainx:): HTTPError HTTP Error 404: Not Found
+- Marathon Petroleum (workday:mpc.wd1:MPCCareers): HTTPError HTTP Error 429: Too Many Requests
+- Maricopa County (workday:maricopa.wd1:MC_External): HTTPError HTTP Error 429: Too Many Requests
+- Maritz (workday:maritz.wd1:Maritz): HTTPError HTTP Error 429: Too Many Requests
+- Marmon Holdings (workday:marmon.wd501:Marmon_MSIP_Internships): HTTPError HTTP Error 403: Forbidden
+- Marqeta (greenhouse:mqreferrals:): HTTPError HTTP Error 404: Not Found
+- Marsh (workday:mmc.wd1:mmc): HTTPError HTTP Error 429: Too Many Requests
+- MatX (greenhouse:matx:): HTTPError HTTP Error 404: Not Found
+- Maximor AI (ashby:maximor:): HTTPError HTTP Error 404: Not Found
+- McCoy’s (workday:mccoys.wd1:mccoys_external_careers): HTTPError HTTP Error 429: Too Many Requests
+- Medical University of South Carolina (workday:musc.wd1:MUSC): HTTPError HTTP Error 429: Too Many Requests
+- Medtronic (workday:medtronic.wd1:MedtronicCareers): HTTPError HTTP Error 429: Too Many Requests
+- Medtronic (workday:medtronic.wd1:redeploymentmedtroniccareers): HTTPError HTTP Error 429: Too Many Requests
+- Memphis Meats (greenhouse:memphismeats:): HTTPError HTTP Error 404: Not Found
+- Mentis AI (ashby:mentis:): HTTPError HTTP Error 404: Not Found
+- Mercedes-Benz (lever:mbrdna:): HTTPError HTTP Error 404: Not Found
+- Metlife Group Inc. (lever:metlife:): HTTPError HTTP Error 404: Not Found
+- Micron Technology (workday:micron.wd1:External): HTTPError HTTP Error 429: Too Many Requests
+- Midland States Bank (workday:midlandsb.wd1:msbcareers): HTTPError HTTP Error 429: Too Many Requests
+- Milwaukee Tool (workday:tti.wd1:Milwaukee): HTTPError HTTP Error 429: Too Many Requests
+- MintMCP (ashby:mintmcp:): HTTPError HTTP Error 404: Not Found
+- Mistral AI (ashby:mtesting.ai:): HTTPError HTTP Error 404: Not Found
+- Momentive (workday:momentive.wd1:MC): HTTPError HTTP Error 429: Too Many Requests
+- Montrose Environmental Group (workday:montrose.wd1:meg): HTTPError HTTP Error 429: Too Many Requests
+- Morris Health Technologies Inc. (ashby:morrishealthtech:): HTTPError HTTP Error 404: Not Found
+- Moss & Associates (workday:mosscm.wd1:moss_careers): HTTPError HTTP Error 429: Too Many Requests
+- Movado Group (workday:movadogroup.wd1:careers): HTTPError HTTP Error 429: Too Many Requests
+- Multnomah County (workday:multco.wd1:multco_jobs): HTTPError HTTP Error 429: Too Many Requests
+- NCR Voyix (workday:ncr.wd1:ext_non_us): HTTPError HTTP Error 429: Too Many Requests
+- NCR Voyix (workday:ncr.wd1:ext_us): HTTPError HTTP Error 429: Too Many Requests
+- NXP Semiconductors (workday:nxp.wd3:careers): HTTPError HTTP Error 422: Unprocessable Entity
+- National Interstate Insurance (workday:gaig.wd1:National_Interstate_External): HTTPError HTTP Error 429: Too Many Requests
+- National Renewable Energy Laboratory (workday:nrel.wd5:nrel): HTTPError HTTP Error 404: Not Found
+- Ncino (workday:ncino.wd5:nCinoCareers): HTTPError HTTP Error 403: Forbidden
+- Neighborly (workday:neighborlybrands.wd1:neighborly): HTTPError HTTP Error 429: Too Many Requests
+- Nelnet (workday:nelnet.wd1:MyNelnet): HTTPError HTTP Error 429: Too Many Requests
+- Netflix (workday:netflix.wd1:Netflix): HTTPError HTTP Error 422: Unprocessable Entity
+- New Jersey State Office of Innovation (lever:njstateofficeofinnovation:): HTTPError HTTP Error 404: Not Found
+- Nike (workday:nike.wd1:nke): HTTPError HTTP Error 429: Too Many Requests
+- Nio (workday:nio.wd3:NIO_Careers): HTTPError HTTP Error 422: Unprocessable Entity
+- Nomagic (lever:nomagic:): HTTPError HTTP Error 404: Not Found
+- Northrop Grumman (workday:ngc.wd1:northrop_grumman_restricted_site): HTTPError HTTP Error 403: Forbidden
+- OCLC (workday:oclc.wd1:OCLC_Careers): HTTPError HTTP Error 429: Too Many Requests
+- OakNorth Bank (lever:oaknorth.ai:): HTTPError HTTP Error 404: Not Found
+- Ochsner Health (workday:ochsner.wd1:ochsner): HTTPError HTTP Error 429: Too Many Requests
+- Odin Dynamics Inc (ashby:odin-dynamics:): HTTPError HTTP Error 404: Not Found
+- Omnicom Media Group (greenhouse:omguk:): HTTPError HTTP Error 404: Not Found
+- OneDigital (workday:onedigital.wd5:onedigital): HTTPError HTTP Error 422: Unprocessable Entity
+- OneMain Financial (workday:myhrhome.wd1:OneMainCareers): HTTPError HTTP Error 429: Too Many Requests
+- OneSource Virtual (workday:vhr-osvhr.wd1:OSV_External_Career_Site): HTTPError HTTP Error 422: Unprocessable Entity
+- Orion Steel Group (workday:evrazna.wd5:EVRAZ): HTTPError HTTP Error 422: Unprocessable Entity
+- Otis Worldwide (workday:otis.wd5:rec_ext_gateway): HTTPError HTTP Error 422: Unprocessable Entity
+- Otsuka Pharmaceutical (workday:vhr-otsuka.wd1:External): HTTPError HTTP Error 422: Unprocessable Entity
+- PBS (workday:vhr-pbs.wd5:PBSCareers): HTTPError HTTP Error 422: Unprocessable Entity
+- PJT Partners (workday:pjtpartners.wd1:Careers): HTTPError HTTP Error 429: Too Many Requests
+- Pitney Bowes (workday:pitneybowes.wd1:pbcareers): HTTPError HTTP Error 429: Too Many Requests
+- Plastipak (workday:plastipak.wd1:Plastipak): HTTPError HTTP Error 429: Too Many Requests
+- Plexus (workday:plexus.wd5:Plexus_Careers): HTTPError HTTP Error 422: Unprocessable Entity
+- Postman (greenhouse:postman:): HTTPError HTTP Error 404: Not Found
+- Praos Smart Security (rippling:praos-smart-security:): HTTPError HTTP Error 404: Not Found
+- Pryzm (ashby:pryzm:): HTTPError HTTP Error 404: Not Found
+- Qualified Health (greenhouse:qualifiedhealth:): HTTPError HTTP Error 404: Not Found
+- Quantum Workplace (lever:quantumworkplace:): HTTPError HTTP Error 404: Not Found
+- ReCor Medical (workday:vhr-otsuka.wd1:RecorExternal): HTTPError HTTP Error 422: Unprocessable Entity
+- Reach Financial (greenhouse:reach:): HTTPError HTTP Error 404: Not Found
+- Realtor.com (greenhouse:rdccareers:): HTTPError HTTP Error 404: Not Found
+- Red Bull Advanced Technologies (workday:redbulltechnology.wd3:RB_Racing): HTTPError HTTP Error 422: Unprocessable Entity
+- Redfin (workday:redfin.wd1:redfin_careers): HTTPError HTTP Error 403: Forbidden
+- Regal (lever:regalvoice:): HTTPError HTTP Error 404: Not Found
+- Revolution (icims:careers-revolutioncompany.icims.com:): HTTPError HTTP Error 404: Not Found
+- Ribbon (workday:vhr-genband.wd1:ribboncareers): HTTPError HTTP Error 422: Unprocessable Entity
+- Ryan (workday:ryan.wd1:Students-Graduates): HTTPError HTTP Error 404: Not Found
+- SSM Health (workday:ssmh.wd5:ssmhealth): HTTPError HTTP Error 422: Unprocessable Entity
+- Sallie Mae (workday:sallie-mae.wd5:Careers): HTTPError HTTP Error 422: Unprocessable Entity
+- Saronic (lever:saronic:): HTTPError HTTP Error 404: Not Found
+- Savage X Fenty (workday:justfab.wd1:savagex): HTTPError HTTP Error 422: Unprocessable Entity
+- Scout AI (greenhouse:scoutai:): HTTPError HTTP Error 404: Not Found
+- Seamless.AI (greenhouse:seamlessai:): HTTPError HTTP Error 404: Not Found
+- Sennos (rippling:sennos:): HTTPError HTTP Error 404: Not Found
+- Sharp Electronics (icims:careers-sharpusa.icims.com:): HTTPError HTTP Error 404: Not Found
+- Shyft Solutions (greenhouse:shyftsolutionsllc:): HTTPError HTTP Error 404: Not Found
+- Simbe Robotics (lever:simberobotics:): HTTPError HTTP Error 404: Not Found
+- Sporting Kansas City (workday:osv-tifec.wd5:SportingKC): HTTPError HTTP Error 422: Unprocessable Entity
+- Takeda (workday:takeda.wd3:external): HTTPError HTTP Error 422: Unprocessable Entity
+- TalentWerx (lever:talentwerx.io:): HTTPError HTTP Error 404: Not Found
+- Tempo (ashby:Tempo:): HTTPError HTTP Error 404: Not Found
+- Texas A&M University - College Station (workday:tamus.wd1:TAMU_External): HTTPError HTTP Error 429: Too Many Requests
+- The Bergaila Companies (icims:careers-bergaila.icims.com:): HTTPError HTTP Error 403: Forbidden
+- Threatlocker (greenhouse:threatlocker:): HTTPError HTTP Error 404: Not Found
+- Ticketmaster (workday:livenation.wd503:en): HTTPError HTTP Error 404: Not Found
+- Tilde Research (ashby:tilderesearch:): HTTPError HTTP Error 404: Not Found
+- Tracer Cloud (ashby:tracer:): HTTPError HTTP Error 404: Not Found
+- Transcarent (greenhouse:transcarent:): HTTPError HTTP Error 404: Not Found
+- Trend Health Partners (lever:trend-health-partners:): HTTPError HTTP Error 404: Not Found
+- Trio (lever:trio:): HTTPError HTTP Error 404: Not Found
+- Tuesday Lab (ashby:tuesday-lab:): HTTPError HTTP Error 404: Not Found
+- Two Dots (ashby:two-dots:): HTTPError HTTP Error 404: Not Found
+- USIC (workday:usicinc.wd5:USICCareers): HTTPError HTTP Error 422: Unprocessable Entity
+- Underdog Fantasy (greenhouse:underdogfantasy:): HTTPError HTTP Error 404: Not Found
+- United Therapeutics Corporation (workday:vhr-unither.wd5:External): HTTPError HTTP Error 422: Unprocessable Entity
+- Uplifter (greenhouse:uplifter:): HTTPError HTTP Error 404: Not Found
+- Veeda AI (ashby:veeda-labs:): HTTPError HTTP Error 404: Not Found
+- Visier Solutions (greenhouse:visiersolutionsinc:): HTTPError HTTP Error 404: Not Found
+- Walmart (workday:walmart.wd5:WalmartExternal): HTTPError HTTP Error 422: Unprocessable Entity
+- Welocalize (lever:welocalize:): HTTPError HTTP Error 404: Not Found
+- WhatNot (ashby:whatnot:): HTTPError HTTP Error 404: Not Found
+- Withum (greenhouse:campusopportunities:): HTTPError HTTP Error 404: Not Found
+- Withum (greenhouse:withumsmithbrown:): HTTPError HTTP Error 404: Not Found
+- Xpansiv (lever:xpansiv%20:): HTTPError HTTP Error 404: Not Found
+- eternal.ag (rippling:eternal:): HTTPError HTTP Error 404: Not Found
+- iHerb (greenhouse:iherb:): HTTPError HTTP Error 404: Not Found
