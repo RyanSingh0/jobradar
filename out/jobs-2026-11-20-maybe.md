@@ -23,54 +23,58 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 17 | iHeartMedia | Finance Analyst, Corporate | 65 | 5 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
 | 18 | TribalScale | AI Engineer - Agent Infrastructure & AI Workflow | 65 | none found (check myvisajobs) | Nov 20 12:11 ET |
 | 19 | Bank of Montreal | Analyst, Global Markets Corporate Banking | 65 | 4 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 20 | Whataburger | Accounting Data Analyst | 59 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 21 | City of New York | Data Engineer | 58 | none found (check myvisajobs) | Nov 20 06:22 ET |
-| 22 | City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics | 57 | none found (check myvisajobs) | Nov 20 06:22 ET |
-| 23 | Highmark Health | Associate Strategy Analyst | 57 | 11 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 24 | AES | Data Analyst, Training Operations | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 25 | Baird | Statements & Investor Reporting Analyst | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 26 | Applied Intuition | Capacity Planning and Analytics Coordinator | 55 | 2 in data/analytics/finance occupations | Nov 20 16:33 ET |
-| 27 | University of Chicago | Research Analyst | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
-| 28 | Texas A&M University - College Station | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
-| 29 | Texas A&M University System | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
-| 30 | Knowledge Services | Job Title Remote Research Analyst - Survey & Data Collection (Contract) | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 31 | Axos Bank | JBATA - Data Engineer | 54 | 6 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 32 | HCSC | Quality and Reporting Analyst | 54 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 33 | National Laboratory of the Rockies | ML and Optimization Engineer | 54 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 34 | Cushman & Wakefield | Research Analyst | 54 | 2 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 35 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 36 | Berkshire Hathaway Energy | Mgr, Data Science | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 37 | CVS Health | Software Development - Data Engineer | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 38 | Mercury Insurance | Title AI Engineer I | 52 | 5 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 39 | Invesco | Business Risk Analyst | 50 | 28 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 40 | Goodlord | Operations & Risk Analyst | 50 | none found (check myvisajobs) | Nov 20 12:34 ET |
-| 41 | Barclays | Business Intelligence Developer | 48 | 142 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 42 | Blue Sky Innovators | AI Engineering Advisor | 48 | none found (check myvisajobs) | Nov 20 12:33 ET |
-| 43 | Berkshire Hathaway Energy | Data Engineer | 48 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 44 | Northwestern Mutual | Investment Analytics Associate | 48 | 20 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 45 | Verizon Communications | Forward Deployed AI Engineer | 47 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 46 | The New School | Research Associate Fall 2027 | 45 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
-| 47 | Capital Group | Investment Content & Marketing Analyst | 45 | 458 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 48 | UTHealth Houston | Research Associate | 45 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 49 | JP Morgan Chase | 2027 Applied Research Associate - Summer Associate | 44 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 50 | Cartesian | Machine Learning Scientist | 44 | none found (check myvisajobs) | Nov 20 11:17 ET |
-| 51 | bet365 | Data Engineer (EDW) | 42 | none found (check myvisajobs) | Nov 20 16:53 ET |
-| 52 | RADAR | Data Engineer | 41 | none found (check myvisajobs) | Nov 20 15:40 ET |
-| 53 | Dayton Freight Lines | Title Pricing Analyst | 40 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 54 | ISS | Institutional Shareholder Services | Custom Research Analyst- Corporate Governance (Temporary) | 40 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
-| 55 | Dallas College | Senior HR Data Analyst | 78 | cap-exempt employer | Nov 20 (board gives the date only) |
-| 56 | LPL Financial Holdings | Senior Full Stack AI/ML Engineer | 71 | 7 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 57 | Amgen | Sr Data Scientist | 66 | 112 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 58 | Regeneron Pharmaceuticals | AI Engineer II | 66 | 42 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 59 | Jerry | Senior Associate, Business Operations & Analytics | 60 | 3 in data/analytics/finance occupations | Nov 20 12:38 ET |
-| 60 | Hinge Health | AI Engineer II | 58 | 5 in data/analytics/finance occupations | Nov 20 13:20 ET |
-| 61 | JP Morgan Chase | Trust & Safety - Fraud Strategy Analyst- Senior  Associate | 57 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 62 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
-| 63 | McKesson | Sr Associate, Data Engineering | 55 | 38 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 64 | Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | 55 | 51 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
-| 65 | Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS) | 55 | 28 in data/analytics/finance occupations | Nov 20 14:03 ET |
-| 66 | DaVita | Customer Experience Reporting and Analytics Senior Developer | 55 | 9 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
-| 67 | Paypal Inc. | Sr. Machine Learning Engineer | 55 | 188 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 20 | Digital Realty | Portfolio Analyst | 62 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 21 | Whataburger | Accounting Data Analyst | 59 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 22 | City of New York | Data Engineer | 58 | none found (check myvisajobs) | Nov 20 06:22 ET |
+| 23 | City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics | 57 | none found (check myvisajobs) | Nov 20 06:22 ET |
+| 24 | Highmark Health | Associate Strategy Analyst | 57 | 11 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 25 | AES | Data Analyst, Training Operations | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 26 | Baird | Statements & Investor Reporting Analyst | 55 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 27 | Applied Intuition | Capacity Planning and Analytics Coordinator | 55 | 2 in data/analytics/finance occupations | Nov 20 16:33 ET |
+| 28 | University of Chicago | Research Analyst | 54 | cap-exempt employer | Nov 19 (board gives the date only) |
+| 29 | Texas A&M University - College Station | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
+| 30 | Texas A&M University System | Research Assistant | 54 | cap-exempt employer | Nov 20 (board gives the date only) |
+| 31 | Knowledge Services | Job Title Remote Research Analyst - Survey & Data Collection (Contract) | 54 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 32 | Axos Bank | JBATA - Data Engineer | 54 | 6 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 33 | HCSC | Quality and Reporting Analyst | 54 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 34 | National Laboratory of the Rockies | ML and Optimization Engineer | 54 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 35 | Cushman & Wakefield | Research Analyst | 54 | 2 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 36 | Baseten | Base Labs Research Scientist - RL Environments | 54 | 3 in data/analytics/finance occupations | Nov 20 18:51 ET |
+| 37 | Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027 | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 38 | Berkshire Hathaway Energy | Mgr, Data Science | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 39 | CVS Health | Software Development - Data Engineer | 52 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 40 | Mercury Insurance | Title AI Engineer I | 52 | 5 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 41 | Invesco | Business Risk Analyst | 50 | 28 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 42 | Goodlord | Operations & Risk Analyst | 50 | none found (check myvisajobs) | Nov 20 12:34 ET |
+| 43 | Barclays | Business Intelligence Developer | 48 | 142 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 44 | Blue Sky Innovators | AI Engineering Advisor | 48 | none found (check myvisajobs) | Nov 20 12:33 ET |
+| 45 | Berkshire Hathaway Energy | Data Engineer | 48 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 46 | Northwestern Mutual | Investment Analytics Associate | 48 | 20 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 47 | Verizon Communications | Forward Deployed AI Engineer | 47 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 48 | The New School | Research Associate Fall 2027 | 45 | none found (check myvisajobs) | Nov 19 (board gives the date only) |
+| 49 | Capital Group | Investment Content & Marketing Analyst | 45 | 458 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 50 | UTHealth Houston | Research Associate | 45 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 51 | JP Morgan Chase | 2027 Applied Research Associate - Summer Associate | 44 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 52 | Cartesian | Machine Learning Scientist | 44 | none found (check myvisajobs) | Nov 20 11:17 ET |
+| 53 | bet365 | Data Engineer (EDW) | 42 | none found (check myvisajobs) | Nov 20 16:53 ET |
+| 54 | bet365 | Data Engineer (EDW) | 42 | none found (check myvisajobs) | Nov 20 19:05 ET |
+| 55 | RADAR | Data Engineer | 41 | none found (check myvisajobs) | Nov 20 15:40 ET |
+| 56 | Dayton Freight Lines | Title Pricing Analyst | 40 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 57 | ISS | Institutional Shareholder Services | Custom Research Analyst- Corporate Governance (Temporary) | 40 | none found (check myvisajobs) | Nov 20 (board gives the date only) |
+| 58 | Dallas College | Senior HR Data Analyst | 78 | cap-exempt employer | Nov 20 (board gives the date only) |
+| 59 | LPL Financial Holdings | Senior Full Stack AI/ML Engineer | 71 | 7 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 60 | Amgen | Sr Data Scientist | 66 | 112 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 61 | Regeneron Pharmaceuticals | AI Engineer II | 66 | 42 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 62 | Jerry | Senior Associate, Business Operations & Analytics | 60 | 3 in data/analytics/finance occupations | Nov 20 12:38 ET |
+| 63 | Hinge Health | AI Engineer II | 58 | 5 in data/analytics/finance occupations | Nov 20 13:20 ET |
+| 64 | JP Morgan Chase | Trust & Safety - Fraud Strategy Analyst- Senior  Associate | 57 | 1098 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 65 | Google | Senior Research Data Scientist, Search Verticals and Translate | 55 | 1053 in data/analytics/finance occupations | Nov 20 03:06 ET |
+| 66 | McKesson | Sr Associate, Data Engineering | 55 | 38 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 67 | Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | 55 | 51 in data/analytics/finance occupations | Nov 19 (board gives the date only) |
+| 68 | Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS) | 55 | 28 in data/analytics/finance occupations | Nov 20 14:03 ET |
+| 69 | DaVita | Customer Experience Reporting and Analytics Senior Developer | 55 | 9 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 70 | Paypal Inc. | Sr. Machine Learning Engineer | 55 | 188 in data/analytics/finance occupations | Nov 20 (board gives the date only) |
+| 71 | Faire | Senior Applied AI/ML Scientist - Retailer Growth | 55 | 16 in data/analytics/finance occupations | Nov 20 18:05 ET |
 
 ---
 
@@ -359,7 +363,22 @@ Application Deadline: 01/30/2027 Address: 151 W 42nd Street Job Family Group: Ca
 
 ---
 
-## 20. [MAYBE] Whataburger | Accounting Data Analyst
+## 20. [MAYBE] Digital Realty | Portfolio Analyst
+- Link: https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9010
+- Location: Boston, MA, United States US
+- Posted: Nov 20 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, forecast, statistic, git, portfolio, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Portfolio Analyst - Associate Location: Boston, MA (Hybrid) Your Role As a Portfolio Analyst, you will play a high‑visibility role supporting the financial performance and strategic decision‑making of a diverse portfolio of data center assets. You will partner closely with Portfolio Management leadership, including Vice Presidents, Directors, and Asset Managers, to deliver financial analysis, forecasts, reporting, and recommendations that inform executive‑level decisions. Your work will have direct exposure to senior stakeholders and a visible impact on business outcomes. What you’ll do Develop, maintain, and analyze cash flow models for data center assets, including lease and investment analyses. Prepare investment analyses and underwriting materials for properties across multiple markets. Support deal, capital, and construction project presentations for the Investment Committee. Manage and consolidate annual budgets, quarterly forecasts, long‑term projections, and variance analyses. Validate monthly financial reports and support portfolio‑level reporting, including occupancy and capital planning. Track and analyze leasing activity, leasing statistics, and portfolio performance trends. Monitor construction and redevelopment activity, budgets, and development progress. Research market conditions, including supply, demand, competition, and broader market trends. Create and maintain financial reports, databases, and ad hoc analyses driven by market or lease activity. Support ad hoc reporting and general Asset Management administrative needs. What you’ll need Bachelor’s degree in Finance, Accounting, Business, Real Estate, or a related field. 0-2 years of experience in real estate analysis, such as asset management, development, lending, or commercial leasing. Strong understanding of real estate finance, including discounted cash flow modeling and financial reporting. Advanced proficiency in Microsoft Excel and PowerPoint. Working knowledge of Yardi preferred; familiarity with Argus is a plus. Ability to analyze large data sets, think strategically, and deliver detailed, well‑reasoned recommendations. Excellent written, verbal, and presentation skills with strong attention to detail. Strong organizational skills with the ability to manage multiple priorities in a fast‑paced environment. Collaborative, resourceful, and eager to learn, with the ability to adapt quickly to new tools and systems. Willingness to adopt AI‑enabled tools, accept feedback, go above and beyond expectations, and travel occasionally as needed. A bit about us Digital Realty brings companies and data together by delivering the full spectrum of data center, colocation and interconnection solutions. PlatformDIGITAL®, the company’s global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx®) solution methodology for powering innovation and efficiently managing Data Gravity challenges. Digital Realty gives its customers access to the connected data communities that matter to them with a global data center footprint of 300+ facilities in 50+ metros across 25+ countries on six continents. To learn more about Digital Realty, please visit digitalrealty.com or follow us on LinkedIn and Twitter . A bit about our Portfolio Management team Our Portfolio Management team works in one of the world’s fastest growing and most exciting business sectors. We use our financial expertise and commercial awareness to support and develop an international, publicly listed organization. From managing budgets to financial and inventory planning, we deliver a full range of finance and strategic problem solving to help our business stay on track, support our customers, and meet our goals. What we can offer you Our rapidly evolving business sector offers the opportunity to be part of a courageous and passionate team who work together to understand and meet the changing needs of our global customers. Join us and you’ll be part of a supportive and inclusive environment where you can bring your whole self to work. As part of our team, you’ll get to work with people from different business areas, challenge the way we do things and put your ideas into action. We’ll also give you plenty of development opportunities so you can build a rewarding and successful career with us. Apply today, take charge of your career and grow your talents with us. Health and Safety Safety isn't just a priority here at Digital; it's critical to everything we do. Safeguarding lives, protecting assets, and securing data aren't just ideals - they're essential pillars of our commitment to excellence for our people, our partners and our customers. We have a culture of care where every member of Team Digital embraces a relentless pursuit of working safely across Digital Realty. Together we are Safely Powering Progress. Our Compensation Philosophy Digital Realty offers its employees a highly competitive compensation package, excellent benefits, and an environment that recognizes and rewards your contributions. Central to our compensation philosophy is rewarding our employees for achieving the values and objectives aligned to the company's overall goals and values. Our published pay ranges reflect the minimum and maximum target for new hire pay for the full-time position determined by role, level, and geographical location. Individual pay is based on additional factors including but not limited to job-related skills, experience, and relevant education and/or training. Moreover, an employee’s total compensation package varies by role and may include salary, cash bonus or commissions, and equity awards not quantified below. Compensation range: $100,000 to $120,000. This compensation range represents the Company’s good faith belief as to what it will pay as a base salary for this position at the time of this posting. Benefits: For this role, Benefits include medical, dental, vision, life and AD&D insurance, 401k match, disability benefits, wellness and education benefits, employee stock purchase plan, paid time off, holidays, and more. The asset manager will monitor the financial performance of assigned properties, ensuring that income targets are met and expenses are controlled. They will assist in setting leasing goals and tracking progress, while also supporting the development and execution of asset redevelopment strategies. The role requires diligent oversight of reporting and forecasting processes, ensuring that all data is accurate and timely for business planning purposes. Additionally, the asset manager will be responsible for managing contract renewals from initiation to completion, working closely with various internal teams to align outcomes with customer needs and organizational objectives. They will be expected to handle multiple priorities, demonstrate strong organizational skills, and maintain a high level of professionalism and diplomacy in all interactions. The position requires  [...]
+
+---
+
+## 21. [MAYBE] Whataburger | Accounting Data Analyst
 - Link: https://whataburger.wd5.myworkdayjobs.com/WAB_CAREERS/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/General-Accountant_JR10014086
 - Location: 300 Concord Plaza Dr San Antonio TX 78216-6903
 - Posted: Nov 19 (board gives the date only)
@@ -374,7 +393,7 @@ Welcome to Whataburger Careers! Our Flavor — Why Whataburger Whataburger isn�
 
 ---
 
-## 21. [MAYBE] City of New York | Data Engineer
+## 22. [MAYBE] City of New York | Data Engineer
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016990106
 - Location: New York City NY us
 - Posted: Nov 20 06:22 ET
@@ -389,7 +408,7 @@ The New York City Department of Sanitation (DSNY) keeps New York City healthy, s
 
 ---
 
-## 22. [MAYBE] City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics
+## 23. [MAYBE] City of New York | Analytics & Reporting Engineer for the Division of Strategic Operations & Analytics
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990016989754
 - Location: New York City NY us
 - Posted: Nov 20 06:22 ET
@@ -404,7 +423,7 @@ About the Agency: The Department of Housing Preservation and Development (HPD) o
 
 ---
 
-## 23. [MAYBE] Highmark Health | Associate Strategy Analyst
+## 24. [MAYBE] Highmark Health | Associate Strategy Analyst
 - Link: https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Strategy-Analyst_J291247
 - Location: 51 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -419,7 +438,7 @@ Company : enGen Job Description : JOB SUMMARY This job supports the leadership o
 
 ---
 
-## 24. [MAYBE] AES | Data Analyst, Training Operations
+## 25. [MAYBE] AES | Data Analyst, Training Operations
 - Link: https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Salt-Lake-City-UT/Data-Analyst--Training-Operations_R1065569
 - Location: 3 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -434,7 +453,7 @@ Are you ready to be part of a company that's not just talking about the future, 
 
 ---
 
-## 25. [MAYBE] Baird | Statements & Investor Reporting Analyst
+## 26. [MAYBE] Baird | Statements & Investor Reporting Analyst
 - Link: https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Statements---Investor-Reporting-Analyst_R2026953-2
 - Location: WI-Milwaukee
 - Posted: Nov 20 (board gives the date only)
@@ -449,7 +468,7 @@ About The Role: The Statements & Investor Reporting Analyst plays an important r
 
 ---
 
-## 26. [MAYBE] Applied Intuition | Capacity Planning and Analytics Coordinator
+## 27. [MAYBE] Applied Intuition | Capacity Planning and Analytics Coordinator
 - Link: https://jobs.ashbyhq.com/applied/c490ee87-d220-4971-be06-f75729d06099
 - Location: Sunnyvale United States
 - Posted: Nov 20 16:33 ET
@@ -536,7 +555,7 @@ Applied Intuition
 
 ---
 
-## 27. [MAYBE] University of Chicago | Research Analyst
+## 28. [MAYBE] University of Chicago | Research Analyst
 - Link: https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Analyst_JR35773
 - Location: Chicago, IL
 - Posted: Nov 19 (board gives the date only)
@@ -551,7 +570,7 @@ Department BSD PSY - Lyons Lab About the Department The Department of Psychiatry
 
 ---
 
-## 28. [MAYBE] Texas A&M University - College Station | Research Assistant
+## 29. [MAYBE] Texas A&M University - College Station | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Assistant_R-098922-1
 - Location: College Station, TX
 - Posted: Nov 20 (board gives the date only)
@@ -566,7 +585,7 @@ Job Title Research Assistant Agency Texas A&M University Department Biology Prop
 
 ---
 
-## 29. [MAYBE] Texas A&M University System | Research Assistant
+## 30. [MAYBE] Texas A&M University System | Research Assistant
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Assistant_R-098922
 - Location: College Station, TX
 - Posted: Nov 20 (board gives the date only)
@@ -581,7 +600,7 @@ Job Title Research Assistant Agency Texas A&M University Department Biology Prop
 
 ---
 
-## 30. [MAYBE] Knowledge Services | Job Title Remote Research Analyst - Survey & Data Collection (Contract)
+## 31. [MAYBE] Knowledge Services | Job Title Remote Research Analyst - Survey & Data Collection (Contract)
 - Link: https://careers-knowledgeservices.icims.com/jobs/31831/remote-research-analyst---survey-%26-data-collection-%28contract%29/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -596,7 +615,7 @@ Remote Research Analyst - Survey & Data Collection (Contract) in Remote Please E
 
 ---
 
-## 31. [MAYBE] Axos Bank | JBATA - Data Engineer
+## 32. [MAYBE] Axos Bank | JBATA - Data Engineer
 - Link: https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---Data-Engineer_JR5390
 - Location: HQ - San Diego, CA
 - Posted: Nov 20 (board gives the date only)
@@ -611,7 +630,7 @@ Axos Bank Target Range: $30.00 /Hr. - $30.00 /Hr. Actual starting pay will vary 
 
 ---
 
-## 32. [MAYBE] HCSC | Quality and Reporting Analyst
+## 33. [MAYBE] HCSC | Quality and Reporting Analyst
 - Link: https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/National-Remote/Quality-and-Reporting-Analyst_R0056506
 - Location: National Remote
 - Posted: Nov 20 (board gives the date only)
@@ -626,7 +645,7 @@ At HCSC, our employees are the cornerstone of our business and the foundation to
 
 ---
 
-## 33. [MAYBE] National Laboratory of the Rockies | ML and Optimization Engineer
+## 34. [MAYBE] National Laboratory of the Rockies | ML and Optimization Engineer
 - Link: https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/ML-and-Optimization-Engineer_R14323
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -641,7 +660,7 @@ Posting Title ML and Optimization Engineer . Location CO - Golden . Position Typ
 
 ---
 
-## 34. [MAYBE] Cushman & Wakefield | Research Analyst
+## 35. [MAYBE] Cushman & Wakefield | Research Analyst
 - Link: https://cw.wd1.myworkdayjobs.com/external/job/San-Francisco-California-USA/Research-Analyst_R343118
 - Location: San Francisco, California, USA
 - Posted: Nov 20 (board gives the date only)
@@ -656,7 +675,96 @@ Job Title Research Analyst Job Description Summary The Analyst reports to the lo
 
 ---
 
-## 35. [MAYBE] Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027
+## 36. [MAYBE] Baseten | Base Labs Research Scientist - RL Environments
+- Link: https://jobs.ashbyhq.com/baseten/7dd86198-2132-4620-8c8d-af3dbcdb86e3
+- Location: San Francisco United States New York remote
+- Posted: Nov 20 18:51 ET
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: llm, machine learning, spark, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+ABOUT BASETEN
+
+Baseten powers mission-critical inference for the world's most dynamic AI companies, like Cursor, Notion, OpenEvidence, Abridge, Clay, Gamma, and Writer. By uniting applied AI research, flexible infrastructure, and seamless developer tooling, we enable companies operating at the frontier of AI to bring cutting-edge models into production. We're growing quickly and recently raised our $1.5B Series F https://www.baseten.co/blog/announcing-our-series-f/, led by Altimeter Capital, Conviction Partners, and Spark Capital. Join us and help build the platform engineers turn to ship AI products.
+
+
+
+ABOUT BASE LABS
+
+Base Labs is Baseten’s research lab, working to advance and democratize open-source intelligence. We publish our research, methods, and results so others can inspect, reproduce, and build on them. Baseten’s training and inference infrastructure gives us a place to test ideas at scale, while our work with companies deploying models keeps us close to the problems those models need to solve.
+
+
+
+THE ROLE
+
+Models learn from the environments we give them. If a reward is easier to exploit than a task is to solve, a model can learn the shortcut. If a task measures the wrong capability, a higher score tells us little about progress. Building good environments requires decisions about what to teach, how to measure it, and how to establish whether it transfers.
+
+As a Research Scientist at Base Labs specializing in RL environments, you will create open environments and study how models learn from them. You will design tasks and rewards, develop methods for generating and calibrating environments at scale, and run the training experiments needed to understand their effects.
+
+There is substantial reinforcement learning research in this work. We want to understand how task diversity affects generalization, how curricula should change as models improve, and which reward structures produce reliable learning. Your findings will inform both the environments we release and the broader lab’s training research.
+
+
+
+RESPONSIBILITIES
+
+ - Identify capabilities and failure modes worth studying, informed by real model use. These may include software development, tool use, scientific reasoning, and following complex instructions.
+
+ - Design task distributions, interactions, rewards, and verifiers together. Establish that tasks are solvable and that success depends on the intended capability. Investigate shortcuts, ambiguous instructions, and weaknesses in grading.
+
+ - Build methods that scale environment creation without weakening the quality standard. Study how to generate diverse tasks, calibrate difficulty, and detect defects before they spread through a large training pool.
+
+ - Run RL experiments to measure learning and transfer. Compare curricula, task mixtures, and reward designs; investigate failed runs and unexpected behavior; test whether improvements hold on unseen tasks.
+
+ - Develop evaluation methods that distinguish capability differences from sampling noise, grader errors, or artifacts of the agent’s tools and execution setup. Preserve the evidence needed to reproduce and challenge your conclusions.
+
+ - Work with safety researchers on environments that reveal reward hacking and misalignment, and test ways to teach more reliable behavior.
+
+ - Release environments, datasets, training recipes, and research findings that other teams can use. Make their assumptions, limitations, and measured effects clear.
+
+
+
+WHO WE'RE LOOKING FOR 
+
+We look for evidence that you can choose a useful research question, design an informative experiment, implement it, and reason carefully about the result.
+
+You should bring depth in a relevant area such as reinforcement learning, model evaluation, agent systems, synthetic data, or experimental methodology. You should be comfortable writing the code needed to build environments, run experiments, and inspect failures in detail. Experience with LLM training is valuable, as is experience building something that other researchers use.
+
+Your evidence might be a paper, an open-source project or a strong experimental investigation. We also welcome exceptional people from adjacent fields. A PhD or a previous Research Scientist title is not required.
+
+
+
+WORKING HERE
+
+We are hiring across levels, with scope matched to experience. You will work closely with research engineers, applied researchers, and the wider Base Labs team. Senior hires will help establish research directions and mentor others. Everyone will contribute to the environments, methods, and published evidence on which the program grows.
+
+
+
+BENEFITS
+
+ - Competitive compensation, including meaningful equity
+
+ - (U.S. only) 100% coverage of medical, dental, and vision insurance for employee and dependents
+
+ - Flexible PTO policy
+
+ - Paid parental leave
+
+ - Fertility and family-building stipend through Carrot
+
+ - (U.S. only) Company-facilitated 401(k)
+
+ - Exposure to a variety of ML startups, offering unparalleled learning and networking opportunities.
+
+Apply now to embark on a rewarding journey in shaping the future of AI! If you are a motivated individual with a passion for machine learning and a desire to be part of a collaborative and forward-thinking team, we would love to hear from you.
+
+At Baseten, we are committed to fostering a diverse and inclusive workplace. We provide equal employment opportunities to all employees and applicants without regard to race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status.
+
+---
+
+## 37. [MAYBE] Citi | Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Markets---Quantitative-Analysis--Summer-Analyst---New-York-City---US--2027_25928747
 - Location: New York New York United States
 - Posted: Nov 20 (board gives the date only)
@@ -671,7 +779,7 @@ NAM Quantitative Analysis, Summer Analyst Program – New York (North America - 
 
 ---
 
-## 36. [MAYBE] Berkshire Hathaway Energy | Mgr, Data Science
+## 38. [MAYBE] Berkshire Hathaway Energy | Mgr, Data Science
 - Link: https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006112
 - Location: Des Moines, IA, United States US Reno, NV, United States Las Vegas, NV, United States
 - Posted: Nov 20 (board gives the date only)
@@ -686,7 +794,7 @@ We are seeking an experienced and strategic Manager, Data Science to lead our Da
 
 ---
 
-## 37. [MAYBE] CVS Health | Software Development - Data Engineer
+## 39. [MAYBE] CVS Health | Software Development - Data Engineer
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Software-Development---Data-Engineer_R1108425-1
 - Location: CT - Hartford
 - Posted: Nov 20 (board gives the date only)
@@ -701,7 +809,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 38. [MAYBE] Mercury Insurance | Title AI Engineer I
+## 40. [MAYBE] Mercury Insurance | Title AI Engineer I
 - Link: https://careers-mercuryinsurance.icims.com/jobs/7485/ai-engineer-i/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -716,7 +824,7 @@ AI Engineer I in California | Careers at Remote-CA Please Enable Cookies to Cont
 
 ---
 
-## 39. [MAYBE] Invesco | Business Risk Analyst
+## 41. [MAYBE] Invesco | Business Risk Analyst
 - Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/Houston-Texas/Business-Risk-Analyst_R-16028
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -731,7 +839,7 @@ About Invesco As one of the world’s leading independent global investment firm
 
 ---
 
-## 40. [MAYBE] Goodlord | Operations & Risk Analyst
+## 42. [MAYBE] Goodlord | Operations & Risk Analyst
 - Link: https://jobs.ashbyhq.com/goodlord/65494990-bb13-45b4-b7e4-d642815132c0
 - Location: England United Kingdom remote
 - Posted: Nov 20 12:34 ET
@@ -838,7 +946,7 @@ Goodlord wants applicants from all backgrounds and walks of life;
 
 ---
 
-## 41. [MAYBE] Barclays | Business Intelligence Developer
+## 43. [MAYBE] Barclays | Business Intelligence Developer
 - Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Business-Intelligence-Developer_JR-0000139295
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -853,7 +961,7 @@ Job Description Purpose of the role To support the bank's decision-making proces
 
 ---
 
-## 42. [MAYBE] Blue Sky Innovators | AI Engineering Advisor
+## 44. [MAYBE] Blue Sky Innovators | AI Engineering Advisor
 - Link: https://job-boards.greenhouse.io/blueskyinnovators/jobs/5490916008
 - Location: Chantilly, VA
 - Posted: Nov 20 12:33 ET
@@ -868,7 +976,7 @@ Blue Sky Innovators is seeking an AI Engineering Advisor to join our team in Cha
 
 ---
 
-## 43. [MAYBE] Berkshire Hathaway Energy | Data Engineer
+## 45. [MAYBE] Berkshire Hathaway Energy | Data Engineer
 - Link: https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006103
 - Location: Des Moines, IA, United States US Urbandale, IA, United States
 - Posted: Nov 20 (board gives the date only)
@@ -883,7 +991,7 @@ Data Engineer Des Moines, IA, United States Urbandale, IA, United States JOB DES
 
 ---
 
-## 44. [MAYBE] Northwestern Mutual | Investment Analytics Associate
+## 46. [MAYBE] Northwestern Mutual | Investment Analytics Associate
 - Link: https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Process-Analyst_JR-45599-1
 - Location: Milwaukee, WI Corporate
 - Posted: Nov 20 (board gives the date only)
@@ -898,7 +1006,7 @@ About the Job Northwestern Mutual Capital (NMC) seeks an Investment Analytics As
 
 ---
 
-## 45. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
+## 47. [MAYBE] Verizon Communications | Forward Deployed AI Engineer
 - Link: https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Forward-Deployed-AI-Engineer_R-1102337-1
 - Location: 2 Locations
 - Posted: Nov 19 (board gives the date only)
@@ -913,7 +1021,7 @@ When you join Verizon You want more out of a career. A place to share your ideas
 
 ---
 
-## 46. [MAYBE] The New School | Research Associate Fall 2027
+## 48. [MAYBE] The New School | Research Associate Fall 2027
 - Link: https://newschool.wd1.myworkdayjobs.com/external/job/B---65-West-11th-Street/Research-Associate-Fall-2027_JR110154
 - Location: B - 65 West 11th Street
 - Posted: Nov 19 (board gives the date only)
@@ -928,7 +1036,7 @@ The Research Associate will support faculty research on twentieth-century United
 
 ---
 
-## 47. [MAYBE] Capital Group | Investment Content & Marketing Analyst
+## 49. [MAYBE] Capital Group | Investment Content & Marketing Analyst
 - Link: https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/Investment-Content---Marketing-Analyst_JR7786-1
 - Location: Los Angeles
 - Posted: Nov 20 (board gives the date only)
@@ -943,7 +1051,7 @@ Discover your potential. Build your legacy. Go the distance with Capital Group A
 
 ---
 
-## 48. [MAYBE] UTHealth Houston | Research Associate
+## 50. [MAYBE] UTHealth Houston | Research Associate
 - Link: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8304
 - Location: San Antonio, TX, United States US
 - Posted: Nov 20 (board gives the date only)
@@ -958,7 +1066,7 @@ Under general supervision, responsible for performing technical or narrative res
 
 ---
 
-## 49. [MAYBE] JP Morgan Chase | 2027 Applied Research Associate - Summer Associate
+## 51. [MAYBE] JP Morgan Chase | 2027 Applied Research Associate - Summer Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809359
 - Location: New York, NY, United States US
 - Posted: Nov 20 (board gives the date only)
@@ -973,7 +1081,7 @@ Our firm is seeking a junior or senior researcher and thought leader to perform 
 
 ---
 
-## 50. [MAYBE] Cartesian | Machine Learning Scientist
+## 52. [MAYBE] Cartesian | Machine Learning Scientist
 - Link: https://job-boards.greenhouse.io/cartesiansystems/jobs/4516933009
 - Location: Cambridge, MA
 - Posted: Nov 20 11:17 ET
@@ -988,7 +1096,7 @@ About the Company Cartesian &nbsp; is building spatial intelligence for indoor e
 
 ---
 
-## 51. [MAYBE] bet365 | Data Engineer (EDW)
+## 53. [MAYBE] bet365 | Data Engineer (EDW)
 - Link: https://jobs.smartrecruiters.com/Bet3651/744000162826949
 - Location: Denver Colorado us
 - Posted: Nov 20 16:53 ET
@@ -1003,7 +1111,22 @@ Our AI & Automation department transforms complex data into intelligent, scalabl
 
 ---
 
-## 52. [MAYBE] RADAR | Data Engineer
+## 54. [MAYBE] bet365 | Data Engineer (EDW)
+- Link: https://jobs.smartrecruiters.com/Bet3651/744000162835770
+- Location: Denver Colorado us
+- Posted: Nov 20 19:05 ET
+- Scanner fit: ~42 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, bigquery, machine learning, sql, data quality, git, pipeline | Lacks: airflow, dbt, scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Our AI & Automation department transforms complex data into intelligent, scalable solutions. Operating across an expansive technical landscape, the team builds robust infrastructure that supports regulatory compliance and drives process efficiency. By leveraging advanced cloud technologies and machine learning, the department maintains data integrity while exploring new ways to optimize performance across our global platforms. In this role, you'll help build and maintain data pipelines that move data from our data lake into a new cloud-based Enterprise Data Warehouse (EDW). With the core architecture and data models established, you'll focus on developing and enhancing pipelines that load fact and dimension tables, while contributing to automation and data quality improvements alongside talented teammates. The listed salary for this position is $90,000-$120,000 annually. Strong SQL skills, with experience developing efficient and maintainable queries for analytical and data warehouse use cases Practical experience with cloud data platforms, particularly Google BigQuery, alongside building, maintaining, and troubleshooting data pipelines using Apache Airflow or similar tools Proven ability to load, transform, and model data for cloud-based data warehouses, including fact and dimension tables, with exposure to dbt or Dataform Solid understanding of data engineering principles, including data quality, testing, monitoring, performance, and reliability Demonstrated experience using Git for source control and collaborating in a shared repository with multiple developers Applied understanding of CI/CD processes, peer reviews, and development standards for controlled testing and deployment Background working in an agile environment, contributing to technical discussions, planning, and delivery Aptitude for using AI tools responsibly to support development activities, including code generation, refinement, troubleshooting, and documentation Develop, maintain, and enhance reliable data pipelines that ingest data from the data lake into the cloud-based Enterprise Data Warehouse (EDW) Build and support the loading of fact and dimension tables, applying established architecture, data models, and development standards Write efficient SQL and transformation logic while applying best practices for data quality, testing, performance, monitoring, error handling, and reliability Work collaboratively in a shared source-controlled repository with a team of developers, contributing to peer reviews, CI/CD processes, and the controlled deployment of data solutions Investigate and resolve pipeline and data quality issues, contributing to automation, technical documentation, and continuous EDW improvements Collaborate with engineers, analysts, and stakeholders in an agile environment, using AI tools responsibly to support development, troubleshooting, documentation, and solution design bet365 provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.
+
+---
+
+## 55. [MAYBE] RADAR | Data Engineer
 - Link: https://job-boards.greenhouse.io/radar/jobs/8384252
 - Location: Sunnyvale, CA
 - Posted: Nov 20 15:40 ET
@@ -1018,7 +1141,7 @@ ABOUT US E-commerce got real-time data infrastructure decades ago. Physical stor
 
 ---
 
-## 53. [MAYBE] Dayton Freight Lines | Title Pricing Analyst
+## 56. [MAYBE] Dayton Freight Lines | Title Pricing Analyst
 - Link: https://careers-daytonfreight.icims.com/jobs/18734/pricing-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1033,7 +1156,7 @@ Pricing Analyst in Dayton, Ohio | Careers at Corporate Please Enable Cookies to 
 
 ---
 
-## 54. [MAYBE] ISS | Institutional Shareholder Services | Custom Research Analyst- Corporate Governance (Temporary)
+## 57. [MAYBE] ISS | Institutional Shareholder Services | Custom Research Analyst- Corporate Governance (Temporary)
 - Link: https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Norman-OK-US/Custom-Research-Analyst--Temporary-_JR_10542
 - Location: Norman, OK, US
 - Posted: Nov 20 (board gives the date only)
@@ -1048,7 +1171,7 @@ ISS Stoxx is hiring! Advance your career with the leading provider of corporate 
 
 ---
 
-## 55. [MAYBE] Dallas College | Senior HR Data Analyst
+## 58. [MAYBE] Dallas College | Senior HR Data Analyst
 - Link: https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/Richland-Campus/Senior-HR-Data-Analyst_R14785
 - Location: Richland Campus
 - Posted: Nov 20 (board gives the date only)
@@ -1063,7 +1186,7 @@ Applications must be submitted no later than 11:59 p.m. CT on the day before the
 
 ---
 
-## 56. [MAYBE] LPL Financial Holdings | Senior Full Stack AI/ML Engineer
+## 59. [MAYBE] LPL Financial Holdings | Senior Full Stack AI/ML Engineer
 - Link: https://lplfinancial.wd1.myworkdayjobs.com/External/job/Austin-TX/Senior-Full-Stack-AI-ML-Engineer_R-054715-1
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -1078,7 +1201,7 @@ Where Ambition Meets Innovation Build a career that matches all your initiative 
 
 ---
 
-## 57. [MAYBE] Amgen | Sr Data Scientist
+## 60. [MAYBE] Amgen | Sr Data Scientist
 - Link: https://amgen.wd1.myworkdayjobs.com/careers/job/US---IL---Deerfield/Sr-Data-Scientist_R-256842
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -1093,7 +1216,7 @@ Career Category Sales & Marketing Operations Job Description Join Amgen’s Miss
 
 ---
 
-## 58. [MAYBE] Regeneron Pharmaceuticals | AI Engineer II
+## 61. [MAYBE] Regeneron Pharmaceuticals | AI Engineer II
 - Link: https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/AI-Engineer-II_R53257
 - Location: 2 Locations
 - Posted: Nov 20 (board gives the date only)
@@ -1108,7 +1231,7 @@ At Regeneron Enterprise Data & AI, we evaluate frontier AI and bring it to resea
 
 ---
 
-## 59. [MAYBE] Jerry | Senior Associate, Business Operations & Analytics
+## 62. [MAYBE] Jerry | Senior Associate, Business Operations & Analytics
 - Link: https://jobs.ashbyhq.com/Jerry.ai/fddfb7e5-aabc-43b8-85da-b443000fe706
 - Location: New York, New York United States Chicago, Illinois Boston, Massachusetts San Francisco Bay Area remote
 - Posted: Nov 20 12:38 ET
@@ -1230,7 +1353,7 @@ Jerry.ai is committed to providing
 
 ---
 
-## 60. [MAYBE] Hinge Health | AI Engineer II
+## 63. [MAYBE] Hinge Health | AI Engineer II
 - Link: https://jobs.ashbyhq.com/hinge-health/7564ec75-617b-4065-8da6-72210460a6ef
 - Location: San Francisco-HQ US remote
 - Posted: Nov 20 13:20 ET
@@ -1368,7 +1491,7 @@ Hinge Health
 
 ---
 
-## 61. [MAYBE] JP Morgan Chase | Trust & Safety - Fraud Strategy Analyst- Senior  Associate
+## 64. [MAYBE] JP Morgan Chase | Trust & Safety - Fraud Strategy Analyst- Senior  Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811164
 - Location: Palo Alto, CA, United States US Chicago, IL, United States Plano, TX, United States
 - Posted: Nov 20 (board gives the date only)
@@ -1383,7 +1506,7 @@ The Trust & Safety (T&S) Fraud Risk Management organization protects Merchant Se
 
 ---
 
-## 62. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
+## 65. [MAYBE] Google | Senior Research Data Scientist, Search Verticals and Translate
 - Link: https://www.google.com/about/careers/applications/jobs/results/98133257790333638
 - Location: Mountain View, CA, USA ; New York, NY, USA
 - Posted: Nov 20 03:06 ET
@@ -1398,7 +1521,7 @@ Our mission is to bring new users to vertical and international experiences and 
 
 ---
 
-## 63. [MAYBE] McKesson | Sr Associate, Data Engineering
+## 66. [MAYBE] McKesson | Sr Associate, Data Engineering
 - Link: https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Sr-Associate--Data-Engineering_JR0157360
 - Location: Cork
 - Posted: Nov 19 (board gives the date only)
@@ -1413,7 +1536,7 @@ McKesson is an impact-driven, Fortune 10 company that touches virtually every as
 
 ---
 
-## 64. [MAYBE] Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing)
+## 67. [MAYBE] Target | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing)
 - Link: https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Applied-Data-Scientist---1-1-Personalization--Audience-and-Experimentation--applied-ML--PyToch--A-B-testing-_R0000454434
 - Location: 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445
 - Posted: Nov 19 (board gives the date only)
@@ -1428,7 +1551,7 @@ The pay range is $98,000.00 - $176,000.00 Pay is based on several factors which 
 
 ---
 
-## 65. [MAYBE] Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS)
+## 68. [MAYBE] Natera | Senior Data Analyst for Lab Production Support, Extended-Hours Support (ExHS)
 - Link: https://job-boards.greenhouse.io/natera/jobs/6189378004
 - Location: US Remote
 - Posted: Nov 20 14:03 ET
@@ -1443,7 +1566,7 @@ Important: this position will work on the Weekend Shift team, with the following
 
 ---
 
-## 66. [MAYBE] DaVita | Customer Experience Reporting and Analytics Senior Developer
+## 69. [MAYBE] DaVita | Customer Experience Reporting and Analytics Senior Developer
 - Link: https://davita.wd1.myworkdayjobs.com/DKC_External/job/01699---IT-Malvern-Remote/Customer-Experience-Reporting-and-Analytics-Senior-Developer_R0487026
 - Location: 01699 - IT Malvern-Remote
 - Posted: Nov 20 (board gives the date only)
@@ -1458,7 +1581,7 @@ Posting Date 11/20/2026&#xa;1300 Morris DrSte 100, Chesterbrook, Pennsylvania, 1
 
 ---
 
-## 67. [MAYBE] Paypal Inc. | Sr. Machine Learning Engineer
+## 70. [MAYBE] Paypal Inc. | Sr. Machine Learning Engineer
 - Link: https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0139039-1
 - Location: San Jose, California, United States of America
 - Posted: Nov 20 (board gives the date only)
@@ -1470,4 +1593,19 @@ Posting Date 11/20/2026&#xa;1300 Morris DrSte 100, Chesterbrook, Pennsylvania, 1
 ### Job description
 
 The Company PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. We operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our customers. We offer our customers the flexibility to use their accounts to purchase and receive payments for goods and services, as well as the ability to transfer and withdraw funds. We enable consumers to exchange funds more safely with merchants using a variety of funding sources, which may include a bank account, a PayPal or Venmo account balance, PayPal and Venmo branded credit products, a credit card, a debit card, certain cryptocurrencies, or other stored value products such as gift cards, and eligible credit card rewards. Our PayPal, Venmo, and Xoom products also make it safer and simpler for friends and family to transfer funds to each other. We offer merchants an end-to-end payments solution that provides authorization and settlement capabilities, as well as instant access to funds and payouts. We also help merchants connect with their customers, process exchanges and returns, and manage risk. We enable consumers to engage in cross-border shopping and merchants to extend their global reach while reducing the complexity and friction involved in enabling cross-border trade. Our beliefs are the foundation for how we conduct business every day. We live each day guided by our core values of Inclusion, Innovation, Collaboration, and Wellness. Together, our values ensure that we work together as one global team with our customers at the center of everything we do – and they push us to ensure we take care of ourselves, each other, and our communities. Job Summary: This job will design, develop, and implement machine learning models and algorithms to solve complex problems. You will work closely with data scientists, software engineers, and product teams to enhance services through innovative AI/ML solutions. Your role will involve building scalable ML pipelines, ensuring data quality, and deploying models into production environments to drive business insights and improve customer experiences. Job Description: Essential Responsibilities: Develop and optimize machine learning models for various applications. Preprocess and analyze large datasets to extract meaningful insights. Deploy ML solutions into production environments using appropriate tools and frameworks. Collaborate with cross-functional teams to integrate ML models into products and services. Monitor and evaluate the performance of deployed models. Minimum Qualifications: 3+ years relevant experience and a Bachelor’s degree OR Any equivalent combination of education and experience. Experience with ML frameworks like TensorFlow, PyTorch, or scikit-learn. Familiarity with cloud platforms (AWS, Azure, GCP) and tools for data processing and model deployment. Several years of experience in designing, implementing, and deploying machine learning models. Additional Responsibilities & Preferred Qualifications : Subsidiary: PayPal Travel Percent: 0 - The base pay for this role will depend on where you work and the relevant experience and expertise you bring. The expected range of pay for this role by location is:&#xa; Primary Location | Pay Range: San Jose, California: ($159,500.00 - $236,500.00 Annually)&#xa; Additional Location(s) | Pay Range: No other locations are assigned to this requisition currently.&#xa;&#xa;Additional compensation for this role may include an annual performance bonus, equity, or other incentive compensation, as applicable. PayPal does not charge candidates any fees for courses, applications, resume reviews, interviews, background checks, or onboarding. When making an application directly, we will never ask you to share passwords, one-time passcodes (OTP), or verification codes. Any such request is a red flag and likely part of a scam. All communication regarding your application will come from official PayPal email domains. If you suspect fraudulent activity, please report it immediately. To learn more about how to identify and avoid recruitment fraud please visit https://careers.pypl.com/contact-us . For the majority of employees, PayPal's balanced hybrid work model offers 3 days in the office for effective in-person collaboration and 2 days at your choice of either the PayPal office or your home workspace, ensuring that you equally have the benefits and conveniences of both locations. Our Benefits: At PayPal, we’re committed to building an equitable and inclusive global economy. And we can’t do this without our most important asset-you. That’s why we offer comprehensive, choice-based programs, to support all aspects of personal wellbeing—physical, emotional, and financial—delivering meaningful value where it matters most. We strive to create a flexible, balanced work culture with a holistic approach to benefits, including generous paid time off, healthcare coverage for you and your family, and resources to create financial security and support your mental health. Who We Are: Click Here to learn more about our culture and community. Commitment to Diversity and Inclusion PayPal provides equal employment opportunity (
+
+---
+
+## 71. [MAYBE] Faire | Senior Applied AI/ML Scientist - Retailer Growth
+- Link: https://boards.greenhouse.io/faire/jobs/8957560002?gh_jid=8957560002
+- Location: San Francisco, CA
+- Posted: Nov 20 18:05 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 16 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: llm, machine learning, python, sql, statistic, deep learning, xgboost | Lacks: -  | Note: title says Senior/II: asks 3 years
+- Eligibility: CHECK | Why you’ll love working at Faire Flexible paid time off, plus company-wide recharge days Paid parental leave up to 16 weeks Comprehensive health coverage, with options varying by location Fertility and family-building be
+
+### Job description
+
+About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically been fragmented and offline. At Faire, we're using the power of tech, data, and machine learning to connect this thriving community of entrepreneurs across the globe. Picture your favorite boutique in town — we help them discover the best products from around the world to sell in their stores. With the right tools and insights, we believe that we can level the playing field so businesses can grow and local communities can thrive. We’re looking for smart, resourceful and passionate people to join us as we power the shop local movement. If you believe in community, come join ours. About this role Faire leverages the power of machine learning and data insights to revolutionize the wholesale industry, enabling local retailers to compete against giants like Amazon and big box stores. Our highly skilled team of Applied AI/ML Scientists specialize in developing algorithmic solutions for notification and recommender systems, advertising attribution, and LTV predictions. We are dedicated to building machine learning models that help our customers thrive. As a Senior Applied AI/ML Scientist on the Retailer Growth team, you will own the modeling and measurement for problems that shape the retailer experience after signup: helping new retailers get started on Faire, and helping retailers build relationships with more brands over time. Because our users are businesses, there is a wealth of information about them that ML models can use to personalize their experience, grow their success, and prioritize where we invest. The team tackles a diverse set of challenges, such as personalizing onboarding for new retailers, deciding which messages to send and when, and finding the moments that turn a first order with a brand into a lasting relationship. You will work across structured and unstructured data using methods that range from predictive modeling and recommendations to information extraction. Our team already includes experienced Applied AI/ML Scientists from Uber, Airbnb, Square, Facebook, and Pinterest. Faire will soon be known as a top destination for data scientists and machine learning engineers, and you will help take us there! What you’ll do Own applied ML projects end-to-end: framing the problem, building and shipping the model, and measuring impact. Personalize onboarding and the new retailer experience using what we know about each retailer's business. Use LLMs to turn unstructured data into signals that improve models and personalization. Predict retailer activation, churn, and growth potential to prioritize where we invest. Surface the right brands at the right moments to turn first orders into lasting relationships. Optimize notifications and brand-to-retailer messaging to drive long-term engagement. Use experimentation and causal inference to measure the impact of growth levers, including leading indicators for long-term outcomes like retailer lifetime value. Partner across product, engineering, design, marketing, sales, and analytics to turn models into shipped product and business impact. Solve challenging problems related to a two-sided marketplace. Qualifications&nbsp; 3+ years of industry experience building and productionizing machine learning models to solve real-world problems (e.g. Sklearn, XGBoost, deep learning) Experience with relevant business problems (e-commerce) Experience with relevant technical methods (predictive modeling, recommendations and personalization, experimentation and causal inference, LLMs) Strong programming skills (Python, SQL) An excitement and willingness to learn new tools and techniques The ability to independently design and implement ML solutions Strong communication skills and the ability to work in a highly cross-functional team Great to Haves Highly recommended: Masters or PhD in Computer Science, Statistics, or related STEM fields. Previous experience in marketplace growth, personalization, recommendations, or notification and messaging systems for a two-sided platform. Salary Range San Francisco: the pay range for this role is $211,000 to $290,500 per year. This role will also be eligible for equity and benefits. Actual base pay will be determined based on permissible factors such as transferable skills, work experience, market demands, and primary work location. The base pay range provided is subject to change and may be modified in the future. Hybrid Faire employees currently go into the office 3 days per week on Tuesdays, Thursdays, and a third flex day of their choosing (Monday, Wednesday, or Friday). Additionally, hybrid in-office roles will have the flexibility to work remotely up to 4 weeks per year. Specific Workplace and Information Technology positions may require onsite attendance 5 days per week as will be indicated in the job posting.&nbsp; Why you’ll love working at Faire Flexible paid time off, plus company-wide recharge days Paid parental leave up to 16 weeks Comprehensive health coverage, with options varying by location Fertility and family-building benefits through Carrot, including a lifetime reimbursement allowance Mental health support and coaching through Modern Health Stipends to support your professional development, wellness, and work from home needs Employer-sponsored retirement plan, dependent on country of employment Faire was founded in 2017 by a team of early product and engineering leads from Square. We’re backed by some of the top investors in retail and tech including: Y Combinator, Lightspeed Venture Partners, Forerunner Ventures, Khosla Ventures, Sequoia Capital, Founders Fund, and DST Global. We have headquarters in San Francisco and Kitchener-Waterloo, and a global employee presence across offices in Toronto, London, and New York. To learn more about Faire and our customers, you can read more on our blog . &nbsp; Faire provides equal employment opportunities (
 

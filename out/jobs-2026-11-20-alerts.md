@@ -6,3 +6,4 @@ Found in your LinkedIn/HiringCafe/Glassdoor/Indeed/Jobright alert emails but not
 |---|---|---|---|---|
 | linkedin | Deinde Financial | Junior Data Scientist | Greater Chicago Area | https://www.linkedin.com/jobs/view/4492514564/ |
 | linkedin | Atmos Energy | Data Analyst | Dallas, TX | https://www.linkedin.com/jobs/view/4491385293/ |
+| linkedin | MIT Lincoln Laboratory | AI/ML Research Scientist | Lexington, MA | https://www.linkedin.com/jobs/view/4492719654/ |
