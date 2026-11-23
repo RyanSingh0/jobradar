@@ -12,18 +12,19 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 6 | Artefact | AI Applied Engineer – AI Engineer | 64 | none found (check myvisajobs) | Nov 22 19:17 ET |
 | 7 | US Acute Care Solutions | AI Engineer | 62 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
 | 8 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 9 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
-| 10 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 11 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
-| 12 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
-| 13 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
-| 14 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 15 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 16 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 17 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
-| 18 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 19 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 20 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 9 | CVS Health | Data Engineer | 57 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 10 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
+| 11 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 12 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
+| 13 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
+| 14 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
+| 15 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 16 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 17 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 18 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
+| 19 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 20 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 21 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
 
 ---
 
@@ -253,7 +254,22 @@ Viridien ( www.viridiengroup.com ) is an advanced technology, digital and Earth 
 
 ---
 
-## 9. [MAYBE] Clera | Founding Applied AI Engineer
+## 9. [MAYBE] CVS Health | Data Engineer
+- Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R1108581-1
+- Location: 2 Locations
+- Posted: Nov 22 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, etl, python, sql, data quality, healthcare, pipeline, validation | Lacks: ssis  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time. Position Summary This Data Engineer will be involved in all facets of data ingest and export for Wellpartner. They are responsible for ensuring that data received from external parties (such as our Covered Entity and Contract Pharmacy partners and drug wholesalers) are successfully ingested and available for processing in our transactional system, while also ensuring that file extracts for external business partners are produced and delivered on the agreed upon schedule. Responsibilities include but no limited to: Develop pipelines to extract, transform, and load (ETL) data from CVS Health pharmacy claims systems, 340B third-party administrator (TPA) platforms, Covered entity eligibility files, Drug inventory and pricing systems. Implement data validation rules within SSIS/Python to ensure compliance with 340B program requirements (e.g., patient eligibility, drug utilization). Support incremental and full data loads to accommodate daily, weekly, and monthly data warehouse refresh cycles. Integrate data from disparate formats (e.g., CSV, XML, flat files, and relational databases) into a centralized SQL Server data warehouse. Ensure data quality through error checking and data validation using T-SQL and SSIS among other tools. Required Qualifications High proficiency with SQL/T-SQL, SSIS, and Python Deep understanding of stored procedures, as well as T-SQL queries. Knowledge of data relationships, querying / processing data, and designing well-structured data flows. Experience with C# is nice to have Preferred Qualifications Healthcare industry experience. 340B experience Performance tuning processes and T-SQL Education Bachelor’s degree in Computer Science, Data Analytics or Information Technology or equivalent work experience. Anticipated Weekly Hours 40 Time Type Full time Pay Range The typical pay range for this role is: $79,310.00 - $158,620.00 This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. Our people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong. Great benefits for great people We take pride in offering a comprehensive and competitive mix of pay and benefits that reflects our commitment to our colleagues and their families. This full‑time position is eligible for a comprehensive benefits package designed to support the physical, emotional, and financial well‑being of colleagues and their families. The benefits for this position include medical, dental, and vision coverage, paid time off, retirement savings options, wellness programs, and other resources, based on eligibility. Additional details about available benefits are provided during the application process and on Benefits Moments . We anticipate the application window for this opening will close on: 11/25/2026 Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.
+
+---
+
+## 10. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/2d1cadd3-9212-46cf-be7d-bb220dad8710
 - Location: United States United States
 - Posted: Nov 22 12:02 ET
@@ -308,7 +324,7 @@ On-site in the United States.
 
 ---
 
-## 10. [MAYBE] Mars | Industrial Data Engineer
+## 11. [MAYBE] Mars | Industrial Data Engineer
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Ohio-Lewisburg/Industrial-Data-Engineer_R172203-2
 - Location: USA-Ohio-Lewisburg
 - Posted: Nov 22 (board gives the date only)
@@ -323,7 +339,7 @@ Job Description: Industrial Data Engineer The Industrial Data Engineer will part
 
 ---
 
-## 11. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
+## 12. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
 - Link: https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa
 - Location: San Francisco United States
 - Posted: Nov 22 12:12 ET
@@ -378,7 +394,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 12. [MAYBE] University of Miami | Research Associate 1
+## 13. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103302
 - Location: Miami, FL
 - Posted: Nov 22 (board gives the date only)
@@ -393,7 +409,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 13. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
+## 14. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
 - Link: https://jobs.ashbyhq.com/openai/6785d983-8831-46d0-9c81-443f83664948
 - Location: San Francisco United States
 - Posted: Nov 22 12:20 ET
@@ -470,7 +486,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 14. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
+## 15. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810780
 - Location: Jacksonville, FL, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -485,7 +501,7 @@ DESCRIPTION Duties: Work with Product and Data Owners, Technology, and Design Pa
 
 ---
 
-## 15. [MAYBE] Invesco | Quantitative Analyst
+## 16. [MAYBE] Invesco | Quantitative Analyst
 - Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Quantitative-Analyst_R-15895-1
 - Location: New York, New York
 - Posted: Nov 22 (board gives the date only)
@@ -500,7 +516,7 @@ About Invesco As one of the world’s leading independent global investment firm
 
 ---
 
-## 16. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
+## 17. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
 - Link: https://uscareeropenings-alliancelaundry.icims.com/jobs/14271/data-analyst-%28sourcing%29/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -515,7 +531,7 @@ Data Analyst (Sourcing) in Ripon, Wisconsin | Careers at Alliance Laundry System
 
 ---
 
-## 17. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
+## 18. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
 - Link: https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445
 - Location: San Francisco United States
 - Posted: Nov 22 12:14 ET
@@ -572,7 +588,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 18. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
+## 19. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
 - Link: https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Golbey/Stage---Dveloppement-de-modles-d-AI-ML-appliqus-aux-changeurs--plaques-et-ailettes-brases-en-aluminium-H-F_JR0049556
 - Location: Golbey
 - Posted: Nov 22 (board gives the date only)
@@ -587,7 +603,7 @@ Chez Alfa Laval Golbey, nous concevons et fabriquons des échangeurs thermiques 
 
 ---
 
-## 19. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
+## 20. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
 - Link: https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/HSS-Kellen-Tower/Research-Assistant-I_JR2026-106937
 - Location: HSS Kellen Tower
 - Posted: Nov 22 (board gives the date only)
@@ -602,7 +618,7 @@ How you move is why we’re here. ® Now more than ever. Get back to what you ne
 
 ---
 
-## 20. [MAYBE] Gartner | Sr Data Analyst
+## 21. [MAYBE] Gartner | Sr Data Analyst
 - Link: https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Sr-Data-Analyst_116148
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
