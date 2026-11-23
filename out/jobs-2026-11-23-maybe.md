@@ -9,10 +9,12 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 3 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
 | 4 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
 | 5 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
-| 6 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
-| 7 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
-| 8 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 9 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 6 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
+| 7 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
+| 8 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 9 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
+| 10 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 11 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
 
 ---
 
@@ -277,7 +279,22 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 6. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
+## 6. [MAYBE] University of Miami | Research Associate 1
+- Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103302
+- Location: Miami, FL
+- Posted: Nov 22 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, statistic, data quality, publication, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Current Employees: If you are a current Staff, Faculty or Temporary employee at the University of Miami, please click here to log in to Workday to use the internal application process. To learn how to apply for a faculty or staff position, please review this tip sheet . The University of Miami/UHealth Department of Psychiatry has an exciting opportunity for a full time Research Associate to work in Miami, FL. The Research Associate 1 supports the Happy Older People are Engaged (HOP_HIV) health promotion study. The associate delivers the HOPE intervention and the healthy lifestyles education, recruits participants, and administers study assessment batteries. The associate maintains regular participant contact and receives weekly group supervision from the principal investigator (PI). Core responsibilities: Understands and interprets research protocols and procedures. Participates in the publication of significant results. Maintains an overview of relevant research findings. Ensures all research is undertaken according to good research practice. Keeps abreast of current publications relative to methods, techniques, and developments within the area of research. Collects, prepares, analyzes, dissects, and evaluates specimens or tissue cultures. Operates and maintains laboratory equipment. Performs a variety of routine assays, tests, and studies. Performs calculations to complete research test results, collects data, and performs statistical analysis of laboratory results. Adheres to University and unit-level policies and procedures and safeguards University assets. Department Specific Functions: Deliver the HOPE intervention and the healthy lifestyles education control according to participants’ assigned study conditions and approved study procedures. Recruit participants and administer study assessment batteries according to the approved protocol. Record assessment completion and flag missing or incomplete information. Document daily activities, track participant contacts, and communicate regularly with participants to support engagement and adherence. Provide participant updates during weekly group supervision with the PI and participate in weekly clinical review meetings to discuss participant progress. Represent the program at internal and external meetings and assist with promotional, educational, and outreach activities. Contribute to reports, manuscripts, and presentations. Assist with sharing study findings through partnerships with organizations serving older adults with HIV in Miami-Dade County. Learn and follow approved study procedures, maintain study materials, and bring protocol, safety, and data quality concerns to the study team. Review relevant research literature and stay current on study procedures through training and supervision. Protect confidential participant information, follow University and departmental policies, and safeguard University assets. This list of duties and responsibilities is not intended to be all-inclusive and may be expanded to include other duties or responsibilities as necessary. Core Qualifications: Bachelor’s degree in relevant field required No previous experience required Certification and Licensing: Refer to department description for applicable certification requirements Learning Agility: Ability to learn new procedures, technologies, and protocols, and adapt to changing priorities and work demands. Teamwork: Ability to work collaboratively with others and contribute to a team environment. Technical Proficiency: Skilled in using office software, technology, and relevant computer applications. Communication: Strong and clear written and verbal communication skills for interacting with colleagues and stakeholders. The University of Miami offers competitive salaries and a comprehensive benefits package including medical, dental, tuition remission and more. UHealth-University of Miami Health System, South Florida's only university-based health system, provides leading-edge patient care powered by the ground breaking research and medical education at the Miller School of Medicine. As an academic medical center, we are proud to serve South Florida, Latin America and the Caribbean. Our physicians represent more than 100 specialties and sub-specialties, and have more than one million patient encounters each year. Our tradition of excellence has earned worldwide recognition for outstanding teaching, research and patient care. We're the challenge you've been looking for. The University of Miami
+
+---
+
+## 7. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
 - Link: https://jobs.ashbyhq.com/openai/6785d983-8831-46d0-9c81-443f83664948
 - Location: San Francisco United States
 - Posted: Nov 22 12:20 ET
@@ -354,7 +371,22 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 7. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
+## 8. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
+- Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810780
+- Location: Jacksonville, FL, United States US
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, machine learning, power bi, spark, sql, tableau, athena, data quality, lambda, pipeline, reporting, risk, validation | Lacks: hadoop, java, scala, snowflake, ssis
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+DESCRIPTION Duties: Work with Product and Data Owners, Technology, and Design Partners to advance the integrity and capabilities of the Home Lending data ecosystem. Understand and translate business needs into tangible, technical tasks to support long-term strategic objectives. Provide oversight and track initiatives to completion, clearly articulating progress and risks to Stakeholders. Partner with key Stakeholders and Business to ensure their foundational data needs are being addressed. Collaborate with team members, both to build out specific projects and to continuously teach and learn new technology and techniques. Perform data discovery work to manipulate and analyze complex, high-volume, high-dimensionality data from varying sources to help develop various types of data-driven Home Lending products/initiatives. Provide recommendations on suitable data solutions, structures, and/or processes in clear, concise terms to both technical development teams and non-technical Stakeholders. Create stored procedures in SQL Server to transform data and push them to several staging databases which can be used for reporting purposes. Deliver data to several business users who use Machine Learning to capture the customers at the earliest and market their business. QUALIFICATIONS Minimum education and experience required: Master's degree in Information Systems and Operations Management, Computer Science, Management Information Systems, Data & Analytics, or related field of study. plus 3 years of experience in the job offered or as Data Scientist, Data Domain Architect, Test Engineer or related occupation. Skills Required: This position requires three (3) years of experience with the following: Architecting and implementing big data solutions using Hadoop ecosystem components (including HDFS, Hive, and MapReduce) for processing multi-terabyte datasets; Driving initiatives in Agile/Scrum environments, participating in sprint planning, daily standups, retrospectives, and delivering iterative data solutions in 2-week sprint cycles; and Building Java-based data pipelines to ingest, transform, and standardize data from APIs, batch processes, and banking systems into AWS Data Lake, Snowflake, and on-premises platforms. This position requires two (2) years of experience with the following: Designing and deploying end-to-end data solutions on AWS cloud infrastructure, including: S3 for data lake architecture with lifecycle policies and versioning, RDS and Aurora for relational database management with high availability configurations, Redshift for data warehousing with distribution keys and sort keys optimization, and Athena for serverless SQL querying of petabyte-scale data; and Utilizing enterprise-level relational database management systems including Snowflake (including virtual warehousing, time travel, and zero-copy cloning), Teradata (including performance tuning and workload management), Oracle (including PL/SQL and partitioning), and Microsoft SQL Server (including SSIS and indexing strategies). This position requires one (1) year of experience with the following: Developing complex SQL Server stored procedures to dynamically feed data into operational reporting systems and to architect, enhance, and centralize enterprise data products across AWS, Snowflake, Hadoop, Teradata, and Microsoft database platforms to enable scalable analytics consumption; and Developing interactive dashboards and reports using Tableau (including calculated fields, parameters and LOD expressions) and Power BI (including DAX, Power Query and custom visuals) for executive-level stakeholders. This position requires any amount of experience with the following: Designing and developing PySpark optimization techniques including partitioning strategies, broadcast joins, and memory management for cluster computing environments; AWS services including SageMaker, Glue, Lambda, EMR, and Step Functions for workflow orchestration; Designing normalized and denormalized database schemas supporting OLTP and OLAP workloads for 100+ concurrent users; Establishing data quality management processes including profiling, cleansing, validation, and monitoring with measurable quality metrics (including accuracy, completeness and consistency); and Applying project management techniques including scope definition, resource allocation, risk management, and stakeholder communication for data initiatives. Job Location: 7255 Baymeadows Way, Jacksonville, FL 32256. Full-Time.   Chase is a leading financial services firm, helping nearly half of America’s households and small businesses achieve their financial goals through a broad range of financial products. Our mission is to create engaged, lifelong relationships and put our customers at the heart of everything we do. We also help small businesses, nonprofits and cities grow, delivering solutions to solve all their financial needs. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
+
+---
+
+## 9. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
 - Link: https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445
 - Location: San Francisco United States
 - Posted: Nov 22 12:14 ET
@@ -411,7 +443,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 8. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
+## 10. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
 - Link: https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Golbey/Stage---Dveloppement-de-modles-d-AI-ML-appliqus-aux-changeurs--plaques-et-ailettes-brases-en-aluminium-H-F_JR0049556
 - Location: Golbey
 - Posted: Nov 22 (board gives the date only)
@@ -426,7 +458,7 @@ Chez Alfa Laval Golbey, nous concevons et fabriquons des échangeurs thermiques 
 
 ---
 
-## 9. [MAYBE] Gartner | Sr Data Analyst
+## 11. [MAYBE] Gartner | Sr Data Analyst
 - Link: https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Sr-Data-Analyst_116148
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
