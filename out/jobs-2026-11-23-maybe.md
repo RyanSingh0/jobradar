@@ -15,47 +15,54 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 9 | Dentsu | Product, Business Analyst | 68 | 12 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
 | 10 | Airbus | Praktikum "AI Softwareentwicklung" (d/m/w) | 67 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
 | 11 | Cantor Fitzgerald | Treasury Analyst | 67 | 8 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 12 | Artefact | AI Applied Engineer – AI Engineer | 64 | none found (check myvisajobs) | Nov 22 19:17 ET |
-| 13 | US Acute Care Solutions | AI Engineer | 62 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 14 | Dallas Fort Worth International Airport | Risk Analyst | 62 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 15 | Graham Capital Management | Portfolio Analyst, Global Macro | 62 | 9 in data/analytics/finance occupations | Nov 23 14:44 ET |
-| 16 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 17 | CVS Health | Data Engineer | 57 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 18 | PennState University | Tseng Banaszak 26-27 Part Time Research Assistant | 57 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 19 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
-| 20 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 21 | Envista | Legal Data Analyst | 55 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 22 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
-| 23 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
-| 24 | Simmons Bank | Loan Portfolio Analyst I | 54 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 25 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 26 | Amentum | Data Analyst | 54 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 27 | Medical College of Wisconsin | Research Scientist I - Biophysics | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 28 | Yale University | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 29 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
-| 30 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 31 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 32 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 33 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
-| 34 | Prosper AI | AI Engineer | 45 | none found (check myvisajobs) | Nov 23 11:51 ET |
-| 35 | Exponent | Title Research Assistant | 45 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 36 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 37 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 38 | Wash U | Statistical Data Analyst - Genetics | 45 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 39 | Washington University in St. Louis | Statistical Data Analyst - Genetics | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 40 | Koddi | Associate Digital Marketing Analyst | 44 | 3 in data/analytics/finance occupations | Nov 23 12:58 ET |
-| 41 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 42 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 43 | Moffitt Cancer Center | Research Associate 1 | 40 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 44 | John Wiley & Sons | Senior Data Scientist (NLP & Applied AI) | 70 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 45 | Johnson & Johnson | Sr Scientist Data Science | 67 | 11 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 46 | Capital One | Sr. Business Analyst - Profitability & Growth Analysis | 62 | 458 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 47 | Ohio State University | Reporting and Analytics Analyst 2 - Government Resource Center | 57 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 48 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 49 | AbbVie | Sr. Data Science Analyst, Business Intelligence  | 55 | 96 in data/analytics/finance occupations | Nov 23 12:41 ET |
-| 50 | Chewy | Machine Learning Engineer II | 55 | 107 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 51 | Sun Life | Senior AI Engineer | 55 | 6 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 52 | Truist Bank | Senior Capital Markets Risk Analyst | 55 | 99 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 12 | Genentech | Computational & Applied AI - Scientist | 65 | 35 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 13 | Artefact | AI Applied Engineer – AI Engineer | 64 | none found (check myvisajobs) | Nov 22 19:17 ET |
+| 14 | US Acute Care Solutions | AI Engineer | 62 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 15 | Dallas Fort Worth International Airport | Risk Analyst | 62 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 16 | Graham Capital Management | Portfolio Analyst, Global Macro | 62 | 9 in data/analytics/finance occupations | Nov 23 14:44 ET |
+| 17 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 18 | CVS Health | Data Engineer | 57 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 19 | PennState University | Tseng Banaszak 26-27 Part Time Research Assistant | 57 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 20 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
+| 21 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 22 | Envista | Legal Data Analyst | 55 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 23 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
+| 24 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
+| 25 | Simmons Bank | Loan Portfolio Analyst I | 54 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 26 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 27 | Amentum | Data Analyst | 54 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 28 | Medical College of Wisconsin | Research Scientist I - Biophysics | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 29 | Yale University | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 30 | Axle | SBIR Data Analyst | 54 | none found (check myvisajobs) | Nov 23 15:12 ET |
+| 31 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
+| 32 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 33 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 34 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 35 | Altera Corporation | AI Engineer | 47 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 36 | Wellington Management | Research Associate, Consumer | 47 | 32 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 37 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
+| 38 | Prosper AI | AI Engineer | 45 | none found (check myvisajobs) | Nov 23 11:51 ET |
+| 39 | Exponent | Title Research Assistant | 45 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 40 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 41 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 42 | Wash U | Statistical Data Analyst - Genetics | 45 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 43 | Washington University in St. Louis | Statistical Data Analyst - Genetics | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 44 | Koddi | Associate Digital Marketing Analyst | 44 | 3 in data/analytics/finance occupations | Nov 23 12:58 ET |
+| 45 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 46 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 47 | Moffitt Cancer Center | Research Associate 1 | 40 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 48 | John Wiley & Sons | Senior Data Scientist (NLP & Applied AI) | 70 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 49 | Johnson & Johnson | Sr Scientist Data Science | 67 | 11 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 50 | Capital One | Sr. Business Analyst - Profitability & Growth Analysis | 62 | 458 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 51 | Airbnb | Senior Machine Learning Engineer, Assistance Foundations | 61 | 46 in data/analytics/finance occupations | Nov 23 15:18 ET |
+| 52 | Ohio State University | Reporting and Analytics Analyst 2 - Government Resource Center | 57 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 53 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 54 | AbbVie | Sr. Data Science Analyst, Business Intelligence  | 55 | 96 in data/analytics/finance occupations | Nov 23 12:41 ET |
+| 55 | Chewy | Machine Learning Engineer II | 55 | 107 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 56 | Sun Life | Senior AI Engineer | 55 | 6 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 57 | Truist Bank | Senior Capital Markets Risk Analyst | 55 | 99 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 58 | Morningstar | Business Intelligence and Analytics, Senior Analyst – New York | 55 | 13 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 59 | Ally Bank | Sr Analyst - Business Intelligence | 55 | 54 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
 
 ---
 
@@ -330,7 +337,22 @@ This is an immediate hiring need. Spring 2027 graduates will not be considered. 
 
 ---
 
-## 12. [MAYBE] Artefact | AI Applied Engineer – AI Engineer
+## 12. [MAYBE] Genentech | Computational & Applied AI - Scientist
+- Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Computational---Applied-AI---Scientist_202611-129687-1
+- Location: South San Francisco
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~65 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 35 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, data visualization, excel, machine learning, python, r, statistic, healthcare, pipeline, research | Lacks: scala  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+A healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love. That’s what makes us Roche. Advances in AI, data, and computational sciences are transforming drug discovery and development. Roche’s Research and Early Development organizations at Genentech (gRED) and Pharma (pRED) have demonstrated how these technologies accelerate R&D, leveraging data and novel computational models to drive impact. Seamless data sharing and access to models across gRED and pRED are essential to maximizing these opportunities. The Computational Sciences Center of Excellence (CoE) is a strategic, unified group whose goal is to harness this transformative power of data and Artificial Intelligence (AI) to assist our scientists in delivering more innovative and transformative medicines for patients worldwide. The sub-department of Oncology in Computational Biology and Medicine at Genentech is seeking a visionary and highly motivated Senior Scientist to join a newly forming team focused on Multimodal Data Integration. This role will focus on modeling high-dimensional data at the critical interface of disease biology and translational medicine. The successful candidate will be responsible for the vertical integration of diverse, disease-specific large datasets. In this role, you will work alongside experts in disease biology and drug development to address the missing link: integration across pre-clinical and clinical modalities to associate biological mechanisms with clinical outcomes. You will develop computational frameworks and advanced statistical models in partnership with other computational biologists to creatively address complex scientific questions from Research and Translational Medicine and to deliver actionable biological insights and therapeutic strategies. The Opportunity: Vertical Integration: You will lead the integration of multimodal datasets—including high-throughput transcriptomics, epigenomics, drug-response, and clinical data (e.g., ctDNA, imaging)—to enable multi-state modeling and patient subtyping. Bridge Pre-clinical & Clinical: You will develop methods to associate pre-clinical model profiles (cell lines, organoids) with clinical segments to validate biomarkers and therapeutic targets. Method Development: You will design and deploy computational workflows and frameworks leveraging statistical, computational biology and advanced machine learning methods to enable insight generation from high-dimensional profiling techniques. Interpretability & Insight: Your focus will be on "interpretable AI"—developing models that go beyond prediction to explain the underlying biology and mechanisms of action/resistance. Collaborative Leadership: Sitting next to the biologists, you will co-create and lead technical roadmaps for complex experimental questions, acting as a creative bridge between experimental oncology and machine learning groups. Strategic Impact: As a senior member of the team, you will provide the vision to transition from simple data processing to sophisticated biomarker development and mechanism-driven discovery. Who You Are: Educational Background: Ph.D. in Computational Biology, Systems Biology, Bioinformatics or a related field Multimodal Expertise: Proven track record of developing or extending integration methods (e.g., multi-instance learning, latent-factor/VAE-based fusion, or custom cross-modal architectures) across two or more modalities (e.g., NGS, single-cell, transcriptomics, proteomics, perturbational and clinical data). Machine Learning & Modeling: Deep understanding of recent ML methods with a specific emphasis on model interpretability. Hands-on experience building novel or mechanistically-grounded models (e.g., architectures trained through biological or pharmacological constraints, custom attention or MIL frameworks) is required Technical Proficiency: Expert-level fluency in R and Python, with evidence of production-grade engineering (tested, optimized, reusable packages or pipelines). Experience building scalable computational workflows for large-scale data integration is required. You are familiar with AI-supported and agentic coding tools. Biological Depth: Strong foundation in cancer biology and oncogenic signaling. Proficiency in communicating intricate biological principles is essential for facilitating productive collaborations and strategic alignment with experimental research leadership. Visionary & Creative: Ability to navigate ambiguity and partner with stakeholders to turn creative research ideas into impactful, innovative computational strategies. Communicator: Excellent skills in data visualization and the ability to present complex multimodal findings to diverse audiences (from ML scientists to clinical physicians). Onsite presence, on our South San Francisco campus, is expected for at least 3 days a week. Relocation benefits are not available for this job posting. The expected salary range for this position based on the primary location of California is $144,900 - $269,199. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. A discretionary annual bonus may be available based on individual and Company performance. This position also qualifies for the benefits detailed at the link provided below. Benefits Genentech
+
+---
+
+## 13. [MAYBE] Artefact | AI Applied Engineer – AI Engineer
 - Link: https://job-boards.greenhouse.io/artefactlinkedin/jobs/8957980002
 - Location: 135 W 26th Street, New York, NY 10001
 - Posted: Nov 22 19:17 ET
@@ -345,7 +367,7 @@ Join the most advanced community of AI makers. This role is in the ML &amp; AI A
 
 ---
 
-## 13. [MAYBE] US Acute Care Solutions | AI Engineer
+## 14. [MAYBE] US Acute Care Solutions | AI Engineer
 - Link: https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/AI-Prompt-Engineer_R0002412
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -360,7 +382,7 @@ Job Posting Closing Date: Open until Filled Where do you belong? Your career is 
 
 ---
 
-## 14. [MAYBE] Dallas Fort Worth International Airport | Risk Analyst
+## 15. [MAYBE] Dallas Fort Worth International Airport | Risk Analyst
 - Link: https://dfwairport.wd5.myworkdayjobs.com/External/job/Airport-Headquarters/Risk-Analyst_JR102298-1
 - Location: Airport Headquarters
 - Posted: Nov 23 (board gives the date only)
@@ -375,7 +397,7 @@ Job Overview Under general direction of the Sr Risk Management Services Manager 
 
 ---
 
-## 15. [MAYBE] Graham Capital Management | Portfolio Analyst, Global Macro
+## 16. [MAYBE] Graham Capital Management | Portfolio Analyst, Global Macro
 - Link: https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4757937005?gh_jid=4757937005
 - Location: New York, New York, United States
 - Posted: Nov 23 14:44 ET
@@ -390,7 +412,7 @@ Graham Capital Management, L.P. (collectively with its affiliates, "Graham") is 
 
 ---
 
-## 16. [MAYBE] Viridien | Machine Learning Researcher - Seismic Foundation Models
+## 17. [MAYBE] Viridien | Machine Learning Researcher - Seismic Foundation Models
 - Link: https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Machine-Learning-Researcher---Seismic-Foundation-Models_JR101586
 - Location: Houston, United States of America
 - Posted: Nov 22 (board gives the date only)
@@ -405,7 +427,7 @@ Viridien ( www.viridiengroup.com ) is an advanced technology, digital and Earth 
 
 ---
 
-## 17. [MAYBE] CVS Health | Data Engineer
+## 18. [MAYBE] CVS Health | Data Engineer
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R1108581-1
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -420,7 +442,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 18. [MAYBE] PennState University | Tseng Banaszak 26-27 Part Time Research Assistant
+## 19. [MAYBE] PennState University | Tseng Banaszak 26-27 Part Time Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Tseng-Banaszak-26-27-Part-Time-Research-Assistant_REQ_0000084528-1
 - Location: Penn State University Park
 - Posted: Nov 23 (board gives the date only)
@@ -435,7 +457,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 19. [MAYBE] Clera | Founding Applied AI Engineer
+## 20. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/2d1cadd3-9212-46cf-be7d-bb220dad8710
 - Location: United States United States
 - Posted: Nov 22 12:02 ET
@@ -490,7 +512,7 @@ On-site in the United States.
 
 ---
 
-## 20. [MAYBE] Mars | Industrial Data Engineer
+## 21. [MAYBE] Mars | Industrial Data Engineer
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Ohio-Lewisburg/Industrial-Data-Engineer_R172203-2
 - Location: USA-Ohio-Lewisburg
 - Posted: Nov 22 (board gives the date only)
@@ -505,7 +527,7 @@ Job Description: Industrial Data Engineer The Industrial Data Engineer will part
 
 ---
 
-## 21. [MAYBE] Envista | Legal Data Analyst
+## 22. [MAYBE] Envista | Legal Data Analyst
 - Link: https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--California--Brea/Legal-Data-Analyst_R5027938
 - Location: United States of America, California, Brea
 - Posted: Nov 23 (board gives the date only)
@@ -520,7 +542,7 @@ Job Description: JOB SUMMARY: Must reside within a commutable distance to both B
 
 ---
 
-## 22. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
+## 23. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
 - Link: https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa
 - Location: San Francisco United States
 - Posted: Nov 22 12:12 ET
@@ -575,7 +597,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 23. [MAYBE] University of Miami | Research Associate 1
+## 24. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103302
 - Location: Miami, FL
 - Posted: Nov 22 (board gives the date only)
@@ -590,7 +612,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 24. [MAYBE] Simmons Bank | Loan Portfolio Analyst I
+## 25. [MAYBE] Simmons Bank | Loan Portfolio Analyst I
 - Link: https://simmonsbank.wd5.myworkdayjobs.com/SimmonsCareers/job/Little-Rock-AR/Loan-Portfolio-Analyst-II_R115792
 - Location: Little Rock, AR
 - Posted: Nov 23 (board gives the date only)
@@ -605,7 +627,7 @@ It's fun to work in a company where people truly BELIEVE in what they're doing! 
 
 ---
 
-## 25. [MAYBE] University of Miami | Research Associate 1
+## 26. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103321
 - Location: Miami, FL
 - Posted: Nov 23 (board gives the date only)
@@ -620,7 +642,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 26. [MAYBE] Amentum | Data Analyst
+## 27. [MAYBE] Amentum | Data Analyst
 - Link: https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Pensacola/Data-Analyst_R0176006
 - Location: US-FL-Pensacola
 - Posted: Nov 23 (board gives the date only)
@@ -635,7 +657,7 @@ Purpose and Scope: The Data Analyst performs the functions of the Navy’s Syste
 
 ---
 
-## 27. [MAYBE] Medical College of Wisconsin | Research Scientist I - Biophysics
+## 28. [MAYBE] Medical College of Wisconsin | Research Scientist I - Biophysics
 - Link: https://mcw.wd503.myworkdayjobs.com/ExternalCareers/job/Milwaukee-WI/Research-Scientist-I---Biophysics_JR104329
 - Location: Milwaukee, WI
 - Posted: Nov 23 (board gives the date only)
@@ -650,7 +672,7 @@ Summary The Wang Lab in the Department of Biophysics at the Medical College of W
 
 ---
 
-## 28. [MAYBE] Yale University | Research Associate 1
+## 29. [MAYBE] Yale University | Research Associate 1
 - Link: https://yale.wd1.myworkdayjobs.com/terminated_layoff_external_career_site/job/Church-St-South-100/Research-Associate-1_139464WD-1
 - Location: Church St South, 100
 - Posted: Nov 23 (board gives the date only)
@@ -665,7 +687,22 @@ Working at Yale means contributing to a better tomorrow. Whether you are a curre
 
 ---
 
-## 29. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
+## 30. [MAYBE] Axle | SBIR Data Analyst
+- Link: https://job-boards.greenhouse.io/axle/jobs/5306965007
+- Location: Rockville, MD
+- Posted: Nov 23 15:12 ET
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: data visualization, statistic, healthcare, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+(ID: 2026-4064) Axle is a bioscience and information technology company that offers advancements in translational research, biomedical informatics, and data science applications to research centers and healthcare organizations nationally and abroad. With experts in biomedical science, software engineering, and program management, we focus on developing and applying research tools and techniques to empower decision-making and accelerate research discoveries. We work with some of the top research organizations and facilities in the country including multiple institutes at the National Institutes of Health (NIH). Axle is seeking a SBIR Data Analyst to join our vibrant team at the National Institutes of Health (NIH) supporting the National Institute of Allergy and Infectious Diseases (NIAID) located in Rockville, MD. Benefits We Offer: 100% Medical, Dental &amp; Vision Coverage for Employees Paid Time Off and Paid Holidays 401K match up to 5% Educational Benefits for Career Growth Employee Referral Bonus Flexible Spending Accounts: Healthcare (FSA) Parking Reimbursement Account (PRK) Dependent Care Assistant Program (DCAP) Transportation Reimbursement Account (TRN) Position Information: &nbsp; The purpose of this position is to provide data analysis and data management support to SBIR/STTR programs within NIAID, including data collection, quality checks, analysis, database development and maintenance, and reporting to support program oversight and decision-making. &nbsp; Statement of Work Details: &nbsp; Provide analysis, analytical modeling, and/or data visualization on data sets using relevant data tools. - 1 Prepare databases and reports for staff; perform various tracking and analysis of branch data to include spreadsheet preparation and interpretation. - 2 Identify possible trends and patterns in the data; communicate relevant findings that support problem solving and decision making. - 3 Collects and analyzes data for a variety of studies. Coordinate and perform data entry. Perform quality checks to ensure consistency, integrity and robustness of data. Organizes data to provide functional reporting. Create data workflow processes. Ensure that appropriate variables are captured in the constructed databases. Format databases to allow merging of spreadsheets for statistical analyses and to optimize planned analyses. Record data into a format appropriate for processing. Apply statistical techniques to produce meaningful tables and graphs using appropriate software. Provide support with data sharing, including public repositories. Work with staff to prepare and standardize data for the database. Perform routine and general data management. Prepare tables and figures from data analyses. Perform database searches and assemble data sets. Creates and maintains a variety of reports. Maintain data for past and present studies. Compile results of analysis projects into detailed reports. Maintain databases for tracking and monitoring activities. Manages storage and backup systems. Maintain and update electronic copies of all databases and data dictionaries developed for projects. Maintain and update accurate and complete filing of data following data entry / QA. Follow established policies and procedures for the quality assurance of all study collection interfaces, storage and access. Participates in the development and design of databases for tracking and statistical purposes that incorporate multiple data fields required by scientists. Maintain tracking spreadsheet of tasks completed for each project and time spent conducting each task. Develop, maintain and update program database and spreadsheet. Participate in the design and implementation of data reporting tools. Evaluate data utility in developing and executing long-range strategic plans. Maintain databases and spreadsheets related to various data sharing activities. Provide support for all data sharing related activities; create and maintain data access and data submission tracking systems and reports to be presented to senior program leadership. Maintain databases and spreadsheets for tracking and analyzing submission of datasets. Assists with coordination of statistical data analysis for numerous ongoing studies by collecting, organizing, and tracking information. Establish procedure to address inconsistencies and track resolutions. Enhance data management and document data sharing practices. Design, develop and maintain databases, Listservs, spreadsheets, PowerPoint presentations and other computer applications. Manages projects and quickly responds to inquiries about status. Perform database analysis to look for incomplete data elements. Track and solve problems during the data entry and QA processes. Work with database users to identify and resolve cases of missing data. Coordinates statistical data analysis for numerous ongoing studies by collecting, organizing, and tracking information. Establish procedure to address inconsistencies and track resolutions. Enhance data management and document data sharing practices. Prepare databases and reports for staff; perform various tracking and analysis of branch data to include spreadsheet preparation and interpretation. Design, develop and maintain databases, Listservs, spreadsheets, PowerPoint presentations and other computer applications. Develops and designs databases for tracking and statistical purposes that incorporate multiple data fields required by scientists. Maintain tracking spreadsheet of tasks completed for each project and time spent conducting each task. Participate in the design and implementation of data reporting tools. Evaluate data utility in developing and executing long-range strategic plans. Maintain databases and spreadsheets related to various data sharing activities. Provide support for all data sharing related activities; create and maintain data access and data submission tracking systems and reports to be presented to senior program leadership. Maintain databases and spreadsheets for tracking and analyzing submission of datasets. &nbsp; &nbsp; Field of Study Biology Microbiology Molecular Biology Miscellaneous Biology Zoology Statistics and Decision Science &nbsp; Skills Scientific Data analysis Statistical modeling Database management Data visualization Data presentation Data annotation Grant analysis &nbsp; &nbsp; Disclaimer: The above description is meant to illustrate the general nature of work and level of effort being performed by individuals assigned to this position or job description. This is not restricted as a complete list of all skills, responsibilities, duties, and/or assignments required. Individuals may be required to perform duties outside of their position, job description or responsibilities as needed. The diversity of Axle’s employees is a tremendous asset. We are firmly committed to providing equal opportunity in all aspects of employment and will not tolerate any illegal discrimination or harassment based on age, race, ge [...]
+
+---
+
+## 31. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
 - Link: https://jobs.ashbyhq.com/openai/6785d983-8831-46d0-9c81-443f83664948
 - Location: San Francisco United States
 - Posted: Nov 22 12:20 ET
@@ -742,7 +779,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 30. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
+## 32. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810780
 - Location: Jacksonville, FL, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -757,7 +794,7 @@ DESCRIPTION Duties: Work with Product and Data Owners, Technology, and Design Pa
 
 ---
 
-## 31. [MAYBE] Invesco | Quantitative Analyst
+## 33. [MAYBE] Invesco | Quantitative Analyst
 - Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Quantitative-Analyst_R-15895-1
 - Location: New York, New York
 - Posted: Nov 22 (board gives the date only)
@@ -772,7 +809,7 @@ About Invesco As one of the world’s leading independent global investment firm
 
 ---
 
-## 32. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
+## 34. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
 - Link: https://uscareeropenings-alliancelaundry.icims.com/jobs/14271/data-analyst-%28sourcing%29/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -787,7 +824,37 @@ Data Analyst (Sourcing) in Ripon, Wisconsin | Careers at Alliance Laundry System
 
 ---
 
-## 33. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
+## 35. [MAYBE] Altera Corporation | AI Engineer
+- Link: https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Engineer_R02788
+- Location: San Jose, California, United States
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~47 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, llm, python, pipeline, research | Lacks: c++
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Details: Job Description: AI Engineer – Agentic AI Systems Why This Role Matters AI is shifting from models to autonomous systems . At Altera, we are building agentic AI platforms tightly coupled with FPGA acceleration , enabling intelligent systems that can reason, act, and scale in real-world environments . This role is designed for high-potential engineers early in their careers who want to: work on cutting-edge AI (LLMs + agents + RAG) gain exposure to hardware-software co-design and grow quickly into technical leaders in AI systems What You’ll Work On Build Real Agentic AI Systems Develop LLM-powered agents that use tools, APIs, and data to complete complex tasks Implement RAG pipelines for large-scale knowledge integration Ship end-to-end systems from data ingestion → reasoning → action Go Beyond “Model Usage” Design multi-step reasoning workflows , not just prompt calls Evaluate and improve model behavior (accuracy, latency, cost) Work with both open-source and frontier models AI Meets Hardware (Differentiator) Collaborate with FPGA/ASIC teams on hardware-aware AI design Learn how AI systems are optimized across CPU / GPU / FPGA Explore efficient inference and system-level performance tradeoffs Build Platforms, Not Just Features Develop reusable components for: memory and context management tool integration knowledge retrieval Contribute to internal AI platforms used across teams The pay range below is for Bay Area California only. Actual salary may vary based on a number of factors including job location, job-related knowledge, skills, experiences, trainings , etc. We also offer incentive opportunities that reward employees based on individual and company performance. $ 133.2K - $ 192.8K USD We use artificial intelligence to screen, assess, or select applicants for the position. Applicants must be eligible for any required U.S. export authorizations . Qualifications: What We’re Looking For Background Master’s (or exceptional Bachelor’s) in CS, EE, or related field 3+ years experience (internships, research, or industry) Technical Strength Strong coding skills in Python (C++ is a plus) Hands-on experience building: AI/ML projects, OR backend / distributed systems Solid fundamentals in: data structures system design basics Signal of Excellence (What Sets You Apart) You’ve built something non-trivial: AI project, open-source contribution, or research prototype You learn new frameworks quickly and ship working systems You’re curious about how systems work end-to-end , not just models Bonus Points Experience with: LangChain, LlamaIndex, or similar vector databases (FAISS, Milvus, etc.) Exposure to: RAG, prompt engineering, or agent workflows hardware acceleration or performance optimization What You’ll Get Fast Growth Work directly with senior architects and domain experts Clear path toward Senior Engineer → Architect roles High Learning Density Exposure to both: modern AI systems (LLMs, agents) hardware acceleration (FPGA/ASIC) Real Ownership Build production systems—not demos Your work will be used in real engineering workflows Unique Positioning Few roles combine: Agentic AI systems EDA / semiconductor domain hardware-aware AI optimization Job Type: Regular Shift: Shift 1 (United States of America) Primary Location: San Jose, California, United States Additional Locations: Posting Statement: All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.
+
+---
+
+## 36. [MAYBE] Wellington Management | Research Associate, Consumer
+- Link: https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Research-Associate--Consumer_R95151-1
+- Location: Boston, MA, United States
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~47 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 32 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, r, statistic, research, risk | Lacks: cfa
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About Us Wellington Management offers comprehensive investment management capabilities that span nearly all segments of the global capital markets. Our investment solutions, tailored to the unique return and risk objectives of institutional clients in more than 60 countries, draw on a robust body of proprietary research and a collaborative culture that encourages independent thought and healthy debate. As a private partnership, we believe our ownership structure fosters a long-term view that aligns our perspectives with those of our clients. About the Role We are seeking an Equity Research Associate (RA) to join our Global Industry Research Consumer Team. In this role, the RA will work closely with a senior Global Industry Analyst (GIA) to support coverage within the consumer staples sector, while also drawing on broader consumer sector knowledge across consumer discretionary, retail, brands, restaurants, leisure, and related subsectors. Responsibilities for this position will include the following: Maintaining industry and comparative valuation models across consumer staples companies, while incorporating relevant read-throughs from the broader consumer sector; Building and maintaining company financial models with a focus on revenue growth, margins, pricing, market share, channel mix, inventory trends, cash flow generation, and other consumer staples-specific drivers; Assessing category growth, competitive positioning, brand strength, consumer demand, pricing power, distribution strategy, and execution risk across staple categories and adjacent consumer end markets; Analyzing company results, industry data, consumer spending trends, point-of-sale and channel data, web traffic, app engagement, foot traffic, supply chain indicators, and other datasets to evaluate company fundamentals and competitive dynamics; Performing ongoing due diligence across the global consumer staples landscape, identifying emerging investment opportunities and key risks across established and evolving categories; Executing complex analytical projects that leverage alternative data, AI, and other tools under tight time constraints; Staying abreast of relevant company, industry, macroeconomic, and consumer materials, including earnings releases, management commentary, industry conferences, retail data, brand developments, input cost trends, and regulatory or policy changes impacting the sector; Contributing to idea generation across both long and short investment opportunities. ESSENTIAL SKILLS Analytical acumen and passion for markets –The ideal candidate will possess strong financial modeling skills and the ability to analyze company, industry, consumer, macroeconomic, channel, and alternative datasets, while leveraging AI and data tools to drive deeper and more efficient research. Experience modeling revenue drivers, margin structures, pricing, market share, unit economics, working capital, and cash flow is highly valued. Intellectual curiosity and a passion for understanding the drivers of consumer staples demand, brand strength, retail execution, pricing power, and business model durability are essential. Judgment and investment focus – Successful candidates will demonstrate an ability to prioritize the most relevant information across the consumer staples landscape while incorporating broader consumer sector context where relevant. A discerning analytical mindset and the ability to focus on the key drivers of value creation, including category growth, market share, pricing power, margins, cash flow, competitive positioning, and execution, will be important. Superior collaboration skills – The Research Associate will contribute meaningfully to the research efforts of the consumer team while building strong working relationships across the firm. The ability to communicate investment views clearly, both verbally and in writing, and participate in a constructive investment dialogue is essential. Growth mindset – This role requires initiative, independence, and strong ownership of research responsibilities. The successful candidate will be proactive in identifying opportunities, deepening their expertise, and contributing to the team's investment process. QUALIFICATIONS Additional qualifications and characteristics include: A minimum of 2 years of relevant investment or equity research experience; Strong data and technology skills, including experience using AI and tools to screen, rank, and analyze large stock universes; Experience analyzing consumer staples companies is preferred but not required, with relevant experience also coming from broader consumer discretionary, retail, brands, restaurants, leisure, or related consumer companies, including revenue drivers, market share, margins, channel dynamics, consumer behavior, and industry datasets; Financial modeling experience, including valuation frameworks for consumer companies and an understanding of revenue, margin, cash flow, balance sheet, and return profile drivers; High level of intellectual curiosity and willingness to engage deeply with company, industry, consumer, macroeconomic, competitive, operational, and financial material; Sound judgment, strong work ethic, and the highest level of personal and professional integrity; Ability to work independently and make decisions in the face of uncertainty; Strong organizational skills and attention to detail; Excellent written and verbal communication skills; and Superior academic credentials; an undergraduate degree is required. Business, economics, finance, accounting, data science, marketing, statistics, or related analytical backgrounds are advantageous. Progress toward CFA/CAIA levels is additive. Not sure you meet 100% of our qualifications? That’s ok. If you believe that you could excel in this role, we encourage you to apply and welcome a chance to review your background. We are dedicated to building and maintaining a diversified workforce and considering a broad array of candidates with a variety of skill, workplace experiences, and backgrounds. As an
+
+---
+
+## 37. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
 - Link: https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445
 - Location: San Francisco United States
 - Posted: Nov 22 12:14 ET
@@ -844,7 +911,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 34. [MAYBE] Prosper AI | AI Engineer
+## 38. [MAYBE] Prosper AI | AI Engineer
 - Link: https://jobs.ashbyhq.com/prosper-ai/fc1781c3-3fee-47f6-bf76-c5e2a6357eaf
 - Location: Barcelona Spain remote
 - Posted: Nov 23 11:51 ET
@@ -901,7 +968,7 @@ Interviewing Process
 
 ---
 
-## 35. [MAYBE] Exponent | Title Research Assistant
+## 39. [MAYBE] Exponent | Title Research Assistant
 - Link: https://careers-exponent.icims.com/jobs/2465/research-assistant/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -916,7 +983,7 @@ Research Assistant in Phoenix, Arizona | Careers at Phoenix Please Enable Cookie
 
 ---
 
-## 36. [MAYBE] Texas A&M AgriLife Research | Research Associate
+## 40. [MAYBE] Texas A&M AgriLife Research | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Research-Associate_R-099059-1
 - Location: College Station, TX
 - Posted: Nov 23 (board gives the date only)
@@ -931,7 +998,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Range
 
 ---
 
-## 37. [MAYBE] Texas A&M University System | Research Associate
+## 41. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-099059
 - Location: College Station, TX
 - Posted: Nov 23 (board gives the date only)
@@ -946,7 +1013,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Range
 
 ---
 
-## 38. [MAYBE] Wash U | Statistical Data Analyst - Genetics
+## 42. [MAYBE] Wash U | Statistical Data Analyst - Genetics
 - Link: https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Statistical-Data-Analyst---Genetics_JR98842
 - Location: Washington University Medical Campus
 - Posted: Nov 23 (board gives the date only)
@@ -961,7 +1028,7 @@ Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Perfo
 
 ---
 
-## 39. [MAYBE] Washington University in St. Louis | Statistical Data Analyst - Genetics
+## 43. [MAYBE] Washington University in St. Louis | Statistical Data Analyst - Genetics
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Statistical-Data-Analyst---Genetics_JR98842
 - Location: Washington University Medical Campus
 - Posted: Nov 23 (board gives the date only)
@@ -976,7 +1043,7 @@ Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Perfo
 
 ---
 
-## 40. [MAYBE] Koddi | Associate Digital Marketing Analyst
+## 44. [MAYBE] Koddi | Associate Digital Marketing Analyst
 - Link: https://job-boards.greenhouse.io/koddi/jobs/8944816002
 - Location: Fort Worth, Texas
 - Posted: Nov 23 12:58 ET
@@ -991,7 +1058,7 @@ About Koddi We are a global technology company with software and services that h
 
 ---
 
-## 41. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
+## 45. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
 - Link: https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Golbey/Stage---Dveloppement-de-modles-d-AI-ML-appliqus-aux-changeurs--plaques-et-ailettes-brases-en-aluminium-H-F_JR0049556
 - Location: Golbey
 - Posted: Nov 22 (board gives the date only)
@@ -1006,7 +1073,7 @@ Chez Alfa Laval Golbey, nous concevons et fabriquons des échangeurs thermiques 
 
 ---
 
-## 42. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
+## 46. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
 - Link: https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/HSS-Kellen-Tower/Research-Assistant-I_JR2026-106937
 - Location: HSS Kellen Tower
 - Posted: Nov 22 (board gives the date only)
@@ -1021,7 +1088,7 @@ How you move is why we’re here. ® Now more than ever. Get back to what you ne
 
 ---
 
-## 43. [MAYBE] Moffitt Cancer Center | Research Associate 1
+## 47. [MAYBE] Moffitt Cancer Center | Research Associate 1
 - Link: https://moffitt.wd108.myworkdayjobs.com/Moffitt/job/Moffitt-Research-Center/Research-Associate-1_R-4930
 - Location: Moffitt Research Center
 - Posted: Nov 23 (board gives the date only)
@@ -1036,7 +1103,7 @@ Working at Moffitt is both a career and a mission: to contribute to the preventi
 
 ---
 
-## 44. [MAYBE] John Wiley & Sons | Senior Data Scientist (NLP & Applied AI)
+## 48. [MAYBE] John Wiley & Sons | Senior Data Scientist (NLP & Applied AI)
 - Link: https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Hoboken-HQ-NJ-USA/Senior-Data-Scientist--NLP---Applied-AI-_R2601204
 - Location: Hoboken (HQ), NJ, USA
 - Posted: Nov 23 (board gives the date only)
@@ -1051,7 +1118,7 @@ We believe in bold ideas, diverse perspectives, and the drive to transform knowl
 
 ---
 
-## 45. [MAYBE] Johnson & Johnson | Sr Scientist Data Science
+## 49. [MAYBE] Johnson & Johnson | Sr Scientist Data Science
 - Link: https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Sr-Scientist-Data-Science_R-111095-1
 - Location: Raritan, New Jersey, United States of America
 - Posted: Nov 23 (board gives the date only)
@@ -1066,7 +1133,7 @@ At Johnson & Johnson, we believe health is everything. Our strength in healthcar
 
 ---
 
-## 46. [MAYBE] Capital One | Sr. Business Analyst - Profitability & Growth Analysis
+## 50. [MAYBE] Capital One | Sr. Business Analyst - Profitability & Growth Analysis
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Sr-Business-Analyst---Profitability---Growth-Analysis_R1005980
 - Location: 2 Locations
 - Posted: Nov 23 (board gives the date only)
@@ -1081,7 +1148,22 @@ Sr. Business Analyst - Profitability & Growth Analysis Summary: As a Senior Busi
 
 ---
 
-## 47. [MAYBE] Ohio State University | Reporting and Analytics Analyst 2 - Government Resource Center
+## 51. [MAYBE] Airbnb | Senior Machine Learning Engineer, Assistance Foundations
+- Link: https://careers.airbnb.com/positions/8411254?gh_jid=8411254
+- Location: United States
+- Posted: Nov 23 15:18 ET
+- Scanner fit: ~61 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 46 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: a/b test, excel, llm, machine learning, python, credit, llm evaluation, pipeline, research | Lacks: java  | Note: title says Senior/II: asks 2 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: The Assistance Engineering team builds world-class tools for Airbnb's global network of support agents, so guests and hosts get a great experience 24/7, 365 days a year. Airbnb's operational staff must scale with our user base, and we own the entire tech stack behind their success. Within Assistance Engineering, Assistance Foundations builds the shared platforms that support runs on: case management, the agent workspace, quality and coaching systems, money tooling, data services, agent routing, provisioning and training, and reliability. We are forming a dedicated Machine Learning Engineering group so that intelligence is built once on this foundation and reused across support, rather than rebuilt by each team. You will be one of its founding engineers. Some of what we are building and shipping: LLM-based quality evaluation that scores support cases against the quality standard, at scale AI coaching that turns quality evidence into coaching plans for team leads Simulation environments that train agents on realistic support scenarios Natural language search and chat tools that help agents and supervisors find answers faster The Difference You Will Make: As a Senior Machine Learning Engineer, you will design, build, and operate the LLM-based and agentic systems behind quality, coaching, case intelligence, and decision support for agents. The work spans prompt design, retrieval, fine-tuning, agent orchestration, dataset engineering, and evaluation. This is a product-building role: you will take systems from first experiment to production and own how they perform for real users. A Typical Day:&nbsp; Design, build, and ship LLM-based and agentic systems, from technical design through implementation, experimentation, and deployment. Build offline and online evaluation (human-labeled sets, LLM-as-judge, A/B tests) so that quality is measured, not assumed. Curate and engineer the datasets that prompts, fine-tuned models, and evaluations depend on. Turn one-off models and prompts into shared components that other Foundations teams can adopt. Collaborate with product, design, engineering, data science, and support operations and quality teams to find high-impact problems and quantify results. Participate in design and code reviews, and mentor other engineers. Your Expertise: 5+ years of industry experience building and shipping applied machine learning, or a PhD in a related field plus 2+ years in industry Recent, hands-on experience building LLM-based systems that shipped to production Expertise in designing and iterating on prompts, fine-tuning, and LLM evaluation Expertise in RAG patterns, memory, tool use, and agent planning Experience integrating LLMs with APIs, vector databases, and orchestration frameworks A solid foundation in machine learning: modeling, evaluation design, experimentation, and A/B testing A track record of shipping AI products used by real users, not only research prototypes or offline models Strong programming (Python, Java, or Kotlin) and the engineering skills to productionize your own work: model serving, monitoring, data pipelines, and safe deployment Excellent collaboration and communication skills to work effectively across teams and domains Bachelor's and/or Master's/PhD degree, preferably in Computer Science or a related field, or equivalent practical experience &nbsp; Your Location: This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from. Our Commitment To Inclusion &amp; Belonging: Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply. We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require
+
+---
+
+## 52. [MAYBE] Ohio State University | Reporting and Analytics Analyst 2 - Government Resource Center
 - Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Reporting-and-Analytics-Analyst-2---Government-Resource-Center_R162052-1
 - Location: Columbus Campus
 - Posted: Nov 23 (board gives the date only)
@@ -1096,7 +1178,7 @@ Screen reader users may encounter difficulty with this site. For assistance with
 
 ---
 
-## 48. [MAYBE] Gartner | Sr Data Analyst
+## 53. [MAYBE] Gartner | Sr Data Analyst
 - Link: https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Sr-Data-Analyst_116148
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -1111,7 +1193,7 @@ The Demand Analytics team within the Business Technology and Insights (BTI) grou
 
 ---
 
-## 49. [MAYBE] AbbVie | Sr. Data Science Analyst, Business Intelligence 
+## 54. [MAYBE] AbbVie | Sr. Data Science Analyst, Business Intelligence 
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990017038986
 - Location: Irvine CA us
 - Posted: Nov 23 12:41 ET
@@ -1126,7 +1208,7 @@ Allergan Aesthetics Commercial is on a mission to transform the aesthetics busin
 
 ---
 
-## 50. [MAYBE] Chewy | Machine Learning Engineer II
+## 55. [MAYBE] Chewy | Machine Learning Engineer II
 - Link: https://chewy.wd5.myworkdayjobs.com/External/job/Dallas-TX/Machine-Learning-Engineer-II_R31506-1
 - Location: 4 Locations
 - Posted: Nov 23 (board gives the date only)
@@ -1141,7 +1223,7 @@ Job Description: Our Opportunity: We are seeking a talented and passionate Machi
 
 ---
 
-## 51. [MAYBE] Sun Life | Senior AI Engineer
+## 56. [MAYBE] Sun Life | Senior AI Engineer
 - Link: https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/North-York-Ontario/AI-Engineer_JR00128209-1
 - Location: 3 Locations
 - Posted: Nov 23 (board gives the date only)
@@ -1156,7 +1238,7 @@ You are as unique as your background, experience and point of view. Here, you’
 
 ---
 
-## 52. [MAYBE] Truist Bank | Senior Capital Markets Risk Analyst
+## 57. [MAYBE] Truist Bank | Senior Capital Markets Risk Analyst
 - Link: https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Senior-Capital-Markets-Risk-Analyst_R0122177
 - Location: Atlanta, GA
 - Posted: Nov 23 (board gives the date only)
@@ -1168,4 +1250,34 @@ You are as unique as your background, experience and point of view. Here, you’
 ### Job description
 
 The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communications. If you already have a profile with us, you can log in to check status. Need Help? If you have a disability and need assistance with the application, you can request a reasonable accommodation. Send an email to Accessibility (accommodation requests only; other inquiries won't receive a response). Regular or Temporary: Regular Language Fluency: English (Required) Work Shift: 1st shift (United States of America) Please review the following job description: Provide senior managers with independent quantitative and qualitative assessments of risk management practices and risk levels. Provide active participation in various governance meetings for the Capital Markets Risk Management teams spanning Trading Market Risk, Counterparty Credit Risk, Profit and Loss (P&L) attribution and Independent Price Verification (IPV). This specialized job family framework includes promoting Truist’s compliance with Board-stated risk appetite and regulatory standards across the securities or derivatives portfolios within Corporate and Investment Banking (CIB), Corporate Treasury and Mortgage. Support Trading Market Risk and Product Control processes (P&L generation and attribution) to ensure Risk and P&L analytics are accurately reported for the Trading desks. Oversee daily market risk limit and exception reporting while ensuring the appropriate levels of awareness and communication within the organization. Develop and maintain the framework used for calculating and reporting daily risk levels (Value-at-Risk ‘VaR’, Greeks, stress tests, Potential Future Exposure ‘PFE’, Credit Valuation Adjustment ‘CVA’, etc.) using complex quantitative risk models. Provide analytical support to the various Truist trading teams. Assist with the development and reporting of stress testing & scenario analysis. Assist in ensuring compliance with regulatory rules (Market Risk Rule, FRTB, Volcker Rule, etc.). Work seamlessly with other teams across the MLRM department on inter-dependent issues such as counterparty and liquidity risk, valuation/hedging analyses and IPV. Liaise with business and control partners including operations, collateral management, quantitative research, model development, audit, and compliance. Represent the MRLM control discipline across various working groups and strategic initiatives and/or projects. Requirements Must have a Bachelor’s degree in Finance, Economics, Mathematics, Risk Management or a related quantitative field. Must have 3 years of experience in financial risk management positions covering both trading and non‑trading risks, performing/utilizing the following: o Strong knowledge of financial risk management, banking, and capital markets. o Quantitative risk models and concepts, including Value at Risk (VaR), Potential Future Exposure (PFE), Expected Exposure (EE), and risk‑based P&L attribution. o Derivatives valuation, including Credit Valuation Adjustment (CVA) and Funding Valuation Adjustment (FVA). o Managing multiple priorities in a fast‑paced environment while meeting strict deadlines. o Demonstrated financial acumen, analytical capability, and a business‑oriented mindset with the ability to develop creative solutions to complex challenges. o Proficiency in Java and Python programming o Demonstrated knowledge of key regulatory frameworks, including: Market Risk Rule Basel 2.5 and FRTB Endgame, Volcker Rule, and Swap Dealer Rule o Advanced understanding of Fixed Income securities. General Description of Available Benefits for Eligible Employees of Truist Financial Corporation: All regular teammates (not temporary or contingent workers) working 20 hours or more per week are eligible for benefits, though eligibility for specific benefits may be determined by the division of Truist offering the position. Truist offers medical, dental, vision, life insurance, disability, accidental death and dismemberment, tax-preferred savings accounts, and a 401k plan to teammates. Teammates also receive no less than 10 days of vacation (prorated based on date of hire and by full-time or part-time status) during their first year of employment, along with 10 sick days (also prorated), and paid holidays. For more details on Truist’s generous benefit plans, please visit our Benefits site . Depending on the position and division, this job may also be eligible for Truist’s defined benefit pension plan, restricted stock units, and/or a deferred compensation plan. As you advance through the hiring process, you will also learn more about the specific benefits available for any non-temporary position for which you apply, based on full-time or part-time status, position, and division of work. Truist
+
+---
+
+## 58. [MAYBE] Morningstar | Business Intelligence and Analytics, Senior Analyst – New York
+- Link: https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/New-York/Business-Intelligence-and-Analytics--Senior-Analyst---New-York_REQ-058304-1
+- Location: New York
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 13 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, excel, power bi, python, r, sql, statistic, tableau, credit, reporting, research, risk | Lacks: looker, qlik, sap  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Business Intelligence and Analytics, Senior Analyst – New York The Global Structured Finance (GSF) Group: The GSF Group specializes in the analysis and rating of structured finance transactions across multiple asset classes and regions including U.S., Canada, Europe and Asia-Pacific. The GSF Group covers a comprehensive range of structured finance products and asset classes including Commercial Mortgage-Backed Securities (CMBS), Residential Mortgage-Backed Securities (RMBS), Consumer and Commercial Asset-Backed Securities (ABS), Collateralized Loan Obligations (CLOs), Investment Funds and other esoteric and/or specialized Structured Finance products. The Group develops rating methodologies and models and publishes research on a variety of related topics. The Role: Morningstar DBRS is seeking a highly motivated, technically proficient, and analytically curious individual to join its Global Structured Finance Group in a newly established Business Intelligence and Analytics role. This position offers a unique opportunity to work closely with senior leadership of a global business, developing the management intelligence, analytical capabilities and reporting tools that support strategic planning, operational oversight and informed decision making. This successful candidate will serve as a dedicated analytical resource supporting the Group Managing Director, Global Head of Structured Finance working under the direction of the Head of Structured Finance Credit Practices. The role encompasses a broad range of business, credit, operational, and strategic information, including ratings activity, collateral performance, research, methodologies, business performance, and organizational initiatives. We are seeking an individual who combines strong technical capabilities with intellectual curiosity, resourcefulness, sound analytical judgment and excellent presentation and communication skills. The ideal candidate will be comfortable navigating multiple information platforms, solving complex data challenges, and transforming information into meaningful management insights. What you'll be doing: Business Intelligence and Management Reporting Develop, maintain and continuously optimize management reports, interactive dashboards, analytical and business intelligence tools and executive-level presentations that provide senior leadership with clear visibility into the Global Structured Finance business. Establish consistent reporting processes and key performance indicators across sectors, asset classes, regions, human resources, and business activities. Transform complex data into concise, visually compelling and actionable management information. Identify meaningful trends, emerging developments, anomalies, risks, and opportunities in addition to highlighting key observations and areas warranting management attention. Design and develop executive-level management reports, presentations, and briefings that translate complex information into clear actionable business insights. Data Analytics & Technology Strategic and Operational Support Provide analytical support for organizational planning, resource allocation and operational improvement initiatives. Develop reporting and analytical materials for senior management, board meetings and other leadership forums. Undertake special analytical projects and respond to evolving information needs across the global business. Proactively recommend improvements to management information, reporting capabilities and analytical processes. What we're looking for Bachelor's degree in Data Analytics, Computer Science, Information Systems, Mathematics, Statistics, Finance, Economics, or related discipline. 3+ years of relevant experience preferred; candidates with less experience that have completed advanced degrees will also be considered. Demonstrated experience using AI tools and automated technologies effectively and responsibly to support analytics, reporting, and business decision-making. Strong proficiency in at least one business intelligence and data visualization tools and platforms, including: Power BI Tableau Qlik Looker SAP BusinessObjects Other enterprise reporting solutions Advanced Excel skills, including advanced formulas, data manipulation, analytical modeling, and pivot tables. Experience with SQL, or other data extraction or analytical tools and relational databases and the ability to query, extract, manipulate, and analyze information from databases. Strong analytical, problem-solving, and critical thinking skills. Exceptional written and verbal communication, presentation, and data storytelling skills. High degree of initiative, attention to detail and ability to work independently. Nice to Have Familiarity with Python, R, or other analytical programming languages. Experience implementing AI-driven reporting or management dashboards. Experience analyzing financial, credit or operational datasets. Familiarity with structured finance, fixed income, credit ratings or capital markets. Why This Role: This is an opportunity to influence key business decisions, work directly with senior leadership, and help shape the future of data-driven decision-making through analytics and AI. This position offers significant opportunities for professional development at the intersection of finance, technology, analytics and business strategy. About Us Morningstar DBRS is a leading provider of independent rating services and opinions for corporate and sovereign entities, financial institutions, and project and structured finance instruments globally. Rating more than 4,000 issuers and 60,000 securities, it is one of the top four credit rating agencies in the world. Morningstar DBRS empowers investor success by bringing more transparency and a much-needed diversity of opinion in the credit rating industry. Our approach and size allow us to be nimble enough to respond to customers' needs in their local markets, but large enough to provide the necessary expertise and resources they require. Market innovators choose to work with us because of our agility, tech-forward approach, and exceptional customer service. Morningstar DBRS is the next generation of credit ratings. Compensation and Benefits At Morningstar we believe people are at their best when they are at their healthiest. That’s why we champion your wellness through a wide range of programs that support all stages of your personal and professional life. Here are some examples of the offerings we provide: Financial Health 100% 401k match up to 6% of salary Stock Ownership Potential Company provided life insurance - 1x salary + commission Physical Health Comprehensive health benefits (medical/dental/vision) including potential premium discounts and company-provided HSA contributions (up to $500-$2,000 annually) for specific plans and coverages Additional medical Wellness Incentives - up to $300-$600 annual Company-provided long- and short-term disability insurance Emotional Health Trust-Based Time Off  [...]
+
+---
+
+## 59. [MAYBE] Ally Bank | Sr Analyst - Business Intelligence
+- Link: https://ally.wd1.myworkdayjobs.com/ALLY/job/Lewisville-TX/Sr-Analyst---Business-Intelligence_R2601289
+- Location: Lewisville, TX
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 54 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, excel, power bi, python, sql, data quality, git, healthcare, reporting, validation | Lacks: scala, snowflake  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Ally and Your Career Ally Financial only succeeds when its people do - and that’s more than some cliché people put on job postings. We love this stuff! We see our people as, well, people - with interests, families, friends, dreams, and causes that are all important to them. Our focus is on the health and safety of our teammates as well as work-life balance and diversity and inclusion. From generous benefits to a variety of employee resource groups, we strive to build paths that encourage employees to stretch themselves professionally. We want to help you grow, develop, and learn new things. You’re constantly evolving, so shouldn’t your opportunities be, too? Work Schedule : Ally designates roles as (1) fully on-site, (2) hybrid, or (3) fully remote. Hybrid roles are generally expected to be in the office a certain number of days per week as indicated by your manager. Your hiring manager will discuss this role's specific work requirements with you during the hiring process. All work requirements are subject to change at any time based on leader discretion and/or business need. &#xa; The Opportunity We are looking for a highly motivated Business Intelligence & Analytics professional to join our Front-End Team. This role is ideal for someone with strong technical and analytical skills, excellent communication abilities, and a passion for solving complex business problems through data. The successful candidate will support the continued growth of our analytics, reporting, automation, and emerging technology capabilities, with a strong focus on Power BI, SQL, data quality, and modern data platforms.&#xa;&#xa; The Work Itself Design, develop, and maintain robust, scalable, and user-friendly Power BI dashboards, reports, and data visualizations. Build and maintain self-service reporting and automated analytics solutions that enable business teams to make data-driven decisions. Use advanced SQL for data extraction, cleansing, transformation, aggregation, validation, and analysis. Work with complex data structures across platforms such as Snowflake or any database to support reporting and analytics needs. Develop and maintain automated data quality and testing processes to ensure the accuracy, completeness, and reliability of reporting solutions. Navigate and simplify complex data structures and translate them into meaningful business insights. Review proposed production changes to maintain high data-quality standards while minimizing production impact. Monitor and optimize SQL queries, data loads, refresh processes, and BI solution performance. Investigate and resolve questions related to data integrity, reporting discrepancies, and data quality. Partner with business stakeholders, department leaders, and senior management to understand reporting requirements, establish priorities, and deliver effective analytics solutions. Translate complex technical concepts and data findings into clear, actionable insights for both technical and non-technical audiences. Support the adoption of automation, Python, AI, and next-generation analytics technologies where they can improve business processes and decision-making. Contribute technical expertise, analytical thinking, and strong business partnerships to help drive broader strategy and business results. Minimum Qualifications 3 years of experience in Business Intelligence, Data Analytics, Reporting, Data Management, or a related technical discipline. Bachelor's degree in Computer Science, Data Management, Data Analytics, Business Intelligence, Information Systems, or a related field. Preferred Qualifications: 5+ years of experience in Business Intelligence, Data Analytics, Reporting, Data Management, or a related technical discipline. Master's degree in Computer Science, Data Management, Data Analytics, Business Intelligence, Information Systems, or a related field. Strong experience designing and maintaining data, analytics, and reporting solutions. Advanced experience with SQL, including complex queries, data transformation, aggregation, and performance optimization. Hands-on experience developing Power BI dashboards, reports, data models, and visualizations. Strong analytical, logical reasoning, and complex problem-solving skills. Demonstrated ability to work with large and complex datasets. Strong attention to data quality, accuracy, and reporting integrity. Excellent written and verbal communication skills, including the ability to communicate effectively with technical teams, business partners, and senior leaders. Experience in the financial services or related discipline. Exposure to Python and AI and adaptability to nextgen technologies. Ability to learn and adapt quickly to new platforms, tools, and technologies. Ability to leverage technical expertise and stakeholder relationships to influence solutions and drive business outcomes. Technologies: Programming Languages - SQL(Advanced), Python (Preferred) RDBMS – Oracle, Snowflake, SQL server. Data platforms - Snowflake (Advanced) or equivalent Business Intelligence - Power BI &#xa;&#xa; How We'll Have Your Back Ally's compensation program offers market-competitive base pay and pay-for-performance incentives (bonuses) based on achieving personal and company goals. Our Total Rewards program includes industry-leading compensation and benefits plus additional incentives that are designed to meet your needs and those of your family so you can get the most out of your career and your life, including: Time Away: Program starts at 20 paid time off days in addition to 11 paid holidays and 8 hours of volunteer time off yearly (time off days are prorated based on start date and program varies based on full or part-time status and management level). Planning for the Future: plan for the near and long term with an industry-leading 401K retirement savings plan with matching and company contributions, student loan pay downs and 529 educational save up assistance programs, tuition reimbursement, employee stock purchase plan, and financial learning center and financial coach access. Supporting your Health & Well-being: flexible health and insurance options including medical, dental and vision, employee, spouse and child life insurance, short- and long-term disability, pre-tax Health Savings Account with employer contributions, Healthcare FSA, critical illness, accident & hospital indemnity insurance, and a total well-being program that helps you and your family stay on track physically, socially, emotionally, and financially. Building a Family: adoption, surrogacy and fertility assistance as well as paid parental and caregiver leave, Dependent Day Care FSA back-up child and adult/elder care days and childcare discounts. Work-Life Integration: other benefits including Mentally Fit Employee Assistance Program, subsidized and discounted Weight Watchers® program and other employee discount programs. Other Compensations: depending on the role for which you are considered, you may be eligible for tra [...]
 
