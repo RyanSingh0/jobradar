@@ -18,19 +18,24 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 12 | CVS Health | Data Engineer | 57 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
 | 13 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
 | 14 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 15 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
-| 16 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
-| 17 | Simmons Bank | Loan Portfolio Analyst I | 54 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 18 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 19 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
-| 20 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 21 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 22 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 23 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
-| 24 | Prosper AI | AI Engineer | 45 | none found (check myvisajobs) | Nov 23 11:51 ET |
-| 25 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 26 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 27 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 15 | Envista | Legal Data Analyst | 55 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 16 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
+| 17 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
+| 18 | Simmons Bank | Loan Portfolio Analyst I | 54 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 19 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 20 | Amentum | Data Analyst | 54 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 21 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
+| 22 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 23 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 24 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 25 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
+| 26 | Prosper AI | AI Engineer | 45 | none found (check myvisajobs) | Nov 23 11:51 ET |
+| 27 | Koddi | Associate Digital Marketing Analyst | 44 | 3 in data/analytics/finance occupations | Nov 23 12:58 ET |
+| 28 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 29 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 30 | Moffitt Cancer Center | Research Associate 1 | 40 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 31 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 32 | AbbVie | Sr. Data Science Analyst, Business Intelligence  | 55 | 96 in data/analytics/finance occupations | Nov 23 12:41 ET |
 
 ---
 
@@ -390,7 +395,22 @@ Job Description: Industrial Data Engineer The Industrial Data Engineer will part
 
 ---
 
-## 15. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
+## 15. [MAYBE] Envista | Legal Data Analyst
+- Link: https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--California--Brea/Legal-Data-Analyst_R5027938
+- Location: United States of America, California, Brea
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, git, kpi, portfolio, reporting, risk | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Description: JOB SUMMARY: Must reside within a commutable distance to both Brea, CA and Irvine, CA, as the office location will be relocated from Brea to Irvine in approximately Q1 2028. This is not a hybrid or remote opportunity and requires onsite presence 4 days per week. The Legal Data Analyst will support the Legal, Compliance, and Risk functions by collecting, analyzing, and reporting on legal and operational data. This role will help improve decision-making by providing insights related to contracts, litigation, compliance, intellectual property, and vendor agreements. The ideal candidate combines strong analytical skills with the ability to work cross-functionally with Legal, Finance, Procurement, Internal Audit, and IT teams. PRIMARY DUTIES AND RESPONSIBILITIES: Analyze legal department data and create dashboards, reports, and KPIs Track and report on contract lifecycle metrics Support implementation and administration of legal technology platforms, and contract management systems Develop automated reporting using Excel or similar tools Monitor contract management system trends and identify opportunities for process improvements Partner with Legal, Procurement, Finance, and Compliance teams to ensure data accuracy and consistency Perform ad hoc analysis and executive-level reporting undefined Job Requirements: MINIMUM REQUIREMENTS: Bachelor's degree in Business, Finance, Data Analytics, Information Systems, Legal Studies, or related field -OR- equivalent experience 3-5+ years of experience in data analytics, legal operations, compliance analytics, or business intelligence Advanced Excel skills Strong reporting and dashboard development experience Ability to translate complex data into actionable business insights Excellent communication and stakeholder management skills PREFERRED SKILLS & EXPERIENCE: Experience supporting a corporate legal department Familiarity with legal operations, contract management, e-billing, or CLM platforms Knowledge of compliance, governance, audit, or risk management processes Contract Lifecycle Management (CLM) systems Legal Operations experience Vendor management analytics #LI-MM1 IND123 Target Market Salary Range: Actual compensation packages take into account a wide range of factors that are unique to each candidate, including but not limited to geographic location; skill sets; relevant education and certifications; depth of experience; performance; and other business and organizational needs. The disclosed reasonable estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Envista, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. The total compensation package for this position may also include an annual performance bonus, medical/dental/vision benefits, 401K match, and/or other applicable compensation plans. For Field Sales roles, the salary range listed reflects base pay only and does not include incentive pay opportunities under the applicable sales compensation plan $85,000 - $105,000 Operating Company: Corporate Envista is a global leader in the dental industry, uniting more than 30 trusted brands—including DEXIS, Kerr, Nobel Biocare, and Ormco—under one mission: partnering with dental professionals to improve patients’ lives. With a heritage of category-defining innovation, our brands have shaped modern dentistry: Nobel Biocare introduced the first dental implant, Ormco is a pioneer in both traditional and digital orthodontics, DEXIS has long been at the forefront of 2D, 3D and intraoral imaging, and Kerr has supported clinicians for over 135 years. Our high-performing culture is underpinned by our CIRCLe Values and the Envista Business System. Guided by these, we deliver a comprehensive portfolio of technologies, consumables, and services that empower clinicians to provide confident, efficient care—today and for the future. Learn more at http://envistaco.com . Envista and all Envista Companies are
+
+---
+
+## 16. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
 - Link: https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa
 - Location: San Francisco United States
 - Posted: Nov 22 12:12 ET
@@ -445,7 +465,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 16. [MAYBE] University of Miami | Research Associate 1
+## 17. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103302
 - Location: Miami, FL
 - Posted: Nov 22 (board gives the date only)
@@ -460,7 +480,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 17. [MAYBE] Simmons Bank | Loan Portfolio Analyst I
+## 18. [MAYBE] Simmons Bank | Loan Portfolio Analyst I
 - Link: https://simmonsbank.wd5.myworkdayjobs.com/SimmonsCareers/job/Little-Rock-AR/Loan-Portfolio-Analyst-II_R115792
 - Location: Little Rock, AR
 - Posted: Nov 23 (board gives the date only)
@@ -475,7 +495,7 @@ It's fun to work in a company where people truly BELIEVE in what they're doing! 
 
 ---
 
-## 18. [MAYBE] University of Miami | Research Associate 1
+## 19. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103321
 - Location: Miami, FL
 - Posted: Nov 23 (board gives the date only)
@@ -490,7 +510,22 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 19. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
+## 20. [MAYBE] Amentum | Data Analyst
+- Link: https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Pensacola/Data-Analyst_R0176006
+- Location: US-FL-Pensacola
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, statistic, quantitative | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Purpose and Scope: The Data Analyst performs the functions of the Navy’s System Analyst as outlined in COMNAVAIRFORINST 4790.2 (series). Requires a complete understanding of Naval Aviation Maintenance Program (NAMP) policies and procedures, accurate documentation procedures, and meticulous attention to detail. Maintains a viable aviation and Maintenance and Material Management (3M) and Naval Flight Record Subsystems (NAVFLIR) Naval Fligt Documentation training program, and close communication between analysts at similar activities. Provides training, technical assistance, guidance and instruction to employees in regard to proper maintenance documentation. Uses Government and Company information systems to perform and document assigned tasks. Essential Responsibilities: Provides qualitative and quantitative analytical information for continuous review of management practices. Provides management with data, in graphic and narrative form, necessary to make qualitative decisions about aircraft, equipment, test bench, support equipment (SE), material condition, readiness, utilization, maintenance workload, or failure trends. Screens decision knowledge programming for logistics analysis and technical evaluation (DECKPLATE) maintenance reports. Ensure local data is reported up-line to the top-tier and central repository (DECKPLATE). Reviews Government and Company data products, as required, for accuracy, completeness, and content. Monitors the Maintenance Data System (MDS) and maintains reports as required by COMNAVAIRFORINST 4790.2 (series). Conduct a daily review of active work orders (WO) for correct equipment operational capability Code (EOC). Collects, maintains, and distributes products as required by the COMNAVAIRFORINST 4790.2 (series) in narrative, tabular, chart, or graph form the data required to monitor, plan, schedule and control the maintenance effort. Analyze quality related data and take action to improve the quality of maintenance. Quality data will be developed and tracked in spreadsheets, charts, graphs, and displays as required by management. Prepares typed and / or computer printed correspondence and reports. Uses the MDS reports and NALCOMIS OOMA to assist in the identification of deficiencies in technical training or documentation procedures. Conducts and coordinates scheduled and on-the-spot training on all facets of MDS and NALCOMIS OOMA work order documentation to all Company personnel. Provides technical assistance, guidance and instruction, as required, for training of personnel. Assists employees in developing and using statistical tools and graphic aids needed for statistical process control techniques. Reviews NALCOMIS OOMA maintenance reports and workload reports to identify trends and errors. Identifies and applies analytical techniques to areas of material deficiencies, high man-hour consumption, high failure rates, or other pertinent trends. Files completed maintenance documents and other records in paper or electronic format per Government and/or Company requirements. Presents a courteous and professional demeanor during interactions with customers. Works harmoniously with other employees, promoting teamwork and cooperation. Complies with all established general and industrial safety rules and regulations as applicable to the contract, facility and job assignment. Performs other related duties as assigned or directed by the company or government. Perform all other position related duties as assigned or requested. Minimum Position Knowledge, Skills, and Abilities Required: Must be knowledgeable of COMNAVAIRFORINST 4790.2 (series) MDS procedures to include NALCOMIS/OOMA adhoc queries, Configuration Management, data processing capabilities, and techniques of statistical analysis. Must possess a working knowledge of Microsoft Office applications to include Excel, Word, and Power Point. Must have the ability to read, write, understand, and communicate in the English language, and be able to follow verbal and written instructions. Proficient at using computers, computer peripheral equipment, copy machine, and labeling equipment. High school diploma or equivalent required. Must have a valid state driver’s license Satisfactory completion of the NALCOMIS OOMA System Analyst course (C-555-0049) as indicated in the Naval Aviation Maintenance Procedures and previously qualified as Military NEC 6303, 6304 or MOS 6049. Must be able to meet any Government / Company licensing / qualification requirements for the position. Within the last five (5) years, must have two years’ experience as a NALCOMIS OOMA Analyst. Work Environment, Physical Demands, and Mental Demands: Administrative duties that may require occasional kneeling, standing, stooping and bending are required. Required lifting up to 50 lbs. Must have close vision to include close vision, color vision, peripheral vision, depth perception and the ability to adjust focus. Primarily working in an office environment with minimum exposure to noise hazards. May be required to handle hazardous materials. Exposure to prolonged periods of sitting, standing, and keyboard input. Possible exposure to hazardous material identified on the Material Safety Data Sheets. Possible exposure to electrical shock. Office spaces, maintenance shop spaces, hangar and flight line. May require travel in support of detachments of unknown duration. About Amentum Amentum is a global leader in advanced engineering and innovative technology solutions, trusted by the United States and its allies to address their most significant and complex challenges in science, security, and sustainability. Our people apply undaunted curiosity, relentless ambition, and boundless imagination to challenge convention and drive progress. Our commitments are underpinned by the belief that safety, collaboration, and well-being are integral to success. Headquartered in Chantilly, Virginia, we have approximately 50,000 employees in more than 70 countries across all 7 continents. Compensation Details: $36.82 The compensation range or hourly rate listed for this position is provided as a good-faith estimate of what the company intends to offer for this role at the time this posting was issued. Actual compensation may vary based on factors such as job responsibilities, education, experience, skills, internal equity, market data, applicable collective bargaining agreements, and relevant laws. Benefits Overview: Our health and welfare benefits are designed to support you and your priorities. Offerings include: Health, dental, and vision insurance Paid time off and holidays Retirement benefits (including 401(k) matching) Educational reimbursement Parental leave Employee stock purchase plan Tax-saving options Disability and life insurance Pet insurance Note: Benefits may vary based on employment type, location, and applicable agreements. Positions governed by a Collective Bargaining Agreement (CBA), the McNamara-O'Hara Service Contract Act (SCA), or other emp [...]
+
+---
+
+## 21. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
 - Link: https://jobs.ashbyhq.com/openai/6785d983-8831-46d0-9c81-443f83664948
 - Location: San Francisco United States
 - Posted: Nov 22 12:20 ET
@@ -567,7 +602,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 20. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
+## 22. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810780
 - Location: Jacksonville, FL, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -582,7 +617,7 @@ DESCRIPTION Duties: Work with Product and Data Owners, Technology, and Design Pa
 
 ---
 
-## 21. [MAYBE] Invesco | Quantitative Analyst
+## 23. [MAYBE] Invesco | Quantitative Analyst
 - Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Quantitative-Analyst_R-15895-1
 - Location: New York, New York
 - Posted: Nov 22 (board gives the date only)
@@ -597,7 +632,7 @@ About Invesco As one of the world’s leading independent global investment firm
 
 ---
 
-## 22. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
+## 24. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
 - Link: https://uscareeropenings-alliancelaundry.icims.com/jobs/14271/data-analyst-%28sourcing%29/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -612,7 +647,7 @@ Data Analyst (Sourcing) in Ripon, Wisconsin | Careers at Alliance Laundry System
 
 ---
 
-## 23. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
+## 25. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
 - Link: https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445
 - Location: San Francisco United States
 - Posted: Nov 22 12:14 ET
@@ -669,7 +704,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 24. [MAYBE] Prosper AI | AI Engineer
+## 26. [MAYBE] Prosper AI | AI Engineer
 - Link: https://jobs.ashbyhq.com/prosper-ai/fc1781c3-3fee-47f6-bf76-c5e2a6357eaf
 - Location: Barcelona Spain remote
 - Posted: Nov 23 11:51 ET
@@ -726,7 +761,22 @@ Interviewing Process
 
 ---
 
-## 25. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
+## 27. [MAYBE] Koddi | Associate Digital Marketing Analyst
+- Link: https://job-boards.greenhouse.io/koddi/jobs/8944816002
+- Location: Fort Worth, Texas
+- Posted: Nov 23 12:58 ET
+- Scanner fit: ~44 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: data visualization, excel, cohort, git, quantitative | Lacks: scala
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About Koddi We are a global technology company with software and services that help top digital marketplaces effectively monetize their first-party audiences through industry-leading commerce media technology and strategy. Our enterprise platforms leverage first-party data to drive marketplace revenue and profit by improving user experience and target shoppers throughout the purchase path. Koddi’s platforms enable any advertiser, any marketplace, in any industry to increase awareness, generate demand, and drive revenue. We are committed to driving innovation and growth in the commerce media space. &nbsp; As part of that commitment, we’ve launched Koddi Academy, a learning platform designed to provide expert knowledge, competitive insights, and practical strategies for thriving in this fast-growing industry. Explore our latest certification course, to deepen your expertise and stay ahead in the evolving world of commerce media. You can also sign up for our waiting list to be notified when new courses are released. Get started today at&nbsp; Koddi Academy. Associate Digital Marketing Analyst Cohort - Start date February 15th, 2027. Koddi is excited to announce an Analyst training program geared towards recent graduates with Marketing, Business and Analytics degrees as well as recent grads who have completed Data Analytics bootcamps! The Koddi Cohort Program is an intensive 8-week training program that includes all aspects of Data Analysis at Koddi. In addition to technical training during this program, and on an ongoing basis, we will also provide instructor-led and self-paced leadership development opportunities. Program Highlights: Work with industry-leading experts to gain hands-on knowledge and experience Gain a comprehensive understanding of the Koddi business Have the opportunity to share and present ideas with team members Participate in leadership workshops and soft skill development Receive executive mentorship and peer-to-peer support throughout the program What You'll Do: Analyzing both quantitative and qualitative data to generate actionable insights Collaborate with internal and external stakeholders to deliver client requirements Communicate with clients regularly to deliver insights on trends and strategic recommendations for growth Solve complex business and technical problems by collecting, aggregating, and analyzing data from multiple sources, diagnosing issues, and driving solutions that support larger business objectives Work with a team of client strategy, data, and technology professionals to drive cross-functional projects, ensuring scalable and repeatable outcomes for client success What You'll Bring: Analyzing both quantitative and qualitative data to generate actionable insights Graduating with a Bachelors or Masters degree in Digital Marketing, Advertising, Data Science or Analytics or successful completion of relevant bootcamp coursework Graduation/Bootcamp completion date no later than December 2026 Strong analytical mindset with proficiency in data analytics tools, like Excel, for evaluating, modeling, and interpreting complex data. Detail-oriented, organized, and capable of handling multiple projects and meeting deadlines in both independent and team environments. Ability to clearly explain complex information and trends to clients and stakeholders. Skilled in data visualization to present actionable insights that drive strategic decisions for clients. Excellent communication skills and eagerness to learn&nbsp; Enjoys working in a fast paced environment with high collaboration Ability to work collaboratively in a team environment Availability to be onsite for the duration of the program Monday-Friday in our Fort Worth office
+
+---
+
+## 28. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
 - Link: https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Golbey/Stage---Dveloppement-de-modles-d-AI-ML-appliqus-aux-changeurs--plaques-et-ailettes-brases-en-aluminium-H-F_JR0049556
 - Location: Golbey
 - Posted: Nov 22 (board gives the date only)
@@ -741,7 +791,7 @@ Chez Alfa Laval Golbey, nous concevons et fabriquons des échangeurs thermiques 
 
 ---
 
-## 26. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
+## 29. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
 - Link: https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/HSS-Kellen-Tower/Research-Assistant-I_JR2026-106937
 - Location: HSS Kellen Tower
 - Posted: Nov 22 (board gives the date only)
@@ -756,7 +806,22 @@ How you move is why we’re here. ® Now more than ever. Get back to what you ne
 
 ---
 
-## 27. [MAYBE] Gartner | Sr Data Analyst
+## 30. [MAYBE] Moffitt Cancer Center | Research Associate 1
+- Link: https://moffitt.wd108.myworkdayjobs.com/Moffitt/job/Moffitt-Research-Center/Research-Associate-1_R-4930
+- Location: Moffitt Research Center
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, publication, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Working at Moffitt is both a career and a mission: to contribute to the prevention and cure of cancer. As the only National Cancer Institute-designated Comprehensive Cancer Center based in Florida, Moffitt employs some of the best and brightest minds from around the world. Join a dedicated team of nearly 11,000 who are shaping the future we envision. Moffitt has been recognized as a Best and Brightest Company to Work For in the Nation and is continually named one of the Tampa Bay Times’ Top Workplaces. Summary The Research Associate I assumes the responsibility of performing basic, biological, behavioral, social science or public health research within the specified research program. The Research Associate provides technical and analytical support for various research programs across all Moffitt divisions and may have administrative and training responsibilities, as assigned. Research Associates work under the general supervision of a Principal Investigator (Pl) and may work as part of a team under the direct supervision of more senior lab personnel. Research Associates participate in the planning, development, and implementation of original experimental procedures within the overall scope of the project. Position Highlights: Responsible for data analysis using innovative procedures and protocols with supervision. Research Associates perform data analysis, participate in meetings with PI and other team members to evaluate and interpret the validity of data and evaluate laboratory procedures. Research Associates prepare progress reports, write protocols, create presentations and assist in the publication of research whether at scientific meetings or in the form of manuscripts. The Ideal Candidate: Human sampling and flow cytometry experience is highly preferred. Should be able to assist in training new staff in areas of expertise, and serve as a resource to other lab members. Must have the ability to plan, organize and coordinate assignments. Should have excellent verbal and written communication. Successful candidate will be expected to exhibit individual initiative, work independently; be technically proficient and accurate; effectively communicate in both written reports and presentations; initiate and ensure compliance with applicable safety procedures; and possess attention to detail. Responsibilities: Hands-on research experience, maintain laboratory equipment in a clean working order, including performing instrument standardization documented by written report. Reorder and restock laboratory supplies as needed. Responsible for the preparation of tissues and samples for study under appropriate supervision. Keep current with lab trends and techniques. Follow infection control techniques, for preparation, handling and disposal of as samples. Research Associates collect, annotate, and permanently record raw experiment data and document findings in a timely manner accessible to others on the research team. Research Associates work in a manner compliant with applicable regulations including the protection of patient records; apply standard quality control procedures to assure accuracy of test results; operate, calibrate and perform routine maintenance on specialized equipment; maintain supply inventory; prepare reagents according to laboratory standards. Credentials and Qualifications: Bachelor's degree in science related field required with prior hands-on research training experience is required. Ability to plan, organize and coordinate work assignments. Excellent verbal and written communication skills are required Moffitt Team Members are eligible for Medical, Dental, Vision, Paid Time Off, Retirement, Parental Leave and more. Tampa is a thriving metropolitan city, which has become a hub for ground-breaking research, welcoming individuals from around the globe. This diverse city is engulfed with rich culture, year-round activities, amazing cuisine and so much more. We strive for work/life balance. If you have the vision, passion, and dedication to contribute to our mission, then we have a place for you. Salary Range $19.65 - $29.94 Salary ranges posted for this position represent the expected base pay range for the role. Actual compensation may vary based on location and a variety of job-related factors, including experience, skills, education, and internal equity among Team Members in similar positions. We are committed to maintaining fair and equitable pay practices and regularly review compensation to ensure alignment across our workforce. Moffitt Career Site If you have the vision, passion, and dedication to contribute to our mission, then we have a place for you! 1. Equal Employment Opportunity Moffitt Cancer Center
+
+---
+
+## 31. [MAYBE] Gartner | Sr Data Analyst
 - Link: https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Sr-Data-Analyst_116148
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -768,4 +833,19 @@ How you move is why we’re here. ® Now more than ever. Get back to what you ne
 ### Job description
 
 The Demand Analytics team within the Business Technology and Insights (BTI) group at Gartner is at the forefront of harnessing AI to better anticipate the future needs of the global c-suite. The team leads analytics across multiple fronts but most notably client demand sensing to support BTI content planning and content viewership assessment. We are looking for a Sr. Data Analyst who has a passion for analytical problem solving to be part of our growing team. Individuals in this role will work closely with Demand Analytics leadership to structure problems, identify data sources, perform a mix of descriptive and advanced statistical analysis, and communicate findings. Strong performers will build skills to independently own project workstreams and interact with key internal stakeholders. Projects will include a mix of team problem solving and independent problem solving. Projects will also involve automation and collaboration with the Information Technology team. What you’ll do: Partner closely with demand sensing product and analytics leaders to identify, design and deliver capabilities that guide content decision-making. Co-create demand analytics reporting capabilities (dashboards and PPT reports to BTI content leaders). Participate in CEO-sponsored content strategy projects - own problem structuring, analysis and delivery of insights. Partner with data scientist and data engineering teams to develop scalable and advanced analytics-based solutions that directly help with improved content viewership. What you will need: Experience: 3-5 years experience involving analysis of large volumes of data with strong hands-on experience with analytical tools. Ability to gather, analyze, restructure, identify and articulate insights from qualitative and quantitative data through both descriptive and advanced statistical methods (e.g., multi-variate regression analysis, text analytics) Education : Bachelor’s Degree required with a concentration in statistics, mathematics, data science or operations research preferred. Technical competency: Proficiency in statistics, Python, R, Databricks, SQL, Advanced Excel and PowerPoint. Foundational proficiency in AI tools (e.g., Claude, Copilot, Gemini Notebook, etc.) Foundational expertise in PowerBI (uploading, transforming, and visualizing the data in the power BI dashboard) Exceptional problem solving: Proven track record of solving complex problems, thinking creatively, and using data to tell a story. Attention to detail : Including data hygiene, quality checks, documentation, etc. Collaboration: Strong collaboration and influencing. Communication: Strong verbal and written communication, ability to produce stakeholder-ready presentation, as well as the ability to work independently. Location: This position is based in the US. Gartner offers a hybrid, flexible environment, with remote work that allows associates great flexibility to work from home, and opportunities to connect with colleagues for moments that matter on-site. Candidates that apply will need to reside within commuting distance of Stamford, Iriving, or Ft Myers . Who are we? At Gartner, Inc. (NYSE:IT), we guide the leaders who shape the world. Our mission relies on expert analysis and bold ideas to deliver actionable, objective business and technology insights, helping enterprise leaders and their teams succeed with their mission-critical priorities. Since our founding in 1979, we’ve grown to 20,000 associates globally who support over 13,000 client enterprises in ~90 countries and territories. We do important, interesting and substantive work that matters. That’s why we hire associates with the intellectual curiosity, energy and drive to want to make a difference. The bar is unapologetically high. So is the impact you can have here. What makes Gartner a great place to work? Our vast, virtually untapped market potential offers limitless opportunities – opportunities that may not even exist right now – for you to grow professionally and flourish personally. How far you go is driven by your passion and performance. We hire remarkable people who collaborate and win as a team. Together, our singular, unifying goal is to deliver results for our clients. Our teams are inclusive and composed of individuals from different geographies, cultures, religions, ethnicities, races, genders, sexual orientations, abilities and generations. We invest in great leaders who bring out the best in you and the company, enabling us to multiply our impact and results. This is why, year after year, we are recognized worldwide as a great place to work. Gartner is the world authority on AI At Gartner, you’ll join a company at the very center of the AI revolution. Gartner has proactive, objective guidance throughout clients’ AI journeys. We set the standard for how organizations leverage artificial intelligence to drive meaningful impact. You’ll have access to unmatched resources, expertise, and technology, and play a key role in helping Gartner and our clients innovate and grow as we leverage AI to transform business and technology landscapes. It’s an exciting time to be at Gartner, with limitless opportunities to make a real impact, grow your skills, and build a lasting, meaningful career in a field that’s reshaping the way we operate. If you’re passionate about AI and want to be part of a team that’s guiding the leaders who shape the world, Gartner is the place for you. What do we offer? Gartner offers world-class benefits, highly competitive compensation and disproportionate rewards for top performers. In our hybrid work environment, we provide the flexibility and support for you to thrive — working virtually when it's productive to do so and getting together with colleagues in a vibrant community that is purposeful, engaging and inspiring. Ready to grow your career with Gartner? Join us. Gartner believes in fair and equitable pay. A reasonable estimate of the base salary range for this role is 84,000 USD - 108,000 USD. Please note that actual salaries may vary within the range, or be above or below the range, based on factors including, but not limited to, education, training, experience, professional achievement, business need, and location. In addition to base salary, employees will participate in either an annual bonus plan based on company and individual performance, or a role-based, uncapped sales incentive plan. Our talent acquisition team will provide the specific opportunity on our bonus or incentive programs to eligible candidates. We also offer market leading benefit programs including generous PTO, a 401k match up to $7,200 per year, the opportunity to purchase company stock at a discount, and more. The policy of Gartner is to provide equal employment opportunities to all applicants and employees without regard to race, color, creed, religion, sex, sexual orientation, gender identity, marital status, citizenship status, age, national origin, ancestry, disability, veteran status, or any [...]
+
+---
+
+## 32. [MAYBE] AbbVie | Sr. Data Science Analyst, Business Intelligence 
+- Link: https://jobs.smartrecruiters.com/AbbVie/3743990017038986
+- Location: Irvine CA us
+- Posted: Nov 23 12:41 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 96 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, hypothesis test, python, r, regression, sql, statistic, tableau, research | Lacks: looker, snowflake  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Allergan Aesthetics Commercial is on a mission to transform the aesthetics business at AbbVie, the fourth pharmaceutical company in the world. Allergan Aesthetics brands include Botox, CoolSculpting, Juvéderm and more. The medical aesthetics business is ripe for disruption and we’re building a high performing team to do just that. We’re looking for a strong, technically sound Sr Analyst, Marketing Business Intelligence who is interested in working as an analytical partner to the field sales and commercial director teams. The Sr Analyst partners with stakeholders across the business to answer analytical questions critical to the success of our teams and our field teams and customers, such as: How are our largest customers performing, and how can we help them improve? Which of our marketing investments are most effective? What trends do we see across the business and how do those trends differ across different customers? You will design innovative analytic approaches to test hypotheses, extract actionable insights by identifying patterns in structured and unstructured data, and develop recommendations to drive business performance. You will be instrumental in leading the use of analytics as a critical value driver and source of competitive advantage across our organization. You Will Apply advanced analytics techniques (core statistical-modeling, data visualization, data mining) to extract actionable insights through analysis of large-scale, high-dimensional data. Collaborate with stakeholders to understand the analytic needs of our largest customers and provide accurate and actionable analysis to support their critical business decisions Shape the thinking of our teams but not only communicating the details of your analysis, but its business implications Develop dashboards to enable clear visibility into business performance Work with data engineers to ensure accurate and up-to-date data power each analysis. Act as a partner with the Commercial Director team to support customer analyses, identify opportunities and drive analytical rigor with the field. Experience & Skills Bachelor’s degree in Mathematics, Statistics, Operations Research, Computer Science, Business Intelligence/Analytics or equivalent. Demonstrated 3+ years’ experience in driving business decisions with data-driven analyses. Highly proficient with SQL. Minimum of 3 years of experience with a modern visualization tool like Tableau, Looker, etc. Extensive experience building dashboards to present meaningful data insights and business opportunities. Comfortable using massive and disparate datasets and the big data eco-system. Experience applying statistical analyses and modeling to business problems; experiment design, hypothesis testing, regression, etc. Demonstrated ability working independently and applying exceptional creativity in solving open-ended problems. Outstanding verbal, written, and visual communication skills for data storytelling. Experience supporting outside sales organizations. Preferred Experience & Technical Skills Master’s degree in Mathematics, Statistics, Operations Research, Computer Science or equivalent R or Python scripting experience to perform data wrangling and analysis Experience working with Snowflake or similar distributed databases #LI-AA Applicable only to applicants applying to a position in any location with pay disclosure requirements under state or local law: ​ The compensation range described below is the range of possible base pay compensation that the Company believes in good faith it will pay for this role at thetime of this posting based on the job grade for this position. Individual compensation paid within this range will depend on many factors including geographiclocation, and we may ultimately pay more or less than the posted range. This range may be modified in the future. ​ We offer a comprehensive package of benefits including paid time off (vacation, holidays, sick), medical/dental/vision insurance and 401(k) to eligible employees.​ This job is eligible to participate in our short-term incentive programs. ​ Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability ofany bonus, commission, incentive, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company'ssole and absolute discretion unless and until paid and may be modified at the Company’s sole and absolute discretion, consistent with applicable law. AbbVie
 
