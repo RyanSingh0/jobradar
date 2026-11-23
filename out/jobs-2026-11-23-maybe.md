@@ -4,25 +4,45 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | Trainline | Machine Learning Engineer | 80 | none found (check myvisajobs) | Nov 23 06:57 ET |
-| 2 | Airbus | Praktikum "AI Softwareentwicklung" (d/m/w) | 67 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 3 | Artefact | AI Applied Engineer – AI Engineer | 64 | none found (check myvisajobs) | Nov 22 19:17 ET |
-| 4 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 5 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
-| 6 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 7 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
-| 8 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
-| 9 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
-| 10 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 11 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 12 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 13 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
-| 14 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 15 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 1 | Analytical Mechanics Associates | AIML Research Associate | 84 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 2 | Trainline | Machine Learning Engineer | 80 | none found (check myvisajobs) | Nov 23 06:57 ET |
+| 3 | JP Morgan Chase | 2027 Applied AI - HR CDAO - Summer Associate | 71 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 4 | CDW Corporation | Commercial Analyst | 70 | 8 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 5 | Airbus | Praktikum "AI Softwareentwicklung" (d/m/w) | 67 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 6 | Artefact | AI Applied Engineer – AI Engineer | 64 | none found (check myvisajobs) | Nov 22 19:17 ET |
+| 7 | US Acute Care Solutions | AI Engineer | 62 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 8 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 9 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
+| 10 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 11 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
+| 12 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
+| 13 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
+| 14 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 15 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 16 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 17 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
+| 18 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 19 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 20 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] Trainline | Machine Learning Engineer
+## 1. [MAYBE] Analytical Mechanics Associates | AIML Research Associate
+- Link: https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/AIML-Research-Associate_R-100857
+- Location: Hampton, VA
+- Posted: Nov 22 (board gives the date only)
+- Scanner fit: ~84 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, forecast, machine learning, nlp, pandas, python, pytorch, regression, scikit, tensorflow, time series, classification, docker | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | Citizenship or Permanent Residency required for in-person positions Preferred Qualifications Experience with one or more of the following: Time series modeling, forecasting, and anomaly detection NLP (document classifica
+
+### Job description
+
+Job Description: SIML Researcher — NASA AiTHENA Program Overview The AiTHENA Program supports NASA researchers by pairing high-impact technical projects with SIML talent to accelerate mission-relevant capability development. We are seeking an SIML Early Career Professional (ECP) to contribute to applied machine learning, data workflows, and prototype development across NASA research projects (e.g., digital twin enablement, predictive analytics, automation, and decision support tools). This role is designed for someone who can operate in a research environment: translate ambiguous technical needs into tractable SIML tasks, build reproducible prototypes, and communicate results clearly to technical stakeholders. This role is on-site in-person candidates only will be considered. This is a 10-week program starting December 14th, 2026. The hourly pay range for this position is $23.10 - $33.50 depending on education. What You’ll Do Collaborate with NASA project mentors and technical teams to define SIML problem statements, success metrics, and validation plans. Develop and evaluate ML models (e.g., regression/classification, time series, anomaly detection, NLP, computer vision—based on project needs). Build reproducible data pipelines for ingestion, cleaning, feature engineering, labeling, and dataset versioning. Prototype and deliver proof-of-concept tools (scripts, notebooks, small applications, dashboards, or APIs) that can be transitioned to the mentor team. Apply sound practices for experimentation: baselines, ablation studies, cross-validation, and uncertainty/error analysis. Document methods, assumptions, limitations, and recommendations in clear technical writeups. Contribute to best practices for trustworthy/robust ML (data leakage prevention, bias checks, model monitoring considerations, and traceability). Participate in AiTHENA technical exchanges, demos, and closeout deliverables. Required Qualifications Bachelor’s degree (or higher) in Computer Science, Engineering, Applied Math, Data Science, Physics, or a related field—or equivalent demonstrated experience. Graduate students enrolled in a PhD or Master's program in Computer Science, Data Science, or related fields or career transitioners/ early career professionals Demonstrated experience building SIML models and evaluating performance using appropriate metrics. Proficiency with Python and common data/ML tooling (e.g., NumPy, pandas, scikit-learn; familiarity with PyTorch or TensorFlow is a plus). Experience working with real-world datasets (messy data, missing values, outliers, labeling challenges). Ability to communicate technical content clearly (documentation, presentations, or technical memos). Strong organizational skills and the ability to manage tasks independently in a fast-paced research environment. Must be able to work on-site at NASA Langley U.S. Citizenship or Permanent Residency required for in-person positions Preferred Qualifications Experience with one or more of the following: Time series modeling, forecasting, and anomaly detection NLP (document classification, information extraction, RAG-style workflows) Computer vision (segmentation, detection, image enhancement) Physics-informed ML or surrogate modeling Experiment design and uncertainty quantification Familiarity with software engineering practices: Git-based workflows, unit testing, code review, packaging; Containerization (Docker) and/or workflow automation Experience with cloud/HPC environments and MLOps concepts (CI/CD, model versioning, monitoring) is a plus. Exposure to “high assurance” or safety/mission-relevant development practices (traceability, verification, controlled environments). Living within a reasonable commuting distance from Langley Research Center in Hampton Analytical Mechanics Associates (AMA) is proud of our customer relationships, our diverse and dynamic work environment, and our employees' career satisfaction. AMA is a small business with a wide reach; headquartered in Hampton, VA, AMA has operations in Greenbelt, MD; Huntsville, AL; Dallas and Houston, TX; Denver, CO; Mountain View, CA; and Edwards Air Force Base, CA. With over 60 years of experience, AMA specializes in aerospace engineering, science, analytics, information technology, and visualization solutions. AMA combines the best of engineering, science, and mathematics capabilities with the latest in information technologies, visualization, and multimedia to build creative solutions. We offer competitive salaries and a substantial benefits package, including but not limited to paid personal and federally recognized holiday leave, salary deferrals into a 401(k)-matching plan with immediate vesting, tuition reimbursement, short/long term disability plans, and a variety of medical, dental, and vision insurance options. AMA is committed to the professional growth of every employee, understanding that the successes of our employees drive our success. We provide a work environment that is engaging, collaborative, and supportive. To learn more about our company, please visit our website at www.ama-inc.com/careers and follow us on Facebook and LinkedIn . AMA
+
+---
+
+## 2. [MAYBE] Trainline | Machine Learning Engineer
 - Link: https://jobs.ashbyhq.com/trainline/7c9c4568-4b40-4f55-b4f4-d186d9053203
 - Location: London United Kingdom remote
 - Posted: Nov 23 06:57 ET
@@ -143,7 +163,37 @@ Interested in finding out more about what it's like to work at Trainline? Why no
 
 ---
 
-## 2. [MAYBE] Airbus | Praktikum "AI Softwareentwicklung" (d/m/w)
+## 3. [MAYBE] JP Morgan Chase | 2027 Applied AI - HR CDAO - Summer Associate
+- Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549
+- Location: New York, NY, United States US
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~71 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: llm, machine learning, pandas, probability, python, pytorch, scikit, statistic, tensorflow, deep learning, quantitative, research, risk | Lacks: scala  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+As a Summer Associate within AI & Data Scientist in the HR Data & Analytics team, you apply advanced analytics, machine learning, and artificial intelligence techniques to transform workforce data into actionable insights and solutions. You partner with business leaders, product teams, and technologists to develop models, evaluate outcomes, and deliver AI-powered capabilities that support evidence-based workforce decisions. Our team is building an artificial-intelligence-native operating environment a template for how a global firm delivers artificial intelligence which we intend to prove within our own organization before extending it more broadly. That work includes model factories that build and improve models against product benchmarks, a high-bandwidth evaluation factory that investigates edge cases and calibrates results, and agentic engineering tools deployed responsibly within a regulated environment. The guiding principle is to use AI to accelerate AI: invest in the tooling and infrastructure that let the team build and deliver faster. This role contributes to that vision through hands-on development, experimentation, and deployment of AI solutions. Job Responsibilities Design, develop, test, and deploy AI and machine learning solutions that address workforce and business challenges Conduct statistical analyses, experiments, and model evaluations to generate actionable insights and recommendations Contribute to model factories and evaluation frameworks that improve model quality, scalability, and operational efficiency Apply agentic, specification-driven, and evaluation-driven development approaches to accelerate solution delivery Partner with business stakeholders to translate requirements into analytical solutions and measurable outcomes Collaborate with technology teams to build scalable, reliable, and secure analytics and AI products Identify opportunities to reduce costs, improve controls, enhance employee experiences, and expand organizational capabilities through data-driven solutions Support adoption of reusable methodologies, tools, and vendor capabilities where appropriate Communicate findings and recommendations clearly to technical and non-technical audiences Ensure adherence to all applicable risk, control, and governance requirements Required Qualifications, Capabilities, and Skills Currently enrolled in a PhD or MS program in Computer Science, Electrical Engineering, Mathematics, Operations Research, Data Science, or a related quantitative field, with an expected graduation date between December 2027 and August 2028 Solid background in at least one of: large language models and agentic AI, natural language processing, speech recognition, or personalization/recommendation, with familiarity with current state-of-the-art methods Strong foundation in statistics, probability, and machine learning, including the ability to design experiments and define metrics that reflect business goals Hands-on exposure to modern LLM application patterns such as prompting, embeddings, retrieval-augmented generation, tool/function calling, structured outputs, and multi-step or agentic workflows Strong Python skills, including deep learning frameworks (PyTorch or TensorFlow), the Hugging Face ecosystem, and core data libraries (NumPy, Pandas, scikit-learn) Clear written and spoken communication for both technical and business audiences, and the ability to work both independently and on a team Strong analytical, problem-solving, and communication skills. Ability to manage multiple priorities and deliver results in a collaborative environment Preferred Qualifications, Capabilities, and Skills Experience building automated machine learning or model evaluation workflows Experience with AI, machine learning, or analytics solutions in a regulated environment Familiarity with cloud-based data and analytics platforms Experience collaborating across business, product, and technology teams   JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
+
+---
+
+## 4. [MAYBE] CDW Corporation | Commercial Analyst
+- Link: https://cdw.wd5.myworkdayjobs.com/careers/job/Manchester---GBR/Commercial-Analyst_R26_00003452-1
+- Location: 2 Locations
+- Posted: Nov 22 (board gives the date only)
+- Scanner fit: ~70 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 8 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, excel, forecast, power bi, git, healthcare, kpi, pipeline, reporting, risk | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At CDW, we make it happen, together. Trust, connection, and commitment are at the heart of how we work together to deliver for our customers. It’s why we’re coworkers, not just employees. Coworkers who genuinely believe in supporting our customers and one another. We collectively forge our path forward with a level of commitment that speaks to who we are and where we’re headed. We’re proud to share our story and Make Amazing Happen at CDW. As CDW UK&I continues to grow, we are looking for a Commercial Analyst to join the Partner/Procurement Performance Management (PPM) data team. This role will focus on producing high-quality reporting and analysis that supports smarter, faster business decisions across Sales, Finance, and Operations. It’s a mix of recurring reporting (dashboards, scorecards, KPI packs) and investigative/ad-hoc analysis (auditing supplier pricing vs contracts, reclaiming overcharges, analysing rebates and aged debt). You’ll work mainly with Power BI and Excel to manipulate, build, and present data, turning complex information into actionable insight. The role partners closely with PPM leadership, with scope to grow exposure to C-suite stakeholders over time. If you enjoy working with data, uncovering trends, and linking numbers to commercial outcomes, this is a great opportunity to grow your career in a high-growth, fast-moving environment. What you will do Delivering accurate dashboards and reports that stakeholders rely on Identifying trends, risks, and opportunities in supplier and partner data Helping to reduce time spent on manual reporting by automating processes Supporting evidence-based decision making across the business Produce and maintain stat packs, dashboards, scorecards, and regular reporting Conduct commercial audits, checking supplier pricing vs contracts and recovering errors Analyse supplier and partner KPIs, rebates, and aged debt Support short- and medium-term forecasting and pipeline reporting Work with stakeholders across Finance, Sales, and Operations to improve reporting and efficiency Present insights to PPM leadership, with potential to grow visibility at senior levels What we expect of you Experience in Finance, Commercial, Data, or Sales Ops roles (ideally in tech/digital) Strong analytical skills with the ability to manipulate and interpret data Hands-on experience with Power BI (essential) and Excel Commercial awareness – ability to link data to business outcomes Clear communicator, confident working with different functions and levels of seniority Proactive, curious, and able to adapt to changing priorities CDW is committed to being an AI-fluent organization We’re looking for people who bring curiosity, a learner’s mindset, and a willingness to engage with ever-evolving technology and tools. We value adopting AI as a partner, openness to experimentation, and a shared interest in learning together on AI. Our goal is to create a culture where AI enhances—not replaces—human creativity and decision-making. You don’t need to be an expert today; what matters is your readiness to explore, adapt, and grow with us as we integrate AI responsibly and effectively into our work. Additionally, CDW is committed to fostering an equitable, transparent, and respectful hiring process for all applicants. During our application process, our goal is to understand your experience, strengths, skills, and qualifications. As an AI forward company, we see AI not just as a tool, but as a catalyst for new ways of thinking, creating, and communicating. We encourage candidates to embrace an AI mindset, one that’s curious, adaptive, and ready to explore what’s possible. We welcome thoughtful use of AI to expand your perspective and elevate how you share your story, while ensuring your application remains rooted in your own background, judgment, and voice. About Us CDW is a Fortune 500 technology solutions provider that helps businesses, government, education, and healthcare organizations achieve what’s possible through technology. What makes CDW different isn’t just what we do—it’s how we do it. At CDW we act as one—building trust, speaking candidly, and working together to achieve more. We play to win—focusing on what matters most and delivering for our customers. And we think forward—staying curious, moving fast, and continuously learning. We believe meaningful work happens when people feel supported, heard, and empowered to contribute. That’s why we think of ourselves as coworkers, not just employees—working together to solve complex challenges and deliver real impact for our customers and communities. As a full‑stack, full‑lifecycle technology partner, CDW brings deep expertise, strong relationships, and broad industry knowledge to help turn ideas into outcomes. When you join CDW, you become part of a collaborative environment where your work matters, your growth is supported, and your contributions help shape what’s next. Together, we deliver the full promise of what technology can do. Together, we Make Amazing Happen. CDW
+
+---
+
+## 5. [MAYBE] Airbus | Praktikum "AI Softwareentwicklung" (d/m/w)
 - Link: https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--AI-Softwareentwicklung---d-m-w-_JR10460095
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -158,7 +208,7 @@ Job Description: Was dich erwartet Betreuung und kompetente Unterstützung durch
 
 ---
 
-## 3. [MAYBE] Artefact | AI Applied Engineer – AI Engineer
+## 6. [MAYBE] Artefact | AI Applied Engineer – AI Engineer
 - Link: https://job-boards.greenhouse.io/artefactlinkedin/jobs/8957980002
 - Location: 135 W 26th Street, New York, NY 10001
 - Posted: Nov 22 19:17 ET
@@ -173,7 +223,22 @@ Join the most advanced community of AI makers. This role is in the ML &amp; AI A
 
 ---
 
-## 4. [MAYBE] Viridien | Machine Learning Researcher - Seismic Foundation Models
+## 7. [MAYBE] US Acute Care Solutions | AI Engineer
+- Link: https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/AI-Prompt-Engineer_R0002412
+- Location: 2 Locations
+- Posted: Nov 22 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, nlp, python, sql, healthcare, pipeline | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Posting Closing Date: Open until Filled Where do you belong? Your career is more than just a job, it's part of your life. Whether you’re a clinician, or non-clinical professional, at USACS you'll feel a sense of connection working with clinicians and office staff who share your interests and values. We want you to love coming to work each day because you believe in what you do and the people with whom you work. We care about your success. USACS also understands that location is important. We offer career opportunities for clinicians and non-clinical support staff from New York to Hawaii and numerous points in between. Our supportive culture, outstanding benefits and competitive compensation package is best in class. Job Description The AI Engineer designs, deploys, and maintains on-premises AI solutions that process healthcare documents at scale. This role owns the end-to-end pipeline, from hosting and operating locally deployed large language models, to ingesting and extracting text from document images (PDF and TIFF), to engineering and refining prompts, to validating results and writing structured output to SQL Server. The position works closely with Clinical Quality Analysts (CQA), who independently audit AI output, and with the Project Management Office, IT, Cybersecurity, and Compliance to ensure solutions are accurate, secure, and compliant with HIPAA and organizational standards. Location: Remote ESSENTIAL JOB FUNCTIONS: Deploy, configure, and maintain locally hosted large language models, including the supporting GPU/server infrastructure, inference serving, and model version management. Evaluate, benchmark, and recommend new or updated on-premises models as the technology evolves. Build and maintain automated pipelines that retrieve documents (PDF, TIFF) from network shares and perform OCR and text extraction. Design, test, and iteratively refine prompts and structured-output logic to improve accuracy, consistency, and reliability for each project. Validate AI output programmatically and write results to SQL Server, ensuring data integrity and traceability. Compile and deliver results to CQA for audit; analyze CQA findings to determine what should change in prompts, extraction, or model configuration. Manage multiple concurrent AI projects in collaboration with the PMO, maintaining test sets, accuracy metrics, and version history of prompts and workflows. Partner with Cybersecurity and Compliance to ensure on-premises AI systems, data handling, and access controls meet HIPAA, data-governance, and organizational security requirements. Track usage and performance data and report on accuracy, throughput, and ROI to leadership. Provide occasional prompt support for hosted AI tools (e.g., Box AI) as needed. Maintain documentation of architectures, workflows, test results, and configurations. Stay current with developments in open-weight language models, OCR/document AI, and model-serving technology. Perform other duties as assigned to advance the organization’s AI strategy and innovation initiatives. KNOWLEDGE, SKILLS AND ABILITIES: Strong understanding of large language models, including the practical limits of locally hosted models (context size, quantization, throughput, hardware requirements). Proficiency in Python for pipeline development, automation, and data handling. Experience deploying and operating models in a self-hosted environment, including GPU infrastructure, inference serving, and Linux or Windows server administration. Working knowledge of SQL Server, including writing and troubleshooting queries and inserts (AI-assisted proficiency acceptable). Experience with OCR and document-processing workflows for scanned or image-based documents (PDF, TIFF). Strong prompt-engineering skills, including structured/JSON output design and systematic accuracy testing. Ability to measure and communicate model accuracy using test sets, metrics, and reviewer feedback. Familiarity with HIPAA, data privacy, and security principles related to AI and PHI. Strong written and verbal communication skills, with the ability to work with clinical, technical, and non-technical stakeholders. Ability to manage multiple projects with strong documentation habits and attention to detail. EDUCATION AND EXPERIENCE: Bachelor’s degree in Computer Science, Data Science, Information Systems, or a related field preferred, or equivalent experience. 1+ years of experience deploying or working with language models, NLP, or automation systems. Demonstrated experience building prompt-based or document-processing workflows for business use. Experience in healthcare or other regulated industries is a plus. PHYSICAL DEMANDS: This position primarily involves seated work in an office or remote environment. Occasional standing, walking, and lifting of objects up to 25 pounds may be required. Salary Range: $78,566-$145,347 Salary Range: $78,566.00 - $145,347.00 Salary may be determined on several factors including but not limited to knowledge, skills, experience, education, geographical location and requirements stated in job description. USACS offers a comprehensive and competitive benefits package designed to support the health, well-being, and financial security of our employees. Benefits may vary based on role, location, and employment status, but generally include: Medical, dental, and vision insurance options Health savings accounts (HSA) and flexible spending accounts (FSA) 401(k) employee and employer contributions Paid time off, including vacation, sick leave, and company holidays Paid parental leave & family support benefits Short-term and long-term disability insurance Life and accidental death & dismemberment (AD&D) insurance Employee assistance programs & wellness resources Additional compensation may include bonus eligibility, equity, or other incentive programs, depending on the role. Specific benefit offerings and eligibility will be provided during the hiring process and may be subject to change in accordance with applicable laws and company policies. Click the red apply button to submit an application and resume. If you are an USACS employee, please apply via the Jobs Hub in the Workday system.
+
+---
+
+## 8. [MAYBE] Viridien | Machine Learning Researcher - Seismic Foundation Models
 - Link: https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Machine-Learning-Researcher---Seismic-Foundation-Models_JR101586
 - Location: Houston, United States of America
 - Posted: Nov 22 (board gives the date only)
@@ -188,7 +253,7 @@ Viridien ( www.viridiengroup.com ) is an advanced technology, digital and Earth 
 
 ---
 
-## 5. [MAYBE] Clera | Founding Applied AI Engineer
+## 9. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/2d1cadd3-9212-46cf-be7d-bb220dad8710
 - Location: United States United States
 - Posted: Nov 22 12:02 ET
@@ -243,7 +308,7 @@ On-site in the United States.
 
 ---
 
-## 6. [MAYBE] Mars | Industrial Data Engineer
+## 10. [MAYBE] Mars | Industrial Data Engineer
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Ohio-Lewisburg/Industrial-Data-Engineer_R172203-2
 - Location: USA-Ohio-Lewisburg
 - Posted: Nov 22 (board gives the date only)
@@ -258,7 +323,7 @@ Job Description: Industrial Data Engineer The Industrial Data Engineer will part
 
 ---
 
-## 7. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
+## 11. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
 - Link: https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa
 - Location: San Francisco United States
 - Posted: Nov 22 12:12 ET
@@ -313,7 +378,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 8. [MAYBE] University of Miami | Research Associate 1
+## 12. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103302
 - Location: Miami, FL
 - Posted: Nov 22 (board gives the date only)
@@ -328,7 +393,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 9. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
+## 13. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
 - Link: https://jobs.ashbyhq.com/openai/6785d983-8831-46d0-9c81-443f83664948
 - Location: San Francisco United States
 - Posted: Nov 22 12:20 ET
@@ -405,7 +470,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 10. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
+## 14. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810780
 - Location: Jacksonville, FL, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -420,7 +485,7 @@ DESCRIPTION Duties: Work with Product and Data Owners, Technology, and Design Pa
 
 ---
 
-## 11. [MAYBE] Invesco | Quantitative Analyst
+## 15. [MAYBE] Invesco | Quantitative Analyst
 - Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Quantitative-Analyst_R-15895-1
 - Location: New York, New York
 - Posted: Nov 22 (board gives the date only)
@@ -435,7 +500,7 @@ About Invesco As one of the world’s leading independent global investment firm
 
 ---
 
-## 12. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
+## 16. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
 - Link: https://uscareeropenings-alliancelaundry.icims.com/jobs/14271/data-analyst-%28sourcing%29/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -450,7 +515,7 @@ Data Analyst (Sourcing) in Ripon, Wisconsin | Careers at Alliance Laundry System
 
 ---
 
-## 13. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
+## 17. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
 - Link: https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445
 - Location: San Francisco United States
 - Posted: Nov 22 12:14 ET
@@ -507,7 +572,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 14. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
+## 18. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
 - Link: https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Golbey/Stage---Dveloppement-de-modles-d-AI-ML-appliqus-aux-changeurs--plaques-et-ailettes-brases-en-aluminium-H-F_JR0049556
 - Location: Golbey
 - Posted: Nov 22 (board gives the date only)
@@ -522,7 +587,22 @@ Chez Alfa Laval Golbey, nous concevons et fabriquons des échangeurs thermiques 
 
 ---
 
-## 15. [MAYBE] Gartner | Sr Data Analyst
+## 19. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
+- Link: https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/HSS-Kellen-Tower/Research-Assistant-I_JR2026-106937
+- Location: HSS Kellen Tower
+- Posted: Nov 22 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, credit, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | Provides timely reports to Director, Institutional Review Board, Principal Investigator, National Institutes of Health and/or sponsor for each research project.
+
+### Job description
+
+How you move is why we’re here. ® Now more than ever. Get back to what you need and love to do. The possibilities are endless... Now more than ever, our guiding principles are helping us in our search for exceptional talent - candidates who align with our unique workplace culture and who want to maximize the abundant opportunities for growth and success. If this describes you then let’s talk! HSS is consistently among the top-ranked hospitals for orthopedics and rheumatology by U.S. News & World Report. As a recipient of the Magnet Award for Nursing Excellence, HSS was the first hospital in New York City to receive the distinguished designation. Whether you are early in your career or an expert in your field, you will find HSS an innovative, supportive and inclusive environment. Working with colleagues who love what they do and are deeply committed to our Mission, you too can be part of our transformation across the enterprise. Emp Status Regular Full time Work Shift Day (United States of America) Compensation Range The base pay scale for this position is $23.90 - $36.54. In addition, this position will be eligible for additional benefits consistent with the role. The salary of the finalist selected for this role will be determined based on various factors, including but not limited to: scope of role, level of experience, education, accomplishments, internal equity, budget, and subject to Fair Market Value evaluation. The hiring range listed is a good faith determination of potential compensation at the time of this job advertisement and may be modified in the future. What you will be doing The following statements are intended to describe the general nature and level of work being performed. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required of personnel so classified. SUMMARY: This individual will be an integral member of the research team in compliance with all regulatory, institutional, and departmental requirements. The candidate will participate in all research study related activities and quality assurance of data for the projects that will come out of The Complex Joint Reconstruction Center. The candidate will play an integral role in day-to-day research activities and patient coordination; ensuring efficient operations. RESPONSIBILITIES: Research/Registry: Assist in the synchronization of research activities within CJRC under the direction of the Director of Clinical Research and serves as a liaison between the clinicians, research staff, and other research assistants. Provide overall administrative support for registry/clinical research activities. Provides timely reports to Director, Institutional Review Board, Principal Investigator, National Institutes of Health and/or sponsor for each research project. Contributes to CJRC research through: -Recruitment process (conducts informed consent process) -Data collection -The development and build of Clinical Research Forms -Assures that research is done in an accurate and efficient manner. Ensures that all research related regulatory, institutional, and departmental compliance requirements are met as appropriate. Handles I.T. communications (requests) and generates reports from the registry as needed. Facilitates completion of all internal documentation needed for research (IRB applications, conflict of interest forms, data collection forms, etc.) Assists in data collection for registry/research-specific studies including but not limited to the performance of measurements for applicable studies, collection of clinical data from patients directly, and manage the performance of all other duties as put forth in the protocol. Acts as a clinician’s scribe in the operating room in order to collect vital intraoperative registry data during surgical cases Maintains and enhances professional growth through participation in seminars, research meetings, ARJR and CJRC grand rounds, and internal training sessions to keep abreast of trends in the field of Arthroplasty research. Assists in patient care coordination by assuring patients complete CJRC forms and patient reported outcomes prior to office visits. MINIMUM JOB REQUIREMENTS: Education/Training: Bachelor’s degree required Experience: Prior research experience Prior Epic experience Prior hospital experience Knowledge of Good Clinical Practice and Good Technology Practice Excellent communication skills Must have a flexible schedule that allows for variable shifts throughout the week. Proficient use of computers and software Knowledge of Orthopaedic and/or Rheumatologic terminology is a plus. Non-Discrimination Policy Hospital for Special Surgery is committed to providing high quality care and skilled, compassionate, reliable service to our community in a safe and healing environment. Consistent with this commitment, Hospital for Special Surgery provides care, admits, and treats patients and provides all services without regard to age, race, color, creed, ethnicity, religion, national origin, culture, language, physical or mental disability, socioeconomic status, veteran or military status, marital status, sex, sexual orientation, gender identity or expression, or any other basis prohibited by federal, state, or local law or by accreditation standards.
+
+---
+
+## 20. [MAYBE] Gartner | Sr Data Analyst
 - Link: https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Sr-Data-Analyst_116148
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
