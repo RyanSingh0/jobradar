@@ -5,16 +5,20 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | Trainline | Machine Learning Engineer | 80 | none found (check myvisajobs) | Nov 23 06:57 ET |
-| 2 | Artefact | AI Applied Engineer – AI Engineer | 64 | none found (check myvisajobs) | Nov 22 19:17 ET |
-| 3 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 4 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
-| 5 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
-| 6 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
-| 7 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
-| 8 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 9 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
-| 10 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 11 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 2 | Airbus | Praktikum "AI Softwareentwicklung" (d/m/w) | 67 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 3 | Artefact | AI Applied Engineer – AI Engineer | 64 | none found (check myvisajobs) | Nov 22 19:17 ET |
+| 4 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 5 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
+| 6 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 7 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
+| 8 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
+| 9 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
+| 10 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 11 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 12 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 13 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
+| 14 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 15 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
 
 ---
 
@@ -139,7 +143,22 @@ Interested in finding out more about what it's like to work at Trainline? Why no
 
 ---
 
-## 2. [MAYBE] Artefact | AI Applied Engineer – AI Engineer
+## 2. [MAYBE] Airbus | Praktikum "AI Softwareentwicklung" (d/m/w)
+- Link: https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--AI-Softwareentwicklung---d-m-w-_JR10460095
+- Location: 2 Locations
+- Posted: Nov 22 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: llm, machine learning, python, sql, ai agent, docker, git, risk | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Description: Was dich erwartet Betreuung und kompetente Unterstützung durch erfahrene Mitarbeiter Gestaltungsfreiraum, der neue Perspektiven für das Engagement jedes Einzelnen eröffnet Einblick in die Raumfahrtbranche eine Möglichkeit, die Zukunft von Tesat mitzugestalten und etwas zu bewegen flexible Arbeitszeit attraktive Praktikumsvergütung werteorientiertes Handeln und die Begeisterung für das was wir tun Deine Aufgaben AI Infrastruktur: Du unterstützt den Ausbau unserer AI Infrastruktur um unseren Entwickler/innen die tägliche Arbeit zu erleichtern AI Tools: Du unterstützt bei der Erstellung von AI Agenten und testest diese (Datenverarbeitung, Dokumentengenerierung) AI Integration: Du unterstützt bei der Integration der AI Infrastruktur und der AI-Tools in die vorhandenen Prozesse (RAGs, Metriken, Analysen) Data Management: Du optimierst die Datenablage durch den Einsatz moderner Datenbankmethoden und -technologien. Dabei arbeitest du mit Entwicklungsdaten und entwickelst Lösungen, um diese effizienter in Datenbanken zu verarbeiten und nutzbar zu machen. Deine Qualifikation Studium: Du bist in einem Bachelor- oder Masterstudiengang eingeschrieben, z. B. Informatik, Software Engineering, Data Science, AI/Machine Learning oder vergleichbar. AI-Kenntnisse: Praktische Erfahrung mit Large Language Models (LLMs) und Prompt Engineering, auch mit strukturierter Ausgabe (z. B. JSON); du kennst ihre Grenzen, z. B. Halluzinationen. Grundlagen von Retrieval-Augmented Generation (RAG): Chunking, Embeddings, Volltext- und Vektorsuche. Du kannst die Qualität einer Suche oder eines AI-Agenten mit Testfragen messen. Sorgfältiger Umgang mit vertraulichen Daten beim Einsatz von AI. Von Vorteil: Erfahrung mit AI-Agenten oder Coding-Assistenten (z. B. Claude Code, OpenCode, GitHub Copilot), MCP, lokal betriebenen Modellen (z. B. vLLM, Ollama) oder Suchmaschinen wie OpenSearch oder Elasticsearch. Dokumente: Du kannst Inhalte aus Word- und PDF-Dokumenten automatisiert auslesen (z. B. mit Docling oder python-docx) und als JSON weiterverarbeiten. Datenbanken: Kenntnisse über relationale Datenbanken sowie SQL. Optional: Kenntnisse in PLSQL sowie Oracle APEX. Anforderungsmanagement: Erfahrung mit Requirementmanagement-Tools wie ReqView, DOORS oder Polarion ist von Vorteil. Programmierung: Du bist fit in Python. Tools: Du kennst Linux und die Kommandozeile, Git/GitLab und Docker oder Podman. Sprachen: Fließende Deutsch- und Englischkenntnisse in Wort und Schrift **Bewirb dich jetzt und werde Teil der Mission!** This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth. Company: Tesat-Spacecom GmbH & Co. KG Contract Type: Internship Experience Level: Student Job Family: Software Engineering By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus. Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief. Airbus is, and always has been, committed to equal opportunities for all. As such, we will never ask for any type of monetary exchange in the frame of a recruitment process. Any impersonation of Airbus to do so should be reported to emsom@airbus.com . At Airbus, we support you to work, connect and collaborate more easily and flexibly. Wherever possible, we foster flexible working arrangements to stimulate innovative thinking.
+
+---
+
+## 3. [MAYBE] Artefact | AI Applied Engineer – AI Engineer
 - Link: https://job-boards.greenhouse.io/artefactlinkedin/jobs/8957980002
 - Location: 135 W 26th Street, New York, NY 10001
 - Posted: Nov 22 19:17 ET
@@ -154,7 +173,7 @@ Join the most advanced community of AI makers. This role is in the ML &amp; AI A
 
 ---
 
-## 3. [MAYBE] Viridien | Machine Learning Researcher - Seismic Foundation Models
+## 4. [MAYBE] Viridien | Machine Learning Researcher - Seismic Foundation Models
 - Link: https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Machine-Learning-Researcher---Seismic-Foundation-Models_JR101586
 - Location: Houston, United States of America
 - Posted: Nov 22 (board gives the date only)
@@ -169,7 +188,7 @@ Viridien ( www.viridiengroup.com ) is an advanced technology, digital and Earth 
 
 ---
 
-## 4. [MAYBE] Clera | Founding Applied AI Engineer
+## 5. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/2d1cadd3-9212-46cf-be7d-bb220dad8710
 - Location: United States United States
 - Posted: Nov 22 12:02 ET
@@ -224,7 +243,22 @@ On-site in the United States.
 
 ---
 
-## 5. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
+## 6. [MAYBE] Mars | Industrial Data Engineer
+- Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Ohio-Lewisburg/Industrial-Data-Engineer_R172203-2
+- Location: USA-Ohio-Lewisburg
+- Posted: Nov 22 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, power bi, sql, data quality, git, kpi, reporting, validation | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Description: Industrial Data Engineer The Industrial Data Engineer will partner with the site teams to develop and execute the overall site Focused Improvement (FI) activities to improve site performance through data management. You will be responsible for all data reporting and first level analysis related to site performance KPI reporting and benchmarks. Serve as the point of contact for all data reporting systems focused on improvements and the implementation of new tools. The role is responsible for data integrity and adherence to the established ways of calculation, management through tools and reporting. This is an onsite position working from our Lewisburg, OH location. What are we looking for? Minimum of 3 years of Direct Manufacturing Site experience. University degree in Industrial Engineering, Engineering or equivalent qualification. Certified in Problem Solving Methodologies or similar, Six Sigma Green Belt or Black Belt or actively working towards it is a strong positive. Preferred experience working in relationship-based team environment. Strong data acumen, building/reviewing data basis with advanced Excel / SQL Skills. Power BI and Power apps capabilities, building dashboards for the site. High degree of independency and collaboration, influencing skills lateral as well as with site leadership team. What will your key responsibilities be? As the key user for digital solutions, you will be the sites point of contact and provides first-level support & training. This includes supporting local deployment of digital solutions and continuous improvement. The Industrial Data Engineer is the local data steward implementing the standard data set at the site. You will be responsible for managing data quality issues as well as data cleansing and validation. Work closely with stakeholders to define and control data. Provide daily, weekly, periodically and annual data reporting for line performance. This includes performance measuring tools (TRS/OEE) by line and equipment highlighting the different elements that builds performance reports. You will provide data around line speeds, flowrates, Non-Quality Cost (NQC) elements such as (run setup, re-use, destruction). Support the MSE Deployment plan driving data analysis. Work directly with the site Operations team, 3 manufacturing sites, the Continuous Improvement community and MSE and Industrial Engineer leads. As an active member of the local & regional IE/MSE team, provide functional support to the team when it is needed. What can you expect from Mars? Work with diverse and talented Associates, all guided by the Five Principles. Join a purpose driven company, where we’re striving to build the world we want tomorrow, today. A strong focus on learning and development support from day one, including access to our in-house Mars University. An industry competitive salary and benefits package, including company bonus.
+
+---
+
+## 7. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
 - Link: https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa
 - Location: San Francisco United States
 - Posted: Nov 22 12:12 ET
@@ -279,7 +313,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 6. [MAYBE] University of Miami | Research Associate 1
+## 8. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103302
 - Location: Miami, FL
 - Posted: Nov 22 (board gives the date only)
@@ -294,7 +328,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 7. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
+## 9. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
 - Link: https://jobs.ashbyhq.com/openai/6785d983-8831-46d0-9c81-443f83664948
 - Location: San Francisco United States
 - Posted: Nov 22 12:20 ET
@@ -371,7 +405,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 8. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
+## 10. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810780
 - Location: Jacksonville, FL, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -386,7 +420,37 @@ DESCRIPTION Duties: Work with Product and Data Owners, Technology, and Design Pa
 
 ---
 
-## 9. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
+## 11. [MAYBE] Invesco | Quantitative Analyst
+- Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Quantitative-Analyst_R-15895-1
+- Location: New York, New York
+- Posted: Nov 22 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 28 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, python, sql, credit, git, portfolio, quantitative, research, risk | Lacks: databricks, snowflake
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About Invesco As one of the world’s leading independent global investment firms, Invesco is dedicated to rethinking possibilities for our clients. By delivering the combined power of our distinctive investment management capabilities, we provide a wide range of investment strategies and vehicles to our clients around the world. If you're looking for challenging work, intelligent colleagues, and exposure across a global footprint, come explore your potential at Invesco. What’s in it for you? Our people are at the ver y core of our success. Invesco employees get more out of life through our comprehensive compensation and benefit offerings including: Flexible paid time off Hybrid work schedule 401(K) matching of 100% up to the first 6% with a discretionary supplemental contribution Health & wellbeing benefits Parental Leave benefits Employee stock purchase plan Job Description Quantitative Analyst, Municipal Fixed Income Your Team The Quantitative Analyst will be part of the broader quantitative team supporting Invesco Fixed Income. The team develops market research, data, models, and analytical tools that strengthen investment decision-making, portfolio construction, and risk management. This role will focus on municipal strategies and work closely with portfolio managers and credit researchers on market, portfolio, and security-level questions. The analyst will also partner with quantitative, technology, and data colleagues to build reliable data and reusable analytical capabilities. Your Role As a Quantitative Analyst, you will combine municipal market knowledge, quantitative analysis, and practical implementation to support portfolio managers and credit researchers. You will identify and evaluate investment questions involving relative value, portfolio positioning, risk, performance, and market structure and build the tools needed to test and apply your ideas. You will have end-to-end responsibility for the municipal data supporting this work, from understanding source systems and resolving discrepancies to producing controlled analytical datasets. The role requires curiosity about markets and an interest in the daily work of turning data and investment ideas into reliable, useful analytics. You Will Be Responsible For: Generating and evaluating quantitative investment ideas related to municipal relative value, portfolio positioning, performance drivers, and market opportunities. Measuring portfolio exposures on an absolute and benchmark-relative basis, including interest-rate, yield-curve, spread, credit, liquidity, and optionality risks. Developing scenario and sensitivity analyses to assess how market changes could affect performance, volatility, distributions, and portfolio positioning. Investigating differences between expected and realized performance, distinguishing market and economic drivers from data or model issues, and communicating findings to portfolio managers and credit researchers. Evaluating leverage and funding risks, including tender option bond and variable-rate municipal term preferred exposures and their implications for total return, liquidity, and distributions. Managing municipal data end to end, including acquisition, definitions, transformations, timing, lineage, quality controls, reconciliation, and availability across systems such as Perform and Aladdin. Building and maintaining analytical tools and automated workflows for holdings, transactions, pricing, benchmarks, risk, and performance while reducing routine manual processing. Partnering with investment, quantitative, technology, and data colleagues to test new ideas, implement useful analytics, and contribute reusable data, methods, and code to the broader platform. The Experience You Bring: Experience applying quantitative analysis to fixed-income markets, relative value, portfolio risk, performance attribution, or portfolio construction. Knowledge of municipal securities, market conventions, portfolio structures, benchmarks, and sources of risk, or relevant fixed-income experience and a demonstrated ability to develop new market expertise. Demonstrated ability to formulate investment or analytical questions and build practical tools, models, or applications to evaluate them. Strong hands-on Python and SQL skills, including experience working with complex datasets and automating analytical workflows. Experience investigating data from multiple systems, reconciling inconsistencies, establishing data-quality controls, and developing reliable analytical datasets. Familiarity with modern development practices and platforms such as Git or GitHub, cloud infrastructure, Snowflake, Databricks, or comparable technologies. Experience using AI-assisted research or development tools to explore ideas, develop code, test analytical approaches, or improve productivity. Strong judgment and communication skills, including the ability to connect technical analysis to market developments, portfolio exposures, and practical investment decisions. The salary range for this position in New York City is 145,000 - 158,000 USD/year. The total compensation offered for this position includes salary and incentive pay and will vary based on skills, experience and location Full Time / Part Time Full time Worker Type Employee Job Exempt (Yes / No) Yes Workplace Model Pursuant to Invesco’s Workplace Policy, employees are expected to comply with the firm’s most current workplace model, which as of October 1, 2025, includes spending at least four full days each week working in an Invesco office. This reflects our belief that spending time together in the office helps us build stronger relationships, collaborate more easily, and support each other’s growth and development. The above information on this description has been designed to indicate the general nature and level of work performed by employees within this role. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to this job. The job holder may be required to perform other duties as deemed appropriate by their manager from time to time. Invesco's culture of inclusivity and its commitment to diversity in the workplace are demonstrated through our people practices. We are proud to be an
+
+---
+
+## 12. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
+- Link: https://uscareeropenings-alliancelaundry.icims.com/jobs/14271/data-analyst-%28sourcing%29/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~47 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, excel, power bi, reporting, risk | Lacks: sap  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Data Analyst (Sourcing) in Ripon, Wisconsin | Careers at Alliance Laundry Systems Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Are You a Returning Candidate? Log back in! Data Analyst (Sourcing) Location US-WI-Ripon Category Supply Chain Management Job ID 2026-14271 Pos. Type Full-Time Workplace Location Onsite Responsibilities Collect, validate, and analyze spend data across categories, suppliers and business units to identify savings opportunities and trends Build and maintain dashboards and recurring reports (e.g., spend, savings, price variance, supplier performance, on-time delivery) in Power BI Track and report on cost savings and cost avoidance initiatives, and validate results Monitor commodity and market price trends and assess their impact on purchased material costs Maintain data integrity inputs from SAP to the dashboards and portals Analyze supplier performance and risk (quality, delivery, financial health, concentration) and flag issues to category managers with the scorecard dashboard Partner with buyers and category managers to answer ad hoc questions and support negotiations with fact-based analysis Document reporting processes and automate manual work where possible Anticipate, develop, and create systems that fill current gaps in the sourcing process Qualifications Education/Experience: Bachelor's Degree in Engineering, Business, Operations, or a related field, OR equivalent manufacturing experience. Hands-on experience analyzing complex data sets to drive accurate dashboards for usable sourcing information to the department Experience with Power BI and SAP platforms preferrable Skills and Abilities: Strong facilitation skills; able to lead diverse teams through structured problem-solving in a fast-paced production environment. Effective communicator who can teach and coach team members at all levels of the organization. Comfortable gathering and interpreting basic process data to identify improvement opportunities. Detail-oriented with strong follow-through on action items and sustaining improvements after events close. Builds trust and engagement on the shop floor; approaches challenges with curiosity rather than blame. Proficient with Microsoft Office (Excel, PowerPoint, Word); familiarity with visual management or CI tracking software a plus. Energetic, hands-on, and willing to spend time on the plant floor. Physical Requirements: Position involves standing for extended periods on the plant floor, walking throughout the facility, manual dexterity, stooping, bending, and minimal lifting ( ID 2026-14271 Pos. Type Full-Time Options Apply for this job online Apply Share Email this job to a friend Refer Sorry the Share function is not working properly at this moment. Please refresh the page and try again later. Share on your newsfeed Application FAQs Software Powered by ICIMS www.icims.com
+
+---
+
+## 13. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
 - Link: https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445
 - Location: San Francisco United States
 - Posted: Nov 22 12:14 ET
@@ -443,7 +507,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 10. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
+## 14. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
 - Link: https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Golbey/Stage---Dveloppement-de-modles-d-AI-ML-appliqus-aux-changeurs--plaques-et-ailettes-brases-en-aluminium-H-F_JR0049556
 - Location: Golbey
 - Posted: Nov 22 (board gives the date only)
@@ -458,7 +522,7 @@ Chez Alfa Laval Golbey, nous concevons et fabriquons des échangeurs thermiques 
 
 ---
 
-## 11. [MAYBE] Gartner | Sr Data Analyst
+## 15. [MAYBE] Gartner | Sr Data Analyst
 - Link: https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Sr-Data-Analyst_116148
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
