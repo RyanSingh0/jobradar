@@ -39,6 +39,46 @@ CASES = [
         "Write press releases and plan events for the communications office. " * 6), {"LOW", "DROPPED"}),
 ]
 
+# 23 Nov 2026: builder family (entry Forward Deployed, AI solutions, automation/transformation associate, LLM evaluation)
+BUILD = ("You will write Python and SQL against our warehouse, ship LLM tools and APIs with customers, dashboards, "
+         "data pipelines, machine learning and statistics. 0-2 years of experience. ") * 4
+CASES += [
+    ("Forward Deployed Engineer with Python + SQL, 0-2 years -> HOT", lambda: run("Acme Analytics", "Forward Deployed Engineer", BUILD), {"HOT"}),
+    ("AI Solutions Analyst with Python + SQL -> HOT", lambda: run("Acme Analytics", "AI Solutions Analyst", BUILD), {"HOT"}),
+    ("Transformation Associate with Python + SQL -> HOT", lambda: run("Acme Analytics", "Transformation Associate", BUILD), {"HOT"}),
+    ("AI Agent Evaluation Engineer -> HOT", lambda: run("Acme Analytics", "AI Agent Evaluation Engineer", BUILD), {"HOT"}),
+    ("Forward Deployed Engineer without SQL stays below HOT", lambda: run("Acme Analytics", "Forward Deployed Engineer",
+        BUILD.replace("Python and SQL", "Java and TypeScript")), {"LOW", "MAYBE"}),
+    ("Forward Deployed Engineer asking '5 years ... including 2' stays below HOT", lambda: run("Acme Analytics",
+        "Forward Deployed Engineer", BUILD.replace("0-2 years of experience", "5 years of experience, including 2 in AI")), {"LOW", "SKIP"}),
+    ("Distinguished AI Engineer dropped on title", lambda: run("Acme Analytics", "Distinguished AI Engineer", BUILD), {"DROPPED"}),
+    ("Test Automation Engineer dropped on title", lambda: run("Acme Analytics", "Test Automation Engineer", BUILD), {"DROPPED"}),
+]
+
+# 23 Nov 2026: location gate. (location, country field) -> True if outside the US. Leaks of 17 Nov (Zug, Sabana, Lucknow,
+# Haifa, Chengdu) plus US towns the old gate dropped (Indiana, New Mexico, Dublin OH, Melbourne FL, Vancouver WA).
+LOC = [
+    ("CRI-Sabana", "", True), ("Corp - Zug Corporate Office", "", True), ("1401-GIPL-Experio-Vibhuti-Khand-Lucknow-UP", "", True),
+    ("Haifa HEALTHCARE HA IL 2", "", True), ("Chengdu, Sichuan", "", True), ("London United Kingdom remote", "", True),
+    ("Toronto Canada remote", "", True), ("Mississauga Mississauga CA", "CA", True), ("Laval, QC", "", True),
+    ("GBR MLTN 120", "", True), ("Manchester---GBR", "", True), ("Sofia, BGR", "", True), ("Remote, Mexico", "", True),
+    ("Tbilisi, Georgia", "", True), ("Cork", "", True), ("Cork ; Cork (Ireland)", "Ireland", True),
+    ("Maconomy site ; Greater Noida (India)", "India", True),
+    ("Dublin, OH", "", False), ("Melbourne, FL", "", False), ("Vancouver, WA", "", False), ("Albuquerque, New Mexico", "", False),
+    ("Fort Wayne, Indiana", "", False), ("Indianapolis, IN", "", False), ("IND07", "", False), ("NY06-01-Niskayuna-GRC", "", False),
+    ("GEORGIA - VIRTUAL - GA01", "", False), ("Atlanta, Georgia", "", False), ("Cambridge, MA", "", False), ("Lebanon, NH", "", False),
+    ("New Brunswick, NJ", "", False), ("Remote-TX", "", False), ("2 Locations", "", False), ("Remote", "", False),
+    ("Cork ; New York, New York (Ireland)", "Ireland", False), ("UT MAIN CAMPUS (United States of America)", "United States of America", False),
+    ("Paris France Palo Alto Amsterdam London Berlin remote", "", False), ("Seattle, WA, United States", "US", False),
+]
+CASES += [(f"location {l!r} foreign={want}", lambda l=l, c=c: (str(jr.looks_foreign(l, c)), ""), {str(want)}) for l, c, want in LOC]
+CASES += [
+    ("Unplaceable non-Workday location with no US evidence -> SKIP", lambda: run("Acme Analytics", "Data Analyst",
+        GENERIC + " 1-2 years of experience.", location="RMZ Titanium"), {"SKIP"}),
+    ("Unplaceable location with a dollar pay range stays in", lambda: run("Acme Analytics", "Data Analyst",
+        GENERIC + " 1-2 years of experience. Pay range $85,000 - $95,000.", location="Main Campus"), {"HOT"}),
+]
+
 if __name__ == "__main__":
     bad = 0
     for name, fn, ok in CASES:
