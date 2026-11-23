@@ -7,67 +7,68 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 1 | Analytical Mechanics Associates | AIML Research Associate | 84 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
 | 2 | Trainline | Machine Learning Engineer | 80 | none found (check myvisajobs) | Nov 23 06:57 ET |
 | 3 | NBCUniversal | Analyst, Tech Compliance & Assurance | 76 | 15 in data/analytics/finance occupations | Nov 23 15:02 ET |
-| 4 | JP Morgan Chase | 2027 Applied AI - HR CDAO - Summer Associate | 71 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 5 | Qube Research & Technologies | Production Support Engineer - AI & LLM | 71 | none found (check myvisajobs) | Nov 23 11:08 ET |
-| 6 | Live Nation Entertainment | Managed Pricing Analyst | 71 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 7 | CDW Corporation | Commercial Analyst | 70 | 8 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 8 | Albertsons | Financial Analyst, FP&A | 70 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 9 | Dentsu | Product, Business Analyst | 68 | 12 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 10 | Airbus | Praktikum "AI Softwareentwicklung" (d/m/w) | 67 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 11 | Cantor Fitzgerald | Treasury Analyst | 67 | 8 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 12 | Genentech | Computational & Applied AI - Scientist | 65 | 35 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 13 | Artefact | AI Applied Engineer – AI Engineer | 64 | none found (check myvisajobs) | Nov 22 19:17 ET |
-| 14 | US Acute Care Solutions | AI Engineer | 62 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 15 | Dallas Fort Worth International Airport | Risk Analyst | 62 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 16 | Graham Capital Management | Portfolio Analyst, Global Macro | 62 | 9 in data/analytics/finance occupations | Nov 23 14:44 ET |
-| 17 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 18 | CVS Health | Data Engineer | 57 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 19 | PennState University | Tseng Banaszak 26-27 Part Time Research Assistant | 57 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 20 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
-| 21 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 22 | Envista | Legal Data Analyst | 55 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 23 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
-| 24 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
-| 25 | Simmons Bank | Loan Portfolio Analyst I | 54 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 26 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 27 | Amentum | Data Analyst | 54 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 28 | Medical College of Wisconsin | Research Scientist I - Biophysics | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 29 | Yale University | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 30 | Axle | SBIR Data Analyst | 54 | none found (check myvisajobs) | Nov 23 15:12 ET |
-| 31 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
-| 32 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 33 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 34 | The Jackson Laboratory | Associate Research Scientist | 50 | 3 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 35 | Voya Financial | Quantitative Analyst & Programmer | 48 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 36 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 37 | Altera Corporation | AI Engineer | 47 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 38 | Wellington Management | Research Associate, Consumer | 47 | 32 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 39 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
-| 40 | Prosper AI | AI Engineer | 45 | none found (check myvisajobs) | Nov 23 11:51 ET |
-| 41 | Exponent | Title Research Assistant | 45 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 42 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 43 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 44 | Wash U | Statistical Data Analyst - Genetics | 45 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 45 | Washington University in St. Louis | Statistical Data Analyst - Genetics | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 46 | Koddi | Associate Digital Marketing Analyst | 44 | 3 in data/analytics/finance occupations | Nov 23 12:58 ET |
-| 47 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 48 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 49 | Moffitt Cancer Center | Research Associate 1 | 40 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 50 | PennState University | Research Assistant - Archetti Lab | 40 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 51 | thyssenkrupp | Data Engineer I | 40 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 52 | John Wiley & Sons | Senior Data Scientist (NLP & Applied AI) | 70 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 53 | Johnson & Johnson | Sr Scientist Data Science | 67 | 11 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 54 | Capital One | Sr. Business Analyst - Profitability & Growth Analysis | 62 | 458 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 55 | Airbnb | Senior Machine Learning Engineer, Assistance Foundations | 61 | 46 in data/analytics/finance occupations | Nov 23 15:18 ET |
-| 56 | Ohio State University | Reporting and Analytics Analyst 2 - Government Resource Center | 57 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 57 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 58 | AbbVie | Sr. Data Science Analyst, Business Intelligence  | 55 | 96 in data/analytics/finance occupations | Nov 23 12:41 ET |
-| 59 | Chewy | Machine Learning Engineer II | 55 | 107 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 60 | Sun Life | Senior AI Engineer | 55 | 6 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 61 | Truist Bank | Senior Capital Markets Risk Analyst | 55 | 99 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 62 | Morningstar | Business Intelligence and Analytics, Senior Analyst – New York | 55 | 13 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 63 | Ally Bank | Sr Analyst - Business Intelligence | 55 | 54 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 64 | T-Mobile | T-Ads Senior Data Scientist | 55 | 131 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 4 | CSL | AI/ML Engineer | 76 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 5 | JP Morgan Chase | 2027 Applied AI - HR CDAO - Summer Associate | 71 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 6 | Qube Research & Technologies | Production Support Engineer - AI & LLM | 71 | none found (check myvisajobs) | Nov 23 11:08 ET |
+| 7 | Live Nation Entertainment | Managed Pricing Analyst | 71 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 8 | CDW Corporation | Commercial Analyst | 70 | 8 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 9 | Albertsons | Financial Analyst, FP&A | 70 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 10 | Dentsu | Product, Business Analyst | 68 | 12 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 11 | Airbus | Praktikum "AI Softwareentwicklung" (d/m/w) | 67 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 12 | Cantor Fitzgerald | Treasury Analyst | 67 | 8 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 13 | Genentech | Computational & Applied AI - Scientist | 65 | 35 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 14 | Artefact | AI Applied Engineer – AI Engineer | 64 | none found (check myvisajobs) | Nov 22 19:17 ET |
+| 15 | US Acute Care Solutions | AI Engineer | 62 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 16 | Dallas Fort Worth International Airport | Risk Analyst | 62 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 17 | Graham Capital Management | Portfolio Analyst, Global Macro | 62 | 9 in data/analytics/finance occupations | Nov 23 14:44 ET |
+| 18 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 19 | CVS Health | Data Engineer | 57 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 20 | PennState University | Tseng Banaszak 26-27 Part Time Research Assistant | 57 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 21 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
+| 22 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 23 | Envista | Legal Data Analyst | 55 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 24 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
+| 25 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
+| 26 | Simmons Bank | Loan Portfolio Analyst I | 54 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 27 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 28 | Amentum | Data Analyst | 54 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 29 | Medical College of Wisconsin | Research Scientist I - Biophysics | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 30 | Yale University | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 31 | Axle | SBIR Data Analyst | 54 | none found (check myvisajobs) | Nov 23 15:12 ET |
+| 32 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
+| 33 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 34 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 35 | The Jackson Laboratory | Associate Research Scientist | 50 | 3 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 36 | Voya Financial | Quantitative Analyst & Programmer | 48 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 37 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 38 | Altera Corporation | AI Engineer | 47 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 39 | Wellington Management | Research Associate, Consumer | 47 | 32 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 40 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
+| 41 | Prosper AI | AI Engineer | 45 | none found (check myvisajobs) | Nov 23 11:51 ET |
+| 42 | Exponent | Title Research Assistant | 45 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 43 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 44 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 45 | Wash U | Statistical Data Analyst - Genetics | 45 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 46 | Washington University in St. Louis | Statistical Data Analyst - Genetics | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 47 | Koddi | Associate Digital Marketing Analyst | 44 | 3 in data/analytics/finance occupations | Nov 23 12:58 ET |
+| 48 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 49 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 50 | Moffitt Cancer Center | Research Associate 1 | 40 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 51 | PennState University | Research Assistant - Archetti Lab | 40 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 52 | thyssenkrupp | Data Engineer I | 40 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 53 | John Wiley & Sons | Senior Data Scientist (NLP & Applied AI) | 70 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 54 | Johnson & Johnson | Sr Scientist Data Science | 67 | 11 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 55 | Capital One | Sr. Business Analyst - Profitability & Growth Analysis | 62 | 458 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 56 | Airbnb | Senior Machine Learning Engineer, Assistance Foundations | 61 | 46 in data/analytics/finance occupations | Nov 23 15:18 ET |
+| 57 | Ohio State University | Reporting and Analytics Analyst 2 - Government Resource Center | 57 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 58 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 59 | AbbVie | Sr. Data Science Analyst, Business Intelligence  | 55 | 96 in data/analytics/finance occupations | Nov 23 12:41 ET |
+| 60 | Chewy | Machine Learning Engineer II | 55 | 107 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 61 | Sun Life | Senior AI Engineer | 55 | 6 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 62 | Truist Bank | Senior Capital Markets Risk Analyst | 55 | 99 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 63 | Morningstar | Business Intelligence and Analytics, Senior Analyst – New York | 55 | 13 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 64 | Ally Bank | Sr Analyst - Business Intelligence | 55 | 54 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 65 | T-Mobile | T-Ads Senior Data Scientist | 55 | 131 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
 
 ---
 
@@ -222,7 +223,22 @@ The Media Group at NBCU supports a powerhouse collection of consumer-first brand
 
 ---
 
-## 4. [MAYBE] JP Morgan Chase | 2027 Applied AI - HR CDAO - Summer Associate
+## 4. [MAYBE] CSL | AI/ML Engineer
+- Link: https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-FL-Boca-Raton-CSL-Behring/AI-ML-Engineer_R-293990
+- Location: 2 Locations
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~76 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: a/b test, aws, dashboard, forecast, llm, machine learning, nlp, pandas, python, pytorch, scikit, spark, sql, statistic | Lacks: azure, informatica  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Key Responsibilities: 1. AI/ML Solution Development Design, build, train, and evaluate machine learning models for use cases including predictive analytics, natural language processing, anomaly detection, recommendation systems, and donor behavior modeling Develop and maintain end-to-end ML pipelines from data ingestion and feature engineering through model training, validation, and deployment Implement generative AI solutions and LLM-based workflows using technologies like AWS Bedrock, Azure OpenAI, or open-source frameworks (LangChain, LlamaIndex , LangGraph). Design retrieval-augmented generation (RAG) systems as the default pattern for knowledge-intensive workflows before considering fine-tuning Finetune generative and open-weight models where prompt engineering and RAG do not achieve the required quality, cost, or latency. Apply fine-tuning judiciously given the ongoing maintenance and evaluation burden it creates Design agentic workflows where multi-step reasoning, tool use, or orchestration is required. Apply agentic patterns judiciously; single-shot prompts and RAG remain the right answer for most use cases Extend model applications to multi-modal inputs (text, structured data, and where relevant images and documents) as use cases require 2. AI Operations & Production Deployment Build and maintain MLOps infrastructure including model registries, automated retraining pipelines, A/B testing frameworks, and model monitoring dashboards Deploy models to production using technologies like AWS SageMaker, Azure ML, or containerized services (Docker/Kubernetes) with appropriate CI/CD integration Monitor deployed models for data drift, performance degradation, and bias; implement remediation strategies and retraining triggers Establish and maintain evaluation harnesses for LLM and RAG systems. Write evaluations that run automatically on every prompt, model, or code change and act as the quality gate for production deployment. Frameworks such as Ragas, LangSmith, DeepEval, or evals-as-code implementations Implement LLM and agent observability distinct from classical model monitoring. Cover prompt and response logging, trace visualization, prompt drift detection, and runtime debugging of agent workflows. Frameworks such as Langfuse, Helicone, Arize AI, or WhyLab Apply version control, review, and deployment discipline to prompts and prompt templates. Treat prompts as code, not configuration Implement guardrail patterns for content safety, PII redaction, output validation, and jailbreak resistance. In regulated donor and medical contexts these are not optional. Frameworks such as NeMo Guardrails, Guardrails AI, or equivalent Manage inference cost as a first-class operational discipline. Track token usage, tier models to task complexity (cheap models for cheap tasks, more capable models only where required), apply caching strategies, and measure cost per successful outcome 3. Integration of AI into Product Platforms Collaborate with integration developers to embed ML model inference into MuleSoft, Informatica, UiPath, and AWS Step Functions pipelines Expose ML capabilities as secure, low-latency APIs consumed by the Donor App, web platforms, and internal operational tools Evaluate and implement AI-enhanced automation across QA, scheduling, and payments workflows using the UiPath platform, freeing operational capacity for higher-value donor interactions and improving decisions where accuracy has business consequences Serve as the internal capability provider for AI features, already in production that are consumed by other product teams. Establish the patterns other engineers will adopt as AI use cases multiply across the ecosystem 4. Data Engineering & Feature Development Develop and maintain feature stores and data transformation pipelines that supply high-quality, well-governed training and inference data Partner with the Data Engineer on the shared data capability, including the Data Backbone initiative. Contribute the AI-facing requirements early so that data contracts, quality thresholds, freshness expectations, and lineage cover both classical ML training and generative AI retrieval needs Apply data augmentation, synthetic data generation, and class balancing techniques to address data scarcity in regulated domains 5. Governance, Compliance & Ethics Ensure all AI/ML solutions comply with applicable regulations including HIPAA, GDPR, and 21 CFR Part 11 for models used in GxP contexts Document model design, training methodology, validation results, and known limitations in accordance with CSL quality and regulatory standards Apply responsible AI principles including explainability, fairness auditing, and bias mitigation to all production models Apply red-teaming and adversarial testing to LLM-based systems as part of the responsible AI lifecycle Produce model cards or system cards for production AI systems, documenting intended use, evaluation results, known limitations, and safety considerations in a form that both technical and regulatory reviewers can consume Design human oversight into AI workflows. Define where the model decides, where a human decides, escalation paths, and rejection or override mechanisms. Implement audit trails for AI decisions in regulated contexts so decisions can be reviewed and defended downstream Minimum Qualifications: Bachelor's degree or equivalent; education preferably concentrated in IT, Engineering, or Science, such as Computer Science, Data Science, Statistics, Mathematics, or related quantitative field; Master's or PhD preferred 5+ years' IT experience, including specific experience in business systems analysis and in machine learning engineering, data science, or applied AI, with at least 2 years in a product or platform context Proficiency in Python and ML libraries: scikit-learn, TensorFlow, PyTorch, XGBoost, and Hugging Face Transformers Hands-on experience with cloud ML platforms: AWS SageMaker, Azure Machine Learning, or Google Vertex AI Experience building and maintaining MLOps pipelines using tools such as MLflow, Kubeflow, SageMaker Pipelines, or Azure ML Pipelines Solid understanding of supervised, unsupervised, and reinforcement learning algorithms and when to apply each Experience shipping ML or generative AI into production in a regulated or consumer-scale environment Experience with LLMs, prompt engineering, and evaluation-driven prompt development, retrieval-augmented generation (RAG), vector databases, and agentic AI frameworks (LangGraph, AutoGen, CrewAI, or equivalent orchestration). Experience with LLM and RAG evaluation frameworks such as Ragas, LangSmith, DeepEval, or equivalent. Evaluation-driven development is a core expectation of the role Experience with LLM observability tools such as Langfuse, Helicone, Arize AI, or WhyLabs for production monitoring of generative AI systems Experience with guardrail frameworks (NeMo Guardrails, Guardrails AI, or equivalent) or hand-rolled equivalents for content safety, PII [...]
+
+---
+
+## 5. [MAYBE] JP Morgan Chase | 2027 Applied AI - HR CDAO - Summer Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549
 - Location: New York, NY, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -237,7 +253,7 @@ As a Summer Associate within AI & Data Scientist in the HR Data & Analytics team
 
 ---
 
-## 5. [MAYBE] Qube Research & Technologies | Production Support Engineer - AI & LLM
+## 6. [MAYBE] Qube Research & Technologies | Production Support Engineer - AI & LLM
 - Link: https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8958584002
 - Location: Wrocław
 - Posted: Nov 23 11:08 ET
@@ -252,7 +268,7 @@ Qube Research &amp; Technologies (QRT) is a global quantitative and systematic i
 
 ---
 
-## 6. [MAYBE] Live Nation Entertainment | Managed Pricing Analyst
+## 7. [MAYBE] Live Nation Entertainment | Managed Pricing Analyst
 - Link: https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Work-From-Home---California---Los-Angeles/Managed-Pricing-Analyst_JR-94110-1
 - Location: Work From Home - California - Los Angeles
 - Posted: Nov 23 (board gives the date only)
@@ -267,7 +283,7 @@ Job Summary: JOB DESCRIPTION – PRICING ANALYST Location: Beverly Hills, CA Div
 
 ---
 
-## 7. [MAYBE] CDW Corporation | Commercial Analyst
+## 8. [MAYBE] CDW Corporation | Commercial Analyst
 - Link: https://cdw.wd5.myworkdayjobs.com/careers/job/Manchester---GBR/Commercial-Analyst_R26_00003452-1
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -282,7 +298,7 @@ At CDW, we make it happen, together. Trust, connection, and commitment are at th
 
 ---
 
-## 8. [MAYBE] Albertsons | Financial Analyst, FP&A
+## 9. [MAYBE] Albertsons | Financial Analyst, FP&A
 - Link: https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/796632
 - Location: Boise, ID, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -297,7 +313,7 @@ Prior to applying it is required that you inform your manager of your desire to 
 
 ---
 
-## 9. [MAYBE] Dentsu | Product, Business Analyst
+## 10. [MAYBE] Dentsu | Product, Business Analyst
 - Link: https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/USA-Remote-Arkansas/Product--Business-Analyst_R1111300
 - Location: USA-Remote-Arkansas
 - Posted: Nov 23 (board gives the date only)
@@ -312,7 +328,7 @@ Job Description: We are looking for a Product, Business Analyst who brings exper
 
 ---
 
-## 10. [MAYBE] Airbus | Praktikum "AI Softwareentwicklung" (d/m/w)
+## 11. [MAYBE] Airbus | Praktikum "AI Softwareentwicklung" (d/m/w)
 - Link: https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--AI-Softwareentwicklung---d-m-w-_JR10460095
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -327,7 +343,7 @@ Job Description: Was dich erwartet Betreuung und kompetente Unterstützung durch
 
 ---
 
-## 11. [MAYBE] Cantor Fitzgerald | Treasury Analyst
+## 12. [MAYBE] Cantor Fitzgerald | Treasury Analyst
 - Link: https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250605
 - Location: NY, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -342,7 +358,7 @@ This is an immediate hiring need. Spring 2027 graduates will not be considered. 
 
 ---
 
-## 12. [MAYBE] Genentech | Computational & Applied AI - Scientist
+## 13. [MAYBE] Genentech | Computational & Applied AI - Scientist
 - Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Computational---Applied-AI---Scientist_202611-129687-1
 - Location: South San Francisco
 - Posted: Nov 23 (board gives the date only)
@@ -357,7 +373,7 @@ A healthier future. It’s what drives us to innovate. To continuously advance s
 
 ---
 
-## 13. [MAYBE] Artefact | AI Applied Engineer – AI Engineer
+## 14. [MAYBE] Artefact | AI Applied Engineer – AI Engineer
 - Link: https://job-boards.greenhouse.io/artefactlinkedin/jobs/8957980002
 - Location: 135 W 26th Street, New York, NY 10001
 - Posted: Nov 22 19:17 ET
@@ -372,7 +388,7 @@ Join the most advanced community of AI makers. This role is in the ML &amp; AI A
 
 ---
 
-## 14. [MAYBE] US Acute Care Solutions | AI Engineer
+## 15. [MAYBE] US Acute Care Solutions | AI Engineer
 - Link: https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/AI-Prompt-Engineer_R0002412
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -387,7 +403,7 @@ Job Posting Closing Date: Open until Filled Where do you belong? Your career is 
 
 ---
 
-## 15. [MAYBE] Dallas Fort Worth International Airport | Risk Analyst
+## 16. [MAYBE] Dallas Fort Worth International Airport | Risk Analyst
 - Link: https://dfwairport.wd5.myworkdayjobs.com/External/job/Airport-Headquarters/Risk-Analyst_JR102298-1
 - Location: Airport Headquarters
 - Posted: Nov 23 (board gives the date only)
@@ -402,7 +418,7 @@ Job Overview Under general direction of the Sr Risk Management Services Manager 
 
 ---
 
-## 16. [MAYBE] Graham Capital Management | Portfolio Analyst, Global Macro
+## 17. [MAYBE] Graham Capital Management | Portfolio Analyst, Global Macro
 - Link: https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4757937005?gh_jid=4757937005
 - Location: New York, New York, United States
 - Posted: Nov 23 14:44 ET
@@ -417,7 +433,7 @@ Graham Capital Management, L.P. (collectively with its affiliates, "Graham") is 
 
 ---
 
-## 17. [MAYBE] Viridien | Machine Learning Researcher - Seismic Foundation Models
+## 18. [MAYBE] Viridien | Machine Learning Researcher - Seismic Foundation Models
 - Link: https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Machine-Learning-Researcher---Seismic-Foundation-Models_JR101586
 - Location: Houston, United States of America
 - Posted: Nov 22 (board gives the date only)
@@ -432,7 +448,7 @@ Viridien ( www.viridiengroup.com ) is an advanced technology, digital and Earth 
 
 ---
 
-## 18. [MAYBE] CVS Health | Data Engineer
+## 19. [MAYBE] CVS Health | Data Engineer
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R1108581-1
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -447,7 +463,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 19. [MAYBE] PennState University | Tseng Banaszak 26-27 Part Time Research Assistant
+## 20. [MAYBE] PennState University | Tseng Banaszak 26-27 Part Time Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Tseng-Banaszak-26-27-Part-Time-Research-Assistant_REQ_0000084528-1
 - Location: Penn State University Park
 - Posted: Nov 23 (board gives the date only)
@@ -462,7 +478,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 20. [MAYBE] Clera | Founding Applied AI Engineer
+## 21. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/2d1cadd3-9212-46cf-be7d-bb220dad8710
 - Location: United States United States
 - Posted: Nov 22 12:02 ET
@@ -517,7 +533,7 @@ On-site in the United States.
 
 ---
 
-## 21. [MAYBE] Mars | Industrial Data Engineer
+## 22. [MAYBE] Mars | Industrial Data Engineer
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Ohio-Lewisburg/Industrial-Data-Engineer_R172203-2
 - Location: USA-Ohio-Lewisburg
 - Posted: Nov 22 (board gives the date only)
@@ -532,7 +548,7 @@ Job Description: Industrial Data Engineer The Industrial Data Engineer will part
 
 ---
 
-## 22. [MAYBE] Envista | Legal Data Analyst
+## 23. [MAYBE] Envista | Legal Data Analyst
 - Link: https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--California--Brea/Legal-Data-Analyst_R5027938
 - Location: United States of America, California, Brea
 - Posted: Nov 23 (board gives the date only)
@@ -547,7 +563,7 @@ Job Description: JOB SUMMARY: Must reside within a commutable distance to both B
 
 ---
 
-## 23. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
+## 24. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
 - Link: https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa
 - Location: San Francisco United States
 - Posted: Nov 22 12:12 ET
@@ -602,7 +618,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 24. [MAYBE] University of Miami | Research Associate 1
+## 25. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103302
 - Location: Miami, FL
 - Posted: Nov 22 (board gives the date only)
@@ -617,7 +633,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 25. [MAYBE] Simmons Bank | Loan Portfolio Analyst I
+## 26. [MAYBE] Simmons Bank | Loan Portfolio Analyst I
 - Link: https://simmonsbank.wd5.myworkdayjobs.com/SimmonsCareers/job/Little-Rock-AR/Loan-Portfolio-Analyst-II_R115792
 - Location: Little Rock, AR
 - Posted: Nov 23 (board gives the date only)
@@ -632,7 +648,7 @@ It's fun to work in a company where people truly BELIEVE in what they're doing! 
 
 ---
 
-## 26. [MAYBE] University of Miami | Research Associate 1
+## 27. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103321
 - Location: Miami, FL
 - Posted: Nov 23 (board gives the date only)
@@ -647,7 +663,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 27. [MAYBE] Amentum | Data Analyst
+## 28. [MAYBE] Amentum | Data Analyst
 - Link: https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Pensacola/Data-Analyst_R0176006
 - Location: US-FL-Pensacola
 - Posted: Nov 23 (board gives the date only)
@@ -662,7 +678,7 @@ Purpose and Scope: The Data Analyst performs the functions of the Navy’s Syste
 
 ---
 
-## 28. [MAYBE] Medical College of Wisconsin | Research Scientist I - Biophysics
+## 29. [MAYBE] Medical College of Wisconsin | Research Scientist I - Biophysics
 - Link: https://mcw.wd503.myworkdayjobs.com/ExternalCareers/job/Milwaukee-WI/Research-Scientist-I---Biophysics_JR104329
 - Location: Milwaukee, WI
 - Posted: Nov 23 (board gives the date only)
@@ -677,7 +693,7 @@ Summary The Wang Lab in the Department of Biophysics at the Medical College of W
 
 ---
 
-## 29. [MAYBE] Yale University | Research Associate 1
+## 30. [MAYBE] Yale University | Research Associate 1
 - Link: https://yale.wd1.myworkdayjobs.com/terminated_layoff_external_career_site/job/Church-St-South-100/Research-Associate-1_139464WD-1
 - Location: Church St South, 100
 - Posted: Nov 23 (board gives the date only)
@@ -692,7 +708,7 @@ Working at Yale means contributing to a better tomorrow. Whether you are a curre
 
 ---
 
-## 30. [MAYBE] Axle | SBIR Data Analyst
+## 31. [MAYBE] Axle | SBIR Data Analyst
 - Link: https://job-boards.greenhouse.io/axle/jobs/5306965007
 - Location: Rockville, MD
 - Posted: Nov 23 15:12 ET
@@ -707,7 +723,7 @@ Working at Yale means contributing to a better tomorrow. Whether you are a curre
 
 ---
 
-## 31. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
+## 32. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
 - Link: https://jobs.ashbyhq.com/openai/6785d983-8831-46d0-9c81-443f83664948
 - Location: San Francisco United States
 - Posted: Nov 22 12:20 ET
@@ -784,7 +800,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 32. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
+## 33. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810780
 - Location: Jacksonville, FL, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -799,7 +815,7 @@ DESCRIPTION Duties: Work with Product and Data Owners, Technology, and Design Pa
 
 ---
 
-## 33. [MAYBE] Invesco | Quantitative Analyst
+## 34. [MAYBE] Invesco | Quantitative Analyst
 - Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Quantitative-Analyst_R-15895-1
 - Location: New York, New York
 - Posted: Nov 22 (board gives the date only)
@@ -814,7 +830,7 @@ About Invesco As one of the world’s leading independent global investment firm
 
 ---
 
-## 34. [MAYBE] The Jackson Laboratory | Associate Research Scientist
+## 35. [MAYBE] The Jackson Laboratory | Associate Research Scientist
 - Link: https://thejacksonlaboratory.wd503.myworkdayjobs.com/External_JAX/job/Farmington-Connecticut/Associate-Research-Scientist_JR006365
 - Location: Farmington, Connecticut
 - Posted: Nov 23 (board gives the date only)
@@ -829,7 +845,7 @@ Associate Research Scientist The Jackson Laboratory The Skarnes Lab Farmington C
 
 ---
 
-## 35. [MAYBE] Voya Financial | Quantitative Analyst & Programmer
+## 36. [MAYBE] Voya Financial | Quantitative Analyst & Programmer
 - Link: https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/Quantitative-Analyst---Programmer_JR0033471
 - Location: New York, NY
 - Posted: Nov 23 (board gives the date only)
@@ -844,7 +860,7 @@ Together we fight for everyone’s opportunity for a better financial future. We
 
 ---
 
-## 36. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
+## 37. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
 - Link: https://uscareeropenings-alliancelaundry.icims.com/jobs/14271/data-analyst-%28sourcing%29/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -859,7 +875,7 @@ Data Analyst (Sourcing) in Ripon, Wisconsin | Careers at Alliance Laundry System
 
 ---
 
-## 37. [MAYBE] Altera Corporation | AI Engineer
+## 38. [MAYBE] Altera Corporation | AI Engineer
 - Link: https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Engineer_R02788
 - Location: San Jose, California, United States
 - Posted: Nov 23 (board gives the date only)
@@ -874,7 +890,7 @@ Job Details: Job Description: AI Engineer – Agentic AI Systems Why This Role M
 
 ---
 
-## 38. [MAYBE] Wellington Management | Research Associate, Consumer
+## 39. [MAYBE] Wellington Management | Research Associate, Consumer
 - Link: https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Research-Associate--Consumer_R95151-1
 - Location: Boston, MA, United States
 - Posted: Nov 23 (board gives the date only)
@@ -889,7 +905,7 @@ About Us Wellington Management offers comprehensive investment management capabi
 
 ---
 
-## 39. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
+## 40. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
 - Link: https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445
 - Location: San Francisco United States
 - Posted: Nov 22 12:14 ET
@@ -946,7 +962,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 40. [MAYBE] Prosper AI | AI Engineer
+## 41. [MAYBE] Prosper AI | AI Engineer
 - Link: https://jobs.ashbyhq.com/prosper-ai/fc1781c3-3fee-47f6-bf76-c5e2a6357eaf
 - Location: Barcelona Spain remote
 - Posted: Nov 23 11:51 ET
@@ -1003,7 +1019,7 @@ Interviewing Process
 
 ---
 
-## 41. [MAYBE] Exponent | Title Research Assistant
+## 42. [MAYBE] Exponent | Title Research Assistant
 - Link: https://careers-exponent.icims.com/jobs/2465/research-assistant/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1018,7 +1034,7 @@ Research Assistant in Phoenix, Arizona | Careers at Phoenix Please Enable Cookie
 
 ---
 
-## 42. [MAYBE] Texas A&M AgriLife Research | Research Associate
+## 43. [MAYBE] Texas A&M AgriLife Research | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Research-Associate_R-099059-1
 - Location: College Station, TX
 - Posted: Nov 23 (board gives the date only)
@@ -1033,7 +1049,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Range
 
 ---
 
-## 43. [MAYBE] Texas A&M University System | Research Associate
+## 44. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-099059
 - Location: College Station, TX
 - Posted: Nov 23 (board gives the date only)
@@ -1048,7 +1064,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Range
 
 ---
 
-## 44. [MAYBE] Wash U | Statistical Data Analyst - Genetics
+## 45. [MAYBE] Wash U | Statistical Data Analyst - Genetics
 - Link: https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Statistical-Data-Analyst---Genetics_JR98842
 - Location: Washington University Medical Campus
 - Posted: Nov 23 (board gives the date only)
@@ -1063,7 +1079,7 @@ Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Perfo
 
 ---
 
-## 45. [MAYBE] Washington University in St. Louis | Statistical Data Analyst - Genetics
+## 46. [MAYBE] Washington University in St. Louis | Statistical Data Analyst - Genetics
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Statistical-Data-Analyst---Genetics_JR98842
 - Location: Washington University Medical Campus
 - Posted: Nov 23 (board gives the date only)
@@ -1078,7 +1094,7 @@ Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Perfo
 
 ---
 
-## 46. [MAYBE] Koddi | Associate Digital Marketing Analyst
+## 47. [MAYBE] Koddi | Associate Digital Marketing Analyst
 - Link: https://job-boards.greenhouse.io/koddi/jobs/8944816002
 - Location: Fort Worth, Texas
 - Posted: Nov 23 12:58 ET
@@ -1093,7 +1109,7 @@ About Koddi We are a global technology company with software and services that h
 
 ---
 
-## 47. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
+## 48. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
 - Link: https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Golbey/Stage---Dveloppement-de-modles-d-AI-ML-appliqus-aux-changeurs--plaques-et-ailettes-brases-en-aluminium-H-F_JR0049556
 - Location: Golbey
 - Posted: Nov 22 (board gives the date only)
@@ -1108,7 +1124,7 @@ Chez Alfa Laval Golbey, nous concevons et fabriquons des échangeurs thermiques 
 
 ---
 
-## 48. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
+## 49. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
 - Link: https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/HSS-Kellen-Tower/Research-Assistant-I_JR2026-106937
 - Location: HSS Kellen Tower
 - Posted: Nov 22 (board gives the date only)
@@ -1123,7 +1139,7 @@ How you move is why we’re here. ® Now more than ever. Get back to what you ne
 
 ---
 
-## 49. [MAYBE] Moffitt Cancer Center | Research Associate 1
+## 50. [MAYBE] Moffitt Cancer Center | Research Associate 1
 - Link: https://moffitt.wd108.myworkdayjobs.com/Moffitt/job/Moffitt-Research-Center/Research-Associate-1_R-4930
 - Location: Moffitt Research Center
 - Posted: Nov 23 (board gives the date only)
@@ -1138,7 +1154,7 @@ Working at Moffitt is both a career and a mission: to contribute to the preventi
 
 ---
 
-## 50. [MAYBE] PennState University | Research Assistant - Archetti Lab
+## 51. [MAYBE] PennState University | Research Assistant - Archetti Lab
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant---Archetti-Lab_REQ_0000084518-1
 - Location: Penn State University Park
 - Posted: Nov 23 (board gives the date only)
@@ -1153,7 +1169,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 51. [MAYBE] thyssenkrupp | Data Engineer I
+## 52. [MAYBE] thyssenkrupp | Data Engineer I
 - Link: https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Michigan-Remote/Data-Engineer-I_JR106462
 - Location: Michigan Remote
 - Posted: Nov 23 (board gives the date only)
@@ -1168,7 +1184,7 @@ Job Summary The Data Engineer will be at the forefront of accelerating the moder
 
 ---
 
-## 52. [MAYBE] John Wiley & Sons | Senior Data Scientist (NLP & Applied AI)
+## 53. [MAYBE] John Wiley & Sons | Senior Data Scientist (NLP & Applied AI)
 - Link: https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Hoboken-HQ-NJ-USA/Senior-Data-Scientist--NLP---Applied-AI-_R2601204
 - Location: Hoboken (HQ), NJ, USA
 - Posted: Nov 23 (board gives the date only)
@@ -1183,7 +1199,7 @@ We believe in bold ideas, diverse perspectives, and the drive to transform knowl
 
 ---
 
-## 53. [MAYBE] Johnson & Johnson | Sr Scientist Data Science
+## 54. [MAYBE] Johnson & Johnson | Sr Scientist Data Science
 - Link: https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Sr-Scientist-Data-Science_R-111095-1
 - Location: Raritan, New Jersey, United States of America
 - Posted: Nov 23 (board gives the date only)
@@ -1198,7 +1214,7 @@ At Johnson & Johnson, we believe health is everything. Our strength in healthcar
 
 ---
 
-## 54. [MAYBE] Capital One | Sr. Business Analyst - Profitability & Growth Analysis
+## 55. [MAYBE] Capital One | Sr. Business Analyst - Profitability & Growth Analysis
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Sr-Business-Analyst---Profitability---Growth-Analysis_R1005980
 - Location: 2 Locations
 - Posted: Nov 23 (board gives the date only)
@@ -1213,7 +1229,7 @@ Sr. Business Analyst - Profitability & Growth Analysis Summary: As a Senior Busi
 
 ---
 
-## 55. [MAYBE] Airbnb | Senior Machine Learning Engineer, Assistance Foundations
+## 56. [MAYBE] Airbnb | Senior Machine Learning Engineer, Assistance Foundations
 - Link: https://careers.airbnb.com/positions/8411254?gh_jid=8411254
 - Location: United States
 - Posted: Nov 23 15:18 ET
@@ -1228,7 +1244,7 @@ Airbnb was born in 2007 when two hosts welcomed three guests to their San Franci
 
 ---
 
-## 56. [MAYBE] Ohio State University | Reporting and Analytics Analyst 2 - Government Resource Center
+## 57. [MAYBE] Ohio State University | Reporting and Analytics Analyst 2 - Government Resource Center
 - Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Reporting-and-Analytics-Analyst-2---Government-Resource-Center_R162052-1
 - Location: Columbus Campus
 - Posted: Nov 23 (board gives the date only)
@@ -1243,7 +1259,7 @@ Screen reader users may encounter difficulty with this site. For assistance with
 
 ---
 
-## 57. [MAYBE] Gartner | Sr Data Analyst
+## 58. [MAYBE] Gartner | Sr Data Analyst
 - Link: https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Sr-Data-Analyst_116148
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -1258,7 +1274,7 @@ The Demand Analytics team within the Business Technology and Insights (BTI) grou
 
 ---
 
-## 58. [MAYBE] AbbVie | Sr. Data Science Analyst, Business Intelligence 
+## 59. [MAYBE] AbbVie | Sr. Data Science Analyst, Business Intelligence 
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990017038986
 - Location: Irvine CA us
 - Posted: Nov 23 12:41 ET
@@ -1273,7 +1289,7 @@ Allergan Aesthetics Commercial is on a mission to transform the aesthetics busin
 
 ---
 
-## 59. [MAYBE] Chewy | Machine Learning Engineer II
+## 60. [MAYBE] Chewy | Machine Learning Engineer II
 - Link: https://chewy.wd5.myworkdayjobs.com/External/job/Dallas-TX/Machine-Learning-Engineer-II_R31506-1
 - Location: 4 Locations
 - Posted: Nov 23 (board gives the date only)
@@ -1288,7 +1304,7 @@ Job Description: Our Opportunity: We are seeking a talented and passionate Machi
 
 ---
 
-## 60. [MAYBE] Sun Life | Senior AI Engineer
+## 61. [MAYBE] Sun Life | Senior AI Engineer
 - Link: https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/North-York-Ontario/AI-Engineer_JR00128209-1
 - Location: 3 Locations
 - Posted: Nov 23 (board gives the date only)
@@ -1303,7 +1319,7 @@ You are as unique as your background, experience and point of view. Here, you’
 
 ---
 
-## 61. [MAYBE] Truist Bank | Senior Capital Markets Risk Analyst
+## 62. [MAYBE] Truist Bank | Senior Capital Markets Risk Analyst
 - Link: https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Senior-Capital-Markets-Risk-Analyst_R0122177
 - Location: Atlanta, GA
 - Posted: Nov 23 (board gives the date only)
@@ -1318,7 +1334,7 @@ The position is described below. If you want to apply, click the Apply Now butto
 
 ---
 
-## 62. [MAYBE] Morningstar | Business Intelligence and Analytics, Senior Analyst – New York
+## 63. [MAYBE] Morningstar | Business Intelligence and Analytics, Senior Analyst – New York
 - Link: https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/New-York/Business-Intelligence-and-Analytics--Senior-Analyst---New-York_REQ-058304-1
 - Location: New York
 - Posted: Nov 23 (board gives the date only)
@@ -1333,7 +1349,7 @@ Business Intelligence and Analytics, Senior Analyst – New York The Global Stru
 
 ---
 
-## 63. [MAYBE] Ally Bank | Sr Analyst - Business Intelligence
+## 64. [MAYBE] Ally Bank | Sr Analyst - Business Intelligence
 - Link: https://ally.wd1.myworkdayjobs.com/ALLY/job/Lewisville-TX/Sr-Analyst---Business-Intelligence_R2601289
 - Location: Lewisville, TX
 - Posted: Nov 23 (board gives the date only)
@@ -1348,7 +1364,7 @@ Ally and Your Career Ally Financial only succeeds when its people do - and that�
 
 ---
 
-## 64. [MAYBE] T-Mobile | T-Ads Senior Data Scientist
+## 65. [MAYBE] T-Mobile | T-Ads Senior Data Scientist
 - Link: https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/T-Ads-Senior-Data-Scientist_REQ380631
 - Location: 3 Locations
 - Posted: Nov 23 (board gives the date only)
