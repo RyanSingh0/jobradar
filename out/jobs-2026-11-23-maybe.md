@@ -7,24 +7,30 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 1 | Analytical Mechanics Associates | AIML Research Associate | 84 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
 | 2 | Trainline | Machine Learning Engineer | 80 | none found (check myvisajobs) | Nov 23 06:57 ET |
 | 3 | JP Morgan Chase | 2027 Applied AI - HR CDAO - Summer Associate | 71 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 4 | CDW Corporation | Commercial Analyst | 70 | 8 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 5 | Airbus | Praktikum "AI Softwareentwicklung" (d/m/w) | 67 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 6 | Artefact | AI Applied Engineer – AI Engineer | 64 | none found (check myvisajobs) | Nov 22 19:17 ET |
-| 7 | US Acute Care Solutions | AI Engineer | 62 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 8 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 9 | CVS Health | Data Engineer | 57 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 10 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
-| 11 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 12 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
-| 13 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
-| 14 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
-| 15 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 16 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 17 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 18 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
-| 19 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 20 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 21 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 4 | Qube Research & Technologies | Production Support Engineer - AI & LLM | 71 | none found (check myvisajobs) | Nov 23 11:08 ET |
+| 5 | CDW Corporation | Commercial Analyst | 70 | 8 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 6 | Airbus | Praktikum "AI Softwareentwicklung" (d/m/w) | 67 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 7 | Cantor Fitzgerald | Treasury Analyst | 67 | 8 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 8 | Artefact | AI Applied Engineer – AI Engineer | 64 | none found (check myvisajobs) | Nov 22 19:17 ET |
+| 9 | US Acute Care Solutions | AI Engineer | 62 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 10 | Dallas Fort Worth International Airport | Risk Analyst | 62 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 11 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 12 | CVS Health | Data Engineer | 57 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 13 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
+| 14 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 15 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
+| 16 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
+| 17 | Simmons Bank | Loan Portfolio Analyst I | 54 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 18 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 19 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
+| 20 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 21 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 22 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 23 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
+| 24 | Prosper AI | AI Engineer | 45 | none found (check myvisajobs) | Nov 23 11:51 ET |
+| 25 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 26 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 27 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
 
 ---
 
@@ -179,7 +185,22 @@ As a Summer Associate within AI & Data Scientist in the HR Data & Analytics team
 
 ---
 
-## 4. [MAYBE] CDW Corporation | Commercial Analyst
+## 4. [MAYBE] Qube Research & Technologies | Production Support Engineer - AI & LLM
+- Link: https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8958584002
+- Location: Wrocław
+- Posted: Nov 23 11:08 ET
+- Scanner fit: ~71 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, llm, postgres, python, sql, futures, quantitative, research, risk, trading | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Qube Research &amp; Technologies (QRT) is a global quantitative and systematic investment manager, operating in all liquid asset classes across the world. We are a group driven by technology and data, implementing a scientific approach to investing. Combining data, research, technology and trading expertise has shaped our collaborative mindset, which enables us to solve the most complex challenges. QRT’s culture of innovation continuously drives our ambition to deliver high quality returns for our investors. You will work within a production support function responsible for maintaining the stability and performance of trading systems and supporting infrastructure. The role focuses on providing direct support to users, investigating system issues, and ensuring the reliability of trading workflows across multiple markets. You will interact with internal and external stakeholders to manage both trading infrastructure and supporting systems on a daily basis. Your future role within QRT Provide user support for investigation and resolution of issues impacting front office trading flows and LLM based systems Monitor and maintain trading infrastructure to ensure system availability and stability Support trading platforms across Windows and Linux environments Ensure all trading components are operational before the start of each trading day Coordinate with engineering and business teams to resolve incidents and minimise disruption Support release management processes to maintain a stable production environment Maintain and support databases and associated processes Develop tools to improve monitoring and operational visibility Contribute to the design and implementation of monitoring, dashboards and alerting solutions Participate in on call support including evening and weekend coverage when required Your present skillset Experience supporting trading systems including manual trading applications, algorithmic trading platforms, connectivity systems and risk systems Understanding of monitoring metrics and ability to analyse system data Familiarity with large language model (LLM) concepts and hosting environments Strong experience with Windows and Linux system administration Proficiency in scripting using Bash, PowerShell, Command Prompt or Python Solid experience with relational databases such as SQL Server or PostgreSQL Strong problem solving ability and ownership of issue resolution Experience working in production support roles within fast paced environments Ability to communicate effectively with technical teams and business users Experience managing expectations of traders or senior stakeholders is beneficial Knowledge of financial markets including Equities, Futures, Commodities or Foreign Exchange is beneficial Familiarity with market data systems, execution systems or algorithmic trading is beneficial QRT
+
+---
+
+## 5. [MAYBE] CDW Corporation | Commercial Analyst
 - Link: https://cdw.wd5.myworkdayjobs.com/careers/job/Manchester---GBR/Commercial-Analyst_R26_00003452-1
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -194,7 +215,7 @@ At CDW, we make it happen, together. Trust, connection, and commitment are at th
 
 ---
 
-## 5. [MAYBE] Airbus | Praktikum "AI Softwareentwicklung" (d/m/w)
+## 6. [MAYBE] Airbus | Praktikum "AI Softwareentwicklung" (d/m/w)
 - Link: https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--AI-Softwareentwicklung---d-m-w-_JR10460095
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -209,7 +230,22 @@ Job Description: Was dich erwartet Betreuung und kompetente Unterstützung durch
 
 ---
 
-## 6. [MAYBE] Artefact | AI Applied Engineer – AI Engineer
+## 7. [MAYBE] Cantor Fitzgerald | Treasury Analyst
+- Link: https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250605
+- Location: NY, United States US
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 8 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: excel, power bi, python, sql, portfolio, reporting, trading, validation | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+This is an immediate hiring need. Spring 2027 graduates will not be considered. The Treasury Analyst will join O’Connor Alternative Investments' Asset Management team, reporting to the Head of Treasury. This role is responsible for daily monitoring, reconciliation, and reporting of cash, liquidity, margin, and collateral across the investment platform. The analyst will gain exposure to prime brokerage, FCMs, banking relationships, securities financing, and regulatory reporting, building a foundation for a career in hedge‑fund treasury. Perform daily cash positioning and reconciliation across prime brokers, FCMs, custodians, and bank accounts. Monitor cash balances, expected portfolio cash flows, and prepare daily liquidity reports for the Head of Treasury. Track margin requirements, margin calls, excess cash, and collateral balances; assist with collateral movements and reconciliations. Support administration of prime broker, FCM, and banking relationships, including account maintenance and documentation. Reconcile financing and counterparty reporting; coordinate with Operations, Accounting, Trading, and external counterparties to resolve issues. Maintain and enhance recurring Treasury reports; consolidate data for regulatory filings such as Form PF. Work with large data sets from brokers and internal systems; perform data validation and analysis. Identify and implement process improvements and automation using Excel, Power Query, Power BI, or other tools. Coordinate cash movements, wires, and payments through established approval processes and investigate any breaks. Escalate significant margin, liquidity, or reconciliation issues to the Head of Treasury. 2-4 years of experience in hedge fund, alternative asset manager, prime brokerage, FCM, investment bank, or fund administration. Familiarity with cash management, settlements, margin, collateral, or prime brokerage operations. Strong Excel skills and comfort working with large data sets. Ability to perform daily reconciliations and meet tight deadlines in a fast‑paced environment. Excellent attention to detail and investigative mindset for resolving data discrepancies. Effective communication skills and ability to collaborate with Operations, Accounting, Trading, and external counterparties. Intellectual curiosity and desire to deepen knowledge of treasury, liquidity, and financing. Experience with Power Query, Power BI, SQL, Python, or AI‑enabled tools is a plus. Bachelor’s degree in Finance, Accounting, Economics, or related field (or equivalent experience). Commitment to professional growth within treasury and willingness to take on increasing analytical responsibilities. Salary: $125,000 - $150,000 + Bonus #LI-PM1
+
+---
+
+## 8. [MAYBE] Artefact | AI Applied Engineer – AI Engineer
 - Link: https://job-boards.greenhouse.io/artefactlinkedin/jobs/8957980002
 - Location: 135 W 26th Street, New York, NY 10001
 - Posted: Nov 22 19:17 ET
@@ -224,7 +260,7 @@ Join the most advanced community of AI makers. This role is in the ML &amp; AI A
 
 ---
 
-## 7. [MAYBE] US Acute Care Solutions | AI Engineer
+## 9. [MAYBE] US Acute Care Solutions | AI Engineer
 - Link: https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/AI-Prompt-Engineer_R0002412
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -239,7 +275,22 @@ Job Posting Closing Date: Open until Filled Where do you belong? Your career is 
 
 ---
 
-## 8. [MAYBE] Viridien | Machine Learning Researcher - Seismic Foundation Models
+## 10. [MAYBE] Dallas Fort Worth International Airport | Risk Analyst
+- Link: https://dfwairport.wd5.myworkdayjobs.com/External/job/Airport-Headquarters/Risk-Analyst_JR102298-1
+- Location: Airport Headquarters
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, statistic, classification, reporting, research, risk | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Overview Under general direction of the Sr Risk Management Services Manager or Sr Enterprise Risk Management Manager, performs professional-level work associated with the design, development, and implementation of a comprehensive risk management program. This position supports the greater analytics: trending of incident and claims to maintain the development of safety mgmt. training programs. It analyzes and classifies risks and loss exposures from incident and claims reports to determine appropriate risk management technique. It also supports the contract and vendor risk management analysis process, including and not limited to, reviewing indemnification language, insurance requirements, certificates of insurance and bonding requirements. What you will be doing: Supports day-to-day management of the commercial insurance program; collects and analyzes underwriting data for the annual insurance program renewal; coordinates timely renewal of insurance programs; Prepares statistical analysis and benchmarking reports as required. Supports the recovery of costs for damage to Board property; Performs claims management activities with stakeholders; Supports the claim administration of insured claims by conducting site visits and/or investigations with insurance adjusters. Performs incident reporting and claims management best practices via the RMIS to: investigate circumstances, sequence of events, determine negligence, evaluate injury or damages, and negotiates settlements. Utilizes and maintains the department’s Risk Management Information System [RMIS], including identifying improvements and enhancements to the system. Performs the greater risk analytics to: trend incident and claims to support the development of safety mgmt. training programs; classify risk and loss exposures from incident and claims reports to determine appropriate risk management techniques and offer recommendations. Assist in the preparation and development of reports for sr. management. Supports the contract and vendor risk management analysis process, including and not limited to, reviewing indemnification language, insurance requirements, certificates of insurance and bonding requirements. Participates in emergency response and disaster recovery planning, documentation, exercises and communication; Actively support the maintenance and execution of such plans. Supports AVP & Sr. Mgrs in directing the OCIP risk control program; Performs identification, research, analysis, and evaluation of potential risk or loss exposure for current and potential future act and claims management protocols where appropriate and monitors their costs. Communicates with diverse audiences to provide information and clarification regarding risk management programs, actions, policies and procedures Supports training efforts on risk management programs under the direction of Risk Sr. management. Supports any projects of greater complexity and sensitivity, under the direction of a Sr Manager, to an assigned discipline or functional area of risk management. What you need: Bachelor’s degree with major in Insurance, Finance, Accounting, Risk Management, or a related field. Three (3) years of experience in risk control (safety, claim) and risk management Any equivalent combination of education and/or experience may be substituted for the above. Possession of a Class C driver’s license. Required Knowledge, Skills, and Abilities: Ability to gather, analyze, and evaluate complex data from a wide variety of sources and develop concise related written conclusions and/or recommendations. Knowledge of multiple lines of insurance and associated case law. Knowledge of the Texas Tort Claims Act. Advanced skill in conducting investigations and required hearings. Ability to establish and maintain effective working relationships at all levels, both within and outside the organization Ability to oversee the work of external consultants/partners outside agencies Ability to manage complex projects and prioritize resources in constrained environment. Knowledge of implementing an effective Loss Prevention and Safety Training, Indoor Air Quality program, Hearing Conservation program, and methods of industrial hygiene. Knowledge of safety-related inspection, investigation and code enforcement procedures and ability to apply statutory laws and regulations regarding public health and safety. Knowledge of safety and environmental laws, regulations, and codes, including OSHA, Texas Hazard Communication Act, RCRA, SARA Title III, Clean Air Act, Texas Commission on Environmental Quality and hazardous waste handling. Strong software skills using SharePoint, MS Project, Visio, Access, Word, Excel and PowerPoint. Desirable: Master’s Degree Professional designation as a Certified Safety Professional (CSP), Certified Health Safety Professional (CHSP), Certified Industrial Hygienist (CIH), Texas Field Safety certification Associate in Risk Management (ARM), Charter Property Casualty Underwriter (CPCU), Certified Risk Management (CRM) or other equally recognized loss prevention certification equivalent. Ability to speak a language in addition to English. Special Requirement: This is a designated essential employee position as defined in the Categories and Classifications of Employees Policy of the Airport Administrative Policy and Procedure. This is defined as an employee whose attendance is required to maintain airport operations during an emergency or inclement weather situation. About Us We are Dallas Fort Worth International (DFW) Airport-one of the most successful airports in the world by any definition. We are recognized for our innovation, leadership, drive for excellence and talented employees. Our success is made possible because of the diverse talents of over 2,100 employees who champion our mission of providing an exceptional airport experience to our customers and connect our community to the world. We are looking for the best talent to join us and help reimagine what an airport can be. Bring your talents to DFW. Live and work with purpose.
+
+---
+
+## 11. [MAYBE] Viridien | Machine Learning Researcher - Seismic Foundation Models
 - Link: https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Machine-Learning-Researcher---Seismic-Foundation-Models_JR101586
 - Location: Houston, United States of America
 - Posted: Nov 22 (board gives the date only)
@@ -254,7 +305,7 @@ Viridien ( www.viridiengroup.com ) is an advanced technology, digital and Earth 
 
 ---
 
-## 9. [MAYBE] CVS Health | Data Engineer
+## 12. [MAYBE] CVS Health | Data Engineer
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R1108581-1
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -269,7 +320,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 10. [MAYBE] Clera | Founding Applied AI Engineer
+## 13. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/2d1cadd3-9212-46cf-be7d-bb220dad8710
 - Location: United States United States
 - Posted: Nov 22 12:02 ET
@@ -324,7 +375,7 @@ On-site in the United States.
 
 ---
 
-## 11. [MAYBE] Mars | Industrial Data Engineer
+## 14. [MAYBE] Mars | Industrial Data Engineer
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Ohio-Lewisburg/Industrial-Data-Engineer_R172203-2
 - Location: USA-Ohio-Lewisburg
 - Posted: Nov 22 (board gives the date only)
@@ -339,7 +390,7 @@ Job Description: Industrial Data Engineer The Industrial Data Engineer will part
 
 ---
 
-## 12. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
+## 15. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
 - Link: https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa
 - Location: San Francisco United States
 - Posted: Nov 22 12:12 ET
@@ -394,7 +445,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 13. [MAYBE] University of Miami | Research Associate 1
+## 16. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103302
 - Location: Miami, FL
 - Posted: Nov 22 (board gives the date only)
@@ -409,7 +460,37 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 14. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
+## 17. [MAYBE] Simmons Bank | Loan Portfolio Analyst I
+- Link: https://simmonsbank.wd5.myworkdayjobs.com/SimmonsCareers/job/Little-Rock-AR/Loan-Portfolio-Analyst-II_R115792
+- Location: Little Rock, AR
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, classification, credit, portfolio, research, risk | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+It's fun to work in a company where people truly BELIEVE in what they're doing! We're committed to bringing passion and customer focus to the business. Position is responsible for review and monitoring of the entire bank’s loan portfolio. Each associate is responsible for monitoring credit risk through file reviews, performing credit analysis on specific borrower, conducting data analysis on the portfolio to determine trends, risks, process flaws, etc. Function assists in ensuring all risks are identified and monitored as related to the lending function. Essential Duties and Responsibilities Review loan portfolio to determine level of credit risk. Complete analytical research on the loan portfolio include concentration analysis, stress testing, exception trends, etc. Assist in the methodology and process for calculating the allowance for loan losses. Prepare summary reports for Board and Management review Assist in the preparation of monthly asset quality reports Review and approve all change of loan status forms and complete impairment analysis as needed. Assist in monitoring and tracking of credit discounts on acquired assets. Ensures all departmental documents and activities are performed in compliance with applicable laws, regulations, policies and procedures as applicable to this position, including completion of required compliance training. Performs other duties and responsibilities as assigned. Qualifications To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Skills Ability to lead or mentor the work of others. Ability to identify and resolve problems in a timely manner and gather and analyze information skillfully. Ability to read, write, and comprehend simple instructions, procedures, business correspondence, reports, and memorandums. Ability to read and interpret documents such as procedures manuals, general business correspondence, and/or journals or government regulations. Ability to read, analyze and interpret financial reports and/or legal documents. Ability to respond in writing to customer complaints, regulatory agencies or members of the business community. Ability to speak effectively and present information, in one-on-one and small group situations to customers, clients, and other employees in the organization. Education and/or Experience BS/BA degree required, and One to two years of relevant work experience. Computer Skills MS Office programs Other internal bank programs Other Qualifications (including physical requirements) Must understand financial statements Equal Employment Opportunity Information: Simmons First National Corporation and its subsidiaries are committed to a policy of equal employment with respect to a person's race, color, religion, sex, ancestry, sexual orientation, gender identity, national origin, covered veterans, military status, physical or mental disability or any other legally protected classifications.
+
+---
+
+## 18. [MAYBE] University of Miami | Research Associate 1
+- Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103321
+- Location: Miami, FL
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, statistic, data quality, publication, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Current Employees: If you are a current Staff, Faculty or Temporary employee at the University of Miami, please click here to log in to Workday to use the internal application process. To learn how to apply for a faculty or staff position, please review this tip sheet . The University of Miami/UHealth Department of Psychiatry has an exciting opportunity for a full time Research Associate 1 to work in Miami, FL. The Research Associate 1 supports the Happy Older People are Engaged (HOP_HIV) health promotion study. The associate delivers the HOPE intervention and the healthy lifestyles education, recruits participants, and administers study assessment batteries. The associate maintains regular participant contact and receives weekly group supervision from the principal investigator (PI). Core responsibilities: Understands and interprets research protocols and procedures. Participates in the publication of significant results. Maintains an overview of relevant research findings. Ensures all research is undertaken according to good research practice. Keeps abreast of current publications relative to methods, techniques, and developments within the area of research. Collects, prepares, analyzes, dissects, and evaluates specimens or tissue cultures. Operates and maintains laboratory equipment. Performs a variety of routine assays, tests, and studies. Performs calculations to complete research test results, collects data, and performs statistical analysis of laboratory results. Adheres to University and unit-level policies and procedures and safeguards University assets. Department Specific Functions: Deliver the HOPE intervention and the healthy lifestyles education control according to participants’ assigned study conditions and approved study procedures. Recruit participants and administer study assessment batteries according to the approved protocol. Record assessment completion and flag missing or incomplete information. Document daily activities, track participant contacts, and communicate regularly with participants to support engagement and adherence. Provide participant updates during weekly group supervision with the PI and participate in weekly clinical review meetings to discuss participant progress. Represent the program at internal and external meetings and assist with promotional, educational, and outreach activities. Contribute to reports, manuscripts, and presentations. Assist with sharing study findings through partnerships with organizations serving older adults with HIV in Miami-Dade County. Learn and follow approved study procedures, maintain study materials, and bring protocol, safety, and data quality concerns to the study team. Review relevant research literature and stay current on study procedures through training and supervision. Protect confidential participant information, follow University and departmental policies, and safeguard University assets. This list of duties and responsibilities is not intended to be all-inclusive and may be expanded to include other duties or responsibilities as necessary. Core Qualifications: Bachelor’s degree in relevant field required No previous experience required Certification and Licensing: Refer to department description for applicable certification requirements Learning Agility: Ability to learn new procedures, technologies, and protocols, and adapt to changing priorities and work demands. Teamwork: Ability to work collaboratively with others and contribute to a team environment. Technical Proficiency: Skilled in using office software, technology, and relevant computer applications. Communication: Strong and clear written and verbal communication skills for interacting with colleagues and stakeholders. The University of Miami offers competitive salaries and a comprehensive benefits package including medical, dental, tuition remission and more. UHealth-University of Miami Health System, South Florida's only university-based health system, provides leading-edge patient care powered by the ground breaking research and medical education at the Miller School of Medicine. As an academic medical center, we are proud to serve South Florida, Latin America and the Caribbean. Our physicians represent more than 100 specialties and sub-specialties, and have more than one million patient encounters each year. Our tradition of excellence has earned worldwide recognition for outstanding teaching, research and patient care. We're the challenge you've been looking for. The University of Miami
+
+---
+
+## 19. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
 - Link: https://jobs.ashbyhq.com/openai/6785d983-8831-46d0-9c81-443f83664948
 - Location: San Francisco United States
 - Posted: Nov 22 12:20 ET
@@ -486,7 +567,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 15. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
+## 20. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810780
 - Location: Jacksonville, FL, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -501,7 +582,7 @@ DESCRIPTION Duties: Work with Product and Data Owners, Technology, and Design Pa
 
 ---
 
-## 16. [MAYBE] Invesco | Quantitative Analyst
+## 21. [MAYBE] Invesco | Quantitative Analyst
 - Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Quantitative-Analyst_R-15895-1
 - Location: New York, New York
 - Posted: Nov 22 (board gives the date only)
@@ -516,7 +597,7 @@ About Invesco As one of the world’s leading independent global investment firm
 
 ---
 
-## 17. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
+## 22. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
 - Link: https://uscareeropenings-alliancelaundry.icims.com/jobs/14271/data-analyst-%28sourcing%29/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -531,7 +612,7 @@ Data Analyst (Sourcing) in Ripon, Wisconsin | Careers at Alliance Laundry System
 
 ---
 
-## 18. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
+## 23. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
 - Link: https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445
 - Location: San Francisco United States
 - Posted: Nov 22 12:14 ET
@@ -588,7 +669,64 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 19. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
+## 24. [MAYBE] Prosper AI | AI Engineer
+- Link: https://jobs.ashbyhq.com/prosper-ai/fc1781c3-3fee-47f6-bf76-c5e2a6357eaf
+- Location: Barcelona Spain remote
+- Posted: Nov 23 11:51 ET
+- Scanner fit: ~45 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: llm, ai agent, healthcare, pipeline | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About Prosper AI
+
+Prosper is building the most advanced conversational AI agents for healthcare — human-like phone agents that handle the administrative work draining the system: claims status checks, benefit verification, prior authorizations, patient scheduling, and balance reminders. Our mission is to eliminate $200B in administrative waste so healthcare professionals can focus more on healing and less on paperwork.
+
+Headquartered in New York with an office in Barcelona, we work with dozens of large and enterprise healthcare organizations, and we've raised $35M from top investors including a16z, Base10, YC, and Emergence. We're a highly motivated team of 40 — ex-MIT, HBS, Bain, and Math/CS/Physics olympiad medalists — and as we prepare for our next stage of growth, we're looking for ambitious, exceptionally talented people to help scale our product and grow with us.
+
+
+
+What you'll do
+
+At Prosper, we’re pushing the limits of what’s possible with real-time AI. We’re not just making voice agents that “talk”, we’re engineering systems that sound human, reason under strong latency constraints, and adapt instantly to messy, high-stakes healthcare conversations. As a Software Engineer, you’ll be at the center of designing and scaling our platform, the low-latency speech/LLM pipelines, orchestration layers, and reliability systems that make this possible.
+
+This is a full-time role in Barcelona office with the possibility to move to the New York office.
+
+
+
+What we're looking for
+
+ - 2+ years of experience building products end-to-end, from architecting solutions to deploying production-grade software.
+
+ - Experience managing distributed systems with asynchronous workload orchestration.
+
+ - Familiarity with LLMs, AI agents or other ML models is a plus. We use Pipecat for our voice agents.
+
+ - Founder mindset: ownership + hard work. You see Prosper as a learning step for your future startup.
+
+ - Be ready to handle the challenges of deploying AI voice agents to thousands of daily phone calls.
+
+ - Bachelor’s or Master’s degree in Computer Science, Engineering, Maths, Physics or related field (or equivalent experience).
+   
+   
+
+Interviewing Process
+
+ 1. Initial conversation to understand who you are, what you want to do, and where you wanna go (30 minutes)
+
+ 2. Work on a take-home challenge to discuss in the following interview
+
+ 3. Review your solution with a couple of engineers from the team (60 minutes)
+
+ 4. Talk with the co-founder (60 minutes)
+
+ 5. Offer stage
+
+---
+
+## 25. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
 - Link: https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Golbey/Stage---Dveloppement-de-modles-d-AI-ML-appliqus-aux-changeurs--plaques-et-ailettes-brases-en-aluminium-H-F_JR0049556
 - Location: Golbey
 - Posted: Nov 22 (board gives the date only)
@@ -603,7 +741,7 @@ Chez Alfa Laval Golbey, nous concevons et fabriquons des échangeurs thermiques 
 
 ---
 
-## 20. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
+## 26. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
 - Link: https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/HSS-Kellen-Tower/Research-Assistant-I_JR2026-106937
 - Location: HSS Kellen Tower
 - Posted: Nov 22 (board gives the date only)
@@ -618,7 +756,7 @@ How you move is why we’re here. ® Now more than ever. Get back to what you ne
 
 ---
 
-## 21. [MAYBE] Gartner | Sr Data Analyst
+## 27. [MAYBE] Gartner | Sr Data Analyst
 - Link: https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Sr-Data-Analyst_116148
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
