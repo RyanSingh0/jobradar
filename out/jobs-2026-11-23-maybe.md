@@ -6,46 +6,56 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 |---|---|---|---|---|---|
 | 1 | Analytical Mechanics Associates | AIML Research Associate | 84 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
 | 2 | Trainline | Machine Learning Engineer | 80 | none found (check myvisajobs) | Nov 23 06:57 ET |
-| 3 | JP Morgan Chase | 2027 Applied AI - HR CDAO - Summer Associate | 71 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 4 | Qube Research & Technologies | Production Support Engineer - AI & LLM | 71 | none found (check myvisajobs) | Nov 23 11:08 ET |
-| 5 | CDW Corporation | Commercial Analyst | 70 | 8 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 6 | Albertsons | Financial Analyst, FP&A | 70 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 7 | Airbus | Praktikum "AI Softwareentwicklung" (d/m/w) | 67 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 8 | Cantor Fitzgerald | Treasury Analyst | 67 | 8 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 9 | Artefact | AI Applied Engineer – AI Engineer | 64 | none found (check myvisajobs) | Nov 22 19:17 ET |
-| 10 | US Acute Care Solutions | AI Engineer | 62 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 11 | Dallas Fort Worth International Airport | Risk Analyst | 62 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 12 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 13 | CVS Health | Data Engineer | 57 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 14 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
-| 15 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 16 | Envista | Legal Data Analyst | 55 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 17 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
-| 18 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
-| 19 | Simmons Bank | Loan Portfolio Analyst I | 54 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 20 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 21 | Amentum | Data Analyst | 54 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 22 | Medical College of Wisconsin | Research Scientist I - Biophysics | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 23 | Yale University | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 24 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
-| 25 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 26 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 27 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 28 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
-| 29 | Prosper AI | AI Engineer | 45 | none found (check myvisajobs) | Nov 23 11:51 ET |
-| 30 | Exponent | Title Research Assistant | 45 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 31 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 32 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 33 | Koddi | Associate Digital Marketing Analyst | 44 | 3 in data/analytics/finance occupations | Nov 23 12:58 ET |
-| 34 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 35 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 36 | Moffitt Cancer Center | Research Associate 1 | 40 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 37 | John Wiley & Sons | Senior Data Scientist (NLP & Applied AI) | 70 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 38 | Johnson & Johnson | Sr Scientist Data Science | 67 | 11 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 39 | Capital One | Sr. Business Analyst - Profitability & Growth Analysis | 62 | 458 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 40 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 41 | AbbVie | Sr. Data Science Analyst, Business Intelligence  | 55 | 96 in data/analytics/finance occupations | Nov 23 12:41 ET |
-| 42 | Chewy | Machine Learning Engineer II | 55 | 107 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 3 | NBCUniversal | Analyst, Tech Compliance & Assurance | 76 | 15 in data/analytics/finance occupations | Nov 23 15:02 ET |
+| 4 | JP Morgan Chase | 2027 Applied AI - HR CDAO - Summer Associate | 71 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 5 | Qube Research & Technologies | Production Support Engineer - AI & LLM | 71 | none found (check myvisajobs) | Nov 23 11:08 ET |
+| 6 | Live Nation Entertainment | Managed Pricing Analyst | 71 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 7 | CDW Corporation | Commercial Analyst | 70 | 8 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 8 | Albertsons | Financial Analyst, FP&A | 70 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 9 | Dentsu | Product, Business Analyst | 68 | 12 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 10 | Airbus | Praktikum "AI Softwareentwicklung" (d/m/w) | 67 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 11 | Cantor Fitzgerald | Treasury Analyst | 67 | 8 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 12 | Artefact | AI Applied Engineer – AI Engineer | 64 | none found (check myvisajobs) | Nov 22 19:17 ET |
+| 13 | US Acute Care Solutions | AI Engineer | 62 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 14 | Dallas Fort Worth International Airport | Risk Analyst | 62 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 15 | Graham Capital Management | Portfolio Analyst, Global Macro | 62 | 9 in data/analytics/finance occupations | Nov 23 14:44 ET |
+| 16 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 17 | CVS Health | Data Engineer | 57 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 18 | PennState University | Tseng Banaszak 26-27 Part Time Research Assistant | 57 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 19 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
+| 20 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 21 | Envista | Legal Data Analyst | 55 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 22 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
+| 23 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
+| 24 | Simmons Bank | Loan Portfolio Analyst I | 54 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 25 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 26 | Amentum | Data Analyst | 54 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 27 | Medical College of Wisconsin | Research Scientist I - Biophysics | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 28 | Yale University | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 29 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
+| 30 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 31 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 32 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 33 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
+| 34 | Prosper AI | AI Engineer | 45 | none found (check myvisajobs) | Nov 23 11:51 ET |
+| 35 | Exponent | Title Research Assistant | 45 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 36 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 37 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 38 | Wash U | Statistical Data Analyst - Genetics | 45 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 39 | Washington University in St. Louis | Statistical Data Analyst - Genetics | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 40 | Koddi | Associate Digital Marketing Analyst | 44 | 3 in data/analytics/finance occupations | Nov 23 12:58 ET |
+| 41 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 42 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 43 | Moffitt Cancer Center | Research Associate 1 | 40 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 44 | John Wiley & Sons | Senior Data Scientist (NLP & Applied AI) | 70 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 45 | Johnson & Johnson | Sr Scientist Data Science | 67 | 11 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 46 | Capital One | Sr. Business Analyst - Profitability & Growth Analysis | 62 | 458 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 47 | Ohio State University | Reporting and Analytics Analyst 2 - Government Resource Center | 57 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 48 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 49 | AbbVie | Sr. Data Science Analyst, Business Intelligence  | 55 | 96 in data/analytics/finance occupations | Nov 23 12:41 ET |
+| 50 | Chewy | Machine Learning Engineer II | 55 | 107 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 51 | Sun Life | Senior AI Engineer | 55 | 6 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 52 | Truist Bank | Senior Capital Markets Risk Analyst | 55 | 99 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
 
 ---
 
@@ -185,7 +195,22 @@ Interested in finding out more about what it's like to work at Trainline? Why no
 
 ---
 
-## 3. [MAYBE] JP Morgan Chase | 2027 Applied AI - HR CDAO - Summer Associate
+## 3. [MAYBE] NBCUniversal | Analyst, Tech Compliance & Assurance
+- Link: https://jobs.smartrecruiters.com/NBCUniversal3/744000163309760
+- Location: New York NEW YORK us remote
+- Posted: Nov 23 15:02 ET
+- Scanner fit: ~76 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 15 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, dashboard, excel, gcp, power bi, tableau, data quality, git, kubernetes, pipeline, reporting, research, risk | Lacks: -  | Note: broad title
+- Eligibility: CHECK | Must have unrestricted work authorization to work in the United States. / This position is eligible for company sponsored benefits, including medical, dental and vision insurance, 401(k), paid leave, tuition reimbursement, and a variety of other discounts and perks.
+
+### Job description
+
+The Media Group at NBCU supports a powerhouse collection of consumer-first brands including Peacock, NBC, Bravo, NBC Sports, and NBCU International. With unequalled scale, our teams make the most out of every opportunity to collaborate and learn from one another. We’re always looking for ways to innovate faster, accelerate our growth and consistently offer the very best in consumer experience. But most of all, we’re backed by a culture of respect. We embrace authenticity and inspire people to thrive. The Analyst, Technology Compliance and Assurance will join the Technology Governance and Operational Intelligence team, supporting programs and initiatives across technology compliance, assurance, business continuity, and operational resilience. In this role, you will partner with engineering, technology operations, cybersecurity, and business teams to assess technical controls, identify risk, support continuity and resilience planning, and improve the processes and technologies used to manage compliance and assurance activities. You will have the opportunity to work across a broad technology environment, investigate complex issues, analyze data and technical evidence, and help translate compliance and resilience requirements into practical solutions. This role is well suited for someone who is technically curious, analytical, comfortable learning new technologies, and motivated to take ownership of work from initial research through completion. Job Responsibilities Support technology compliance and assurance activities across SOX, SOC 2, PCI DSS, and other applicable regulatory, security, and internal control requirements. Evaluate technical control implementations and supporting evidence, identify gaps or inconsistencies, and partner with stakeholders to develop practical remediation approaches. Research and interpret technical compliance requirements and translate them into actionable processes, controls, procedures, and operational guidance. Analyze compliance findings, risks, and remediation activities and develop reporting that provides visibility into compliance posture, trends, and progress. Partner with engineering, cybersecurity, technology operations, and business teams on control implementation, assessment, remediation, and continuous improvement. Support reviews of third-party assurance documentation, including SOC reports and security documentation. Support business continuity and operational resilience activities, including business impact analyses, technical continuity planning, recovery strategy assessments, and annual program activities. Identify business and technology dependencies, recovery requirements, and operational risks and help ensure continuity documentation remains accurate and complete. Assist with the development and execution of tabletop and continuity exercises, including scenario research, exercise design, stakeholder coordination, facilitation support, and tracking of improvement opportunities. Identify opportunities to simplify compliance and continuity processes, reduce manual effort, improve data quality, and increase operational efficiency. Support the development, configuration, testing, and ongoing improvement of LogicGate workflows and applications supporting compliance and business continuity programs. Research and evaluate technologies and automation opportunities that improve compliance monitoring, evidence collection, data analysis, reporting, and program execution. Analyze program data to identify trends, discrepancies, risks, and improvement opportunities and develop dashboards and reports that provide actionable insights. Independently manage assigned initiatives and deliverables, establish and track milestones, resolve issues, and communicate risks, dependencies, or delays. Develop clear documentation, standard operating procedures, process guidance, FAQs, and other materials supporting compliance and continuity programs. Support the Compliance Compass communications program by researching technology and compliance topics and translating requirements into clear, practical guidance for technology teams. Prepare presentations, reports, and communications for technical teams, business stakeholders, and leadership. Bachelor's degree in information technology, computer science, cybersecurity, information systems, engineering, business, or a related field, or equivalent relevant professional experience. 2+ years of relevant experience in technology, IT operations, software development, cybersecurity, technology compliance, risk management, operational resilience, or a related discipline. Demonstrated technical aptitude and foundational knowledge of software applications, infrastructure, cloud technologies, software development, cybersecurity, or IT operations. Strong analytical and problem-solving skills, with demonstrated ability to investigate issues, evaluate information, identify inconsistencies, and develop practical recommendations. Demonstrated ability to independently manage assignments, organize priorities, and follow through on deliverables. Experience using Excel, Power BI, or comparable analytical and reporting tools to organize, reconcile, analyze, and present data. Strong written and verbal communication skills with the ability to communicate technical concepts, findings, and requirements to technical and nontechnical audiences. Ability to learn unfamiliar technologies, business processes, compliance requirements, and software tools quickly. Skills & Experience We Are Looking For Hands-on experience or demonstrated familiarity with cloud platforms, software development environments, source code management, CI/CD pipelines, or infrastructure technologies such as AWS, GCP, GitHub, Jenkins, or Kubernetes. Experience assessing or implementing technical controls associated with SOX, SOC 2, PCI DSS, ISO 27001, or comparable control frameworks. Experience supporting business continuity planning, business impact analyses, disaster recovery, technology recovery, or operational resilience programs. Experience with workflow automation, scripting, data analysis, reporting, or visualization using tools such as Power BI, Tableau, or Excel. Experience with governance, risk, and compliance platforms such as LogicGate or comparable workflow and GRC technologies. Graduate coursework or an advanced degree in cybersecurity, computer science, information systems, engineering, or a related discipline. Relevant professional certifications such as CISA, Security+, CISSP, CBCP, or comparable technology, security, audit, or resilience certifications. Experience working in digital media, streaming, direct-to-consumer, or other technology-intensive environments. Intellectual curiosity and a strong interest in understanding how technologies, systems, and processes work. An analytical and investigative approach, including the ability to assess the quality of information, recognize discrepancies, identify underlying issues, and reach well-suppor [...]
+
+---
+
+## 4. [MAYBE] JP Morgan Chase | 2027 Applied AI - HR CDAO - Summer Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549
 - Location: New York, NY, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -200,7 +225,7 @@ As a Summer Associate within AI & Data Scientist in the HR Data & Analytics team
 
 ---
 
-## 4. [MAYBE] Qube Research & Technologies | Production Support Engineer - AI & LLM
+## 5. [MAYBE] Qube Research & Technologies | Production Support Engineer - AI & LLM
 - Link: https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8958584002
 - Location: Wrocław
 - Posted: Nov 23 11:08 ET
@@ -215,7 +240,22 @@ Qube Research &amp; Technologies (QRT) is a global quantitative and systematic i
 
 ---
 
-## 5. [MAYBE] CDW Corporation | Commercial Analyst
+## 6. [MAYBE] Live Nation Entertainment | Managed Pricing Analyst
+- Link: https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Work-From-Home---California---Los-Angeles/Managed-Pricing-Analyst_JR-94110-1
+- Location: Work From Home - California - Los Angeles
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~71 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time (40 h/week stated)
+- Title scope: core | Has: aws, dashboard, data visualization, excel, forecast, classification, kpi, portfolio, quantitative, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Summary: JOB DESCRIPTION – PRICING ANALYST Location: Beverly Hills, CA Division: Ticketmaster NA - Global Sales Operations (Revenue & Demand Management) Line Manager: Manager, Managed Pricing Services Contract Terms: Permanent, Full-Time, 40 hours per week THE TEAM Ticketmaster’s Pricing & Distribution team is an industry leading product and service provider focused on unlocking the ability for our clients to sell their products to the right customers at the right time and channel in ways that maximize yield via data driven revenue and demand optimization. THE JOB We are looking for a self-motivated, hardworking, team player to manage a portfolio of live event tickets. This role is critical to the success of our clients as you will help create and execute/implement the pricing strategy of our client’s ticket inventory. In this role, you will utilize our products, tools and reporting to analyze many different variables to determine the proper price and sales velocity for our client’s inventory. In addition, you will be directly communicating your findings to clients and management. WHAT YOU WILL BE DOING Create a pricing plan that is structured to achieve client goals. Analyze sales and demand data to identify trends and recommend pricing strategies. Own and track KPIs, including revenue, sell-through, margin percentage, and conversion rate, to evaluate personal and client event performance. Maintain a pricing schedule ensure all work is completed on time and at the proper cadence. Communicate and work with clients, internal teams and external marketplaces to resolve operational issues. Monitor real-time sales and market data to adjust pricing strategies and ensure client goals. Build and develop relationship with key external stakeholders. Create and present data driven power point decks to update clients on a weekly basis. Create visualizations and maintain dashboards using Domo/Data Visualization Tools. External and Internal Ad Hoc Requests. WHAT YOU NEED TO KNOW (or TECHNICAL SKILLS) Bachelor’s Degree in economics, Business Administration, Finance, or quantitative related field. Minimum 2+ years in an analytical role. Experience in ticketing, sports, or entertainment industry is a plus! Demonstrated experience in creating sales models and forecasts. Experience using AI tools to streamline reporting, summarize performance data, or automate workflows is a plus. Proficiency using Excel and PowerPoint. Experience in data analytics is a bonus! YOU (BEHAVIORAL SKILLS) Solid communication skills and be able to understand data and communicate your findings to management and external stakeholders. Must have flexible schedule with the ability to work nights, weekends and holidays. Proven ability to pay close attention to detail to ensure accuracy of data entry. BENEFITS & PERKS Through our ‘Taking Care of Our Own’ program, we provide benefits across six key pillars: HEALTH : Medical, vision, dental and mental health benefits for you and your family, with access to a health care concierge, and Flexible or Health Savings Accounts (FSA or HSA) YOURSELF : Free concert tickets, generous paid time off including paid holidays, sick time, and personal days WEALTH : 401(k) program with company match, stock reimbursement program FAMILY : New parent programs including caregiver leave, plus fertility, adoption, foster, or surrogacy support CAREER : Career and skill development programs with School of Live, tuition reimbursement, and student loan repayment OTHERS : Volunteer time off, crowdfunding match LIFE AT TICKETMASTER We are proud to be a part of Live Nation Entertainment, the world’s largest live entertainment company. Our mission at Ticketmaster is to connect people around the world to the live events they love. Ticketmaster is the world’s largest ticket marketplace and the global market leader in live event ticketing products and services. Through official partnerships with thousands of venues, artists, sports teams, festivals, performing arts centers and theaters, Ticketmaster processes 550 million tickets per year across 35+ different countries. We do it all with an intense passion for Live and an inspiring and diverse culture driven by accessible leaders, attentive managers, and enthusiastic teams. If you’re passionate about live entertainment like we are, and you want to work at a company dedicated to helping millions of fans experience it, we want to hear from you. Our work is guided by our values: Reliability - Fans and clients count on us to power their live event experiences and we rely on each other to make it happen. Teamwork – While we celebrate individual achievements, we know have more success as a team. Integrity - We are committed to the highest moral and ethical standards on behalf of the countless partners and stakeholders we represent. Belonging - We are committed to building a culture in which all people can be their authentic selves, have an equal voice and opportunities to thrive. EQUAL EMPLOYMENT OPPORTUNITY We aspire to build teams that reflect and support the fans and artists we serve. Every day we aim to promote environments where everyone can be themselves, contribute fully, and thrive within our company and at our events. As a growing business we will encourage you to develop your professional and personal aspirations, enjoy new experiences, and learn from the talented people you will be working with. Ticketmaster strongly supports equal employment opportunity for all applicants regardless of age (40 and over), ancestry, color, religious creed (including religious dress and grooming practices), family and medical care leave or the denial of family and medical care leave, mental or physical disability (including HIV and AIDS), marital status, domestic partner status, medical condition (including cancer and genetic characteristics), genetic information, military and veteran status, political affiliation, national origin (including language use restrictions), citizenship, race, sex (including pregnancy, childbirth, breastfeeding and medical conditions related to pregnancy, childbirth or breastfeeding), gender, gender identity, and gender expression, sexual orientation, intersectionality, or any other basis protected by applicable federal, state or local law, rule, ordinance or regulation. We will consider qualified applicants with criminal histories in a manner consistent with the requirements of the Los Angeles Fair Chance Ordinance, San Francisco Fair Chance Ordinance and the California Fair Chance Act and consistent with other similar and / or applicable laws in other areas. We also afford equal employment opportunities to qualified individuals with a disability. For this reason, Ticketmaster will make
+
+---
+
+## 7. [MAYBE] CDW Corporation | Commercial Analyst
 - Link: https://cdw.wd5.myworkdayjobs.com/careers/job/Manchester---GBR/Commercial-Analyst_R26_00003452-1
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -230,7 +270,7 @@ At CDW, we make it happen, together. Trust, connection, and commitment are at th
 
 ---
 
-## 6. [MAYBE] Albertsons | Financial Analyst, FP&A
+## 8. [MAYBE] Albertsons | Financial Analyst, FP&A
 - Link: https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/796632
 - Location: Boise, ID, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -245,7 +285,22 @@ Prior to applying it is required that you inform your manager of your desire to 
 
 ---
 
-## 7. [MAYBE] Airbus | Praktikum "AI Softwareentwicklung" (d/m/w)
+## 9. [MAYBE] Dentsu | Product, Business Analyst
+- Link: https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/USA-Remote-Arkansas/Product--Business-Analyst_R1111300
+- Location: USA-Remote-Arkansas
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~68 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 12 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, dashboard, excel, spark, sql, reporting, risk, validation | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Description: We are looking for a Product, Business Analyst who brings expertise in business requirements, process documentation, stakeholder facilitation, and platform implementation support. This role serves as a critical bridge between business stakeholders, delivery teams, and product leadership, translating business needs into clear, actionable requirements and supporting the successful delivery of platform enhancements and implementations. This is a cross-functional role suited for someone who thrives in varied technical and business environments, brings structure to ambiguity, and is comfortable working across discovery, documentation, validation, and implementation readiness. At its core, the role is about thinking through how each capability should work, defining the business rules, logic, edge cases, and dependencies that turn product vision into clear, build-ready requirements. The ideal candidate is highly organized, detail-oriented, collaborative, and able to ensure that stakeholder needs are clearly understood, documented, and carried through to delivery. Key Responsibilities Requirements Gathering & Documentation Attend discovery sessions with business stakeholders to elicit, analyze, and document functional and non-functional requirements for platform implementations, enhancements, and operational workflows. Translate complex business needs into clear user stories, process flows, use cases, business rules, and BRD/FRD documentation, working with Product Owners to define how the application should behave across primary paths and edge cases. Maintain a living requirements repository with traceability from business need through requirements, user stories, acceptance criteria, validation, and delivered solution. Identify gaps between current platform capabilities and business requirements and work with Product Owner to document well-reasoned options for stakeholder review. Attend workshops, walkthroughs, and validation sessions to confirm scope, business rules, workflows, and expected outcomes. Work with the platform team to document workflows, configurations, dependencies, data inputs and outputs, and system behaviors as they evolve. Ensure requirements are clear, complete, testable, and aligned to approved objectives before they enter delivery. Work with Product Owner to create and maintain tickets, user stories, epics, and acceptance criteria based on approved priorities. Backlog & Delivery Support Prepare stories and tickets for refinement by ensuring each carries sufficient business context, requirements detail, acceptance criteria, and dependencies. Clarify open questions and resolve requirements ambiguity for product and engineering teams throughout delivery. Track requirement changes, assumptions, risks, and dependencies across the delivery lifecycle, and surface open decisions and recommendations for resolution. Identify recurring stakeholder pain points, process gaps, and documentation needs, and share them as structured inputs to inform roadmap and prioritization decisions. Platform Implementation Support Document current-state and future-state workflows, business rules, configuration needs, and stakeholder impacts. Support configuration discussions by documenting requirements for fields, workflows, permissions, reporting, and data dependencies. Develop training materials, process documentation, onboarding guides, and SOPs to support platform adoption and ongoing use. Surface risks, blockers, and unresolved questions early, and help coordinate resolution across stakeholders, product, and delivery teams. UAT, Validation & Post-Release Support Maintain UAT documentation, issue logs, sign-off materials, and go-live readiness checklists. Capture post-release feedback on adoption, process impact, support trends, and documentation gaps, and share structured findings to inform future enhancements and process improvements. Requirements: Bachelor's degree in Business Administration, Information Systems, Computer Science, Operations, Analytics, or a related field. 2+ years of experience as a Business Analyst, Business Systems Analyst, Product Analyst, or similar role in a cross-functional, media technology-driven environment. Proven ability to gather, analyze, and document requirements across complex, multi-stakeholder environments. Strong experience writing user stories, acceptance criteria, BRDs, FRDs, process maps, use cases, workflow diagrams, and functional specifications. Experience supporting Agile/Scrum delivery teams through requirements clarification, backlog refinement, sprint planning input, UAT, and implementation support. Experience supporting software, platform, workflow, or internal tool implementations, including UAT, go-live readiness, training, and documentation. Excellent facilitation and communication skills, with the ability to work effectively with business stakeholders, product leaders, engineers, operations teams, and senior stakeholders. Proficiency with tools such as Jira, Confluence, Lucidchart, Visio, Miro, or equivalent. Strong written communication skills, with the ability to document clearly and collaborate asynchronously in a remote-first team. Nice to Have Familiarity with data reporting, dashboards, analytics workflows, or operational reporting requirements. Prior client-facing implementation or stakeholder-facing delivery experience. Familiarity with SQL or basic data querying for requirements validation. Experience documenting workflows for platform operations, internal tools, or enterprise systems. At dentsu, we believe great work happens when we’re connected. Our hybrid way of working combines remote flexibility with regular in-person collaboration to spark ideas and strengthen our teams. Many of our employees who live within commuting distance (90 minutes) from one of our Headquarter or Hub Offices (New York, Chicago, Detroit, Los Angeles) are required to work in the office 2-3 days per week including one Team Day. The minimum number of days may vary by office and role. Dentsu may designate other HQ or Hub offices at any time. Those who do not live near an office may be designated as a remote employee, depending on the role and business needs. Regardless of your work location, we expect you to be flexible to meet the needs of our Company and clients, which may include attendance in an office from time to time. The annual salary range for this position is $51,000-$60,000. Placement within the salary range is based on a variety of factors, including relevant experience, knowledge, skills, and other factors permitted by law. Benefits available with this position include: • Medical, vision, and dental insurance, • Life insurance, • Short-term and long-term disability insurance, • 401k, • Flexible paid time off, • At least 15 paid holidays per year, • Paid sick and safe leave, and • Paid parental leave. Dentsu also complies with applicable state and local laws regarding employee leave benefits, including, but not lim [...]
+
+---
+
+## 10. [MAYBE] Airbus | Praktikum "AI Softwareentwicklung" (d/m/w)
 - Link: https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--AI-Softwareentwicklung---d-m-w-_JR10460095
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -260,7 +315,7 @@ Job Description: Was dich erwartet Betreuung und kompetente Unterstützung durch
 
 ---
 
-## 8. [MAYBE] Cantor Fitzgerald | Treasury Analyst
+## 11. [MAYBE] Cantor Fitzgerald | Treasury Analyst
 - Link: https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250605
 - Location: NY, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -275,7 +330,7 @@ This is an immediate hiring need. Spring 2027 graduates will not be considered. 
 
 ---
 
-## 9. [MAYBE] Artefact | AI Applied Engineer – AI Engineer
+## 12. [MAYBE] Artefact | AI Applied Engineer – AI Engineer
 - Link: https://job-boards.greenhouse.io/artefactlinkedin/jobs/8957980002
 - Location: 135 W 26th Street, New York, NY 10001
 - Posted: Nov 22 19:17 ET
@@ -290,7 +345,7 @@ Join the most advanced community of AI makers. This role is in the ML &amp; AI A
 
 ---
 
-## 10. [MAYBE] US Acute Care Solutions | AI Engineer
+## 13. [MAYBE] US Acute Care Solutions | AI Engineer
 - Link: https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/AI-Prompt-Engineer_R0002412
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -305,7 +360,7 @@ Job Posting Closing Date: Open until Filled Where do you belong? Your career is 
 
 ---
 
-## 11. [MAYBE] Dallas Fort Worth International Airport | Risk Analyst
+## 14. [MAYBE] Dallas Fort Worth International Airport | Risk Analyst
 - Link: https://dfwairport.wd5.myworkdayjobs.com/External/job/Airport-Headquarters/Risk-Analyst_JR102298-1
 - Location: Airport Headquarters
 - Posted: Nov 23 (board gives the date only)
@@ -320,7 +375,22 @@ Job Overview Under general direction of the Sr Risk Management Services Manager 
 
 ---
 
-## 12. [MAYBE] Viridien | Machine Learning Researcher - Seismic Foundation Models
+## 15. [MAYBE] Graham Capital Management | Portfolio Analyst, Global Macro
+- Link: https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4757937005?gh_jid=4757937005
+- Location: New York, New York, United States
+- Posted: Nov 23 14:44 ET
+- Scanner fit: ~62 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 9 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, classification, fx, healthcare, portfolio, quantitative, research, risk, trading | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Graham Capital Management, L.P. (collectively with its affiliates, "Graham") is an alternative investment manager founded in 1994 by Kenneth G. Tropin. Specializing in discretionary and quantitative macro strategies, Graham is dedicated to delivering strong, uncorrelated returns across a wide range of market environments. As one of the industry’s longest-standing global macro and trend-following managers, Graham remains committed to innovation, evolving its strategies through a robust investment, technology, and operational infrastructure. Graham harnesses the synergies between its discretionary and quantitative trading businesses to offer a broad suite of complementary alpha strategies, each built on the principles of thoughtful portfolio construction, active risk management, and diversification by design. Graham invests significant proprietary capital alongside its clients – including global institutions, endowments, foundations, family offices, sovereign wealth funds, investment management advisors, and qualified individual investors – reinforcing alignment of interests across all strategies. The foundation of Graham’s sustainability and success is the experience and contributions of its people. The firm seeks to cultivate talent, encourage the diversity of ideas, and respect the contributions of all. In turn, each employee shares in the responsibility of strengthening those around them. Description Graham is seeking a Portfolio Analyst to join our Portfolio Management team. The analyst will sit on the trading floor, working alongside a Global Macro PM in all aspects of trading and portfolio management. The ideal candidate possesses experience in trading, quantitative analysis, and fundamental research; exposure to fixed income, FX, macroeconomics, or equities is a plus. The candidate will be able to grow into an assistant PM role with time. Responsibilities Assist Portfolio Manager with market research and trade idea generation Monitor the portfolio and assist with risk management. When appropriate, collect data and perform quantitative analysis on the portfolio and markets more broadly Develop tools and analytics to assist in the portfolio management process Support trade execution Requirements Bachelor’s degree in relevant field 1-4 years’ experience on a trading desk or strategy (buy-side or sell-side) Proficient in Bloomberg, and working with data in Microsoft Excel Coding and front-office financial modeling experience Strong problem solving and analytical skills Highly motivated and intellectually curious Exposure to portfolio manager trade execution platforms is a plus This role requires commuting into our New York City office Mondays through Fridays.&nbsp; Base Salary Range The anticipated salary range for this position is $125,000 to $150,000.&nbsp; The anticipated range is based on information as of the time this post was generated and does not include any discretionary bonus or benefits (see eligibility below). The applicable annual salary or hourly rate paid to a successful applicant will be determined based on multiple factors, including without limitation the nature and extent of prior experience, skills, and qualifications.&nbsp; This wage range may be modified in the future. In addition, the employee who fills this role will be eligible for a discretionary annual bonus, as well as a wide array of benefit programs, such as medical and life insurance, 401(K) plans, and access to other healthcare programs. Notes: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, benefits, or any other form of compensation that a particular employee may be eligible for remains in the Company's sole discretion unless and until paid and may be modified at Graham’s sole discretion, consistent with the law. Other Graham is committed to providing equal employment opportunity to all employees and applicants for employment without regard to their race, color, religious creed, gender, age, national origin, ancestry, alienage, citizenship status, handicap, disability, marital status, sexual orientation, gender identity, pregnancy, childbirth or other related conditions, military status, genetic information, or any other personal characteristics protected by applicable law. This policy applies to all terms and conditions of employment, including hiring, placement, promotion, layoff, termination, transfer, leave of absence and compensation. Graham offers health benefits to eligible full-time U.S. employees, including medical, dental, vision, life and disability insurance, as well as other voluntary benefits such as spending accounts (HSA and FSA), and a profit contribution retirement plan.&nbsp; All employees also receive paid vacation and sick leave.&nbsp; Benefits eligibility is dependent upon a variety of factors, including employee classification and applicable waiting periods.&nbsp; Benefits are subject to change and may differ for non-U.S. roles.&nbsp;
+
+---
+
+## 16. [MAYBE] Viridien | Machine Learning Researcher - Seismic Foundation Models
 - Link: https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Machine-Learning-Researcher---Seismic-Foundation-Models_JR101586
 - Location: Houston, United States of America
 - Posted: Nov 22 (board gives the date only)
@@ -335,7 +405,7 @@ Viridien ( www.viridiengroup.com ) is an advanced technology, digital and Earth 
 
 ---
 
-## 13. [MAYBE] CVS Health | Data Engineer
+## 17. [MAYBE] CVS Health | Data Engineer
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R1108581-1
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -350,7 +420,22 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 14. [MAYBE] Clera | Founding Applied AI Engineer
+## 18. [MAYBE] PennState University | Tseng Banaszak 26-27 Part Time Research Assistant
+- Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Tseng-Banaszak-26-27-Part-Time-Research-Assistant_REQ_0000084528-1
+- Location: Penn State University Park
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: part-time (10 h/week stated)
+- Title scope: core | Has: python, r, statistic, reporting, research | Lacks: -  | Note: part-time, about 10 h/week: under the 20 h/week STEM OPT minimum
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process . Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday. If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants . Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants . JOB DESCRIPTION AND POSITION REQUIREMENTS The College of the Liberal Arts, in the Department of Political Science is seeking applicants for part-time job of Tseng Banaszak 26-27 Part Time Research Assistant. Job duties to include: The duties of the research assistant include processing and coding legislative data from the National Assembly of South Korea for analysis. Tasks include, but are not limited to, reviewing English translations of Korean legislative documents, extracting text from scanned legislative documents using AI or OCR tools, and collecting government data. Programming skills (such as R and/or Python) and native-level Korean language proficiency are required. The ability to read Traditional Chinese is preferred but not required, as some government data on South Korea are available in Traditional Chinese. Student will work 10 hours/week for about 15 weeks. Compensation: The starting rate for this job is $15.00/hour. BACKGROUND CHECKS/CLEARANCES Employment with the University will require successful completion of background check(s) in accordance with University policies. CAMPUS SECURITY CRIME STATISTICS Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here .
+
+---
+
+## 19. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/2d1cadd3-9212-46cf-be7d-bb220dad8710
 - Location: United States United States
 - Posted: Nov 22 12:02 ET
@@ -405,7 +490,7 @@ On-site in the United States.
 
 ---
 
-## 15. [MAYBE] Mars | Industrial Data Engineer
+## 20. [MAYBE] Mars | Industrial Data Engineer
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Ohio-Lewisburg/Industrial-Data-Engineer_R172203-2
 - Location: USA-Ohio-Lewisburg
 - Posted: Nov 22 (board gives the date only)
@@ -420,7 +505,7 @@ Job Description: Industrial Data Engineer The Industrial Data Engineer will part
 
 ---
 
-## 16. [MAYBE] Envista | Legal Data Analyst
+## 21. [MAYBE] Envista | Legal Data Analyst
 - Link: https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--California--Brea/Legal-Data-Analyst_R5027938
 - Location: United States of America, California, Brea
 - Posted: Nov 23 (board gives the date only)
@@ -435,7 +520,7 @@ Job Description: JOB SUMMARY: Must reside within a commutable distance to both B
 
 ---
 
-## 17. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
+## 22. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
 - Link: https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa
 - Location: San Francisco United States
 - Posted: Nov 22 12:12 ET
@@ -490,7 +575,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 18. [MAYBE] University of Miami | Research Associate 1
+## 23. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103302
 - Location: Miami, FL
 - Posted: Nov 22 (board gives the date only)
@@ -505,7 +590,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 19. [MAYBE] Simmons Bank | Loan Portfolio Analyst I
+## 24. [MAYBE] Simmons Bank | Loan Portfolio Analyst I
 - Link: https://simmonsbank.wd5.myworkdayjobs.com/SimmonsCareers/job/Little-Rock-AR/Loan-Portfolio-Analyst-II_R115792
 - Location: Little Rock, AR
 - Posted: Nov 23 (board gives the date only)
@@ -520,7 +605,7 @@ It's fun to work in a company where people truly BELIEVE in what they're doing! 
 
 ---
 
-## 20. [MAYBE] University of Miami | Research Associate 1
+## 25. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103321
 - Location: Miami, FL
 - Posted: Nov 23 (board gives the date only)
@@ -535,7 +620,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 21. [MAYBE] Amentum | Data Analyst
+## 26. [MAYBE] Amentum | Data Analyst
 - Link: https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Pensacola/Data-Analyst_R0176006
 - Location: US-FL-Pensacola
 - Posted: Nov 23 (board gives the date only)
@@ -550,7 +635,7 @@ Purpose and Scope: The Data Analyst performs the functions of the Navy’s Syste
 
 ---
 
-## 22. [MAYBE] Medical College of Wisconsin | Research Scientist I - Biophysics
+## 27. [MAYBE] Medical College of Wisconsin | Research Scientist I - Biophysics
 - Link: https://mcw.wd503.myworkdayjobs.com/ExternalCareers/job/Milwaukee-WI/Research-Scientist-I---Biophysics_JR104329
 - Location: Milwaukee, WI
 - Posted: Nov 23 (board gives the date only)
@@ -565,7 +650,7 @@ Summary The Wang Lab in the Department of Biophysics at the Medical College of W
 
 ---
 
-## 23. [MAYBE] Yale University | Research Associate 1
+## 28. [MAYBE] Yale University | Research Associate 1
 - Link: https://yale.wd1.myworkdayjobs.com/terminated_layoff_external_career_site/job/Church-St-South-100/Research-Associate-1_139464WD-1
 - Location: Church St South, 100
 - Posted: Nov 23 (board gives the date only)
@@ -580,7 +665,7 @@ Working at Yale means contributing to a better tomorrow. Whether you are a curre
 
 ---
 
-## 24. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
+## 29. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
 - Link: https://jobs.ashbyhq.com/openai/6785d983-8831-46d0-9c81-443f83664948
 - Location: San Francisco United States
 - Posted: Nov 22 12:20 ET
@@ -657,7 +742,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 25. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
+## 30. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810780
 - Location: Jacksonville, FL, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -672,7 +757,7 @@ DESCRIPTION Duties: Work with Product and Data Owners, Technology, and Design Pa
 
 ---
 
-## 26. [MAYBE] Invesco | Quantitative Analyst
+## 31. [MAYBE] Invesco | Quantitative Analyst
 - Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Quantitative-Analyst_R-15895-1
 - Location: New York, New York
 - Posted: Nov 22 (board gives the date only)
@@ -687,7 +772,7 @@ About Invesco As one of the world’s leading independent global investment firm
 
 ---
 
-## 27. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
+## 32. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
 - Link: https://uscareeropenings-alliancelaundry.icims.com/jobs/14271/data-analyst-%28sourcing%29/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -702,7 +787,7 @@ Data Analyst (Sourcing) in Ripon, Wisconsin | Careers at Alliance Laundry System
 
 ---
 
-## 28. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
+## 33. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
 - Link: https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445
 - Location: San Francisco United States
 - Posted: Nov 22 12:14 ET
@@ -759,7 +844,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 29. [MAYBE] Prosper AI | AI Engineer
+## 34. [MAYBE] Prosper AI | AI Engineer
 - Link: https://jobs.ashbyhq.com/prosper-ai/fc1781c3-3fee-47f6-bf76-c5e2a6357eaf
 - Location: Barcelona Spain remote
 - Posted: Nov 23 11:51 ET
@@ -816,7 +901,7 @@ Interviewing Process
 
 ---
 
-## 30. [MAYBE] Exponent | Title Research Assistant
+## 35. [MAYBE] Exponent | Title Research Assistant
 - Link: https://careers-exponent.icims.com/jobs/2465/research-assistant/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -831,7 +916,7 @@ Research Assistant in Phoenix, Arizona | Careers at Phoenix Please Enable Cookie
 
 ---
 
-## 31. [MAYBE] Texas A&M AgriLife Research | Research Associate
+## 36. [MAYBE] Texas A&M AgriLife Research | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Research-Associate_R-099059-1
 - Location: College Station, TX
 - Posted: Nov 23 (board gives the date only)
@@ -846,7 +931,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Range
 
 ---
 
-## 32. [MAYBE] Texas A&M University System | Research Associate
+## 37. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-099059
 - Location: College Station, TX
 - Posted: Nov 23 (board gives the date only)
@@ -861,7 +946,37 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Range
 
 ---
 
-## 33. [MAYBE] Koddi | Associate Digital Marketing Analyst
+## 38. [MAYBE] Wash U | Statistical Data Analyst - Genetics
+- Link: https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Statistical-Data-Analyst---Genetics_JR98842
+- Location: Washington University Medical Campus
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: statistic, classification, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Performs data management and/or data analysis for investigators using statistical packages. Assists investigators in the design of experiments, clinical trial and epidemiological studies. Job Description Primary Duties & Responsibilities: Performs data analysis and/or data management for investigators using statistical packages including generation of tables and graphs. Assists investigators in the design of experiments, clinical trials and epidemiological studies. Assists in data base design, implementation and maintenance of data collected over time for research purposes, including acquisition, editing and reporting. May assist in design and development of data entry systems. May function as a statistical consultant primarily in collaborative studies involving the medical school community. Working Conditions: Job Location/Working Conditions Normal office environment Physical Effort Typically sitting at desk or table Repetitive wrist, hand or finger movement (PC typing) Equipment Office equipment The above statements are intended to describe the general nature and level of work performed by people assigned to this classification. They are not intended to be construed as an exhaustive list of all job duties performed by the personnel so classified. Management reserves the right to revise or amend duties at any time. Required Qualifications Education: Bachelor’s degree or combination of education and/or experience may substitute for minimum education. Certifications /Professional Licenses : No specific certification/professional license is required for this position. Work Experience: No specific work experience is required for this position. Skills: Not Applicable Driver's License: A driver's license is not required for this position. More About This Job WashU seeks highly motivated individuals who are able to perform duties in a manner consistent with our core mission and guiding principles. Preferred Qualifications Education: Master's degree Certifications /Professional Licenses : No additional certification/professional licenses unless stated elsewhere in the job posting. Work Experience: No additional work experience unless stated elsewhere in the job posting. Skills: Biomedical Research, Clinical Studies, Data Analysis, Data Management, Interpersonal Communication, Oral Communications, Organizing, Statistical Packages, Written Communication Grade G11 Salary Range $53,100.00 - $90,600.00 / Annually The salary range reflects base salaries paid for positions in a given job grade across the University. Individual rates within the range will be determined by factors including one's qualifications and performance, equity with others in the department, market rates for positions within the same grade and department budget. Questions For frequently asked questions about the application process, please refer to our External Applicant FAQ . Accommodation If you are unable to use our online application system and would like an accommodation, please email CandidateQuestions@wustl.edu or call the dedicated accommodation inquiry number at 314-935-1149 and leave a voicemail with the nature of your request. All qualified individuals must be able to perform the essential functions of the position satisfactorily and, if requested,
+
+---
+
+## 39. [MAYBE] Washington University in St. Louis | Statistical Data Analyst - Genetics
+- Link: https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Statistical-Data-Analyst---Genetics_JR98842
+- Location: Washington University Medical Campus
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: statistic, classification, reporting, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Performs data management and/or data analysis for investigators using statistical packages. Assists investigators in the design of experiments, clinical trial and epidemiological studies. Job Description Primary Duties & Responsibilities: Performs data analysis and/or data management for investigators using statistical packages including generation of tables and graphs. Assists investigators in the design of experiments, clinical trials and epidemiological studies. Assists in data base design, implementation and maintenance of data collected over time for research purposes, including acquisition, editing and reporting. May assist in design and development of data entry systems. May function as a statistical consultant primarily in collaborative studies involving the medical school community. Working Conditions: Job Location/Working Conditions Normal office environment Physical Effort Typically sitting at desk or table Repetitive wrist, hand or finger movement (PC typing) Equipment Office equipment The above statements are intended to describe the general nature and level of work performed by people assigned to this classification. They are not intended to be construed as an exhaustive list of all job duties performed by the personnel so classified. Management reserves the right to revise or amend duties at any time. Required Qualifications Education: Bachelor’s degree or combination of education and/or experience may substitute for minimum education. Certifications /Professional Licenses : No specific certification/professional license is required for this position. Work Experience: No specific work experience is required for this position. Skills: Not Applicable Driver's License: A driver's license is not required for this position. More About This Job WashU seeks highly motivated individuals who are able to perform duties in a manner consistent with our core mission and guiding principles. Preferred Qualifications Education: Master's degree Certifications /Professional Licenses : No additional certification/professional licenses unless stated elsewhere in the job posting. Work Experience: No additional work experience unless stated elsewhere in the job posting. Skills: Biomedical Research, Clinical Studies, Data Analysis, Data Management, Interpersonal Communication, Oral Communications, Organizing, Statistical Packages, Written Communication Grade G11 Salary Range $53,100.00 - $90,600.00 / Annually The salary range reflects base salaries paid for positions in a given job grade across the University. Individual rates within the range will be determined by factors including one's qualifications and performance, equity with others in the department, market rates for positions within the same grade and department budget. Questions For frequently asked questions about the application process, please refer to our External Applicant FAQ . Accommodation If you are unable to use our online application system and would like an accommodation, please email CandidateQuestions@wustl.edu or call the dedicated accommodation inquiry number at 314-935-1149 and leave a voicemail with the nature of your request. All qualified individuals must be able to perform the essential functions of the position satisfactorily and, if requested,
+
+---
+
+## 40. [MAYBE] Koddi | Associate Digital Marketing Analyst
 - Link: https://job-boards.greenhouse.io/koddi/jobs/8944816002
 - Location: Fort Worth, Texas
 - Posted: Nov 23 12:58 ET
@@ -876,7 +991,7 @@ About Koddi We are a global technology company with software and services that h
 
 ---
 
-## 34. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
+## 41. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
 - Link: https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Golbey/Stage---Dveloppement-de-modles-d-AI-ML-appliqus-aux-changeurs--plaques-et-ailettes-brases-en-aluminium-H-F_JR0049556
 - Location: Golbey
 - Posted: Nov 22 (board gives the date only)
@@ -891,7 +1006,7 @@ Chez Alfa Laval Golbey, nous concevons et fabriquons des échangeurs thermiques 
 
 ---
 
-## 35. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
+## 42. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
 - Link: https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/HSS-Kellen-Tower/Research-Assistant-I_JR2026-106937
 - Location: HSS Kellen Tower
 - Posted: Nov 22 (board gives the date only)
@@ -906,7 +1021,7 @@ How you move is why we’re here. ® Now more than ever. Get back to what you ne
 
 ---
 
-## 36. [MAYBE] Moffitt Cancer Center | Research Associate 1
+## 43. [MAYBE] Moffitt Cancer Center | Research Associate 1
 - Link: https://moffitt.wd108.myworkdayjobs.com/Moffitt/job/Moffitt-Research-Center/Research-Associate-1_R-4930
 - Location: Moffitt Research Center
 - Posted: Nov 23 (board gives the date only)
@@ -921,7 +1036,7 @@ Working at Moffitt is both a career and a mission: to contribute to the preventi
 
 ---
 
-## 37. [MAYBE] John Wiley & Sons | Senior Data Scientist (NLP & Applied AI)
+## 44. [MAYBE] John Wiley & Sons | Senior Data Scientist (NLP & Applied AI)
 - Link: https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Hoboken-HQ-NJ-USA/Senior-Data-Scientist--NLP---Applied-AI-_R2601204
 - Location: Hoboken (HQ), NJ, USA
 - Posted: Nov 23 (board gives the date only)
@@ -936,7 +1051,7 @@ We believe in bold ideas, diverse perspectives, and the drive to transform knowl
 
 ---
 
-## 38. [MAYBE] Johnson & Johnson | Sr Scientist Data Science
+## 45. [MAYBE] Johnson & Johnson | Sr Scientist Data Science
 - Link: https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Sr-Scientist-Data-Science_R-111095-1
 - Location: Raritan, New Jersey, United States of America
 - Posted: Nov 23 (board gives the date only)
@@ -951,7 +1066,7 @@ At Johnson & Johnson, we believe health is everything. Our strength in healthcar
 
 ---
 
-## 39. [MAYBE] Capital One | Sr. Business Analyst - Profitability & Growth Analysis
+## 46. [MAYBE] Capital One | Sr. Business Analyst - Profitability & Growth Analysis
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Sr-Business-Analyst---Profitability---Growth-Analysis_R1005980
 - Location: 2 Locations
 - Posted: Nov 23 (board gives the date only)
@@ -966,7 +1081,22 @@ Sr. Business Analyst - Profitability & Growth Analysis Summary: As a Senior Busi
 
 ---
 
-## 40. [MAYBE] Gartner | Sr Data Analyst
+## 47. [MAYBE] Ohio State University | Reporting and Analytics Analyst 2 - Government Resource Center
+- Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Reporting-and-Analytics-Analyst-2---Government-Resource-Center_R162052-1
+- Location: Columbus Campus
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: dashboard, llm, sql, statistic, healthcare, quantitative, reporting, research | Lacks: sas  | Note: title says Senior/II: asks 2 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Screen reader users may encounter difficulty with this site. For assistance with applying, please contact hr-accessibleapplication@osu.edu . If you have questions while submitting an application, please review these frequently asked questions . Current Employees and Students: If you are currently employed or enrolled as a student at The Ohio State University, please l og in to Workday to use the internal application process. Welcome to The Ohio State University's career site. We invite you to apply to positions of interest. In order to ensure your application is complete, you must complete the following: Ensure you have all necessary documents available when starting the application process. You can review the additional job description section on postings for documents that may be required. Prior to submitting your application, please review and update (if necessary) the information in your candidate profile as it will transfer to your application. Job Title: Reporting and Analytics Analyst 2 - Government Resource Center Department: Health Sciences | Government Resource Center The Ohio Colleges of Medicine Government Resource Center (GRC) invites applications for a Reporting and Analytics Analyst 2 position (“Researcher”). A successful applicant will engage in applied health services and population health research in a project-based, collaborative setting. This role is focused primarily on quantitative analysis of data such as Medicaid claims and enrollment records, electronic health records, and/or clinical lab data. Responsibilities are project-specific and may include combinations of the following: assisting with quantitative analysis of health care data; implementing (coding) health care quality metrics; designing queries of large relational databases such as Medicaid claims; assisting with the development of new clinical quality and population health measures; preparing data for integration into interactive dashboard environment; contributing to reports, whitepapers, and presentation materials; presenting results to team members and other audiences. Researchers are expected to perform mainly technical skill tasks related to the overarching objectives of a project. They are expected to complete or assist on tasks with appropriate assistance and oversight. Researchers typically work on 2-3 projects at a time. Minimum Education Required: Bachelor’s degree in a relevant field or equivalent experience is required. Required Qualifications: A minimum of 2 years of relevant experience with a bachelor’s degree or an advanced degree in a relevant field of study is required. Experience with SAS programming for data preparation and statistical analysis. Requires successful completion of a background check. The selected candidate may be asked to complete a pre-employment physical, including a drug screen. Candidates selected for an interview may be asked to provide a writing sample and a code sample. Preferred Qualifications Experience with health care quality metrics. Experience with data manipulation in SQL. An advanced degree in a relevant field of study Experience working with external clients and stakeholders. Additional Information: The Ohio Colleges of Medicine Government Resource Center’s mission is to identify, research, and spread innovative practices to improve health for all Ohioans through partnerships with healthcare, state, and academic leaders. The GRC’s current work encompasses critical issues in public health and health services, including family health, behavioral health, Ohio Medicaid membership, management of chronic conditions such as diabetes and hypertension, and health system payment innovation. See more about GRC’s project work here: https://grc.osu.edu/Projects The GRC is a family-friendly workplace committed that supports in-person and remote-hybrid work arrangements. Our philosophy is to provide staff with the training, mentorship and professional development opportunities needed to meet their professional goals, and to proactively develop GRC’s future leadership within the organization. Location: Pressey Hall (0309) Position Type: Regular Scheduled Hours: 40 Shift: First Shift Final candidates are subject to successful completion of a background check. A drug screen or physical may be required during the post offer process. Thank you for your interest in positions at The Ohio State University and Wexner Medical Center. Once you have applied, the most updated information on the status of your application can be found by visiting the Candidate Home section of this site. Please view your submitted applications by logging in and reviewing your status. For answers to additional questions please review the frequently asked questions . The university
+
+---
+
+## 48. [MAYBE] Gartner | Sr Data Analyst
 - Link: https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Sr-Data-Analyst_116148
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -981,7 +1111,7 @@ The Demand Analytics team within the Business Technology and Insights (BTI) grou
 
 ---
 
-## 41. [MAYBE] AbbVie | Sr. Data Science Analyst, Business Intelligence 
+## 49. [MAYBE] AbbVie | Sr. Data Science Analyst, Business Intelligence 
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990017038986
 - Location: Irvine CA us
 - Posted: Nov 23 12:41 ET
@@ -996,7 +1126,7 @@ Allergan Aesthetics Commercial is on a mission to transform the aesthetics busin
 
 ---
 
-## 42. [MAYBE] Chewy | Machine Learning Engineer II
+## 50. [MAYBE] Chewy | Machine Learning Engineer II
 - Link: https://chewy.wd5.myworkdayjobs.com/External/job/Dallas-TX/Machine-Learning-Engineer-II_R31506-1
 - Location: 4 Locations
 - Posted: Nov 23 (board gives the date only)
@@ -1008,4 +1138,34 @@ Allergan Aesthetics Commercial is on a mission to transform the aesthetics busin
 ### Job description
 
 Job Description: Our Opportunity: We are seeking a talented and passionate Machine Learning Engineer II to join our growing team. In this role, you will play a crucial part in building and deploying machine learning solutions that empower our Chewy Customer Care teams. As a Machine Learning Engineer II, you will be a key contributor throughout the machine learning lifecycle, from data preparation and model development to deployment and monitoring. You will have the opportunity to work on diverse projects and contribute directly to the success of the company. What You’ll Do: Design and implement robust data pipelines for efficient data ingestion, processing, and feature engineering. Ensure data quality and consistency for model training and inference. Work with large datasets and apply data scaling techniques. Select and build appropriate machine learning models based on business requirements and data characteristics. Train and evaluate models using various techniques and metrics. Fine-tune models to achieve optimal performance and efficiency. Deploy machine learning models to production environments, ensuring scalability, reliability, and maintainability. Implement monitoring and alerting systems to track model performance and identify potential issues. Optimize models for inference speed and resource utilization. Work closely with data scientists, software engineers, and business stakeholders to understand requirements and deliver solutions. Effectively communicate technical concepts and findings to both technical and non-technical audiences. What You’ll Need: Master's degree in Computer Science, Machine Learning, or a related field. 3+ years of experience as a Machine Learning Engineer or in a similar role. Strong programming skills in Python or another relevant language. Experience with machine learning frameworks and libraries (e.g., TensorFlow, PyTorch, scikit-learn). Experience with SQL and relational databases. Familiarity with AWS cloud technologies (e.g., Glue, Sagemaker, Athena, Redshift). Solid understanding of machine learning algorithms and best practices. Experience with cloud computing platforms (e.g., AWS, Azure, GCP). Excellent communication and presentation skills. Bonus: Familiarity with big data technologies (e.g., Spark, Iceberg, dbt). Experience with data visualization tools (e.g., Tableau, Streamlit, Plotly). Knowledge of retail and e-commerce. The base salary range for this role is $119,500 - $190,000.00. The specific salary offered to a candidate may be influenced by a variety of factors including but not limited to the candidate’s relevant experience, education, and work location. In addition, this position is eligible for 401k and a new hire and annual equity grant. C08+ positions may also be eligible for annual bonus. We offer different types of insurance and benefits, such as medical/Rx, vision, dental, life, disability, hospital indemnity, critical illness, and accident. We offer parental leave, family services benefits, backup dependent care, flexible spending accounts, telemedicine, pet adoption reimbursement, employee assistance program, and many discounts including 10% off pet insurance and 20% off at Chewy.com. Exempt salary team members have unlimited PTO, subject to manager approval. Team members will receive six paid holidays per year. Team members may be eligible for paid sick and family leave in compliance with applicable state and local regulations. Chewy
+
+---
+
+## 51. [MAYBE] Sun Life | Senior AI Engineer
+- Link: https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/North-York-Ontario/AI-Engineer_JR00128209-1
+- Location: 3 Locations
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 6 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, excel, machine learning, postgres, python, spark, sql, ai agent, credit, docker, git, lambda, pipeline | Lacks: scala  | Note: title says Senior/II: asks 3 years
+- Eligibility: CHECK | As a hybrid organization, you and your leader use business and Client needs to choose where you work, at home or in the office Unique Requirements: This role requires Reliability Status Clearance. / Important: Obtaining Reliability Status Clearance within a reasonable amount of time is a condition required to start employment for this role at Sun Life.
+
+### Job description
+
+You are as unique as your background, experience and point of view. Here, you’ll be encouraged, empowered and challenged to be your best self. You'll work with dynamic colleagues - experts in their fields - who are eager to share their knowledge with you. Your leaders will inspire and help you reach your potential and soar to new heights. Every day, you'll have new and exciting opportunities to make life brighter for our Clients - who are at the heart of everything we do. At Sun Life, we're driven by our Purpose: helping our Clients achieve lifetime financial security and live healthier lives. Our values shape how we work: caring, authentic, bold, inspiring, and impactful. When you join Sun Life, you'll work with passionate colleagues and empowering leaders who support your growth and celebrate your contributions, so you can make a meaningful difference in our Clients' lives. Discover how you can make a difference in the lives of individuals, families and communities around the world. Job Description: Job Description At Sun Life, we're driven by our Purpose: helping our Clients achieve lifetime financial security and live healthier lives. Our values shape how we work: caring, authentic, bold, inspiring, and impactful. Corporate IT is seeking an experienced Senior AI Engineer to design, develop, deploy, and support enterprise-grade Artificial Intelligence, Machine Learning, and Generative AI solutions on AWS. The successful candidate will combine strong software engineering capabilities with hands-on knowledge of AWS AI/ML and application services to build secure, scalable, observable, and production-ready solutions that drive measurable business value. This role will collaborate with architects, product owners, data engineers, security and governance partners, and business stakeholders to deliver AI-powered applications, retrieval-augmented generation (RAG) solutions, intelligent agents, automation workflows, and reusable AI platform capabilities. The ideal candidate has a proven record of taking complex software and AI solutions from design through production operations. What will you do? Design, develop, test, deploy, and operate AI, Machine Learning, and Generative AI solutions using AWS services and approved enterprise architecture patterns. Build production applications using foundation models through Amazon Bedrock, including prompt engineering, RAG, tool use, intelligent agents, and workflow automation. Design secure RAG pipelines covering document ingestion, chunking, embeddings, indexing, retrieval, grounding, evaluation, and governance using Amazon S3 and approved vector-search technologies. Engineer agentic solutions with controlled tool access, orchestration, state and memory, error handling, authorization, human approval points, and auditable execution. Build scalable serverless and containerized services using AWS Lambda, Amazon API Gateway, AWS Step Functions, Amazon EventBridge, and, where appropriate, Amazon ECS or Amazon EKS. Implement fit-for-purpose data and persistence patterns using Amazon S3, Amazon DynamoDB, Amazon Aurora or Amazon RDS, and AWS Glue. Apply enterprise security and governance controls, including least-privilege AWS IAM, encryption with AWS KMS, secrets management, private connectivity, data protection, model guardrails, and auditable access patterns. Implement automated evaluation, testing, monitoring, tracing, and cost controls for AI applications, including model and tool-call quality, latency, reliability, safety, and usage metrics. Build CI/CD pipelines and infrastructure as code; contribute reusable components, engineering standards, automated quality gates, security guardrails, and operational runbooks. Create and maintain technical design artifacts covering application functionality, architecture, data flows, interfaces, integrations, security controls, and operational requirements. Provide post-production support, troubleshoot complex issues, optimize performance and cost, and continuously improve deployed solutions. Collaborate effectively in an Agile environment, communicate technical trade-offs clearly, and mentor junior team members. What do you need to succeed? Bachelor's degree in Computer Science, Software Engineering, Data Science, or a related field, or equivalent practical experience. 5+ years of professional software engineering experience, including 3+ years building and operating solutions on AWS. Hands-on experience delivering AI, Machine Learning, or Generative AI solutions in production environments. Strong Python development skills and experience designing, testing, and integrating RESTful APIs and event-driven services. Practical experience with Amazon Bedrock and core AWS application services such as AWS Lambda, Amazon API Gateway, AWS Step Functions, Amazon EventBridge, Amazon S3, Amazon DynamoDB, and Amazon Aurora or Amazon RDS. Experience building RAG solutions, including document ingestion, chunking, embeddings, retrieval, grounding, evaluation, and vector databases or vector-search services. Experience developing AI agents or tool-using workflows, including orchestration, state or memory, safe tool access, error handling, and human approval points. Working knowledge of AWS security and operations, including AWS IAM, AWS KMS, secrets management, logging, monitoring, tracing, and incident support. Experience with Git-based development, automated testing, CI/CD, and infrastructure as code using Terraform, AWS CDK, or AWS CloudFormation. Understanding of containerization and cloud deployment patterns using Docker and at least one of Amazon ECS or Amazon EKS. Strong communication, collaboration, analytical, and problem-solving skills, with the ability to explain technical decisions to varied stakeholder groups. Preferred qualifications Experience with Amazon Bedrock Knowledge Bases, Amazon Bedrock Guardrails, Agents for Amazon Bedrock, or Amazon Bedrock AgentCore. Experience with Amazon SageMaker for custom machine learning development, training, deployment, or MLOps. Experience with Amazon OpenSearch Service, PostgreSQL with pgvector, or other enterprise vector-search technologies. Experience with AWS Glue, data pipelines, PySpark, or analytics workloads. Experience developing user interfaces with React. Experience with Amazon QuickSight when analytics dashboard development is part of the solution. What’s in it for you We’re honoured to be recognized as a 2026 Best Workplaces in Canada by Great Place to Work® Canada. We are thrilled to be recognized by Excellence Canada with their top-level certification, the Canada Order of Excellence for Mental Health at Work® , for prioritizing employee well-being, fostering a positive work culture, and achieving excellence in mental health. Wellness programs that support the three pillars of your health – mental, physical, and financial The opportunity to move along a variety of career paths with amazing networking potential. As a hybrid organization, you and your  [...]
+
+---
+
+## 52. [MAYBE] Truist Bank | Senior Capital Markets Risk Analyst
+- Link: https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Senior-Capital-Markets-Risk-Analyst_R0122177
+- Location: Atlanta, GA
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 99 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: python, classification, credit, derivatives, portfolio, quantitative, reporting, research, risk, trading | Lacks: java  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communications. If you already have a profile with us, you can log in to check status. Need Help? If you have a disability and need assistance with the application, you can request a reasonable accommodation. Send an email to Accessibility (accommodation requests only; other inquiries won't receive a response). Regular or Temporary: Regular Language Fluency: English (Required) Work Shift: 1st shift (United States of America) Please review the following job description: Provide senior managers with independent quantitative and qualitative assessments of risk management practices and risk levels. Provide active participation in various governance meetings for the Capital Markets Risk Management teams spanning Trading Market Risk, Counterparty Credit Risk, Profit and Loss (P&L) attribution and Independent Price Verification (IPV). This specialized job family framework includes promoting Truist’s compliance with Board-stated risk appetite and regulatory standards across the securities or derivatives portfolios within Corporate and Investment Banking (CIB), Corporate Treasury and Mortgage. Support Trading Market Risk and Product Control processes (P&L generation and attribution) to ensure Risk and P&L analytics are accurately reported for the Trading desks. Oversee daily market risk limit and exception reporting while ensuring the appropriate levels of awareness and communication within the organization. Develop and maintain the framework used for calculating and reporting daily risk levels (Value-at-Risk ‘VaR’, Greeks, stress tests, Potential Future Exposure ‘PFE’, Credit Valuation Adjustment ‘CVA’, etc.) using complex quantitative risk models. Provide analytical support to the various Truist trading teams. Assist with the development and reporting of stress testing & scenario analysis. Assist in ensuring compliance with regulatory rules (Market Risk Rule, FRTB, Volcker Rule, etc.). Work seamlessly with other teams across the MLRM department on inter-dependent issues such as counterparty and liquidity risk, valuation/hedging analyses and IPV. Liaise with business and control partners including operations, collateral management, quantitative research, model development, audit, and compliance. Represent the MRLM control discipline across various working groups and strategic initiatives and/or projects. Requirements Must have a Bachelor’s degree in Finance, Economics, Mathematics, Risk Management or a related quantitative field. Must have 3 years of experience in financial risk management positions covering both trading and non‑trading risks, performing/utilizing the following: o Strong knowledge of financial risk management, banking, and capital markets. o Quantitative risk models and concepts, including Value at Risk (VaR), Potential Future Exposure (PFE), Expected Exposure (EE), and risk‑based P&L attribution. o Derivatives valuation, including Credit Valuation Adjustment (CVA) and Funding Valuation Adjustment (FVA). o Managing multiple priorities in a fast‑paced environment while meeting strict deadlines. o Demonstrated financial acumen, analytical capability, and a business‑oriented mindset with the ability to develop creative solutions to complex challenges. o Proficiency in Java and Python programming o Demonstrated knowledge of key regulatory frameworks, including: Market Risk Rule Basel 2.5 and FRTB Endgame, Volcker Rule, and Swap Dealer Rule o Advanced understanding of Fixed Income securities. General Description of Available Benefits for Eligible Employees of Truist Financial Corporation: All regular teammates (not temporary or contingent workers) working 20 hours or more per week are eligible for benefits, though eligibility for specific benefits may be determined by the division of Truist offering the position. Truist offers medical, dental, vision, life insurance, disability, accidental death and dismemberment, tax-preferred savings accounts, and a 401k plan to teammates. Teammates also receive no less than 10 days of vacation (prorated based on date of hire and by full-time or part-time status) during their first year of employment, along with 10 sick days (also prorated), and paid holidays. For more details on Truist’s generous benefit plans, please visit our Benefits site . Depending on the position and division, this job may also be eligible for Truist’s defined benefit pension plan, restricted stock units, and/or a deferred compensation plan. As you advance through the hiring process, you will also learn more about the specific benefits available for any non-temporary position for which you apply, based on full-time or part-time status, position, and division of work. Truist
 
