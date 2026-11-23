@@ -9,33 +9,43 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 3 | JP Morgan Chase | 2027 Applied AI - HR CDAO - Summer Associate | 71 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
 | 4 | Qube Research & Technologies | Production Support Engineer - AI & LLM | 71 | none found (check myvisajobs) | Nov 23 11:08 ET |
 | 5 | CDW Corporation | Commercial Analyst | 70 | 8 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 6 | Airbus | Praktikum "AI Softwareentwicklung" (d/m/w) | 67 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 7 | Cantor Fitzgerald | Treasury Analyst | 67 | 8 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 8 | Artefact | AI Applied Engineer – AI Engineer | 64 | none found (check myvisajobs) | Nov 22 19:17 ET |
-| 9 | US Acute Care Solutions | AI Engineer | 62 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 10 | Dallas Fort Worth International Airport | Risk Analyst | 62 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 11 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 12 | CVS Health | Data Engineer | 57 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 13 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
-| 14 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 15 | Envista | Legal Data Analyst | 55 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 16 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
-| 17 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
-| 18 | Simmons Bank | Loan Portfolio Analyst I | 54 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 19 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 20 | Amentum | Data Analyst | 54 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 21 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
-| 22 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 23 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 24 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 25 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
-| 26 | Prosper AI | AI Engineer | 45 | none found (check myvisajobs) | Nov 23 11:51 ET |
-| 27 | Koddi | Associate Digital Marketing Analyst | 44 | 3 in data/analytics/finance occupations | Nov 23 12:58 ET |
-| 28 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 29 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 30 | Moffitt Cancer Center | Research Associate 1 | 40 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 31 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 32 | AbbVie | Sr. Data Science Analyst, Business Intelligence  | 55 | 96 in data/analytics/finance occupations | Nov 23 12:41 ET |
+| 6 | Albertsons | Financial Analyst, FP&A | 70 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 7 | Airbus | Praktikum "AI Softwareentwicklung" (d/m/w) | 67 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 8 | Cantor Fitzgerald | Treasury Analyst | 67 | 8 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 9 | Artefact | AI Applied Engineer – AI Engineer | 64 | none found (check myvisajobs) | Nov 22 19:17 ET |
+| 10 | US Acute Care Solutions | AI Engineer | 62 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 11 | Dallas Fort Worth International Airport | Risk Analyst | 62 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 12 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 13 | CVS Health | Data Engineer | 57 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 14 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
+| 15 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 16 | Envista | Legal Data Analyst | 55 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 17 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
+| 18 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
+| 19 | Simmons Bank | Loan Portfolio Analyst I | 54 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 20 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 21 | Amentum | Data Analyst | 54 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 22 | Medical College of Wisconsin | Research Scientist I - Biophysics | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 23 | Yale University | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 24 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
+| 25 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 26 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 27 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 28 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
+| 29 | Prosper AI | AI Engineer | 45 | none found (check myvisajobs) | Nov 23 11:51 ET |
+| 30 | Exponent | Title Research Assistant | 45 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 31 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 32 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 33 | Koddi | Associate Digital Marketing Analyst | 44 | 3 in data/analytics/finance occupations | Nov 23 12:58 ET |
+| 34 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 35 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 36 | Moffitt Cancer Center | Research Associate 1 | 40 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 37 | John Wiley & Sons | Senior Data Scientist (NLP & Applied AI) | 70 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 38 | Johnson & Johnson | Sr Scientist Data Science | 67 | 11 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 39 | Capital One | Sr. Business Analyst - Profitability & Growth Analysis | 62 | 458 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 40 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 41 | AbbVie | Sr. Data Science Analyst, Business Intelligence  | 55 | 96 in data/analytics/finance occupations | Nov 23 12:41 ET |
+| 42 | Chewy | Machine Learning Engineer II | 55 | 107 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
 
 ---
 
@@ -220,7 +230,22 @@ At CDW, we make it happen, together. Trust, connection, and commitment are at th
 
 ---
 
-## 6. [MAYBE] Airbus | Praktikum "AI Softwareentwicklung" (d/m/w)
+## 6. [MAYBE] Albertsons | Financial Analyst, FP&A
+- Link: https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/796632
+- Location: Boise, ID, United States US
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~70 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 2 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: aws, excel, forecast, machine learning, python, sql, reporting, risk | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Prior to applying it is required that you inform your manager of your desire to post for a new position. Why choose us? Are you ready to take the next step in your career? Join us for an exciting opportunity at Albertsons Companies, where innovation and customer service go hand-in-hand! At Albertsons Companies, we are looking for someone who’s not just seeking a job, but someone who wants to make an impact. In this role, you’ll have the opportunity to lead, innovate, and contribute to the growth of a company that values great service and lasting customer relationships. This position offers the chance to work in a fast-paced, dynamic environment that’s constantly evolving. The Financial Analyst is a corporate role reporting to the Senior Director of Finance. The position supports financial planning, reporting, forecasting, analysis, and operational decision-making while improving reporting and process quality. This role requires technical finance skills, analytical judgment, business partnership, systems knowledge, and clear communication. The analyst reports financial results, interprets trends, identifies risks and opportunities, and helps the business make informed decisions by highlighting business risks and opportunities. The role also includes building financial models, evaluating data, developing assumptions, and analyzing outcomes. Main responsibilities: Create and automate financial reporting for the supported area, including sales, profitability, expenses, and other key performance measures. Improve reporting by identifying metrics and insights that make business and operational performance easier to understand. Support key planning activities, including the annual operating plan, quarterly projections, and recurring forecasts. Based on business needs, the analyst may lead parts of the planning process for the supported business or operational area. Prepare ad hoc financial analyses for business-specific needs by defining the approach, developing assumptions, gathering and evaluating data, reviewing results, and recommending actions. Use financial and systems expertise to support partners across finance and other business functions. Analyze financial trends to identify risks and opportunities, communicate findings to management, and partner with finance and operations teams to explain results and share insights. Improve forecasting and reporting processes by finding workflow gaps, streamlining recurring work, and using root cause analysis to explain variances, performance drivers, and process issues. We are looking for candidates who possess the following Strong understanding of finance concepts, practices, procedures, and business operations. Proficient in Microsoft Excel, with the ability to analyze, manipulate, and interpret financial data. Working knowledge of Microsoft Access, Word, and PowerPoint. Knowledge of financial analysis techniques, profit and loss (P&L) structures, and key business drivers. Ability to translate financial data into meaningful insights and recommendations. Requires a four-year degree in Finance, Accounting, Business, Economics, or a related field, or equivalent experience, plus at least 2 years of relevant professional experience. Preferred Qualifications: Experience with Oracle Fusion Cloud Enterprise financial products. Proficiency in Microsoft Visual Basic (VBA), SQL, and/or Python. Knowledge of machine learning, predictive analytics, or time-series forecasting methodologies. Experience leveraging artificial intelligence (AI) tools to enhance analysis, automate routine processes, and generate actionable business insights. Strong analytical and problem-solving skills with a focus on continuous process improvement and innovation. We also provide a variety of benefits including: Competitive wages paid weekly Access to up to 50% of your earned wages before payday, via our partnership with Stream Associate discounts Health and financial well-being benefits for eligible associates (Medical, Dental, 401k and more!) Time off (vacation, holidays, sick pay). For eligibility requirements please visit myACI Benefits Leaders invested in your training, career growth and development An inclusive work environment with talented colleagues who reflect the communities we serve Our Values – Click below to view video: ACI Values #LI-LT1   Albertsons Companies is at the forefront of the revolution in retail. Committed to innovation and fostering a culture of belonging, our team is united with a unique purpose: to bring people together around the joys of food and to inspire well-being. We want talented individuals to be part of this journey! Locally great and nationally strong, Albertsons Companies (NYSE: ACI) is a leading food and drug retailer in the U.S. We operate over 2,200 stores, 1,732 pharmacies, 405 fuel centers, 22 distribution facilities, and 19 manufacturing plants across 34 states and the District of Columbia. Our well-known banners include Albertsons, Safeway, Vons, Jewel-Osco, ACME, Shaw’s, Tom Thumb, United Supermarkets, United Express, Randalls, Albertson’s Market, Pavilions, Star Markets, Market Street, Carrs, Haggen, Lucky, Amigos, Andronico’s Community Markets, King’s, Balducci’s, and Albertson’s Market Street. Our vision is to be a retail leader admired for national strength with deep local roots, offering an easy, fun, friendly, and inspiring experience, no matter how customers choose to shop with us. We celebrate the rich diversity of the communities we serve, and strive to create a workplace where everyone has equal access to opportunities and resources, and can fully contribute to their and our company’s success. Bring your flavor Building the future of food and well-being starts with you. Join our team and bring your best self to the table. Disclaimer The above statements are intended to describe the general nature of work performed by the employees assigned to this job and are not the official job description for the position. All employees must comply with Company, Division, and Store policies and applicable laws. The responsibilities, duties, and skills of personnel may vary within store and/or from store to store and the official job description will be provided during the application process. Albertsons
+
+---
+
+## 7. [MAYBE] Airbus | Praktikum "AI Softwareentwicklung" (d/m/w)
 - Link: https://ag.wd3.myworkdayjobs.com/Airbus/job/Stuttgart-Area/Praktikum--AI-Softwareentwicklung---d-m-w-_JR10460095
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -235,7 +260,7 @@ Job Description: Was dich erwartet Betreuung und kompetente Unterstützung durch
 
 ---
 
-## 7. [MAYBE] Cantor Fitzgerald | Treasury Analyst
+## 8. [MAYBE] Cantor Fitzgerald | Treasury Analyst
 - Link: https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250605
 - Location: NY, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -250,7 +275,7 @@ This is an immediate hiring need. Spring 2027 graduates will not be considered. 
 
 ---
 
-## 8. [MAYBE] Artefact | AI Applied Engineer – AI Engineer
+## 9. [MAYBE] Artefact | AI Applied Engineer – AI Engineer
 - Link: https://job-boards.greenhouse.io/artefactlinkedin/jobs/8957980002
 - Location: 135 W 26th Street, New York, NY 10001
 - Posted: Nov 22 19:17 ET
@@ -265,7 +290,7 @@ Join the most advanced community of AI makers. This role is in the ML &amp; AI A
 
 ---
 
-## 9. [MAYBE] US Acute Care Solutions | AI Engineer
+## 10. [MAYBE] US Acute Care Solutions | AI Engineer
 - Link: https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/AI-Prompt-Engineer_R0002412
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -280,7 +305,7 @@ Job Posting Closing Date: Open until Filled Where do you belong? Your career is 
 
 ---
 
-## 10. [MAYBE] Dallas Fort Worth International Airport | Risk Analyst
+## 11. [MAYBE] Dallas Fort Worth International Airport | Risk Analyst
 - Link: https://dfwairport.wd5.myworkdayjobs.com/External/job/Airport-Headquarters/Risk-Analyst_JR102298-1
 - Location: Airport Headquarters
 - Posted: Nov 23 (board gives the date only)
@@ -295,7 +320,7 @@ Job Overview Under general direction of the Sr Risk Management Services Manager 
 
 ---
 
-## 11. [MAYBE] Viridien | Machine Learning Researcher - Seismic Foundation Models
+## 12. [MAYBE] Viridien | Machine Learning Researcher - Seismic Foundation Models
 - Link: https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Machine-Learning-Researcher---Seismic-Foundation-Models_JR101586
 - Location: Houston, United States of America
 - Posted: Nov 22 (board gives the date only)
@@ -310,7 +335,7 @@ Viridien ( www.viridiengroup.com ) is an advanced technology, digital and Earth 
 
 ---
 
-## 12. [MAYBE] CVS Health | Data Engineer
+## 13. [MAYBE] CVS Health | Data Engineer
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R1108581-1
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -325,7 +350,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 13. [MAYBE] Clera | Founding Applied AI Engineer
+## 14. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/2d1cadd3-9212-46cf-be7d-bb220dad8710
 - Location: United States United States
 - Posted: Nov 22 12:02 ET
@@ -380,7 +405,7 @@ On-site in the United States.
 
 ---
 
-## 14. [MAYBE] Mars | Industrial Data Engineer
+## 15. [MAYBE] Mars | Industrial Data Engineer
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Ohio-Lewisburg/Industrial-Data-Engineer_R172203-2
 - Location: USA-Ohio-Lewisburg
 - Posted: Nov 22 (board gives the date only)
@@ -395,7 +420,7 @@ Job Description: Industrial Data Engineer The Industrial Data Engineer will part
 
 ---
 
-## 15. [MAYBE] Envista | Legal Data Analyst
+## 16. [MAYBE] Envista | Legal Data Analyst
 - Link: https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--California--Brea/Legal-Data-Analyst_R5027938
 - Location: United States of America, California, Brea
 - Posted: Nov 23 (board gives the date only)
@@ -410,7 +435,7 @@ Job Description: JOB SUMMARY: Must reside within a commutable distance to both B
 
 ---
 
-## 16. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
+## 17. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
 - Link: https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa
 - Location: San Francisco United States
 - Posted: Nov 22 12:12 ET
@@ -465,7 +490,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 17. [MAYBE] University of Miami | Research Associate 1
+## 18. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103302
 - Location: Miami, FL
 - Posted: Nov 22 (board gives the date only)
@@ -480,7 +505,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 18. [MAYBE] Simmons Bank | Loan Portfolio Analyst I
+## 19. [MAYBE] Simmons Bank | Loan Portfolio Analyst I
 - Link: https://simmonsbank.wd5.myworkdayjobs.com/SimmonsCareers/job/Little-Rock-AR/Loan-Portfolio-Analyst-II_R115792
 - Location: Little Rock, AR
 - Posted: Nov 23 (board gives the date only)
@@ -495,7 +520,7 @@ It's fun to work in a company where people truly BELIEVE in what they're doing! 
 
 ---
 
-## 19. [MAYBE] University of Miami | Research Associate 1
+## 20. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103321
 - Location: Miami, FL
 - Posted: Nov 23 (board gives the date only)
@@ -510,7 +535,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 20. [MAYBE] Amentum | Data Analyst
+## 21. [MAYBE] Amentum | Data Analyst
 - Link: https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Pensacola/Data-Analyst_R0176006
 - Location: US-FL-Pensacola
 - Posted: Nov 23 (board gives the date only)
@@ -525,7 +550,37 @@ Purpose and Scope: The Data Analyst performs the functions of the Navy’s Syste
 
 ---
 
-## 21. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
+## 22. [MAYBE] Medical College of Wisconsin | Research Scientist I - Biophysics
+- Link: https://mcw.wd503.myworkdayjobs.com/ExternalCareers/job/Milwaukee-WI/Research-Scientist-I---Biophysics_JR104329
+- Location: Milwaukee, WI
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: aws, excel, healthcare, publication, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Summary The Wang Lab in the Department of Biophysics at the Medical College of Wisconsin is seeking a highly motivated staff scientist to join our research team focused on the structural and functional analysis of RNAs and ribonucleoproteins (RNP). We utilize a multidisciplinary approach that integrates biochemical, biophysical, and structural biology techniques, including NMR spectroscopy, X-ray crystallography, and cryo-electron microscopy, to explore RNA and RNP structure–function relationships and identify opportunities for RNA-targeted therapeutic intervention in cancer and related diseases. This position offers an exciting opportunity for candidates passionate about cutting-edge RNA biology and structural biology, with the potential to develop novel experimental approaches and lead research projects in a collaborative and well-resourced environment. Primary Responsibilities Design and execute experiments to investigate the structure and dynamics of noncoding RNAs using biophysical and structural techniques (e.g., NMR, X-ray crystallography, cryo-EM) Conduct biochemical assays to study RNA–protein and RNA–small molecule interactions Perform in vitro transcription, RNA purification, labeling, and structural probing Analyze experimental data, interpret results, and contribute to manuscript preparation Present research findings at lab meetings, institutional seminars, and scientific conferences Mentor graduate students and contribute to training and scientific development within the lab Assist with the development of grant proposals and collaborative research initiatives Knowledge – Skills – Abilities Hands-on experience in at least one structural biology technique (NMR, crystallography or cryo-EM) Strong background in RNA biology, splicing, or nucleic acid biochemistry Proven ability to work independently, manage time effectively, and troubleshoot experiments Excellent written and verbal communication skills Qualifications Appropriate experience may be substituted for education on an equivalent basis. Minimum Required Education: PhD in a scientific field Minimum Required Experience: Preferred Education: Ph.D. in Biochemistry, Biophysics, Structural Biology, Chemistry, Molecular Biology, or a related discipline Preferred Experience: Familiarity with RNA structural probing methods (e.g., SHAPE, DMS mapping, RNase digestion) Familiarity with RNA preparation and purification Experience in protein expression, purification, and RNA–protein complex reconstitution Strong publication record in peer-reviewed journals Physical Requirements Work requires occasionally lifting moderate weight materials, standing, or walking continuously. Work Environment Occasional exposure to dust, noise, temperature changes, or contact with water or other liquids. Work is performed in an environmentally controlled environment. Sensory Acuity Ability to detect and translate speech or other communication required. May occasionally require the ability to distinguish colors and perceive relative distances between objects. Why MCW? Outstanding Healthcare Coverage, including but not limited to Health, Vision, and Dental. Along with Flexible Spending options 403B Retirement Package Competitive Vacation and Paid Holidays offered Tuition Reimbursement Paid Parental Leave Employee & Family Assistance Program (EFAP) Pet Insurance On campus Fitness Facility, offering onsite classes Additional discounted rates on items such as: Select cell phone plans, local fitness facilities, Milwaukee recreation and entertainment etc. For a brief overview of our benefits see: Benefits Overview For a full list of positions see: MCW Careers At MCW all of our endeavors, from our internal operations to our interactions with our partners, are driven by our shared organizational values: Caring – Collaborative – Curiosity – Inclusive – Integrity – Respect. We are committed to fostering an inclusive environment that values diversity in backgrounds, experiences, and perspectives through merit-based processes and in alignment with all applicable laws. We believe that embracing human differences is critical to realize our vision of a healthier world, and we recognize that a healthy and thriving community starts from within. Our values define who we are, what we stand for and how we conduct ourselves at MCW. If you believe in embracing individuality and working together according to these principles to improve health for all, then MCW is the place for you. For more information, please visit our institutional website . MCW as an
+
+---
+
+## 23. [MAYBE] Yale University | Research Associate 1
+- Link: https://yale.wd1.myworkdayjobs.com/terminated_layoff_external_career_site/job/Church-St-South-100/Research-Associate-1_139464WD-1
+- Location: Church St South, 100
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, gcp, credit, publication, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Working at Yale means contributing to a better tomorrow. Whether you are a current resident of our New Haven-based community, eligible for opportunities through the New Haven Hiring Initiative, or a newcomer, interested in exploring all that Yale has to offer, your talents and contributions are welcome. Discover your opportunities at Yale! Overview The Research Associate will support research in the department of Radiology and Biomedical Imaging by carrying out research assignments for multiple projects. They will assist with new project development for PET and MR Core Investigators, including preparation of study protocols and associated materials. They will provide support in screening and recruiting subjects for studies, scheduling procedures, collecting specific data according to research protocols, escorting subjects to study locations when needed, delivering specimens to the local lab and completing data entry. May provide occasional (1x per month) after-hours (5-8pm) coverage for late study procedures. Principal Responsibilities Conducts independent literature research supporting publication efforts. Writes and edits materials for publication and presentation. Assists with grant preparation. Develops protocol and consent documents. Completes regulatory submissions (IRB/MRRC/Radiation Safety). Identifies and recruits study participants for multiple research studies and ensures that subject recruitment and follow-up are completed per protocol procedures. Schedules and coordinates research activities. Orders and maintains an inventory of supplies. Prepares source documents for new studies. Records and compiles information related to research data. Completes electronic data entry and generates reports. Reports on the status of research activities to the research team and academic or industry collaborators. Assist with preparation of annual reports required by regulatory agencies. May prepare financial information and monitor budgets. Perform additional functions incidental to research activities. Required Skills and Abilities 1. Strong attention to detail and ability to manage confidential information appropriately. 2. Demonstrated ability to work independently, as part of a team, and capable of problem-solving. 3. Excellent organizational, writing, and communication skills. 4. Expertise in use of Microsoft Excel and Word. Preferred Skills and Abilities 1. At least one year of experience in clinical research support. 2. Familiarity with Good Clinical Practice (GCP). 3. Familiarly with Institutional Regulatory Board (IRB) submissions. 4. Familiarity with local and federal regulatory agencies. Principal Responsibilities 1. Recommends the design and implementation of procedures and protocols under the direction of a higher-level authority. 2. Investigates, analyzes, and reaches preliminary scientific conclusions related to research planning 3. Ensures data results are compiled, analyzed, and presented properly. 4. Analyzes, develops and interprets scientific results. Maintains clear documentation of results. Prepares scientific reports and papers for research proposals and published reports. 5. Performs independent research and laboratory techniques and participates in experimental research planning. 6. Interacts with internal contacts including the PI, research assistants, graduate students, Radiation Safety and Biological Safety officers, and Animal Care personnel to discuss and evaluate research results and to ensure the smooth and safe operation of the laboratory. 7. Interacts with external contacts such as researchers at other institutions, staff at biotechnology and reagents companies to consult on research methods and to keep abreast of product information and developments. 8. May perform other duties as assigned. Required Education and Experience Master’s Degree in a scientific discipline and one year experience or an equivalent combination of education and experience. Job Posting Date 11/23/2026 Job Category Professional Bargaining Unit NON Compensation Grade Clinical & Research Compensation Grade Profile Research Associate 1 MS (22) Salary Range $61,500.00 - $91,875.00 Benefits A general description of the benefits to be offered with this Managerial & Professional position is available at: Yale Benefits Time Type Full time Duration Type Staff Work Model On-site Background Check Requirements All candidates for employment will be subject to pre-employment background screening for this position, which may include motor vehicle, DOT certification, drug testing and credit checks based on the position description and job requirements. All offers are contingent upon the successful completion of the background check. For additional information on the background check requirements and process visit "Learn about background checks" under the Applicant Support Resources section of Careers on the It's Your Yale website. Health Requirements Certain positions have associated health requirements based on specific job responsibilities. These may include vaccinations, tests, or examinations, as required by law, regulation, or university policy. Posting Disclaimer Salary offers are determined by a candidate’s qualifications, experience, skills, and education in relation to the position requirements, along with the role’s grade profile and current internal and external market conditions. The intent of this job description is to provide a representative summary of the essential functions that will be required of the position and should not be construed as a declaration of specific duties and responsibilities of the position. Employees will be assigned specific job-related duties through their hiring department. The University is committed to basing judgments concerning the admission, education, and employment of individuals upon their qualifications and abilities and seeks to attract to its faculty, staff, and student body qualified persons from a broad range of backgrounds and perspectives. In accordance with this policy and as delineated by federal and Connecticut law, Yale does not discriminate in admissions, educational programs, or employment against any individual on account of that individual’s sex, sexual orientation, gender identity or expression, race, color, national or ethnic origin, religion, age, disability, status as a special disabled veteran, veteran of the Vietnam era or other covered veteran. Inquiries concerning Yale's Policy Against Discrimination and Harassment may be referred to the Office of Institutional Equity and Accessibility (OIEA). Note Yale University is a tobacco-free campus.
+
+---
+
+## 24. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
 - Link: https://jobs.ashbyhq.com/openai/6785d983-8831-46d0-9c81-443f83664948
 - Location: San Francisco United States
 - Posted: Nov 22 12:20 ET
@@ -602,7 +657,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 22. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
+## 25. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810780
 - Location: Jacksonville, FL, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -617,7 +672,7 @@ DESCRIPTION Duties: Work with Product and Data Owners, Technology, and Design Pa
 
 ---
 
-## 23. [MAYBE] Invesco | Quantitative Analyst
+## 26. [MAYBE] Invesco | Quantitative Analyst
 - Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Quantitative-Analyst_R-15895-1
 - Location: New York, New York
 - Posted: Nov 22 (board gives the date only)
@@ -632,7 +687,7 @@ About Invesco As one of the world’s leading independent global investment firm
 
 ---
 
-## 24. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
+## 27. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
 - Link: https://uscareeropenings-alliancelaundry.icims.com/jobs/14271/data-analyst-%28sourcing%29/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -647,7 +702,7 @@ Data Analyst (Sourcing) in Ripon, Wisconsin | Careers at Alliance Laundry System
 
 ---
 
-## 25. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
+## 28. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
 - Link: https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445
 - Location: San Francisco United States
 - Posted: Nov 22 12:14 ET
@@ -704,7 +759,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 26. [MAYBE] Prosper AI | AI Engineer
+## 29. [MAYBE] Prosper AI | AI Engineer
 - Link: https://jobs.ashbyhq.com/prosper-ai/fc1781c3-3fee-47f6-bf76-c5e2a6357eaf
 - Location: Barcelona Spain remote
 - Posted: Nov 23 11:51 ET
@@ -761,7 +816,52 @@ Interviewing Process
 
 ---
 
-## 27. [MAYBE] Koddi | Associate Digital Marketing Analyst
+## 30. [MAYBE] Exponent | Title Research Assistant
+- Link: https://careers-exponent.icims.com/jobs/2465/research-assistant/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, statistic, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | Plus, we help you grow your career through mentoring, sponsorship, and a culture of learning.
+
+### Job description
+
+Research Assistant in Phoenix, Arizona | Careers at Phoenix Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Go back to Welcome Page Returning Candidate? Log back in! Research Assistant ID 2026-2465 Location US-AZ-Phoenix Practice User Sciences Position Type Full-time Workplace Type On-Site About Exponent Exponent is the only premium engineering and scientific consulting firm with the depth and breadth of expertise to solve our clients’ most profoundly unique, unprecedented, and urgent challenges. We are committed to engaging multidisciplinary teams of science, engineering, and regulatory experts to empower our clients with solutions that create a safer, healthier, more sustainable world. For over five decades, we've connected the lessons of past failures with tomorrow's solutions to advise clients as they innovate technologically complex products and processes, ensure the safety and health of their users, and address the challenges of sustainability. Join our team of experts with degrees from top programs at over 500 universities and extensive experience spanning a variety of industries. At Exponent, you’ll contribute to the diverse pool of ideas, talents, backgrounds, and experiences that drives our collaborative teamwork and breakthrough insights. Plus, we help you grow your career through mentoring, sponsorship, and a culture of learning. Thanks for your interest in joining our team! Key statistics: 1,100+ Team members 950+ Consultants 640+ Ph.D.s 90+ Disciplines 30+ Offices globally Our Opportunity We are currently seeking Research Assistants for our User Sciences Practice in Phoenix, AZ . In this role, you will work as part of a team to conduct and plan data collection efforts that support clients in consumer electronics and life sciences. You will be responsible for Operating and troubleshooting prototype hardware systems Moderating user studies with a wide variety of participants at various locations including troubleshooting study execution issues in the field and proposing corrective actions Willingness to travel to domestic and international study sites based on project needs Developing project management and execution strategy with consultant team to accomplish project goals Assisting with layout and setup of study sites Communicating progress updates and revisions of study protocol to clients, project managers, and executives within the firm Working in teams with senior consultants to develop full project proposals and budgets based on statements of work from clients You will have the following skills and qualifications B.S./B.A. or M.S./M.A. in Science, Engineering, or a related field such as Computer Science, Physics, Statistics, Applied Mathematics, Mechanical Engineering, Electrical Engineering, Applied Physics, Chemistry, Cognitive Science or Biomedical Engineering or related field Experience with human subjects testing, usability testing, or surveys is preferred Experience with hardware and software development or troubleshooting is preferred Ability to work in teams with a strong desire to contribute Excellent written and verbal communication skills Strong analytical thinking and real-time problem solving skills Strong organizational skills Willingness to travel approximately 30% of the time to domestic and international study sites Life @ Exponent To learn more about life at Exponent and our impact, please visit the following links: https://www.exponent.com/careers/life-exponent https://www.exponent.com/company/our-impact We value and encourage diversity, equity and inclusion across all facets of our firm. Having a team built of people with different backgrounds, skills and perspectives allows us to provide better value to our clients and enjoy an enriched work environment. Our firm is committed to offering a variety of programs and resources to support health and well-being. We believe that providing competitive benefits, as well as compensation and recognition programs, empowers our staff to do work that makes a difference. Work Environment At Exponent, we have found that in-person interactions deepen employee engagement and are crucial for development, for realizing the full potential of our talented and diverse teams, and for​ building a more inclusive workplace where all have a sense of belonging. In our offices, you can expect a supportive culture and a collaborative, dynamic, multi-disciplinary work environment. Compensation The pay rate for this position is dependent on experience and capabilities which will be assessed during the interview process. Benefits you will enjoy Access benefits information on our Life @ Exponent page: https://www.exponent.com/careers/life-exponent Exponent is a proud
+
+---
+
+## 31. [MAYBE] Texas A&M AgriLife Research | Research Associate
+- Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Research-Associate_R-099059-1
+- Location: College Station, TX
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 4 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, llm, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Title Research Associate Agency Texas A&M Agrilife Research Department Rangeland, Wildlife & Fisheries Management Proposed Minimum Salary Commensurate Job Location College Station, Texas Job Type Staff Job Description About Texas A&M AgriLife Texas A&M AgriLife is comprised of the following Texas A&M University System members: Texas A&M AgriLife Extension Service Texas A&M AgriLife Research College of Agriculture and Life Sciences at Texas A&M University Texas A&M Forest Service Texas A&M Veterinary Medical Diagnostic Laboratory As the nation’s largest most comprehensive agriculture program, Texas A&M AgriLife brings together a college and four state agencies focused on agriculture and life sciences within The Texas A&M University System. With over 5,000 employees and a presence in every county across the state, Texas A&M AgriLife is uniquely positioned to improve lives, environments and the Texas economy through education, research, extension and service. Click here to learn more about joining AgriLife! Position Information Job Summary: The Research Associate is responsible for conducting field-based data collection, including soil and vegetation sampling, coordinating field activities with producers and project partners, and supporting multiple research projects to achieve established objectives, timelines, and deliverables. The Texas A&M Center for Grazinglands and Ranch Management (CGRM) is seeking a motivated, detail-oriented Research Associate to support research projects focused on grazing management and rangeland health. The successful candidate will be conduct field-based data collection, including soil and vegetation sampling, and other tasks necessary to achieve project objectives and milestones. Much of CGRM’s research is conducted in partnership with landowners on working ranches, requiring regular communication with producers ajd coordination with project partners to plan and execute field activities. The Research Associate will contribute to multiple ongoing projects with varying research objectives and timelines. This position requires strong organizational and communication skills, the ability to manage competing priorities, and the flexibility to adapt to changing project needs and field conditions. The ideal candidate will be self-motivated, dependable, and comfortable working both independently and collaboratively in a fast-paced, field-oriented research environment. Texas A&M University’s Center for Grazinglands and Ranch Management (CGRM) aims to safeguard the ecologic and economic resiliency of grazingland resources and ranching operations with a focus on producer-directed, applied grazingland and ranch management research, outreach, and industry engagement. CGRM develops and supports interdisciplinary collaborations to address critical needs in the ranching community and strives to achieve three overarching goals: enhance operational resiliency, strengthen enterprise sustainability, and foster the future of the industry. Responsibilities: Conducts field-based data collection, including soil and vegetation sampling, and other tasks necessary to achieve project objectives and milestones. Communicates and coordinates with producers and project partners to plan and execute field activities. Supports and contributes to multiple ongoing projects with varying research objectives and timelines. Performs other duties as assigned. Qualifications: Required Qualifications: B.S. degree in rangeland management, natural resource management or closely related field. Two years of related experience. Strong knowledge of Microsoft Excel. Proficiency in ArcGIS. Detail oriented, strong work ethic, and self-motivated. Ability to work independently and as a team with minimum supervision and be capable of planning an effective work day. Ability to communicate effectively and efficiently (verbal and written); Ability to multi task and work cooperatively with others. Ability to learn new skills and techniques. Preferred Qualifications: M.S. degree in rangeland management, natural resource management or closely related field; GPA of ≥3.0. Experience or working knowledge of rangeland management practices and grazing management strategies. Experience working directly with producers. Knowledge or experience planning, coordinating, and conducting field activities. Technical writing skills. Other Requirements: Work beyond normal business hours and/or work on weekends. Travels to various field site locations (e.g., counties, field sites). Ability to lift or move light, moderate, or heavy objects. Ability to work outdoors in variable weather conditions. Ability to work in a remote location, sometimes under adverse conditions (hot, humid, biting/stinging insects), on working ranches with livestock operations. What You Need to Know Compensation is commensurate with the candidate’s qualifications. Position Funding: This position is funded through grants or contracts. Continued employment is dependent upon ongoing funding and satisfactory job performance. Benefits and Leave : Health, dental, vision, life and long-term disability insurance (AgriLife contributes to premiums) 12–15 annual paid holidays Up to 8 hours/month sick leave and at least 8 hours/month vacation Automatic enrollment in the Teacher Retirement System of Texas Employee Wellness Initiative Access to ongoing professional development and training through Aspire, LinkedIn Learning, and internally developed programs How to Apply Applications must include all job application data or a complete resume. Incomplete applications may be rejected. Applicants are encouraged to upload a resume or use LinkedIn to prepopulate application fields. Any questions, please contact Jenne Likins at jenna.likins@ag.tamu.edu . Required Documents: CV / Resume Cover Letter List of References Certifications / Additional Documentation (if applicable) All positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check. Equal Opportunity/Veterans/Disability Employer.
+
+---
+
+## 32. [MAYBE] Texas A&M University System | Research Associate
+- Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-099059
+- Location: College Station, TX
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, llm, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Title Research Associate Agency Texas A&M Agrilife Research Department Rangeland, Wildlife & Fisheries Management Proposed Minimum Salary Commensurate Job Location College Station, Texas Job Type Staff Job Description About Texas A&M AgriLife Texas A&M AgriLife is comprised of the following Texas A&M University System members: Texas A&M AgriLife Extension Service Texas A&M AgriLife Research College of Agriculture and Life Sciences at Texas A&M University Texas A&M Forest Service Texas A&M Veterinary Medical Diagnostic Laboratory As the nation’s largest most comprehensive agriculture program, Texas A&M AgriLife brings together a college and four state agencies focused on agriculture and life sciences within The Texas A&M University System. With over 5,000 employees and a presence in every county across the state, Texas A&M AgriLife is uniquely positioned to improve lives, environments and the Texas economy through education, research, extension and service. Click here to learn more about joining AgriLife! Position Information Job Summary: The Research Associate is responsible for conducting field-based data collection, including soil and vegetation sampling, coordinating field activities with producers and project partners, and supporting multiple research projects to achieve established objectives, timelines, and deliverables. The Texas A&M Center for Grazinglands and Ranch Management (CGRM) is seeking a motivated, detail-oriented Research Associate to support research projects focused on grazing management and rangeland health. The successful candidate will be conduct field-based data collection, including soil and vegetation sampling, and other tasks necessary to achieve project objectives and milestones. Much of CGRM’s research is conducted in partnership with landowners on working ranches, requiring regular communication with producers ajd coordination with project partners to plan and execute field activities. The Research Associate will contribute to multiple ongoing projects with varying research objectives and timelines. This position requires strong organizational and communication skills, the ability to manage competing priorities, and the flexibility to adapt to changing project needs and field conditions. The ideal candidate will be self-motivated, dependable, and comfortable working both independently and collaboratively in a fast-paced, field-oriented research environment. Texas A&M University’s Center for Grazinglands and Ranch Management (CGRM) aims to safeguard the ecologic and economic resiliency of grazingland resources and ranching operations with a focus on producer-directed, applied grazingland and ranch management research, outreach, and industry engagement. CGRM develops and supports interdisciplinary collaborations to address critical needs in the ranching community and strives to achieve three overarching goals: enhance operational resiliency, strengthen enterprise sustainability, and foster the future of the industry. Responsibilities: Conducts field-based data collection, including soil and vegetation sampling, and other tasks necessary to achieve project objectives and milestones. Communicates and coordinates with producers and project partners to plan and execute field activities. Supports and contributes to multiple ongoing projects with varying research objectives and timelines. Performs other duties as assigned. Qualifications: Required Qualifications: B.S. degree in rangeland management, natural resource management or closely related field. Two years of related experience. Strong knowledge of Microsoft Excel. Proficiency in ArcGIS. Detail oriented, strong work ethic, and self-motivated. Ability to work independently and as a team with minimum supervision and be capable of planning an effective work day. Ability to communicate effectively and efficiently (verbal and written); Ability to multi task and work cooperatively with others. Ability to learn new skills and techniques. Preferred Qualifications: M.S. degree in rangeland management, natural resource management or closely related field; GPA of ≥3.0. Experience or working knowledge of rangeland management practices and grazing management strategies. Experience working directly with producers. Knowledge or experience planning, coordinating, and conducting field activities. Technical writing skills. Other Requirements: Work beyond normal business hours and/or work on weekends. Travels to various field site locations (e.g., counties, field sites). Ability to lift or move light, moderate, or heavy objects. Ability to work outdoors in variable weather conditions. Ability to work in a remote location, sometimes under adverse conditions (hot, humid, biting/stinging insects), on working ranches with livestock operations. What You Need to Know Compensation is commensurate with the candidate’s qualifications. Position Funding: This position is funded through grants or contracts. Continued employment is dependent upon ongoing funding and satisfactory job performance. Benefits and Leave : Health, dental, vision, life and long-term disability insurance (AgriLife contributes to premiums) 12–15 annual paid holidays Up to 8 hours/month sick leave and at least 8 hours/month vacation Automatic enrollment in the Teacher Retirement System of Texas Employee Wellness Initiative Access to ongoing professional development and training through Aspire, LinkedIn Learning, and internally developed programs How to Apply Applications must include all job application data or a complete resume. Incomplete applications may be rejected. Applicants are encouraged to upload a resume or use LinkedIn to prepopulate application fields. Any questions, please contact Jenne Likins at jenna.likins@ag.tamu.edu . Required Documents: CV / Resume Cover Letter List of References Certifications / Additional Documentation (if applicable) All positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check. Equal Opportunity/Veterans/Disability Employer.
+
+---
+
+## 33. [MAYBE] Koddi | Associate Digital Marketing Analyst
 - Link: https://job-boards.greenhouse.io/koddi/jobs/8944816002
 - Location: Fort Worth, Texas
 - Posted: Nov 23 12:58 ET
@@ -776,7 +876,7 @@ About Koddi We are a global technology company with software and services that h
 
 ---
 
-## 28. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
+## 34. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
 - Link: https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Golbey/Stage---Dveloppement-de-modles-d-AI-ML-appliqus-aux-changeurs--plaques-et-ailettes-brases-en-aluminium-H-F_JR0049556
 - Location: Golbey
 - Posted: Nov 22 (board gives the date only)
@@ -791,7 +891,7 @@ Chez Alfa Laval Golbey, nous concevons et fabriquons des échangeurs thermiques 
 
 ---
 
-## 29. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
+## 35. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
 - Link: https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/HSS-Kellen-Tower/Research-Assistant-I_JR2026-106937
 - Location: HSS Kellen Tower
 - Posted: Nov 22 (board gives the date only)
@@ -806,7 +906,7 @@ How you move is why we’re here. ® Now more than ever. Get back to what you ne
 
 ---
 
-## 30. [MAYBE] Moffitt Cancer Center | Research Associate 1
+## 36. [MAYBE] Moffitt Cancer Center | Research Associate 1
 - Link: https://moffitt.wd108.myworkdayjobs.com/Moffitt/job/Moffitt-Research-Center/Research-Associate-1_R-4930
 - Location: Moffitt Research Center
 - Posted: Nov 23 (board gives the date only)
@@ -821,7 +921,52 @@ Working at Moffitt is both a career and a mission: to contribute to the preventi
 
 ---
 
-## 31. [MAYBE] Gartner | Sr Data Analyst
+## 37. [MAYBE] John Wiley & Sons | Senior Data Scientist (NLP & Applied AI)
+- Link: https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Hoboken-HQ-NJ-USA/Senior-Data-Scientist--NLP---Applied-AI-_R2601204
+- Location: Hoboken (HQ), NJ, USA
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~70 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 4 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, llm, nlp, python, spark, classification, lambda, pipeline, research | Lacks: -  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We believe in bold ideas, diverse perspectives, and the drive to transform knowledge into impact. Here, your curiosity fuels progress, your voice shapes innovation, and your ambition helps redefine what’s possible within science and learning. We are a culture that obsesses over impact, challenges, and drives what’s next to power infinite possibilities for our customers, colleagues and society at large. About the Role: We're building the systems that turn one of the world's largest scientific corpora into research intelligence. That means production NLP pipelines running over millions of journal articles, extracting entities, classifications, claim tuples, and summaries optimized for use by downstream agentic applications . We're looking for a senior data scientist to own domain-specific content modeling work end to end, from the eval set through the pipeline stage that ships it. You'll join a small, senior team where data scientists own their models in production. You'll write the code, own the evaluations, ship the changes, and stay accountable for the outcomes. This is a hands-on role for someone who wants to see their models through to real users in a rapidly evolving market . Job Responsibilities: Design and build NLP enrichment pipelines that extract entities, classifications, claims, and summaries from scientific full-text at scale. Compare NLP approaches to extraction and enrichment against LLM-based approaches, and pick the right tool for each task. That means putting traditional NLP (NER, sequence labeling, classification), embedding-based retrieval, LLM prompting, and fine-tuned smaller models on the same table, and defending each choice with evaluation, cost, and operational tradeoffs. This is a core part of the job, not an occasional exercise. Own evaluation. Build the golden sets in consultation with SMEs and vendors, choose the metrics, and make productive tradeoffs between speed, quality, and cost. Contribute to agentic AI application work: tool-using systems that reason over the enriched corpus, where your NLP and evaluation background will shape how the agent grounds and defends its answers. Work directly with editors, product managers, and engineers. Bring the modeling perspective into product decisions, and translate stakeholder pushback into concrete modeling work. Required Qualifications: Strong NLP background across modern (LLMs, transformers, embeddings, retrieval) and classical (NER, classification, sequence labeling) approaches. You've built evaluations and learned from the results . Clean python . You are comfortable in exploratory notebooks and production repositories, and an engineer taking over a modeling output from you has a good head start. A habit of comparing approaches and choosing the right one for the task. You can defend "prompt a large LLM" and "train a small classifier on 2,000 labels" with equal seriousness, back the choice with an eval and a cost estimate, and know what to do when performance drifts. Preferred Qualifications: Experience working with scientific or scholarly text. Familiarity with AWS (S3, Batch, Lambda, SageMaker) and Parquet or Iceberg data lake patterns. Experience running LLMs under real cost and latency budgets in production. Some exposure to agentic AI applications: tool use, multi-step reasoning, guardrails, and evaluation of trajectories rather than single-turn outputs. We power infinite possibilities. For more than 200 years, we've transformed knowledge into discoveries that shape the world. Today, our global team of innovators, creators, and experts is driving what's next in science, education, and publishing—creating impact that reaches everywhere. We're not just observers of progress. We're the ones accelerating scientific breakthroughs, advancing learning, and sparking innovation that redefines entire fields and improves lives. Here, your talent matters. Your ideas have room to grow. And your work creates breakthroughs that can change everything. Wiley
+
+---
+
+## 38. [MAYBE] Johnson & Johnson | Sr Scientist Data Science
+- Link: https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Sr-Scientist-Data-Science_R-111095-1
+- Location: Raritan, New Jersey, United States of America
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 11 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: data visualization, econometric, llm, machine learning, python, regression, spark, statistic, git, healthcare, pipeline, quantitative, reporting, research | Lacks: databricks, scala  | Note: title says Senior/II: asks 2 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity. Learn more at jnj.com As guided by Our Credo, Johnson & Johnson is responsible to our employees who work with us throughout the world. We provide an inclusive work environment where each person is considered as an individual. At Johnson & Johnson, we respect the diversity and dignity of our employees and recognize their merit. Job Function: Data Analytics & Computational Sciences Job Sub Function: Data Science Job Category: Scientific/Technology All Job Posting Locations: Raritan, New Jersey, United States of America Job Description: About the Team The Innovative Medicine Supply Chain DS/AI team develops advanced analytical solutions that strengthen supply continuity, resilience, planning, procurement, and network performance across Johnson & Johnson's global supply chain. Our work spans Operations Research, machine learning, advanced statistics, time-series analysis, simulation, graph/network analytics, and emerging AI techniques. Role Summary We are looking for a hands-on Data Science Lead with a strong foundation in Operations Research / mathematical modeling and applied machine learning/statistics. The successful candidate will independently design, develop, and enhance advanced analytical solutions for complex supply chain problems. The role requires strong quantitative problem-solving, production-quality Python development, and the ability to translate business needs into sound analytical approaches while working effectively with both technical and business stakeholders. Key Responsibilities Lead analytical solution development from problem formulation and methodology selection through validated, scalable implementation. Build and enhance mathematical optimization models, statistical/ML models, time-series methods, simulation models, and graph/network-based analytics as appropriate to the business problem. Analyze and extend existing analytical models and pipelines, understanding model assumptions, business logic, data dependencies, and downstream impacts. Translate business requirements and user stories into analytical requirements and technical specifications; assess impacts across model logic, business rules, data interfaces, and technology dependencies. Apply rigorous analytical validation, including benchmark comparison, sensitivity/scenario analysis, regression testing, and output validation. Develop high-quality, modular, testable Python code using sound software-engineering practices, including version control, documentation, and code review. Partner with Data Engineering and Technology teams to define data and technical requirements and support scalable integration and operationalization. Contribute to solution design, model/code reviews, validation strategy, and analytical guidance to team members and delivery partners. Required Qualifications Master's or PhD in Industrial Engineering, Operations Research, Applied Mathematics, Statistics, Computer Science, or another highly quantitative discipline. 2-4 years of hands-on experience developing Data Science / Operations Research solutions, preferably within supply chain, manufacturing, logistics, procurement, or another complex operational domain. Strong foundation in Operations Research / mathematical modeling and applied machine learning/statistics, with demonstrated experience formulating and implementing optimization models such as LP/MILP. Strong Python proficiency, including experience developing modular, maintainable analytical code beyond exploratory notebook prototyping. Ability to troubleshoot and enhance complex existing analytical solutions, including model logic, assumptions, and data dependencies. Experience with cloud-based data and analytics platforms; Databricks, Spark, Delta Lake, and Unity Catalog experience is preferred. Strong communication skills, including the ability to explain complex analytical concepts clearly to non-technical stakeholders. Ability to independently drive technical work while collaborating effectively across business, Data Engineering, and Technology teams. Preferred Qualifications Experience modeling supply networks, interconnected systems, digital twins, or risk-propagation problems using graph/network-based methods; Neo4j/Cypher experience is a plus. Experience in pharmaceutical, life sciences, or another regulated-industry supply chain. Exposure to GenAI/LLM-based analytical solutions, including knowledge retrieval, synthesis, conversational analytics, or agentic workflows, with a grounded understanding of when these approaches add value relative to classical ML, statistics, and Operations Research. Required Skills: Preferred Skills: Advanced Analytics, AI Judgement Integration, Business Intelligence (BI), Coaching, Collaboration, Critical Thinking, Data Analysis, Database Management, Data Privacy Standards, Data Reporting, Data Savvy, Data Science, Data Visualization, Econometric Models, Process Improvements, Technical Credibility, Technologically Savvy, Workflow Analysis The anticipated base pay range for this position is : $112,000.00 - $180,550.00 Additional Description for Pay Transparency: Subject to the terms of their respective plans, employees are eligible to participate in the Company’s consolidated retirement plan (pension) and savings plan (401(k)). Subject to the terms of their respective policies and date of hire, employees are eligible for the following time off benefits: Vacation –120 hours per calendar year Sick time - 40 hours per calendar year; for employees who reside in the State of Colorado –48 hours per calendar year; for employees who reside in the State of Washington –56 hours per calendar year Holiday pay, including Floating Holidays –13 days per calendar year Work, Personal and Family Time - up to 40 hours per calendar year Parental Leave – 480 hours within one year of the birth/adoption/foster care of a child Bereavement Leave – 240 hours for an immediate family member: 40 hours for an extended family member per calendar year Caregiver Leave – 80 hours in a 52-week rolling period10 days Volunteer Leave – 32 hours per calendar year Military Spouse Time-Off – 80 hours per calendar year For additional general information on Company benefits, please go to: https://www.careers.jnj.com/employee-benefits
+
+---
+
+## 39. [MAYBE] Capital One | Sr. Business Analyst - Profitability & Growth Analysis
+- Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Sr-Business-Analyst---Profitability---Growth-Analysis_R1005980
+- Location: 2 Locations
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 458 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, sql, statistic, credit, portfolio, quantitative, research | Lacks: -  | Note: title says Senior/II: asks 1 years
+- Eligibility: OK | You are expected to adhere to Capital One's hybrid policy regarding required on-site presence at your designated office location Basic Qualifications: At least 2 years of professional experience performing analysis Curre
+
+### Job description
+
+Sr. Business Analyst - Profitability & Growth Analysis Summary: As a Senior Business Analyst at Capital One, you will apply your strategic and analytical skills to major company challenges. You will team with world-class professionals to develop and test strategies that ultimately impact the bottom line. And you will do it all in a collaborative environment that values your insight, encourages you to take on new responsibility, promotes continuous learning, and rewards innovation. On the Commercial Bank’s Profitability & Growth Analysis team, you will work with senior leaders to look across our entire ~$90B Commercial loan portfolio and determine the optimal allocation by segment in pursuit of complex, qualitative and quantitative goals. You will own analysis to drive our Asset Optimization model and translate its outputs into recommendations for leadership, ultimately determining how our portfolio should evolve over time, and then work with business leads and partner teams to put our strategy into practice. This is a growing team that has a high level of executive engagement and a mandate to make recommendations to bring our portfolio closer to our destination state. General Responsibilities: Analysis: Identify business challenges and opportunities for improvement and solve for them using analysis to make strategic or tactical recommendations Execution: Develop problem frameworks and hypotheses, propose solutions, test and analyze, lead implementation efforts, and develop a monitoring plan Partnership: Work closely with colleagues across Capital One including: Sales, Underwriting, Credit, Operations, Finance to reconcile diverse opinions and get to the best answer Strategic & analytic orientation: A proven track record of decision making and problem solving based on analytics. Conceptual thinking skills must be complemented by a strong quantitative orientation Strong business judgment, leadership and integrity: He/she should be a tenacious decision maker, able to bring a healthy, aggressive, yet responsible approach to business Strong communication skills: Impeccable written and oral communication credentials, coupled with strategic influencing skills and the ability to drive agreement through intellect, interpersonal and negotiation skills Clear results orientation: display an intense focus on achieving both short and long term goals. He/she should be able to drive and execute an agenda in an uncertain and fluid environment Successful track record of thriving in a fast paced, entrepreneurial and dynamic environment. Previous consulting experience is a plus This role is designated as a hybrid position. You are expected to adhere to Capital One's hybrid policy regarding required on-site presence at your designated office location Basic Qualifications: At least 2 years of professional experience performing analysis Currently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date: A Bachelor's Degree in a quantitative field (Business, Finance, Accounting, Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, Computer engineering, Software engineering, Mechanical engineering, Information Systems or a related quantitative field) A Master's Degree in a quantitative field (Business, Finance, Accounting, Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, Computer Engineering, Software Engineering, Mechanical engineering, Information Systems or a related quantitative field) or an MBA with a quantitative concentration Preferred Qualifications: Master’s Degree in Business or quantitative field such as Finance, Economics, Physical Sciences, Math, Statistics, Engineering 1+ years of experience in Statistical model building 1+ years of experience in market research 1+ years of experience in SQL querying 2+ years of experience in business analysis 1+ years of experience in consulting Capital One will consider sponsoring a new qualified applicant for employment authorization for this position. The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked. McLean, VA: $111,200 - $126,900 for Sr. Business Analyst New York, NY: $121,300 - $138,400 for Sr. Business Analyst Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter. This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan. Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website . Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level. This role is expected to accept applications for a minimum of 5 business days. No agencies please. Capital One
+
+---
+
+## 40. [MAYBE] Gartner | Sr Data Analyst
 - Link: https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Sr-Data-Analyst_116148
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -836,7 +981,7 @@ The Demand Analytics team within the Business Technology and Insights (BTI) grou
 
 ---
 
-## 32. [MAYBE] AbbVie | Sr. Data Science Analyst, Business Intelligence 
+## 41. [MAYBE] AbbVie | Sr. Data Science Analyst, Business Intelligence 
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990017038986
 - Location: Irvine CA us
 - Posted: Nov 23 12:41 ET
@@ -848,4 +993,19 @@ The Demand Analytics team within the Business Technology and Insights (BTI) grou
 ### Job description
 
 Allergan Aesthetics Commercial is on a mission to transform the aesthetics business at AbbVie, the fourth pharmaceutical company in the world. Allergan Aesthetics brands include Botox, CoolSculpting, Juvéderm and more. The medical aesthetics business is ripe for disruption and we’re building a high performing team to do just that. We’re looking for a strong, technically sound Sr Analyst, Marketing Business Intelligence who is interested in working as an analytical partner to the field sales and commercial director teams. The Sr Analyst partners with stakeholders across the business to answer analytical questions critical to the success of our teams and our field teams and customers, such as: How are our largest customers performing, and how can we help them improve? Which of our marketing investments are most effective? What trends do we see across the business and how do those trends differ across different customers? You will design innovative analytic approaches to test hypotheses, extract actionable insights by identifying patterns in structured and unstructured data, and develop recommendations to drive business performance. You will be instrumental in leading the use of analytics as a critical value driver and source of competitive advantage across our organization. You Will Apply advanced analytics techniques (core statistical-modeling, data visualization, data mining) to extract actionable insights through analysis of large-scale, high-dimensional data. Collaborate with stakeholders to understand the analytic needs of our largest customers and provide accurate and actionable analysis to support their critical business decisions Shape the thinking of our teams but not only communicating the details of your analysis, but its business implications Develop dashboards to enable clear visibility into business performance Work with data engineers to ensure accurate and up-to-date data power each analysis. Act as a partner with the Commercial Director team to support customer analyses, identify opportunities and drive analytical rigor with the field. Experience & Skills Bachelor’s degree in Mathematics, Statistics, Operations Research, Computer Science, Business Intelligence/Analytics or equivalent. Demonstrated 3+ years’ experience in driving business decisions with data-driven analyses. Highly proficient with SQL. Minimum of 3 years of experience with a modern visualization tool like Tableau, Looker, etc. Extensive experience building dashboards to present meaningful data insights and business opportunities. Comfortable using massive and disparate datasets and the big data eco-system. Experience applying statistical analyses and modeling to business problems; experiment design, hypothesis testing, regression, etc. Demonstrated ability working independently and applying exceptional creativity in solving open-ended problems. Outstanding verbal, written, and visual communication skills for data storytelling. Experience supporting outside sales organizations. Preferred Experience & Technical Skills Master’s degree in Mathematics, Statistics, Operations Research, Computer Science or equivalent R or Python scripting experience to perform data wrangling and analysis Experience working with Snowflake or similar distributed databases #LI-AA Applicable only to applicants applying to a position in any location with pay disclosure requirements under state or local law: ​ The compensation range described below is the range of possible base pay compensation that the Company believes in good faith it will pay for this role at thetime of this posting based on the job grade for this position. Individual compensation paid within this range will depend on many factors including geographiclocation, and we may ultimately pay more or less than the posted range. This range may be modified in the future. ​ We offer a comprehensive package of benefits including paid time off (vacation, holidays, sick), medical/dental/vision insurance and 401(k) to eligible employees.​ This job is eligible to participate in our short-term incentive programs. ​ Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability ofany bonus, commission, incentive, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company'ssole and absolute discretion unless and until paid and may be modified at the Company’s sole and absolute discretion, consistent with applicable law. AbbVie
+
+---
+
+## 42. [MAYBE] Chewy | Machine Learning Engineer II
+- Link: https://chewy.wd5.myworkdayjobs.com/External/job/Dallas-TX/Machine-Learning-Engineer-II_R31506-1
+- Location: 4 Locations
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 107 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, data visualization, excel, gcp, machine learning, python, pytorch, scikit, spark, sql, tableau, tensorflow, athena, data quality | Lacks: azure, dbt, scala  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Description: Our Opportunity: We are seeking a talented and passionate Machine Learning Engineer II to join our growing team. In this role, you will play a crucial part in building and deploying machine learning solutions that empower our Chewy Customer Care teams. As a Machine Learning Engineer II, you will be a key contributor throughout the machine learning lifecycle, from data preparation and model development to deployment and monitoring. You will have the opportunity to work on diverse projects and contribute directly to the success of the company. What You’ll Do: Design and implement robust data pipelines for efficient data ingestion, processing, and feature engineering. Ensure data quality and consistency for model training and inference. Work with large datasets and apply data scaling techniques. Select and build appropriate machine learning models based on business requirements and data characteristics. Train and evaluate models using various techniques and metrics. Fine-tune models to achieve optimal performance and efficiency. Deploy machine learning models to production environments, ensuring scalability, reliability, and maintainability. Implement monitoring and alerting systems to track model performance and identify potential issues. Optimize models for inference speed and resource utilization. Work closely with data scientists, software engineers, and business stakeholders to understand requirements and deliver solutions. Effectively communicate technical concepts and findings to both technical and non-technical audiences. What You’ll Need: Master's degree in Computer Science, Machine Learning, or a related field. 3+ years of experience as a Machine Learning Engineer or in a similar role. Strong programming skills in Python or another relevant language. Experience with machine learning frameworks and libraries (e.g., TensorFlow, PyTorch, scikit-learn). Experience with SQL and relational databases. Familiarity with AWS cloud technologies (e.g., Glue, Sagemaker, Athena, Redshift). Solid understanding of machine learning algorithms and best practices. Experience with cloud computing platforms (e.g., AWS, Azure, GCP). Excellent communication and presentation skills. Bonus: Familiarity with big data technologies (e.g., Spark, Iceberg, dbt). Experience with data visualization tools (e.g., Tableau, Streamlit, Plotly). Knowledge of retail and e-commerce. The base salary range for this role is $119,500 - $190,000.00. The specific salary offered to a candidate may be influenced by a variety of factors including but not limited to the candidate’s relevant experience, education, and work location. In addition, this position is eligible for 401k and a new hire and annual equity grant. C08+ positions may also be eligible for annual bonus. We offer different types of insurance and benefits, such as medical/Rx, vision, dental, life, disability, hospital indemnity, critical illness, and accident. We offer parental leave, family services benefits, backup dependent care, flexible spending accounts, telemedicine, pet adoption reimbursement, employee assistance program, and many discounts including 10% off pet insurance and 20% off at Chewy.com. Exempt salary team members have unlimited PTO, subject to manager approval. Team members will receive six paid holidays per year. Team members may be eligible for paid sick and family leave in compliance with applicable state and local regulations. Chewy
 
