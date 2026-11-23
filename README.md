@@ -12,6 +12,10 @@
 
 **Job types in scope (2 Nov 2026):** full-time, part-time, temporary, contract, seasonal, visiting and volunteer roles all pass the title filter. Every posting in the HOT and MAYBE files carries a `Type:` line. On STEM OPT a job only counts if it is paid, 20+ hours a week, related to the degree and at an E-Verify employer with a Form I-983, so a part-time posting that states under 20 hours a week, or an unpaid one, is listed as MAYBE with that note instead of HOT. Other part-time and contract postings can still be HOT, with a reminder to confirm hours, W-2 status and E-Verify before applying.
 
+**Builder titles (23 Nov 2026):** entry Forward Deployed / Deployment Engineer, AI Engineer, AI solutions analyst, automation or transformation associate, agentic/GenAI developer and LLM or agent evaluation titles now pass the title filter. They count as core (and can be HOT, with `Title scope: builder`) only when the description asks for Python and SQL and every stated year count is 2 or below; otherwise they are "broad" (MAYBE at best). Distinguished, test/QA, marketing and plant automation titles stay out.
+
+**US-only location gate (23 Nov 2026):** Workday postings now carry their own country from Workday's detail record, so site names such as "CRI-Sabana", "Corp - Zug Corporate Office" or "Cork" no longer slip through. Foreign city and country names need word boundaries, country codes no longer pass as state codes ("Haifa ... IL", Lever "CA"), Ashby's "remote" tag no longer makes a London posting American, and US towns that share a foreign name (Dublin OH, Melbourne FL, Vancouver WA, anything in Indiana or New Mexico) are kept. A non-Workday location the gate cannot place is kept only if the description names a US place, a dollar pay range, 401(k), E-Verify or a US-style EEO line. Cases live in `tests/test_filters.py`.
+
 ---
 
 ## Deploy (about 40 minutes)

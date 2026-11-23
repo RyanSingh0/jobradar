@@ -28,7 +28,9 @@ TITLE_OK = re.compile(
     r"biostatistic|econometric|economist|quantitative|\bquant\b|model (risk|validation|evaluation|developer)|"
     r"risk (model|scientist)|data engineer|analytics engineer|data (quality|validation|governance|specialist|associate)|"
     r"insights|reporting|forecast|actuarial analyst|strategy (associate|analytics)|evaluation|\bllms?\b|\bnlp\b|"
-    r"new grad|early career|graduate program|rotational|development program|associate,? data|junior data", re.I)
+    r"new grad|early career|graduate program|rotational|development program|associate,? data|junior data|"
+    r"forward[- ]deployed|deploy(ment|ed) engineer|automation|transformation|agentic|generative|\bgen ?ai\b|"
+    r"prompt engineer", re.I)  # 23 Nov: builder family
 CORE = re.compile(  # his target families: these can be HOT; any other TITLE_OK match is "broad" (max MAYBE)
     r"data (analyst|scien|engineer|analytics|quality|validation)|business intelligence|\bbi (analyst|developer|engineer)|"
     r"analytics (analyst|engineer|associate|specialist|consultant)|(decision|product|marketing|growth|insights|reporting|pricing|"
@@ -38,7 +40,7 @@ CORE = re.compile(  # his target families: these can be HOT; any other TITLE_OK 
     r"statistician|biostatistic|econometric|economist|research (associate|assistant|professional|data|scientist)|predoc|pre-doc|"
     r"analytics|data science|\bai/ml\b", re.I)
 TITLE_BAD = re.compile(
-    r"\blead\b|leader|expert|\bavp\b|manager|director|principal|staff|\bhead\b|\bvp\b|vice president|"
+    r"\blead\b|leader|expert|\bavp\b|manager|director|principal|distinguished|staff|\bhead\b|\bvp\b|vice president|"
     r"\bchief\b|partner\b|intern\b|interns\b|internship|co-op|\bcoop\b|summer 20|\biii\b|\biv\b|level [3-5]|"
     r"\b[3-5]\b(?!\d)|architect|sales|recruit|counsel|attorney|paralegal|account exec|nurse|\brn\b|physician|pharmac|"
     r"security analyst|cyber|soc analyst|threat|penetration|help ?desk|service desk|desktop|network|technician|"
@@ -50,7 +52,34 @@ TITLE_BAD = re.compile(
     r"molecular|biolog|clinical research|wet lab|assay|\bcell\b|chemistry|genomic|histolog|field research|"
     r"trade finance|transportation|logistics|supply chain|"   # 2 Nov 2026: part-time, temporary, seasonal, visiting and volunteer roles are back in scope (tagged in classify)
     r"procurement|hr analyst|human resources|benefits analyst|compensation analyst|\bit analyst|application analyst|"
-    r"\berp\b|oracle (technical|functional)|salesforce|servicenow|sap\b|business systems analyst|product owner|scrum", re.I)
+    r"\berp\b|oracle (technical|functional)|salesforce|servicenow|sap\b|business systems analyst|product owner|scrum|"
+    r"test automation|qa automation|automation tester|marketing automation|industrial automation|building automation|"
+    r"lab automation|automation technician|plc\b", re.I)  # 23 Nov: automation words now pass TITLE_OK, these stay out
+# Builder family (Aryan, 12 Nov 2026, after SharkNinja): entry Forward Deployed / Deployment Engineer, AI Engineer I,
+# Analytics Engineer, AI solutions analyst, automation or transformation associate, LLM evaluation. Most such postings are
+# senior or startup-only, so a builder title counts as core (can be HOT) only when the description asks for Python AND
+# SQL and at most 2 years. Otherwise it stays "broad" (MAYBE at best). QA, marketing and plant automation stay out.
+BUILDER = re.compile(r"forward[- ]deployed|deploy(ment|ed) engineer|\bai (engineer|developer|specialist|analyst|associate)|"
+    r"applied ai|generative ai|\bgen ?ai\b|agentic|\bllms?\b|ai solutions?|ai automation|"
+    r"(ai|data|ml|genai|llm) (solutions|platform) (engineer|analyst|associate|specialist|developer)|"
+    r"automation (analyst|associate|engineer|developer|specialist)|transformation (analyst|associate|specialist)|"
+    r"(ai|model|llm|agent|agentic)\W+(\w+\W+)?evaluat|\bevals?\b|analytics engineer|machine learning engineer|"
+    r"\bml engineer|ai/ml engineer|prompt engineer", re.I)
+BUILDER_BAD = re.compile(r"test automation|qa automation|automation tester|quality assurance|marketing automation|"
+    r"industrial automation|plc\b|scada|robotic process|\brpa\b|lab automation|building automation|security|devops|"
+    r"firmware|hardware|test (and|&) evaluation|t&e\b", re.I)
+PY = re.compile(r"\bpython\b", re.I)
+SQL = re.compile(r"\bsql\b|postgres|mysql|bigquery|snowflake|t-sql|pl/sql", re.I)
+
+
+def builder_role(title, desc, yoe):
+    """yoe is ignored on purpose: min_yoe reads "5 years ... including 2 in X" as 2. Builder postings need every
+    stated year count at 2 or below (Clera, 23 Nov 2026)."""
+    nums = [int(m.group(1)) for m in YOE_RE.finditer(desc) if int(m.group(1)) <= 15]
+    return (bool(BUILDER.search(title)) and not BUILDER_BAD.search(title) and bool(PY.search(desc))
+            and bool(SQL.search(desc)) and (not nums or max(nums) <= 2))
+
+
 # 10 Nov 2026 (Salesforce "Data Systems Senior Analyst" miss): "Senior", "Sr", "II" and "level 2" are no longer
 # dropped on the title. The description is read and min_yoe decides (4+ years skips); a soft-senior title with no
 # years stated is capped at MAYBE with a note. Lead/Staff/Principal/Manager/Director/III/IV stay hard blocks.
@@ -77,33 +106,134 @@ def is_referral(company):
     return any(r == c or c.startswith(r + " ") or c.startswith(r + ",") for r in REFERRALS)
 
 
-US_HINT = re.compile(r"united states|\bus\b|\busa\b|u\.s\.|remote|new york|boston|"
-    r"chicago|san francisco|seattle|austin|dallas|houston|atlanta|denver|philadelphia|charlotte|miami|los angeles|"
-    r"washington|pittsburgh|minneapolis|phoenix|detroit|columbus|nashville|raleigh|salt lake|san diego|san jose|"
-    r"jersey|princeton|stamford|greenwich|cambridge|baltimore|richmond|tampa|orlando|st\.? louis|kansas city|"
-    r"cleveland|cincinnati|indianapolis|milwaukee|omaha|portland|sacramento|las vegas|irvine|plano|wilmington|"
-    r"hartford|providence|ann arbor|madison|durham|new haven|rochester|buffalo|albany|ohio|texas|california|"
-    r"florida|illinois|massachusetts|virginia|carolina|georgia|pennsylvania|michigan|minnesota|colorado|arizona", re.I)
-STATE = re.compile(r"(?:^|,\s*|\s)(AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|"
+# ---- location gate (rewritten 23 Nov 2026 after the Zug, Sabana, Lucknow, Haifa and Chengdu leaks) ----
+# Three causes: (1) Workday lists only a site name ("CRI-Sabana", "Corp - Zug Corporate Office", "Cork"), so the
+# posting's own country (detail API) is now read; (2) country codes collide with state codes ("Haifa ... IL",
+# "Lucknow-UP", Lever "CA" = Canada) and Ashby appends " remote", which counted as US; (3) FOREIGN had no word
+# boundaries, so "india" matched "Indiana" and "mexico" matched "New Mexico", while US towns that share a name with a
+# foreign city (Dublin OH, Melbourne FL, Vancouver WA) were dropped. Names are now split into FOREIGN (only abroad)
+# and FOREIGN_SHARED (also a US town: foreign unless a state code or US place sits next to it).
+US_STATES = (r"alabama|alaska|arizona|arkansas|california|colorado|connecticut|delaware|florida|hawaii|idaho|illinois|"
+             r"indiana|iowa|kansas|kentucky|louisiana|maine|maryland|massachusetts|michigan|minnesota|mississippi|"
+             r"missouri|montana|nebraska|nevada|new hampshire|new jersey|new mexico|new york|north carolina|north dakota|"
+             r"ohio|oklahoma|oregon|pennsylvania|rhode island|south carolina|south dakota|tennessee|texas|utah|vermont|"
+             r"virginia|washington|wisconsin|wyoming|district of columbia|puerto rico")  # Georgia is handled in US_HINT
+US_WORDS = re.compile(r"united states|\busa\b|\bu\.s\.(a\.)?|\b(" + US_STATES + r")\b", re.I)
+US_TOKEN = re.compile(r"(?<![A-Za-z])US(?![A-Za-z])")  # case-sensitive: "Remote - US", "US-IL-Deerfield", Lever "US"
+US_CITY = re.compile(r"\b(new york|nyc|brooklyn|manhattan|boston|chicago|san francisco|seattle|austin|dallas|houston|"
+    r"atlanta|denver|philadelphia|charlotte|miami|los angeles|pittsburgh|minneapolis|phoenix|detroit|columbus|nashville|"
+    r"raleigh|salt lake|san diego|san jose, ca|princeton|baltimore|tampa|orlando|st\.? louis|kansas city|cleveland|"
+    r"cincinnati|indianapolis|milwaukee|omaha|sacramento|las vegas|irvine|plano|wilmington|hartford|providence|"
+    r"ann arbor|new haven|albany|jersey city|hoboken|newark|arlington|mclean|reston|bethesda|herndon|irving|fort worth|"
+    r"san antonio|oklahoma city|tulsa|louisville|memphis|new orleans|baton rouge|jacksonville|fort lauderdale|boca raton|"
+    r"honolulu|boise|spokane|bellevue|redmond|palo alto|menlo park|mountain view|sunnyvale|santa clara|oakland|berkeley|"
+    r"santa monica|pasadena|scottsdale|tempe|tucson|albuquerque|reno|lehi|boulder|des moines|grand rapids|waltham|"
+    r"somerville|needham|woburn|framingham|worcester|parsippany|morristown|basking ridge|stamford, ct|greenwich, ct|"
+    r"washington,? d\.?c\.?|cambridge, ma|durham, nc|rochester, (ny|mn)|richmond, va|portland, (or|me))\b", re.I)
+US_HINT = re.compile(r"\bremote\b|\bgeorgia\b|cambridge|jersey|portland|richmond|madison|durham|rochester|buffalo|"
+                     r"stamford|greenwich|washington|virtual|work from home|work at home|telecommut", re.I)
+STATE = re.compile(r"(?:^|,\s*|\s|-)(AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|"
                    r"NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)(?:\b|$)")  # case-sensitive on purpose
+FOREIGN = re.compile(r"\b(" + "|".join([
+    # countries and regions (Georgia, Jordan, Lebanon, Poland and others that are also US places are in FOREIGN_SHARED)
+    r"afghanistan|albania|algeria|andorra|angola|argentina|armenia|australia|austria|azerbaijan|bahamas|bahrain|bangladesh",
+    r"barbados|belarus|belize|benin|bhutan|bolivia|bosnia|botswana|brazil|brasil|brunei|bulgaria|burkina faso|burundi",
+    r"cambodia|cameroon|canada|cape verde|chile|china|colombia|congo|costa rica|ivory coast|c[ôo]te d.ivoire|croatia",
+    r"cyprus|czech republic|czechia|djibouti|dominican republic|ecuador|egypt|el salvador|eritrea|estonia|eswatini",
+    r"ethiopia|fiji|finland|france|gabon|gambia|germany|deutschland|ghana|greece|guatemala|guinea|guyana|haiti|honduras",
+    r"hong kong|hungary|iceland|india|indonesia|iran|iraq|ireland|israel|italy|italia|japan|kazakhstan|kenya|kosovo",
+    r"kuwait|kyrgyzstan|laos|latvia|lesotho|liberia|libya|liechtenstein|lithuania|luxembourg|macao|macau|madagascar",
+    r"malawi|malaysia|maldives|mali|mauritania|mauritius|moldova|monaco|mongolia|montenegro|morocco|mozambique|myanmar",
+    r"namibia|nepal|netherlands|the netherlands|new zealand|nicaragua|niger|nigeria|north macedonia|macedonia|oman",
+    r"pakistan|palestine|papua new guinea|paraguay|philippines|portugal|qatar|romania|russia|rwanda|saudi arabia",
+    r"senegal|serbia|seychelles|sierra leone|singapore|slovakia|slovenia|somalia|south africa|south korea|korea|sudan",
+    r"spain|espa[ñn]a|sri lanka|suriname|switzerland|schweiz|syria|taiwan|tajikistan|tanzania|thailand|togo|trinidad",
+    r"tunisia|t[üu]rkiye|turkmenistan|uganda|ukraine|united arab emirates|uae|united kingdom|uk|great britain|scotland",
+    r"northern ireland|uruguay|uzbekistan|venezuela|vietnam|viet nam|yemen|zambia|zimbabwe|emea|apac|latam",
+    r"(?<!new )mexico|m[ée]xico|(?<!new )england|panama(?! city)",
+    r"ontario|quebec|qu[ée]bec|british columbia|alberta|nova scotia|manitoba|saskatchewan|newfoundland",
+    # cities that are not also US job towns
+    r"bengaluru|bangalore|hyderabad|pune|mumbai|chennai|gurgaon|gurugram|noida|delhi|new delhi|lucknow|kolkata",
+    r"calcutta|ahmedabad|jaipur|kochi|cochin|coimbatore|indore|chandigarh|mohali|trivandrum|thiruvananthapuram",
+    r"vadodara|visakhapatnam|nagpur|bhubaneswar|mysore|mysuru|andhra pradesh|karnataka|tamil nadu|maharashtra|telangana",
+    r"uttar pradesh|haryana|gujarat|kerala|haifa|jerusalem|herzliya|petah tikva|ra.?anana|yokneam|netanya|rehovot",
+    r"tel aviv|shanghai|beijing|shenzhen|chengdu|wuhan|hangzhou|nanjing|suzhou|guangzhou|dalian|xi.?an|tianjin",
+    r"chongqing|xiamen|qingdao|shenyang|sichuan|jiangsu|guangdong|zhejiang|tokyo|osaka|kyoto|yokohama|fukuoka",
+    r"nagoya|seoul|busan|pangyo|incheon|taipei|hsinchu|kaohsiung|taichung|manila|quezon|makati|taguig|cebu|pasig",
+    r"kuala lumpur|penang|johor|cyberjaya|jakarta|bangkok|ho chi minh|hanoi|da nang|kathmandu|dhaka|karachi|lahore",
+    r"islamabad|colombo|phnom penh|yangon|sydney|brisbane|adelaide|canberra|auckland|amsterdam|rotterdam|the hague",
+    r"eindhoven|utrecht|schiphol|toronto|montreal|montr[ée]al|ottawa|calgary|edmonton|winnipeg|mississauga|north york",
+    r"kitchener|brampton|oakville|halifax|saskatoon|burnaby|gatineau|moncton|munich|m[üu]nchen|frankfurt|stuttgart",
+    r"cologne|k[öo]ln|d[üu]sseldorf|hannover|leipzig|dresden|nuremberg|n[üu]rnberg|bonn|mainz|wiesbaden|darmstadt",
+    r"karlsruhe|heidelberg|ulm|zurich|z[üu]rich|geneva|gen[èe]ve|zug|basel|lausanne|lugano|bern|vienna|wien|linz|graz",
+    r"salzburg|gratkorn|warsaw|warszawa|krakow|krak[óo]w|gdansk|gda[ńn]sk|wroclaw|wroc[łl]aw|katowice|poznan|pozna[ńn]",
+    r"lodz|[łl][óo]d[źz]|prague|praha|brno|ostrava|bratislava|budapest|bucharest|bucure[șs]ti|cluj|iasi|timisoara",
+    r"brasov|vilnius|kaunas|riga|tallinn|belgrade|novi sad|zagreb|ljubljana|kyiv|kiev|lviv|kharkiv|istanbul|ankara",
+    r"izmir|thessaloniki|madrid|barcelona|seville|sevilla|malaga|m[áa]laga|bilbao|las rozas|lisbon|lisboa|porto|braga",
+    r"turin|torino|bologna|stockholm|gothenburg|g[öo]teborg|malm[öo]|uppsala|copenhagen|aarhus|oslo|trondheim",
+    r"helsinki|espoo|tampere|reykjavik|brussels|bruxelles|antwerp|ghent|leuven|lyon|lille|marseille|toulouse|nantes",
+    r"grenoble|strasbourg|rennes|cr[ée]teil|villeurbanne|sophia antipolis|edinburgh|glasgow|leeds|sheffield",
+    r"nottingham|leicester|coventry|bournemouth|belfast|cardiff|swansea|galway|canary wharf|weybridge|surrey",
+    r"guadalajara|monterrey|tijuana|quer[ée]taro|cdmx|s[ãa]o paulo|campinas|curitiba|porto alegre|belo horizonte",
+    r"rio de janeiro|recife|barueri|florian[óo]polis|buenos aires|bogot[áa]|medell[íi]n|barranquilla|santiago|quito",
+    r"guayaquil|montevideo|asunci[óo]n|caracas|santo domingo|san salvador|tegucigalpa|managua|heredia|sabana|escaz[úu]",
+    r"dubai|duba[ïi]|abu dhabi|riyadh|jeddah|doha|manama|muscat|amman|beirut|casablanca|rabat|tunis|sfax|johannesburg",
+    r"cape town|durban|pretoria|lagos|accra|nairobi|kigali|addis ababa|tbilisi"]) + r")\b", re.I)
+FOREIGN_SHARED = re.compile(r"\b(london|paris|dublin|melbourne|vancouver|birmingham|manchester|athens|rome|berlin|milan|"
+    r"lima|cairo|toledo|florence|naples|valencia|hamburg|hamilton|waterloo|windsor|kingston|bristol|reading|oxford|"
+    r"liverpool|perth|cork|limerick|bergen|lund|sofia|lyon|bordeaux|rosario|cordoba|c[óo]rdoba|markham|regina|"
+    r"new brunswick|jordan|lebanon|cuba|jamaica|poland|norway|denmark|belgium|sweden|peru|wales|malta)\b", re.I)
+ISO3 = re.compile(r"(?:^|[;|]\s*)(?:GBR|IRL|DEU|GER|FRA|ESP|ITA|PRT|NLD|BEL|LUX|CHE|AUT|POL|CZE|SVK|HUN|ROU|BGR|GRC|HRV|"
+    r"SRB|SVN|LTU|LVA|EST|FIN|SWE|NOR|DNK|ISL|UKR|TUR|ISR|ARE|SAU|QAT|KWT|OMN|BHR|EGY|MAR|TUN|ZAF|NGA|KEN|GHA|IND|PAK|"
+    r"BGD|LKA|NPL|CHN|HKG|TWN|JPN|KOR|SGP|MYS|IDN|THA|VNM|PHL|AUS|NZL|CAN|MEX|CRI|PAN|COL|PER|CHL|ARG|BRA|URY|DOM|GTM|"
+    r"SLV|HND|NIC|ECU|BOL|PRY|VEN|TTO)(?=[\s\-|,_])|(?:,\s*|\s|---)(?:GBR|IRL|DEU|GER|FRA|ESP|ITA|PRT|NLD|BEL|CHE|AUT|POL|"
+    r"CZE|ROU|BGR|GRC|LTU|ISR|IND|CHN|JPN|KOR|SGP|MYS|PHL|AUS|CAN|MEX|CRI|COL|BRA|ARG)\s*$")
+# ISO-3 country codes are read only as a prefix ("CRI-Sabana", "GBR MLTN 120", "IRL - Galway") or as the last word after a
+# comma, space or Workday's "---" ("Sofia, BGR", "Manchester---GBR"). "NY06-01-Niskayuna-GRC" (a GE site in New York)
+# and Cardinal Health's "IND07" stay US. Case-sensitive on purpose.
+REGION = re.compile(r"\b(europe|latin america|asia pacific|middle east|south america|central america)\b", re.I)  # location only
+CA_PROV = re.compile(r"(?:,\s*|\s)(ON|QC|BC|AB|NS|NB|MB|SK|NL|PE)(?:\b|$)")  # case-sensitive: "Laval, QC", "MONCTON NB"
+US_COUNTRY = {"us", "usa", "u.s.", "u.s.a.", "united states", "united states of america", "america"}
+GENERIC_LOC = re.compile(r"^\s*\d+\s+locations?\s*$|multiple locations|various locations|^\s*(hybrid|anywhere|"
+                         r"flexible|headquarters|hq|corporate|nationwide)\b", re.I)
+US_EVIDENCE = re.compile(US_WORDS.pattern + "|" + US_CITY.pattern + r"|\$\s?\d{2,3}(?:,\d{3}|\.\d{2}|k\b)|401\(?k\)?|"
+                         r"e-verify|\b(?:equal opportunity|eeo)\b.{0,80}\b(?:veteran|disabilit)", re.I)
+
+
+def us_place(t):
+    """Words that put a posting in the US whatever else the location says (multi-location postings)."""
+    return bool(US_WORDS.search(t) or US_TOKEN.search(t) or US_CITY.search(t))
+
+
+def abroad(t):
+    """A place that is only abroad: a foreign country, a foreign-only city, an ISO-3 code or a Canadian province."""
+    return bool(FOREIGN.search(t) or REGION.search(t) or ISO3.search(t) or CA_PROV.search(t))
 
 
 def us_loc(t):
-    if FOREIGN.search(t):  # "Bengaluru, IN": a state code alone can't outvote a foreign city
-        return bool(US_HINT.search(t))
+    t = t or ""
+    if us_place(t):
+        return True
+    if abroad(t):  # "Bengaluru, IN", "Haifa ... IL", "London United Kingdom remote": state codes and "remote" don't count
+        return False
+    if FOREIGN_SHARED.search(t):  # "Dublin, OH" and "Melbourne, FL" are US; "Dublin" or "Manchester" alone is not
+        return bool(STATE.search(t))
     return bool(US_HINT.search(t) or STATE.search(t))
 
 
-FOREIGN = re.compile(r"london|india|bengaluru|bangalore|hyderabad|pune|mumbai|chennai|gurgaon|gurugram|noida|delhi|"
-    r"singapore|hong kong|sydney|melbourne|shanghai|beijing|shenzhen|tokyo|seoul|taipei|amsterdam|dublin|toronto|"
-    r"vancouver|montreal|ottawa|calgary|paris|berlin|munich|frankfurt|zurich|geneva|warsaw|krakow|prague|budapest|"
-    r"bucharest|madrid|barcelona|lisbon|milan|rome|stockholm|copenhagen|oslo|helsinki|brussels|luxembourg|vienna|"
-    r"mexico|brazil|são paulo|sao paulo|buenos aires|bogota|santiago|lima|manila|kuala lumpur|jakarta|bangkok|"
-    r"ho chi minh|hanoi|tel aviv|dubai|riyadh|cairo|johannesburg|lagos|nairobi|canada|united kingdom|\buk\b|"
-    r"england|scotland|ireland|germany|france|spain|italy|netherlands|poland|israel|philippines|australia|"
-    r"new zealand|japan|china|korea|taiwan|vietnam|malaysia|indonesia|costa rica|argentina|colombia|chile|"
-    r"portugal|greece|romania|hungary|czech|slovakia|ukraine|turkey|egypt|pakistan|sri lanka|bangladesh|nigeria|kenya|"
-    r"south africa|switzerland|austria|belgium|denmark|sweden|norway|finland|\bemea\b|\bapac\b|\blatam\b", re.I)
+def country_foreign(country):
+    c = (country or "").strip().lower()
+    return bool(c) and c not in US_COUNTRY
+
+
+def looks_foreign(loc, country=""):
+    """True when the posting is outside the US. A stated non-US country wins unless a US place is also listed."""
+    loc = loc or ""
+    if country_foreign(country):
+        return not us_place(loc)
+    if not loc.strip() or us_loc(loc):
+        return False
+    return abroad(loc) or bool(FOREIGN_SHARED.search(loc))
 
 BLOCK_RE = re.compile("|".join([
     r"u\.?s\.? citizens? only", r"must be a u\.?s\.? citizen", r"u\.?s\.? citizenship (is )?required",
@@ -229,7 +359,7 @@ def lever(c, cut):
     for j in get(f"https://api.lever.co/v0/postings/{c['slug']}?mode=json"):
         cat = j.get("categories") or {}
         yield J(title=j["text"], location=f"{cat.get('location','')} {' '.join(cat.get('allLocations') or [])} {j.get('country','')}",
-                url=j["hostedUrl"], posted=datetime.fromtimestamp(j["createdAt"] / 1000, timezone.utc),
+                country=j.get("country") or "", url=j["hostedUrl"], posted=datetime.fromtimestamp(j["createdAt"] / 1000, timezone.utc),
                 desc=(j.get("descriptionPlain") or "") + " " + " ".join(strip(l.get("content")) for l in j.get("lists", [])) +
                 " " + (j.get("additionalPlain") or ""))
 
@@ -241,6 +371,7 @@ def ashby(c, cut):
         a = (j.get("address") or {}).get("postalAddress") or {}
         loc = " ".join([j.get("location", ""), a.get("addressCountry", "")] + [x.get("location", "") for x in j.get("secondaryLocations") or []])
         yield J(title=j["title"], location=loc + (" remote" if j.get("isRemote") else ""), url=j["jobUrl"],
+                country=a.get("addressCountry") or "",
                 posted=iso(j.get("publishedAt")), desc=j.get("descriptionPlain") or strip(j.get("descriptionHtml")))
 
 
@@ -265,6 +396,17 @@ def smartrecruiters(c, cut):
                 url=f"https://jobs.smartrecruiters.com/{s}/{j['id']}", posted=iso(j.get("releasedDate")), detail=d)
 
 
+def workday_detail(url):
+    """23 Nov 2026: Workday's list shows only a site name ("CRI-Sabana", "Cork", "2 Locations"). The detail record
+    carries the posting's own country and every location, so they are added to the record (load_detail)."""
+    i = get(url)["jobPostingInfo"]
+    rl = i.get("jobRequisitionLocation") or {}
+    country = (i.get("country") or {}).get("descriptor") or (rl.get("country") or {}).get("descriptor") or ""
+    locs = [x for x in [i.get("location") or ""] + list(i.get("additionalLocations") or []) if x]
+    return {"desc": strip(i.get("jobDescription")), "country": country,
+            "loc": " ; ".join(locs) + (f" ({country})" if country else "")}
+
+
 def workday(c, cut):
     tenant, wd = c["slug"].split(".")
     base, site = f"https://{tenant}.{wd}.myworkdayjobs.com", c["site"]
@@ -281,7 +423,7 @@ def workday(c, cut):
                 continue
             yield J(day_only=True, title=j.get("title", ""), location=j.get("locationsText", ""), url=f"{base}/{site}{j['externalPath']}",
                     posted=datetime.now(timezone.utc) - timedelta(hours=12 if age == 0 else 23),
-                    detail=lambda p=j["externalPath"]: strip(get(f"{base}/wday/cxs/{tenant}/{site}{p}")["jobPostingInfo"].get("jobDescription")))
+                    detail=lambda p=j["externalPath"]: workday_detail(f"{base}/wday/cxs/{tenant}/{site}{p}"))
         last = (posts[-1].get("postedOn") or "").lower() if posts else ""
         if len(posts) < 20 or not ("today" in last or "yesterday" in last):  # page ended in older postings: done
             return
@@ -301,7 +443,8 @@ def oracle(c, cut):
             def d(i=j["Id"]):
                 x = (get(f'{api}/recruitingCEJobRequisitionDetails?expand=all&onlyData=true&finder=ById;Id=%22{i}%22,siteNumber={site}').get("items") or [{}])[0]
                 return " ".join(strip(x.get(k)) for k in ("ExternalDescriptionStr", "ExternalResponsibilitiesStr", "ExternalQualificationsStr", "CorporateDescriptionStr"))
-            yield J(day_only=True, title=j.get("Title", ""), location=f"{j.get('PrimaryLocation','')} {j.get('PrimaryLocationCountry','')} " +
+            yield J(day_only=True, title=j.get("Title", ""), country=j.get("PrimaryLocationCountry") or "",
+                    location=f"{j.get('PrimaryLocation','')} {j.get('PrimaryLocationCountry','')} " +
                     " ".join(x.get("Name", "") for x in j.get("secondaryLocations") or []),
                     url=f"https://{host}/hcmUI/CandidateExperience/en/sites/{site}/job/{j['Id']}",
                     posted=(posted + timedelta(hours=16)) if posted else None, detail=d)  # date-only: assume midday ET
@@ -312,7 +455,8 @@ def oracle(c, cut):
 def workable(c, cut):
     d = get(f"https://apply.workable.com/api/v1/widget/accounts/{c['slug']}?details=true")
     for j in d.get("jobs", []):
-        yield J(day_only=True, title=j.get("title", ""), location=f"{j.get('city','')} {j.get('state','')} {j.get('country','')} {'remote' if j.get('telecommuting') else ''}",
+        yield J(day_only=True, title=j.get("title", ""), country=j.get("country") or "",
+                location=f"{j.get('city','')} {j.get('state','')} {j.get('country','')} {'remote' if j.get('telecommuting') else ''}",
                 url=j.get("url") or j.get("shortlink", ""), posted=iso(j.get("published_on")) and iso(j.get("published_on")) + timedelta(hours=16),
                 desc=strip((j.get("description") or "") + " " + (j.get("requirements") or "")))
 
@@ -333,7 +477,8 @@ def bamboohr(c, cut):
     s = c["slug"]
     for j in get(f"https://{s}.bamboohr.com/careers/list").get("result", []):
         loc = j.get("location") or {}
-        yield J(title=j.get("jobOpeningName", ""), location=f"{loc.get('city','')} {loc.get('state','')} {loc.get('addressCountry','')}",
+        yield J(title=j.get("jobOpeningName", ""), country=loc.get("addressCountry") or "",
+                location=f"{loc.get('city','')} {loc.get('state','')} {loc.get('addressCountry','')}",
                 url=f"https://{s}.bamboohr.com/careers/{j['id']}", posted=None, dated=False,
                 detail=lambda i=j["id"]: strip(((get(f"https://{s}.bamboohr.com/careers/{i}/detail").get("result") or {}).get("jobOpening") or {}).get("description")))
 
@@ -506,8 +651,7 @@ def scan(c, cut, seeded):
             if not j["title"] or not TITLE_OK.search(j["title"]) or TITLE_BAD.search(j["title"]):
                 continue
             j["soft_senior"] = bool(TITLE_SOFT.search(j["title"]))
-            loc = j["location"]
-            if loc.strip() and FOREIGN.search(loc) and not us_loc(loc):
+            if looks_foreign(j["location"], j.get("country")):
                 continue
             if j["dated"] and j["posted"] and j["posted"] < cut:
                 continue
@@ -536,7 +680,15 @@ def trim(t, cap=7000):
 def load_detail(j):
     if not j["desc"] and j["detail"]:
         try:
-            j["desc"] = j["detail"]() or ""
+            r = j["detail"]() or ""
+            if isinstance(r, dict):  # Workday: description plus the posting's own country and locations
+                j["desc"] = r.get("desc") or ""
+                if r.get("country"):
+                    j["country"] = r["country"]
+                if r.get("loc"):
+                    j["location"] = " ; ".join(x for x in (j["location"], r["loc"]) if x and x.strip())
+            else:
+                j["desc"] = r
         except Exception:
             pass
     j.pop("detail", None)
@@ -588,8 +740,17 @@ def classify(j, spons):
     if y is not None and y >= (5 if ref else 4):
         return "SKIP", f"asks {y}+ years"
     loc = j["location"] or ""
-    if (FOREIGN.search(loc) and not us_loc(loc)) or (not us_loc(loc) and FOREIGN.search(j["title"] + " " + j["url"] + " " + j["desc"][:400])):
+    if looks_foreign(loc, j.get("country")):
+        return "SKIP", "outside US" + (f" ({j['country']})" if country_foreign(j.get("country")) else "")
+    if not us_loc(loc) and FOREIGN.search(j["title"] + " " + j["url"] + " " + j["desc"][:400]):
         return "SKIP", "outside US"
+    # 23 Nov 2026: a location the gate cannot place ("Basel", "RMZ TITANIUM") stays only if the description names a US
+    # place, a dollar pay range, 401(k), E-Verify or a US-style EEO line. Unreadable descriptions fall through to CHECK.
+    # Workday is left out: its site names ("Medical Plaza North", "TARRYTOWN") are often US hospitals and campuses, and
+    # its own country field (workday_detail) already decides those postings.
+    if (loc.strip() and not j.get("country") and "myworkdayjobs" not in j["url"] and not us_loc(loc)
+            and not GENERIC_LOC.search(loc) and len(j["desc"]) >= 200 and not US_EVIDENCE.search(j["desc"])):
+        return "SKIP", "outside US (no US place in the location or description)"
     fit, have, lack = fit_estimate(text)
     if y == 3:
         fit = min(fit, 55)
@@ -604,14 +765,15 @@ def classify(j, spons):
         return "CHECK", "description not readable by the scanner; open the link"
     sponsor_ok = bool(lca) or not spons
     early = early_program(j["title"], j["desc"])
-    core = bool(CORE.search(j["title"])) or early
+    builder = not CORE.search(j["title"]) and builder_role(j["title"], j["desc"], y)
+    core = bool(CORE.search(j["title"])) or early or builder
     tech = any(k in " " + j["desc"].lower() for k in ("python", "sql", " r ", "statistic", "machine learning", "tableau", "power bi"))
-    j["scope"] = "core" if core else "broad"
+    j["scope"] = "builder" if builder else ("core" if core else "broad")
     jt, hrs, jt_note = job_type(j["title"], j["desc"])
     j.update(jobtype=jt, hours=hrs)
     opt_ok = not (jt == "volunteer/unpaid" or (hrs is not None and hrs < 20 and jt == "part-time"))
     soft = j.get("soft_senior")
-    notes = [("early-talent program" if early else ""),
+    notes = [("early-talent program" if early else ""), ("builder role: Python and SQL asked, 0-2 years" if builder else ""),
              ("title says Senior/II: " + ("no years stated, check the level" if y is None else f"asks {y} years") if soft else ""),
              ("referral company: ask your referral" if ref else ""),
              (f"asks {y} years (referral stretch)" if ref and y == 4 else "")]
@@ -688,9 +850,9 @@ def audit_alerts(a, now, day, out, index, alerts_seen):
         return f"Alert inbox: error {type(e).__name__}: {str(e)[:80]}"
     rel = []
     for x in items:
-        if x["url"] in alerts_seen or not CORE.search(x["title"]) or TITLE_BAD.search(x["title"]):
+        if x["url"] in alerts_seen or not (CORE.search(x["title"]) or BUILDER.search(x["title"])) or TITLE_BAD.search(x["title"]):
             continue
-        if x["location"] and FOREIGN.search(x["location"]) and not us_loc(x["location"]):
+        if looks_foreign(x["location"]):
             continue
         alerts_seen[x["url"]] = now.isoformat()
         k = jkey(x["company"], x["title"])
