@@ -5,61 +5,90 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | KLA Corporation | Import/Export Analyst | 82 | 10 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 2 | Citi | Data Analyst - Credit Risk Management & Counterparty Risk (Client & Markets Data) | 76 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 3 | Bloomberg | BloombergNEF Energy Storage Modeling Analyst (6 Months Contract) | 75 | 89 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 4 | CAI | Data Analyst | 73 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 5 | State Street | Business Analyst GCI CAO, Governance & Insights, Officer | 70 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 6 | Ascot | Data Analyst, Pricing | 69 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 7 | GenLogs | Data Scientist | 67 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 8 | Houlihan Lokey | 2027 Financial Analyst, Corporate Valuation Advisory Services, Complex Securities - Multiple Locations | 65 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 9 | Oshkosh | Data Analyst | 61 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 10 | Voya Financial | IM Entry Level Analyst Program - Jr. Credit Research Analyst | 60 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 11 | GEHA | Associate Analytics Engineer | 57 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 12 | PGIM | PGIM Quantitative Solutions, Trader | 55 | 7 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 13 | Prudential Financial | PGIM Quantitative Solutions, Trader | 55 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 14 | Old National Bank | Title BSA/AML High Risk Analyst | 55 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 15 | Huntington Bancshares | Credit Card Risk Analyst | 55 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 16 | Vusion | Data Product Analyst   | 54 | none found (check myvisajobs) | Nov 24 10:39 ET |
-| 17 | Eulerity | Big Data Analyst [Finance] | 54 | none found (check myvisajobs) | Nov 24 11:31 ET |
-| 18 | NielsenIQ | Insights Analyst | 54 | none found (check myvisajobs) | Nov 24 11:16 ET |
-| 19 | Northwestern Mutual | Data Engineer | 54 | 20 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 20 | PepsiCo | Title Control & Reporting Analyst | 54 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 21 | Teza Technologies | Quantitative Developer | 52 | 3 in data/analytics/finance occupations | Nov 24 12:33 ET |
-| 22 | The Home Depot | Online Data Engineer | 52 | 27 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 23 | Cedars-Sinai Medical Center | Research Associate I - Levy Lab - Digital Pathology | 50 | cap-exempt employer | Nov 24 (board gives the date only) |
-| 24 | West Bend Insurance | Title Financial Data Analyst | 48 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 25 | Voya Financial | IM Entry Level Analyst Program - Equity Research Associate | 45 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 26 | Société Générale de Surveillance (SGS) | Research Analyst (Large Molecule) | 45 | none found (check myvisajobs) | Nov 24 10:14 ET |
-| 27 | Washington University in St. Louis | Statistical Data Analyst MS (Part-Time) -  Biostatistics | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 28 | Wash U | Statistical Data Analyst MS (Part-Time) -  Biostatistics | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 29 | Société Générale de Surveillance (SGS) | Research Analyst (Large Molecule) | 45 | none found (check myvisajobs) | Nov 24 12:26 ET |
-| 30 | KLA Corporation | Research Scientist - Computational Electromagnetics | 45 | 10 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 31 | Procore Technologies | Forward Deployed AI Engineer | 45 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 32 | Freudenberg Group | Agentic Engineer | 45 | 1 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 33 | KLA Corporation | Research Scientist - Computational Electromagnetics | 45 | 10 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 34 | Ryan | Full Stack AI Engineer - May 2027 Grads | 44 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 35 | State Street | North America Portfolio Analyst, Officer | 44 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 36 | GE Aerospace | Data Engineer | 42 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 37 | Texas Capital Bank | Product Marketing Analyst - Banking Solutions | 40 | 3 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 38 | Google | Research Scientist, Google Cloud AI Research | 40 | 1053 in data/analytics/finance occupations | Nov 24 12:09 ET |
-| 39 | Mizuho Securities USA | Equity Research Associate | 40 | 19 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 40 | AbbVie | Associate Data Scientist II – Early Discovery Science | 78 | 96 in data/analytics/finance occupations | Nov 24 12:35 ET |
-| 41 | Wex | Sr Fraud Data Scientist | 70 | 3 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 42 | Nordstrom | Senior Business Analyst - Fraud & Abuse Analytics - Remote | 67 | 21 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 43 | Duolingo | Senior Data Scientist | 67 | 7 in data/analytics/finance occupations | Nov 24 13:47 ET |
-| 44 | Genentech | Senior Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery | 64 | 35 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 45 | JP Morgan Chase | Wholesale Credit Quantitative Research - Senior Associate | 64 | 1098 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 46 | McKesson | Sr. Freight Pricing Analyst | 62 | 38 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 47 | JP Morgan Chase | Data Scientist, Auto Data & Analytics - Senior Associate | 62 | 1098 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 48 | Emory University | Job Title Data Analyst, Senior- Winship Cancer Institute | 61 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 49 | The Trade Desk | Applied Scientist II, Performance Algorithms  | 60 | 18 in data/analytics/finance occupations | Nov 24 14:04 ET |
-| 50 | CareSource | Health Plan Data Analyst II (need Health Plan/MCO and SQL) | 57 | 17 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 51 | Oregon Health & Science University | Requisition Title Senior Research Assistant | 57 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 52 | Humana | Senior Analytics Consultant | 55 | 72 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 53 | Paypal Inc. | Sr Machine Learning Engineer | 55 | 188 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 54 | JP Morgan Chase | Gen AI Data Scientist - Wholesale Credit Risk  - Senior Associate | 55 | 1098 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 55 | Northwell Health | Senior Business Intelligence Specialist | 55 | 14 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 56 | DIRECTV | Sr. Specialist, Advanced Analytics | 55 | 14 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 2 | Micron Technology | Intern - Advanced Modeling and AI Solutions | 78 | 46 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 3 | Citi | Data Analyst - Credit Risk Management & Counterparty Risk (Client & Markets Data) | 76 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 4 | Bloomberg | BloombergNEF Energy Storage Modeling Analyst (6 Months Contract) | 75 | 89 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 5 | Genentech | 2027 Summer Intern - AI for Drug Discovery | 74 | 35 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 6 | CAI | Data Analyst | 73 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 7 | TikTok | Leave of Absence Analyst Project Intern (HROP) - 2026 Start (BS/MS) | 71 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 8 | State Street | Business Analyst GCI CAO, Governance & Insights, Officer | 70 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 9 | Ascot | Data Analyst, Pricing | 69 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 10 | GenLogs | Data Scientist | 67 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 11 | TikTok | Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD) | 67 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 12 | Infoorigin | Data Analyst | 67 | none found (check myvisajobs) | Nov 24 08:16 ET |
+| 13 | Houlihan Lokey | 2027 Financial Analyst, Corporate Valuation Advisory Services, Complex Securities - Multiple Locations | 65 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 14 | TikTok | Ecosystem Analyst Intern (TikTok Live) - 2027 Summer | 65 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 15 | TikTok | Research Scientist Intern (Data-TnS-Algo-Foundations & Intelligence Service) - 2027 Start (PhD) | 65 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 16 | Oshkosh | Data Analyst | 61 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 17 | Voya Financial | IM Entry Level Analyst Program - Jr. Credit Research Analyst | 60 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 18 | Calpion/Plutus Health | AI Engineering Intern (Python & Agentic AI) | 60 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 19 | GEHA | Associate Analytics Engineer | 57 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 20 | PGIM | PGIM Quantitative Solutions, Trader | 55 | 7 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 21 | Prudential Financial | PGIM Quantitative Solutions, Trader | 55 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 22 | Old National Bank | Title BSA/AML High Risk Analyst | 55 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 23 | Huntington Bancshares | Credit Card Risk Analyst | 55 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 24 | Interdigital | Ph.D. Intern (Wireless + AI/ML) | 55 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 25 | Vusion | Data Product Analyst   | 54 | none found (check myvisajobs) | Nov 24 10:39 ET |
+| 26 | Eulerity | Big Data Analyst [Finance] | 54 | none found (check myvisajobs) | Nov 24 11:31 ET |
+| 27 | NielsenIQ | Insights Analyst | 54 | none found (check myvisajobs) | Nov 24 11:16 ET |
+| 28 | Northwestern Mutual | Data Engineer | 54 | 20 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 29 | PepsiCo | Title Control & Reporting Analyst | 54 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 30 | TikTok | Machine Learning Engineer Intern (Commerce Ads) - 2027 Summer | 54 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 31 | New Jersey Institute of Technology | Post Doctoral Research Associate | 54 | cap-exempt employer | Nov 24 (board gives the date only) |
+| 32 | New Jersey Institute of Technology | Hourly Data Analyst | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 33 | New Jersey Institute of Technology | Research Associate | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 34 | TikTok | Research Scientist Intern (TikTok - Content Ecology - Local Services) - 2027 Start (PhD) | 53 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 35 | Teza Technologies | Quantitative Developer | 52 | 3 in data/analytics/finance occupations | Nov 24 12:33 ET |
+| 36 | The Home Depot | Online Data Engineer | 52 | 27 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 37 | Barclays | Markets Quantitative Analyst Summer Internship Program 2028 New York | 52 | 142 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 38 | Cedars-Sinai Medical Center | Research Associate I - Levy Lab - Digital Pathology | 50 | cap-exempt employer | Nov 24 (board gives the date only) |
+| 39 | Carnegie Mellon University | Research Associate - Kenneth C. Griffin School of Computer Science - CBD | 50 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 40 | TikTok | Data Engineer Intern (Data Platform Global Live) - 2027 Summer | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 41 | TikTok | Research Scientist Intern (TikTok-Privacy Innovation Lab) - 2027 Start (PhD) | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 42 | West Bend Insurance | Title Financial Data Analyst | 48 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 43 | ASML | Internship - Data Analyst | 48 | 7 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 44 | TikTok | Machine Learning Scientist Intern (TikTok-Local Services) - 2027 Start (PhD) | 48 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 45 | Voya Financial | IM Entry Level Analyst Program - Equity Research Associate | 45 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 46 | Société Générale de Surveillance (SGS) | Research Analyst (Large Molecule) | 45 | none found (check myvisajobs) | Nov 24 10:14 ET |
+| 47 | Washington University in St. Louis | Statistical Data Analyst MS (Part-Time) -  Biostatistics | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 48 | Wash U | Statistical Data Analyst MS (Part-Time) -  Biostatistics | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 49 | Société Générale de Surveillance (SGS) | Research Analyst (Large Molecule) | 45 | none found (check myvisajobs) | Nov 24 12:26 ET |
+| 50 | KLA Corporation | Research Scientist - Computational Electromagnetics | 45 | 10 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 51 | Procore Technologies | Forward Deployed AI Engineer | 45 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 52 | Freudenberg Group | Agentic Engineer | 45 | 1 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 53 | KLA Corporation | Research Scientist - Computational Electromagnetics | 45 | 10 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 54 | Carnegie Mellon University | Research Assistant - Kenneth C. Griffin School of Computer Science - CBD | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 55 | TikTok | Machine Learning Scientist Intern (TikTok-Local Services) - 2027 Start | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 56 | TikTok | (General Hire) Research Scientist Intern (Monetization Technology) - 2026 Start (PhD) | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 57 | Ryan | Full Stack AI Engineer - May 2027 Grads | 44 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 58 | State Street | North America Portfolio Analyst, Officer | 44 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 59 | TikTok | Data Engineer Intern (Monetization Data) - 2027 Summer | 43 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 60 | GE Aerospace | Data Engineer | 42 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 61 | TikTok | Data Engineer Intern (E-commerce) - 2027 Summer | 42 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 62 | Texas Capital Bank | Product Marketing Analyst - Banking Solutions | 40 | 3 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 63 | Google | Research Scientist, Google Cloud AI Research | 40 | 1053 in data/analytics/finance occupations | Nov 24 12:09 ET |
+| 64 | Mizuho Securities USA | Equity Research Associate | 40 | 19 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 65 | Marmon Holdings | Product & Brand Marketing Analyst | 40 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 66 | TikTok | Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start | 40 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 67 | TikTok | Research Scientist Intern (Monetization GenAI) - 2026 Start (PhD) | 40 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 68 | AbbVie | Associate Data Scientist II – Early Discovery Science | 78 | 96 in data/analytics/finance occupations | Nov 24 12:35 ET |
+| 69 | Wex | Sr Fraud Data Scientist | 70 | 3 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 70 | Nordstrom | Senior Business Analyst - Fraud & Abuse Analytics - Remote | 67 | 21 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 71 | Duolingo | Senior Data Scientist | 67 | 7 in data/analytics/finance occupations | Nov 24 13:47 ET |
+| 72 | Medtronic | Senior Pricing Strategy Analyst - Minneapolis, MN | 65 | 36 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 73 | Genentech | Senior Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery | 64 | 35 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 74 | JP Morgan Chase | Wholesale Credit Quantitative Research - Senior Associate | 64 | 1098 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 75 | McKesson | Sr. Freight Pricing Analyst | 62 | 38 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 76 | JP Morgan Chase | Data Scientist, Auto Data & Analytics - Senior Associate | 62 | 1098 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 77 | Emory University | Job Title Data Analyst, Senior- Winship Cancer Institute | 61 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 78 | The Trade Desk | Applied Scientist II, Performance Algorithms  | 60 | 18 in data/analytics/finance occupations | Nov 24 14:04 ET |
+| 79 | CareSource | Health Plan Data Analyst II (need Health Plan/MCO and SQL) | 57 | 17 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 80 | Oregon Health & Science University | Requisition Title Senior Research Assistant | 57 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 81 | Humana | Senior Analytics Consultant | 55 | 72 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 82 | Paypal Inc. | Sr Machine Learning Engineer | 55 | 188 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 83 | JP Morgan Chase | Gen AI Data Scientist - Wholesale Credit Risk  - Senior Associate | 55 | 1098 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 84 | Northwell Health | Senior Business Intelligence Specialist | 55 | 14 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 85 | DIRECTV | Sr. Specialist, Advanced Analytics | 55 | 14 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
 
 ---
 
@@ -78,7 +107,22 @@ To make electronics, you need chips, wafers, transistors, reticles, and... To ma
 
 ---
 
-## 2. [MAYBE] Citi | Data Analyst - Credit Risk Management & Counterparty Risk (Client & Markets Data)
+## 2. [MAYBE] Micron Technology | Intern - Advanced Modeling and AI Solutions
+- Link: https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Advanced-Modeling-and-AI-Solutions_JR118093
+- Location: Boise, ID - Main Site ; Boise, ID - Main Site (United States of America)
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~78 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 46 in data/analytics/finance occupations
+- Type: internship
+- Title scope: broad | Has: aws, dashboard, llm, machine learning, python, pytorch, regression, tensorflow, fraud, healthcare, pipeline, research, validation | Lacks: -  | Note: broad title internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Our vision is to transform how the world uses information to enrich life for all . Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advance faster than ever. The AMAIS team (Advanced Modeling & AI Solutions) builds advanced modeling and AI capabilities to accelerate technology development and deliver impactful solutions—moving from predictive modeling toward agentic solution deployments across complex engineering workflows Role Summary As an intern on the Advanced Modeling & AI Solutions (AMAIS) team, you will help support development and prototyping of advanced physics-based and machine learning models, and contribute to agentic AI systems that integrate with modeling tools and engineering workflows. You will also help design and implement user-facing UI experiences (dashboards, apps, or lightweight front ends) that make insights and agent outputs actionable for engineers. This is a hands-on role where you will collaborate with multi-functional engineering partners, contribute production-quality prototypes, and communicate results through clear visualizations and storytelling. Responsibilities Architect and prototype Agentic AI and LLM workflows that use tools, planning, actions, observations, and feedback loops to automate multi-step engineering tasks. Develop RAG-based assistants, machine learning models, physics-based models, and other AI-Enabled solutions that improve engineering analysis, prediction, diagnostics, and decision-making. Build intuitive web applications, dashboards, visualizations, and APIs that translate model and Agent outputs into clear insights, confidence indicators, and recommended actions. Develop repeatable workflows for preparing structured and unstructured data and evaluating model and Agentic AI performance using appropriate metrics, validation methods, and structured evaluations. Partner with engineers and data owners to scope problems, validate assumptions, document solutions, and communicate model performance, limitations, and business or engineering impact. Minimum Qualifications Currently pursuing a BS, MS, or PhD or equivalent experience in Computer Science, Data Science, Electrical Engineering, Computer Engineering, Applied Mathematics, Physics, or a related technical field. Demonstrated programming experience with Python for data preparation, modeling, experimentation, or application development. Coursework, academic research, or project experience applying machine learning fundamentals and frameworks such as PyTorch or TensorFlow. Coursework, research, or project experience with LLMs, Agentic AI, Agent workflows, or RAG, including an understanding of planning, execution, tools, and observation concepts. Demonstrated experience developing user interfaces with modern web technologies such as React and working with APIs or services to display tables, charts, visualizations, or interactive results. Preferred Qualifications Experience with Agentic AI orchestration frameworks such as LangGraph, LangChain, AutoGen, or similar technologies. Experience Using AI for code generation or development workflows, including tools such as Claude Code, or experience developing low-code or no-code solutions. Experience implementing structured evaluation approaches for Agent or LLM quality, including evaluation harnesses, prompt regression testing, or reliability assessments. Experience with CI/CD, MLOps, machine learning pipelines built for real-world applications, or deployment practices. Experience with semiconductor or manufacturing datasets, high-dimensional sensor/process data, numerical methods, physics-informed modeling, multiphysics modeling, multiscale modeling, or machine learning based on simulations. As a world leader in the semiconductor industry, Micron is dedicated to your personal wellbeing and professional growth. Micron benefits are designed to help you stay well, provide peace of mind and help you prepare for the future. We offer a choice of medical, dental and vision plans in all locations enabling team members to select the plans that best meet their family healthcare needs and budget. Micron also provides benefit programs that help protect your income if you are unable to work due to illness or injury, and paid family leave. Additionally, Micron benefits include a robust paid time-off program and paid holidays. For additional information regarding the Benefit programs available, please see the Benefits Guide posted on micron.com/careers/benefits . Micron is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, citizenship status, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws. To learn about your right to work click here. To learn more about Micron, please visit micron.com/careers For US Sites Only: To request assistance with the application process and/or for
+
+---
+
+## 3. [MAYBE] Citi | Data Analyst - Credit Risk Management & Counterparty Risk (Client & Markets Data)
 - Link: https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Data-Analyst---Credit-Risk-Management---Counterparty-Risk--Client---Markets-Data-_26994251-1
 - Location: 2 Locations ; Tampa Florida United States ; Getzville New York United States (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -93,7 +137,7 @@ About Citi: Citi, the leading global bank, has approximately 200 million custome
 
 ---
 
-## 3. [MAYBE] Bloomberg | BloombergNEF Energy Storage Modeling Analyst (6 Months Contract)
+## 4. [MAYBE] Bloomberg | BloombergNEF Energy Storage Modeling Analyst (6 Months Contract)
 - Link: https://bloomberg.avature.net/careers/JobDetail/BloombergNEF-Energy-Storage-Modeling-Analyst-6-Months-Contract/46310
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -108,7 +152,22 @@ BloombergNEF Energy Storage Modeling Analyst (6 Months Contract) - 46310 - Bloom
 
 ---
 
-## 4. [MAYBE] CAI | Data Analyst
+## 5. [MAYBE] Genentech | 2027 Summer Intern - AI for Drug Discovery
+- Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery_202611-129909
+- Location: South San Francisco ; South San Francisco (United States of America)
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~74 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 35 in data/analytics/finance occupations
+- Type: internship (40 h/week stated)
+- Title scope: broad | Has: aws, excel, llm, machine learning, python, pytorch, statistic, publication, quantitative, research | Lacks: -  | Note: broad title internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+2027 Summer Intern - AI for Drug Discovery Department Summary The Foundation Models team is seeking exceptional graduate interns with strong research experience in machine learning (ML) and a passion for applying advanced algorithms to scientific discovery. Our team develops state-of-the-art generative models, autonomous scientific agents, and foundational ML methods to accelerate drug design. Autonomous agents increasingly run long scientific workflows in which they must decide, round after round, whether to continue a promising strategy, explore a new one, stop an unproductive experiment, or revisit an earlier hypothesis. Yet we know little about whether these agents learn from experimental evidence the way a good scientist would. This internship will study that question rigorously, using real multi-round drug discovery campaigns. The intern will test whether agents make decisions for the right scientific reasons: whether they learn across rounds, distinguish strong evidence from weak or confounded evidence, and account for epistemic uncertainty from limited knowledge and aleatoric uncertainty from inherent outcome variability. They will also study how different representations of prior experience (raw history, compaction, structured summaries, self-reflection) shape this behavior. A central open question is which failures can be addressed through how evidence is presented to the agent, and which require changing the model itself through post-training, and how to tell the two apart in a principled way. Intern candidates should have a strong interest in LLM agents, evaluation methodology, decision-making under uncertainty, and post-training. The ideal intern is comfortable conducting independent research, rapidly prototyping ideas, and collaborating with multidisciplinary scientists. This internship position is located in South San Francisco, on-site. The Opportunity Design and build a benchmark of real and controlled counterfactual decision points from multi-round scientific design campaigns Develop quantitative metrics for decision quality under varying evidence strength, uncertainty, and cost Characterize recurring agent failure modes and develop a principled method for deciding whether each is best addressed through harness or context changes or through post-training Explore post-training (e.g., supervised fine-tuning on historical trajectories and counterfactual examples) of smaller specialized models, and compare against prompting and context-engineering baselines on held-out targets Develop well-documented, reproducible evaluation and training code and curated datasets, and present results for potential publication at internal or external scientific conferences or workshops. Program Highlights Intensive 12-week, full-time (40 hours per week) paid internship. Program start dates are May/Summer (Summer). A stipend, based on location, will be provided to help alleviate costs associated with the internship . Who You Are Required Education Must be pursuing a PhD (enrolled student). Required Majors: Computer Science, Engineering, Statistics, Applied Mathematics, Computational Biology, Computational Chemistry, Physics, or related technical field. Required Skills Strong publication record or evidence of impactful research contributions (e.g., NeurIPS, ICML, ICLR, AISTATS, TMLR). Proficiency in Python and modern ML frameworks (PyTorch, JAX, Hugging Face). Experience in at least one of the following areas: LLM agents, tool use, or agent evaluation and benchmarking. Post-training of language models (e.g., SFT, RLHF, RLVR). Sequential decision-making, Bayesian optimization, active learning, or uncertainty quantification. Preferred Skills Experience with agent memory and context management (e.g., summarization, compaction, self-reflection). Familiarity with protein design, structural biology, or drug discovery applications. Background in experimental design, causal reasoning, or counterfactual evaluation. Contributions to open-source ML frameworks or reproducible research environments. Excellent communication, collaboration, and interdisciplinary working skills Complements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion. Relocation benefits are not available for this job posting. The expected salary range for this position based on the primary location of California is $47.00-$52.00 per hour. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off benefits. Genentech
+
+---
+
+## 6. [MAYBE] CAI | Data Analyst
 - Link: https://cai.wd5.myworkdayjobs.com/computer_aid/job/IN-CLIENT-STATE/Data-Analyst_R9031
 - Location: IN-CLIENT-STATE ; IN-CLIENT-STATE (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -123,7 +182,65 @@ Data Analyst Req number: R9031 Employment type: Full time Worksite flexibility: 
 
 ---
 
-## 5. [MAYBE] State Street | Business Analyst GCI CAO, Governance & Insights, Officer
+## 7. [MAYBE] TikTok | Leave of Absence Analyst Project Intern (HROP) - 2026 Start (BS/MS)
+- Link: https://lifeattiktok.com/search/7662343067223263541
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~71 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: volunteer/unpaid
+- Title scope: broad | Has: aws, dashboard, data visualization, excel, forecast, power bi, sql, statistic, tableau, data cleaning, healthcare, reporting, risk | Lacks: qlik  | Note: broad title unpaid: does not count as STEM OPT employment
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The HR Lifecycle Operations team, endeavors to continuously build and deliver a seamless and positive employee experience across the whole employee lifecycle. We are dedicated to leading with care and have empathy in mind. We strive to develop efficient and simple people processes, systems, policies, and programs. We aspire to ensure employees feel heard and that they are given the appropriate resources and support needed to be effective and efficient during their careers. As a Benefits Specialist at TikTok, you will be supporting various employee benefits, including but not limited to Leave of Absence (LOA), healthcare benefits, and 401(k) retirement plan. The ideal candidate should have strong experience and knowledge in leave management, benefits operation and applicable compliance requirements per different types of plans, along with benefits vendor management and system optimization experience. 
+
+The leave of Absence Analyst is responsible for auditing, analyzing, and visualizing leave-of-absence data (e.g., sick leave, parental leave, medical leave, unpaid leave) across the organization. By identifying trends, anomalies, and root causes of leave patterns, the role provides data-driven insights to optimize LOA policies, reduce excessive leave risks, improve workforce scheduling efficiency, and enhance employee well-being. This role collaborates closely with HR business partners, payroll teams, and department managers to align data analysis with business goals and ensure compliance with labor laws (e.g., FMLA in the U.S., statutory leave regulations in local markets).
+
+ As a project intern, you will have the opportunity to engage in impactful short-term projects that provide you with a glimpse of professional real-world experience. You will gain practical skills through on-the-job learning in a fast-paced work environment and develop a deeper understanding of your career interests.
+
+Applications will be reviewed on a rolling basis - we encourage you to apply early.
+
+Responsibilities:
+LOA Data Analysis & Trend Identification
+- Conduct descriptive, diagnostic, and predictive analysis on LOA data:
+- Descriptive: Track key LOA metrics (e.g., total LOA cases per quarter, average leave duration by type, department-wise leave rate, approval/rejection rate).
+- Diagnostic: Investigate anomalies (e.g., sudden spikes in medical leave in a specific team, unusually long unpaid leave) and identify root causes (e.g., workplace stress, seasonal illnesses, policy gaps).
+- Predictive: Forecast future leave demand (e.g., peak parental leave periods, Q4 sick leave trends) to support workforce planning.
+- Analyze LOA impact on business operations (e.g., project delays due to key employee leave) and quantify associated costs (e.g., payroll for paid leave, hiring temporary staff).
+
+Reporting & Visualization
+- Develop regular (weekly/monthly/quarterly) LOA reports and dashboards for stakeholders (HR leaders, department managers, executives) using tools like Tableau, Power BI, Excel, or SQL.
+- Translate complex data insights into clear, actionable recommendations (e.g., “Parental leave duration in Engineering is 20% longer than company average—suggest updating policy to align with team needs”).
+- Present analysis results in meetings (e.g., quarterly HR reviews) and tailor communication to non-technical audiences.
+
+Policy Optimization & Compliance Support
+- Evaluate the effectiveness of existing LOA policies (e.g., “Is the new mental health leave policy reducing unplanned sick days?”) using data metrics and employee feedback.
+- Provide data support for policy updates (e.g., adjusting paid leave limits, adding new leave types) to ensure alignment with labor laws (e.g., FMLA, EU Working Time Directive) and industry best practices.
+- Collaborate with HRBP teams to communicate policy changes to employees and track adoption rates (e.g., how many employees use the new bereavement leave benefit).
+
+Cross-Functional Collaboration
+- Partner with payroll teams to ensure LOA data integrates with payroll processes (e.g., accurate calculation of paid leave wages, deduction for unpaid leave).
+- Work with department managers to address team-specific LOA issues (e.g., high leave turnover in Customer Service) and develop targeted solutions (e.g., cross-training staff for backup).
+- Liaise with tech teams to enhance HRIS functionality for LOA data tracking (e.g., adding custom fields for leave reason codes, automating leave request workflows). Minimum Qualifications:
+  - Currently pursuing an Undergraduate/Masters in Data Science, Statistics, Human Resources Management, Business Analytics, or a related field. 
+  - Proficiency in data querying tools (SQL, HQL) to extract LOA data from HRIS/payroll systems.
+  - Experience with data visualization tools (Tableau, Power BI, Qlik) and spreadsheet software (Advanced Excel: PivotTables, VLOOKUP, macros).
+  - Basic knowledge of statistical analysis (e.g., trend analysis, correlation, forecasting) and data cleaning techniques.
+  - Understanding of leave-of-absence types (sick, parental, medical, unpaid, statutory leave) and relevant labor laws (e.g., FMLA, local statutory leave regulations).
+  - Knowledge of HR operations (payroll, workforce planning, employee relations) to contextualize LOA data insights.
+ 
+Preferred Qualifications: 
+  - Experience in HR analytics, workforce analytics, or data analysis (preferably with a focus on leave management, payroll, or employee relations).
+  - Certification in data analytics (e.g., Google Data Analytics Professional Certificate, Tableau Desktop Specialist) or HR (e.g., SHRM-CP, PHR).
+  - Experience working in a global organization (familiarity with US leave policies and multi-country data standards).
+  - Familiarity with HRIS platforms (Workday, ADP) is highly preferred.
+
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy
+
+---
+
+## 8. [MAYBE] State Street | Business Analyst GCI CAO, Governance & Insights, Officer
 - Link: https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Business-Analyst-GCI-CAO--Governance---Insights--Officer_R-801456
 - Location: Quincy, Massachusetts ; Quincy, Massachusetts (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -138,7 +255,7 @@ Who we are looking for We’re looking for a Business Analyst to join the GCI CA
 
 ---
 
-## 6. [MAYBE] Ascot | Data Analyst, Pricing
+## 9. [MAYBE] Ascot | Data Analyst, Pricing
 - Link: https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1110
 - Location: NJ, United States US CHICAGO, IL, United States
 - Posted: Nov 24 (board gives the date only)
@@ -153,7 +270,7 @@ This is an opportunity to join Ascot Group - one of the world’s preeminent spe
 
 ---
 
-## 7. [MAYBE] GenLogs | Data Scientist
+## 10. [MAYBE] GenLogs | Data Scientist
 - Link: https://ats.rippling.com/genlogs-corporation/jobs/bed54782-e363-45a4-a5fa-c862ec79fc24
 - Location: Atlanta, GA United States
 - Posted: new since the previous sweep (board shows no date)
@@ -168,7 +285,58 @@ Data Scientist Data Scientist GenLogs is a transportation-technology company bui
 
 ---
 
-## 8. [MAYBE] Houlihan Lokey | 2027 Financial Analyst, Corporate Valuation Advisory Services, Complex Securities - Multiple Locations
+## 11. [MAYBE] TikTok | Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD)
+- Link: https://lifeattiktok.com/search/7662672903447988485
+- Location: Seattle, Washington, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: excel, llm, nlp, pytorch, tensorflow, deep learning, research | Lacks: -  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The Trust and Safety algorithm team is responsible for developing state-of-the-art computer vision, NLP and multimodality models and algorithms to protect our platform and users from the content and behaviors that violate community guidelines and related regulations. With the continuous efforts from our team, TikTok is able to provide the best user experience and bring joy to everyone in the world.
+
+We are looking for talented individuals to join us for an internship. PhD internships at Our Company provide students with the opportunity to actively contribute to our products and research, as well as to the organization's future plans and emerging technologies.
+
+Our dynamic internship experience blends hands-on learning, enriching community-building and professional development events, and collaboration with industry experts.
+
+Applications will be reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume (Start date, End date).
+
+Responsibilities
+- Develop computer vision model or multimodality model to recognize violation content in TikTok
+- Explore cutting-edge multimodal or computer vision large models (CLIP, COCA, ALBEF, BLIP, Flamingo, ViT-G, ViT-22B, EVA-enormous, etc)
+- Explore the application of LLM in our business scenarios, like pre-training, zero-shot/ few-shot learning, hard case mining, etc
+- Continuously optimize the training framework to better adapt to the training of large models. Minimum Qualifications:
+- PhD candidate in computer science or a related technical discipline
+- Related Research Experience at least one of the following areas: computer vision, multimodality, LLM
+- Be proficient with at least one deep learning framework (e.g. PyTorch, TensorFlow)
+- Have excellent analytical and problem-solving skills, logical thinking skills, communication and collaboration skills
+
+Preferred Qualifications:
+- Published papers in the top AI conferences or journals is a plus, including CVPR, ICCV, ECCV, NIPS, ICML, ICLR, TPAMI, IJCV, etc
+
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy
+
+---
+
+## 12. [MAYBE] Infoorigin | Data Analyst
+- Link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e9667f95-65a1-47e2-a3ef-53654bfa7b59&jobId=578569&lang=en_US
+- Location: Indianapolis, IN, US
+- Posted: Nov 24 08:16 ET
+- Scanner fit: ~67 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, forecast, statistic, tableau, reporting, validation | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We are seeking an experienced Data Analyst to support strategic decision-making through public health, financial, operational, and grants management data analysis. The resource will develop and maintain enterprise dashboards, reports, and analytical solutions, including the Grants Transparency Dashboard, leveraging Euna Grants and other agency data sources. Key Responsibilities: Develop, maintain, and enhance dashboards, reports, and data visualizations using Tableau or similar BI tools. Analyze grant expenditures, funding allocations, obligations, reimbursements, and program performance. Support reporting and data analytics activities related to Euna Grants and other enterprise systems. Gather, document, and validate business requirements from finance, grants management, and program stakeholders. Perform data validation, quality assurance, and ensure data integrity and governance. Develop performance metrics, financial forecasts, and analytical reports for leadership. Collaborate with business, IT, finance, and external stakeholders to improve reporting and business processes. Support grant compliance, audits, program evaluations, and transparency initiatives. Required Qualifications: Bachelor's degree in Analytics, Statistics, Computer Science, Informatics, Mathematics, or a related field with 2+ years of experience; OR a Master's degree in a related field. 3+ years of experience in data analysis, informatics, or grants/operations management. 3+ years of experience gathering and documenting business requirements. 3+ years of experience with data analytics and visualization tools such as Tableau. 3+ years of cross-functional stakeholder collaboration. Proficiency in Microsoft 365 and project management/collaboration tools. Familiarity with public health program implementation, evaluation methodologies, and scientific literature reviews. Strong analytical, communication, documentation, and problem-solving skills. Preferred Profile: A self-driven analytical professional with experience in grants management, financial reporting, public health analytics, enterprise dashboards, and data-driven decision-making.
+
+---
+
+## 13. [MAYBE] Houlihan Lokey | 2027 Financial Analyst, Corporate Valuation Advisory Services, Complex Securities - Multiple Locations
 - Link: https://hl.wd1.myworkdayjobs.com/Campus/job/New-York-NY-USA/XMLNAME-2027-Financial-Analyst--Corporate-Valuation-Advisory-Services--Complex-Securities---Multiple-Locations_R3792
 - Location: 2 Locations ; New York, NY, USA ; Los Angeles, CA, USA (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -183,7 +351,80 @@ Business Unit: Financial And Valuation Advisory Industry: Corporate Valuation Ad
 
 ---
 
-## 9. [MAYBE] Oshkosh | Data Analyst
+## 14. [MAYBE] TikTok | Ecosystem Analyst Intern (TikTok Live) - 2027 Summer
+- Link: https://lifeattiktok.com/search/7678985103851407669
+- Location: Los Angeles, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~65 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: internship
+- Title scope: broad | Has: excel, llm, sql, calibration, pipeline, quantitative, reporting, risk | Lacks: -  | Note: broad title internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About the Team 
+The TikTok LIVE Ecosystem team's mission is to create a sustainable livestream ecosystem. We strive to ensure our users and creators a high quality experience on the platform. This role will be based in Los Angeles, CA.
+
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start and end dates.
+
+Responsibilities
+- Support content and ecosystem analysis by gathering data and surfacing key trends across moderation workflows.
+- Assist in building and maintaining quality reporting pipelines, tracking moderation accuracy and consistency.
+- Use LLM and analytical tools under guidance to investigate cases, conduct root cause analysis, and validate model reasoning.
+- Help identify emerging risks, enforcement gaps, and policy inconsistencies across content verticals.
+- Participate in cross-team and vendor calibration sessions on policy interpretation and quality standards.
+- Contribute to small-scale initiatives aimed at improving ecosystem outcomes. Minimum Qualifications
+- Currently pursuing a Undergraduate in a Quantitative, Analytical, Data Science, Economics, Public Policy, Sociology, or related field.
+- Comfortable working with data (Excel / Sheets);
+- Strong analytical and structured problem-solving mindset — able to break down complex issues into clear components.
+
+Preferred Qualifications:
+- Curiosity about content ecosystems, platform governance, and online safety.
+- Exposure to LLM tools or interest in applying AI to policy analysis and operational improvement.
+- Clear communication skills and eagerness to work across internal and vendor teams.
+- Basic SQL or visualization skills are a plus.
+
+---
+
+## 15. [MAYBE] TikTok | Research Scientist Intern (Data-TnS-Algo-Foundations & Intelligence Service) - 2027 Start (PhD)
+- Link: https://lifeattiktok.com/search/7662677746436524293
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~65 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: excel, llm, pytorch, tensorflow, deep learning, publication, research | Lacks: -  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: CHECK | - Pretraining & Continued Pretraining (CPT): Explore and develop approaches that improve general capability and safety for LLMs and VLMs via pretraining/CPT.
+
+### Job description
+
+Foundations & Intelligence Service, Trust & Safety is TikTok’s foundation-model team responsible for core development and research that push the boundaries of our LLM and VLM capabilities—with trustworthiness and safety built in from day one. Our work enables product teams and customers to adopt advanced AI smoothly and responsibly, with safety woven into the model stack rather than bolted on.
+
+We are looking for talented individuals to join us for an internship. PhD internships at Our Company provide students with the opportunity to actively contribute to our products and research, as well as to the organization's future plans and emerging technologies.
+Our dynamic internship experience blends hands-on learning, enriching community-building and professional development events, and collaboration with industry experts.
+Applications will be reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume (Start date, End date).
+
+Responsibilities: 
+- Pretraining & Continued Pretraining (CPT): Explore and develop approaches that improve general capability and safety for LLMs and VLMs via pretraining/CPT.
+- Evaluation & Measurement: Build advanced evaluation systems to study emerging LLM/VLM skills and safety behaviors, aligned with real downstream use.
+- Post-Training & RL: Develop advanced reinforcement-learning strategies (e.g., RLHF/RLAIF/DPO variants), and investigate how to balance pretraining and post-training for better capability and safety alignment.
+- Scaffolded Settings & Agents: Probe new failure modes and pitfalls in scaffolded environments (agents, workflows, tool use), and translate insights into robust mitigations. Minimum Qualifications: 
+- Currently pursuing an PhD in Computer Science or a related technical field.
+- Research experience in at least one of: LLMs, AI Safety, Computer Vision, Multimodality.
+- Actively track recent AI-safety developments (familiar with current papers, benchmarks, and terminology).
+- Proficient with at least one deep learning framework (e.g., PyTorch, TensorFlow).
+- Excellent analytical/problem-solving ability, clear logical thinking, and strong communication/collaboration skills.
+
+Preferred Qualifications:
+- Publications in top AI or Security venues (e.g., NeurIPS, ICLR, ICML, COLM, CVPR, ICCV, ECCV, USENIX Security, ACM CCS, IEEE S&P, NDSS).
+
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy
+
+---
+
+## 16. [MAYBE] Oshkosh | Data Analyst
 - Link: https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Jefferson-City-Tennessee-United-States/Data-Analyst_R48854
 - Location: Jefferson City, Tennessee, United States ; Jefferson City, Tennessee, United States (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -198,7 +439,7 @@ About JLG, an Oshkosh company JLG began in 1969, when our founder, John L. Grove
 
 ---
 
-## 10. [MAYBE] Voya Financial | IM Entry Level Analyst Program - Jr. Credit Research Analyst
+## 17. [MAYBE] Voya Financial | IM Entry Level Analyst Program - Jr. Credit Research Analyst
 - Link: https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/IM-Entry-Level-Analyst-Program---Jr-Credit-Research-Analyst_JR0033434
 - Location: Atlanta, GA ; Atlanta, GA (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -213,7 +454,22 @@ Together we fight for everyone’s opportunity for a better financial future. We
 
 ---
 
-## 11. [MAYBE] GEHA | Associate Analytics Engineer
+## 18. [MAYBE] Calpion/Plutus Health | AI Engineering Intern (Python & Agentic AI)
+- Link: https://calpionplutus.bamboohr.com/careers/310
+- Location: Dallas Texas
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~60 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: internship
+- Title scope: core | Has: aws, llm, python, ai agent, git, healthcare | Lacks: -  | Note: no H-1B filings found for this employer internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+AI Engineering Intern (Python & Agentic AI) 📍 Dallas, TX (Onsite) 🕒 Summer Internship (3–6 Months) About the Role Artemis ABA is seeking AI Engineering Interns to help build AI-powered healthcare automation products. You will work directly with our engineering and leadership team to develop Python adapters, AI agents, integrations, and workflow automation solutions. Responsibilities Build Python-based adapters and API integrations Develop AI workflows using OpenAI, Claude, and other LLMs Assist in creating AI-powered session notes and documentation tools Support development of AI calling and communication agents Work with databases, APIs, and cloud services Test, debug, and optimize AI solutions Collaborate with senior engineers on real-world healthcare AI projects Preferred Skills Pursuing BS/MS in Computer Science, AI, Data Science, or related field Strong Python programming skills Experience with OpenAI APIs, LangChain, LlamaIndex, or AI projects Knowledge of REST APIs and JSON Familiarity with Git/GitHub Understanding of prompt engineering and RAG concepts AWS knowledge is a plus Nice to Have Built personal AI projects Hackathon participation Experience with automation tools and agent frameworks What You'll Gain Hands-on experience building production AI systems Mentorship from AI and product leaders Work on healthcare AI products used by real clinicians and businesses
+
+---
+
+## 19. [MAYBE] GEHA | Associate Analytics Engineer
 - Link: https://geha.wd5.myworkdayjobs.com/GEHACareers/job/Missouri-Remote/Associate-Analytics-Engineer_R-005360
 - Location: Missouri-Remote ; Missouri-Remote (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -228,7 +484,7 @@ Government Employees Health Association, Inc. (G.E.H.A) is a nonprofit member as
 
 ---
 
-## 12. [MAYBE] PGIM | PGIM Quantitative Solutions, Trader
+## 20. [MAYBE] PGIM | PGIM Quantitative Solutions, Trader
 - Link: https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM-Quantitative-Solutions--Trader_R-125459
 - Location: Newark, NJ, USA ; Newark, NJ, USA (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -243,7 +499,7 @@ Job Classification: Investment Management - Investments As the Global Asset Mana
 
 ---
 
-## 13. [MAYBE] Prudential Financial | PGIM Quantitative Solutions, Trader
+## 21. [MAYBE] Prudential Financial | PGIM Quantitative Solutions, Trader
 - Link: https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM-Quantitative-Solutions--Trader_R-125459-1
 - Location: Newark, NJ, USA ; Newark, NJ, USA (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -258,7 +514,7 @@ Job Classification: Investment Management - Investments As the Global Asset Mana
 
 ---
 
-## 14. [MAYBE] Old National Bank | Title BSA/AML High Risk Analyst
+## 22. [MAYBE] Old National Bank | Title BSA/AML High Risk Analyst
 - Link: https://careers-oldnational.icims.com/jobs/21167/bsa-aml-high-risk-analyst%2c-sr/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -273,7 +529,7 @@ Old National Bank Careers | BSA/AML High Risk Analyst, Sr Please Enable Cookies 
 
 ---
 
-## 15. [MAYBE] Huntington Bancshares | Credit Card Risk Analyst
+## 23. [MAYBE] Huntington Bancshares | Credit Card Risk Analyst
 - Link: https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Chicago-IL/Credit-Card-Risk-Analyst_R0078124
 - Location: 2 Locations ; Chicago, IL ; Columbus, OH (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -288,7 +544,22 @@ Description Summary: The Credit Card Risk Analyst is responsible for the develop
 
 ---
 
-## 16. [MAYBE] Vusion | Data Product Analyst  
+## 24. [MAYBE] Interdigital | Ph.D. Intern (Wireless + AI/ML)
+- Link: https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/PhD-Intern--Wireless---AI-ML-_REQ26-1174
+- Location: 2 Locations ; Conshohocken, PA ; Melville_NY (United States of America)
+- Posted: Nov 24 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: internship
+- Title scope: core | Has: excel, machine learning, python, pytorch, git, publication, research | Lacks: matlab  | Note: no H-1B filings found for this employer internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About InterDigital InterDigital is a global research and development company focused primarily on wireless, video, artificial intelligence (“AI”), and related technologies. We design and develop foundational technologies that enable connected, immersive experiences in a broad range of communications and entertainment products and services. We license our innovations worldwide to companies providing such products and services, including makers of wireless communications devices, consumer electronics, IoT devices, cars and other motor vehicles, and providers of cloud-based services such as video streaming. As a leader in wireless technology, our engineers have designed and developed a wide range of innovations that are used in wireless products and networks, from the earliest digital cellular systems to 5G and today’s most advanced Wi-Fi technologies. We are also a leader in video processing and video encoding/decoding technology, with a significant AI research effort that intersects with both wireless and video technologies. Founded in 1972, InterDigital is listed on Nasdaq. InterDigital is a registered trademark of InterDigital, Inc. For more information, visit: www.interdigital.com . We foster a collaborative, innovation-driven culture where researchers translate advanced theory into impactful technologies, standards contributions, and real-world solutions. Summary We are seeking a highly motivated Ph.D. student to join our Wireless Research and Innovation team. This role focuses on next-generation wireless systems integrated with AI/ML, including 6G research, and AI-native communication systems. The ideal candidate combines strong theoretical foundations with hands-on simulation experience in Python and MATLAB. The candidate will contribute to advanced research, AI-native wireless systems and simulations, standards-oriented innovation, publications, and patentable technologies. Key Responsibilities Conduct advanced research in wireless communication systems in Physical layer, and AI/ML design Work on internal technology development efforts and ensure alignment with broader project objectives Design and evaluate AI/ML-driven wireless algorithms (e.g., semantic communications, wireless foundation models, token communications) Develop and implement link-level and system-level simulations using tools such as Python, Sionna, MATLAB or equivalent frameworks Analyze and optimize system performance using theoretical and data-driven approaches Contribute to technical reports, publications, and patent filings Contribute to the generation of pre-standard inputs and industry publications in areas of expertise Collaborate with cross-functional research teams across wireless, AI, and standards Required Qualifications Pursuing Ph.D. (3rd year or later) in Electrical Engineering, Computer Engineering, Computer Science, or a closely related field. Strong foundation in the following areas: Wireless communications Signal processing Solid knowledge of AI/ML techniques and their application to wireless communication Experience with simulation and programming tools, such as: Sionna, Python, MATLAB, or similar languages Machine learning frameworks (e.g., PyTorch, GPU) Demonstrated ability to translate theory into working simulations Preferred Qualifications Hands-on experience with System-level or link-level simulators (e.g., Sionna or equivalent) Research track record including publications, patents, or technical contributions Familiarity with cellular standards (4G/5G/6G evolution) Experience in AI-native wireless systems, semantic communications, wireless foundation models, token communications, etc. What You Bring Curiosity and passion for pushing the boundaries of wireless and AI convergence Ability to balance theoretical rigor with practical implementation Strong analytical, problem-solving, and communication skills A collaborative mindset aligned with a global research environment Locations: Conshohocken, PA or Melville, NY Why Join InterDigital Work at the forefront of 6G, AI-driven networks, and future connectivity paradigms Contribute to technologies that influence global standards and billions of devices Engage in an environment that values innovation, intellectual property, and research excellence Collaborate with world-class experts across wireless, video, and AI domains InterDigital
+
+---
+
+## 25. [MAYBE] Vusion | Data Product Analyst  
 - Link: https://jobs.smartrecruiters.com/VusionGroupSA/744000163490029
 - Location: Dallas TX us
 - Posted: Nov 24 10:39 ET
@@ -303,7 +574,7 @@ We build. We create impact. Vusion is seeking a detail-oriented Product Analyst 
 
 ---
 
-## 17. [MAYBE] Eulerity | Big Data Analyst [Finance]
+## 26. [MAYBE] Eulerity | Big Data Analyst [Finance]
 - Link: https://job-boards.greenhouse.io/eulerity/jobs/4731948006
 - Location: New York, NY
 - Posted: Nov 24 11:31 ET
@@ -318,7 +589,7 @@ Location: Midtown Manhattan, New York, NY (In-Person) Compensation: 17.00–20.0
 
 ---
 
-## 18. [MAYBE] NielsenIQ | Insights Analyst
+## 27. [MAYBE] NielsenIQ | Insights Analyst
 - Link: https://jobs.smartrecruiters.com/NielsenIQ/744000163501814
 - Location: Berkely Heights NJ us
 - Posted: Nov 24 11:16 ET
@@ -333,7 +604,7 @@ Analyze consumer, shopper, and market data to identify trends, opportunities, ri
 
 ---
 
-## 19. [MAYBE] Northwestern Mutual | Data Engineer
+## 28. [MAYBE] Northwestern Mutual | Data Engineer
 - Link: https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Franklin-WI-Corporate/Data-Engineer_JR-46298
 - Location: Franklin, WI Corporate ; Franklin, WI Corporate (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -348,7 +619,7 @@ About the Job We're looking for a hands-on Software Engineer III to contribute a
 
 ---
 
-## 20. [MAYBE] PepsiCo | Title Control & Reporting Analyst
+## 29. [MAYBE] PepsiCo | Title Control & Reporting Analyst
 - Link: https://uscareers-pepsico.icims.com/jobs/484470/control-%26-reporting-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -363,7 +634,130 @@ Control & Reporting Analyst in Purchase, New York | Careers at NY-Purchase-700-H
 
 ---
 
-## 21. [MAYBE] Teza Technologies | Quantitative Developer
+## 30. [MAYBE] TikTok | Machine Learning Engineer Intern (Commerce Ads) - 2027 Summer
+- Link: https://lifeattiktok.com/search/7669711968043092229
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: machine learning, python, pytorch, spark, statistic, tensorflow, deep learning, research | Lacks: c++, scala  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The TikTok Commerce Ads team is dedicated to blending advertiser focus with technical expertise. Our mission is to enhance commerce ads—both open-loop and closed-loop—to establish TikTok as an essential growth engine for businesses of all sizes and a top destination for consumers to discover and buy products, content, and services. We are crucial to driving TikTok's ad revenue and are committed to developing the next-generation web ad solutions for the platform.
+
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside industry professionals.
+
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are submitted.
+
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start and end dates.
+
+Responsibilities:
+- Build highly scalable machine learning systems and state-of-the-art machine learning models to improve ads ranking quality and optimize advertisers' marketing strategies. Examples include but are not limited to click through rate prediction, conversion rate prediction, intelligent format selection and user journey optimization.
+- Explore, develop and experiment with new features to improve model accuracy.
+- Understand ads platform objectives and take full advantage of modern machine learning to improve ads relevance, quality, and quantity delivered to end-users.
+- Collaborate with Product Managers, Designers, and other disciplines to explore the next generation of shopping experiences on TikTok. Minimum Qualifications:
+- Currently pursuing a Bachelor's or above degree in Computer Science, Computer Engineering, or a related technical discipline.
+- Solid programming skills, including but not limited to: Go, C/C++, Python. Familiar with basic data structure and algorithms. Familiar with Linux development environment.
+- Good analytical thinking capability. Have essential knowledge and skills in statistics.
+- Good theoretical grounding in the machine and deep learning concepts and techniques (CNN/RNN/LSTM, etc.).
+- Familiar with the architecture and implementation of at least one mainstream machine learning programming framework (TensorFlow/PyTorch/MXNet), familiar with its architecture and implementation mechanism.
+- Must be able to commit to a 12-week full-time work period during Summer 2027.
+
+Preferred Qualifications:
+- Good understanding in one of the following domains: ads bidding & auction, ads quality control, and online advertising systems (familiar with one or more of these terms: CPC/CPM, CTR/CVR, Ranking /Targeting, Conversion/Budget, Campaign/Creative, Demand/Inventory, DSP/RTB).
+- Experience in resource management and task scheduling with large-scale distributed software (such as Spark and TensorFlow).
+- Relevant work or research experiences in search and recommendation.
+
+---
+
+## 31. [MAYBE] New Jersey Institute of Technology | Post Doctoral Research Associate
+- Link: https://njit.wd108.myworkdayjobs.com/NJIT_Careers/job/Colton-Hall/Post-Doctoral-Research-Associate_JR100758
+- Location: Colton Hall ; Colton Hall (United States of America)
+- Posted: Nov 24 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, statistic, publication, reporting, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Are you a current NJIT employee? Apply here through the Internal Jobs Hub. Title: Post Doctoral Research Associate Reports To: Professor Position Summary: The New Jersey Institute of Technology (NJIT) invites applications for a highly motivated Postdoctoral Researcher position to conduct fundamental studies on the mixotrophic algal incubation for wastewater treatment and carbon capture. This is a grant-funded position with an initial term of up to one year total, contingent upon satisfactory performance and continued grant funding. Essential Functions: This position is centered on experimental research investigating the algal growth under influences of CO2 delivery and heterotrophic culture media. The successful candidate will work collaboratively with a faculty mentor and produce academic outcomes such as journal papers. Experimental Design and Execution: Independently design, set up, and execute experiments on algal incubation, CO2 capture, and nutrient removal. Data Processing and Reporting: Perform rigorous data analysis, synthesize results, prepare technical reports for the funding agency, and generate manuscripts for peer-reviewed publication. Mentorship and Collaboration: Work closely with and mentor graduate students on all aspects of the research project. Presentation: Prepare and deliver professional presentations at national and international conferences. Pre-Requisite Qualifications: A recently awarded Ph.D. in a relevant field, such as Environmental Engineering, Chemical Engineering, or Chemistry. Demonstrated experience in designing and conducting laboratory experiments. Strong background in electrical, optical, and/or pressure measurement techniques. Excellent written and verbal communication skills, with a proven record of scholarly publication. Department: Civil & Environmental Engineering Pre-Requisite Qualifications: Experience with advanced material characterization techniques, specifically Electron Microscopy (SEM/TEM) and Raman/AFM. Prior experience with high-temporal resolution imaging techniques. Familiarity with the handling and study of wastewater treatment and resource recovery. Experience mentoring or supervising graduate or undergraduate researchers. At the university's discretion, the education and experience prerequisites may be exempted where the candidate can demonstrate to the satisfaction of the university an equivalent combination of education and experience specifically preparing the candidate for success in the position. Union: United Council of Academic @ NJIT (UCAN GSRE) Range: Post Docs Compensation: $63,480.00 NJIT considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/training, key skills, internal peer equity, as well as, market and organizational considerations when extending an offer. This pay range represents base pay only and excludes any additional items such as incentives, bonuses, or other items. To learn more about the comprehensive benefits NJIT offers for this position, please visit our benefits page: https://hr.njit.edu/health-benefits . FLSA: Exempt Time Type: Full time Pay Rate: Salary Additional Information: As an
+
+---
+
+## 32. [MAYBE] New Jersey Institute of Technology | Hourly Data Analyst
+- Link: https://njit.wd108.myworkdayjobs.com/NJIT_Careers/job/Guttenberg-Information-Technologies-Center/Hourly-Data-Analyst_JR100711
+- Location: Guttenberg Information Technologies Center ; Guttenberg Information Technologies Center (United States of America)
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: part-time
+- Title scope: core | Has: machine learning, statistic, publication, reporting, research | Lacks: -  | Note: part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Are you a current NJIT employee? Apply here through the Internal Jobs Hub. Title: Hourly Data Analyst Reports To: Associate Professor Position Summary: The candidate will work closely with Dr. Jakov Chakareski and his team. Duties expected are to carry out research, collaborate with other researchers on related projects, mentor students, and publish papers. One long journal paper is expected to be completed and submitted for publication by the end of the appointment. Essential Functions: To carry out research, collaborate with other researchers on related projects, mentor students, and publish papers. Pre-Requisite Qualifications: Background in machine learning and wireless communication is expected. Department: Informatics Compensation: $30.00 per hour At the university's discretion, the education and experience prerequisites may be exempted where the candidate can demonstrate to the satisfaction of the university an equivalent combination of education and experience specifically preparing the candidate for success in the position. Range: Hourly Employees NJIT considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/training, key skills, internal peer equity, as well as, market and organizational considerations when extending an offer. This pay range represents base pay only and excludes any additional items such as incentives, bonuses, or other items. FLSA: Non-Exempt Time Type: Part time Pay Rate: Hourly Additional Information: As an
+
+---
+
+## 33. [MAYBE] New Jersey Institute of Technology | Research Associate
+- Link: https://njit.wd108.myworkdayjobs.com/NJIT_Careers/job/Main-Campus-Site/Research-Associate_JR100595
+- Location: Main Campus Site ; Main Campus Site (United States of America)
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, statistic, quantitative, reporting, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Are you a current NJIT employee? Apply here through the Internal Jobs Hub. Title: Research Associate Reports To: Dean CSLA Position Summary: The research associate will participate in data collection and analysis, as well as training and supervising graduate and undergraduate students, preparing manuscripts, presenting at conferences, and assisting with grant writing. Candidates nearing graduation are encouraged to apply. Essential Functions: Conduct education research in different aspects of engineering education by performing interview protocol development, survey development, data collection, and analysis. Prepare manuscripts for submission to peer-reviewed journals and present work at conferences. Mentor graduate and undergraduate students and manage project tasks, including but not limited to data management, IRB approval, and data collection at sites. Pre-Requisite Qualifications: A successful candidate for this position requires strong quantitative and qualitative research knowledge and excellent writing skills. At the university's discretion, the education and experience prerequisites may be exempted where the candidate can demonstrate to the satisfaction of the university an equivalent combination of education and experience specifically preparing the candidate for success in the position. Union: United Council of Academic @ NJIT (UCAN GSRE) Range: Research Associates Compensation: $44,436.00 NJIT considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/training, key skills, internal peer equity, as well as, market and organizational considerations when extending an offer. This pay range represents base pay only and excludes any additional items such as incentives, bonuses, or other items. To learn more about the comprehensive benefits NJIT offers for this position, please visit our benefits page: https://hr.njit.edu/health-benefits . FLSA: Exempt Time Type: Full time Pay Rate: Salary Additional Information: As an
+
+---
+
+## 34. [MAYBE] TikTok | Research Scientist Intern (TikTok - Content Ecology - Local Services) - 2027 Start (PhD)
+- Link: https://lifeattiktok.com/search/7707222170826623285
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~53 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: llm, machine learning, nlp, python, publication, research | Lacks: c++  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The Content Ecology Algorithm Team drives TikTok's AI innovations in LLMs/MLLMs, NLP, Computer Vision, Multimodal learning, Agentic AI, and recommendation algorithms. We develop cutting-edge AI capabilities that power multiple business lines.
+
+You will tackle unique algorithm challenges in building products for a global audience. Our platform's diverse content and worldwide user base create a wealth of opportunities for AI applications. With rapidly growing businesses such as TikTok Local Services, you'll have the chance to bring cutting-edge AI innovations into real-world production.
+
+We are looking for talented individuals to join us for an internship. PhD internships at Our Company provide students with the opportunity to actively contribute to our products and research, as well as to the organization's future plans and emerging technologies.
+Our dynamic internship experience blends hands-on learning, enriching community-building and professional development events, and collaboration with industry experts.
+Applications will be reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume (Start date, End date).
+
+Responsibilities: 
+- Conduct research and drive end-to-end deployment of innovative solutions that apply LLMs/MLLMs and agentic systems to global multimodal content understanding and representation. 
+- Explore conversion prediction and RL methods for creator and user behavior modeling, and ship innovations to production. 
+- Investigate agentic self-iteration paradigms for autonomous model evolution. 
+- Track cutting-edge AI progress, rapidly validate hypotheses, and translate state-of-the-art insights into production-grade systems. Minimum Qualifications: 
+- Currently pursuing a PhD in Computer Science, Machine Learning or a related technical discipline.
+- Solid foundational understanding of modern machine learning theory and applications, with hands-on experience working with LLMs/MLLMs or agentic systems.
+- Strong analytical thinking to formulate research hypotheses, design experiments and evaluate model behaviors. 
+- Proficiency in common ML frameworks and strong coding skills (Python/C++ preferred).
+
+Preferred Qualifications: 
+- Experience in LLM post-training, agentic AI, reinforcement learning, reward modeling, combinatorial optimization or CTR/CVR/Uplift modeling.
+- Top tier publication, preprint, or open-source project experience in LLMs/MLLMs, NLP, CV, search, recommendation, or ads.
+- Proficiency in Python/C++ preferred.
+
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy
+
+---
+
+## 35. [MAYBE] Teza Technologies | Quantitative Developer
 - Link: https://jobs.ashbyhq.com/teza-technologies/508534c6-ec5e-4b50-9d84-84d812102853
 - Location: Austin United States Yerevan
 - Posted: Nov 24 12:33 ET
@@ -496,7 +890,7 @@ Benefits
 
 ---
 
-## 22. [MAYBE] The Home Depot | Online Data Engineer
+## 36. [MAYBE] The Home Depot | Online Data Engineer
 - Link: https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Online-Data-Engineer_Req199721
 - Location: STORE SUPPORT CENTER, ATLANTA - 9090 ; STORE SUPPORT CENTER, ATLANTA - 9090 (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -511,7 +905,22 @@ With a career at The Home Depot, you can be yourself and also be part of somethi
 
 ---
 
-## 23. [MAYBE] Cedars-Sinai Medical Center | Research Associate I - Levy Lab - Digital Pathology
+## 37. [MAYBE] Barclays | Markets Quantitative Analyst Summer Internship Program 2028 New York
+- Link: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Markets-Quantitative-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139049
+- Location: New York, 745 7th Avenue ; New York, 745 7th Avenue (United States of America)
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~52 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 142 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: excel, machine learning, python, statistic, credit, quantitative, research, risk, trading | Lacks: c++, java  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Description Purpose of the role To participate in the day-to-day activities of the markets division providing insights and expertise that help senior colleagues make informed decisions, develop new products and services, and identify new market opportunities. Accountabilities Execution of small research projects, research to support strategic decision making, preparation of presentations and reports to communicate research findings, collaboration with senior management to implement research findings for the global markets division. Collaboration with cross-functional teams to support business initiatives. Participation in training and development programs to enhance skills and knowledge. Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for the global markets division. Management of client relationships and provision of customer service support to clients and customers, under steadily decreasing supervision, responding to questions about products and services, processing of transactions. Management of the development and implementation of financial models and strategies that support in decision making in the global markets division. Training and mentoring of junior colleagues. Analyst Expectations To perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement. Requires in-depth technical knowledge and experience in their assigned area of expertise Thorough understanding of the underlying principles and concepts within the area of expertise They lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources. If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others. OR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate. Will have an impact on the work of related teams within the area. Partner with other functions and business areas. Takes responsibility for end results of a team’s operational processing and activities. Escalate breaches of policies / procedure appropriately. Take responsibility for embedding new policies/ procedures adopted due to risk mitigation. Advise and influence decision making within own area of expertise. Take ownership for managing risk and strengthening controls in relation to the work you own or contribute to. Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct. Maintain and continually build an understanding of how own sub-function integrates with function, alongside knowledge of the organisations products, services and processes within the function. Demonstrate understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub-function. Make evaluative judgements based on the analysis of factual information, paying attention to detail. Resolve problems by identifying and selecting solutions through the application of acquired technical experience and will be guided by precedents. Guide and persuade team members and communicate complex / sensitive information. Act as contact point for stakeholders outside of the immediate function, while building a network of contacts outside team and external to the organisation. All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave. Do you have a quantitative trading inclination? Barclays makes markets in nearly all major asset classes, providing sophisticated, timely solutions to our clients. Quantitative positions in our Sales and Trading teams are filled with candidates who like to work in a fast-paced, dynamic and exciting environment. Such traders quickly process information and anticipate market trends to help clients make their next move. Sound like the place for you? Find out when you join us as a summer analyst. The chance to make an impact As a summer analyst, you’ll spend 10 weeks in our New York office learning about the market as well as Barclays’ global businesses, products and services. You will complete rotations on different Sales and Trading desks across the following areas: • Credit • Equities • Equity Financing • Foreign Exchange • Municipals • Rates • Structuring • Securitized Products The right candidate will have a background in one or a group of the following: • physics, mathematics, finance or engineering, with relevant coursework in statistics, linear algebra, optimization, machine learning and stochastic calculus • experience analyzing large data in one or more programming languages: Python, C++, Java, etc. Through your desk assignments, you’ll develop a solid understanding of the global markets, building your communication, quantitative and analytical skills. You may: • build and back test mathematical models • monitor markets and help formulate trade ideas • analyze market, fundamental and technical data • present your results to their immediate and related teams • attend client meetings or calls with traders, salespeople and research colleagues A place where you can thrive At Barclays, you’ll be surrounded by people who will help you achieve your ambitions. Our collaborative, supportive environment gives you the chance to build solid relationships with senior leaders and peers alike. During the program, you will: • participate in formal and informal training • connect with junior and senior mentors • attend dedicated networking sessions and other program events • receive detailed performance feedback • give back to the community through volunteer event And if you really impress us, this could be the beginning of an incredible career. We invite top-performing, eligible summer analysts to join us as full-time Sales and Trading analysts after graduation. To be considered for this program, you must: To be considered for this program, you must be motivated and curious and have a target graduation date toward an eligible degree within one year of conclusion of this internship. Ideally, you would also have: • a GPA of 3.4 or above About Barclays Barclays is a transatlantic consumer and wholesale bank offering products and services across personal, corporate and investment banking, credit cards and wealth management, with a strong presence in our two home markets of the UK and the US. With over 325 years of history and expertise in bankin [...]
+
+---
+
+## 38. [MAYBE] Cedars-Sinai Medical Center | Research Associate I - Levy Lab - Digital Pathology
 - Link: https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22170
 - Location: Los Angeles, CA, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -526,7 +935,112 @@ Principal Investigator, Dr. Joshua Levy, is looking for a Research Associate I t
 
 ---
 
-## 24. [MAYBE] West Bend Insurance | Title Financial Data Analyst
+## 39. [MAYBE] Carnegie Mellon University | Research Associate - Kenneth C. Griffin School of Computer Science - CBD
+- Link: https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Research-Associate---Kenneth-C-Griffin-School-of-Computer-Science---CBD_2025280
+- Location: Pittsburgh, PA ; Pittsburgh, PA (United States of America)
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, statistic, quantitative, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Carnegie Mellon University is a private, global research university that stands among the world’s most renowned education institutions. With ground-breaking brain science, path-breaking performances, creative start-ups, big data, big ambitions, hands-on learning, and a whole lot of robots, CMU doesn’t imagine the future, we invent it. If you’re passionate about joining a community that challenges the curious to deliver work that matters, your journey starts here! The Ray and Stephanie Lane Computational Biology Department (CBD) at Carnegie Mellon University is renowned for its interdisciplinary approach to studying biological systems using computational methods. Faculty and researchers collaborate across fields such as computer science, biology, and statistics to tackle complex biological questions. Their work spans diverse areas including genomics, bioinformatics, systems biology, and computational neuroscience, driving innovation at the intersection of computation and life sciences. CBD is seeking a Research Associate to assist in the development and execution of research projects including experiment design, analysis of data collected and writing up experiment results. This is an excellent opportunity for someone who thrives in an interesting and challenging work environment. Core Responsibilities Uses a variety of software packages to input, manipulate, collect and record results or observations. Performs research experiments following experimental protocol and procedures. Researches and documents information by compiling and maintaining accurate and detailed records. Summarizes statistical information for analysis, examination or presentation; writes technical reports. May build and validate quantitative models. Identifies problems and obstacles to progress; develops strategies to solve problems. May program software in support of job functions. Attends project meetings. Performs related duties as assigned. Adaptability, excellence, and passion are vital qualities within Carnegie Mellon University. We are in search of a team member who can effectively interact with a varied population of internal and external partners at a high level of integrity. We are looking for someone who shares our values and who will support the mission of the university through their work. Qualifications: Bachelor’s degree required. 1-3 years of research experience. Strong communication, analytical and problem-solving skills. A combination of education and proven experience from which comparable knowledge is demonstrated may be considered. Requirements : Successful completion of a pre-employment background check Joining the CMU team opens the door to an array of exceptional benefits. Benefits eligible employees enjoy a wide array of benefits including comprehensive medical, prescription, dental, and vision insurance as well as a generous retirement savings program with employer contributions. Unlock your potential with tuition benefits , take well-deserved breaks with ample paid time off and observed holidays , and rest easy with life and accidental death and disability insurance. Additional perks include a free Pittsburgh Regional Transit bus pass, access to our Family Concierge Team to help navigate childcare needs, fitness center access , and much more! For a comprehensive overview of the benefits available, explore our Benefits page . At Carnegie Mellon, we value the whole package when extending offers of employment. Beyond credentials, we evaluate the role and responsibilities, your valuable work experience, and the knowledge gained through education and training. We appreciate your unique skills and the perspective you bring. Your journey with us is about more than just a job; it’s about finding the perfect fit for your professional growth and personal aspirations. Are you interested in an exciting opportunity with an exceptional organization?! Apply today! Location Pittsburgh, PA Job Function Researchers Position Type Staff – Fixed Term (Fixed Term) Full Time/Part time Full time Pay Basis Hourly More Information: Please visit “ Why Carnegie Mellon ” to learn more about becoming part of an institution inspiring innovations that change the world. Click here to view a listing of employee benefits Carnegie Mellon University
+
+---
+
+## 40. [MAYBE] TikTok | Data Engineer Intern (Data Platform Global Live) - 2027 Summer
+- Link: https://lifeattiktok.com/search/7674032146438162693
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: llm, python, sql | Lacks: -  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About the team: 
+The Data Platform Global Live team is dedicated to empowering the growth of TikTok LIVE business through big data. We support our businesses in achieving their missions by building high quality real-time and offline data warehouses, creating various forms of efficient and data-friendly data assets, and exploring and implementing business oriented data solutions leveraging big data technology and LLM. We provide stable and reliable data capabilities for daily operations, analyses, decision-making of TikTok LIVE features, in addition to robust data support to enhance live performance for streamers.  
+
+As a data engineer in the Global Live team, you will have the opportunity to build, optimize and grow one of the largest data platforms in the world. You'll have the opportunity to gain hands-on experience on all kinds of systems in the data platform ecosystem and explore applications of latest technologies including LLM for data. Your work will have a direct and huge impact on the company's core products as well as hundreds of millions of users.
+
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start and end dates.
+
+Responsibilities: 
+- Understanding business problems, designing and implementing easy-to-use data solutions for businesses.
+- Collaborating with data engineers to understand the data system and provide a smooth data usage experience for data users, including but not limited to data discovery, data usage guidance, and promotion of the data system.
+- Collaborating with business teams from all over the world to drive user growth and revenue growth. Minimum Qualification(s):
+- Currently pursuing a Bachelor's degree in Computer Science or a related technical discipline.
+- Good experience in data solutions, such as data consulting, product development, and data tools creation.
+- Strong problem-solving and analytical skills with the ability to translate business needs into technical solutions and data metrics.
+- Have an understanding of data warehousing and the construction ideas of the data system.
+- Experience with coding (SQL, Python, etc.)
+- Passionate and self-motivated about using data to drive business decisions.
+
+Preferred Qualification(s):
+- Currently pursuing a Master's degree in Computer Science or a related technical discipline.
+
+---
+
+## 41. [MAYBE] TikTok | Research Scientist Intern (TikTok-Privacy Innovation Lab) - 2027 Start (PhD)
+- Link: https://lifeattiktok.com/search/7703923326767483141
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: pytorch, git, pipeline, publication, research | Lacks: -  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At TikTok, we treat privacy as our top priority in our product design and implementation. Privacy is not just about regulation compliance, but also about a more trusted way to enable technology innovation by respecting users' privacy choices!
+
+About the Team
+Privacy Innovation (PI) Lab is established to explore the next frontier of privacy technology and theory in the digitalized world. We provide key insights and technical solutions on privacy-related innovation for all TikTok's products. Furthermore, we also collaborate with worldwide technical and academic communities to build an open ecosystem to promote a privacy-friendly digital experience.
+
+We are looking for talented individuals to join us for an internship. PhD internships at Our Company provide students with the opportunity to actively contribute to our products and research, as well as to the organization's future plans and emerging technologies.
+Our dynamic internship experience blends hands-on learning, enriching community-building and professional development events, and collaboration with industry experts.
+Applications will be reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume (Start date, End date).
+
+About the Role
+We are building next-generation generative foundation models, with a strong focus on diffusion-based and unified generation-understanding architectures, deployed in privacy-sensitive, production environments.
+This role sits at the intersection of
+- Large-scale model training systems
+- GPU-first architecture and kernel-level optimization
+- Diffusion / DiT / unified multimodal foundation models
+- Privacy-preserving and compliant training pipelines
+
+You will work on end-to-end training architecture design, from model-parallel execution and GPU efficiency to robust, fault-tolerant, privacy-aware training infrastructure.
+
+Responsibilities: 
+You will participate in the architecture design and deep optimization of next-generation text-to-image and text-to-video models, including but not limited to:
+- Develop a deep understanding of and optimize DiT + Flow Matching / Rectified Flow–based generative models
+- Lead or contribute to the design and implementation of: Diffusion Transformer (DiT / MM-DiT) architecture improvements; Unified text-to-image / text-to-video model designs; Latent space, tokenization, and conditioning mechanisms.
+- Perform joint algorithmic and system-level optimization, targeting: Training stability and convergence speed; Memory and compute efficiency; Generation quality and consistency
+- Address challenges in long-sequence, high-resolution, and video generation, including: Efficient attention and temporal modeling strategies; Long-context and long-latent modeling
+- Collaborate closely with systems and kernel engineers to map model designs to efficient implementations
+- Reproduce, analyze, and advance state-of-the-art generative models (beyond simple replication) Minimum Qualifications
+- Currently pursuing PhD in Computer science, computer engineering, or a related technical discipline. 
+- Deep understanding of Diffusion / Flow Matching / Rectified Flow
+- Strong familiarity with DiT / Transformer-based architectures in generative modeling
+- Ability to debug the full pipeline from mathematical formulation → code → training → generated outputs
+- Proficiency with PyTorch and hands-on experience training large-scale models
+
+Preferred Qualifications 
+- Practical experience with text-to-image or text-to-video models (non-toy systems)
+- Familiarity with multimodal modeling (Text / Image / Video / Audio)
+- Research publications or open-source contributions
+
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy
+
+---
+
+## 42. [MAYBE] West Bend Insurance | Title Financial Data Analyst
 - Link: https://careers-thesilverlining.icims.com/jobs/4636/financial-data-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -541,7 +1055,58 @@ Financial Data Analyst in West Bend, Wisconsin | Careers at West Bend, WI Please
 
 ---
 
-## 25. [MAYBE] Voya Financial | IM Entry Level Analyst Program - Equity Research Associate
+## 43. [MAYBE] ASML | Internship - Data Analyst
+- Link: https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Data-Analyst_J-00355833
+- Location: San Jose, CA, USA ; San Jose, CA, USA (United States of America)
+- Posted: Nov 24 (board gives the date only)
+- Scanner fit: ~48 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 7 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: dashboard, excel, power bi, sql, data quality, reporting, validation | Lacks: sap, scala  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Introduction to the job ASML US, including its affiliates and subsidiaries, bring together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, more energy-efficient microchips. We design, develop, integrate, market and service these advanced machines, which enable our customers - the world’s leading chipmakers - to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more powerful consumer electronics. Our headquarters are in Veldhoven, Netherlands, and we have 18 office locations around the United States including main offices in Chandler, Arizona, San Jose and San Diego, California, Wilton, Connecticut, and Hillsboro, Oregon. Founded in 1984, ASML is the world’s leading provider of lithography systems for the semiconductor industry, manufacturing complex machines that are critical to the production of integrated circuits or microchips. Working for ASML and dealing with data & insights is by default the most disruptive combination of topics you’ll come across today … A global data culture ,an enthusiastic business data community and a solid data organization are key for the success of ASML. Your contributions will help HMI improve master data quality, automate reporting processes, increase operational visibility, and strengthen data governance. Role and responsibilities Analyze master data quality and identify improvement opportunities. Develop automated dashboards and reporting solutions using Microsoft tools and SAP data extracts. Support process mapping and documentation of master data governance workflows. Assist with data validation, root cause analysis, and corrective action tracking. Participate in ongoing data governance and process standardization initiatives. You will gain hands-on experience working in ASML’s high-tech semiconductor equipment environment. The assignment will provide practical experience in SAP master data, data-quality analysis, dashboard and reporting automation, process mapping, root-cause analysis, and continuous improvement. The intern will also strengthen project management, stakeholder communication, and cross-cultural collaboration skills while learning how trusted master data supports planning reliability, operational excellence, and scalable business growth across global HMI sites. This position is located on-site in San Jose, CA. It requires onsite presence to attend in-person work-related events, trainings and meetings and to further ensure teamwork, collaboration and innovation. Must be available for 12 weeks for one of these sessions starting with the following dates: 6/2/2027 or 6/14/2027 Education and experience Candidate must be currently pursuing a bachelor's or master's degree and maintaining a 3.0 GPA or higher. Preferred fields of study include Supply Chain Management, Industrial Engineering, Information Systems, Data Analytics, Business Analytics, Computer Science, or related discipline. The candidate should demonstrate strong analytical and problem-solving skills, attention to detail, and the ability to translate business requirements into clear reports and improvement actions. Familiarity with Microsoft Excel, Power BI, Power Automate, SQL, or other reporting and automation tools is preferred. Exposure to SAP, master data, manufacturing, semiconductor operations, or process improvement is an advantage. The current base hourly range for this role is currently: $18.00 to $48.00 per hour Pay scales are determined by role, level, location and alignment with market data. Individual pay is determined through interviews and an assessment of several factors that that are unique to each candidate, including but not limited to job-related skills, relevant education and experience, certifications, abilities of the candidate and pay relative to other team members This position may require access to controlled technology, as defined in the Export Administration Regulations (15 C.F.R. § 730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require the Company to proceed with candidates who are immediately eligible to access controlled technology. Inclusion and diversity ASML
+
+---
+
+## 44. [MAYBE] TikTok | Machine Learning Scientist Intern (TikTok-Local Services) - 2027 Start (PhD)
+- Link: https://lifeattiktok.com/search/7667934169444485429
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~48 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: machine learning, nlp, python, pytorch, tensorflow, research | Lacks: c++, golang  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+TikTok Location Based Service Team's goal is to deliver user-facing products based on the location that connects people with places, localized content, and service in the real world around the globe. We leverage POI data, geolocation, and large-scale location-based services (LBS) technologies to provide comprehensive LBS product and service capabilities for overseas businesses. 
+
+We are looking for talented individuals to join us for an internship. PhD internships at Our Company provide students with the opportunity to actively contribute to our products and research, as well as to the organization's future plans and emerging technologies.
+Our dynamic internship experience blends hands-on learning, enriching community-building and professional development events, and collaboration with industry experts.
+Applications will be reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume (Start date, End date).
+
+Responsibilities: 
+- Work on ML models and algorithms to drive the creation of cutting-edge technical solutions to bridge the gap between technical capabilities and real-world business impact, including POI data production, POI recommendation, reviews sentiment analysis and ranking, geocoding, user profiling, etc.
+- Responsible for algorithmic strategies in geographical content and services, enhancing and optimizing Location-Based Services (LBS) capabilities to support a range of international products.
+- Thoroughly comprehend business intricacies, analyze issues, and devise appropriate algorithms and strategies tailored to various problem domains. Continuously optimize performance and efficacy. Minimum Qualifications: 
+- Currently pursuing a PhD in Software Development, Computer Science, Computer Engineering, or a related technical discipline.
+- Able to commit to working for 12 weeks during the Summer of 2027. 
+- Experienced in programming and algorithmic skills, proficient in languages such as Python, Golang, or C++.
+- Deep understanding of computer architectures, data structures and algorithms.
+- Experienced in one or more of the following topics: Tensorflow, Caffe, MxNet, PyTorch or other machine learning frameworks
+- Have good team communication and collaboration skills.
+
+Preferred Qualifications: 
+-Experience or domain expertise in one or more of the following areas is preferred: POI (Point of Interest) data algorithms, NLP, recommendation systems, reviews sentiment analysis and ranking, NER, text mining, geocoding, user profiling, etc.
+-Experience in big data, data warehouse, streaming data flow and real time data processing system is preferred.
+
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy
+
+---
+
+## 45. [MAYBE] Voya Financial | IM Entry Level Analyst Program - Equity Research Associate
 - Link: https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/IM-Entry-Level-Analyst-Program---Equity-Research-Associate_JR0033435
 - Location: New York, NY ; New York, NY (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -556,7 +1121,7 @@ Together we fight for everyone’s opportunity for a better financial future. We
 
 ---
 
-## 26. [MAYBE] Société Générale de Surveillance (SGS) | Research Analyst (Large Molecule)
+## 46. [MAYBE] Société Générale de Surveillance (SGS) | Research Analyst (Large Molecule)
 - Link: https://jobs.smartrecruiters.com/SGS/744000163481141
 - Location: Hoffman Estates IL us
 - Posted: Nov 24 10:14 ET
@@ -571,7 +1136,7 @@ Ready to make an impact in the lab? Here's what you'll be doing: Conduct engagin
 
 ---
 
-## 27. [MAYBE] Washington University in St. Louis | Statistical Data Analyst MS (Part-Time) -  Biostatistics
+## 47. [MAYBE] Washington University in St. Louis | Statistical Data Analyst MS (Part-Time) -  Biostatistics
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Statistical-Data-Analyst-MS--Part-Time-----Biostatistics_JR98228
 - Location: Washington University Medical Campus ; Washington University Medical Campus (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -586,7 +1151,7 @@ Location ST. LOUIS, MO 63110&#xa;&#xa; Scheduled Hours 20 Position Summary Perfo
 
 ---
 
-## 28. [MAYBE] Wash U | Statistical Data Analyst MS (Part-Time) -  Biostatistics
+## 48. [MAYBE] Wash U | Statistical Data Analyst MS (Part-Time) -  Biostatistics
 - Link: https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Statistical-Data-Analyst-MS--Part-Time-----Biostatistics_JR98228
 - Location: Washington University Medical Campus ; Washington University Medical Campus (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -601,7 +1166,7 @@ Location ST. LOUIS, MO 63110&#xa;&#xa; Scheduled Hours 20 Position Summary Perfo
 
 ---
 
-## 29. [MAYBE] Société Générale de Surveillance (SGS) | Research Analyst (Large Molecule)
+## 49. [MAYBE] Société Générale de Surveillance (SGS) | Research Analyst (Large Molecule)
 - Link: https://jobs.smartrecruiters.com/SGS/744000163518579
 - Location: Hoffman Estates IL us
 - Posted: Nov 24 12:26 ET
@@ -616,7 +1181,7 @@ Ready to make an impact in the lab? Here's what you'll be doing: Conduct engagin
 
 ---
 
-## 30. [MAYBE] KLA Corporation | Research Scientist - Computational Electromagnetics
+## 50. [MAYBE] KLA Corporation | Research Scientist - Computational Electromagnetics
 - Link: https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist---Computational-Electromagnetics_2641485-1
 - Location: Ann Arbor, MI ; Ann Arbor, MI (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -631,7 +1196,7 @@ To make electronics, you need chips, wafers, transistors, reticles, and... To ma
 
 ---
 
-## 31. [MAYBE] Procore Technologies | Forward Deployed AI Engineer
+## 51. [MAYBE] Procore Technologies | Forward Deployed AI Engineer
 - Link: https://procore.wd12.myworkdayjobs.com/Procore_External_Careers/job/US---Texas---Austin/Forward-Deployed-AI-Engineer_R0019158-1
 - Location: US - Texas - Austin ; US - Texas - Austin (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -646,7 +1211,7 @@ Procore Technologies is the leading technology partner for every stage of constr
 
 ---
 
-## 32. [MAYBE] Freudenberg Group | Agentic Engineer
+## 52. [MAYBE] Freudenberg Group | Agentic Engineer
 - Link: https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Plymouth-MI/Agentic-Engineer_R_00109538
 - Location: Plymouth, MI ; Plymouth, MI (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -661,7 +1226,7 @@ Working at Freudenberg: We will wow your world! Responsibilities: Design, build,
 
 ---
 
-## 33. [MAYBE] KLA Corporation | Research Scientist - Computational Electromagnetics
+## 53. [MAYBE] KLA Corporation | Research Scientist - Computational Electromagnetics
 - Link: https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist---Computational-Electromagnetics_2641485
 - Location: Ann Arbor, MI ; Ann Arbor, MI (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -676,7 +1241,93 @@ To make electronics, you need chips, wafers, transistors, reticles, and... To ma
 
 ---
 
-## 34. [MAYBE] Ryan | Full Stack AI Engineer - May 2027 Grads
+## 54. [MAYBE] Carnegie Mellon University | Research Assistant - Kenneth C. Griffin School of Computer Science - CBD
+- Link: https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Research-Assistant---Kenneth-C-Griffin-School-of-Computer-Science---CBD_2025320
+- Location: Pittsburgh, PA ; Pittsburgh, PA (United States of America)
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, statistic, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Carnegie Mellon University is a private, global research university that stands among the world’s most renowned education institutions. With ground-breaking brain science, path-breaking performances, creative start-ups, big data, big ambitions, hands-on learning, and a whole lot of robots, CMU doesn’t imagine the future, we invent it. If you’re passionate about joining a community that challenges the curious to deliver work that matters, your journey starts here! The Ray and Stephanie Lane Computational Biology Department (CBD) at Carnegie Mellon University is renowned for its interdisciplinary approach to studying biological systems using computational methods. Faculty and researchers collaborate across fields such as computer science, biology, and statistics to tackle complex biological questions. Their work spans diverse areas including genomics, bioinformatics, systems biology, and computational neuroscience, driving innovation at the intersection of computation and life sciences. CBD is seeking a Research Assistant to assist in the development and execution of research projects including experiment design, analysis of data collected and writing up experiment results. This is an excellent opportunity for someone who thrives in an interesting and challenging work environment. Core Responsibilities Performs library research and field explorations. Follows research plans to collect, record, and manipulate research data. Maintains accurate and detailed research records and files. May test software prototypes. May interact with research subjects to perform job functions. Performs basic data analysis to product reports. Documents results and processes. Performs related duties as assigned. Adaptability, excellence, and passion are vital qualities within Carnegie Mellon University. We are in search of a team member who can effectively interact with a varied population of internal and external partners at a high level of integrity. We are looking for someone who shares our values and who will support the mission of the university through their work. Qualifications: High School Diploma or GED required. Associate’s Degree preferred. Previous research experience preferred. Strong communication, analytical and problem-solving skills. A combination of education and proven experience from which comparable knowledge is demonstrated may be considered. Requirements : Successful completion of a pre-employment background check Joining the CMU team opens the door to an array of exceptional benefits. Benefits eligible employees enjoy a wide array of benefits including comprehensive medical, prescription, dental, and vision insurance as well as a generous retirement savings program with employer contributions. Unlock your potential with tuition benefits , take well-deserved breaks with ample paid time off and observed holidays , and rest easy with life and accidental death and disability insurance. Additional perks include a free Pittsburgh Regional Transit bus pass, access to our Family Concierge Team to help navigate childcare needs, fitness center access , and much more! For a comprehensive overview of the benefits available, explore our Benefits page . At Carnegie Mellon, we value the whole package when extending offers of employment. Beyond credentials, we evaluate the role and responsibilities, your valuable work experience, and the knowledge gained through education and training. We appreciate your unique skills and the perspective you bring. Your journey with us is about more than just a job; it’s about finding the perfect fit for your professional growth and personal aspirations. Are you interested in an exciting opportunity with an exceptional organization?! Apply today! Location Pittsburgh, PA Job Function Researchers Position Type Staff – Fixed Term (Fixed Term) Full Time/Part time Full time Pay Basis Hourly More Information: Please visit “ Why Carnegie Mellon ” to learn more about becoming part of an institution inspiring innovations that change the world. Click here to view a listing of employee benefits Carnegie Mellon University
+
+---
+
+## 55. [MAYBE] TikTok | Machine Learning Scientist Intern (TikTok-Local Services) - 2027 Start
+- Link: https://lifeattiktok.com/search/7703925583541979445
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: machine learning, nlp, python, pytorch, tensorflow | Lacks: c++, golang  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+TikTok Location Based Service Team's goal is to deliver user-facing products based on the location that connects people with places, localized content, and service in the real world around the globe. We leverage POI data, geolocation, and large-scale location-based services (LBS) technologies to provide comprehensive LBS product and service capabilities for overseas businesses. 
+
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start and end dates.
+
+Responsibilities: 
+- Work on ML models and algorithms to drive the creation of cutting-edge technical solutions to bridge the gap between technical capabilities and real-world business impact, including POI data production, POI recommendation, reviews sentiment analysis and ranking, geocoding, user profiling, etc.
+- Responsible for algorithmic strategies in geographical content and services, enhancing and optimizing Location-Based Services (LBS) capabilities to support a range of international products.
+- Thoroughly comprehend business intricacies, analyze issues, and devise appropriate algorithms and strategies tailored to various problem domains. Continuously optimize performance and efficacy. Minimum Qualifications: 
+- Currently pursuing a Master's in Software Development, Computer Science, Computer Engineering, or a related technical discipline.
+- Able to commit to working for 12 weeks during the Summer of 2027. 
+- Experienced in programming and algorithmic skills, proficient in languages such as Python, Golang, or C++.
+- Deep understanding of computer architectures, data structures and algorithms.
+- Experienced in one or more of the following topics: Tensorflow, Caffe, MxNet, PyTorch or other machine learning frameworks
+- Have good team communication and collaboration skills.
+
+Preferred Qualifications: 
+- Experience or domain expertise in one or more of the following areas is preferred: POI (Point of Interest) data algorithms, NLP, recommendation systems, reviews sentiment analysis and ranking, NER, text mining, geocoding, user profiling, etc.
+- Experience in big data, data warehouse, streaming data flow and real time data processing system is preferred.
+
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy
+
+---
+
+## 56. [MAYBE] TikTok | (General Hire) Research Scientist Intern (Monetization Technology) - 2026 Start (PhD)
+- Link: https://lifeattiktok.com/search/7559026733786548488
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: machine learning, publication, quantitative, research | Lacks: -  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Monetization Technology teams are building the next-generation monetization platforms to help millions of customers grow their businesses, utilizing our products like TikTok. Our team develops a wide variety of advertisements for numerous uses including feeds, live streaming, branding, measurement, targeting, search, vertical solutions, creative solutions, and business integrity.
+
+We are looking for talented individuals to join us for an internship in 2026. Internships at TikTok aim to offer students industry exposure and hands-on experience. Watch your ambitions become reality as your inspiration brings infinite opportunities at TikTok.
+
+PhD internships at TikTok provide students with the opportunity to actively contribute to our products and research, and to the organization's future plans and emerging technologies. Our dynamic internship experience blends hands-on learning, enriching community-building and development events, and collaboration with industry experts.
+
+Applications will be reviewed on a rolling basis - we encourage you to apply early. Please state your availability clearly in your resume (Start date, End date).
+
+Note: This is role is a part of the general hire process. Based on your background, experience, interests, and interview performance, we'll help identify one or more teams that are the best match for you.
+
+Responsibilities
+- Participate in the development of a large-scale Ads system.
+- Responsible for the development of state-of-the-art applied machine learning projects.
+- Own key targeting components or strategies in the TikTok ads monetization ecosystem.
+- Work with product and business teams on product vision. Minimum Qualifications:
+- Currently pursuing a PhD in Computer Science, engineering or  quantitative field
+- Hands-on experience of developing multimodality foundation models and work or internship experience in an AI research organization is a plus
+- Strong publications record in top conferences or journals (e.g., NeurIPS, ICML, ICLR, CVPR, etc)
+
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy
+
+---
+
+## 57. [MAYBE] Ryan | Full Stack AI Engineer - May 2027 Grads
 - Link: https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Full-Stack-AI-Engineer_R0019979-1
 - Location: 4 Locations ; Plano ; Washington ; Houston ; Atlanta (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -691,7 +1342,7 @@ Why Ryan? Flexibility Built for Life: Hybrid and remote work options, depending 
 
 ---
 
-## 35. [MAYBE] State Street | North America Portfolio Analyst, Officer
+## 58. [MAYBE] State Street | North America Portfolio Analyst, Officer
 - Link: https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/North-America-Portfolio-Analyst--Officer_R-799261
 - Location: Boston, Massachusetts ; Boston, Massachusetts (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -706,7 +1357,51 @@ Who We Are Looking For We are seeking a highly motivated, client-focused profess
 
 ---
 
-## 36. [MAYBE] GE Aerospace | Data Engineer
+## 59. [MAYBE] TikTok | Data Engineer Intern (Monetization Data) - 2027 Summer
+- Link: https://lifeattiktok.com/search/7671232204182276405
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~43 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: bigquery, etl, excel, machine learning, python, spark, sql, data quality, pipeline, reporting, validation | Lacks: databricks, hadoop, java, kafka, scala, snowflake  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The Monetization Data team builds the data foundation that powers TikTok's global advertising and monetization products. We design and operate large-scale batch and real-time data pipelines, data warehouses, and analytics platforms that help improve advertiser experience, measure business performance, support experimentation, and drive product and strategy decisions.
+
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside industry professionals.
+
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start and end dates.
+
+Responsibilities:
+- Work closely with Product Managers, Data Scientists/Analysts, and Software/Machine Learning Engineers and other stakeholders to understand data requirements and deliver data solutions that meet business needs.
+- Evaluate, implement and maintain data infrastructure tools and technologies to support efficient data processing, storage and query.
+- Design, build and optimize scalable data pipelines to ingest, process and transform large volumes of data.
+- Design and implement robust data models and visualization to support complex analytical queries and reporting requirements.
+- Ensure the data integrity, accuracy and consistency of data by implementing data quality checks, validation processes and monitoring mechanisms.
+- Continously optimize data pipelines, queries and processes to improve performance, reduce latency and enhance scalability.
+- Provide rapid response to SLA oncall support to business critical data pipelines.
+- Create and maintain good documentation for data assets and promote best practices for data governance within the data user community. Minimum Qualifications:
+- Currently pursuing an Undergraduate/Master's in Computer Science, Engineering, or a related field.
+- Strong knowledge of SQL and experience working with relational and non-relational databases.
+- Proficiency in programming languages such as Python, Java, Go etc.
+- Solid understanding of data modeling and data warehousing concepts, data integration and ETL/ELT techniques.
+- Effective communication skills and ability to collaborate effectively with cross-functional teams.
+- Excellent problem-solving skills, attention to detail, and ability to thrive in a fast-paced environment.
+- Able to commit to working for 12 weeks during Summer 2027.
+
+Preferred Qualifications:
+- Experience with big data technologies(e.g. Apache Hadoop, Spark, Kafka, Flink) and working with terabyte to petabyte scale data.
+- Experience with cloud data warehouses (eg. Snowflake, Databricks, BigQuery) and modern business intelligence/data stack.
+- Experience with data governance, data privacy and compliance.
+- Experience in the advertising, e-commerce or gaming industry.
+
+---
+
+## 60. [MAYBE] GE Aerospace | Data Engineer
 - Link: https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Gebze/Data-Engineer_R5043467-1
 - Location: 2 Locations ; Gebze ; Austin (Türkiye)
 - Posted: Nov 23 (board gives the date only)
@@ -721,7 +1416,46 @@ Job Description Summary Responsible for developing data engineering jobs and wor
 
 ---
 
-## 37. [MAYBE] Texas Capital Bank | Product Marketing Analyst - Banking Solutions
+## 61. [MAYBE] TikTok | Data Engineer Intern (E-commerce) - 2027 Summer
+- Link: https://lifeattiktok.com/search/7676250516494436661
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~42 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: etl, llm, machine learning, spark, sql, reporting | Lacks: hadoop, kafka, scala  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+As a data engineer in the Data Platform E-Commerce team, you will have the opportunity to build, optimize and grow one of the largest data platforms in the world. You'll have the opportunity to gain hands-on experience on all kinds of systems in the data platform ecosystem. Your work will have a direct and huge impact on the company's core products as well as hundreds of millions of users.
+
+We are actively exploring how to deeply integrate traditional search engine technologies with Large Language Models (LLMs) to enhance the TikTok Search experience and pioneer new search paradigms. You will have the opportunity to work on challenging problems at the intersection of information retrieval, machine learning, natural language understanding, recommendation systems, and large-scale distributed systems.
+
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start and end dates.
+
+Candidates who pass resume screening will be invited to participate in Our Company's technical online assessment.
+
+Responsibilities - What You'll Do
+- Design and build data transformations efficiently and reliably for different purposes (e.g. reporting, growth analysis, multi-dimensional analysis);
+- Design and implement reliable, scalable, robust and extensible big data systems that support core products and business;
+- Establish solid design and best engineering practice for engineers as well as non-technical people. Minimum Qualifications:
+- Currently pursuing a Bachelor's degree in Computer Science or a related technical discipline.
+- Able to commit to working for 12 weeks during Summer 2026
+- Experience in the Big Data technologies(Hadoop, M/R, Hive, Spark, Metastore, Presto, Flume, Kafka, ClickHouse, Flink etc.);
+- Experience with performing data analysis, data ingestion and data integration;
+
+Preferred Qualifications:
+- Currently pursuing a Master's degree in Computer Science or a related technical discipline.
+- Experience with ETL(Extraction, Transformation & Loading) and architecting data systems;
+- Experience with schema design, data modeling and SQL queries;
+- Passionate and self-motivated about technologies in the Big Data area.
+
+---
+
+## 62. [MAYBE] Texas Capital Bank | Product Marketing Analyst - Banking Solutions
 - Link: https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Dallas-TX/Product-Marketing-Analyst---Banking-Solutions_JR106441
 - Location: Dallas, TX ; Dallas, TX (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -736,7 +1470,7 @@ Texas Capital is the premier full-service financial services firm founded and he
 
 ---
 
-## 38. [MAYBE] Google | Research Scientist, Google Cloud AI Research
+## 63. [MAYBE] Google | Research Scientist, Google Cloud AI Research
 - Link: https://www.google.com/about/careers/applications/jobs/results/103214985785549510
 - Location: Mountain View, CA, USA
 - Posted: Nov 24 12:09 ET
@@ -751,7 +1485,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 39. [MAYBE] Mizuho Securities USA | Equity Research Associate
+## 64. [MAYBE] Mizuho Securities USA | Equity Research Associate
 - Link: https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/Equity-Research-Associate_R7584
 - Location: New York, NY (1271 AOA/6th Ave) ; New York, NY (1271 AOA/6th Ave) (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -766,7 +1500,90 @@ Equity Research Associate – Midstream Team A leading and growing global invest
 
 ---
 
-## 40. [MAYBE] AbbVie | Associate Data Scientist II – Early Discovery Science
+## 65. [MAYBE] Marmon Holdings | Product & Brand Marketing Analyst
+- Link: https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Hanover-Township-PA/Product---Brand-Marketing-Analyst_JR0000047219
+- Location: Hanover Township, PA ; Hanover Township, PA (United States of America)
+- Posted: Nov 24 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, statistic, git, research | Lacks: salesforce  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Koehler-Bright Star LLC As a part of the global industrial organization Marmon Holdings—which is backed by Berkshire Hathaway— you’ll be doing things that matter, leading at every level, and winning a better way. We’re committed to making a positive impact on the world, providing you with diverse learning and working opportunities, and fostering a culture where everyone’s empowered to be their best. Under broad supervision, assists more senior Brand Managers in the development and execution of marketing plans. Introduces the marketing management function involving research or historical records, trends, analyzing consumer habits, competitor pricing impact, sales techniques, advertising performance, etc. Role typically requires between 3 and 5 years of experience. Under broad supervision, assists more senior Brand Managers in the development and execution of marketing plans. Introduces the marketing management function involving research or historical records, trends, analyzing consumer habits, competitor pricing impact, sales techniques, advertising performance, etc. Role typically requires between 3 and 5 years of experience. The company is seeking a full-time Product & Brand Marketing Analyst . The position will be based out of our Hanover Township, PA (Luzerne County) manufacturing and office facility. This is an on-site position and the successful candidate must be available to work in the office most days. Lead the creation of cost-effective marketing materials, campaigns, and promotions with measurable results. Design promotional materials for marketing campaigns and events. Coordinate with vendors, managing all stages of proofing, printing, and delivery. Create and coordinate original photography and video content for product and brand promotions. Develop targeted marketing strategies for each brand and execute them against defined performance metrics. Prepare for, support, and attend trade shows. This position requires a moderate amount of air/car travel to US trade shows. 5-10 trips a year for 2-5 days, sometimes extending into a weekend. Manage the company’s social media channels and digital networks. Analyze and interpret marketing data to support the organizational strategy and decision making. Collect and monitor key marketing metrics to track the performance of marketing initiatives and summarize insights for management. Use research and analysis to define market segments and assist with developing targeted messaging. Monitor competitor strategies, industry trends, and consumer preferences to identify marketing opportunities or strategy improvements. Develop or lead consumer surveys to improve and refine the understanding of consumer behavior or preferences. Support cross-functional sales activities including understanding pricing models, communicating product value, and general inside sales functions as needed. Demonstrate advanced proficiency with computers and software such as Adobe Acrobat, Office (Word, Excel, Power Point), photo/ video editing applications, and general AI tools. undefined Education/Experience Bachelor’s degree: Marketing, Business Administration, Statistics, or a related field.3+ years of experience in marketing analytics, business intelligence, or related role. Other Experience working with marketing platforms and CRMs (HubSpot, Salesforce, Google Analytics, etc.).Ability to interpret data and communicate insights in a clear and actionable way.Strong attention to detail and commitment to data accuracy.Excellent collaboration, presentation, and communication skills. Following receipt of a conditional offer of employment, candidates will be required to complete additional job-related screening processes as permitted or required by applicable law .
+
+---
+
+## 66. [MAYBE] TikTok | Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start
+- Link: https://lifeattiktok.com/search/7698822572474583301
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: machine learning, python, statistic, pipeline, risk | Lacks: c++, java  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The Search team builds the systems that help users find relevant, reliable, and engaging content across TikTok. The team works across search retrieval, ranking, recommendation signals, query understanding, relevance, infrastructure, and product experiences. Our work combines large-scale machine learning, data-driven product development, and distributed systems to improve search quality for a global user base.
+
+We are looking for talented individuals to join us for an internship. Our internship program offers students hands-on experience, industry exposure, and opportunities to apply their knowledge to real-world challenges while building a strong foundation for personal and professional growth.
+Interns will gain practical experience, explore potential career paths, and participate in social events, learning programs, and development workshops alongside industry professionals.
+Candidates may apply to a maximum of two positions across Our Company and its affiliates globally. Applications will be considered in the order they are submitted.
+Applications are reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume, including your start and end dates.
+
+Responsibilities
+- Support the design, implementation, testing, and iteration of Search features, services, or tools under the guidance of engineers and mentors.
+- Work with large-scale data, logs, metrics, or experiments to understand user search behavior and improve product or system quality.
+- Collaborate with engineering, product, data science, and machine learning partners to define requirements and deliver project milestones.
+- Write clear, maintainable code and documentation for assigned workstreams.
+- Communicate progress, risks, and learnings with mentors and stakeholders throughout the internship. Minimum Qualifications
+- Currently pursuing a Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering, Data Science, Statistics, Mathematics, or a related technical discipline.
+- Experience with at least one programming language such as Python, Java, C++, Go, or JavaScript through coursework, projects, internships, or equivalent practical experience.
+- Familiarity with data structures, algorithms, software engineering fundamentals, and basic system design concepts.
+
+Preferred Qualifications
+- Experience with search, recommendation, machine learning, information retrieval, natural language processing, ranking, ads, content understanding, or data mining projects.
+- Familiarity with databases, distributed systems, data pipelines, experimentation, or large-scale backend services.
+- Experience using data to investigate product, user, or system problems.
+- Ability to communicate technical ideas clearly and collaborate with cross-functional partners.
+- Interest in improving search experiences for large-scale consumer products.
+
+---
+
+## 67. [MAYBE] TikTok | Research Scientist Intern (Monetization GenAI) - 2026 Start (PhD)
+- Link: https://lifeattiktok.com/search/7535623435700766984
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: machine learning, publication, research | Lacks: -  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We are the Generative AI team under Monetization Technology. Our team focuses on developing cutting-edge Generative AI techs across all modalities, including text, image, videos, landing pages, etc., and creates industry-leading technical solutions to improve creative efficiency for advertisers, agencies and creators. We are committed to automated creative workflows by leveraging Generative AI technologies, to increase overall revenue for advertisers, agencies and creators.
+
+We are looking for talented individuals to join us for an internship in 2026. Internships at TikTok aim to offer students industry exposure and hands-on experience. Turn your ambitions into reality as your inspiration brings infinite opportunities at TikTok.
+
+PhD internships at TikTok provide students with the opportunity to actively contribute to our products and research, and to the organization's future plans and emerging technologies. Our dynamic internship experience blends hands-on learning, enriching community-building and development events, and collaboration with industry experts.
+
+Applications will be reviewed on a rolling basis - we encourage you to apply early. Please state your availability clearly in your resume (Start date, End date).
+
+Responsibilities
+1. Work on research in advancing technology in large language model or multimodality generative model architectures;
+2. Research, implement and evaluate novel machine learning algorithms on generative models;
+3. Collaborate with applied machine learning teams and infrastructure teams to ship new generative models into ad production. Minimum Qualifications:
+- Currently pursuing a PhD in computer science, machine learning, or similar fields.
+- Hands-on experience of developing multimodality foundation models and work or internship experience in an AI research organization is a plus.
+- Strong publications record in top conferences or journals (e.g., NeurIPS, ICML, ICLR, CVPR, etc)
+
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy
+
+---
+
+## 68. [MAYBE] AbbVie | Associate Data Scientist II – Early Discovery Science
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990017066596
 - Location: North Chicago IL us
 - Posted: Nov 24 12:35 ET
@@ -781,7 +1598,7 @@ The Global Research, Informatics & Platform Solutions team within the Informatio
 
 ---
 
-## 41. [MAYBE] Wex | Sr Fraud Data Scientist
+## 69. [MAYBE] Wex | Sr Fraud Data Scientist
 - Link: https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Sr-Credit-Data-Scientist_R23148
 - Location: US - Remote ; US - Remote (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -796,7 +1613,7 @@ The Global Risk Solutions and Strategy group is a fast-growing team optimizing r
 
 ---
 
-## 42. [MAYBE] Nordstrom | Senior Business Analyst - Fraud & Abuse Analytics - Remote
+## 70. [MAYBE] Nordstrom | Senior Business Analyst - Fraud & Abuse Analytics - Remote
 - Link: https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/United-States/Senior-Business-Analyst---Fraud---Abuse-Analytics---Remote_R-900130-1
 - Location: United States ; United States (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -811,7 +1628,7 @@ Job Description The Senior Business Analyst on the Fraud Analytics team owns bus
 
 ---
 
-## 43. [MAYBE] Duolingo | Senior Data Scientist
+## 71. [MAYBE] Duolingo | Senior Data Scientist
 - Link: https://careers.duolingo.com/jobs/8960882002?gh_jid=8960882002
 - Location: New York, NY; Pittsburgh, PA
 - Posted: Nov 24 13:47 ET
@@ -826,7 +1643,22 @@ Our mission at Duolingo is to develop the best education in the world and make i
 
 ---
 
-## 44. [MAYBE] Genentech | Senior Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery
+## 72. [MAYBE] Medtronic | Senior Pricing Strategy Analyst - Minneapolis, MN
+- Link: https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Senior-Pricing-Strategy-Analyst---Minneapolis--MN_R82123
+- Location: 2 Locations ; Fridley, Minnesota, United States of America ; Minneapolis, Minnesota, United States of America (United States of America)
+- Posted: Nov 24 (board gives the date only)
+- Scanner fit: ~65 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 36 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, forecast, fraud, git, healthcare, portfolio, quantitative, reporting, risk | Lacks: -  | Note: title says Senior/II: asks 2 years
+- Eligibility: CHECK | Work Authorization & Sponsorship At Medtronic, we are committed to fostering an environment where employees can thrive and make a meaningful impact. / work authorization sponsorship (H-1B, TN, J, etc.) is offered exclusively for Principal-level roles and above, where specialized expertise aligns with long-term business needs.
+
+### Job description
+
+We anticipate the application window for this opening will close on - 7 Dec 2026 Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72+ million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact. A Day in the Life This Senior Pricing Strategy Analyst supports the Peripheral Vascular Health (PVH) business by developing forward-looking pricing strategies and translating business, market, and financial performance into actionable recommendations. The function partners across Finance, Marketing, Sales, Product Management, and other business stakeholders to evaluate pricing performance, support forecasting and product launches, and identify opportunities to improve future business results. This position is based in Fridley, Minnesota, with a minimum of four days per week onsite. The Senior Pricing Strategy Analyst will help shape pricing strategy by connecting market trends, financial performance, and business priorities to actionable recommendations. This role will analyze pricing performance, develop financial models and forecasts, identify opportunities to improve future results, and support pricing strategy for products and portfolio initiatives. The analyst will also maintain connectivity to deal governance and contract pricing activities while partnering across the business to move pricing strategy beyond retrospective reporting toward proactive decision support. Primary Responsibilities Develop pricing strategies and recommendations using financial, market, customer, and product performance data. Analyze Price Mix Effect (PME), Average Selling Price (ASP) trends, and other pricing metrics to identify performance drivers, risks, and opportunities. Lead pricing inputs for quarterly ASP forecasting in partnership with Finance, Product Management, Marketing, and other business stakeholders. Build financial models and scenario analyses to evaluate pricing opportunities, price changes, product launches, and potential business impact. Identify opportunities to improve pricing performance, challenge existing approaches, and recommend forward-looking actions based on business and industry trends. Partner with Finance, Marketing, Sales, Product Management, and operating unit stakeholders to develop an integrated understanding of business performance and pricing priorities. Support pricing strategy for new product launches and portfolio initiatives using market dynamics, financial impact, and business objectives. Monitor deal governance and contract pricing activity to identify emerging trends and incorporate insights into broader pricing strategy. Required Qualifications High School Diploma or equivalent with 6+ years OR Associate’s Degree with 4+ years OR Bachelor’s Degree with 2+ years of experience in pricing, finance, financial analysis, business analytics, or strategy. Experience with financial analysis, forecasting, financial modeling, or pricing analytics. Advanced Microsoft Excel experience, including quantitative analysis and financial modeling. Preferred Qualifications Experience developing pricing strategies and translating financial or pricing analysis into forward-looking business recommendations. Experience analyzing Average Selling Price (ASP), Price Mix Effect (PME), revenue forecasts, price realization, or comparable commercial performance metrics. Experience partnering with Finance, Marketing, Sales, Product Management, or commercial teams on pricing or business strategy. Experience supporting product launches, portfolio strategy, price changes, or financial scenario modeling. Experience in the medical device, healthcare, or another regulated industry. #LI-MDT For Baccalaureate degrees earned outside of the United States, a degree that satisfies the requirements of 8 C.F.R. § 214.2(h)(4)(iii)(A) is required. Physical Job Requirements The above statements are intended to describe the general nature and level of work being performed by employees assigned to this position, but they are not an exhaustive list of all the required responsibilities and skills of this position. The physical demands described within the Responsibilities section of this job description are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+
+---
+
+## 73. [MAYBE] Genentech | Senior Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery
 - Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist--Scientific-Reasoning-Models--AI-for-Drug-Discovery_202602-103501
 - Location: 2 Locations ; South San Francisco ; New York City (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -841,7 +1673,7 @@ A healthier future. It’s what drives us to innovate. To continuously advance s
 
 ---
 
-## 45. [MAYBE] JP Morgan Chase | Wholesale Credit Quantitative Research - Senior Associate
+## 74. [MAYBE] JP Morgan Chase | Wholesale Credit Quantitative Research - Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811377
 - Location: Jersey City, NJ, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -856,7 +1688,7 @@ Bring your Expertise to JPMorganChase. As part of Risk Management and Compliance
 
 ---
 
-## 46. [MAYBE] McKesson | Sr. Freight Pricing Analyst
+## 75. [MAYBE] McKesson | Sr. Freight Pricing Analyst
 - Link: https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Sr-Freight-Pricing-Analyst_JR0156382
 - Location: USA, VA, Richmond ; USA, VA, Richmond (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -871,7 +1703,7 @@ McKesson is an impact-driven, Fortune 10 company that touches virtually every as
 
 ---
 
-## 47. [MAYBE] JP Morgan Chase | Data Scientist, Auto Data & Analytics - Senior Associate
+## 76. [MAYBE] JP Morgan Chase | Data Scientist, Auto Data & Analytics - Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808506
 - Location: Plano, TX, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -886,7 +1718,7 @@ You will help shape how the Auto business understands performance and sets strat
 
 ---
 
-## 48. [MAYBE] Emory University | Job Title Data Analyst, Senior- Winship Cancer Institute
+## 77. [MAYBE] Emory University | Job Title Data Analyst, Senior- Winship Cancer Institute
 - Link: https://staff-emory.icims.com/jobs/210486/data-analyst%2c-senior--winship-cancer-institute/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -901,7 +1733,7 @@ Emory Careers | Data Analyst, Senior- Winship Cancer Institute in Atlanta, Georg
 
 ---
 
-## 49. [MAYBE] The Trade Desk | Applied Scientist II, Performance Algorithms 
+## 78. [MAYBE] The Trade Desk | Applied Scientist II, Performance Algorithms 
 - Link: https://job-boards.greenhouse.io/thetradedesk/jobs/5306682007
 - Location: New York
 - Posted: Nov 24 14:04 ET
@@ -916,7 +1748,7 @@ The Trade Desk is a global technology company and the world’s leading independ
 
 ---
 
-## 50. [MAYBE] CareSource | Health Plan Data Analyst II (need Health Plan/MCO and SQL)
+## 79. [MAYBE] CareSource | Health Plan Data Analyst II (need Health Plan/MCO and SQL)
 - Link: https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Health-Plan-Data-Analyst-II--need-Health-Plan-MCO-and-SQL-_R13941
 - Location: Remote ; Remote (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -931,7 +1763,7 @@ Job Summary: The Health Plan Data Analyst II is responsible for extracting, anal
 
 ---
 
-## 51. [MAYBE] Oregon Health & Science University | Requisition Title Senior Research Assistant
+## 80. [MAYBE] Oregon Health & Science University | Requisition Title Senior Research Assistant
 - Link: https://externalcareers-ohsu.icims.com/jobs/44328/senior-research-assistant/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -946,7 +1778,7 @@ Senior Research Assistant in Portland, Oregon | Careers at Portland, OR (Marquam
 
 ---
 
-## 52. [MAYBE] Humana | Senior Analytics Consultant
+## 81. [MAYBE] Humana | Senior Analytics Consultant
 - Link: https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Analytics-Consultant_R-437469
 - Location: 52 Locations ; Remote Nationwide ; Remote Oklahoma ; Remote Ohio ; Remote North Dakota ; Remote North Carolina ; Remote New York ; Remote New Mexico ; Remote New Jersey ; Remote New Hampshire ; Remote Nevada ; Remote Nebraska ; Remote Montana ; Remote Missouri ; Remote Mississippi ; Remote Minnesota ; Remote Michigan ; Remote Massachusetts ; Remote Maryland ; Remote Maine ; Remote Louisiana ; Remote Kentucky ; Remote Kansas ; Remote Iowa ; Remote Indiana ; Remote Illinois ; Remote Idaho ; Remote Hawaii ; Remote Georgia ; Remote Florida ; Remote Delaware ; Remote Connecticut ; Remote Colorado ; Remote California ; Remote Arkansas ; Remote Arizona ; Remote Alaska ; Remote Alabama ; Remote Wyoming ; Remote Wisconsin ; Remote West Virginia ; Remote Washington ; Remote Virginia ; Remote Vermont ; Remote Utah ; Remote Texas ; Remote Tennessee ; Remote South Dakota ; Remote South Carolina ; Remote Rhode Island ; Remote Puerto Rico ; Remote Pennsylvania ; Remote Oregon (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -961,7 +1793,7 @@ Become a part of our caring community The Senior Analytics Consultant coordinate
 
 ---
 
-## 53. [MAYBE] Paypal Inc. | Sr Machine Learning Engineer
+## 82. [MAYBE] Paypal Inc. | Sr Machine Learning Engineer
 - Link: https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0139239-1
 - Location: San Jose, California, United States of America ; San Jose, California, United States of America (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -976,7 +1808,7 @@ The Company PayPal has been revolutionizing commerce globally for more than 25 y
 
 ---
 
-## 54. [MAYBE] JP Morgan Chase | Gen AI Data Scientist - Wholesale Credit Risk  - Senior Associate
+## 83. [MAYBE] JP Morgan Chase | Gen AI Data Scientist - Wholesale Credit Risk  - Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809509
 - Location: Plano, TX, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -991,7 +1823,7 @@ Bring your Expertise to JPMorganChase. As part of Risk Management and Compliance
 
 ---
 
-## 55. [MAYBE] Northwell Health | Senior Business Intelligence Specialist
+## 84. [MAYBE] Northwell Health | Senior Business Intelligence Specialist
 - Link: https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204173
 - Location: Great Neck, Nassau, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -1006,7 +1838,7 @@ Job Description In collaboration with business stakeholders, designs and develop
 
 ---
 
-## 56. [MAYBE] DIRECTV | Sr. Specialist, Advanced Analytics
+## 85. [MAYBE] DIRECTV | Sr. Specialist, Advanced Analytics
 - Link: https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Sr-Specialist--Advanced-Analytics_R260351
 - Location: 2 Locations ; El Segundo, CA ; United States - Virtual (United States of America)
 - Posted: Nov 24 (board gives the date only)

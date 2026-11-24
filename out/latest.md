@@ -1,104 +1,152 @@
-# Sweep 2026-11-24 15:07 ET: 4598 boards, 84 new matches, 10 kept, 265 board errors, 158s
+# Sweep 2026-11-24 15:25 ET: 4595 boards, 134 new matches, 61 kept, 157 board errors, 218s
 
 Alert inbox: no new relevant alert postings
-- [HOT] University of Chicago | Research Assistant | fit~67 | https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Assistant_JR35821
-- [HOT] Truist Bank | Data Scientist I | fit~62 | https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Data-Scientist-I_R0121678
-- [HOT] University of Chicago | Research Analyst | fit~57 | https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Analyst_JR35809
-- [HOT] Meijer | Retail Media Performance Analyst | fit~55 | https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Campaign-Performance-Analyst_R000707542
-- [MAYBE] Citi | Data Analyst - Credit Risk Management & Counterparty Risk (Client & Markets Data) | fit~76 | https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Data-Analyst---Credit-Risk-Management---Counterparty-Risk--Client---Markets-Data-_26994251-1 | no H-1B filings found for this employer
-- [MAYBE] Bloomberg | BloombergNEF Energy Storage Modeling Analyst (6 Months Contract) | fit~75 | https://bloomberg.avature.net/careers/JobDetail/BloombergNEF-Energy-Storage-Modeling-Analyst-6-Months-Contract/46310 | broad title temporary or contract: confirm it is W-2 with an E-Verify employer
-- [MAYBE] JP Morgan Chase | Data Scientist, Auto Data & Analytics - Senior Associate | fit~62 | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808506 | title says Senior/II: no years stated, check the level
-- [MAYBE] The Home Depot | Online Data Engineer | fit~52 | https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Online-Data-Engineer_Req199721
-- [MAYBE] Freudenberg Group | Agentic Engineer | fit~45 | https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Plymouth-MI/Agentic-Engineer_R_00109538 | builder role: Python and SQL asked, 0-2 years
-- [MAYBE] KLA Corporation | Research Scientist - Computational Electromagnetics | fit~45 | https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist---Computational-Electromagnetics_2641485
-- [LOW] MUFG | Sanctions Operations Analyst | fit~78 | https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Irving-TX/Sanctions-Operations-Analyst_10080700-WD-1
-- [LOW] Dell Technologies | Senior Analyst, Technical Program Management — AI Delivery and Enablement | fit~68 | https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299999 | senior title below the bar
-- [LOW] Amazon | Business Analyst II - AMZ10563821 | fit~62 | https://www.amazon.jobs/en/jobs/10612972/business-analyst-ii-amz10563821 | senior title below the bar
-- [LOW] American Tower | Financial Analyst | fit~57 | https://hdsn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3105
-- [LOW] KLA Corporation | Analyst, Sr Financial | fit~57 | https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Analyst--Sr-Financial_2643385 | senior title below the bar
-- [LOW] Allegro MicroSystems | Demand Planning Analyst | fit~55 | https://allegromicro.wd5.myworkdayjobs.com/allegrocareers/job/Manchester-NH/Demand-Planning-Analyst_R7063
-- [LOW] Constellation Brands | Senior Analyst, Organizational Design & Talent Transformation | fit~55 | https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Senior-Analyst--Organizational-Design---Talent-Transformation_R-41722-1 | senior title below the bar
-- [LOW] University of Chicago | Epic Resolute Professional Billing Analyst - Senior | fit~55 | https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Epic-Resolute-Professional-Billing-Analyst---Senior_JR35978 | senior title below the bar
-- [LOW] Southern Company | Security Controls and Compliance Analyst | fit~54 | https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22921
-- [LOW] Medline | Analyst Prime Vendor | fit~54 | https://medline.wd5.myworkdayjobs.com/Medline/job/REMOTE--Virginia/Analyst-Prime-Vendor_R2623263
-- [LOW] TikTok | Senior Machine Learning Engineer, Search - Local Services Team | fit~54 | https://lifeattiktok.com/search/7527439220576372999 | senior title below the bar
-- [LOW] Amazon | Data Engineer II - AMZ10549866 | fit~53 | https://www.amazon.jobs/en/jobs/10613258/data-engineer-ii-amz10549866 | senior title below the bar
-- [LOW] Johnson & Johnson | Senior Financial Analyst | fit~52 | https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Senior-Financial-Analyst_R-091723-2 | senior title below the bar
-- [LOW] Omnicom Group | Senior Analyst, Programmatic | fit~50 | https://interpublic.wd5.myworkdayjobs.com/omc/job/Burbank-California-United-States-of-America/Analyst--Programmatic_R15425-1 | senior title below the bar
-- [LOW] U.S. Bank | Structured Finance Analyst | fit~50 | https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Structured-Finance-Analyst_2026-0035538
-- [LOW] Amazon | Applied Scientist II - AMZ10587308 | fit~50 | https://www.amazon.jobs/en/jobs/10613194/applied-scientist-ii-amz10587308 | senior title below the bar
-- [LOW] Community Health Systems | NI/ New Grad LPN 2S AH | fit~45 | https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/171553
-- [LOW] MUFG | Analyst, Early Careers Programs | fit~45 | https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/New-York-NY/Analyst--Early-Careers-Programs_10080895-WD
-- [LOW] Amazon | Robotics/AI Motor Control Scientist, Fauna | fit~43 | https://www.amazon.jobs/en/jobs/10613269/robotics-ai-motor-control-scientist-fauna
-- [LOW] Ann & Robert H. Lurie Children’s Hospital of Chicago | Revenue Integrity Chargemaster Analyst | fit~40 | https://luriechildrens.wd1.myworkdayjobs.com/externalportal/job/Streeterville-Chicago-IL/Revenue-Integrity-Chargemaster-Analyst_JR2026-2074
-- [LOW] Relativity Space | New Grad 2027 - Aerodynamics Engineer I | fit~36 | https://boards.greenhouse.io/relativity/jobs/8957620002?gh_jid=8957620002
-- [LOW] Uline | Solution Analyst - Business Intelligence | fit~36 | https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Solution-Analyst---Business-Intelligence_R263825-2
-- [LOW] Manhattan District Attorney's Office | Investigative Analyst | fit~33 | https://fa-elzs-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3355
-- [LOW] Relativity Space | New Grad 2027 - GNC Mission Design Engineer I | fit~31 | https://boards.greenhouse.io/relativity/jobs/8957609002?gh_jid=8957609002
-- [LOW] Relativity Space | New Grad 2027 - Thermal Engineer I | fit~31 | https://boards.greenhouse.io/relativity/jobs/8957614002?gh_jid=8957614002
-- [LOW] Molina Healthcare | Associate Analyst, Clinical Informatics | fit~0 | https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040557
-- [LOW] Syngenta Group | Automation Specialist | fit~0 | https://jobs.smartrecruiters.com/SyngentaGroup/744000163534779
-- [LOW] Howden | Early Careers Program - Healthcare | fit~0 | https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Miami--600-Brickell-Avenue/Early-Careers-Program---Healthcare_R0020314
-- [SKIP] Accenture | Business Analyst | fit~- | https://boards.greenhouse.io/accenturefederalservices/jobs/4732013006?gh_jid=4732013006 | eligibility: "Here's what you need: Full lifecycle development using Waterfall, Agile Must understand client business needs, gathering user stories and requirements and the understanding of testing phases Must demonstrate knowledge wi"
-- [SKIP] Anduril | Radar Research Scientist | fit~- | https://boards.greenhouse.io/andurilindustries/jobs/5308619007?gh_jid=5308619007 | eligibility: "...obtain and maintain an active U.S. Top Secret SCI security clearance PREFERRED QUALIFICATIONS : Fo..."
-- [SKIP] Chicago Trading | Senior Quantitative Researcher - Global Risk Management  | fit~- | https://job-boards.greenhouse.io/chicagotrading/jobs/4705005005 | asks 5+ years
-- [SKIP] Lightmatter | Package Design Layout & Automation Engineer | fit~- | https://boards.greenhouse.io/lightmatter/jobs/5492485008?gh_jid=5492485008 | eligibility: "...r protected status as required by applicable law. Export Control Candidates should have capaci..."
-- [SKIP] PlayStation | Revenue Operations - Business Analyst | fit~- | https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6264105004 | asks 4+ years
-- [SKIP] Sparksoft | Business / Data Analyst | fit~- | https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5308152007 | eligibility: "Must be able to obtain and maintain a Public Trust clearance."
-- [SKIP] Lifepoint Health | Analyst, Technical | fit~- | https://ibnjjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/364088 | eligibility: "You must be authorized to work in the United States without employer sponsorship."
-- [SKIP] Ritchie Bros. | Senior Data Scientist | fit~- | https://fa-exew-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12291 | asks 5+ years
-- [SKIP] SAIC | Senior Contracts Analyst | fit~- | https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2619487 | asks 4+ years
-- [SKIP] AECOM | Project Controls Analyst I | fit~- | https://jobs.smartrecruiters.com/AECOM2/744000163533370 | eligibility: "Due to nature of work, US Citizenship is required."
-- [SKIP] Eurofins | Analyst I - Environment Testing -Wed-Sun, 1st Shift -Kittanning, PA  | fit~- | https://jobs.smartrecruiters.com/Eurofins/744000163534279 | eligibility: "Authorization to work in the United States without restriction or Sponsorship Ideal Candidates will have: Previous laboratory experience is a plus Previous experience working in a fast-paced production environment is a p"
-- [SKIP] Veolia | Automation Engineer | fit~- | https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163536309 | eligibility: "employer will not sponsor applicants for U.S."
-- [SKIP] 7-Eleven | Senior Data Engineer | fit~- | https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Senior-Data-Engineer_R26_5752 | asks 5+ years
-- [SKIP] Aviva | Senior Data Scientist | fit~- | https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Senior-Data-Scientist_R-175794 | asks 5+ years
-- [SKIP] Baker Tilly | Senior Intelligent Automation Developer | fit~- | https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-CA-Irvine-2050-Main-St/Senior-Intelligent-Automation-Developer_JR109088 | eligibility: "Architecture considerations include: UiPath Robotic Enterprise Framework (ReFramework) or Power Automate-equivalent Dispatcher/Performer framework Orchestrator/Power Automate queues/assets Workflow (.xaml) structure Disp"
-- [SKIP] Booz Allen | Order of Battle Analyst, Mid | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charlottesville-VA/Order-of-Battle-Analyst--Mid_R0254203 | eligibility: "TS/SCI clearance is required."
-- [SKIP] Booz Allen | Contract Analyst, Mid | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Contract-Analyst--Mid_R0254198 | eligibility: "Secret clearance is required."
-- [SKIP] Booz Allen | Contract Analyst, Senior | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Contract-Analyst--Senior_R0254197 | eligibility: "Top Secret clearance is required."
-- [SKIP] CACI | SOUTHCOM J23 Data Scientist/Data Integrator | fit~- | https://caci.wd1.myworkdayjobs.com/external/job/Doral-FL-US/SOUTHCOM-J23-Data-Scientist-Data-Integrator_335509 | eligibility: "Job Title: SOUTHCOM J23 Data Scientist/Data Integrator Job Category: Science Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel Required: Up to 10% Type of Travel"
-- [SKIP] CACI | Security Operations Center Analyst | fit~- | https://caci.wd1.myworkdayjobs.com/external/job/Hampton-VA-US/Security-Operations-Center-Analyst_335512-1 | eligibility: "Job Title: Security Operations Center Analyst Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel Required: Up to 10% Type of "
-- [SKIP] CACI | Senior Accountant - SEC Reporting | fit~- | https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Senior-Accountant---SEC-Reporting_335493 | eligibility: "Job Title: Senior Accountant - SEC Reporting Job Category: Finance and Accounting Time Type: Full time Minimum Clearance Required to Start: None Employee Type: Regular Percentage of Travel Required: Up to 10% Type of Tra"
-- [SKIP] Cardinal Health | Sr. Data Analyst, Sourcing Solutions & Commercial Intelligence | fit~- | https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Sr-Data-Analyst--Sourcing-Solutions---Commercial-Intelligence_20191535 | asks 5+ years
-- [SKIP] CDW Corporation | Forward Deployed Engineer - GCP - Commercial | fit~- | https://cdw.wd5.myworkdayjobs.com/careers/job/Remote--USA/Forward-Deployed-Engineer---GCP---Commercial_R26_00003484 | asks 7+ years
-- [SKIP] Centene | Digital Communications Automation Specialist | fit~- | https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Digital-Communications-Automation-Specialist_1671714 | asks 4+ years
-- [SKIP] Centene | Incident Response Analyst I | fit~- | https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Incident-Response-Analyst-I_1671642 | eligibility: "without the need for employment-based visa sponsorship now or in the future."
-- [SKIP] Cubic | Automation Engineer - Unified Video Sustainment | fit~- | https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/Ashburn-Virginia/Automation-Engineer---Unified-Video-Sustainment_REQ_49561 | eligibility: "...pts. Ability to obtain and maintain a U.S. Secret Security Clearance. Preferred Qualifications Exp..."
-- [SKIP] Desjardins Group | Data Scientist, Data valorization | fit~- | https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Scientifique-de-donnes--Assurance-de-personnes-et-Gestion-de-patrimoine_R2614382 | outside US (Canada)
-- [SKIP] Fidelity Investments | Analyst, Investment Operations | fit~- | https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Analyst--Investment-Operations_2131826-2 | eligibility: "Fidelity will not provide immigration sponsorship for this position."
-- [SKIP] General Motors | Entry-Level – AI/Machine Learning Researcher | fit~- | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753 | eligibility: "GM does not provide immigration-related sponsorship for this role."
-- [SKIP] General Motors | Senior Data Engineer | fit~- | https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Senior-Data-Engineer_JR-202622764 | eligibility: "GM DOES NOT PROVIDE IMMIGRATION-RELATED SPONSORSHIP FOR THIS ROLE."
-- [SKIP] Guidehouse | Process Transformation Consultant | fit~- | https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Process-Transformation-Consultant_46541-1 | eligibility: "Job Family : Digital Consulting Travel Required : Up to 10% Clearance Required : Ability to Obtain Public Trust What You Will Do : This position will play a critical role in supporting the broader team in executing the c"
-- [SKIP] Hewlett Packard (HP) | Creative Technologist: AI Content Transformation | fit~- | https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Tlaquepaque-Jalisco-Mexico/Creative-Technologist--AI-Content-Transformation_3170514 | asks 7+ years
-- [SKIP] Hewlett Packard (HP) | [Agentic AI] Senior Data Scientist – Edge AI Platforms & Systems Analytics | fit~- | https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/XMLNAME--Agentic-AI--Senior-Data-Scientist---Edge-AI-Platforms---Systems-Analytics_3168420 | asks 8+ years
-- [SKIP] Morgan Stanley | ISG Management – Risk & Regulatory Transformation (New York) | fit~- | https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/ISG-Management---Risk---Regulatory-Transformation--New-York-_JR047121 | asks 6+ years
-- [SKIP] Q2 | Senior Fraud Analyst | fit~- | https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Lincoln-Nebraska/Senior-Fraud-Analyst_REQ-12938 | eligibility: "We are unable to sponsor or take over sponsorship of an employment Visa at this time."
-- [SKIP] Rocket Companies | Senior Business Operations Analyst | fit~- | https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Remote---Texas/Senior-Business-Operations-Analyst_R-084577 | asks 5+ years
-- [SKIP] RTX | Analyst, Materials Planning, SIOP | fit~- | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Analyst--Materials-Planning--SIOP_01890831-2 | eligibility: "government issued security clearance is required.​ U.S."
-- [SKIP] RTX | Sr. Analyst, Materials Planning, SIOP | fit~- | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Sr-Analyst--Materials-Planning--SIOP_01889929-2 | eligibility: "government issued security clearance is required.​ U.S."
-- [SKIP] SC Johnson | Sr. Analyst, Accounts Receivable, Credit & Collections | fit~- | https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---WI---Racine/Sr-Analyst--Accounts-Receivable--Credit---Collections_34651 | eligibility: "Qualified candidates must be legally authorized to work in the United States without the need for current or future sponsorship for full-time employment."
-- [SKIP] Scotts Miracle-Gro | Sr. Analyst, Video Editor | fit~- | https://scottsmiraclegro.wd5.myworkdayjobs.com/smgexternal/job/Marysville-OH/Sr-Analyst--Video-Editor_R26943-1 | asks 4+ years
-- [SKIP] Scotts Miracle-Gro | Analyst, Social Media | fit~- | https://scottsmiraclegro.wd5.myworkdayjobs.com/smgexternal/job/Marysville-OH/Analyst--Social-Media_R26944 | asks 4+ years
-- [SKIP] Uline | Quality Assurance Automation Engineer - IT | fit~- | https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Quality-Assurance-Automation-Engineer---IT_R269128-1 | asks 5+ years
-- [SKIP] University of Rochester | Sr. Data Scientist- UR Health Lab | fit~- | https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/30-Corporate-Woods/Sr-Data-Scientist--UR-Health-Lab_R276618 | asks 4+ years
-- [SKIP] University of Texas - Austin | Senior AI Analyst | fit~- | https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Senior-AI-Analyst_R_00050158 | asks 5+ years
-- [SKIP] Amazon | Sr. Research Scientist , WW Sustainability | fit~- | https://www.amazon.jobs/en/jobs/10613218/sr-research-scientist-ww-sustainability | asks 5+ years
-- [SKIP] Amazon | Senior Software Development Engineer, Leo AI Foundations | fit~- | https://www.amazon.jobs/en/jobs/10612960/senior-software-development-engineer-leo-ai-foundations | eligibility: "... best-in-industry software engineering practices. Export Control Requirement: Due to applicabl..."
+- [HOT] TikTok | Data Science Intern (TikTok Integrity and Safety) - 2027 Summer | fit~79 | https://lifeattiktok.com/search/7669682935444900149 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Data Scientist Project Intern (TikTok Integrity and Safety) - 2026 Start | fit~79 | https://lifeattiktok.com/search/7610543185362372917 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] University of Texas at Austin | Analytics Intern, Texas Institute for Electronics | fit~75 | https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Analytics-Intern--Texas-Institute-for-Electronics_R_00050136 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Machine Learning Engineer - Intern (TikTok BRIC) - 2027 Start (PhD) | fit~74 | https://lifeattiktok.com/search/7703899923206867205 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] FormFactor | AI/ML Engineering Intern | fit~73 | https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/AI-ML-Engineering-Intern_JR101434 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD) | fit~72 | https://lifeattiktok.com/search/7532660880120400135 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Research Scientist Intern (Monetization Technology - Business Integrity) - 2027 Start (PhD) | fit~70 | https://lifeattiktok.com/search/7668204438271969589 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Research Scientist Intern (Monetization Technology - Business Integrity) - 2027 Summer | fit~70 | https://lifeattiktok.com/search/7668202600147552517 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] Roche | 2027 Summer Intern - Service Data and Analytics | fit~69 | https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/XMLNAME-2027-Summer-Intern---Service-Data-and-Analytics_202611-129686 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] KLA Corporation | PLM BI & Analytics Intern | fit~68 | https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Data Science Intern (TikTok Product) - 2027 Summer | fit~68 | https://lifeattiktok.com/search/7669683639101884725 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | LLM Post-training Engineer Intern (Research & Product) - 2027 Summer | fit~67 | https://lifeattiktok.com/search/7670285031018432773 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Machine Learning Engineer Intern (E-Commerce Recommendation/Search Alliance) - 2027 Summer | fit~67 | https://lifeattiktok.com/search/7694360101507762485 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Machine Learning Engineer Intern (E-Commerce Recommendation/Search Alliance) - 2027 Start (PhD) | fit~67 | https://lifeattiktok.com/search/7670247810111768837 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Data Science Intern (TikTok LIVE) - 2027 Summer | fit~65 | https://lifeattiktok.com/search/7669700822370945333 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD) | fit~65 | https://lifeattiktok.com/search/7532254890627696903 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Data Scientist Intern (VOD Data) - 2027 Summer | fit~65 | https://lifeattiktok.com/search/7670287013157095733 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Global Customer Experience Business Analytics Project Intern (TikTok Shop-Governance and Experience) - 2026 Start | fit~65 | https://lifeattiktok.com/search/7681633701767612677 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Machine Learning Scientist Intern (TikTok-Recommendation) - 2027 Start (PhD) | fit~64 | https://lifeattiktok.com/search/7662657855099357493 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Research Scientist Intern (TikTok Recommendation-LLMs, RL, GenAI) - 2026 Start (PhD) | fit~64 | https://lifeattiktok.com/search/7519766495683053832 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | (General Hire) Machine Learning Engineer Intern (TikTok-Recommendation) - 2027 Summer | fit~64 | https://lifeattiktok.com/search/7662653087863081221 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Research Scientist Intern (Ads Integrity) - 2026 Start (PhD) | fit~62 | https://lifeattiktok.com/search/7546726994756651282 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Research Scientist Intern (Monetization Technology - Ads Core) - 2027 Start (PhD) | fit~61 | https://lifeattiktok.com/search/7703777085291415813 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Machine Learning Scientist Intern (TikTok - Content Ecology - LLM application) - 2027 Start (PhD) | fit~59 | https://lifeattiktok.com/search/7667933770625599749 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Machine Learning Scientist Intern (Global E-Commerce Content Recommendation) - 2026 Summer (PhD) | fit~59 | https://lifeattiktok.com/search/7525650208522193159 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] Expedia Inc. | Applied Science Intern - PhD - 2027 - Austin, San Jose, Seattle | fit~58 | https://expedia.wd108.myworkdayjobs.com/Search/job/Austin-Domain-11---HomeAway/Applied-Science-Intern---PhD---2027---Austin--San-Jose--Seattle_R-110382-1 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Data Science Project Intern (Advertisement Team) - 2026 Start | fit~57 | https://lifeattiktok.com/search/7675080308216154373 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Data Science Intern (Advertisement Team) - 2027 Start (PhD) | fit~57 | https://lifeattiktok.com/search/7673226686054107445 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Data Science Intern (Advertisement Team) - 2026 Start (PhD) | fit~57 | https://lifeattiktok.com/search/7602395891774802181 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Research Scientist Intern (TikTok-Recommendation) - 2027 Start (PhD) | fit~55 | https://lifeattiktok.com/search/7662661203281447221 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] TikTok | Research Scientist Intern (TikTok-Data-Content Intelligence) - 2027 Start (PhD) | fit~55 | https://lifeattiktok.com/search/7662662842545539381 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [HOT] Resurgent Capital Services | Data Scientist I | fit~55 | https://resurgent.wd1.myworkdayjobs.com/Resurgent/job/SC---Greenville/Data-Scientist-I_R0001377
+- [MAYBE] Micron Technology | Intern - Advanced Modeling and AI Solutions | fit~78 | https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Advanced-Modeling-and-AI-Solutions_JR118093 | broad title internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] Genentech | 2027 Summer Intern - AI for Drug Discovery | fit~74 | https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery_202611-129909 | broad title internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] TikTok | Leave of Absence Analyst Project Intern (HROP) - 2026 Start (BS/MS) | fit~71 | https://lifeattiktok.com/search/7662343067223263541 | broad title unpaid: does not count as STEM OPT employment
+- [MAYBE] TikTok | Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD) | fit~67 | https://lifeattiktok.com/search/7662672903447988485 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] Infoorigin | Data Analyst | fit~67 | https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e9667f95-65a1-47e2-a3ef-53654bfa7b59&jobId=578569&lang=en_US | no H-1B filings found for this employer
+- [MAYBE] Medtronic | Senior Pricing Strategy Analyst - Minneapolis, MN | fit~65 | https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Senior-Pricing-Strategy-Analyst---Minneapolis--MN_R82123 | title says Senior/II: asks 2 years
+- [MAYBE] TikTok | Ecosystem Analyst Intern (TikTok Live) - 2027 Summer | fit~65 | https://lifeattiktok.com/search/7678985103851407669 | broad title internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] TikTok | Research Scientist Intern (Data-TnS-Algo-Foundations & Intelligence Service) - 2027 Start (PhD) | fit~65 | https://lifeattiktok.com/search/7662677746436524293 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] Calpion/Plutus Health | AI Engineering Intern (Python & Agentic AI) | fit~60 | https://calpionplutus.bamboohr.com/careers/310 | no H-1B filings found for this employer internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] Interdigital | Ph.D. Intern (Wireless + AI/ML) | fit~55 | https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/PhD-Intern--Wireless---AI-ML-_REQ26-1174 | no H-1B filings found for this employer internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] TikTok | Machine Learning Engineer Intern (Commerce Ads) - 2027 Summer | fit~54 | https://lifeattiktok.com/search/7669711968043092229 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] New Jersey Institute of Technology | Post Doctoral Research Associate | fit~54 | https://njit.wd108.myworkdayjobs.com/NJIT_Careers/job/Colton-Hall/Post-Doctoral-Research-Associate_JR100758
+- [MAYBE] New Jersey Institute of Technology | Hourly Data Analyst | fit~54 | https://njit.wd108.myworkdayjobs.com/NJIT_Careers/job/Guttenberg-Information-Technologies-Center/Hourly-Data-Analyst_JR100711 | part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+- [MAYBE] New Jersey Institute of Technology | Research Associate | fit~54 | https://njit.wd108.myworkdayjobs.com/NJIT_Careers/job/Main-Campus-Site/Research-Associate_JR100595
+- [MAYBE] TikTok | Research Scientist Intern (TikTok - Content Ecology - Local Services) - 2027 Start (PhD) | fit~53 | https://lifeattiktok.com/search/7707222170826623285 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] Barclays | Markets Quantitative Analyst Summer Internship Program 2028 New York | fit~52 | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Markets-Quantitative-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139049 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] Carnegie Mellon University | Research Associate - Kenneth C. Griffin School of Computer Science - CBD | fit~50 | https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Research-Associate---Kenneth-C-Griffin-School-of-Computer-Science---CBD_2025280
+- [MAYBE] TikTok | Data Engineer Intern (Data Platform Global Live) - 2027 Summer | fit~50 | https://lifeattiktok.com/search/7674032146438162693 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] TikTok | Research Scientist Intern (TikTok-Privacy Innovation Lab) - 2027 Start (PhD) | fit~50 | https://lifeattiktok.com/search/7703923326767483141 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] ASML | Internship - Data Analyst | fit~48 | https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Data-Analyst_J-00355833 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] TikTok | Machine Learning Scientist Intern (TikTok-Local Services) - 2027 Start (PhD) | fit~48 | https://lifeattiktok.com/search/7667934169444485429 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] Carnegie Mellon University | Research Assistant - Kenneth C. Griffin School of Computer Science - CBD | fit~45 | https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Research-Assistant---Kenneth-C-Griffin-School-of-Computer-Science---CBD_2025320
+- [MAYBE] TikTok | Machine Learning Scientist Intern (TikTok-Local Services) - 2027 Start | fit~45 | https://lifeattiktok.com/search/7703925583541979445 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] TikTok | (General Hire) Research Scientist Intern (Monetization Technology) - 2026 Start (PhD) | fit~45 | https://lifeattiktok.com/search/7559026733786548488 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] TikTok | Data Engineer Intern (Monetization Data) - 2027 Summer | fit~43 | https://lifeattiktok.com/search/7671232204182276405 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] TikTok | Data Engineer Intern (E-commerce) - 2027 Summer | fit~42 | https://lifeattiktok.com/search/7676250516494436661 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] Marmon Holdings | Product & Brand Marketing Analyst | fit~40 | https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Hanover-Township-PA/Product---Brand-Marketing-Analyst_JR0000047219 | no H-1B filings found for this employer
+- [MAYBE] TikTok | Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start | fit~40 | https://lifeattiktok.com/search/7698822572474583301 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [MAYBE] TikTok | Research Scientist Intern (Monetization GenAI) - 2026 Start (PhD) | fit~40 | https://lifeattiktok.com/search/7535623435700766984 | internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- [LOW] Interdigital | PhD Research Intern, AI Lab | fit~75 | https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/LosAltos_CA/PhD-Research-Intern--AI-Lab_REQ26-1172
+- [LOW] ASML | Internship-Data & AI, Controls | fit~57 | https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Data---AI--Controls_J-00357861
+- [LOW] Newrez | Sr Investor Accounting Analyst (On-site) | fit~57 | https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/Sr-Investor-Accounting-Analyst--On-site-_R10517 | senior title below the bar
+- [LOW] Integra LifeSciences | Senior Financial Analyst, Corporate Functions Finance | fit~55 | https://integralife.wd1.myworkdayjobs.com/careers/job/US-NJ-Princeton-100-Headquarters/Senior-Financial-Analyst--Corporate-Functions-Finance_JR-6916 | senior title below the bar
+- [LOW] Target | Financial Analyst Intern -  Minneapolis, MN (Starting Summer, 2027) | fit~55 | https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Financial-Analyst-Intern----Minneapolis--MN--Starting-Summer--2027-_R0000450574
+- [LOW] TikTok | Seller Strategy Business Analyst Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS) | fit~55 | https://lifeattiktok.com/search/7558622480857188626
+- [LOW] Community Health Systems | HIIM Data Integrity Analyst - Validations (Remote) | fit~54 | https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/171981
+- [LOW] NewYork-Presbyterian | Senior Business Intelligence Developer Information Technology EHR | fit~53 | https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPWeill-Cornell-Medical-Center/Senior-Business-Intelligence-Developer-Information-Technology-EHR_00890802 | senior title below the bar
+- [LOW] Barclays | Public Finance Analyst Summer Internship Program 2028 New York | fit~50 | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Public-Finance-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139048
+- [LOW] State Street | Global End User Experience - Workplace Technology Analyst, Full-time Internship (Jan - June 2027) | fit~50 | https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Global-End-User-Experience---Workplace-Technology-Analyst--Full-time-Internship--Jan---June-2027-_R-801461
+- [LOW] FieldPulse | Customer Success Operation & Automations Internship | fit~45 | https://ats.rippling.com/fieldpulse/jobs/9cacb903-b43e-445a-8e03-8f184f96ae1e
+- [LOW] FieldPulse | AI Internship  | fit~44 | https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d
+- [LOW] Infoorigin | Modernization Business Analyst || Hybrid || Harrisburg, PA  | fit~44 | https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e9667f95-65a1-47e2-a3ef-53654bfa7b59&jobId=578541&lang=en_US
+- [LOW] Jabil | IT Programmer Analyst Intern | fit~43 | https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/IT-Programmer-Analyst-Intern_J2472386
+- [LOW] TikTok | Research Engineer Intern, Agentic Systems & AI Infrastructure  (TikTok-Generalized Arch) - 2027 Summer | fit~42 | https://lifeattiktok.com/search/7667934792727906565
+- [LOW] Boston Medical Center | Senior Business Analyst - Professional Billing | fit~40 | https://bmc.wd1.myworkdayjobs.com/BMC/job/Remote/Business-Analyst---Professional-Billing_49748-1 | senior title below the bar
+- [LOW] Premier | Contract Analyst | fit~40 | https://premierinc.wd1.myworkdayjobs.com/external_professional/job/Remote/Contract-Analyst_R0008618
+- [LOW] Voya Financial | Financial Reporting Intern | fit~40 | https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Financial-Reporting-Intern_JR0033476
+- [LOW] Chubb | Senior Ceded Reinsurance Claim Analyst | fit~36 | https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/36270 | senior title below the bar
+- [LOW] WSP | Early Career Structural Engineer | fit~33 | https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/100006
+- [LOW] NewYork-Presbyterian | Credentialing Analyst I | fit~33 | https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPWeill-Cornell-Medical-Center/Credentialing-Analyst-I_00891120
+- [LOW] TikTok | Data Engineer Intern (Data Platfrom TikTok BP) - 2027 Summer | fit~32 | https://lifeattiktok.com/search/7681783406632782085
+- [LOW] Nasdaq | Data Engineering Intern - 2027 Summer Internship | fit~28 | https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Denver-18-Street/Data-Engineering-Intern---2027-Summer-Internship_R0027379
+- [LOW] Fieldguide | SOX AI Specialist (Contractor) | fit~0 | https://jobs.ashbyhq.com/fieldguide/0b8a4c96-1123-43b6-813f-ef7b4b2e3cc0
+- [LOW] Ameren | Intern (Robotics, AI, OT, Software development) | fit~0 | https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1
+- [LOW] TikTok | Seller Live Analytics Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS) | fit~0 | https://lifeattiktok.com/search/7573769508860873013
+- [SKIP] Swarm Aero | Forward Deployed Engineer II | fit~- | https://jobs.ashbyhq.com/swarmaero/60050a43-819f-41fd-a02b-a652d7461dce | eligibility: "Active Secret clearance preferred but not required."
+- [SKIP] Swarm Aero | Forward Deployed Engineer, Oxnard (Active Clearance) | fit~- | https://jobs.ashbyhq.com/swarmaero/f7f62a1c-b260-4353-9126-da1d64d72548 | eligibility: "ITAR requirement"
+- [SKIP] Waymo Llc | Senior Financial Analyst | fit~- | https://careers.withwaymo.com/jobs?gh_jid=8380693 | asks 5+ years
+- [SKIP] JP Morgan Chase | External Reporting Controller - CCAR FR Y-14A Reporting – Senior Associate | fit~- | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210753385 | asks 4+ years
+- [SKIP] JP Morgan Chase | 2027 Latin American Debt Capital Markets Analyst Internship – Emerging Talent Summer Experience Program | fit~- | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811409 | eligibility: "We do not offer any type of employment-based immigration sponsorship for this program."
+- [SKIP] WTW | Early Careers: Corporate Risk and Broking (CRB)- Internship - Broking Placement- Multiple Locations - 2027 | fit~- | https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606205 | eligibility: "Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity."
+- [SKIP] Zuckerman Investment Group | Investment Analyst – MBA Internship | fit~- | https://ats.rippling.com/zuckerman-investment-group/jobs/923b73b8-91a9-430c-9f84-b87014b8bbb3 | eligibility: "Visa sponsorship is not available for this position."
+- [SKIP] Agilent Technologies | Global Engineering Intern – Manufacturing Automation | fit~- | https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/Italy-Torino/Global-Engineering-Intern---Manufacturing-Automation_4041011 | outside US (Italy)
+- [SKIP] Aviva | Senior AI Engineer | fit~- | https://aviva.wd1.myworkdayjobs.com/External/job/Markham/Senior-AI-Engineer_R-175630 | asks 6+ years
+- [SKIP] Badger Meter | Business Analytics Intern | fit~- | https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Business-Analytics-Intern_4677 | asks 12+ years
+- [SKIP] Barclays | Credit Research Analyst Summer Internship Program 2028 New York | fit~- | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Credit-Research-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139046 | eligibility: "Barclays will not sponsor applicants for work visas or offer any employment-based immigration sponsorship for individuals who are not enrolled in, or do not graduate with, a degree in a field of study that the U.S."
+- [SKIP] Barclays | Banking Analyst (Coverage/M&A) Summer Internship Program 2028 New York City | fit~- | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Banking-Analyst--Coverage-M-A--Summer-Internship-Program-2028-New-York-City_JR-0000137802 | eligibility: "Barclays will not sponsor applicants for work visas or offer any employment-based immigration sponsorship for individuals who are not enrolled in, or do not graduate with, a degree in a field of study that the U.S."
+- [SKIP] Barclays | Banking Analyst (Capital Markets) Summer Internship Program 2028 New York City | fit~- | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Banking-Analyst--Capital-Markets--Summer-Internship-Program-2028-New-York-City_JR-0000137800 | eligibility: "Barclays will not sponsor applicants for work visas or offer any employment-based immigration sponsorship for individuals who are not enrolled in, or do not graduate with, a degree in a field of study that the U.S."
+- [SKIP] Barclays | Banking Analyst Summer Internship Program 2028 San Francisco | fit~- | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/San-Francisco-Four-Embarcadero-Center/Banking-Analyst-Summer-Internship-Program-2028-San-Francisco_JR-0000137795 | eligibility: "Barclays will not sponsor applicants for work visas or offer any employment-based immigration sponsorship for individuals who are not enrolled in, or do not graduate with, a degree in a field of study that the U.S."
+- [SKIP] Barclays | Banking Analyst Summer Internship Program 2028 Chicago | fit~- | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chicago-190-South-LaSalle-Street/Banking-Analyst-Summer-Internship-Program-2028-Chicago_JR-0000137785 | eligibility: "Barclays will not sponsor applicants for work visas or offer any employment-based immigration sponsorship for individuals who are not enrolled in, or do not graduate with, a degree in a field of study that the U.S."
+- [SKIP] Barclays | Equity Research Analyst Summer Internship Program 2028 New York | fit~- | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Equity-Research-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139045 | eligibility: "Barclays will not sponsor applicants for work visas or offer any employment-based immigration sponsorship for individuals who are not enrolled in, or do not graduate with, a degree in a field of study that the U.S."
+- [SKIP] Booz Allen | All-Source Intelligence Analyst | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/All-Source-Intelligence-Analyst_R0254210 | eligibility: "TS/SCI clearance is required."
+- [SKIP] CACI | AFSOUTH Data Scientist/Data Integrator | fit~- | https://caci.wd1.myworkdayjobs.com/external/job/Tucson-AZ-US/AFSOUTH-Data-Scientist-Data-Integrator_335520 | eligibility: "Job Title: AFSOUTH Data Scientist/Data Integrator Job Category: Science Time Type: Full time Minimum Clearance Required to Start: Secret Employee Type: Regular Percentage of Travel Required: Up to 10% Type of Travel: Loc"
+- [SKIP] Centene | Contact Center Operations Analyst Graduate Summer Intern | fit~- | https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Contact-Center-Operations-Analyst-Graduate-Summer-Intern_1667779 | eligibility: "without the need for employment-based visa sponsorship now or in the future."
+- [SKIP] Centene | Business Analyst Graduate Summer Intern | fit~- | https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Graduate-Summer-Intern_1667776 | eligibility: "without the need for employment-based visa sponsorship now or in the future."
+- [SKIP] Cigna Group | Business Analytics Intern | fit~- | https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Business-Analytics-Intern_26012472 | eligibility: "Therefore, this temporary internship is open only to individuals who are eligible for employment in the United States and who would not require visa support including H-1B, CPT/OPT/STEM, etc., now or in the future."
+- [SKIP] Fidelity Investments | Healthcare Requirements Analyst | fit~- | https://fmr.wd1.myworkdayjobs.com/FidelityCareers/job/100-Crosby-Pkwy-Covington-KY/Healthcare-Requirements-Analyst_2130351 | eligibility: "Fidelity will not provide immigration sponsorship for this position."
+- [SKIP] FormFactor | Intern, Quality Systems, Analytics & Compliance | fit~- | https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Beaverton-OR/Intern--Quality-Systems--Analytics---Compliance_JR101372 | asks 4+ years
+- [SKIP] GE Aerospace | Applied AI Engineer Intern (m/f/d) – Spring 2027 | fit~- | https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Applied-AI-Engineer-Intern--m-f-d----Spring-2027_R5043333-1 | needs current enrollment: "...s to production. What You Bring You are currently enrolled in a Bachelor’s or Master’s program in ..."
+- [SKIP] GE Healthcare | FP&A Cash Analyst Intern - Stagiaire Analyste Financier – FP&A / Trésorerie | fit~- | https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Buc/FP-A-Cash-Analyst-Intern---Stagiaire-Analyste-Financier---FP-A---Trsorerie_R4049993-1 | eligibility: "GE HealthCare does not sponsor visas for internships."
+- [SKIP] GE Vernova | Digital Technology Development Program Intern | fit~- | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Budapest-HU-26/DTDP-Intern_R5052729-3 | needs current enrollment: "...Management, and more. What you'll bring Currently enrolled in a Bachelor’s or Master’s Degree focu..."
+- [SKIP] IQVIA | Business Analyst | fit~- | https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Business-Analyst_R1567282 | asks 6+ years
+- [SKIP] ISS | Institutional Shareholder Services | Internship: Quantitative Research Analyst | fit~- | https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/Nice/Internship--Quantitative-Research-Analyst_JR_10477 | outside US (France)
+- [SKIP] KeyBank | 2027 Summer Analytics and Quantitative Modeling Internship- Cleveland | fit~- | https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380 | eligibility: "KeyBank’s Program Internship and Analyst positions are not eligible for employment visa sponsorship (e.g., H-1B visa)."
+- [SKIP] Levi Strauss & Co. | Merchandising Analytics Intern | fit~- | https://levistraussandco.wd5.myworkdayjobs.com/external/job/Ixelles-Belgium/Merchandising-Analytics-Intern_R-0160427 | outside US (Belgium)
+- [SKIP] Marvell | AI research intern | fit~- | https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Petah-Tikva/AI-research-intern_2605267 | eligibility: "...ess to technology and/or software subject to U.S. export control laws and regulations, includi..."
+- [SKIP] Northrop Grumman | 2027 Financial Reporting Intern - McLean VA | fit~- | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-Financial-Reporting-Intern---McLean-VA_R10261891 | eligibility: "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: None TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incredible opportunities to"
+- [SKIP] Northrop Grumman | 2027 Intern Test & Evaluation Oklahoma City (Part-Time) | fit~- | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Test---Evaluation-Oklahoma-City--Part-Time-_R10261915 | eligibility: "RELOCATION ASSISTANCE: Relocation assistance may be available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incredible opportunit"
+- [SKIP] Samsung | 5G vRAN Automation Intern | fit~- | https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-vRAN-Automation-Intern_R122025 | eligibility: "Position Summary This role is not eligible for immigration sponsorship Headquartered in Plano, TX, Samsung Electronics America (SEA) is a leader in mobile technologies, consumer electronics, home appliances, enterprise s"
+- [SKIP] Samsung | Data Engineer Intern | fit~- | https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Data-Engineer-Intern_R122374 | eligibility: "Position Summary This position is not eligible for sponsorship."
+- [SKIP] State Employees' Credit Union | Intern – Product Strategy Business Intelligence Analyst | fit~- | https://ncsecu.wd1.myworkdayjobs.com/secu/job/North-Carolina/Intern---Product-Strategy-Business-Intelligence-Analyst_JR-16978 | eligibility: "Authorized to work in the Unites States without Sponsorship now or in the future or without receiving CPT/OPT through university/college."
+- [SKIP] The Aerospace Corporation | 2027 Machine Learning Engineer Undergrad Intern | fit~- | https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667 | eligibility: "citizenship is required to obtain a security clearance."
+- [SKIP] The Boeing Company | Test & Evaluation Intern 2027 - 12 Month Placement | fit~- | https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---RAF-Lossiemouth-United-Kingdom/Test---Evaluation-Intern-2027---12-Month-Placement_JR2026530394 | eligibility: "Conduct and document Continuous improvement activities for the team Basic Qualifications: Right to work in UK - We do not sponsor applicants for employment visa status or renewal of visas during employment Preferred Qual"
+- [SKIP] The Toro Company | Data Science Intern - The Toro Company | fit~- | https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Data-Science-Intern---The-Toro-Company_JR17932 | eligibility: "We are unable to sponsor or take over sponsorship of a school/employment or any other visa, regardless of expiration date, now or in the future."
+- [SKIP] Trimble | AI Software Developer Engineer in Test Intern | fit~- | https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/AI-Software-Developer-Engineer-in-Test-Intern_R58210 | eligibility: "You'll find an entrepreneurial spirit where success is often "self-authored," empowering proactive "doers." Work Authorization: Visa sponsorship is not available for this position."
+- [SKIP] Varian | Research Intern - Computer Vision and Robotics for Interventional AI | fit~- | https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PCT/Research-Intern---Computer-Vision-and-Robotics-for-Interventional-AI_R-32162 | eligibility: "Export Control: “A successful candidate must be able to work with controlled technology in accordance with US export control law.” “It is Siemens Healthineers’ policy to comply fully and completely with all United States"
+- [SKIP] TikTok | Research Scientist Intern (TikTok-Neural Graphics and World Models) - 2027 Start (PhD) | fit~- | https://lifeattiktok.com/search/7667935738840090933 | eligibility: "For this position, the Company does not provide sponsorship or any immigration-related benefits."
+- [SKIP] TikTok | Research Engineer Intern (Agentic Systems & AI Infrastructure - TikTok-Generalized Arch) - 2027 Start (PhD) | fit~- | https://lifeattiktok.com/search/7667935568626043141 | eligibility: "For this position, the Company does not provide sponsorship or any immigration-related benefits."
+- [SKIP] TikTok | Seller Live Analytics Project Intern (TikTok Shop - Operations) - 2026 Start | fit~- | https://lifeattiktok.com/search/7522236732256340231 | needs current enrollment: "...ves Minimum Qualifications: - Currently pursuing a BS/MS degree - Must be able to work at least 30 hours a wee..."
+- [SKIP] Keysight Technologies | Forward Deployment Engineer – Senior - 5G/6G/NTN | fit~- | https://jobs.keysight.com/external/jobs/54702 | eligibility: "Other Information This position is on-site in San Diego, California Relocation is available for this position Visa Sponsorship is not available for this position The level of role will be based on applicable experience, "
+- [SKIP] West Pharmaceutical Services | Associate, Data Science & Engineering | fit~- | https://careers.westpharma.com/job/Exton-Associate%2C-Data-Science-&-Engineering-PA-19341/1450900733/ | eligibility: "Relocation assistance and visa sponsorship are not available."
+- [SKIP] Infoorigin | Business Analyst | fit~- | https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e9667f95-65a1-47e2-a3ef-53654bfa7b59&jobId=578507&lang=en_US | asks 5+ years
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
 - AI Fund (lever:aifund:): HTTPError HTTP Error 404: Not Found
 - AcreTrader (rippling:acretrader-jobs:): HTTPError HTTP Error 404: Not Found
 - Aditude (ashby:aditude:): HTTPError HTTP Error 404: Not Found
-- Advocate Health Care (workday:aah.wd5:External): HTTPError HTTP Error 422: Unprocessable Entity
 - Age of Learning (lever:aofl:): HTTPError HTTP Error 404: Not Found
 - Aircall (lever:aircall:): HTTPError HTTP Error 404: Not Found
 - Alma (greenhouse:alma:): HTTPError HTTP Error 404: Not Found
 - Amerisure (workday:osv-amerisure.wd5:Amerisure): HTTPError HTTP Error 422: Unprocessable Entity
 - Amigo AI (ashby:amigo:): HTTPError HTTP Error 404: Not Found
 - Amplify (workday:amplify.wd1:Amplify_Careers): HTTPError HTTP Error 403: Forbidden
-- Antech Diagnostics (workday:vca.wd1:antechcareers): HTTPError HTTP Error 422: Unprocessable Entity
 - Applied Intuition (greenhouse:appliedintuition:): HTTPError HTTP Error 404: Not Found
 - Aprio (lever:aprio:): HTTPError HTTP Error 404: Not Found
 - Arch (ashby:arch.co:): HTTPError HTTP Error 404: Not Found
@@ -119,25 +167,17 @@ Alert inbox: no new relevant alert postings
 - CALSTART (lever:calstart:): HTTPError HTTP Error 404: Not Found
 - CFA Institute (workday:osv-cfainstitute.wd5:Careers): HTTPError HTTP Error 422: Unprocessable Entity
 - CTI (greenhouse:cti:): HTTPError HTTP Error 404: Not Found
-- CVS Health (workday:cvshealth.wd1:CVS_Health_Careers): HTTPError HTTP Error 429: Too Many Requests
-- Cambia Health Solutions (workday:cambiahealth.wd1:External): HTTPError HTTP Error 422: Unprocessable Entity
 - Capital Rx (greenhouse:capitalrx:): HTTPError HTTP Error 404: Not Found
-- Carnegie Mellon University (workday:cmu.wd5:cmu): HTTPError HTTP Error 422: Unprocessable Entity
 - Castleton Commodities International (workday:osv-cci.wd1:CCICareers): HTTPError HTTP Error 422: Unprocessable Entity
 - Cerebras (greenhouse:embed:): HTTPError HTTP Error 404: Not Found
 - CesiumAstro (lever:cesiumastro:): HTTPError HTTP Error 404: Not Found
 - Chainlink Labs (ashby:chainlink-labs:): HTTPError HTTP Error 404: Not Found
 - Chegg (workday:osv-chegg.wd5:Chegg): HTTPError HTTP Error 422: Unprocessable Entity
 - Cherry Technologies (ashby:withcherry:): HTTPError HTTP Error 404: Not Found
-- CliftonLarsonAllen (workday:cliftonlarsonallen.wd1:CLA): HTTPError HTTP Error 422: Unprocessable Entity
 - ClimateAI (greenhouse:climateai:): HTTPError HTTP Error 404: Not Found
 - Color (lever:color:): HTTPError HTTP Error 404: Not Found
-- Comcast (workday:comcast.wd5:Comcast_Careers): HTTPError HTTP Error 422: Unprocessable Entity
-- Conde Nast (workday:condenast.wd5:CondeCareers): HTTPError HTTP Error 422: Unprocessable Entity
-- Cystic Fibrosis Foundation (workday:cff.wd1:explore-career-opportunities): HTTPError HTTP Error 422: Unprocessable Entity
 - DESIGNME Hair (greenhouse:designmehair:): HTTPError HTTP Error 404: Not Found
 - DebtBook (greenhouse:debtbook:): HTTPError HTTP Error 404: Not Found
-- Dell Technologies (workday:dell.wd1:External): HTTPError HTTP Error 422: Unprocessable Entity
 - Dusty Robotics (greenhouse:dustyrobotics:): HTTPError HTTP Error 404: Not Found
 - EPRI (workday:vhr-epri.wd1:epricareers): HTTPError HTTP Error 422: Unprocessable Entity
 - Egra (ashby:egra:): HTTPError HTTP Error 404: Not Found
@@ -153,146 +193,57 @@ Alert inbox: no new relevant alert postings
 - Fireworks AI (greenhouse:fireworksai:): HTTPError HTTP Error 404: Not Found
 - Forerunner (greenhouse:forerunner:): HTTPError HTTP Error 404: Not Found
 - Fractional AI (ashby:fractional-ai:): HTTPError HTTP Error 404: Not Found
-- Fragomen (workday:fragomen.wd1:FragomenCareers): HTTPError HTTP Error 422: Unprocessable Entity
 - Fundamental Research Labs (ashby:fundamentalresearchlabs:): HTTPError HTTP Error 404: Not Found
 - Gap Inc. (workday:gapinc.wd1:gapconfidential): HTTPError HTTP Error 404: Not Found
 - Genesis Therapeutics (ashby:genesis-therapeutics:): HTTPError HTTP Error 404: Not Found
 - Gensler (workday:gensler.wd1:genslercareers): HTTPError HTTP Error 401: Unauthorized
-- Genuine Parts Company (workday:genpt.wd1:Careers): HTTPError HTTP Error 429: Too Many Requests
 - Gitar Inc. (rippling:gitar-careers:): HTTPError HTTP Error 404: Not Found
 - GlossGenius (greenhouse:glossgenius:): HTTPError HTTP Error 404: Not Found
-- Greenheck Group (workday:greenheckgroup.wd5:external): HTTPError HTTP Error 422: Unprocessable Entity
 - Grid (lever:grid:): HTTPError HTTP Error 404: Not Found
 - Harness (rippling:harness-careers:): HTTPError HTTP Error 404: Not Found
 - Hiive (ashby:hiive:): HTTPError HTTP Error 404: Not Found
 - Hilbert (ashby:hilberts:): HTTPError HTTP Error 404: Not Found
 - Hitachi (workday:gtsgbu.wd3:Careers): HTTPError HTTP Error 403: Forbidden
-- Hitachi (workday:hitachi.wd1:hitachi): HTTPError HTTP Error 429: Too Many Requests
-- Hy-Vee (workday:hyvee.wd1:HyVeeCareers): HTTPError HTTP Error 429: Too Many Requests
-- IDEXX (workday:idexx.wd1:IDEXX): HTTPError HTTP Error 422: Unprocessable Entity
-- IQVIA (workday:iqvia.wd1:IQVIA): HTTPError HTTP Error 429: Too Many Requests
-- ISS | Institutional Shareholder Services (workday:issgovernance.wd1:isscareers): HTTPError HTTP Error 429: Too Many Requests
 - Inductive Automation (lever:inductiveautomation:): HTTPError HTTP Error 404: Not Found
-- Ingredion (workday:ingredion.wd1:IngredionCareers): HTTPError HTTP Error 429: Too Many Requests
-- Insmed (workday:insmed.wd5:EXTERNAL): HTTPError HTTP Error 422: Unprocessable Entity
 - Inspiration Commerce Group (ashby:inspiration-commerce-group:): HTTPError HTTP Error 404: Not Found
 - Instabase (greenhouse:instabase:): HTTPError HTTP Error 404: Not Found
-- Integer Holdings Corporation (workday:integer.wd1:External): HTTPError HTTP Error 429: Too Many Requests
-- Integra LifeSciences (workday:integralife.wd1:careers): HTTPError HTTP Error 429: Too Many Requests
-- Integral Ad Science (workday:integralads.wd1:IAScareers): HTTPError HTTP Error 429: Too Many Requests
-- Integrity (workday:integritymarketing.wd1:Integrity): HTTPError HTTP Error 429: Too Many Requests
 - Interactive Brokers Group (greenhouse:ibkr:): HTTPError HTTP Error 404: Not Found
-- International Rescue Committee (IRC) (workday:theirc.wd1:External_Careers): HTTPError HTTP Error 429: Too Many Requests
-- Invenergy (workday:invenergyllc.wd1:invenergycareers): HTTPError HTTP Error 429: Too Many Requests
-- Jackson (workday:jackson.wd1:jackson_campus): HTTPError HTTP Error 429: Too Many Requests
-- Jimmy Choo (workday:capri.wd1:jimmychoocareers): HTTPError HTTP Error 429: Too Many Requests
-- Jones Lang LaSalle (JLL) (workday:jll.wd1:jllcareers): HTTPError HTTP Error 429: Too Many Requests
-- KLA Corporation (workday:kla.wd1:UR): HTTPError HTTP Error 429: Too Many Requests
-- Kite Pharma (workday:gilead.wd1:kitepharmacareers): HTTPError HTTP Error 429: Too Many Requests
 - Klarity (ashby:klarity-ai:): HTTPError HTTP Error 404: Not Found
-- KnitWell Group (workday:knitwellgroup.wd1:US_Corporate_Jobs): HTTPError HTTP Error 429: Too Many Requests
-- Kohl's (workday:kohls.wd1:kohlscareers): HTTPError HTTP Error 429: Too Many Requests
-- Kraft Heinz (workday:heinz.wd1:KraftHeinz_Careers_BC): HTTPError HTTP Error 429: Too Many Requests
-- Kyndryl (workday:kyndryl.wd5:KyndrylProfessionalCareers): HTTPError HTTP Error 429: Too Many Requests
-- LPL Financial Holdings (workday:lplfinancial.wd1:university): HTTPError HTTP Error 429: Too Many Requests
 - LVT (greenhouse:liveviewtechnologiesinc:): HTTPError HTTP Error 404: Not Found
-- Labcorp (workday:labcorp.wd1:external): HTTPError HTTP Error 429: Too Many Requests
-- Latham & Watkins (icims:ukcareers-lw.icims.com:): HTTPError HTTP Error 521: Unknown
 - Latitude.io (ashby:latitude:): HTTPError HTTP Error 404: Not Found
-- Legrand (icims:jobs-legrand.icims.com:): HTTPError HTTP Error 404: Not Found
-- Legrand (workday:milestone.wd1:Milestone_External): HTTPError HTTP Error 429: Too Many Requests
-- LendingClub (workday:lendingclub.wd1:external): HTTPError HTTP Error 429: Too Many Requests
+- Legrand (icims:jobs-legrand.icims.com::sitemap): HTTPError HTTP Error 404: Not Found
 - Levels Technologies (ashby:levels:): HTTPError HTTP Error 404: Not Found
-- Life Fitness (workday:lifefitness.wd1:searchLFN): HTTPError HTTP Error 429: Too Many Requests
-- Life Time (workday:lifetime.wd1:lifetime): HTTPError HTTP Error 429: Too Many Requests
-- Lilly USA (workday:lilly.wd5:CMP): HTTPError HTTP Error 422: Unprocessable Entity
-- Lilly USA (workday:lilly.wd5:LLY): HTTPError HTTP Error 422: Unprocessable Entity
 - Lindy (ashby:lindy:): HTTPError HTTP Error 404: Not Found
-- Lineage Logistics (workday:onelineage.wd1:external): HTTPError HTTP Error 429: Too Many Requests
-- Lithia Motors (workday:lithia.wd5:LithiaCareers): HTTPError HTTP Error 422: Unprocessable Entity
-- Live Oak Bank (workday:liveoakbancshares.wd1:Live_Oak): HTTPError HTTP Error 429: Too Many Requests
 - LiveRamp (workday:liveramp.wd5:LiveRampCareers): HTTPError HTTP Error 403: Forbidden
 - Loop (greenhouse:loop:): HTTPError HTTP Error 404: Not Found
-- Louisiana State University (LSU) (workday:lsu.wd1:LSU): HTTPError HTTP Error 429: Too Many Requests
-- Lowe's (workday:lowes.wd5:LWS_External_CS): HTTPError HTTP Error 429: Too Many Requests
-- Loyola Marymount University (workday:lmu.wd1:careers): HTTPError HTTP Error 429: Too Many Requests
 - Lynk (ashby:Lynk:): HTTPError HTTP Error 404: Not Found
 - MARA (greenhouse:mara:): HTTPError HTTP Error 404: Not Found
-- MGIC (workday:mgic.wd5:mgic): HTTPError HTTP Error 429: Too Many Requests
-- MKS Instruments (workday:mksinst.wd1:MKSCareersUniversity): HTTPError HTTP Error 429: Too Many Requests
-- MKS Instruments (workday:mksinst.wd1:mkscareersamericas): HTTPError HTTP Error 429: Too Many Requests
-- MSI (workday:baldwin.wd1:MSI): HTTPError HTTP Error 429: Too Many Requests
 - Mach Industries (ashby:mach:): HTTPError HTTP Error 404: Not Found
 - Machina Labs (lever:machinalabs:): HTTPError HTTP Error 404: Not Found
-- Magellan Health (workday:magellanhealth.wd5:magellan_health_careers): HTTPError HTTP Error 429: Too Many Requests
-- Magnite (workday:osv-rubicon.wd5:MagniteCareers): HTTPError HTTP Error 429: Too Many Requests
+- Magnite (workday:osv-rubicon.wd5:MagniteCareers): HTTPError HTTP Error 422: Unprocessable Entity
 - MaintainX (greenhouse:maintainx:): HTTPError HTTP Error 404: Not Found
-- Maricopa County (workday:maricopa.wd1:MC_External): HTTPError HTTP Error 429: Too Many Requests
-- Marigold (workday:campaignmonitor.wd5:marigold): HTTPError HTTP Error 429: Too Many Requests
-- Markel Group Inc. (workday:markelcorp.wd5:GlobalCareers): HTTPError HTTP Error 429: Too Many Requests
-- MarketStar (workday:wasatchproperty.wd1:MarketStarCareers): HTTPError HTTP Error 429: Too Many Requests
 - Marmon Holdings (workday:marmon.wd501:Marmon_MSIP_Internships): HTTPError HTTP Error 403: Forbidden
 - Marqeta (greenhouse:mqreferrals:): HTTPError HTTP Error 404: Not Found
-- Marvell (workday:marvell.wd1:MarvellCareers): HTTPError HTTP Error 429: Too Many Requests
-- Marvell (workday:marvell.wd1:MarvellCareers2): HTTPError HTTP Error 429: Too Many Requests
-- Mastercard (workday:mastercard.wd1:Campus): HTTPError HTTP Error 429: Too Many Requests
-- Mastercard (workday:mastercard.wd1:CorporateCareers): HTTPError HTTP Error 429: Too Many Requests
 - MatX (greenhouse:matx:): HTTPError HTTP Error 404: Not Found
-- Materion (workday:materion.wd5:Materion): HTTPError HTTP Error 429: Too Many Requests
 - Maximor AI (ashby:maximor:): HTTPError HTTP Error 404: Not Found
-- McAfee (workday:mcafee.wd1:external): HTTPError HTTP Error 429: Too Many Requests
-- Medline (workday:medline.wd5:Medline): HTTPError HTTP Error 429: Too Many Requests
-- Medtronic (workday:medtronic.wd1:MedtronicCareers): HTTPError HTTP Error 429: Too Many Requests
-- Medtronic (workday:medtronic.wd1:redeploymentmedtroniccareers): HTTPError HTTP Error 429: Too Many Requests
 - Memphis Meats (greenhouse:memphismeats:): HTTPError HTTP Error 404: Not Found
 - Mentis AI (ashby:mentis:): HTTPError HTTP Error 404: Not Found
 - Mercedes-Benz (lever:mbrdna:): HTTPError HTTP Error 404: Not Found
-- Methodist Le Bonheur (workday:methodisthealth.wd5:MLH): HTTPError HTTP Error 429: Too Many Requests
 - Metlife Group Inc. (lever:metlife:): HTTPError HTTP Error 404: Not Found
-- MiTek (workday:mii.wd5:MiTek): HTTPError HTTP Error 429: Too Many Requests
-- Micron Technology (workday:micron.wd1:External): HTTPError HTTP Error 429: Too Many Requests
-- Midland States Bank (workday:midlandsb.wd1:msbcareers): HTTPError HTTP Error 429: Too Many Requests
-- Millennium Physician Group (workday:verawholehealth.wd1:MPG): HTTPError HTTP Error 429: Too Many Requests
-- MillerKnoll (workday:millerknoll.wd1:MillerKnoll): HTTPError HTTP Error 429: Too Many Requests
-- Milwaukee Tool (workday:tti.wd1:Milwaukee): HTTPError HTTP Error 429: Too Many Requests
 - MintMCP (ashby:mintmcp:): HTTPError HTTP Error 404: Not Found
 - Mistral AI (ashby:mtesting.ai:): HTTPError HTTP Error 404: Not Found
-- Mizuho Securities USA (workday:mizuho.wd1:Mizuho_Confidential): HTTPError HTTP Error 429: Too Many Requests
-- Mizuho Securities USA (workday:mizuho.wd1:mizuhoamericas): HTTPError HTTP Error 429: Too Many Requests
-- Montage International (workday:montage.wd1:Montage_International): HTTPError HTTP Error 429: Too Many Requests
-- Montrose Environmental Group (workday:montrose.wd1:meg): HTTPError HTTP Error 422: Unprocessable Entity
 - Morris Health Technologies Inc. (ashby:morrishealthtech:): HTTPError HTTP Error 404: Not Found
-- NXP Semiconductors (workday:nxp.wd3:careers): HTTPError HTTP Error 422: Unprocessable Entity
-- National Indemnity Company (workday:nationalindemnity.wd5:NICO): HTTPError HTTP Error 429: Too Many Requests
-- National Interstate Insurance (workday:gaig.wd1:National_Interstate_External): HTTPError HTTP Error 429: Too Many Requests
 - National Renewable Energy Laboratory (workday:nrel.wd5:nrel): HTTPError HTTP Error 404: Not Found
 - Ncino (workday:ncino.wd5:nCinoCareers): HTTPError HTTP Error 403: Forbidden
-- Nelnet (workday:nelnet.wd1:MyNelnet): HTTPError HTTP Error 429: Too Many Requests
-- Netflix (workday:netflix.wd1:Netflix): HTTPError HTTP Error 429: Too Many Requests
-- New Balance (workday:newbalance.wd1:careers): HTTPError HTTP Error 429: Too Many Requests
 - New Jersey State Office of Innovation (lever:njstateofficeofinnovation:): HTTPError HTTP Error 404: Not Found
-- Newrez (workday:newrez.wd1:NRZ): HTTPError HTTP Error 429: Too Many Requests
-- Nio (workday:nio.wd3:NIO_Careers): HTTPError HTTP Error 422: Unprocessable Entity
 - Nomagic (lever:nomagic:): HTTPError HTTP Error 404: Not Found
-- Northern Trust (workday:ntrs.wd1:northerntrust): HTTPError HTTP Error 429: Too Many Requests
 - Northrop Grumman (workday:ngc.wd1:northrop_grumman_restricted_site): HTTPError HTTP Error 403: Forbidden
 - OakNorth Bank (lever:oaknorth.ai:): HTTPError HTTP Error 404: Not Found
 - Odin Dynamics Inc (ashby:odin-dynamics:): HTTPError HTTP Error 404: Not Found
-- Ohio State University (workday:osu.wd1:OSUCareers): HTTPError HTTP Error 429: Too Many Requests
 - Omnicom Media Group (greenhouse:omguk:): HTTPError HTTP Error 404: Not Found
-- OneDigital (workday:onedigital.wd5:onedigital): HTTPError HTTP Error 422: Unprocessable Entity
 - OneSource Virtual (workday:vhr-osvhr.wd1:OSV_External_Career_Site): HTTPError HTTP Error 422: Unprocessable Entity
-- Onto Innovation (workday:onto.wd1:onto_careers): HTTPError HTTP Error 429: Too Many Requests
-- Oregon State Government (workday:oregon.wd5:sor_external_career_site): HTTPError HTTP Error 429: Too Many Requests
-- Orion Steel Group (workday:evrazna.wd5:EVRAZ): HTTPError HTTP Error 422: Unprocessable Entity
-- Otis Worldwide (workday:otis.wd5:rec_ext_gateway): HTTPError HTTP Error 422: Unprocessable Entity
-- Otsuka Pharmaceutical (workday:vhr-otsuka.wd1:External): HTTPError HTTP Error 429: Too Many Requests
+- Otsuka Pharmaceutical (workday:vhr-otsuka.wd1:External): HTTPError HTTP Error 422: Unprocessable Entity
 - PBS (workday:vhr-pbs.wd5:PBSCareers): HTTPError HTTP Error 422: Unprocessable Entity
-- Patient First (workday:patientfirst.wd5:patientfirst): HTTPError HTTP Error 429: Too Many Requests
-- Pfizer (workday:pfizer.wd1:PfizerCareers): HTTPError HTTP Error 429: Too Many Requests
-- Pillsbury (workday:pillsburylaw.wd5:External): HTTPError HTTP Error 429: Too Many Requests
-- Pima County (workday:pimacounty.wd5:pimacareers): HTTPError HTTP Error 429: Too Many Requests
-- Plexus (workday:plexus.wd5:Plexus_Careers): HTTPError HTTP Error 422: Unprocessable Entity
 - Postman (greenhouse:postman:): HTTPError HTTP Error 404: Not Found
 - Praos Smart Security (rippling:praos-smart-security:): HTTPError HTTP Error 404: Not Found
 - Pryzm (ashby:pryzm:): HTTPError HTTP Error 404: Not Found
@@ -301,32 +252,25 @@ Alert inbox: no new relevant alert postings
 - ReCor Medical (workday:vhr-otsuka.wd1:RecorExternal): HTTPError HTTP Error 422: Unprocessable Entity
 - Reach Financial (greenhouse:reach:): HTTPError HTTP Error 404: Not Found
 - Realtor.com (greenhouse:rdccareers:): HTTPError HTTP Error 404: Not Found
-- Red Bull Advanced Technologies (workday:redbulltechnology.wd3:RB_Racing): HTTPError HTTP Error 422: Unprocessable Entity
 - Redfin (workday:redfin.wd1:redfin_careers): HTTPError HTTP Error 403: Forbidden
 - Regal (lever:regalvoice:): HTTPError HTTP Error 404: Not Found
-- Revolution (icims:careers-revolutioncompany.icims.com:): HTTPError HTTP Error 404: Not Found
+- Revolution (icims:careers-revolutioncompany.icims.com::sitemap): HTTPError HTTP Error 404: Not Found
 - Ribbon (workday:vhr-genband.wd1:ribboncareers): HTTPError HTTP Error 422: Unprocessable Entity
-- Road Runner (workday:rrts.wd1:careers): HTTPError HTTP Error 429: Too Many Requests
 - Ryan (workday:ryan.wd1:Students-Graduates): HTTPError HTTP Error 404: Not Found
 - SHEIN (greenhouse:shein:): HTTPError HTTP Error 404: Not Found
-- SSM Health (workday:ssmh.wd5:ssmhealth): HTTPError HTTP Error 422: Unprocessable Entity
 - Sallie Mae (workday:sallie-mae.wd5:Careers): HTTPError HTTP Error 422: Unprocessable Entity
 - Saronic (lever:saronic:): HTTPError HTTP Error 404: Not Found
-- Savage X Fenty (workday:justfab.wd1:savagex): HTTPError HTTP Error 422: Unprocessable Entity
 - Scout AI (greenhouse:scoutai:): HTTPError HTTP Error 404: Not Found
 - Seamless.AI (greenhouse:seamlessai:): HTTPError HTTP Error 404: Not Found
 - Sennos (rippling:sennos:): HTTPError HTTP Error 404: Not Found
-- Sharp Electronics (icims:careers-sharpusa.icims.com:): HTTPError HTTP Error 404: Not Found
+- Sharp Electronics (icims:careers-sharpusa.icims.com::sitemap): HTTPError HTTP Error 404: Not Found
 - Shield AI (ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:): HTTPError HTTP Error 404: Not Found
 - Shyft Solutions (greenhouse:shyftsolutionsllc:): HTTPError HTTP Error 404: Not Found
 - Simbe Robotics (lever:simberobotics:): HTTPError HTTP Error 404: Not Found
-- Sonoco (workday:sonoco.wd1:CorporateCareers): HTTPError HTTP Error 429: Too Many Requests
 - Sporting Kansas City (workday:osv-tifec.wd5:SportingKC): HTTPError HTTP Error 422: Unprocessable Entity
-- St. Luke's University Health Network (workday:sluhn.wd1:SLUHN): HTTPError HTTP Error 429: Too Many Requests
-- Takeda (workday:takeda.wd3:external): HTTPError HTTP Error 422: Unprocessable Entity
 - TalentWerx (lever:talentwerx.io:): HTTPError HTTP Error 404: Not Found
 - Tempo (ashby:Tempo:): HTTPError HTTP Error 404: Not Found
-- The Bergaila Companies (icims:careers-bergaila.icims.com:): HTTPError HTTP Error 403: Forbidden
+- The Bergaila Companies (icims:careers-bergaila.icims.com::sitemap): HTTPError HTTP Error 403: Forbidden
 - Thoughtworks (greenhouse:thoughtworksreferral:): HTTPError HTTP Error 404: Not Found
 - Threatlocker (greenhouse:threatlocker:): HTTPError HTTP Error 404: Not Found
 - Ticketmaster (workday:livenation.wd503:en): HTTPError HTTP Error 404: Not Found
@@ -337,14 +281,12 @@ Alert inbox: no new relevant alert postings
 - Trio (lever:trio:): HTTPError HTTP Error 404: Not Found
 - Tuesday Lab (ashby:tuesday-lab:): HTTPError HTTP Error 404: Not Found
 - Two Dots (ashby:two-dots:): HTTPError HTTP Error 404: Not Found
-- USIC (workday:usicinc.wd5:USICCareers): HTTPError HTTP Error 422: Unprocessable Entity
 - Underdog Fantasy (greenhouse:underdogfantasy:): HTTPError HTTP Error 404: Not Found
 - United Therapeutics Corporation (workday:vhr-unither.wd5:External): HTTPError HTTP Error 422: Unprocessable Entity
 - Uplifter (greenhouse:uplifter:): HTTPError HTTP Error 404: Not Found
 - Veeda AI (ashby:veeda-labs:): HTTPError HTTP Error 404: Not Found
 - Verne Robotics (ashby:Verne%20Robotics:): HTTPError HTTP Error 404: Not Found
 - Visier Solutions (greenhouse:visiersolutionsinc:): HTTPError HTTP Error 404: Not Found
-- Walmart (workday:walmart.wd5:WalmartExternal): HTTPError HTTP Error 422: Unprocessable Entity
 - Welocalize (lever:welocalize:): HTTPError HTTP Error 404: Not Found
 - WhatNot (ashby:whatnot:): HTTPError HTTP Error 404: Not Found
 - Withum (greenhouse:campusopportunities:): HTTPError HTTP Error 404: Not Found
