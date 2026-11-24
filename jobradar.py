@@ -54,7 +54,8 @@ TITLE_BAD = re.compile(
     r"procurement|hr analyst|human resources|benefits analyst|compensation analyst|\bit analyst|application analyst|"
     r"\berp\b|oracle (technical|functional)|salesforce|servicenow|sap\b|business systems analyst|product owner|scrum|"
     r"test automation|qa automation|automation tester|marketing automation|industrial automation|building automation|"
-    r"lab automation|automation technician|plc\b", re.I)  # 23 Nov: automation words now pass TITLE_OK, these stay out
+    r"lab automation|automation technician|plc\b|"
+    r"^(?!.*\b(ai|ml|data|llm|agentic|genai|analytics)\b).*\bautomation (engineer|specialist|developer)\b", re.I)  # 23 Nov: automation words now pass TITLE_OK, these stay out
 # Builder family (Aryan, 12 Nov 2026, after SharkNinja): entry Forward Deployed / Deployment Engineer, AI Engineer I,
 # Analytics Engineer, AI solutions analyst, automation or transformation associate, LLM evaluation. Most such postings are
 # senior or startup-only, so a builder title counts as core (can be HOT) only when the description asks for Python AND
@@ -338,16 +339,39 @@ def min_yoe(text):
 
 # ---------------- http helpers ----------------
 import threading
-LIMIT = {"workable": threading.Semaphore(2), "rippling": threading.Semaphore(4), "bamboohr": threading.Semaphore(4)}
+LIMIT = {"workable": threading.Semaphore(2), "rippling": threading.Semaphore(4), "bamboohr": threading.Semaphore(4),
+         "radancy": threading.Semaphore(2), "successfactors": threading.Semaphore(4), "adp": threading.Semaphore(4)}
+
+
+# 23 Nov 2026: Workday answered 429 to 8-139 boards a sweep (Mass General Brigham in 4 of 6 afternoon sweeps), because
+# 48 workers hit the same host at once: wd1 alone serves ~700 of our tenants. Each Workday host now takes at most
+# WORKDAY_PER_HOST requests at a time, a 429 waits for Retry-After (or 5, 20, 45 s), and main() retries 429 boards once.
+HOST_LIMIT, _host_lock = {}, threading.Lock()
+
+
+def host_sem(url):
+    m = re.search(r"\.(wd\d+)\.myworkdayjobs\.com", url)
+    if not m:
+        return None
+    with _host_lock:
+        return HOST_LIMIT.setdefault(m.group(1), threading.Semaphore(int(os.environ.get("WORKDAY_PER_HOST", "6"))))
 
 
 def get(url, data=None, timeout=25, raw=False, extra=None):
-    for attempt in range(3):
+    sem = host_sem(url)
+    for attempt in range(4):
         try:
-            return _get(url, data, timeout, raw, extra)
+            if sem:
+                sem.acquire()
+            try:
+                return _get(url, data, timeout, raw, extra)
+            finally:
+                if sem:
+                    sem.release()  # released before any back-off sleep
         except urllib.error.HTTPError as e:
-            if e.code in (429, 500, 502, 503, 504) and attempt < 2:
-                time.sleep(4 * (attempt + 1)); continue
+            if e.code in (429, 500, 502, 503, 504) and attempt < 3:
+                ra = (e.headers.get("Retry-After") or "") if e.headers else ""
+                time.sleep(min(float(ra), 60) if ra.strip().isdigit() else 5 * (attempt + 1) ** 2); continue
             raise
         except (TimeoutError, ConnectionResetError, urllib.error.URLError):
             if attempt < 2:
@@ -444,11 +468,36 @@ def workday_detail(url):
             "loc": " ; ".join(locs) + (f" ({country})" if country else "")}
 
 
+WD_IDS = {}
+
+
+def workday_ids(base, tenant, site):
+    """23 Nov 2026: ~50 boards answered 422 every sweep because Workday's API wants the internal tenant id, which can differ
+    from the host name (sallie-mae.wd5 -> "sallie_mae"). The board's public landing page states it ("tenant", "siteId")."""
+    key = (base, site)
+    if key not in WD_IDS:
+        page = get(f"{base}/{site}", raw=True)
+        t, s = re.search(r'tenant:\s*"([^"]+)"', page), re.search(r'siteId:\s*"([^"]+)"', page)
+        WD_IDS[key] = (t.group(1) if t else tenant, s.group(1) if s else site)
+    return WD_IDS[key]
+
+
 def workday(c, cut):
     tenant, wd = c["slug"].split(".")
     base, site = f"https://{tenant}.{wd}.myworkdayjobs.com", c["site"]
+    body = {"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": ""}
+    try:
+        first = get(f"{base}/wday/cxs/{tenant}/{site}/jobs", body)
+    except urllib.error.HTTPError as e:
+        if e.code != 422:
+            raise
+        t2, s2 = workday_ids(base, tenant, site)
+        if (t2, s2) == (tenant, site):
+            raise
+        tenant, site = t2, s2
+        first = get(f"{base}/wday/cxs/{tenant}/{site}/jobs", body)
     for off in range(0, 400, 20):  # empty search is roughly newest first: read whole pages, stop when a page ends old
-        d = get(f"{base}/wday/cxs/{tenant}/{site}/jobs", {"appliedFacets": {}, "limit": 20, "offset": off, "searchText": ""})
+        d = first if off == 0 else get(f"{base}/wday/cxs/{tenant}/{site}/jobs", {**body, "offset": off})
         posts = d.get("jobPostings", [])
         for j in posts:
             p = (j.get("postedOn") or "").lower()
@@ -624,7 +673,15 @@ FANTASTIC_TITLES = ["data analyst", "data scientist", "data science", "business 
                     "quantitative", "quant", "risk analyst", "credit risk", "market risk", "model risk", "model validation",
                     "fraud analyst", "research analyst", "research associate", "research assistant", "statistician",
                     "biostatistician", "machine learning", "applied scientist", "data engineer", "analytics engineer",
-                    "economist", "predoctoral", "insights analyst", "reporting analyst", "pricing analyst", "investment analyst"]
+                    "economist", "predoctoral", "insights analyst", "reporting analyst", "pricing analyst", "investment analyst",
+                    "forward deployed", "ai engineer", "ai solutions"]
+# 23 Nov 2026 test ($0.55): limited to 200 missed sponsor employers the feed found 4 postings a day; unfiltered, 11 of 40
+# were already on JobRadar (JobRadar first on 10) and 9 of the 20 new ones sat on hiring systems JobRadar cannot read.
+# So by default the paid lane asks only for those systems. FANTASTIC_ATS overrides the list; FANTASTIC_MODE=orgs uses
+# fantastic_orgs.txt instead; FANTASTIC_MODE=all drops both filters.
+FANTASTIC_ATS = ["taleo", "csod", "dayforce", "successfactors", "phenompeople", "ultipro", "brassring", "jobvite", "paycom",
+                 "paycor", "paylocity", "adp", "applicantpro", "hireology", "isolved", "jazzhr", "breezy", "pageup", "hirebridge",
+                 "careerplug", "trinet", "teamtailor", "pinpoint", "zoho", "gem", "dover"]
 
 
 def fantastic(c, cut):
@@ -642,9 +699,12 @@ def fantastic(c, cut):
            # Staffing-firm postings stay out of this paid feed by default (each one would spend a paid slot on a repost);
            # set FANTASTIC_AGENCIES=1 to let them in. Staffing contracts are searched on Dice in each pass instead.
            "removeAgency": os.environ.get("FANTASTIC_AGENCIES") != "1", "descriptionType": "text"}
+    mode = os.environ.get("FANTASTIC_MODE", "ats")
     orgs = ROOT / "fantastic_orgs.txt"  # optional: pay only for jobs at proven entry-level H-1B sponsors
-    if orgs.exists() and os.environ.get("FANTASTIC_ALL") != "1":
+    if mode == "orgs" and orgs.exists():
         inp["organizationSearch"] = [l.strip() for l in orgs.read_text(encoding="utf-8").splitlines() if l.strip()]
+    elif mode == "ats":
+        inp["ats"] = [x.strip() for x in os.environ.get("FANTASTIC_ATS", ",".join(FANTASTIC_ATS)).split(",") if x.strip()]
     items = get("https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items"
                 f"?token={tok}&timeout=280", inp, timeout=300)
     for x in items if isinstance(items, list) else []:
@@ -661,24 +721,164 @@ def iso_date(s):
         return None
 
 
-def icims(c, cut):  # HTML search pages; no dates: new = not seen before
+def jsonld_job(page):
+    """The schema.org JobPosting block most career sites embed: title, place, country and description."""
+    for blob in re.findall(r'(?is)<script[^>]+application/ld\+json[^>]*>(.*?)</script>', page or ""):
+        try:
+            d = json.loads(blob.strip())
+        except Exception:
+            continue
+        for x in (d if isinstance(d, list) else d.get("@graph", [d]) if isinstance(d, dict) else []):
+            if isinstance(x, dict) and x.get("@type") == "JobPosting":
+                locs = x.get("jobLocation") or []
+                locs = locs if isinstance(locs, list) else [locs]
+                addr = [(l.get("address") or {}) for l in locs if isinstance(l, dict)]
+                addr = [a for a in addr if isinstance(a, dict)]
+                cty = next((a.get("addressCountry") for a in addr if a.get("addressCountry")), "")
+                cty = cty.get("name", "") if isinstance(cty, dict) else cty
+                loc = " ; ".join(", ".join(str(a[k]) for k in ("addressLocality", "addressRegion", "addressCountry")
+                                           if a.get(k) and isinstance(a[k], str)) for a in addr)
+                return {"title": html.unescape(x.get("title") or ""), "desc": strip(x.get("description")),
+                        "loc": loc, "country": cty or ""}
+    return None
+
+
+def page_detail(url, cap=15000):
+    page = get(url, raw=True)
+    return jsonld_job(page) or strip(page)[:cap]
+
+
+def icims(c, cut):  # no dates: new = not seen before
+    """23 Nov 2026: the search pages only showed page 1 (Enterprise Mobility's "data" search has 26 pages, so "Data
+    Scientist 1" was missed). The board's sitemap lists every open job in one request; search pages are the fallback."""
     host = c["slug"]
+    try:
+        locs = re.findall(r"<loc>(https://[^<]+/jobs/\d+/([^/<]+)/job)</loc>", get(f"https://{host}/sitemap.xml", raw=True))
+    except Exception:
+        locs = []
+    if locs:
+        for href, slug in locs:
+            t = re.sub(r"\s+", " ", urllib.parse.unquote(slug).replace("-", " ")).strip()
+            yield J(title=t, location="", url=href, posted=None, dated=False, detail=lambda u=href: page_detail(u + "?in_iframe=1"))
+        return
     for kw in ("analyst", "data", "research", "quantitative"):
-        page = get(f"https://{host}/jobs/search?ss=1&searchKeyword={kw}&searchRelation=keyword_all&in_iframe=1", raw=True)
-        for href, inner in re.findall(r'href="(https://[^"]+/jobs/\d+/[^"]+/job)\?in_iframe=1"[^>]*>(.*?)</a>', page, re.S):
-            t = strip(inner) or urllib.parse.unquote(href.split("/")[-2]).replace("-", " ")
-            yield J(title=t, location="", url=href, posted=None, dated=False,
-                    detail=lambda u=href: strip(get(u + "?in_iframe=1", raw=True))[:15000])
+        for pr in range(5):
+            page = get(f"https://{host}/jobs/search?pr={pr}&ss=1&searchKeyword={kw}&searchRelation=keyword_all&in_iframe=1", raw=True)
+            hits = re.findall(r'href="(https://[^"]+/jobs/\d+/[^"]+/job)\?in_iframe=1"[^>]*>(.*?)</a>', page, re.S)
+            for href, inner in hits:
+                t = strip(inner) or urllib.parse.unquote(href.split("/")[-2]).replace("-", " ")
+                yield J(title=t, location="", url=href, posted=None, dated=False, detail=lambda u=href: page_detail(u + "?in_iframe=1"))
+            if not re.search(rf"pr={pr + 1}\b", page):
+                break
+
+
+def jibe(c, cut):
+    """iCIMS / Google "Jibe" career sites (jobs.keysight.com, careers.nisa.com): public JSON with posting dates.
+    slug = host, site = the job path ("external/jobs" or "jobs")."""
+    host, path = c["slug"], (c.get("site") or "jobs").strip("/")
+    for page in range(1, 11):
+        d = get(f"https://{host}/api/jobs?page={page}&sortBy=posted_date&descending=true&limit=100&internal=false")
+        rows = [w.get("data", w) for w in d.get("jobs", [])]
+        dates = []
+        for x in rows:
+            posted = iso(re.sub(r"([+-]\d\d)(\d\d)$", r"\1:\2", x.get("posted_date") or ""))
+            dates.append(posted)
+            yield J(title=x.get("title") or "", location=x.get("full_location") or x.get("location_name") or "",
+                    country=x.get("country_code") or "", url=f"https://{host}/{path}/{x.get('slug') or x.get('req_id')}",
+                    posted=posted, desc=" ".join(strip(x.get(k)) for k in ("description", "responsibilities", "qualifications")))
+        newest_first = all(a and b and a >= b for a, b in zip(dates, dates[1:]))
+        if len(rows) < 100 or (newest_first and dates and dates[-1] and dates[-1] < cut):
+            return
+
+
+def adp(c, cut):
+    """ADP Workforce Now career centers (public JSON): slug = the cid in the board's URL."""
+    cid = c["slug"]
+    api = "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions"
+    for skip in range(0, 400, 20):
+        d = get(f"{api}?cid={cid}&lang=en_US&locale=en_US&$top=20&$skip={skip}")
+        rows = d.get("jobRequisitions") or []
+        for x in rows:
+            cf_ = x.get("customFieldGroup") or {}
+            posted = next((iso(f.get("dateValue")) for f in cf_.get("dateFields") or []
+                           if (f.get("nameCode") or {}).get("codeValue") == "PostingDate"), None) or iso(x.get("postDate"))
+            ext = next((f.get("stringValue") for f in cf_.get("stringFields") or []
+                        if (f.get("nameCode") or {}).get("codeValue") == "ExternalJobID" and f.get("stringValue")), None)
+            locs = [((l.get("nameCode") or {}).get("shortName") or "").strip() for l in x.get("requisitionLocations") or []]
+            yield J(title=x.get("requisitionTitle") or "", location=" ; ".join(l for l in locs if l), url=
+                    f"https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid={cid}&jobId={ext or x['itemID']}&lang=en_US",
+                    posted=posted, detail=lambda i=x["itemID"]: strip(get(f"{api}/{i}?cid={cid}&lang=en_US&locale=en_US").get("requisitionDescription")))
+        if not rows or skip + 20 >= ((d.get("meta") or {}).get("totalNumber") or 0):  # pages can hold 19 of 20
+            return
+
+
+def paylocity(c, cut):
+    """Paylocity job boards: the "All jobs" page carries the list as JSON. slug = the company GUID."""
+    page = get(f"https://recruiting.paylocity.com/Recruiting/Jobs/All/{c['slug']}", raw=True)
+    m = re.search(r"window\.pageData\s*=\s*(\{.*?\});\s*\n", page, re.S)
+    for x in (json.loads(m.group(1)).get("Jobs") or []) if m else []:
+        l = x.get("JobLocation") or {}
+        url = f"https://recruiting.paylocity.com/Recruiting/Jobs/Details/{x['JobId']}"
+        yield J(title=x.get("JobTitle") or "", url=url, posted=iso(x.get("PublishedDate")), country=l.get("Country") or "",
+                location=" ".join(str(l.get(k) or "") for k in ("City", "State", "Country")) + (" remote" if x.get("IsRemote") else ""),
+                detail=lambda u=url: page_detail(u))
+
+
+def successfactors(c, cut):
+    """SAP SuccessFactors career sites (careers.westpharma.com): public search page, newest first, date-only."""
+    host = c["slug"]
+    for start in range(0, 400, 50):
+        page = get(f"https://{host}/search/?q=&sortColumn=referencedate&sortDirection=desc&startrow={start}", raw=True)
+        rows = re.findall(r'<tr class="data-row">(.*?)</tr>', page, re.S)
+        last = None
+        for r in rows:
+            a = re.search(r'href="(/job/[^"]+)"[^>]*>(.*?)</a>', r, re.S)
+            d = re.search(r'class="jobDate[^"]*"[^>]*>\s*([A-Za-z]{3} \d{1,2}, \d{4})', r)
+            loc = re.search(r'class="colLocation[^"]*"[^>]*>\s*<span class="jobLocation">\s*(.*?)\s*</span>', r, re.S)
+            if not a:
+                continue
+            try:
+                last = datetime.strptime(d.group(1), "%b %d, %Y").replace(tzinfo=timezone.utc) + timedelta(hours=16) if d else None
+            except ValueError:
+                last = None
+            url = f"https://{host}{html.unescape(a.group(1))}"
+            yield J(day_only=True, title=html.unescape(strip(a.group(2))), location=strip(loc.group(1)) if loc else "",
+                    url=url, posted=last, detail=lambda u=url: page_detail(u))
+        if len(rows) < 50 or (last and last < cut - timedelta(hours=24)):
+            return
+
+
+def radancy(c, cut):  # Radancy / TalentBrew career sites (careers.unitedhealthgroup.com); no dates: new = not seen before
+    host = c["slug"]
+    for p in range(1, 4):
+        d = get(f"https://{host}/search-jobs/results?ActiveFacetID=0&CurrentPage={p}&RecordsPerPage=100&Distance=50&RadiusUnitType=0"
+                "&Keywords=&Location=&ShowRadius=False&IsPagination=False&CustomFacetName=&FacetTerm=&FacetType=0"
+                "&SearchResultsModuleName=Search+Results&SearchFiltersModuleName=Search+Filters&SortCriteria=1&SortDirection=1&SearchType=5",
+                extra={"X-Requested-With": "XMLHttpRequest", "Accept": "application/json"})
+        res = d.get("results", "") if isinstance(d, dict) else ""
+        items = re.findall(r'<a href="(/job/[^"]+)"[^>]*data-job-id="\d+"[^>]*>(.*?)</a>', res, re.S)
+        for href, inner in items:
+            t = re.search(r"<h2[^>]*>(.*?)</h2>", inner, re.S)
+            loc = re.search(r'class="(?:job-)?location[^"]*">(.*?)</span>', inner, re.S)
+            url = f"https://{host}{href}"
+            yield J(title=html.unescape(strip(t.group(1))) if t else "", location=strip(loc.group(1)) if loc else "",
+                    url=url, posted=None, dated=False, detail=lambda u=url: page_detail(u))
+        if len(items) < 100:
+            return
 
 
 FETCH = dict(greenhouse=greenhouse, lever=lever, ashby=ashby, smartrecruiters=smartrecruiters, workday=workday,
              oracle=oracle, workable=workable, rippling=rippling, bamboohr=bamboohr, icims=icims,
-             amazon=amazon, google=google, eightfold=eightfold, tiktok=tiktok, avature=avature, fantastic=fantastic)
+             amazon=amazon, google=google, eightfold=eightfold, tiktok=tiktok, avature=avature, fantastic=fantastic,
+             jibe=jibe, adp=adp, paylocity=paylocity, successfactors=successfactors, radancy=radancy)
 
 
 # ---------------- pipeline ----------------
 def board_key(c):
-    return f"{c['ats']}:{c['slug']}:{c.get('site','')}"
+    k = f"{c['ats']}:{c['slug']}:{c.get('site','')}"
+    # 23 Nov 2026: iCIMS moved from page-1 search results to the full sitemap. The new key makes all 318 iCIMS boards
+    # seed once (remember every job, alert on none), so older jobs the search pages never showed don't flood HOT/MAYBE.
+    return k + ":sitemap" if c["ats"] == "icims" else k
 
 
 def scan(c, cut, seeded):
@@ -721,8 +921,10 @@ def load_detail(j):
     if not j["desc"] and j["detail"]:
         try:
             r = j["detail"]() or ""
-            if isinstance(r, dict):  # Workday: description plus the posting's own country and locations
+            if isinstance(r, dict):  # Workday and JSON-LD pages: description plus the posting's own country and places
                 j["desc"] = r.get("desc") or ""
+                if r.get("title") and not j.get("dated", True):  # sitemap boards guessed the title from the URL
+                    j["title"] = r["title"]
                 if r.get("country"):
                     j["country"] = r["country"]
                 if r.get("loc"):
@@ -979,12 +1181,24 @@ def main():
             if a.delay:
                 time.sleep(a.delay)
             return scan(c, cut, board_key(c) in boards)
+        retry = []
         for c, out, err in ex.map(run, companies):
             found += out
-            if err:
+            if err and "429" in err:
+                retry.append(c)
+            elif err:
                 errs.append(err)
             else:
                 boards[board_key(c)] = now.isoformat()
+    if retry:  # boards that were still rate-limited after back-off get one slower pass
+        time.sleep(20)
+        with cf.ThreadPoolExecutor(4) as ex:
+            for c, out, err in ex.map(lambda c: scan(c, cut, board_key(c) in boards), retry):
+                found += out
+                if err:
+                    errs.append(err)
+                else:
+                    boards[board_key(c)] = now.isoformat()
     uniq, pair = {}, set()
     for j in found:
         p = (norm(j["company"]), j["title"].lower().strip())
