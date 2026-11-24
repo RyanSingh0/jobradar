@@ -79,6 +79,21 @@ CASES += [
         GENERIC + " 1-2 years of experience. Pay range $85,000 - $95,000.", location="Main Campus"), {"HOT"}),
 ]
 
+# 23 Nov 2026 (evening): board readers
+LD = ('<script type="application/ld+json">{"@type":"JobPosting","title":"Data Scientist 1","description":"<p>Python and SQL</p>",'
+      '"jobLocation":[{"@type":"Place","address":{"addressLocality":"St. Louis","addressRegion":"MO","addressCountry":"US"}}]}</script>')
+CASES += [
+    ("JSON-LD JobPosting gives title, place, country", lambda: (str(jr.jsonld_job(LD)), ""),
+     {str({"title": "Data Scientist 1", "desc": "Python and SQL", "loc": "St. Louis, MO, US", "country": "US"})}),
+    ("Workday requests share one limit per host", lambda: (str(jr.host_sem("https://mgb.wd1.myworkdayjobs.com/x") is
+                                                             jr.host_sem("https://cmu.wd1.myworkdayjobs.com/y")), ""), {"True"}),
+    ("non-Workday hosts are not limited", lambda: (str(jr.host_sem("https://boards-api.greenhouse.io/v1")), ""), {"None"}),
+    ("iCIMS boards re-seed under the sitemap key", lambda: (jr.board_key({"ats": "icims", "slug": "us-erac.icims.com", "site": ""}), ""),
+     {"icims:us-erac.icims.com::sitemap"}),
+    ("other boards keep their key", lambda: (jr.board_key({"ats": "workday", "slug": "cmu.wd115", "site": "CMU"}), ""), {"workday:cmu.wd115:CMU"}),
+    ("paid lane defaults to hiring systems JobRadar cannot read", lambda: (str("taleo" in jr.FANTASTIC_ATS and "workday" not in jr.FANTASTIC_ATS), ""), {"True"}),
+]
+
 if __name__ == "__main__":
     bad = 0
     for name, fn, ok in CASES:
