@@ -79,6 +79,32 @@ CASES += [
         GENERIC + " 1-2 years of experience. Pay range $85,000 - $95,000.", location="Main Campus"), {"HOT"}),
 ]
 
+# 24 Nov 2026 (Aryan): internships open to graduates, contracts and temporary roles are in scope; current-student-only
+# internships and future-graduation programs are not.
+CASES += [
+    ("Data Science Intern open to recent graduates reaches MAYBE or HOT", lambda: run("Acme Analytics", "Data Science Intern",
+        GENERIC + " Open to students and recent graduates. Paid, 40 hours per week."), {"MAYBE", "HOT"}),
+    ("Data Analyst Internship for graduates with a degree reaches MAYBE or HOT", lambda: run("Acme Analytics", "Data Analyst Internship",
+        GENERIC + " Bachelor's or Master's degree completed. Paid, full time for 6 months."), {"MAYBE", "HOT"}),
+    ("Intern who must be currently enrolled -> SKIP", lambda: run("Acme Analytics", "Data Science Intern",
+        GENERIC + " Candidates must be currently enrolled in a degree program."), {"SKIP"}),
+    ("Intern with an expected graduation in 2027 -> SKIP", lambda: run("Acme Analytics", "Data Analyst Intern",
+        GENERIC + " Expected graduation between December 2026 and June 2027."), {"SKIP"}),
+    ("Intern returning to school -> SKIP", lambda: run("Acme Analytics", "Machine Learning Intern",
+        GENERIC + " You must be returning to school after the internship."), {"SKIP"}),
+    ("Full-time role 'pursuing or have completed' stays in", lambda: run("Acme Analytics", "Data Analyst",
+        GENERIC + " 1-2 years of experience. Currently pursuing or have completed a Master's degree in a quantitative field."), {"HOT", "MAYBE"}),
+    ("Contract Data Analyst reaches HOT or MAYBE", lambda: run("Acme Analytics", "Contract Data Analyst",
+        GENERIC + " 1-2 years of experience. 6-month W2 contract."), {"HOT", "MAYBE"}),
+    ("Staffing W2 contract reaches HOT or MAYBE", lambda: run("Insight Global", "Data Analyst (Contract)",
+        GENERIC + " 1-2 years of experience. This is a 6 month W2 contract with our client, a healthcare company."), {"HOT", "MAYBE"}),
+    ("Corp-to-corp only contract -> SKIP", lambda: run("Acme Staffing", "Data Analyst", GENERIC + " C2C only. 1 year of experience."), {"SKIP"}),
+    ("'No C2C' W2 contract stays in", lambda: run("Acme Staffing", "Data Analyst", GENERIC + " W2 only, no C2C. 1 year of experience."), {"HOT", "MAYBE"}),
+    ("Training fee posting -> SKIP", lambda: run("Acme Staffing", "Junior Data Analyst", GENERIC + " A one-time training fee applies before placement."), {"SKIP"}),
+    ("Co-op still dropped on title", lambda: run("Acme Analytics", "Data Science Co-op", GENERIC), {"DROPPED"}),
+    ("Summer 2027 internship still dropped on title", lambda: run("Acme Analytics", "Summer 2027 Data Science Intern", GENERIC), {"DROPPED"}),
+]
+
 # 23 Nov 2026 (evening): board readers
 LD = ('<script type="application/ld+json">{"@type":"JobPosting","title":"Data Scientist 1","description":"<p>Python and SQL</p>",'
       '"jobLocation":[{"@type":"Place","address":{"addressLocality":"St. Louis","addressRegion":"MO","addressCountry":"US"}}]}</script>')

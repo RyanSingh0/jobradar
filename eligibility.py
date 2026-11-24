@@ -71,10 +71,17 @@ def sentences(text):
     return [s.strip() for s in SPLIT.split(text or "") if s and TOPIC.search(s)]
 
 
+# 24 Nov 2026 (GE Aerospace): "a Sponsor's welfare benefit plan" and "plan sponsor" are benefit-plan words, not visa
+# sponsorship. The phrase is blanked before the sentence is judged, so a real work-authorization line beside it still counts.
+BENEFIT_PLAN = re.compile(r"(the |a |any )?sponsor\W{0,2}s?\W{0,2}\s*(\w+\s+){0,3}(welfare|benefit|retirement|pension|401\(?k\)?|health|medical|savings)\s+(\w+\s+)?plans?|"
+                          r"plan sponsors?|sponsored (health|medical|benefit|retirement) plans?", re.I)
+
+
 def verdict(text):
     hits = sentences(text)
     blocks, oks, unclear = [], [], []
     for s in hits:
+        s = BENEFIT_PLAN.sub(" ", s)
         if NOISE.search(s) and not re.search(r"sponsor|clearance|must be|required|only", s, re.I):
             continue
         hard = any(r.search(s) for r in BLOCK_RX)
@@ -124,6 +131,9 @@ TESTS = [
     ("NONE", "All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, citizenship status, disability or veteran status."),
     ("NONE", "We are an E-Verify employer. Equal opportunity employer including disability and veterans."),
     ("NONE", "Build dashboards in Power BI and Tableau for the spares supply chain team."),
+    # 24 Nov 2026 (GE Aerospace): benefit-plan "Sponsor" is not visa sponsorship
+    ("NONE", "No individual has a vested right to any benefit under a Sponsor's welfare benefit plan."),
+    ("CHECK", "No individual has a vested right to any benefit under a Sponsor's welfare benefit plan. GE Aerospace will only employ those who are legally authorized to work in the United States for this opening."),
 ]
 
 if __name__ == "__main__":
