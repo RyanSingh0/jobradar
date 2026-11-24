@@ -3155,7 +3155,7 @@ Adient,workday,adient.wd3,External,,simplify-listings
 Adobe,workday,adobe.wd5,external_experienced,,simplify-listings
 Adtran,workday,adtran.wd3,adtran,,simplify-listings
 Advance Auto Parts,workday,advanceauto.wd5,advanceexternalcareers,,simplify-listings
-Advocate Health Care,workday,aah.wd5,External,,simplify-listings
+#Advocate Health Care,workday,aah.wd5,External,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Aegon Asset Management,workday,transamerica.wd5,AEGONAM,,simplify-listings
 Aegon Asset Management,workday,transamerica.wd5,AUK_JobSite,,simplify-listings
 AeroVironment,workday,avav.wd1,avav,,simplify-listings
@@ -3234,7 +3234,7 @@ Anheuser-Busch,workday,abinbev.wd1,USA,,simplify-listings
 Ankura Consulting Group,workday,ankura.wd5,ankura,,simplify-listings
 Ann & Robert H. Lurie Children’s Hospital of Chicago,workday,luriechildrens.wd1,externalportal,,simplify-listings
 Antares Capital,workday,antares.wd5,antares,,simplify-listings
-Antech Diagnostics,workday,vca.wd1,antechcareers,,simplify-listings
+#Antech Diagnostics,workday,vca.wd1,antechcareers,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Apex Fintech Solutions,workday,peak6group.wd1,apexfintechsolutions,,simplify-listings
 APM Terminals,workday,maersk.wd3,APMT_Careers,,simplify-listings
 Apollo Global,workday,athene.wd5,Apollo_Careers,,simplify-listings
@@ -3436,7 +3436,7 @@ Caliber,workday,calibercollision.wd1,caliber,,simplify-listings
 Calista Brice,workday,calistacorp.wd1,calistabrice,,simplify-listings
 Calix,workday,calix.wd1,External,,simplify-listings
 Callaway Golf,workday,tcbrands.wd1,callaway-careers,,simplify-listings
-Cambia Health Solutions,workday,cambiahealth.wd1,External,,simplify-listings
+#Cambia Health Solutions,workday,cambiahealth.wd1,External,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Cambium Learning Group,workday,cambiumlearning.wd1,camb,,simplify-listings
 Cambria,workday,cambria.wd1,cambria_careers,,simplify-listings
 Cambridge Associates,workday,cambridgeassociates.wd5,Cambridge_Associates,,simplify-listings
@@ -3455,7 +3455,7 @@ CareBridge,workday,elevancehealth.wd1,ANT,,simplify-listings
 CareSource,workday,caresource.wd1,caresource,,simplify-listings
 Caris,workday,carislifesciences.wd12,CLS,,simplify-listings
 CarMax,workday,carmax.wd1,External,,simplify-listings
-Carnegie Mellon University,workday,cmu.wd5,cmu,cap-exempt,simplify-listings
+Carnegie Mellon University,workday,cmu.wd115,CMU,cap-exempt,manual-2026-11-23
 Carrier Global,workday,carrier.wd5,jobs,,simplify-listings
 Cart.com,workday,cart.wd1,Cart,,simplify-listings
 Carter's,workday,carters.wd1,CartersCareers,,simplify-listings
@@ -3523,7 +3523,7 @@ CLEAResult,workday,clearesult.wd1,CLEAResult_External_Careers,,simplify-listings
 Clearwater Analytics,workday,clearwateranalytics.wd1,Clearwater_Analytics_Careers,,simplify-listings
 Cleveland Clinic,workday,ccf.wd1,ClevelandClinicCareers,,simplify-listings
 Cleveland-Cliffs,workday,aksteel.wd1,careers,,simplify-listings
-CliftonLarsonAllen,workday,cliftonlarsonallen.wd1,CLA,,simplify-listings
+#CliftonLarsonAllen,workday,cliftonlarsonallen.wd1,CLA,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Clio,workday,clio.wd3,ClioCareerSite,,simplify-listings
 Clorox,workday,clorox.wd1,InviteClorox,,simplify-listings
 Clorox,workday,clorox.wd1,Clorox,,simplify-listings
@@ -3537,12 +3537,12 @@ Cohesity,workday,cohesity.wd5,Cohesity_Careers,,simplify-listings
 Collectors,workday,collectorsuniverse.wd1,collectors,,simplify-listings
 Columbia Sportswear Company,workday,columbiasportswearcompany.wd5,CSC_Careers,,simplify-listings
 Columbia Sportswear Company,workday,columbiasportswearcompany.wd5,Columbia_Career_Site,,simplify-listings
-Comcast,workday,comcast.wd5,Comcast_Careers,,simplify-listings
+#Comcast,workday,comcast.wd5,Comcast_Careers,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Commerce Bank,workday,commercebank.wd1,CommerceJobs,,simplify-listings
 Compassion International,workday,compassion.wd5,compassioncareers,,simplify-listings
 Comscore,workday,comscore.wd5,External,,simplify-listings
 Conagra Brands,workday,conagrabrands.wd1,Careers_US,,simplify-listings
-Conde Nast,workday,condenast.wd5,CondeCareers,,simplify-listings
+#Conde Nast,workday,condenast.wd5,CondeCareers,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Cone Health,workday,conehealth.wd12,cone_health-careers,,simplify-listings
 Conning,workday,conning.wd503,conningcareers,,simplify-listings
 ConocoPhillips,workday,conocophillips.wd1,External,,simplify-listings
@@ -3590,7 +3590,7 @@ Customers Bank,workday,customersbank.wd1,customersbankcareers,,simplify-listings
 CVS Health,workday,cvshealth.wd1,CVS_Health_Careers,,simplify-listings
 CWS,workday,cws.wd3,cws_jobs,,simplify-listings
 CyrusOne,workday,cyrusone.wd1,CyrusOneCareerPortal,,simplify-listings
-Cystic Fibrosis Foundation,workday,cff.wd1,explore-career-opportunities,,simplify-listings
+#Cystic Fibrosis Foundation,workday,cff.wd1,explore-career-opportunities,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Daikin Applied,workday,daikinapplied.wd1,Daikin-Careers,,simplify-listings
 Daikin Applied,workday,daikinapplied.wd1,Pre-Selected_Candidate_Site,,simplify-listings
 Daimler Truck,workday,dtna.wd5,dtna_affiliate,,simplify-listings
@@ -3611,7 +3611,7 @@ Dealer Tire,workday,dealertire.wd5,DealerTireLLC-Careers,,simplify-listings
 Deckers Brands,workday,deckers.wd5,Deckers,,simplify-listings
 Dedalus,workday,dedalus.wd3,External,,simplify-listings
 Dee Zee,workday,deezee.wd108,DeeZee_Careers,,simplify-listings
-Dell Technologies,workday,dell.wd1,External,,simplify-listings
+#Dell Technologies,workday,dell.wd1,External,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Delta Dental,workday,rhsc.wd5,delta_dental_of_michigan,,simplify-listings
 Delta Faucet,workday,masco.wd1,deltafaucet,,simplify-listings
 Deluxe,workday,deluxe.wd5,USA_CAN,,simplify-listings
@@ -3756,7 +3756,7 @@ FORTNA,workday,mhs.wd1,careers,,simplify-listings
 Fortrea,workday,fortrea.wd1,Fortrea,,simplify-listings
 FOX,workday,fox.wd1,Domestic,,simplify-listings
 FOX,workday,foxfactory.wd1,FOX,,simplify-listings
-Fragomen,workday,fragomen.wd1,FragomenCareers,,simplify-listings
+#Fragomen,workday,fragomen.wd1,FragomenCareers,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Franklin Templeton,workday,franklintempleton.wd5,invitation-only,,simplify-listings
 Franklin Templeton,workday,franklintempleton.wd5,Primary-External-1,,simplify-listings
 Frazer-Nash Consultancy,workday,kbr.wd5,Frazer_Nash_Careers,,simplify-listings
@@ -3816,7 +3816,7 @@ Granite Construction,workday,granite.wd1,careers,,simplify-listings
 Great American Insurance Company,workday,gaig.wd1,GAIG_External,,simplify-listings
 GreatAmerica Financial Services,workday,greatamerica.wd12,greatamericacareers,,simplify-listings
 Greene Tweed,workday,gtweed.wd1,Careers,,simplify-listings
-Greenheck Group,workday,greenheckgroup.wd5,external,,simplify-listings
+#Greenheck Group,workday,greenheckgroup.wd5,external,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Greystar Worldwide,workday,greystar.wd1,International_Career_Site,,simplify-listings
 Group 1001,workday,group1001wd.wd5,careers,,simplify-listings
 GSK,workday,gsk.wd5,GSKCareers,,simplify-listings
@@ -3889,7 +3889,7 @@ ibotta,workday,ibotta.wd1,Ibotta,,simplify-listings
 ICF International,workday,icf.wd5,icfexternal_career_site,,simplify-listings
 Icon,workday,icon.wd3,broadbean_external,,simplify-listings
 IDEX,workday,idexcorp.wd5,idex_careers,,simplify-listings
-IDEXX,workday,idexx.wd1,IDEXX,,simplify-listings
+#IDEXX,workday,idexx.wd1,IDEXX,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 IGS Energy,workday,igsenergy.wd1,IGS,,simplify-listings
 iHeartMedia,workday,iheartmedia.wd5,External_iHM,,simplify-listings
 iHeartMedia,workday,iheartmedia.wd5,iHM_Technology_Site,,simplify-listings
@@ -3908,7 +3908,7 @@ Ingram Micro,workday,ingrammicro.wd5,IngramMicro,,simplify-listings
 Ingredion,workday,ingredion.wd1,IngredionCareers,,simplify-listings
 Inmar Intelligence,workday,inmar.wd1,inmarcareers,,simplify-listings
 Insitu,workday,insitu.wd1,careers,,simplify-listings
-Insmed,workday,insmed.wd5,EXTERNAL,,simplify-listings
+#Insmed,workday,insmed.wd5,EXTERNAL,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Insomniac,workday,livenation.wd503,InsomniacExternalSite,,simplify-listings
 Insperity,workday,insperity.wd12,NSP,,simplify-listings
 Insulet Corporation,workday,insulet.wd5,insuletcareers,,simplify-listings
@@ -3991,7 +3991,7 @@ KLA Corporation,workday,kla.wd1,UR,,simplify-listings
 KLA Corporation,workday,kla.wd1,annarbor,,simplify-listings
 KnitWell Group,workday,knitwellgroup.wd1,US_Corporate_Jobs,,simplify-listings
 Kobo,workday,rakuten.wd1,Kobo,,simplify-listings
-Kohl's,workday,kohls.wd1,kohlscareers,,simplify-listings
+#Kohl's,workday,kohls.wd1,kohlscareers,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Kokosing,workday,kokosing.wd5,Kokosing_External_Career_Site,,simplify-listings
 Kraft Heinz,workday,heinz.wd1,KraftHeinz_Careers,,simplify-listings
 Kraft Heinz,workday,heinz.wd1,KraftHeinz_Careers_BC,,simplify-listings
@@ -4006,9 +4006,9 @@ Land O'Lakes,workday,landolakes.wd1,landolakes,,simplify-listings
 Laticrete,workday,laticrete.wd1,laticreteinternational,,simplify-listings
 Le Moyne College,workday,agilitas.wd503,LMC,cap-exempt,simplify-listings
 LEGO,workday,lego.wd103,LEGO_External,,simplify-listings
-Legrand,workday,milestone.wd1,Milestone_External,,simplify-listings
+#Legrand,workday,milestone.wd1,Milestone_External,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Leidos,workday,leidos.wd5,External,,simplify-listings
-LendingClub,workday,lendingclub.wd1,external,,simplify-listings
+LendingClub (Happen Bank),workday,happen.wd1,External,,manual-2026-11-23 (rebranded; was lendingclub.wd1)
 Lennar Corporation,workday,lennar.wd1,Lennar_Jobs,,simplify-listings
 Leonardo,workday,leonardocompany.wd3,LeonardoCareerSite,,simplify-listings
 Levi Strauss & Co.,workday,levistraussandco.wd5,external,,simplify-listings
@@ -4019,12 +4019,12 @@ Life Fitness,workday,lifefitness.wd1,searchLFN,,simplify-listings
 Life Time,workday,lifetime.wd1,lifetime,,simplify-listings
 Light & Wonder,workday,lnw.wd5,lightwonderexternalcareers,,simplify-listings
 Likewize,workday,likewize.wd1,External,,simplify-listings
-Lilly USA,workday,lilly.wd5,CMP,,simplify-listings
-Lilly USA,workday,lilly.wd5,LLY,,simplify-listings
+#Lilly USA,workday,lilly.wd5,CMP,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
+#Lilly USA,workday,lilly.wd5,LLY,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Lineage Logistics,workday,onelineage.wd1,external,,simplify-listings
 Link Logistics,workday,linklogistics.wd5,Link,,simplify-listings
 Litera,workday,litera.wd12,Litera_Careers,,simplify-listings
-Lithia Motors,workday,lithia.wd5,LithiaCareers,,simplify-listings
+#Lithia Motors,workday,lithia.wd5,LithiaCareers,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Littelfuse,workday,littelfuse.wd1,Littelfuse-Careers,,simplify-listings
 Little Caesars Enterprises,workday,ilitch.wd5,lc,,simplify-listings
 Live Nation Entertainment,workday,livenation.wd503,LNExternalSite,,simplify-listings
@@ -4140,7 +4140,7 @@ Momentive,workday,momentive.wd1,MC,,simplify-listings
 Mondelez International,workday,mdlz.wd3,External,,simplify-listings
 Monolithic Power Systems,workday,monolithicpower.wd12,MPS_Careers,,simplify-listings
 Montage International,workday,montage.wd1,Montage_International,,simplify-listings
-Montrose Environmental Group,workday,montrose.wd1,meg,,simplify-listings
+#Montrose Environmental Group,workday,montrose.wd1,meg,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Moog,workday,moog.wd5,moog_external_career_site,,simplify-listings
 Morgan Lewis,workday,morganlewis.wd5,morganlewis,,simplify-listings
 Morgan Stanley,workday,ms.wd5,External,,simplify-listings
@@ -4180,7 +4180,7 @@ Nebraska Medicine,workday,nebraskamed.wd5,nm,,simplify-listings
 Neighborly,workday,neighborlybrands.wd1,neighborly,,simplify-listings
 Nelnet,workday,nelnet.wd1,MyNelnet,,simplify-listings
 Neogen,workday,neogen.wd5,neogencareers,,simplify-listings
-Netflix,workday,netflix.wd1,Netflix,,simplify-listings
+#Netflix,workday,netflix.wd1,Netflix,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Netsmart,workday,ntst.wd1,careers,,simplify-listings
 Neuberger Berman,workday,nb.wd1,NBCareers,,simplify-listings
 New Balance,workday,newbalance.wd1,careers,,simplify-listings
@@ -4193,7 +4193,7 @@ Niagara Bottling,workday,niagarawater.wd5,niagara,,simplify-listings
 Nidec,workday,nidec.wd1,nidec,,simplify-listings
 Nightwing Intelligence Solutions,workday,nwis.wd12,NW,,simplify-listings
 Nike,workday,nike.wd1,nke,,simplify-listings
-Nio,workday,nio.wd3,NIO_Careers,,simplify-listings
+#Nio,workday,nio.wd3,NIO_Careers,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 NiSource,workday,nisource.wd1,NiSource,,simplify-listings
 Nissan,workday,alliance.wd3,nissanjobs,,simplify-listings
 NJM Insurance Group,workday,njm.wd1,njm,,simplify-listings
@@ -4213,7 +4213,7 @@ Novartis,workday,novartis.wd3,Novartis_Careers,,simplify-listings
 Novogradac,workday,novoco.wd108,Novogradac,,simplify-listings
 nVent,workday,nvent.wd5,nVent,,simplify-listings
 NVIDIA,workday,nvidia.wd5,NVIDIAExternalCareerSite,,simplify-listings
-NXP Semiconductors,workday,nxp.wd3,careers,,simplify-listings
+#NXP Semiconductors,workday,nxp.wd3,careers,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 O'Reilly Auto Parts,workday,oreillyauto.wd1,oreilly,,simplify-listings
 Oakland County Michigan,workday,oakgov.wd5,careers,,simplify-listings
 OATEY,workday,oatey.wd5,Oatey_External_,,simplify-listings
@@ -4230,7 +4230,7 @@ Old Republic Title,workday,oldrepublic.wd1,oldrepublictitle,,simplify-listings
 OLG,workday,olg.wd3,Careers-Students,,simplify-listings
 OMERS,workday,omers.wd3,omers_external,,simplify-listings
 Omnicom Group,workday,interpublic.wd5,omc,,simplify-listings
-OneDigital,workday,onedigital.wd5,onedigital,,simplify-listings
+#OneDigital,workday,onedigital.wd5,onedigital,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 OneMain Financial,workday,myhrhome.wd1,OneMainCareers,,simplify-listings
 ONEOK,workday,oneok.wd1,ONEOK_Early_Careers,,simplify-listings
 ONEOK,workday,oneok.wd1,ONEOK,,simplify-listings
@@ -4244,10 +4244,10 @@ OPTrust,workday,optrust.wd3,OPTrust,,simplify-listings
 Orchid Orthopedic Solutions,workday,orchidortho.wd5,careers,,simplify-listings
 Oregon State Government,workday,oregon.wd5,sor_external_career_site,,simplify-listings
 Orion,workday,orionadvisor.wd1,Orion_Careers,,simplify-listings
-Orion Steel Group,workday,evrazna.wd5,EVRAZ,,simplify-listings
+#Orion Steel Group,workday,evrazna.wd5,EVRAZ,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Osaic,workday,advisorgroup.wd1,advisor_career_site,,simplify-listings
 Oshkosh,workday,oshkoshcorporation.wd5,Oshkosh,,simplify-listings
-Otis Worldwide,workday,otis.wd5,rec_ext_gateway,,simplify-listings
+#Otis Worldwide,workday,otis.wd5,rec_ext_gateway,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Otsuka Pharmaceutical,workday,vhr-otsuka.wd1,External,,simplify-listings
 OU Health,workday,oumedicine.wd5,OUHealthCareers,,simplify-listings
 Ovative,workday,ovative.wd12,ovative,,simplify-listings
@@ -4286,7 +4286,7 @@ Pitney Bowes,workday,pitneybowes.wd1,pbcareers,,simplify-listings
 PJM,workday,pjm.wd5,pjmcareers,,simplify-listings
 PJT Partners,workday,pjtpartners.wd1,Careers,,simplify-listings
 Plastipak,workday,plastipak.wd1,Plastipak,,simplify-listings
-Plexus,workday,plexus.wd5,Plexus_Careers,,simplify-listings
+#Plexus,workday,plexus.wd5,Plexus_Careers,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Plug Power,workday,plugpower.wd5,Plug_Power_Inc,,simplify-listings
 Pluralsight,workday,pluralsight.wd1,Careers,,simplify-listings
 PM Pediatric Care,workday,pmpediatrics.wd5,PMPeds,,simplify-listings
@@ -4347,7 +4347,7 @@ Raymond James Financial,workday,raymondjames.wd1,RaymondJamesEarlyCareers,,simpl
 RBI,workday,rbi.wd3,RBI_External_Career_Site,,simplify-listings
 Realty Income,workday,realtyincome.wd108,realty_income_careers,,simplify-listings
 ReCor Medical,workday,vhr-otsuka.wd1,RecorExternal,,simplify-listings
-Red Bull Advanced Technologies,workday,redbulltechnology.wd3,RB_Racing,,simplify-listings
+#Red Bull Advanced Technologies,workday,redbulltechnology.wd3,RB_Racing,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Red Hat,workday,redhat.wd5,jobs,,simplify-listings
 Redfin,workday,redfin.wd1,redfin_careers,,simplify-listings
 Regal Rexnord,workday,regalrexnord.wd1,careers,,simplify-listings
@@ -4425,7 +4425,7 @@ Sarah Bush Lincoln Health Center,workday,sarahbush.wd1,sarahbush,,simplify-listi
 Sarah Cannon Research Institute (SCRI),workday,mckesson.wd3,SCRI_Careers,,simplify-listings
 Sarasota County,workday,scgov.wd5,SCGOV,,simplify-listings
 Sarepta,workday,sarepta.wd5,sarepta_external,,simplify-listings
-Savage X Fenty,workday,justfab.wd1,savagex,,simplify-listings
+#Savage X Fenty,workday,justfab.wd1,savagex,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 SBA Communications Corporation,workday,sbasite.wd5,SBA_Communications_Careers,,simplify-listings
 SC Johnson,workday,scj.wd5,External_Career_Site,,simplify-listings
 SCAN,workday,scanhealthplan.wd108,scancareers,,simplify-listings
@@ -4496,7 +4496,7 @@ Sporting Kansas City,workday,osv-tifec.wd5,SportingKC,,simplify-listings
 Sprinklr,workday,sprinklr.wd1,careers,,simplify-listings
 SPS Commerce,workday,spscommerce.wd108,SPS,,simplify-listings
 SS&C,workday,ssctech.wd1,ssctechnologies,,simplify-listings
-SSM Health,workday,ssmh.wd5,ssmhealth,,simplify-listings
+#SSM Health,workday,ssmh.wd5,ssmhealth,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 St. Jude Children's Research Hospital,workday,stjude.wd1,stjude,,simplify-listings
 St. Louis University,workday,slu.wd5,Careers,cap-exempt,simplify-listings
 St. Luke's University Health Network,workday,sluhn.wd1,SLUHN,cap-exempt,simplify-listings
@@ -4534,7 +4534,7 @@ T-Mobile,workday,tmobile.wd1,alumni,,simplify-listings
 T-Mobile,workday,tmobile.wd1,contractorconversion,,simplify-listings
 T. Rowe Price,workday,troweprice.wd5,TRowePrice,,simplify-listings
 T.D. Williamson,workday,tdwilliamson.wd1,TDWCareers,,simplify-listings
-Takeda,workday,takeda.wd3,external,,simplify-listings
+#Takeda,workday,takeda.wd3,external,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Tandem Diabetes Care,workday,tandemdiabetes.wd12,tandemdiabetes,,simplify-listings
 Tapestry,workday,tapestry.wd108,Tapestry_Careers,,simplify-listings
 Target,workday,target.wd5,targetcareers,,simplify-listings
@@ -4672,7 +4672,7 @@ US Acute Care Solutions,workday,usacs.wd1,usacscareers,,simplify-listings
 US Foods,workday,usfoods.wd1,usfoodscareersExternal,,simplify-listings
 USAA,workday,usaa.wd1,USAAJOBSWD,,simplify-listings
 UserTesting,workday,usertesting.wd12,UserTesting,,simplify-listings
-USIC,workday,usicinc.wd5,USICCareers,,simplify-listings
+#USIC,workday,usicinc.wd5,USICCareers,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Valeo,workday,valeo.wd3,valeo_jobs,,simplify-listings
 Valmet,workday,valmet.wd103,external,,simplify-listings
 Valmont,workday,valmont.wd1,ValmontCareers,,simplify-listings
@@ -4712,7 +4712,7 @@ Volaris Group,workday,volarisgroup.wd3,volaris,,simplify-listings
 Voya Financial,workday,godirect.wd5,voya_jobs,,simplify-listings
 VSP Vision,workday,vsp.wd1,vspvisioncareers,,simplify-listings
 Walmart,workday,walmart.wd504,WalmartExternal,,simplify-listings
-Walmart,workday,walmart.wd5,WalmartExternal,,simplify-listings
+#Walmart,workday,walmart.wd5,WalmartExternal,,simplify-listings; disabled 2026-11-23: Workday site gone (landing page 500)
 Warner Bros.,workday,warnerbros.wd5,global,,simplify-listings
 Wash U,workday,wustl.wd1,external,,simplify-listings
 Watts Water,workday,wattswater.wd5,Intern-External,,simplify-listings
@@ -4795,3 +4795,19 @@ Cold Spring Harbor Laboratory,workday,cshl.wd12,CSHL,cap-exempt,manual-capexempt
 Cedars-Sinai Medical Center,oracle,hdkk.fa.us6.oraclecloud.com,CX,cap-exempt,manual-capexempt
 Mount Sinai Health System (Icahn School of Medicine),oracle,ejis.fa.us6.oraclecloud.com,CX,cap-exempt,manual-capexempt
 Oregon Health & Science University,icims,externalcareers-ohsu.icims.com,,cap-exempt,manual-capexempt
+Analytic Services Inc,greenhouse,analyticservicesinc,,,fantastic-test-2026-11-23
+Artefact North America,greenhouse,artefactnoram,,,fantastic-test-2026-11-23
+East Tennessee State University,oracle,fa-evyu-saasfaprod1.fa.ocs.oraclecloud.com,CX_1,cap-exempt,fantastic-test-2026-11-23
+Resurgent Capital Services,workday,resurgent.wd1,Resurgent,,fantastic-test-2026-11-23
+New Jersey Institute of Technology,workday,njit.wd108,NJIT_Careers,cap-exempt,fantastic-test-2026-11-23
+Amica Insurance,workday,amica.wd503,CareersAmica,,fantastic-test-2026-11-23
+Keysight Technologies,jibe,jobs.keysight.com,external/jobs,,fantastic-test-2026-11-23
+NISA Investment Advisors,jibe,careers.nisa.com,jobs,,fantastic-test-2026-11-23
+UnitedHealth Group,radancy,careers.unitedhealthgroup.com,,,fantastic-test-2026-11-23
+West Pharmaceutical Services,successfactors,careers.westpharma.com,,,fantastic-test-2026-11-23
+French & Parrello Associates,adp,6bab2611-6eca-4dda-bd57-f4dea7b477ff,,,fantastic-test-2026-11-23
+Guardian Energy Management,adp,ad16ffef-e90b-45d7-81ce-4e4c8bd0b495,,,fantastic-test-2026-11-23
+Infoorigin,adp,e9667f95-65a1-47e2-a3ef-53654bfa7b59,,,fantastic-test-2026-11-23
+Joyce University of Nursing and Health Sciences,paylocity,b4b0bba9-2d6d-43eb-88ca-acfbec22d78f,,,fantastic-test-2026-11-23
+Comcast,radancy,jobs.comcast.com,,,manual-2026-11-23 (moved off Workday)
+Takeda,radancy,jobs.takeda.com,,,manual-2026-11-23 (moved off Workday)
