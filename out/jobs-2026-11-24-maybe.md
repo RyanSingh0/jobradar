@@ -4,49 +4,75 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | CAI | Data Analyst | 73 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 2 | State Street | Business Analyst GCI CAO, Governance & Insights, Officer | 70 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 3 | Ascot | Data Analyst, Pricing | 69 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 4 | GenLogs | Data Scientist | 67 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 5 | Houlihan Lokey | 2027 Financial Analyst, Corporate Valuation Advisory Services, Complex Securities - Multiple Locations | 65 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 6 | Oshkosh | Data Analyst | 61 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 7 | Voya Financial | IM Entry Level Analyst Program - Jr. Credit Research Analyst | 60 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 8 | GEHA | Associate Analytics Engineer | 57 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 9 | PGIM | PGIM Quantitative Solutions, Trader | 55 | 7 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 10 | Prudential Financial | PGIM Quantitative Solutions, Trader | 55 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 11 | Old National Bank | Title BSA/AML High Risk Analyst | 55 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 12 | Vusion | Data Product Analyst   | 54 | none found (check myvisajobs) | Nov 24 10:39 ET |
-| 13 | Eulerity | Big Data Analyst [Finance] | 54 | none found (check myvisajobs) | Nov 24 11:31 ET |
-| 14 | NielsenIQ | Insights Analyst | 54 | none found (check myvisajobs) | Nov 24 11:16 ET |
-| 15 | Northwestern Mutual | Data Engineer | 54 | 20 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 16 | Teza Technologies | Quantitative Developer | 52 | 3 in data/analytics/finance occupations | Nov 24 12:33 ET |
-| 17 | Cedars-Sinai Medical Center | Research Associate I - Levy Lab - Digital Pathology | 50 | cap-exempt employer | Nov 24 (board gives the date only) |
-| 18 | West Bend Insurance | Title Financial Data Analyst | 48 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 19 | Voya Financial | IM Entry Level Analyst Program - Equity Research Associate | 45 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 20 | Société Générale de Surveillance (SGS) | Research Analyst (Large Molecule) | 45 | none found (check myvisajobs) | Nov 24 10:14 ET |
-| 21 | Washington University in St. Louis | Statistical Data Analyst MS (Part-Time) -  Biostatistics | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 22 | Wash U | Statistical Data Analyst MS (Part-Time) -  Biostatistics | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 23 | Société Générale de Surveillance (SGS) | Research Analyst (Large Molecule) | 45 | none found (check myvisajobs) | Nov 24 12:26 ET |
-| 24 | Ryan | Full Stack AI Engineer - May 2027 Grads | 44 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 25 | State Street | North America Portfolio Analyst, Officer | 44 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 26 | GE Aerospace | Data Engineer | 42 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 27 | Texas Capital Bank | Product Marketing Analyst - Banking Solutions | 40 | 3 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 28 | Google | Research Scientist, Google Cloud AI Research | 40 | 1053 in data/analytics/finance occupations | Nov 24 12:09 ET |
-| 29 | AbbVie | Associate Data Scientist II – Early Discovery Science | 78 | 96 in data/analytics/finance occupations | Nov 24 12:35 ET |
-| 30 | Nordstrom | Senior Business Analyst - Fraud & Abuse Analytics - Remote | 67 | 21 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 31 | Genentech | Senior Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery | 64 | 35 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 32 | JP Morgan Chase | Wholesale Credit Quantitative Research - Senior Associate | 64 | 1098 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 33 | McKesson | Sr. Freight Pricing Analyst | 62 | 38 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 34 | Emory University | Job Title Data Analyst, Senior- Winship Cancer Institute | 61 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 35 | CareSource | Health Plan Data Analyst II (need Health Plan/MCO and SQL) | 57 | 17 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 36 | Humana | Senior Analytics Consultant | 55 | 72 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 37 | Paypal Inc. | Sr Machine Learning Engineer | 55 | 188 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 38 | JP Morgan Chase | Gen AI Data Scientist - Wholesale Credit Risk  - Senior Associate | 55 | 1098 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 39 | Northwell Health | Senior Business Intelligence Specialist | 55 | 14 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 1 | KLA Corporation | Import/Export Analyst | 82 | 10 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 2 | CAI | Data Analyst | 73 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 3 | State Street | Business Analyst GCI CAO, Governance & Insights, Officer | 70 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 4 | Ascot | Data Analyst, Pricing | 69 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 5 | GenLogs | Data Scientist | 67 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 6 | Houlihan Lokey | 2027 Financial Analyst, Corporate Valuation Advisory Services, Complex Securities - Multiple Locations | 65 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 7 | Oshkosh | Data Analyst | 61 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 8 | Voya Financial | IM Entry Level Analyst Program - Jr. Credit Research Analyst | 60 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 9 | GEHA | Associate Analytics Engineer | 57 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 10 | PGIM | PGIM Quantitative Solutions, Trader | 55 | 7 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 11 | Prudential Financial | PGIM Quantitative Solutions, Trader | 55 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 12 | Old National Bank | Title BSA/AML High Risk Analyst | 55 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 13 | Huntington Bancshares | Credit Card Risk Analyst | 55 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 14 | Vusion | Data Product Analyst   | 54 | none found (check myvisajobs) | Nov 24 10:39 ET |
+| 15 | Eulerity | Big Data Analyst [Finance] | 54 | none found (check myvisajobs) | Nov 24 11:31 ET |
+| 16 | NielsenIQ | Insights Analyst | 54 | none found (check myvisajobs) | Nov 24 11:16 ET |
+| 17 | Northwestern Mutual | Data Engineer | 54 | 20 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 18 | PepsiCo | Title Control & Reporting Analyst | 54 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 19 | Teza Technologies | Quantitative Developer | 52 | 3 in data/analytics/finance occupations | Nov 24 12:33 ET |
+| 20 | Cedars-Sinai Medical Center | Research Associate I - Levy Lab - Digital Pathology | 50 | cap-exempt employer | Nov 24 (board gives the date only) |
+| 21 | West Bend Insurance | Title Financial Data Analyst | 48 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 22 | Voya Financial | IM Entry Level Analyst Program - Equity Research Associate | 45 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 23 | Société Générale de Surveillance (SGS) | Research Analyst (Large Molecule) | 45 | none found (check myvisajobs) | Nov 24 10:14 ET |
+| 24 | Washington University in St. Louis | Statistical Data Analyst MS (Part-Time) -  Biostatistics | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 25 | Wash U | Statistical Data Analyst MS (Part-Time) -  Biostatistics | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 26 | Société Générale de Surveillance (SGS) | Research Analyst (Large Molecule) | 45 | none found (check myvisajobs) | Nov 24 12:26 ET |
+| 27 | KLA Corporation | Research Scientist - Computational Electromagnetics | 45 | 10 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 28 | Procore Technologies | Forward Deployed AI Engineer | 45 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 29 | Ryan | Full Stack AI Engineer - May 2027 Grads | 44 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 30 | State Street | North America Portfolio Analyst, Officer | 44 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 31 | GE Aerospace | Data Engineer | 42 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 32 | Texas Capital Bank | Product Marketing Analyst - Banking Solutions | 40 | 3 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 33 | Google | Research Scientist, Google Cloud AI Research | 40 | 1053 in data/analytics/finance occupations | Nov 24 12:09 ET |
+| 34 | Mizuho Securities USA | Equity Research Associate | 40 | 19 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 35 | AbbVie | Associate Data Scientist II – Early Discovery Science | 78 | 96 in data/analytics/finance occupations | Nov 24 12:35 ET |
+| 36 | Wex | Sr Fraud Data Scientist | 70 | 3 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 37 | Nordstrom | Senior Business Analyst - Fraud & Abuse Analytics - Remote | 67 | 21 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 38 | Duolingo | Senior Data Scientist | 67 | 7 in data/analytics/finance occupations | Nov 24 13:47 ET |
+| 39 | Genentech | Senior Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery | 64 | 35 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 40 | JP Morgan Chase | Wholesale Credit Quantitative Research - Senior Associate | 64 | 1098 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 41 | McKesson | Sr. Freight Pricing Analyst | 62 | 38 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 42 | Emory University | Job Title Data Analyst, Senior- Winship Cancer Institute | 61 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 43 | The Trade Desk | Applied Scientist II, Performance Algorithms  | 60 | 18 in data/analytics/finance occupations | Nov 24 14:04 ET |
+| 44 | CareSource | Health Plan Data Analyst II (need Health Plan/MCO and SQL) | 57 | 17 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 45 | Oregon Health & Science University | Requisition Title Senior Research Assistant | 57 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 46 | Humana | Senior Analytics Consultant | 55 | 72 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 47 | Paypal Inc. | Sr Machine Learning Engineer | 55 | 188 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 48 | JP Morgan Chase | Gen AI Data Scientist - Wholesale Credit Risk  - Senior Associate | 55 | 1098 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 49 | Northwell Health | Senior Business Intelligence Specialist | 55 | 14 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 50 | DIRECTV | Sr. Specialist, Advanced Analytics | 55 | 14 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] CAI | Data Analyst
+## 1. [MAYBE] KLA Corporation | Import/Export Analyst
+- Link: https://kla.wd1.myworkdayjobs.com/UR/job/Phoenix-AZ/Import-Export-Analyst_2643307
+- Location: Phoenix, AZ ; Phoenix, AZ (United States of America)
+- Posted: Nov 24 (board gives the date only)
+- Scanner fit: ~82 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 10 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, etl, excel, forecast, machine learning, power bi, python, r, sql, statistic, tableau, data quality, portfolio, quantitative | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+To make electronics, you need chips, wafers, transistors, reticles, and... To make these, you must see, test and manufacture them at scale—faster and better than ever before. That's where KLA comes in. Whether you're early in your career or an experienced professional, you'll solve complex challenges, work alongside brilliant minds and help shape the future of technology. Group/Division KLA's Global Supply Chain (GSC) oversees sourcing, supplier contracting and management, materials management, direct and indirect procurement, and logistics and trade compliance. GSC leads activities to establish and manage an innovative, reliable, efficient, effective and compliant global supply chain and logistics structure that strengthens KLA's competitive advantage. What You'll Do In this role, you will play a key part in advancing business priorities by delivering high-impact work across your area of expertise. Job Description/Preferred Qualifications: We are seeking an early-career import/export analyst to join the Trade Operations team within KLA's Freight and Trade Operations organization. This role is designed for new & recent graduates who want to build deep expertise in data analytics , with a strong emphasis on statistical analysis, data quality measurement, and repeatable analytical workflows applied to global trade data. You will work alongside experienced trade operations professionals and data partners, gaining hands-on experience turning shipment, customs filing, and broker data into reliable, actionable insight. No prior trade or customs experience is required. You will learn the business while contributing technical skills, under guidance, in a team that prioritizes technical excellence, mentorship, and continuous learning. Responsibilities: Collect, clean, join, and analyze data from operational systems, customs broker files, and business documents to build trusted analytical datasets Develop repeatable analyses and automated checks (SQL, Python, or R) that identify missing data, inconsistencies, anomalies, and recurring issues in trade data Apply statistical methods to understand operational performance, trends, and the drivers of data quality problems Build visualizations and dashboards, and communicate findings and recommendations clearly to business stakeholders Translate business data requirements into measurable data quality rules and validation logic, and track improvements with business data owners Support data dictionaries, field mappings, source-to-target mappings, and data lineage documentation for customs and shipment data Support data validation and testing for system and process transformation initiatives Document methods, assumptions, and limitations so analyses are reproducible and reviewable; contribute to forecasting or predictive models where a defined business need and suitable data exist Qualifications: Bachelor's or master's degree in statistics, data science, mathematics, computer science, engineering, or a related quantitative field (0-1 years of work experience); internships, research, and academic projects count as relevant experience Strong foundation in statistics and mathematics (regardless of degree) Experience with Python or R and SQL for data preparation, analysis, and modeling (academic, research, internship, or portfolio work accepted) Experience cleaning and combining multi-source data and presenting results in clear visualizations Strong problem-solving skills, self-motivated, desire for continuous learning and improvement Efficiently and effectively communicate complex topics with technical and non-technical audiences Preferred Qualifications: Interest in learning supply chain, logistics, or global trade processes Experience with a BI tool (e.g., Power BI or Tableau) Portfolio or research project demonstrating reproducible analysis (e.g., version-controlled code) Exposure to data quality, data governance, or ETL concepts Minimum Qualifications Master's Level Degree and 0 years related work experience; Bachelor's Level Degree and related work experience of 2 years About KLA We provide advanced inspection tools, metrology systems, process solutions, and computational analytics that make electronics possible, tackling complex challenges. From electron and photon optics to machine learning and data analytics, we seek perfection at the most fundamental level of matter in the universe. If you want to make electronics that push industries forward and make the world a better place, join us. Total Rewards Base Pay Range: $58,200.00 - $98,900.00 Annually&#xa;Primary Location: USA-AZ-Phoenix-KLA KLA’s total rewards package for employees may also include participation in performance incentive programs and eligibility for additional benefits including but not limited to: medical, dental, vision, life, and other voluntary benefits, 401(K) including company matching, employee stock purchase program (ESPP), student debt assistance, tuition reimbursement program, development and career growth opportunities and programs, financial planning benefits, wellness benefits including an employee assistance program (EAP), paid time off and paid company holidays, and family care and bonding leave. Interns are eligible for some of the benefits listed. Our pay ranges are determined by role, level, and location. The range displayed reflects the pay for this position in the primary location identified in this posting. Actual pay depends on several factors, including state minimum pay wage rates, location, job-related skills, experience, and relevant education level or training. We are committed to complying with all applicable federal and state minimum wage requirements where applicable. If applicable, your recruiter can share more about the specific pay range for your preferred location during the hiring process. Use of AI Statement At KLA, our interviews seek to understand your individual skills, problem-solving approach and authentic thinking. To ensure a fair and consistent evaluation, the use of AI, recording tools or other technologies to generate, suggest or provide responses during interviews—whether virtual or in person—is not permitted unless explicitly approved in advance as part of a
+
+---
+
+## 2. [MAYBE] CAI | Data Analyst
 - Link: https://cai.wd5.myworkdayjobs.com/computer_aid/job/IN-CLIENT-STATE/Data-Analyst_R9031
 - Location: IN-CLIENT-STATE ; IN-CLIENT-STATE (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -61,7 +87,7 @@ Data Analyst Req number: R9031 Employment type: Full time Worksite flexibility: 
 
 ---
 
-## 2. [MAYBE] State Street | Business Analyst GCI CAO, Governance & Insights, Officer
+## 3. [MAYBE] State Street | Business Analyst GCI CAO, Governance & Insights, Officer
 - Link: https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Business-Analyst-GCI-CAO--Governance---Insights--Officer_R-801456
 - Location: Quincy, Massachusetts ; Quincy, Massachusetts (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -76,7 +102,7 @@ Who we are looking for We’re looking for a Business Analyst to join the GCI CA
 
 ---
 
-## 3. [MAYBE] Ascot | Data Analyst, Pricing
+## 4. [MAYBE] Ascot | Data Analyst, Pricing
 - Link: https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1110
 - Location: NJ, United States US CHICAGO, IL, United States
 - Posted: Nov 24 (board gives the date only)
@@ -91,7 +117,7 @@ This is an opportunity to join Ascot Group - one of the world’s preeminent spe
 
 ---
 
-## 4. [MAYBE] GenLogs | Data Scientist
+## 5. [MAYBE] GenLogs | Data Scientist
 - Link: https://ats.rippling.com/genlogs-corporation/jobs/bed54782-e363-45a4-a5fa-c862ec79fc24
 - Location: Atlanta, GA United States
 - Posted: new since the previous sweep (board shows no date)
@@ -106,7 +132,7 @@ Data Scientist Data Scientist GenLogs is a transportation-technology company bui
 
 ---
 
-## 5. [MAYBE] Houlihan Lokey | 2027 Financial Analyst, Corporate Valuation Advisory Services, Complex Securities - Multiple Locations
+## 6. [MAYBE] Houlihan Lokey | 2027 Financial Analyst, Corporate Valuation Advisory Services, Complex Securities - Multiple Locations
 - Link: https://hl.wd1.myworkdayjobs.com/Campus/job/New-York-NY-USA/XMLNAME-2027-Financial-Analyst--Corporate-Valuation-Advisory-Services--Complex-Securities---Multiple-Locations_R3792
 - Location: 2 Locations ; New York, NY, USA ; Los Angeles, CA, USA (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -121,7 +147,7 @@ Business Unit: Financial And Valuation Advisory Industry: Corporate Valuation Ad
 
 ---
 
-## 6. [MAYBE] Oshkosh | Data Analyst
+## 7. [MAYBE] Oshkosh | Data Analyst
 - Link: https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Jefferson-City-Tennessee-United-States/Data-Analyst_R48854
 - Location: Jefferson City, Tennessee, United States ; Jefferson City, Tennessee, United States (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -136,7 +162,7 @@ About JLG, an Oshkosh company JLG began in 1969, when our founder, John L. Grove
 
 ---
 
-## 7. [MAYBE] Voya Financial | IM Entry Level Analyst Program - Jr. Credit Research Analyst
+## 8. [MAYBE] Voya Financial | IM Entry Level Analyst Program - Jr. Credit Research Analyst
 - Link: https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/IM-Entry-Level-Analyst-Program---Jr-Credit-Research-Analyst_JR0033434
 - Location: Atlanta, GA ; Atlanta, GA (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -151,7 +177,7 @@ Together we fight for everyone’s opportunity for a better financial future. We
 
 ---
 
-## 8. [MAYBE] GEHA | Associate Analytics Engineer
+## 9. [MAYBE] GEHA | Associate Analytics Engineer
 - Link: https://geha.wd5.myworkdayjobs.com/GEHACareers/job/Missouri-Remote/Associate-Analytics-Engineer_R-005360
 - Location: Missouri-Remote ; Missouri-Remote (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -166,7 +192,7 @@ Government Employees Health Association, Inc. (G.E.H.A) is a nonprofit member as
 
 ---
 
-## 9. [MAYBE] PGIM | PGIM Quantitative Solutions, Trader
+## 10. [MAYBE] PGIM | PGIM Quantitative Solutions, Trader
 - Link: https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM-Quantitative-Solutions--Trader_R-125459
 - Location: Newark, NJ, USA ; Newark, NJ, USA (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -181,7 +207,7 @@ Job Classification: Investment Management - Investments As the Global Asset Mana
 
 ---
 
-## 10. [MAYBE] Prudential Financial | PGIM Quantitative Solutions, Trader
+## 11. [MAYBE] Prudential Financial | PGIM Quantitative Solutions, Trader
 - Link: https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM-Quantitative-Solutions--Trader_R-125459-1
 - Location: Newark, NJ, USA ; Newark, NJ, USA (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -196,7 +222,7 @@ Job Classification: Investment Management - Investments As the Global Asset Mana
 
 ---
 
-## 11. [MAYBE] Old National Bank | Title BSA/AML High Risk Analyst
+## 12. [MAYBE] Old National Bank | Title BSA/AML High Risk Analyst
 - Link: https://careers-oldnational.icims.com/jobs/21167/bsa-aml-high-risk-analyst%2c-sr/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -211,7 +237,22 @@ Old National Bank Careers | BSA/AML High Risk Analyst, Sr Please Enable Cookies 
 
 ---
 
-## 12. [MAYBE] Vusion | Data Product Analyst  
+## 13. [MAYBE] Huntington Bancshares | Credit Card Risk Analyst
+- Link: https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Chicago-IL/Credit-Card-Risk-Analyst_R0078124
+- Location: 2 Locations ; Chicago, IL ; Columbus, OH (United States of America)
+- Posted: Nov 24 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: a/b test, sql, credit, fraud, model risk, portfolio, quantitative, reporting, research, risk | Lacks: sas  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Description Summary: The Credit Card Risk Analyst is responsible for the development, implementation, and ongoing monitoring of quantitative credit strategies for Huntington’s consumer credit card acquisition programs. This role helps develop account approval strategies, initial credit line assignment, and risk-based pricing strategies. This position also monitors the credit risk profile and performance of newly acquired accounts to ensure alignment with established portfolio loss and risk-adjusted return objectives. Duties and Responsibilities: Develop, implement, and conduct ongoing oversight of consumer credit card new account origination strategies, including segment-level performance reporting and change management. Design, execute, and evaluate policy experiments and A/B tests, translating analytical findings into actionable credit policy and strategy enhancements. Provide timely visibility into credit risk performance and emerging portfolio trends. Partner cross-functionally with Credit Administration, Underwriting, Fraud, Model Risk Management, Product, and Legal/Compliance to advance business priorities and ensure alignment with risk and regulatory requirements. Performs other duties as assigned. Basic Qualifications: Bachelor's degree 5+ years of risk management or payments analytics experience in the financial services industry 3+ years experience with SQL or SAS Preferred Qualifications: Master's degree Strong organization and communication skills, both verbal and written Strong analytical skills and thought process, with a high degree of attention to detail Ability to understand credit card profit-and-loss (P&L) drivers and financial performance Ability to articulate problem solving methodology used to research and create solutions Ability to work on multiple projects at once, prioritizing within tight time constraints AI experience in industry #LI-OnSite Exempt Status: (Yes = not eligible for overtime pay) ( No = eligible for overtime pay) Yes Workplace Type: Office Our Approach to Office Workplace Type Certain positions outside our branch network may be eligible for a flexible work arrangement. We’re combining the best of both worlds: in-office and work from home. Our approach enables our teams to deepen connections, maintain a strong community, and do their best work. Remote roles will also have the opportunity to come together in our offices for moments that matter. Specific work arrangements will be provided by the hiring team. Compensation Range: $77,000 - $154,000 Annual Salary The compensation range represents the anticipated low and high end of the base compensation range for this position. Actual compensation will vary based on various factors including but not limited to location, experience, and education. Colleagues in this position are also eligible to participate in an applicable incentive compensation plan. In addition, Huntington provides a variety of benefits to colleagues, including health insurance coverage, wellness program, life and disability insurance, retirement savings plan, paid leave programs, paid holidays and paid time off (PTO). Huntington
+
+---
+
+## 14. [MAYBE] Vusion | Data Product Analyst  
 - Link: https://jobs.smartrecruiters.com/VusionGroupSA/744000163490029
 - Location: Dallas TX us
 - Posted: Nov 24 10:39 ET
@@ -226,7 +267,7 @@ We build. We create impact. Vusion is seeking a detail-oriented Product Analyst 
 
 ---
 
-## 13. [MAYBE] Eulerity | Big Data Analyst [Finance]
+## 15. [MAYBE] Eulerity | Big Data Analyst [Finance]
 - Link: https://job-boards.greenhouse.io/eulerity/jobs/4731948006
 - Location: New York, NY
 - Posted: Nov 24 11:31 ET
@@ -241,7 +282,7 @@ Location: Midtown Manhattan, New York, NY (In-Person) Compensation: 17.00–20.0
 
 ---
 
-## 14. [MAYBE] NielsenIQ | Insights Analyst
+## 16. [MAYBE] NielsenIQ | Insights Analyst
 - Link: https://jobs.smartrecruiters.com/NielsenIQ/744000163501814
 - Location: Berkely Heights NJ us
 - Posted: Nov 24 11:16 ET
@@ -256,7 +297,7 @@ Analyze consumer, shopper, and market data to identify trends, opportunities, ri
 
 ---
 
-## 15. [MAYBE] Northwestern Mutual | Data Engineer
+## 17. [MAYBE] Northwestern Mutual | Data Engineer
 - Link: https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Franklin-WI-Corporate/Data-Engineer_JR-46298
 - Location: Franklin, WI Corporate ; Franklin, WI Corporate (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -271,7 +312,22 @@ About the Job We're looking for a hands-on Software Engineer III to contribute a
 
 ---
 
-## 16. [MAYBE] Teza Technologies | Quantitative Developer
+## 18. [MAYBE] PepsiCo | Title Control & Reporting Analyst
+- Link: https://uscareers-pepsico.icims.com/jobs/484470/control-%26-reporting-analyst/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~54 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 28 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, credit, portfolio, reporting | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Control & Reporting Analyst in Purchase, New York | Careers at NY-Purchase-700-HDQ-NY211 Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log back in! Control & Reporting Analyst Job Locations US-NY-Purchase ID 2026-484470 Category Finance Position Type Salaried Relocation No Overview At PepsiCo, you’ll discover a place where our mission is to create smiles around the world. With a portfolio of more than 500 beloved brands including, Gatorade, Lay’s and Quaker, our work touches millions of people every day. At the heart of the company is a team of thinkers, creators, and problem-solvers who collaborate to innovate and turn ideas into action. Driven by innovation and a focus on creating joyful moments through food and drinks, our decisions are guided by consumer centricity, creating opportunities for our associates to do meaningful work and make a lasting impact in the communities we serve. Whatever your role, you’ll be part of a global community that values your ideas and empowers you to make an impact, on your career and on the world around you. In this role, you will manage certain aspects of the PepsiCo Corporate Control compliance process including related party searches and reporting, KPMG and other Big 4 fee monitoring and reporting, as well as coordinating the process of annual impairment testing globally. Responsibilities Own the related party search process, coordinating requests from Legal, evaluating submissions from segment Control teams, and consolidating results for reporting Own KPMG fee monitoring and reporting, including tracking fees and preparing and distributing fee allocations to the segments Serve as process owner for the SharePoint-based approval of Big 4 and control/finance-related fees, guiding teams through submission and managing routing through each approval stage Prepare and analyze other Big 4 fee reporting presented to the Audit Committee Compile violation information, validate it against management representation letters, and communicate results to corporate contacts Coordinate the annual impairment testing process by rolling forward prior-year materials (e.g., instructions, calendars, decks), monitoring deliverables, scheduling meetings with stakeholders throughout the process, maintaining input trackers, and preparing materials for management and Audit Committee Consolidate and summarize KPMG survey results and PCAOB inspection filings Lead peer disclosure benchmarking on assigned annual topics Review Capital Appropriation Requests for complete and accurate accounting, as needed Assist in preparation of Form 10-K, Forms 10-Q and the Proxy for filing with the SEC, including preparation of disclosure checklist, for assigned responsibilities Maintain and apply related internal controls Identify opportunities for and lead automation initiatives across assigned responsibilities Compensation and Benefits: The expected compensation range for this position is between $80,700 - $135,100. Location, confirmed job-related skills, experience, and education will be considered in setting actual starting salary. Your recruiter can share more about the specific salary range during the hiring process. Bonus based on performance and eligibility target payout is 5% of annual salary paid out annually. Paid time off subject to eligibility, including paid parental leave, vacation, sick, and bereavement. In addition to salary, PepsiCo offers a comprehensive benefits package to support our employees and their families, subject to elections and eligibility: Medical, Dental, Vision, Disability, Health, and Dependent Care Reimbursement Accounts, Employee Assistance Program (EAP), Insurance (Accident, Group Legal, Life), Defined Contribution Retirement Plan. Qualifications Minimum Qualifications: Bachelor’s degree in accounting or related field 2+ years of accounting experience CPA license or at least 2 parts passed This position is limited to persons with indefinite right to work in the United States Preferred Qualifications: Public accounting experience with Big 4 firm strongly preferred Energized and comfortable with automating processes and building improvements/efficiencies Experience with technical accounting guidance Transformational mindset, challenging the status quo and push for streamlining and new ways of working Excellent written and verbal communication skills Tech savvy, proficient in MS Office applications (e.g. MS power point, Sharepoint, Outlook, Teams, Co-pilot) Ability to handle multiple priorities > Our Company will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the Fair Credit Reporting Act, and all other applicable laws, including but not limited to, San Francisco Police Code Sections 4901-4919, commonly referred to as the San Francisco Fair Chance Ordinance; and Chapter XVII, Article 9 of the Los Angeles Municipal Code, commonly referred to as the Fair Chance Initiative for Hiring Ordinance. All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status. PepsiCo
+
+---
+
+## 19. [MAYBE] Teza Technologies | Quantitative Developer
 - Link: https://jobs.ashbyhq.com/teza-technologies/508534c6-ec5e-4b50-9d84-84d812102853
 - Location: Austin United States Yerevan
 - Posted: Nov 24 12:33 ET
@@ -404,7 +460,7 @@ Benefits
 
 ---
 
-## 17. [MAYBE] Cedars-Sinai Medical Center | Research Associate I - Levy Lab - Digital Pathology
+## 20. [MAYBE] Cedars-Sinai Medical Center | Research Associate I - Levy Lab - Digital Pathology
 - Link: https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22170
 - Location: Los Angeles, CA, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -419,7 +475,7 @@ Principal Investigator, Dr. Joshua Levy, is looking for a Research Associate I t
 
 ---
 
-## 18. [MAYBE] West Bend Insurance | Title Financial Data Analyst
+## 21. [MAYBE] West Bend Insurance | Title Financial Data Analyst
 - Link: https://careers-thesilverlining.icims.com/jobs/4636/financial-data-analyst/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -434,7 +490,7 @@ Financial Data Analyst in West Bend, Wisconsin | Careers at West Bend, WI Please
 
 ---
 
-## 19. [MAYBE] Voya Financial | IM Entry Level Analyst Program - Equity Research Associate
+## 22. [MAYBE] Voya Financial | IM Entry Level Analyst Program - Equity Research Associate
 - Link: https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/IM-Entry-Level-Analyst-Program---Equity-Research-Associate_JR0033435
 - Location: New York, NY ; New York, NY (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -449,7 +505,7 @@ Together we fight for everyone’s opportunity for a better financial future. We
 
 ---
 
-## 20. [MAYBE] Société Générale de Surveillance (SGS) | Research Analyst (Large Molecule)
+## 23. [MAYBE] Société Générale de Surveillance (SGS) | Research Analyst (Large Molecule)
 - Link: https://jobs.smartrecruiters.com/SGS/744000163481141
 - Location: Hoffman Estates IL us
 - Posted: Nov 24 10:14 ET
@@ -464,7 +520,7 @@ Ready to make an impact in the lab? Here's what you'll be doing: Conduct engagin
 
 ---
 
-## 21. [MAYBE] Washington University in St. Louis | Statistical Data Analyst MS (Part-Time) -  Biostatistics
+## 24. [MAYBE] Washington University in St. Louis | Statistical Data Analyst MS (Part-Time) -  Biostatistics
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Statistical-Data-Analyst-MS--Part-Time-----Biostatistics_JR98228
 - Location: Washington University Medical Campus ; Washington University Medical Campus (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -479,7 +535,7 @@ Location ST. LOUIS, MO 63110&#xa;&#xa; Scheduled Hours 20 Position Summary Perfo
 
 ---
 
-## 22. [MAYBE] Wash U | Statistical Data Analyst MS (Part-Time) -  Biostatistics
+## 25. [MAYBE] Wash U | Statistical Data Analyst MS (Part-Time) -  Biostatistics
 - Link: https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Statistical-Data-Analyst-MS--Part-Time-----Biostatistics_JR98228
 - Location: Washington University Medical Campus ; Washington University Medical Campus (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -494,7 +550,7 @@ Location ST. LOUIS, MO 63110&#xa;&#xa; Scheduled Hours 20 Position Summary Perfo
 
 ---
 
-## 23. [MAYBE] Société Générale de Surveillance (SGS) | Research Analyst (Large Molecule)
+## 26. [MAYBE] Société Générale de Surveillance (SGS) | Research Analyst (Large Molecule)
 - Link: https://jobs.smartrecruiters.com/SGS/744000163518579
 - Location: Hoffman Estates IL us
 - Posted: Nov 24 12:26 ET
@@ -509,7 +565,37 @@ Ready to make an impact in the lab? Here's what you'll be doing: Conduct engagin
 
 ---
 
-## 24. [MAYBE] Ryan | Full Stack AI Engineer - May 2027 Grads
+## 27. [MAYBE] KLA Corporation | Research Scientist - Computational Electromagnetics
+- Link: https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist---Computational-Electromagnetics_2641485-1
+- Location: Ann Arbor, MI ; Ann Arbor, MI (United States of America)
+- Posted: Nov 24 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 10 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, machine learning, statistic, deep learning, git, portfolio, research | Lacks: c++, matlab
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+To make electronics, you need chips, wafers, transistors, reticles, and... To make these, you must see, test and manufacture them at scale—faster and better than ever before. That's where KLA comes in. Whether you're early in your career or an experienced professional, you'll solve complex challenges, work alongside brilliant minds and help shape the future of technology. Group/Division The Semiconductor Products and Customers (Semi PC) business unit designs, builds and sells KLA’s product portfolio to help chip manufacturers meet high-quality standards for technologies like AI, data centers, automotive and electronic devices. Our inspection, metrology, and analytics systems detect and monitor defects across logic and memory chips, specialty semiconductors, wafers, reticles, advanced packaging, process equipment and materials. We also develop technologies for specialty processes, IC substrates, and PCB manufacturing, including etch and deposition, component inspection, and imaging and analytics. The Film and Scatterometry Technology (FaST) division delivers industry-leading metrology solutions essential to advanced semiconductor manufacturing. Its portfolio includes systems for measuring film thickness, critical dimensions, composition, and resistivity—key to developing and scaling next-gen IC processes. FaST partners closely with customers from early R&D through high-volume production, ensuring performance and process alignment. What You'll Do In this role, you will play a key part in advancing business priorities by delivering high-impact work across your area of expertise. Company Overview Calling the adventurers ready to join a company that's pushing the limits of nanotechnology to keep the digital revolution rolling. At KLA, we're making technology advancements that are bigger—and tinier—than the world has ever seen. Who are we? We research, develop, and manufacture the world's most advanced inspection and measurement equipment for the semiconductor and nanoelectronics industries. We enable the digital age by pushing the boundaries of technology, creating tools capable of finding defects smaller than a wavelength of visible light. We create smarter processes so that technology leaders can manufacture high-performance chips—the kind in that phone in your pocket, the tablet on your desk and nearly every electronic device you own—faster and better. We're passionate about creating solutions that drive progress and help people do what wouldn't be possible without us. The future is calling. Will you answer? Group/Division KLA has always had a close relationship with physics and data. Our optical and electron beam inspection and measurement tools use cutting edge physics models, both for hardware design and as part of their algorithms. AI, including several traditional machine learning techniques and deep learning are routinely used to process this data to meet application requirements. The AI & Modeling Center of Excellence, centered in KLA’s R&D facility in Ann Arbor, MI, was setup with the mission of advancing KLA’s traditional strengths in physics and data and providing implementation solutions for multiple KLA Inspection and Metrology products targeted at the semiconductor manufacturing industry. As a part of this group, you will be part of a world class team of physicists, HPC system designers, machine learning and application engineers who build cutting edge solutions for modeling complex imaging techniques and semiconductor processes. You will also work with a data scientists and AI infrastructure engineers whose mission is to build and scale machine learning based solutions for our semiconductor customers. We are looking for engineers in a few different fields. If you are passionate about Physics Modeling, High Performance Computing - HPC (including GPU), ML, Data, or Cloud technologies – this is the place for you! Responsibilities Research and innovate next-generation electromagnetic solvers and algorithms for semiconductor logic/memory device metrology Develop numerical models and algorithms using Matlab Understand when the models and algorithms break down and develop testing procedures to validate assumptions in the models Work with Advanced Development and Applications teams to confirm the feasibility of the new algorithms Productize the new algorithms in C++/CUDA and integrate it into a C#-based software solution Document the theory and implementation of the new algorithms, and give presentations both internally and externally regarding the work Provide technical support during alpha and beta testing Maintain new and existing algorithms and software solutions throughout the life-cycle of our tools Qualifications Doctorate (Academic) in the physical sciences or engineering with at least 2 years of experience Strong background in numerical simulations, especially in computational electromagnetics Strong background in applied mathematics, especially in inverse problems, optimization algorithms, computational geometry, linear algebra, partial differential equations, and statistics Strong background in computer programming, especially in performance profiling, memory optimization, and parallel computing Proficient in machine learning algorithms, especially in the theoretical background of different ML models Proficient in C++, especially in writing production-quality, object-oriented code Experience in CUDA is a plus Experience in semiconductors (electrical properties, manufacturing, and metrology) is a plus Ability and willingness to travel worldwide to support projects at customer sites is a plus KLA
+
+---
+
+## 28. [MAYBE] Procore Technologies | Forward Deployed AI Engineer
+- Link: https://procore.wd12.myworkdayjobs.com/Procore_External_Careers/job/US---Texas---Austin/Forward-Deployed-AI-Engineer_R0019158-1
+- Location: US - Texas - Austin ; US - Texas - Austin (United States of America)
+- Posted: Nov 24 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 5 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, llm, machine learning, python, ai agent, risk | Lacks: c++, java
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Procore Technologies is the leading technology partner for every stage of construction. We empower construction teams to drive efficiency and mitigate risk through actionable AI & data-driven insights. For over 20 years, we have been transforming the industry with purpose-built solutions for construction professionals and we’re looking for talented people to help us build together. We are looking for a Forward Deployed AI Engineer to join our rapidly scaling Procore AI division's AI Solutions Team . As the Forward Deployed AI Engineer on our AI Solutions Team, you will work directly with enterprise clients and collaborative, mission-driven colleagues to bring AI Agents to life in their organizations—implementing, optimizing, and deploying intelligent systems that solve real-world problems at scale. Your strengths in end-to-end LLM workflow architecture, hands-on problem solving, and empathetic customer collaboration will drive your success. You will report to the Manager, Forward Deployed Engineering and will be based in our Austin, TX office with up to 50% or more onsite client travel. We’re looking for someone to join us immediately. What You’ll Do Work in small teams or solo to own end-to-end technical delivery of high-stakes projects with enterprise clients, taking workflows from initial concept to full production and ensuring successful adoption. Architect, build, and optimize LLM-powered agentic workflows at a large scale. Interact directly with customers to understand their operational needs, set their AI strategy, and deliver tangible results. Spend meaningful time onsite with customers—often up to 50% or more, as needed—embedding side-by-side with their teams to build trust, accelerate impact, and shape solutions that truly matter. What You Bring Past experience building solutions with LLMs and a deep understanding of the overall GenAI landscape. Strong foundation in Machine Learning basics, including evaluation, training, and problem decomposition. Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar. Strong engineering background; preferred fields include, but are not limited to, Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning (or equivalent practical experience). Strong and empathetic communication skills, with the ability to translate complex technology into clear value for real-world users and stakeholders. Willingness and enthusiasm to travel up to 50% or more, operating effectively in diverse customer environments and integrating seamlessly with customer teams. Strong-fit Background Might Include Forward Deployed Engineer, AI Solutions Architect, or Applied AI Engineer experienced in shipping production LLM agents Software Engineer or Machine Learning Engineer with a track record of taking end-to-end AI workflows into production Technical Consultant or Solutions Engineer who has worked directly onsite with enterprise clients to build and deploy custom solutions Engineer experienced in solving complex, real-world operational problems with unstructured enterprise data Discover our recruiting process and interview tips from our talent acquisition team on our #LifeAtProcore blog. Additional Information Base Pay Range: 113,040.00 - 155,430.00 USD Annual This role may also be eligible for Equity Compensation and/or Bonus Incentive Compensation. Procore is committed to offering competitive, fair, and commensurate compensation. Actual compensation will be based on a candidate’s job-related skills, experience, education or training, and location. For Los Angeles County (unincorporated) Candidates: Procore will consider for employment all qualified applicants, including those with arrest or conviction records, in accordance with the requirements of applicable federal, state, and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act. A criminal history may have a direct, adverse, and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment: 1. appropriately managing, accessing, and handling confidential information including proprietary and trade secret information, as well as accessing Procore's information technology systems and platforms; 2. interacting with and occasionally having unsupervised contact with internal/external customers, stakeholders, and/or colleagues; and 3. exercising sound judgment.
+
+---
+
+## 29. [MAYBE] Ryan | Full Stack AI Engineer - May 2027 Grads
 - Link: https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Full-Stack-AI-Engineer_R0019979-1
 - Location: 4 Locations ; Plano ; Washington ; Houston ; Atlanta (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -524,7 +610,7 @@ Why Ryan? Flexibility Built for Life: Hybrid and remote work options, depending 
 
 ---
 
-## 25. [MAYBE] State Street | North America Portfolio Analyst, Officer
+## 30. [MAYBE] State Street | North America Portfolio Analyst, Officer
 - Link: https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/North-America-Portfolio-Analyst--Officer_R-799261
 - Location: Boston, Massachusetts ; Boston, Massachusetts (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -539,7 +625,7 @@ Who We Are Looking For We are seeking a highly motivated, client-focused profess
 
 ---
 
-## 26. [MAYBE] GE Aerospace | Data Engineer
+## 31. [MAYBE] GE Aerospace | Data Engineer
 - Link: https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Gebze/Data-Engineer_R5043467-1
 - Location: 2 Locations ; Gebze ; Austin (Türkiye)
 - Posted: Nov 23 (board gives the date only)
@@ -554,7 +640,7 @@ Job Description Summary Responsible for developing data engineering jobs and wor
 
 ---
 
-## 27. [MAYBE] Texas Capital Bank | Product Marketing Analyst - Banking Solutions
+## 32. [MAYBE] Texas Capital Bank | Product Marketing Analyst - Banking Solutions
 - Link: https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Dallas-TX/Product-Marketing-Analyst---Banking-Solutions_JR106441
 - Location: Dallas, TX ; Dallas, TX (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -569,7 +655,7 @@ Texas Capital is the premier full-service financial services firm founded and he
 
 ---
 
-## 28. [MAYBE] Google | Research Scientist, Google Cloud AI Research
+## 33. [MAYBE] Google | Research Scientist, Google Cloud AI Research
 - Link: https://www.google.com/about/careers/applications/jobs/results/103214985785549510
 - Location: Mountain View, CA, USA
 - Posted: Nov 24 12:09 ET
@@ -584,7 +670,22 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 29. [MAYBE] AbbVie | Associate Data Scientist II – Early Discovery Science
+## 34. [MAYBE] Mizuho Securities USA | Equity Research Associate
+- Link: https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/Equity-Research-Associate_R7584
+- Location: New York, NY (1271 AOA/6th Ave) ; New York, NY (1271 AOA/6th Ave) (United States of America)
+- Posted: Nov 24 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 19 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, derivatives, fx, research, trading | Lacks: cfa
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Equity Research Associate – Midstream Team A leading and growing global investment and corporate bank is seeking an equity research Associate who will work with an established and experienced senior Midstream team. Key Responsibilities Writing research reports, including company initiations, industry thought pieces, and earnings recaps Building dynamic industry models consisting of integrated Income Statement/Balance Sheet/Cash Flow Statements Sourcing alternative data sets and simplifying and summarizing relevant industry and company information for inclusion in research reports Conducting proprietary research evaluating the competitive landscape, and analyzing industry/company news Creating and maintaining relationships with industry contacts Helping senior team members prepare for marketing events and conferences Key Qualifications Highly motivated and hard-working individual who is a team player, and has a thirst for knowledge, an ability to work in a fast-paced environment, and is detail-oriented Ideal candidate will have 1-3 years of prior equity research experience; otherwise, prior experience in banking. Series 7, 63, 86 and 87 licenses, and/or CFA level 1 Strong analytical and financial modeling skills; prior experience building models and DCF-based valuation methodology Effective oral communication, organizational and time management skills Ability to write clearly and concisely, and ability to function independently while maintaining a collegial and collaborative approach to working with other team members Compensation is competitive and commensurate with experience and capabilities The expected base salary ranges from $110,000- $125,000. Salary offers are based on a wide range of factors including relevant skills, training, experience, education, and, where applicable, certifications and licenses obtained. Market and organizational factors are also considered. In addition to salary and a generous employee benefits package, successful candidates are eligible to receive a discretionary bonus. #LI-Onsite Other requirements Mizuho has in place a hybrid working program, with varying opportunities for remote work depending on the nature of the role, needs of your department, as well as local laws and regulatory obligations. Roles in some of our departments have greater in-office requirements that will be communicated to you as part of the recruitment process . Company Overview Mizuho Financial Group, Inc. is the 15th largest bank in the world as measured by total assets of ~$2 trillion. Mizuho's 60,000 employees worldwide offer comprehensive financial services to clients in 35 countries and 800 offices throughout the Americas, EMEA and Asia. Mizuho Americas is a leading provider of corporate and investment banking services to clients in the US, Canada, and Latin America. Through its acquisition of Greenhill​, Mizuho provides M&A, restructuring and private capital advisory capabilities across Americas, Europe and Asia. Mizuho Americas employs approximately 3,500 professionals, and its capabilities span corporate and investment banking, capital markets, equity and fixed income sales & trading, derivatives, FX, custody and research. Visit www.mizuhoamericas.com .​​ Mizuho Americas offers a competitive total rewards package.
+
+---
+
+## 35. [MAYBE] AbbVie | Associate Data Scientist II – Early Discovery Science
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990017066596
 - Location: North Chicago IL us
 - Posted: Nov 24 12:35 ET
@@ -599,7 +700,22 @@ The Global Research, Informatics & Platform Solutions team within the Informatio
 
 ---
 
-## 30. [MAYBE] Nordstrom | Senior Business Analyst - Fraud & Abuse Analytics - Remote
+## 36. [MAYBE] Wex | Sr Fraud Data Scientist
+- Link: https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Sr-Credit-Data-Scientist_R23148
+- Location: US - Remote ; US - Remote (United States of America)
+- Posted: Nov 24 (board gives the date only)
+- Scanner fit: ~70 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 3 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, machine learning, pandas, python, r, scikit, sql, statistic, credit, fraud, quantitative, research, risk | Lacks: scala  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The Global Risk Solutions and Strategy group is a fast-growing team optimizing risk solutions and models, and we are a key function to help enable WEX’s strategic objectives. The Risk Solutions Team employs data science methodologies (machine learning and statistical frameworks), a wide suite of data types, and modern technologies to develop solutions to inform decision making. Our team helps the firm identify and measure credit and fraud risk to proactively manage the risk throughout the client’s life-cycle. As such, you will not only be working with the latest data and machine learning technologies and algorithms, you will be working in a dynamic environment alongside our stakeholders and domain experts to build models and drive better decision-making. About the Team/Role Partner with stakeholders to understand fraud risk management requirements and translate them into data-driven solutions to measure and monitor fraud risk across the firm’s products and services. Proactively identify and communicate challenges, opportunities, and risks associated with end-to-end model development and deployment life-cycle to ensure timely completion of the entire product. Leverage advanced machine learning, artificial intelligence, and statistical methods and technologies to design flexible, scalable, and automated risk modeling solutions. Develop and review code and automated processes to extract fraud risk patterns from large scale application and transaction data, behavioral patterns, and other risk indicators. Keep abreast with emerging trends in machine learning and identify opportunities to leverage new tools to solve problems and improve processes. Mentor and support junior data scientists, sharing knowledge and best practices to elevate the data science practice at WEX. How you'll make an impact Insights Driven: Clear hypothesis and objective driven analytics that help drive our business decisions and ongoing metrics Stakeholder Aligned: Understand the needs and audience for deliverables with a succinct and tailored message to maximize impact Results Focused: Rigorous focus on how analytics drive the end to end experiences with clear path to production and measurable impact Dynamic Collaboration: Drive continual improvement of our team best practices and processes to power collaboration Quality Mindset: Trust in our findings is critical so data and analytic quality is understood and accounted for from the beginning Curiosity and Learnin g: Learn new technologies and collaborate and teach others how to use them as necessary. Experience You’ll Bring: 4 or more years of professional experience in data science, machine learning, and artificial intelligence, with a focus on fraud risk management in underwriting, behavioral surveillance, and loss prevention in the financial services industry. Master’s or Ph.D. degree in a quantitative field such as Mathematics, Statistics, Data Science, Operations Research, Computer Science. Strong knowledge of fraud risk-drivers in small and medium sized businesses, public firms, and private firms, including data typically used in fraud risk management from external credit bureaus and internal risk management processes Advanced knowledge of SQL and experience creating and managing large datasets to organize and extract useful information Advanced knowledge of Python or R and experience with common data science libraries such as lightgbm, scikit-learn, pandas, etc.. Deep understanding of model deployment requirements for scalable solutions and real-time feature stores Deep expertise in statistical and machine learning techniques, including modeling, testing and inference, sampling methods, supervised and unsupervised learning. Strong communication and presentation skills with an ability to relate complex analytics findings to business outcomes Adaptable and comfortable working collaboratively and independently in a self-starting manner Evidence of creative problem solving, critical thinking and a continual learning mindset in credit risk management. How you will stand out: Prior experience mentoring experience of data scientists Prior roles responsible for building underwriting and behavioral models. Knowledge of external intelligence sources, including third-party data providers e.g. LexisNexis, Socure, Dun and Bradstreet Experience using cloud environments to develop advanced models, such as AWS Sagemaker Experience with end–to-end machine learning systems and MLOps framework AI Tool Experience Preferred -- Gemini, ChatGPT, Similar The base pay range represents the anticipated low and high end of the pay range for this position. Actual pay rates will vary and will be based on various factors, such as your qualifications, skills, competencies, and proficiency for the role. Base pay is one component of WEX's total compensation package. Most sales positions are eligible for commission under the terms of an applicable plan. Non-sales roles are typically eligible for a quarterly or annual bonus based on their role and applicable plan. WEX's comprehensive and market competitive benefits are designed to support your personal and professional well-being. Benefits include health, dental and vision insurances, retirement savings plan, paid time off, health savings account, flexible spending accounts, life insurance, disability insurance, tuition reimbursement, and more. For more information, check out the "About Us" section. Pay Range: $140,000.00 - $165,400.00
+
+---
+
+## 37. [MAYBE] Nordstrom | Senior Business Analyst - Fraud & Abuse Analytics - Remote
 - Link: https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/United-States/Senior-Business-Analyst---Fraud---Abuse-Analytics---Remote_R-900130-1
 - Location: United States ; United States (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -614,7 +730,22 @@ Job Description The Senior Business Analyst on the Fraud Analytics team owns bus
 
 ---
 
-## 31. [MAYBE] Genentech | Senior Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery
+## 38. [MAYBE] Duolingo | Senior Data Scientist
+- Link: https://careers.duolingo.com/jobs/8960882002?gh_jid=8960882002
+- Location: New York, NY; Pittsburgh, PA
+- Posted: Nov 24 13:47 ET
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 7 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: forecast, python, sql, statistic, fraud, portfolio, quantitative, reporting | Lacks: -  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in! At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun. Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&nbsp; Read our blog to learn more. About the role... Duolingo has over 500 million users and is rapidly expanding across new subjects and markets, meaning our growth trajectory is central to our business success. We're hiring a Senior Data Scientist to execute and improve our foundational monetization (revenue) forecast, used for planning, goal setting, and business strategy. This person will be part of our Monetization Data Science team, collaborating with peers and cross-functional partners in Finance, Product, and Strategy to continuously improve our forecasting capabilities. They will drive methodological advances and deliver trustworthy business-critical quarterly forecasts in close partnership with the Finance team. Built on a deep understanding of the dynamics of revenue generation across Duolingo’s product portfolio, the forecast will set the pace for monetization innovation and inform business operation and strategy. &nbsp; 🧠&nbsp; You will... Co-own forecast development and presentation with Finance team peers. Recommend, develop and validate methodological advances to our forecasts, aligning methodological strengths with business priorities. Collaborate with fellow data scientists to compare forecasts against actuals throughout the quarter. Analyze performance to understand key drivers of deviations, and clearly communicate findings and recommended next steps to cross-functional partners to keep revenue on track.&nbsp; Work with diverse stakeholders to develop forecasts that reflect a deep understanding of our product development, big bets, and evolving business strategy. Translate complex analytical findings into clear narratives for senior leadership and cross-functional partners. Influence strategic decisions through a combination of technical depth and effective communication. Build systems and processes that ensure our forecasting process is robust, repeatable, and easily understandable across the company. ✅&nbsp; You have... Applied industry experience building forecasts in messy real world settings where details, confounds, and the validity of assumptions matter. A graduate degree in Data Science, Statistics, Economics, or a related quantitative field, or equivalent demonstrated expertise in formal analytical techniques. Demonstrated ability to connect technical results to real-world recommendations, and to translate product and business changes into technical requirements. Strong command of SQL, Python, AI analysis tools, and data/analytics engineering ecosystems.&nbsp; Exceptional communication skills, both written and verbal, with the ability to distill complex quantitative work into crisp, actionable insights for diverse audiences. ⭐&nbsp; Exceptional candidates will have... Experience operating in a financial analytics role at a high-growth consumer technology, finance/banking, or consulting company, including experience with revenue forecasting specifically. Experience at a public company, including the analytical demands that come with investor-grade reporting and forecasting. An impressive Duolingo streak. The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role! Salary Range: $182,800 &mdash; $247,300 USD Benefits: Take a peek at how we care for our employees' holistic well-being with our benefits here . Job Alerts: Sign up for job alerts here . Accommodations: We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact accommodations@duolingo.com . Equal Employment Opportunity: Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. Fraud Warning: Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in @duolingo.com or @recruiting.duolingo.com. Stay alert and double-check these details before sharing any information. By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice .
+
+---
+
+## 39. [MAYBE] Genentech | Senior Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery
 - Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist--Scientific-Reasoning-Models--AI-for-Drug-Discovery_202602-103501
 - Location: 2 Locations ; South San Francisco ; New York City (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -629,7 +760,7 @@ A healthier future. It’s what drives us to innovate. To continuously advance s
 
 ---
 
-## 32. [MAYBE] JP Morgan Chase | Wholesale Credit Quantitative Research - Senior Associate
+## 40. [MAYBE] JP Morgan Chase | Wholesale Credit Quantitative Research - Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811377
 - Location: Jersey City, NJ, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -644,7 +775,7 @@ Bring your Expertise to JPMorganChase. As part of Risk Management and Compliance
 
 ---
 
-## 33. [MAYBE] McKesson | Sr. Freight Pricing Analyst
+## 41. [MAYBE] McKesson | Sr. Freight Pricing Analyst
 - Link: https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Sr-Freight-Pricing-Analyst_JR0156382
 - Location: USA, VA, Richmond ; USA, VA, Richmond (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -659,7 +790,7 @@ McKesson is an impact-driven, Fortune 10 company that touches virtually every as
 
 ---
 
-## 34. [MAYBE] Emory University | Job Title Data Analyst, Senior- Winship Cancer Institute
+## 42. [MAYBE] Emory University | Job Title Data Analyst, Senior- Winship Cancer Institute
 - Link: https://staff-emory.icims.com/jobs/210486/data-analyst%2c-senior--winship-cancer-institute/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -674,7 +805,22 @@ Emory Careers | Data Analyst, Senior- Winship Cancer Institute in Atlanta, Georg
 
 ---
 
-## 35. [MAYBE] CareSource | Health Plan Data Analyst II (need Health Plan/MCO and SQL)
+## 43. [MAYBE] The Trade Desk | Applied Scientist II, Performance Algorithms 
+- Link: https://job-boards.greenhouse.io/thetradedesk/jobs/5306682007
+- Location: New York
+- Posted: Nov 24 14:04 ET
+- Scanner fit: ~60 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 18 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, machine learning, python, spark, sql, statistic, deep learning, git, healthcare, kpi, quantitative, research | Lacks: databricks, scala  | Note: title says Senior/II: asks 2 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The Trade Desk is a global technology company and the world’s leading independent platform for digital advertising, with over 3,000 employees across more than 30 offices. Our technology helps advertisers reach the right audiences across the open internet — from streaming TV and podcasts to mobile apps, news, and more.&nbsp; Advertising powers the content people love. By making it more transparent, effective, and responsible, we help support trusted journalism, quality entertainment, and creators worldwide. The world’s brands and agencies rely on us to reach their customers and grow their businesses responsibly. The scale of our platform brings unique technical challenges — from processing massive datasets in real time to building systems that operate reliably on a global scale. When you work here, your impact is worldwide. We welcome diverse perspectives, encourage curiosity, and build teams that learn from one another. If you’re driven to solve meaningful challenges, we’d love to meet you. The Trade Desk is a global technology company with a mission to create a better, more open internet for everyone through principled, intelligent advertising. Handling over&nbsp;1 trillion&nbsp;queries per day, our platform operates at an unprecedented scale. We have also built something even stronger and more valuable: an award-winning culture based on trust, ownership, empathy, and collaboration. We value the unique experiences and perspectives that each person brings to The Trade Desk, and we are committed to fostering inclusive spaces where everyone can bring their authentic selves to work every day. &nbsp; Do you have a passion for solving hard problems at scale? Are you eager to join a dynamic, globally-connected team where your contributions will make a meaningful difference in building a better media ecosystem? Come and see why Fortune magazine consistently ranks The Trade Desk among the best small-medium-sized workplaces globally. ABOUT THE ROLE Our team is responsible for developing algorithms that run in our real time bidding platform with the ultimate goal of helping thousands of customers run effective advertising campaigns. Many of our problems involve getting deep learning algorithms to train and inference at scale. Some of the challenges include sparse and/or noisy labels and data, large output space (thousands of labels), millisecond latency requirements, high QPS requirements (thousands or millions per second), and unreliable ground truth. &nbsp; Applied Scientists on our team work closely with engineering throughout the lifecycle of the product, from ideation to productionalization and monitoring. &nbsp; Our Applied Scientists are end-to-end owners. You will participate actively in all aspects of&nbsp;designing, researching, building, and delivering data-focused products for our clients. &nbsp; We are a team built on a foundation of generosity and openness, and we expect our data scientists to help make others better and raise the bar for those around them. As a Data Scientist, you will contribute meaningfully through leading others. &nbsp; WHO WE ARE LOOKING FOR You have a sustained track record of making significant,self-directed, and end-to-end contributions to complex, multi-layered, impactful&nbsp;machine learning&nbsp; You think beyond just the task at hand to deeply understand the 'why' behind what you are doing and anticipate problems that may be several degrees removed from obvious requirements. You make your team better by proactively advocating for and driving improvements not just to what the team produces, but also the ways in which the team works. You have a strong sense of data intuition. At our scale, many off-the-shelf modeling techniques (open source and enterprise) simply don't work. You are able to work from first principles to develop solutions and adapt them to a unique environment. You are a broadly skilled data scientist with deep expertise working with embedded models in always-onproduction systems&nbsp;and working across a variety of technologies and data sources. You have a product-focused mindset. You have the passion and ability to contribute to the process of discovering what will delight our clients and push forward one of the world’s largest and most influential industries toward a vision of openness, transparency, and evidence-based decision-making. You work with confidence and without ego. Our data scientists have deep knowledge and exercise a high degree of leadership in their daily work. You have strongly-held, defensible ideas, and advocate for what you believe is right. You are also adept at identifying andevaluating&nbsp;trade-offs, willing to be proven wrong, and quick to support your fellow teammates. You value, seek out, and foster diversity. We are a global team from many diverse backgrounds, with different experiences and perspectives. To complement this team, you will welcome ideas that are different from your own and be skilled at finding and building from common ground. You are a creative thinker, not bound by "the way things have always been done." What you know is less important than how well you learn and innovate. We don't need data scientists who know all the answers; we need data scientists who can invent the answers no one has thought of yet, to the questions yet to be asked. You have an abundance of intellectual curiosity and are enthusiastic to learn (and teach) new technologies / techniques. You are you comfortable working on an agile, distributed team spanning multiple time zones and continents. You are able to communicate effectively across both technical and non-technical audiences. WHAT YOU BRING TO THE TABLE We do not expect you to know every technology we use when you start at TTD. What we care most about is that you can learn quickly and solve complex problems using the best tools for the job. However, we find that the most successful candidates typically come in with something like the following experience: BS/MS in Mathematics, Computer Science, Statistics, or a related quantitative field with 3+ years of full-time industry experience, or a PhD with 2+ years of full-time industry experience, in a role that involves bringing products from ideation to production. Experience in deep learning, Pytoch preferred. Experience running heavy workloads on a distributed computing cluster (especially EMR or Databricks), leveraging technologies like Spark to work with large datasets is preferred&nbsp; Proficient in Python, Scala, and SQL; hands-on experience with Spark, EMR and Ray. Proficient in software engineering concepts like containerization and version control is preferred.&nbsp; Experience with ads, recommendation systems or KPI optimization modeling is a plus; large-scale advertising platforms and lift modeling (conversion lift, brand lift) experience strongly preferred. &nbsp; In accordance with various US state laws, the range provided is the Trade Desk's reasonable estimate of the base compensation fo [...]
+
+---
+
+## 44. [MAYBE] CareSource | Health Plan Data Analyst II (need Health Plan/MCO and SQL)
 - Link: https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Health-Plan-Data-Analyst-II--need-Health-Plan-MCO-and-SQL-_R13941
 - Location: Remote ; Remote (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -689,7 +835,22 @@ Job Summary: The Health Plan Data Analyst II is responsible for extracting, anal
 
 ---
 
-## 36. [MAYBE] Humana | Senior Analytics Consultant
+## 45. [MAYBE] Oregon Health & Science University | Requisition Title Senior Research Assistant
+- Link: https://externalcareers-ohsu.icims.com/jobs/44328/senior-research-assistant/job
+- Location: see posting
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~57 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time (40 h/week stated)
+- Title scope: core | Has: excel, statistic, healthcare, lambda, quantitative, research | Lacks: -  | Note: title says Senior/II: asks 1 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Senior Research Assistant in Portland, Oregon | Careers at Portland, OR (Marquam Hill) Please Enable Cookies to Continue Please enable cookies in your browser to experience all the personalized features of this site, including the ability to apply for a job. Welcome page Returning Candidate? Log back in! Senior Research Assistant Job Locations US-OR-Portland Requisition ID 2026-44328 Position Category Research Position Type Regular Full-Time Job Type Research Department Molecular Microbiology Immunology Salary Range $49,878 - $78,665 per year, with offer based on experience, education and internal equity FTE 1.00 Schedule Monday - Friday, occasional weekend and evening work Hours Variable, 8:00am - 5:00pm HR Mission School of Medicine Drug Testable No Department Overview This senior research assistant position is in the lab of Dr. Nice in the Department of Molecular Microbiology and Immunology at OHSU. The overall goal of research in the Nice Lab is to broadly contribute to the understanding of the immune response in the intestine, with a particular focus on immune mechanisms intrinsic to intestinal epithelial cells (IECs) and the interferon family cytokines. We use intestinal organoid culture systems and mouse models to study how these important immune responses function in context of health and how they go awry in the context of inflammatory bowel diseases. This position is focused on management of lab resources and execution of experiments that support progress of ongoing projects in the lab. A primary responsibility will be management of the Nice lab, including ordering, database management, recordkeeping, and protocol management. Function/Duties of Position Management of the Nice lab, including ordering, database management, recordkeeping, and protocol management We have established a biobank of human intestinal organoids from healthy subjects and patients with inflammatory bowel disease (IBD). This biobank enables us to study the role of epithelial immune responses in the biology of these diseases. This SRA position will assist in maintaining organoid lines as well as conducting experiments to test IBD organoid response to inflammatory stimuli, A longstanding area of research in the lab is the study of an antiviral effector called interferon lambda in the gut epithelium. This SRA position will work together with other lab members to perform experiments in mouse models aimed at determining the role of interferon lambda in enteric antiviral protection and interaction with the bacterial microbiota. Perform independent experiments with organoid cultures. Perform independent experiments using mouse models of intestinal infection or inflammation. Provide technical assistance for other experiments being conducted by lab members. Other duties as assigned. Required Qualifications Bachelor's in relevant field AND1 years of relevant experience; OR Equivalent combination of training and experience. Ability to perform basic molecular biology techniques, including PCR, cloning, nucleic acid purification. Understanding of basic statistics and some of its applications to biomedical science. Ability to prioritize multiple tasks at one time. Excellent communication, analytical and organizational skills, both written and verbal. Must be willing to work with animals and human specimens. Ability to work in a team setting. Preferred Qualifications Master’s degree OR 3 years of relevant experience. 1 year of experience in a biomedical research lab, including independent completion of experimental assays such as nucleic acid extraction and PCR. 3 years of relevant experience, including hands-on experience working with animals and/or organoid cell cultures. Ideal candidate will be proficient in work with cell culture and animal models, but otherwise highly qualified candidates will be considered. Cell culture skills: Growth of complex cell cultures such as 3D organoids, transwell culture systems, co-culture systems. Live or fixed imaging of cell cultures. Collection of protein from cell cultures for western blot or proteomics analyses. Collection of RNA from cells for quantitative PCR or high throughput sequencing analyses. Animal work skills: Comfort and experience with animal handling (mice). Knowledge of basic mouse physiology and dissection methods. Preparation of tissues for histology. Imaging or analysis of tissue sections. Additional Details Work is generally 40 hours per week but may be vary from week to week. Most work is primarily during normal working hours, but evening and weekend work is often necessary to maintain growing cells or perform time-sensitive experiments. Additional safety training is required to work with cell lines in a BSL-2 environment. Working with laboratory animals is central to studies of the Nice Lab and is a requirement of this position. Benefits Healthcare for full-time employees covered 100% and 88% for dependents. $50K of term life insurance provided at no cost to the employee. Two separate above market pension plans to choose from. Paid time off - 208 hours per year, prorated for part-time. Extended illness bank - 64 hours per year, prorated for part-time. 9 paid holidays per year. Substantial Tri-Met and C-Tran discounts. Employee Assistance Program. Childcare service discounts. Tuition reimbursement. Employee discounts to local and major businesses. Why apply to OHSU? We are Oregon's only public academic health center. In addition to caring for patients, we lead groundbreaking research. We also train the next generation of health care professionals. As Portland's largest employer, we give you opportunities to learn and advance in a system of hospitals and clinics across Oregon and Southwest Washington. All are welcome. OHSU welcomes people of all ages, ethnicities, genders, national origins, religions and sexual orientations. We are striving to build an anti-racist, multicultural institution and encourage people with diverse backgrounds to apply. To request
+
+---
+
+## 46. [MAYBE] Humana | Senior Analytics Consultant
 - Link: https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Analytics-Consultant_R-437469
 - Location: 52 Locations ; Remote Nationwide ; Remote Oklahoma ; Remote Ohio ; Remote North Dakota ; Remote North Carolina ; Remote New York ; Remote New Mexico ; Remote New Jersey ; Remote New Hampshire ; Remote Nevada ; Remote Nebraska ; Remote Montana ; Remote Missouri ; Remote Mississippi ; Remote Minnesota ; Remote Michigan ; Remote Massachusetts ; Remote Maryland ; Remote Maine ; Remote Louisiana ; Remote Kentucky ; Remote Kansas ; Remote Iowa ; Remote Indiana ; Remote Illinois ; Remote Idaho ; Remote Hawaii ; Remote Georgia ; Remote Florida ; Remote Delaware ; Remote Connecticut ; Remote Colorado ; Remote California ; Remote Arkansas ; Remote Arizona ; Remote Alaska ; Remote Alabama ; Remote Wyoming ; Remote Wisconsin ; Remote West Virginia ; Remote Washington ; Remote Virginia ; Remote Vermont ; Remote Utah ; Remote Texas ; Remote Tennessee ; Remote South Dakota ; Remote South Carolina ; Remote Rhode Island ; Remote Puerto Rico ; Remote Pennsylvania ; Remote Oregon (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -704,7 +865,7 @@ Become a part of our caring community The Senior Analytics Consultant coordinate
 
 ---
 
-## 37. [MAYBE] Paypal Inc. | Sr Machine Learning Engineer
+## 47. [MAYBE] Paypal Inc. | Sr Machine Learning Engineer
 - Link: https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0139239-1
 - Location: San Jose, California, United States of America ; San Jose, California, United States of America (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -719,7 +880,7 @@ The Company PayPal has been revolutionizing commerce globally for more than 25 y
 
 ---
 
-## 38. [MAYBE] JP Morgan Chase | Gen AI Data Scientist - Wholesale Credit Risk  - Senior Associate
+## 48. [MAYBE] JP Morgan Chase | Gen AI Data Scientist - Wholesale Credit Risk  - Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809509
 - Location: Plano, TX, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -734,7 +895,7 @@ Bring your Expertise to JPMorganChase. As part of Risk Management and Compliance
 
 ---
 
-## 39. [MAYBE] Northwell Health | Senior Business Intelligence Specialist
+## 49. [MAYBE] Northwell Health | Senior Business Intelligence Specialist
 - Link: https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204173
 - Location: Great Neck, Nassau, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -746,4 +907,19 @@ Bring your Expertise to JPMorganChase. As part of Risk Management and Compliance
 ### Job description
 
 Job Description In collaboration with business stakeholders, designs and develops custom Business Intelligence (BI) dashboards, metrics and reports. Provides expertise on data analysis, identification of data sources, and modification of data architecture as necessary. Plans, conducts, and guides the analysis of business intelligence initiatives Job Responsibility Design, develop, and maintain dashboards and reports using Power BI, Tableau, and other enterprise BI tools Partner with business, clinical, and operational stakeholders to translate reporting needs into BI solutions Develop and optimize SQL queries to support analytics and reporting Validate data accuracy and troubleshoot reporting issues Support Epic‑based analytics initiatives as needed Guides the design, development and analysis to produce dashboards, metrics, or insights and identify trends or anomalies. Consults with decision makers to identify data sources, required data elements, or data validation standards. Ensures collaboration with development teams to design business intelligence solutions to facilitate data gathering, storage, and retrieval. Ensures collaboration with end users in the design and development of custom dashboards, metrics, and reports. Guides the analysis and evaluation of end users reporting needs and translates business requirements into detailed technical design and programming specifications. Conducts data analysis in support of resolution of production issues. Coordinates with other IT groups and departments in the resolution of problem calls. Documents all report related activities including user requests, report specification, development, modification, testing and on-going production support. Creates dashboard and reporting solutions to meet user needs and requirements. Ensures development of entire dashboard life cycle including coding, unit testing, bug fixes and report design. Employees operate under limited guidance and work assignments involve moderately complex to complex issues where the analysis of situations or data requires in-depth evaluation of variable factors. Performs related duties as required. All responsibilities noted here are considered essential functions of the job under the Americans with Disabilities Act. Duties not mentioned here, but considered related are not essential functions. Provide consultation on complex projects including tools functionality, visualization and data considerations. Collaborate with users to understand their analytic objectives and requirements to develop requirements and plans for the implementation of reporting and analytic solutions. Job Qualification Bachelor's Degree required, or equivalent combination of education and related experience. 3-5 years of relevant experience, required. Highly Preferred: 3–5 years of Business Intelligence or analytics experience Strong hands‑on experience with BI tools (Power BI and/or Tableau required) Strong SQL skills Epic analytics knowledge required, including Cogito, Clarity, and Caboodle Current Epic Cogito, Clarity, and Caboodle certification or demonstrated competency required Healthcare analytics experience Cloud & Data Platform Experience: Hands-on experience with Google Cloud Platform (GCP) services (e.g., BigQuery, Dataflow, Pub/Sub). *Additional Salary Detail The salary range and/or hourly rate listed is a good faith determination of potential base compensation that may be offered to a successful applicant for this position at the time of this job advertisement and may be modified in the future. When determining a team member's base salary and/or rate, several factors may be considered as applicable (e.g., location, specialty, service line, years of relevant experience, education, credentials, negotiated contracts, budget and internal equity).
+
+---
+
+## 50. [MAYBE] DIRECTV | Sr. Specialist, Advanced Analytics
+- Link: https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Sr-Specialist--Advanced-Analytics_R260351
+- Location: 2 Locations ; El Segundo, CA ; United States - Virtual (United States of America)
+- Posted: Nov 24 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 14 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: a/b test, dashboard, excel, forecast, hypothesis test, pandas, power bi, python, sql, statistic, data quality, git, model validation, quantitative | Lacks: databricks, snowflake  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The Sr. Specialist, Advanced Analytics is an experienced individual contributor. You will draw on diverse data sources and select the analytical approaches best suited to each business question—including descriptive, statistical, predictive, and what-if analyses—to understand customer contacts, evaluate digital performance, and identify opportunities to deliver measurable business value. You will partner with product managers, business stakeholders, and related teams to analyze digital journeys, campaign performance, and customer behavior; taking a creative, proactive approach to uncovering defects and friction points and improvement opportunities. You will build and maintain Power BI dashboards and reports tailored to different audiences and support ad hoc analytics requests. Strong communication skills are essential. You will work with moderate autonomy and periodic review as part of a small team with a broad scope. You may lead smaller initiatives or own components of larger, cross-functional projects. Success requires close attention to detail, disciplined prioritization, and the ability to shift between business areas and analytical tasks while maintaining accuracy and follow-through. You will balance complex analysis with hands-on team support, including request tracking, recurring reporting, and follow-up on open tasks, while collaborating across teams to align priorities and move work forward. Here’s what you’ll do: Advanced Analytics Use SQL, Python, Databricks, Snowflake, and Excel to access, combine, validate, and analyze data from multiple sources, selecting the data and methods best suited to each question. Apply descriptive, statistical, predictive, and what-if analyses to evaluate digital journeys, campaign performance, customer behavior, and contact patterns. Design and evaluate A/B tests, distinguish normal variation from meaningful changes, and assess the business significance of results. Investigate defects and unexpected performance changes, and support rapid issue response with root cause analysis and impact estimates. Document analytical methods, assumptions, data limitations, and validation results to support reliable decisions. Business Partnership and Opportunity Analysis Work directly with product managers to understand business goals, evaluate customer journeys, and translate questions into analytical plans and actionable roadmaps. Define success metrics, establish baselines, forecast expected improvements, and connect project outcomes to business cases and measurable financial benefits. Provide analysis and recommendations that support prioritization, go/no-go decisions, and assessment of results after launch. Reporting, Automation, and Team Support Build, maintain, and enhance Power BI dashboards and recurring reports designed around the needs of product managers, leadership, and executive audiences. Manage ad hoc analytics requests, clarify requirements, coordinate priorities with team leadership, and track work through completion. Automate data preparation, reporting, and recurring workflows, partnering with data engineering and IT as needed. Project Leadership Take assigned analytical projects from scoping through implementation and lead components of larger initiatives. Manage timelines, flag risks early, and keep stakeholders informed of progress. Team Contribution Mentor junior analysts on statistical techniques, coding practices, and model validation. Review teammates' work and share best practices. Contribute to improving team standards, tools, and reusable code. What you’ll need to be successful: Required Bachelor's degree in Statistics, Mathematics, Data Science, Computer Science, Economics, or a related quantitative field. 3 – 5 years of experience in advanced analytics, statistical modeling, or data science, ideally in a customer-centric or subscription-based business. Strong knowledge of statistical methods, including hypothesis testing, A/B testing, forecasting, and distinguishing normal variation from meaningful performance changes. Proficiency in Excel, SQL and Python, including common analytical libraries such as pandas and SciPy, and hands-on experience using Databricks and Snowflake. Hands-on experience building and maintaining Power BI dashboards and reports. Solid understanding of analytical validation, including data quality checks, appropriate method selection, assumptions, and limitations. Strong business acumen and the ability to turn analytical insights into actionable strategies. Excellent written and verbal communication skills, including presenting to non-technical stakeholders. Strong organizational skills and the ability to balance advanced analytical projects with ad hoc requests, recurring reporting, and routine task management. Preferred Master's degree in a quantitative discipline. Experience with DIRECTV's analytical infrastructure, or with comparable enterprise data platforms and cloud environments. Experience with Google Analytics or comparable digital analytics tools. Experience with chat or call center analytics. Background in media, telecommunications, streaming, or subscription industries. Experience supporting data workflow automation, including automated data preparation, report refreshes, or recurring analyses. Prior experience mentoring or guiding junior team members. May require a background check due to job duties requiring routine access to DIRECTV and DIRECTV customer’s proprietary data. Qualified applicants with arrest and conviction will be considered for employment in accordance with local ordinances and state law. This is a remote position that can be located anywhere in the United States, excluding Alaska. #LI-Remote A career with us comes with big rewards: DIRECTV's compensation structure is designed to be market-competitive and fully supports efforts to attract and retain employees. It is the company's policy to offer pay that is competitive with other employers in the local market. Our salary ranges are determined by role, level, and location. The Base Salary range displayed below reflects the minimum and maximum target salary for each of DIRECTV's 4 (four) US Labor Market Zones. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. DIRECTV WAGE ZONES: $100,947 - $183,299 Low (N1): $100,947 - $151,421 Mid (N2): $106,260 - $159,390 High (N3): $116,886 - $175,329 Top (N4): $122,199 - $183,299 Click HERE to review information on some of the largest Designated Market Areas (DMAs). Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the salary ranges reflect base salary only and do not include bonus or benefits - when you consider all of these together, it represents a pretty impressive total compensation package. Apply today! Fair Chance Ordinance Notice for Los Angeles County applying for jobs a [...]
 
