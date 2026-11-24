@@ -41,7 +41,7 @@ CORE = re.compile(  # his target families: these can be HOT; any other TITLE_OK 
     r"analytics|data science|\bai/ml\b", re.I)
 TITLE_BAD = re.compile(
     r"\blead\b|leader|expert|\bavp\b|manager|director|principal|distinguished|staff|\bhead\b|\bvp\b|vice president|"
-    r"\bchief\b|partner\b|intern\b|interns\b|internship|co-op|\bcoop\b|summer 20|\biii\b|\biv\b|level [3-5]|"
+    r"\bchief\b|partner\b|co-op|\bcoop\b|summer 20|\biii\b|\biv\b|level [3-5]|"
     r"\b[3-5]\b(?!\d)|architect|sales|recruit|counsel|attorney|paralegal|account exec|nurse|\brn\b|physician|pharmac|"
     r"security analyst|cyber|soc analyst|threat|penetration|help ?desk|service desk|desktop|network|technician|"
     r"mechanic|warehouse|driver|cashier|clinical (research )?coordinator|post-?doc|student|apprentice|"
@@ -271,6 +271,40 @@ def fit_estimate(text):
     return min(95, round(100 * got / (got + 3 * len(lack) + 6))), tech + dom, lack
 
 
+# 24 Nov 2026 (Aryan): internships, contracts and temporary roles are in scope when a recent graduate can take them.
+# A posting that needs the candidate to be enrolled now (or to graduate in the future) is a SKIP; one that is open to
+# people who have already finished ("pursuing or completed", "recent graduates") stays in.
+ENROLL_RE = re.compile(
+    r"(must|should|required to|need to) be (currently )?(enrolled|a (current|matriculated|full-time) student|a student)|"
+    r"currently (enrolled|attending|matriculated)|(active|current) (student )?enrollment|"
+    r"enrolled (full-time |part-time )?in an? (accredited )?(college|university|degree|bachelor|master|undergraduate|graduate|ph\.?d)|"
+    r"returning to (school|campus|your (degree|studies|program))|rising (sophomore|junior|senior|second|third|final)|"
+    r"(expected|anticipated) (graduation|grad date|to graduate)[^.;]{0,40}20(2[6-9])|"
+    r"graduat\w* (date )?(between|from)[^.;]{0,40}20(2[6-9])[^.;]{0,30}20(2[7-9])|"
+    r"(pursuing|working toward)[^.;]{0,15}(a |an )?(bachelor|master|undergraduate|graduate|ph\.?d|degree)[^.;]{0,60}(required|must|throughout)",
+    re.I)
+ENROLL_OK = re.compile(r"or (have |has )?(recently )?(completed|graduated|earned|obtained|received)|recent(ly)? grad|"
+                       r"recent graduates|graduated within|completed (a|your) (degree|bachelor|master)", re.I)
+# 24 Nov 2026 (Aryan): genuine staffing firms are fine (W-2 with the agency, nothing paid by the candidate). Corp-to-corp
+# or 1099-only contracts, and any posting that asks the candidate to pay (training, placement, marketing or bench fees),
+# are not real jobs he can take.
+FEE_RE = re.compile(r"\b(c2c|corp[- ]to[- ]corp)\b(?![^.;]{0,40}\b(not|no)\b)[^.;]{0,40}(only|required)|\b1099 only\b|"
+                    r"only (c2c|corp[- ]to[- ]corp|1099)|\bno w-?2\b|w-?2 (is )?not (available|accepted|possible)|"
+                    r"(training|placement|registration|processing|marketing|bench|onboarding) fee|pay (a |an )?(small |one[- ]time )?fee|"
+                    r"\bbench (sales|marketing)\b|we market your (profile|resume)|h-?1b transfer (only|required)", re.I)
+INTERN_RE = re.compile(r"\bintern(ship)?s?\b|\bfellowship\b", re.I)
+
+
+def needs_enrollment(desc):
+    """24 Nov 2026: the sentence that limits the role to current students, or None. A sentence that also welcomes people
+    who have finished their degree does not count."""
+    for m in ENROLL_RE.finditer(desc or ""):
+        a, b = max(0, m.start() - 120), m.end() + 120
+        if not ENROLL_OK.search(desc[a:b]):
+            return desc[max(0, m.start() - 40):m.end() + 40].replace("\n", " ")
+    return None
+
+
 PART_RE = re.compile(r"part[- ]time|\bper[- ]diem\b|\bprn\b", re.I)
 TEMP_RE = re.compile(r"\btemporary\b|\btemp\b|\bseasonal\b|\bcontract(or)?\b|fixed[- ]term|\bvisiting\b|limited[- ]term", re.I)
 VOL_RE = re.compile(r"\bvolunteer\b|\bunpaid\b", re.I)
@@ -289,8 +323,11 @@ def job_type(title, desc):
         if h is not None and h < 20:
             return "part-time", h, f"part-time, about {h} h/week: under the 20 h/week STEM OPT minimum"
         return "part-time", h, "part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)"
+    if INTERN_RE.search(title):
+        return "internship", h, "internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date"
     if TEMP_RE.search(title):
-        return "temporary/contract", h, "temporary or contract: confirm it is W-2 with an E-Verify employer"
+        return "temporary/contract", h, ("temporary or contract: confirm W-2 (not corp-to-corp), no fees, the end client, "
+                                         "and the end date against the OPT and STEM OPT dates")
     return "full-time", h, ""
 
 
@@ -600,8 +637,11 @@ def fantastic(c, cut):
     since = (datetime.now(timezone.utc) - timedelta(hours=float(os.environ.get("FANTASTIC_SINCE_H", "7")))).strftime("%Y-%m-%dT%H:%M:%S")
     inp = {"timeRange": "24h", "datePostedAfter": since, "limit": int(os.environ.get("FANTASTIC_LIMIT", "60")),
            "titleSearch": FANTASTIC_TITLES, "titleExclusionSearch": ["senior", "sr", "lead", "manager", "director", "principal",
-           "staff", "intern", "internship", "head"], "locationSearch": ["United States"], "aiExperienceLevelFilter": ["0-2"],
-           "removeAgency": True, "descriptionType": "text"}
+           "staff", "head", "co-op", "summer"], "locationSearch": ["United States"], "aiExperienceLevelFilter": ["0-2"],
+           # 24 Nov 2026: internships now come through (the enrollment gate in classify() drops student-only ones).
+           # Staffing-firm postings stay out of this paid feed by default (each one would spend a paid slot on a repost);
+           # set FANTASTIC_AGENCIES=1 to let them in. Staffing contracts are searched on Dice in each pass instead.
+           "removeAgency": os.environ.get("FANTASTIC_AGENCIES") != "1", "descriptionType": "text"}
     orgs = ROOT / "fantastic_orgs.txt"  # optional: pay only for jobs at proven entry-level H-1B sponsors
     if orgs.exists() and os.environ.get("FANTASTIC_ALL") != "1":
         inp["organizationSearch"] = [l.strip() for l in orgs.read_text(encoding="utf-8").splitlines() if l.strip()]
@@ -733,6 +773,13 @@ def classify(j, spons):
     if m:
         a = max(0, m.start() - 50)
         return "SKIP", f'eligibility: "...{text[a:m.end() + 30]}..."'
+    f = FEE_RE.search(text)
+    if f:
+        a = max(0, f.start() - 40)
+        return "SKIP", f'not a W-2 job he can take (fee, corp-to-corp or 1099): "...{text[a:f.end() + 30]}..."'
+    enr = needs_enrollment(j["desc"])
+    if enr:
+        return "SKIP", f'needs current enrollment: "...{enr[:200]}..."'
     y = min_yoe(j["desc"])
     j["yoe"] = y
     ref = is_referral(j.get("company"))
