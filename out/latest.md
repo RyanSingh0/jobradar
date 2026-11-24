@@ -1,37 +1,12 @@
-# Sweep 2026-11-24 17:59 ET: 4595 boards, 31 new matches, 1 kept, 157 board errors, 236s
+# Sweep 2026-11-24 18:07 ET: 4595 boards, 6 new matches, 1 kept, 158 board errors, 239s
 
 Alert inbox: no new relevant alert postings
-- [MAYBE] U.S. Bank | Financial Analyst | fit~65 | https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Financial-Analyst_2026-0036587 | broad title
-- [LOW] Memorial Sloan Kettering Cancer Center | Decision Support Analyst  | fit~59 | https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary/job/New-York-NY/Decision-Support-Analyst-_104507
-- [LOW] SK hynix | AI DC Testbed Engineer: Operations & Performance (Infra / AI Workloads) | fit~55 | https://job-boards.greenhouse.io/skhynixamerica/jobs/5494105008
-- [LOW] Texas Capital Bank | Community Relations Analyst | fit~53 | https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Dallas-TX/Community-Relations-Analyst_JR106250
-- [LOW] Nordstrom | Interim Project Coordinator 2, Workers Compensation Operations Analyst (Hybrid) | fit~45 | https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Fullerton-CA/Interim-Project-Coordinator-2--Workers-Compensation-Operations-Analyst--Hybrid-_R-900839 | senior title below the bar
-- [LOW] Rocket Companies | Marketing Channel Analyst – Live Channels | fit~45 | https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Marketing-Channel-Analyst---Live-Channels_R-085182
-- [LOW] Cummings Electrical | UNAVAILABLE | fit~40 | https://careers-uuhc.icims.com/jobs/87356/application-systems-analyst-ii/job | senior title below the bar
-- [LOW] Anaplan | IT Experience Analyst | fit~33 | https://job-boards.greenhouse.io/anaplan/jobs/8943979002
-- [LOW] Hilton Worldwide | Operations Analyst - Hilton San Francisco Union Square | fit~25 | https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/232025
-- [LOW] BrightSpring Health Services | BCBA- Board Certified Behavior Analyst | fit~0 | https://careers-brightspring.icims.com/jobs/206773/bcba--board-certified-behavior-analyst/job
-- [LOW] Sanford Health | Research Specialist | fit~0 | https://sanford.wd5.myworkdayjobs.com/sanfordhealth/job/SD-Sioux-Falls/Research-Specialist_R-0274035
-- [SKIP] Braintrust Data | Forward Deployed Engineer | fit~- | https://jobs.ashbyhq.com/Braintrust/2fd567c7-e7b6-411e-a9e5-0dbbb70c7bb0 | asks 4+ years
-- [SKIP] Bill.com | Strategy Data Scientist  | fit~- | https://www.bill.com/job?6267029004&gh_jid=6267029004 | eligibility: "Please note that this position is not eligible for visa sponsorship."
-- [SKIP] Figure | Senior Analyst, Portfolio Management | fit~- | https://job-boards.greenhouse.io/figure/jobs/8932134002 | eligibility: "Figure will not sponsor work visas for this position."
-- [SKIP] Iovance Biotherapeutics | Senior Statistical Programming Contractor | fit~- | https://job-boards.greenhouse.io/iovancebiotherapeutics/jobs/5493699008 | asks 5+ years
-- [SKIP] SK hynix | Sr. AI DC Testbed Engineer: Operations & Performance (Infra / AI Workloads) | fit~- | https://job-boards.greenhouse.io/skhynixamerica/jobs/5494113008 | asks 7+ years
-- [SKIP] Stripe | Analytics Engineer | fit~- | https://stripe.com/jobs/search?gh_jid=8415333 | asks 5+ years
-- [SKIP] The Friedkin Group | Financial Analyst - Reinsurance | fit~- | https://external-careers-friedkin.icims.com/jobs/7096/financial-analyst-i/job | eligibility: "We celebrate diversity and are committed to creating an inclusive environment for all associates.We are seeking candidates legally authorized to work in the United States, without Sponsorship."
-- [SKIP] Booz Allen | Data Scientist | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bethesda-MD/Data-Scientist_R0254255-1 | asks 5+ years
-- [SKIP] Booz Allen | Space Security Cooperation Analyst | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Space-Security-Cooperation-Analyst_R0254240 | eligibility: "Secret clearance is required."
-- [SKIP] Booz Allen | Data Analyst | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Data-Analyst_R0254234 | eligibility: "Secret clearance is required."
-- [SKIP] Columbia Sportswear Company | E-Commerce Senior Software Analyst | fit~- | https://columbiasportswearcompany.wd5.myworkdayjobs.com/CSC_Careers/job/Portland-Oregon-United-States-of-America/E-Commerce-Senior-Software-Analyst_R-027354-2 | asks 5+ years
-- [SKIP] General Dynamics Information Technology | Quality Data Analyst | fit~- | https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Quality-Data-Analyst_RQ233054 | eligibility: "Type of Requisition: Regular Clearance Level Must Currently Possess: Top Secret/SCI Clearance Level Must Be Able to Obtain: Top Secret/SCI Public Trust/Other Required: None Job Family: Professional Engineering Job Qualif"
-- [SKIP] Guidehouse | Data Scientist | fit~- | https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Norfolk/Data-Scientist_47001 | eligibility: "Job Family : Data Science & Analysis, Data Science Consulting Travel Required : Up to 10% Clearance Required : Ability to Obtain Secret What You Will Do : Design, develop, and implement advanced analytical models, predic"
-- [SKIP] Guidehouse | Data Analyst | fit~- | https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Rockville/Data-Analyst_46943 | eligibility: "Job Family : Research Analyst Travel Required : None Clearance Required : Ability to Obtain Public Trust What You Will Do : We are currently searching for a Data Analyst to provide Data Analysis and Data Management suppo"
-- [SKIP] HCSC | Senior Contract Analyst & Negotiator – Work from Home | fit~- | https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/National-Remote/Senior-Contract-Analyst---Negotiator---Work-from-Home_R0056647-1 | eligibility: "Sponsorship is not available #LI-Remote #Li-kw1 #INAK Are you being referred to one of our roles?"
-- [SKIP] Highmark Health | Senior Financial Analyst | fit~- | https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Senior-Financial-Analyst_J291812 | eligibility: "Job Description : ***CANDIDATE MUST BE US Citizen (due to contractual/access requirements)*** JOB SUMMARY This job performs financial and business related research and analysis such as the preparation of forecasts and/or"
-- [SKIP] KBR | Workday Compensation Configuration Analyst | fit~- | https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Workday-Compensation-Configuration-Analyst_R2129094 | eligibility: "will not sponsor applicants for work visas (e.g., H-1B, TN, E-3, O-1) or employment-based permanent residence (green card) for this position."
-- [SKIP] Regeneron Pharmaceuticals | ESG Data Senior Analyst | fit~- | https://regeneron.wd1.myworkdayjobs.com/Careers/job/SLEEPY-HOLLOW/ESG-Data-Senior-Analyst_R53249-1 | asks 6+ years
-- [SKIP] Remitly | Senior Data Engineer | fit~- | https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Arlington-Virginia-United-States/Senior-Data-Engineer_R_107039 | asks 5+ years
-- [SKIP] Xcel Energy | Sr Accounting Analyst | fit~- | https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Sr-Accounting-Analyst-ANL735_JR116641-1 | asks 4+ years
+- [MAYBE] CAI | Business Intelligence Analyst | fit~50 | https://cai.wd5.myworkdayjobs.com/computer_aid/job/FL-CLIENT-STATE/Business-Intelligence-Analyst_R9042 | no H-1B filings found for this employer
+- [LOW] First American | HRIS Functional Support Analyst (Remote - PST) | fit~55 | https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/HRIS-Functional-Support-Analyst--Remote---PST-_R059673
+- [LOW] UnitedHealth Group | Senior Business Analyst | fit~54 | https://careers.unitedhealthgroup.com/job/eden-prairie/senior-business-analyst/34088/103748845744 | senior title below the bar
+- [LOW] Xcel Energy | Environmental Analyst V | fit~25 | https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Environmental-Analyst-V_JR117653-1
+- [SKIP] Fiserv | Senior Pricing Analyst | fit~- | https://fiserv.wd5.myworkdayjobs.com/ext/job/Milwaukee-Wisconsin/Senior-Pricing-Analyst_R-10407657 | eligibility: "Individuals with temporary visas including, but not limited to, F-1 (OPT, CPT, STEM), H-1B, H-2, or TN, or any candidate requiring sponsorship, now or in the future, will not be considered for this role."
+- [SKIP] NVIDIA | Senior Software Engineer, AI Infrastructure Solutions | fit~- | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AI-Infrastructure-Solutions_JR2028372 | asks 5+ years
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
@@ -44,6 +19,7 @@ Alert inbox: no new relevant alert postings
 - Amerisure (workday:osv-amerisure.wd5:Amerisure): HTTPError HTTP Error 422: Unprocessable Entity
 - Amigo AI (ashby:amigo:): HTTPError HTTP Error 404: Not Found
 - Amplify (workday:amplify.wd1:Amplify_Careers): HTTPError HTTP Error 403: Forbidden
+- Anduril (greenhouse:andurilindustries:): TimeoutError The read operation timed out
 - Applied Intuition (greenhouse:appliedintuition:): HTTPError HTTP Error 404: Not Found
 - Aprio (lever:aprio:): HTTPError HTTP Error 404: Not Found
 - Arch (ashby:arch.co:): HTTPError HTTP Error 404: Not Found
