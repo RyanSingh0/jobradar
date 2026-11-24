@@ -5,3 +5,4 @@ Found in your LinkedIn/HiringCafe/Glassdoor/Indeed/Jobright alert emails but not
 | Source | Company | Title | Location | Link |
 |---|---|---|---|---|
 | linkedin | Why Hiring | Entry-Level Data Scientist | United States | https://www.linkedin.com/jobs/view/4492373860/ |
+| linkedin | The Macritchie Group | Product Data Scientist | Lafayette, CO | https://www.linkedin.com/jobs/view/4494059325/ |
