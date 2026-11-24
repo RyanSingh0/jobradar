@@ -21,54 +21,58 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 15 | US Acute Care Solutions | AI Engineer | 62 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
 | 16 | Dallas Fort Worth International Airport | Risk Analyst | 62 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
 | 17 | Graham Capital Management | Portfolio Analyst, Global Macro | 62 | 9 in data/analytics/finance occupations | Nov 23 14:44 ET |
-| 18 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 19 | CVS Health | Data Engineer | 57 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 20 | PennState University | Tseng Banaszak 26-27 Part Time Research Assistant | 57 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 21 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
-| 22 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 23 | Envista | Legal Data Analyst | 55 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 24 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
-| 25 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
-| 26 | Simmons Bank | Loan Portfolio Analyst I | 54 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 27 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 28 | Amentum | Data Analyst | 54 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 29 | Medical College of Wisconsin | Research Scientist I - Biophysics | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 30 | Yale University | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 31 | Axle | SBIR Data Analyst | 54 | none found (check myvisajobs) | Nov 23 15:12 ET |
-| 32 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
-| 33 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 34 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 35 | The Jackson Laboratory | Associate Research Scientist | 50 | 3 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 36 | Voya Financial | Quantitative Analyst & Programmer | 48 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 37 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 38 | Altera Corporation | AI Engineer | 47 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 39 | Wellington Management | Research Associate, Consumer | 47 | 32 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 40 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
-| 41 | Prosper AI | AI Engineer | 45 | none found (check myvisajobs) | Nov 23 11:51 ET |
-| 42 | Exponent | Title Research Assistant | 45 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 43 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 44 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 45 | Wash U | Statistical Data Analyst - Genetics | 45 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 46 | Washington University in St. Louis | Statistical Data Analyst - Genetics | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 47 | Koddi | Associate Digital Marketing Analyst | 44 | 3 in data/analytics/finance occupations | Nov 23 12:58 ET |
-| 48 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 49 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
-| 50 | Moffitt Cancer Center | Research Associate 1 | 40 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 51 | PennState University | Research Assistant - Archetti Lab | 40 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 52 | thyssenkrupp | Data Engineer I | 40 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 53 | John Wiley & Sons | Senior Data Scientist (NLP & Applied AI) | 70 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 54 | Johnson & Johnson | Sr Scientist Data Science | 67 | 11 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 55 | Capital One | Sr. Business Analyst - Profitability & Growth Analysis | 62 | 458 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 56 | Airbnb | Senior Machine Learning Engineer, Assistance Foundations | 61 | 46 in data/analytics/finance occupations | Nov 23 15:18 ET |
-| 57 | Ohio State University | Reporting and Analytics Analyst 2 - Government Resource Center | 57 | cap-exempt employer | Nov 23 (board gives the date only) |
-| 58 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
-| 59 | AbbVie | Sr. Data Science Analyst, Business Intelligence  | 55 | 96 in data/analytics/finance occupations | Nov 23 12:41 ET |
-| 60 | Chewy | Machine Learning Engineer II | 55 | 107 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 61 | Sun Life | Senior AI Engineer | 55 | 6 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 62 | Truist Bank | Senior Capital Markets Risk Analyst | 55 | 99 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 63 | Morningstar | Business Intelligence and Analytics, Senior Analyst – New York | 55 | 13 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 64 | Ally Bank | Sr Analyst - Business Intelligence | 55 | 54 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 65 | T-Mobile | T-Ads Senior Data Scientist | 55 | 131 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 18 | OneMain Financial | Data Science Analyst | 62 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 19 | Viridien | Machine Learning Researcher - Seismic Foundation Models | 60 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 20 | CVS Health | Data Engineer | 57 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 21 | PennState University | Tseng Banaszak 26-27 Part Time Research Assistant | 57 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 22 | Clera | Founding Applied AI Engineer | 55 | none found (check myvisajobs) | Nov 22 12:02 ET |
+| 23 | Mars | Industrial Data Engineer | 55 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 24 | Envista | Legal Data Analyst | 55 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 25 | OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity | 54 | 30 in data/analytics/finance occupations | Nov 22 12:12 ET |
+| 26 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 22 (board gives the date only) |
+| 27 | Simmons Bank | Loan Portfolio Analyst I | 54 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 28 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 29 | Amentum | Data Analyst | 54 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 30 | Medical College of Wisconsin | Research Scientist I - Biophysics | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 31 | Yale University | Research Associate 1 | 54 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 32 | Axle | SBIR Data Analyst | 54 | none found (check myvisajobs) | Nov 23 15:12 ET |
+| 33 | OpenAI | Research Engineer / Research Scientist, Health | 53 | 30 in data/analytics/finance occupations | Nov 22 12:20 ET |
+| 34 | JP Morgan Chase | Data Scientist [Multiple Positions Available] | 50 | 1098 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 35 | Invesco | Quantitative Analyst | 50 | 28 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 36 | The Jackson Laboratory | Associate Research Scientist | 50 | 3 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 37 | Voya Financial | Quantitative Analyst & Programmer | 48 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 38 | Alliance Laundry Systems | Title Data Analyst (Sourcing) | 47 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 39 | Altera Corporation | AI Engineer | 47 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 40 | Wellington Management | Research Associate, Consumer | 47 | 32 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 41 | Sight Machine | Forward Deployed Engineer  | 46 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 42 | OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience | 45 | 30 in data/analytics/finance occupations | Nov 22 12:14 ET |
+| 43 | Prosper AI | AI Engineer | 45 | none found (check myvisajobs) | Nov 23 11:51 ET |
+| 44 | Exponent | Title Research Assistant | 45 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 45 | Texas A&M AgriLife Research | Research Associate | 45 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 46 | Texas A&M University System | Research Associate | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 47 | Wash U | Statistical Data Analyst - Genetics | 45 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 48 | Washington University in St. Louis | Statistical Data Analyst - Genetics | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 49 | Koddi | Associate Digital Marketing Analyst | 44 | 3 in data/analytics/finance occupations | Nov 23 12:58 ET |
+| 50 | ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F | 40 | 1 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 51 | Hospital for Special Surgery (HSS) | Research Assistant I | 40 | none found (check myvisajobs) | Nov 22 (board gives the date only) |
+| 52 | Moffitt Cancer Center | Research Associate 1 | 40 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 53 | PennState University | Research Assistant - Archetti Lab | 40 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 54 | thyssenkrupp | Data Engineer I | 40 | 2 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 55 | John Wiley & Sons | Senior Data Scientist (NLP & Applied AI) | 70 | 4 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 56 | Johnson & Johnson | Sr Scientist Data Science | 67 | 11 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 57 | Capital One | Sr. Business Analyst - Profitability & Growth Analysis | 62 | 458 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 58 | Airbnb | Senior Machine Learning Engineer, Assistance Foundations | 61 | 46 in data/analytics/finance occupations | Nov 23 15:18 ET |
+| 59 | Zillow | Senior Machine Learning Engineer, Rich Media Experiences | 59 | 47 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 60 | Ohio State University | Reporting and Analytics Analyst 2 - Government Resource Center | 57 | cap-exempt employer | Nov 23 (board gives the date only) |
+| 61 | Johnson & Johnson | Senior Scientist, Biostatistics | 57 | 11 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 62 | Gartner | Sr Data Analyst | 55 | 18 in data/analytics/finance occupations | Nov 22 (board gives the date only) |
+| 63 | AbbVie | Sr. Data Science Analyst, Business Intelligence  | 55 | 96 in data/analytics/finance occupations | Nov 23 12:41 ET |
+| 64 | Chewy | Machine Learning Engineer II | 55 | 107 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 65 | Sun Life | Senior AI Engineer | 55 | 6 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 66 | Truist Bank | Senior Capital Markets Risk Analyst | 55 | 99 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 67 | Morningstar | Business Intelligence and Analytics, Senior Analyst – New York | 55 | 13 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 68 | Ally Bank | Sr Analyst - Business Intelligence | 55 | 54 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 69 | T-Mobile | T-Ads Senior Data Scientist | 55 | 131 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
 
 ---
 
@@ -433,7 +437,22 @@ Graham Capital Management, L.P. (collectively with its affiliates, "Graham") is 
 
 ---
 
-## 18. [MAYBE] Viridien | Machine Learning Researcher - Seismic Foundation Models
+## 18. [MAYBE] OneMain Financial | Data Science Analyst
+- Link: https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2611-53337
+- Location: Wilmington, DE ; Wilmington, DE (United States of America)
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~62 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: machine learning, python, statistic, credit, git, quantitative, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Data Science Analyst Locations: Wilmington, DE (Hybrid) As an Associate Data Science Analyst, you’ll develop the technical skills to build the machine learning systems that drive our company and produce great customer outcomes. You’ll get hands-on experience as you apply your talents, creativity, and passion to create innovative solutions to real-world data science use cases. No matter the projects, you’ll have the opportunity to explore, while learning from experts in consumer lending in a close-knit team-oriented environment. This role will provide exposure across multiple disciplines to accelerate your career growth. In the Role: Apply diverse statistical and machine learning techniques to analyze a variety of datasets to solve complex, unstructured business problems. Actively contribute to our team’s vibrant culture through sharing knowledge, helping peers, and generally being a great person to work with. Develop creative technical solutions to improve the company’s decision making, the customer’s experience, and shareholder returns. Evaluate non-traditional data sources to see if they result in better underwriting decisions, saving our hard-working customers millions in interest payments. Mine the “digital exhaust” of our marketing campaigns to identify new populations who would benefit from our products. Partner with our operations teams to surface data insights that will allow our thousands of branch staff to better serve our customers. Requirements: Current post-graduate degree student in a quantitative discipline (Engineering, Data Science, Statistics, Biostatistics, Physics, Economics, Operations Research, or Computer Science) graduating between December 2026 and June 2027. Outstanding communication skills, including the ability to explain technical topics and concepts to a non-technical audience. Proven experience (in an academic, athletic, volunteer, or employment context) working with teams of diverse individuals to deliver complex projects. Experience in use of open-source machine learning libraries (Python or R). Innovative and capable of developing creative solutions to complex, data-driven problems. Preferred: Successful candidates will possess strong analytic, strategic thinking, communications, and leadership skills. They will also demonstrate curiosity, creative problem solving, integrative business thinking, teamwork, and bias for action. Just as importantly, they will be enthusiastic learners who want to tackle real-world challenges. About You: You are ready to launch your data science career. You want to create solutions to help hard-working Americans improve their financial lives. You want to work on a modern cloud-based data infrastructure. You want to directly learn from some of the best data science and business leaders in consumer finance. You want to be part of a team which is nimble, collaborative, diverse, and fun. Who we Are: OneMain Financial (NYSE: OMF) is the leader in offering nonprime customers responsible access to credit and is dedicated to improving the financial well-being of hardworking Americans. Since 1912, we’ve looked beyond credit scores to help people get the money they need today and reach their goals for tomorrow. Our growing suite of personal loans, credit cards and other products help people borrow better and work toward a brighter future. Driven collaborators and innovators, our team thrives on transformative digital thinking, customer-first energy and flexible work arrangements that grow lives, careers and our company. At every level, we’re committed to an inclusive culture, career development and impacting the communities where we live and work. Getting people to a better place has made us a better company for over a century. There’s never been a better time to shine with OneMain. Because team members at their best means OneMain at our best, we provide opportunities and benefits that make their health and careers a priority. That’s why we’ve packed our comprehensive benefits package for full- and some part-time employees with: Health and wellbeing options including medical, prescription, dental, vision, hearing, accident, hospital indemnity, and life insurances Up to 4% matching 401(k) Employee Stock Purchase Plan (10% share discount) Tuition reimbursement Paid time off (15 days vacation per year) Paid sick leave as determined by state or local ordinance, prorated based on start date Paid holidays (11 days per year, based on start date) Paid volunteer time (3 days per year, prorated based on start date) Most Loved Workplace 2022, 2023, 2024, 2025, and 2026 OneMain Holdings, Inc.
+
+---
+
+## 19. [MAYBE] Viridien | Machine Learning Researcher - Seismic Foundation Models
 - Link: https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Machine-Learning-Researcher---Seismic-Foundation-Models_JR101586
 - Location: Houston, United States of America
 - Posted: Nov 22 (board gives the date only)
@@ -448,7 +467,7 @@ Viridien ( www.viridiengroup.com ) is an advanced technology, digital and Earth 
 
 ---
 
-## 19. [MAYBE] CVS Health | Data Engineer
+## 20. [MAYBE] CVS Health | Data Engineer
 - Link: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R1108581-1
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -463,7 +482,7 @@ We’re building a world of health around every individual — shaping a more co
 
 ---
 
-## 20. [MAYBE] PennState University | Tseng Banaszak 26-27 Part Time Research Assistant
+## 21. [MAYBE] PennState University | Tseng Banaszak 26-27 Part Time Research Assistant
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Tseng-Banaszak-26-27-Part-Time-Research-Assistant_REQ_0000084528-1
 - Location: Penn State University Park
 - Posted: Nov 23 (board gives the date only)
@@ -478,7 +497,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 21. [MAYBE] Clera | Founding Applied AI Engineer
+## 22. [MAYBE] Clera | Founding Applied AI Engineer
 - Link: https://jobs.ashbyhq.com/Clera/2d1cadd3-9212-46cf-be7d-bb220dad8710
 - Location: United States United States
 - Posted: Nov 22 12:02 ET
@@ -533,7 +552,7 @@ On-site in the United States.
 
 ---
 
-## 22. [MAYBE] Mars | Industrial Data Engineer
+## 23. [MAYBE] Mars | Industrial Data Engineer
 - Link: https://mars.wd3.myworkdayjobs.com/external/job/USA-Ohio-Lewisburg/Industrial-Data-Engineer_R172203-2
 - Location: USA-Ohio-Lewisburg
 - Posted: Nov 22 (board gives the date only)
@@ -548,7 +567,7 @@ Job Description: Industrial Data Engineer The Industrial Data Engineer will part
 
 ---
 
-## 23. [MAYBE] Envista | Legal Data Analyst
+## 24. [MAYBE] Envista | Legal Data Analyst
 - Link: https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--California--Brea/Legal-Data-Analyst_R5027938
 - Location: United States of America, California, Brea
 - Posted: Nov 23 (board gives the date only)
@@ -563,7 +582,7 @@ Job Description: JOB SUMMARY: Must reside within a commutable distance to both B
 
 ---
 
-## 24. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
+## 25. [MAYBE] OpenAI | Research Engineer/Research Scientist-Post Training, Proactivity
 - Link: https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa
 - Location: San Francisco United States
 - Posted: Nov 22 12:12 ET
@@ -618,7 +637,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 25. [MAYBE] University of Miami | Research Associate 1
+## 26. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103302
 - Location: Miami, FL
 - Posted: Nov 22 (board gives the date only)
@@ -633,7 +652,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 26. [MAYBE] Simmons Bank | Loan Portfolio Analyst I
+## 27. [MAYBE] Simmons Bank | Loan Portfolio Analyst I
 - Link: https://simmonsbank.wd5.myworkdayjobs.com/SimmonsCareers/job/Little-Rock-AR/Loan-Portfolio-Analyst-II_R115792
 - Location: Little Rock, AR
 - Posted: Nov 23 (board gives the date only)
@@ -648,7 +667,7 @@ It's fun to work in a company where people truly BELIEVE in what they're doing! 
 
 ---
 
-## 27. [MAYBE] University of Miami | Research Associate 1
+## 28. [MAYBE] University of Miami | Research Associate 1
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100103321
 - Location: Miami, FL
 - Posted: Nov 23 (board gives the date only)
@@ -663,7 +682,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 28. [MAYBE] Amentum | Data Analyst
+## 29. [MAYBE] Amentum | Data Analyst
 - Link: https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Pensacola/Data-Analyst_R0176006
 - Location: US-FL-Pensacola
 - Posted: Nov 23 (board gives the date only)
@@ -678,7 +697,7 @@ Purpose and Scope: The Data Analyst performs the functions of the Navy’s Syste
 
 ---
 
-## 29. [MAYBE] Medical College of Wisconsin | Research Scientist I - Biophysics
+## 30. [MAYBE] Medical College of Wisconsin | Research Scientist I - Biophysics
 - Link: https://mcw.wd503.myworkdayjobs.com/ExternalCareers/job/Milwaukee-WI/Research-Scientist-I---Biophysics_JR104329
 - Location: Milwaukee, WI
 - Posted: Nov 23 (board gives the date only)
@@ -693,7 +712,7 @@ Summary The Wang Lab in the Department of Biophysics at the Medical College of W
 
 ---
 
-## 30. [MAYBE] Yale University | Research Associate 1
+## 31. [MAYBE] Yale University | Research Associate 1
 - Link: https://yale.wd1.myworkdayjobs.com/terminated_layoff_external_career_site/job/Church-St-South-100/Research-Associate-1_139464WD-1
 - Location: Church St South, 100
 - Posted: Nov 23 (board gives the date only)
@@ -708,7 +727,7 @@ Working at Yale means contributing to a better tomorrow. Whether you are a curre
 
 ---
 
-## 31. [MAYBE] Axle | SBIR Data Analyst
+## 32. [MAYBE] Axle | SBIR Data Analyst
 - Link: https://job-boards.greenhouse.io/axle/jobs/5306965007
 - Location: Rockville, MD
 - Posted: Nov 23 15:12 ET
@@ -723,7 +742,7 @@ Working at Yale means contributing to a better tomorrow. Whether you are a curre
 
 ---
 
-## 32. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
+## 33. [MAYBE] OpenAI | Research Engineer / Research Scientist, Health
 - Link: https://jobs.ashbyhq.com/openai/6785d983-8831-46d0-9c81-443f83664948
 - Location: San Francisco United States
 - Posted: Nov 22 12:20 ET
@@ -800,7 +819,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 33. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
+## 34. [MAYBE] JP Morgan Chase | Data Scientist [Multiple Positions Available]
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810780
 - Location: Jacksonville, FL, United States US
 - Posted: Nov 23 (board gives the date only)
@@ -815,7 +834,7 @@ DESCRIPTION Duties: Work with Product and Data Owners, Technology, and Design Pa
 
 ---
 
-## 34. [MAYBE] Invesco | Quantitative Analyst
+## 35. [MAYBE] Invesco | Quantitative Analyst
 - Link: https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Quantitative-Analyst_R-15895-1
 - Location: New York, New York
 - Posted: Nov 22 (board gives the date only)
@@ -830,7 +849,7 @@ About Invesco As one of the world’s leading independent global investment firm
 
 ---
 
-## 35. [MAYBE] The Jackson Laboratory | Associate Research Scientist
+## 36. [MAYBE] The Jackson Laboratory | Associate Research Scientist
 - Link: https://thejacksonlaboratory.wd503.myworkdayjobs.com/External_JAX/job/Farmington-Connecticut/Associate-Research-Scientist_JR006365
 - Location: Farmington, Connecticut
 - Posted: Nov 23 (board gives the date only)
@@ -845,7 +864,7 @@ Associate Research Scientist The Jackson Laboratory The Skarnes Lab Farmington C
 
 ---
 
-## 36. [MAYBE] Voya Financial | Quantitative Analyst & Programmer
+## 37. [MAYBE] Voya Financial | Quantitative Analyst & Programmer
 - Link: https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/Quantitative-Analyst---Programmer_JR0033471
 - Location: New York, NY
 - Posted: Nov 23 (board gives the date only)
@@ -860,7 +879,7 @@ Together we fight for everyone’s opportunity for a better financial future. We
 
 ---
 
-## 37. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
+## 38. [MAYBE] Alliance Laundry Systems | Title Data Analyst (Sourcing)
 - Link: https://uscareeropenings-alliancelaundry.icims.com/jobs/14271/data-analyst-%28sourcing%29/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -875,7 +894,7 @@ Data Analyst (Sourcing) in Ripon, Wisconsin | Careers at Alliance Laundry System
 
 ---
 
-## 38. [MAYBE] Altera Corporation | AI Engineer
+## 39. [MAYBE] Altera Corporation | AI Engineer
 - Link: https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Engineer_R02788
 - Location: San Jose, California, United States
 - Posted: Nov 23 (board gives the date only)
@@ -890,7 +909,7 @@ Job Details: Job Description: AI Engineer – Agentic AI Systems Why This Role M
 
 ---
 
-## 39. [MAYBE] Wellington Management | Research Associate, Consumer
+## 40. [MAYBE] Wellington Management | Research Associate, Consumer
 - Link: https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Research-Associate--Consumer_R95151-1
 - Location: Boston, MA, United States
 - Posted: Nov 23 (board gives the date only)
@@ -905,7 +924,22 @@ About Us Wellington Management offers comprehensive investment management capabi
 
 ---
 
-## 40. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
+## 41. [MAYBE] Sight Machine | Forward Deployed Engineer 
+- Link: https://ats.rippling.com/sightmachine/jobs/111463d8-4a0c-4b0a-9bf0-410c33d5ca34
+- Location: Hybrid (San Francisco, California, US) United States
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~46 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: builder | Has: etl, pandas, python, r, sql, git, kpi, risk | Lacks: azure, databricks, java  | Note: no H-1B filings found for this employer builder role: Python and SQL asked, 0-2 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Forward Deployed Engineer Forward Deployed Engineer Team Culture Great things happen when people can bring their authentic selves to work. We empower all of our employees to share their perspectives, passions and experiences because collectively we make a better, stronger team. Our team members collaborate closely with peers & cross functional stakeholders throughout the business, our clients on the forefront of digital transformation, and the cutting edge of digital manufacturing thought leadership. We take pride in our self-starter culture where employees are enabled and encouraged to achieve their professional goals through leadership guidance, learning and development. Our philosophy is that careers are continuous journeys, and we dedicate time and offer resources so that employees can reach their full potential. Benefits + Perks We value you at and outside of work and know your loved ones are important. Our benefits are designed to support you and your family’s health through life’s expected and unexpected events. Our Benefits Include: Competitive Salary + Stock Options Health Care Coverage + Life Insurance + Health Savings Account + Flexible Spending Account (includes spouse + children) Flexible Vacation Policy Adaptable Working Schedule and Environment Our Perks Include: Casual Dress Attire Hybrid work flexibility Catered Lunches, Snacks and Beverages Commuter Savings Program Company Outings Designated Volunteering Hours + Group Volunteer Events Sight Machine is proud to be an equal opportunity employer and considers candidates regardless of age, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Sight Machine also considers qualified applicants regardless of criminal histories, consistent with legal requirements. About Sight Machine, Inc. Sight Machine strengthens manufacturers by providing the industry’s only standard data model and system-level visualization capabilities. By integrating all crucial data into a single innovative platform, everyone involved in the fabrication process can visualize, contextualize and examine data in one intuitive interface. Sight Machine is committed and mission-driven to improve lives, strengthen communities and make the world cleaner through continuously re-envisioning manufacturing processes - making them more efficient, sustainable and absolute. Founded in Michigan in 2011 and expanded to San Francisco in 2012, Sight Machine blends the spirit of technology innovation and the down to earth style of Detroit manufacturing. Our team includes early leadership from Yahoo, Tesla Motors and Oracle. Together, we share wide industry knowledge and a commitment to advance manufacturing to a more sustainable future. At Sight Machine, you will work with manufacturing leaders in the automotive, medical device, apparel, construction, and pharmaceutical industries. You will have access to, and work with massive amounts of factory floor data to help uncover insights on how customers make products and develop solutions to pressing business problems. The platform solves problems like Extract Transform Load (ETL), information retrieval, data aggregation and analytics, factory automation, distributed computing, and security. We place great value on professional, technical, and personal growth in an inclusive, collaborative environment. The ideal candidate will have a passion for technology and a strong can-do attitude. About the role As a Forward Deployed Engineer, you will ensure the right technical solution gets built for Sight Machine's category-defining Manufacturing Data Platform, driving Industrial AI and firmwide digital transformation for some of the world's most iconic manufacturers and technology providers, including industry leaders like Microsoft, Siemens, and Databricks. If you are interested in technical coordination, quality assurance, hands-on problem solving, and working at the intersection of complex manufacturing operations and cutting-edge AI/ML technologies, please apply for this position. You will drive sustainability and game-changing results for global leaders in manufacturing while continuously developing your skills as a technical leader in the Data Era. Why Join Sight Machine's Services Team Our team is a hungry, humble, smart group of outcomes leaders, data scientists, data architects and engineers, software developers, and customer engagement managers who collaborate to solve some of the most complex challenges facing our manufacturing customers. We are laser-focused on trusting and empowering each other, solving today's problems (while knowing tomorrow will bring a few more), and getting a little better every day. What you'll do A team-based model is essential to our success. As a Forward Deployed Engineer, you will work in close partnership with an Account Lead and a Forward Deployed Strategist (FDS). The FDS provides business context and defines what needs to be built; you translate that into technical reality by coordinating specialists and contractors, validating quality, and maintaining delivery momentum. The Account Lead ensures strategic alignment and removes organizational barriers. Success requires continuous collaboration, clear communication, and mutual accountability across all three roles. You cannot operate effectively in isolation — the interdependence of these roles is what enables us to deliver comprehensive transformation for complex manufacturing enterprises. Technical Coordination & Accountability: Own end-to-end technical delivery outcomes, serving as the single point of accountability for technical execution Coordinate work across data architects, data engineering teams, and contractors to ensure seamless integration Set design criteria and parameters for what needs to be built, ensuring alignment with customer requirements and Sight Machine platform capabilities Define detailed data modeling specifications, including KPI formulas, field requirements, and data model structures Work with data architects to create clear specifications for cleansing rules, derivations, and edge cases Quality Assurance & Oversight: Evaluate deliverables from contractors and internal teams against requirements, ensuring quality and completeness Validate that data architecture is delivering what the client needs and meeting business objectives Raise red flags early when projects are off track, communicating risks and mitigation strategies Ensure everyone building anything understands what needs to be built and why, maintaining clarity across all contributors Documentation & Planning: Outline technical requirements and specifications with clarity and precision Document decisions and rationale to maintain institutional knowledge Divide work appropriately and create evaluation criteria for contractors to follow Maintain technical documentation that enables efficient knowledge transfer and onboarding Contractor Management:  [...]
+
+---
+
+## 42. [MAYBE] OpenAI | Research Engineer/Research Scientist- Post Training, Model Experience
 - Link: https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445
 - Location: San Francisco United States
 - Posted: Nov 22 12:14 ET
@@ -962,7 +996,7 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 
 ---
 
-## 41. [MAYBE] Prosper AI | AI Engineer
+## 43. [MAYBE] Prosper AI | AI Engineer
 - Link: https://jobs.ashbyhq.com/prosper-ai/fc1781c3-3fee-47f6-bf76-c5e2a6357eaf
 - Location: Barcelona Spain remote
 - Posted: Nov 23 11:51 ET
@@ -1019,7 +1053,7 @@ Interviewing Process
 
 ---
 
-## 42. [MAYBE] Exponent | Title Research Assistant
+## 44. [MAYBE] Exponent | Title Research Assistant
 - Link: https://careers-exponent.icims.com/jobs/2465/research-assistant/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -1034,7 +1068,7 @@ Research Assistant in Phoenix, Arizona | Careers at Phoenix Please Enable Cookie
 
 ---
 
-## 43. [MAYBE] Texas A&M AgriLife Research | Research Associate
+## 45. [MAYBE] Texas A&M AgriLife Research | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/College-Station-TX/Research-Associate_R-099059-1
 - Location: College Station, TX
 - Posted: Nov 23 (board gives the date only)
@@ -1049,7 +1083,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Range
 
 ---
 
-## 44. [MAYBE] Texas A&M University System | Research Associate
+## 46. [MAYBE] Texas A&M University System | Research Associate
 - Link: https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Associate_R-099059
 - Location: College Station, TX
 - Posted: Nov 23 (board gives the date only)
@@ -1064,7 +1098,7 @@ Job Title Research Associate Agency Texas A&M Agrilife Research Department Range
 
 ---
 
-## 45. [MAYBE] Wash U | Statistical Data Analyst - Genetics
+## 47. [MAYBE] Wash U | Statistical Data Analyst - Genetics
 - Link: https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Statistical-Data-Analyst---Genetics_JR98842
 - Location: Washington University Medical Campus
 - Posted: Nov 23 (board gives the date only)
@@ -1079,7 +1113,7 @@ Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Perfo
 
 ---
 
-## 46. [MAYBE] Washington University in St. Louis | Statistical Data Analyst - Genetics
+## 48. [MAYBE] Washington University in St. Louis | Statistical Data Analyst - Genetics
 - Link: https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Statistical-Data-Analyst---Genetics_JR98842
 - Location: Washington University Medical Campus
 - Posted: Nov 23 (board gives the date only)
@@ -1094,7 +1128,7 @@ Location ST. LOUIS, MO 63108&#xa;&#xa; Scheduled Hours 40 Position Summary Perfo
 
 ---
 
-## 47. [MAYBE] Koddi | Associate Digital Marketing Analyst
+## 49. [MAYBE] Koddi | Associate Digital Marketing Analyst
 - Link: https://job-boards.greenhouse.io/koddi/jobs/8944816002
 - Location: Fort Worth, Texas
 - Posted: Nov 23 12:58 ET
@@ -1109,7 +1143,7 @@ About Koddi We are a global technology company with software and services that h
 
 ---
 
-## 48. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
+## 50. [MAYBE] ALFA LAVAL | Stage - Développement de modèles d'AI/ML appliqués aux échangeurs à plaques et ailettes brasées en aluminium H/F
 - Link: https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Golbey/Stage---Dveloppement-de-modles-d-AI-ML-appliqus-aux-changeurs--plaques-et-ailettes-brases-en-aluminium-H-F_JR0049556
 - Location: Golbey
 - Posted: Nov 22 (board gives the date only)
@@ -1124,7 +1158,7 @@ Chez Alfa Laval Golbey, nous concevons et fabriquons des échangeurs thermiques 
 
 ---
 
-## 49. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
+## 51. [MAYBE] Hospital for Special Surgery (HSS) | Research Assistant I
 - Link: https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/HSS-Kellen-Tower/Research-Assistant-I_JR2026-106937
 - Location: HSS Kellen Tower
 - Posted: Nov 22 (board gives the date only)
@@ -1139,7 +1173,7 @@ How you move is why we’re here. ® Now more than ever. Get back to what you ne
 
 ---
 
-## 50. [MAYBE] Moffitt Cancer Center | Research Associate 1
+## 52. [MAYBE] Moffitt Cancer Center | Research Associate 1
 - Link: https://moffitt.wd108.myworkdayjobs.com/Moffitt/job/Moffitt-Research-Center/Research-Associate-1_R-4930
 - Location: Moffitt Research Center
 - Posted: Nov 23 (board gives the date only)
@@ -1154,7 +1188,7 @@ Working at Moffitt is both a career and a mission: to contribute to the preventi
 
 ---
 
-## 51. [MAYBE] PennState University | Research Assistant - Archetti Lab
+## 53. [MAYBE] PennState University | Research Assistant - Archetti Lab
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant---Archetti-Lab_REQ_0000084518-1
 - Location: Penn State University Park
 - Posted: Nov 23 (board gives the date only)
@@ -1169,7 +1203,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 52. [MAYBE] thyssenkrupp | Data Engineer I
+## 54. [MAYBE] thyssenkrupp | Data Engineer I
 - Link: https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Michigan-Remote/Data-Engineer-I_JR106462
 - Location: Michigan Remote
 - Posted: Nov 23 (board gives the date only)
@@ -1184,7 +1218,7 @@ Job Summary The Data Engineer will be at the forefront of accelerating the moder
 
 ---
 
-## 53. [MAYBE] John Wiley & Sons | Senior Data Scientist (NLP & Applied AI)
+## 55. [MAYBE] John Wiley & Sons | Senior Data Scientist (NLP & Applied AI)
 - Link: https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Hoboken-HQ-NJ-USA/Senior-Data-Scientist--NLP---Applied-AI-_R2601204
 - Location: Hoboken (HQ), NJ, USA
 - Posted: Nov 23 (board gives the date only)
@@ -1199,7 +1233,7 @@ We believe in bold ideas, diverse perspectives, and the drive to transform knowl
 
 ---
 
-## 54. [MAYBE] Johnson & Johnson | Sr Scientist Data Science
+## 56. [MAYBE] Johnson & Johnson | Sr Scientist Data Science
 - Link: https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Sr-Scientist-Data-Science_R-111095-1
 - Location: Raritan, New Jersey, United States of America
 - Posted: Nov 23 (board gives the date only)
@@ -1214,7 +1248,7 @@ At Johnson & Johnson, we believe health is everything. Our strength in healthcar
 
 ---
 
-## 55. [MAYBE] Capital One | Sr. Business Analyst - Profitability & Growth Analysis
+## 57. [MAYBE] Capital One | Sr. Business Analyst - Profitability & Growth Analysis
 - Link: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Sr-Business-Analyst---Profitability---Growth-Analysis_R1005980
 - Location: 2 Locations
 - Posted: Nov 23 (board gives the date only)
@@ -1229,7 +1263,7 @@ Sr. Business Analyst - Profitability & Growth Analysis Summary: As a Senior Busi
 
 ---
 
-## 56. [MAYBE] Airbnb | Senior Machine Learning Engineer, Assistance Foundations
+## 58. [MAYBE] Airbnb | Senior Machine Learning Engineer, Assistance Foundations
 - Link: https://careers.airbnb.com/positions/8411254?gh_jid=8411254
 - Location: United States
 - Posted: Nov 23 15:18 ET
@@ -1244,7 +1278,22 @@ Airbnb was born in 2007 when two hosts welcomed three guests to their San Franci
 
 ---
 
-## 57. [MAYBE] Ohio State University | Reporting and Analytics Analyst 2 - Government Resource Center
+## 59. [MAYBE] Zillow | Senior Machine Learning Engineer, Rich Media Experiences
+- Link: https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Machine-Learning-Engineer--Rich-Media-Experiences_P750278-1
+- Location: Remote-USA ; Remote-USA (United States of America)
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~59 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 47 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, machine learning, python, pytorch, tensorflow, pipeline | Lacks: scala  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About the team As a Senior Machine Learning Engineer within Zillow’s Rich Media Experiences team, you’ll join a group focused on helping people better understand homes through immersive, AI-powered experiences. The team works on turning photos, video, and spatial signals into structured representations that power customer-facing products used by millions of shoppers. Within Rich Media Experiences, the Instant Floor Plans team is building systems that transform sensor-rich mobile captures into accurate floor plans and 3D representations that feed Zillow’s rich-media and listing experiences. About the role This is a high-impact senior individual contributor role for someone who loves operating at the intersection of modeling and systems. As a Senior Machine Learning Engineer, you’ll help shape how Zillow builds production-grade machine learning systems for rich media experiences, partnering across applied science and engineering to turn promising ideas into reliable, scalable product capabilities. You Will Get To: Design, build, and operate production-grade machine learning systems that move from early ideas and prototypes into reliable customer-facing services. Lead end-to-end machine learning work spanning data, training, evaluation, deployment, observability, and iteration in production. Partner closely with applied scientists and software engineers across backend, web, and mobile to integrate modern machine learning techniques into Zillow experiences. Improve the quality, latency, reliability, and maintainability of machine learning workflows that support floor plan and rich media products. Drive technical decisions in ambiguous problem spaces, especially where structured inference, computer vision, spatial signals, or performance tradeoffs matter. Help establish shared patterns, tooling, and best practices that raise the bar for machine learning engineering across the team. Mentor peers through strong technical execution, code review, debugging discipline, and thoughtful communication across functions. This role has been categorized as a Remote position. “Remote” employees do not have a permanent corporate office workplace and, instead, work from a physical location of their choice, which must be identified to the Company. U.S. employees may live in any of the 50 United States, with limited exceptions. In California, Connecticut, Maryland, Massachusetts, New Jersey, New York, Washington state, and Washington DC the standard base pay range for this role is $175,900.00 - $281,100.00 annually. This base pay range is specific to these locations and may not be applicable to other locations.&#xa;&#xa;In Colorado, Hawaii, Illinois, Maine, Minnesota, Nevada, Ohio, Rhode Island, Vermont, and Virginia the standard base pay range for this role is $167,200.00 - $267,000.00 annually. The base pay range is specific to these locations and may not be applicable to other locations. In addition to a competitive base salary this position is also eligible for equity awards based on factors such as experience, performance and location. Actual amounts will vary depending on experience, performance and location. Employees in this role will not be paid below the salary threshold for exempt employees in the state where they reside. Who you are You have significant professional experience building and shipping machine learning models or ML-powered systems in production. You have strong hands-on proficiency in Python and at least one modern machine learning framework, such as PyTorch or TensorFlow. You have experience building and operating end-to-end machine learning workflows, including data pipelines, model training, evaluation, deployment, and monitoring. You have a strong foundation in machine learning fundamentals such as representation learning, structured prediction, computer vision, optimization, and failure analysis. You are comfortable debugging model and system behavior in real-world environments and using metrics, logs, and experiments to improve outcomes. You collaborate effectively with applied scientists, software engineers, and product partners in ambiguous, cross-functional settings. You have strong engineering judgment and know how to balance experimentation with reliability, speed, and long-term maintainability. You communicate technical ideas clearly and can influence decisions across disciplines. Experience in computer vision, spatial data, 3D, AR/VR, mapping, search, recommendation systems, or related domains is a plus. Here at Zillow, we value the experience and perspective of candidates with non-traditional backgrounds. We encourage you to apply if you have transferable skills or related experiences. Get to know us At Zillow, we’re reimagining how people move—through the real estate market and through their careers. As the most-visited real estate platform in the U.S., we help people navigate buying, selling, financing and renting with greater ease and confidence. Whether you're working in tech, sales, operations, or design, you’ll be part of a company reshaping an industry and helping more people make home a reality. How we work is a key part of that transformation. Through Cloud HQ, our strategic approach to distributed work, most employees have the flexibility to work from wherever they’re most productive—enabling us to move fast, stay connected and deliver on our people promise. Zillow is honored to be recognized among the best workplaces in the U.S. Zillow was named one of FORTUNE 100 Best Companies to Work For® in 2026, and included on TIME’s America’s Best Companies 2026 list , reflecting our commitment to creating an innovative, inclusive, and engaging culture where employees are empowered to grow. No matter where you sit in the organization, your work will help drive innovation, support our customers, and move the industry—and your career—forward, together. Zillow Group
+
+---
+
+## 60. [MAYBE] Ohio State University | Reporting and Analytics Analyst 2 - Government Resource Center
 - Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Reporting-and-Analytics-Analyst-2---Government-Resource-Center_R162052-1
 - Location: Columbus Campus
 - Posted: Nov 23 (board gives the date only)
@@ -1259,7 +1308,22 @@ Screen reader users may encounter difficulty with this site. For assistance with
 
 ---
 
-## 58. [MAYBE] Gartner | Sr Data Analyst
+## 61. [MAYBE] Johnson & Johnson | Senior Scientist, Biostatistics
+- Link: https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Senior-Scientist--Biostatistics_R-103837-2
+- Location: 3 Locations ; Raritan, New Jersey, United States of America ; Titusville, New Jersey, United States of America ; Spring House, Pennsylvania, United States of America (United States of America)
+- Posted: Nov 23 (board gives the date only)
+- Scanner fit: ~57 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 11 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: gcp, r, statistic, data quality, git, healthcare, quantitative, reporting, research | Lacks: sas  | Note: title says Senior/II: asks 0 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity. Learn more at jnj.com As guided by Our Credo, Johnson & Johnson is responsible to our employees who work with us throughout the world. We provide an inclusive work environment where each person is considered as an individual. At Johnson & Johnson, we respect the diversity and dignity of our employees and recognize their merit. Job Function: Data Analytics & Computational Sciences Job Sub Function: Biostatistics Job Category: Scientific/Technology All Job Posting Locations: Raritan, New Jersey, United States of America, Spring House, Pennsylvania, United States of America, Titusville, New Jersey, United States of America Job Description: At J&J Innovative Medicine we are seeking for a Senior Scientist, Biostatistics to join the Oncology Statistics team in Late Clinical Development. At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity. Learn more at https://www.jnj.com/ . For more than 130 years, diversity, equity & inclusion (DEI) has been a part of our cultural fabric at Johnson & Johnson and woven into how we do business every day. Rooted in Our Credo, the values of DEI fuel our pursuit to create a healthier, more equitable world. Our diverse workforce and culture of belonging accelerate innovation to solve the world’s most pressing healthcare challenges. The success of our business and our ability to deliver meaningful solutions depend on our understanding and ability to meet the diverse needs of the communities we serve. This is why we promote a culture of inclusion and belonging, where all perspectives, abilities, and experiences are valued, enabling our people to reach their full potential. We are seeking an exceptional Senior Scientist, Biostatistics to join the Oncology Statistics team. Oncology Statistics is an essential part of the Statistics and Decision Sciences organisation within J&J Innovative Medicine and is focused on driving all quantitative aspects of the design, analysis and reporting of oncology clinical trials. The oncology area focuses on hematologic malignancies, prostate cancer and lung cancer; cancer interception with the goal of developing products that interrupt the carcinogenic process; biomarkers that may help guide targeted, individualized use of our therapies; as well as safe and effective identification and treatment of early changes in the tumor microenvironment. At Johnson & Johnson, we all belong. Key Job responsibilities As a Senior Scientist, Biostatistics , you will provide statistical support to projects in the area of oncology in Late Clinical Development. Your primary responsibilities will include, but won’t be limited to, providing statistical input for decision-making, including analysis, interpretation, study design and communication of data evidence for research, development and/or marketed product supporting statistical aspects of business-critical and/or regulatory commitments. advocating for the use of appropriate statistical methods in decision making by acquiring and demonstrating an in-depth knowledge of statistics, modelling, simulations, and statistical computing. participation in or attending training session with colleagues and external contractors. participating in the scientific community by attending conferences. working with external partners including key opinion leaders in the oncology area and regulatory agencies and advisory committees, and contract research organizations. participating in training, process improvement and enhancing technical expertise. Qualifications Ph.D. in Statistics or related field with minimum 0-2 years relevant experience, or a Master’s in Statistics or related field with commensurate years of relevant experience. Analytical mind-set, intellectual curiosity, eagerness for continuous learning and passion for translating data into business-critical evidence. Ability to work independently, as well as in interdisciplinary teams. Good verbal, and written communication skills in the English language. Good knowledge of SAS and R programming. Desire to build relationships with various stakeholders, promote positive change, and ability to adapt to rapidly changing organizational & business environment needs. Johnson & Johnson
+
+---
+
+## 62. [MAYBE] Gartner | Sr Data Analyst
 - Link: https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Sr-Data-Analyst_116148
 - Location: 2 Locations
 - Posted: Nov 22 (board gives the date only)
@@ -1274,7 +1338,7 @@ The Demand Analytics team within the Business Technology and Insights (BTI) grou
 
 ---
 
-## 59. [MAYBE] AbbVie | Sr. Data Science Analyst, Business Intelligence 
+## 63. [MAYBE] AbbVie | Sr. Data Science Analyst, Business Intelligence 
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990017038986
 - Location: Irvine CA us
 - Posted: Nov 23 12:41 ET
@@ -1289,7 +1353,7 @@ Allergan Aesthetics Commercial is on a mission to transform the aesthetics busin
 
 ---
 
-## 60. [MAYBE] Chewy | Machine Learning Engineer II
+## 64. [MAYBE] Chewy | Machine Learning Engineer II
 - Link: https://chewy.wd5.myworkdayjobs.com/External/job/Dallas-TX/Machine-Learning-Engineer-II_R31506-1
 - Location: 4 Locations
 - Posted: Nov 23 (board gives the date only)
@@ -1304,7 +1368,7 @@ Job Description: Our Opportunity: We are seeking a talented and passionate Machi
 
 ---
 
-## 61. [MAYBE] Sun Life | Senior AI Engineer
+## 65. [MAYBE] Sun Life | Senior AI Engineer
 - Link: https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/North-York-Ontario/AI-Engineer_JR00128209-1
 - Location: 3 Locations
 - Posted: Nov 23 (board gives the date only)
@@ -1319,7 +1383,7 @@ You are as unique as your background, experience and point of view. Here, you’
 
 ---
 
-## 62. [MAYBE] Truist Bank | Senior Capital Markets Risk Analyst
+## 66. [MAYBE] Truist Bank | Senior Capital Markets Risk Analyst
 - Link: https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Senior-Capital-Markets-Risk-Analyst_R0122177
 - Location: Atlanta, GA
 - Posted: Nov 23 (board gives the date only)
@@ -1334,7 +1398,7 @@ The position is described below. If you want to apply, click the Apply Now butto
 
 ---
 
-## 63. [MAYBE] Morningstar | Business Intelligence and Analytics, Senior Analyst – New York
+## 67. [MAYBE] Morningstar | Business Intelligence and Analytics, Senior Analyst – New York
 - Link: https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/New-York/Business-Intelligence-and-Analytics--Senior-Analyst---New-York_REQ-058304-1
 - Location: New York
 - Posted: Nov 23 (board gives the date only)
@@ -1349,7 +1413,7 @@ Business Intelligence and Analytics, Senior Analyst – New York The Global Stru
 
 ---
 
-## 64. [MAYBE] Ally Bank | Sr Analyst - Business Intelligence
+## 68. [MAYBE] Ally Bank | Sr Analyst - Business Intelligence
 - Link: https://ally.wd1.myworkdayjobs.com/ALLY/job/Lewisville-TX/Sr-Analyst---Business-Intelligence_R2601289
 - Location: Lewisville, TX
 - Posted: Nov 23 (board gives the date only)
@@ -1364,7 +1428,7 @@ Ally and Your Career Ally Financial only succeeds when its people do - and that�
 
 ---
 
-## 65. [MAYBE] T-Mobile | T-Ads Senior Data Scientist
+## 69. [MAYBE] T-Mobile | T-Ads Senior Data Scientist
 - Link: https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/T-Ads-Senior-Data-Scientist_REQ380631
 - Location: 3 Locations
 - Posted: Nov 23 (board gives the date only)
