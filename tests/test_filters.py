@@ -105,6 +105,30 @@ CASES += [
     ("Summer 2027 internship still dropped on title", lambda: run("Acme Analytics", "Summer 2027 Data Science Intern", GENERIC), {"DROPPED"}),
 ]
 
+# 25 Nov 2026 (Aryan): 54 of the 57 internships that reached HOT or MAYBE on 24-25 Nov were for current students. Real lines.
+CASES += [
+    ("TikTok 'Currently pursuing an Undergraduate/Master's' -> SKIP", lambda: run("TikTok", "Data Scientist Intern (TikTok LIVE)",
+        GENERIC + " Minimum Qualifications: Currently pursuing an Undergraduate/Master's in Computer Science or a related field."), {"SKIP"}),
+    ("TikTok '2027 Start (PhD)' title -> SKIP", lambda: run("TikTok", "Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD)",
+        GENERIC + " PhD internships at Our Company provide students with the opportunity to contribute to our products."), {"SKIP", "DROPPED"}),
+    ("State Street '2027 Summer Internship' -> dropped", lambda: run("State Street", "Quantitative Risk Internship - 2027 Summer Internship",
+        GENERIC + " Undergraduate student in a quantitative field such as statistics or economics."), {"SKIP", "DROPPED"}),
+    ("Barclays 'Summer Internship Program 2028' -> SKIP", lambda: run("Barclays", "Markets Quantitative Analyst Summer Internship Program 2028 New York", GENERIC), {"SKIP", "DROPPED"}),
+    ("ASML 'must be currently pursuing a bachelor's' -> SKIP", lambda: run("ASML", "Internship - Data Analyst",
+        GENERIC + " Candidate must be currently pursuing a bachelor's or master's degree and maintaining a 3.0 GPA."), {"SKIP"}),
+    ("Expedia 'Must be graduating with a PhD' -> SKIP", lambda: run("Expedia", "Applied Science Intern - PhD",
+        GENERIC + " Must be graduating with a PhD degree in a technical subject in 2027 or later."), {"SKIP", "DROPPED"}),
+    ("KLA 'Pursuing a Bachelor's or Master's' -> SKIP", lambda: run("KLA Corporation", "PLM BI & Analytics Intern",
+        GENERIC + " Pursuing a Bachelor's or Master's degree in Business Analytics, Information Systems or related."), {"SKIP"}),
+    ("Jabil 'Senior or recent graduate' internship can reach HOT", lambda: run("Acme Analytics", "Data Scientist Intern",
+        GENERIC + " 1-2 years of experience. Senior or recent graduate with a Bachelor or above in Data Science."), {"HOT", "MAYBE"}),
+    ("Internship that says nothing on enrollment stays below HOT", lambda: run("Acme Analytics", "Data Science Intern",
+        GENERIC + " 1-2 years of experience. Paid, 40 hours per week."), {"MAYBE", "LOW"}),
+    ("Graduate Assistant (student employment) dropped on title", lambda: run("University of St. Thomas", "Graduate Assistant for Data Analytics, Center for Well-Being", GENERIC), {"DROPPED"}),
+    ("Full-time 'Graduate - 2027 Start' for those who have recently completed stays in", lambda: run("Acme Analytics",
+        "Machine Learning Engineer Graduate - 2027 Start", GENERIC + " Individuals who are completing or have recently completed a Bachelor's degree."), {"HOT", "MAYBE", "LOW"}),
+]
+
 # 23 Nov 2026 (evening): board readers
 LD = ('<script type="application/ld+json">{"@type":"JobPosting","title":"Data Scientist 1","description":"<p>Python and SQL</p>",'
       '"jobLocation":[{"@type":"Place","address":{"addressLocality":"St. Louis","addressRegion":"MO","addressCountry":"US"}}]}</script>')
