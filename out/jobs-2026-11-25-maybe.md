@@ -31,25 +31,28 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 25 | University of Miami | Research Associate (SOAR) Program Ophthalmology Temporary Miami, FL | 50 | cap-exempt employer | Nov 25 (board gives the date only) |
 | 26 | TikTok | Machine Learning Engineer, Recommendation, Alliance E-Commerce | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
 | 27 | Roche | Data & Analytics Specialist | 48 | 7 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 28 | Logitech | Corporate Strategy Analyst | 45 | 4 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 29 | Visa | Associate Data Engineer, AI Studio | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 30 | University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being | 45 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 31 | Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 32 | University of Chicago | Research Professional | 45 | cap-exempt employer | Nov 25 (board gives the date only) |
-| 33 | TikTok | Machine Learning Engineer, Ecommerce Risk Control | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 34 | PennState University | Part-Time Research Assistant - Amsalem Lab | 40 | cap-exempt employer | Nov 25 (board gives the date only) |
-| 35 | Broadridge | Product Analyst — Proxy Meeting Services | 40 | 4 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 36 | Ohio State University | Research Scientist - DHLRI | 40 | cap-exempt employer | Nov 25 (board gives the date only) |
-| 37 | Mayo Clinic | Research Fellow - Lab Medicine and Pathology | 40 | 26 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 38 | Merck | Senior Machine Learning Scientist, Foundation Model | 74 | 71 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 39 | Cedars-Sinai Medical Center | Senior Marketing Analyst (Digital Analytics & Insights) - Hybrid | 74 | cap-exempt employer | Nov 25 (board gives the date only) |
-| 40 | Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding | 67 | 1 in data/analytics/finance occupations | Nov 25 10:37 ET |
-| 41 | UnitedHealth Group | Senior Data Analyst | 65 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 42 | NVIDIA | Senior Robotics Research Scientist | 59 | 78 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 43 | Google | Senior Business and Marketing Data Scientist I | 55 | 1053 in data/analytics/finance occupations | Nov 25 09:09 ET |
-| 44 | Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management) | 55 | 133 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 45 | Block | Senior Model Risk Analyst, AI & Model Risk | 55 | 94 in data/analytics/finance occupations | Nov 25 12:07 ET |
-| 46 | Etsy | Market Research Analyst II | 55 | 19 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 28 | TikTok | Machine Learning Engineer, Commerce Ads Ranking | 47 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 29 | Logitech | Corporate Strategy Analyst | 45 | 4 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 30 | Visa | Associate Data Engineer, AI Studio | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 31 | University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being | 45 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 32 | Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 33 | University of Chicago | Research Professional | 45 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 34 | TikTok | Machine Learning Engineer, Ecommerce Risk Control | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 35 | PennState University | Part-Time Research Assistant - Amsalem Lab | 40 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 36 | Broadridge | Product Analyst — Proxy Meeting Services | 40 | 4 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 37 | Ohio State University | Research Scientist - DHLRI | 40 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 38 | Mayo Clinic | Research Fellow - Lab Medicine and Pathology | 40 | 26 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 39 | PennState University | Part-Time Research Assistant - Food Science | 40 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 40 | Merck | Senior Machine Learning Scientist, Foundation Model | 74 | 71 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 41 | Cedars-Sinai Medical Center | Senior Marketing Analyst (Digital Analytics & Insights) - Hybrid | 74 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 42 | Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding | 67 | 1 in data/analytics/finance occupations | Nov 25 10:37 ET |
+| 43 | UnitedHealth Group | Senior Data Analyst | 65 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 44 | Amgen | Senior Data Scientist | 61 | 112 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 45 | NVIDIA | Senior Robotics Research Scientist | 59 | 78 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 46 | Google | Senior Business and Marketing Data Scientist I | 55 | 1053 in data/analytics/finance occupations | Nov 25 09:09 ET |
+| 47 | Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management) | 55 | 133 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 48 | Block | Senior Model Risk Analyst, AI & Model Risk | 55 | 94 in data/analytics/finance occupations | Nov 25 12:07 ET |
+| 49 | Etsy | Market Research Analyst II | 55 | 19 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
 
 ---
 
@@ -553,7 +556,38 @@ At Roche you can show up as yourself, embraced for the unique qualities you brin
 
 ---
 
-## 28. [MAYBE] Logitech | Corporate Strategy Analyst
+## 28. [MAYBE] TikTok | Machine Learning Engineer, Commerce Ads Ranking
+- Link: https://lifeattiktok.com/search/7519243940139403528
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~47 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, llm, machine learning, python | Lacks: c++
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+TikTok Commerce Ads Ranking team is dedicated to model optimization in the ads delivery system. Our goal is to improve monetization efficiency of TikTok Commerce Ads products through model optimization in full funnel. Besides, our team aims to design and implement universal modeling solutions, and solve the long-standing problems of ranking algorithms.
+
+At TikTok Commerce Ads Ranking team, you can optimize model in recall / rough sort / fine sort, and explore innovative algorithms to break through the ceiling of ads performance.
+Responsibilities：
+1. Optimizing model in ads delivery system: feature engineering, model structure, auto crossing, ads cold start, modeling delayed feedback, multi-task learning, sequence modeling
+2. Algorithm and system co-design: retrieval algorithm, sample mining, long sequence
+3. Exploring large-scale distributed training framework: GPU tuning, feature processing, synchronous training
+Improving ads delivery efficiency in privacy-preserving environments
+4. LRM, the next generation rec system using LLM learning paradigm: entity understanding, end2end Generative Recommendation, sequence only based Recommendation, Mixture of Export Minimum Qualifications:
+1. Have excellent coding skills, be familiar with C++/Python, and have a solid foundation in data structures and algorithms.
+2. Solid foundation in machine learning, familiar with common algorithm models such as FM, LR, GBDT, DNN, Wide&Deep, etc.
+3. Excellent learning ability and good teamwork spirit. And excellent analytical and problem-solving skills.
+Papers in conferences such as KDD, NeurIPS, SIGIR etc, or experience in data mining/machine learning related competitions are a good fit.
+4. Bachelor degree or above in computer science or related majors, work experience in advertising/recommendation/search ranking are preferred.
+Preferred Qualifications:
+1. Papers in conferences such as KDD, NeurIPS, SIGIR etc, or experience in data mining/machine learning related competitions are a good fit.
+2. Bachelor degree or above in computer science or related majors, work experience in advertising/recommendation/search ranking are preferred.
+
+---
+
+## 29. [MAYBE] Logitech | Corporate Strategy Analyst
 - Link: https://logitech.wd5.myworkdayjobs.com/Logitech/job/Offsite---USA---TX/Corporate-Strategy-Analyst_148779
 - Location: 2 Locations ; Offsite - USA - TX ; San Jose, California - USA (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -568,7 +602,7 @@ Logitech is the Sweet Spot for people who want their actions to have a positive 
 
 ---
 
-## 29. [MAYBE] Visa | Associate Data Engineer, AI Studio
+## 30. [MAYBE] Visa | Associate Data Engineer, AI Studio
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W
 - Location: US - Austin, TX ; US - Austin, TX (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -583,7 +617,7 @@ About Us Visa is a world leader in payments technology, facilitating transaction
 
 ---
 
-## 30. [MAYBE] University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being
+## 31. [MAYBE] University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being
 - Link: https://studentemployment-stthomas.icims.com/jobs/10464/graduate-assistant-for-data-analytics%2c-center-for-well-being/job
 - Location: St. Paul, MN, US
 - Posted: new since the previous sweep (board shows no date)
@@ -598,7 +632,7 @@ OVERVIEW JOB TITLE: Graduate Assistant for Data Analytics, Center for Well-Being
 
 ---
 
-## 31. [MAYBE] Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group
+## 32. [MAYBE] Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group
 - Link: https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/3131-Princeton-Pike/Business-Data-Analyst---FT---Day---Capital-Health-Medical-Group_JR112120
 - Location: 3131 Princeton Pike ; 3131 Princeton Pike (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -613,7 +647,7 @@ Capital Health is the region's leader in providing progressive, quality patient 
 
 ---
 
-## 32. [MAYBE] University of Chicago | Research Professional
+## 33. [MAYBE] University of Chicago | Research Professional
 - Link: https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional_JR35989
 - Location: Chicago, IL ; Chicago, IL (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -628,7 +662,7 @@ Department BSD NRB - Kratsios Lab About the Department Our research is uncoverin
 
 ---
 
-## 33. [MAYBE] TikTok | Machine Learning Engineer, Ecommerce Risk Control
+## 34. [MAYBE] TikTok | Machine Learning Engineer, Ecommerce Risk Control
 - Link: https://lifeattiktok.com/search/7083343567582873864
 - Location: Seattle, Washington, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -669,7 +703,7 @@ Preferred Qualifications:
 
 ---
 
-## 34. [MAYBE] PennState University | Part-Time Research Assistant - Amsalem Lab
+## 35. [MAYBE] PennState University | Part-Time Research Assistant - Amsalem Lab
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Amsalem-Lab_REQ_0000084598-1
 - Location: Penn State University Park ; Penn State University Park (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -684,7 +718,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 35. [MAYBE] Broadridge | Product Analyst — Proxy Meeting Services
+## 36. [MAYBE] Broadridge | Product Analyst — Proxy Meeting Services
 - Link: https://broadridge.wd5.myworkdayjobs.com/Careers/job/New-York-NY/Product-Analyst---Proxy-Meeting-Services_JR1087914-1
 - Location: 2 Locations ; New York, NY ; Edgewood, NY (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -699,7 +733,7 @@ At Broadridge, we've built a culture where the highest goal is to empower others
 
 ---
 
-## 36. [MAYBE] Ohio State University | Research Scientist - DHLRI
+## 37. [MAYBE] Ohio State University | Research Scientist - DHLRI
 - Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Research-Scientist---DHLRI_R162135-1
 - Location: College of Medicine/Office of Health Sciences ; College of Medicine/Office of Health Sciences (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -714,7 +748,7 @@ Screen reader users may encounter difficulty with this site. For assistance with
 
 ---
 
-## 37. [MAYBE] Mayo Clinic | Research Fellow - Lab Medicine and Pathology
+## 38. [MAYBE] Mayo Clinic | Research Fellow - Lab Medicine and Pathology
 - Link: https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396532
 - Location: Rochester, MN, United States US
 - Posted: Nov 25 (board gives the date only)
@@ -729,7 +763,22 @@ Mayo Clinic has embarked on digitizing its large collection of glass slides, wit
 
 ---
 
-## 38. [MAYBE] Merck | Senior Machine Learning Scientist, Foundation Model
+## 39. [MAYBE] PennState University | Part-Time Research Assistant - Food Science
+- Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Food-Science_REQ_0000084612-2
+- Location: Penn State University Park ; Penn State University Park (United States of America)
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: part-time
+- Title scope: core | Has: statistic, reporting, research | Lacks: -  | Note: part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process . Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday. If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants . Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants . JOB DESCRIPTION AND POSITION REQUIREMENTS The Food Science Department in the College of Agricultural Sciences is looking for a part-time research assistant to work on the following items. Work with the PI to conduct research projects in the area of biomanufacturing and biotransformation in food area, such as extraction of components from food materials, food components analysis, food processing, preparing reagents, and routine maintenance of laboratory equipment. Collect, record, and analyze experimental data from research projects. Prepare figures and tables. Assist in ordering research supplies and materials as needed Be involved in day-to-day operations in the lab such as maintaining electronic files of protocols and equipment manuals, and lab waste collection, to support the efficient functioning of lab Additionally, this position will be trained on equipment, techniques, and analysis methods. This position will also be required to obtain Penn State Laboratory safety training via PSU-EHS. BACKGROUND CHECKS/CLEARANCES Employment with the University will require successful completion of background check(s) in accordance with University policies. CAMPUS SECURITY CRIME STATISTICS Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here .
+
+---
+
+## 40. [MAYBE] Merck | Senior Machine Learning Scientist, Foundation Model
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Senior-Machine-Learning-Scientist--Foundation-Model_R416575-1
 - Location: USA - Massachusetts - Cambridge (320 Bent Street) ; USA - Massachusetts - Cambridge (320 Bent Street) (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -744,7 +793,7 @@ Job Description Our artificial intelligence and machine learning (AI/ML) capabil
 
 ---
 
-## 39. [MAYBE] Cedars-Sinai Medical Center | Senior Marketing Analyst (Digital Analytics & Insights) - Hybrid
+## 41. [MAYBE] Cedars-Sinai Medical Center | Senior Marketing Analyst (Digital Analytics & Insights) - Hybrid
 - Link: https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22454
 - Location: Los Angeles, CA, United States US
 - Posted: Nov 25 (board gives the date only)
@@ -759,7 +808,7 @@ Grow your career at Cedars-Sinai! Cedars-Sinai Medical Center has been named to 
 
 ---
 
-## 40. [MAYBE] Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding
+## 42. [MAYBE] Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4477297009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 25 10:37 ET
@@ -774,7 +823,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 41. [MAYBE] UnitedHealth Group | Senior Data Analyst
+## 43. [MAYBE] UnitedHealth Group | Senior Data Analyst
 - Link: https://careers.unitedhealthgroup.com/job/san-antonio/senior-data-analyst/34088/102779374880
 - Location: San Antonio, Texas ; San Antonio, Texas, United States ; Remote
 - Posted: new since the previous sweep (board shows no date)
@@ -789,7 +838,22 @@ Our Company Optum is a global organization that delivers care, aided by technolo
 
 ---
 
-## 42. [MAYBE] NVIDIA | Senior Robotics Research Scientist
+## 44. [MAYBE] Amgen | Senior Data Scientist
+- Link: https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Senior-Data-Scientist_R-262535-1
+- Location: United States - Remote ; United States - Remote (United States of America)
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~61 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 112 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, llm, machine learning, python, spark, sql, ai agent, data quality, git, pipeline, portfolio, quantitative, research | Lacks: databricks, scala  | Note: title says Senior/II: asks 2 years
+- Eligibility: CHECK | we will continue accepting applications until we receive a sufficient number or select a candidate for the position Sponsorship Sponsorship for this role is not guaranteed.
+
+### Job description
+
+Career Category Strategy and Innovation Job Description Join Amgen’s Mission of Serving Patients At Amgen, if you feel like you’re part of something bigger, it’s because you are. Our shared mission—to serve patients living with serious illnesses—drives all that we do. Since 1980, we’ve helped pioneer the world of biotech in our fight against the world’s toughest diseases. Amgen is advancing a broad and deep pipeline and portfolio of medicines to treat heart disease, obesity and obesity-related conditions, rare diseases, inflammatory conditions and cancer. As a member of the Amgen team, you’ll help make a lasting impact on the lives of patients as we research, manufacture, and deliver innovative medicines to help people live longer, fuller happier lives. Our award-winning culture is collaborative, innovative, and science based. If you have a passion for challenges and the opportunities that lay within them, you’ll thrive as part of the Amgen team. Join us and transform the lives of patients while transforming your career. Senior Data Scientist What you will do Let’s do this. Let’s change the world. The Global Quality Analytics & Innovation (GQAI) team leads digital transformation and innovation across Amgen’s Quality organization. We develop and deliver data-centric digital tools, using automation, artificial intelligence (AI), and generative AI to advance end-to-end quality transformation. We are seeking an experienced, highly motivated Data Scientist to develop AI agents, integrate enterprise tools and data through the Model Context Protocol (MCP), and build data products aligned with FAIR principles—Findable, Accessible, Interoperable, and Reusable. The successful candidate will translate business needs into practical, scalable AI and data solutions that improve efficiency and support informed decision-making. Roles and Responsibilities Design, develop, and deploy AI agents and agentic workflows to support Quality processes and business priorities. Build and integrate MCP servers and tools to connect AI solutions with enterprise data, applications, and services. Develop FAIR data products with clear metadata, defined ownership, and reusable interfaces to support analytics and AI. Collaborate with business, product, technology, architecture, platform, and data teams to deliver solutions aligned with enterprise standards. Translate business concepts and scientific questions into working prototypes, production-ready code, and scalable digital capabilities. Evaluate and monitor AI solutions and data products for accuracy, reliability, security, and business value. Assess emerging AI technologies and engineering practices, recommending approaches based on technical fit and implementation impact What we expect of you We are all different, yet we all use our unique contributions to serve patients. The dynamic professional we seek is a collaborative partner with these qualifications. Basic Qualifications: Doctorate degree in computer science, mathematics, computer/electrical engineering, or a related quantitative field OR Master’s degree and 2 years of data science, machine learning, or software development experience OR Bachelor’s degree and 4 years of data science, machine learning, or software development experience OR Associate’s degree and 8 years of data science, machine learning, or software development experience OR High school diploma / GED and 10 years of data science, machine learning, or software development experience Preferred Qualifications: Experience developing AI agents, generative AI applications, and LLM-based solutions using relevant frameworks. Familiarity with MCP and integrating AI applications with enterprise APIs, tools, and data sources. Strong proficiency in Python and SQL, with experience building modular, reusable, and maintainable software. Experience building data products using FAIR principles, including metadata management, data quality, interoperability, and governed access. Experience with cloud platforms and data technologies such as AWS, Spark, or Databricks. Familiarity with API development, version control, automated testing, CI/CD, and AI evaluation and monitoring practices. Strong problem-solving, collaboration, and communication skills, with the ability to translate technical concepts for diverse audiences. Experience in the biotechnology industry is not required. What you can expect from us As we work to develop treatments that take care of others, we also work to care for your professional and personal growth and well-being. From our competitive benefits to our collaborative culture, we’ll support your journey every step of the way. The expected annual salary range for this role in the U.S. (excluding Puerto Rico) is posted. Actual salary will vary based on several factors including but not limited to, relevant skills, experience, and qualifications. In addition to the base salary, Amgen offers a Total Rewards Plan, based on eligibility, comprising of health and welfare plans for staff and eligible dependents, financial plans with opportunities to save towards retirement or other goals, work/life balance, and career development opportunities that may include: A comprehensive employee benefits package, including a Retirement and Savings Plan with generous company contributions, group medical, dental and vision coverage, life and disability insurance, and flexible spending accounts A discretionary annual bonus program, or for field sales representatives, a sales-based incentive plan Stock-based long-term incentives Award-winning time-off plans Flexible work models where possible. Refer to the Work Location Type in the job posting to see if this applies. Apply now and make a lasting impact with the Amgen team. careers.amgen.com In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information. Application deadline Amgen does not have an application deadline for this position; we will continue accepting applications until we receive a sufficient number or select a candidate for the position Sponsorship Sponsorship for this role is not guaranteed. As an organization dedicated to improving the quality of life for people around the world, Amgen fosters an inclusive environment of ethical, committed and highly accomplished people who respect each other and live the Amgen values to continue advancing science to serve patients. Together, we compete in the fight against serious disease. Amgen
+
+---
+
+## 45. [MAYBE] NVIDIA | Senior Robotics Research Scientist
 - Link: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Senior-Robotics-Research-Scientist_JR2000652
 - Location: US, WA, Seattle ; US, WA, Seattle (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -804,7 +868,7 @@ We are now looking for a Senior Robotics Research Scientist! NVIDIA is at the fo
 
 ---
 
-## 43. [MAYBE] Google | Senior Business and Marketing Data Scientist I
+## 46. [MAYBE] Google | Senior Business and Marketing Data Scientist I
 - Link: https://www.google.com/about/careers/applications/jobs/results/93758412692562630
 - Location: Kirkland, WA, USA ; New York, NY, USA ; Sunnyvale, CA, USA
 - Posted: Nov 25 09:09 ET
@@ -819,7 +883,7 @@ Google's leadership team hand-picks thorny business challenges, and members of B
 
 ---
 
-## 44. [MAYBE] Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management)
+## 47. [MAYBE] Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management)
 - Link: https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73369
 - Location: Dearborn, MI, United States US
 - Posted: Nov 25 (board gives the date only)
@@ -834,7 +898,7 @@ Our Marketing, Sales & Service organization advances the Ford reputation as a vi
 
 ---
 
-## 45. [MAYBE] Block | Senior Model Risk Analyst, AI & Model Risk
+## 48. [MAYBE] Block | Senior Model Risk Analyst, AI & Model Risk
 - Link: http://block.xyz/careers/jobs/5494600008?gh_jid=5494600008
 - Location: Bay Area, CA, United States of America
 - Posted: Nov 25 12:07 ET
@@ -849,7 +913,7 @@ Block is one company built from many blocks, all united by the same purpose: eco
 
 ---
 
-## 46. [MAYBE] Etsy | Market Research Analyst II
+## 49. [MAYBE] Etsy | Market Research Analyst II
 - Link: https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Market-Research-Analyst-II_JR5818
 - Location: Brooklyn, New York ; Brooklyn, New York (United States of America)
 - Posted: Nov 25 (board gives the date only)
