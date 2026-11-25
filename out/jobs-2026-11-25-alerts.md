@@ -5,3 +5,4 @@ Found in your LinkedIn/HiringCafe/Glassdoor/Indeed/Jobright alert emails but not
 | Source | Company | Title | Location | Link |
 |---|---|---|---|---|
 | linkedin | Stanford University | Research Analyst | Stanford, CA | https://www.linkedin.com/jobs/view/4493253485/ |
+| linkedin | Goliath Partners | Quantitative Researcher | United States | https://www.linkedin.com/jobs/view/4494407901/ |
