@@ -43,16 +43,17 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 37 | Ohio State University | Research Scientist - DHLRI | 40 | cap-exempt employer | Nov 25 (board gives the date only) |
 | 38 | Mayo Clinic | Research Fellow - Lab Medicine and Pathology | 40 | 26 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
 | 39 | PennState University | Part-Time Research Assistant - Food Science | 40 | cap-exempt employer | Nov 25 (board gives the date only) |
-| 40 | Merck | Senior Machine Learning Scientist, Foundation Model | 74 | 71 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 41 | Cedars-Sinai Medical Center | Senior Marketing Analyst (Digital Analytics & Insights) - Hybrid | 74 | cap-exempt employer | Nov 25 (board gives the date only) |
-| 42 | Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding | 67 | 1 in data/analytics/finance occupations | Nov 25 10:37 ET |
-| 43 | UnitedHealth Group | Senior Data Analyst | 65 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 44 | Amgen | Senior Data Scientist | 61 | 112 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 45 | NVIDIA | Senior Robotics Research Scientist | 59 | 78 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 46 | Google | Senior Business and Marketing Data Scientist I | 55 | 1053 in data/analytics/finance occupations | Nov 25 09:09 ET |
-| 47 | Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management) | 55 | 133 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 48 | Block | Senior Model Risk Analyst, AI & Model Risk | 55 | 94 in data/analytics/finance occupations | Nov 25 12:07 ET |
-| 49 | Etsy | Market Research Analyst II | 55 | 19 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 40 | Twist Bioscience | Research Associate I, Upstream in vivo Antibody Discovery | 40 | 1 in data/analytics/finance occupations | Nov 25 17:36 ET |
+| 41 | Merck | Senior Machine Learning Scientist, Foundation Model | 74 | 71 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 42 | Cedars-Sinai Medical Center | Senior Marketing Analyst (Digital Analytics & Insights) - Hybrid | 74 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 43 | Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding | 67 | 1 in data/analytics/finance occupations | Nov 25 10:37 ET |
+| 44 | UnitedHealth Group | Senior Data Analyst | 65 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 45 | Amgen | Senior Data Scientist | 61 | 112 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 46 | NVIDIA | Senior Robotics Research Scientist | 59 | 78 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 47 | Google | Senior Business and Marketing Data Scientist I | 55 | 1053 in data/analytics/finance occupations | Nov 25 09:09 ET |
+| 48 | Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management) | 55 | 133 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 49 | Block | Senior Model Risk Analyst, AI & Model Risk | 55 | 94 in data/analytics/finance occupations | Nov 25 12:07 ET |
+| 50 | Etsy | Market Research Analyst II | 55 | 19 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
 
 ---
 
@@ -778,7 +779,22 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 40. [MAYBE] Merck | Senior Machine Learning Scientist, Foundation Model
+## 40. [MAYBE] Twist Bioscience | Research Associate I, Upstream in vivo Antibody Discovery
+- Link: https://job-boards.greenhouse.io/twistbioscience/jobs/8411849
+- Location: USA - Quincy, MA
+- Posted: Nov 25 17:36 ET
+- Scanner fit: ~40 | Min YOE: 0 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, research, risk | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Research Associate I, Upstream&nbsp; in vivo Antibody Discovery (onsite in Quincy, MA) Summary This is a role on the Upstream Antibody Discovery team that provides support for cell culture, hybridoma and single B cell antibody techniques for discovery of therapeutic, diagnostic and tool reagent antibody candidates. This role will work closely with our Antibody Characterization and Protein Analytics teams at our Quincy, MA location to provide end-to-end project support in addition to upstream workflows. What You’ll Be Doing: As a member of the Upstream Antibody Discovery team, you will perform wet-lab benchwork including mammalian cell culture, hybridoma fusions, and Beacon-based single B cell screening, including reagent preparation and QC.&nbsp; Work closely with all scientific departments to ensure scientific excellence and execution for antibody projects involving cell culture, transient protein production and purification, downstream SPR, BLI, and developability assays.&nbsp;&nbsp; Work closely with the Project Management team to communicate timelines and deliverables to internal and external stakeholders. Concurrently execute multiple antibody discovery and contract service projects requiring wet lab activities, data analysis, report generation and preparation of deliverables adhering to project timelines Record and communicate experimental details, draft reports, and deliver data with a high level of integrity and ethics Assist with automation integration into the department to increase capacity and efficiency while maintaining a high standard of operational and scientific excellence What You’ll Bring: Knowledge of antibody discovery using in vivo immunization and hybridoma techniques is required; knowledge of single B cell screening techniques is highly desired. Previous experience in mammalian cell culture, transient transfections is required; experience with single B cell screening techniques or hybridoma fusions is highly desired.&nbsp; Additional experience with any of the following is a plus: Carterra SPR, Octet BLI, developability assays (HPLC and high throughput plate-based), ELISA, SDS-PAGE, protein quantification, and endotoxin assays. Experience in high-throughput assays (1,000s of samples) is preferred. Ability to troubleshoot scientific processes, make sound scientific decisions on tight timelines, and accurately analyze and report data with utmost attention to detail.&nbsp; Ability to work simultaneously on multiple workflows and projects Effectively communicate project updates, risks, and progress to the manager and cross-functional team members in a timely and professional manner. Actively participate in team meetings, clearly articulating needs, concerns, and proposed solutions to drive efficient collaboration. Requirements BS or MS in a related technical field; 0–2 years of experience in cell culture or antibody discovery workflows preferred. Working knowledge of antibody biologics characterization assays, with hands-on experience required in mammalian cell culture, transient transfections, and protein characterization techniques. Hands on experience with hybridoma fusions or single B cell discovery workflows are highly desired. Direct experience with Beacon single B cell techniques is a strong plus.&nbsp; Experience executing and analyzing common assay formats for antibody discovery. Ability to prioritize tasks across concurrent projects and time-critical workflows, with guidance from senior team members as skills develop. Foundational understanding of in vivo antibody discovery concepts. Ability to assess, interpret, and present scientific data effectively and with a high level of integrity and ethics. Exceptional written and verbal communication skills. Highly organized and detail-oriented with a focused, problem-solving mentality to address projects and logistics. &nbsp; About Twist Bioscience Twist Bioscience synthesizes genes from scratch, known as “writing” DNA. Just as children learn to both read and write, the next phase of development for the genomics revolution is the ability to write DNA. At Twist Bioscience, we work in service of people who are changing the world for the better. In fields such as health care,agriculture, industrial chemicals and data storage, our unique silicon-based DNA Synthesis Platform provides precision at a scale that is otherwise unavailable to our customers. Twist Bioscience Corporation
+
+---
+
+## 41. [MAYBE] Merck | Senior Machine Learning Scientist, Foundation Model
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Senior-Machine-Learning-Scientist--Foundation-Model_R416575-1
 - Location: USA - Massachusetts - Cambridge (320 Bent Street) ; USA - Massachusetts - Cambridge (320 Bent Street) (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -793,7 +809,7 @@ Job Description Our artificial intelligence and machine learning (AI/ML) capabil
 
 ---
 
-## 41. [MAYBE] Cedars-Sinai Medical Center | Senior Marketing Analyst (Digital Analytics & Insights) - Hybrid
+## 42. [MAYBE] Cedars-Sinai Medical Center | Senior Marketing Analyst (Digital Analytics & Insights) - Hybrid
 - Link: https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22454
 - Location: Los Angeles, CA, United States US
 - Posted: Nov 25 (board gives the date only)
@@ -808,7 +824,7 @@ Grow your career at Cedars-Sinai! Cedars-Sinai Medical Center has been named to 
 
 ---
 
-## 42. [MAYBE] Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding
+## 43. [MAYBE] Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4477297009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 25 10:37 ET
@@ -823,7 +839,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 43. [MAYBE] UnitedHealth Group | Senior Data Analyst
+## 44. [MAYBE] UnitedHealth Group | Senior Data Analyst
 - Link: https://careers.unitedhealthgroup.com/job/san-antonio/senior-data-analyst/34088/102779374880
 - Location: San Antonio, Texas ; San Antonio, Texas, United States ; Remote
 - Posted: new since the previous sweep (board shows no date)
@@ -838,7 +854,7 @@ Our Company Optum is a global organization that delivers care, aided by technolo
 
 ---
 
-## 44. [MAYBE] Amgen | Senior Data Scientist
+## 45. [MAYBE] Amgen | Senior Data Scientist
 - Link: https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Senior-Data-Scientist_R-262535-1
 - Location: United States - Remote ; United States - Remote (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -853,7 +869,7 @@ Career Category Strategy and Innovation Job Description Join Amgen’s Mission o
 
 ---
 
-## 45. [MAYBE] NVIDIA | Senior Robotics Research Scientist
+## 46. [MAYBE] NVIDIA | Senior Robotics Research Scientist
 - Link: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Senior-Robotics-Research-Scientist_JR2000652
 - Location: US, WA, Seattle ; US, WA, Seattle (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -868,7 +884,7 @@ We are now looking for a Senior Robotics Research Scientist! NVIDIA is at the fo
 
 ---
 
-## 46. [MAYBE] Google | Senior Business and Marketing Data Scientist I
+## 47. [MAYBE] Google | Senior Business and Marketing Data Scientist I
 - Link: https://www.google.com/about/careers/applications/jobs/results/93758412692562630
 - Location: Kirkland, WA, USA ; New York, NY, USA ; Sunnyvale, CA, USA
 - Posted: Nov 25 09:09 ET
@@ -883,7 +899,7 @@ Google's leadership team hand-picks thorny business challenges, and members of B
 
 ---
 
-## 47. [MAYBE] Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management)
+## 48. [MAYBE] Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management)
 - Link: https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73369
 - Location: Dearborn, MI, United States US
 - Posted: Nov 25 (board gives the date only)
@@ -898,7 +914,7 @@ Our Marketing, Sales & Service organization advances the Ford reputation as a vi
 
 ---
 
-## 48. [MAYBE] Block | Senior Model Risk Analyst, AI & Model Risk
+## 49. [MAYBE] Block | Senior Model Risk Analyst, AI & Model Risk
 - Link: http://block.xyz/careers/jobs/5494600008?gh_jid=5494600008
 - Location: Bay Area, CA, United States of America
 - Posted: Nov 25 12:07 ET
@@ -913,7 +929,7 @@ Block is one company built from many blocks, all united by the same purpose: eco
 
 ---
 
-## 49. [MAYBE] Etsy | Market Research Analyst II
+## 50. [MAYBE] Etsy | Market Research Analyst II
 - Link: https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Market-Research-Analyst-II_JR5818
 - Location: Brooklyn, New York ; Brooklyn, New York (United States of America)
 - Posted: Nov 25 (board gives the date only)

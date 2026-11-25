@@ -1,15 +1,15 @@
-# Sweep 2026-11-25 17:27 ET: 4595 boards, 9 new matches, 0 kept, 159 board errors, 209s
+# Sweep 2026-11-25 18:07 ET: 4595 boards, 9 new matches, 1 kept, 160 board errors, 269s
 
 Alert inbox: no new relevant alert postings
-- [LOW] ABC Supply | Senior Treasury Analyst (902) | fit~45 | https://abcsupply.wd1.myworkdayjobs.com/abcsupplycareers/job/Beloit-WI/Senior-Treasury-Accountant--902-_68282 | senior title below the bar
-- [LOW] Brex | Revenue Operations Senior Analyst | fit~44 | https://www.brex.com/careers/8963006002?gh_jid=8963006002 | senior title below the bar
-- [LOW] Curtiss-Wright Corporation | Programmer Analyst | fit~40 | https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-CA-Brea-Nuclear/Programmer-Analyst_JR14360-1
-- [LOW] Pacific Life | Junior Public Credit Analyst | fit~40 | https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Junior-Public-Credit-Analyst_R17933
-- [SKIP] American Bureau of Shipping | Finance Analyst, Government Projects | fit~- | https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5063 | eligibility: "... approximately 10% of the time. Ability to obtain security clearance by currently having U.S. Citi..."
-- [SKIP] AeroVironment | Sr. Oracle Fusion Financial Analyst | fit~- | https://avav.wd1.myworkdayjobs.com/avav/job/Remote---Kentucky/Enterprise-Analyst--Sr---Oracle-Fusion-Finance---EPM_8401 | eligibility: "ITAR Requirement: This position requires access to information that is subject to compliance with the International Traffic Arms Regulations (“ITAR”) and/or the Export Administration Regulations (“EAR”)."
-- [SKIP] Leidos | Data Scientist | fit~- | https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Data-Scientist_R-00192861 | eligibility: "Clearance Active TS/SCI clearance with CI Polygraph is required to be considered for this position."
-- [SKIP] NVIDIA | Senior Cosmos Research Scientist, Agentic AI for 3D and Robotics | fit~- | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Cosmos-Research-Scientist--Agentic-AI-for-3D-and-Robotics_JR2030744 | asks 5+ years
-- [SKIP] Oregon State Government | Senior Systems Analyst (Information Systems Specialist 7) Remote Work | fit~- | https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Salem--OHA--Fairview-Industrial-Drive-3990/Senior-Systems-Analyst--Information-Systems-Specialist-7--Remote-Work_REQ-208881-1 | eligibility: "This position does not provide visa sponsorship."
+- [MAYBE] Twist Bioscience | Research Associate I, Upstream in vivo Antibody Discovery | fit~40 | https://job-boards.greenhouse.io/twistbioscience/jobs/8411849
+- [LOW] Affinius Capital | Senior Analyst, Corporate Accounting (San Antonio, TX) | fit~68 | https://careers-affiniuscapital.icims.com/jobs/2342/senior-analyst%2c-corporate-accounting-%28san-antonio%2c-tx%29/job | senior title below the bar
+- [LOW] Sargent & Lundy | Forward Deployed AI & Automation Engineer - Grid Projects | fit~50 | https://careers-sargentlundy.icims.com/jobs/30571/forward-deployed-ai-%26-automation-engineer---grid-projects/job
+- [LOW] Manulife Financial | Senior Platform Engineer – AI Model Management | fit~50 | https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Senior-Platform-Engineer---AI-Model-Management_JR26110119 | senior title below the bar
+- [SKIP] Braintrust Data | Analytics Engineer | fit~- | https://jobs.ashbyhq.com/Braintrust/103dc439-307b-4fa7-9c40-efd19d457653 | asks 5+ years
+- [SKIP] Apogee Engineering | Acquisition Analyst | fit~- | https://careers-apogeeusa.icims.com/jobs/2409/acquisition-analyst/job | eligibility: "support Government counterparts in development of solutions to program issues Oversee the allocation of resources based on program requirements Apply knowledge of price and cost analysis sufficient to review proposals, a"
+- [SKIP] Eurofins | Laboratory Analyst II - PFAS / LC-MS, Eurofins Environment Testing, Arvada, CO | fit~- | https://jobs.smartrecruiters.com/Eurofins/744000163771029 | eligibility: "Minimum 1 year of experience operating an LC-MS Minimum 2 years’ experience in routine and complex laboratory procedures and instruments, preferably in a production environment Previous production-oriented work is a plus"
+- [SKIP] Guidehouse | Research Portfolio Analyst | fit~- | https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Bethesda/Research-Portfolio-Analyst_46995 | eligibility: "Job Family : Research Analyst Travel Required : None Clearance Required : Ability to Obtain Public Trust What You Will Do: We are looking for an experienced Research Portfolio Analyst to support the National Institute on"
+- [SKIP] NVIDIA | Senior Financial Analyst, Operations and Manufacturing | fit~- | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Financial-Analyst--Operations-and-Manufacturing_JR2030264 | asks 5+ years
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
@@ -22,6 +22,7 @@ Alert inbox: no new relevant alert postings
 - Amerisure (workday:osv-amerisure.wd5:Amerisure): HTTPError HTTP Error 422: Unprocessable Entity
 - Amigo AI (ashby:amigo:): HTTPError HTTP Error 404: Not Found
 - Amplify (workday:amplify.wd1:Amplify_Careers): HTTPError HTTP Error 403: Forbidden
+- Anduril (greenhouse:andurilindustries:): TimeoutError The read operation timed out
 - Applied Intuition (greenhouse:appliedintuition:): HTTPError HTTP Error 404: Not Found
 - Aprio (lever:aprio:): HTTPError HTTP Error 404: Not Found
 - Arch (ashby:arch.co:): HTTPError HTTP Error 404: Not Found
