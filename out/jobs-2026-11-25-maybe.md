@@ -28,20 +28,25 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 22 | Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature | 50 | 1 in data/analytics/finance occupations | Nov 25 10:38 ET |
 | 23 | NVIDIA | Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026 | 50 | 78 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
 | 24 | University of Miami | Research Associate (SOAR) Program Ophthalmology Temporary Miami, FL | 50 | cap-exempt employer | Nov 25 (board gives the date only) |
-| 25 | Roche | Data & Analytics Specialist | 48 | 7 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 26 | Logitech | Corporate Strategy Analyst | 45 | 4 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 27 | Visa | Associate Data Engineer, AI Studio | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 28 | University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being | 45 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 29 | Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 30 | PennState University | Part-Time Research Assistant - Amsalem Lab | 40 | cap-exempt employer | Nov 25 (board gives the date only) |
-| 31 | Merck | Senior Machine Learning Scientist, Foundation Model | 74 | 71 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 32 | Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding | 67 | 1 in data/analytics/finance occupations | Nov 25 10:37 ET |
-| 33 | UnitedHealth Group | Senior Data Analyst | 65 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 34 | NVIDIA | Senior Robotics Research Scientist | 59 | 78 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 35 | Google | Senior Business and Marketing Data Scientist I | 55 | 1053 in data/analytics/finance occupations | Nov 25 09:09 ET |
-| 36 | Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management) | 55 | 133 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 37 | Block | Senior Model Risk Analyst, AI & Model Risk | 55 | 94 in data/analytics/finance occupations | Nov 25 12:07 ET |
-| 38 | Etsy | Market Research Analyst II | 55 | 19 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 25 | TikTok | Machine Learning Engineer, Recommendation, Alliance E-Commerce | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 26 | Roche | Data & Analytics Specialist | 48 | 7 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 27 | Logitech | Corporate Strategy Analyst | 45 | 4 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 28 | Visa | Associate Data Engineer, AI Studio | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 29 | University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being | 45 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 30 | Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 31 | University of Chicago | Research Professional | 45 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 32 | PennState University | Part-Time Research Assistant - Amsalem Lab | 40 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 33 | Broadridge | Product Analyst — Proxy Meeting Services | 40 | 4 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 34 | Ohio State University | Research Scientist - DHLRI | 40 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 35 | Merck | Senior Machine Learning Scientist, Foundation Model | 74 | 71 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 36 | Cedars-Sinai Medical Center | Senior Marketing Analyst (Digital Analytics & Insights) - Hybrid | 74 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 37 | Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding | 67 | 1 in data/analytics/finance occupations | Nov 25 10:37 ET |
+| 38 | UnitedHealth Group | Senior Data Analyst | 65 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 39 | NVIDIA | Senior Robotics Research Scientist | 59 | 78 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 40 | Google | Senior Business and Marketing Data Scientist I | 55 | 1053 in data/analytics/finance occupations | Nov 25 09:09 ET |
+| 41 | Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management) | 55 | 133 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 42 | Block | Senior Model Risk Analyst, AI & Model Risk | 55 | 94 in data/analytics/finance occupations | Nov 25 12:07 ET |
+| 43 | Etsy | Market Research Analyst II | 55 | 19 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
 
 ---
 
@@ -486,7 +491,36 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 25. [MAYBE] Roche | Data & Analytics Specialist
+## 25. [MAYBE] TikTok | Machine Learning Engineer, Recommendation, Alliance E-Commerce
+- Link: https://lifeattiktok.com/search/7346326177919650098
+- Location: Seattle, Washington, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~50 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, machine learning, python, tensorflow, xgboost | Lacks: c++
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The e-commerce alliance team aims to serve merchants and creators in the e-commerce platform to meet merchants' business indicators and improve creators' creative efficiency. By cooperating with merchants and creators, we aim to provide high-quality content and a personalized shopping experience for TikTok users, create efficient shopping tools at seller centers, and promote cooperation between merchants and creators.
+
+Job responsibilities:
+1. Build and design large-scale machine learning algorithms to model the real-time interests of creators to improve conversion efficiency
+2. Optimize TikTok's massive commodity relationship mining and ranking and recall of creators' product recommendations, and improve the overall GMV of the platform
+3. Use the large scale of data to deeply analyze the behavior of creators and merchants and build targeted algorithm strategies to empower creators and merchants, improve merchants' monetization efficiency, and boost industrial upgrading
+4. Support the rapid development of TikTok's e-commerce business, serve millions of merchants, explore more efficient business models, satisfy users with the best shopping experience, and promote healthy ecological development
+ Minimum Qualifications
+1. 3+ years of industry experience with solid theoretical foundation of machine learning;
+2. Familiar with common algorithms such as matrix factorization, GBDT, LTR, Word2vec, DIN, Deep&Wide;
+3. Proficient in Python and C++ languages
+
+Preferred Qualifications
+1. Proficiency in using any of the following open source tools: XGboost, TensorFlow, Caffe;
+2. Have excellent learning ability and good communication and cooperation spirit.
+
+---
+
+## 26. [MAYBE] Roche | Data & Analytics Specialist
 - Link: https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/Data---Analytics-Specialist_202611-128713-1
 - Location: Tucson ; Tucson (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -501,7 +535,7 @@ At Roche you can show up as yourself, embraced for the unique qualities you brin
 
 ---
 
-## 26. [MAYBE] Logitech | Corporate Strategy Analyst
+## 27. [MAYBE] Logitech | Corporate Strategy Analyst
 - Link: https://logitech.wd5.myworkdayjobs.com/Logitech/job/Offsite---USA---TX/Corporate-Strategy-Analyst_148779
 - Location: 2 Locations ; Offsite - USA - TX ; San Jose, California - USA (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -516,7 +550,7 @@ Logitech is the Sweet Spot for people who want their actions to have a positive 
 
 ---
 
-## 27. [MAYBE] Visa | Associate Data Engineer, AI Studio
+## 28. [MAYBE] Visa | Associate Data Engineer, AI Studio
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W
 - Location: US - Austin, TX ; US - Austin, TX (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -531,7 +565,7 @@ About Us Visa is a world leader in payments technology, facilitating transaction
 
 ---
 
-## 28. [MAYBE] University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being
+## 29. [MAYBE] University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being
 - Link: https://studentemployment-stthomas.icims.com/jobs/10464/graduate-assistant-for-data-analytics%2c-center-for-well-being/job
 - Location: St. Paul, MN, US
 - Posted: new since the previous sweep (board shows no date)
@@ -546,7 +580,7 @@ OVERVIEW JOB TITLE: Graduate Assistant for Data Analytics, Center for Well-Being
 
 ---
 
-## 29. [MAYBE] Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group
+## 30. [MAYBE] Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group
 - Link: https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/3131-Princeton-Pike/Business-Data-Analyst---FT---Day---Capital-Health-Medical-Group_JR112120
 - Location: 3131 Princeton Pike ; 3131 Princeton Pike (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -561,7 +595,22 @@ Capital Health is the region's leader in providing progressive, quality patient 
 
 ---
 
-## 30. [MAYBE] PennState University | Part-Time Research Assistant - Amsalem Lab
+## 31. [MAYBE] University of Chicago | Research Professional
+- Link: https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional_JR35989
+- Location: Chicago, IL ; Chicago, IL (United States of America)
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: excel, statistic, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Department BSD NRB - Kratsios Lab About the Department Our research is uncovering fundamental principles of the nervous system--how brain circuits give rise to behavior and thought, how the nervous system develops across the lifetime, and how brain function is disrupted by neurological disease and mental illness. Job Summary The Kratsios lab is a basic science lab interested in understanding human neurological disorders. Our lab uses the specific strengths of C. elegans, mice and human stem cell technology to reveal the molecular mechanisms that underlie motor neuron development and disease. We integrate genetic, genomic, and transcriptomic approaches with molecular and behavioral assays to illuminate the causative mechanisms of two neurological disorders: (a) the neurodevelopmental syndrome known as Hypotonia, Ataxia, and Delayed Development Syndrome (HADDS), and (b) the adult-onset neurodegenerative disease known as amyotrophic lateral sclerosis (ALS). This position is expected to start on March 1, 2027 and end on February 29, 2028. Responsibilities Performs experiments and collects and analyzes data. Participates in the promotion of a research project. Participates in the preparation and writing of grant applications and reports, and co-authors/authors scientific research manuscripts. Provides peer review of grant applications and scientific manuscripts. Collaborates on development of new research projects with academic and community-based organizations. Performs other related work as needed. Minimum Qualifications Education: Minimum requirements include a PhD in related field. Work Experience: Minimum requirements include knowledge and skills developed through Certifications: --- Preferred Qualifications Education: PhD in biology or related field. Preferred Competencies Ability to maintain calm and courteous demeanor and to work productively despite heavy workload, competing priorities and complex problems. Willingness to help others in the lab as needed. Excellent problem-solving skills. Initiative in identifying new tools and software that are useful to the lab. Background knowledge of microbial mobile genetic elements and the mechanisms of the recombinases they encode. Working Conditions Research Lab setting. Application Documents Resume/CV (required) Cover letter (required) The University of Chicago uses AI-assisted tools to streamline and augment some recruitment processes; however, AI is not used to make hiring decisions. When applying, the document(s) MUST be uploaded via the My Experience page, in the section titled Application Documents of the application. Job Family Research Role Impact Individual Contributor Scheduled Weekly Hours 40 Drug Test Required No Health Screen Required No Motor Vehicle Record Inquiry Required No Pay Rate Type Salary ​ FLSA Status Exempt ​ Pay Range $60,000.00 - $80,000.00 The included pay rate or range represents the University’s good faith estimate of the possible compensation offer for this role at the time of posting. Benefits Eligible Yes The University of Chicago offers a wide range of benefits programs and resources for eligible employees, including health, retirement, and paid time off. Information about the benefit offerings can be found in the Benefits Guidebook . Posting Statement The University of Chicago
+
+---
+
+## 32. [MAYBE] PennState University | Part-Time Research Assistant - Amsalem Lab
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Amsalem-Lab_REQ_0000084598-1
 - Location: Penn State University Park ; Penn State University Park (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -576,7 +625,37 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 31. [MAYBE] Merck | Senior Machine Learning Scientist, Foundation Model
+## 33. [MAYBE] Broadridge | Product Analyst — Proxy Meeting Services
+- Link: https://broadridge.wd5.myworkdayjobs.com/Careers/job/New-York-NY/Product-Analyst---Proxy-Meeting-Services_JR1087914-1
+- Location: 2 Locations ; New York, NY ; Edgewood, NY (United States of America)
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 4 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, git, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At Broadridge, we've built a culture where the highest goal is to empower others to accomplish more. If you’re passionate about developing your career, while helping others along the way, come join the Broadridge team. Broadridge is growing! We are seeking a Product Analyst to join our Issuer Governance and Communications team. This role will focus on the core Proxy Meeting services product. This person will help inform the product roadmap, translate client and market needs into product requirements, and improve the practices and workflows that support successful Proxy Service campaigns. Working across Product, Technology, Operations, Marketing, Sales, and client-facing teams, the Analyst uses data, market research, and customer insights to support platform improvements, evaluate opportunities in adjacent market segments, and contribute to go-to-market plans. Responsibilities Research customer needs, industry trends, and market competition to help assess existing products, proposed enhancements, and new product opportunities. Gather, document, and clarify business requirements and technical specifications in partnership with product managers, client-facing teams, and Technology. Support product roadmap planning by analyzing customer feedback, platform performance, and market intelligence. Analyze and monitor new and existing products and services, identifying opportunities to improve functionality, user experience, and operational workflows. Support the evaluation of proposed product requirements and development initiatives, including preparing inputs for business cases and return-on-investment analyses. Coordinate assigned activities with Technology and service delivery teams to support development schedules, operational readiness, and product launches. Partner with Marketing and Sales to support coordinated go-to-market plans, product positioning, and launch materials. Conduct research and analysis to inform product pricing and potential expansion into adjacent market segments. Help document and improve procedures and practices that support virtual events and shareholder meetings. Use established procedures to resolve routine issues, communicate findings clearly, and seek guidance on complex or unfamiliar matters. Track assigned deliverables, maintain accurate documentation, and meet agreed-upon deadlines. Qualifications Qualifications Bachelor’s degree in business, technology, marketing, or a related discipline, or equivalent work experience that provides knowledge of fundamental business and analytical concepts. Foundational understanding of product management, market research, business analysis, or related practices, gained through education or work experience. Ability to gather and analyze information, apply established procedures, and make sound judgments on routine business problems. Ability to translate customer and business needs into clear, organized requirements and supporting documentation. Strong attention to detail, organizational skills, and the ability to manage structured assignments and meet deadlines. Clear written and verbal communication skills, including the ability to ask questions, confirm understanding, and share findings with cross-functional colleagues. Comfort working with data, spreadsheets, presentations, and documentation tools. Willingness to learn, incorporate feedback, and develop technical and functional expertise under guidance. Interest in digital platforms, virtual events, shareholder meetings, or issuer governance and communications; familiarity with these areas is helpful but not required. This role is Hybrid meaning you will be assigned to our Long Island or New York City Office and given the flexibility to work remotely 2-3 days per week. Salary Range: $90,000 - $115,000 USD Broadridge considers various factors when evaluating a candidate's final salary including, but not limited to, relevant experience, skills, and education. Bonus Eligible. Please visit www.broadridgebenefits.com for more information on our comprehensive benefit offerings . We are dedicated to fostering a collaborative, engaging, and inclusive environment and are committed to providing a workplace that empowers associates to be authentic and bring their best to work. We believe that associates do their best when they feel safe, understood, and valued, and we work diligently and collaboratively to ensure Broadridge is a company—and ultimately a community—that recognizes and celebrates everyone’s unique perspective. Use of AI in Hiring As part of the recruiting process, Broadridge may use technology, including artificial intelligence (AI)-based tools, to help review and evaluate applications. These tools are used only to support our recruiters and hiring managers, and all employment decisions include human review to ensure fairness, accuracy, and compliance with applicable laws. Please note that honesty and transparency are critical to our hiring process. Any attempt to falsify, misrepresent, or disguise information in an application, resume, assessment, or interview will result in disqualification from consideration. US applicants: Click here to view the EEOC "
+
+---
+
+## 34. [MAYBE] Ohio State University | Research Scientist - DHLRI
+- Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Research-Scientist---DHLRI_R162135-1
+- Location: College of Medicine/Office of Health Sciences ; College of Medicine/Office of Health Sciences (United States of America)
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: python, statistic, publication, research | Lacks: matlab
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Screen reader users may encounter difficulty with this site. For assistance with applying, please contact hr-accessibleapplication@osu.edu . If you have questions while submitting an application, please review these frequently asked questions . Current Employees and Students: If you are currently employed or enrolled as a student at The Ohio State University, please l og in to Workday to use the internal application process. Welcome to The Ohio State University's career site. We invite you to apply to positions of interest. In order to ensure your application is complete, you must complete the following: Ensure you have all necessary documents available when starting the application process. You can review the additional job description section on postings for documents that may be required. Prior to submitting your application, please review and update (if necessary) the information in your candidate profile as it will transfer to your application. Job Title: Research Scientist - DHLRI Department: Medicine | Radiology Research Scientist to participate in the development and implementation of a nationally competitive program developing innovative translational diagnostic medical imaging technology within the Dorothy M. Davis Heart and Lung Research Institute at The Ohio State University. Responsibilities include: develops, implements, and validates innovative techniques and methodologies for reconstruction and processing of magnetic resonance imaging (MRI) data; plans, designs and executes advanced research experiments; conducts statistical analysis, evaluation and interpretation of data; assists with raw data archival and curation; develops new and supports on-going collaborative research opportunities; assists other investigators by contributing technical expertise; plans and writes manuscripts, articles, abstracts and research reports for publication in peer-reviewed journals; generates preliminary data for grant proposal submission and assists with proposal writing; serves as a co-investigator or collaborator on submitted or funded proposals; supervises and trains junior research staff, residents, and undergraduate & graduate students. Minimum Requirements: Doctoral degree in physics, engineering, or computer science required; considerable research and development experience in a progressively responsible research capacity desired; demonstrated publication record in peer-reviewed journals required; technical expertise in medical imaging physics and image reconstruction required; ability to program in MATLAB and Python required. Additional Information: Location: Biomedical Research Tower (0112) Position Type: Regular Scheduled Hours: 40 Shift: First Shift Final candidates are subject to successful completion of a background check. A drug screen or physical may be required during the post offer process. Thank you for your interest in positions at The Ohio State University and Wexner Medical Center. Once you have applied, the most updated information on the status of your application can be found by visiting the Candidate Home section of this site. Please view your submitted applications by logging in and reviewing your status. For answers to additional questions please review the frequently asked questions . The university
+
+---
+
+## 35. [MAYBE] Merck | Senior Machine Learning Scientist, Foundation Model
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Senior-Machine-Learning-Scientist--Foundation-Model_R416575-1
 - Location: USA - Massachusetts - Cambridge (320 Bent Street) ; USA - Massachusetts - Cambridge (320 Bent Street) (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -591,7 +670,22 @@ Job Description Our artificial intelligence and machine learning (AI/ML) capabil
 
 ---
 
-## 32. [MAYBE] Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding
+## 36. [MAYBE] Cedars-Sinai Medical Center | Senior Marketing Analyst (Digital Analytics & Insights) - Hybrid
+- Link: https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22454
+- Location: Los Angeles, CA, United States US
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~74 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, excel, power bi, python, r, sql, statistic, tableau, git, healthcare, kpi, quantitative, reporting | Lacks: looker  | Note: title says Senior/II: no years stated, check the level
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Grow your career at Cedars-Sinai! Cedars-Sinai Medical Center has been named to the Honor Roll in U.S. News & World Report’s “Best Hospitals 2025-2026” rankings. When you join our team, you’ll gain access to our groundbreaking biomedical research facilities and sophisticated medical education programs. We offer learning programs, tuition reimbursement and performance-improvement projects so you can achieve certifications and degrees while gaining the knowledge and experience needed to advance your career. Cedars-Sinai Marketing and Communications drives brand visibility and patient acquisition for the Los Angeles-based academic medical center. The team handles coordinated campaigns across digital, broadcast, and social media, alongside public relations, storytelling, and careful planning to support clinical growth. Why work here? Beyond an outstanding benefit package and competitive salaries, we take pride in hiring the best, most committed employees. Our staff reflects the cultural and ethnically diverse community we serve. They are proof of our dedication to creating a multifaceted, inclusive environment that fuels innovation and the gold standard of patient care we strive for. What will you be doing in this role: The Cedars-Sinai Marketing and Communications Senior Marketing Analyst - Digital Analytics & Insights will excel at understanding the business problems faced by decision-makers and translating marketing and digital data into clear insights, actionable recommendations, and measurable improvements. Areas of responsibility include: Lead analysis across marketing, public-facing websites, clinician search and appointment scheduling, telehealth products, and campaigns for medical specialties and services. Find opportunities to improve acquisition, engagement, and access to care. Act in a consultative role with marketing leaders, product teams, and senior executives. Clarify the business question, develop an analytical approach, and present concise recommendations supported by evidence. Analyze data from web analytics, marketing platforms, customer relationship management systems, customer data platforms, and other business systems. Validate definitions and reconcile conflicting results before drawing conclusions about performance. Develop KPI frameworks and measurement plans. Evaluate omnichannel performance, customer journeys, and opportunities for improvement, including implementing experimentation and other performance marketing techniques where appropriate. Create executive-ready slides, scorecards, spreadsheets, and analytical briefs for quarterly reporting and ad-hoc requests. Define dashboard requirements and work with our analytics engineer on repeatable reporting. Work independently with end-to-end ownership of project success, from intake to recommendation and follow-up. Manage stakeholders and deadlines, and resolve dependencies across teams. Proficiency with: Marketing measurement: acquisition funnels, campaign and channel efficiency, customer journeys, and the connection between activity and business outcomes. Digital analytics: Adobe Customer Journey Analytics (CJA), Adobe Analytics, or comparable platforms; custom metrics and segmentation; and how event collection, identity, session definitions, and attribution affect results. Data querying and validation: SQL for combining and analyzing data, checking definitions, and investigating discrepancies. Quantitative methods: descriptive statistics, uncertainty, basic test design, and interpretation of incomplete or imperfect evidence. Data visualization: hands-on analytical reporting in Power BI, Tableau, Looker, or a comparable tool. Power BI experience is preferred. Data storytelling: clear writing, visualizations, and presentations that help senior stakeholders make decisions. This is a hybrid role. Los Angeles area is preferred. Fully remote and out-of-state arrangements may be considered for outstanding candidates.  Experience Requirements: Three (3) plus years of hands-on marketing, digital, or business analytics experience, including independent project ownership and presentations to business leaders. Demonstrated ability to connect digital and marketing measurement to business decisions. Healthcare, customer data platforms, Python or R, and advanced statistical modeling experience are preferred, not required. Educational Requirements: Bachelor's degree in Healthcare Leadership/Management, Business or related field. #LI-Hybrid #LI-JM1
+
+---
+
+## 37. [MAYBE] Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4477297009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 25 10:37 ET
@@ -606,7 +700,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 33. [MAYBE] UnitedHealth Group | Senior Data Analyst
+## 38. [MAYBE] UnitedHealth Group | Senior Data Analyst
 - Link: https://careers.unitedhealthgroup.com/job/san-antonio/senior-data-analyst/34088/102779374880
 - Location: San Antonio, Texas ; San Antonio, Texas, United States ; Remote
 - Posted: new since the previous sweep (board shows no date)
@@ -621,7 +715,7 @@ Our Company Optum is a global organization that delivers care, aided by technolo
 
 ---
 
-## 34. [MAYBE] NVIDIA | Senior Robotics Research Scientist
+## 39. [MAYBE] NVIDIA | Senior Robotics Research Scientist
 - Link: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Senior-Robotics-Research-Scientist_JR2000652
 - Location: US, WA, Seattle ; US, WA, Seattle (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -636,7 +730,7 @@ We are now looking for a Senior Robotics Research Scientist! NVIDIA is at the fo
 
 ---
 
-## 35. [MAYBE] Google | Senior Business and Marketing Data Scientist I
+## 40. [MAYBE] Google | Senior Business and Marketing Data Scientist I
 - Link: https://www.google.com/about/careers/applications/jobs/results/93758412692562630
 - Location: Kirkland, WA, USA ; New York, NY, USA ; Sunnyvale, CA, USA
 - Posted: Nov 25 09:09 ET
@@ -651,7 +745,7 @@ Google's leadership team hand-picks thorny business challenges, and members of B
 
 ---
 
-## 36. [MAYBE] Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management)
+## 41. [MAYBE] Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management)
 - Link: https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73369
 - Location: Dearborn, MI, United States US
 - Posted: Nov 25 (board gives the date only)
@@ -666,7 +760,7 @@ Our Marketing, Sales & Service organization advances the Ford reputation as a vi
 
 ---
 
-## 37. [MAYBE] Block | Senior Model Risk Analyst, AI & Model Risk
+## 42. [MAYBE] Block | Senior Model Risk Analyst, AI & Model Risk
 - Link: http://block.xyz/careers/jobs/5494600008?gh_jid=5494600008
 - Location: Bay Area, CA, United States of America
 - Posted: Nov 25 12:07 ET
@@ -681,7 +775,7 @@ Block is one company built from many blocks, all united by the same purpose: eco
 
 ---
 
-## 38. [MAYBE] Etsy | Market Research Analyst II
+## 43. [MAYBE] Etsy | Market Research Analyst II
 - Link: https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Market-Research-Analyst-II_JR5818
 - Location: Brooklyn, New York ; Brooklyn, New York (United States of America)
 - Posted: Nov 25 (board gives the date only)
