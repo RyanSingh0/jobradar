@@ -11,33 +11,37 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 5 | TikTok | Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD) | 67 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
 | 6 | Bluesight | Data Engineer | 67 | none found (check myvisajobs) | Nov 25 10:59 ET |
 | 7 | KION Group | AI Analyst | 67 | none found (check myvisajobs) | Nov 25 (board gives the date only) |
-| 8 | Manulife Financial | Associate Data Scientist | 65 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 9 | U.S. Bank | Financial Analyst – Corporate Treasury | 65 | 82 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 10 | UCSF | Research Assistant | 62 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 11 | The Walt Disney Company | Compliance & Risk Analyst | 62 | 1 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 12 | Clera | Founding AI/ML Engineer | 60 | none found (check myvisajobs) | Nov 24 19:44 ET |
-| 13 | DTCC | Business Intelligence Associate, Applied AI | 60 | none found (check myvisajobs) | Nov 25 (board gives the date only) |
-| 14 | Manulife Financial | AI Engineer | 55 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 15 | PDT Partners | Applied ML Scientist  | 54 | 1 in data/analytics/finance occupations | Nov 24 18:11 ET |
-| 16 | Charles Schwab | Machine Learning Ops Data Engineer | 54 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 17 | UCSF | Research Data Analyst | 52 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 18 | Collectors | Associate Analytics Engineer | 52 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 19 | State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship | 52 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 20 | Stifel | Research Associate I - Energy | 50 | 15 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 21 | Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature | 50 | 1 in data/analytics/finance occupations | Nov 25 10:38 ET |
-| 22 | Roche | Data & Analytics Specialist | 48 | 7 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 23 | Logitech | Corporate Strategy Analyst | 45 | 4 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 24 | Visa | Associate Data Engineer, AI Studio | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 25 | University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being | 45 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 26 | Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 27 | Merck | Senior Machine Learning Scientist, Foundation Model | 74 | 71 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 28 | Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding | 67 | 1 in data/analytics/finance occupations | Nov 25 10:37 ET |
-| 29 | UnitedHealth Group | Senior Data Analyst | 65 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 30 | NVIDIA | Senior Robotics Research Scientist | 59 | 78 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 31 | Google | Senior Business and Marketing Data Scientist I | 55 | 1053 in data/analytics/finance occupations | Nov 25 09:09 ET |
-| 32 | Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management) | 55 | 133 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 33 | Block | Senior Model Risk Analyst, AI & Model Risk | 55 | 94 in data/analytics/finance occupations | Nov 25 12:07 ET |
-| 34 | Etsy | Market Research Analyst II | 55 | 19 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 8 | Daimler Truck | Data and AI Technical Coordinator | 67 | 5 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 9 | Manulife Financial | Associate Data Scientist | 65 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 10 | U.S. Bank | Financial Analyst – Corporate Treasury | 65 | 82 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 11 | UCSF | Research Assistant | 62 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 12 | The Walt Disney Company | Compliance & Risk Analyst | 62 | 1 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 13 | Clera | Founding AI/ML Engineer | 60 | none found (check myvisajobs) | Nov 24 19:44 ET |
+| 14 | DTCC | Business Intelligence Associate, Applied AI | 60 | none found (check myvisajobs) | Nov 25 (board gives the date only) |
+| 15 | Manulife Financial | AI Engineer | 55 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 16 | PDT Partners | Applied ML Scientist  | 54 | 1 in data/analytics/finance occupations | Nov 24 18:11 ET |
+| 17 | Charles Schwab | Machine Learning Ops Data Engineer | 54 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 18 | UCSF | Research Data Analyst | 52 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 19 | Collectors | Associate Analytics Engineer | 52 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 20 | State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship | 52 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 21 | Stifel | Research Associate I - Energy | 50 | 15 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 22 | Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature | 50 | 1 in data/analytics/finance occupations | Nov 25 10:38 ET |
+| 23 | NVIDIA | Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026 | 50 | 78 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 24 | University of Miami | Research Associate (SOAR) Program Ophthalmology Temporary Miami, FL | 50 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 25 | Roche | Data & Analytics Specialist | 48 | 7 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 26 | Logitech | Corporate Strategy Analyst | 45 | 4 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 27 | Visa | Associate Data Engineer, AI Studio | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 28 | University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being | 45 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 29 | Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 30 | PennState University | Part-Time Research Assistant - Amsalem Lab | 40 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 31 | Merck | Senior Machine Learning Scientist, Foundation Model | 74 | 71 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 32 | Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding | 67 | 1 in data/analytics/finance occupations | Nov 25 10:37 ET |
+| 33 | UnitedHealth Group | Senior Data Analyst | 65 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 34 | NVIDIA | Senior Robotics Research Scientist | 59 | 78 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 35 | Google | Senior Business and Marketing Data Scientist I | 55 | 1053 in data/analytics/finance occupations | Nov 25 09:09 ET |
+| 36 | Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management) | 55 | 133 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 37 | Block | Senior Model Risk Analyst, AI & Model Risk | 55 | 94 in data/analytics/finance occupations | Nov 25 12:07 ET |
+| 38 | Etsy | Market Research Analyst II | 55 | 19 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
 
 ---
 
@@ -185,7 +189,22 @@ Dematic is seeking an innovative and collaborative AI Solutions Analyst to join 
 
 ---
 
-## 8. [MAYBE] Manulife Financial | Associate Data Scientist
+## 8. [MAYBE] Daimler Truck | Data and AI Technical Coordinator
+- Link: https://dtna.wd5.myworkdayjobs.com/dtna_external/job/Charlotte-NC-US/Data-and-AI-Technical-Coordinator_DT-20864
+- Location: Charlotte, NC US ; Charlotte, NC US (United States of America)
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 5 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: data visualization, excel, python, sql, healthcare, portfolio, reporting, risk | Lacks: -  | Note: broad title
+- Eligibility: CHECK | Additional Information Applicants must be legally authorized to work permanently in the country of posting Final candidate must successfully complete a criminal background check Contractors, professional services, or oth
+
+### Job description
+
+Inside the Role Are you passionate about technology, artificial intelligence, analytics, and helping teams achieve more? Do you enjoy organizing information, building compelling presentations, improving processes, and working with a diverse group of business and technology professionals? As a Daimler Truck Financial Services Data and AI Technical Coordinator, you will serve as a critical force multiplier for our Data Analytics and AI Engineering organization. This role sits at the intersection of business, technology, and operations, helping transform ideas into action while enabling our analysts, engineers, managers, and governance leaders to focus on high-value strategic work. This position is ideal for a motivated professional who wants to build a career in Data Analytics or Artificial Intelligence while gaining exposure to enterprise-scale AI initiatives, automation solutions, governance practices, and business operations. You will work closely with leaders across the organization, contribute to meaningful technology initiatives, and develop a strong foundation for future advancement into Data Analyst, AI Engineer, or other technology-focused roles. This role offers a unique opportunity to learn, grow, and make a measurable impact while working in one of the most dynamic and rapidly evolving areas of technology. Posting Information We provide a scheduled posting end date to assist our candidates with their application planning. While this date reflects our latest plans, it is subject to change, and postings may be extended or removed earlier than expected. We Take Care of Our Team Pay offered dependent on knowledge, skills, and experience Benefits include annual bonus program; 401k company contribution with company match up to 6% as well as non-elective company contribution of 3 - 7% depending on age; starting at 4 weeks paid vacation; 15 calendar holidays; 8 weeks paid parental leave; employee assistance program; comprehensive healthcare plans and wellness programs; onsite fitness (at some locations); tuition assistance and volunteer paid time off; short-term and long-term disability plans. What You Drive at DTFS Communication & Executive Enablement You will play a key role in helping leaders communicate effectively across the organization. Working closely with managers, senior managers, and governance partners, you will create and maintain executive presentations, leadership updates, reporting materials, and strategic communications. Success in this area means translating complex technical concepts into clear, concise, and compelling business narratives that support decision-making and organizational alignment. Reporting & Governance Support You will help ensure the team operates with transparency, accountability, and strong governance practices. This includes coordinating recurring reporting activities, tracking initiative progress, monitoring milestones and action items, and supporting the timely completion of governance deliverables. By maintaining accurate and meaningful reporting, you will provide leaders with clear visibility into priorities, risks, achievements, and opportunities across the Data and AI portfolio. Knowledge Management & Documentation You will serve as a steward of team knowledge by creating, organizing, and maintaining documentation that supports both current operations and future growth. This includes process documentation, team standards, operating procedures, training materials, and knowledge repositories. Through effective use of collaboration technologies and AI-assisted documentation tools, you will help ensure that institutional knowledge is captured, accessible, and continuously improved. Team Operations & Coordination You will serve as a steward of team knowledge by creating, organizing, and maintaining documentation that supports both current operations and future growth. This includes process documentation, team standards, operating procedures, training materials, and knowledge repositories. Through effective use of collaboration technologies and AI-assisted documentation tools, you will help ensure that institutional knowledge is captured, accessible, and continuously improved. AI & Automation Enablement As part of a forward-looking Data and AI organization, you will identify and deliver opportunities to improve productivity through automation and AI-enabled solutions. You will support the creation of AI-assisted documentation capabilities, automate meeting recap and knowledge-sharing processes, and develop low-complexity use cases that enhance team effectiveness. This role provides direct exposure to enterprise AI and automation technologies, including Palantir Foundry, while building foundational capabilities that can support future career growth in analytics and AI engineering. Continuous Improvement & Innovation You will be encouraged to think beyond the day-to-day responsibilities of the role and actively identify opportunities to improve how the team works. Whether through process enhancements, better communication methods, improved reporting practices, or new automation opportunities, you will contribute to creating a more efficient and effective organization. Your curiosity, initiative, and willingness to challenge existing processes will help drive continuous improvement across the Data and AI function. Knowledge You Should Bring BA/BS and 2-4 years of relevant experience or 6 years experience in lieu of degree Strong written and verbal communication skills Experience creating professional presentations and business communications Strong organizational skills with the ability to manage multiple priorities simultaneously Ability to work independently while collaborating effectively across teams Demonstrated analytical and problem-solving capabilities Proficiency with Microsoft Office tools, particularly PowerPoint, Teams, SharePoint, and Excel Interest in Data Analytics, Artificial Intelligence, Automation, and emerging technologies Experience with Everyday AI and Companion AI Training and Agent Creation Exposure to data-driven business functions through reporting, analysis, or performance tracking. Curious learner with a strong desire to expand technical knowledge Relationship builder who enjoys working with diverse stakeholders Self-starter who takes initiative and drives tasks to completion Analytical thinker capable of organizing information and identifying patterns Detail-oriented professional with a commitment to quality Comfortable engaging with managers, senior leaders, and governance partners Ability to balance business priorities with technical considerations Experience coordinating projects, initiatives, or recurring business processes across multiple stakeholders. Experience creating and maintaining documentation, process guides, knowledge repositories, or operating procedures. Exceptional Candidates Might Have Bachelor's degree in Business, Information Technology, Data Analytics, Computer Science, or a rela [...]
+
+---
+
+## 9. [MAYBE] Manulife Financial | Associate Data Scientist
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Associate-Data-Scientist_JR26110981
 - Location: 2 Locations ; Boston, Massachusetts ; Toronto, Ontario (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -200,7 +219,7 @@ Associate Data Scientist Build your career in AI while solving real-world proble
 
 ---
 
-## 9. [MAYBE] U.S. Bank | Financial Analyst – Corporate Treasury
+## 10. [MAYBE] U.S. Bank | Financial Analyst – Corporate Treasury
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Financial-Analyst---Corporate-Treasury_2026-0036735
 - Location: Minneapolis, MN ; Minneapolis, MN (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -215,7 +234,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 10. [MAYBE] UCSF | Research Assistant
+## 11. [MAYBE] UCSF | Research Assistant
 - Link: https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/CONV_86555BR
 - Location: San Francisco, CA, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -230,7 +249,7 @@ Candidates must be fluent in Spanish The Research Assistant will provide researc
 
 ---
 
-## 11. [MAYBE] The Walt Disney Company | Compliance & Risk Analyst
+## 12. [MAYBE] The Walt Disney Company | Compliance & Risk Analyst
 - Link: https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Compliance---Risk-Analyst_10165882
 - Location: Lake Buena Vista, FL, USA ; Lake Buena Vista, FL, USA (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -245,7 +264,7 @@ Job Posting Title: Compliance & Risk Analyst Req ID: 10165882 Job Description: T
 
 ---
 
-## 12. [MAYBE] Clera | Founding AI/ML Engineer
+## 13. [MAYBE] Clera | Founding AI/ML Engineer
 - Link: https://jobs.ashbyhq.com/Clera/a85e66e9-d00e-48b5-8d14-5968111bc748
 - Location: San Jose United States remote
 - Posted: Nov 24 19:44 ET
@@ -302,7 +321,7 @@ Hybrid in San Jose, California.
 
 ---
 
-## 13. [MAYBE] DTCC | Business Intelligence Associate, Applied AI
+## 14. [MAYBE] DTCC | Business Intelligence Associate, Applied AI
 - Link: https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214719
 - Location: Jersey City, NJ, United States US LONDON, United Kingdom
 - Posted: Nov 25 (board gives the date only)
@@ -317,7 +336,7 @@ Are you ready to make an impact at DTCC? Do you want to work on innovative proje
 
 ---
 
-## 14. [MAYBE] Manulife Financial | AI Engineer
+## 15. [MAYBE] Manulife Financial | AI Engineer
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/AI-Engineer_JR26111069
 - Location: 2 Locations ; Boston, Massachusetts ; Toronto, Ontario (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -332,7 +351,7 @@ AI Engineer Build AI solutions that move beyond experimentation and into product
 
 ---
 
-## 15. [MAYBE] PDT Partners | Applied ML Scientist 
+## 16. [MAYBE] PDT Partners | Applied ML Scientist 
 - Link: https://job-boards.greenhouse.io/pdtpartners/jobs/1473516
 - Location: New York, NY
 - Posted: Nov 24 18:11 ET
@@ -347,7 +366,7 @@ PDT, a quantitative investment manager, is hiring problem solvers who blend prog
 
 ---
 
-## 16. [MAYBE] Charles Schwab | Machine Learning Ops Data Engineer
+## 17. [MAYBE] Charles Schwab | Machine Learning Ops Data Engineer
 - Link: https://career-schwab.icims.com/jobs/124397/machine-learning-ops-data-engineer/job
 - Location: Southlake, TX, US ; Austin, TX, US ; Phoenix, AZ, US
 - Posted: new since the previous sweep (board shows no date)
@@ -362,7 +381,7 @@ Your Opportunity At Schwab, you’re empowered to make an impact on your career.
 
 ---
 
-## 17. [MAYBE] UCSF | Research Data Analyst
+## 18. [MAYBE] UCSF | Research Data Analyst
 - Link: https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/CONV_87346BR
 - Location: San Francisco, CA, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -377,7 +396,7 @@ The Research Data Analyst will work under the direction of Co-Directors of the C
 
 ---
 
-## 18. [MAYBE] Collectors | Associate Analytics Engineer
+## 19. [MAYBE] Collectors | Associate Analytics Engineer
 - Link: https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US---Remote/Associate-Analytics-Engineer_JR107428
 - Location: US - Remote ; US - Remote (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -392,7 +411,7 @@ Collectors is the leading creator of innovative technology that provides value-a
 
 ---
 
-## 19. [MAYBE] State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship
+## 20. [MAYBE] State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship
 - Link: https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/State-Street-Enterprise-Risk-Management---Quantitative-Risk-Internship---2027-Summer-Internship_R-801341
 - Location: Clifton, New Jersey ; Clifton, New Jersey (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -407,7 +426,7 @@ Who we are looking for A strong quantitative candidate to join the team as an in
 
 ---
 
-## 20. [MAYBE] Stifel | Research Associate I - Energy
+## 21. [MAYBE] Stifel | Research Associate I - Energy
 - Link: https://careers-stifel.icims.com/jobs/11312/research-associate-i---energy/job
 - Location: New York, NY, US
 - Posted: new since the previous sweep (board shows no date)
@@ -422,7 +441,7 @@ Why Stifel Stifel strives for a culture that puts its clients and associates fir
 
 ---
 
-## 21. [MAYBE] Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature
+## 22. [MAYBE] Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4477299009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 25 10:38 ET
@@ -437,7 +456,37 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 22. [MAYBE] Roche | Data & Analytics Specialist
+## 23. [MAYBE] NVIDIA | Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026
+- Link: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032
+- Location: US, CA, Santa Clara ; US, CA, Santa Clara (United States of America)
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 78 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: pytorch, git, pipeline, publication, research | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Are you passionate about pushing the boundaries of AI at the intersection of the digital and physical worlds? Join our groundbreaking research team as we revolutionize the future of physical AI through groundbreaking generative models. We are now hiring Research Scientists to join our Cosmos team! As a Research Scientist specializing in Generative AI for Physical AI, you'll be at the forefront of developing next-generation algorithms that bridge the gap between virtual and physical realms. You'll work with state-of-the-art technology and have access to massive computational resources to bring your ideas to life. What you'll be doing: Pioneer revolutionary generative AI algorithms for physical AI applications, with a focus on advanced video generative models and video-language models Architect and implement sophisticated data processing pipelines that produce premium-quality training data for Generative AI and Physical AI systems Design and develop cutting-edge physics simulation algorithms that enhance Physical AI training Scale and optimize large-scale training systems to efficiently harness the power of 20,000+ GPUs for training foundation models Author influential research papers to share your groundbreaking discoveries with the global AI community Drive innovation through close collaboration with research teams, diverse internal product groups, and external researchers Build lasting impact by facilitating technology transfer and contributing to open-source initiatives What we need to see: PhD in Computer Science, Computer Engineering, Electrical Engineering, or related field (or equivalent experience). Deep expertise in PyTorch and related libraries for Generative AI and Physical AI development Strong foundation in diffusion, vision language and reasoning models and their applications Proven experience with reinforcement learning algorithms and implementations Robust knowledge of physics simulation and its integration with AI systems Demonstrated proficiency in 3D generative models and their applications Ways to stand out from the crowd: Publications or contributions to major AI conferences (ICLR, NeurIPS, ICML, CVPR, ECCV, SIGGRAPH, ICCV, etc.) Experience with large-scale distributed training systems Background in robotics or physical systems Open-source contributions to prominent AI projects History of successful research-to-product transitions You'll be part of a team that's defining the future of Physical AI, with access to world-class computing resources and the opportunity to work on problems that matter. Your research won't just live in papers – it will be implemented in real-world systems that push the boundaries of what's possible in AI. Join us in shaping the future of AI where digital intelligence meets physical reality. NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. Are you a creative and autonomous research scientist with a genuine passion for advancing the state of AI? If so, we want to hear from you! Your base salary will be determined based on your location, experience, and other objective job-related factors. The expected base salary range for this position is 165,000 USD – 312,000 USD. You will also be eligible for equity and benefits . Applications for this job will be accepted at least until November 29, 2026. This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes. NVIDIA is committed to fostering an inclusive work environment and proud to be an
+
+---
+
+## 24. [MAYBE] University of Miami | Research Associate (SOAR) Program Ophthalmology Temporary Miami, FL
+- Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate--SOAR--Program-Ophthalmology-Temporary-Miami--FL_R100103142-1
+- Location: Miami, FL ; Miami, FL (United States of America)
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: temporary/contract
+- Title scope: core | Has: excel, statistic, publication, research | Lacks: -  | Note: temporary or contract: confirm W-2 (not corp-to-corp), no fees, the end client, and the end date against the OPT and STEM OPT dates
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Current Employees: If you are a current Staff, Faculty or Temporary employee at the University of Miami, please click here to log in to Workday to use the internal application process. To learn how to apply for a faculty or staff position, please review this tip sheet . The Department of Ophthalmology is currently seeking a temporary Research Associate 1 to work in Miami. The Research Associate 1, SOM supports research activities for the assigned division by conducting laboratory experiments on assigned research projects. Moreover, the incumbent operates with the goal of advancing his/her expertise through continued education, training, and research. CORE JOB FUNCTIONS Understands and interprets research protocols and procedures. Participates in the publication of significant results. Maintains an overview of relevant research findings. Ensures all research is undertaken according to good research practice. Keeps abreast of current publications relative to methods, techniques, and developments within the area of research. Collects, prepares, analyzes, dissects, and evaluates specimens or tissue cultures. Operates and maintains laboratory equipment. Performs a variety of routine assays, tests, and studies. Performs calculations to complete research test results, collects data, and performs statistical analysis of laboratory results. Adheres to University and unit-level policies and procedures and safeguards University assets. This list of duties and responsibilities is not intended to be all-inclusive and may be expanded to include other duties or responsibilities as necessary. CORE QUALIFICATIONS Education: Bachelor’s degree in relevant field required Experience: No previous experience required Knowledge, Skills and Abilities: Learning Agility: Ability to learn new procedures, technologies, and protocols, and adapt to changing priorities and work demands. Teamwork: Ability to work collaboratively with others and contribute to a team environment. Technical Proficiency: Skilled in using office software, technology, and relevant computer applications. Communication: Strong and clear written and verbal communication skills for interacting with colleagues and stakeholders. The University of Miami offers competitive salaries and a comprehensive benefits package including medical, dental, tuition remission and more. UHealth-University of Miami Health System, South Florida's only university-based health system, provides leading-edge patient care powered by the ground breaking research and medical education at the Miller School of Medicine. As an academic medical center, we are proud to serve South Florida, Latin America and the Caribbean. Our physicians represent more than 100 specialties and sub-specialties, and have more than one million patient encounters each year. Our tradition of excellence has earned worldwide recognition for outstanding teaching, research and patient care. We're the challenge you've been looking for. The University of Miami
+
+---
+
+## 25. [MAYBE] Roche | Data & Analytics Specialist
 - Link: https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/Data---Analytics-Specialist_202611-128713-1
 - Location: Tucson ; Tucson (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -452,7 +501,7 @@ At Roche you can show up as yourself, embraced for the unique qualities you brin
 
 ---
 
-## 23. [MAYBE] Logitech | Corporate Strategy Analyst
+## 26. [MAYBE] Logitech | Corporate Strategy Analyst
 - Link: https://logitech.wd5.myworkdayjobs.com/Logitech/job/Offsite---USA---TX/Corporate-Strategy-Analyst_148779
 - Location: 2 Locations ; Offsite - USA - TX ; San Jose, California - USA (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -467,7 +516,7 @@ Logitech is the Sweet Spot for people who want their actions to have a positive 
 
 ---
 
-## 24. [MAYBE] Visa | Associate Data Engineer, AI Studio
+## 27. [MAYBE] Visa | Associate Data Engineer, AI Studio
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W
 - Location: US - Austin, TX ; US - Austin, TX (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -482,7 +531,7 @@ About Us Visa is a world leader in payments technology, facilitating transaction
 
 ---
 
-## 25. [MAYBE] University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being
+## 28. [MAYBE] University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being
 - Link: https://studentemployment-stthomas.icims.com/jobs/10464/graduate-assistant-for-data-analytics%2c-center-for-well-being/job
 - Location: St. Paul, MN, US
 - Posted: new since the previous sweep (board shows no date)
@@ -497,7 +546,7 @@ OVERVIEW JOB TITLE: Graduate Assistant for Data Analytics, Center for Well-Being
 
 ---
 
-## 26. [MAYBE] Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group
+## 29. [MAYBE] Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group
 - Link: https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/3131-Princeton-Pike/Business-Data-Analyst---FT---Day---Capital-Health-Medical-Group_JR112120
 - Location: 3131 Princeton Pike ; 3131 Princeton Pike (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -512,7 +561,22 @@ Capital Health is the region's leader in providing progressive, quality patient 
 
 ---
 
-## 27. [MAYBE] Merck | Senior Machine Learning Scientist, Foundation Model
+## 30. [MAYBE] PennState University | Part-Time Research Assistant - Amsalem Lab
+- Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Amsalem-Lab_REQ_0000084598-1
+- Location: Penn State University Park ; Penn State University Park (United States of America)
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: part-time
+- Title scope: core | Has: statistic, reporting, research | Lacks: -  | Note: part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process . Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday. If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants . Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants . JOB DESCRIPTION AND POSITION REQUIREMENTS We are seeking a highly responsible and motivated hourly laboratory assistant to support several research projects related to bumble bee social behavior and health. Responsibilities include maintaining bumble bee colonies, performing bee dissections, and mentoring undergraduate students. The successful applicant will be expected to work independently following initial training. Previous research laboratory experience and a background in hormonal/nutritional studies, chemical ecology, and undergraduate student supervision are required. Compensation: The starting rate for this job is $35/hour. BACKGROUND CHECKS/CLEARANCES Employment with the University will require successful completion of background check(s) in accordance with University policies. CAMPUS SECURITY CRIME STATISTICS Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here .
+
+---
+
+## 31. [MAYBE] Merck | Senior Machine Learning Scientist, Foundation Model
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Senior-Machine-Learning-Scientist--Foundation-Model_R416575-1
 - Location: USA - Massachusetts - Cambridge (320 Bent Street) ; USA - Massachusetts - Cambridge (320 Bent Street) (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -527,7 +591,7 @@ Job Description Our artificial intelligence and machine learning (AI/ML) capabil
 
 ---
 
-## 28. [MAYBE] Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding
+## 32. [MAYBE] Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4477297009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 25 10:37 ET
@@ -542,7 +606,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 29. [MAYBE] UnitedHealth Group | Senior Data Analyst
+## 33. [MAYBE] UnitedHealth Group | Senior Data Analyst
 - Link: https://careers.unitedhealthgroup.com/job/san-antonio/senior-data-analyst/34088/102779374880
 - Location: San Antonio, Texas ; San Antonio, Texas, United States ; Remote
 - Posted: new since the previous sweep (board shows no date)
@@ -557,7 +621,7 @@ Our Company Optum is a global organization that delivers care, aided by technolo
 
 ---
 
-## 30. [MAYBE] NVIDIA | Senior Robotics Research Scientist
+## 34. [MAYBE] NVIDIA | Senior Robotics Research Scientist
 - Link: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Senior-Robotics-Research-Scientist_JR2000652
 - Location: US, WA, Seattle ; US, WA, Seattle (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -572,7 +636,7 @@ We are now looking for a Senior Robotics Research Scientist! NVIDIA is at the fo
 
 ---
 
-## 31. [MAYBE] Google | Senior Business and Marketing Data Scientist I
+## 35. [MAYBE] Google | Senior Business and Marketing Data Scientist I
 - Link: https://www.google.com/about/careers/applications/jobs/results/93758412692562630
 - Location: Kirkland, WA, USA ; New York, NY, USA ; Sunnyvale, CA, USA
 - Posted: Nov 25 09:09 ET
@@ -587,7 +651,7 @@ Google's leadership team hand-picks thorny business challenges, and members of B
 
 ---
 
-## 32. [MAYBE] Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management)
+## 36. [MAYBE] Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management)
 - Link: https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73369
 - Location: Dearborn, MI, United States US
 - Posted: Nov 25 (board gives the date only)
@@ -602,7 +666,7 @@ Our Marketing, Sales & Service organization advances the Ford reputation as a vi
 
 ---
 
-## 33. [MAYBE] Block | Senior Model Risk Analyst, AI & Model Risk
+## 37. [MAYBE] Block | Senior Model Risk Analyst, AI & Model Risk
 - Link: http://block.xyz/careers/jobs/5494600008?gh_jid=5494600008
 - Location: Bay Area, CA, United States of America
 - Posted: Nov 25 12:07 ET
@@ -617,7 +681,7 @@ Block is one company built from many blocks, all united by the same purpose: eco
 
 ---
 
-## 34. [MAYBE] Etsy | Market Research Analyst II
+## 38. [MAYBE] Etsy | Market Research Analyst II
 - Link: https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Market-Research-Analyst-II_JR5818
 - Location: Brooklyn, New York ; Brooklyn, New York (United States of America)
 - Posted: Nov 25 (board gives the date only)
