@@ -21,32 +21,35 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 15 | Manulife Financial | AI Engineer | 55 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
 | 16 | PDT Partners | Applied ML Scientist  | 54 | 1 in data/analytics/finance occupations | Nov 24 18:11 ET |
 | 17 | Charles Schwab | Machine Learning Ops Data Engineer | 54 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 18 | UCSF | Research Data Analyst | 52 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 19 | Collectors | Associate Analytics Engineer | 52 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 20 | State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship | 52 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 21 | Stifel | Research Associate I - Energy | 50 | 15 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 22 | Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature | 50 | 1 in data/analytics/finance occupations | Nov 25 10:38 ET |
-| 23 | NVIDIA | Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026 | 50 | 78 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 24 | University of Miami | Research Associate (SOAR) Program Ophthalmology Temporary Miami, FL | 50 | cap-exempt employer | Nov 25 (board gives the date only) |
-| 25 | TikTok | Machine Learning Engineer, Recommendation, Alliance E-Commerce | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 26 | Roche | Data & Analytics Specialist | 48 | 7 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 27 | Logitech | Corporate Strategy Analyst | 45 | 4 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 28 | Visa | Associate Data Engineer, AI Studio | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 29 | University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being | 45 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 30 | Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 31 | University of Chicago | Research Professional | 45 | cap-exempt employer | Nov 25 (board gives the date only) |
-| 32 | PennState University | Part-Time Research Assistant - Amsalem Lab | 40 | cap-exempt employer | Nov 25 (board gives the date only) |
-| 33 | Broadridge | Product Analyst — Proxy Meeting Services | 40 | 4 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 34 | Ohio State University | Research Scientist - DHLRI | 40 | cap-exempt employer | Nov 25 (board gives the date only) |
-| 35 | Merck | Senior Machine Learning Scientist, Foundation Model | 74 | 71 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 36 | Cedars-Sinai Medical Center | Senior Marketing Analyst (Digital Analytics & Insights) - Hybrid | 74 | cap-exempt employer | Nov 25 (board gives the date only) |
-| 37 | Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding | 67 | 1 in data/analytics/finance occupations | Nov 25 10:37 ET |
-| 38 | UnitedHealth Group | Senior Data Analyst | 65 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 39 | NVIDIA | Senior Robotics Research Scientist | 59 | 78 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 40 | Google | Senior Business and Marketing Data Scientist I | 55 | 1053 in data/analytics/finance occupations | Nov 25 09:09 ET |
-| 41 | Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management) | 55 | 133 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 42 | Block | Senior Model Risk Analyst, AI & Model Risk | 55 | 94 in data/analytics/finance occupations | Nov 25 12:07 ET |
-| 43 | Etsy | Market Research Analyst II | 55 | 19 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 18 | University of Miami | Research Associate 1 | 54 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 19 | UCSF | Research Data Analyst | 52 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 20 | Collectors | Associate Analytics Engineer | 52 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 21 | State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship | 52 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 22 | Stifel | Research Associate I - Energy | 50 | 15 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 23 | Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature | 50 | 1 in data/analytics/finance occupations | Nov 25 10:38 ET |
+| 24 | NVIDIA | Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026 | 50 | 78 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 25 | University of Miami | Research Associate (SOAR) Program Ophthalmology Temporary Miami, FL | 50 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 26 | TikTok | Machine Learning Engineer, Recommendation, Alliance E-Commerce | 50 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 27 | Roche | Data & Analytics Specialist | 48 | 7 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 28 | Logitech | Corporate Strategy Analyst | 45 | 4 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 29 | Visa | Associate Data Engineer, AI Studio | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 30 | University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being | 45 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 31 | Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 32 | University of Chicago | Research Professional | 45 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 33 | TikTok | Machine Learning Engineer, Ecommerce Risk Control | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 34 | PennState University | Part-Time Research Assistant - Amsalem Lab | 40 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 35 | Broadridge | Product Analyst — Proxy Meeting Services | 40 | 4 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 36 | Ohio State University | Research Scientist - DHLRI | 40 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 37 | Mayo Clinic | Research Fellow - Lab Medicine and Pathology | 40 | 26 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 38 | Merck | Senior Machine Learning Scientist, Foundation Model | 74 | 71 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 39 | Cedars-Sinai Medical Center | Senior Marketing Analyst (Digital Analytics & Insights) - Hybrid | 74 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 40 | Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding | 67 | 1 in data/analytics/finance occupations | Nov 25 10:37 ET |
+| 41 | UnitedHealth Group | Senior Data Analyst | 65 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 42 | NVIDIA | Senior Robotics Research Scientist | 59 | 78 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 43 | Google | Senior Business and Marketing Data Scientist I | 55 | 1053 in data/analytics/finance occupations | Nov 25 09:09 ET |
+| 44 | Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management) | 55 | 133 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 45 | Block | Senior Model Risk Analyst, AI & Model Risk | 55 | 94 in data/analytics/finance occupations | Nov 25 12:07 ET |
+| 46 | Etsy | Market Research Analyst II | 55 | 19 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
 
 ---
 
@@ -386,7 +389,22 @@ Your Opportunity At Schwab, you’re empowered to make an impact on your career.
 
 ---
 
-## 18. [MAYBE] UCSF | Research Data Analyst
+## 18. [MAYBE] University of Miami | Research Associate 1
+- Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate-1_R100102835
+- Location: Miami, FL ; Miami, FL (United States of America)
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~54 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: part-time
+- Title scope: core | Has: excel, statistic, data quality, publication, research | Lacks: -  | Note: part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Current Employees: If you are a current Staff, Faculty or Temporary employee at the University of Miami, please click here to log in to Workday to use the internal application process. To learn how to apply for a faculty or staff position, please review this tip sheet . Research Associate 1 The University of Miami/UHealth Department of Minimal Invasive Surgery has an exciting opportunity for a Temporary Part Time, Research Associate 1 to work in Miami. Core Job Summary: The Research Associate 1, SOM supports research activities for the assigned division by conducting laboratory experiments on assigned research projects. Moreover, the incumbent operates with the goal of advancing his/her expertise through continued education, training, and research. Core Responsibilities: Understands and interprets research protocols and procedures. Participates in the publication of significant results. Maintains an overview of relevant research findings. Ensures all research is undertaken according to good research practice. Keeps abreast of current publications relative to methods, techniques, and developments within the area of research. Collects, prepares, analyzes, dissects, and evaluates specimens or tissue cultures. Operates and maintains laboratory equipment. Performs a variety of routine assays, tests, and studies. Performs calculations to complete research test results, collects data, and performs statistical analysis of laboratory results. Adheres to University and unit-level policies and procedures and safeguards University assets. Department Specific Functions: Standardized framework for importing data from clinical devices into REDCap Improve data quality, patient tracking, and research efficiency. Prepare and tailor approved datasets for analysis based on the needs of individual research projects. Facilitate authorized MiSORCE researchers’ access to relevant data. This list of duties and responsibilities is not intended to be all-inclusive and may be expanded to include other duties or responsibilities as necessary. Core Qualifications: Bachelor’s degree in relevant field required Learning Agility: Ability to learn new procedures, technologies, and protocols, and adapt to changing priorities and work demands. Teamwork: Ability to work collaboratively with others and contribute to a team environment. Technical Proficiency: Skilled in using office software, technology, and relevant computer applications. Communication: Strong and clear written and verbal communication skills for interacting with colleagues and stakeholders. The University of Miami offers competitive salaries and a comprehensive benefits package including medical, dental, tuition remission and more. UHealth-University of Miami Health System, South Florida's only university-based health system, provides leading-edge patient care powered by the ground breaking research and medical education at the Miller School of Medicine. As an academic medical center, we are proud to serve South Florida, Latin America and the Caribbean. Our physicians represent more than 100 specialties and sub-specialties, and have more than one million patient encounters each year. Our tradition of excellence has earned worldwide recognition for outstanding teaching, research and patient care. We're the challenge you've been looking for. The University of Miami
+
+---
+
+## 19. [MAYBE] UCSF | Research Data Analyst
 - Link: https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/CONV_87346BR
 - Location: San Francisco, CA, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -401,7 +419,7 @@ The Research Data Analyst will work under the direction of Co-Directors of the C
 
 ---
 
-## 19. [MAYBE] Collectors | Associate Analytics Engineer
+## 20. [MAYBE] Collectors | Associate Analytics Engineer
 - Link: https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US---Remote/Associate-Analytics-Engineer_JR107428
 - Location: US - Remote ; US - Remote (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -416,7 +434,7 @@ Collectors is the leading creator of innovative technology that provides value-a
 
 ---
 
-## 20. [MAYBE] State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship
+## 21. [MAYBE] State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship
 - Link: https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/State-Street-Enterprise-Risk-Management---Quantitative-Risk-Internship---2027-Summer-Internship_R-801341
 - Location: Clifton, New Jersey ; Clifton, New Jersey (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -431,7 +449,7 @@ Who we are looking for A strong quantitative candidate to join the team as an in
 
 ---
 
-## 21. [MAYBE] Stifel | Research Associate I - Energy
+## 22. [MAYBE] Stifel | Research Associate I - Energy
 - Link: https://careers-stifel.icims.com/jobs/11312/research-associate-i---energy/job
 - Location: New York, NY, US
 - Posted: new since the previous sweep (board shows no date)
@@ -446,7 +464,7 @@ Why Stifel Stifel strives for a culture that puts its clients and associates fir
 
 ---
 
-## 22. [MAYBE] Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature
+## 23. [MAYBE] Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4477299009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 25 10:38 ET
@@ -461,7 +479,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 23. [MAYBE] NVIDIA | Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026
+## 24. [MAYBE] NVIDIA | Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026
 - Link: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032
 - Location: US, CA, Santa Clara ; US, CA, Santa Clara (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -476,7 +494,7 @@ Are you passionate about pushing the boundaries of AI at the intersection of the
 
 ---
 
-## 24. [MAYBE] University of Miami | Research Associate (SOAR) Program Ophthalmology Temporary Miami, FL
+## 25. [MAYBE] University of Miami | Research Associate (SOAR) Program Ophthalmology Temporary Miami, FL
 - Link: https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Research-Associate--SOAR--Program-Ophthalmology-Temporary-Miami--FL_R100103142-1
 - Location: Miami, FL ; Miami, FL (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -491,7 +509,7 @@ Current Employees: If you are a current Staff, Faculty or Temporary employee at 
 
 ---
 
-## 25. [MAYBE] TikTok | Machine Learning Engineer, Recommendation, Alliance E-Commerce
+## 26. [MAYBE] TikTok | Machine Learning Engineer, Recommendation, Alliance E-Commerce
 - Link: https://lifeattiktok.com/search/7346326177919650098
 - Location: Seattle, Washington, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -520,7 +538,7 @@ Preferred Qualifications
 
 ---
 
-## 26. [MAYBE] Roche | Data & Analytics Specialist
+## 27. [MAYBE] Roche | Data & Analytics Specialist
 - Link: https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/Data---Analytics-Specialist_202611-128713-1
 - Location: Tucson ; Tucson (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -535,7 +553,7 @@ At Roche you can show up as yourself, embraced for the unique qualities you brin
 
 ---
 
-## 27. [MAYBE] Logitech | Corporate Strategy Analyst
+## 28. [MAYBE] Logitech | Corporate Strategy Analyst
 - Link: https://logitech.wd5.myworkdayjobs.com/Logitech/job/Offsite---USA---TX/Corporate-Strategy-Analyst_148779
 - Location: 2 Locations ; Offsite - USA - TX ; San Jose, California - USA (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -550,7 +568,7 @@ Logitech is the Sweet Spot for people who want their actions to have a positive 
 
 ---
 
-## 28. [MAYBE] Visa | Associate Data Engineer, AI Studio
+## 29. [MAYBE] Visa | Associate Data Engineer, AI Studio
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W
 - Location: US - Austin, TX ; US - Austin, TX (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -565,7 +583,7 @@ About Us Visa is a world leader in payments technology, facilitating transaction
 
 ---
 
-## 29. [MAYBE] University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being
+## 30. [MAYBE] University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being
 - Link: https://studentemployment-stthomas.icims.com/jobs/10464/graduate-assistant-for-data-analytics%2c-center-for-well-being/job
 - Location: St. Paul, MN, US
 - Posted: new since the previous sweep (board shows no date)
@@ -580,7 +598,7 @@ OVERVIEW JOB TITLE: Graduate Assistant for Data Analytics, Center for Well-Being
 
 ---
 
-## 30. [MAYBE] Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group
+## 31. [MAYBE] Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group
 - Link: https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/3131-Princeton-Pike/Business-Data-Analyst---FT---Day---Capital-Health-Medical-Group_JR112120
 - Location: 3131 Princeton Pike ; 3131 Princeton Pike (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -595,7 +613,7 @@ Capital Health is the region's leader in providing progressive, quality patient 
 
 ---
 
-## 31. [MAYBE] University of Chicago | Research Professional
+## 32. [MAYBE] University of Chicago | Research Professional
 - Link: https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional_JR35989
 - Location: Chicago, IL ; Chicago, IL (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -610,7 +628,48 @@ Department BSD NRB - Kratsios Lab About the Department Our research is uncoverin
 
 ---
 
-## 32. [MAYBE] PennState University | Part-Time Research Assistant - Amsalem Lab
+## 33. [MAYBE] TikTok | Machine Learning Engineer, Ecommerce Risk Control
+- Link: https://lifeattiktok.com/search/7083343567582873864
+- Location: Seattle, Washington, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~45 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, forecast, machine learning, python, r, statistic, fraud, research, risk | Lacks: c++, java, matlab, scala
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The E-Commerce Risk Control (ECRC) team's mission  is : 
+- To protect TikTok e-commerce users, including and beyond buyer, seller, creator;
+- To make Tiktok e-commerce the safest and most trusted place worldwide to  transact online by securing the integrity of the e-commerce ecosystem and providing a safe shopping experience on the platform;
+- Through building software systems, risk models and operational processes, as well as collaborating with many cross-functional teams and stakeholders.
+
+The ECRC team works to prevent and detect any risk attempts in Tiktok e-commerce platforms (e.g. TikTok Shop, Fanno) and to mitigate the negative impact on our customers and Selling Partners (Sps), covering multiple classical and novel business risk areas such as account integrity, incentive abuse, malicious activities, brushing, click-farm, information leakage etc.
+We achieve our mission by a) developing state-of-art Machine Learning (ML) solutions to prevent customers, SPs, and Tiktok from being impacted by bad actors’ actions and practices to gain unfair business advantages; b) empowering Tiktok teams, both internal to GNE and external, to reduce risk attempts by utilizing our mechanisms.
+
+Responsibilities:
+- Invent, implement, and deploy state of the art machine learning algorithms, to respond to and mitigate business risks in Tiktok products/platforms. 
+- Build prototypes and explore conceptually new solutions, define and conduct experiments to validate/reject hypotheses, and communicate insights and recommendations to Product and Tech teams
+- Collaborate with cross-functional teams from multidisciplinary science, engineering and business backgrounds to enhance current automation processes
+- Develop efficient data querying infrastructure for both offline and online analysis, uncover evolving attack motion, identify weaknesses and opportunities in risk defense solutions, explore new space from the discoveries.
+- Define risk control measurements. Quantify, generalize and monitor risk related business and operational metrics. Align risk teams and their stakeholders on risk control numeric goals, promote impact-oriented, data-driven data science practices for risks.
+- Maintain technical documents and communicate results to diverse audiences with effective writing, visualizations, and presentations Minimum Qualifications:
+- Master degrees in Computer science, Mathematics, Machine Learning,  or other relevant STEM majors (e.g. finance if applying for financial fraud roles). Experience programming in Java, C++, Python or related language
+-  3+ years of hands on experience in building and delivering machine learning models for large-scale projects.
+- Track record of developing and implementing models and visualizations using programming and scripting (Scala, Python, R, Ruby, and/or Matlab).
+- Experience using various forecasting, machine learning and statistical tools and communicating results, plans and/or risks clearly.
+- Ability to think creatively and solve problems
+
+Preferred Qualifications:
+- A PhD in CS, Machine Learning, Statistics, Operations Research, or relevant field
+- 4+ years of industry experience in predictive modeling and analysis
+- Experience collaborating with product, operations and engineering teams is a plus.
+- Excellent analytical and communication skills and ability to influence stakeholders.
+- Experience in e-commerce / online companies in fraud / risk control functions
+
+---
+
+## 34. [MAYBE] PennState University | Part-Time Research Assistant - Amsalem Lab
 - Link: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Amsalem-Lab_REQ_0000084598-1
 - Location: Penn State University Park ; Penn State University Park (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -625,7 +684,7 @@ APPLICATION INSTRUCTIONS: CURRENT PENN STATE EMPLOYEE (faculty, staff, technical
 
 ---
 
-## 33. [MAYBE] Broadridge | Product Analyst — Proxy Meeting Services
+## 35. [MAYBE] Broadridge | Product Analyst — Proxy Meeting Services
 - Link: https://broadridge.wd5.myworkdayjobs.com/Careers/job/New-York-NY/Product-Analyst---Proxy-Meeting-Services_JR1087914-1
 - Location: 2 Locations ; New York, NY ; Edgewood, NY (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -640,7 +699,7 @@ At Broadridge, we've built a culture where the highest goal is to empower others
 
 ---
 
-## 34. [MAYBE] Ohio State University | Research Scientist - DHLRI
+## 36. [MAYBE] Ohio State University | Research Scientist - DHLRI
 - Link: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/College-of-MedicineOffice-of-Health-Sciences/Research-Scientist---DHLRI_R162135-1
 - Location: College of Medicine/Office of Health Sciences ; College of Medicine/Office of Health Sciences (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -655,7 +714,22 @@ Screen reader users may encounter difficulty with this site. For assistance with
 
 ---
 
-## 35. [MAYBE] Merck | Senior Machine Learning Scientist, Foundation Model
+## 37. [MAYBE] Mayo Clinic | Research Fellow - Lab Medicine and Pathology
+- Link: https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396532
+- Location: Rochester, MN, United States US
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~40 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 26 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: machine learning, git, research | Lacks: -  | Note: early-talent program
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Mayo Clinic has embarked on digitizing its large collection of glass slides, with several million gigapixel images currently available. The research fellow will use these data sets, accompanied by other clinically sourced data, as a springboard to pursue multiple cutting-edge topics in machine learning, image analysis, and discovery in support of the clinical and research activities of the division. The fellow will work on projects that include: Developing novel algorithms to classify, segment, characterize, or predict patient outcomes, biomarker status, or disease Evaluating model behavior and robustness, with a focus on developing novel methods to improve model performance and generalizability Analyzing human-AI interaction to understand the human factors associated with AI augmentation of pathology The research fellow will work under the mentorship of pathologists and data scientists, and will work closely with other trainees, IT groups, and other staff in support of these projects.  Must have a Ph.D., M.D., or equivalent doctoral degree in a field deemed relevant by the program. Research Fellow is appropriate for individuals who have completed no more than one prior postdoctoral fellowship, at Mayo Clinic or elsewhere. Why Mayo Clinic Mayo Clinic is top-ranked in more specialties than any other care provider according to U.S. News & World Report. As we work together to put the needs of the patient first, we are also dedicated to our employees, investing in competitive compensation and comprehensive benefit plans – to take care of you and your family, now and in the future. And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic. Benefits Highlights Medical: Multiple plan options. Dental: Delta Dental or reimbursement account for flexible coverage. Vision: Affordable plan with national network. Pre-Tax Savings: HSA and FSAs for eligible expenses. Retirement: Competitive retirement package to secure your future.
+
+---
+
+## 38. [MAYBE] Merck | Senior Machine Learning Scientist, Foundation Model
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Senior-Machine-Learning-Scientist--Foundation-Model_R416575-1
 - Location: USA - Massachusetts - Cambridge (320 Bent Street) ; USA - Massachusetts - Cambridge (320 Bent Street) (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -670,7 +744,7 @@ Job Description Our artificial intelligence and machine learning (AI/ML) capabil
 
 ---
 
-## 36. [MAYBE] Cedars-Sinai Medical Center | Senior Marketing Analyst (Digital Analytics & Insights) - Hybrid
+## 39. [MAYBE] Cedars-Sinai Medical Center | Senior Marketing Analyst (Digital Analytics & Insights) - Hybrid
 - Link: https://hdkk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22454
 - Location: Los Angeles, CA, United States US
 - Posted: Nov 25 (board gives the date only)
@@ -685,7 +759,7 @@ Grow your career at Cedars-Sinai! Cedars-Sinai Medical Center has been named to 
 
 ---
 
-## 37. [MAYBE] Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding
+## 40. [MAYBE] Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4477297009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 25 10:37 ET
@@ -700,7 +774,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 38. [MAYBE] UnitedHealth Group | Senior Data Analyst
+## 41. [MAYBE] UnitedHealth Group | Senior Data Analyst
 - Link: https://careers.unitedhealthgroup.com/job/san-antonio/senior-data-analyst/34088/102779374880
 - Location: San Antonio, Texas ; San Antonio, Texas, United States ; Remote
 - Posted: new since the previous sweep (board shows no date)
@@ -715,7 +789,7 @@ Our Company Optum is a global organization that delivers care, aided by technolo
 
 ---
 
-## 39. [MAYBE] NVIDIA | Senior Robotics Research Scientist
+## 42. [MAYBE] NVIDIA | Senior Robotics Research Scientist
 - Link: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Senior-Robotics-Research-Scientist_JR2000652
 - Location: US, WA, Seattle ; US, WA, Seattle (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -730,7 +804,7 @@ We are now looking for a Senior Robotics Research Scientist! NVIDIA is at the fo
 
 ---
 
-## 40. [MAYBE] Google | Senior Business and Marketing Data Scientist I
+## 43. [MAYBE] Google | Senior Business and Marketing Data Scientist I
 - Link: https://www.google.com/about/careers/applications/jobs/results/93758412692562630
 - Location: Kirkland, WA, USA ; New York, NY, USA ; Sunnyvale, CA, USA
 - Posted: Nov 25 09:09 ET
@@ -745,7 +819,7 @@ Google's leadership team hand-picks thorny business challenges, and members of B
 
 ---
 
-## 41. [MAYBE] Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management)
+## 44. [MAYBE] Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management)
 - Link: https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73369
 - Location: Dearborn, MI, United States US
 - Posted: Nov 25 (board gives the date only)
@@ -760,7 +834,7 @@ Our Marketing, Sales & Service organization advances the Ford reputation as a vi
 
 ---
 
-## 42. [MAYBE] Block | Senior Model Risk Analyst, AI & Model Risk
+## 45. [MAYBE] Block | Senior Model Risk Analyst, AI & Model Risk
 - Link: http://block.xyz/careers/jobs/5494600008?gh_jid=5494600008
 - Location: Bay Area, CA, United States of America
 - Posted: Nov 25 12:07 ET
@@ -775,7 +849,7 @@ Block is one company built from many blocks, all united by the same purpose: eco
 
 ---
 
-## 43. [MAYBE] Etsy | Market Research Analyst II
+## 46. [MAYBE] Etsy | Market Research Analyst II
 - Link: https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Market-Research-Analyst-II_JR5818
 - Location: Brooklyn, New York ; Brooklyn, New York (United States of America)
 - Posted: Nov 25 (board gives the date only)
