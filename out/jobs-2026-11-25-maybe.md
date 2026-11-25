@@ -5,15 +5,19 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | City of New York | Data Analytics Specialist | 67 | none found (check myvisajobs) | Nov 25 06:30 ET |
-| 2 | UCSF | Research Assistant | 62 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 3 | The Walt Disney Company | Compliance & Risk Analyst | 62 | 1 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 4 | Clera | Founding AI/ML Engineer | 60 | none found (check myvisajobs) | Nov 24 19:44 ET |
-| 5 | PDT Partners | Applied ML Scientist  | 54 | 1 in data/analytics/finance occupations | Nov 24 18:11 ET |
-| 6 | UCSF | Research Data Analyst | 52 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 7 | Collectors | Associate Analytics Engineer | 52 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 8 | Stifel | Research Associate I - Energy | 50 | 15 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 9 | Logitech | Corporate Strategy Analyst | 45 | 4 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 10 | Visa | Associate Data Engineer, AI Studio | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 2 | CareSource | Member Incentive Program Analyst | 67 | 17 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 3 | TikTok | Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD) | 67 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 4 | UCSF | Research Assistant | 62 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 5 | The Walt Disney Company | Compliance & Risk Analyst | 62 | 1 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 6 | Clera | Founding AI/ML Engineer | 60 | none found (check myvisajobs) | Nov 24 19:44 ET |
+| 7 | PDT Partners | Applied ML Scientist  | 54 | 1 in data/analytics/finance occupations | Nov 24 18:11 ET |
+| 8 | UCSF | Research Data Analyst | 52 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 9 | Collectors | Associate Analytics Engineer | 52 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 10 | State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship | 52 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 11 | Stifel | Research Associate I - Energy | 50 | 15 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 12 | Logitech | Corporate Strategy Analyst | 45 | 4 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 13 | Visa | Associate Data Engineer, AI Studio | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 14 | Google | Senior Business and Marketing Data Scientist I | 55 | 1053 in data/analytics/finance occupations | Nov 25 09:09 ET |
 
 ---
 
@@ -32,7 +36,58 @@ New York City Department of Design and Construction (DDC) is the City’s primar
 
 ---
 
-## 2. [MAYBE] UCSF | Research Assistant
+## 2. [MAYBE] CareSource | Member Incentive Program Analyst
+- Link: https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Member-Incentive-Program-Analyst_R14656-1
+- Location: Remote ; Remote (United States of America)
+- Posted: Nov 24 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 17 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: dashboard, data visualization, excel, power bi, tableau, healthcare, reporting | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Job Summary: The Member Incentive Program Analyst is responsible for supporting the oversight of the day-to-day operational activities for the Member Incentive programs. They will act as a liaison between Incentive vendors and CareSource departments including Compliance. Essential Functions: Build and maintain reports and dashboards on case volumes, resolution times, and program performance. Monitor and analyze reward/incentive calls, complaints, and appeals to identify patterns and drive improvements. Track incentive/rewards vendor deliverables, including on SLAs, troubleshoot issues and perform root cause analysis. Support the day-to-day oversight of rewards/incentive vendor programs. Resolve escalated rewards cases, coordinating corrections with internal teams and vendors. Manage large vendor data sets and develop data visualization. Establish and maintain collaborative working relationships with the CareSource Market Leads, Corporate Compliance Department and other CareSource departments as needed. Support the timely and accurate compliance with all state and federal contract requirements, inquiries, review, and submission deadlines, and required reporting. Create data-driven presentations to support decision-making and present to the Rewards leadership team and Market Leads. Support IT user acceptance testing (UAT) of the rewards program each year, validating that rewards coding works as intended. Perform any other job related duties as requested. Education and Experience: Bachelor's degree in Business, Analytics or related fields required Equivalent years of relevant work experience may be accepted in lieu of required education Two (2) years of experience in data analysis, reporting, claims, or case resolution required Two (2) years healthcare or managed care experience preferred Two (2) years healthcare rewards or loyalty program experience preferred Competencies, Knowledge and Skills: Exceptional computer skills including Microsoft Word, Excel, Access and Visio proficient Proficient at Power BI or Tableau High level knowledge, interaction and understanding of IT environment is preferred Troubleshooting and problem-solving capabilities Excellent oral and written communication skills Ability to manage time effectively Effective organization and prioritization skills Effective facilitation and interpersonal skills Effective relationship management skills Critical thinking skills Demonstrated systemic thinking skills Licensure and Certification: None Working Conditions: General office environment; may be required to sit or stand for extended periods of time Travel is not typically required Compensation Range: $54,500.00 - $87,300.00 CareSource takes into consideration a combination of a candidate’s education, training, and experience as well as the position’s scope and complexity, the discretion and latitude required for the role, and other external and internal data when establishing a salary level. In addition to base compensation, you may qualify for a bonus tied to company and individual performance. We are highly invested in every employee’s total well-being and offer a substantial and comprehensive total rewards package. Compensation Type (hourly/salary): Salary Organization Level Competencies Fostering a Collaborative Workplace Culture Cultivate Partnerships Develop Self and Others Drive Execution Influence Others Pursue Personal Excellence Understand the Business This job description is not all inclusive. CareSource reserves the right to amend this job description at any time. CareSource
+
+---
+
+## 3. [MAYBE] TikTok | Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD)
+- Link: https://lifeattiktok.com/search/7662674242861074741
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: excel, llm, nlp, pytorch, tensorflow, deep learning, research | Lacks: -  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The algorithm team is responsible for developing state-of-the-art computer vision, NLP and multimodality models and algorithms to protect our platform and users from the content and behaviors that violate community guidelines and related regulations. With the continuous efforts from our team, TikTok is able to provide the best user experience and bring joy to everyone in the world.
+
+We are looking for talented individuals to join us for an internship. PhD internships at Our Company provide students with the opportunity to actively contribute to our products and research, as well as to the organization's future plans and emerging technologies.
+
+Our dynamic internship experience blends hands-on learning, enriching community-building and professional development events, and collaboration with industry experts.
+
+Applications will be reviewed on a rolling basis, so we encourage you to apply early. Please clearly state your availability in your resume (Start date, End date).
+
+Responsibilities
+- Develop computer vision model or multimodality model to recognize violation content in TikTok
+- Explore cutting-edge multimodal or computer vision large models (CLIP, COCA, ALBEF, BLIP, Flamingo, ViT-G, ViT-22B, EVA-enormous, etc)
+- Explore the application of LLM in our business scenarios, like pre-training, zero-shot/ few-shot learning, hard case mining, etc
+- Continuously optimize the training framework to better adapt to the training of large models Minimum Qualifications:
+- PhD candidate in computer science or a related technical discipline
+- Related Research Experience at least one of the following areas: computer vision, multimodality, LLM
+- Be proficient with at least one deep learning framework (e.g. PyTorch, TensorFlow)
+- Have excellent analytical and problem-solving skills, logical thinking skills, communication and collaboration skills
+
+Preferred Qualifications:
+- Published papers in the top AI conferences or journals is a plus, including CVPR, ICCV, ECCV, NIPS, ICML, ICLR, TPAMI, IJCV, etc
+
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy
+
+---
+
+## 4. [MAYBE] UCSF | Research Assistant
 - Link: https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/CONV_86555BR
 - Location: San Francisco, CA, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -47,7 +102,7 @@ Candidates must be fluent in Spanish The Research Assistant will provide researc
 
 ---
 
-## 3. [MAYBE] The Walt Disney Company | Compliance & Risk Analyst
+## 5. [MAYBE] The Walt Disney Company | Compliance & Risk Analyst
 - Link: https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Compliance---Risk-Analyst_10165882
 - Location: Lake Buena Vista, FL, USA ; Lake Buena Vista, FL, USA (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -62,7 +117,7 @@ Job Posting Title: Compliance & Risk Analyst Req ID: 10165882 Job Description: T
 
 ---
 
-## 4. [MAYBE] Clera | Founding AI/ML Engineer
+## 6. [MAYBE] Clera | Founding AI/ML Engineer
 - Link: https://jobs.ashbyhq.com/Clera/a85e66e9-d00e-48b5-8d14-5968111bc748
 - Location: San Jose United States remote
 - Posted: Nov 24 19:44 ET
@@ -119,7 +174,7 @@ Hybrid in San Jose, California.
 
 ---
 
-## 5. [MAYBE] PDT Partners | Applied ML Scientist 
+## 7. [MAYBE] PDT Partners | Applied ML Scientist 
 - Link: https://job-boards.greenhouse.io/pdtpartners/jobs/1473516
 - Location: New York, NY
 - Posted: Nov 24 18:11 ET
@@ -134,7 +189,7 @@ PDT, a quantitative investment manager, is hiring problem solvers who blend prog
 
 ---
 
-## 6. [MAYBE] UCSF | Research Data Analyst
+## 8. [MAYBE] UCSF | Research Data Analyst
 - Link: https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/CONV_87346BR
 - Location: San Francisco, CA, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -149,7 +204,7 @@ The Research Data Analyst will work under the direction of Co-Directors of the C
 
 ---
 
-## 7. [MAYBE] Collectors | Associate Analytics Engineer
+## 9. [MAYBE] Collectors | Associate Analytics Engineer
 - Link: https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US---Remote/Associate-Analytics-Engineer_JR107428
 - Location: US - Remote ; US - Remote (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -164,7 +219,22 @@ Collectors is the leading creator of innovative technology that provides value-a
 
 ---
 
-## 8. [MAYBE] Stifel | Research Associate I - Energy
+## 10. [MAYBE] State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship
+- Link: https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/State-Street-Enterprise-Risk-Management---Quantitative-Risk-Internship---2027-Summer-Internship_R-801341
+- Location: Clifton, New Jersey ; Clifton, New Jersey (United States of America)
+- Posted: Nov 24 (board gives the date only)
+- Scanner fit: ~52 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 87 in data/analytics/finance occupations
+- Type: internship
+- Title scope: core | Has: econometric, python, sql, statistic, credit, model risk, portfolio, quantitative, risk | Lacks: c++, scala  | Note: internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Who we are looking for A strong quantitative candidate to join the team as an intern based in New Jersey, or Boston. This role is part of the Centralized Modeling, Analytics and Operations Group within Enterprise Risk Management’s Financial Risk Organization. Why this role is important to us The team you will be joining plays an important role in the overall success of the organization. Across the globe, institutional investors rely on us to help them manage risk, respond to challenges, and drive performance and profitability. To make that happen we need teams like yours to help navigate employees and the organization as a whole. In your role you will strive for cutting-edge solutions, that are straightforward and scalable. You will help us build resilience and execute day to day deliverables at our best. Join us if making your mark in the financial services industry from day one is a challenge you are up for. What you will be responsible for As Quantitative Risk intern you will: Enhance and maintain credit risk models (PD/LGD/EL) to provide quantitative support to credit risk analytical processes for State Street’s Commercial Real Estate (CRE) portfolio Enhance credit portfolio risk models for CCAR/CECL/IFRS9/BASEL/Ratings/ICAAP use cases, as well as for economic capital Review and enhance credit risk and market risk analytical methodology including modeling choices and variable selection (especially macroeconomic variables) in line with expanding business and regulatory requirements Review and verify key model assumptions with model owners Review model outputs with properly justified opinions and judgments by experts from credit risk and market risk managers to capture forward-looking financial market and macro-economic outlooks Implement internally developed models on risk analytical library platform Streamline the existing modeling and analytical process; increasing the pace of execution to meet the needs of the business Work in close partnership with the three lines of defense functions, such as model governance, Corporate Audit and Financial Regulatory Assurance to ensure appropriate governance and control infrastructure for credit risk analytics Prepare and present required reports/reviews to model risk management, senior management and global regulators What we value These skills will help you succeed in this role: Strong analytical and quantitative mindset; ability to take ownership and improve on existing risk models and methodologies Energetic/motivator: an enthusiastic individual with proven leadership skills and an ability to motivate a diverse, multi-level workforce and instill a sense of urgency on a range of evolving goals and objectives Organizational strengths: an ability to organize projects, processes and priorities to ensure business needs are met in a coordinated, responsive and timely manner, with minimal direction Confidence: a self-assured, experienced and knowledgeable individual able to quickly garner support for his/her views based on informed, well-presented direction or analysis, with a willingness to negotiate, and concede, when needed Communicator: clear, confident, self-assured communication style, coupled with an ability to react and adapt to various audiences and environments without diluting effectiveness Education & Preferred Qualifications Undergraduate student in a quantitative field such as statistics, economics, mathematics, or equivalent with strong programming skills Strong programming skills in Python/R/C/C++/SQL, etc. Motivated and fascinated in how to apply statistics and econometric methodologies to resolve risk modeling challenges in financial industry Strong presentation and communication skills, e.g. PowerPoint slides preparation and presentation. Salary Range: $41,600 - $65,000 Annual The range quoted above applies to the role in the primary location specified. If the candidate would ultimately work outside of the primary location above, the applicable range could differ. Employees are eligible to participate in State Street’s comprehensive benefits program, which includes: our retirement savings plan (401K) with company match; insurance coverage including basic life, medical, dental, vision, long-term disability, and other optional additional coverages; paid-time off including vacation, sick leave, short term disability, and family care responsibilities; access to our Employee Assistance Program; incentive compensation including eligibility for annual performance-based awards (excluding certain sales roles subject to sales incentive plans); and, eligibility for certain tax advantaged savings plans. For a full overview, visit https://hrportal.ehr.com/statestreet/Home . About State Street Across the globe, institutional investors rely on us to help them manage risk, respond to challenges, and drive performance and profitability. We keep our clients at the heart of everything we do, and smart, engaged employees are essential to our continued success. We are committed to fostering an environment where every employee feels valued and empowered to reach their full potential. As an essential partner in our shared success, you’ll benefit from inclusive development opportunities, flexible work-life support, paid volunteer days, and vibrant employee networks that keep you connected to what matters most. Join us in shaping the future. As an
+
+---
+
+## 11. [MAYBE] Stifel | Research Associate I - Energy
 - Link: https://careers-stifel.icims.com/jobs/11312/research-associate-i---energy/job
 - Location: New York, NY, US
 - Posted: new since the previous sweep (board shows no date)
@@ -179,7 +249,7 @@ Why Stifel Stifel strives for a culture that puts its clients and associates fir
 
 ---
 
-## 9. [MAYBE] Logitech | Corporate Strategy Analyst
+## 12. [MAYBE] Logitech | Corporate Strategy Analyst
 - Link: https://logitech.wd5.myworkdayjobs.com/Logitech/job/Offsite---USA---TX/Corporate-Strategy-Analyst_148779
 - Location: 2 Locations ; Offsite - USA - TX ; San Jose, California - USA (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -194,7 +264,7 @@ Logitech is the Sweet Spot for people who want their actions to have a positive 
 
 ---
 
-## 10. [MAYBE] Visa | Associate Data Engineer, AI Studio
+## 13. [MAYBE] Visa | Associate Data Engineer, AI Studio
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W
 - Location: US - Austin, TX ; US - Austin, TX (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -206,4 +276,19 @@ Logitech is the Sweet Spot for people who want their actions to have a positive 
 ### Job description
 
 About Us Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid. At Visa, you'll have the opportunity to create impact at scale — tackling meaningful challenges, growing your skills and seeing your contributions impact lives around the world. Join Visa and do work that matters – to you, to your community, and to the world. Progress starts with you. Job Description Company Description As the world's leader in digital payments technology, Visa's mission is to connect the world through the most innovative, convenient, reliable, and secure payments network, enabling individuals, businesses, and economies to thrive. Our advanced global processing network, VisaNet, provides secure and reliable payments around the world, and is capable of handling more than 65,000 transaction messages a second. The company's dedication to innovation drives the rapid growth of connected commerce on any device and fuels the dream of a cashless future for everyone, everywhere. As the world moves from analog to digital, Visa is applying our brand, products, people, network, and scale to reshape the future of commerce. Job Description Visa AI Studio is Visa's AI operating system: a single platform for building, deploying, and operating predictive models, foundation models, and AI agents at global scale. It gives every team at Visa a common, self service way to train and experiment, build with generative AI, develop and run production AI agents, manage features and memory, and operate everything with governance and observability built in. Visa AI Studio is the foundation for how AI gets built across the company. This role is for a Data Engineer, with a strong development background, whose primary objective will be to extend our AI as a Service platform to the Public Cloud while enhancing, optimizing our existing codebase and development procedures, as well as developing new solutions. We are seeking for a strong tech leader and architect with a solid background in public cloud and AI/ML production systems. The ideal candidate will have a strong mix of hands-on technical knowledge and leadership skills, with the ability to contribute technical knowledge and grow leadership skills, supporting the team's progress toward our technical objectives, with guidance from senior engineers. They should be hands-on, knowledgeable about cloud technologies, business drivers, and emerging AI/ML trends, and experienced with AWS and GCP services. The role demands a proactive learner who can work through ambiguity with support, communicate clearly with stakeholders, and contribute to decisions. The candidate should possess strong interpersonal skills, excellent written and verbal communication, and the ability to manage complex projects and deadlines. A problem-solving mindset and a hands-on approach are key to succeeding in this role. This role offers ample opportunities for learning and growth, and the chance to be part of delivering the next big thing for our AI as Services team. If you are experienced and passionate about cloud technology, AI, and machine learning, and are excited about making a significant impact, we would love to hear from you. This is a hybrid position based in Austin, TX, allowing alternating between remote and office work. Expectations are to be in-office at least two days a week, typically Mondays, Tuesdays and alternating Fridays, aiming for a 50% office presence based on business requirements. Essential Functions Design, build, and operate core components of AI Runtime Services: live model and agent serving, the runtime console, release management, and production reliability, so other teams can deploy and operate safely with minimal platform-team intervention. Drive development effort end-to-end for on-time delivery of high-quality solutions that meet requirements, align with the architectural vision, and comply with applicable standards, across all phases from design through production. Collaborate with Product Managers, Architects, Analysts, Software Engineers, and Project Managers to plan, document, and manage risks and issues to resolution; present technical solutions and status clearly in business terms. Embed governance, responsible AI, audit, and monitoring directly into the serving path, including drift, hallucination, and anomaly detection for agentic systems in production. Partner with the AI Engineering Platform, AI Context Platform, and AI Governance Platform teams to deliver a coherent, end-to-end platform experience. Develop and extend the AI agents and agentic workflows that run across AI Runtime Services, from automating platform operations to powering products like Visa Claw, so the platform's own capabilities keep advancing. Leverage AI coding agents and LLM-powered developer tools as part of your own workflow, treating AI-assisted engineering as a core skill to design, build, and ship platform capabilities faster. Coach and mentor junior team members, growing the team's talent pipeline. Visa requires at least 3 days in office, expectations of these days will be confirmed by your Hiring Manager. Qualifications Basic Qualifications Bachelor's degree, OR 3+ years of relevant work experience. 1 or more years of hands-on experience delivering robust, scalable solutions on public cloud platforms (AWS, GCP, Azure), preferably in an AI/ML production environment. Expertise in one or more of Golang, Java, Rust, C/C++, or Python, with strong systems and software engineering fundamentals, including distributed systems and API/SDK design. Preferred Qualifications Expertise in Advanced Python; professional cloud certifications. Basic understanding of core machine learning and deep learning concepts, and the ability to reason about a model or agent across its full lifecycle, from training through production deployment, monitoring, and retirement. Proven experience designing and developing data-driven, real-time and batch systems, with a deep understanding of the trade-offs across design, architectural, and integration patterns. Hands-on fluency with modern AI-assisted development (coding agents, copilots, LLM-based tooling) to accelerate day-to-day engineering work. Experience mentoring peers or interns, and contributing to technical design discussions within the team. Expertise in cloud architecture and service offerings, including core cloud services (compute, storage, databases, networking, AI/ML), AWS EKS, ElastiCache, and CloudWatch. Rust and/or C++ experience is highly desired for latency-sensitive serving components. Experience building internal developer platforms, SDKs, or self-service tooling used by other engineering or data science teams, such as a runtime console or similar self-serve capability. Information for US Applicants For roles located in  [...]
+
+---
+
+## 14. [MAYBE] Google | Senior Business and Marketing Data Scientist I
+- Link: https://www.google.com/about/careers/applications/jobs/results/93758412692562630
+- Location: Kirkland, WA, USA ; New York, NY, USA ; Sunnyvale, CA, USA
+- Posted: Nov 25 09:09 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1053 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: data visualization, forecast, machine learning, python, r, sql, statistic, tableau, ai agent, pipeline, quantitative, reporting | Lacks: looker  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Google's leadership team hand-picks thorny business challenges, and members of BizOps work in small teams to find solutions. As part of this team you fully immerse yourself in data collection, draw insight from analysis, and then zoom out to develop compelling, synthesized recommendations. Taking strategy one step further, you also persuasively communicate your recommendations to senior-level executives, roll-up your sleeves to help drive implementation and check back-in to see the impact of your recommendations. The Cloud Finance BI & AI Enablement team supports the broader Cloud Finance organization and Cloud senior leadership. The team owns the financial analytics, automation, and AI road maps, partnering closely with Finance and Engineering to build stable reporting, forecasting, modeling, and agentic assets. Our goal is to enable decision intelligence while reducing the day-to-day reporting burden on analysts. We own the data, Business Intelligence (BI) and AI infrastructure used by Cloud Finance, drive forecasting and automation, and lead cutting-edge data science and AI-First Finance initiatives to advise on optimal resource allocation. Our deep business knowledge, data mastery, and sharp insights provide us a strategic "seat at the table" as essential partners to the Google Cloud leadership team. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. US: $163000 - $236000 (USD) + 15% bonus target + equity + benefits Learn more about benefits at Google . Develop and maintain enterprise data products, including data marts, pipelines, financial models, and autonomous agents, to build production-grade finance infrastructures. Lead the development of AI agent skills to automate complex workflows, focusing on modifying and retraining models for large-scale enterprise application. Build and deploy advanced machine learning models for forecasting business growth, backlog, data center capacity, and headcount. Architect robust semantic data layers and partner with engineering to develop anomaly detection algorithms tailored to commercial frameworks. Devise automated financial models and simulations to optimize resource allocation, and present technical analyses to executive audiences. Minimum qualifications: Master's degree in a quantitative discipline such as Statistics, Engineering, Sciences, or equivalent practical experience. 4 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis. 4 years of experience in Enterprise Data Warehousing and Data Visualization 3 years of experience building agents and agentic workflows for enterprise users. Preferred qualifications: 6 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis. Experience building and maintaining machine learning models for forecasting and outlier/anomaly detection. Experience transitioning traditional corporate workflows into agentic workflows at a large-scale. Experience utilizing data visualization tools (e.g., Looker, Tableau) to present statistical analyses. Experience working in the finance domain. Exceptional communication skills, including the ability to communicate complex findings in a concise manner to a non-technical audience. Master's degree in a quantitative discipline such as Statistics, Engineering, Sciences, or equivalent practical experience. 4 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis. 4 years of experience in Enterprise Data Warehousing and Data Visualization 3 years of experience building agents and agentic workflows for enterprise users.
 
