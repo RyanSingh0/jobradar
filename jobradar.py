@@ -41,7 +41,8 @@ CORE = re.compile(  # his target families: these can be HOT; any other TITLE_OK 
     r"analytics|data science|\bai/ml\b", re.I)
 TITLE_BAD = re.compile(
     r"\blead\b|leader|expert|\bavp\b|manager|director|principal|distinguished|staff|\bhead\b|\bvp\b|vice president|"
-    r"\bchief\b|partner\b|co-op|\bcoop\b|summer 20|\biii\b|\biv\b|level [3-5]|"
+    r"\bchief\b|partner\b|co-op|\bcoop\b|summer 20|\b20\d\d[ -]?(summer|fall|spring|winter|autumn)\b|(fall|spring|winter|autumn) 20\d\d|"
+    r"graduate assistant|student (worker|employment|assistant)|\biii\b|\biv\b|level [3-5]|"  # 25 Nov 2026: year-first terms ("2027 Summer")
     r"\b[3-5]\b(?!\d)|architect|sales|recruit|counsel|attorney|paralegal|account exec|nurse|\brn\b|physician|pharmac|"
     r"security analyst|cyber|soc analyst|threat|penetration|help ?desk|service desk|desktop|network|technician|"
     r"mechanic|warehouse|driver|cashier|clinical (research )?coordinator|post-?doc|student|apprentice|"
@@ -294,6 +295,43 @@ FEE_RE = re.compile(r"\b(c2c|corp[- ]to[- ]corp)\b(?![^.;]{0,40}\b(not|no)\b)[^.
                     r"(training|placement|registration|processing|marketing|bench|onboarding) fee|pay (a |an )?(small |one[- ]time )?fee|"
                     r"\bbench (sales|marketing)\b|we market your (profile|resume)|h-?1b transfer (only|required)", re.I)
 INTERN_RE = re.compile(r"\bintern(ship)?s?\b|\bfellowship\b", re.I)
+# 25 Nov 2026 (Aryan: "if the JobRadar internships are mostly ones that ask for pursuing a bachelor's or master's, fix it
+# or remove internships"). On 24 Nov 46 of the 49 internships that reached HOT or MAYBE were student-only, mostly TikTok
+# lines such as "Currently pursuing an Undergraduate/Master's", "PhD internships ... provide students", "Undergraduate
+# student in a quantitative field" and year-first titles ("2027 Start (PhD)", "2027 Summer Internship"); ENROLL_RE missed
+# them because its "pursuing" branch needed "required/must/throughout" nearby. Internships are now judged by their own,
+# stricter rule: any student-only line is a SKIP, a posting must show that graduates can apply to reach HOT, and one that
+# says nothing either way is MAYBE at most with "confirm graduates can apply".
+STUDENT_RE = re.compile(
+    r"currently (pursuing|working towards?|completing|in (a|an|your) (degree|bachelor|master|undergraduate|graduate|ph\.?d))|"
+    r"(pursuing|working towards?) (a |an |your )?(bachelor|master|undergraduate|graduate|ph\.?d|doctoral|b\.?s\.?|m\.?s\.?|mba|degree)|"
+    r"\b(undergraduate|graduate|ph\.?d\.?|doctoral|master'?s|bachelor'?s|mba|college|university|current) (students?|candidates?)\b|"
+    r"\bph\.?d\.? internships?\b|internships?\b[^.;]{0,60}\b(for|provide|offer)\w* (current )?students\b|"
+    r"\bmust be (graduating|a student|enrolled)|\bgraduating (in|by|between|from|no later than)\b[^.;]{0,40}20(2[6-9]|3\d)|"
+    r"class of 20(2[7-9]|3\d)|\bfinal[- ]year\b|\b(junior|senior|sophomore) year\b|return(ing)? to (school|campus|your (degree|studies|program))|"
+    r"\bstudent status\b|enrolled (at least )?(part|full)[- ]time|degree[- ]seeking", re.I)
+GRAD_OK_RE = re.compile(r"recent(ly)? grad|recent graduates?|have (recently )?(completed|graduated|earned|obtained)|"
+                        r"has (recently )?(completed|graduated)|graduated within|(completed|conferred) (a |your )?(bachelor|master|degree)|"
+                        r"or (have |has )?(recently )?(completed|graduated)|post[- ]?graduate|open to graduates|"
+                        r"(students|graduates) (and|or) (recent )?graduates", re.I)
+TERM_TITLE_RE = re.compile(r"\b20\d\d[ -]?(start|summer|fall|spring|winter|intake|cohort)\b|\(ph\.?d\)|\bph\.?d\.? intern|"
+                           r"\bsummer (intern|internship|analyst|associate|program)|internship program\b", re.I)
+
+
+def internship_status(title, desc):
+    """25 Nov 2026: ("student", sentence) when the internship is for current students, ("grad", sentence) when it shows that
+    graduates can apply, ("silent", "") when it says nothing either way."""
+    m = TERM_TITLE_RE.search(title)
+    if m:
+        return "student", f"title names a future term: {m.group(0)}"
+    for m in STUDENT_RE.finditer(desc or ""):
+        a, b = max(0, m.start() - 120), m.end() + 120
+        if not GRAD_OK_RE.search(desc[a:b]):
+            return "student", desc[max(0, m.start() - 40):m.end() + 60].replace("\n", " ")
+    g = GRAD_OK_RE.search(desc or "")
+    if g:
+        return "grad", desc[max(0, g.start() - 40):g.end() + 40].replace("\n", " ")
+    return "silent", ""
 
 
 def needs_enrollment(desc):
@@ -325,7 +363,11 @@ def job_type(title, desc):
             return "part-time", h, f"part-time, about {h} h/week: under the 20 h/week STEM OPT minimum"
         return "part-time", h, "part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)"
     if INTERN_RE.search(title):
-        return "internship", h, "internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date"
+        st, _ = internship_status(title, desc)
+        if st == "grad":
+            return "internship", h, "internship open to graduates: confirm paid, 20+ h/week, degree-related and the end date"
+        return "internship", h, ("internship that says nothing on enrollment: confirm graduates can apply, paid, 20+ h/week, "
+                                 "degree-related and the end date")
     if TEMP_RE.search(title):
         return "temporary/contract", h, ("temporary or contract: confirm W-2 (not corp-to-corp), no fees, the end client, "
                                          "and the end date against the OPT and STEM OPT dates")
@@ -982,6 +1024,11 @@ def classify(j, spons):
     enr = needs_enrollment(j["desc"])
     if enr:
         return "SKIP", f'needs current enrollment: "...{enr[:200]}..."'
+    if INTERN_RE.search(j["title"]):
+        st, why = internship_status(j["title"], j["desc"])
+        j["intern"] = st
+        if st == "student":
+            return "SKIP", f'student-only internship: "...{why[:200]}..."'
     y = min_yoe(j["desc"])
     j["yoe"] = y
     ref = is_referral(j.get("company"))
@@ -1026,7 +1073,8 @@ def classify(j, spons):
              ("title says Senior/II: " + ("no years stated, check the level" if y is None else f"asks {y} years") if soft else ""),
              ("referral company: ask your referral" if ref else ""),
              (f"asks {y} years (referral stretch)" if ref and y == 4 else "")]
-    if core and tech and fit >= 55 and sponsor_ok and opt_ok and not soft and not (ref and y == 4):
+    intern_silent = j.get("intern") == "silent"  # 25 Nov 2026: an internship reaches HOT only when it shows graduates can apply
+    if core and tech and fit >= 55 and sponsor_ok and opt_ok and not soft and not (ref and y == 4) and not intern_silent:
         return "HOT", " ".join(x for x in [jt_note] + notes if x)
     if soft and not ref and not (core and fit >= 55 and sponsor_ok):  # Senior/II titles: only strong core fits surface
         return "LOW", "senior title below the bar"
@@ -1238,6 +1286,11 @@ def main():
     took = time.time() - t0
     summ = [f"# Sweep {now.astimezone(ET):%Y-%m-%d %H:%M ET}: {len(companies)} boards, {len(alert)} new matches, "
             f"{len(keep)} kept, {len(errs)} board errors, {took:.0f}s\n", cov_line]
+    it = [j for j in alert if INTERN_RE.search(j["title"])]
+    if it:  # 25 Nov 2026: keep the internship drop visible, so the lane can be judged on numbers
+        stu = sum(1 for j in it if "student-only internship" in (j.get("why") or "") or "current enrollment" in (j.get("why") or ""))
+        summ.append(f"Internships this sweep: {len(it)} new, {stu} student-only (SKIP), "
+                    f"{sum(1 for j in it if j['tier'] in ('HOT', 'MAYBE'))} kept as HOT or MAYBE.")
     for j in alert:
         summ.append(f"- [{j['tier']}] {j['company']} | {j['title']} | fit~{j.get('fit','-')} | {j['url']}" +
                     (f" | {j['why']}" if j.get("why") else ""))

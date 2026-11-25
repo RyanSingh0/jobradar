@@ -77,11 +77,21 @@ BENEFIT_PLAN = re.compile(r"(the |a |any )?sponsor\W{0,2}s?\W{0,2}\s*(\w+\s+){0,
                           r"plan sponsors?|sponsored (health|medical|benefit|retirement) plans?", re.I)
 
 
+# 25 Nov 2026: two more false CHECKs from the 25 Nov sweep. Visa Inc.'s own name ("About Us Visa is a world leader in
+# payments", "At Visa, you'll ...") and "Government Sponsored Enterprise (GSE)" in a Disney mortgage-compliance posting.
+# The company name and the GSE phrase are blanked before the sentence is judged; "Visa sponsorship" itself still counts.
+NAME_NOT_VISA = re.compile(r"\bVisa(?=,|\s+(is|Inc\b|U\.?S\.?A?\b|requires|offers|has|Claw|employees?|colleagues|careers|Direct|"
+                           r"Intelligent|Commerce|Consulting|and (its|our)\b)|['\u2019]s\b)|\b(At|at|Join|join|About Us|about Us|with|for) Visa\b")
+GSE = re.compile(r"government[- ]sponsored (enterprises?|entit\w+)|\(GSEs?\)", re.I)
+
+
 def verdict(text):
     hits = sentences(text)
     blocks, oks, unclear = [], [], []
     for s in hits:
-        s = BENEFIT_PLAN.sub(" ", s)
+        s = GSE.sub(" ", NAME_NOT_VISA.sub(" ", BENEFIT_PLAN.sub(" ", s)))
+        if not TOPIC.search(s):
+            continue
         if NOISE.search(s) and not re.search(r"sponsor|clearance|must be|required|only", s, re.I):
             continue
         hard = any(r.search(s) for r in BLOCK_RX)
@@ -134,6 +144,13 @@ TESTS = [
     # 24 Nov 2026 (GE Aerospace): benefit-plan "Sponsor" is not visa sponsorship
     ("NONE", "No individual has a vested right to any benefit under a Sponsor's welfare benefit plan."),
     ("CHECK", "No individual has a vested right to any benefit under a Sponsor's welfare benefit plan. GE Aerospace will only employ those who are legally authorized to work in the United States for this opening."),
+    # 25 Nov 2026: Visa Inc.'s own name and "Government Sponsored Enterprise" are not about visas
+    ("NONE", "About Us Visa is a world leader in payments technology, facilitating transactions between consumers and merchants."),
+    ("NONE", "At Visa, you'll have the opportunity to create impact at scale."),
+    ("NONE", "Join Visa and do work that matters to you, to your community, and to the world."),
+    ("NONE", "The position supports vendor quality control and Government Sponsored Enterprise (GSE) quality control requirements."),
+    ("OK", "Visa sponsorship is available for this position."),
+    ("BLOCK", "Visa sponsorship is not available for this role."),
 ]
 
 if __name__ == "__main__":
