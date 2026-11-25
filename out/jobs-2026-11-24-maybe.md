@@ -71,37 +71,38 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 65 | Carnegie Mellon University | Research Assistant - Kenneth C. Griffin School of Computer Science - CBD | 45 | cap-exempt employer | Nov 23 (board gives the date only) |
 | 66 | TikTok | Machine Learning Scientist Intern (TikTok-Local Services) - 2027 Start | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
 | 67 | TikTok | (General Hire) Research Scientist Intern (Monetization Technology) - 2026 Start (PhD) | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 68 | Ryan | Full Stack AI Engineer - May 2027 Grads | 44 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 69 | State Street | North America Portfolio Analyst, Officer | 44 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 70 | TikTok | Data Engineer Intern (Monetization Data) - 2027 Summer | 43 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 71 | GE Aerospace | Data Engineer | 42 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
-| 72 | TikTok | Data Engineer Intern (E-commerce) - 2027 Summer | 42 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 73 | Texas Capital Bank | Product Marketing Analyst - Banking Solutions | 40 | 3 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 74 | Google | Research Scientist, Google Cloud AI Research | 40 | 1053 in data/analytics/finance occupations | Nov 24 12:09 ET |
-| 75 | Mizuho Securities USA | Equity Research Associate | 40 | 19 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 76 | Marmon Holdings | Product & Brand Marketing Analyst | 40 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 77 | TikTok | Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start | 40 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 78 | TikTok | Research Scientist Intern (Monetization GenAI) - 2026 Start (PhD) | 40 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 79 | AbbVie | Associate Data Scientist II – Early Discovery Science | 78 | 96 in data/analytics/finance occupations | Nov 24 12:35 ET |
-| 80 | Wex | Sr Fraud Data Scientist | 70 | 3 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 81 | Nordstrom | Senior Business Analyst - Fraud & Abuse Analytics - Remote | 67 | 21 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 82 | Duolingo | Senior Data Scientist | 67 | 7 in data/analytics/finance occupations | Nov 24 13:47 ET |
-| 83 | Medtronic | Senior Pricing Strategy Analyst - Minneapolis, MN | 65 | 36 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 84 | Genentech | Senior Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery | 64 | 35 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 85 | JP Morgan Chase | Wholesale Credit Quantitative Research - Senior Associate | 64 | 1098 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 86 | McKesson | Sr. Freight Pricing Analyst | 62 | 38 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 87 | JP Morgan Chase | Data Scientist, Auto Data & Analytics - Senior Associate | 62 | 1098 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 88 | Emory University | Job Title Data Analyst, Senior- Winship Cancer Institute | 61 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 89 | The Trade Desk | Applied Scientist II, Performance Algorithms  | 60 | 18 in data/analytics/finance occupations | Nov 24 14:04 ET |
-| 90 | Citizens Financial Group | Senior Business Intelligence & Analytics Analyst - Collections & Recovery | 59 | 54 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 91 | CareSource | Health Plan Data Analyst II (need Health Plan/MCO and SQL) | 57 | 17 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 92 | Oregon Health & Science University | Requisition Title Senior Research Assistant | 57 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 93 | Humana | Senior Analytics Consultant | 55 | 72 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 94 | Paypal Inc. | Sr Machine Learning Engineer | 55 | 188 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
-| 95 | JP Morgan Chase | Gen AI Data Scientist - Wholesale Credit Risk  - Senior Associate | 55 | 1098 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 96 | Northwell Health | Senior Business Intelligence Specialist | 55 | 14 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 97 | DIRECTV | Sr. Specialist, Advanced Analytics | 55 | 14 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 98 | Amazon | Sr. Physical Design Engineer - Static Timing Analysis, Annapurna Labs, Cloud Scale Machine Learning | 55 | 3890 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 68 | Perry Homes | Insurance & Risk Analyst | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 69 | Ryan | Full Stack AI Engineer - May 2027 Grads | 44 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 70 | State Street | North America Portfolio Analyst, Officer | 44 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 71 | TikTok | Data Engineer Intern (Monetization Data) - 2027 Summer | 43 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 72 | GE Aerospace | Data Engineer | 42 | none found (check myvisajobs) | Nov 23 (board gives the date only) |
+| 73 | TikTok | Data Engineer Intern (E-commerce) - 2027 Summer | 42 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 74 | Texas Capital Bank | Product Marketing Analyst - Banking Solutions | 40 | 3 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 75 | Google | Research Scientist, Google Cloud AI Research | 40 | 1053 in data/analytics/finance occupations | Nov 24 12:09 ET |
+| 76 | Mizuho Securities USA | Equity Research Associate | 40 | 19 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 77 | Marmon Holdings | Product & Brand Marketing Analyst | 40 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 78 | TikTok | Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start | 40 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 79 | TikTok | Research Scientist Intern (Monetization GenAI) - 2026 Start (PhD) | 40 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 80 | AbbVie | Associate Data Scientist II – Early Discovery Science | 78 | 96 in data/analytics/finance occupations | Nov 24 12:35 ET |
+| 81 | Wex | Sr Fraud Data Scientist | 70 | 3 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 82 | Nordstrom | Senior Business Analyst - Fraud & Abuse Analytics - Remote | 67 | 21 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 83 | Duolingo | Senior Data Scientist | 67 | 7 in data/analytics/finance occupations | Nov 24 13:47 ET |
+| 84 | Medtronic | Senior Pricing Strategy Analyst - Minneapolis, MN | 65 | 36 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 85 | Genentech | Senior Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery | 64 | 35 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 86 | JP Morgan Chase | Wholesale Credit Quantitative Research - Senior Associate | 64 | 1098 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 87 | McKesson | Sr. Freight Pricing Analyst | 62 | 38 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 88 | JP Morgan Chase | Data Scientist, Auto Data & Analytics - Senior Associate | 62 | 1098 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 89 | Emory University | Job Title Data Analyst, Senior- Winship Cancer Institute | 61 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 90 | The Trade Desk | Applied Scientist II, Performance Algorithms  | 60 | 18 in data/analytics/finance occupations | Nov 24 14:04 ET |
+| 91 | Citizens Financial Group | Senior Business Intelligence & Analytics Analyst - Collections & Recovery | 59 | 54 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 92 | CareSource | Health Plan Data Analyst II (need Health Plan/MCO and SQL) | 57 | 17 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 93 | Oregon Health & Science University | Requisition Title Senior Research Assistant | 57 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 94 | Humana | Senior Analytics Consultant | 55 | 72 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 95 | Paypal Inc. | Sr Machine Learning Engineer | 55 | 188 in data/analytics/finance occupations | Nov 23 (board gives the date only) |
+| 96 | JP Morgan Chase | Gen AI Data Scientist - Wholesale Credit Risk  - Senior Associate | 55 | 1098 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 97 | Northwell Health | Senior Business Intelligence Specialist | 55 | 14 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 98 | DIRECTV | Sr. Specialist, Advanced Analytics | 55 | 14 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 99 | Amazon | Sr. Physical Design Engineer - Static Timing Analysis, Annapurna Labs, Cloud Scale Machine Learning | 55 | 3890 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
 
 ---
 
@@ -1691,7 +1692,22 @@ By submitting an application for this role, you accept and agree to our global a
 
 ---
 
-## 68. [MAYBE] Ryan | Full Stack AI Engineer - May 2027 Grads
+## 68. [MAYBE] Perry Homes | Insurance & Risk Analyst
+- Link: https://apply.workable.com/j/1534520870
+- Location: Houston Texas United States
+- Posted: Nov 24 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, fraud, reporting, risk | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+About The Role The Insurance & Risk Analyst will support the day-to-day administration of our corporate insurance and risk management program. This role maintains insurance and exposure data, oversees vendor and trade partner insurance compliance and management, supports annual insurance renewals, supports insurance-related inquiries across field divisions, provides reporting and analytical support across the organization, and supports other risk management initiatives under the direction of risk management. The ideal candidate is highly organized, detail-oriented, comfortable working with data, and able to coordinate effectively with Construction, Purchasing, Finance, Legal, Human Resources, insurance brokers, carriers, and third-party administrators. What You’ll Do Maintain schedules of insurance policies, premiums, limits, deductibles or self-insured retentions, exposures, and renewal dates. Coordinate all vendor and trade partner insurance requirements and compliance, including certificates of insurance, policy limits, additional insured status, waivers of subrogation, primary and non-contributory endorsements and expiration tracking with third party vendor insurance tracking company. Partner with Legal and Purchasing to review insurance and risk-transfer provisions in vendor agreements, help maintain insurance requirements appropriate to the scope and risk of vendor work, and support the review of requested exceptions in accordance with company approval processes. Monitor vendor and trade partner compliance status through third-party vendor insurance tracking company and help ensure the accuracy and effectiveness of the tracking process. Review non-compliance reports, prioritize outstanding insurance deficiencies, and coordinate with Purchasing, Construction, Land Development teams, Perry internal office departments, brokers, and vendors to facilitate timely resolution of coverage gaps. Serve as a resource to Purchasing, Construction, and Land Development teams by providing guidance on insurance compliance reviews during onboarding of new vendors, responding to insurance questions, assisting with compliance issues, and supporting consistent application of the company’s insurance standards. Requirements What We’re Looking For Bachelor’s degree in Risk Management, Insurance, Finance, Business, Accounting, or a related field preferred. 2–5 years of experience in commercial insurance, risk management, construction, homebuilding, insurance brokerage, underwriting, or a related field. Working knowledge of commercial insurance coverages and certificates of insurance requirements applicable to vendors, subcontractors, and construction related activities including familiarity with reviewing insurance policies to verify coverage, limits, endorsements, specific policy exclusions, and compliance with contractual insurance requirements. Strong Microsoft Excel skills, including PivotTables, lookups, data reconciliation, and reporting. Strong analytical, organizational, project-management, and communication skills, with excellent attention to detail. Preferred Experience Experience with a home builder, general contractor, construction company, insurance broker, carrier, or third-party administrator. Experience with subcontractor insurance compliance, contractual risk transfer, builders’ risk, construction liability, wrap-up programs, or construction defect claims. Familiarity with Texas workers’ compensation, including non-subscriber and alternative coverage arrangements. Experience with insurance compliance tracking platforms, contract management, or ERP systems. Benefits Why You Will Love Working Here Competitive compensation and benefits package: Medical, dental, vision coverage Financial Planning Time Off & Life Balance Family & Lifestyle Opportunities for growth and development Culture that is collaborative, inclusive, fast-paced, people-first Stable company with strong reputation in the market Why Join Perry Homes? At Perry Homes, we’re committed to integrity, excellence, and service—values that guide every customer interaction. Join a team where your work directly contributes to an exceptional homebuying experience and a trusted brand. We’re committed to creating an inclusive workplace where people can do their best work. ***Note to job seekers: Your resume will be reviewed as the best qualified candidates will be contacted in the event that there is potential match*** Perry Homes
+
+---
+
+## 69. [MAYBE] Ryan | Full Stack AI Engineer - May 2027 Grads
 - Link: https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Full-Stack-AI-Engineer_R0019979-1
 - Location: 4 Locations ; Plano ; Washington ; Houston ; Atlanta (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -1706,7 +1722,7 @@ Why Ryan? Flexibility Built for Life: Hybrid and remote work options, depending 
 
 ---
 
-## 69. [MAYBE] State Street | North America Portfolio Analyst, Officer
+## 70. [MAYBE] State Street | North America Portfolio Analyst, Officer
 - Link: https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/North-America-Portfolio-Analyst--Officer_R-799261
 - Location: Boston, Massachusetts ; Boston, Massachusetts (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -1721,7 +1737,7 @@ Who We Are Looking For We are seeking a highly motivated, client-focused profess
 
 ---
 
-## 70. [MAYBE] TikTok | Data Engineer Intern (Monetization Data) - 2027 Summer
+## 71. [MAYBE] TikTok | Data Engineer Intern (Monetization Data) - 2027 Summer
 - Link: https://lifeattiktok.com/search/7671232204182276405
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -1765,7 +1781,7 @@ Preferred Qualifications:
 
 ---
 
-## 71. [MAYBE] GE Aerospace | Data Engineer
+## 72. [MAYBE] GE Aerospace | Data Engineer
 - Link: https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Gebze/Data-Engineer_R5043467-1
 - Location: 2 Locations ; Gebze ; Austin (Türkiye)
 - Posted: Nov 23 (board gives the date only)
@@ -1780,7 +1796,7 @@ Job Description Summary Responsible for developing data engineering jobs and wor
 
 ---
 
-## 72. [MAYBE] TikTok | Data Engineer Intern (E-commerce) - 2027 Summer
+## 73. [MAYBE] TikTok | Data Engineer Intern (E-commerce) - 2027 Summer
 - Link: https://lifeattiktok.com/search/7676250516494436661
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -1819,7 +1835,7 @@ Preferred Qualifications:
 
 ---
 
-## 73. [MAYBE] Texas Capital Bank | Product Marketing Analyst - Banking Solutions
+## 74. [MAYBE] Texas Capital Bank | Product Marketing Analyst - Banking Solutions
 - Link: https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Dallas-TX/Product-Marketing-Analyst---Banking-Solutions_JR106441
 - Location: Dallas, TX ; Dallas, TX (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -1834,7 +1850,7 @@ Texas Capital is the premier full-service financial services firm founded and he
 
 ---
 
-## 74. [MAYBE] Google | Research Scientist, Google Cloud AI Research
+## 75. [MAYBE] Google | Research Scientist, Google Cloud AI Research
 - Link: https://www.google.com/about/careers/applications/jobs/results/103214985785549510
 - Location: Mountain View, CA, USA
 - Posted: Nov 24 12:09 ET
@@ -1849,7 +1865,7 @@ As an organization, Google maintains a portfolio of research projects driven by 
 
 ---
 
-## 75. [MAYBE] Mizuho Securities USA | Equity Research Associate
+## 76. [MAYBE] Mizuho Securities USA | Equity Research Associate
 - Link: https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/New-York-NY-1271-AOA6th-Ave/Equity-Research-Associate_R7584
 - Location: New York, NY (1271 AOA/6th Ave) ; New York, NY (1271 AOA/6th Ave) (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -1864,7 +1880,7 @@ Equity Research Associate – Midstream Team A leading and growing global invest
 
 ---
 
-## 76. [MAYBE] Marmon Holdings | Product & Brand Marketing Analyst
+## 77. [MAYBE] Marmon Holdings | Product & Brand Marketing Analyst
 - Link: https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Hanover-Township-PA/Product---Brand-Marketing-Analyst_JR0000047219
 - Location: Hanover Township, PA ; Hanover Township, PA (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -1879,7 +1895,7 @@ Koehler-Bright Star LLC As a part of the global industrial organization Marmon H
 
 ---
 
-## 77. [MAYBE] TikTok | Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start
+## 78. [MAYBE] TikTok | Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start
 - Link: https://lifeattiktok.com/search/7698822572474583301
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -1916,7 +1932,7 @@ Preferred Qualifications
 
 ---
 
-## 78. [MAYBE] TikTok | Research Scientist Intern (Monetization GenAI) - 2026 Start (PhD)
+## 79. [MAYBE] TikTok | Research Scientist Intern (Monetization GenAI) - 2026 Start (PhD)
 - Link: https://lifeattiktok.com/search/7535623435700766984
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -1947,7 +1963,7 @@ By submitting an application for this role, you accept and agree to our global a
 
 ---
 
-## 79. [MAYBE] AbbVie | Associate Data Scientist II – Early Discovery Science
+## 80. [MAYBE] AbbVie | Associate Data Scientist II – Early Discovery Science
 - Link: https://jobs.smartrecruiters.com/AbbVie/3743990017066596
 - Location: North Chicago IL us
 - Posted: Nov 24 12:35 ET
@@ -1962,7 +1978,7 @@ The Global Research, Informatics & Platform Solutions team within the Informatio
 
 ---
 
-## 80. [MAYBE] Wex | Sr Fraud Data Scientist
+## 81. [MAYBE] Wex | Sr Fraud Data Scientist
 - Link: https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Sr-Credit-Data-Scientist_R23148
 - Location: US - Remote ; US - Remote (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -1977,7 +1993,7 @@ The Global Risk Solutions and Strategy group is a fast-growing team optimizing r
 
 ---
 
-## 81. [MAYBE] Nordstrom | Senior Business Analyst - Fraud & Abuse Analytics - Remote
+## 82. [MAYBE] Nordstrom | Senior Business Analyst - Fraud & Abuse Analytics - Remote
 - Link: https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/United-States/Senior-Business-Analyst---Fraud---Abuse-Analytics---Remote_R-900130-1
 - Location: United States ; United States (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -1992,7 +2008,7 @@ Job Description The Senior Business Analyst on the Fraud Analytics team owns bus
 
 ---
 
-## 82. [MAYBE] Duolingo | Senior Data Scientist
+## 83. [MAYBE] Duolingo | Senior Data Scientist
 - Link: https://careers.duolingo.com/jobs/8960882002?gh_jid=8960882002
 - Location: New York, NY; Pittsburgh, PA
 - Posted: Nov 24 13:47 ET
@@ -2007,7 +2023,7 @@ Our mission at Duolingo is to develop the best education in the world and make i
 
 ---
 
-## 83. [MAYBE] Medtronic | Senior Pricing Strategy Analyst - Minneapolis, MN
+## 84. [MAYBE] Medtronic | Senior Pricing Strategy Analyst - Minneapolis, MN
 - Link: https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Senior-Pricing-Strategy-Analyst---Minneapolis--MN_R82123
 - Location: 2 Locations ; Fridley, Minnesota, United States of America ; Minneapolis, Minnesota, United States of America (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -2022,7 +2038,7 @@ We anticipate the application window for this opening will close on - 7 Dec 2026
 
 ---
 
-## 84. [MAYBE] Genentech | Senior Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery
+## 85. [MAYBE] Genentech | Senior Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery
 - Link: https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist--Scientific-Reasoning-Models--AI-for-Drug-Discovery_202602-103501
 - Location: 2 Locations ; South San Francisco ; New York City (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -2037,7 +2053,7 @@ A healthier future. It’s what drives us to innovate. To continuously advance s
 
 ---
 
-## 85. [MAYBE] JP Morgan Chase | Wholesale Credit Quantitative Research - Senior Associate
+## 86. [MAYBE] JP Morgan Chase | Wholesale Credit Quantitative Research - Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811377
 - Location: Jersey City, NJ, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -2052,7 +2068,7 @@ Bring your Expertise to JPMorganChase. As part of Risk Management and Compliance
 
 ---
 
-## 86. [MAYBE] McKesson | Sr. Freight Pricing Analyst
+## 87. [MAYBE] McKesson | Sr. Freight Pricing Analyst
 - Link: https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Sr-Freight-Pricing-Analyst_JR0156382
 - Location: USA, VA, Richmond ; USA, VA, Richmond (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -2067,7 +2083,7 @@ McKesson is an impact-driven, Fortune 10 company that touches virtually every as
 
 ---
 
-## 87. [MAYBE] JP Morgan Chase | Data Scientist, Auto Data & Analytics - Senior Associate
+## 88. [MAYBE] JP Morgan Chase | Data Scientist, Auto Data & Analytics - Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808506
 - Location: Plano, TX, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -2082,7 +2098,7 @@ You will help shape how the Auto business understands performance and sets strat
 
 ---
 
-## 88. [MAYBE] Emory University | Job Title Data Analyst, Senior- Winship Cancer Institute
+## 89. [MAYBE] Emory University | Job Title Data Analyst, Senior- Winship Cancer Institute
 - Link: https://staff-emory.icims.com/jobs/210486/data-analyst%2c-senior--winship-cancer-institute/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -2097,7 +2113,7 @@ Emory Careers | Data Analyst, Senior- Winship Cancer Institute in Atlanta, Georg
 
 ---
 
-## 89. [MAYBE] The Trade Desk | Applied Scientist II, Performance Algorithms 
+## 90. [MAYBE] The Trade Desk | Applied Scientist II, Performance Algorithms 
 - Link: https://job-boards.greenhouse.io/thetradedesk/jobs/5306682007
 - Location: New York
 - Posted: Nov 24 14:04 ET
@@ -2112,7 +2128,7 @@ The Trade Desk is a global technology company and the world’s leading independ
 
 ---
 
-## 90. [MAYBE] Citizens Financial Group | Senior Business Intelligence & Analytics Analyst - Collections & Recovery
+## 91. [MAYBE] Citizens Financial Group | Senior Business Intelligence & Analytics Analyst - Collections & Recovery
 - Link: https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49308
 - Location: Johnston, RI, United States US Glen Allen, VA, United States Irving, TX, United States
 - Posted: Nov 24 (board gives the date only)
@@ -2127,7 +2143,7 @@ At Citizens, we’re more than a bank and here you’ll experience new things, c
 
 ---
 
-## 91. [MAYBE] CareSource | Health Plan Data Analyst II (need Health Plan/MCO and SQL)
+## 92. [MAYBE] CareSource | Health Plan Data Analyst II (need Health Plan/MCO and SQL)
 - Link: https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Health-Plan-Data-Analyst-II--need-Health-Plan-MCO-and-SQL-_R13941
 - Location: Remote ; Remote (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -2142,7 +2158,7 @@ Job Summary: The Health Plan Data Analyst II is responsible for extracting, anal
 
 ---
 
-## 92. [MAYBE] Oregon Health & Science University | Requisition Title Senior Research Assistant
+## 93. [MAYBE] Oregon Health & Science University | Requisition Title Senior Research Assistant
 - Link: https://externalcareers-ohsu.icims.com/jobs/44328/senior-research-assistant/job
 - Location: see posting
 - Posted: new since the previous sweep (board shows no date)
@@ -2157,7 +2173,7 @@ Senior Research Assistant in Portland, Oregon | Careers at Portland, OR (Marquam
 
 ---
 
-## 93. [MAYBE] Humana | Senior Analytics Consultant
+## 94. [MAYBE] Humana | Senior Analytics Consultant
 - Link: https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Analytics-Consultant_R-437469
 - Location: 52 Locations ; Remote Nationwide ; Remote Oklahoma ; Remote Ohio ; Remote North Dakota ; Remote North Carolina ; Remote New York ; Remote New Mexico ; Remote New Jersey ; Remote New Hampshire ; Remote Nevada ; Remote Nebraska ; Remote Montana ; Remote Missouri ; Remote Mississippi ; Remote Minnesota ; Remote Michigan ; Remote Massachusetts ; Remote Maryland ; Remote Maine ; Remote Louisiana ; Remote Kentucky ; Remote Kansas ; Remote Iowa ; Remote Indiana ; Remote Illinois ; Remote Idaho ; Remote Hawaii ; Remote Georgia ; Remote Florida ; Remote Delaware ; Remote Connecticut ; Remote Colorado ; Remote California ; Remote Arkansas ; Remote Arizona ; Remote Alaska ; Remote Alabama ; Remote Wyoming ; Remote Wisconsin ; Remote West Virginia ; Remote Washington ; Remote Virginia ; Remote Vermont ; Remote Utah ; Remote Texas ; Remote Tennessee ; Remote South Dakota ; Remote South Carolina ; Remote Rhode Island ; Remote Puerto Rico ; Remote Pennsylvania ; Remote Oregon (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -2172,7 +2188,7 @@ Become a part of our caring community The Senior Analytics Consultant coordinate
 
 ---
 
-## 94. [MAYBE] Paypal Inc. | Sr Machine Learning Engineer
+## 95. [MAYBE] Paypal Inc. | Sr Machine Learning Engineer
 - Link: https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0139239-1
 - Location: San Jose, California, United States of America ; San Jose, California, United States of America (United States of America)
 - Posted: Nov 23 (board gives the date only)
@@ -2187,7 +2203,7 @@ The Company PayPal has been revolutionizing commerce globally for more than 25 y
 
 ---
 
-## 95. [MAYBE] JP Morgan Chase | Gen AI Data Scientist - Wholesale Credit Risk  - Senior Associate
+## 96. [MAYBE] JP Morgan Chase | Gen AI Data Scientist - Wholesale Credit Risk  - Senior Associate
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809509
 - Location: Plano, TX, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -2202,7 +2218,7 @@ Bring your Expertise to JPMorganChase. As part of Risk Management and Compliance
 
 ---
 
-## 96. [MAYBE] Northwell Health | Senior Business Intelligence Specialist
+## 97. [MAYBE] Northwell Health | Senior Business Intelligence Specialist
 - Link: https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204173
 - Location: Great Neck, Nassau, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -2217,7 +2233,7 @@ Job Description In collaboration with business stakeholders, designs and develop
 
 ---
 
-## 97. [MAYBE] DIRECTV | Sr. Specialist, Advanced Analytics
+## 98. [MAYBE] DIRECTV | Sr. Specialist, Advanced Analytics
 - Link: https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Sr-Specialist--Advanced-Analytics_R260351
 - Location: 2 Locations ; El Segundo, CA ; United States - Virtual (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -2232,7 +2248,7 @@ The Sr. Specialist, Advanced Analytics is an experienced individual contributor.
 
 ---
 
-## 98. [MAYBE] Amazon | Sr. Physical Design Engineer - Static Timing Analysis, Annapurna Labs, Cloud Scale Machine Learning
+## 99. [MAYBE] Amazon | Sr. Physical Design Engineer - Static Timing Analysis, Annapurna Labs, Cloud Scale Machine Learning
 - Link: https://www.amazon.jobs/en/jobs/10613355/sr-physical-design-engineer-static-timing-analysis-annapurna-labs-cloud-scale-machine-learning
 - Location: Cupertino, California, USA
 - Posted: Nov 24 (board gives the date only)
