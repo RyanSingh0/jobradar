@@ -1,41 +1,15 @@
-# Sweep 2026-11-25 17:07 ET: 4595 boards, 34 new matches, 5 kept, 159 board errors, 218s
+# Sweep 2026-11-25 17:27 ET: 4595 boards, 9 new matches, 0 kept, 159 board errors, 209s
 
 Alert inbox: no new relevant alert postings
-Internships this sweep: 3 new, 3 student-only (SKIP), 0 kept as HOT or MAYBE.
-- [HOT] TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance) - 2027 Start | fit~68 | https://lifeattiktok.com/search/7669913085331409205
-- [HOT] TikTok | Machine Learning Engineer Graduate (Ads Signal & Measurement) - 2027 Start | fit~67 | https://lifeattiktok.com/search/7669700358734170373
-- [MAYBE] Amgen | Senior Data Scientist | fit~61 | https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Senior-Data-Scientist_R-262535-1 | title says Senior/II: asks 2 years
-- [MAYBE] TikTok | Machine Learning Engineer, Commerce Ads Ranking | fit~47 | https://lifeattiktok.com/search/7519243940139403528
-- [MAYBE] PennState University | Part-Time Research Assistant - Food Science | fit~40 | https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Food-Science_REQ_0000084612-2 | part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
-- [LOW] Uber | Software Engineer II - ML Engineer | fit~68 | https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304446 | senior title below the bar
-- [LOW] FOX | Senior Financial Analyst, Digital & Ad Tech | fit~67 | https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Senior-Financial-Analyst--Digital---Ad-Tech_R50034133 | senior title below the bar
-- [LOW] Elevations Credit Union | Compliance Analyst | fit~57 | https://job-boards.greenhouse.io/elevationscreditunion/jobs/4757730005
-- [LOW] American Red Cross | Analyst II, Marketing Research & Business Intelligence | fit~55 | https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Statewide-MO/Analyst-II--Marketing-Research---Business-Intelligence_RC92715 | senior title below the bar
-- [LOW] TikTok | TikTok Shop - Senior Strategy Associate | fit~54 | https://lifeattiktok.com/search/7582800615631390981 | senior title below the bar
-- [LOW] Acrisure | Governance, Risk and Compliance Analyst | fit~50 | https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/999-Peachtree-Street-Northeast-Suite-2750---ATLANTA-GA/Governance--Risk-and-Compliance-Analyst_JR114899
-- [LOW] Nordstrom | Workday Systems Analyst 2 - Seattle, WA (Hybrid) | fit~45 | https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Workday-Systems-Analyst-2---Seattle--WA--Hybrid-_R-895299-1 | senior title below the bar
-- [LOW] Manulife Financial | Research Associate | fit~36 | https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Research-Associate_JR26101662
-- [LOW] Atoms | Order to Cash Transformation Specialist | fit~35 | https://job-boards.greenhouse.io/cssmerge/jobs/8963059002
-- [LOW] Magna International | Analyst Material Control | fit~31 | https://magna.wd3.myworkdayjobs.com/Magna/job/Mesa-Arizona-US/Analyst-Material-Control_R00271720
-- [LOW] Mayo Clinic | Research Fellow-Neuroscience-Grinberg lab | fit~0 | https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396624
-- [LOW] Johnson Controls | Analyst, Exposure Management | fit~0 | https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Milwaukee-Wisconsin-United-States-of-America/Analyst--Exposure-Management_WD30286139
-- [SKIP] SpaceX | Automation & Controls Engineer (Starship)  | fit~- | https://boards.greenhouse.io/spacex/jobs/8955154002?gh_jid=8955154002 | eligibility: "ITAR REQUIREMENTS: To conform to U.S."
-- [SKIP] Steampunk | Senior Business Analyst | fit~- | https://careers-steampunk.icims.com/jobs/9376/senior-business-analyst/job | asks 5+ years
-- [SKIP] Fortive | AI Enablement Intern- Marketing | fit~- | https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10795 | student-only internship: "... Are Looking For Minimum Qualifications Currently pursuing a bachelor’s or master’s degree in marketing, communication..."
-- [SKIP] Texas Instruments | Web Marketing Intern - Digital Experience Analytics | fit~- | https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020507 | student-only internship: "...keting programs.  Minimum Requirements: Pursuing an undergraduate or graduate degree in Marketing, Business Analytics, Manage..."
-- [SKIP] AtkinsRéalis | Int. Piping Stress Analyst | fit~- | https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2285-Speakman-Drive/Int-Piping-Stress-Analyst_R-172584 | asks 5+ years
-- [SKIP] Booz Allen | Industrial Base Data Analyst | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Industrial-Base-Data-Analyst_R0254298 | eligibility: "Secret clearance is required."
-- [SKIP] Booz Allen | AFSIM Simulation Analyst | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charlottesville-VA/AFSIM-Simulation-Analyst_R0247449 | eligibility: "TS/SCI clearance is required."
-- [SKIP] Booz Allen | Portfolio Operations Analyst | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Portfolio-Operations-Analyst_R0254202 | eligibility: "Top Secret clearance is required."
-- [SKIP] Marsh | Windows Server Administration Analyst | fit~- | https://mmc.wd1.myworkdayjobs.com/mmc/job/Mexico-City---Paseo/Windows-Server-Administration-Analyst_R_372202 | asks 4+ years
-- [SKIP] NVIDIA | Product Data Operations Engineering Systems Analyst | fit~- | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Data-Operations-Engineering-Systems-Analyst_JR2013016 | asks 8+ years
-- [SKIP] PNC Financial Services | Compliance AI and Automation specialist | fit~- | https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Compliance-Program-Specialist_R239755 | eligibility: "PNC will not provide sponsorship for employment visas or participate in STEM OPT for this position."
-- [SKIP] PNC Financial Services | AI Application Security Testing Specialist | fit~- | https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/AI-Application-Security-Testing-Specialist_R242029-1 | eligibility: "PNC will not provide sponsorship for employment visas or participate in STEM OPT for this position."
-- [SKIP] The Aerospace Corporation | Space Enterprise Optimization Analyst | fit~- | https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Space-Enterprise-Optimization-Analyst_R017164 | eligibility: "U.S citizenship is required to obtain a security clearance."
-- [SKIP] TMX Group | Senior Analyst, Enterprise Risk & Operational Resilience (2-year contract) | fit~- | https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Senior-Analyst--Enterprise-Risk-Management--2-year-contract-_R-6735 | eligibility: "Please note that our company is not currently sponsoring work permit applications and the applicant must be authorized to work in the country where this position is located."
-- [SKIP] Trend Micro | Senior Data Engineer – Sustaining Engineering Group (SEG) | fit~- | https://trendmicro.wd3.myworkdayjobs.com/External/job/Austin/Senior-Data-Engineer---Sustaining-Engineering-Group--SEG-_R0010486-1 | eligibility: "This role is not eligible for employer-provided work visa sponsorship, now or in the future."
-- [SKIP] TikTok | Machine Learning Engineer Intern (TikTok-Data-Search-Local Service) - 2027 Start (PhD) | fit~- | https://lifeattiktok.com/search/7668381860191734021 | student-only internship: "...title names a future term: 2027 Start..."
-- [SKIP] TikTok | Senior Machine Learning Engineer - Search Recommendation, E-commerce  | fit~- | https://lifeattiktok.com/search/7269827605418133818 | asks 5+ years
+- [LOW] ABC Supply | Senior Treasury Analyst (902) | fit~45 | https://abcsupply.wd1.myworkdayjobs.com/abcsupplycareers/job/Beloit-WI/Senior-Treasury-Accountant--902-_68282 | senior title below the bar
+- [LOW] Brex | Revenue Operations Senior Analyst | fit~44 | https://www.brex.com/careers/8963006002?gh_jid=8963006002 | senior title below the bar
+- [LOW] Curtiss-Wright Corporation | Programmer Analyst | fit~40 | https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-CA-Brea-Nuclear/Programmer-Analyst_JR14360-1
+- [LOW] Pacific Life | Junior Public Credit Analyst | fit~40 | https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Junior-Public-Credit-Analyst_R17933
+- [SKIP] American Bureau of Shipping | Finance Analyst, Government Projects | fit~- | https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5063 | eligibility: "... approximately 10% of the time. Ability to obtain security clearance by currently having U.S. Citi..."
+- [SKIP] AeroVironment | Sr. Oracle Fusion Financial Analyst | fit~- | https://avav.wd1.myworkdayjobs.com/avav/job/Remote---Kentucky/Enterprise-Analyst--Sr---Oracle-Fusion-Finance---EPM_8401 | eligibility: "ITAR Requirement: This position requires access to information that is subject to compliance with the International Traffic Arms Regulations (“ITAR”) and/or the Export Administration Regulations (“EAR”)."
+- [SKIP] Leidos | Data Scientist | fit~- | https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Data-Scientist_R-00192861 | eligibility: "Clearance Active TS/SCI clearance with CI Polygraph is required to be considered for this position."
+- [SKIP] NVIDIA | Senior Cosmos Research Scientist, Agentic AI for 3D and Robotics | fit~- | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Cosmos-Research-Scientist--Agentic-AI-for-3D-and-Robotics_JR2030744 | asks 5+ years
+- [SKIP] Oregon State Government | Senior Systems Analyst (Information Systems Specialist 7) Remote Work | fit~- | https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Salem--OHA--Fairview-Industrial-Drive-3990/Senior-Systems-Analyst--Information-Systems-Specialist-7--Remote-Work_REQ-208881-1 | eligibility: "This position does not provide visa sponsorship."
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
