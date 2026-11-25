@@ -4,39 +4,59 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | JP Morgan Chase | PricingDirect Evaluator - Municipal Bond - Analyst | 68 | 1098 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 2 | City of New York | Data Analytics Specialist | 67 | none found (check myvisajobs) | Nov 25 06:30 ET |
-| 3 | CareSource | Member Incentive Program Analyst | 67 | 17 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 4 | TikTok | Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD) | 67 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 5 | Bluesight | Data Engineer | 67 | none found (check myvisajobs) | Nov 25 10:59 ET |
-| 6 | KION Group | AI Analyst | 67 | none found (check myvisajobs) | Nov 25 (board gives the date only) |
-| 7 | Manulife Financial | Associate Data Scientist | 65 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 8 | U.S. Bank | Financial Analyst – Corporate Treasury | 65 | 82 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 9 | UCSF | Research Assistant | 62 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 10 | The Walt Disney Company | Compliance & Risk Analyst | 62 | 1 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 11 | Clera | Founding AI/ML Engineer | 60 | none found (check myvisajobs) | Nov 24 19:44 ET |
-| 12 | Manulife Financial | AI Engineer | 55 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 13 | PDT Partners | Applied ML Scientist  | 54 | 1 in data/analytics/finance occupations | Nov 24 18:11 ET |
-| 14 | Charles Schwab | Machine Learning Ops Data Engineer | 54 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 15 | UCSF | Research Data Analyst | 52 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 16 | Collectors | Associate Analytics Engineer | 52 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 17 | State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship | 52 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 18 | Stifel | Research Associate I - Energy | 50 | 15 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 19 | Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature | 50 | 1 in data/analytics/finance occupations | Nov 25 10:38 ET |
-| 20 | Roche | Data & Analytics Specialist | 48 | 7 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 21 | Logitech | Corporate Strategy Analyst | 45 | 4 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 22 | Visa | Associate Data Engineer, AI Studio | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 23 | University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being | 45 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 24 | Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 25 | Merck | Senior Machine Learning Scientist, Foundation Model | 74 | 71 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 26 | Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding | 67 | 1 in data/analytics/finance occupations | Nov 25 10:37 ET |
-| 27 | UnitedHealth Group | Senior Data Analyst | 65 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 28 | Google | Senior Business and Marketing Data Scientist I | 55 | 1053 in data/analytics/finance occupations | Nov 25 09:09 ET |
-| 29 | Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management) | 55 | 133 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 1 | University of Nevada Reno | Part-Time Research, Agentic AI and Scientific Reasoning (LOA) | 70 | cap-exempt employer | Nov 25 (board gives the date only) |
+| 2 | JP Morgan Chase | PricingDirect Evaluator - Municipal Bond - Analyst | 68 | 1098 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 3 | City of New York | Data Analytics Specialist | 67 | none found (check myvisajobs) | Nov 25 06:30 ET |
+| 4 | CareSource | Member Incentive Program Analyst | 67 | 17 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 5 | TikTok | Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD) | 67 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 6 | Bluesight | Data Engineer | 67 | none found (check myvisajobs) | Nov 25 10:59 ET |
+| 7 | KION Group | AI Analyst | 67 | none found (check myvisajobs) | Nov 25 (board gives the date only) |
+| 8 | Manulife Financial | Associate Data Scientist | 65 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 9 | U.S. Bank | Financial Analyst – Corporate Treasury | 65 | 82 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 10 | UCSF | Research Assistant | 62 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 11 | The Walt Disney Company | Compliance & Risk Analyst | 62 | 1 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 12 | Clera | Founding AI/ML Engineer | 60 | none found (check myvisajobs) | Nov 24 19:44 ET |
+| 13 | DTCC | Business Intelligence Associate, Applied AI | 60 | none found (check myvisajobs) | Nov 25 (board gives the date only) |
+| 14 | Manulife Financial | AI Engineer | 55 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 15 | PDT Partners | Applied ML Scientist  | 54 | 1 in data/analytics/finance occupations | Nov 24 18:11 ET |
+| 16 | Charles Schwab | Machine Learning Ops Data Engineer | 54 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 17 | UCSF | Research Data Analyst | 52 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 18 | Collectors | Associate Analytics Engineer | 52 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 19 | State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship | 52 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 20 | Stifel | Research Associate I - Energy | 50 | 15 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 21 | Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature | 50 | 1 in data/analytics/finance occupations | Nov 25 10:38 ET |
+| 22 | Roche | Data & Analytics Specialist | 48 | 7 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 23 | Logitech | Corporate Strategy Analyst | 45 | 4 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 24 | Visa | Associate Data Engineer, AI Studio | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 25 | University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being | 45 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 26 | Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 27 | Merck | Senior Machine Learning Scientist, Foundation Model | 74 | 71 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 28 | Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding | 67 | 1 in data/analytics/finance occupations | Nov 25 10:37 ET |
+| 29 | UnitedHealth Group | Senior Data Analyst | 65 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 30 | NVIDIA | Senior Robotics Research Scientist | 59 | 78 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 31 | Google | Senior Business and Marketing Data Scientist I | 55 | 1053 in data/analytics/finance occupations | Nov 25 09:09 ET |
+| 32 | Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management) | 55 | 133 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 33 | Block | Senior Model Risk Analyst, AI & Model Risk | 55 | 94 in data/analytics/finance occupations | Nov 25 12:07 ET |
+| 34 | Etsy | Market Research Analyst II | 55 | 19 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Municipal Bond - Analyst
+## 1. [MAYBE] University of Nevada Reno | Part-Time Research, Agentic AI and Scientific Reasoning (LOA)
+- Link: https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Part-Time-Research--Agentic-AI-and-Scientific-Reasoning--LOA-_R0154372
+- Location: University of Nevada, Reno - Main Campus ; University of Nevada, Reno - Main Campus (United States of America)
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~70 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): cap-exempt employer
+- Type: part-time (30 h/week stated)
+- Title scope: broad | Has: excel, llm, machine learning, python, pytorch, classification, git, publication, research | Lacks: -  | Note: broad title part-time: confirm 20+ h/week and E-Verify (STEM OPT minimum)
+- Eligibility: CHECK | Special Conditions of Employment Candidates must have the legal authorization required to perform the work, such as should have the necessary background and permits needed to work in the US like a visa or permit.
+
+### Job description
+
+The University of Nevada, Reno (UNR) appreciates your interest in employment at our growing institution. We want your application process to go smoothly and quickly. Final applications must be submitted prior to the close of the recruitment. If you need assistance or have questions regarding the application process, please contact our recruitment helpline at (775) 784-1495 or jobs@unr.edu . Job Description The MAGI Lab, led by Dr. Ankita Shukla in the Department of Computer Science and Engineering at the University of Nevada, Reno, invites applications for a paid Letter of Appointment (LOA) research position. The selected candidate will contribute to the DOE Genesis Mission project, Data to Decision (D2D): Agentic AI for Safety Case Development and Licensing of Geologic Repositories . The project develops AI systems that analyze scientific documents, retrieve supporting evidence, and assist experts with scientific and engineering reasoning. This position offers opportunities to work on large language models (LLMs), retrieval-augmented generation (RAG), multi-agent systems, and trustworthy AI in collaboration with university, national laboratory, and industry researchers. Impact of the Role The selected candidate will help develop AI tools that connect scientific claims to supporting evidence and enable experts to assess the reasoning behind AI-generated recommendations. This work contributes to the DOE Genesis Mission’s goal of accelerating scientific discovery through AI. Responsibilities Develop and evaluate LLM-based agents for scientific document analysis, evidence retrieval, and reasoning. Implement document-processing and data-curation workflows that preserve source references and provenance. Investigate methods to improve the reliability, traceability, and verification of AI-generated outputs. Conduct reproducible experiments and maintain clear code and research documentation. Contribute to project reports, demonstrations, and research publications. Participate in project meetings and collaborate with the research team. Required Qualifications Bachelor’s degree in computer science, engineering, applied mathematics, or a closely related field. Research or industry experience in AI, machine learning, or natural language processing. Proficiency in Python and experience with relevant machine learning libraries. Strong analytical, communication, and documentation skills. Ability to work independently and collaboratively. Preferred Qualifications A graduate degree in a relevant discipline. Experience with LLMs, RAG, multi-agent systems, or scientific document understanding. Familiarity with PyTorch, Hugging Face, or agent-development frameworks. Experience evaluating factual accuracy, source attribution, uncertainty, or AI reliability. Familiarity with Linux, Git, and GPU computing. Evidence of research or technical contributions through publications, software, or industry projects. Schedule and Appointment Duration Up to 30 hours per week , with the schedule arranged with the selected candidate. Appointment duration of 3–12 months , depending on project needs, funding availability, and performance. An immediate start is preferred. Compensation LOA Salaried Research Salary Information for LOAs | Human Resources Compensation will be commensurate with qualifications and experience, within the University of Nevada, Reno’s approved Academic Research LOA salary range. Special Conditions of Employment Candidates must have the legal authorization required to perform the work, such as should have the necessary background and permits needed to work in the US like a visa or permit. Participation in certain project activities or access to DOE or national laboratory resources may require additional review and approval. Contact Information Dr. Ankita Shukla Department of Computer Science and Engineering University of Nevada, Reno ankitas@unr.edu Exempt Yes Full-Time Equivalent 75.0% Required Attachment(s) Please note, once you submit your application the only attachment/s viewable to you will be the attachment/s to the resume/CV section of the application. Any additional required attachment/s to the cover letter, references, additional documents sections of the application, will not be viewable to you after you submit your application. All uploaded attachment/s will be on the application for the committee to review. To request updates to attachments, prior to the committee review of applications, please contact the candidate helpdesk at jobs@unr.edu . Attach the following attachment(s) to your application Resume/CV – (required) List a detailed description of the major duties that you performed as part of each job. You must demonstrate that you qualify for the position and your education and experience must be clearly documented. Cover Letter – (required) Describe relevant experience and interest in the project. Contact Information for Two Professional References – (required) Please include name, contact information, and relationship. Supporting Links and Publications -- (required) Publications, GitHub repositories, or relevant projects This posting is open until filled Qualified individuals are encouraged to apply immediately. Recruitment will close without notice when a sufficient number of applications are received or a hiring decision has been made. Posting Close Date Note to Applicant A background check will be conducted on the candidate(s) selected for hire. HR will attempt to verify academic credentials upon receipt of hiring documents. If the academic credentials cannot be verified, HR will notify the faculty member that an official transcript of their highest degree must be submitted within thirty days of the faculty member’s first day of employment. References will be contacted at the appropriate phase of the recruitment process. Applicants hired on a federal contract may be subject to
+
+---
+
+## 2. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Municipal Bond - Analyst
 - Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792604
 - Location: New York, NY, United States US
 - Posted: Nov 25 (board gives the date only)
@@ -51,7 +71,7 @@ Start your journey at JPMorganChase, where you belong and your impact matters. J
 
 ---
 
-## 2. [MAYBE] City of New York | Data Analytics Specialist
+## 3. [MAYBE] City of New York | Data Analytics Specialist
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990017084136
 - Location: New York City NY us
 - Posted: Nov 25 06:30 ET
@@ -66,7 +86,7 @@ New York City Department of Design and Construction (DDC) is the City’s primar
 
 ---
 
-## 3. [MAYBE] CareSource | Member Incentive Program Analyst
+## 4. [MAYBE] CareSource | Member Incentive Program Analyst
 - Link: https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Member-Incentive-Program-Analyst_R14656-1
 - Location: Remote ; Remote (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -81,7 +101,7 @@ Job Summary: The Member Incentive Program Analyst is responsible for supporting 
 
 ---
 
-## 4. [MAYBE] TikTok | Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD)
+## 5. [MAYBE] TikTok | Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD)
 - Link: https://lifeattiktok.com/search/7662674242861074741
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -117,7 +137,7 @@ By submitting an application for this role, you accept and agree to our global a
 
 ---
 
-## 5. [MAYBE] Bluesight | Data Engineer
+## 6. [MAYBE] Bluesight | Data Engineer
 - Link: https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9
 - Location: United States - Remote United States - Remote US
 - Posted: Nov 25 10:59 ET
@@ -150,7 +170,7 @@ All qualified applicants will receive consideration for employment and will not 
 
 ---
 
-## 6. [MAYBE] KION Group | AI Analyst
+## 7. [MAYBE] KION Group | AI Analyst
 - Link: https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/AI-Analyst_JR-0099503-1
 - Location: Grand Rapids, MI, United States ; Grand Rapids, MI, United States (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -165,7 +185,7 @@ Dematic is seeking an innovative and collaborative AI Solutions Analyst to join 
 
 ---
 
-## 7. [MAYBE] Manulife Financial | Associate Data Scientist
+## 8. [MAYBE] Manulife Financial | Associate Data Scientist
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Associate-Data-Scientist_JR26110981
 - Location: 2 Locations ; Boston, Massachusetts ; Toronto, Ontario (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -180,7 +200,7 @@ Associate Data Scientist Build your career in AI while solving real-world proble
 
 ---
 
-## 8. [MAYBE] U.S. Bank | Financial Analyst – Corporate Treasury
+## 9. [MAYBE] U.S. Bank | Financial Analyst – Corporate Treasury
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Financial-Analyst---Corporate-Treasury_2026-0036735
 - Location: Minneapolis, MN ; Minneapolis, MN (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -195,7 +215,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 9. [MAYBE] UCSF | Research Assistant
+## 10. [MAYBE] UCSF | Research Assistant
 - Link: https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/CONV_86555BR
 - Location: San Francisco, CA, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -210,7 +230,7 @@ Candidates must be fluent in Spanish The Research Assistant will provide researc
 
 ---
 
-## 10. [MAYBE] The Walt Disney Company | Compliance & Risk Analyst
+## 11. [MAYBE] The Walt Disney Company | Compliance & Risk Analyst
 - Link: https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Compliance---Risk-Analyst_10165882
 - Location: Lake Buena Vista, FL, USA ; Lake Buena Vista, FL, USA (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -225,7 +245,7 @@ Job Posting Title: Compliance & Risk Analyst Req ID: 10165882 Job Description: T
 
 ---
 
-## 11. [MAYBE] Clera | Founding AI/ML Engineer
+## 12. [MAYBE] Clera | Founding AI/ML Engineer
 - Link: https://jobs.ashbyhq.com/Clera/a85e66e9-d00e-48b5-8d14-5968111bc748
 - Location: San Jose United States remote
 - Posted: Nov 24 19:44 ET
@@ -282,7 +302,22 @@ Hybrid in San Jose, California.
 
 ---
 
-## 12. [MAYBE] Manulife Financial | AI Engineer
+## 13. [MAYBE] DTCC | Business Intelligence Associate, Applied AI
+- Link: https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214719
+- Location: Jersey City, NJ, United States US LONDON, United Kingdom
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~60 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, machine learning, power bi, sql, statistic, tableau, git, reporting, research, risk | Lacks: looker, snowflake  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | Learn more about Clearance and Settlement by clicking here .
+
+### Job description
+
+Are you ready to make an impact at DTCC? Do you want to work on innovative projects, collaborate with a dynamic and supportive team, and receive investment in your professional development? At DTCC, we are at the forefront of innovation in the financial markets. We are committed to helping our employees grow and succeed. We believe that you have the skills and drive to make a real impact. We foster a thriving internal community and are committed to creating a workplace that looks like the world that we serve. Pay and Benefits: Competitive compensation, including base pay and annual incentive Comprehensive health and life insurance and well-being benefits, based on location Pension / Retirement benefits Paid Time Off and Personal/Family Care, and other leaves of absence when needed to support your physical, financial, and emotional well-being. DTCC offers a flexible/hybrid model of 3 days onsite and 2 days remote (onsite Tuesdays, Wednesdays and a third day unique to each team or employee). The Impact you will have in this role: The Business Intelligence Associate leverages data and analytical tools to support senior leadership by extracting valuable insights and making data-driven decisions for an organization. This role specializes in business analytics services such as business intelligence, customer research and analysis, and dashboard creation for business units and integrated services groups. You will join a team that manages end-to-end product development for external and internal data user interfaces, including analytics engineering and data visualization for business domains, delivering trusted DTCC data that clients and stakeholders can easily discover, understand, and use to reach faster strategic decisions. You will work across a modern, cloud-based analytics stack, partnering with product owners, data engineers, and business domain experts to turn raw data into governed, well-designed analytical experiences. Our strategic architecture is a business enabler for AI-driven transformation, built on foundational data storage and access, elastic scaling for high-performance workloads, and rapid business intelligence engineering. You will be part of that capability, with real ownership of the experiences our users touch every day. Your Primary Responsibilities: Understand the decision-making process, workflows, and business and information needs of business executives Translate business needs into analytics and reporting requirements to support executive decisions and workflows with required information Coordinate with knowledge workers to understand their information needs and identify ways to visualize and present information in a user-friendly manner Create and maintain dashboards, visualizations, and reports using tools such as Sigma, Tableau, Power BI, or Looker to enable data-driven decision-making Develop and maintain semantic models and reusable metric definitions so that business logic is consistent, governed, and trusted across every dashboard and analytical interface Proactively mine data warehouses to identify trends and patterns and generate insights for business units and senior leadership Support user experience specialists and information architects to enhance information visualization through the development of dashboards and user interfaces Contribute to the development of AI-enabled analytical experiences, including natural language and conversational access to governed data sets Develop analytical strategies to solve business problems by understanding the business problems, identifying relevant data, gathering and summarizing data meaningfully, and applying appropriate statistical analysis Transform complex data into easy-to-follow reporting through graphing, charts, and dashboards Implement and maintain analytics systems to store and manage structured and unstructured data Work closely with information managers, architects, and business units for knowledge sharing, mentoring, and training Align risk and control processes into day to day responsibilities to monitor and mitigate risk **NOTE: The Primary Responsibilities of this role are not limited to the details above. ** Qualifications: Minimum 4 years of related experience Bachelor's degree (preferred) or equivalent experience Talents Needed for Success: At least 2 years of experience as a data analyst, business intelligence analyst, analytics engineer, or equivalent role An AI-native way of working. You reach for AI tooling instinctively rather than as an afterthought, you understand where it adds genuine leverage and where it does not, and you apply appropriate judgement in validating what it produces Strong hands-on skill with SQL and cloud data platforms, with Snowflake experience a distinct advantage Demonstrated experience in the creation of reports, dashboards, and data visualizations for the effective communication of insights and findings to a variety of internal and external stakeholders Practical experience with modern business intelligence and visualization tools such as Sigma, Looker, Power BI, or Tableau Understanding of semantic layers, data modelling, and the discipline required to keep metric definitions consistent and governed Experience collaborating with cross-functional teams, including executives, managers, and product professionals, to provide data-driven insights and recommendations that support strategic decision-making processes Genuine interest in applying AI and machine learning to analytics, including anomaly detection and conversational interfaces over governed data An eye for user experience and the understanding that a dashboard is a product, not a report Substantial experience with relational databases and query tools Financial services or capital markets exposure is advantageous but not essential Clear communication skills, comfort working in a collaborative and non-hierarchical environment, and the curiosity to ask why the numbers look the way they do We offer top class training and development for you to be an asset in our organization! The salary range is indicative for roles at the same level within DTCC across all US locations. Actual salary is determined based on the role, location, individual experience, skills, and other considerations.
+
+---
+
+## 14. [MAYBE] Manulife Financial | AI Engineer
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/AI-Engineer_JR26111069
 - Location: 2 Locations ; Boston, Massachusetts ; Toronto, Ontario (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -297,7 +332,7 @@ AI Engineer Build AI solutions that move beyond experimentation and into product
 
 ---
 
-## 13. [MAYBE] PDT Partners | Applied ML Scientist 
+## 15. [MAYBE] PDT Partners | Applied ML Scientist 
 - Link: https://job-boards.greenhouse.io/pdtpartners/jobs/1473516
 - Location: New York, NY
 - Posted: Nov 24 18:11 ET
@@ -312,7 +347,7 @@ PDT, a quantitative investment manager, is hiring problem solvers who blend prog
 
 ---
 
-## 14. [MAYBE] Charles Schwab | Machine Learning Ops Data Engineer
+## 16. [MAYBE] Charles Schwab | Machine Learning Ops Data Engineer
 - Link: https://career-schwab.icims.com/jobs/124397/machine-learning-ops-data-engineer/job
 - Location: Southlake, TX, US ; Austin, TX, US ; Phoenix, AZ, US
 - Posted: new since the previous sweep (board shows no date)
@@ -327,7 +362,7 @@ Your Opportunity At Schwab, you’re empowered to make an impact on your career.
 
 ---
 
-## 15. [MAYBE] UCSF | Research Data Analyst
+## 17. [MAYBE] UCSF | Research Data Analyst
 - Link: https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/CONV_87346BR
 - Location: San Francisco, CA, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -342,7 +377,7 @@ The Research Data Analyst will work under the direction of Co-Directors of the C
 
 ---
 
-## 16. [MAYBE] Collectors | Associate Analytics Engineer
+## 18. [MAYBE] Collectors | Associate Analytics Engineer
 - Link: https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US---Remote/Associate-Analytics-Engineer_JR107428
 - Location: US - Remote ; US - Remote (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -357,7 +392,7 @@ Collectors is the leading creator of innovative technology that provides value-a
 
 ---
 
-## 17. [MAYBE] State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship
+## 19. [MAYBE] State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship
 - Link: https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/State-Street-Enterprise-Risk-Management---Quantitative-Risk-Internship---2027-Summer-Internship_R-801341
 - Location: Clifton, New Jersey ; Clifton, New Jersey (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -372,7 +407,7 @@ Who we are looking for A strong quantitative candidate to join the team as an in
 
 ---
 
-## 18. [MAYBE] Stifel | Research Associate I - Energy
+## 20. [MAYBE] Stifel | Research Associate I - Energy
 - Link: https://careers-stifel.icims.com/jobs/11312/research-associate-i---energy/job
 - Location: New York, NY, US
 - Posted: new since the previous sweep (board shows no date)
@@ -387,7 +422,7 @@ Why Stifel Stifel strives for a culture that puts its clients and associates fir
 
 ---
 
-## 19. [MAYBE] Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature
+## 21. [MAYBE] Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4477299009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 25 10:38 ET
@@ -402,7 +437,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 20. [MAYBE] Roche | Data & Analytics Specialist
+## 22. [MAYBE] Roche | Data & Analytics Specialist
 - Link: https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/Data---Analytics-Specialist_202611-128713-1
 - Location: Tucson ; Tucson (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -417,7 +452,7 @@ At Roche you can show up as yourself, embraced for the unique qualities you brin
 
 ---
 
-## 21. [MAYBE] Logitech | Corporate Strategy Analyst
+## 23. [MAYBE] Logitech | Corporate Strategy Analyst
 - Link: https://logitech.wd5.myworkdayjobs.com/Logitech/job/Offsite---USA---TX/Corporate-Strategy-Analyst_148779
 - Location: 2 Locations ; Offsite - USA - TX ; San Jose, California - USA (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -432,7 +467,7 @@ Logitech is the Sweet Spot for people who want their actions to have a positive 
 
 ---
 
-## 22. [MAYBE] Visa | Associate Data Engineer, AI Studio
+## 24. [MAYBE] Visa | Associate Data Engineer, AI Studio
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W
 - Location: US - Austin, TX ; US - Austin, TX (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -447,7 +482,7 @@ About Us Visa is a world leader in payments technology, facilitating transaction
 
 ---
 
-## 23. [MAYBE] University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being
+## 25. [MAYBE] University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being
 - Link: https://studentemployment-stthomas.icims.com/jobs/10464/graduate-assistant-for-data-analytics%2c-center-for-well-being/job
 - Location: St. Paul, MN, US
 - Posted: new since the previous sweep (board shows no date)
@@ -462,7 +497,7 @@ OVERVIEW JOB TITLE: Graduate Assistant for Data Analytics, Center for Well-Being
 
 ---
 
-## 24. [MAYBE] Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group
+## 26. [MAYBE] Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group
 - Link: https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/3131-Princeton-Pike/Business-Data-Analyst---FT---Day---Capital-Health-Medical-Group_JR112120
 - Location: 3131 Princeton Pike ; 3131 Princeton Pike (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -477,7 +512,7 @@ Capital Health is the region's leader in providing progressive, quality patient 
 
 ---
 
-## 25. [MAYBE] Merck | Senior Machine Learning Scientist, Foundation Model
+## 27. [MAYBE] Merck | Senior Machine Learning Scientist, Foundation Model
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Senior-Machine-Learning-Scientist--Foundation-Model_R416575-1
 - Location: USA - Massachusetts - Cambridge (320 Bent Street) ; USA - Massachusetts - Cambridge (320 Bent Street) (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -492,7 +527,7 @@ Job Description Our artificial intelligence and machine learning (AI/ML) capabil
 
 ---
 
-## 26. [MAYBE] Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding
+## 28. [MAYBE] Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding
 - Link: https://job-boards.greenhouse.io/lilasciences/jobs/4477297009
 - Location: Cambridge, MA USA; San Francisco, CA USA
 - Posted: Nov 25 10:37 ET
@@ -507,7 +542,7 @@ Your Impact at LILA Lila is building a platform where AI and automation co-evolv
 
 ---
 
-## 27. [MAYBE] UnitedHealth Group | Senior Data Analyst
+## 29. [MAYBE] UnitedHealth Group | Senior Data Analyst
 - Link: https://careers.unitedhealthgroup.com/job/san-antonio/senior-data-analyst/34088/102779374880
 - Location: San Antonio, Texas ; San Antonio, Texas, United States ; Remote
 - Posted: new since the previous sweep (board shows no date)
@@ -522,7 +557,22 @@ Our Company Optum is a global organization that delivers care, aided by technolo
 
 ---
 
-## 28. [MAYBE] Google | Senior Business and Marketing Data Scientist I
+## 30. [MAYBE] NVIDIA | Senior Robotics Research Scientist
+- Link: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Senior-Robotics-Research-Scientist_JR2000652
+- Location: US, WA, Seattle ; US, WA, Seattle (United States of America)
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~59 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 78 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: excel, machine learning, nlp, python, pytorch, deep learning, publication, research | Lacks: c++  | Note: title says Senior/II: asks 2 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+We are now looking for a Senior Robotics Research Scientist! NVIDIA is at the forefront of the AI and robotics revolution, and our robotics teams are on a mission to build the essential technology that can enable any company to become a robotics company. The Seattle Robotics Lab is focused on fundamental and applied robotics research across the full robotics stack, including perception, planning, control, reinforcement learning, imitation learning, and simulation. This research aims to transform research paradigms, transfer into NVIDIA’s robotics and simulation products, and create new robotics markets for the world. The Seattle Robotics Lab has led many influential works that have been presented at top robotics, AI, and computer vision conferences; these works include BayesSim , cuRobo , DeXtreme , DiSECT , Factory , GraspNet , ITPS , MimicGen , RVT , and SHAC . (See our publications page for a complete list.) The work has deeply impacted the research community and NVIDIA products, including Isaac Sim , Isaac Lab , and Isaac Manipulator . Furthermore, SRL collaborates closely with other research and engineering teams to advance and leverage the Cosmos and GR00T-N foundation models, as well as the Newton physics simulation engine. The team is targeting several grand challenges in robotics and is aiming to achieve never-before-seen capabilities within 2-3 years. We are looking for world-class senior research scientists to play a pivotal role in these efforts, providing both technical leadership and hands-on technical contributions. These scientists must have exceptional research and engineering skills, a proven research track record, strong supporting references, and a team-first mentality. What you will be doing: Developing algorithms, models, and methods for robotic manipulation and loco-manipulation, for both industrial and household applications; Integrating these methods into real-world robotic manipulation systems, including those consisting of collaborative robot arms, industrial robot arms, mobile manipulators, humanoids, and dexterous hands; Co-leading and contributing to multi-person research projects that require a diverse set of skills across the robotics and machine learning stack; Engaging with the academic community through high-impact publications, conferences, workshops, and code releases; Collaborating with product managers and engineering teams to transfer your research into NVIDIA products that will have real-world impact; Mentoring interns and more junior research scientists and engineers. What we need to see: A PhD in Robotics, Machine Learning, Computer Science, Electrical Engineering, Mechanical Engineering, or a related field (or equivalent experience). At least 3 years of research experience after completing your PhD; 5+ years is preferred. Deep knowledge of both the theory and practice of robotics and AI, with a strong interest in connecting your work to real-world robotics applications. A proven track record of research excellence, with work published in top robotics and AI conferences and journals such as RSS, CoRL, ICRA, IROS, IJRR, T-RO, NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, and EMNLP. Exceptional communication, collaboration, and interpersonal skills, with significant experience working on teams as both a leader and a contributor. Exceptional programming skills in Python; in addition, familiarity with C++, CUDA, and Warp is a plus. Fluency in modern deep learning frameworks such as PyTorch and JAX. Significant experience with robotics frameworks such as ROS2 and physics simulation frameworks such as Isaac Sim, Isaac Lab, and MuJoCo. Deep comfort in working through the complexities of simulation and real-world robotics, including debugging physics simulators and renderers under rapid development; selecting, setting up, maintaining, and enhancing complex robotics hardware; debugging communication systems; and designing robust workflows for model training and evaluation. Ways to stand out from the crowd: Prior experience working with product managers and engineering teams to transfer research into products is a significant plus. A history of successfully mentoring junior researchers, engineers, and/or interns. Experience with one or more of the following research areas and applications, which are of particular interest: Bimanual and dexterous manipulation Mobile manipulation and humanoid loco-manipulation Multisensory perception (e.g., vision, tactile, and force/torque sensing) Simulation, sim-to-real, and real-to-sim Vision-language-action (VLA) models, including architectural advancements, large-scale training, and test-time reasoning Industrial applications, such as bin-picking, kitting, and assembly The Seattle Robotics Lab is now located in a brand-new office in the vibrant Fremont neighborhood of Seattle. Widely considered to be one of the technology world’s most desirable employers, NVIDIA has some of the most forward-thinking and hardworking people in the world inventing the future for us. Are you a creative and collaborative researcher interested in seeking new challenges? If so, we want to hear from you! Please join us and be at the forefront of robotics research that will impact both industry and academia! Your base salary will be determined based on your location, experience, and other objective job-related factors. The expected base salary ranges for this position are: 195,000 USD – 370,500 USD for Level 4; and 232,500 USD – 448,500 USD for Level 5. You will also be eligible for equity and benefits . Applications for this job will be accepted at least until November 29, 2026. This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes. NVIDIA is committed to fostering an inclusive work environment and proud to be an
+
+---
+
+## 31. [MAYBE] Google | Senior Business and Marketing Data Scientist I
 - Link: https://www.google.com/about/careers/applications/jobs/results/93758412692562630
 - Location: Kirkland, WA, USA ; New York, NY, USA ; Sunnyvale, CA, USA
 - Posted: Nov 25 09:09 ET
@@ -537,7 +587,7 @@ Google's leadership team hand-picks thorny business challenges, and members of B
 
 ---
 
-## 29. [MAYBE] Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management)
+## 32. [MAYBE] Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management)
 - Link: https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73369
 - Location: Dearborn, MI, United States US
 - Posted: Nov 25 (board gives the date only)
@@ -549,4 +599,34 @@ Google's leadership team hand-picks thorny business challenges, and members of B
 ### Job description
 
 Our Marketing, Sales & Service organization advances the Ford reputation as a visionary vehicle and mobility services company and helps deliver a trusted customer experience. Use your marketing, sales and service expertise to turn data-driven insights into innovative solutions that enhance sales and customer loyalty. Join us and be the eyes, ears and voice of Ford. In this position... This role sits within the Yield Management Advanced Analytics team, focused on developing and maintaining sophisticated modeling and optimization capabilities that drive pricing and incentive strategy across the business. As part of the broader Yield Management organization, this team partners closely with sibling analytics products, data engineering, AI/ML engineering, and business stakeholders to deliver quantitative solutions that shape how the company prices vehicles, structures incentives, and manages portfolio risk. The successful candidate will serve as a subject matter expert on our analytical products, translating complex business problems into rigorous quantitative solutions and owning their full lifecycle — from framework design through production deployment and ongoing maintenance. Solutions are delivered in whatever format best fits the need, often as always-on web applications (e.g., Python Dash apps), but also as ad-hoc analyses, or dashboards when appropriate. This position requires strong technical depth in statistical modeling, machine learning, and optimization, along with sound judgment in applying these methods to real business constraints. There is also room to explore emerging tools — such as agentic AI and LLM-based workflows — to enhance how solutions are built and delivered. Critical questions this role will help answer include: Assessing portfolio risk and opportunity at the portfolio or nameplate level Assessing business impacts of different incentive tactics to support incentive planning Optimizing nameplate profitability or minimizing risk by adjusting entity-level pricing based on production, market demand, and operational constraints Supporting new model year launches, mid-year repricing, and short-term variable marketing adjustments What you'll do... Model Enhancement, Expansion & Maintenance Own the end-to-end lifecycle of complex predictive models and optimization frameworks, driving scheduled updates, continuous improvement, and maintenance using advanced statistical and machine learning methodologies Serve as subject matter expert for our analytical products, ensuring the accuracy of underlying data, calculation logic, and business assumptions Drive the transition of analytical frameworks into production-ready assets, focusing on deployment automation, operational stability, and delivering clean, modular, well-documented code Explore opportunities to apply emerging techniques, such as agentic AI or LLM-based tools, to improve modeling workflows or analytical delivery Business Engagement & Cross-Functional Collaboration Partner directly with business stakeholders to understand evolving needs and convert ambiguous business problems into well-defined analytical problems Communicate quantitative concepts into clear, actionable insights for both technical peers and business partners, ensuring analytical work translates into real business impact Execute rapid-response, ad-hoc analytical requests to support time-sensitive strategic decision-making Partner closely with data engineering, AI/ML engineering, and other analytics product teams within Yield Management to align data science capabilities with evolving business needs You'll have... Master's degree in Data Science, Statistics, Economics/Econometrics, Mathematics, Operations Research, Artificial Intelligence, Machine Learning, or a related quantitative field 3+ years of experience in data analytics, AI/ML modeling, or related quantitative analysis Proficiency in one or more programming languages (Python, R, MATLAB, C/C++/C#, SAS), along with familiarity in ML/DL libraries and SQL Even better, you may have... Ph.D. in Data Science, Statistics, Economics/Econometrics, Mathematics, Operations Research, Artificial Intelligence, Machine Learning, or a related quantitative field Demonstrated skills applying econometrics, statistics, and/or machine/deep learning techniques to large, structured and unstructured data sets Strong problem formulation and analytical rigor, with the ability to interpret and communicate model results Experience with web app frameworks (e.g., Dash, Flask, Streamlit), version control (Git), and cloud platforms (e.g., Azure, GCP) Curiosity or experience exploring agentic AI and LLM-based tools, with interest in applying them creatively to analytical workflows You may not check every box, or your experience may look a little different from what we've outlined, but if you think you can bring value to Ford Motor Company, we encourage you to apply! As an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love, or a series of new teams and new skills? Will you be a leader, a changemaker, a technical expert, a culture builder…or all of the above? No matter what you choose, we offer a work life that works for you, including: • Immediate medical, dental, vision and prescription drug coverage • Flexible family care days, paid parental leave, new parent ramp-up programs, subsidized back-up childcare and more • Family building benefits including adoption and surrogacy expense reimbursement, fertility treatments, and more • Vehicle discount program for employees and family members and management leases • Tuition assistance • Established and active employee resource groups • Paid time off for individual and team community service • A generous schedule of paid holidays, including the week between Christmas and New Year’s Day • Paid time off and the option to purchase additional vacation time. This position is a salary grade 5-8, and ranges from $68,300-$192,900. Final determination of salary grade will be based on candidate's skills and experience, and base salary will be set within the applicable range according to job scope, responsibility and competitive market value. For more information on salary and benefits, click here: https://fordcareers.co/GSR Visa sponsorship is available for this position. Candidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire.
+
+---
+
+## 33. [MAYBE] Block | Senior Model Risk Analyst, AI & Model Risk
+- Link: http://block.xyz/careers/jobs/5494600008?gh_jid=5494600008
+- Location: Bay Area, CA, United States of America
+- Posted: Nov 25 12:07 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 94 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, forecast, machine learning, python, sql, statistic, backtest, credit, git, model risk, model validation, quantitative, risk, validation | Lacks: scala  | Note: title says Senior/II: asks 3 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Block is one company built from many blocks, all united by the same purpose: economic empowerment. We build technology that increases access and independence for sellers, individuals, and artists around the world. Working at Block means working on and across our brands—Square, Cash App, Afterpay, TIDAL, Spiral, and Proto— in roles that connect, enable, and push all of them forward faster. We’re remote-first by design and operate with intelligence at the center of everything we do. At Block, you'll be challenged by some of the brightest, most creative minds in the industry and have the tools and autonomy to do the most meaningful work of your career.&nbsp; The Role This role puts you at the center of the team that independently challenges the models Square Financial Services relies on, from the credit models that decide who gets a loan to the forecasting models that shape the bank's plans. You'll help work out how to validate modeling approaches that are new to banking, often before an industry playbook exists. And with broad access to AI tools that few banks offer, you'll help rethink how validation itself gets done, so our team can run a rigorous program efficiently. If you enjoy digging into data and code, forming your own view of how a model really behaves, and explaining that view clearly to developers, leaders and bank examiners, this is the place to be. As a Senior Model Risk Analyst, you will lead independent validations of models used across Square Financial Services (SFS), Block's bank, which lends to small businesses through Square Loans and to consumers through Cash App Borrow, and offers FDIC-insured deposits. Every SFS model must be independently reviewed and approved before it goes into use, so your work directly affects whether the bank can launch new products, grow lending and meet regulatory expectations safely and on time. You will report to the Head of AI &amp; Model Risk and join the AI &amp; Model Risk team, part of the bank's independent risk function. No two validations are alike: you will decide which tests matter for each model's data, methodology and intended use, with minimal day-to-day oversight. You Will Lead independent validations across the model lifecycle, scaling the depth of your work to each model's risk rating Validate models used across the bank, including credit underwriting and loss forecasting models for small business and consumer lending, and finance models used for business planning, stress testing and balance sheet management Evaluate conceptual soundness: methodology, data, assumptions, limitations and any management adjustments to model outputs Verify that models work as intended: reproduce developer code (typically Python), test input data for accuracy and completeness with SQL, confirm outputs, and review evidence of accurate implementation, data integrity controls and security Build independent benchmark or challenger models for high-risk models, and perform outcomes analysis such as backtesting and rank-ordering tests Independently review each model owner's proposed risk rating and recommend a final rating Assess ongoing monitoring plans and results, review vendor models and pre-approved model changes, and flag models that are deteriorating before they become a problem Write clear validation reports, rate findings by severity, agree on remediation with model owners and track it to closure Present your conclusions to model owners, senior management and the bank's risk committees, and support internal audits and FDIC examinations Help keep the model inventory and validation records accurate, and build AI-enabled tools that make the validation program faster and more scalable You Have A minimum of 5 years of related experience with a Bachelor's degree in a quantitative field such as mathematics, statistics, data science, economics, finance or computer science; or 3 years and a Master's degree; or a PhD without experience; or equivalent work experience in model development, model validation or quantitative analysis Hands-on experience developing or validating statistical and machine learning models, and in-depth knowledge of the quantitative methods used to test them Proficiency in Python and SQL, including working in and adapting code someone else wrote, plus familiarity with GitHub Experience with one or more of these model types: credit underwriting, loss forecasting, stress testing, asset liability management or interest rate risk, or financial planning and forecasting Strong technical writing, and the ability to explain complex model issues to non-technical partners, senior management and regulators Sound judgment to scope a validation, choose the right tests and manage several validations at once Nice to Have Model development or validation experience at a bank or fintech Knowledge of interagency model risk management guidance, including SR 26-2 Experience building challenger models, especially machine learning models Experience validating vendor models Prior second-line-of-defense or internal audit experience at a bank or financial institution Certifications such as FRM or PRM Technologies We Use and Teach Block is investing heavily in AI, and our workflows are evolving accordingly. You'll have broad access to AI tools, use them in your own validation work, help design how the team uses them, and see up close how the bank governs AI alongside traditional models. &nbsp; Block takes a market-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future. To find a location’s zone designation, please refer to this&nbsp; resource . If a location of interest is not listed, please speak with a recruiter for additional information.&nbsp; &nbsp; Zone A: $163,600 &mdash; $245,400 USD Zone B: $155,400 &mdash; $233,200 USD Zone C: $147,300 &mdash; $220,900 USD Zone D: $139,000 &mdash; $208,600 USD Application Guidelines Candidates may submit up to 9 active applications within a 60-day period. Reapplications to the same role are accepted 90 days after a previous application has been reviewed. Use of AI in Our Hiring Process We may use automated AI tools to evaluate job applications for efficiency and consistency. These tools comply with local regulations, including bias audits, and we handle all personal data in accordance with state and local privacy laws.&nbsp; Contact us here &nbsp;with hiring practice or data usage questions. Every benefit we offer is designed with one goal: empowering you to do the best work of your career while building the life you want. Remote work, medical insurance, flexible time off, retirement savings plans, and modern family planning are just some of our offering.&nbsp; Check out our other  [...]
+
+---
+
+## 34. [MAYBE] Etsy | Market Research Analyst II
+- Link: https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Market-Research-Analyst-II_JR5818
+- Location: Brooklyn, New York ; Brooklyn, New York (United States of America)
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): 19 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: data visualization, excel, statistic, quantitative, reporting, research | Lacks: -  | Note: title says Senior/II: asks 3 years
+- Eligibility: OK | While Etsy supports visa sponsorship, sponsorship opportunities may be limited to certain roles and skills.
+
+### Job description
+
+Company Description Etsy is the global marketplace for unique and creative goods. We build, power, and evolve the tools and technologies that connect millions of entrepreneurs with millions of buyers around the world. As an Etsy employee, you will tackle unique, meaningful, and large-scale problems alongside passionate coworkers, all the while making a rewarding impact and Keeping Commerce Human. We believe exceptional companies are built by exceptional teams, and we're intentional about it. That means hiring great people, setting them up for success from day one, and giving them real reasons to grow their careers here. We invest in development that goes beyond promotions, and we foster the trust and relationships that help people do their best work together. What’s the role? We are looking for a Market Researcher who can influence marketing decision-making by deeply understanding Etsy’s audiences and our evolving competitive landscape. You’ll work closely with marketing teams and alongside other researchers and data scientists to deliver insights and recommendations that will craft the future of human commerce on Etsy. This is a full-time position reporting to the Senior Manager, Market Research. What’s this team like at Etsy? The Market Research team helps Etsy understand customers, sellers, and the marketplace through rigorous qualitative and quantitative research We use research to inform the development of marketing strategy & tactics and to help evaluate marketing performance (in close partnership with Marketing Analytics) We’re a mixed-methods team with a deep bench of quantitative and qualitative methods, but our team leans towards quantitative skill sets We conduct research with global consumers, small business owners, as well as Etsy buyers & sellers We actively foster an inclusive team culture that promotes diversity, collaboration, and professional development What does the day-to-day look like? Primary Tasks: Partners with Product & Retention Marketing teams to guide marketing strategy and execution Independently develop and execute research for tightly-scoped research projects, including developing survey instruments, analyzing data, generating insights and recommendations, and writing reports, while supporting the Product & Retention Marketing Research Lead on more widely-scoped research projects Secondary Tasks: Own key aspects of our brand tracking program, including vendor relationships, questionnaire updates, tabulation specs, data analysis, and reporting Source and synthesize secondary research, including competitive intelligence Contribute to market research operations, including project management and overseeing the process of working with third-party research vendors (e.g., research agencies, moderators) Of course, this is just a sample of the kinds of work this role will require! You should assume that your role will encompass other tasks, too, and that your job duties and responsibilities may change from time to time at Etsy's discretion, or otherwise applicable with local law. Qualities that will help you thrive in this role are: Approximately 3+ years experience conducting primary market research, including brand tracking experience Familiarity with lifecycle marketing and the ability to translate research into concrete marketing recommendations Strong quantitative research skills, including sampling, questionnaire design, data analysis (including strong understanding of statistical testing), and reporting Experience conducting research that shapes lifecycle marketing strategy Experience conducting product marketing research– such as positioning development, GTM message testing, or value prop testing Comfort leveraging AI tools to accelerate research workflows while maintaining human oversight and judgement of outputs Excellent data visualization skills, including experience with Google Slides, with the ability to translate complex data into clear narratives Strong communication skills A collaborative, curious, and pragmatic mindset and the ability to balance methodological rigor with speed Compensation & Benefits In addition to salary, you'll be eligible for an equity package, an annual performance bonus, and our competitive benefits that support you and your family. Base salary is determined by your location, skills, and experience. Etsy uses two geographic pay zones to reflect the labor markets where we compete for talent: one called Geo-1, covering the New York City metropolitan area, San Francisco Bay Area, and Seattle metropolitan area, and one called Geo-2, covering all other U.S. locations. Salary ranges for this role vary by zone and are listed below. Location We prioritize candidates based within commutable distance of Etsy’s Brooklyn Office. Depending on proximity, we ask team members to come in once or twice per week. Remote candidates outside commutable distance may be considered on a case-by-case basis, with the expectation of occasional travel to the office. Learn more details about our work modes and workplace safety policies here . Salary Range: • Geo-1: 112,000.00 - 152,000.00 USD Annual&#xa;• Geo-2: 101,000.00 - 137,000.00 USD Annual&#xa;&#xa; What's Next If you're interested in joining the team at Etsy, please share your resume with us and feel free to include a cover letter if you'd like. As we hope you've seen already, Etsy is a place that values individuality and variety. We don't want you to be like everyone else -- we want you to be like you! So tell us what you're all about. Our Promise At Etsy, we believe that a diverse, equitable, and inclusive workplace furthers relevance, resilience, and longevity. We encourage people from all backgrounds, ages, abilities, and experiences to apply. Etsy is proud to be an equal opportunity workplace and is committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, national origin, religion or creed, sex, pregnancy (including childbirth and related medical conditions), gender, gender identity or expression, sexual orientation, age, citizenship or immigration status, marital or familial status, physical or mental disability, medical condition, genetic information, military or veteran status**, or any other characteristic protected by applicable federal, state, or local law**. If, due to a disability, you need an accommodation during any part of the interview or hiring process, please let your recruiter know and we will work with you to meet your needs. While Etsy supports visa sponsorship, sponsorship opportunities may be limited to certain roles and skills.
 
