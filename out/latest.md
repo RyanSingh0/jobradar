@@ -1,29 +1,35 @@
-# Sweep 2026-11-25 04:44 ET: 4595 boards, 23 new matches, 3 kept, 158 board errors, 171s
+# Sweep 2026-11-25 08:07 ET: 4595 boards, 29 new matches, 2 kept, 158 board errors, 185s
 
-Coverage audit (7 days): JobRadar had 1/20 = 5% of relevant alert postings; median lead 1112 min vs the alert email. This sweep: 1 relevant alert postings, 1 not on JobRadar boards.
-- [HOT] Uline | Marketing Analyst | fit~68 | https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Analyst_R269449-1
-- [HOT] Google | Research Data Scientist, Core Metrics | fit~55 | https://www.google.com/about/careers/applications/jobs/results/139846916471956166
-- [MAYBE] Logitech | Corporate Strategy Analyst | fit~45 | https://logitech.wd5.myworkdayjobs.com/Logitech/job/Offsite---USA---TX/Corporate-Strategy-Analyst_148779
-- [LOW] Navi AI | Forward Deployed Engineer, Commercial Aviation | fit~50 | https://jobs.ashbyhq.com/navi/17294add-0ec3-42b4-9716-b979dbbb7bfc
-- [LOW] FedEx Freight | Analyst-Revenue Quality | fit~50 | https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFGOCorporate-Headquarters/Analyst-Revenue-Quality_RC6513
-- [LOW] FedEx Freight | Sr Analyst-Revenue Quality | fit~50 | https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFGOCorporate-Headquarters/Sr-Analyst-Revenue-Quality_RC6509 | senior title below the bar
-- [LOW] Uline | Credit Analyst | fit~45 | https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Waukegan-IL/Credit-Analyst_R269444-1
-- [LOW] Uline | Executive Operations Business Analyst | fit~40 | https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Executive-Operations-Business-Analyst_R269431
-- [LOW] Podium | AI Success Consultant | fit~36 | https://job-boards.greenhouse.io/podium81/jobs/8416283
-- [SKIP] Navi AI | Forward Deployed Engineer, Defense | fit~- | https://jobs.ashbyhq.com/navi/b5d57289-83fa-45fd-9301-3cb0873e385e | eligibility: "citizenship required"
-- [SKIP] Avnet | Business Analyst | fit~- | https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Business-Analyst_JR-024984 | outside US (Taiwan)
-- [SKIP] Caterpillar Inc. | AI Development Engineer | fit~- | https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/AI-Development-Engineer_R0000407141 | outside US (China)
-- [SKIP] Epiq Systems | Operations Analyst | fit~- | https://epiqsystems.wd503.myworkdayjobs.com/Epiq_Careers/job/POL---Poland-Remote-Office/Operations-Analyst_R0034824 | outside US (Poland)
-- [SKIP] Global Payments | Compliance Analyst Senior | fit~- | https://tsys.wd1.myworkdayjobs.com/tsys/job/MANCHESTER--UNITED-KINGDOM/Compliance-Analyst-Senior_R0077373-1 | outside US (United Kingdom)
-- [SKIP] Heidelberg Materials | Endpoint Automation & System Engineer | fit~- | https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/CZE--Brno-DHB--Skrobarenska-5113/Endpoint-Automation---System-Engineer_JR10013245 | outside US (Czechia)
-- [SKIP] Hewlett Packard (HP) | Inventory Controls Analyst | fit~- | https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Bengaluru-Karnataka-India/Inventory-Controls-Analyst_3170742 | outside US (India)
-- [SKIP] Hitachi | AI Context Engineer | fit~- | https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Madrid-Spain/AI-Context-Engineer_R0122133 | asks 5+ years
-- [SKIP] Hong Kong Exchanges | (Senior) Systems Analyst – Post-Trade Systems  (12-months Renewable Contract) | fit~- | https://hkex.wd3.myworkdayjobs.com/HKEXCareerPage/job/HK-TKO-5F/AVP---Associate--Systems-Development----Post-Trade-Systems---IT--Permanent-12-months-Contract-_R004194 | outside US (Hong Kong)
-- [SKIP] NatWest Group | Trade & Transaction Reporting Analyst | fit~- | https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Trade---Transaction-Reporting-Analyst_R-00288458 | outside US (India)
-- [SKIP] S&P Global | Senior Analyst, Credit Market Research | fit~- | https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Central-HK/Senior-Analyst--Credit-Market-Research_331536-1 | outside US (Hong Kong)
-- [SKIP] Shell | Screening Junior Analyst (KYC) | fit~- | https://shell.wd3.myworkdayjobs.com/ShellCareers/job/Dela-Rosa---Street-office/Screening-Junior-Analyst--KYC-_R215702 | outside US (Philippines)
-- [SKIP] Syneos Health | Sr.Statistical Programmer clinpharm | fit~- | https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/SrStatistical-Programmer-clinpharm_25114302-1 | asks 5+ years
-- [SKIP] Valmet | Senior Engineer forAutomation Refits | fit~- | https://valmet.wd103.myworkdayjobs.com/external/job/Gliwice/Senior-Engineer-forAutomation-Refits_R61258 | outside US (Poland)
+Alert inbox: no new relevant alert postings
+- [MAYBE] City of New York | Data Analytics Specialist | fit~67 | https://jobs.smartrecruiters.com/cityofnewyork/3743990017084136 | no H-1B filings found for this employer
+- [MAYBE] Visa | Associate Data Engineer, AI Studio | fit~45 | https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W | no H-1B filings found for this employer
+- [LOW] Citi | Model Validation 2nd LOD Sr. Analyst | fit~68 | https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Model-Validation-2nd-LOD-Sr-Analyst_261003254 | senior title below the bar
+- [LOW] City of New York | Capital Budget Analyst | fit~54 | https://jobs.smartrecruiters.com/cityofnewyork/3743990017084086
+- [LOW] Visa | Sr. ML Engineer, AI Studio | fit~53 | https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Sr-ML-Engineer--AI-Studio_REF090690W | senior title below the bar
+- [LOW] Uline | Business Analyst - Facilities | fit~50 | https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Business-Analyst---Facilities_R269451-1
+- [LOW] City of New York | Intelligence Analyst | fit~45 | https://jobs.smartrecruiters.com/cityofnewyork/3743990017084241
+- [LOW] City of New York | City Research Scientist | fit~33 | https://jobs.smartrecruiters.com/cityofnewyork/3743990017083496
+- [LOW] Entrust | Senior Software QA Engineer - Automation | fit~32 | https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Senior-Software-QA-Engineer---Automation_R004495 | senior title below the bar
+- [LOW] PricewaterhouseCoopers (PwC) | GenAI Python Systems Engineer – Senior Associate | fit~32 | https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/IL-Chicago/GenAI-Python-Systems-Engineer---Senior-Associate_774466WD-1 | senior title below the bar
+- [SKIP] BNY | 2027 BNY Analyst Program – Credit and Trading - (New York, NY) | fit~- | https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/84368 | eligibility: "Program eligibility: Enrollment in a 4-year undergraduate degree program with a strong focus on business-related and/or technology-related majors preferred Graduating in Dec 2026 or May 2027 (U.S.) Minimum cumulative GPA"
+- [SKIP] BNY | 2027 BNY Analyst Program – Credit and Trading - (Pittsburgh, PA) | fit~- | https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/84372 | eligibility: "Program eligibility: Enrollment in a 4-year undergraduate degree program with a strong focus on business-related and/or technology-related majors preferred Graduating in Dec 2026 or May 2027 (U.S.) Minimum cumulative GPA"
+- [SKIP] Bupa | Data & AI Risk Specialist | fit~- | https://bupa.wd3.myworkdayjobs.com/ext_career/job/Salford-Quays/Data---AI-Risk-Specialist_R1500874-1 | outside US (United Kingdom)
+- [SKIP] Cardinal Health | Senior Analyst(P2) – Middleware Integration (Boomi) | fit~- | https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Senior-Analyst-P2----Middleware-Integration--Boomi-_20191591 | outside US (India)
+- [SKIP] Chanel | CDI - Pricing & Marketing Analyst - F/H | fit~- | https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Neuilly-Sur-Seine/CDI---Pricing---Marketing-Analyst---F-H_JOBREQ00119323 | outside US (France)
+- [SKIP] Citi | Applications Development Sr Programmer Analyst - C12 - CHENNAI | fit~- | https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Applications-Development-Sr-Programmer-Analyst---C12---CHENNAI_261010542 | asks 6+ years
+- [SKIP] Dedalus | Business Analyst Specialist | fit~- | https://dedalus.wd3.myworkdayjobs.com/External/job/ITA---Bologna/Business-Analyst-Specialist_JR108997 | outside US (Italy)
+- [SKIP] Dentsu | Business Automation and Atlassian Consultant | fit~- | https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Belgrade/Business-Automation-and-Atlassian-Consultant_R1138072 | outside US (Serbia)
+- [SKIP] IQVIA | Clinical Data Specialist | fit~- | https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Thane-Maharashtra-India/Clinical-Data-Specialist_R1555642 | outside US (India)
+- [SKIP] Kyndryl | Forward Deployed Engineer | fit~- | https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/ITMILCOP/Forward-Deployed-Engineer_R-65787-1 | outside US (Italy)
+- [SKIP] Kyndryl | Senior Forward Deployed Engineer | fit~- | https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Italy-Milan-ITMILVP22-Office/Senior-Forward-Deployed-Engineer_R-65797-1 | outside US (Italy)
+- [SKIP] Lloyds Bank | Senior Credit Risk Analyst - BCB Credit Strategy & Insight | fit~- | https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Senior-Credit-Risk-Analyst---BCB-Credit-Strategy---Insight_161951-3 | outside US (United Kingdom)
+- [SKIP] Northrop Grumman | 2027 Configuration Management Data Analyst Intern - Falls Church VA | fit~- | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2027-Configuration-Management-Data-Analyst-Intern---Falls-Church-VA_R10262117 | eligibility: "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: Secret TRAVEL: No Description At Northrop Grumman, our employees have incredible opportunities to work on revolut"
+- [SKIP] Novartis | Senior Specialist, Data Science & AI | fit~- | https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Cambridge-USA/Senior-Specialist--Data-Science---AI_REQ-10087864-2 | asks 4+ years
+- [SKIP] Procter & Gamble (P&G) | Plant F&A Analyst | fit~- | https://pg.wd5.myworkdayjobs.com/1000/job/Novomoskovsk/Plant-F-A-Analyst_R000163343 | eligibility: "Just so you know: All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, age, marital status, citizenship, HIV/AIDS status or "
+- [SKIP] Prysmian Cables & Systems | Latam Legal Analyst | fit~- | https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Sorocaba/Latam-Legal-Analyst_R-38818-1 | outside US (Brazil)
+- [SKIP] Santander | Senior Retail Risk Analyst | fit~- | https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Lysaker/Senior-Retail-Risk-Analyst_Req1636637 | outside US (Norway)
+- [SKIP] Thomson Reuters | Senior Analyst, Compliance - Products | fit~- | https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Analyst--Compliance---Products_JREQ204566 | asks 5+ years
+- [SKIP] Infoorigin |  IT Contract Requirements Analyst || Chesterfield, VA || Hybrid | fit~- | https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e9667f95-65a1-47e2-a3ef-53654bfa7b59&jobId=578641&lang=en_US | asks 5+ years
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden

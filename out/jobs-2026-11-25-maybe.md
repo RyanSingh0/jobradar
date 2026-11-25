@@ -4,18 +4,35 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | UCSF | Research Assistant | 62 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 2 | The Walt Disney Company | Compliance & Risk Analyst | 62 | 1 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 3 | Clera | Founding AI/ML Engineer | 60 | none found (check myvisajobs) | Nov 24 19:44 ET |
-| 4 | PDT Partners | Applied ML Scientist  | 54 | 1 in data/analytics/finance occupations | Nov 24 18:11 ET |
-| 5 | UCSF | Research Data Analyst | 52 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 6 | Collectors | Associate Analytics Engineer | 52 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 7 | Stifel | Research Associate I - Energy | 50 | 15 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 8 | Logitech | Corporate Strategy Analyst | 45 | 4 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 1 | City of New York | Data Analytics Specialist | 67 | none found (check myvisajobs) | Nov 25 06:30 ET |
+| 2 | UCSF | Research Assistant | 62 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 3 | The Walt Disney Company | Compliance & Risk Analyst | 62 | 1 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 4 | Clera | Founding AI/ML Engineer | 60 | none found (check myvisajobs) | Nov 24 19:44 ET |
+| 5 | PDT Partners | Applied ML Scientist  | 54 | 1 in data/analytics/finance occupations | Nov 24 18:11 ET |
+| 6 | UCSF | Research Data Analyst | 52 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 7 | Collectors | Associate Analytics Engineer | 52 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 8 | Stifel | Research Associate I - Energy | 50 | 15 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 9 | Logitech | Corporate Strategy Analyst | 45 | 4 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 10 | Visa | Associate Data Engineer, AI Studio | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] UCSF | Research Assistant
+## 1. [MAYBE] City of New York | Data Analytics Specialist
+- Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990017084136
+- Location: New York City NY us
+- Posted: Nov 25 06:30 ET
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, machine learning, statistic, credit, git, reporting, risk | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+New York City Department of Design and Construction (DDC) is the City’s primary capital construction agency. We deliver safe, sustainable, and innovative public buildings and infrastructure across the five boroughs, from firehouses, libraries, and community centers to roadways, sewers, and resiliency projects. The Project Controls Division helps DDC deliver projects on time and on budget. We support project teams at every phase with cost estimating, scheduling, and risk management, and we use data analytics and innovation to improve how we do it. The Role Reporting to the Project Controls Director, the Data Analytics Specialist will use data to solve complex problems in capital project delivery. You will collaborate with the project controls team to turn project data into better cost estimates, clearer insight into what drives performance, and tools that project teams can use every day. DDC supports professional development so you can stay current with industry trends, best practices, and emerging technologies. Duties - Identify, retrieve, clean, and transform project data from multiple sources - Design data models and analytical tools that support cost control and project management - Build dashboards and visualizations tailored to the needs of project teams and estimators - Analyze project data to identify the drivers of cost and schedule performance and the relationships between them - Use aggregated and disaggregated historical data to benchmark and develop cost estimates during front-end planning and design - Develop predictive models using appropriate statistical and machine learning techniques - Present findings and recommendations to division leadership Additionally, educational credentials must be from a U.S. Department of Education-recognized accredited institution. Credentials from foreign institutions require independent equivalency verification from an approved evaluation service. A list of providers (fees apply) is available at: https://www.nyc.gov/assets/dcas/downloads/pdf/employment/nyc-dcas-foreign-education-evaluation-guide.pdf. All applicants, including City Employees: Please go to NYC Government Jobs | Explore Careers | City of New York, go to Search for Open Jobs, and type in the Job ID # listed above. Submit job application as prompted. Do not apply via Employee Self-Service (ESS), e-mail, mail, or fax your resume to DDC directly. IT PROJECT SPECIALIST - 95710 1. A baccalaureate degree from an accredited college in computer science, engineering, human computer interaction, interactive media, digital and graphics design, data visualization, communication or a related field, and four years of satisfactory full-time experience related to the area(s) required by the particular position and a specialization in a relevant technology, process, methodology and/or domain; or 2. An associate degree from an accredited college in computer science, engineering, human computer interaction, interactive media, digital and graphics design, data visualization, communication or a related field, and six years of satisfactory full-time experience related to the area(s) required by the particular position and a specialization in a relevant technology, process, methodology and/or domain; or 3. A baccalaureate degree from an accredited college, and eight years of satisfactory full-time experience related to the area(s) required by the particular position and a specialization in a relevant technology, process, methodology and/or domain; or 4. Education and/or experience which is equivalent to "1", "2", or "3" above. The City of New York is an inclusive
+
+---
+
+## 2. [MAYBE] UCSF | Research Assistant
 - Link: https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/CONV_86555BR
 - Location: San Francisco, CA, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -30,7 +47,7 @@ Candidates must be fluent in Spanish The Research Assistant will provide researc
 
 ---
 
-## 2. [MAYBE] The Walt Disney Company | Compliance & Risk Analyst
+## 3. [MAYBE] The Walt Disney Company | Compliance & Risk Analyst
 - Link: https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Compliance---Risk-Analyst_10165882
 - Location: Lake Buena Vista, FL, USA ; Lake Buena Vista, FL, USA (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -45,7 +62,7 @@ Job Posting Title: Compliance & Risk Analyst Req ID: 10165882 Job Description: T
 
 ---
 
-## 3. [MAYBE] Clera | Founding AI/ML Engineer
+## 4. [MAYBE] Clera | Founding AI/ML Engineer
 - Link: https://jobs.ashbyhq.com/Clera/a85e66e9-d00e-48b5-8d14-5968111bc748
 - Location: San Jose United States remote
 - Posted: Nov 24 19:44 ET
@@ -102,7 +119,7 @@ Hybrid in San Jose, California.
 
 ---
 
-## 4. [MAYBE] PDT Partners | Applied ML Scientist 
+## 5. [MAYBE] PDT Partners | Applied ML Scientist 
 - Link: https://job-boards.greenhouse.io/pdtpartners/jobs/1473516
 - Location: New York, NY
 - Posted: Nov 24 18:11 ET
@@ -117,7 +134,7 @@ PDT, a quantitative investment manager, is hiring problem solvers who blend prog
 
 ---
 
-## 5. [MAYBE] UCSF | Research Data Analyst
+## 6. [MAYBE] UCSF | Research Data Analyst
 - Link: https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/CONV_87346BR
 - Location: San Francisco, CA, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -132,7 +149,7 @@ The Research Data Analyst will work under the direction of Co-Directors of the C
 
 ---
 
-## 6. [MAYBE] Collectors | Associate Analytics Engineer
+## 7. [MAYBE] Collectors | Associate Analytics Engineer
 - Link: https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US---Remote/Associate-Analytics-Engineer_JR107428
 - Location: US - Remote ; US - Remote (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -147,7 +164,7 @@ Collectors is the leading creator of innovative technology that provides value-a
 
 ---
 
-## 7. [MAYBE] Stifel | Research Associate I - Energy
+## 8. [MAYBE] Stifel | Research Associate I - Energy
 - Link: https://careers-stifel.icims.com/jobs/11312/research-associate-i---energy/job
 - Location: New York, NY, US
 - Posted: new since the previous sweep (board shows no date)
@@ -162,7 +179,7 @@ Why Stifel Stifel strives for a culture that puts its clients and associates fir
 
 ---
 
-## 8. [MAYBE] Logitech | Corporate Strategy Analyst
+## 9. [MAYBE] Logitech | Corporate Strategy Analyst
 - Link: https://logitech.wd5.myworkdayjobs.com/Logitech/job/Offsite---USA---TX/Corporate-Strategy-Analyst_148779
 - Location: 2 Locations ; Offsite - USA - TX ; San Jose, California - USA (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -174,4 +191,19 @@ Why Stifel Stifel strives for a culture that puts its clients and associates fir
 ### Job description
 
 Logitech is the Sweet Spot for people who want their actions to have a positive global impact while having the flexibility to do it in their own way. About the Team and Role: Logitech's Corporate Strategy team is small but mighty as it serves as a trusted partner to the C-suite to provide clarity and insight on Logitech’s most important priorities. The team helps define the company’s northstar, prioritize internal and external opportunities, and drive progress toward long-term strategic goals We're looking for a Corporate Strategy Analyst to support a broad portfolio of high-impact strategic work that has excellent visibility to Logitech's C-suite, hands-on mentorship, and exposure to how strategic decisions get made at the top of a global public company. You'll work on strategic problems across geographies and Logitech's three product lines (Personal Workspace, Team Workspace, and Gaming) in an agile environment. Whether you decide to remain in Strategy or pursue a leadership position in another function, the experience provides incredible possibilities for a dynamic career at Logitech. Your Contribution: Be Yourself. Be Open. Stay Hungry and Humble. Collaborate. Challenge. Decide and just Do. Share our passion for Equality and the Environment. These are the behaviors and values you’ll need for success at Logitech. What You'll Do: Perform research, financial modeling, and analysis to inform business decisions across Logitech's product lines, long term planning, and growth initiatives Compile, publish, and own a monthly market performance memo, highly visible to senior leadership, working with data owners to reconcile numbers into a clear narrative Collaborate with stakeholders across the business to support key strategic initiatives and translate industry trends into actionable insights and points of view for leadership Track industry, competitor, and technology developments using primary and secondary research methodologies Lead analysis for forward-looking strategic projects on emerging technology trends and their implications for Logitech's product and category strategy What We're Looking For: Proven experience in strategy consulting, corporate strategy, investment banking, or a related analytical role AI-fluent: Comfortable using AI tools as part of daily analytical and drafting workflow. Not just aware of them, but able to use them well and know their limits Excellent written and communication skills. Able to build a clear, well-structured slide or memo and present it to senior leadership. Comfortable with ambiguity and a fast-changing scope of work. This is a small team that operates with startup-like flexibility, and priorities can shift quickly Sharp analytical instincts and intellectual curiosity: Comfortable forming a point of view from incomplete information Strong proficiency in Powerpoint/Google Slides and Excel/Google Sheets Bachelor's degree in business, economics, finance, engineering, related field or equivalent industry experience Nice to Have: Familiarity with PitchBook or similar market intelligence platforms Prior experience in consumer electronics, hardware, or a similarly competitive B2B/B2C category Why Join: Outsized impact for a small team: Your work reaches across the global business, not just one function or region Breadth across Logitech's three product lines (Personal Workspace, Team Workspace, Gaming) and geographies, plus exposure to industry-disrupting tech innovation planning projects Direct, recurring visibility with Logitech's C-suite and senior leadership from day one Mentorship from ex-top tier strategy strategy talent with hands-on coaching in structured problem-solving, executive storytelling, and slide craft High-growth learning environment for someone who wants to fast-track their strategy career LI-CT1 Location: At Logitech, we empower global collaboration by providing a flexible hybrid work model. Depending on the role and team needs, this may include working remotely, on-site, or a blend of both. If relocation is required for this position, we will communicate the expected timeline and support offered. This is a full-time hybrid role and we are open to candidates in the Dallas (TX) & San Jose (CA) Metro Areas. The successful candidate is expected to be in the office a minimum of two/three days a week. Compensation: This position offers an annual based salary of typically between $ 75K and $ 140K dependent on location and experienc e. In certain circumstances, higher compensation will be considered based on the business need, candidate experience, and skil ls. Logitech offers benefits such as Medical Coverage, Dental Coverage, Vision Coverage, Traditional and Roth 401(k) Plans, Flexible Spending Accounts, Employee Share Purchase Plan (ESPP), Basic and Additional Life Insurance, Disability Coverage, Adoption and Surrogacy Assistance, Tuition Reimbursement Plans, Commuter Benefits, Paid Time Off, Paid Holidays, Bereavement Leave, and Paid Parental Leave. Logitech also offers Wellness Programs, Health Savings Account Plans, access to Expert Medical Opinions, Identity Theft Protection, Breast Milk Delivery to Nursing Mothers on Business Travel, access to a Group Legal Plan, Donations Matching Programs, Employee Product Discounts, and access to Auto, Home, and Pet Insurance. At Logitech, we empower collaboration and foster play through a flexible hybrid work model that supports productivity and connection from anywhere. Our strength lies in our people and our inclusive culture, where diversity is valued and differences celebrated. Don’t meet every requirement? That’s okay! If you believe you’re a great fit, we encourage you to apply. We’d love to meet you! We offer comprehensive and competitive benefits packages and working environments that are designed to be flexible and help you to care for yourself and your loved ones, now and in the future. We believe that good health means more than getting medical care when you need it. Logitech supports a culture that encourages individuals to achieve good physical, financial, emotional, intellectual and social wellbeing so we all can create, achieve and enjoy more and support our families. Logitech
+
+---
+
+## 10. [MAYBE] Visa | Associate Data Engineer, AI Studio
+- Link: https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W
+- Location: US - Austin, TX ; US - Austin, TX (United States of America)
+- Posted: Nov 24 (board gives the date only)
+- Scanner fit: ~45 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, gcp, llm, machine learning, python, ai agent, deep learning, git, pipeline, risk | Lacks: azure, c++, golang, java, scala  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | About Us Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to  / At Visa, you'll have the opportunity to create impact at scale — tackling meaningful challenges, growing your skills and seeing your contributions impact lives around the world.
+
+### Job description
+
+About Us Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid. At Visa, you'll have the opportunity to create impact at scale — tackling meaningful challenges, growing your skills and seeing your contributions impact lives around the world. Join Visa and do work that matters – to you, to your community, and to the world. Progress starts with you. Job Description Company Description As the world's leader in digital payments technology, Visa's mission is to connect the world through the most innovative, convenient, reliable, and secure payments network, enabling individuals, businesses, and economies to thrive. Our advanced global processing network, VisaNet, provides secure and reliable payments around the world, and is capable of handling more than 65,000 transaction messages a second. The company's dedication to innovation drives the rapid growth of connected commerce on any device and fuels the dream of a cashless future for everyone, everywhere. As the world moves from analog to digital, Visa is applying our brand, products, people, network, and scale to reshape the future of commerce. Job Description Visa AI Studio is Visa's AI operating system: a single platform for building, deploying, and operating predictive models, foundation models, and AI agents at global scale. It gives every team at Visa a common, self service way to train and experiment, build with generative AI, develop and run production AI agents, manage features and memory, and operate everything with governance and observability built in. Visa AI Studio is the foundation for how AI gets built across the company. This role is for a Data Engineer, with a strong development background, whose primary objective will be to extend our AI as a Service platform to the Public Cloud while enhancing, optimizing our existing codebase and development procedures, as well as developing new solutions. We are seeking for a strong tech leader and architect with a solid background in public cloud and AI/ML production systems. The ideal candidate will have a strong mix of hands-on technical knowledge and leadership skills, with the ability to contribute technical knowledge and grow leadership skills, supporting the team's progress toward our technical objectives, with guidance from senior engineers. They should be hands-on, knowledgeable about cloud technologies, business drivers, and emerging AI/ML trends, and experienced with AWS and GCP services. The role demands a proactive learner who can work through ambiguity with support, communicate clearly with stakeholders, and contribute to decisions. The candidate should possess strong interpersonal skills, excellent written and verbal communication, and the ability to manage complex projects and deadlines. A problem-solving mindset and a hands-on approach are key to succeeding in this role. This role offers ample opportunities for learning and growth, and the chance to be part of delivering the next big thing for our AI as Services team. If you are experienced and passionate about cloud technology, AI, and machine learning, and are excited about making a significant impact, we would love to hear from you. This is a hybrid position based in Austin, TX, allowing alternating between remote and office work. Expectations are to be in-office at least two days a week, typically Mondays, Tuesdays and alternating Fridays, aiming for a 50% office presence based on business requirements. Essential Functions Design, build, and operate core components of AI Runtime Services: live model and agent serving, the runtime console, release management, and production reliability, so other teams can deploy and operate safely with minimal platform-team intervention. Drive development effort end-to-end for on-time delivery of high-quality solutions that meet requirements, align with the architectural vision, and comply with applicable standards, across all phases from design through production. Collaborate with Product Managers, Architects, Analysts, Software Engineers, and Project Managers to plan, document, and manage risks and issues to resolution; present technical solutions and status clearly in business terms. Embed governance, responsible AI, audit, and monitoring directly into the serving path, including drift, hallucination, and anomaly detection for agentic systems in production. Partner with the AI Engineering Platform, AI Context Platform, and AI Governance Platform teams to deliver a coherent, end-to-end platform experience. Develop and extend the AI agents and agentic workflows that run across AI Runtime Services, from automating platform operations to powering products like Visa Claw, so the platform's own capabilities keep advancing. Leverage AI coding agents and LLM-powered developer tools as part of your own workflow, treating AI-assisted engineering as a core skill to design, build, and ship platform capabilities faster. Coach and mentor junior team members, growing the team's talent pipeline. Visa requires at least 3 days in office, expectations of these days will be confirmed by your Hiring Manager. Qualifications Basic Qualifications Bachelor's degree, OR 3+ years of relevant work experience. 1 or more years of hands-on experience delivering robust, scalable solutions on public cloud platforms (AWS, GCP, Azure), preferably in an AI/ML production environment. Expertise in one or more of Golang, Java, Rust, C/C++, or Python, with strong systems and software engineering fundamentals, including distributed systems and API/SDK design. Preferred Qualifications Expertise in Advanced Python; professional cloud certifications. Basic understanding of core machine learning and deep learning concepts, and the ability to reason about a model or agent across its full lifecycle, from training through production deployment, monitoring, and retirement. Proven experience designing and developing data-driven, real-time and batch systems, with a deep understanding of the trade-offs across design, architectural, and integration patterns. Hands-on fluency with modern AI-assisted development (coding agents, copilots, LLM-based tooling) to accelerate day-to-day engineering work. Experience mentoring peers or interns, and contributing to technical design discussions within the team. Expertise in cloud architecture and service offerings, including core cloud services (compute, storage, databases, networking, AI/ML), AWS EKS, ElastiCache, and CloudWatch. Rust and/or C++ experience is highly desired for latency-sensitive serving components. Experience building internal developer platforms, SDKs, or self-service tooling used by other engineering or data science teams, such as a runtime console or similar self-serve capability. Information for US Applicants For roles located in  [...]
 
