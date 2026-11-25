@@ -1,7 +1,253 @@
-# Sweep 2026-11-25 11:02 ET: 197 boards, 1 new matches, 0 kept, 1 board errors, 840s
+# Sweep 2026-11-25 12:07 ET: 4595 boards, 90 new matches, 9 kept, 158 board errors, 179s
 
-Coverage audit (7 days): JobRadar had 1/19 = 5% of relevant alert postings; median lead 1112 min vs the alert email. This sweep: 1 relevant alert postings, 1 not on JobRadar boards.
-- [SKIP] ConnectPrep | Data Analyst Internship | fit~- | https://apply.workable.com/j/9F465A2E1A | eligibility: "...erest at careers@connectprep.com . All applicants must be a U.S. Citizen or National of the U.S., an a..."
+Alert inbox: no new relevant alert postings
+- [HOT] Northeastern | Research Scientist, AI for Nuclear Physics and Physical AI | fit~57 | https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Research-Scientist--AI-for-Nuclear-Physics-and-Physical-AI_R143517
+- [HOT] Emory Healthcare | People & WF Data Analyst | fit~55 | https://non-clinical-emory.icims.com/jobs/203523/people-%26-wf-data-analyst/job
+- [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Municipal Bond - Analyst | fit~68 | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792604 | broad title
+- [MAYBE] Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding | fit~67 | https://job-boards.greenhouse.io/lilasciences/jobs/4477297009 | title says Senior/II: asks 2 years
+- [MAYBE] Bluesight | Data Engineer | fit~67 | https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9 | no H-1B filings found for this employer
+- [MAYBE] KION Group | AI Analyst | fit~67 | https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/AI-Analyst_JR-0099503-1 | no H-1B filings found for this employer builder role: Python and SQL asked, 0-2 years
+- [MAYBE] Charles Schwab | Machine Learning Ops Data Engineer | fit~54 | https://career-schwab.icims.com/jobs/124397/machine-learning-ops-data-engineer/job
+- [MAYBE] Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature | fit~50 | https://job-boards.greenhouse.io/lilasciences/jobs/4477299009
+- [MAYBE] Roche | Data & Analytics Specialist | fit~48 | https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/Data---Analytics-Specialist_202611-128713-1
+- [LOW] Barry-Wehmiller | People Team Analyst | fit~70 | https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/St-Louis-MO/People-Team-Analyst_R021758
+- [LOW] The Home Depot | Senior Financial Analyst, Merchandising Finance | fit~67 | https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Senior-Financial-Analyst--Merchandising-Finance_Req200038-1 | senior title below the bar
+- [LOW] CareSource | Integrated Care Strategic Partnerships Analyst-DSNP | fit~62 | https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Integrated-Care-Strategic-Partnerships-Analyst-DSNP_R14667-1
+- [LOW] Sonoco | Demand Planning Analyst | fit~60 | https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/Charlotte-NC-USA/Demand-Planning-Analyst_JR-161004
+- [LOW] Fin | Senior Forward Deployed Data Scientist | fit~59 | https://job-boards.greenhouse.io/intercom/jobs/8416797 | senior title below the bar
+- [LOW] U.S. Bank | Credit Analyst | fit~57 | https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Credit-Analyst_2026-0036113
+- [LOW] WVUMedicine | Enrollment Operations and Quality Analyst | fit~57 | https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Remote/Enrollment-Operations-and-Quality-Analyst_JR26-47544
+- [LOW] Becton Dickinson | Data Specialist | fit~55 | https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CO---Louisville/Data-Specialist_R-554315-1
+- [LOW] Blue Cross and Blue Shield of Kansas | IDR Reimbursement Analyst | fit~55 | https://bcbsks.wd1.myworkdayjobs.com/External/job/Topeka/IDR-Reimbursement-Analyst_R2026383
+- [LOW] Constellation Brands | Senior Analyst, IT Governance | fit~55 | https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Chicago-Illinois/Senior-Analyst--IT-Governance_R-41525-1 | senior title below the bar
+- [LOW] Citi | Cash and Trade Processing Associate Analyst 2 | fit~54 | https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Cash-and-Trade-Processing-Associate-Analyst-2_26999648 | senior title below the bar
+- [LOW] Jonas Software | AI UX Designer | fit~54 | https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/AI-UX-Designer_R55676
+- [LOW] Texas Capital Bank | Loan Operations – Funding & Flood Compliance Analyst | fit~54 | https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Loan-Operations---Funding---Flood-Compliance-Analyst_JR106409-1
+- [LOW] The Home Depot | Financial Analyst | fit~54 | https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GLOBAL-CUSTOM-COMMERCEBLINDS-OFFICE-HOUSTON---2140/Financial-Analyst_Req199902
+- [LOW] Sargent & Lundy | Forward Deployed AI & Automation Engineer - Grid Projects | fit~50 | https://careers-sargentlundy.icims.com/jobs/30573/forward-deployed-ai-%26-automation-engineer---grid-projects/job
+- [LOW] JP Morgan Chase | US Private Bank - Program Analyst | fit~50 | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812327
+- [LOW] FedEx Freight | Analyst-Revenue Quality | fit~50 | https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFGOCorporate-Headquarters/Analyst-Revenue-Quality_RC6525-1
+- [LOW] Stanley Black & Decker | Content & Experience Analyst | fit~50 | https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Georgia-USA---Remote/Content---Experience-Analyst_REQ-1000053029
+- [LOW] Mount Sinai Health System (Icahn School of Medicine) | Applications Analyst I-DTP Clinical Applications And Training-Mount Sinai Hospital-Full-time Day | fit~50 | https://ejis.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3044614
+- [LOW] Tennr | Senior ML Infrastructure Engineer | fit~47 | https://jobs.ashbyhq.com/tennr/f6252f64-3984-4c8b-a1fb-7fb156ec646c | senior title below the bar
+- [LOW] Clera | Technical Co-Founder (AI Agents) | fit~45 | https://jobs.ashbyhq.com/Clera/57c9d4e1-7b06-4360-87f5-19ce8e3b727f
+- [LOW] Eight Sleep | New Grad - Engineering (internship) | fit~45 | https://jobs.ashbyhq.com/eightsleep/3291df7a-cf2b-45f4-af52-34f00065255a
+- [LOW] Louisiana State University (LSU) | Grant/Accounting Analyst 1- Billing (Entry Level) | fit~45 | https://lsu.wd1.myworkdayjobs.com/LSU/job/0240-Thomas-D-Boyd-Hall/Grant-Accounting-Analyst-1--Billing--Entry-Level-_R00122417
+- [LOW] U.S. Bank | Software Engineer 2 – Java, Generative AI, RAG & Cloud Engineering | fit~45 | https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Software-Engineer-2---Java--Generative-AI--RAG---Cloud-Engineering_2026-0032050 | senior title below the bar
+- [LOW] DecisionPoint Corporation | Business Analyst (Watch Officer) – Part-Time / On-Call | fit~40 | https://careers-decisionpointcorp.icims.com/jobs/5427/business-analyst-%28watch-officer%29-%e2%80%93-part-time---on-call/job
+- [LOW] Cetera Financial Group | Senior Reporting & Billing Professional | fit~40 | https://ebhu.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6951 | senior title below the bar
+- [LOW] Cushman & Wakefield | Senior Financial Analyst, Capital Markets | fit~40 | https://cw.wd1.myworkdayjobs.com/external/job/Denver-Colorado-USA/Senior-Financial-Analyst--Capital-Markets_R344347 | senior title below the bar
+- [LOW] Marsh | Business Analyst | fit~40 | https://mmc.wd1.myworkdayjobs.com/mmc/job/Broomfield---Interlocken/Business-Analyst_R_373020
+- [LOW] Salesforce | Global Integrated Campaigns Analyst | fit~36 | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Global-Integrated-Campaigns-Analyst_JR369467
+- [LOW] Eight Sleep | New Grad - Business Functions (internship) | fit~33 | https://jobs.ashbyhq.com/eightsleep/2db07e1f-ef43-4efa-852d-ac22b11426d0
+- [LOW] SimpliSafe | QA Analyst | fit~33 | https://job-boards.greenhouse.io/simplisafe/jobs/8415724
+- [LOW] 2020 Companies | HP Senior Business Analyst | fit~33 | https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Vancouver-WA/HP-Senior-Business-Analyst_REQ_117249 | senior title below the bar
+- [LOW] Harris Computer | (Remote) Technical Support Analyst | fit~33 | https://harriscomputer.wd3.myworkdayjobs.com/1/job/Idaho-United-States/XMLNAME--Remote--Technical-Support-Analyst_R0475272-8
+- [LOW] Arizona State University | Systems Support Analyst Senior | fit~29 | https://asu.wd1.myworkdayjobs.com/ASUStaffCareers/job/Off-Campus-Phoenix/Systems-Support-Analyst-Senior_JR129667-1 | senior title below the bar
+- [LOW] WVUMedicine | Quality Analyst (Onsite Only) | fit~25 | https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Barnesville-Hospital-BARNS/Quality-Analyst_JR26-47132
+- [LOW] Northwest Bank | Research Specialist | fit~0 | https://northwest.wd1.myworkdayjobs.com/Northwest_Careers/job/Warren-PA/Research-Specialist_R-102578
+- [LOW] OU Health | Tech Analyst I | fit~0 | https://oumedicine.wd5.myworkdayjobs.com/OUHealthCareers/job/Oklahoma-City/Tech-Analyst-I_R0070168
+- [SKIP] Capco | Senior Consultant, AI Security & Governance | fit~- | https://job-boards.greenhouse.io/capco/jobs/8417140 | asks 5+ years
+- [SKIP] GRVTY | Data Scientist | fit~- | https://job-boards.greenhouse.io/grvty/jobs/4523730009 | eligibility: "What You Must Have Active TS/SCI with Polygraph Clearance Demonstrated experience working with Splunk and Linux."
+- [SKIP] Peraton | Data Scientist | fit~- | https://careers-peraton.icims.com/jobs/172488/data-scientist/job | eligibility: "...ssionIntel Qualifications Required Qualifications Current TS/SCI clearance with polygraph; BS/BA and 12+..."
+- [SKIP] SDSU Research Foundation | Research Assistant II - SDSU Imperial Valley | fit~- | https://careers-sdsurf.icims.com/jobs/22512/research-assistant-ii---sdsu-imperial-valley/job | needs current enrollment: "...RN offices in El Centro, CA. Candidates must be currently enrolled at SDSU IV. OVERVIEW The Imperial Count..."
+- [SKIP] Sonalysts | Artificial Intelligence and Machine Learning Systems Engineer | fit~- | https://careers-sonalysts.icims.com/jobs/2553/artificial-intelligence-and-machine-learning-systems-engineer/job | eligibility: "...e systems . Required Qualifications & Experience: Must be a U.S. citizen, eligible for a U.S. Departme..."
+- [SKIP] Vanasse Hangen Brustlin (VHB) | Software & AI Enablement Analyst | fit~- | https://careers-vhb.icims.com/jobs/6561/software-%26-ai-enablement-analyst/job | eligibility: "without employer sponsorship, now or in the future."
+- [SKIP] W.R. Berkley | Sr. AI Engineer | fit~- | https://careers-berkley.icims.com/jobs/15444/sr.-ai-engineer/job | eligibility: "Additional Requirements Hybrid Schedule Sponsorship Details Sponsorship not Offered for this Role"
+- [SKIP] Bluesight | Senior Data Engineer | fit~- | https://jobs.lever.co/bluesight/eb53be34-14ee-4bec-9edb-bcd65136c989 | asks 4+ years
+- [SKIP] Intuitive Surgical | Machine Learning Engineer | fit~- | https://jobs.smartrecruiters.com/Intuitive/744000163734433 | eligibility: "... or local applicable laws. Mandatory Notices U.S. Export Controls Disclaimer: In accordance wi..."
+- [SKIP] Amentum | Program Quality Control Analyst | fit~- | https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Jacksonville/Program-Quality-Control-Analyst_R0176238-1 | eligibility: "Note: US Citizenship is required for facility credentials/authorization at this work location."
+- [SKIP] Amentum | Training Analyst/Facilitator II - Technical Instructor | fit~- | https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CA-Pendleton/Training-Analyst-Facilitator-II---Technical-Instructor_R0176287 | eligibility: "Drivers License Must possess and maintain a Secret US Government Clearance."
+- [SKIP] AssetMark | Data Analyst | fit~- | https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Data-Analyst_Req-004093 | eligibility: "We are unable to provide visa sponsorship for this position."
+- [SKIP] Becton Dickinson | Sr Analyst, Project Management | fit~- | https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Irvine-Laguna-Canyon/Sr-Analyst--Project-Management_R-560631-1 | asks 4+ years
+- [SKIP] Booz Allen | Air Platforms and Weapons Acquisition Analyst, Senior | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Air-Platforms-and-Weapons-Acquisition-Analyst--Senior_R0254235 | eligibility: "Secret clearance is required."
+- [SKIP] Bristol Myers Squibb | Purification Automation Intern | fit~- | https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Purification-Automation-Intern_R1608943 | eligibility: "Candidates must have work authorization that does not require sponsorship now or in the future."
+- [SKIP] Bupa | Performance Analyst | fit~- | https://bupa.wd3.myworkdayjobs.com/ext_career/job/Salford-Quays/Performance-Analyst_R1501962 | outside US (United Kingdom)
+- [SKIP] CAE | Financial Analyst l | fit~- | https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Financial-Analyst-l_124593 | eligibility: "...rces. Incumbent must be eligible for DoD Personal Security Clearance. Due to U.S. Government contr..."
+- [SKIP] CAI | Business Analyst - Requirements Engineering | fit~- | https://cai.wd5.myworkdayjobs.com/computer_aid/job/NJ-CLIENT-STATE/Business-Analyst---Requirements-Engineering_R8852 | eligibility: "Only candidates with work authorization that does not require sponsorship now or in the future will be considered."
+- [SKIP] Centene | Data Scientist II | fit~- | https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Data-Scientist-II_1672034-1 | eligibility: "without the need for employment-based visa sponsorship now or in the future."
+- [SKIP] Ciena | FP&A Process and Insights Advisor | fit~- | https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Senior-Manager--FP-A-Process-and-Insights_R032112 | asks 8+ years
+- [SKIP] Desjardins Group | SAS Data Valorization Analyst | fit~- | https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Lvis/Conseiller-ou-conseillre--Valorisation-de-donnes_R2614392-1 | outside US (Canada)
+- [SKIP] Draper | Program Finance Analyst 2 | fit~- | https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Program-Finance-Analyst-2_JR002889 | eligibility: "Self-starter that is capable of working independently Education Bachelor's in Accounting, Finance or relevant discipline, Master's Degree preferred Experience 3-5 years of related experience Additional Job Description: A"
+- [SKIP] Enbridge | Technologist Analyst TIS LP Control Systems USA | fit~- | https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Superior-WI-USA/Engineer-Control-Systems-USA_71030-1 | eligibility: "Note: This position is not eligible for international relocation This position is not eligible for employment-based sponsorship now or in the future."
+- [SKIP] Entegris | Filtration Portfolio Automation Intern | fit~- | https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Filtration-Portfolio-Automation-Intern_REQ-15840 | eligibility: "Compensation: $20-$30/hour range with actual pay dependent on candidate overall skills for the role Values-driven culture with colleagues that rally around People, Accountability, Creativity and Excellence =Entegris does"
+- [SKIP] ERM | Consultant - ESG Reporting & Disclosures | fit~- | https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/New-Delhi-India/Consultant---ESG-Reporting---Disclosures_R00032565-2 | asks 5+ years
+- [SKIP] First Bank & Trust | Data Analyst Intern | fit~- | https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864 | eligibility: "FBT will not sponsor, renew, or extend immigration visas for this position."
+- [SKIP] Genentech | Computational & Applied AI - Scientist | fit~- | https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Computational---Applied-AI---Scientist_202611-129355 | asks 5+ years
+- [SKIP] Generac | Intern AI Engineering | fit~- | https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17511 | eligibility: "Candidates must be legally authorized to work in the United States without employer sponsorship now or in the future."
+- [SKIP] Intact | AI Automation Specialist | fit~- | https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/AI-Automation-Specialist_R156754 | eligibility: "Please note that Intact does not provide sponsorship or other support for immigration-related matters including but not limited to employer-specific closed work permits."
+- [SKIP] Manulife Financial | Senior Data Scientist | fit~- | https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Senior-Data-Scientist_JR26050448-1 | asks 5+ years
+- [SKIP] Marvell | Applied AI/ML Research Scientist Intern | fit~- | https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-AI-ML-Research-Scientist-Intern_2603847-1 | eligibility: "...ess to technology and/or software subject to U.S. export control laws and regulations, includi..."
+- [SKIP] Merck | Junior AI & SaaS Product Security Engineer | fit~- | https://msd.wd5.myworkdayjobs.com/searchjobs/job/CZE---Central-Bohemian---Prague-IT-Riverview/Junior-AI---SaaS-Product-Security-Engineer_R401956-1 | outside US (Czechia)
+- [SKIP] Morgan Stanley | Private Wealth Management Registered Client Relationship Analyst | fit~- | https://ms.wd5.myworkdayjobs.com/External/job/Knoxville-Tennessee-United-States-of-America/Private-Wealth-Management-Registered-Client-Relationship-Analyst_JR047161 | eligibility: "Business Service Officer To qualify, applicants must be legally authorized to work in the United States and must not require, now or in the future, sponsorship for employment visa status."
+- [SKIP] Northrop Grumman | Computer Systems Analyst 2 - Linux - 20686 - Roy Utah | fit~- | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Computer-Systems-Analyst-2---Linux---20686---Roy-Utah_R10261981 | eligibility: "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: Top Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incredible opportunit"
+- [SKIP] PNC Financial Services | Asset Management Group Development Program Analyst/Associate | fit~- | https://pnc.wd5.myworkdayjobs.com/External/job/One-PNC-Plaza-PA370/Asset-Management-Group-Development-Program-Analyst-Associate_R242549-1 | eligibility: "PNC will not provide sponsorship for employment visas or participate in STEM OPT for this position."
+- [SKIP] PNC Financial Services | Data Scientist - Marketing & Customer Analytics | fit~- | https://pnc.wd5.myworkdayjobs.com/External/job/VA---Tysons-Corner/Data-Scientist---Marketing---Customer-Analytics_R242439-1 | eligibility: "PNC will not provide sponsorship for employment visas or participate in STEM OPT for this position."
+- [SKIP] Raymond James Financial | Technology Infrastructure Analyst - Trading Floor Communication Services | fit~- | https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/New-York-New-York---United-States/Technology-Infrastructure-Analyst---Trading-Floor-Communication-Services_R-0014006-1 | eligibility: "Please note: This role is not eligible for Work Visa sponsorship, either currently or in the future."
+- [SKIP] Remitly | Senior Analyst, Customer Success | fit~- | https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Seattle-Washington-United-States/Copy-of-Senior-Analyst--Customer-Success_R_107082 | asks 7+ years
+- [SKIP] T. Rowe Price | Sr. Analyst, Voluntary Corporate Actions | fit~- | https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Sr-Analyst--Voluntary-Corporate-Actions_82330-1 | asks 5+ years
+- [SKIP] T. Rowe Price | Senior Analyst, Corporate Strategy | fit~- | https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Senior-Analyst--Corporate-Strategy_84454 | eligibility: "Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States (e.g., H1-B visa, F-1 visa (OPT), TN vis"
+- [SKIP] Thales | STAGE - Data Analytics and  Visualization Engineer Python F/H | fit~- | https://thales.wd3.myworkdayjobs.com/Careers/job/Elancourt/STAGE---Ingnieur-Data-Analytics---Validation-algorithmes---F-H_R0342705-1 | outside US (France)
+- [SKIP] Torch Technologies | Government Financial Analyst | fit~- | https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Government-Financial-Analyst_R2022 | eligibility: "Active secret clearance is required."
+- [SKIP] University of Ottawa | Research Assistant | fit~- | https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/Research-Assistant_JR41436 | eligibility: "While all qualified persons are invited to apply, we welcome applications from qualified Indigenous persons, racialized persons, persons with disabilities, women and LGBTQIA2S+ persons."
+- [SKIP] WGU | Data Governance Analyst | fit~- | https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Data-Governance-Analyst_JR-026665 | eligibility: "Visa Sponsorship While we welcome applicants from all backgrounds, WGU is not able to provide visa sponsorship for this role."
 
 ## Board errors
-- Currier Plastics (workable:currier-plastics:): HTTPError HTTP Error 404: Not Found
+- 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
+- AI Fund (lever:aifund:): HTTPError HTTP Error 404: Not Found
+- AcreTrader (rippling:acretrader-jobs:): HTTPError HTTP Error 404: Not Found
+- Aditude (ashby:aditude:): HTTPError HTTP Error 404: Not Found
+- Age of Learning (lever:aofl:): HTTPError HTTP Error 404: Not Found
+- Aircall (lever:aircall:): HTTPError HTTP Error 404: Not Found
+- Alma (greenhouse:alma:): HTTPError HTTP Error 404: Not Found
+- Amerisure (workday:osv-amerisure.wd5:Amerisure): HTTPError HTTP Error 422: Unprocessable Entity
+- Amigo AI (ashby:amigo:): HTTPError HTTP Error 404: Not Found
+- Amplify (workday:amplify.wd1:Amplify_Careers): HTTPError HTTP Error 403: Forbidden
+- Applied Intuition (greenhouse:appliedintuition:): HTTPError HTTP Error 404: Not Found
+- Aprio (lever:aprio:): HTTPError HTTP Error 404: Not Found
+- Arch (ashby:arch.co:): HTTPError HTTP Error 404: Not Found
+- Arine (greenhouse:arine:): HTTPError HTTP Error 404: Not Found
+- Atlas Energy Solutions (greenhouse:atlassand:): HTTPError HTTP Error 404: Not Found
+- Atomic Semi (ashby:atomicsemi:): HTTPError HTTP Error 404: Not Found
+- Autoroboto (lever:autoroboto:): HTTPError HTTP Error 404: Not Found
+- AvicenaTech (rippling:general:): HTTPError HTTP Error 404: Not Found
+- Bain Capital (ashby:bain-capital:): HTTPError HTTP Error 404: Not Found
+- Beacon Software (ashby:beaconsoftware:): HTTPError HTTP Error 404: Not Found
+- Best Egg (lever:bestegg:): HTTPError HTTP Error 404: Not Found
+- Boar’s Head Brand (workday:boarshead.wd1:BHC): HTTPError HTTP Error 403: Forbidden
+- Breeze Airways (greenhouse:breezeairways:): HTTPError HTTP Error 404: Not Found
+- Brink (workday:brinks.wd5:brinkscareersus): HTTPError HTTP Error 404: Not Found
+- Busuu (workday:osv-chegg.wd5:Busuu): HTTPError HTTP Error 422: Unprocessable Entity
+- Buyers Edge Platform (greenhouse:buyersedgeplatformrecruiting:): HTTPError HTTP Error 404: Not Found
+- C Spire (workday:cspire-telapex.wd12:external-careers): HTTPError HTTP Error 422: Unprocessable Entity
+- CALSTART (lever:calstart:): HTTPError HTTP Error 404: Not Found
+- CFA Institute (workday:osv-cfainstitute.wd5:Careers): HTTPError HTTP Error 422: Unprocessable Entity
+- CTI (greenhouse:cti:): HTTPError HTTP Error 404: Not Found
+- Capital Rx (greenhouse:capitalrx:): HTTPError HTTP Error 404: Not Found
+- Castleton Commodities International (workday:osv-cci.wd1:CCICareers): HTTPError HTTP Error 422: Unprocessable Entity
+- Cerebras (greenhouse:embed:): HTTPError HTTP Error 404: Not Found
+- CesiumAstro (lever:cesiumastro:): HTTPError HTTP Error 404: Not Found
+- Chainlink Labs (ashby:chainlink-labs:): HTTPError HTTP Error 404: Not Found
+- Chegg (workday:osv-chegg.wd5:Chegg): HTTPError HTTP Error 422: Unprocessable Entity
+- Cherry Technologies (ashby:withcherry:): HTTPError HTTP Error 404: Not Found
+- ClimateAI (greenhouse:climateai:): HTTPError HTTP Error 404: Not Found
+- Color (lever:color:): HTTPError HTTP Error 404: Not Found
+- DESIGNME Hair (greenhouse:designmehair:): HTTPError HTTP Error 404: Not Found
+- DebtBook (greenhouse:debtbook:): HTTPError HTTP Error 404: Not Found
+- Dusty Robotics (greenhouse:dustyrobotics:): HTTPError HTTP Error 404: Not Found
+- EPRI (workday:vhr-epri.wd1:epricareers): HTTPError HTTP Error 422: Unprocessable Entity
+- Egra (ashby:egra:): HTTPError HTTP Error 404: Not Found
+- Elevation Capital (rippling:elevationcapital:): HTTPError HTTP Error 404: Not Found
+- Energy Vault (lever:energyvault:): HTTPError HTTP Error 404: Not Found
+- Enterprise Bank & Trust (workday:osv-enterprise.wd1:EnterpriseBankTrust_Jobs): HTTPError HTTP Error 422: Unprocessable Entity
+- Environmental Defense Fund (workday:osv-edf.wd5:Confidential): HTTPError HTTP Error 422: Unprocessable Entity
+- EvenUp (ashby:evenup:): HTTPError HTTP Error 404: Not Found
+- Exploration Technology Corp. (rippling:etg:): HTTPError HTTP Error 404: Not Found
+- FanThreeSixty (workday:osv-tifec.wd5:fanthreesixty): HTTPError HTTP Error 422: Unprocessable Entity
+- Farcast (lever:farcast:): HTTPError HTTP Error 404: Not Found
+- Firetiger (ashby:firetiger:): HTTPError HTTP Error 404: Not Found
+- Fireworks AI (greenhouse:fireworksai:): HTTPError HTTP Error 404: Not Found
+- Forerunner (greenhouse:forerunner:): HTTPError HTTP Error 404: Not Found
+- Fractional AI (ashby:fractional-ai:): HTTPError HTTP Error 404: Not Found
+- Fundamental Research Labs (ashby:fundamentalresearchlabs:): HTTPError HTTP Error 404: Not Found
+- Gap Inc. (workday:gapinc.wd1:gapconfidential): HTTPError HTTP Error 404: Not Found
+- Genesis Therapeutics (ashby:genesis-therapeutics:): HTTPError HTTP Error 404: Not Found
+- Gensler (workday:gensler.wd1:genslercareers): HTTPError HTTP Error 401: Unauthorized
+- Gitar Inc. (rippling:gitar-careers:): HTTPError HTTP Error 404: Not Found
+- GlossGenius (greenhouse:glossgenius:): HTTPError HTTP Error 404: Not Found
+- Grid (lever:grid:): HTTPError HTTP Error 404: Not Found
+- Harness (rippling:harness-careers:): HTTPError HTTP Error 404: Not Found
+- Hiive (ashby:hiive:): HTTPError HTTP Error 404: Not Found
+- Hilbert (ashby:hilberts:): HTTPError HTTP Error 404: Not Found
+- Hitachi (workday:gtsgbu.wd3:Careers): HTTPError HTTP Error 403: Forbidden
+- Inductive Automation (lever:inductiveautomation:): HTTPError HTTP Error 404: Not Found
+- Inspiration Commerce Group (ashby:inspiration-commerce-group:): HTTPError HTTP Error 404: Not Found
+- Instabase (greenhouse:instabase:): HTTPError HTTP Error 404: Not Found
+- Interactive Brokers Group (greenhouse:ibkr:): HTTPError HTTP Error 404: Not Found
+- Klarity (ashby:klarity-ai:): HTTPError HTTP Error 404: Not Found
+- LVT (greenhouse:liveviewtechnologiesinc:): HTTPError HTTP Error 404: Not Found
+- Latitude.io (ashby:latitude:): HTTPError HTTP Error 404: Not Found
+- Legrand (icims:jobs-legrand.icims.com::sitemap): HTTPError HTTP Error 404: Not Found
+- Levels Technologies (ashby:levels:): HTTPError HTTP Error 404: Not Found
+- Lindy (ashby:lindy:): HTTPError HTTP Error 404: Not Found
+- LiveRamp (workday:liveramp.wd5:LiveRampCareers): HTTPError HTTP Error 403: Forbidden
+- Loop (greenhouse:loop:): HTTPError HTTP Error 404: Not Found
+- Lynk (ashby:Lynk:): HTTPError HTTP Error 404: Not Found
+- MARA (greenhouse:mara:): HTTPError HTTP Error 404: Not Found
+- Mach Industries (ashby:mach:): HTTPError HTTP Error 404: Not Found
+- Machina Labs (lever:machinalabs:): HTTPError HTTP Error 404: Not Found
+- Magnite (workday:osv-rubicon.wd5:MagniteCareers): HTTPError HTTP Error 422: Unprocessable Entity
+- MaintainX (greenhouse:maintainx:): HTTPError HTTP Error 404: Not Found
+- Marmon Holdings (workday:marmon.wd501:Marmon_MSIP_Internships): HTTPError HTTP Error 403: Forbidden
+- Marqeta (greenhouse:mqreferrals:): HTTPError HTTP Error 404: Not Found
+- MatX (greenhouse:matx:): HTTPError HTTP Error 404: Not Found
+- Maximor AI (ashby:maximor:): HTTPError HTTP Error 404: Not Found
+- Memphis Meats (greenhouse:memphismeats:): HTTPError HTTP Error 404: Not Found
+- Mentis AI (ashby:mentis:): HTTPError HTTP Error 404: Not Found
+- Mercedes-Benz (lever:mbrdna:): HTTPError HTTP Error 404: Not Found
+- Metlife Group Inc. (lever:metlife:): HTTPError HTTP Error 404: Not Found
+- MintMCP (ashby:mintmcp:): HTTPError HTTP Error 404: Not Found
+- Mistral AI (ashby:mtesting.ai:): HTTPError HTTP Error 404: Not Found
+- Morris Health Technologies Inc. (ashby:morrishealthtech:): HTTPError HTTP Error 404: Not Found
+- National Renewable Energy Laboratory (workday:nrel.wd5:nrel): HTTPError HTTP Error 404: Not Found
+- Ncino (workday:ncino.wd5:nCinoCareers): HTTPError HTTP Error 403: Forbidden
+- New Jersey State Office of Innovation (lever:njstateofficeofinnovation:): HTTPError HTTP Error 404: Not Found
+- Nomagic (lever:nomagic:): HTTPError HTTP Error 404: Not Found
+- Northrop Grumman (workday:ngc.wd1:northrop_grumman_restricted_site): HTTPError HTTP Error 403: Forbidden
+- OakNorth Bank (lever:oaknorth.ai:): HTTPError HTTP Error 404: Not Found
+- Odin Dynamics Inc (ashby:odin-dynamics:): HTTPError HTTP Error 404: Not Found
+- Omnicom Media Group (greenhouse:omguk:): HTTPError HTTP Error 404: Not Found
+- OneSource Virtual (workday:vhr-osvhr.wd1:OSV_External_Career_Site): HTTPError HTTP Error 422: Unprocessable Entity
+- Otsuka Pharmaceutical (workday:vhr-otsuka.wd1:External): HTTPError HTTP Error 422: Unprocessable Entity
+- PBS (workday:vhr-pbs.wd5:PBSCareers): HTTPError HTTP Error 422: Unprocessable Entity
+- Postman (greenhouse:postman:): HTTPError HTTP Error 404: Not Found
+- Praos Smart Security (rippling:praos-smart-security:): HTTPError HTTP Error 404: Not Found
+- Pryzm (ashby:pryzm:): HTTPError HTTP Error 404: Not Found
+- Qualified Health (greenhouse:qualifiedhealth:): HTTPError HTTP Error 404: Not Found
+- Quantum Workplace (lever:quantumworkplace:): HTTPError HTTP Error 404: Not Found
+- ReCor Medical (workday:vhr-otsuka.wd1:RecorExternal): HTTPError HTTP Error 422: Unprocessable Entity
+- Reach Financial (greenhouse:reach:): HTTPError HTTP Error 404: Not Found
+- Realtor.com (greenhouse:rdccareers:): HTTPError HTTP Error 404: Not Found
+- Redfin (workday:redfin.wd1:redfin_careers): HTTPError HTTP Error 403: Forbidden
+- Regal (lever:regalvoice:): HTTPError HTTP Error 404: Not Found
+- Revolution (icims:careers-revolutioncompany.icims.com::sitemap): HTTPError HTTP Error 404: Not Found
+- Ribbon (workday:vhr-genband.wd1:ribboncareers): HTTPError HTTP Error 422: Unprocessable Entity
+- Ryan (workday:ryan.wd1:Students-Graduates): HTTPError HTTP Error 404: Not Found
+- SHEIN (greenhouse:shein:): HTTPError HTTP Error 404: Not Found
+- Sallie Mae (workday:sallie-mae.wd5:Careers): HTTPError HTTP Error 422: Unprocessable Entity
+- Saronic (lever:saronic:): HTTPError HTTP Error 404: Not Found
+- Scout AI (greenhouse:scoutai:): HTTPError HTTP Error 404: Not Found
+- Seamless.AI (greenhouse:seamlessai:): HTTPError HTTP Error 404: Not Found
+- Secureframe (lever:secureframe:): HTTPError HTTP Error 404: Not Found
+- Sennos (rippling:sennos:): HTTPError HTTP Error 404: Not Found
+- Sharp Electronics (icims:careers-sharpusa.icims.com::sitemap): HTTPError HTTP Error 404: Not Found
+- Shield AI (ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:): HTTPError HTTP Error 404: Not Found
+- Shyft Solutions (greenhouse:shyftsolutionsllc:): HTTPError HTTP Error 404: Not Found
+- Simbe Robotics (lever:simberobotics:): HTTPError HTTP Error 404: Not Found
+- Sporting Kansas City (workday:osv-tifec.wd5:SportingKC): HTTPError HTTP Error 422: Unprocessable Entity
+- TalentWerx (lever:talentwerx.io:): HTTPError HTTP Error 404: Not Found
+- Tempo (ashby:Tempo:): HTTPError HTTP Error 404: Not Found
+- The Bergaila Companies (icims:careers-bergaila.icims.com::sitemap): HTTPError HTTP Error 403: Forbidden
+- Thoughtworks (greenhouse:thoughtworksreferral:): HTTPError HTTP Error 404: Not Found
+- Threatlocker (greenhouse:threatlocker:): HTTPError HTTP Error 404: Not Found
+- Ticketmaster (workday:livenation.wd503:en): HTTPError HTTP Error 404: Not Found
+- Tilde Research (ashby:tilderesearch:): HTTPError HTTP Error 404: Not Found
+- Tracer Cloud (ashby:tracer:): HTTPError HTTP Error 404: Not Found
+- Transcarent (greenhouse:transcarent:): HTTPError HTTP Error 404: Not Found
+- Trend Health Partners (lever:trend-health-partners:): HTTPError HTTP Error 404: Not Found
+- Trio (lever:trio:): HTTPError HTTP Error 404: Not Found
+- Tuesday Lab (ashby:tuesday-lab:): HTTPError HTTP Error 404: Not Found
+- Two Dots (ashby:two-dots:): HTTPError HTTP Error 404: Not Found
+- Underdog Fantasy (greenhouse:underdogfantasy:): HTTPError HTTP Error 404: Not Found
+- United Therapeutics Corporation (workday:vhr-unither.wd5:External): HTTPError HTTP Error 422: Unprocessable Entity
+- Uplifter (greenhouse:uplifter:): HTTPError HTTP Error 404: Not Found
+- Veeda AI (ashby:veeda-labs:): HTTPError HTTP Error 404: Not Found
+- Verne Robotics (ashby:Verne%20Robotics:): HTTPError HTTP Error 404: Not Found
+- Visier Solutions (greenhouse:visiersolutionsinc:): HTTPError HTTP Error 404: Not Found
+- Welocalize (lever:welocalize:): HTTPError HTTP Error 404: Not Found
+- WhatNot (ashby:whatnot:): HTTPError HTTP Error 404: Not Found
+- Withum (greenhouse:campusopportunities:): HTTPError HTTP Error 404: Not Found
+- Withum (greenhouse:withumsmithbrown:): HTTPError HTTP Error 404: Not Found
+- Xpansiv (lever:xpansiv%20:): HTTPError HTTP Error 404: Not Found
+- eternal.ag (rippling:eternal:): HTTPError HTTP Error 404: Not Found
+- iHerb (greenhouse:iherb:): HTTPError HTTP Error 404: Not Found

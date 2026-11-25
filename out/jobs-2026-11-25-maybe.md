@@ -4,32 +4,54 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | City of New York | Data Analytics Specialist | 67 | none found (check myvisajobs) | Nov 25 06:30 ET |
-| 2 | CareSource | Member Incentive Program Analyst | 67 | 17 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 3 | TikTok | Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD) | 67 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 4 | Manulife Financial | Associate Data Scientist | 65 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 5 | U.S. Bank | Financial Analyst – Corporate Treasury | 65 | 82 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 6 | UCSF | Research Assistant | 62 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 7 | The Walt Disney Company | Compliance & Risk Analyst | 62 | 1 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 8 | Clera | Founding AI/ML Engineer | 60 | none found (check myvisajobs) | Nov 24 19:44 ET |
-| 9 | Manulife Financial | AI Engineer | 55 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 10 | PDT Partners | Applied ML Scientist  | 54 | 1 in data/analytics/finance occupations | Nov 24 18:11 ET |
-| 11 | UCSF | Research Data Analyst | 52 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 12 | Collectors | Associate Analytics Engineer | 52 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 13 | State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship | 52 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 14 | Stifel | Research Associate I - Energy | 50 | 15 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 15 | Logitech | Corporate Strategy Analyst | 45 | 4 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 16 | Visa | Associate Data Engineer, AI Studio | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 17 | University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being | 45 | cap-exempt employer | new since the previous sweep (board shows no date) |
-| 18 | Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
-| 19 | Merck | Senior Machine Learning Scientist, Foundation Model | 74 | 71 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
-| 20 | UnitedHealth Group | Senior Data Analyst | 65 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
-| 21 | Google | Senior Business and Marketing Data Scientist I | 55 | 1053 in data/analytics/finance occupations | Nov 25 09:09 ET |
-| 22 | Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management) | 55 | 133 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 1 | JP Morgan Chase | PricingDirect Evaluator - Municipal Bond - Analyst | 68 | 1098 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 2 | City of New York | Data Analytics Specialist | 67 | none found (check myvisajobs) | Nov 25 06:30 ET |
+| 3 | CareSource | Member Incentive Program Analyst | 67 | 17 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 4 | TikTok | Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD) | 67 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 5 | Bluesight | Data Engineer | 67 | none found (check myvisajobs) | Nov 25 10:59 ET |
+| 6 | KION Group | AI Analyst | 67 | none found (check myvisajobs) | Nov 25 (board gives the date only) |
+| 7 | Manulife Financial | Associate Data Scientist | 65 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 8 | U.S. Bank | Financial Analyst – Corporate Treasury | 65 | 82 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 9 | UCSF | Research Assistant | 62 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 10 | The Walt Disney Company | Compliance & Risk Analyst | 62 | 1 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 11 | Clera | Founding AI/ML Engineer | 60 | none found (check myvisajobs) | Nov 24 19:44 ET |
+| 12 | Manulife Financial | AI Engineer | 55 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 13 | PDT Partners | Applied ML Scientist  | 54 | 1 in data/analytics/finance occupations | Nov 24 18:11 ET |
+| 14 | Charles Schwab | Machine Learning Ops Data Engineer | 54 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 15 | UCSF | Research Data Analyst | 52 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 16 | Collectors | Associate Analytics Engineer | 52 | 5 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 17 | State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship | 52 | 87 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 18 | Stifel | Research Associate I - Energy | 50 | 15 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 19 | Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature | 50 | 1 in data/analytics/finance occupations | Nov 25 10:38 ET |
+| 20 | Roche | Data & Analytics Specialist | 48 | 7 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 21 | Logitech | Corporate Strategy Analyst | 45 | 4 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 22 | Visa | Associate Data Engineer, AI Studio | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 23 | University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being | 45 | cap-exempt employer | new since the previous sweep (board shows no date) |
+| 24 | Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group | 45 | none found (check myvisajobs) | Nov 24 (board gives the date only) |
+| 25 | Merck | Senior Machine Learning Scientist, Foundation Model | 74 | 71 in data/analytics/finance occupations | Nov 24 (board gives the date only) |
+| 26 | Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding | 67 | 1 in data/analytics/finance occupations | Nov 25 10:37 ET |
+| 27 | UnitedHealth Group | Senior Data Analyst | 65 | 28 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 28 | Google | Senior Business and Marketing Data Scientist I | 55 | 1053 in data/analytics/finance occupations | Nov 25 09:09 ET |
+| 29 | Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management) | 55 | 133 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
 
 ---
 
-## 1. [MAYBE] City of New York | Data Analytics Specialist
+## 1. [MAYBE] JP Morgan Chase | PricingDirect Evaluator - Municipal Bond - Analyst
+- Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792604
+- Location: New York, NY, United States US
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~68 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1098 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: broad | Has: excel, machine learning, python, statistic, data quality, portfolio, quantitative, research, trading | Lacks: -  | Note: broad title
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Start your journey at JPMorganChase, where you belong and your impact matters. Join a team that delivers independent, reliable, and accurate securities valuation services to clients worldwide. Through periods of volatility and uncertainty, market participants are always in need of independent and reliable securities valuation services. With offices in New York, London, and Hong Kong, PricingDirect employees serve our clients globally by providing evaluated pricing and analytics on over 3 million fixed income securities and derivative instruments each day. As a Securities Valuation Analyst in our Municipal Bond team, you will gain access to the trading, research, analytics, and technology resources of JPMorgan Chase, and combine financial concepts with quantitative skills to manage large volumes of data to develop pricing models and processes. You will leverage your product and market knowledge to identify growth areas and help lead projects in a collaborative environment where your contributions directly impact the business. Job Responsibilities Daily generation of securities valuations for multiple market closes, entailing start-to-end ownership responsibilities (market data collection and analysis, price generation, quality control, and client interaction) Examine and develop new areas of product growth through independent self-guided research and interactions with clients, JPMorgan trading desks, research professionals, and technology teams Continuously improve product and service quality through daily market surveillance, communication with market participants, data/financial analysis, enhanced process controls, and ensuring data quality Perform in-depth analysis on an individual security or portfolio of securities and explain nuances to colleagues and clients Develop and maintain sophisticated statistical models Develop cutting-edge methodologies and manage infrastructure to increase efficiency and speed of valuations Address client concerns daily with emphasis on providing first-class service and quality (email, calls, and in-person meetings) Required Qualifications, Capabilities, and Skills Master's degree or higher in Finance, Mathematics, Statistics, Engineering, Economics, or similar Firm understanding of principles of finance, mathematical and/or statistical modeling, fixed income, and data science Previous experience working in fixed income, primarily Municipal Bonds Clear, logical thinker with strong quantitative skills who thrives in a fast-paced environment with real-time market deadlines Knowledge or proficiency in Python, Machine Learning, Artificial Intelligence and/or practical experience working with Excel Strong aptitude for learning and applying new technologies Excellent communication skills to interact with clients, portfolio managers, traders, research, and sales Preferred Qualifications, Capabilities, and Skills Detail-oriented, creative problem solver with ability to learn quickly, multi-task, and self-manage priorities Ability to build effective working relationships and interact comfortably with a wide spectrum of traders, research analysts, clients, and technologists   JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management. We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success.
+
+---
+
+## 2. [MAYBE] City of New York | Data Analytics Specialist
 - Link: https://jobs.smartrecruiters.com/cityofnewyork/3743990017084136
 - Location: New York City NY us
 - Posted: Nov 25 06:30 ET
@@ -44,7 +66,7 @@ New York City Department of Design and Construction (DDC) is the City’s primar
 
 ---
 
-## 2. [MAYBE] CareSource | Member Incentive Program Analyst
+## 3. [MAYBE] CareSource | Member Incentive Program Analyst
 - Link: https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Member-Incentive-Program-Analyst_R14656-1
 - Location: Remote ; Remote (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -59,7 +81,7 @@ Job Summary: The Member Incentive Program Analyst is responsible for supporting 
 
 ---
 
-## 3. [MAYBE] TikTok | Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD)
+## 4. [MAYBE] TikTok | Research Scientist Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Start (PhD)
 - Link: https://lifeattiktok.com/search/7662674242861074741
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
@@ -95,7 +117,55 @@ By submitting an application for this role, you accept and agree to our global a
 
 ---
 
-## 4. [MAYBE] Manulife Financial | Associate Data Scientist
+## 5. [MAYBE] Bluesight | Data Engineer
+- Link: https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9
+- Location: United States - Remote United States - Remote US
+- Posted: Nov 25 10:59 ET
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, etl, spark, sql, data quality, healthcare, pipeline, quantitative | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At Bluesight, our mission is to create groundbreaking solutions that increase efficiency, safety and visibility for health systems, hospital pharmacy, and pharmaceutical manufacturers.  We empower our customers to deliver the right medicine to the right patient at the right time, every time.  We are a high growth healthcare information technology company with a start-up 'vibe' but over 3,000 customers using our proven solutions.
+ 
+
+
+Bluesight is looking for a Data Engineer to help us redefine and grow our suite of data pipelines in support of the company's mission of powering hospital and pharmacy operations. Our customers rely on us to keep their patients safe and their pharmacies running smoothly while delighting them with every release. Through our pharmacy management and controlled substance tracking platforms, we're committed to improving medication management and compliance for our nation's healthcare providers; and our data operations form the backbone of that mission.
+Data at Bluesight is a team sport. The pipelines you build will carry data from hospital systems, third-party sources, and our own applications into products that pharmacy directors and compliance teams use every day. That only works when engineers, product owners, analysts, and security partners design together—so this role is as much about how you work with people as it is about how you work with data.
+ Build data transforms and pipeline tasks, with guidance and support from more senior engineers Learn and apply our ETL/ELT patterns, then help improve them as you identify where they can be better Write and refine queries to explore, validate, and explain the data you work with Understand the data contracts and commitments we make with other teams Implement data quality checks and monitoring, and learn to tell useful alerts from a noisy ones Debug pipeline and data issues, and explain afterward what went wrong and why Document what you build, both for fellow data engineers on your team, and for the teams supporting customers Take part in discussions about data modeling, quality, and governance, where good questions count as a contribution Exercise care in handling PHI and PII, guided by our engineering principles and the policies set by DevOps and Security Grow toward owning a data domain, and toward being the person teammates come to about it A bachelor's degree or equivalent work experience in a quantitative or data-intensive field Working skills in SQL-style or distributed (MapReduce, Spark, etc) querying, comfortable with different data types, joins and aggregations Programming experience Familiarity with version control and automated testing Understanding of ETL concepts and how data moves and transforms between systems Knowledge of, or curiosity about, tradeoffs in data modeling, storage, and other aspects of data engineering Clear communication about work, including flagging problems and blockers early, asking well-formed questions about problems, and willingness to help build knowledge from the answers Comfort taking on unfamiliar problems, knowing your team is available for help Comfort giving and receiving feedback in code reviews to help the whole team improve over time Attention to detail, especially regarding correctness in data Experience building robust data pipelines Experience with pipeline orchestration and monitoring Experience in a cloud environment or other environment with "infrastructure as code" Experience handling regulated or sensitive data Knowledge of or interest in healthcare data (e.g. EHR, FHIR, automated dispensing systems, purchasing reports) This position is open to applicants in the continental United States.
+ 
+Why Bluesight?
+Bluesight’s culture is built on innovation and teamwork. There’s room to grow and opportunities to take initiative. You will partner with sharp, motivated teammates looking to disrupt a massive industry—and have fun doing it.  We truly believe that where you work and what you do matters.  Join us as we revolutionize the hospital pharmacy landscape!
+-Competitive salary
+-Time off when you need it – unlimited vacation days!
+-Generous insurance coverage
+-401k program with a company match
+-Fun, collaborative culture!
+ 
+EOE AA M/F/VET/Disability
+ 
+All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, religion, color, national origin, sex, protected veteran status, disability, or any other basis protected by federal, state or local laws.
+
+---
+
+## 6. [MAYBE] KION Group | AI Analyst
+- Link: https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/AI-Analyst_JR-0099503-1
+- Location: Grand Rapids, MI, United States ; Grand Rapids, MI, United States (United States of America)
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~67 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: builder | Has: aws, dashboard, data visualization, excel, machine learning, python, sql, ai agent, research, risk, validation | Lacks: azure  | Note: no H-1B filings found for this employer builder role: Python and SQL asked, 0-2 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Dematic is seeking an innovative and collaborative AI Solutions Analyst to join our growing artificial intelligence program. This full-time role provides an opportunity to work alongside business and technology professionals to identify, develop, and implement AI solutions that improve how we operate and deliver value to our customers. You will support initiatives involving Generative AI, Agentic AI, automation, data, and emerging technologies, helping translate business opportunities into practical AI-enabled solutions. The ideal candidate is curious, analytical, comfortable working across technical and business teams, and excited about applying AI to real-world challenges. This position is well suited for an early-career professional looking to build deep experience in enterprise AI while contributing to high-impact initiatives from day one. We offer: What We Offer: Career Development Competitive Compensation and Benefits Pay Transparency Global Opportunities Learn More Here: https://www.dematic.com/en-us/about/careers/what-we-offer Dematic provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. The base pay range for this role is estimated to be $80,000 - $100,000 at the time of posting. Final compensation will be determined by various factors such as work location, education, experience, knowledge, and skills. Tasks and Qualifications: What You Will Do Collaborate with business and technology partners to identify opportunities where AI can improve processes, productivity, decision-making, and customer outcomes. Support the design, development, testing, and implementation of Generative AI and Agentic AI use cases. Conduct research and analysis on emerging AI technologies, tools, and potential business applications. Gather and document business requirements and translate them into actionable technical or project requirements. Assist with data collection, preparation, validation, and analysis needed to support AI initiatives. Participate in AI pilots, proofs of concept, testing, and implementation activities. Analyze results and recommend improvements based on performance, user feedback, and business impact. Develop documentation, presentations, dashboards, and communications that help explain AI solutions and project outcomes. Work with cross-functional stakeholders across engineering, IT, data, project management, and business functions. Contribute to responsible AI practices, including appropriate testing, documentation, governance, and risk awareness. Stay current on emerging AI technologies and identify opportunities to apply new capabilities within Dematic. What We’re Looking For Bachelor’s degree in Computer Science, Engineering, Data Science, Information Technology, Business, Analytics, or a related field, or equivalent relevant experience. Experience or academic/project exposure involving artificial intelligence, Generative AI, machine learning, data analytics, automation, or related technologies. Strong analytical and problem-solving skills with the ability to break complex problems into actionable steps. Ability to learn new technologies quickly and apply them to real business challenges. Excellent written and verbal communication skills. Ability to explain technical concepts to both technical and non-technical audiences. Strong organizational skills with the ability to manage multiple priorities. Ability to work independently while also contributing effectively within cross-functional teams. A self-starter mindset with curiosity, initiative, and a commitment to continuous learning. Preferred Qualifications Hands-on experience with Generative AI tools, large language models, AI agents, or AI-enabled automation. Familiarity with platforms and technologies such as Microsoft Azure, Azure AI, Microsoft Copilot, Power Platform, Python, SQL, APIs, or data visualization tools. Experience developing prototypes, proofs of concept, or AI-enabled applications. Understanding of data analysis, data engineering, software development, business analysis, or project management methodologies. Experience working with cross-functional business and technology teams. Familiarity with responsible AI, data privacy, security, and AI governance concepts. What Success Looks Like In this role, you will help move AI opportunities from ideas to practical business solutions. Success means understanding business challenges, collaborating with the right stakeholders, helping develop and test solutions, and demonstrating measurable value through improved efficiency, automation, insights, or user experiences. Why Join Dematic? Dematic is a global leader in intelligent automation, combining engineering, software, data, and technology to solve complex supply chain challenges. This role offers the opportunity to build your career at the intersection of AI, technology, engineering, and business transformation, while contributing to solutions with real operational impact. If you are curious about how AI can transform the way organizations work and want the opportunity to help build that future, we encourage you to apply.
+
+---
+
+## 7. [MAYBE] Manulife Financial | Associate Data Scientist
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Associate-Data-Scientist_JR26110981
 - Location: 2 Locations ; Boston, Massachusetts ; Toronto, Ontario (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -110,7 +180,7 @@ Associate Data Scientist Build your career in AI while solving real-world proble
 
 ---
 
-## 5. [MAYBE] U.S. Bank | Financial Analyst – Corporate Treasury
+## 8. [MAYBE] U.S. Bank | Financial Analyst – Corporate Treasury
 - Link: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Financial-Analyst---Corporate-Treasury_2026-0036735
 - Location: Minneapolis, MN ; Minneapolis, MN (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -125,7 +195,7 @@ At U.S. Bank, we’re on a journey to do our best. Helping the customers and bus
 
 ---
 
-## 6. [MAYBE] UCSF | Research Assistant
+## 9. [MAYBE] UCSF | Research Assistant
 - Link: https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/CONV_86555BR
 - Location: San Francisco, CA, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -140,7 +210,7 @@ Candidates must be fluent in Spanish The Research Assistant will provide researc
 
 ---
 
-## 7. [MAYBE] The Walt Disney Company | Compliance & Risk Analyst
+## 10. [MAYBE] The Walt Disney Company | Compliance & Risk Analyst
 - Link: https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Compliance---Risk-Analyst_10165882
 - Location: Lake Buena Vista, FL, USA ; Lake Buena Vista, FL, USA (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -155,7 +225,7 @@ Job Posting Title: Compliance & Risk Analyst Req ID: 10165882 Job Description: T
 
 ---
 
-## 8. [MAYBE] Clera | Founding AI/ML Engineer
+## 11. [MAYBE] Clera | Founding AI/ML Engineer
 - Link: https://jobs.ashbyhq.com/Clera/a85e66e9-d00e-48b5-8d14-5968111bc748
 - Location: San Jose United States remote
 - Posted: Nov 24 19:44 ET
@@ -212,7 +282,7 @@ Hybrid in San Jose, California.
 
 ---
 
-## 9. [MAYBE] Manulife Financial | AI Engineer
+## 12. [MAYBE] Manulife Financial | AI Engineer
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/AI-Engineer_JR26111069
 - Location: 2 Locations ; Boston, Massachusetts ; Toronto, Ontario (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -227,7 +297,7 @@ AI Engineer Build AI solutions that move beyond experimentation and into product
 
 ---
 
-## 10. [MAYBE] PDT Partners | Applied ML Scientist 
+## 13. [MAYBE] PDT Partners | Applied ML Scientist 
 - Link: https://job-boards.greenhouse.io/pdtpartners/jobs/1473516
 - Location: New York, NY
 - Posted: Nov 24 18:11 ET
@@ -242,7 +312,22 @@ PDT, a quantitative investment manager, is hiring problem solvers who blend prog
 
 ---
 
-## 11. [MAYBE] UCSF | Research Data Analyst
+## 14. [MAYBE] Charles Schwab | Machine Learning Ops Data Engineer
+- Link: https://career-schwab.icims.com/jobs/124397/machine-learning-ops-data-engineer/job
+- Location: Southlake, TX, US ; Austin, TX, US ; Phoenix, AZ, US
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~54 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 53 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: bigquery, gcp, machine learning, python, sql, data quality, docker, git, pipeline | Lacks: airflow, scala
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Your Opportunity At Schwab, you’re empowered to make an impact on your career. Here, innovative thought meets creative problem solving, helping us “challenge the status quo” and transform the finance industry together. We believe in the importance of in-office collaboration and fully intend for the selected candidate for this role to work on site in the specified location(s). Hands-on technical lead responsible for taking AI/ML projects from development to production in Google Cloud Platform (GCP). This role owns architecture, implementation, deployment, and operations. Required Skills Expert-level Google Cloud experience, especially services used for AI/ML use cases (e.g., BigQuery, Vertex AI, GCS, Dataflow, Pub/Sub, Cloud Run/GKE, Composer/Airflow, IAM, Cloud Monitoring/Logging) Expert Python for production-grade data and backend engineering Strong SQL and data modeling for analytics, scalability, and operational workloads Strong CI/CD and containerization skills (Docker, Git workflows, automated testing, release pipelines) Solid cloud security and governance practices (IAM, secrets, least privilege, auditability) Strong observability and reliability engineering skills (monitoring, alerting, incident response, SLAs/SLOs) Fundamental understanding of AI/ML lifecycle/model development needed to productionize AI/ML systems (training/serving integration, model versioning, pipeline monitoring support) What you have Required Work Experience 8+ years in data/software engineering, including 2+ years in technical leadership Proven track record delivering production grade AI/ML use cases on GCP or other cloud providers Experience building and operating scalable batch/streaming pipelines Experience leading design reviews, enforcing engineering standards, and mentoring data engineers Demonstrated support of critical systems in production Experience partnering with data scientists/MLE/Ops teams to deliver business outcomes Core Responsibilities Design and build production-ready AI/ML powered, security related use cases on GCP Lead end-to-end deployment from prototype to production with clear quality gates Understand, document, and lead the resolution of technical debts Implement coding standards, test strategy, data quality checks, alerting mechanisms, and operational runbooks Ensure platform reliability, security, and cost efficiency Mentor the MLOps and data engineers while remaining hands-on in code and delivery
+
+---
+
+## 15. [MAYBE] UCSF | Research Data Analyst
 - Link: https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/CONV_87346BR
 - Location: San Francisco, CA, United States US
 - Posted: Nov 24 (board gives the date only)
@@ -257,7 +342,7 @@ The Research Data Analyst will work under the direction of Co-Directors of the C
 
 ---
 
-## 12. [MAYBE] Collectors | Associate Analytics Engineer
+## 16. [MAYBE] Collectors | Associate Analytics Engineer
 - Link: https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US---Remote/Associate-Analytics-Engineer_JR107428
 - Location: US - Remote ; US - Remote (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -272,7 +357,7 @@ Collectors is the leading creator of innovative technology that provides value-a
 
 ---
 
-## 13. [MAYBE] State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship
+## 17. [MAYBE] State Street | State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship
 - Link: https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/State-Street-Enterprise-Risk-Management---Quantitative-Risk-Internship---2027-Summer-Internship_R-801341
 - Location: Clifton, New Jersey ; Clifton, New Jersey (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -287,7 +372,7 @@ Who we are looking for A strong quantitative candidate to join the team as an in
 
 ---
 
-## 14. [MAYBE] Stifel | Research Associate I - Energy
+## 18. [MAYBE] Stifel | Research Associate I - Energy
 - Link: https://careers-stifel.icims.com/jobs/11312/research-associate-i---energy/job
 - Location: New York, NY, US
 - Posted: new since the previous sweep (board shows no date)
@@ -302,7 +387,37 @@ Why Stifel Stifel strives for a culture that puts its clients and associates fir
 
 ---
 
-## 15. [MAYBE] Logitech | Corporate Strategy Analyst
+## 19. [MAYBE] Lila Sciences | ML Scientist, Retrieval & RAG for Scientific Literature
+- Link: https://job-boards.greenhouse.io/lilasciences/jobs/4477299009
+- Location: Cambridge, MA USA; San Francisco, CA USA
+- Posted: Nov 25 10:38 ET
+- Scanner fit: ~50 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: machine learning, nlp, python, ai agent, publication, research | Lacks: scala
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Your Impact at LILA Lila is building a platform where AI and automation co-evolve to accelerate scientific discovery. We are hiring an ML Scientist to advance the retrieval and RAG systems behind Lila's scientific literature review, so our AI agents and scientists can find and ground evidence across papers, figures, and tables. You will sit on the Physical Sciences AI team and work alongside engineering and domain scientists to take methods from research into production. What You'll Be Building Research, build, and benchmark retrieval and RAG methods for scientific literature review. Develop multimodal retrieval across text, figures, tables, and page images. Train and adapt embedding models for scientific content. Design retrieval and indexing methods that scale with the corpus while holding quality and latency. Build evaluations for retrieval and grounded generation with domain scientists. Move validated methods into production with engineering. What You'll Need to Succeed PhD in Computer Science, Machine Learning, Information Retrieval, NLP, or a related field, or equivalent research experience. Recent graduates welcome. Deep understanding of core retrieval methods (lexical, dense, hybrid, and re-ranking) and their trade-offs. Hands-on experience training embedding models and building end-to-end RAG systems, including multimodal retrieval. Solid grasp of scalable vector search and indexing. First-author publications at top-tier ML conferences such as NeurIPS, ICML, or ICLR, or at equivalent venues such as JMLR, TMLR, or top-tier NLP and IR conferences (ACL, EMNLP, SIGIR), or equivalent demonstrable research impact. Strong Python and engineering fundamentals; open-source contributions are a plus. Bonus Points For Experience with scientific literature corpora or document parsing. Agentic or multi-step retrieval for complex research questions. Production search systems or vector databases. Background in chemistry, materials science, or biology. About LILA Lila Sciences is building Scientific Superintelligence™ to solve humankind's greatest challenges. We believe science is the most inspiring frontier for AI. Rather than hard-coding expert knowledge into tools, LILA builds systems that can learn for themselves. LILA combines advanced AI models with proprietary AI Science Factory™ instruments into an operating system for science that executes the entire scientific method autonomously, accelerating discovery at unprecedented speed, scale, and impact across medicine, materials, and energy. Learn more at www.lila.ai. Guided by our core values of truth, trust, curiosity, grit, and velocity, we move with startup speed while tackling problems of historic importance. If this sounds like an environment you'd love to work in, even if you don't meet every qualification listed above, we encourage you to apply. We’re All In Lila Sciences is&nbsp;committed to equal employment opportunity&nbsp;regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Information you provide during your application process will be handled in accordance with our Candidate Privacy Policy . A Note to Agencies Lila Sciences does not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to Lila Sciences or its employees is strictly prohibited unless contacted directly by Lila Science’s internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of Lila Sciences, and Lila Sciences will not owe any referral or other fees with respect thereto.
+
+---
+
+## 20. [MAYBE] Roche | Data & Analytics Specialist
+- Link: https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/Data---Analytics-Specialist_202611-128713-1
+- Location: Tucson ; Tucson (United States of America)
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~48 | Min YOE: 1 | H-1B (certified LCAs, Oct 2024-Dec 2025): 7 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: aws, excel, sql, tableau, healthcare, portfolio, reporting | Lacks: alteryx, salesforce
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections, where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters. The Position Data & Analytics Specialist The Opportunity The Data & Analytics Specialist is responsible for providing analysis across the Personalized Health Care Solutions (PHCS) network, including regular reporting activities and designing new solutions in support of business growth. This role will work closely with the Business Excellence team to execute the most efficient delivery of the PHCS portfolio. Key Roles & Responsibilities Assist in the design and development of systems to consolidate and analyze unstructured, diverse “big data” sources to generate actionable insights and solutions for client services and product enhancement. Interacting with product and service teams to identify questions and issues for data analysis and experiments. Identify meaningful insights from large data and metadata sources; interprets and communicates insights and findings from analysis and experiments to product, service, and business managers. Ensure compliance with legal and regulatory requirements. Who You Are (Required) Education: B.S. degree in biochemistry, molecular biology, computational biology, computer science, bioengineering or a related field. Experience: 1 year of related industry experience. Strong problem-solving skills. Excellent communication skills. Knowledge of industry regulations. Proficiency with standard office applications with a strong knowledge base of financial modeling and advanced skills in Microsoft 365. Preferred Qualifications Knowledge of Tableau, Alteryx, Salesforce, Airtable, Microsoft 365, and/or SQL databases is highly preferred . Relocation benefits are not available for this job posting. The expected salary range for this position based on Arizona is 61 600,00 - 114 400,00 USD Annual. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. A discretionary annual bonus may be available based on individual and Company performance. This position also qualifies for the benefits detailed at the link provided below. Benefits Who we are A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact. Let’s build a healthier future, together. Roche
+
+---
+
+## 21. [MAYBE] Logitech | Corporate Strategy Analyst
 - Link: https://logitech.wd5.myworkdayjobs.com/Logitech/job/Offsite---USA---TX/Corporate-Strategy-Analyst_148779
 - Location: 2 Locations ; Offsite - USA - TX ; San Jose, California - USA (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -317,7 +432,7 @@ Logitech is the Sweet Spot for people who want their actions to have a positive 
 
 ---
 
-## 16. [MAYBE] Visa | Associate Data Engineer, AI Studio
+## 22. [MAYBE] Visa | Associate Data Engineer, AI Studio
 - Link: https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W
 - Location: US - Austin, TX ; US - Austin, TX (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -332,7 +447,7 @@ About Us Visa is a world leader in payments technology, facilitating transaction
 
 ---
 
-## 17. [MAYBE] University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being
+## 23. [MAYBE] University of St. Thomas | Graduate Assistant for Data Analytics, Center for Well-Being
 - Link: https://studentemployment-stthomas.icims.com/jobs/10464/graduate-assistant-for-data-analytics%2c-center-for-well-being/job
 - Location: St. Paul, MN, US
 - Posted: new since the previous sweep (board shows no date)
@@ -347,7 +462,7 @@ OVERVIEW JOB TITLE: Graduate Assistant for Data Analytics, Center for Well-Being
 
 ---
 
-## 18. [MAYBE] Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group
+## 24. [MAYBE] Capital Health | Business Data Analyst - FT - Day - Capital Health Medical Group
 - Link: https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/3131-Princeton-Pike/Business-Data-Analyst---FT---Day---Capital-Health-Medical-Group_JR112120
 - Location: 3131 Princeton Pike ; 3131 Princeton Pike (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -362,7 +477,7 @@ Capital Health is the region's leader in providing progressive, quality patient 
 
 ---
 
-## 19. [MAYBE] Merck | Senior Machine Learning Scientist, Foundation Model
+## 25. [MAYBE] Merck | Senior Machine Learning Scientist, Foundation Model
 - Link: https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Senior-Machine-Learning-Scientist--Foundation-Model_R416575-1
 - Location: USA - Massachusetts - Cambridge (320 Bent Street) ; USA - Massachusetts - Cambridge (320 Bent Street) (United States of America)
 - Posted: Nov 24 (board gives the date only)
@@ -377,7 +492,22 @@ Job Description Our artificial intelligence and machine learning (AI/ML) capabil
 
 ---
 
-## 20. [MAYBE] UnitedHealth Group | Senior Data Analyst
+## 26. [MAYBE] Lila Sciences | Scientist II/ Senior ML Scientist,  Multimodal Scientific Data Extraction & Understanding
+- Link: https://job-boards.greenhouse.io/lilasciences/jobs/4477297009
+- Location: Cambridge, MA USA; San Francisco, CA USA
+- Posted: Nov 25 10:37 ET
+- Scanner fit: ~67 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): 1 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: llm, machine learning, nlp, python, git, pipeline, publication, research | Lacks: -  | Note: title says Senior/II: asks 2 years
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Your Impact at LILA Lila is building a platform where AI and automation co-evolve to accelerate scientific discovery. We are hiring an ML Scientist to turn unstructured scientific data (papers, figures, tables, spectra, microscopy, and instrument outputs) into structured, actionable insight that Lila's models, agents, and autonomous labs can act on. You will sit on the Physical Sciences AI team and work alongside platform and lab teams to take extraction methods from research into production. What You'll Be Building Develop multimodal models that extract entities, measurements, and results from text, tables, figures, and plots. Extend extraction to scientific data streams such as spectra, characterization images, and instrument logs. Build pipelines that turn heterogeneous sources into validated, structured datasets. Apply tabular foundation models to extracted and experimental data for prediction, imputation, and anomaly detection. Add uncertainty and provenance tracking, and build extraction benchmarks with domain scientists. Deploy models into Lila's discovery workflows with platform and lab teams. What You'll Need to Succeed PhD in Computer Science, Machine Learning, Chemistry, Materials Science, Physics, or a related field, plus about 2 to 4 years of post-PhD experience, or equivalent. Expertise in multimodal ML across text, images, and scientific signals, including vision-language models, document understanding, and multimodal fusion. Track record training and evaluating LLMs or VLMs for information extraction. Experience with noisy, heterogeneous scientific data (units, measurements, spectra) and data pipelines at scale. Sustained publication record, including first-author work, at top-tier ML conferences such as NeurIPS, ICML, or ICLR, or at equivalent venues such as JMLR, TMLR, CVPR, ACL, or EMNLP, or equivalent demonstrable research impact. Papers in physical-science journals or ML-for-science workshops are a plus. Strong Python and engineering fundamentals; open-source contributions are a plus. Bonus Points For Scientific document parsing: OCR, layout, tables, figures, and plot digitization. Characterization data such as XRD, spectroscopy, or electron microscopy. Tabular foundation models and how they compare with classical baselines. Structured output generation and knowledge graph construction. Background in chemistry, materials science, or biology. Compensation We offer competitive base compensation with bonus potential and generous early-stage equity. Your final offer will reflect your background, expertise, and expected impact. U.S. Benefits. Full-time U.S. employees receive a comprehensive benefits program including medical, dental, and vision coverage; employer-paid life and disability insurance; flexible time off with generous company wide holidays; paid parental leave; an educational assistance program; commuter benefits, including bike share memberships for office based employees; and a company subsidized lunch program. International Benefits. Full-time employees outside the U.S. receive a comprehensive benefits program tailored to their region. USD salary ranges apply only to U.S.-based positions; international salaries are set to local market. Expected Base Salary Range $228,000 &mdash; $358,000 USD About LILA Lila Sciences is building Scientific Superintelligence™ to solve humankind's greatest challenges. We believe science is the most inspiring frontier for AI. Rather than hard-coding expert knowledge into tools, LILA builds systems that can learn for themselves. LILA combines advanced AI models with proprietary AI Science Factory™ instruments into an operating system for science that executes the entire scientific method autonomously, accelerating discovery at unprecedented speed, scale, and impact across medicine, materials, and energy. Learn more at www.lila.ai. Guided by our core values of truth, trust, curiosity, grit, and velocity, we move with startup speed while tackling problems of historic importance. If this sounds like an environment you'd love to work in, even if you don't meet every qualification listed above, we encourage you to apply. We’re All In Lila Sciences is&nbsp;committed to equal employment opportunity&nbsp;regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Information you provide during your application process will be handled in accordance with our Candidate Privacy Policy . A Note to Agencies Lila Sciences does not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to Lila Sciences or its employees is strictly prohibited unless contacted directly by Lila Science’s internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of Lila Sciences, and Lila Sciences will not owe any referral or other fees with respect thereto.
+
+---
+
+## 27. [MAYBE] UnitedHealth Group | Senior Data Analyst
 - Link: https://careers.unitedhealthgroup.com/job/san-antonio/senior-data-analyst/34088/102779374880
 - Location: San Antonio, Texas ; San Antonio, Texas, United States ; Remote
 - Posted: new since the previous sweep (board shows no date)
@@ -392,7 +522,7 @@ Our Company Optum is a global organization that delivers care, aided by technolo
 
 ---
 
-## 21. [MAYBE] Google | Senior Business and Marketing Data Scientist I
+## 28. [MAYBE] Google | Senior Business and Marketing Data Scientist I
 - Link: https://www.google.com/about/careers/applications/jobs/results/93758412692562630
 - Location: Kirkland, WA, USA ; New York, NY, USA ; Sunnyvale, CA, USA
 - Posted: Nov 25 09:09 ET
@@ -407,7 +537,7 @@ Google's leadership team hand-picks thorny business challenges, and members of B
 
 ---
 
-## 22. [MAYBE] Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management)
+## 29. [MAYBE] Ford Motor Company | Senior Data Scientist – Go-to-Market Advanced Analytics (Yield Management)
 - Link: https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73369
 - Location: Dearborn, MI, United States US
 - Posted: Nov 25 (board gives the date only)
