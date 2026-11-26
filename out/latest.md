@@ -1,10 +1,11 @@
-# Sweep 2026-11-26 16:07 ET: 4595 boards, 4 new matches, 0 kept, 160 board errors, 222s
+# Sweep 2026-11-26 17:07 ET: 4595 boards, 5 new matches, 0 kept, 160 board errors, 204s
 
 Alert inbox: no new relevant alert postings
-- [LOW] Newmark Group | Financial Analyst | fit~50 | https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250615
-- [LOW] Artefact | AI Strategist | fit~33 | https://job-boards.greenhouse.io/artefactlinkedin/jobs/8963752002
-- [LOW] Artefact North America | AI Strategist | fit~33 | https://job-boards.greenhouse.io/artefactnoram/jobs/8963748002
-- [SKIP] Harris Computer | Financial Analyst | fit~- | https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Financial-Analyst_R0046564 | outside US (Canada)
+- [LOW] Artefact | AI Strategist | fit~33 | https://job-boards.greenhouse.io/artefactlinkedin/jobs/8963743002
+- [LOW] Artefact North America | AI Strategist | fit~33 | https://job-boards.greenhouse.io/artefactnoram/jobs/8963754002
+- [LOW] Smith+Nephew | R&D Software Engineer, AI & Computational Platforms | fit~31 | https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/R-D-Software-Engineer--AI---Computational-Platforms_R90814
+- [SKIP] Bank of Montreal | Business and Process Analyst (New or Recent Graduate Opportunity) -  Immediate Start Date | fit~- | https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Business-and-Process-Analyst--New-or-Recent-Graduate-Opportunity-----Immediate-Start-Date_R260031118 | not a W-2 job he can take (fee, corp-to-corp or 1099): "...e considered BMO property. BMO will not pay a fee for any placement resulting f..."
+- [SKIP] RX | Customer Success Analyst | fit~- | https://relx.wd3.myworkdayjobs.com/ReedExhibitions/job/Bela-Cintra---Sao-Paulo/Customer-Success-Analyst_R121277 | outside US (Brazil)
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
