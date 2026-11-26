@@ -1,36 +1,22 @@
-# Sweep 2026-11-25 23:58 ET: 4595 boards, 29 new matches, 1 kept, 161 board errors, 270s
+# Sweep 2026-11-26 04:21 ET: 4595 boards, 16 new matches, 1 kept, 160 board errors, 160s
 
-Coverage audit (7 days): JobRadar had 2/21 = 9% of relevant alert postings; median lead 37499 min vs the alert email. This sweep: 1 relevant alert postings, 1 not on JobRadar boards.
-- [MAYBE] Discord | Data Engineer | fit~50 | https://job-boards.greenhouse.io/discord/jobs/8942144002
-- [LOW] ALTEN Technology | UKG Scheduling Systems Analyst | fit~55 | https://job-boards.greenhouse.io/altentechnologyusa/jobs/5309883007
-- [LOW] International Monetary Fund | Economist/Senior Economist - FADR2 | fit~45 | https://imf.wd5.myworkdayjobs.com/IMF/job/USA-Washington-DC/Economist-Senior-Economist---FADR2_26-R10073 | senior title below the bar
-- [LOW] Kraft Heinz | Senior Analyst- IT, Finance EPM | fit~45 | https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Chicago-IL/Senior-Analyst--IT--Finance-EPM_R-108886-1 | senior title below the bar
-- [LOW] University of Rochester | Revenue Cycle Analyst II | fit~0 | https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Rochester-Technology-Park/Revenue-Cycle-Analyst-II_R276634 | senior title below the bar
-- [SKIP] Clera | Mid-Level AI Engineer | fit~- | https://jobs.ashbyhq.com/Clera/0a32c932-89f1-414a-8bac-cb74056dbd20 | eligibility: "Equity and visa sponsorship details were not provided."
-- [SKIP] Scout AI | AI Engineer, AI/ML and Agent Harnessing (New Grad, 2027) | fit~- | https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed | eligibility: "...t be a U.S. Person due to required access to U.S. export controlled information or facilities
-..."
-- [SKIP] Kinaxis | Forward Deployed Engineer | fit~- | https://careers-kinaxis.icims.com/jobs/35145/forward-deployed-engineer/job | outside US (UK)
-- [SKIP] American Express | Senior Analyst Data Governance & Management | fit~- | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26017061 | eligibility: "Employment eligibility to work with American Express in the United States is required as the company will not pursue visa sponsorship for these positions."
-- [SKIP] Positron | Production Systems Engineer, LLM Inference Appliances (Mid/Senior) | fit~- | https://ats.rippling.com/positron/jobs/8ccab07c-3ef1-4b78-8729-6373b89cf4a3 | eligibility: "We cannot provide new visa sponsorship for this role but are open to facilitating H-1B visa transfers for eligible candidates."
-- [SKIP] Eurofins | TEM Asbestos Analyst - Eurofins Built Environment Testing, Emeryville, CA | fit~- | https://jobs.smartrecruiters.com/Eurofins/744000163776709 | eligibility: "Adherence to EPA, NVLAP, ELAP, OSHA, and NIOSH standards for asbestos identification Accurately enters and reports analytical data using the LIMS Performs independent data reviews for other analysts’ work Performs analys"
-- [SKIP] Eurofins | Asbestos PLM Analyst - Eurofins Built Environment Testing - Emeryville, CA | fit~- | https://jobs.smartrecruiters.com/Eurofins/744000163776425 | eligibility: "mycology, bacteriology, asbestos, ect) as needed Recommends and coordinates sample transfer as necessary Establishes and maintains laboratory stock culture and reference samples Performs root cause analysis and implement"
-- [SKIP] Sia Partners | Senior Data Analyst  | fit~- | https://jobs.smartrecruiters.com/Sia/744000163773669 | eligibility: "This position is not eligible for employment visa sponsorship now or in the future."
-- [SKIP] CACI | Air Defense Electronic Warfare Analyst (Journeyman) | fit~- | https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Air-Defense-Electronic-Warfare-Analyst--Journeyman-_335326 | eligibility: "Job Title: Air Defense Electronic Warfare Analyst (Journeyman) Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: Secret Employee Type: Regular Percentage of Travel Required: Up to 10% T"
-- [SKIP] Caterpillar Inc. | Development Analyst - 3rd Shift | fit~- | https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Development-Analyst---3rd-Shift_R0000406791 | eligibility: "Visa Sponsorship is not available for this position."
-- [SKIP] Citi | Operations Support Analyst 2 | fit~- | https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Operations-Support-Analyst-2_261007215 | outside US (India)
-- [SKIP] Dedalus | Senior Business Analyst (EHR) | fit~- | https://dedalus.wd3.myworkdayjobs.com/External/job/AUS---Melbourne/Senior-Business-Analyst--EHR-_JR108961 | asks 5+ years
-- [SKIP] Edwards Lifesciences | Senior Analyst, Data Analytics | fit~- | https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Malaysia-Kuala-Lumpur-BSC/Senior-Analyst--Data-Analytics_Req-52630 | asks 5+ years
-- [SKIP] Hewlett Packard Enterprise | Operations and Administrative Support Analyst, Corporate Affairs | fit~- | https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Washington-District-of-Columbia-United-States-of-America/Operations-and-Administrative-Support-Analyst--Corporate-Affairs_1219006-2 | not a W-2 job he can take (fee, corp-to-corp or 1099): "...vendors will never charge a candidate a registration fee, hiring fee, or any other fee..."
-- [SKIP] Huntington Bancshares | Financial Sponsors Group Analyst | fit~- | https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/New-York-NY/XMLNAME-2027-Capital-Markets-Analyst_R0074772 | eligibility: "Huntington will not sponsor applicants for this position for immigration benefits, including but not limited to assisting with obtaining work permission for F-1 students, H-1B professionals, O-1 workers, TN workers, E-3 "
-- [SKIP] IQVIA | Project Management Analyst, Real World Evidence | fit~- | https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Mexico-City-Mexico/Project-Management-Analyst--Real-World-Evidence_R1582263 | outside US (Mexico)
-- [SKIP] Johnson & Johnson | Sr Analyst Legal Template Transformation | fit~- | https://jj.wd5.myworkdayjobs.com/JJ/job/So-Paulo-Brazil/Sr-Analyst-Legal-Template-Transformation_R-112382-1 | outside US (Brazil)
-- [SKIP] Medtronic | Sr Financial Analyst | fit~- | https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/State-of-Minnesota-United-States-of-America/Sr-Financial-Analyst_R82837 | asks 4+ years
-- [SKIP] MUFG | Business Analyst GPP Payments (MUIT) | fit~- | https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Business-Analyst-GPP-Payments--MUIT-_10080854-WD-1 | outside US (India)
-- [SKIP] Northrop Grumman | 2026 Associate Property and Asset Management Analyst - Redondo Beach CA | fit~- | https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2026-Associate-Property-and-Asset-Management-Analyst---Redondo-Beach-CA_R10262179 | eligibility: "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: None TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incredible opportunities to"
-- [SKIP] NVIDIA | Senior Applied Research Scientist – AI Native Numerical Methods | fit~- | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Applied-Research-Scientist---AI-Native-Numerical-Methods_JR2030637 | asks 5+ years
-- [SKIP] NVIDIA | Senior Machine Learning Engineer, User Simulation and Advanced Synthetic Data Generation | fit~- | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer--User-Simulation-and-Advanced-Synthetic-Data-Generation_JR2030505 | asks 6+ years
-- [SKIP] RTX | Project Analyst | fit~- | https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AU-WA-HENDERSON-103-CUST--103-Quill-Way--QUILL-External-Site/Project-Analyst_01890029 | eligibility: "...n and maintain an Australian Government (Defence) Security Clearance up to NV1. Eligibility can be..."
-- [SKIP] SHI International | Sr. Data Engineer | fit~- | https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Sr-Data-Engineer_JR2731 | asks 10+ years
+Alert inbox: no new relevant alert postings
+- [HOT] Google | Frontier AI Safety and Alignment Research Scientist, DeepMind | fit~61 | https://www.google.com/about/careers/applications/jobs/results/83811612032410310
+- [SKIP] Varda Space | Senior Support Equipment Automation and Controls Engineer | fit~- | https://job-boards.greenhouse.io/vardaspace/jobs/8217474003 | eligibility: "ITAR Requirements Varda, like all employers, must ensure that its employees working in the United States are lawfully authorized to work in the U.S."
+- [SKIP] Assurant | Disposition Analyst | fit~- | https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Dongcheon/Disposition-Analyst_R-116196 | outside US (Korea, Republic of)
+- [SKIP] Baker Tilly | Senior Associate Data Engineer | fit~- | https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/IND-KA-Bangalore---Cherry-Hills/Senior-Associate-Data-Engineer_JR109107 | outside US (India)
+- [SKIP] Cigna Group | AI Product Builder | fit~- | https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/AI-Product-Builder_26014179-1 | asks 8+ years
+- [SKIP] Citi | Cash and Trade Proc Analyst 1 | fit~- | https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Cash-and-Trade-Proc-Analyst-1_261011941-1 | outside US (India)
+- [SKIP] Dentsu | Cookie & Web Analytics Technical Analyst | fit~- | https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/ESP-Remote/Cookie---Web-Analytics-Technical-Analyst_R1138139-1 | outside US (Spain)
+- [SKIP] Desjardins Group | Senior Advisor, Actuarial analysis and statistics | fit~- | https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Lvis/Conseiller-ou-conseillre-en-actuariat--Tarification-Automobile_R2614221-1 | outside US (Canada)
+- [SKIP] GE Vernova | AI Engineer 人工智能开发工程师 | fit~- | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/QinHuangDao/AI-Engineer-_R5057100-2 | outside US (China)
+- [SKIP] Hewlett Packard (HP) | Cost Accountant / Analyst (m/f) | fit~- | https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Wroclaw-Lower-Silesian-Poland/Cost-Accountant---Analyst--m-f-_3170926 | asks 5+ years
+- [SKIP] IQVIA | AI Engineer | fit~- | https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/AI-Engineer_R1555457 | outside US (India)
+- [SKIP] IQVIA | Senior Statistical Programmer | fit~- | https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Senior-Statistical-Programmer_R1574887 | outside US (India)
+- [SKIP] Miele | AI Engineer | fit~- | https://miele.wd3.myworkdayjobs.com/miele-jobs/job/Braov/AI-Engineer_R5338 | outside US (Romania)
+- [SKIP] Welocalize | Project Coordinator - Generative AI Data Operations | fit~- | https://welocalize.wd1.myworkdayjobs.com/welocalize/job/Asia-Remote/Project-Coordinator---Generative-AI-Data-Operations_R0008097 | outside US (India)
+- [SKIP] Wolters Kluwer | Senior Product Software Engineer (AI-enabled products and automation) – Hybrid (USA/TX) R0060745 | fit~- | https://wk.wd3.myworkdayjobs.com/External/job/USA---Coppell-TX/Senior-Product-Software-Engineer--AI-enabled-products-and-automation----Hybrid--USA-TX--R0060745_R0060745 | eligibility: "Division/BU About Us : https://www.wolterskluwer.com/en/about-us/organization | https://www.linkedin.com/company/wolters-kluwer/ | Must be legally authorized to work in the USA without employer sponsorship, now or in the"
+- [SKIP] Wolters Kluwer | Senior Product Software Engineer (AI-enabled products and automation) – Hybrid (USA/TX) R0060752 | fit~- | https://wk.wd3.myworkdayjobs.com/External/job/USA---Coppell-TX/Senior-Product-Software-Engineer--AI-enabled-products-and-automation----Hybrid--USA-TX--R0060752_R0060752-1 | eligibility: "Division/BU About Us : https://www.wolterskluwer.com/en/about-us/organization | https://www.linkedin.com/company/wolters-kluwer/ | Must be legally authorized to work in the USA without employer sponsorship, now or in the"
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
@@ -43,6 +29,7 @@ Coverage audit (7 days): JobRadar had 2/21 = 9% of relevant alert postings; medi
 - Amerisure (workday:osv-amerisure.wd5:Amerisure): HTTPError HTTP Error 422: Unprocessable Entity
 - Amigo AI (ashby:amigo:): HTTPError HTTP Error 404: Not Found
 - Amplify (workday:amplify.wd1:Amplify_Careers): HTTPError HTTP Error 403: Forbidden
+- Apera AI (greenhouse:aperaaiinc:): HTTPError HTTP Error 404: Not Found
 - Applied Intuition (greenhouse:appliedintuition:): HTTPError HTTP Error 404: Not Found
 - Aprio (lever:aprio:): HTTPError HTTP Error 404: Not Found
 - Arch (ashby:arch.co:): HTTPError HTTP Error 404: Not Found
@@ -96,9 +83,7 @@ Coverage audit (7 days): JobRadar had 2/21 = 9% of relevant alert postings; medi
 - Gitar Inc. (rippling:gitar-careers:): HTTPError HTTP Error 404: Not Found
 - GlossGenius (greenhouse:glossgenius:): HTTPError HTTP Error 404: Not Found
 - Grid (lever:grid:): HTTPError HTTP Error 404: Not Found
-- HERE Technologies (icims:careers-here.icims.com::sitemap): HTTPError HTTP Error 520: Unknown
 - Harness (rippling:harness-careers:): HTTPError HTTP Error 404: Not Found
-- HealthEdge (icims:careers-healthedge.icims.com::sitemap): HTTPError HTTP Error 520: Unknown
 - Hiive (ashby:hiive:): HTTPError HTTP Error 404: Not Found
 - Hilbert (ashby:hilberts:): HTTPError HTTP Error 404: Not Found
 - Hitachi (workday:gtsgbu.wd3:Careers): HTTPError HTTP Error 403: Forbidden
