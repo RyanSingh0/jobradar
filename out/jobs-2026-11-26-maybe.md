@@ -6,6 +6,7 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 |---|---|---|---|---|---|
 | 1 | PIMCO | Quant Research Analyst | 73 | none found (check myvisajobs) | Nov 25 (board gives the date only) |
 | 2 | State Street | Structured Trust and Analytics, Officer | 57 | 87 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 3 | TikTok | Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
 
 ---
 
@@ -36,4 +37,35 @@ PIMCO is a global leader in active fixed income with deep expertise across publi
 ### Job description
 
 Who we are looking for This is a business analyst level role within the Structured Trust and Analytics group at State Street. The position interacts with all levels of professionals both internally and externally. Therefore, strong intrapersonal and communication skills are required. Candidates must understand structured finance transactions, have a strong client focus, be able to perform well under pressure and successfully manage multiple assignments at one time. Why this role is important to us The team you will be joining is a part of State Street Global Services (SSGS). SSGS gives asset owners and managers access to the essential financial tools they need to deliver effective investment solutions. From core custody, accounting, fund administration and shareholder recordkeeping, to complete operations solutions and servicing for alternative assets like OTC derivatives, private equity and real estate, SSGS’ tools help our clients make better investment choices and act on growth opportunities. Join us if making your mark in the financial services industry from day one is a challenge you are up for. What you will be responsible for Manage client relationships and generate new business leads Onboard new deals according to company and group procedures Train staff on deal mechanics and service requirements Manage client deliverables including oversight of: Hypothetical trade tests Monthly and quarterly reporting Payment date calculations and distributions. Manage and collaborate with internal groups at State Street. Lead new initiatives and special projects. What we value These skills will help you succeed in this role Managing client relationships. Overseeing staff and deliverables. Managing and manipulate large amounts of data. Creating Excel-based models to measure various tests and parameters outlined in legal documents, preferable related to CLOs/Bank Loans. Interpreting and comprehending legal documentation such as Indentures, Credit Agreements and Offering Memorandums. Working with credit instruments (senior secured loans and high yield bonds). Education & Preferred Qualifications Systems experience: Wall Street Office, MS Excel, MS Outlook, CDO Suite, LoanOps Portal, My State Street, Bloomberg, LS Fax, Collaborate Additional requirements A strong work ethic and a positive attitude. Excellent time management skills and ability to prioritize deadline-driven workflow. Ability to work well within a team and operate independently on short- and long-term goals. Detail-oriented and a natural problem solver; have the resolve to independently research problems and offer solutions. Excellent intrapersonal & communication skills – via phone and email. Passion for improving systems and processes. About State Street What we do. State Street is one of the largest custodian banks, asset managers and asset intelligence companies in the world. From technology to product innovation, we’re making our mark on the financial services industry. For more than two centuries, we’ve been helping our clients safeguard and steward the investments of millions of people. We provide investment servicing, data & analytics, investment research & trading and investment management to institutional clients. Work, Live and Grow. We make all efforts to create a great work environment. Our benefits packages are competitive and comprehensive. Details vary by location, but you may expect generous medical care, insurance and savings plans, among other perks. You’ll have access to flexible Work Programs to help you match your needs. And our wealth of development programs and educational support will help you reach your full potential. Inclusion, Diversity and Social Responsibility. We truly believe our employees’ diverse backgrounds, experiences and perspectives are a powerful contributor to creating an inclusive environment where everyone can thrive and reach their maximum potential while adding value to both our organization and our clients. We warmly welcome candidates of diverse origin, background, ability, age, sexual orientation, gender identity and personality. Another fundamental value at State Street is active engagement with our communities around the world, both as a partner and a leader. You will have tools to help balance your professional and personal life, paid volunteer days, matching gift programs and access to employee networks that help you stay connected to what matters to you. State Street
+
+---
+
+## 3. [MAYBE] TikTok | Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start
+- Link: https://lifeattiktok.com/search/7665991852209932597
+- Location: San Jose, California, United States of America
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~45 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): 381 in data/analytics/finance occupations
+- Type: full-time
+- Title scope: core | Has: machine learning, nlp, pipeline | Lacks: -
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+The algorithm team is responsible for developing state-of-the-art computer vision, NLP and multimodality models and algorithms to protect our platform and users from the content and behaviors that violate community guidelines and related regulations. With the continuous efforts from our team, TikTok is able to provide the best user experience and bring joy to everyone in the world.
+
+We are looking for talented individuals to join our team. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth.
+
+Successful candidates must be able to commit to an onboarding date by the end of the year. Please state your availability and graduation date clearly in your resume.
+
+Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to our Company and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+
+Responsibilities: 
+- Collaborate with product teams to define business objectives and improve trust and safety strategy.
+- Collaborate with engineering teams to deploy machine learning models, design online model workflow, and implement serving pipelines at scale. 
+- Collaborate with the data scientist team to understand the key challenges and propose data-driven strategies.
+- Work on state-of-the-art content understanding techniques including but not limited to unimodal/multimodal content classifiers, learning models, Reinforcement learning models, and Large Language Models. Minimum Qualifications:
+- Individuals who are completing or have recently completed a Bachelor's/ Master's degree in computer science or a related discipline. 
+- Hands-on or academic experience in one or more of the following areas: Machine learning, Large Language Models, Recommendation Systems, and related areas.
+- Strong coding skills.
+- Curiosity towards new technologies and entrepreneurship, good communication and teamwork skills.
 

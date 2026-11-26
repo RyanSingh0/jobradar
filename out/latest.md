@@ -1,31 +1,19 @@
-# Sweep 2026-11-26 08:07 ET: 4595 boards, 25 new matches, 2 kept, 160 board errors, 185s
+# Sweep 2026-11-26 09:07 ET: 4595 boards, 12 new matches, 1 kept, 160 board errors, 169s
 
 Alert inbox: no new relevant alert postings
-- [MAYBE] PIMCO | Quant Research Analyst | fit~73 | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Quant-Research-Analyst_R107127 | no H-1B filings found for this employer
-- [MAYBE] State Street | Structured Trust and Analytics, Officer | fit~57 | https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Structured-Trust-and-Analytics--Officer_R-796525-1
-- [LOW] Kpler | Contract Analyst | fit~45 | https://jobs.lever.co/kpler/01b41ab1-7860-43b2-a0be-bc2c974b1686
-- [LOW] Genpact Llc | Sr. Data Engineer 4B | fit~45 | https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-Data-Engineer-4B_JR10037193 | senior title below the bar
-- [LOW] City of New York | Budget Expense Analyst  For the Division of Budget | fit~40 | https://jobs.smartrecruiters.com/cityofnewyork/3743990017103211
-- [LOW] AES | Senior Analyst, Valuation & Investments | fit~40 | https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Arlington-VA/Senior-Analyst--Valuation---Investments_R1065584 | senior title below the bar
-- [LOW] City of New York | Policy Analyst | fit~0 | https://jobs.smartrecruiters.com/cityofnewyork/3743990017103416
-- [SKIP] AIG | Early Career: Risk Engineering | fit~- | https://aig.wd1.myworkdayjobs.com/aig/job/Capelle-aan-den-IJssel/Early-Career--Risk-Engineering_JR2604967 | outside US (Netherlands)
-- [SKIP] Citi | Operations Support Analyst 2 | fit~- | https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Operations-Support-Analyst-2_261005699 | outside US (India)
-- [SKIP] Citi | Data Information Analyst | fit~- | https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Data-Information-Analyst_26999172 | outside US (India)
-- [SKIP] Citi | Senior Golang Engineer - GenAI Platforms | fit~- | https://citi.wd5.myworkdayjobs.com/2/job/Bangaluru-Karnataka-India/Senior-Golang-Engineer---GenAI-Platforms_261005887 | asks 9+ years
-- [SKIP] Global Payments | Software Test Analyst Senior (ETL Testing, SQL)_6+ Yrs_Bangalore/Pune/Indore | fit~- | https://tsys.wd1.myworkdayjobs.com/tsys/job/PUNE--INDIA/Software-Test-Analyst-Senior--ETL-Testing--SQL--4--Yrs-Bangalore-Pune-Indore_R0076055 | outside US (India)
-- [SKIP] Hewlett Packard (HP) | Business Analyst | fit~- | https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Singapore-South-West-Singapore/Business-Analyst_3165058 | outside US (Singapore)
-- [SKIP] Kyndryl | Site Reliability Engineer (SRE) – Mainframe Modernization & Cloud Transformation | fit~- | https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Site-Reliability-Engineer--SRE----Mainframe-Modernization---Cloud-Transformation_R-72303-1 | asks 8+ years
-- [SKIP] Kyndryl | Senior Quality Assurance Analyst | fit~- | https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Greater-Noida-Uttar-Pradesh-India/Senior-Quality-Assurance-Analyst_R-73342-1 | asks 6+ years
-- [SKIP] Merck | Associate Specialist Data Science | fit~- | https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Maharashtra---Pune-Wework/Associate-Specialist-Data-Science_R429379-1 | outside US (India)
-- [SKIP] Merck | Specialist - Brand Strategy Analytics (BSA) | fit~- | https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Specialist---Brand-Strategy-Analytics--BSA-_R429643-1 | asks 5+ years
-- [SKIP] Micron Technology | Senior Engineer – Machine Learning and Agentic AI, Advanced Patterning | fit~- | https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Senior-Engineer---Machine-Learning-and-Agentic-AI--Advanced-Patterning_JR118258 | asks 5+ years
-- [SKIP] Novartis | Commercial Business Analyst | fit~- | https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Moscow-City/Commercial-Business-Analyst_REQ-10093807 | outside US (Russian Federation)
-- [SKIP] NVIDIA | AI Infrastructure Engineer - NVIS | fit~- | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Remote/AI-Infrastructure-Engineer---NVIS_JR2030522 | asks 5+ years
-- [SKIP] S&P Global | Analyst, Power and Renewables - Southeast Asia | fit~- | https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Penang-Jalan-MYS/Analyst--Power-and-Renewables---Southeast-Asia_332207-1 | outside US (Malaysia)
-- [SKIP] Sanofi | QC Analyst | fit~- | https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Restricted-Posting/QC-Analyst_R2872094 | outside US (Germany)
-- [SKIP] Thales | IS Business Analyst (PLM) | fit~- | https://thales.wd3.myworkdayjobs.com/Careers/job/Tubize/IS-Business-Analyst--PLM-_R0346924 | outside US (Belgium)
-- [SKIP] Trimble | Senior GenAI Engineer | fit~- | https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Germany---Remote/Senior-GenAI-Engineer_R58572 | asks 5+ years
-- [SKIP] Google | AI Tooling Technical Solutions Consultant, GSRS Security Systems and Technology | fit~- | https://www.google.com/about/careers/applications/jobs/results/100461791489729222 | asks 5+ years
+Internships this sweep: 3 new, 2 student-only (SKIP), 0 kept as HOT or MAYBE.
+- [MAYBE] TikTok | Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start | fit~45 | https://lifeattiktok.com/search/7665991852209932597
+- [LOW] Genpact Llc | Sr. Data Engineer 4B | fit~45 | https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-Data-Engineer-4B_JR10037198 | senior title below the bar
+- [SKIP] Air Liquide | STAGE Data Analyst H/F | fit~- | https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Saint-Priest---Management---ALFI-EL/STAGE-Data-Analyst-H-F_R10102717-1 | outside US (France)
+- [SKIP] Fortrea | Senior Statistical Programmer | fit~- | https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Buenos-Aires/Senior-Statistical-Programmer_266959 | outside US (Argentina)
+- [SKIP] Freudenberg Group | Purchasing Analyst | fit~- | https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/So-Jos-dos-Campos/Purchasing-Analyst_R_00110114 | outside US (Brazil)
+- [SKIP] GE Vernova | Intern for: Characterization of Advanced Automation Applications on Universal Controller Platform | fit~- | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Zamudio/Intern-for--Characterization-of-Advanced-Automation-Applications-on-Universal-Controller-Platform_R5059839-2 | eligibility: "GE will not sponsor this requirement."
+- [SKIP] Gunvor | Quantitative Analyst – Portfolio Optimization | fit~- | https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Geneva/Quantitative-Analyst---Portfolio-Optimization_JR102886-1 | outside US (Switzerland)
+- [SKIP] Marsh | Senior Analyst - IT Systems Engineering | fit~- | https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---DLF-Building/Senior-Analyst---IT-Systems-Engineering_R_339263-1 | outside US (India)
+- [SKIP] Palo Alto Networks | Transformation Success Engineer (DevSecOps) | fit~- | https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---Australia---Sydney/Transformation-Success-Engineer_JR-023133 | eligibility: "Please note that we will not sponsor applicants for work visas for this position."
+- [SKIP] Philips | Internship: Program AI Enablement (Master, non-thesis) | fit~- | https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship--Program-AI-Enablement--Master--non-thesis-_595112 | student-only internship: "... transparency. You're the right fit if: Currently pursuing a Master’s degree in Data Analytics, Bioinformatics, Comput..."
+- [SKIP] PricewaterhouseCoopers (PwC) | Chef de Projets - Opérations & Transformation Interne F/H - CDD | fit~- | https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Neuilly-sur-Seine/Chef-de-Projets---Oprations---Transformation-Interne-F-H---CDD_776053WD | outside US (France)
+- [SKIP] TikTok | Machine Learning Engineer Intern (TikTok-Data-Search-Search Quality) - 2027 Start (PhD) | fit~- | https://lifeattiktok.com/search/7665475888805611781 | student-only internship: "...title names a future term: 2027 Start..."
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
