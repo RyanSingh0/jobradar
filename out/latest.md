@@ -1,14 +1,12 @@
-# Sweep 2026-11-26 13:07 ET: 4595 boards, 8 new matches, 1 kept, 160 board errors, 209s
+# Sweep 2026-11-26 14:07 ET: 4595 boards, 6 new matches, 1 kept, 160 board errors, 229s
 
-Coverage audit (7 days): JobRadar had 2/20 = 10% of relevant alert postings; median lead 37499 min vs the alert email. This sweep: 1 relevant alert postings, 1 not on JobRadar boards.
-- [MAYBE] Jobs for Humanity | Copy of Data Scientist | fit~78 | https://jobs.smartrecruiters.com/JobsForHumanity/744000163911479 | no H-1B filings found for this employer
-- [LOW] Clera | Talent AI Operator | fit~62 | https://jobs.ashbyhq.com/Clera/0ed8d996-10e3-4d70-a76b-d779eb9337d9
-- [LOW] Chemours | Senior AI Engineer | fit~52 | https://chemours.wd103.myworkdayjobs.com/Chemours/job/Mexico---Ciudad-de-Mexico---Plaza-Carso/Senior-AI-Applications-Engineer_JR14189 | senior title below the bar
-- [SKIP] Clera | Senior ML Engineer, Perception | fit~- | https://jobs.ashbyhq.com/Clera/57a448e8-ca0c-4eef-886c-c6946a9e65a6 | eligibility: "Visa sponsorship is not available."
-- [SKIP] Desjardins Group | Business analyst, Business strategies | fit~- | https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Analyste-d-affaires_R2614328-2 | outside US (Canada)
-- [SKIP] IQVIA | Regulatory Reporting Specialist/ Operations Spec 1 | fit~- | https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Zagreb-Croatia/Regulatory-Reporting-Specialist--Operations-Spec-1_R1582468 | outside US (Croatia)
-- [SKIP] RSM | Workday Reporting Sr. Associate | fit~- | https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/All-Locations---US/Workday-Reporting-Sr-Associate_JR122556 | eligibility: "RSM does not intend to hire entry level candidates who will require sponsorship now OR in the future (i.e."
-- [SKIP] Sun Life | Senior Data Analyst | fit~- | https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Senior-Data-Analyst_JR00130062 | eligibility: "...r week at minimum. This role requires Reliability Security Clearance. In addition to a law enforce..."
+Alert inbox: no new relevant alert postings
+- [CHECK] Novartis | Medicaid Analyst | fit~0 | https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/East-Hanover/Medicaid-Analyst_REQ-10093341-1 | description not readable by the scanner; open the link
+- [SKIP] Mackenzie Investments | Senior Investment Analyst | fit~- | https://careersen-mackenzieinvestments.icims.com/jobs/6578/senior-investment-analyst/job | eligibility: "We encourage applications from all qualified candidates that represent the diversity present across Canada – including racialized persons, women, Indigenous persons, persons with disabilities, 2SLGBTQIA+ community, gende"
+- [SKIP] American Express | Analyst, Global Financial Crimes Compliance – Global Transaction Monitoring – TM Rule Optimization and Performance Monitoring | fit~- | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016738 | eligibility: "The individual will: Partner with cross-functional teams to optimize rule logic and detection criteria for global TM rules across American Express businesses Monitor TM rule performance to trigger reviews of underperform"
+- [SKIP] John Lewis Partnership | Commercial Reporting Analyst | fit~- | https://jlp.wd3.myworkdayjobs.com/JLPjobs_careers/job/Bracknell/Commercial-Reporting-Analyst_R-218462 | outside US (United Kingdom)
+- [SKIP] Novartis | Senior Financial Analyst | fit~- | https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/INSURGENTES/Senior-Financial-Analyst_REQ-10090136-2 | asks 4+ years
+- [SKIP] Santander | ANALYST CCB/CONTROL M, SDS QRO. | fit~- | https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/OFNA-TECH-AND-OPER-QRO/ANALYST-CCB-CONTROL-M--SDS-QRO_Req1574519 | outside US (Mexico)
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
