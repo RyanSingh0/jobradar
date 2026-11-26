@@ -1,6 +1,8 @@
-# Sweep 2026-11-26 17:16 ET: 4595 boards, 0 new matches, 0 kept, 160 board errors, 186s
+# Sweep 2026-11-26 18:07 ET: 4595 boards, 2 new matches, 0 kept, 160 board errors, 159s
 
 Alert inbox: no new relevant alert postings
+- [LOW] Artefact | AI Strategist | fit~33 | https://job-boards.greenhouse.io/artefactlinkedin/jobs/8963749002
+- [SKIP] AtkinsRéalis | New Graduate, Rail, Transit Systems & Telecoms | fit~- | https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONToronto191-The-West-Mall/New-Graduate--Rail--Transit-Systems---Telecoms-Division_R-162198 | outside US (Canada)
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
