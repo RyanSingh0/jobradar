@@ -1,11 +1,17 @@
-# Sweep 2026-11-26 11:07 ET: 4595 boards, 5 new matches, 0 kept, 160 board errors, 182s
+# Sweep 2026-11-26 12:07 ET: 4595 boards, 11 new matches, 0 kept, 160 board errors, 213s
 
 Alert inbox: no new relevant alert postings
-- [SKIP] Bank of America | GBGM AML Onboarding Analyst | fit~- | https://ghr.wd1.myworkdayjobs.com/lateral-emea/job/Bromley/GBGM-AML-Onboarding-Analyst_26043502-1 | outside US (United Kingdom)
-- [SKIP] Hewlett Packard (HP) | Junior Financial Analyst (m/f) | fit~- | https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Wroclaw-Lower-Silesian-Poland/Junior-Financial-Analyst--m-f-_3170209 | outside US (Poland)
-- [SKIP] TELUS | Senior Analyst, DB Pension Administration | fit~- | https://lifeworks.wd3.myworkdayjobs.com/External/job/Montreal-Quebec-Canada/Senior-Analyst--DB-Pension-Administration_R-22766 | outside US (Canada)
-- [SKIP] University of Ottawa | Research Assistant | fit~- | https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/Research-Assistant_JR41459 | eligibility: "While all qualified persons are invited to apply, we welcome applications from qualified Indigenous persons, racialized persons, persons with disabilities, women and LGBTQIA2S+ persons."
-- [SKIP] Takeda | Material Management Analyst | fit~- | https://jobs.takeda.com/job/neuchatel/material-management-analyst/1113/103821688192 | outside US (Switzerland)
+- [SKIP] Accenture | Process Mining Reinventor (Analyst) | fit~- | https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Process-Mining-Reinventor--Analyst-_R00332596-1 | outside US (Poland)
+- [SKIP] Barclays | Software Engineer - AI | fit~- | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Software-Engineer---AI_JR-0000136048 | outside US (United Kingdom)
+- [SKIP] Barclays | Senior Decision Intelligence Analyst | fit~- | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Senior-Decision-Intelligence-Analyst_JR-0000123924 | outside US (United Kingdom)
+- [SKIP] Desjardins Group | Senior Advisor, Actuarial analysis and statistics | fit~- | https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Conseiller-prinicpal-ou-conseillre-principale--en-actuariat--Validation-des-modles-en-assurance-de-personnes_R2613051-1 | outside US (Canada)
+- [SKIP] Hastings Direct | Data Scientist | fit~- | https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/London/Data-Scientist_60014053-1 | eligibility: "Job Title: Data Scientist Location: Bexhill/Leicester/London – Hybrid Unfortunately, we are unable to offer sponsorship for this position Role Purpose The Data Scientist will assist in the design, development, and deploy"
+- [SKIP] PricewaterhouseCoopers (PwC) | Business/Data Analyst – Financial Crime team | fit~- | https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Prague/Business-Data-Analyst---Financial-Crime-team_776759WD-1 | outside US (Czechia)
+- [SKIP] Salesforce | Forward Deployed Engineer | fit~- | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Forward-Deployed-Engineer--Technical-Builder-_JR349383 | outside US (Germany)
+- [SKIP] Verizon Communications | Sr Engr Cslt-AI/ML Engineering | fit~- | https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Sr-Engr-Cslt-AI-ML-Engineering_R-1104124 | outside US (India)
+- [SKIP] Verizon Communications | Engr II-AI Science | fit~- | https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Engr-II-AI-Science_R-1104268 | outside US (India)
+- [SKIP] Verizon Communications | Princ Engr-AI Science | fit~- | https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Princ-Engr-AI-Science_R-1104263 | outside US (India)
+- [SKIP] Verizon Communications | Sr Engr Cslt-Data Science | fit~- | https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Sr-Engr-Cslt-Data-Science_R-1104368 | outside US (India)
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
