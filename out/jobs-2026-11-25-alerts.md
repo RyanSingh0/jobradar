@@ -7,3 +7,4 @@ Found in your LinkedIn/HiringCafe/Glassdoor/Indeed/Jobright alert emails but not
 | linkedin | Stanford University | Research Analyst | Stanford, CA | https://www.linkedin.com/jobs/view/4493253485/ |
 | linkedin | Goliath Partners | Quantitative Researcher | United States | https://www.linkedin.com/jobs/view/4494407901/ |
 | linkedin | Daice Labs | AI/ML Engineering Intern | United States | https://www.linkedin.com/jobs/view/4494396061/ |
+| linkedin | University of California, San Francisco | Research Data Analyst | San Francisco, CA | https://www.linkedin.com/jobs/view/4494483602/ |
