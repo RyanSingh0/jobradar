@@ -1,17 +1,14 @@
-# Sweep 2026-11-26 12:07 ET: 4595 boards, 11 new matches, 0 kept, 160 board errors, 213s
+# Sweep 2026-11-26 13:07 ET: 4595 boards, 8 new matches, 1 kept, 160 board errors, 209s
 
-Alert inbox: no new relevant alert postings
-- [SKIP] Accenture | Process Mining Reinventor (Analyst) | fit~- | https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Process-Mining-Reinventor--Analyst-_R00332596-1 | outside US (Poland)
-- [SKIP] Barclays | Software Engineer - AI | fit~- | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Software-Engineer---AI_JR-0000136048 | outside US (United Kingdom)
-- [SKIP] Barclays | Senior Decision Intelligence Analyst | fit~- | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Senior-Decision-Intelligence-Analyst_JR-0000123924 | outside US (United Kingdom)
-- [SKIP] Desjardins Group | Senior Advisor, Actuarial analysis and statistics | fit~- | https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Conseiller-prinicpal-ou-conseillre-principale--en-actuariat--Validation-des-modles-en-assurance-de-personnes_R2613051-1 | outside US (Canada)
-- [SKIP] Hastings Direct | Data Scientist | fit~- | https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/London/Data-Scientist_60014053-1 | eligibility: "Job Title: Data Scientist Location: Bexhill/Leicester/London – Hybrid Unfortunately, we are unable to offer sponsorship for this position Role Purpose The Data Scientist will assist in the design, development, and deploy"
-- [SKIP] PricewaterhouseCoopers (PwC) | Business/Data Analyst – Financial Crime team | fit~- | https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Prague/Business-Data-Analyst---Financial-Crime-team_776759WD-1 | outside US (Czechia)
-- [SKIP] Salesforce | Forward Deployed Engineer | fit~- | https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Forward-Deployed-Engineer--Technical-Builder-_JR349383 | outside US (Germany)
-- [SKIP] Verizon Communications | Sr Engr Cslt-AI/ML Engineering | fit~- | https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Sr-Engr-Cslt-AI-ML-Engineering_R-1104124 | outside US (India)
-- [SKIP] Verizon Communications | Engr II-AI Science | fit~- | https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Engr-II-AI-Science_R-1104268 | outside US (India)
-- [SKIP] Verizon Communications | Princ Engr-AI Science | fit~- | https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Princ-Engr-AI-Science_R-1104263 | outside US (India)
-- [SKIP] Verizon Communications | Sr Engr Cslt-Data Science | fit~- | https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Sr-Engr-Cslt-Data-Science_R-1104368 | outside US (India)
+Coverage audit (7 days): JobRadar had 2/20 = 10% of relevant alert postings; median lead 37499 min vs the alert email. This sweep: 1 relevant alert postings, 1 not on JobRadar boards.
+- [MAYBE] Jobs for Humanity | Copy of Data Scientist | fit~78 | https://jobs.smartrecruiters.com/JobsForHumanity/744000163911479 | no H-1B filings found for this employer
+- [LOW] Clera | Talent AI Operator | fit~62 | https://jobs.ashbyhq.com/Clera/0ed8d996-10e3-4d70-a76b-d779eb9337d9
+- [LOW] Chemours | Senior AI Engineer | fit~52 | https://chemours.wd103.myworkdayjobs.com/Chemours/job/Mexico---Ciudad-de-Mexico---Plaza-Carso/Senior-AI-Applications-Engineer_JR14189 | senior title below the bar
+- [SKIP] Clera | Senior ML Engineer, Perception | fit~- | https://jobs.ashbyhq.com/Clera/57a448e8-ca0c-4eef-886c-c6946a9e65a6 | eligibility: "Visa sponsorship is not available."
+- [SKIP] Desjardins Group | Business analyst, Business strategies | fit~- | https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Analyste-d-affaires_R2614328-2 | outside US (Canada)
+- [SKIP] IQVIA | Regulatory Reporting Specialist/ Operations Spec 1 | fit~- | https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Zagreb-Croatia/Regulatory-Reporting-Specialist--Operations-Spec-1_R1582468 | outside US (Croatia)
+- [SKIP] RSM | Workday Reporting Sr. Associate | fit~- | https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/All-Locations---US/Workday-Reporting-Sr-Associate_JR122556 | eligibility: "RSM does not intend to hire entry level candidates who will require sponsorship now OR in the future (i.e."
+- [SKIP] Sun Life | Senior Data Analyst | fit~- | https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Senior-Data-Analyst_JR00130062 | eligibility: "...r week at minimum. This role requires Reliability Security Clearance. In addition to a law enforce..."
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden

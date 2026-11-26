@@ -4,15 +4,31 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | PIMCO | Quant Research Analyst | 73 | none found (check myvisajobs) | Nov 25 (board gives the date only) |
-| 2 | Susquehanna International Group (SIG) | Quantitative Sports Researcher – Graduate Hire | 65 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
-| 3 | Manulife Financial | Data Scientist | 60 | none found (check myvisajobs) | Nov 25 (board gives the date only) |
-| 4 | State Street | Structured Trust and Analytics, Officer | 57 | 87 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 5 | TikTok | Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 1 | Jobs for Humanity | Copy of Data Scientist | 78 | none found (check myvisajobs) | Nov 26 12:30 ET |
+| 2 | PIMCO | Quant Research Analyst | 73 | none found (check myvisajobs) | Nov 25 (board gives the date only) |
+| 3 | Susquehanna International Group (SIG) | Quantitative Sports Researcher – Graduate Hire | 65 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 4 | Manulife Financial | Data Scientist | 60 | none found (check myvisajobs) | Nov 25 (board gives the date only) |
+| 5 | State Street | Structured Trust and Analytics, Officer | 57 | 87 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 6 | TikTok | Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
 
 ---
 
-## 1. [MAYBE] PIMCO | Quant Research Analyst
+## 1. [MAYBE] Jobs for Humanity | Copy of Data Scientist
+- Link: https://jobs.smartrecruiters.com/JobsForHumanity/744000163911479
+- Location: San Francisco CA us remote
+- Posted: Nov 26 12:30 ET
+- Scanner fit: ~78 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: dashboard, data visualization, excel, forecast, power bi, python, r, sql, statistic, tableau, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: CHECK | Company-sponsored life insurance options.
+
+### Job description
+
+Responsibilities Analyze real estate market data, property trends, pricing, and sales performance. Develop reports and dashboards to track business performance and market activity. Identify patterns in customer behavior, buyer demand, and listing performance. Clean, organize, and validate datasets to ensure accuracy. Use statistical analysis and predictive modeling to support business planning. Help forecast market trends, property demand, and sales opportunities. Work with team members to understand business challenges and recommend data-driven solutions. Present findings and recommendations in clear, easy-to-understand reports. Maintain data documentation and support ongoing analytics projects. Qualifications Bachelor's degree in Data Science, Statistics, Mathematics, Computer Science, or a related field, or equivalent experience. Experience working with data analysis, reporting, or statistical methods. Knowledge of Python, SQL, R, or similar analytical tools. Familiarity with Excel, Tableau, Power BI, or other data visualization platforms. Strong analytical, critical-thinking, and problem-solving skills. Attention to detail and ability to work with large datasets. Ability to communicate findings clearly. Previous experience in real estate analytics is a plus but not required. Compensation & Benefits Competitive hourly pay. $400 sign-up bonus upon meeting eligibility requirements. Medical, dental, and vision insurance options. Paid time off (PTO). Paid holidays. Sick leave. 401(k) retirement savings plan. Company-sponsored life insurance options. Short-term and long-term disability coverage. Employee assistance program (EAP). Wellness programs and employee discounts. Paid training and onboarding. Career advancement and professional development opportunities. Flexible scheduling options, where available.
+
+---
+
+## 2. [MAYBE] PIMCO | Quant Research Analyst
 - Link: https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Quant-Research-Analyst_R107127
 - Location: Newport Beach, CA USA ; Newport Beach, CA USA (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -27,7 +43,7 @@ PIMCO is a global leader in active fixed income with deep expertise across publi
 
 ---
 
-## 2. [MAYBE] Susquehanna International Group (SIG) | Quantitative Sports Researcher – Graduate Hire
+## 3. [MAYBE] Susquehanna International Group (SIG) | Quantitative Sports Researcher – Graduate Hire
 - Link: https://careers-sig.icims.com/jobs/4454/quantitative-sports-researcher-%e2%80%93-graduate-hire/job
 - Location: Bala Cynwyd (Greater Philadelphia), PA, US
 - Posted: new since the previous sweep (board shows no date)
@@ -42,7 +58,7 @@ Overview At Susquehanna, the Sports Analytics team builds statistical forecastin
 
 ---
 
-## 3. [MAYBE] Manulife Financial | Data Scientist
+## 4. [MAYBE] Manulife Financial | Data Scientist
 - Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Data-Scientist_JR26111144
 - Location: 2 Locations ; Boston, Massachusetts ; CAN, Ontario, Toronto, 200 Bloor Street East (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -57,7 +73,7 @@ Data Scientist, AI & Generative AI The Opportunity Want to build AI solutions th
 
 ---
 
-## 4. [MAYBE] State Street | Structured Trust and Analytics, Officer
+## 5. [MAYBE] State Street | Structured Trust and Analytics, Officer
 - Link: https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Structured-Trust-and-Analytics--Officer_R-796525-1
 - Location: Quincy, Massachusetts ; Quincy, Massachusetts (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -72,7 +88,7 @@ Who we are looking for This is a business analyst level role within the Structur
 
 ---
 
-## 5. [MAYBE] TikTok | Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start
+## 6. [MAYBE] TikTok | Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start
 - Link: https://lifeattiktok.com/search/7665991852209932597
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
