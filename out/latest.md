@@ -1,12 +1,12 @@
-# Sweep 2026-11-26 14:07 ET: 4595 boards, 6 new matches, 1 kept, 160 board errors, 229s
+# Sweep 2026-11-26 15:04 ET: 4595 boards, 6 new matches, 0 kept, 160 board errors, 208s
 
-Alert inbox: no new relevant alert postings
-- [CHECK] Novartis | Medicaid Analyst | fit~0 | https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/East-Hanover/Medicaid-Analyst_REQ-10093341-1 | description not readable by the scanner; open the link
-- [SKIP] Mackenzie Investments | Senior Investment Analyst | fit~- | https://careersen-mackenzieinvestments.icims.com/jobs/6578/senior-investment-analyst/job | eligibility: "We encourage applications from all qualified candidates that represent the diversity present across Canada – including racialized persons, women, Indigenous persons, persons with disabilities, 2SLGBTQIA+ community, gende"
-- [SKIP] American Express | Analyst, Global Financial Crimes Compliance – Global Transaction Monitoring – TM Rule Optimization and Performance Monitoring | fit~- | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016738 | eligibility: "The individual will: Partner with cross-functional teams to optimize rule logic and detection criteria for global TM rules across American Express businesses Monitor TM rule performance to trigger reviews of underperform"
-- [SKIP] John Lewis Partnership | Commercial Reporting Analyst | fit~- | https://jlp.wd3.myworkdayjobs.com/JLPjobs_careers/job/Bracknell/Commercial-Reporting-Analyst_R-218462 | outside US (United Kingdom)
-- [SKIP] Novartis | Senior Financial Analyst | fit~- | https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/INSURGENTES/Senior-Financial-Analyst_REQ-10090136-2 | asks 4+ years
-- [SKIP] Santander | ANALYST CCB/CONTROL M, SDS QRO. | fit~- | https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/OFNA-TECH-AND-OPER-QRO/ANALYST-CCB-CONTROL-M--SDS-QRO_Req1574519 | outside US (Mexico)
+Coverage audit (7 days): JobRadar had 2/21 = 9% of relevant alert postings; median lead 37499 min vs the alert email. This sweep: 1 relevant alert postings, 1 not on JobRadar boards.
+- [SKIP] Jerry | Senior Data Scientist (growth-stage startup)  | fit~- | https://jobs.ashbyhq.com/Jerry.ai/263b19da-29af-4d85-a1b5-e2b5d08a32ac | asks 4+ years
+- [SKIP] SoFi | Data Scientist | fit~- | https://sofi.com/careers/job/8197871003?gh_jid=8197871003 | asks 4+ years
+- [SKIP] Resmed | Senior Automation QA Engineer | fit~- | https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Peachtree-Corners-GA-United-States/Senior-Software-Quality-Engineer_JR_052064-2 | eligibility: "This position is ineligible for visa sponsorship at this time."
+- [SKIP] SitusAMC | Senior Origination Analyst | fit~- | https://situsamc.wd1.myworkdayjobs.com/SitusAMC/job/Dallas-Tx/Senior-Origination-Analyst_JR03359 | not a W-2 job he can take (fee, corp-to-corp or 1099): "...itusAMC property, and SitusAMC will not pay a fee for any placement resulting f..."
+- [SKIP] Valmet | Systems Analyst | fit~- | https://valmet.wd103.myworkdayjobs.com/external/job/Araucria/Systems-Analyst_R61558 | outside US (Brazil)
+- [SKIP] Valmet | IT Infrastructure Analyst | fit~- | https://valmet.wd103.myworkdayjobs.com/external/job/Araucria/IT-Infrastructure-Analyst_R61557 | outside US (Brazil)
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
