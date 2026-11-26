@@ -1,19 +1,16 @@
-# Sweep 2026-11-26 09:07 ET: 4595 boards, 12 new matches, 1 kept, 160 board errors, 169s
+# Sweep 2026-11-26 10:07 ET: 4595 boards, 9 new matches, 2 kept, 160 board errors, 226s
 
 Alert inbox: no new relevant alert postings
-Internships this sweep: 3 new, 2 student-only (SKIP), 0 kept as HOT or MAYBE.
-- [MAYBE] TikTok | Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start | fit~45 | https://lifeattiktok.com/search/7665991852209932597
-- [LOW] Genpact Llc | Sr. Data Engineer 4B | fit~45 | https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-Data-Engineer-4B_JR10037198 | senior title below the bar
-- [SKIP] Air Liquide | STAGE Data Analyst H/F | fit~- | https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Saint-Priest---Management---ALFI-EL/STAGE-Data-Analyst-H-F_R10102717-1 | outside US (France)
-- [SKIP] Fortrea | Senior Statistical Programmer | fit~- | https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Buenos-Aires/Senior-Statistical-Programmer_266959 | outside US (Argentina)
-- [SKIP] Freudenberg Group | Purchasing Analyst | fit~- | https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/So-Jos-dos-Campos/Purchasing-Analyst_R_00110114 | outside US (Brazil)
-- [SKIP] GE Vernova | Intern for: Characterization of Advanced Automation Applications on Universal Controller Platform | fit~- | https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Zamudio/Intern-for--Characterization-of-Advanced-Automation-Applications-on-Universal-Controller-Platform_R5059839-2 | eligibility: "GE will not sponsor this requirement."
-- [SKIP] Gunvor | Quantitative Analyst – Portfolio Optimization | fit~- | https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Geneva/Quantitative-Analyst---Portfolio-Optimization_JR102886-1 | outside US (Switzerland)
-- [SKIP] Marsh | Senior Analyst - IT Systems Engineering | fit~- | https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---DLF-Building/Senior-Analyst---IT-Systems-Engineering_R_339263-1 | outside US (India)
-- [SKIP] Palo Alto Networks | Transformation Success Engineer (DevSecOps) | fit~- | https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---Australia---Sydney/Transformation-Success-Engineer_JR-023133 | eligibility: "Please note that we will not sponsor applicants for work visas for this position."
-- [SKIP] Philips | Internship: Program AI Enablement (Master, non-thesis) | fit~- | https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship--Program-AI-Enablement--Master--non-thesis-_595112 | student-only internship: "... transparency. You're the right fit if: Currently pursuing a Master’s degree in Data Analytics, Bioinformatics, Comput..."
-- [SKIP] PricewaterhouseCoopers (PwC) | Chef de Projets - Opérations & Transformation Interne F/H - CDD | fit~- | https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Neuilly-sur-Seine/Chef-de-Projets---Oprations---Transformation-Interne-F-H---CDD_776053WD | outside US (France)
-- [SKIP] TikTok | Machine Learning Engineer Intern (TikTok-Data-Search-Search Quality) - 2027 Start (PhD) | fit~- | https://lifeattiktok.com/search/7665475888805611781 | student-only internship: "...title names a future term: 2027 Start..."
+Internships this sweep: 1 new, 0 student-only (SKIP), 0 kept as HOT or MAYBE.
+- [MAYBE] Susquehanna International Group (SIG) | Quantitative Sports Researcher – Graduate Hire | fit~65 | https://careers-sig.icims.com/jobs/4454/quantitative-sports-researcher-%e2%80%93-graduate-hire/job | no H-1B filings found for this employer
+- [MAYBE] Manulife Financial | Data Scientist | fit~60 | https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Data-Scientist_JR26111144 | no H-1B filings found for this employer
+- [LOW] Regeneron Pharmaceuticals | Quality Control Analyst | fit~45 | https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSSELAER/Quality-Control-Analyst_R52727
+- [LOW] Genpact Llc | Sr. Data Engineer 4B | fit~45 | https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Sr-Data-Engineer-4B_JR10037556 | senior title below the bar
+- [SKIP] Susquehanna International Group (SIG) | Quantitative Sports Trader | fit~- | https://careers-sig.icims.com/jobs/10622/quantitative-sports-trader/job | outside US (IE)
+- [SKIP] GE Vernova | Intern for: Characterization of Advanced Automation Applications on Universal Controller Platform | fit~- | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Zamudio/Intern-for--Characterization-of-Advanced-Automation-Applications-on-Universal-Controller-Platform_R5059839-1 | eligibility: "GE will not sponsor this requirement."
+- [SKIP] GE Vernova | AI Engineer 人工智能开发工程师 | fit~- | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/QinHuangDao/AI-Engineer-_R5057100-1 | outside US (China)
+- [SKIP] GE Vernova | Process & AI Analyst | fit~- | https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Madrid/Process---AI-Analyst_R5052909 | outside US (Spain)
+- [SKIP] Manulife Financial | Senior Machine Learning Engineer | fit~- | https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Senior-Machine-Learning-Engineer_JR26111143 | asks 5+ years
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden

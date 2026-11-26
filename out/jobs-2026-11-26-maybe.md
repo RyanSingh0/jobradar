@@ -5,8 +5,10 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
 | 1 | PIMCO | Quant Research Analyst | 73 | none found (check myvisajobs) | Nov 25 (board gives the date only) |
-| 2 | State Street | Structured Trust and Analytics, Officer | 57 | 87 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
-| 3 | TikTok | Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 2 | Susquehanna International Group (SIG) | Quantitative Sports Researcher – Graduate Hire | 65 | none found (check myvisajobs) | new since the previous sweep (board shows no date) |
+| 3 | Manulife Financial | Data Scientist | 60 | none found (check myvisajobs) | Nov 25 (board gives the date only) |
+| 4 | State Street | Structured Trust and Analytics, Officer | 57 | 87 in data/analytics/finance occupations | Nov 25 (board gives the date only) |
+| 5 | TikTok | Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start | 45 | 381 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
 
 ---
 
@@ -25,7 +27,37 @@ PIMCO is a global leader in active fixed income with deep expertise across publi
 
 ---
 
-## 2. [MAYBE] State Street | Structured Trust and Analytics, Officer
+## 2. [MAYBE] Susquehanna International Group (SIG) | Quantitative Sports Researcher – Graduate Hire
+- Link: https://careers-sig.icims.com/jobs/4454/quantitative-sports-researcher-%e2%80%93-graduate-hire/job
+- Location: Bala Cynwyd (Greater Philadelphia), PA, US
+- Posted: new since the previous sweep (board shows no date)
+- Scanner fit: ~65 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, forecast, machine learning, statistic, quantitative, research, trading | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Overview At Susquehanna, the Sports Analytics team builds statistical forecasting models that help provide liquidity for the sports betting industry. These models are vital to creating new trading strategies and informing decision-makers about the distribution of game events. By joining our Sports Analytics team as a Quantitative Researcher, you will be part of a group that is passionate about mathematics, gaming, and technology. What you'll do: Immerse yourself in sports analytics research Empirically test ideas using real industry data Write programs to implement models and simulate outcomes Discuss and collaborate with fellow researchers, traders, and technologists What we’re looking for Graduating Master's or PhD students in a quantitatively-driven field Solid, analytical problem-solving skills and excellent logical reasoning Exceptional communication skills, both in the ability to understand others and to make yourself clearly understood Strong, practical computer programing skills Demonstrated experience working on sports analytics projects Understanding of US Sports (NFL, NBA, MLB, NHL) and world sports (soccer, tennis, golf, cricket) Intermittent international travel may be required About Susquehanna Susquehanna is a global quantitative trading firm powered by scientific rigor, curiosity, and innovation. Our culture is intellectually driven and highly collaborative, bringing together researchers, engineers, and traders to design and deploy impactful strategies in our systematic trading environment. To meet the unique challenges of global markets, Susquehanna applies machine learning and advanced quantitative research to vast datasets in order to uncover actionable insights and build effective strategies. By uniting deep market expertise with cutting-edge technology, we excel in solving complex problems and pushing boundaries together. If you're a recruiting agency and want to partner with us, please reach out to recruiting@sig.com. Any resume or referral submitted in the absence of a signed agreement will not be eligible for an agency fee. #LI-CR1 #LI-Onsite
+
+---
+
+## 3. [MAYBE] Manulife Financial | Data Scientist
+- Link: https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Data-Scientist_JR26111144
+- Location: 2 Locations ; Boston, Massachusetts ; CAN, Ontario, Toronto, 200 Bloor Street East (United States of America)
+- Posted: Nov 25 (board gives the date only)
+- Scanner fit: ~60 | Min YOE: 2 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, excel, gcp, llm, machine learning, nlp, python, regression, spark, sql, statistic, ai agent, classification, docker | Lacks: azure, databricks, hadoop, java, scala  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Data Scientist, AI & Generative AI The Opportunity Want to build AI solutions that solve real business problems and make financial services simpler for millions of customers? Join John Hancock’s AI team and help transform how we use data and artificial intelligence across our U.S. Insurance business. From making life insurance easier to buy to improving sales, marketing, in-force operations, and claims, our team is applying machine learning, Generative AI, and agentic AI to create smarter and more seamless experiences. You’ll also become part of a 260+ member data science community across John Hancock and Manulife , giving you the opportunity to collaborate, learn, and exchange ideas with AI and data experts around the world. We’re looking for a Data Scientist who enjoys experimenting with emerging technologies and turning great ideas into scalable, production-ready solutions. You’ll work across the AI lifecycle, from data exploration and experimentation to model development, deployment, monitoring, and continuous improvement. If you’re excited about machine learning, LLMs, RAG, AI agents, and cloud-based AI , this is an opportunity to build technology with meaningful business impact. What You’ll Do Build AI solutions from idea to production: Research, develop, test, and deploy machine learning, Generative AI, and analytical models that solve real business challenges. Develop agentic AI systems: Build AI agents and intelligent workflows using retrieval, orchestration, structured tool use, event-driven integration, and human-in-the-loop approaches. Experiment and innovate: Develop proof of concepts and pilots, evaluate new approaches, and help transition successful solutions into production. Turn data into action: Partner with stakeholders to understand business challenges, uncover insights, define meaningful KPIs, and translate findings into actionable recommendations. Productionize AI: Collaborate with engineering and platform teams to build scalable, reliable, and secure AI solutions. Improve performance: Monitor models and AI applications, analyze results, troubleshoot issues, and continuously improve quality and effectiveness. Partner across teams: Explain complex data science and AI concepts in a clear, practical way to both technical and non-technical audiences. Stay at the forefront of AI: Explore emerging developments across cloud AI, LLMs, agentic systems, machine learning platforms, and data science tools. What You Bring 2+ years of industry experience developing and deploying machine learning, AI, or Generative AI solutions, with a strong foundation in data science and AI. Master’s degree or PhD in a quantitative discipline such as Data Science, Computer Science, Statistics, Applied Mathematics, Engineering, or Physics . Strong programming skills in Python and SQL , with experience using Java . Hands-on experience across the AI and data science lifecycle, including exploratory data analysis, data cleansing, feature engineering, experimentation, model development, deployment, and monitoring . Understanding of LLMs, embeddings, vectorization, prompt engineering, Retrieval-Augmented Generation (RAG), and agentic AI techniques . Experience building AI-enabled applications, agents, or automated workflows using retrieval, tool calling, orchestration, and structured outputs . Experience with Databricks , data modeling, and building data products. Exposure to Azure AI services, Azure AI Search, Azure Kubernetes Service (AKS), GitHub Actions, and enterprise observability tools . Experience with distributed computing technologies such as Spark or Hadoop and cloud environments including Azure, AWS, or GCP . Familiarity with containerization and orchestration technologies such as Docker and Kubernetes . Strong analytical and problem-solving skills, including root-cause analysis and identifying opportunities to improve existing solutions. Excellent communication skills with the ability to make complex AI and data concepts understandable to a wide range of audiences. What Will Help You Stand Out We’d be especially interested in experience with: Agent orchestration frameworks or open integration standards such as LangGraph, Microsoft Agent Framework, Model Context Protocol (MCP), or Agent2Agent (A2A) . LLMOps or AgentOps , including model and prompt versioning, evaluation datasets, automated quality gates, tracing, telemetry, regression management, and rollout strategies. Responsible AI and AI governance , particularly around privacy, security, compliance, enterprise risk, and model risk. Developing AI or intelligent automation solutions for financial services, insurance, financial operations, or other regulated environments . Measuring AI solutions through metrics such as adoption, operational efficiency, quality, risk reduction, developer productivity, or customer outcomes. Developing NLP solutions , including document classification, entity extraction, and entity relationship extraction. Designing or building knowledge graphs . Why Join Us? John Hancock and Manulife are on a transformational journey to remove complexity from financial services and make decisions easier for our customers. Here, you’ll have the opportunity to work with emerging AI technologies while solving practical, meaningful business problems. You’ll collaborate with experienced data scientists, engineers, technology teams, and business partners while continuing to develop your own technical expertise. This isn’t just an opportunity to experiment with AI. It’s an opportunity to build it, deploy it, and see the impact it creates. The role being advertised is an existing vacancy. About Manulife and John Hancock Manulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. To learn more about us, visit https://www.manulife.com/en/about/our-story.html . Manulife
+
+---
+
+## 4. [MAYBE] State Street | Structured Trust and Analytics, Officer
 - Link: https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Structured-Trust-and-Analytics--Officer_R-796525-1
 - Location: Quincy, Massachusetts ; Quincy, Massachusetts (United States of America)
 - Posted: Nov 25 (board gives the date only)
@@ -40,7 +72,7 @@ Who we are looking for This is a business analyst level role within the Structur
 
 ---
 
-## 3. [MAYBE] TikTok | Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start
+## 5. [MAYBE] TikTok | Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start
 - Link: https://lifeattiktok.com/search/7665991852209932597
 - Location: San Jose, California, United States of America
 - Posted: new since the previous sweep (board shows no date)
