@@ -1,27 +1,26 @@
-# Sweep 2026-11-27 11:07 ET: 4595 boards, 20 new matches, 0 kept, 161 board errors, 169s
+# Sweep 2026-11-27 12:07 ET: 4595 boards, 20 new matches, 1 kept, 161 board errors, 169s
 
 Alert inbox: no new relevant alert postings
-Internships this sweep: 1 new, 0 student-only (SKIP), 0 kept as HOT or MAYBE.
-- [LOW] Citi | Senior AI Engineer, Banking Technology | fit~64 | https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Senior-AI-Engineer--Banking-Technology_26997248 | senior title below the bar
-- [LOW] Provectus | Growth Marketer, AI-Native | fit~54 | https://jobs.lever.co/provectus/74ecef43-3ef6-4c8b-8f98-de805a467161
-- [LOW] Frost | AI Automation Engineer II | fit~53 | https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/AI-Automation-Engineer-II_R261916 | senior title below the bar
-- [LOW] Brown Brothers Harriman | Senior Risk Analyst - Inserv | fit~40 | https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Senior-Risk-Analyst---Inserv_73614 | senior title below the bar
-- [LOW] University of Miami | Data Scientist (HYBRID) | fit~33 | https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Scientist--HYBRID-_R100103423
-- [LOW] S&T Bank | Accounting Analyst I | fit~0 | https://stbancorp.wd5.myworkdayjobs.com/ST_Bank_Careers/job/Main-Office/Accounting-Analyst-II_R-1717
-- [SKIP] Keystone | Data Engineer | fit~- | https://www.keystone.com/careers?gh_jid=8420769 | asks 6+ years
-- [SKIP] Apogee Engineering | Functional Analyst II | fit~- | https://careers-apogeeusa.icims.com/jobs/2478/functional-analyst-ii/job | eligibility: "Qualifications Minimum Experience: Citizenship: Must be a US citizen Clearance: Must have a minimum of TS with ability to obtain SCI eligibility Education: Must possess a BA or BS degree in one of the following fields: E"
-- [SKIP] Peraton | SOC Senior Analyst | fit~- | https://careers-peraton.icims.com/jobs/178341/soc-senior-analyst/job | eligibility: "...and a drug screening before start Active DOE L or Secret clearance at start, at the level design..."
-- [SKIP] Accenture | Fraud Investigations Senior Analyst | fit~- | https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Fraud-Investigations-Senior-Analyst_R00375177 | outside US (Argentina)
-- [SKIP] Barclays | Senior Speech Analyst | fit~- | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Senior-Speech-Analyst_JR-0000119421 | outside US (United Kingdom)
-- [SKIP] Booz Allen | Organizational Transformation and Change Specialist, Mid | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Organizational-Transformation-and-Change-Specialist--Mid_R0254331 | eligibility: "...alytical techniques and software tools Ability to obtain a Secret clearance Bachelor’s degree Nice If You..."
-- [SKIP] Desjardins Group | Post grant analyst, Business | fit~- | https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Qubec/Analyste---post-octroi-de-financement_R2614424-2 | outside US (Canada)
-- [SKIP] Leonardo | ELI AI Specialist | fit~- | https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/IT---Varese---Cascina-Costa/ELI-AI-Specialist_R0030095 | asks 4+ years
-- [SKIP] LexisNexis Risk Solutions | Senior Business Analyst II | fit~- | https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Farringdon/Senior-Business-Analyst-II_R121709-1 | outside US (United Kingdom)
-- [SKIP] Pierre Fabre | Directeur(rice) Transformation Finance - CDI - H/F | fit~- | https://pierrefabre.wd3.myworkdayjobs.com/External_Career_Site/job/Haute-Garonne-31/Directeur-Transformation-Finance_JR114738 | outside US (France)
-- [SKIP] Procter & Gamble (P&G) | Data Engineer Internship (m/f/x) | fit~- | https://pg.wd5.myworkdayjobs.com/1000/job/JIJONA-PLANT/Data-Engineer-Internship--m-f-x-_R000156073 | outside US (Spain)
-- [SKIP] RELX / LexisNexis | Senior Business Analyst II | fit~- | https://relx.wd3.myworkdayjobs.com/relx/job/Farringdon/Senior-Business-Analyst-II_R121709-2 | outside US (United Kingdom)
-- [SKIP] Roche | Machine Learning Scientist/Senior Scientist, Structure-based Drug Design, AI for Drug Discovery | fit~- | https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Machine-Learning-Scientist-Senior-Scientist--Structure-based-Drug-Design--AI-for-Drug-Discovery_202611-130553-1 | outside US (Switzerland)
-- [SKIP] The Home Depot | Business Analyst | fit~- | https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/VAUGHAN-DC---7275/Business-Analyst_Req200156 | outside US (Canada)
+- [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst - Alternatives | fit~50 | https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Financial-Reporting-Analyst---Alternatives_73514
+- [LOW] U.S. Bank | Senior Financial Analyst | fit~62 | https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Senior-Financial-Analyst_2026-0028758 | senior title below the bar
+- [LOW] U.S. Bank | Operational Shared Services Wire Analyst | fit~57 | https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Tempe-AZ/Operational-Shared-Services-Wire-Analyst_2026-0036948
+- [LOW] Fifth Third Bank | Credit Analyst | fit~54 | https://fifththird.wd5.myworkdayjobs.com/53careers/job/Boston-MA/Senior-Credit-Analyst_R73218
+- [LOW] Invesco | Senior Software Engineer - Agentic AI and Frontend Applications | fit~52 | https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Senior-Software-Engineer---Agentic-AI-and-Frontend-Applications_R-14732 | senior title below the bar
+- [LOW] Cortica | Remote Licensed Behavior Analyst (BCBA) | fit~45 | https://job-boards.greenhouse.io/allcareers/jobs/8964148002
+- [LOW] JP Morgan Chase | Security Engineer II - Endpoint Security Platforms (Employee Compute / GitOps Automation) | fit~43 | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809992 | senior title below the bar
+- [LOW] Booz Allen | Data Governance and Standards Specialist | fit~40 | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Governance-and-Standards-Specialist_R0254333-1
+- [LOW] McCoy’s | MIS Systems Analyst | fit~40 | https://mccoys.wd1.myworkdayjobs.com/mccoys_external_careers/job/900-San-Marcos-TX/MIS-Systems-Analyst_R-112516
+- [LOW] St. Luke's University Health Network | Epic Analyst/Builder | fit~33 | https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Allentown-PA---1110-American-Parkway/Epic-Analyst-Buider_R146976
+- [LOW] Citi | Banking - Investment Banking, Full Time Analyst, Houston - US 2027 | fit~0 | https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Banking---Investment-Banking--Full-Time-Analyst--Houston---US-2027_26978694
+- [SKIP] Clera | Senior Data Engineer | fit~- | https://jobs.ashbyhq.com/Clera/b05d842e-f650-4775-9ef4-d3d09d8963ec | eligibility: "Visa sponsorship is not available."
+- [SKIP] Clera | Founding AI / Backend Engineer | fit~- | https://jobs.ashbyhq.com/Clera/07a04ecf-0fb6-4423-9fa9-95de3b3eea6f | eligibility: "Visa sponsorship policy was not provided."
+- [SKIP] JP Morgan Chase | Sr. Product Associate - Single Intake Card Marketing Transformation | fit~- | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807881 | eligibility: "We are not able to provide immigration sponsorship or take over sponsorship of an employment visa at this time."
+- [SKIP] Barclays | Financial Crime Business Analyst | fit~- | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Financial-Crime-Business-Analyst_JR-0000121973 | outside US (United Kingdom)
+- [SKIP] Booz Allen | Data Engineer, Senior | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Data-Engineer--Senior_R0254330 | eligibility: "TS/SCI clearance is required."
+- [SKIP] Booz Allen | Data Scientist | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Data-Scientist_R0254319 | eligibility: "Secret clearance is required."
+- [SKIP] PIMCO | Data Associate, Transaction Management | fit~- | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Data-Analyst--Transaction-Management_R106416 | asks 5+ years
+- [SKIP] University of Ottawa | Senior Developer, Analytics and Reporting | fit~- | https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/Senior-Developer--Analytics-and-Reporting_JR41481 | eligibility: "While all qualified persons are invited to apply, we welcome applications from qualified Indigenous persons, racialized persons, persons with disabilities, women and LGBTQIA2S+ persons."
+- [SKIP] University of Ottawa | Research Assistant | fit~- | https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/Research-Assistant_JR41484 | eligibility: "While all qualified persons are invited to apply, we welcome applications from qualified Indigenous persons, racialized persons, persons with disabilities, women and LGBTQIA2S+ persons."
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
