@@ -1,9 +1,9 @@
-# Sweep 2026-11-27 16:55 ET: 4595 boards, 3 new matches, 0 kept, 161 board errors, 139s
+# Sweep 2026-11-27 17:07 ET: 4595 boards, 2 new matches, 0 kept, 161 board errors, 139s
 
 Alert inbox: no new relevant alert postings
-- [SKIP] GM financial | Sr Treasury System Support Analyst - Global Finance | fit~- | https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261038 | eligibility: "Please note: We are unable to provide any type of sponsorship for this position at this time."
-- [SKIP] Booz Allen | All-Source Intelligence Analyst | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/All-Source-Intelligence-Analyst_R0254382 | eligibility: "TS/SCI clearance is required."
-- [SKIP] Amazon | Sr. Communication Systems Research Scientist | fit~- | https://www.amazon.jobs/en/jobs/10616037/sr-communication-systems-research-scientist | eligibility: "...table for the algorithms, models and conclusions. Export Control Requirement: Due to applicabl..."
+Internships this sweep: 1 new, 1 student-only (SKIP), 0 kept as HOT or MAYBE.
+- [LOW] Applied Information Sciences | Cloud Engineer II Technical Analyst | fit~40 | https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Cloud-Engineer-II-Technical-Analyst_JR2026001476 | senior title below the bar
+- [SKIP] Manulife Financial | Operations Analyst Intern | fit~- | https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Boston-Massachusetts/Operations-Analyst-Intern_JR26091464 | student-only internship: "...ent and peers. Required Qualifications: Pursuing an undergraduate degree in Business, Finance, Accounting, Economics, or rela..."
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
