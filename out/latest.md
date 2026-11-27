@@ -1,8 +1,15 @@
-# Sweep 2026-11-27 15:07 ET: 4595 boards, 2 new matches, 0 kept, 161 board errors, 165s
+# Sweep 2026-11-27 16:07 ET: 4595 boards, 9 new matches, 0 kept, 161 board errors, 142s
 
 Alert inbox: no new relevant alert postings
-- [LOW] TikTok | AI Data Strategist - TikTok | fit~57 | https://lifeattiktok.com/search/7712240468222200069
-- [SKIP] Fiserv | Financial Billing Analyst | fit~- | https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Financial-Billing-Analyst_R-10406952-1 | eligibility: "Individuals with temporary visas including, but not limited to, F-1 (OPT, CPT, STEM), H-1B, H-2, or TN, or any candidate requiring sponsorship, now or in the future, will not be considered for this role."
+- [LOW] Newmark Group | Analyst, Consulting - Location Strategy | fit~59 | https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250096
+- [LOW] CVS Health | Continuous Improvement and Data Analytics, Sr. Analyst | fit~50 | https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Continuous-Improvement-and-Data-Analytics--Sr-Analyst_R1063623 | senior title below the bar
+- [LOW] U.S. Bank | Corporate Trust Review Analyst | fit~50 | https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Boston-MA/Corporate-Trust-Review-Analyst_2026-0036034
+- [LOW] Dexterra Group | Bi-lingual Facilities Administrative Coordinator  | fit~33 | https://jobs.smartrecruiters.com/Dexterra/744000164091445
+- [SKIP] Nakupuna Companies | AI Integration Engineer | fit~- | https://careers-nakupuna.icims.com/jobs/7600/ai-integration-engineer/job | eligibility: "...comparable certification. Clearance Requirements: Active Top Secret clearance preferred. Candidates with an..."
+- [SKIP] Peraton | Data Engineer (Senior) | fit~- | https://careers-peraton.icims.com/jobs/176320/data-engineer-%28senior%29/job | eligibility: "Citizenship required DoD TS with ability to obtain/maintain SCI clearance Preferred Qualifications: Cloud platform certifications preferred 5-8 years of specific experience Bachelor's degree in Computer Science, Data Eng"
+- [SKIP] Oracle | Senior Software Engineer, AI Infrastructure | fit~- | https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345398 | asks 4+ years
+- [SKIP] Booz Allen | All-Source Intelligence Analyst | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/All-Source-Intelligence-Analyst_R0254103-1 | eligibility: "TS/SCI clearance is required."
+- [SKIP] Booz Allen | AI and ML Engineer, Mid | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/AI-and-ML-Engineer--Mid_R0254356 | eligibility: "TS/SCI clearance with polygraph is required."
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
