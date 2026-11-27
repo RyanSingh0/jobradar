@@ -1,26 +1,29 @@
-# Sweep 2026-11-27 12:07 ET: 4595 boards, 20 new matches, 1 kept, 161 board errors, 169s
+# Sweep 2026-11-27 13:07 ET: 4595 boards, 23 new matches, 1 kept, 161 board errors, 164s
 
 Alert inbox: no new relevant alert postings
-- [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst - Alternatives | fit~50 | https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Financial-Reporting-Analyst---Alternatives_73514
-- [LOW] U.S. Bank | Senior Financial Analyst | fit~62 | https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Senior-Financial-Analyst_2026-0028758 | senior title below the bar
-- [LOW] U.S. Bank | Operational Shared Services Wire Analyst | fit~57 | https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Tempe-AZ/Operational-Shared-Services-Wire-Analyst_2026-0036948
-- [LOW] Fifth Third Bank | Credit Analyst | fit~54 | https://fifththird.wd5.myworkdayjobs.com/53careers/job/Boston-MA/Senior-Credit-Analyst_R73218
-- [LOW] Invesco | Senior Software Engineer - Agentic AI and Frontend Applications | fit~52 | https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Senior-Software-Engineer---Agentic-AI-and-Frontend-Applications_R-14732 | senior title below the bar
-- [LOW] Cortica | Remote Licensed Behavior Analyst (BCBA) | fit~45 | https://job-boards.greenhouse.io/allcareers/jobs/8964148002
-- [LOW] JP Morgan Chase | Security Engineer II - Endpoint Security Platforms (Employee Compute / GitOps Automation) | fit~43 | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809992 | senior title below the bar
-- [LOW] Booz Allen | Data Governance and Standards Specialist | fit~40 | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Governance-and-Standards-Specialist_R0254333-1
-- [LOW] McCoy’s | MIS Systems Analyst | fit~40 | https://mccoys.wd1.myworkdayjobs.com/mccoys_external_careers/job/900-San-Marcos-TX/MIS-Systems-Analyst_R-112516
-- [LOW] St. Luke's University Health Network | Epic Analyst/Builder | fit~33 | https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Allentown-PA---1110-American-Parkway/Epic-Analyst-Buider_R146976
-- [LOW] Citi | Banking - Investment Banking, Full Time Analyst, Houston - US 2027 | fit~0 | https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Banking---Investment-Banking--Full-Time-Analyst--Houston---US-2027_26978694
-- [SKIP] Clera | Senior Data Engineer | fit~- | https://jobs.ashbyhq.com/Clera/b05d842e-f650-4775-9ef4-d3d09d8963ec | eligibility: "Visa sponsorship is not available."
-- [SKIP] Clera | Founding AI / Backend Engineer | fit~- | https://jobs.ashbyhq.com/Clera/07a04ecf-0fb6-4423-9fa9-95de3b3eea6f | eligibility: "Visa sponsorship policy was not provided."
-- [SKIP] JP Morgan Chase | Sr. Product Associate - Single Intake Card Marketing Transformation | fit~- | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807881 | eligibility: "We are not able to provide immigration sponsorship or take over sponsorship of an employment visa at this time."
-- [SKIP] Barclays | Financial Crime Business Analyst | fit~- | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Financial-Crime-Business-Analyst_JR-0000121973 | outside US (United Kingdom)
-- [SKIP] Booz Allen | Data Engineer, Senior | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Data-Engineer--Senior_R0254330 | eligibility: "TS/SCI clearance is required."
-- [SKIP] Booz Allen | Data Scientist | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Data-Scientist_R0254319 | eligibility: "Secret clearance is required."
-- [SKIP] PIMCO | Data Associate, Transaction Management | fit~- | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Data-Analyst--Transaction-Management_R106416 | asks 5+ years
-- [SKIP] University of Ottawa | Senior Developer, Analytics and Reporting | fit~- | https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/Senior-Developer--Analytics-and-Reporting_JR41481 | eligibility: "While all qualified persons are invited to apply, we welcome applications from qualified Indigenous persons, racialized persons, persons with disabilities, women and LGBTQIA2S+ persons."
-- [SKIP] University of Ottawa | Research Assistant | fit~- | https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/Research-Assistant_JR41484 | eligibility: "While all qualified persons are invited to apply, we welcome applications from qualified Indigenous persons, racialized persons, persons with disabilities, women and LGBTQIA2S+ persons."
+- [MAYBE] Kpler | Data Engineer (Natural Gas) | fit~55 | https://jobs.lever.co/kpler/e61ceaf6-c5b2-4eff-a38e-93922cc5d373 | no H-1B filings found for this employer
+- [LOW] PIMCO | Position Management Data Associate | fit~71 | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Position-Management-Data-Associate_R106414
+- [LOW] Clera | Senior Associate, Growth AI | fit~57 | https://jobs.ashbyhq.com/Clera/19d75c78-92eb-4acb-9ec8-6e6ade3a60f8 | senior title below the bar
+- [LOW] Jerry | Legal Analyst, Operations & Automation (Remote) | fit~45 | https://jobs.ashbyhq.com/Jerry.ai/f28b7519-c3ce-4591-be01-522fa2c51afc
+- [LOW] Jerry | Legal Operations Associate, Compliance & Automation (Remote) | fit~45 | https://jobs.ashbyhq.com/Jerry.ai/8cdfcc2e-69cf-4771-9b7a-0c26359f79f8
+- [LOW] Cortica | Board Certified Behavior Analyst | fit~45 | https://job-boards.greenhouse.io/allcareers/jobs/8964245002
+- [LOW] Cortica | Board Certified Behavior Analyst (Early Intervention) | fit~45 | https://job-boards.greenhouse.io/allcareers/jobs/8964240002
+- [LOW] Cortica | Board Certified Behavior Analyst (Hybrid) | fit~45 | https://job-boards.greenhouse.io/allcareers/jobs/8964235002
+- [LOW] Cortica | Board Certified Behavior Analyst (Hybrid Remote) | fit~45 | https://job-boards.greenhouse.io/allcareers/jobs/8964237002
+- [LOW] bet365 | Senior Data Engineer | fit~35 | https://jobs.smartrecruiters.com/Bet3651/744000164078308 | senior title below the bar
+- [LOW] The Home Depot | Sr. Analyst - Rental | fit~33 | https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Analyst---Rental_Req200124 | senior title below the bar
+- [LOW] Cortica | Board Certified Behavior Analyst (BCBA) | fit~25 | https://job-boards.greenhouse.io/allcareers/jobs/8964296002
+- [LOW] Cortica | Board Certified Behavior Analyst (Remote Hybrid) | fit~25 | https://job-boards.greenhouse.io/allcareers/jobs/8964234002
+- [LOW] Cortica | Board Certified Behavior Analyst with $10,000 first year bonus! | fit~25 | https://job-boards.greenhouse.io/allcareers/jobs/8964231002
+- [LOW] Cortica | Board Certified Behavior Analyst, BCBA (Part-time) | fit~0 | https://job-boards.greenhouse.io/allcareers/jobs/8964226002
+- [SKIP] Ascensus | Investment Research Analyst | fit~- | https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Lexington-KY/Investment-Research-Analyst_R0022334 | asks 4+ years
+- [SKIP] Booz Allen | F-35 Sustainment Engineering Analyst | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Worth-TX/F-35-Sustainment-Engineering-Analyst_R0254348 | eligibility: "Secret clearance is required."
+- [SKIP] PIMCO | Associate / Senior Associate, Operations Transformation | fit~- | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Associate---Senior-Associate--Operations-Transformation_R106755 | asks 5+ years
+- [SKIP] PIMCO | Cash Desk Analytics & Automation Specialist | fit~- | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Cash-Desk-Transformation-Specialist_R106419 | asks 6+ years
+- [SKIP] Royal Bank of Canada | Associate, RBC Indigenous Development Program | fit~- | https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Associate--RBC-Indigenous-Development-Program_R-0000193726-1 | outside US (Canada)
+- [SKIP] Thomson Reuters | Training Analyst | fit~- | https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Brazil-So-Paulo-So-Paulo/Training-Analyst_JREQ204841 | outside US (Brazil)
+- [SKIP] Wells Fargo | Fixed Income Strategy Program Analyst | fit~- | https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Fixed-Income-Strategy-Program-Analyst_R-588901 | eligibility: "Career development opportunities will be available to learn additional skills Ability to take initiative, manage competing priorities, and work effectively in a fast-paced, collaborative environment Strong organizational"
+- [SKIP] Amazon | Sr. Data Engineer, WW Pricing Data and Insights | fit~- | https://www.amazon.jobs/en/jobs/10615974/sr-data-engineer-ww-pricing-data-and-insights | asks 5+ years
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden

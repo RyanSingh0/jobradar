@@ -4,13 +4,54 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | Brown Brothers Harriman | Financial Reporting Analyst - Alternatives | 50 | 3 in data/analytics/finance occupations | Nov 26 (board gives the date only) |
-| 2 | Brown Brothers Harriman | Financial Reporting Analyst - Alternatives | 50 | 3 in data/analytics/finance occupations | Nov 27 (board gives the date only) |
-| 3 | Charles Schwab | Data Engineer | 46 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 1 | Kpler | Data Engineer (Natural Gas) | 55 | none found (check myvisajobs) | Nov 27 12:52 ET |
+| 2 | Brown Brothers Harriman | Financial Reporting Analyst - Alternatives | 50 | 3 in data/analytics/finance occupations | Nov 26 (board gives the date only) |
+| 3 | Brown Brothers Harriman | Financial Reporting Analyst - Alternatives | 50 | 3 in data/analytics/finance occupations | Nov 27 (board gives the date only) |
+| 4 | Charles Schwab | Data Engineer | 46 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
 
 ---
 
-## 1. [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst - Alternatives
+## 1. [MAYBE] Kpler | Data Engineer (Natural Gas)
+- Link: https://jobs.lever.co/kpler/e61ceaf6-c5b2-4eff-a38e-93922cc5d373
+- Location: United States United States US
+- Posted: Nov 27 12:52 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: aws, dashboard, postgres, python, sql, docker, git, kubernetes, pipeline, research | Lacks: airflow  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. 
+ 
+Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 850 experts from 69 countries works tirelessly to transform intricate data into actionable strategies, ensuring our clients stay ahead in a dynamic market landscape. Join us to leverage cutting-edge innovation for impactful results and experience unparalleled support on your journey to success.
+ 
+
+
+About the Role
+As a Data Engineer on our Natural Gas team, you will be dedicated to building and scaling a brand-new intelligence product covering the US natural gas markets. Operating within our backend engineering squad, you will expand our data acquisition capabilities, optimize high-throughput data distribution, and support the development of tailored analytics. Your work will directly equip global energy traders and market analysts with reliable, real-time insights into North American gas flows.
+
+ Scale and structure data acquisition: Codify, structure, expand, and maintain robust data scrapers and ingestion pipelines to capture US natural gas market datasets. Enrich product capabilities: Collaborate across the team to design and ship new data features and tailored analytics for our expanding natural gas offering. Optimize API performance and distribution: Ensure high availability, speed, and reliability across our RESTful APIs to distribute datasets seamlessly to end users. Build observability and alerting tools: Develop and enhance monitoring dashboards and proactive alerting systems to safeguard data integrity and pipeline health. Shape sustainable product roadmaps: Partner closely with Product Managers, Engineering Managers, Analysts, and DevOps teams to build ambitious yet sustainable technical plans . What you'll need (Must-haves) Data engineering foundation: Circa 3–5 years of experience as a data-focused Software Engineer building and maintaining production data pipelines. Strong Python & API expertise: Significant experience working with Python (FastAPI is a plus) alongside proficiency in building and consuming RESTful APIs. Database design & time-series data: Hands-on experience with PostgreSQL or similar data stores, encompassing database design, data normalization, and handling time-series or event data. Performance optimization: Solid understanding of API performance optimization and caching strategies. Modern engineering workflows & communication: Comfortable working with Git, peer code reviews, and Agile methodologies, backed by a strong command of written and spoken English and a BSc/MSc in Computer Science, Computer Engineering, or equivalent experience . Nice-to-haves Cloud & orchestration tooling: Experience with AWS (or another cloud provider) using Infrastructure as Code (Terraform) and production orchestration tools like Apache Airflow. Containerization & architecture: Practical experience with Docker and Kubernetes, as well as familiarity with hexagonal and medallion architecture patterns. Observability & NoSQL databases: Experience utilizing monitoring solutions (e.g., Datadog, Grafana) and working with NoSQL data stores . We are a dynamic company dedicated to nurturing connections and innovating solutions to tackle market challenges head-on. If you thrive on customer satisfaction and turning ideas into reality, then you’ve found your ideal destination. Are you ready to embark on this exciting journey with us?
+ 
+We make things happen
+We act decisively and with purpose, going the extra mile.
+ 
+We build together
+We foster relationships and develop creative solutions to address market challenges.
+ 
+We are here to help
+We are accessible and supportive to colleagues and clients with a friendly approach.
+ 
+ 
+Our People Pledge
+ 
+Don’t meet every single requirement? Research shows that women and people of color are less likely than others to apply if they feel like they don’t match 100% of the job requirements. Don’t let the confidence gap stand in your way, we’d love to hear from you! We understand that experience comes in many different forms and are dedicated to adding new perspectives to the team.
+ 
+Kpler is committed to providing a fair, inclusive and diverse work-environment. We believe that different perspectives lead to better ideas, and better ideas allow us to better understand the needs and interests of our diverse, global community. We welcome people of different backgrounds, experiences, abilities and perspectives and are an
+
+---
+
+## 2. [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst - Alternatives
 - Link: https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Financial-Reporting-Analyst---Alternatives_73064
 - Location: Boston ; Boston (United States of America)
 - Posted: Nov 26 (board gives the date only)
@@ -25,7 +66,7 @@ At BBH, Partnership is more than a form of ownership—it’s our approach to bu
 
 ---
 
-## 2. [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst - Alternatives
+## 3. [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst - Alternatives
 - Link: https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Financial-Reporting-Analyst---Alternatives_73514
 - Location: Boston ; Boston (United States of America)
 - Posted: Nov 27 (board gives the date only)
@@ -40,7 +81,7 @@ At BBH, Partnership is more than a form of ownership—it’s our approach to bu
 
 ---
 
-## 3. [MAYBE] Charles Schwab | Data Engineer
+## 4. [MAYBE] Charles Schwab | Data Engineer
 - Link: https://career-schwab.icims.com/jobs/132097/data-engineer/job
 - Location: Austin, TX, US ; Southlake, TX, US
 - Posted: new since the previous sweep (board shows no date)
