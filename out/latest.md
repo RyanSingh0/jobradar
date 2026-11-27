@@ -1,22 +1,14 @@
-# Sweep 2026-11-27 08:07 ET: 4595 boards, 15 new matches, 0 kept, 161 board errors, 158s
+# Sweep 2026-11-27 09:07 ET: 4595 boards, 8 new matches, 0 kept, 161 board errors, 137s
 
-Alert inbox: no new relevant alert postings
-Internships this sweep: 1 new, 0 student-only (SKIP), 0 kept as HOT or MAYBE.
-- [SKIP] WuXi AppTec | Research Scientist (m/f/d) | fit~- | https://careers-wuxiapptec.icims.com/jobs/14640/research-scientist-%28m-f-d%29/job | outside US (DE)
-- [SKIP] Air Liquide | STAGE - DATA ANALYST H/F | fit~- | https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Saint-Priest---Management---ALFI-EL/STAGE---DATA-ANALYST-H-F_R10104882 | outside US (France)
-- [SKIP] Airbus | AHE Transformation Plan [Project Management Office] | fit~- | https://ag.wd3.myworkdayjobs.com/Airbus/job/Albacete/AHE-Transformation-Plan--Project-Management-Office-_JR10453603 | outside US (Spain)
-- [SKIP] Alexion | Senior Demand Forecaster – NPI   – Alexion Rare Disease  (2 years-Fixed Term) | fit~- | https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Ireland---Dublin-College-Park/Senior-Demand-Forecaster---NPI-----Alexion-Rare-Disease---2-years-Fixed-Term-_R-265196 | asks 8+ years
-- [SKIP] Baker Hughes | Intern - Modelling and Data Analytics - 2027 | fit~- | https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-HA-FARNBOROUGH-107-RANGE-ROAD/Intern---Modelling-and-Data-Analytics---2027_R173444 | eligibility: "Be able to legally work in the country that you are applying in, without company sponsorship or time restriction."
-- [SKIP] Barclays | Performance & Insight Analyst | fit~- | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Performance---Insight-Analyst_JR-0000137143-1 | outside US (United Kingdom)
-- [SKIP] Cigna Group | Customer Experience Analyst - Cigna Healthcare | fit~- | https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Customer-Experience-Analyst---Cigna-Healthcare_26014139 | outside US (India)
-- [SKIP] Citi | Applications Support Analyst | fit~- | https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Applications-Support-Analyst_261009553 | outside US (India)
-- [SKIP] Iron Mountain | Senior Marketing Analytics Analyst | fit~- | https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/COL--Bogot--Calle-18-69B-73/Senior-Marketing-Analytics-Analyst_J0110260 | asks 4+ years
-- [SKIP] Mastercard | Senior Analyst, Strategy, Global Markets | fit~- | https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Senior-Analyst--Strategy--Global-Markets_R-293170 | outside US (United Kingdom)
-- [SKIP] Richemont | Master Data & Automation Specialist (100%) | fit~- | https://richemont.wd3.myworkdayjobs.com/richemont/job/SCHAFFHAUSEN/Master-Data---Automation-Specialist--100--_JR136436 | asks 15+ years
-- [SKIP] Rockwell Automation | Sr. Analyst- Accounting and Controlling | fit~- | https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-Gurgaon/Sr-Analyst--Accounting-and-Controlling_R26-8138 | asks 6+ years
-- [SKIP] Rockwell Automation | BI Analyst | fit~- | https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Noida-India/Bi-Analyst_R26-5236 | asks 5+ years
-- [SKIP] S&P Global | Senior Security Automation & SOAR Engineer | fit~- | https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Senior-Security-Automation---SOAR-Engineer_330660-1 | asks 5+ years
-- [SKIP] TD Synnex | Software Engineer - AI Integration - Fixed Term Contract - 12 months | fit~- | https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Liverpool-United-Kingdom/Software-Engineer---AI-Integration---Fixed-Term-Contract---12-months_R57035 | outside US (United Kingdom)
+Coverage audit (7 days): JobRadar had 2/22 = 9% of relevant alert postings; median lead 37499 min vs the alert email. This sweep: 1 relevant alert postings, 1 not on JobRadar boards.
+- [SKIP] Clera | Full Stack Engineer, Reporting & Analytics | fit~- | https://jobs.ashbyhq.com/Clera/8089a3c4-8a81-4129-8667-d9ee30342b0c | asks 5+ years
+- [SKIP] Charles Schwab | Data Engineer | fit~- | https://career-schwab.icims.com/jobs/132096/data-engineer/job | asks 8+ years
+- [SKIP] Société Générale de Surveillance (SGS) | Sr. Research Analyst (Small Molecule) | fit~- | https://jobs.smartrecruiters.com/SGS/744000164041279 | asks 5+ years
+- [SKIP] CACI | Disaster Management and Humanitarian Assistance Analyst,  Journeyman | fit~- | https://caci.wd1.myworkdayjobs.com/external/job/Pearl-Harbor-HI-US/Disaster-Management-and-Humanitarian-Assistance-Analyst---Journeyman_335466 | eligibility: "Job Title: Disaster Management and Humanitarian Assistance Analyst, Journeyman Job Category: Engineering and Technical Support Time Type: Full time Minimum Clearance Required to Start: Secret Employee Type: Regular Perce"
+- [SKIP] Element Fleet Management | BSE Quality Assurance Analyst | fit~- | https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Baltimore/BSE-Quality-Assurance-Analyst_R106032 | eligibility: "Element Fleet Management does not provide sponsorship or support for obtaining or maintaining work authorization for this position."
+- [SKIP] Element Fleet Management | Billing Business Analyst | fit~- | https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Baltimore/Billing-Business-Analyst_R106031 | eligibility: "Element Fleet Management does not provide sponsorship or support for obtaining or maintaining work authorization for this position."
+- [SKIP] LexisNexis Risk Solutions | Customer Research & Analytics Specialist I | fit~- | https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/London-Wall/Customer-Research---Analytics-Specialist-I_R121167 | outside US (United Kingdom)
+- [SKIP] Roche | Business Analyst | fit~- | https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Business-Analyst_202611-129510-1 | outside US (United Kingdom)
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
