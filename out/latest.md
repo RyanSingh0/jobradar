@@ -1,11 +1,24 @@
-# Sweep 2026-11-26 23:57 ET: 4595 boards, 5 new matches, 0 kept, 160 board errors, 144s
+# Sweep 2026-11-27 04:36 ET: 4595 boards, 18 new matches, 0 kept, 161 board errors, 146s
 
-Coverage audit (7 days): JobRadar had 2/21 = 9% of relevant alert postings; median lead 37499 min vs the alert email. This sweep: 1 relevant alert postings, 1 not on JobRadar boards.
-- [LOW] Artefact North America | AI Strategist | fit~33 | https://job-boards.greenhouse.io/artefactnoram/jobs/8963745002
-- [SKIP] John Lewis Partnership | Waitrose Fulfilment Insight and Reporting Analyst | fit~- | https://jlp.wd3.myworkdayjobs.com/JLPjobs_careers/job/Bracknell/Waitrose-Fulfilment-Insight-and-Reporting-Analyst_R-217947 | outside US (United Kingdom)
-- [SKIP] Sun Life | Senior Security Platform Developer, Security Automation (Python, Splunk SOAR) | fit~- | https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Senior-Security-Platform-Developer--Security-Automation--Python--Splunk-SOAR-_JR00128881 | asks 5+ years
-- [SKIP] Suncor | Contract and Pricing Analyst | fit~- | https://suncor.wd1.myworkdayjobs.com/Suncor_External/job/Remote-Location/Contract-and-Pricing-Analyst_R0018448 | outside US (Canada)
-- [SKIP] Unity | Senior Security Operations and Incident Response Analyst | fit~- | https://unitytech.wd1.myworkdayjobs.com/Unity/job/New-York-NY-USA/Senior-Security-Operations-and-Incident-Response-Analyst_JOBREQ-2616710 | not a W-2 job he can take (fee, corp-to-corp or 1099): "...nter and agency resumes. Unity will not pay fees to any third-party agency or..."
+Coverage audit (7 days): JobRadar had 2/22 = 9% of relevant alert postings; median lead 37499 min vs the alert email. This sweep: 1 relevant alert postings, 1 not on JobRadar boards.
+- [LOW] JP Morgan Chase | Trade Lifecycle Analyst | fit~50 | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801925
+- [LOW] MassMutual Ascend | Workforce Management – Real Time Analyst | fit~50 | https://massmutual.wd1.myworkdayjobs.com/MMCareers/job/Springfield-MA/Workforce-Management---Real-Time-Analyst_R21808-1
+- [LOW] Regions Bank | SBA Portfolio Management Analyst | fit~45 | https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-North-Building-Birmingham-AL/SBA-Portfolio-Management-Analyst_R107689
+- [LOW] M&T Bank | Senior Business Analytics & Reporting Analyst | fit~40 | https://mtb.wd5.myworkdayjobs.com/MTB/job/Williamsville-NY/Senior-Business-Analytics---Reporting-Analyst_R92026-1 | senior title below the bar
+- [SKIP] Abbott | Finance Advanced Studies Early Careers Program | fit~- | https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Germany---Wiesbaden-Delkenheim/Finance-Advanced-Studies-Early-Careers-Program_31168626 | needs current enrollment: "...ways in Finance Required Qualifications Enrolled in a bachelor’s or master's program in Germany or Bel..."
+- [SKIP] Accenture | AI Native Engineer | fit~- | https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Vilnius/AI-Native-Engineer_R00374588 | outside US (Lithuania)
+- [SKIP] Accenture | Senior AI Full Stack Developer (Python & React) | fit~- | https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cluj-Napoca/Full-Stack-Developer--Python-React-_R00295620 | outside US (Romania)
+- [SKIP] Autostore | Commercial Transformation & Strategy, Senior Associate | fit~- | https://autostore.wd3.myworkdayjobs.com/autostore/job/Oslo-Norway/Commercial-Transformation---Strategy--Senior-Associate_JR102808-1 | outside US (Norway)
+- [SKIP] AVEVA | Fellow, AI Investigation & Incubation | fit~- | https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/San-Leandro-California-United-States-of-America/Fellow--AI-Investigation---Incubation_R014509 | asks 10+ years
+- [SKIP] IBC Bank | Credit Analyst | fit~- | https://ibc.wd5.myworkdayjobs.com/ibc_careers/job/Oklahoma-City-OK/Credit-Analyst_R16450 | asks 4+ years
+- [SKIP] Ingram Micro | Senior Consultant, AWS Data & AI | fit~- | https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Barcelona-Spain/Senior-Consultant--AWS-Data---AI_R-118363 | outside US (Spain)
+- [SKIP] Ingram Micro | Senior Copilot & Agentic AI Delivery Consultant | fit~- | https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Barcelona-Spain/Senior-Copilot---Agentic-AI-Delivery-Consultant_R-117883 | outside US (Spain)
+- [SKIP] Levi Strauss & Co. | Associate Analyst - Insights | fit~- | https://levistraussandco.wd5.myworkdayjobs.com/external/job/India-Bangalore---Office/Associate-Analyst---Insights_R-0160601 | outside US (India)
+- [SKIP] Micron Technology | Senior GRC Analyst | fit~- | https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Senior-GRC-Analyst_JR118339 | asks 5+ years
+- [SKIP] MRI Software | Application Support Analyst | fit~- | https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/UK-Remote/Application-Support-Analyst_R-109593 | outside US (United Kingdom)
+- [SKIP] Pima County | Land Mobile Radio System Analyst I | fit~- | https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Land-Mobile-Radio-System-Analyst-I_JR104892-1 | eligibility: "Not all positions with Pima County are eligible for visa sponsorship."
+- [SKIP] Regions Bank | Business Analyst - Risk Systems | fit~- | https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Business-Analyst---Risk-Systems_R107641-1 | eligibility: "Regions will not sponsor applicants for work visas for this position."
+- [SKIP] Thales | STAGE - Test & automation – H/F | fit~- | https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/STAGE---Test---automation---H-F_R0349609-2 | outside US (France)
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
@@ -32,6 +45,7 @@ Coverage audit (7 days): JobRadar had 2/21 = 9% of relevant alert postings; medi
 - Best Egg (lever:bestegg:): HTTPError HTTP Error 404: Not Found
 - Boar’s Head Brand (workday:boarshead.wd1:BHC): HTTPError HTTP Error 403: Forbidden
 - Breeze Airways (greenhouse:breezeairways:): HTTPError HTTP Error 404: Not Found
+- Brightstar.AI (ashby:brightstar-ai:): HTTPError HTTP Error 404: Not Found
 - Brink (workday:brinks.wd5:brinkscareersus): HTTPError HTTP Error 404: Not Found
 - Busuu (workday:osv-chegg.wd5:Busuu): HTTPError HTTP Error 422: Unprocessable Entity
 - Buyers Edge Platform (greenhouse:buyersedgeplatformrecruiting:): HTTPError HTTP Error 404: Not Found
