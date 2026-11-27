@@ -1,17 +1,8 @@
-# Sweep 2026-11-27 14:52 ET: 4595 boards, 11 new matches, 0 kept, 161 board errors, 178s
+# Sweep 2026-11-27 15:07 ET: 4595 boards, 2 new matches, 0 kept, 161 board errors, 165s
 
 Alert inbox: no new relevant alert postings
-- [LOW] BNY | Specialist, Finance AI Product Support | fit~53 | https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82591
-- [LOW] Bank of China USA | Queens Branch - Quality Control Unit/Project & Reporting Associate | fit~50 | https://careers-bocusa.icims.com/jobs/4732/queens-branch---quality-control-unit-project-%26-reporting-associate/job
-- [LOW] Newmark Group | Analyst, Valuation & Advisory | fit~50 | https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/247328
-- [LOW] Newmark Group | Analyst | fit~50 | https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/247971
-- [LOW] Manulife Financial | Analyst, GWAM & GA Operational Resilience | fit~50 | https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Analyst--GWAM---GA-Operational-Resilience_JR26111374
-- [LOW] Genuine Parts Company | Motion Automation Intelligence- Control Panel Builder | fit~40 | https://genpt.wd1.myworkdayjobs.com/Careers/job/Rochester-NY-USA/Motion-Automation-Intelligence--Service-Technician-I_R26_0000023260-1
-- [LOW] Life Time | Financial Analyst I | fit~40 | https://lifetime.wd1.myworkdayjobs.com/lifetime/job/Corporate-Office/Financial-Analyst-I_R-178030
-- [SKIP] Booz Allen | Billing Analyst, Junior | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Billing-Analyst--Junior_R0254334 | eligibility: "citizenship is required."
-- [SKIP] Booz Allen | Nuclear Analyst | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Peterson-AFB-CO/Nuclear-Analyst_R0246003 | eligibility: "TS/SCI clearance is required."
-- [SKIP] Royal Bank of Canada | Associate, RBC Indigenous Development Program | fit~- | https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Associate--RBC-Indigenous-Development-Program_R-0000193722-1 | outside US (Canada)
-- [SKIP] U.S. Bank | Trust Reporting Analyst - Collateralized Loan Obligation (multiple levels) | fit~- | https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Houston-TX/Trust-Reporting-Analyst---Collateralized-Loan-Obligation--multiple-levels-_2026-0036993 | eligibility: "Basic Qualifications Bachelor’s degree in business, finance, economics, accounting or related field, or equivalent work experience Five to six years of relevant work experience Preferred Skills/Experience Basic understan"
+- [LOW] TikTok | AI Data Strategist - TikTok | fit~57 | https://lifeattiktok.com/search/7712240468222200069
+- [SKIP] Fiserv | Financial Billing Analyst | fit~- | https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Financial-Billing-Analyst_R-10406952-1 | eligibility: "Individuals with temporary visas including, but not limited to, F-1 (OPT, CPT, STEM), H-1B, H-2, or TN, or any candidate requiring sponsorship, now or in the future, will not be considered for this role."
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
