@@ -4,14 +4,62 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 
 | # | Company | Title | Fit | H-1B | Posted |
 |---|---|---|---|---|---|
-| 1 | Kpler | Data Engineer (Natural Gas) | 55 | none found (check myvisajobs) | Nov 27 12:52 ET |
-| 2 | Brown Brothers Harriman | Financial Reporting Analyst - Alternatives | 50 | 3 in data/analytics/finance occupations | Nov 26 (board gives the date only) |
-| 3 | Brown Brothers Harriman | Financial Reporting Analyst - Alternatives | 50 | 3 in data/analytics/finance occupations | Nov 27 (board gives the date only) |
-| 4 | Charles Schwab | Data Engineer | 46 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 1 | Jobs for Humanity | Copy of Copy of Data Analyst | 57 | none found (check myvisajobs) | Nov 27 18:05 ET |
+| 2 | Jobs for Humanity | Copy of Data Analyst | 57 | none found (check myvisajobs) | Nov 27 18:04 ET |
+| 3 | Jobs for Humanity | Data Analyst | 57 | none found (check myvisajobs) | Nov 27 18:00 ET |
+| 4 | Kpler | Data Engineer (Natural Gas) | 55 | none found (check myvisajobs) | Nov 27 12:52 ET |
+| 5 | Brown Brothers Harriman | Financial Reporting Analyst - Alternatives | 50 | 3 in data/analytics/finance occupations | Nov 26 (board gives the date only) |
+| 6 | Brown Brothers Harriman | Financial Reporting Analyst - Alternatives | 50 | 3 in data/analytics/finance occupations | Nov 27 (board gives the date only) |
+| 7 | Charles Schwab | Data Engineer | 46 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
 
 ---
 
-## 1. [MAYBE] Kpler | Data Engineer (Natural Gas)
+## 1. [MAYBE] Jobs for Humanity | Copy of Copy of Data Analyst
+- Link: https://jobs.smartrecruiters.com/JobsForHumanity/744000164096905
+- Location: Virginia Beach VA us remote
+- Posted: Nov 27 18:05 ET
+- Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, power bi, sql, git, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Dover Tactical – Slate Ridge Division is seeking a detail-oriented and analytical Data Analyst to support its business operations through data organization, reporting, and performance analysis. This position involves collecting, reviewing, and interpreting business information to help identify trends, maintain accurate records, and support informed operational decisions. The ideal candidate should enjoy working with spreadsheets, organizing information, identifying patterns, and turning raw data into useful reports. This role is suitable for someone with strong analytical thinking, attention to detail, and an interest in business operations. Key Responsibilities Collect, organize, and analyze business and operational data. Review records to identify inconsistencies, errors, and missing information. Prepare regular reports, spreadsheets, and performance summaries. Monitor business activity and identify trends or patterns. Maintain accurate digital records and organized data files. Use spreadsheet tools to summarize and present findings. Assist with tracking inventory, sales-related information, and operational performance where applicable. Support management with data reports and administrative insights. Collaborate with relevant departments to verify information. Maintain confidentiality when handling business and customer information. Qualifications Strong analytical and problem-solving skills. Good numerical skills and attention to detail. Familiarity with Microsoft Excel or Google Sheets. Ability to organize, interpret, and present information clearly. Good written communication and reporting skills. Basic understanding of data management and reporting. Knowledge of SQL, Power BI, or other analytical tools is an advantage. Previous experience in data analysis, reporting, or administrative support is preferred but not required. Compensation & Benefits Competitive hourly compensation. $350 Sign up Bonus Flexible scheduling options, depending on position availability. Paid training and onboarding. Paid time off for eligible employees. Paid holidays, where applicable. Employee assistance and wellness resources. Performance-based recognition opportunities. Professional development and skills training. Advancement opportunities as the company grows. Supportive team environment. Company-provided work resources, where applicable. Training & Onboarding New employees will receive training on company policies, email communication standards, customer service procedures, recordkeeping, privacy practices, and the internal systems used to manage customer inquiries. The training process is designed to help new team members understand their responsibilities and feel comfortable working independently.
+
+---
+
+## 2. [MAYBE] Jobs for Humanity | Copy of Data Analyst
+- Link: https://jobs.smartrecruiters.com/JobsForHumanity/744000164097429
+- Location: Seattle WA us remote
+- Posted: Nov 27 18:04 ET
+- Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, power bi, sql, git, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Dover Tactical – Slate Ridge Division is seeking a detail-oriented and analytical Data Analyst to support its business operations through data organization, reporting, and performance analysis. This position involves collecting, reviewing, and interpreting business information to help identify trends, maintain accurate records, and support informed operational decisions. The ideal candidate should enjoy working with spreadsheets, organizing information, identifying patterns, and turning raw data into useful reports. This role is suitable for someone with strong analytical thinking, attention to detail, and an interest in business operations. Key Responsibilities Collect, organize, and analyze business and operational data. Review records to identify inconsistencies, errors, and missing information. Prepare regular reports, spreadsheets, and performance summaries. Monitor business activity and identify trends or patterns. Maintain accurate digital records and organized data files. Use spreadsheet tools to summarize and present findings. Assist with tracking inventory, sales-related information, and operational performance where applicable. Support management with data reports and administrative insights. Collaborate with relevant departments to verify information. Maintain confidentiality when handling business and customer information. Qualifications Strong analytical and problem-solving skills. Good numerical skills and attention to detail. Familiarity with Microsoft Excel or Google Sheets. Ability to organize, interpret, and present information clearly. Good written communication and reporting skills. Basic understanding of data management and reporting. Knowledge of SQL, Power BI, or other analytical tools is an advantage. Previous experience in data analysis, reporting, or administrative support is preferred but not required. Compensation & Benefits Competitive hourly compensation. $350 Sign up Bonus Flexible scheduling options, depending on position availability. Paid training and onboarding. Paid time off for eligible employees. Paid holidays, where applicable. Employee assistance and wellness resources. Performance-based recognition opportunities. Professional development and skills training. Advancement opportunities as the company grows. Supportive team environment. Company-provided work resources, where applicable. Training & Onboarding New employees will receive training on company policies, email communication standards, customer service procedures, recordkeeping, privacy practices, and the internal systems used to manage customer inquiries. The training process is designed to help new team members understand their responsibilities and feel comfortable working independently.
+
+---
+
+## 3. [MAYBE] Jobs for Humanity | Data Analyst
+- Link: https://jobs.smartrecruiters.com/JobsForHumanity/744000164097099
+- Location: Anchorage AK us remote
+- Posted: Nov 27 18:00 ET
+- Scanner fit: ~57 | Min YOE: None | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: excel, power bi, sql, git, reporting | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Dover Tactical – Slate Ridge Division is seeking a detail-oriented and analytical Data Analyst to support its business operations through data organization, reporting, and performance analysis. This position involves collecting, reviewing, and interpreting business information to help identify trends, maintain accurate records, and support informed operational decisions. The ideal candidate should enjoy working with spreadsheets, organizing information, identifying patterns, and turning raw data into useful reports. This role is suitable for someone with strong analytical thinking, attention to detail, and an interest in business operations. Key Responsibilities Collect, organize, and analyze business and operational data. Review records to identify inconsistencies, errors, and missing information. Prepare regular reports, spreadsheets, and performance summaries. Monitor business activity and identify trends or patterns. Maintain accurate digital records and organized data files. Use spreadsheet tools to summarize and present findings. Assist with tracking inventory, sales-related information, and operational performance where applicable. Support management with data reports and administrative insights. Collaborate with relevant departments to verify information. Maintain confidentiality when handling business and customer information. Qualifications Strong analytical and problem-solving skills. Good numerical skills and attention to detail. Familiarity with Microsoft Excel or Google Sheets. Ability to organize, interpret, and present information clearly. Good written communication and reporting skills. Basic understanding of data management and reporting. Knowledge of SQL, Power BI, or other analytical tools is an advantage. Previous experience in data analysis, reporting, or administrative support is preferred but not required. Compensation & Benefits Competitive hourly compensation. $350 Sign up Bonus Flexible scheduling options, depending on position availability. Paid training and onboarding. Paid time off for eligible employees. Paid holidays, where applicable. Employee assistance and wellness resources. Performance-based recognition opportunities. Professional development and skills training. Advancement opportunities as the company grows. Supportive team environment. Company-provided work resources, where applicable. Training & Onboarding New employees will receive training on company policies, email communication standards, customer service procedures, recordkeeping, privacy practices, and the internal systems used to manage customer inquiries. The training process is designed to help new team members understand their responsibilities and feel comfortable working independently.
+
+---
+
+## 4. [MAYBE] Kpler | Data Engineer (Natural Gas)
 - Link: https://jobs.lever.co/kpler/e61ceaf6-c5b2-4eff-a38e-93922cc5d373
 - Location: United States United States US
 - Posted: Nov 27 12:52 ET
@@ -51,7 +99,7 @@ Kpler is committed to providing a fair, inclusive and diverse work-environment. 
 
 ---
 
-## 2. [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst - Alternatives
+## 5. [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst - Alternatives
 - Link: https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Financial-Reporting-Analyst---Alternatives_73064
 - Location: Boston ; Boston (United States of America)
 - Posted: Nov 26 (board gives the date only)
@@ -66,7 +114,7 @@ At BBH, Partnership is more than a form of ownership—it’s our approach to bu
 
 ---
 
-## 3. [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst - Alternatives
+## 6. [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst - Alternatives
 - Link: https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Financial-Reporting-Analyst---Alternatives_73514
 - Location: Boston ; Boston (United States of America)
 - Posted: Nov 27 (board gives the date only)
@@ -81,7 +129,7 @@ At BBH, Partnership is more than a form of ownership—it’s our approach to bu
 
 ---
 
-## 4. [MAYBE] Charles Schwab | Data Engineer
+## 7. [MAYBE] Charles Schwab | Data Engineer
 - Link: https://career-schwab.icims.com/jobs/132097/data-engineer/job
 - Location: Austin, TX, US ; Southlake, TX, US
 - Posted: new since the previous sweep (board shows no date)

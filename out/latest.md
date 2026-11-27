@@ -1,9 +1,14 @@
-# Sweep 2026-11-27 17:07 ET: 4595 boards, 2 new matches, 0 kept, 161 board errors, 139s
+# Sweep 2026-11-27 18:07 ET: 4595 boards, 8 new matches, 3 kept, 161 board errors, 172s
 
 Alert inbox: no new relevant alert postings
-Internships this sweep: 1 new, 1 student-only (SKIP), 0 kept as HOT or MAYBE.
-- [LOW] Applied Information Sciences | Cloud Engineer II Technical Analyst | fit~40 | https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Cloud-Engineer-II-Technical-Analyst_JR2026001476 | senior title below the bar
-- [SKIP] Manulife Financial | Operations Analyst Intern | fit~- | https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Boston-Massachusetts/Operations-Analyst-Intern_JR26091464 | student-only internship: "...ent and peers. Required Qualifications: Pursuing an undergraduate degree in Business, Finance, Accounting, Economics, or rela..."
+- [MAYBE] Jobs for Humanity | Copy of Copy of Data Analyst | fit~57 | https://jobs.smartrecruiters.com/JobsForHumanity/744000164096905 | no H-1B filings found for this employer
+- [MAYBE] Jobs for Humanity | Copy of Data Analyst | fit~57 | https://jobs.smartrecruiters.com/JobsForHumanity/744000164097429 | no H-1B filings found for this employer
+- [MAYBE] Jobs for Humanity | Data Analyst | fit~57 | https://jobs.smartrecruiters.com/JobsForHumanity/744000164097099 | no H-1B filings found for this employer
+- [LOW] T. Rowe Price | Analyst, Report Intake & Governance | fit~47 | https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Analyst--Report-Intake---Governance_84647
+- [SKIP] Allstate Insurance Company | Data Scientist | fit~- | https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Data-Scientist_R34152 | outside US (Canada)
+- [SKIP] AtkinsRéalis | Senior Automation Designer | fit~- | https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Senior-Automation-Designer_R-172054 | asks 8+ years
+- [SKIP] Marsh | Ejecutivo Comercial New Graduate | fit~- | https://mmc.wd1.myworkdayjobs.com/mmc/job/Mexicali---Cetys-2799/Ejecutivo-Comercial-New-Graduate_R_371897 | asks 4+ years
+- [SKIP] Analytic Services Inc | Universal Command and Control (UC2) Analyst | fit~- | https://job-boards.greenhouse.io/analyticservicesinc/jobs/5493082008?gh_jid=5493082008 | eligibility: "...nitiatives. Required Qualifications Active Secret security clearance with the ability to obtain a ..."
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
