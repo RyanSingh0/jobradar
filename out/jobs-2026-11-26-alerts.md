@@ -6,3 +6,4 @@ Found in your LinkedIn/HiringCafe/Glassdoor/Indeed/Jobright alert emails but not
 |---|---|---|---|---|
 | linkedin | Mass General Brigham | Data Analyst I | Boston, MA | https://www.linkedin.com/jobs/view/4494647898/ |
 | linkedin | Torentify | Data Scientist, Associate | United States | https://www.linkedin.com/jobs/view/4495251596/ |
+| linkedin | Why Hiring | Entry-Level Data Scientist | United States | https://www.linkedin.com/jobs/view/4493099911/ |
