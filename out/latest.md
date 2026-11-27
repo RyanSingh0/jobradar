@@ -1,24 +1,22 @@
-# Sweep 2026-11-27 04:36 ET: 4595 boards, 18 new matches, 0 kept, 161 board errors, 146s
+# Sweep 2026-11-27 08:07 ET: 4595 boards, 15 new matches, 0 kept, 161 board errors, 158s
 
-Coverage audit (7 days): JobRadar had 2/22 = 9% of relevant alert postings; median lead 37499 min vs the alert email. This sweep: 1 relevant alert postings, 1 not on JobRadar boards.
-- [LOW] JP Morgan Chase | Trade Lifecycle Analyst | fit~50 | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801925
-- [LOW] MassMutual Ascend | Workforce Management – Real Time Analyst | fit~50 | https://massmutual.wd1.myworkdayjobs.com/MMCareers/job/Springfield-MA/Workforce-Management---Real-Time-Analyst_R21808-1
-- [LOW] Regions Bank | SBA Portfolio Management Analyst | fit~45 | https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-North-Building-Birmingham-AL/SBA-Portfolio-Management-Analyst_R107689
-- [LOW] M&T Bank | Senior Business Analytics & Reporting Analyst | fit~40 | https://mtb.wd5.myworkdayjobs.com/MTB/job/Williamsville-NY/Senior-Business-Analytics---Reporting-Analyst_R92026-1 | senior title below the bar
-- [SKIP] Abbott | Finance Advanced Studies Early Careers Program | fit~- | https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Germany---Wiesbaden-Delkenheim/Finance-Advanced-Studies-Early-Careers-Program_31168626 | needs current enrollment: "...ways in Finance Required Qualifications Enrolled in a bachelor’s or master's program in Germany or Bel..."
-- [SKIP] Accenture | AI Native Engineer | fit~- | https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Vilnius/AI-Native-Engineer_R00374588 | outside US (Lithuania)
-- [SKIP] Accenture | Senior AI Full Stack Developer (Python & React) | fit~- | https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cluj-Napoca/Full-Stack-Developer--Python-React-_R00295620 | outside US (Romania)
-- [SKIP] Autostore | Commercial Transformation & Strategy, Senior Associate | fit~- | https://autostore.wd3.myworkdayjobs.com/autostore/job/Oslo-Norway/Commercial-Transformation---Strategy--Senior-Associate_JR102808-1 | outside US (Norway)
-- [SKIP] AVEVA | Fellow, AI Investigation & Incubation | fit~- | https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/San-Leandro-California-United-States-of-America/Fellow--AI-Investigation---Incubation_R014509 | asks 10+ years
-- [SKIP] IBC Bank | Credit Analyst | fit~- | https://ibc.wd5.myworkdayjobs.com/ibc_careers/job/Oklahoma-City-OK/Credit-Analyst_R16450 | asks 4+ years
-- [SKIP] Ingram Micro | Senior Consultant, AWS Data & AI | fit~- | https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Barcelona-Spain/Senior-Consultant--AWS-Data---AI_R-118363 | outside US (Spain)
-- [SKIP] Ingram Micro | Senior Copilot & Agentic AI Delivery Consultant | fit~- | https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Barcelona-Spain/Senior-Copilot---Agentic-AI-Delivery-Consultant_R-117883 | outside US (Spain)
-- [SKIP] Levi Strauss & Co. | Associate Analyst - Insights | fit~- | https://levistraussandco.wd5.myworkdayjobs.com/external/job/India-Bangalore---Office/Associate-Analyst---Insights_R-0160601 | outside US (India)
-- [SKIP] Micron Technology | Senior GRC Analyst | fit~- | https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Senior-GRC-Analyst_JR118339 | asks 5+ years
-- [SKIP] MRI Software | Application Support Analyst | fit~- | https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/UK-Remote/Application-Support-Analyst_R-109593 | outside US (United Kingdom)
-- [SKIP] Pima County | Land Mobile Radio System Analyst I | fit~- | https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Land-Mobile-Radio-System-Analyst-I_JR104892-1 | eligibility: "Not all positions with Pima County are eligible for visa sponsorship."
-- [SKIP] Regions Bank | Business Analyst - Risk Systems | fit~- | https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Business-Analyst---Risk-Systems_R107641-1 | eligibility: "Regions will not sponsor applicants for work visas for this position."
-- [SKIP] Thales | STAGE - Test & automation – H/F | fit~- | https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/STAGE---Test---automation---H-F_R0349609-2 | outside US (France)
+Alert inbox: no new relevant alert postings
+Internships this sweep: 1 new, 0 student-only (SKIP), 0 kept as HOT or MAYBE.
+- [SKIP] WuXi AppTec | Research Scientist (m/f/d) | fit~- | https://careers-wuxiapptec.icims.com/jobs/14640/research-scientist-%28m-f-d%29/job | outside US (DE)
+- [SKIP] Air Liquide | STAGE - DATA ANALYST H/F | fit~- | https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Saint-Priest---Management---ALFI-EL/STAGE---DATA-ANALYST-H-F_R10104882 | outside US (France)
+- [SKIP] Airbus | AHE Transformation Plan [Project Management Office] | fit~- | https://ag.wd3.myworkdayjobs.com/Airbus/job/Albacete/AHE-Transformation-Plan--Project-Management-Office-_JR10453603 | outside US (Spain)
+- [SKIP] Alexion | Senior Demand Forecaster – NPI   – Alexion Rare Disease  (2 years-Fixed Term) | fit~- | https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Ireland---Dublin-College-Park/Senior-Demand-Forecaster---NPI-----Alexion-Rare-Disease---2-years-Fixed-Term-_R-265196 | asks 8+ years
+- [SKIP] Baker Hughes | Intern - Modelling and Data Analytics - 2027 | fit~- | https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-HA-FARNBOROUGH-107-RANGE-ROAD/Intern---Modelling-and-Data-Analytics---2027_R173444 | eligibility: "Be able to legally work in the country that you are applying in, without company sponsorship or time restriction."
+- [SKIP] Barclays | Performance & Insight Analyst | fit~- | https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Performance---Insight-Analyst_JR-0000137143-1 | outside US (United Kingdom)
+- [SKIP] Cigna Group | Customer Experience Analyst - Cigna Healthcare | fit~- | https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Customer-Experience-Analyst---Cigna-Healthcare_26014139 | outside US (India)
+- [SKIP] Citi | Applications Support Analyst | fit~- | https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Applications-Support-Analyst_261009553 | outside US (India)
+- [SKIP] Iron Mountain | Senior Marketing Analytics Analyst | fit~- | https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/COL--Bogot--Calle-18-69B-73/Senior-Marketing-Analytics-Analyst_J0110260 | asks 4+ years
+- [SKIP] Mastercard | Senior Analyst, Strategy, Global Markets | fit~- | https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Senior-Analyst--Strategy--Global-Markets_R-293170 | outside US (United Kingdom)
+- [SKIP] Richemont | Master Data & Automation Specialist (100%) | fit~- | https://richemont.wd3.myworkdayjobs.com/richemont/job/SCHAFFHAUSEN/Master-Data---Automation-Specialist--100--_JR136436 | asks 15+ years
+- [SKIP] Rockwell Automation | Sr. Analyst- Accounting and Controlling | fit~- | https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-Gurgaon/Sr-Analyst--Accounting-and-Controlling_R26-8138 | asks 6+ years
+- [SKIP] Rockwell Automation | BI Analyst | fit~- | https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Noida-India/Bi-Analyst_R26-5236 | asks 5+ years
+- [SKIP] S&P Global | Senior Security Automation & SOAR Engineer | fit~- | https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Senior-Security-Automation---SOAR-Engineer_330660-1 | asks 5+ years
+- [SKIP] TD Synnex | Software Engineer - AI Integration - Fixed Term Contract - 12 months | fit~- | https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Liverpool-United-Kingdom/Software-Engineer---AI-Integration---Fixed-Term-Contract---12-months_R57035 | outside US (United Kingdom)
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
