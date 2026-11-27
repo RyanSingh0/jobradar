@@ -1,16 +1,17 @@
-# Sweep 2026-11-27 14:07 ET: 4595 boards, 10 new matches, 2 kept, 161 board errors, 208s
+# Sweep 2026-11-27 14:52 ET: 4595 boards, 11 new matches, 0 kept, 161 board errors, 178s
 
 Alert inbox: no new relevant alert postings
-- [HOT] U.S. Bank | Strategy & Business Intelligence Analyst | fit~70 | https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Strategy---Business-Intelligence-Analyst_2026-0036348
-- [HOT] Amazon | Business Intelligence Engineer, SWA BI | fit~68 | https://www.amazon.jobs/en/jobs/10615993/business-intelligence-engineer-swa-bi
-- [LOW] JP Morgan Chase | Security Operations Associate-Vulnerability Management Operations Analyst | fit~31 | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811785
-- [SKIP] LMI | Forward Deployed Engineer - Clearance Required | fit~- | https://careers-lmi.icims.com/jobs/14323/forward-deployed-engineer---clearance-required/job | eligibility: "Only US Citizens are eligible for a security clearance."
-- [SKIP] Mackenzie Investments | Senior Analyst, Client Insights | fit~- | https://careersen-mackenzieinvestments.icims.com/jobs/6611/senior-analyst%2c-client-insights/job | eligibility: "We encourage applications from all qualified candidates that represent the diversity present across Canada – including racialized persons, women, Indigenous persons, persons with disabilities, 2SLGBTQIA+ community, gende"
-- [SKIP] Nakupuna Companies | Applied AI Engineer | fit~- | https://careers-nakupuna.icims.com/jobs/7599/applied-ai-engineer/job | eligibility: "...comparable certification. Clearance Requirements: Active Top Secret clearance preferred. Candidates with an..."
-- [SKIP] JP Morgan Chase | Business Analyst – Real-Time Payments | fit~- | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796216 | eligibility: "Experience supporting more than one CCB Operations Function/Line of Business Additional information Visa sponsorship is not available for this position."
-- [SKIP] Booz Allen | Forward Deployed Engineer | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Forward-Deployed-Engineer_R0254317 | eligibility: "...bility to travel up to 20% of the time Ability to obtain a Secret clearance Bachelor’s degree in a CS or ..."
-- [SKIP] Royal Bank of Canada | Associate, RBC Indigenous Development Program | fit~- | https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Associate--RBC-Indigenous-Development-Program_R-0000193729-2 | outside US (Canada)
-- [SKIP] Syneos Health | Customer Contract Analyst | fit~- | https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad/Customer-Contract-Analyst_25112705 | outside US (India)
+- [LOW] BNY | Specialist, Finance AI Product Support | fit~53 | https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82591
+- [LOW] Bank of China USA | Queens Branch - Quality Control Unit/Project & Reporting Associate | fit~50 | https://careers-bocusa.icims.com/jobs/4732/queens-branch---quality-control-unit-project-%26-reporting-associate/job
+- [LOW] Newmark Group | Analyst, Valuation & Advisory | fit~50 | https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/247328
+- [LOW] Newmark Group | Analyst | fit~50 | https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/247971
+- [LOW] Manulife Financial | Analyst, GWAM & GA Operational Resilience | fit~50 | https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Analyst--GWAM---GA-Operational-Resilience_JR26111374
+- [LOW] Genuine Parts Company | Motion Automation Intelligence- Control Panel Builder | fit~40 | https://genpt.wd1.myworkdayjobs.com/Careers/job/Rochester-NY-USA/Motion-Automation-Intelligence--Service-Technician-I_R26_0000023260-1
+- [LOW] Life Time | Financial Analyst I | fit~40 | https://lifetime.wd1.myworkdayjobs.com/lifetime/job/Corporate-Office/Financial-Analyst-I_R-178030
+- [SKIP] Booz Allen | Billing Analyst, Junior | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Billing-Analyst--Junior_R0254334 | eligibility: "citizenship is required."
+- [SKIP] Booz Allen | Nuclear Analyst | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Peterson-AFB-CO/Nuclear-Analyst_R0246003 | eligibility: "TS/SCI clearance is required."
+- [SKIP] Royal Bank of Canada | Associate, RBC Indigenous Development Program | fit~- | https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Associate--RBC-Indigenous-Development-Program_R-0000193722-1 | outside US (Canada)
+- [SKIP] U.S. Bank | Trust Reporting Analyst - Collateralized Loan Obligation (multiple levels) | fit~- | https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Houston-TX/Trust-Reporting-Analyst---Collateralized-Loan-Obligation--multiple-levels-_2026-0036993 | eligibility: "Basic Qualifications Bachelor’s degree in business, finance, economics, accounting or related field, or equivalent work experience Five to six years of relevant work experience Preferred Skills/Experience Basic understan"
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
