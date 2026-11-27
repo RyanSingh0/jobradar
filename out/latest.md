@@ -1,29 +1,16 @@
-# Sweep 2026-11-27 13:07 ET: 4595 boards, 23 new matches, 1 kept, 161 board errors, 164s
+# Sweep 2026-11-27 14:07 ET: 4595 boards, 10 new matches, 2 kept, 161 board errors, 208s
 
 Alert inbox: no new relevant alert postings
-- [MAYBE] Kpler | Data Engineer (Natural Gas) | fit~55 | https://jobs.lever.co/kpler/e61ceaf6-c5b2-4eff-a38e-93922cc5d373 | no H-1B filings found for this employer
-- [LOW] PIMCO | Position Management Data Associate | fit~71 | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Position-Management-Data-Associate_R106414
-- [LOW] Clera | Senior Associate, Growth AI | fit~57 | https://jobs.ashbyhq.com/Clera/19d75c78-92eb-4acb-9ec8-6e6ade3a60f8 | senior title below the bar
-- [LOW] Jerry | Legal Analyst, Operations & Automation (Remote) | fit~45 | https://jobs.ashbyhq.com/Jerry.ai/f28b7519-c3ce-4591-be01-522fa2c51afc
-- [LOW] Jerry | Legal Operations Associate, Compliance & Automation (Remote) | fit~45 | https://jobs.ashbyhq.com/Jerry.ai/8cdfcc2e-69cf-4771-9b7a-0c26359f79f8
-- [LOW] Cortica | Board Certified Behavior Analyst | fit~45 | https://job-boards.greenhouse.io/allcareers/jobs/8964245002
-- [LOW] Cortica | Board Certified Behavior Analyst (Early Intervention) | fit~45 | https://job-boards.greenhouse.io/allcareers/jobs/8964240002
-- [LOW] Cortica | Board Certified Behavior Analyst (Hybrid) | fit~45 | https://job-boards.greenhouse.io/allcareers/jobs/8964235002
-- [LOW] Cortica | Board Certified Behavior Analyst (Hybrid Remote) | fit~45 | https://job-boards.greenhouse.io/allcareers/jobs/8964237002
-- [LOW] bet365 | Senior Data Engineer | fit~35 | https://jobs.smartrecruiters.com/Bet3651/744000164078308 | senior title below the bar
-- [LOW] The Home Depot | Sr. Analyst - Rental | fit~33 | https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Analyst---Rental_Req200124 | senior title below the bar
-- [LOW] Cortica | Board Certified Behavior Analyst (BCBA) | fit~25 | https://job-boards.greenhouse.io/allcareers/jobs/8964296002
-- [LOW] Cortica | Board Certified Behavior Analyst (Remote Hybrid) | fit~25 | https://job-boards.greenhouse.io/allcareers/jobs/8964234002
-- [LOW] Cortica | Board Certified Behavior Analyst with $10,000 first year bonus! | fit~25 | https://job-boards.greenhouse.io/allcareers/jobs/8964231002
-- [LOW] Cortica | Board Certified Behavior Analyst, BCBA (Part-time) | fit~0 | https://job-boards.greenhouse.io/allcareers/jobs/8964226002
-- [SKIP] Ascensus | Investment Research Analyst | fit~- | https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Lexington-KY/Investment-Research-Analyst_R0022334 | asks 4+ years
-- [SKIP] Booz Allen | F-35 Sustainment Engineering Analyst | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Worth-TX/F-35-Sustainment-Engineering-Analyst_R0254348 | eligibility: "Secret clearance is required."
-- [SKIP] PIMCO | Associate / Senior Associate, Operations Transformation | fit~- | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Associate---Senior-Associate--Operations-Transformation_R106755 | asks 5+ years
-- [SKIP] PIMCO | Cash Desk Analytics & Automation Specialist | fit~- | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Cash-Desk-Transformation-Specialist_R106419 | asks 6+ years
-- [SKIP] Royal Bank of Canada | Associate, RBC Indigenous Development Program | fit~- | https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Associate--RBC-Indigenous-Development-Program_R-0000193726-1 | outside US (Canada)
-- [SKIP] Thomson Reuters | Training Analyst | fit~- | https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Brazil-So-Paulo-So-Paulo/Training-Analyst_JREQ204841 | outside US (Brazil)
-- [SKIP] Wells Fargo | Fixed Income Strategy Program Analyst | fit~- | https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Fixed-Income-Strategy-Program-Analyst_R-588901 | eligibility: "Career development opportunities will be available to learn additional skills Ability to take initiative, manage competing priorities, and work effectively in a fast-paced, collaborative environment Strong organizational"
-- [SKIP] Amazon | Sr. Data Engineer, WW Pricing Data and Insights | fit~- | https://www.amazon.jobs/en/jobs/10615974/sr-data-engineer-ww-pricing-data-and-insights | asks 5+ years
+- [HOT] U.S. Bank | Strategy & Business Intelligence Analyst | fit~70 | https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Strategy---Business-Intelligence-Analyst_2026-0036348
+- [HOT] Amazon | Business Intelligence Engineer, SWA BI | fit~68 | https://www.amazon.jobs/en/jobs/10615993/business-intelligence-engineer-swa-bi
+- [LOW] JP Morgan Chase | Security Operations Associate-Vulnerability Management Operations Analyst | fit~31 | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811785
+- [SKIP] LMI | Forward Deployed Engineer - Clearance Required | fit~- | https://careers-lmi.icims.com/jobs/14323/forward-deployed-engineer---clearance-required/job | eligibility: "Only US Citizens are eligible for a security clearance."
+- [SKIP] Mackenzie Investments | Senior Analyst, Client Insights | fit~- | https://careersen-mackenzieinvestments.icims.com/jobs/6611/senior-analyst%2c-client-insights/job | eligibility: "We encourage applications from all qualified candidates that represent the diversity present across Canada – including racialized persons, women, Indigenous persons, persons with disabilities, 2SLGBTQIA+ community, gende"
+- [SKIP] Nakupuna Companies | Applied AI Engineer | fit~- | https://careers-nakupuna.icims.com/jobs/7599/applied-ai-engineer/job | eligibility: "...comparable certification. Clearance Requirements: Active Top Secret clearance preferred. Candidates with an..."
+- [SKIP] JP Morgan Chase | Business Analyst – Real-Time Payments | fit~- | https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796216 | eligibility: "Experience supporting more than one CCB Operations Function/Line of Business Additional information Visa sponsorship is not available for this position."
+- [SKIP] Booz Allen | Forward Deployed Engineer | fit~- | https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Forward-Deployed-Engineer_R0254317 | eligibility: "...bility to travel up to 20% of the time Ability to obtain a Secret clearance Bachelor’s degree in a CS or ..."
+- [SKIP] Royal Bank of Canada | Associate, RBC Indigenous Development Program | fit~- | https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Associate--RBC-Indigenous-Development-Program_R-0000193729-2 | outside US (Canada)
+- [SKIP] Syneos Health | Customer Contract Analyst | fit~- | https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad/Customer-Contract-Analyst_25112705 | outside US (India)
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
