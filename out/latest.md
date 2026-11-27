@@ -1,14 +1,14 @@
-# Sweep 2026-11-27 09:07 ET: 4595 boards, 8 new matches, 0 kept, 161 board errors, 137s
+# Sweep 2026-11-27 10:07 ET: 4595 boards, 8 new matches, 2 kept, 161 board errors, 134s
 
-Coverage audit (7 days): JobRadar had 2/22 = 9% of relevant alert postings; median lead 37499 min vs the alert email. This sweep: 1 relevant alert postings, 1 not on JobRadar boards.
-- [SKIP] Clera | Full Stack Engineer, Reporting & Analytics | fit~- | https://jobs.ashbyhq.com/Clera/8089a3c4-8a81-4129-8667-d9ee30342b0c | asks 5+ years
-- [SKIP] Charles Schwab | Data Engineer | fit~- | https://career-schwab.icims.com/jobs/132096/data-engineer/job | asks 8+ years
-- [SKIP] Société Générale de Surveillance (SGS) | Sr. Research Analyst (Small Molecule) | fit~- | https://jobs.smartrecruiters.com/SGS/744000164041279 | asks 5+ years
-- [SKIP] CACI | Disaster Management and Humanitarian Assistance Analyst,  Journeyman | fit~- | https://caci.wd1.myworkdayjobs.com/external/job/Pearl-Harbor-HI-US/Disaster-Management-and-Humanitarian-Assistance-Analyst---Journeyman_335466 | eligibility: "Job Title: Disaster Management and Humanitarian Assistance Analyst, Journeyman Job Category: Engineering and Technical Support Time Type: Full time Minimum Clearance Required to Start: Secret Employee Type: Regular Perce"
-- [SKIP] Element Fleet Management | BSE Quality Assurance Analyst | fit~- | https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Baltimore/BSE-Quality-Assurance-Analyst_R106032 | eligibility: "Element Fleet Management does not provide sponsorship or support for obtaining or maintaining work authorization for this position."
-- [SKIP] Element Fleet Management | Billing Business Analyst | fit~- | https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Baltimore/Billing-Business-Analyst_R106031 | eligibility: "Element Fleet Management does not provide sponsorship or support for obtaining or maintaining work authorization for this position."
-- [SKIP] LexisNexis Risk Solutions | Customer Research & Analytics Specialist I | fit~- | https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/London-Wall/Customer-Research---Analytics-Specialist-I_R121167 | outside US (United Kingdom)
-- [SKIP] Roche | Business Analyst | fit~- | https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Business-Analyst_202611-129510-1 | outside US (United Kingdom)
+Alert inbox: no new relevant alert postings
+- [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst - Alternatives | fit~50 | https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Financial-Reporting-Analyst---Alternatives_73064
+- [MAYBE] Charles Schwab | Data Engineer | fit~46 | https://career-schwab.icims.com/jobs/132097/data-engineer/job
+- [LOW] SEI | Specialist I, Financial Reporting | fit~45 | https://seic.wd1.myworkdayjobs.com/SEI_Global_Services/job/USA---Remote---PA/Specialist-I--Financial-Reporting_R0039015
+- [LOW] Pfizer | Environmental Monitoring Analyst I (3rd Shift) | fit~40 | https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Michigan---Rochester/Environmental-Monitoring-Analyst-I--3rd-Shift-_4968224-2
+- [LOW] Mayo Clinic | Research Fellow - Ortho Surgery | fit~0 | https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396634
+- [SKIP] Hewlett Packard (HP) | Contra Financial Analyst EMEA (m/f) | fit~- | https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Wroclaw-Lower-Silesian-Poland/Contra-Financial-Analyst-EMEA--m-f-_3168323 | outside US (Poland)
+- [SKIP] McGill University | Research Associate | fit~- | https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Maass-Chemistry-Bldg/Research-Associate_JR0000083715 | eligibility: "We welcome applications from racialized persons/visible minorities, women, Indigenous persons, persons with disabilities, ethnic minorities, and persons of minority sexual orientations and gender identities, as well as f"
+- [SKIP] Neuberger Berman | Senior Analyst, Private Debt Operations | fit~- | https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Senior-Analyst_R0012635 | eligibility: "&#xa;Applicants must be authorized and have the right to work in the country where the role is located without the need for current or future sponsorship."
 
 ## Board errors
 - 23andMe (workday:23andme.wd5:23): HTTPError HTTP Error 403: Forbidden
