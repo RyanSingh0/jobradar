@@ -64,7 +64,7 @@ Install **ntfy** (free). Tap **+ → Subscribe to topic** and choose a long rand
 3. **Monday**: open `out/latest.md` and look at the coverage line. For any company that keeps appearing in `out/missing_companies.csv`, ask Claude to add its board.
 
 ## Upkeep and tuning
-- New companies: `python discover.py names.txt >> companies.csv`. For Workday, add `Company,workday,TENANT.wdN,SITE,,manual` from the careers URL `https://TENANT.wdN.myworkdayjobs.com/SITE`.
+- New companies: `python discover.py names.txt >> companies.csv`, or `python discover.py --missing >> companies.csv` for the companies your alert emails showed that JobRadar has no board for (`out/missing_companies.csv`). Since 27 Nov a board is added only when its own name or postings match the company, and companies already listed are skipped; unconfirmed ones print as `#` comment lines for you to check by hand. For Workday, add `Company,workday,TENANT.wdN,SITE,,manual` from the careers URL `https://TENANT.wdN.myworkdayjobs.com/SITE`.
 - New H-1B data each quarter (DOL LCA file): `python build_sponsors.py <files>.xlsx`, then upload `sponsors.csv`.
 - Filters are plain word lists at the top of `jobradar.py`. Tell Claude a title that was wrongly kept or dropped and it will give you the one-line change.
 - Microsoft and Qualcomm block automated reads of their career sites, so they reach you through layer 2 (LinkedIn alerts) or layer 4.

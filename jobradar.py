@@ -97,6 +97,20 @@ EARLY_BAD = re.compile(r"coordinator|advisor|conseill|trainee|civil|structural|m
 
 def early_program(title, desc):  # needs 2+ distinct data/AI skill words in the description
     return bool(EARLY.search(title)) and not EARLY_BAD.search(title) and sum(bool(r.search(desc)) for r in EARLY_TECH) >= 2
+# 27 Nov 2026 (Wayflyer "Graduate Credit Analyst" miss): an explicitly entry-level analyst title in a finance or risk
+# family (credit, risk, quant, investment, portfolio, treasury, pricing, research, strategy) counts as core when the
+# description asks for any data skill. Before, CORE only knew "credit risk analyst", so the role was a "broad" title and,
+# with no data-occupation H-1B filings, fell to LOW. Plain "Credit Analyst" (bank underwriting) is unchanged: the title
+# must say graduate, new grad, entry-level or junior. "Analyst I" and FP&A "Financial Analyst" titles stay as they were:
+# replayed on two weeks of history (7,034 rows), adding those would have lifted 30+ accounting and underwriting roles.
+ENTRY_MARK = re.compile(r"\bgraduate\b(?! (assistant|student|program|scheme))|new grad|entry[- ]level|\bjunior\b|\bjr\.?\b", re.I)
+ENTRY_DOMAIN = re.compile(r"credit|risk|quant|investment|portfolio|treasury|pricing|research|strategy", re.I)
+ENTRY_DATA = re.compile(r"\bsql\b|python|excel|statistic|\br\b|tableau|power bi|data analy|analy[sz]e[^.;]{0,40}data|modell?ing", re.I)
+
+
+def entry_finance_analyst(title, desc):
+    return bool(ENTRY_MARK.search(title) and ENTRY_DOMAIN.search(title) and re.search(r"\banaly(st|tics)\b", title, re.I)
+                and ENTRY_DATA.search(desc))
 # Companies where Aryan has a referral: matches at fit >= 45 surface in MAYBE whatever the tier, and 4-year asks stay in.
 REFERRAL_FILE = Path(__file__).resolve().parent / "referrals.txt"
 REFERRALS = {l.strip().lower() for l in (REFERRAL_FILE.read_text().splitlines() if REFERRAL_FILE.exists() else [])
@@ -1062,14 +1076,15 @@ def classify(j, spons):
     sponsor_ok = bool(lca) or not spons
     early = early_program(j["title"], j["desc"])
     builder = not CORE.search(j["title"]) and builder_role(j["title"], j["desc"], y)
-    core = bool(CORE.search(j["title"])) or early or builder
+    entry_fin = not CORE.search(j["title"]) and entry_finance_analyst(j["title"], j["desc"])
+    core = bool(CORE.search(j["title"])) or early or builder or entry_fin
     tech = any(k in " " + j["desc"].lower() for k in ("python", "sql", " r ", "statistic", "machine learning", "tableau", "power bi"))
     j["scope"] = "builder" if builder else ("core" if core else "broad")
     jt, hrs, jt_note = job_type(j["title"], j["desc"])
     j.update(jobtype=jt, hours=hrs)
     opt_ok = not (jt == "volunteer/unpaid" or (hrs is not None and hrs < 20 and jt == "part-time"))
     soft = j.get("soft_senior")
-    notes = [("early-talent program" if early else ""), ("builder role: Python and SQL asked, 0-2 years" if builder else ""),
+    notes = [("early-talent program" if early else ""), ("entry-level finance or risk analyst" if entry_fin else ""), ("builder role: Python and SQL asked, 0-2 years" if builder else ""),
              ("title says Senior/II: " + ("no years stated, check the level" if y is None else f"asks {y} years") if soft else ""),
              ("referral company: ask your referral" if ref else ""),
              (f"asks {y} years (referral stretch)" if ref and y == 4 else "")]

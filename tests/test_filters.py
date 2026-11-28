@@ -39,6 +39,25 @@ CASES = [
         "Write press releases and plan events for the communications office. " * 6), {"LOW", "DROPPED"}),
 ]
 
+# 27 Nov 2026: entry-level finance and risk analyst titles (Wayflyer "Graduate Credit Analyst" was LOW)
+WAYFLYER = ("Analyse financial and non-financial data on new and existing customers. Assess and quantify risk. You don't need "
+            "years of experience. A strong academic record in Business, Finance, Engineering or Computer Science. "
+            "An instinct for data (Excel or SQL is a plus). Based in our Charlotte HQ. ") * 3
+UNDERWRITE = ("Underwrite commercial loans, spread financial statements, prepare credit memos for the loan committee. "
+              "3 years of commercial lending experience. ") * 3
+CASES += [
+    ("Graduate Credit Analyst, no data-occupation LCA -> MAYBE (was LOW)", lambda: run("Wayflyer", "Graduate Credit Analyst",
+        WAYFLYER, "Charlotte, North Carolina, United States"), {"MAYBE"}),
+    ("Graduate Credit Analyst at a sponsor, Python and SQL -> HOT", lambda: run("Acme Analytics", "Graduate Credit Analyst",
+        GENERIC + WAYFLYER), {"HOT"}),
+    ("Junior Investment Analyst with Excel -> at least MAYBE", lambda: run("Acme Analytics", "Junior Investment Analyst",
+        ("Build portfolio reports in Excel, research public companies, statistics on fund performance. ") * 4), {"MAYBE", "HOT"}),
+    ("Plain bank Credit Analyst (underwriting) is not lifted", lambda: run("Acme Analytics", "Credit Analyst", UNDERWRITE),
+        {"LOW", "MAYBE", "SKIP"}),
+    ("Graduate Credit Analyst with no data skill stays below core", lambda: run("Acme Analytics", "Graduate Credit Analyst",
+        UNDERWRITE.replace("3 years of commercial lending experience. ", "")), {"LOW", "MAYBE"}),
+]
+
 # 23 Nov 2026: builder family (entry Forward Deployed, AI solutions, automation/transformation associate, LLM evaluation)
 BUILD = ("You will write Python and SQL against our warehouse, ship LLM tools and APIs with customers, dashboards, "
          "data pipelines, machine learning and statistics. 0-2 years of experience. ") * 4
