@@ -8,9 +8,10 @@ Scanner fit is a keyword prefilter, not the Step 1 assessment. Eligibility wordi
 | 2 | Jobs for Humanity | Copy of Data Analyst | 57 | none found (check myvisajobs) | Nov 27 18:04 ET |
 | 3 | Jobs for Humanity | Data Analyst | 57 | none found (check myvisajobs) | Nov 27 18:00 ET |
 | 4 | Kpler | Data Engineer (Natural Gas) | 55 | none found (check myvisajobs) | Nov 27 12:52 ET |
-| 5 | Brown Brothers Harriman | Financial Reporting Analyst - Alternatives | 50 | 3 in data/analytics/finance occupations | Nov 26 (board gives the date only) |
-| 6 | Brown Brothers Harriman | Financial Reporting Analyst - Alternatives | 50 | 3 in data/analytics/finance occupations | Nov 27 (board gives the date only) |
-| 7 | Charles Schwab | Data Engineer | 46 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
+| 5 | interface.ai | Applied AI Engineer, Business Automation | 55 | none found (check myvisajobs) | Nov 27 21:43 ET |
+| 6 | Brown Brothers Harriman | Financial Reporting Analyst - Alternatives | 50 | 3 in data/analytics/finance occupations | Nov 26 (board gives the date only) |
+| 7 | Brown Brothers Harriman | Financial Reporting Analyst - Alternatives | 50 | 3 in data/analytics/finance occupations | Nov 27 (board gives the date only) |
+| 8 | Charles Schwab | Data Engineer | 46 | 53 in data/analytics/finance occupations | new since the previous sweep (board shows no date) |
 
 ---
 
@@ -99,7 +100,110 @@ Kpler is committed to providing a fair, inclusive and diverse work-environment. 
 
 ---
 
-## 5. [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst - Alternatives
+## 5. [MAYBE] interface.ai | Applied AI Engineer, Business Automation
+- Link: https://jobs.ashbyhq.com/interface-ai/c4d8b111-8084-4e02-86d5-c28591439612
+- Location: San Francisco United States
+- Posted: Nov 27 21:43 ET
+- Scanner fit: ~55 | Min YOE: 3 | H-1B (certified LCAs, Oct 2024-Dec 2025): none found (check myvisajobs)
+- Type: full-time
+- Title scope: core | Has: llm, python, ai agent, credit, reporting, research | Lacks: -  | Note: no H-1B filings found for this employer
+- Eligibility: NONE (no sponsorship or authorization sentence found: still read the employer page)
+
+### Job description
+
+Location: San Francisco · On-site, five days a week
+Department: Engineering
+Employment type: Full time
+Level: SWE II / Senior · Individual contributor
+Compensation: $220,000–$260,000 annual base salary + equity
+
+
+ABOUT INTERFACE.AI http://interface.ai
+
+Our mission is to make intelligent, personalized financial services accessible to everyone. interface.ai http://interface.ai builds AI agents for the banks and credit unions that serve everyday Americans, helping financial institutions deliver better service and making it easier for people to get the support they need.
+
+More than 100 banks and credit unions use interface.ai http://interface.ai, reaching over 10 million people. With $30M in Series A funding and a cash-flow-positive business, we're building toward an AI-powered contact center and a banking experience designed around intelligent agents. Our ambition is to help millions of people navigate their financial lives with greater confidence.
+
+We're bringing that same ambition to how our company works: equipping every team with AI that helps people accomplish more, focus on meaningful work, and serve our customers better.
+
+
+THE ROLE
+
+As our Applied AI Engineer, Business Automation, you'll build the systems that make every team at interface.ai http://interface.ai more productive. Work across engineering, product, sales, marketing, customer success, finance, operations, and talent to understand how work gets done, identify the highest-impact opportunities, and turn recurring business processes into reliable AI-powered workflows.
+
+You'll own our in-house business automation platform: the shared foundation that connects the best available AI tools, agents, company knowledge, and business systems to take work from request to completed outcome. Build on existing internal tools and develop reusable capabilities that each team can adapt to its own work. Evaluate what to build, buy, or integrate based on quality, reliability, cost, and employee experience.
+
+This is a dedicated, hands-on engineering role with the company itself as your customer. You'll work directly with CEO Srinivas Njay, partner with CTO and Co-Founder Bruce Kim, and embed with teams to learn their domain-specific rules, exceptions, and decisions. Own the full journey from discovering a workflow to shipping it, helping employees adopt it, and improving it in production. Your goal is to make AI a dependable part of daily work in every department, with measurable gains in employee productivity.
+
+
+WHAT YOU'LL OWN
+
+ - Workflow discovery and prioritization. Work alongside employees and team leaders to map recurring work, bottlenecks, handoffs, and exceptions. Establish baselines and prioritize a focused roadmap by time saved, quality improved, business impact, and implementation effort.
+
+ - The business automation platform. Build and evolve shared integrations, knowledge access, agent orchestration, and employee-facing tools. Make successful automations reusable across teams while supporting each function's distinct processes and requirements.
+
+ - Automation from start to finish. Connect intake, context gathering, execution, approvals, updates to business systems, and follow-through. Deliver workflows such as customer handoffs, account research, reporting, onboarding, and recruiting operations that reach a verifiable outcome.
+
+ - Domain-specific judgment. Learn what a good result means in each department. Translate business rules, terminology, data dependencies, and edge cases into workflow logic and evaluations, with clear human review where judgment or authorization is needed.
+
+ - The right tools for the job. Continuously evaluate frontier models, agent frameworks, automation platforms, and SaaS capabilities. Combine the best available tools with custom engineering, and evolve the stack as capabilities improve.
+
+ - Production quality and ownership. Own architecture, APIs, data models, prompts, evaluations, deployment, and ongoing maintenance. Build in appropriate access controls, auditability, monitoring, retries, and recovery so employees can trust the systems they use.
+
+ - Adoption and measurable results. Pilot with teams, train users, document workflows, and improve from feedback. Help colleagues use shared tools and templates to improve their own work. Track adoption, hours saved, cycle time, error rates, output quality, and operating cost; use those results to decide what to expand next.
+
+
+WHAT WE'RE LOOKING FOR
+
+ - 3+ years of software engineering experience at SWE II / Senior level, with production systems you built and owned. You can explain your design decisions, tradeoffs, and results.
+
+ - Strong applied AI/LLM engineering: experience with tool use, context and retrieval, prompt design, evaluations, and agentic workflows, plus judgment about where AI and conventional automation each add value.
+
+ - Proficiency in TypeScript and/or Python, with the ability to build the integrations, services, and interfaces employees need to use your work.
+
+ - Experience automating real workflows end-to-end across APIs, SaaS tools, and business systems, including exceptions, failures, and human handoffs.
+
+ - The ability to learn unfamiliar business domains quickly, ask precise questions, and turn ambiguous needs into useful software. You work comfortably with both technical and nontechnical teams.
+
+ - Product judgment and ownership: you prioritize valuable problems, ship focused solutions, and stay accountable for adoption, reliability, and measurable improvement.
+
+ - Daily fluency with frontier AI tools in your own work, with concrete examples of how they improve your productivity.
+
+ - Degree in Computer Science or a related field from a top-tier program; strong engineering fundamentals.
+
+ - Self-directed and decisive: you identify problems before they're assigned, propose solutions before they're requested, and close loops without reminders.
+
+ - Based in San Francisco and committed to working in the office five days a week with the founders and team.
+
+
+BONUS POINTS
+
+ - Built internal platforms or tools that employees across multiple functions adopted and relied on.
+
+ - Delivered AI automation with measurable improvements in employee productivity, operating cost, or turnaround time.
+
+ - Integrated systems such as CRM, customer support, finance, HR, recruiting, or internal knowledge platforms.
+
+ - Experience building reusable agent capabilities, durable workflows, or evaluation systems for business processes.
+
+ - Experience as an early engineer at a startup, taking products from initial discovery through sustained production use.
+
+
+COMPENSATION
+
+The annual base salary range for this San Francisco role is $220,000–$260,000, plus equity and the benefits below. Base salary will reflect the role's level and the candidate's relevant experience, skills, and demonstrated ability to build and own production systems.
+
+
+BENEFITS
+
+🩺 100% paid health, dental & vision care
+💰 401(k) & financial wellness perks
+🍜 Daily meals on us
+🚇  [...]
+
+---
+
+## 6. [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst - Alternatives
 - Link: https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Financial-Reporting-Analyst---Alternatives_73064
 - Location: Boston ; Boston (United States of America)
 - Posted: Nov 26 (board gives the date only)
@@ -114,7 +218,7 @@ At BBH, Partnership is more than a form of ownership—it’s our approach to bu
 
 ---
 
-## 6. [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst - Alternatives
+## 7. [MAYBE] Brown Brothers Harriman | Financial Reporting Analyst - Alternatives
 - Link: https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Financial-Reporting-Analyst---Alternatives_73514
 - Location: Boston ; Boston (United States of America)
 - Posted: Nov 27 (board gives the date only)
@@ -129,7 +233,7 @@ At BBH, Partnership is more than a form of ownership—it’s our approach to bu
 
 ---
 
-## 7. [MAYBE] Charles Schwab | Data Engineer
+## 8. [MAYBE] Charles Schwab | Data Engineer
 - Link: https://career-schwab.icims.com/jobs/132097/data-engineer/job
 - Location: Austin, TX, US ; Southlake, TX, US
 - Posted: new since the previous sweep (board shows no date)
